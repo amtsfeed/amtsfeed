@@ -5,10 +5,11 @@ Quelle: https://www.friedland-nl.de
 
 ## Quellen
 
-| Typ    | URL                                                           |
-|--------|---------------------------------------------------------------|
-| Events | https://www.friedland-nl.de/veranstaltungen/index.php         |
-| News   | https://www.friedland-nl.de/news/index.php?rubrik=15          |
+| Typ       | URL                                                           |
+|-----------|---------------------------------------------------------------|
+| Events    | https://www.friedland-nl.de/veranstaltungen/index.php         |
+| News      | https://www.friedland-nl.de/news/index.php?rubrik=15          |
+| Amtsblatt | https://www.friedland-nl.de/amtsblatt/index.php               |
 
 ## Beispiele (Stand Einrichtung 2026-05-05)
 
@@ -32,10 +33,17 @@ Quelle: https://www.friedland-nl.de
 - News-Rubrik: 15 (nicht 1 wie bei anderen Orten)
 - Metadaten-Check: Detail-Page hat `<time datetime="YYYY-MM-DD">` (kein OG, kein JSON-LD-Datum) — stimmt mit Listenseite überein, kein Detail-Fetch nötig
 
+## Amtsblatt
+
+- Listing URL: `https://www.friedland-nl.de/amtsblatt/index.php` (PortUNA)
+- Muster: `<td>Nr. NN/YYYY</td> <td>DD.&#8203;MM.&#8203;YYYY</td>`
+- PDFs hinter POST/CSRF-Hash → Listing-URL als `url` verwendet
+
 ## Validierung
 
 Das Scraping funktioniert noch, wenn:
 1. `pnpm tsx index.ts` ohne Fehler durchläuft und `events: N Einträge` ausgibt (N > 30)
-2. Das Beispiel-Event (ID `2888788`) in `events.json` vorhanden ist mit `startDate` enthält `T11:00`
-3. Die Beispiel-News (ID `1167151`) in `news.json` vorhanden ist mit `publishedAt: 2025-12-02`
-4. Falls Events 0: `event-field`-Class wurde möglicherweise umbenannt
+2. `amtsblatt: N Einträge` ausgibt (N ≥ 5)
+3. Das Beispiel-Event (ID `2888788`) in `events.json` vorhanden ist mit `startDate` enthält `T11:00`
+4. Die Beispiel-News (ID `1167151`) in `news.json` vorhanden ist mit `publishedAt: 2025-12-02`
+5. Falls Events 0: `event-field`-Class wurde möglicherweise umbenannt

@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, AmtsblattFile, Event, NewsItem, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.eberswalde.de";
 const EVENTS_URL = `${BASE_URL}/termine`;
 const NEWS_URL = `${BASE_URL}/aktuelles`;
+const AMTSBLATT_URL = `${BASE_URL}/publikationen`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -124,6 +125,39 @@ function extractNews(html: string): NewsItem[] {
   });
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// URL: https://www.eberswalde.de/publikationen
+// Links: href="https://www.eberswalde.de/publications/Amtsblatt/YYYY_MM_Amtsblatt-...pdf"
+// A _korr suffix variant may appear; treat as the canonical entry for that month (same ID).
+
+function extractAmtsblatt(html: string): AmtsblattItem[] {
+  const items = new Map<string, AmtsblattItem>();
+  const now = new Date().toISOString();
+
+  const linkRe = /href="(https:\/\/www\.eberswalde\.de\/publications\/Amtsblatt\/(\d{4})_(\d{2})_Amtsblatt[^"]*\.pdf)"/g;
+  let m: RegExpExecArray | null;
+  while ((m = linkRe.exec(html)) !== null) {
+    const url = m[1]!;
+    const year = m[2]!;
+    const month = m[3]!;
+
+    const id = `eberswalde-amtsblatt-${year}-${month}`;
+    const publishedAt = `${year}-${month}-01T00:00:00.000Z`;
+    const title = `Amtsblatt Nr. ${month}/${year}`;
+
+    // Overwrite existing entry (handles _korr variants as updated canonical URL)
+    items.set(id, {
+      id,
+      title,
+      url,
+      publishedAt,
+      fetchedAt: items.get(id)?.fetchedAt ?? now,
+    });
+  }
+
+  return [...items.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -148,6 +182,12 @@ function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
   });
 }
 
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((a) => [a.id, a]));
+  for (const a of incoming) byId.set(a.id, { ...a, fetchedAt: byId.get(a.id)?.fetchedAt ?? a.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function loadJson<T>(path: string, fallback: T): T {
   if (existsSync(path)) return JSON.parse(readFileSync(path, "utf-8")) as T;
   return fallback;
@@ -156,26 +196,32 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/termine", "/aktuelles"]);
+assertAllowed(robots, ["/termine", "/aktuelles", "/publikationen"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, newsHtml] = await Promise.all([
+const [eventsHtml, newsHtml, amtsblattHtml] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
+  fetch(AMTSBLATT_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${AMTSBLATT_URL}`); return r.text(); }),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
+const amtsblattPath = join(DIR, "amtsblatt.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 
-console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
-console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`news:       ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

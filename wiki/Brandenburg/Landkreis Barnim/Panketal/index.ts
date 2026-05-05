@@ -2,11 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://panketal.de";
 const EVENTS_URL = `${BASE_URL}/freizeit/veranstaltungen.html`;
+const AMTSBLATT_URL = `${BASE_URL}/rathaus/amtsblatt.html`;
+const AMTSBLATT_FEED_URL = `${BASE_URL}/rathaus/amtsblatt.feed?type=rss`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -84,6 +86,60 @@ function extractEvents(html: string): Event[] {
   return events;
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// Joomla RSS feed at /rathaus/amtsblatt.feed?type=rss
+// Each <item> covers one year: <title>Amtsblatt YYYY</title>
+// CDATA <description> contains <li><a href="PDF_URL">Amtsblatt Nummer NN</a></li>
+// No publication dates per issue → use YYYY-01-01
+
+function extractAmtsblatt(rss: string): AmtsblattItem[] {
+  const items = new Map<string, AmtsblattItem>();
+  const now = new Date().toISOString();
+
+  // Split into RSS <item> blocks and find year-based ones
+  const blocks = rss.split(/<item>/).filter((b) => b.includes("<title>Amtsblatt 20"));
+
+  for (const block of blocks) {
+    const yearMatch = block.match(/<title>Amtsblatt (\d{4})<\/title>/);
+    if (!yearMatch) continue;
+    const year = yearMatch[1]!;
+
+    // Extract CDATA content
+    const cdataMatch = block.match(/<!\[CDATA\[([\s\S]*?)\]\]>/);
+    if (!cdataMatch) continue;
+    const cdata = cdataMatch[1]!;
+
+    // Extract PDF links with their list-item label
+    const linkRx = /href="(https?:\/\/panketal\.de\/[^"]+\.pdf)"[^>]*>([^<]*)<\/a>/gi;
+    let m: RegExpExecArray | null;
+    while ((m = linkRx.exec(cdata)) !== null) {
+      const url = m[1]!;
+      const label = m[2]!.trim();
+      const numMatch = label.match(/Nummer\s+(\d+)/i);
+      if (!numMatch) continue;
+      const num = numMatch[1]!.padStart(2, "0");
+      const id = `panketal-amtsblatt-${year}-${num}`;
+      if (!items.has(id)) {
+        items.set(id, {
+          id,
+          title: `Amtsblatt Nr. ${num}/${year}`,
+          url,
+          publishedAt: `${year}-01-01T00:00:00.000Z`,
+          fetchedAt: now,
+        });
+      }
+    }
+  }
+
+  return [...items.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -102,28 +158,33 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/freizeit/veranstaltungen.html"]);
+assertAllowed(robots, ["/freizeit/veranstaltungen.html", "/rathaus/amtsblatt.html"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const eventsHtml = await fetch(EVENTS_URL, { headers }).then((r) => {
-  if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`);
-  return r.text();
-});
+const [eventsHtml, amtsblattRss] = await Promise.all([
+  fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
+  fetch(AMTSBLATT_FEED_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
+const amtsblattPath = join(DIR, "amtsblatt.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattRss));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 
 // Write empty news.json if it doesn't exist
 if (!existsSync(newsPath)) {
   writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: [] } satisfies NewsFile, null, 2));
 }
 
-console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
-console.log(`news:   0 Einträge (keine Nachrichten) → ${newsPath}`);
+console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`news:       0 Einträge (keine Nachrichten) → ${newsPath}`);
+console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

@@ -2,11 +2,12 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem } from "../../../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.seelow.de";
 const NEWS_URL = `${BASE_URL}/news/1481`;
+const AMTSBLATT_URL = `${BASE_URL}/amtsblatt/index.php`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -169,6 +170,37 @@ function extractNews(html: string): NewsItem[] {
   return items;
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+
+function extractAmtsblatt(html: string, listingUrl: string, idPrefix: string): AmtsblattItem[] {
+  const items: AmtsblattItem[] = [];
+  const now = new Date().toISOString();
+  const rx = /<td>Nr\.\s*(\d+)\/(\d{4})<\/td>\s*<td>([\d.&#;]+)<\/td>/g;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const num = m[1]!.padStart(2, "0");
+    const year = m[2]!;
+    const dateStr = m[3]!.replace(/&#\d+;/g, "");
+    const dateParts = dateStr.match(/^(\d{2})\.(\d{2})\.(\d{4})$/);
+    if (!dateParts) continue;
+    const publishedAt = `${dateParts[3]}-${dateParts[2]}-${dateParts[1]}T00:00:00.000Z`;
+    items.push({
+      id: `${idPrefix}-amtsblatt-${year}-${num}`,
+      title: `Amtsblatt Nr. ${num}/${year}`,
+      url: listingUrl,
+      publishedAt,
+      fetchedAt: now,
+    });
+  }
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -200,25 +232,31 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/veranstaltungen/", "/news/"]);
+assertAllowed(robots, ["/veranstaltungen/", "/news/", "/amtsblatt/index.php"]);
 
-const [incomingEvents, newsHtml] = await Promise.all([
+const [incomingEvents, newsHtml, amtsblattHtml] = await Promise.all([
   fetchAllEvents(),
   fetch(NEWS_URL, { headers: { "User-Agent": AMTSFEED_UA } }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
+  fetch(AMTSBLATT_URL, { headers: { "User-Agent": AMTSFEED_UA } }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${AMTSBLATT_URL}`); return r.text(); }),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
+const amtsblattPath = join(DIR, "amtsblatt.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, incomingEvents);
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml, AMTSBLATT_URL, "seelow"));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 
-console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
-console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`news:       ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, AmtsblattFile, Event, NewsItem, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.stadt-muencheberg.de";
 const EVENTS_URL = `${BASE_URL}/kultur-tourismus/events`;
 const NEWS_URL = `${BASE_URL}/startseite`;
+const AMTSBLATT_URL = `${BASE_URL}/buerger-stadt/stadtverwaltung/muencheberger-anzeiger-und-nachrichtenblatt`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -138,7 +139,60 @@ function extractNews(html: string): NewsItem[] {
   return news;
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// TYPO3 fileadmin. "Müncheberger Anzeiger" = offizielles Amtsblatt.
+// PDF filenames: Muencheberger_Anzeiger_MMMM_YYYY.pdf (no issue number)
+//                Muencheberger_Anzeiger_MMMM_YYYY_NN.pdf
+//                Muencheberger_Anzeiger_MMMM_Nr_N_YYYY.pdf
+// Date = first day of the month (actual date not in HTML).
+
+const FILENAME_MONTHS: Record<string, string> = {
+  januar: "01", februar: "02", maerz: "03", april: "04",
+  mai: "05", juni: "06", juli: "07", august: "08",
+  september: "09", oktober: "10", november: "11", dezember: "12",
+};
+
+function extractAmtsblatt(html: string): AmtsblattItem[] {
+  const items = new Map<string, AmtsblattItem>();
+  const now = new Date().toISOString();
+
+  const rx = /href="(\/fileadmin\/[^"]*Muencheberger_Anzeiger_([^"]+\.pdf))"/gi;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const path = m[1]!;
+    const namePart = m[2]!.replace(/\.pdf$/i, "").toLowerCase();
+    // Extract month and year from filename parts
+    const parts = namePart.split("_").filter(Boolean);
+    let monthNum: string | undefined;
+    let year: string | undefined;
+    for (const part of parts) {
+      if (FILENAME_MONTHS[part]) monthNum = FILENAME_MONTHS[part];
+      if (/^\d{4}$/.test(part)) year = part;
+    }
+    if (!monthNum || !year) continue;
+    const id = `muencheberg-amtsblatt-${year}-${monthNum}`;
+    // Keep the latest URL per month (handles _korr variants)
+    if (!items.has(id)) {
+      items.set(id, {
+        id,
+        title: `Müncheberger Anzeiger ${monthNum}/${year}`,
+        url: `${BASE_URL}${path}`,
+        publishedAt: `${year}-${monthNum}-01T00:00:00.000Z`,
+        fetchedAt: now,
+      });
+    }
+  }
+
+  return [...items.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
   const byId = new Map(existing.map((e) => [e.id, e]));
@@ -170,26 +224,32 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/kultur-tourismus/events", "/startseite"]);
+assertAllowed(robots, ["/kultur-tourismus/events", "/startseite", "/buerger-stadt/stadtverwaltung/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, newsHtml] = await Promise.all([
+const [eventsHtml, newsHtml, amtsblattHtml] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
+  fetch(AMTSBLATT_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${AMTSBLATT_URL}`); return r.text(); }),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
+const amtsblattPath = join(DIR, "amtsblatt.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 
-console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
-console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`news:       ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

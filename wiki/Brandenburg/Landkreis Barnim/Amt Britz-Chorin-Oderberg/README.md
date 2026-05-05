@@ -5,10 +5,11 @@ Quelle: https://britz-chorin-oderberg.de
 
 ## Quellen
 
-| Typ    | URL                                              |
-|--------|--------------------------------------------------|
-| Events | https://britz-chorin-oderberg.de/events          |
-| News   | https://britz-chorin-oderberg.de/thema/news      |
+| Typ        | URL                                                          |
+|------------|--------------------------------------------------------------|
+| Events     | https://britz-chorin-oderberg.de/events                     |
+| News       | https://britz-chorin-oderberg.de/thema/news                 |
+| Amtsblatt  | https://britz-chorin-oderberg.de/thema/amtliches/amtsblatt  |
 
 ## Beispiele (Stand Einrichtung 2026-05-05)
 
@@ -33,6 +34,16 @@ Quelle: https://britz-chorin-oderberg.de
 - RSS-Feed `/thema/news/feed` leitet per LiteSpeed-Cache auf die HTML-Seite um → direkte HTML-Verarbeitung
 - News-URL-Muster: `https://britz-chorin-oderberg.de/news/{slug}`
 - Event-URL-Muster: `https://britz-chorin-oderberg.de/events#event-{ID}`
+
+**Amtsblatt:**
+> Nr. 04/2026 – 2026-04-24  
+> https://britz-chorin-oderberg.de/amtsblatt/2026-04-amtsblatt-bco.pdf
+
+## Datenqualität (Amtsblatt)
+
+- **Amtsblatt:** 218 Einträge (komplettes Archiv), direkte PDF-Links, ISO-Datum aus `datetime`-Attribut.
+- PDF-URL-Muster: `https://britz-chorin-oderberg.de/amtsblatt/YYYY-NN-amtsblatt-bco.pdf`
+- Erscheint am vorletzten Freitag eines Monats.
 
 ## Validierung
 

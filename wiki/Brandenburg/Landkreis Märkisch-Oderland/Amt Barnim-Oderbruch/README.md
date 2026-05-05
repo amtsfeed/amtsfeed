@@ -5,10 +5,11 @@ Quelle: https://www.barnim-oderbruch.de
 
 ## Quellen
 
-| Typ    | URL                                                   |
-|--------|-------------------------------------------------------|
-| Events | https://www.barnim-oderbruch.de/aktuelles/veranstaltungen |
-| News   | https://www.barnim-oderbruch.de/aktuelles              |
+| Typ       | URL                                                                     |
+|-----------|-------------------------------------------------------------------------|
+| Events    | https://www.barnim-oderbruch.de/aktuelles/veranstaltungen               |
+| News      | https://www.barnim-oderbruch.de/aktuelles                               |
+| Amtsblatt | https://www.barnim-oderbruch.de/aktuelles/bekanntmachungen/amtsblaetter |
 
 ## Beispiele (Stand Einrichtung 2026-05-05)
 
@@ -38,9 +39,18 @@ Quelle: https://www.barnim-oderbruch.de
 - ID: Letztes Slug-Segment der URL (kein numerischer ID)
 - Events ohne Datum bekommen `startDate = fetchedAt` (kein Datum im TYPO3-Listing)
 
+## Amtsblatt
+
+- Listing URLs: `/aktuelles/bekanntmachungen/amtsblaetter/YYYY` (aktuelles und Vorjahr)
+- PDFs direkt verlinkt unter `/fileadmin/Daten/Aktuelles/Bekanntmachungen/Amtsblätter/Amtsblätter_YYYY/`
+- Dateinamen gemischt: numerisch (`Amtsblatt_04-2025.pdf`) und Monatsname (`Amtsblatt_Barnim-Oderbruch_Januar_2025.pdf`)
+- Sonderausgaben werden übersprungen (Dateiname enthält „Sonder")
+- Kein Datum im HTML → `publishedAt = YYYY-MM-01`
+
 ## Validierung
 
 Das Scraping funktioniert noch, wenn:
 1. `pnpm tsx index.ts` ohne Fehler läuft und `events: N Einträge` ausgibt (N ≥ 1)
 2. `news: N Einträge` ausgibt (N ≥ 3)
-3. Falls N = 0: TYPO3-Seite auf Umstrukturierung prüfen (URL-Änderungen, andere Klassen)
+3. `amtsblatt: N Einträge` ausgibt (N ≥ 5)
+4. Falls N = 0: TYPO3-Seite auf Umstrukturierung prüfen (URL-Änderungen, andere Klassen)

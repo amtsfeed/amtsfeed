@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, AmtsblattFile, Event, NewsItem, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.bernau.de";
 const EVENTS_URL = `${BASE_URL}/de/rathaus-service/aktuelles/veranstaltungen.html`;
 const NEWS_URL = `${BASE_URL}/de/rathaus-service/aktuelles/stadtnachrichten.html`;
+const AMTSBLATT_BASE_URL = `${BASE_URL}/de/rathaus-service/aktuelles/amtsblatt.html`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -161,6 +162,42 @@ function extractNews(html: string): NewsItem[] {
   });
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+
+function extractAmtsblatt(html: string): AmtsblattItem[] {
+  const items: AmtsblattItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  // href comes before title in the HTML: <a href="URL" title="Amtsblatt N[/YYYY] vom D. Month [YYYY] runterladen" ...>
+  // Two observed formats:
+  //   "Amtsblatt 1 vom 26. Januar 2026 runterladen"       (num only, year at end)
+  //   "Amtsblatt 2/2025 vom 23. Februar 2025 runterladen" (num/year, year at end)
+  //   "Amtsblatt 4/2025 vom 28. April runterladen"        (num/year, no year at end)
+  const re = /href="([^"]+)"[^>]*title="Amtsblatt (\d+)(?:\/(\d{4}))? vom (\d+)\. ([^\s"]+)(?:\s+(\d{4}))? runterladen"/g;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(html)) !== null) {
+    const [, url, num, yearFromNum, day, monthName, yearFromDate] = m as unknown as [string, string, string, string | undefined, string, string, string | undefined];
+    const year = yearFromDate ?? yearFromNum;
+    if (!year) continue;
+    const month = GERMAN_MONTHS[monthName];
+    if (!month) continue;
+    const publishedAt = `${year}-${month}-${day.padStart(2, "0")}T00:00:00.000Z`;
+    const id = `bernau-amtsblatt-${year}-${num.padStart(2, "0")}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+    items.push({
+      id,
+      title: `Amtsblatt Nr. ${num}/${year}`,
+      url: url.startsWith("http") ? url : `${BASE_URL}${url}`,
+      publishedAt,
+      fetchedAt: now,
+    });
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -185,6 +222,12 @@ function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
   });
 }
 
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((a) => [a.id, a]));
+  for (const a of incoming) byId.set(a.id, { ...a, fetchedAt: byId.get(a.id)?.fetchedAt ?? a.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function loadJson<T>(path: string, fallback: T): T {
   if (existsSync(path)) return JSON.parse(readFileSync(path, "utf-8")) as T;
   return fallback;
@@ -193,26 +236,49 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/de/rathaus-service/aktuelles/veranstaltungen.html", "/de/rathaus-service/aktuelles/stadtnachrichten.html"]);
+assertAllowed(robots, [
+  "/de/rathaus-service/aktuelles/veranstaltungen.html",
+  "/de/rathaus-service/aktuelles/stadtnachrichten.html",
+  "/de/rathaus-service/aktuelles/amtsblatt.html",
+]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, newsHtml] = await Promise.all([
+const [eventsHtml, newsHtml, amtsblattMainHtml] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
+  fetch(AMTSBLATT_BASE_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${AMTSBLATT_BASE_URL}`); return r.text(); }),
 ]);
+
+// Extract folder IDs from the navigation links (e.g. ?folder=672), take 2 most recent
+const folderMatches = [...amtsblattMainHtml.matchAll(/href="[^"]*amtsblatt\.html\?folder=(\d+)"/g)];
+const folderIds = [...new Set(folderMatches.map((m) => m[1]!))].slice(0, 2);
+
+const folderHtmls = await Promise.all(
+  folderIds.map((id) => {
+    const url = `${AMTSBLATT_BASE_URL}?folder=${id}`;
+    return fetch(url, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${url}`); return r.text(); });
+  })
+);
+
+const allAmtsblattItems = [...folderHtmls, amtsblattMainHtml].flatMap(extractAmtsblatt);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
+const amtsblattPath = join(DIR, "amtsblatt.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, allAmtsblattItems);
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 
-console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
-console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`events:    ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

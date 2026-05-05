@@ -2,11 +2,12 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.stadt-strausberg.de";
 const EVENTS_BASE = `${BASE_URL}/veranstaltungen`;
+const AMTSBLATT_URL = `${BASE_URL}/neue-strausberger-zeitung/`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const DE_MONTHS = [
@@ -161,6 +162,80 @@ async function fetchRecentNews(hdrs: Record<string, string>): Promise<NewsItem[]
   return resolved.filter((n): n is NewsItem => n !== null);
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// WordPress NSZ page — only Amtsblatt PDFs (not NSZ Zeitung PDFs)
+// Year from wp-content path: /wp-content/uploads/YYYY/MM/
+// Issue number from filename — messy patterns, multiple strategies:
+//   YYYY-NN-Amtsblatt.pdf, YYYY_NN_Amtsblatt.pdf, Amtsblatt_NN-YYYY.pdf,
+//   Amtsblatt_Nr3.pdf, Amtsblatt-NN_2025.pdf, etc.
+// publishedAt = first of upload month (best available approximation)
+
+function extractAmtsblatt(html: string): AmtsblattItem[] {
+  const items = new Map<string, AmtsblattItem>();
+  const now = new Date().toISOString();
+  const rx = /href="(https:\/\/www\.stadt-strausberg\.de\/wp-content\/uploads\/(\d{4})\/(\d{2})\/([^"]*Amtsblatt[^"]*\.pdf))"/gi;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const url = m[1]!;
+    const uploadYear = m[2]!;
+    const uploadMonth = m[3]!;
+    const filename = m[4]!.toLowerCase().replace(/\.pdf$/, "");
+
+    // Skip NSZ-only files (they contain "nsz" but not "amtsblatt" — but we already filter to Amtsblatt)
+    // Skip Sonderausgabe
+    if (filename.includes("sonder")) continue;
+
+    let issueNum: string | undefined;
+    let issueYear: string | undefined;
+
+    // YYYY-NN-Amtsblatt or YYYY_NN_Amtsblatt
+    const y1 = filename.match(/^(\d{4})[-_]0*(\d{1,2})[-_]amtsblatt/);
+    if (y1) { issueYear = y1[1]!; issueNum = y1[2]!.padStart(2, "0"); }
+
+    // Amtsblatt_NN-YYYY or Amtsblatt-NN-YYYY or Amtsblatt_NN_YYYY
+    if (!issueNum) {
+      const y2 = filename.match(/amtsblatt[-_]0*(\d{1,2})[-_](\d{4})/);
+      if (y2) { issueNum = y2[1]!.padStart(2, "0"); issueYear = y2[2]!; }
+    }
+
+    // Amtsblatt_0N_YYYY_... or _NN_Amtsblatt_... (number before/after amtsblatt)
+    if (!issueNum) {
+      const y3 = filename.match(/[-_]0*(\d{1,2})[-_](?:amtsblatt|srb)|amtsblatt[-_]0*(\d{1,2})(?:[-_]|$)/);
+      if (y3) {
+        issueNum = (y3[1] ?? y3[2])!.padStart(2, "0");
+        issueYear = uploadYear;
+      }
+    }
+
+    // Explicit Nr: Nr3, Nr.3, Nr_3
+    if (!issueNum) {
+      const y4 = filename.match(/nr\.?\s*0*(\d{1,2})/i);
+      if (y4) { issueNum = y4[1]!.padStart(2, "0"); issueYear = uploadYear; }
+    }
+
+    if (!issueNum) continue;
+    if (!issueYear) issueYear = uploadYear;
+
+    const id = `strausberg-amtsblatt-${issueYear}-${issueNum}`;
+    if (!items.has(id)) {
+      items.set(id, {
+        id,
+        title: `Amtsblatt Nr. ${issueNum}/${issueYear}`,
+        url,
+        publishedAt: `${uploadYear}-${uploadMonth}-01T00:00:00.000Z`,
+        fetchedAt: now,
+      });
+    }
+  }
+  return [...items.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -193,7 +268,7 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/veranstaltungen/", "/aktuelles/", "/rb_news-sitemap.xml"]);
+assertAllowed(robots, ["/veranstaltungen/", "/aktuelles/", "/rb_news-sitemap.xml", "/neue-strausberger-zeitung/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
 
@@ -209,8 +284,9 @@ for (let i = 0; i < 3; i++) {
   });
 }
 
-const [incomingNews, ...monthResults] = await Promise.all([
+const [incomingNews, amtsblattHtml, ...monthResults] = await Promise.all([
   fetchRecentNews(headers),
+  fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
   ...monthFetches.map((f) => f.promise),
 ]);
 
@@ -224,16 +300,21 @@ for (let i = 0; i < monthFetches.length; i++) {
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
+const amtsblattPath = join(DIR, "amtsblatt.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, [...allIncomingEvents.values()]);
 const mergedNews = mergeNews(existingNews.items, incomingNews);
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml ?? ""));
 
 const nowIso = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: nowIso, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: nowIso, items: mergedNews }, null, 2));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: nowIso, items: mergedAmtsblatt }, null, 2));
 
-console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
-console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`news:       ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

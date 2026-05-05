@@ -2,11 +2,12 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.amt-biesenthal-barnim.de";
 const NEWS_URL = `${BASE_URL}/news`;
+const AMTSBLATT_BASE = `${BASE_URL}/amtsbl%C3%A4tter-`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -70,6 +71,45 @@ function extractNews(html: string): NewsItem[] {
   return items;
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// Contao CMS — per-year pages at /amtsblätter-YYYY
+// PDF links: href="amtsblätter-YYYY?file=files/dokumente/pdf-datei-amtsblatt/YYYY/Amtsblatt...pdf"
+// Direct PDF URL: BASE_URL + "/" + file path (no auth required)
+// Filename patterns: "Amtsblatt NN-YYYY.pdf", "Amtsblatt NN - YYYY.pdf", "Amtsblatt Biesenthal-Barnim_N-YYYY_web.pdf"
+
+function extractAmtsblatt(html: string, year: number): AmtsblattItem[] {
+  const items: AmtsblattItem[] = [];
+  const now = new Date().toISOString();
+  const rx = /\?file=(files\/dokumente\/pdf-datei-amtsblatt\/\d{4}\/[^"]+\.pdf)/gi;
+  const seen = new Set<string>();
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const filePath = decodeURIComponent(m[1]!);
+    if (seen.has(filePath)) continue;
+    seen.add(filePath);
+    const numMatch = filePath.match(/(\d+)\s*[-–]\s*(\d{4})(?:[_\s.])/);
+    if (!numMatch) continue;
+    const num = numMatch[1]!.padStart(2, "0");
+    const fileYear = numMatch[2]!;
+    if (String(year) !== fileYear) continue;
+    const id = `biesenthal-barnim-amtsblatt-${fileYear}-${num}`;
+    items.push({
+      id,
+      title: `Amtsblatt Nr. ${num}/${fileYear}`,
+      url: `${BASE_URL}/${filePath}`,
+      publishedAt: `${fileYear}-${num}-01T00:00:00.000Z`,
+      fetchedAt: now,
+    });
+  }
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
@@ -96,19 +136,36 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/news"]);
+assertAllowed(robots, ["/news", "/amtsbl"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const newsHtml = await fetch(NEWS_URL, { headers }).then((r) => {
-  if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`);
-  return r.text();
-});
+
+const thisYear = new Date().getFullYear();
+const prevYear = thisYear - 1;
+
+const [newsHtml, amtsblattHtmlCurrent, amtsblattHtmlPrev] = await Promise.all([
+  fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
+  fetch(`${AMTSBLATT_BASE}${thisYear}`, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(`${AMTSBLATT_BASE}${prevYear}`, { headers }).then((r) => r.ok ? r.text() : ""),
+]);
 
 const newsPath = join(DIR, "news.json");
+const amtsblattPath = join(DIR, "amtsblatt.json");
+
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+
+const incomingAmtsblatt = [
+  ...extractAmtsblatt(amtsblattHtmlCurrent, thisYear),
+  ...extractAmtsblatt(amtsblattHtmlPrev, prevYear),
+];
+
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, incomingAmtsblatt);
 
 const now = new Date().toISOString();
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 
-console.log(`news: ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`news:       ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

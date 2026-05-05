@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.altlandsberg.de";
 const EVENTS_PAGE_URL = `${BASE_URL}/leben-wohnen/kultur-freizeit/veranstaltungen/`;
 const NEWS_URL = `${BASE_URL}/buergerservice-verwaltung/weitere-themen/stadtnachrichten/`;
+const AMTSBLATT_URL = `${BASE_URL}/buergerservice-verwaltung/rathaus/amtsblatt-und-stadtmagazin/`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -156,6 +157,43 @@ function extractNews(html: string): NewsItem[] {
   return items;
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// TYPO3 fileadmin — /fileadmin/user_upload/Dokumente/Amtsblatt/YYYY/YYYY_Amtsblatt_Altlandsberg_NN.pdf
+// Link text: "Amtsblatt Nr. N vom DD.MM.YYYY"
+
+function extractAmtsblatt(html: string): AmtsblattItem[] {
+  const items: AmtsblattItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+  const rx = /href="(\/fileadmin\/user_upload\/Dokumente\/Amtsblatt\/(\d{4})\/[^"]*_(\d{2})\.pdf)"[^>]*>[\s\S]*?Amtsblatt Nr\.\s*\d+\s+vom\s+(\d{2})\.(\d{2})\.(\d{4})/g;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const path = m[1]!;
+    const fileYear = m[2]!;
+    const num = m[3]!;
+    const day = m[4]!;
+    const month = m[5]!;
+    const year = m[6]!;
+    const id = `altlandsberg-amtsblatt-${fileYear}-${num}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+    items.push({
+      id,
+      title: `Amtsblatt Nr. ${num}/${year}`,
+      url: `${BASE_URL}${path}`,
+      publishedAt: `${year}-${month}-${day}T00:00:00.000Z`,
+      fetchedAt: now,
+    });
+  }
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -192,26 +230,36 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/leben-wohnen/kultur-freizeit/veranstaltungen/", "/buergerservice-verwaltung/weitere-themen/stadtnachrichten/"]);
+assertAllowed(robots, [
+  "/leben-wohnen/kultur-freizeit/veranstaltungen/",
+  "/buergerservice-verwaltung/weitere-themen/stadtnachrichten/",
+  "/buergerservice-verwaltung/rathaus/",
+]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [incomingEvents, newsHtml] = await Promise.all([
+const [incomingEvents, newsHtml, amtsblattHtml] = await Promise.all([
   fetchAllEvents(headers),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
+  fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
+const amtsblattPath = join(DIR, "amtsblatt.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, incomingEvents);
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 
-console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
-console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`news:       ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

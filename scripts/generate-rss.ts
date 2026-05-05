@@ -1,7 +1,7 @@
 #!/usr/bin/env tsx
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, resolve } from "node:path";
-import type { EventsFile, NewsFile, Event, NewsItem } from "./types.ts";
+import type { EventsFile, NewsFile, AmtsblattFile, Event, NewsItem, AmtsblattItem } from "./types.ts";
 
 const dir = resolve(process.argv[2] ?? ".");
 
@@ -38,6 +38,16 @@ function newsToItem(news: NewsItem): string {
     </item>`;
 }
 
+function amtsblattToItem(a: AmtsblattItem): string {
+  return `    <item>
+      <title>${escapeXml(a.title)}</title>
+      <link>${escapeXml(a.url)}</link>
+      <guid isPermaLink="false">${escapeXml(a.id)}</guid>
+      <pubDate>${new Date(a.publishedAt).toUTCString()}</pubDate>
+      <category>Amtsblatt</category>
+    </item>`;
+}
+
 function readJson<T>(path: string): T | null {
   if (!existsSync(path)) return null;
   return JSON.parse(readFileSync(path, "utf-8")) as T;
@@ -45,6 +55,7 @@ function readJson<T>(path: string): T | null {
 
 const eventsFile = readJson<EventsFile>(join(dir, "events.json"));
 const newsFile = readJson<NewsFile>(join(dir, "news.json"));
+const amtsblattFile = readJson<AmtsblattFile>(join(dir, "amtsblatt.json"));
 
 const allItems: string[] = [];
 
@@ -60,6 +71,13 @@ if (newsFile) {
     (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
   );
   allItems.push(...sorted.map(newsToItem));
+}
+
+if (amtsblattFile) {
+  const sorted = [...amtsblattFile.items].sort(
+    (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+  );
+  allItems.push(...sorted.map(amtsblattToItem));
 }
 
 const channelTitle = escapeXml(dir.split("/").at(-1) ?? "amtsfeed");

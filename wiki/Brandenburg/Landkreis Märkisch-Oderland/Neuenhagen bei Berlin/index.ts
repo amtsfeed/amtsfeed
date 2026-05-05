@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.neuenhagen-bei-berlin.de";
 const EVENTS_DISCOVERY_URL = `${BASE_URL}/startseite-de/freizeit-tourismus/veranstaltungen/`;
 const SITEMAP_URL = `${BASE_URL}/sitemap.xml`;
+const AMTSBLATT_URL = `${BASE_URL}/startseite-de/politik-verwaltung/rathaus/amtsblatt/`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -175,6 +176,67 @@ function slugToId(url: string): string {
   return url.replace(/^https:\/\/[^/]+\//, "").replace(/\/$/, "").replace(/\//g, "-");
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// ionas4 CMS — PDFs at /startseite-de/politik-verwaltung/rathaus/amtsblatt/
+// Filename patterns:
+//   digitales-amtsblatt-jg-31-NN-YYYY.pdf  → month = NN (numeric, 2026+)
+//   amtsblatt-MONTHNAME-YYYY-final.pdf      → month from name (2025)
+//   final-digitales-amtsblatt-NN-YYYY.pdf  → month = NN (2025)
+// ?cid=XXX is a stable Contao content ID — keep in URL
+
+const NEUENHAGEN_MONTH_NAMES: Record<string, string> = {
+  januar: "01", februar: "02", maerz: "03", april: "04",
+  mai: "05", juni: "06", juli: "07", august: "08",
+  september: "09", oktober: "10", november: "11", dezember: "12",
+};
+
+function extractAmtsblatt(html: string): AmtsblattItem[] {
+  const items = new Map<string, AmtsblattItem>();
+  const now = new Date().toISOString();
+  const rx = /href="(https:\/\/www\.neuenhagen-bei-berlin\.de\/startseite-de\/politik-verwaltung\/rathaus\/amtsblatt\/([^"?#]+\.pdf)[^"]*)"/gi;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const url = m[1]!;
+    const raw = m[2]!.toLowerCase().replace(/\.pdf$/, "");
+    let year: string | undefined;
+    let month: string | undefined;
+
+    // jg-NN-MM-YYYY (e.g. jg-31-04-2026)
+    const jgMatch = raw.match(/jg-\d+-(\d{2})-(\d{4})/);
+    if (jgMatch) { month = jgMatch[1]!; year = jgMatch[2]!; }
+
+    // NN-YYYY at end of numeric segment (e.g. 12-2025)
+    if (!month) {
+      const numMatch = raw.match(/(\d{2})-(\d{4})/);
+      if (numMatch) { month = numMatch[1]!; year = numMatch[2]!; }
+    }
+
+    // Month name in filename
+    if (!month) {
+      for (const [name, num] of Object.entries(NEUENHAGEN_MONTH_NAMES)) {
+        if (raw.includes(name)) {
+          month = num;
+          year = raw.match(/(\d{4})/)?.[1];
+          break;
+        }
+      }
+    }
+
+    if (!month || !year) continue;
+    const id = `neuenhagen-amtsblatt-${year}-${month}`;
+    if (!items.has(id)) {
+      items.set(id, { id, title: `Amtsblatt Nr. ${month}/${year}`, url, publishedAt: `${year}-${month}-01T00:00:00.000Z`, fetchedAt: now });
+    }
+  }
+  return [...items.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -211,6 +273,7 @@ const robots = await checkRobots(DIR, BASE_URL);
 assertAllowed(robots, [
   "/startseite-de/freizeit-tourismus/veranstaltungen/",
   "/startseite-de/aktuelles/",
+  "/startseite-de/politik-verwaltung/",
   "/sitemap.xml",
 ]);
 
@@ -225,8 +288,8 @@ const eventsLinkMatch = discoveryHtml.match(/href="(https:\/\/www\.neuenhagen-be
 if (!eventsLinkMatch) throw new Error("Could not find veranstaltungstermine link");
 const EVENTS_URL = eventsLinkMatch[1]!;
 
-// Fetch events page + sitemap in parallel
-const [eventsHtml, sitemapXml] = await Promise.all([
+// Fetch events page + sitemap + amtsblatt in parallel
+const [eventsHtml, sitemapXml, amtsblattHtml] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => {
     if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`);
     return r.text();
@@ -235,6 +298,7 @@ const [eventsHtml, sitemapXml] = await Promise.all([
     if (!r.ok) throw new Error(`HTTP ${r.status} ${SITEMAP_URL}`);
     return r.text();
   }),
+  fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 // Get recent news URLs from sitemap
@@ -256,15 +320,20 @@ await Promise.all(
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
+const amtsblattPath = join(DIR, "amtsblatt.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml, EVENTS_URL));
 const mergedNews = mergeNews(existingNews.items, newsItems);
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
 
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 
-console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
-console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`news:       ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

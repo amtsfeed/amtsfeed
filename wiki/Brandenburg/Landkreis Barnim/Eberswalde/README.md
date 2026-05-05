@@ -5,10 +5,11 @@ Quelle: https://www.eberswalde.de
 
 ## Quellen
 
-| Typ    | URL                                      |
-|--------|------------------------------------------|
-| Events | https://www.eberswalde.de/termine        |
-| News   | https://www.eberswalde.de/aktuelles      |
+| Typ        | URL                                           |
+|------------|-----------------------------------------------|
+| Events     | https://www.eberswalde.de/termine             |
+| News       | https://www.eberswalde.de/aktuelles           |
+| Amtsblatt  | https://www.eberswalde.de/publikationen       |
 
 ## Beispiele (Stand Einrichtung 2026-05-05)
 
@@ -32,6 +33,14 @@ Quelle: https://www.eberswalde.de
 - Events: `<article class="event">` je Event; Datum aus `<span class="startdate">Wochentag, DD.MM.YYYY</span>`; Zeit aus `<span class="starttime">HH:MM Uhr</span>`; Enddatum optional aus `<span class="enddate">`
 - News: `<article class="news-article news-article--list">`, Datum aus `<span class="date">Wochentag, DD.MM.YYYY</span>`; URL und Titel direkt im Block
 - Die Events- und News-Seite zeigt nur aktuelle/nächste Termine (kurzes Zeitfenster)
+
+## Amtsblatt
+
+- Listing URL: `https://www.eberswalde.de/publikationen`
+- PDF links match `href="https://www.eberswalde.de/publications/Amtsblatt/YYYY_MM_Amtsblatt[...].pdf"`.
+- Year and month are extracted from the filename; publishedAt is set to the first day of the month.
+- A `_korr` suffix variant (corrected issue) overwrites the regular entry for that month (same ID `eberswalde-amtsblatt-YYYY-MM`).
+- 19 entries found on initial scrape.
 
 ## Validierung
 

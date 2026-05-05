@@ -2,11 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, AmtsblattFile, Event, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.schorfheide.de";
+const AMTSBLATT_BASE_URL = "https://www.gemeinde-schorfheide.de";
 const EVENTS_URL = `${BASE_URL}/veranstaltungen.html`;
+const AMTSBLATT_URL = `${AMTSBLATT_BASE_URL}/startseite/aktuell/amtsblatt`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -84,6 +86,53 @@ function extractEvents(html: string): Event[] {
   return events;
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// URL: https://www.gemeinde-schorfheide.de/startseite/aktuell/amtsblatt
+// Also fetches prev year page: /startseite/aktuell/amtsblatt/amtsblatt-YYYY
+// Links: <a href="/fileadmin/...Amtsblatt...\.pdf">Amtsblatt März 2026, Nr. 03/2026 (20.03.2026)</a>
+
+function extractAmtsblatt(html: string): AmtsblattItem[] {
+  const items: AmtsblattItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const linkRe = /<a\s+href="(\/fileadmin\/[^"]*[Aa]mtsblatt[^"]*\.pdf)"[^>]*>([^<]+)<\/a>/g;
+  let m: RegExpExecArray | null;
+  while ((m = linkRe.exec(html)) !== null) {
+    const href = m[1]!;
+    const text = decodeHtmlEntities(m[2]!.trim());
+
+    // Extract Nr. NN/YYYY from link text
+    const nrMatch = text.match(/Nr\.\s*(\d{2})\/(\d{4})/);
+    if (!nrMatch) continue;
+    const num = nrMatch[1]!;
+    const year = nrMatch[2]!;
+
+    // Extract date from parentheses: (DD.MM.YYYY)
+    const dateMatch = text.match(/\((\d{2})\.(\d{2})\.(\d{4})\)/);
+    let publishedAt: string;
+    if (dateMatch) {
+      publishedAt = `${dateMatch[3]}-${dateMatch[2]}-${dateMatch[1]}T00:00:00.000Z`;
+    } else {
+      publishedAt = `${year}-${num}-01T00:00:00.000Z`;
+    }
+
+    const id = `schorfheide-amtsblatt-${year}-${num}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    items.push({
+      id,
+      title: text,
+      url: `${AMTSBLATT_BASE_URL}${href}`,
+      publishedAt,
+      fetchedAt: now,
+    });
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -92,6 +141,12 @@ function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
   return [...byId.values()].sort(
     (a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime()
   );
+}
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((a) => [a.id, a]));
+  for (const a of incoming) byId.set(a.id, { ...a, fetchedAt: byId.get(a.id)?.fetchedAt ?? a.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
 function loadJson<T>(path: string, fallback: T): T {
@@ -105,25 +160,42 @@ const robots = await checkRobots(DIR, BASE_URL);
 assertAllowed(robots, ["/veranstaltungen.html"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const eventsHtml = await fetch(EVENTS_URL, { headers }).then((r) => {
-  if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`);
-  return r.text();
-});
+
+// Fetch events + amtsblatt main page in parallel, then discover prev year amtsblatt page
+const [eventsHtml, amtsblattMainHtml] = await Promise.all([
+  fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
+  fetch(AMTSBLATT_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${AMTSBLATT_URL}`); return r.text(); }),
+]);
+
+// Find prev year amtsblatt page link
+const prevYear = new Date().getFullYear() - 1;
+const prevYearMatch = amtsblattMainHtml.match(new RegExp(`href="(/startseite/aktuell/amtsblatt/amtsblatt-${prevYear})"`));
+let prevYearHtml = "";
+if (prevYearMatch) {
+  const prevUrl = `${AMTSBLATT_BASE_URL}${prevYearMatch[1]}`;
+  prevYearHtml = await fetch(prevUrl, { headers }).then((r) => r.ok ? r.text() : "");
+}
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
+const amtsblattPath = join(DIR, "amtsblatt.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
 
+const allAmtsblattHtml = amtsblattMainHtml + prevYearHtml;
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(allAmtsblattHtml));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 
 // Write empty news.json if it doesn't exist
 if (!existsSync(newsPath)) {
   writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: [] } satisfies NewsFile, null, 2));
 }
 
-console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
-console.log(`news:   0 Einträge (keine Nachrichten) → ${newsPath}`);
+console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`news:       0 Einträge (keine Nachrichten) → ${newsPath}`);
+console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

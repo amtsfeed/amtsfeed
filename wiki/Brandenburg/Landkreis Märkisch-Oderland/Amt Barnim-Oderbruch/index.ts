@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.barnim-oderbruch.de";
 const EVENTS_URL = `${BASE_URL}/aktuelles/veranstaltungen`;
 const NEWS_URL = `${BASE_URL}/aktuelles`;
+const AMTSBLATT_BASE_URL = `${BASE_URL}/aktuelles/bekanntmachungen/amtsblaetter`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -90,6 +91,67 @@ function extractNews(html: string): NewsItem[] {
     }));
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// TYPO3 fileadmin — year pages at /aktuelles/bekanntmachungen/amtsblaetter/YYYY
+// PDF: /fileadmin/Daten/Aktuelles/Bekanntmachungen/Amtsblätter/Amtsblätter_YYYY/Amtsblatt_NN-YYYY.pdf
+// Filenames use both numeric (NN-YYYY) and German month names (Januar, März, etc.)
+// Sonderausgaben skipped; no dates in HTML → publishedAt = YYYY-MM-01
+
+const BARNIM_MONTHS: Record<string, string> = {
+  januar: "01", februar: "02", "m%c3%a4rz": "03", april: "04",
+  mai: "05", juni: "06", juli: "07", august: "08",
+  september: "09", oktober: "10", november: "11", dezember: "12",
+};
+
+function extractAmtsblatt(html: string, year: string): AmtsblattItem[] {
+  const items = new Map<string, AmtsblattItem>();
+  const now = new Date().toISOString();
+  const rx = /href="(\/fileadmin\/Daten\/Aktuelles\/Bekanntmachungen\/[^"]+\.pdf)"/gi;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const rawPath = m[1]!;
+    const filename = rawPath.split("/").pop()!.toLowerCase();
+
+    if (filename.includes("sonder") || filename.includes("sonderausgabe")) continue;
+
+    let num: string | undefined;
+
+    // Try numeric: amtsblatt_NN-YYYY or amtsblatt_NN-YYYY_NN (suffix variant)
+    const numMatch = filename.match(/amtsblatt[^_]*[_-](\d{1,2})[_-]\d{4}/) ??
+      filename.match(/[_-](\d{2})[_-]\d{4}/);
+    if (numMatch) {
+      num = numMatch[1]!.padStart(2, "0");
+    } else {
+      // Try month name (URL-encoded or plain)
+      for (const [name, month] of Object.entries(BARNIM_MONTHS)) {
+        if (filename.includes(name)) {
+          num = month;
+          break;
+        }
+      }
+    }
+    if (!num) continue;
+
+    const id = `barnim-oderbruch-amtsblatt-${year}-${num}`;
+    if (!items.has(id)) {
+      items.set(id, {
+        id,
+        title: `Amtsblatt Nr. ${num}/${year}`,
+        url: `${BASE_URL}${rawPath}`,
+        publishedAt: `${year}-${num}-01T00:00:00.000Z`,
+        fetchedAt: now,
+      });
+    }
+  }
+  return [...items.values()];
+}
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -127,26 +189,41 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/aktuelles/veranstaltungen", "/aktuelles"]);
+assertAllowed(robots, ["/aktuelles/veranstaltungen", "/aktuelles", "/aktuelles/bekanntmachungen/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, newsHtml] = await Promise.all([
+const currentYear = new Date().getFullYear().toString();
+const prevYear = (new Date().getFullYear() - 1).toString();
+
+const [eventsHtml, newsHtml, amtsblatt2025Html, amtsblatt2026Html] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
+  fetch(`${AMTSBLATT_BASE_URL}/${prevYear}`, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(`${AMTSBLATT_BASE_URL}/${currentYear}`, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
+const amtsblattPath = join(DIR, "amtsblatt.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+
+const incomingAmtsblatt = [
+  ...extractAmtsblatt(amtsblatt2025Html, prevYear),
+  ...extractAmtsblatt(amtsblatt2026Html, currentYear),
+];
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, incomingAmtsblatt);
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 
-console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
-console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`events:    ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

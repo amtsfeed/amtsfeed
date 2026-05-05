@@ -4,9 +4,10 @@ Gemeinde Schorfheide, Landkreis Barnim, Brandenburg.
 
 ## Sources
 
-| Type   | URL                                              |
-|--------|--------------------------------------------------|
-| Events | https://www.schorfheide.de/veranstaltungen.html  |
+| Type       | URL                                                                        |
+|------------|----------------------------------------------------------------------------|
+| Events     | https://www.schorfheide.de/veranstaltungen.html                            |
+| Amtsblatt  | https://www.gemeinde-schorfheide.de/startseite/aktuell/amtsblatt           |
 
 ## CMS
 
@@ -20,6 +21,15 @@ Events are rendered server-side in a single HTML page with `div.eventbox schatte
 - **News:** Not available; news.json contains an empty items array
 - Locations are present for most events
 - Time of day is provided for most events
+
+## Amtsblatt
+
+- Listing URL: `https://www.gemeinde-schorfheide.de/startseite/aktuell/amtsblatt`
+- The scraper fetches the main page (current year) plus the previous year sub-page (`/amtsblatt-YYYY`).
+- PDF links match `<a href="/fileadmin/...Amtsblatt...\.pdf">` with link text like "Amtsblatt März 2026, Nr. 03/2026 (20.03.2026)".
+- Nr. and year are extracted from the `Nr. NN/YYYY` pattern; publishedAt comes from the `(DD.MM.YYYY)` parenthetical.
+- IDs follow the pattern `schorfheide-amtsblatt-YYYY-NN`.
+- 14 entries found on initial scrape (2025–2026).
 
 ## Validation hints
 

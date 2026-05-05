@@ -5,10 +5,11 @@ Quelle: https://www.amt-fahoe.de
 
 ## Quellen
 
-| Typ    | URL                                               |
-|--------|---------------------------------------------------|
-| Events | https://www.amt-fahoe.de/veranstaltungen/index.php |
-| News   | https://www.amt-fahoe.de/news/1                   |
+| Typ       | URL                                                |
+|-----------|----------------------------------------------------|
+| Events    | https://www.amt-fahoe.de/veranstaltungen/index.php |
+| News      | https://www.amt-fahoe.de/news/1                    |
+| Amtsblatt | https://www.amt-fahoe.de/amtsblatt/index.php       |
 
 ## Beispiele (Stand Einrichtung 2026-05-05)
 
@@ -35,9 +36,16 @@ Quelle: https://www.amt-fahoe.de
 - Events: startDate aus URL-Pfad; Zeit aus `<span class="event-time"><time>HH:MM</time> Uhr</span>`; Ort aus `<span class="event-ort">`
 - News: Kein standardmäßiges Datum im Listing → `publishedAt` fehlt bei den meisten Einträgen
 
+## Amtsblatt
+
+- Listing URL: `https://www.amt-fahoe.de/amtsblatt/index.php` (PortUNA)
+- Muster: `<td>Nr. NN/YYYY</td> <td>DD.&#8203;MM.&#8203;YYYY</td>`
+- PDFs hinter POST/CSRF-Hash → Listing-URL als `url` verwendet
+
 ## Validierung
 
 Das Scraping funktioniert noch, wenn:
 1. `pnpm tsx index.ts` ohne Fehler läuft und `events: N Einträge` ausgibt (N > 5)
-2. Event-ID `2897436` (Geistliche Abendmusik) in `events.json` vorhanden
-3. News-ID `1229840` in `news.json` vorhanden
+2. `amtsblatt: N Einträge` ausgibt (N ≥ 5)
+3. Event-ID `2897436` (Geistliche Abendmusik) in `events.json` vorhanden
+4. News-ID `1229840` in `news.json` vorhanden

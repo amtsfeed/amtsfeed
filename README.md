@@ -29,10 +29,28 @@ wiki/
         rss.xml        ← RSS-Feed (generiert aus events.json + news.json)
         events.ics     ← iCalendar-Feed (optional)
         robots.json    ← gecachte robots.txt der Quelle
+        sources.json   ← offizielle Quell-URLs der Gemeinde (optional)
         README.md      ← Dokumentation der Quelle und Besonderheiten
 ```
 
 Übergeordnete Verzeichnisse können ebenfalls ein `rss.xml` enthalten, das alle Inhalte der darunter liegenden Ebenen zusammenfasst.
+
+### sources.json
+
+Existiert bei einer Gemeinde bereits ein offizieller RSS- oder iCal-Feed, wird er in `sources.json` als Array eingetragen:
+
+```json
+[
+  { "type": "rss", "url": "https://example.org/rss.xml", "title": "Meldungen Beispielstadt" },
+  { "type": "ical", "url": "https://example.org/events.ics" }
+]
+```
+
+- `type` — `"rss"` oder `"ical"`
+- `url` — direkte Feed-URL
+- `title` — optionaler Anzeigename; fehlt er, wird der Typ als Label verwendet
+
+`pnpm generate-metadata` liest `sources.json` ein und überträgt die Einträge als `sources`-Array ins `wiki/metadata.json`.
 
 ## Feeds nutzen
 

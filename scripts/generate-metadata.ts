@@ -6,6 +6,12 @@ import type { EventsFile, NewsFile } from "./types.ts";
 const WIKI_BASE = resolve(import.meta.dirname, "../wiki");
 const RAW_BASE = "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki";
 
+export interface Source {
+  type: "rss" | "ical";
+  url: string;
+  title?: string;
+}
+
 export interface FeedEntry {
   path: string;
   breadcrumb: string[];
@@ -19,6 +25,7 @@ export interface FeedEntry {
   icalUrl: string | null;
   eventsUrl: string | null;
   newsUrl: string | null;
+  sources: Source[];
 }
 
 export interface Metadata {
@@ -49,6 +56,7 @@ function walkWiki(dir: string, breadcrumb: string[]): FeedEntry[] {
     const encodedPath = relPath.split("/").map(encodeURIComponent).join("/");
 
     const updatedAt = eventsFile?.updatedAt ?? newsFile?.updatedAt ?? null;
+    const sources = readJson<Source[]>(join(dir, "sources.json")) ?? [];
 
     results.push({
       path: relPath,
@@ -63,6 +71,7 @@ function walkWiki(dir: string, breadcrumb: string[]): FeedEntry[] {
       icalUrl: hasIcal ? `${RAW_BASE}/${encodedPath}/events.ics` : null,
       eventsUrl: hasEvents ? `${RAW_BASE}/${encodedPath}/events.json` : null,
       newsUrl: hasNews ? `${RAW_BASE}/${encodedPath}/news.json` : null,
+      sources,
     });
   }
 

@@ -5,66 +5,63 @@ import { fileURLToPath } from "node:url";
 import type { EventsFile, NewsFile, Event, NewsItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
-const BASE_URL = "https://bad-freienwalde.de";
-const EVENTS_URL = `${BASE_URL}/veranstaltungen/`;
-const NEWS_API_URL = `${BASE_URL}/wp-json/wp/v2/posts?per_page=20&_fields=id,date,slug,link,title,excerpt`;
+const BASE_URL = "https://www.fredersdorf-vogelsdorf.de";
+const EVENTS_URL = `${BASE_URL}/veranstaltungen/index.php`;
+const NEWS_URL = `${BASE_URL}/news/1`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
   return str
-    .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"').replace(/&nbsp;/g, " ").replace(/&#039;/g, "'")
+    .replace(/&#8203;/g, "")
+    .replace(/&amp;amp;/g, "&")
+    .replace(/&auml;/g, "ä").replace(/&ouml;/g, "ö").replace(/&uuml;/g, "ü")
+    .replace(/&Auml;/g, "Ä").replace(/&Ouml;/g, "Ö").replace(/&Uuml;/g, "Ü")
+    .replace(/&szlig;/g, "ß").replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&nbsp;/g, " ")
     .replace(/&#x([0-9a-fA-F]+);/g, (_, h: string) => String.fromCharCode(parseInt(h, 16)))
     .replace(/&#(\d+);/g, (_, n: string) => String.fromCharCode(parseInt(n, 10)));
 }
 
 // ── Events ────────────────────────────────────────────────────────────────────
-// WordPress + TMB Events plugin
-// Container: <div class="tmb-event-wrapper ... tmb-event-id-ID">
-// Date: <p id="tmb-event-date-range">DD.MM.YYYY bis DD.MM.YYYY | H:MM Uhr</p>
-//   or: <p id="tmb-event-date-range">DD.MM.YYYY | H:MM Uhr</p>
-// Title: <div class="tmb-event-meta-title"><a href="URL"><h5>TITLE</h5></a></div>
-// Location: <p class="tmb-event-location">LOCATION</p>
-// ID: {tmb-event-id}-{YYYY-MM-DD} (composite to handle recurring events)
-// Filter: startDate < 2000-01-01 = TMB epoch bug → skip
-
-function parseGermanDate(day: string, month: string, year: string): string {
-  return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
-}
+// PortUNA event-box variant (same as Amt Golzow)
+// Container: <div class="event-box">
+// Title: <span class="event-title"><a href="/veranstaltungen/ID/YYYY/MM/DD/slug.html">TITLE</a>
+// Date: from URL path
+// Time: <span class="event-time"><time>HH:MM</time> Uhr</span>
+// Location: <span class="event-ort">TEXT</span>
 
 function extractEvents(html: string): Event[] {
   const events: Event[] = [];
   const now = new Date().toISOString();
-  const minYear = 2000;
 
-  const blocks = html.split("class=\"tmb-event-wrapper ").filter((_, i) => i > 0);
+  const blocks = html.split(/(?=<div\s+class="event-box")/).filter((b) => b.includes('class="event-box"'));
 
   for (const block of blocks) {
-    const idMatch = block.match(/tmb-event-id-(\d+)/);
-    if (!idMatch) continue;
-    const tmb_id = idMatch[1]!;
+    const linkMatch = block.match(/<a\s+href="([^"]*\/veranstaltungen\/[^"]+)"/);
+    if (!linkMatch) continue;
+    const href = linkMatch[1]!;
+    const url = href.startsWith("http") ? href : `${BASE_URL}${href}`;
 
-    const dateMatch = block.match(/id="tmb-event-date-range">(\d{2})\.(\d{2})\.(\d{4})(?: bis (\d{2})\.(\d{2})\.(\d{4}))?(?: \| (\d+:\d+) Uhr)?<\/p>/);
-    if (!dateMatch) continue;
-    const [, d1, m1, y1, d2, m2, y2, time] = dateMatch;
-    if (parseInt(y1!, 10) < minYear) continue;
+    const datePathMatch = href.match(/\/veranstaltungen\/(\d+)\/(\d{4})\/(\d{2})\/(\d{2})\//);
+    if (!datePathMatch) continue;
+    const id = datePathMatch[1]!;
+    const isoDate = `${datePathMatch[2]}-${datePathMatch[3]}-${datePathMatch[4]}`;
 
-    const paddedTime = time ? time.padStart(5, "0") : null;
-    const startDate = `${parseGermanDate(d1!, m1!, y1!)}T${paddedTime ? `${paddedTime}:00.000Z` : "00:00:00.000Z"}`;
-    const endDate = d2 ? `${parseGermanDate(d2, m2!, y2!)}T${paddedTime ? `${paddedTime}:00.000Z` : "00:00:00.000Z"}` : undefined;
-
-    const dateKey = startDate.slice(0, 10).replace(/-/g, "");
-    const id = `${tmb_id}-${dateKey}`;
-
-    const urlMatch = block.match(/href="(https:\/\/bad-freienwalde\.de\/veranstaltungen\/[^"]+)"/);
-    const url = urlMatch ? urlMatch[1]! : EVENTS_URL;
-
-    const titleMatch = block.match(/<h5>([\s\S]*?)<\/h5>/);
+    const titleMatch = block.match(/<span\s+class="event-title">\s*<a[^>]*>([\s\S]*?)<\/a>/i);
     if (!titleMatch) continue;
     const title = decodeHtmlEntities((titleMatch[1] ?? "").replace(/<[^>]+>/g, "").trim());
     if (!title) continue;
 
-    const locationMatch = block.match(/class="tmb-event-location">([\s\S]*?)<\/p>/);
+    const timeMatch = block.match(/<span\s+class="event-time">([\s\S]*?)<\/span>/i);
+    let startDate = `${isoDate}T00:00:00.000Z`;
+    let endDate: string | undefined;
+    if (timeMatch) {
+      const times = [...(timeMatch[1] ?? "").matchAll(/<time>(\d{2}:\d{2})<\/time>/g)].map((m) => m[1]);
+      if (times[0]) startDate = `${isoDate}T${times[0]}:00.000Z`;
+      if (times[1]) endDate = `${isoDate}T${times[1]}:00.000Z`;
+    }
+
+    const locationMatch = block.match(/<span\s+class="event-ort">([\s\S]*?)<\/span>/i);
     const location = locationMatch
       ? decodeHtmlEntities((locationMatch[1] ?? "").replace(/<[^>]+>/g, "").trim()) || undefined
       : undefined;
@@ -80,32 +77,49 @@ function extractEvents(html: string): Event[] {
       updatedAt: now,
     });
   }
+
   return events;
 }
 
 // ── News ──────────────────────────────────────────────────────────────────────
-// WordPress REST API: /wp-json/wp/v2/posts
-// Returns JSON array of posts with id, date, slug, link, title.rendered, excerpt.rendered
+// PortUNA: <li class="news-entry-to-limit col-xs-12 col-sm-6">
+// Title: <h4 class="title_news_19"><a href="/news/1/ID/nachrichten/slug.html">TITLE</a></h4>
+// Date: <p class="vorschau_text">DD.MM.YYYY: TEXT</p>
 
-interface WpPost {
-  id: number;
-  date: string;
-  link: string;
-  title: { rendered: string };
-  excerpt: { rendered: string };
-}
-
-function wpPostsToNews(posts: WpPost[]): NewsItem[] {
+function extractNews(html: string): NewsItem[] {
+  const items: NewsItem[] = [];
   const now = new Date().toISOString();
-  return posts.map((post) => ({
-    id: String(post.id),
-    title: decodeHtmlEntities(post.title.rendered.replace(/<[^>]+>/g, "").trim()),
-    url: post.link,
-    description: decodeHtmlEntities(post.excerpt.rendered.replace(/<[^>]+>/g, "").trim()) || undefined,
-    fetchedAt: now,
-    publishedAt: new Date(post.date).toISOString(),
-    updatedAt: now,
-  }));
+
+  const blocks = html.split(/(?=<li[^>]*class="[^"]*news-entry-to-limit)/).filter((b) =>
+    b.includes("news-entry-to-limit")
+  );
+
+  for (const block of blocks) {
+    const titleMatch = block.match(/<h[34][^>]*>\s*<a\s+href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/i);
+    if (!titleMatch) continue;
+    const href = titleMatch[1]!;
+    if (!href.includes("/news/")) continue;
+    const title = decodeHtmlEntities((titleMatch[2] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    const idMatch = href.match(/\/news\/[^/]+\/(\d+)\//);
+    const id = idMatch ? `fredersdorf-news-${idMatch[1]!}` : href;
+    const url = href.startsWith("http") ? href : `${BASE_URL}${href}`;
+
+    const vorschauMatch = block.match(/<p[^>]*class="[^"]*vorschau[^"]*">([\s\S]*?)<\/p>/i);
+    let publishedAt: string | undefined;
+    if (vorschauMatch) {
+      const text = decodeHtmlEntities((vorschauMatch[1] ?? "").replace(/<[^>]+>/g, "").trim());
+      const dateMatch = text.match(/^(\d{1,2})\.(\d{2})\.(\d{4}):/);
+      if (dateMatch) {
+        publishedAt = `${dateMatch[3]}-${dateMatch[2]!.padStart(2, "0")}-${dateMatch[1]!.padStart(2, "0")}T00:00:00.000Z`;
+      }
+    }
+
+    items.push({ id, title, url, ...(publishedAt ? { publishedAt } : {}), fetchedAt: now, updatedAt: now });
+  }
+
+  return items;
 }
 
 // ── Merge helpers ─────────────────────────────────────────────────────────────
@@ -113,9 +127,7 @@ function wpPostsToNews(posts: WpPost[]): NewsItem[] {
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
   const byId = new Map(existing.map((e) => [e.id, e]));
   for (const e of incoming) byId.set(e.id, { ...e, fetchedAt: byId.get(e.id)?.fetchedAt ?? e.fetchedAt });
-  return [...byId.values()].sort(
-    (a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime()
-  );
+  return [...byId.values()].sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());
 }
 
 function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
@@ -142,12 +154,12 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/veranstaltungen/", "/wp-json/wp/v2/posts"]);
+assertAllowed(robots, ["/veranstaltungen/index.php", "/news/1"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, newsRes] = await Promise.all([
+const [eventsHtml, newsHtml] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
-  fetch(NEWS_API_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_API_URL}`); return r.json() as Promise<WpPost[]>; }),
+  fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
 ]);
 
 const eventsPath = join(DIR, "events.json");
@@ -157,7 +169,7 @@ const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: 
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
-const mergedNews = mergeNews(existingNews.items, wpPostsToNews(newsRes));
+const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T16:35:25.060Z",
+  "updatedAt": "2026-05-05T16:57:23.820Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Wandlitz",
@@ -136,14 +136,50 @@
       ],
       "name": "Bad Freienwalde (Oder)",
       "hasRss": true,
-      "hasIcal": false,
+      "hasIcal": true,
       "eventCount": 14,
       "newsCount": 20,
-      "updatedAt": "2026-05-05T15:16:38.591Z",
+      "updatedAt": "2026-05-05T16:43:33.245Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Bad%20Freienwalde%20(Oder)/rss.xml",
-      "icalUrl": null,
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Bad%20Freienwalde%20(Oder)/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Bad%20Freienwalde%20(Oder)/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Bad%20Freienwalde%20(Oder)/news.json"
+    },
+    {
+      "path": "Brandenburg/Landkreis Märkisch-Oderland/Fredersdorf-Vogelsdorf",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Märkisch-Oderland",
+        "Fredersdorf-Vogelsdorf"
+      ],
+      "name": "Fredersdorf-Vogelsdorf",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 77,
+      "newsCount": 8,
+      "updatedAt": "2026-05-05T16:40:49.360Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/news.json"
+    },
+    {
+      "path": "Brandenburg/Landkreis Märkisch-Oderland/Hoppegarten",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Märkisch-Oderland",
+        "Hoppegarten"
+      ],
+      "name": "Hoppegarten",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 12,
+      "newsCount": 50,
+      "updatedAt": "2026-05-05T16:51:30.374Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Hoppegarten/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Hoppegarten/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Hoppegarten/news.json"
     },
     {
       "path": "Brandenburg/Landkreis Märkisch-Oderland/Müncheberg",
@@ -249,12 +285,12 @@
       ],
       "name": "Strausberg",
       "hasRss": true,
-      "hasIcal": false,
+      "hasIcal": true,
       "eventCount": 482,
       "newsCount": 19,
       "updatedAt": "2026-05-05T16:34:02.701Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Strausberg/rss.xml",
-      "icalUrl": null,
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Strausberg/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Strausberg/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Strausberg/news.json"
     },

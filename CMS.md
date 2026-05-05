@@ -18,12 +18,14 @@ Weit verbreitetes Kommunal-CMS in Brandenburg/Berlin-Brandenburg-Raum.
 | `event-box` | `<div class="event-box">` | Amt Golzow, Amt Falkenberg-Höhe |
 | `events-entry-3` | `<div class="events-entry-3">` | Amt Lebus |
 | `event-clndr-3` | `<span class="event-clndr-3-day has-entries" data-events="...">` | Wriezen |
+| `event-entry-new-1` | `<div class="... event-entry-new-1">` | Hoppegarten |
 
 **Besonderheiten:**
 - News-Titel: `<h3>` (event-box) oder `<h4>` (events-entry-3) je nach Variante
 - Datum oft mit Zero-Width-Spaces (`&#8203;`) zwischen Ziffern
 - Doppelt kodierte Entities (`&amp;amp;`) möglich
 - `event-clndr-3`: Events in `data-events`-Attribut, doppelt HTML-kodiert; Monatsnavigation via `?month=YYYY-MM`; News-URL-Muster: `/news/{category}/{id}/nachrichten/{slug}.html`; News-Container `<li class="news-entry-to-limit">`
+- `event-entry-new-1`: Datum aus URL-Pfad (time-Elemente haben datetime="1970-01-01"-Bug); `time`-Elemente in `event-entry-new-1-daytime`-Block; Server kann bei vollem UA alle historischen News zurückgeben → NEWS_LIMIT empfohlen
 
 ---
 

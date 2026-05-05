@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hoppegarten
+X-WR-CALDESC:Amtliche Veranstaltungen für Hoppegarten
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:2842432@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART:20260508T090000Z
+SUMMARY:Career Compass Ausbildungs- und Jobmesse
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2842432/2026/05/0
+ 8/career-compass-ausbildungs-und-jobmesse.html
+LOCATION:Giebelseehalle\, Elbestraße 1\, 15370 Petershagen/Eggersdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:2889720@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART:20260509T090000Z
+SUMMARY:Pflanzenmarkt am 09. Mai 2026
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2889720/2026/05/0
+ 9/pflanzenmarkt-am-09.-mai-2026.html
+LOCATION:Verein der Gartenfreunde Hönow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:2846756@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART:20260509T100000Z
+SUMMARY:CleanUpDay
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2846756/2026/05/0
+ 9/cleanupday.html
+LOCATION:Startpunkt siehe Flyer
+END:VEVENT
+BEGIN:VEVENT
+UID:2895990@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART:20260522T110000Z
+SUMMARY:Brunch im Haus der Generationen - Von Senioren für Senioren!
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2895990/2026/05/2
+ 2/brunch-im-haus-der-generationen-von-senioren-für-senioren.html
+LOCATION:Haus der Generationen
+END:VEVENT
+BEGIN:VEVENT
+UID:2897235@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART:20260528T160000Z
+SUMMARY:Informationsveranstaltung zur Vorsorgevollmacht
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2897235/2026/05/2
+ 8/informationsveranstaltung-zur-vorsorgevollmacht.html
+LOCATION:Mahlsdorfer Str. 61\, 15366 Hoppegarten/OT Hönow
+END:VEVENT
+BEGIN:VEVENT
+UID:2897883@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART:20260530T140000Z
+SUMMARY:HOPPEGARTENER KULTURREIHEN
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2897883/2026/05/3
+ 0/hoppegartener-kulturreihen.html
+LOCATION:Alte Berliner Straße 2\, 15366 Hoppegarten
+END:VEVENT
+BEGIN:VEVENT
+UID:2895987@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:32. Brandenburgische Seniorenwoche - Gesellschaft braucht Erfahru
+ ng - Senioren brauchen Teilhabe
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2895987/2026/05/3
+ 1/32.-brandenburgische-seniorenwoche-gesellschaft-braucht-erfahrung-senio
+ ren-brauchen-teilhabe.html
+LOCATION:Seniorenbeirat Hoppegarten
+END:VEVENT
+BEGIN:VEVENT
+UID:2886308@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART:20260604T100000Z
+SUMMARY:Erste Hilfe? Da war doch was! - Achtung neuer Termin!
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2886308/2026/06/0
+ 4/erste-hilfe-da-war-doch-was-achtung-neuer-termin.html
+LOCATION:Haus der Generationen\, Lindenallee 12\, 15366 Hoppegarten
+END:VEVENT
+BEGIN:VEVENT
+UID:2888688@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART:20260605T190000Z
+SUMMARY:HOPPEGARTENER KULTURREIHEN
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2888688/2026/06/0
+ 5/hoppegartener-kulturreihen.html
+LOCATION:Dorfkirche Hönow\, Dorfstraße 32\, 15366 Hoppegarten
+END:VEVENT
+BEGIN:VEVENT
+UID:2886306@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART:20260607T100000Z
+SUMMARY:Flohmarkt und Kindertag
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2886306/2026/06/0
+ 7/flohmarkt-und-kindertag.html
+LOCATION:Haus der Generationen\, Lindenallee 12\, 15366 Hoppegarten
+END:VEVENT
+BEGIN:VEVENT
+UID:2846757@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART:20260613T100000Z
+SUMMARY:CleanUpDay
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2846757/2026/06/1
+ 3/cleanupday.html
+LOCATION:Startpunkt siehe Flyer
+END:VEVENT
+BEGIN:VEVENT
+UID:2861607@amtsfeed.de
+DTSTAMP:20260505T165130Z
+DTSTART:20260618T150000Z
+SUMMARY:4. Gründer- und Unternehmertag 2026
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2861607/2026/06/1
+ 8/4.-gründer-und-unternehmertag-2026.html
+LOCATION:STIC- Gelände TP 6\, Garzauer Chaussee 1a\, 15344 Strausberg
+END:VEVENT
+END:VCALENDAR

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T16:58:56.156Z",
+  "updatedAt": "2026-05-05T16:59:28.723Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Wandlitz",
@@ -198,6 +198,24 @@
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/M%C3%BCncheberg/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/M%C3%BCncheberg/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/M%C3%BCncheberg/news.json"
+    },
+    {
+      "path": "Brandenburg/Landkreis Märkisch-Oderland/Neuenhagen bei Berlin",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Märkisch-Oderland",
+        "Neuenhagen bei Berlin"
+      ],
+      "name": "Neuenhagen bei Berlin",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 25,
+      "newsCount": 20,
+      "updatedAt": "2026-05-05T16:59:09.265Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Neuenhagen%20bei%20Berlin/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Neuenhagen%20bei%20Berlin/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Neuenhagen%20bei%20Berlin/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Neuenhagen%20bei%20Berlin/news.json"
     },
     {
       "path": "Brandenburg/Landkreis Märkisch-Oderland/Oderbruch",

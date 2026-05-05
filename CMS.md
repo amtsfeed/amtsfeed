@@ -1,0 +1,160 @@
+# CMS-Übersicht
+
+Bekannte CMS-Systeme und Erkennungsmerkmale im amtsfeed-Projekt.
+
+## PortUNA
+
+Weit verbreitetes Kommunal-CMS in Brandenburg/Berlin-Brandenburg-Raum.
+
+**Erkennungsmerkmale:**
+- URL-Pfade wie `/veranstaltungen/index.php`, `/news/1`
+- HTML: `class="event-box"` oder `class="events-entry-3"`
+- Betreiber-Hinweis oft im Quelltext
+
+**Varianten:**
+
+| Variante | Event-Container | Beispiel-Ort |
+|----------|----------------|--------------|
+| `event-box` | `<div class="event-box">` | Amt Golzow, Amt Falkenberg-Höhe |
+| `events-entry-3` | `<div class="events-entry-3">` | Amt Lebus |
+
+**Besonderheiten:**
+- News-Titel: `<h3>` (event-box) oder `<h4>` (events-entry-3) je nach Variante
+- Datum oft mit Zero-Width-Spaces (`&#8203;`) zwischen Ziffern
+- Doppelt kodierte Entities (`&amp;amp;`) möglich
+
+---
+
+## NOLIS Manager
+
+**Erkennungsmerkmale:**
+- URL-Muster `/nolis/` im HTML oder `nolis-manager` in Quelltext
+- Oft als iframe eingebettet
+
+*(Noch kein vollständiges Beispiel im Projekt)*
+
+---
+
+## TYPO3
+
+Open-Source-CMS, häufig bei deutschen Kommunen.
+
+**Erkennungsmerkmale:**
+- `<!-- This website is powered by TYPO3 -->` im HTML-Quelltext
+- CSS-Pfade `/typo3conf/ext/...` oder `/typo3temp/...`
+- Meta: `<meta name="generator" content="TYPO3 CMS">`
+
+**Varianten:**
+
+### EXT:news (Standard-News-Extension)
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<div class="post-item article...">` |
+| Datum | `<time itemprop="datePublished" datetime="YYYY-MM-DD">` |
+| Titel | `<span itemprop="headline">TEXT</span>` |
+| URL | `<a itemprop="url" href="URL">` |
+
+Beispiel: Amt Barnim-Oderbruch (`barnim-oderbruch.de`)
+
+### EXT:newsslider (Homepage-Slider)
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<a class="card slick-link" href="URL">` |
+| Datum | `<time itemprop="datePublished" datetime="YYYY-MM-DD">` |
+| Titel | `<h5 class="card-title">TEXT</h5>` |
+
+Beispiel: Stadt Müncheberg (`www.stadt-muencheberg.de`)
+
+### Manuell gepflegte Veranstaltungsliste
+
+Kein Events-Plugin, stattdessen plain-HTML in TYPO3-Textelement:
+- Listen-Einträge: `<li class="text-justify"><strong>DD.MM.YYYY[...]</strong><br> Titel</li>`
+- Keine eigenen Event-URLs
+- Beispiel: Stadt Müncheberg Events-Seite
+
+### EXT:events2
+
+- JavaScript-Kalender-Extension (`events2/Resources/Public/JavaScript/Events2.js`)
+- Oft mit komplexen URL-Parametern (`tx_events2_events%5Baction%5D=...`)
+- *(noch kein fertiger Scraper im Projekt)*
+
+### Altlandsberg-spezifische Extension (`altlandsbergevents_list`)
+
+AJAX-geladene Events via POST:
+```
+iconateAjaxDispatcherID = altlandsberg_events__list__geteventslist
+X-Requested-With: XMLHttpRequest
+```
+Beispiel: Altlandsberg (`www.altlandsberg.de`)
+
+---
+
+## WordPress
+
+**Erkennungsmerkmale:**
+- `/wp-json/wp/v2/` API-Endpoint vorhanden
+- CSS: `/wp-content/themes/...`
+- Meta: `<meta name="generator" content="WordPress ..."/>`
+
+**Varianten:**
+
+### WordPress + TMB Events Plugin
+
+| Element | Selektor |
+|---------|----------|
+| Container | split auf `class="tmb-event-wrapper "` |
+| ID | `tmb-event-id-NNNN` → Composite `{tmb-id}-{YYYYMMDD}` |
+| Datum | `<p id="tmb-event-date-range">DD.MM.YYYY[ bis DD.MM.YYYY] \| H:MM Uhr</p>` |
+| Titel | `<h5>TITLE</h5>` |
+| Ort | `<p class="tmb-event-location">ORT</p>` |
+
+Besonderheiten:
+- Epoch-0-Bug: Events mit Startjahr < 2000 filtern (erscheinen als 1970)
+- Wiederkehrende Events: gleiche TMB-ID, verschiedene Tage → Composite-ID nötig
+
+### WordPress REST API (News)
+
+`/wp-json/wp/v2/posts?per_page=20&_fields=id,date,slug,link,title,excerpt`
+
+Liefert strukturierte JSON-Daten mit `id`, `date` (ISO 8601), `link`, `title.rendered`, `excerpt.rendered`.
+
+Beispiel: Bad Freienwalde (Oder) (`bad-freienwalde.de`)
+
+---
+
+## Drupal (Carbonara-Theme)
+
+**Erkennungsmerkmale:**
+- `/themes/carbonara/` im HTML
+- `/modules/contrib/loom_cookie/` oder ähnliche Drupal-Module
+- `window.loomCookieSettingsECC` in JavaScript
+
+**Besonderheiten:**
+- Content oft JS-gerendert (kein statisches HTML per curl erreichbar)
+- Kein strukturierter Events/News-Feed in statischem HTML
+
+Beispiel: Bad Saarow (`bad-saarow.de`) — Events über externe Seite (scharmuetzelsee.de)
+
+---
+
+## Tourism Data Hub (DAMAS / scharmuetzelsee.de)
+
+Regionale Tourismus-Datenplattform, genutzt als Event-Quelle von Gemeinde-Websites.
+
+**Erkennungsmerkmale (TYPO3-Frontend):**
+- `data-globalid="DAMASEvent_Event..."` auf Event-Containern
+- `data-searchparameters='{...,"type":"Event",...}'`
+- JavaScript: `teaser-slider js-teaser-slider`
+
+**Event-Container (statisch im HTML gerendert):**
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<div class="teaser-card result-item" data-type="Event">` |
+| URL | `<a class="teaser-card__link" href="https://www.scharmuetzelsee.de/event/SLUG">` |
+| Titel | `<span class="teaser-card__header">TEXT</span>` |
+| Datum | `<span class="teaser-card__subheader">DD.MM.YYYY[ - DD.MM.YYYY]</span>` |
+
+Beispiel: Bad Saarow (via scharmuetzelsee.de)

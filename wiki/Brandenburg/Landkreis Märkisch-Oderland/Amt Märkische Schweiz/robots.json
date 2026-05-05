@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.amt-maerkische-schweiz.de",
+    "baseUrl": "https://www.amt-maerkische-schweiz.de",
+    "updatedAt": "2026-05-05T14:05:31.348Z",
+    "content": "User-agent: *\nDisallow: /barrierefreiheit/barriere_melden.html\nDisallow: /portal/kontakt.html\nDisallow: /portal/suche.html\nDisallow: /portal/suche2.html\nDisallow: /portal/weiterempfehlen.html\nDisallow: /allris/___tmp/\nUser-agent: WebCopier\nDisallow: /\nUser-agent: HTTrack*\nDisallow: /"
+  }
+]

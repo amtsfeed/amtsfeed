@@ -1,0 +1,24 @@
+{
+  "name": "amtsfeed",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-ical": "tsx scripts/generate-ical.ts",
+    "generate-rss": "tsx scripts/generate-rss.ts",
+    "stats": "tsx scripts/stats.ts",
+    "update-robots": "tsx scripts/update-robots.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "robots-parser": "^3.0.1"
+  }
+}

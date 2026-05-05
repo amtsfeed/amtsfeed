@@ -8,7 +8,8 @@
     "generate-ical": "tsx scripts/generate-ical.ts",
     "generate-rss": "tsx scripts/generate-rss.ts",
     "stats": "tsx scripts/stats.ts",
-    "update-robots": "tsx scripts/update-robots.ts"
+    "update-robots": "tsx scripts/update-robots.ts",
+    "generate-metadata": "tsx scripts/generate-metadata.ts"
   },
   "keywords": [],
   "author": "",

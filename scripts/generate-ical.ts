@@ -14,8 +14,20 @@ function escapeIcalText(str: string): string {
 }
 
 function foldLine(line: string): string {
-  const chunks = line.match(/.{1,70}/gu) ?? [""];
-  return chunks.map((chunk, index) => (index === 0 ? chunk : ` ${chunk}`)).join("\r\n");
+  const chunks: string[] = [];
+  let chunk = "";
+
+  for (const char of line) {
+    if (Buffer.byteLength(chunk + char, "utf-8") > 73) {
+      chunks.push(chunk);
+      chunk = char;
+    } else {
+      chunk += char;
+    }
+  }
+
+  chunks.push(chunk);
+  return chunks.map((part, index) => (index === 0 ? part : ` ${part}`)).join("\r\n");
 }
 
 function property(name: string, value: string): string {

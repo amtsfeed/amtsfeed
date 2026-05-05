@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.eberswalde.de",
+    "baseUrl": "https://www.eberswalde.de",
+    "updatedAt": "2026-05-05T17:21:23.254Z",
+    "content": "# robots.txt for https://www.eberswalde.de/\n\nsitemap: https://www.eberswalde.de/sitemaps-1-sitemap.xml\nsitemap: https://www.eberswalde.de/en/sitemaps-1-sitemap.xml\nsitemap: https://www.eberswalde.de/pl/sitemaps-1-sitemap.xml\n\n# live - don't allow web crawlers to index cpresources/ or vendor/\n\nUser-agent: *\nDisallow: /cpresources/\nDisallow: /vendor/\nDisallow: /.env\nDisallow: /cache/\n\n\n# Disallow ChatGPT bot, as there's no benefit to allowing it to index your site\nUser-agent: GPTBot\nDisallow: /\n\n# Disallow Google Bard and Vertex AI bots, as there's no benefit to allowing it to index your site\nUser-agent: Google-Extended\nDisallow: /\n"
+  }
+]

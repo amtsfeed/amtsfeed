@@ -17,11 +17,13 @@ Weit verbreitetes Kommunal-CMS in Brandenburg/Berlin-Brandenburg-Raum.
 |----------|----------------|--------------|
 | `event-box` | `<div class="event-box">` | Amt Golzow, Amt Falkenberg-Höhe |
 | `events-entry-3` | `<div class="events-entry-3">` | Amt Lebus |
+| `event-clndr-3` | `<span class="event-clndr-3-day has-entries" data-events="...">` | Wriezen |
 
 **Besonderheiten:**
 - News-Titel: `<h3>` (event-box) oder `<h4>` (events-entry-3) je nach Variante
 - Datum oft mit Zero-Width-Spaces (`&#8203;`) zwischen Ziffern
 - Doppelt kodierte Entities (`&amp;amp;`) möglich
+- `event-clndr-3`: Events in `data-events`-Attribut, doppelt HTML-kodiert; Monatsnavigation via `?month=YYYY-MM`; News-URL-Muster: `/news/{category}/{id}/nachrichten/{slug}.html`; News-Container `<li class="news-entry-to-limit">`
 
 ---
 
@@ -121,6 +123,28 @@ Besonderheiten:
 Liefert strukturierte JSON-Daten mit `id`, `date` (ISO 8601), `link`, `title.rendered`, `excerpt.rendered`.
 
 Beispiel: Bad Freienwalde (Oder) (`bad-freienwalde.de`)
+
+### WordPress + Custom Post Types (`rb_events`, `rb_news`)
+
+Events und News als Custom Post Types ohne REST-API-Exposition.
+
+| Element | Quelle |
+|---------|--------|
+| Events | Monatsseiten `/veranstaltungen/YYYY-MM-01/{monat}-YYYY/` |
+| Event-Container | `<article class="rb-event-item rb-event-item-id-{ID}-{YYYY-MM-DD} ...">` |
+| Event-Datum | `<time datetime="YYYY-MM-DD">` |
+| Event-Ort | `<address class="rb-event-item-location">` |
+| News | `rb_news-sitemap.xml` (URLs + lastmod) + `/aktuelles/` HTML (Titel) |
+| News-Titel | `<div class="rb-news-item rb-news-item-id{ID}"><h3>TITEL</h3>` |
+| News-URL-Redirect | `GET /aktuelles/{slug}/` → 302 → `/aktuelles/#post-{ID}` |
+
+Besonderheiten:
+- `*/feed/` per robots.txt gesperrt → kein RSS-Feed nutzbar
+- News-Strategie: Sitemap für Datum, HEAD-Request für Post-ID, HTML für Titel
+- Monatsslugs: `januar`, `februar`, `marz` (ä→a), `april`, …, `dezember`
+- Wiederkehrende Events: Composite-ID `{eventID}-{YYYYMMDD}` nötig
+
+Beispiel: Strausberg (`www.stadt-strausberg.de`)
 
 ---
 

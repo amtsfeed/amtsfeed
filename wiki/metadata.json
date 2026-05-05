@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T17:26:11.166Z",
+  "updatedAt": "2026-05-05T18:09:45.093Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -507,10 +507,30 @@
       "sources": []
     },
     {
-      "path": "Brandenburg/Landkreis Oder-Spree/Bad Saarow",
+      "path": "Brandenburg/Landkreis Oder-Spree/Amt Scharmützelsee",
       "breadcrumb": [
         "Brandenburg",
         "Landkreis Oder-Spree",
+        "Amt Scharmützelsee"
+      ],
+      "name": "Amt Scharmützelsee",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 120,
+      "newsCount": 20,
+      "updatedAt": "2026-05-05T18:07:03.322Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/news.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oder-Spree/Amt Scharmützelsee/Bad Saarow",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Amt Scharmützelsee",
         "Bad Saarow"
       ],
       "name": "Bad Saarow",
@@ -519,9 +539,9 @@
       "eventCount": 19,
       "newsCount": 0,
       "updatedAt": "2026-05-05T15:50:40.943Z",
-      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Bad%20Saarow/rss.xml",
-      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Bad%20Saarow/events.ics",
-      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Bad%20Saarow/events.json",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/Bad%20Saarow/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/Bad%20Saarow/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/Bad%20Saarow/events.json",
       "newsUrl": null,
       "sources": []
     },

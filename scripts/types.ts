@@ -29,3 +29,16 @@ export interface NewsFile {
   updatedAt: string;
   items: NewsItem[];
 }
+
+export interface AmtsblattItem {
+  id: string;
+  title: string;
+  url: string;            // direct PDF URL or listing page if PDF requires POST
+  publishedAt: string;   // ISO 8601
+  fetchedAt: string;     // ISO 8601
+}
+
+export interface AmtsblattFile {
+  updatedAt: string;
+  items: AmtsblattItem[];
+}

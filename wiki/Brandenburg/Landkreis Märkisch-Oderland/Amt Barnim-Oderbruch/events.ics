@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Amt Barnim-Oderbruch
+X-WR-CALDESC:Amtliche Veranstaltungen für Amt Barnim-Oderbruch
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:das-theaterschiff-jan-martha@amtsfeed.de
+DTSTAMP:20260505T150430Z
+DTSTART:20260505T150430Z
+SUMMARY:Das Theaterschiff Jan & Martha
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/das-
+ theaterschiff-jan-martha
+DESCRIPTION:legt am 10.07.2026 in Zollbrücke an
+END:VEVENT
+BEGIN:VEVENT
+UID:ausscheid-der-freiwilligen-feuer-und-jugendwehren-des-amtes-barnim-od
+ erbruch@amtsfeed.de
+DTSTAMP:20260505T150430Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Ausscheid der Freiwilligen Feuer- und Jugendwehren des Amtes Barn
+ im-Oderbruch
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/auss
+ cheid-der-freiwilligen-feuer-und-jugendwehren-des-amtes-barnim-oderbruch
+DESCRIPTION:Besucher und Zaungäste sind herzlich willkommen!\nSchauen&he
+ llip\;
+END:VEVENT
+BEGIN:VEVENT
+UID:rassehunde-ausstellung-am-09052026-in-moeglin@amtsfeed.de
+DTSTAMP:20260505T150430Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Rassehunde-Ausstellung am 09.05.2026 in Möglin
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/rass
+ ehunde-ausstellung-am-09052026-in-moeglin
+DESCRIPTION:Am 09. Mai 2026 von 9 - 16 Uhr findet die internationale&hell
+ ip\;
+END:VEVENT
+BEGIN:VEVENT
+UID:laengste-kaffeetafel-im-oderbruch@amtsfeed.de
+DTSTAMP:20260505T150430Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Längste Kaffeetafel im Oderbruch
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/laen
+ gste-kaffeetafel-im-oderbruch
+DESCRIPTION:Gemeinsam knacken wir den Rekord!
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wriezen
+X-WR-CALDESC:Amtliche Veranstaltungen für Wriezen
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:wriezen-2856897@amtsfeed.de
+DTSTAMP:20260505T161118Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260510
+SUMMARY:Career Compass Ausbildungs- & Jobmesse
+URL:https://www.wriezen.de/veranstaltungen/2856897/2026/05/08/career-comp
+ ass-ausbildungs-amp-jobmesse.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wriezen-2896251@amtsfeed.de
+DTSTAMP:20260505T161118Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Pflanzen- und Kreativmarkt
+URL:https://www.wriezen.de/veranstaltungen/2896251/2026/05/08/pflanzen-un
+ d-kreativmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wriezen-2853092@amtsfeed.de
+DTSTAMP:20260505T161118Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:5. Längste Kaffeetafel im Oderbruch
+URL:https://www.wriezen.de/veranstaltungen/2853092/2026/05/09/5.-längste
+ -kaffeetafel-im-oderbruch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wriezen-2896249@amtsfeed.de
+DTSTAMP:20260505T161118Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Die große Schlagernacht
+URL:https://www.wriezen.de/veranstaltungen/2896249/2026/05/23/die-große-
+ schlagernacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wriezen-2896250@amtsfeed.de
+DTSTAMP:20260505T161118Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260531
+SUMMARY:Sommer\, Sonne\, Punkrock
+URL:https://www.wriezen.de/veranstaltungen/2896250/2026/05/29/sommer-sonn
+ e-punkrock.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wriezen-2842133@amtsfeed.de
+DTSTAMP:20260505T161118Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Trödelmarkt in Altwriezen
+URL:https://www.wriezen.de/veranstaltungen/2842133/2026/05/30/trödelmark
+ t-in-altwriezen.html
+END:VEVENT
+END:VCALENDAR

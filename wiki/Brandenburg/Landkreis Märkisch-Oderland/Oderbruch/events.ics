@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oderbruch
+X-WR-CALDESC:Amtliche Veranstaltungen für Oderbruch
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:veranstaltungen-2859505-2026-05-08-fahrervorstellung-fia-autocross.ht
+ ml@amtsfeed.de
+DTSTAMP:20260505T134449Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Fahrervorstellung FIA Autocross
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2859505/2026/05/08
+ /fahrervorstellung-fia-autocross.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2889785-2026-05-28-pflegeberatung-gemeinsam-älter-we
+ rden.html@amtsfeed.de
+DTSTAMP:20260505T134449Z
+DTSTART:20260528T110000Z
+SUMMARY:Pflegeberatung "Gemeinsam älter werden"
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2889785/2026/05/28
+ /pflegeberatung-gemeinsam-älter-werden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2862273-2026-06-11-stadtsenioren-sommerfest.html@amts
+ feed.de
+DTSTAMP:20260505T134449Z
+DTSTART:20260611T100000Z
+DTEND:20260611T140000Z
+SUMMARY:Stadtsenioren Sommerfest
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2862273/2026/06/11
+ /stadtsenioren-sommerfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2862293-2026-06-20-fest-der-kulturen.html@amtsfeed.de
+DTSTAMP:20260505T134449Z
+DTSTART:20260620T140000Z
+DTEND:20260620T180000Z
+SUMMARY:Fest der Kulturen
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2862293/2026/06/20
+ /fest-der-kulturen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2859167-2026-09-04-stadtfest-seelow.html@amtsfeed.de
+DTSTAMP:20260505T134449Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Stadtfest Seelow
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2859167/2026/09/04
+ /stadtfest-seelow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2863690-2026-10-17-puppentheater.html@amtsfeed.de
+DTSTAMP:20260505T134449Z
+DTSTART:20261017T110000Z
+SUMMARY:Puppentheater
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2863690/2026/10/17
+ /puppentheater.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2865262-2026-11-07-oldschool-party.html@amtsfeed.de
+DTSTAMP:20260505T134449Z
+DTSTART:20261107T210000Z
+SUMMARY:Oldschool-Party
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2865262/2026/11/07
+ /oldschool-party.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2865371-2026-11-11-stadtseniorenfasching.html@amtsfee
+ d.de
+DTSTAMP:20260505T134449Z
+DTSTART:20261111T140000Z
+SUMMARY:Stadtseniorenfasching
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2865371/2026/11/11
+ /stadtseniorenfasching.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2865375-2026-11-14-treff-der-ortschronisten.html@amts
+ feed.de
+DTSTAMP:20260505T134449Z
+DTSTART:20261114T100000Z
+SUMMARY:Treff der Ortschronisten
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2865375/2026/11/14
+ /treff-der-ortschronisten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2865379-2026-11-20-travestieshow.html@amtsfeed.de
+DTSTAMP:20260505T134449Z
+DTSTART:20261120T200000Z
+SUMMARY:Travestieshow
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2865379/2026/11/20
+ /travestieshow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2865393-2026-11-28-weihnachtsgala.html@amtsfeed.de
+DTSTAMP:20260505T134449Z
+DTSTART:20261128T140000Z
+DTEND:20261128T190000Z
+SUMMARY:Weihnachtsgala
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2865393/2026/11/28
+ /weihnachtsgala.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2865427-2026-12-02-stadtseniorenweihnachtsfeier.html@
+ amtsfeed.de
+DTSTAMP:20260505T134449Z
+DTSTART:20261202T140000Z
+SUMMARY:Stadtseniorenweihnachtsfeier
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2865427/2026/12/02
+ /stadtseniorenweihnachtsfeier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2859171-2026-12-11-seelower-weihnacht.html@amtsfeed.d
+ e
+DTSTAMP:20260505T134449Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Seelower Weihnacht
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2859171/2026/12/11
+ /seelower-weihnacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2865429-2026-12-11-symphonic-pop-orchestra.html@amtsf
+ eed.de
+DTSTAMP:20260505T134449Z
+DTSTART:20261211T193000Z
+SUMMARY:Symphonic Pop orchestra
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2865429/2026/12/11
+ /symphonic-pop-orchestra.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2865431-2027-01-02-neujahrskonzert-der-murmeltears.ht
+ ml@amtsfeed.de
+DTSTAMP:20260505T134449Z
+DTSTART:20270102T200000Z
+SUMMARY:Neujahrskonzert der Murmeltears
+URL:https://www.oderbruch-tourismus.de/veranstaltungen/2865431/2027/01/02
+ /neujahrskonzert-der-murmeltears.html
+END:VEVENT
+END:VCALENDAR

@@ -98,11 +98,15 @@ const NEWS_LIMIT = 20;
 
 function parseSitemapUrls(xml: string): Array<{ url: string; lastmod: string }> {
   const items: Array<{ url: string; lastmod: string }> = [];
-  const urlRx = /<url>[\s\S]*?<loc>([^<]+)<\/loc>[\s\S]*?(?:<lastmod>([^<]+)<\/lastmod>)?[\s\S]*?<\/url>/g;
+  const blockRx = /<url>([\s\S]*?)<\/url>/g;
   let m: RegExpExecArray | null;
-  while ((m = urlRx.exec(xml)) !== null) {
-    const url = m[1]!.trim();
-    const lastmod = m[2]?.trim() ?? "";
+  while ((m = blockRx.exec(xml)) !== null) {
+    const block = m[1]!;
+    const locMatch = block.match(/<loc>([^<]+)<\/loc>/);
+    const lastmodMatch = block.match(/<lastmod>([^<]+)<\/lastmod>/);
+    if (!locMatch) continue;
+    const url = locMatch[1]!.trim();
+    const lastmod = lastmodMatch?.[1]?.trim() ?? "";
     if (url !== `${BASE_URL}/aktuelles/`) items.push({ url, lastmod });
   }
   return items;

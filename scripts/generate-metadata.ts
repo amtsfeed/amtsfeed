@@ -1,7 +1,7 @@
 #!/usr/bin/env tsx
 import { readFileSync, writeFileSync, existsSync, readdirSync, statSync } from "node:fs";
 import { join, resolve } from "node:path";
-import type { EventsFile, NewsFile } from "./types.ts";
+import type { EventsFile, NewsFile, AmtsblattFile } from "./types.ts";
 
 const WIKI_BASE = resolve(import.meta.dirname, "../wiki");
 const RAW_BASE = "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki";
@@ -20,11 +20,13 @@ export interface FeedEntry {
   hasIcal: boolean;
   eventCount: number;
   newsCount: number;
+  amtsblattCount: number;
   updatedAt: string | null;
   rssUrl: string | null;
   icalUrl: string | null;
   eventsUrl: string | null;
   newsUrl: string | null;
+  amtsblattUrl: string | null;
   sources: Source[];
 }
 
@@ -50,6 +52,8 @@ function walkWiki(dir: string, breadcrumb: string[]): FeedEntry[] {
   if (hasEvents || hasNews) {
     const eventsFile = hasEvents ? readJson<EventsFile>(join(dir, "events.json")) : null;
     const newsFile = hasNews ? readJson<NewsFile>(join(dir, "news.json")) : null;
+    const hasAmtsblatt = existsSync(join(dir, "amtsblatt.json"));
+    const amtsblattFile = hasAmtsblatt ? readJson<AmtsblattFile>(join(dir, "amtsblatt.json")) : null;
     const hasRss = existsSync(join(dir, "rss.xml"));
     const hasIcal = existsSync(join(dir, "events.ics"));
     const relPath = dir.slice(WIKI_BASE.length + 1);
@@ -66,11 +70,13 @@ function walkWiki(dir: string, breadcrumb: string[]): FeedEntry[] {
       hasIcal,
       eventCount: eventsFile?.items.length ?? 0,
       newsCount: newsFile?.items.length ?? 0,
+      amtsblattCount: amtsblattFile?.items.length ?? 0,
       updatedAt,
       rssUrl: hasRss ? `${RAW_BASE}/${encodedPath}/rss.xml` : null,
       icalUrl: hasIcal ? `${RAW_BASE}/${encodedPath}/events.ics` : null,
       eventsUrl: hasEvents ? `${RAW_BASE}/${encodedPath}/events.json` : null,
       newsUrl: hasNews ? `${RAW_BASE}/${encodedPath}/news.json` : null,
+      amtsblattUrl: hasAmtsblatt ? `${RAW_BASE}/${encodedPath}/amtsblatt.json` : null,
       sources,
     });
   }

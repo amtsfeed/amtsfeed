@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:02:39.221Z",
+  "updatedAt": "2026-05-05T22:21:11.357Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -13,11 +13,13 @@
       "hasIcal": true,
       "eventCount": 0,
       "newsCount": 15,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T17:20:01.963Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -32,11 +34,13 @@
       "hasIcal": true,
       "eventCount": 0,
       "newsCount": 12,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T00:00:00.000Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Amt%20Biesenthal-Barnim/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Amt%20Biesenthal-Barnim/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Amt%20Biesenthal-Barnim/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Amt%20Biesenthal-Barnim/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -51,11 +55,13 @@
       "hasIcal": true,
       "eventCount": 142,
       "newsCount": 15,
+      "amtsblattCount": 218,
       "updatedAt": "2026-05-05T18:12:29.633Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Amt%20Britz-Chorin-Oderberg/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Amt%20Britz-Chorin-Oderberg/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Amt%20Britz-Chorin-Oderberg/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Amt%20Britz-Chorin-Oderberg/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Amt%20Britz-Chorin-Oderberg/amtsblatt.json",
       "sources": []
     },
     {
@@ -70,11 +76,13 @@
       "hasIcal": true,
       "eventCount": 33,
       "newsCount": 30,
+      "amtsblattCount": 16,
       "updatedAt": "2026-05-05T21:00:50.477Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Bernau%20bei%20Berlin/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Bernau%20bei%20Berlin/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Bernau%20bei%20Berlin/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Bernau%20bei%20Berlin/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Bernau%20bei%20Berlin/amtsblatt.json",
       "sources": []
     },
     {
@@ -89,11 +97,13 @@
       "hasIcal": true,
       "eventCount": 10,
       "newsCount": 10,
+      "amtsblattCount": 19,
       "updatedAt": "2026-05-05T21:00:42.787Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Eberswalde/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Eberswalde/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Eberswalde/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Eberswalde/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Eberswalde/amtsblatt.json",
       "sources": []
     },
     {
@@ -108,11 +118,13 @@
       "hasIcal": true,
       "eventCount": 16,
       "newsCount": 0,
+      "amtsblattCount": 285,
       "updatedAt": "2026-05-05T21:56:10.795Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Panketal/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Panketal/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Panketal/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Panketal/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Panketal/amtsblatt.json",
       "sources": []
     },
     {
@@ -127,11 +139,13 @@
       "hasIcal": true,
       "eventCount": 226,
       "newsCount": 0,
+      "amtsblattCount": 14,
       "updatedAt": "2026-05-05T20:59:35.545Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Schorfheide/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Schorfheide/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Schorfheide/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Schorfheide/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Schorfheide/amtsblatt.json",
       "sources": []
     },
     {
@@ -146,11 +160,13 @@
       "hasIcal": true,
       "eventCount": 254,
       "newsCount": 20,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T14:05:37.794Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Wandlitz/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Wandlitz/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Wandlitz/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Wandlitz/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -165,11 +181,13 @@
       "hasIcal": true,
       "eventCount": 0,
       "newsCount": 10,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T17:20:04.734Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/news.json",
+      "amtsblattUrl": null,
       "sources": [
         {
           "type": "rss",
@@ -190,11 +208,13 @@
       "hasIcal": true,
       "eventCount": 32,
       "newsCount": 6,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T15:11:40.084Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Altlandsberg/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Altlandsberg/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Altlandsberg/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Altlandsberg/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -209,11 +229,13 @@
       "hasIcal": true,
       "eventCount": 4,
       "newsCount": 7,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T15:04:30.264Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Barnim-Oderbruch/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Barnim-Oderbruch/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Barnim-Oderbruch/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Barnim-Oderbruch/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -228,11 +250,13 @@
       "hasIcal": true,
       "eventCount": 18,
       "newsCount": 20,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T15:00:50.236Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Falkenberg-H%C3%B6he/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Falkenberg-H%C3%B6he/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Falkenberg-H%C3%B6he/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Falkenberg-H%C3%B6he/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -247,11 +271,13 @@
       "hasIcal": true,
       "eventCount": 44,
       "newsCount": 20,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T14:54:22.822Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Golzow/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Golzow/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Golzow/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Golzow/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -266,11 +292,13 @@
       "hasIcal": true,
       "eventCount": 67,
       "newsCount": 20,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T14:58:26.641Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Lebus/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Lebus/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Lebus/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Lebus/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -285,11 +313,13 @@
       "hasIcal": true,
       "eventCount": 368,
       "newsCount": 14,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T14:05:34.114Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20M%C3%A4rkische%20Schweiz/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20M%C3%A4rkische%20Schweiz/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20M%C3%A4rkische%20Schweiz/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20M%C3%A4rkische%20Schweiz/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -304,11 +334,13 @@
       "hasIcal": true,
       "eventCount": 14,
       "newsCount": 20,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T16:43:33.245Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Bad%20Freienwalde%20(Oder)/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Bad%20Freienwalde%20(Oder)/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Bad%20Freienwalde%20(Oder)/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Bad%20Freienwalde%20(Oder)/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -323,11 +355,13 @@
       "hasIcal": true,
       "eventCount": 77,
       "newsCount": 8,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T16:40:49.360Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -342,11 +376,13 @@
       "hasIcal": true,
       "eventCount": 12,
       "newsCount": 50,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T16:51:30.374Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Hoppegarten/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Hoppegarten/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Hoppegarten/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Hoppegarten/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -361,11 +397,13 @@
       "hasIcal": true,
       "eventCount": 8,
       "newsCount": 14,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T15:39:17.931Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/M%C3%BCncheberg/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/M%C3%BCncheberg/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/M%C3%BCncheberg/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/M%C3%BCncheberg/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -380,11 +418,13 @@
       "hasIcal": true,
       "eventCount": 25,
       "newsCount": 20,
+      "amtsblattCount": 127,
       "updatedAt": "2026-05-05T21:54:18.963Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Neuenhagen%20bei%20Berlin/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Neuenhagen%20bei%20Berlin/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Neuenhagen%20bei%20Berlin/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Neuenhagen%20bei%20Berlin/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Neuenhagen%20bei%20Berlin/amtsblatt.json",
       "sources": []
     },
     {
@@ -399,11 +439,13 @@
       "hasIcal": true,
       "eventCount": 15,
       "newsCount": 4,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T13:44:49.076Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -419,11 +461,13 @@
       "hasIcal": true,
       "eventCount": 111,
       "newsCount": 23,
-      "updatedAt": "2026-05-05T21:54:16.993Z",
+      "amtsblattCount": 260,
+      "updatedAt": "2026-05-05T22:14:30.428Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/amtsblatt.json",
       "sources": []
     },
     {
@@ -440,11 +484,13 @@
       "hasIcal": true,
       "eventCount": 5,
       "newsCount": 0,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T13:45:18.597Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/Friedersdorf/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/Friedersdorf/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/Friedersdorf/events.json",
       "newsUrl": null,
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -461,11 +507,13 @@
       "hasIcal": true,
       "eventCount": 115,
       "newsCount": 20,
+      "amtsblattCount": 127,
       "updatedAt": "2026-05-05T21:56:43.439Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/Seelow/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/Seelow/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/Seelow/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/Seelow/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Oderbruch/Amt%20Seelow-Land/Seelow/amtsblatt.json",
       "sources": []
     },
     {
@@ -480,11 +528,13 @@
       "hasIcal": true,
       "eventCount": 482,
       "newsCount": 19,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T16:34:02.701Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Strausberg/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Strausberg/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Strausberg/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Strausberg/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -499,11 +549,13 @@
       "hasIcal": true,
       "eventCount": 6,
       "newsCount": 6,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T16:11:18.889Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Wriezen/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Wriezen/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Wriezen/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Wriezen/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -518,11 +570,13 @@
       "hasIcal": true,
       "eventCount": 120,
       "newsCount": 20,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T18:07:03.322Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -538,11 +592,13 @@
       "hasIcal": true,
       "eventCount": 19,
       "newsCount": 0,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T15:50:40.943Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/Bad%20Saarow/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/Bad%20Saarow/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Scharm%C3%BCtzelsee/Bad%20Saarow/events.json",
       "newsUrl": null,
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -557,11 +613,13 @@
       "hasIcal": true,
       "eventCount": 60,
       "newsCount": 50,
+      "amtsblattCount": 0,
       "updatedAt": "2026-05-05T13:39:02.247Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Friedland/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Friedland/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Friedland/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Friedland/news.json",
+      "amtsblattUrl": null,
       "sources": []
     }
   ]

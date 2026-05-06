@@ -2,13 +2,14 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, AmtsblattFile, Event, NewsItem, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, AmtsblattFile, Event, NewsItem, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.bernau.de";
 const EVENTS_URL = `${BASE_URL}/de/rathaus-service/aktuelles/veranstaltungen.html`;
 const NEWS_URL = `${BASE_URL}/de/rathaus-service/aktuelles/stadtnachrichten.html`;
 const AMTSBLATT_BASE_URL = `${BASE_URL}/de/rathaus-service/aktuelles/amtsblatt.html`;
+const NOTICES_BASE_URL = `${BASE_URL}/de/politik-beteiligung/buergerbeteiligung/bekanntmachungen.html`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -198,6 +199,43 @@ function extractAmtsblatt(html: string): AmtsblattItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// Bernau folder-based download_db:
+// <a href="https://www.bernau.de/visioncontent/mediendatenbank/SLUG.pdf"
+//    title="TITLE runterladen" ...>
+//   <span class="fileName">TITLE</span>
+// No dates available in HTML; use fetchedAt as publishedAt placeholder.
+// ID: slug from PDF URL (filename without extension).
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const re = /href="(https?:\/\/www\.bernau\.de\/visioncontent\/mediendatenbank\/([^"]+\.pdf))"[^>]*title="([^"]+)\s+runterladen"/gi;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(html)) !== null) {
+    const url = m[1]!;
+    const slug = m[2]!.replace(/\.pdf$/i, "").replace(/[^a-z0-9_-]/gi, "-");
+    const id = `bernau-notice-${slug}`.slice(0, 120);
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const title = decodeHtmlEntities(m[3]!.trim());
+    if (!title) continue;
+
+    items.push({ id, title, url, publishedAt: now, fetchedAt: now });
+  }
+
+  return items;
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt, publishedAt: byId.get(n.id)?.publishedAt ?? n.publishedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -240,13 +278,16 @@ assertAllowed(robots, [
   "/de/rathaus-service/aktuelles/veranstaltungen.html",
   "/de/rathaus-service/aktuelles/stadtnachrichten.html",
   "/de/rathaus-service/aktuelles/amtsblatt.html",
+  "/de/politik-beteiligung/buergerbeteiligung/bekanntmachungen.html",
 ]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, newsHtml, amtsblattMainHtml] = await Promise.all([
+const [eventsHtml, newsHtml, amtsblattMainHtml, noticesFolder629Html, noticesFolder630Html] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_BASE_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${AMTSBLATT_BASE_URL}`); return r.text(); }),
+  fetch(`${NOTICES_BASE_URL}?folder=629`, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(`${NOTICES_BASE_URL}?folder=630`, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 // Extract folder IDs from the navigation links (e.g. ?folder=672), take 2 most recent
@@ -265,20 +306,26 @@ const allAmtsblattItems = [...folderHtmls, amtsblattMainHtml].flatMap(extractAmt
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
+const noticesPath = join(DIR, "notices.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, allAmtsblattItems);
+const allNoticesHtml = noticesFolder629Html + noticesFolder630Html;
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(allNoticesHtml));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
 console.log(`events:    ${mergedEvents.length} Einträge → ${eventsPath}`);
 console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

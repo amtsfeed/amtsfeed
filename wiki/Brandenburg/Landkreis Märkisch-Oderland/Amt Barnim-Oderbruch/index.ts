@@ -2,13 +2,19 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.barnim-oderbruch.de";
 const EVENTS_URL = `${BASE_URL}/aktuelles/veranstaltungen`;
 const NEWS_URL = `${BASE_URL}/aktuelles`;
 const AMTSBLATT_BASE_URL = `${BASE_URL}/aktuelles/bekanntmachungen/amtsblaetter`;
+const NOTICES_SUBCATS = [
+  `${BASE_URL}/aktuelles/bekanntmachungen/hinweise-/-verbote`,
+  `${BASE_URL}/aktuelles/bekanntmachungen/oeffentlichkeitsbeteiligung-bei-planungen`,
+  `${BASE_URL}/aktuelles/bekanntmachungen/allgemeinverfuegungen`,
+  `${BASE_URL}/aktuelles/bekanntmachungen/wahlen`,
+];
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -146,6 +152,46 @@ function extractAmtsblatt(html: string, year: string): AmtsblattItem[] {
   return [...items.values()];
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// Barnim-Oderbruch subcategory pages with ce-uploads file lists:
+// <li class="list-link">
+//   <a href="/fileadmin/..." title="TITLE">
+//     <span class="ce-uploads-fileName">TITLE</span>
+//   </a>
+// No dates in HTML — use fetchedAt as placeholder.
+// ID: slug from fileadmin path filename.
+
+function extractNotices(html: string, sourceUrl: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const re = /<li\s+class="list-link">\s*<a\s+href="(\/fileadmin\/[^"]+)"[^>]*title="([^"]+)">/gi;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(html)) !== null) {
+    const href = m[1]!;
+    const title = decodeHtmlEntities(m[2]!.trim());
+    if (!title) continue;
+
+    const filename = decodeURIComponent(href.split("/").pop() ?? href)
+      .replace(/\.pdf$/i, "").replace(/[^a-z0-9_\-äöüÄÖÜß]/gi, "-").toLowerCase().slice(0, 80);
+    const id = `amt-barnim-oderbruch-notice-${filename}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const url = `${BASE_URL}${href}`;
+    items.push({ id, title, url, publishedAt: now, fetchedAt: now });
+  }
+
+  return items;
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt, publishedAt: byId.get(n.id)?.publishedAt ?? n.publishedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
   const byId = new Map(existing.map((i) => [i.id, i]));
   for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
@@ -195,35 +241,43 @@ const headers = { "User-Agent": AMTSFEED_UA };
 const currentYear = new Date().getFullYear().toString();
 const prevYear = (new Date().getFullYear() - 1).toString();
 
-const [eventsHtml, newsHtml, amtsblatt2025Html, amtsblatt2026Html] = await Promise.all([
+const [eventsHtml, newsHtml, amtsblatt2025Html, amtsblatt2026Html, ...noticesHtmls] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(`${AMTSBLATT_BASE_URL}/${prevYear}`, { headers }).then((r) => r.ok ? r.text() : ""),
   fetch(`${AMTSBLATT_BASE_URL}/${currentYear}`, { headers }).then((r) => r.ok ? r.text() : ""),
+  ...NOTICES_SUBCATS.map((url) => fetch(url, { headers }).then((r) => r.ok ? r.text() : "")),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
+const noticesPath = join(DIR, "notices.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 
 const incomingAmtsblatt = [
   ...extractAmtsblatt(amtsblatt2025Html, prevYear),
   ...extractAmtsblatt(amtsblatt2026Html, currentYear),
 ];
 
+const incomingNotices = NOTICES_SUBCATS.flatMap((url, i) => extractNotices(noticesHtmls[i] ?? "", url));
+
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, incomingAmtsblatt);
+const mergedNotices = mergeNotices(existingNotices.items, incomingNotices);
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
 console.log(`events:    ${mergedEvents.length} Einträge → ${eventsPath}`);
 console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

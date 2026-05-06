@@ -2,13 +2,14 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.altlandsberg.de";
 const EVENTS_PAGE_URL = `${BASE_URL}/leben-wohnen/kultur-freizeit/veranstaltungen/`;
 const NEWS_URL = `${BASE_URL}/buergerservice-verwaltung/weitere-themen/stadtnachrichten/`;
 const AMTSBLATT_URL = `${BASE_URL}/buergerservice-verwaltung/rathaus/amtsblatt-und-stadtmagazin/`;
+const NOTICES_URL = `${BASE_URL}/amtliche-bekanntmachungen/oeffentliche-bekanntmachungen/`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -188,6 +189,45 @@ function extractAmtsblatt(html: string): AmtsblattItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// Altlandsberg öffentliche Bekanntmachungen:
+// <a href="/fileadmin/user_upload/Dokumente/Amtliche_Bekanntmachungen/YYYY-DD-MM_TITLE.pdf"
+//    target="_blank" title="YYYY-MM-DD | TITLE">
+// ID: slug from filename.
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const re = /href="(\/fileadmin\/user_upload\/Dokumente\/Amtliche_Bekanntmachungen\/[^"]+\.pdf)"[^>]*title="(\d{4}-\d{2}-\d{2})\s*\|\s*([^"]+)"/gi;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(html)) !== null) {
+    const href = m[1]!;
+    const dateStr = m[2]!;
+    const titleRaw = m[3]!.trim();
+    const title = decodeHtmlEntities(titleRaw);
+    if (!title) continue;
+
+    const publishedAt = `${dateStr}T00:00:00.000Z`;
+    const filename = decodeURIComponent(href.split("/").pop() ?? href)
+      .replace(/\.pdf$/i, "").replace(/[^a-z0-9_\-]/gi, "-").toLowerCase().slice(0, 80);
+    const id = `altlandsberg-notice-${filename}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    items.push({ id, title, url: `${BASE_URL}${href}`, publishedAt, fetchedAt: now });
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt, publishedAt: byId.get(n.id)?.publishedAt ?? n.publishedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
   const byId = new Map(existing.map((i) => [i.id, i]));
   for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
@@ -234,32 +274,39 @@ assertAllowed(robots, [
   "/leben-wohnen/kultur-freizeit/veranstaltungen/",
   "/buergerservice-verwaltung/weitere-themen/stadtnachrichten/",
   "/buergerservice-verwaltung/rathaus/",
+  "/amtliche-bekanntmachungen/",
 ]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [incomingEvents, newsHtml, amtsblattHtml] = await Promise.all([
+const [incomingEvents, newsHtml, amtsblattHtml, noticesHtml] = await Promise.all([
   fetchAllEvents(headers),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
+const noticesPath = join(DIR, "notices.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, incomingEvents);
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
 console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
 console.log(`news:       ${mergedNews.length} Einträge → ${newsPath}`);
 console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+console.log(`notices:    ${mergedNotices.length} Einträge → ${noticesPath}`);

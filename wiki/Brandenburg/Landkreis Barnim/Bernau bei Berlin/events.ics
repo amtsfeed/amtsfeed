@@ -37,24 +37,6 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
 LOCATION:Treff 23 / Saal 3
 END:VEVENT
 BEGIN:VEVENT
-UID:artikel-bernauer_stadtradeln_2026@amtsfeed.de
-DTSTAMP:20260505T210050Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-SUMMARY:Bernauer Stadtradeln 2026
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-bernauer_stadtradeln_2026-2026-05-06.html
-END:VEVENT
-BEGIN:VEVENT
-UID:artikel-museum_im_henkerhaus@amtsfeed.de
-DTSTAMP:20260505T210050Z
-DTSTART:20260506T090000Z
-SUMMARY:Museum im Henkerhaus
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-museum_im_henkerhaus-2026-05-06.html
-LOCATION:Museum im Henkerhaus
-END:VEVENT
-BEGIN:VEVENT
 UID:artikel-spielerunde_in_geselligkeit@amtsfeed.de
 DTSTAMP:20260505T210050Z
 DTSTART:20260506T093000Z
@@ -62,35 +44,6 @@ SUMMARY:Spielerunde in Geselligkeit
 URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
  tikel-spielerunde_in_geselligkeit-2026-05-06.html
 LOCATION:Aufwind - Begegnung und Beratung
-END:VEVENT
-BEGIN:VEVENT
-UID:artikel-atelier-ausstellung_naturtraeume@amtsfeed.de
-DTSTAMP:20260505T210050Z
-DTSTART:20260506T100000Z
-SUMMARY:Atelier-Ausstellung „Naturträume"
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-atelier-ausstellung_naturtraeume-2026-05-06.html
-LOCATION:Atelier der Galerie Bernau
-END:VEVENT
-BEGIN:VEVENT
-UID:artikel-dauerausstellung_im_besucherzentrum_bernau@amtsfeed.de
-DTSTAMP:20260505T210050Z
-DTSTART:20260506T100000Z
-SUMMARY:Dauerausstellung im Besucherzentrum Bernau
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-dauerausstellung_im_besucherzentrum_bernau-2026-05-06.html
-LOCATION:UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau
-END:VEVENT
-BEGIN:VEVENT
-UID:artikel-ausstellung_eine_aeusserst_subjektive_version_der_geschichte@
- amtsfeed.de
-DTSTAMP:20260505T210050Z
-DTSTART:20260506T100000Z
-SUMMARY:Ausstellung „Eine äußerst subjektive Version der Geschichte"
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-ausstellung_eine_aeusserst_subjektive_version_der_geschichte-2026-0
- 5-06.html
-LOCATION:Galerie Bernau
 END:VEVENT
 BEGIN:VEVENT
 UID:artikel-tanz_mit_beckenboden_mawiba@amtsfeed.de
@@ -169,16 +122,6 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
  tikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischlu
  ft-2026-05-06.html
 LOCATION:Jugend- und Stadtteilzentrum Frischluft
-END:VEVENT
-BEGIN:VEVENT
-UID:artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum@amtsfeed.d
- e
-DTSTAMP:20260505T210050Z
-DTSTART:20260506T150000Z
-SUMMARY:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-05-06.html
-LOCATION:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
 END:VEVENT
 BEGIN:VEVENT
 UID:artikel-frakima_freie_kunst_fuer_kinder_und_jugendliche_i@amtsfeed.de
@@ -327,5 +270,280 @@ SUMMARY:„KRIEG ich Frieden?"
 URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
  tikel-krieg_ich_frieden-2026-05-06.html
 LOCATION:Galerie im Hühnerstall
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-bernauer_stadtradeln_2026@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Bernauer Stadtradeln 2026
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-bernauer_stadtradeln_2026-2026-05-07.html
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-museum_im_henkerhaus@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T090000Z
+SUMMARY:Museum im Henkerhaus
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-museum_im_henkerhaus-2026-05-07.html
+LOCATION:Museum im Henkerhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-migrations-lerntreff_deutsch_lesen_und_schreiben@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T093000Z
+SUMMARY:Migrations-Lerntreff: Deutsch lesen und schreiben
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-migrations-lerntreff_deutsch_lesen_und_schreiben-2026-05-07.html
+LOCATION:Grundbildungszentrum Barnim
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-atelier-ausstellung_naturtraeume@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T100000Z
+SUMMARY:Atelier-Ausstellung „Naturträume"
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-atelier-ausstellung_naturtraeume-2026-05-07.html
+LOCATION:Atelier der Galerie Bernau
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-dauerausstellung_im_besucherzentrum_bernau@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T100000Z
+SUMMARY:Dauerausstellung im Besucherzentrum Bernau
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-dauerausstellung_im_besucherzentrum_bernau-2026-05-07.html
+LOCATION:UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-ausstellung_eine_aeusserst_subjektive_version_der_geschichte@
+ amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T100000Z
+SUMMARY:Ausstellung „Eine äußerst subjektive Version der Geschichte"
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-ausstellung_eine_aeusserst_subjektive_version_der_geschichte-2026-0
+ 5-07.html
+LOCATION:Galerie Bernau
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-elternzeitcaf@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T100000Z
+SUMMARY:ElternZeitCafè
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-elternzeitcaf-2026-05-07.html
+LOCATION:Netzwerk Gesunde Kinder Barnim Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-frakimas_malerei_am_vormittag@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T100000Z
+SUMMARY:FRAKIMAs Malerei | am Vormittag
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-frakimas_malerei_am_vormittag-2026-05-07.html
+LOCATION:FRAKIMA-Werkstatt
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-froehlich_sein_und_knobeln@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T100000Z
+SUMMARY:Fröhlich sein und knobeln
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-froehlich_sein_und_knobeln-2026-05-07.html
+LOCATION:Gemeindezentrum Schönow
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-offene_sprechstunde_schuldner-_und_insolvenzberatungsstelle@a
+ mtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T100000Z
+SUMMARY:Offene Sprechstunde: Schuldner- und Insolvenzberatungsstelle
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-offene_sprechstunde_schuldner-_und_insolvenzberatungsstelle-2026-05
+ -07.html
+LOCATION:AWO Quartier „Am Weinberg"
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-sprechtag_fuer_geldstrafenschuldner_-innen@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T100000Z
+SUMMARY:Sprechtag für Geldstrafenschuldner/-innen
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-sprechtag_fuer_geldstrafenschuldner_-innen-2026-05-07.html
+LOCATION:Stadtbibliothek Bernau bei Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-tanz_mit_beckenboden@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T100000Z
+SUMMARY:Tanz mit Beckenboden
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-tanz_mit_beckenboden-2026-05-07.html
+LOCATION:Eastside fun Crew
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-yoga_zur_rueckbildung_staerkung_beckenboden@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T113000Z
+SUMMARY:Yoga zur Rückbildung & Stärkung Beckenboden
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-yoga_zur_rueckbildung_staerkung_beckenboden-2026-05-07.html
+LOCATION:Zentrum Wohlklang
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-bingo_in_der_volkssolidaritaet@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T140000Z
+SUMMARY:Bingo in der Volkssolidarität
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-bingo_in_der_volkssolidaritaet-2026-05-07.html
+LOCATION:Begegnungszentrum Bernau – Einrichtung des Landesverbandes der
+  Volkssolidarität e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum@amtsfeed.d
+ e
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T150000Z
+SUMMARY:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-05-07.html
+LOCATION:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-frakimas_filzwerkstatt_mit_magdalena_hohberg@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T153000Z
+SUMMARY:FRAKIMAs Filzwerkstatt mit Magdalena Hohberg
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-frakimas_filzwerkstatt_mit_magdalena_hohberg-2026-05-07.html
+LOCATION:FRAKIMA-Werkstatt
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-frakimas_keramikkurs_fuer_erwachsene_am_donnerstagnachmittag@
+ amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T153000Z
+SUMMARY:FRAKIMAs Keramikkurs | für Erwachsene am Donnerstagnachmittag
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-frakimas_keramikkurs_fuer_erwachsene_am_donnerstagnachmittag-2026-0
+ 5-07.html
+LOCATION:FRAKIMA-Werkstatt
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-vegane_weltreise_veganes_und_glutenfreies_spanien@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T170000Z
+SUMMARY:Vegane Weltreise: Veganes und glutenfreies Spanien
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-vegane_weltreise_veganes_und_glutenfreies_spanien-2026-05-07.html
+LOCATION:Schule im Nibelungenviertel
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-vinyasa_yin_yoga_kurse_im_wohlklang_zentrum@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T170000Z
+SUMMARY:Vinyasa & Yin Yoga Kurse im Wohlklang Zentrum
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-vinyasa_yin_yoga_kurse_im_wohlklang_zentrum-2026-05-07.html
+LOCATION:Wohlklang Zentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-werden_sie_ehrenamtlicher_pflegelotse_in_ihrer_nachbarschaft@
+ amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T170000Z
+SUMMARY:Werden Sie ehrenamtlicher Pflegelotse in Ihrer Nachbarschaft!
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-werden_sie_ehrenamtlicher_pflegelotse_in_ihrer_nachbarschaft-2026-0
+ 5-07.html
+LOCATION:Aufwind vor Ort
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-frakimas_filzwerkstatt_mit_magdalena_hohberg_am_abend@amtsfee
+ d.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T173000Z
+SUMMARY:FRAKIMAs Filzwerkstatt mit Magdalena Hohberg | am Abend
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-frakimas_filzwerkstatt_mit_magdalena_hohberg_am_abend-2026-05-07.ht
+ ml
+LOCATION:FRAKIMA-Werkstatt
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-achtsamkeitskurs_-_raus_aus_dem_kopf_mit_mehr_achtsamkeit_zu_
+ mehr_frieden_und_leichtigkeit_in_dir@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T180000Z
+SUMMARY:Achtsamkeitskurs - Raus aus dem Kopf – mit mehr Achtsamkeit zu 
+ mehr Frieden und Leichtigkeit in dir
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-achtsamkeitskurs_-_raus_aus_dem_kopf_mit_mehr_achtsamkeit_zu_mehr_f
+ rieden_und_leichtigkeit_in_dir-2026-05-07.html
+LOCATION:Praxis Wohlklang
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-frakimas_keramikkurs_fuer_erwachsene_am_donnerstagabend@amtsf
+ eed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260507T180000Z
+SUMMARY:FRAKIMAs Keramikkurs | für Erwachsene am Donnerstagabend
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-frakimas_keramikkurs_fuer_erwachsene_am_donnerstagabend-2026-05-07.
+ html
+LOCATION:FRAKIMA-Werkstatt
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-findhorntanz@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260508T140000Z
+SUMMARY:Findhorntanz
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-findhorntanz-2026-05-08.html
+LOCATION:AWO-Treff
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-thematische_stadtfuehrung_genusstour_-_kulinarik_trifft_stadt
+ geschichte@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260508T160000Z
+SUMMARY:Thematische Stadtführung – Genusstour - Kulinarik trifft Stadt
+ geschichte
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-thematische_stadtfuehrung_genusstour_-_kulinarik_trifft_stadtgeschi
+ chte-2026-05-08.html
+LOCATION:Tourist-Information Bernau
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-reparatur_caf@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260508T170000Z
+SUMMARY:Reparatur Café
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-reparatur_caf-2026-05-08.html
+LOCATION:Stadtmauertreff — 1. Raum
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-emerita_pansowova_-_eroeffnung_zur_ausstellung_ausgewaehlter_
+ werke_anlaesslich_des_80_geburtstages_der_bildhauerin@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260508T180000Z
+SUMMARY:Emerita Pansowová - Eröffnung zur Ausstellung ausgewählter Wer
+ ke anlässlich des 80. Geburtstages der Bildhauerin
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-emerita_pansowova_-_eroeffnung_zur_ausstellung_ausgewaehlter_werke_
+ anlaesslich_des_80_geburtstages_der_bildhauerin-2026-05-08.html
+LOCATION:Bernauer Innenstadt
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-neues_spiel_-_neues_glueck@amtsfeed.de
+DTSTAMP:20260506T202102Z
+DTSTART:20260508T193000Z
+SUMMARY:Neues Spiel - neues Glück
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-neues_spiel_-_neues_glueck-2026-05-08.html
+LOCATION:Kirche Lobetal
 END:VEVENT
 END:VCALENDAR

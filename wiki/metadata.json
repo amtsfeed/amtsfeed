@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T12:05:20.245Z",
+  "updatedAt": "2026-05-06T12:15:51.364Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -1208,6 +1208,27 @@
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Seddiner%20See/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Seddiner%20See/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Seddiner%20See/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Stahnsdorf",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Stahnsdorf"
+      ],
+      "name": "Stahnsdorf",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 31,
+      "newsCount": 6,
+      "amtsblattCount": 10,
+      "updatedAt": "2026-05-06T12:15:36.602Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Stahnsdorf/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Stahnsdorf/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Stahnsdorf/amtsblatt.json",
       "sources": []
     },
     {

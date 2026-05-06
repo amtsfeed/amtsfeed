@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "stahnsdorf.de",
+    "baseUrl": "https://stahnsdorf.de",
+    "updatedAt": "2026-05-06T12:14:43.132Z",
+    "content": "# robots.txt for https://stahnsdorf.de/\n\n\nUser-agent: AI2Bot\nUser-agent: Ai2Bot-Dolma\nUser-agent: Amazonbot\nUser-agent: Applebot\nUser-agent: Applebot-Extended\nUser-agent: Bytespider\nUser-agent: CCBot\nUser-agent: ChatGPT-User\nUser-agent: Claude-Web\nUser-agent: ClaudeBot\nUser-agent: Diffbot\nUser-agent: FacebookBot\nUser-agent: FriendlyCrawler\nUser-agent: GPTBot\nUser-agent: Google-Extended\nUser-agent: GoogleOther\nUser-agent: GoogleOther-Image\nUser-agent: GoogleOther-Video\nUser-agent: ICC-Crawler\nUser-agent: ImagesiftBot\nUser-agent: Meta-ExternalAgent\nUser-agent: Meta-ExternalFetcher\nUser-agent: OAI-SearchBot\nUser-agent: PerplexityBot\nUser-agent: PetalBot\nUser-agent: Scrapy\nUser-agent: Timpibot\nUser-agent: VelenPublicWebCrawler\nUser-agent: Webzio-Extended\nUser-agent: YouBot\nUser-agent: anthropic-ai\nUser-agent: cohere-ai\nUser-agent: facebookexternalhit\nUser-agent: img2dataset\nUser-agent: omgili\nUser-agent: omgilibot\nDisallow: /\n\n\nUser-agent: *\nDisallow: /classes/\nDisallow: /images/\nAllow: /\nDisallow: /common/online-dienste/\n\nSitemap: https://stahnsdorf.de/sitemap.xml"
+  }
+]

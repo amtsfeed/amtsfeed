@@ -7,157 +7,347 @@ X-WR-CALNAME:Bad Freienwalde (Oder)
 X-WR-CALDESC:Amtliche Veranstaltungen für Bad Freienwalde (Oder)
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:1114501-20260426@amtsfeed.de
-DTSTAMP:20260506T053101Z
-DTSTART:20260426T150000Z
-DTEND:20261025T150000Z
-SUMMARY:Sonntag um Drei - Live Konzerte in der ehemaligen Brennerei Cöth
- en
-URL:https://bad-freienwalde.de/veranstaltungen/sonntag-um-drei-live-konze
- rte-in-der-ehemaligen-brennerei-coethen/
-LOCATION:Das-Gut.org - ehemalige Brennerei Cöthen - KunsTechniKiosk
+UID:bad-freienwalde-event-2860263-20260225@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:Ausstellung - Historische Plakate Bad Freienwalde
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2860263/2026/02/25/a
+ usstellung-historische-plakate-bad-freienwalde.html
 END:VEVENT
 BEGIN:VEVENT
-UID:946028-20260504@amtsfeed.de
-DTSTAMP:20260505T164333Z
-DTSTART;VALUE=DATE:20260504
-DTEND;VALUE=DATE:20260506
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder/
-LOCATION:Binnenschifffahrts-Museum Oderberg
-END:VEVENT
-BEGIN:VEVENT
-UID:946028-20260505@amtsfeed.de
-DTSTAMP:20260506T053101Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260507
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-2/
-LOCATION:Binnenschifffahrts-Museum Oderberg
-END:VEVENT
-BEGIN:VEVENT
-UID:946028-20260506@amtsfeed.de
-DTSTAMP:20260506T053101Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260508
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-3/
-LOCATION:Binnenschifffahrts-Museum Oderberg
-END:VEVENT
-BEGIN:VEVENT
-UID:946028-20260507@amtsfeed.de
-DTSTAMP:20260506T053101Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260509
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-4/
-LOCATION:Binnenschifffahrts-Museum Oderberg
-END:VEVENT
-BEGIN:VEVENT
-UID:946028-20260508@amtsfeed.de
-DTSTAMP:20260506T053101Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260510
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-5/
-LOCATION:Binnenschifffahrts-Museum Oderberg
-END:VEVENT
-BEGIN:VEVENT
-UID:946028-20260509@amtsfeed.de
-DTSTAMP:20260506T053101Z
+UID:bad-freienwalde-event-2896120-20260509@amtsfeed.de
+DTSTAMP:20260506T201201Z
 DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-6/
-LOCATION:Binnenschifffahrts-Museum Oderberg
+DTEND;VALUE=DATE:20260510
+SUMMARY:Fr&uuml\;hjahrsspringen in Wippra
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2896120/2026/05/09/f
+ rühjahrsspringen-in-wippra.html
 END:VEVENT
 BEGIN:VEVENT
-UID:946028-20260510@amtsfeed.de
-DTSTAMP:20260506T053101Z
+UID:bad-freienwalde-event-2860388-20260510@amtsfeed.de
+DTSTAMP:20260506T201201Z
 DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260512
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-7/
-LOCATION:Binnenschifffahrts-Museum Oderberg
+DTEND;VALUE=DATE:20260511
+SUMMARY:Musikalische Gr&uuml\;&szlig\;e zum Muttertag
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2860388/2026/05/10/m
+ usikalische-grüße-zum-muttertag.html
 END:VEVENT
 BEGIN:VEVENT
-UID:946028-20260511@amtsfeed.de
-DTSTAMP:20260506T053101Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260513
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-8/
-LOCATION:Binnenschifffahrts-Museum Oderberg
-END:VEVENT
-BEGIN:VEVENT
-UID:946028-20260512@amtsfeed.de
-DTSTAMP:20260506T053101Z
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260514
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-9/
-LOCATION:Binnenschifffahrts-Museum Oderberg
-END:VEVENT
-BEGIN:VEVENT
-UID:946028-20260513@amtsfeed.de
-DTSTAMP:20260506T053101Z
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260515
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-10/
-LOCATION:Binnenschifffahrts-Museum Oderberg
-END:VEVENT
-BEGIN:VEVENT
-UID:946028-20260514@amtsfeed.de
-DTSTAMP:20260506T053101Z
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260516
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-11/
-LOCATION:Binnenschifffahrts-Museum Oderberg
-END:VEVENT
-BEGIN:VEVENT
-UID:946028-20260515@amtsfeed.de
-DTSTAMP:20260506T053101Z
+UID:bad-freienwalde-event-2893376-20260515@amtsfeed.de
+DTSTAMP:20260506T201201Z
 DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260517
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-12/
-LOCATION:Binnenschifffahrts-Museum Oderberg
+DTEND;VALUE=DATE:20260516
+SUMMARY:49. Internationales Skispringen am Kottmar 2026
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2893376/2026/05/15/4
+ 9.-internationales-skispringen-am-kottmar-2026.html
 END:VEVENT
 BEGIN:VEVENT
-UID:946028-20260516@amtsfeed.de
-DTSTAMP:20260506T053101Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260518
-SUMMARY:Beiderseits! / Po obu stronach! – Geschichten vom Leben an der 
- Oder
-URL:https://bad-freienwalde.de/veranstaltungen/beiderseits-po-obu-stronac
- h-geschichten-vom-leben-an-der-oder-13/
-LOCATION:Binnenschifffahrts-Museum Oderberg
+UID:bad-freienwalde-event-2879628-20260519@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:Talentiade in Strausberg
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2879628/2026/05/19/t
+ alentiade-in-strausberg.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2830123-20260520@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:373. Foyergespr&auml\;ch Der malende Schornsteinfeger - vom erste
+ n Pinselstrich bis zum Bild
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2830123/2026/05/20/3
+ 73.-foyergespräch-der-malende-schornsteinfeger-vom-ersten-pinselstrich-b
+ is-zum-bild.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2879629-20260522@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Pfingstspringen in Bischofsgr&uuml\;n
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2879629/2026/05/22/p
+ fingstspringen-in-bischofsgrün.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2896123-20260527@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Die Mobile Schanze an der Johanniter Grundschule in Wriezen
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2896123/2026/05/27/d
+ ie-mobile-schanze-an-der-johanniter-grundschule-in-wriezen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2892007-20260530@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Konzert "Die Rockenden F&uuml\;nf" in Neulietzeg&ouml\;ricke
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2892007/2026/05/30/k
+ onzert-die-rockenden-fünf-in-neulietzegöricke.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2890215-20260530@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Die mobile Schanze in Neulewin
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2890215/2026/05/30/d
+ ie-mobile-schanze-in-neulewin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2860394-20260531@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Goldene Schlagerjuwelen
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2860394/2026/05/31/g
+ oldene-schlagerjuwelen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2890217-20260601@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Kindertag an der Inselgrundschule in Neuenhagen
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2890217/2026/06/01/k
+ indertag-an-der-inselgrundschule-in-neuenhagen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2892014-20260607@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Lesereihe OderBuch 2026: Karsten Krampitz "Gesellschaft mit besch
+ r&auml\;nkter Hoffnung"
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2892014/2026/06/07/l
+ esereihe-oderbuch-2026-karsten-krampitz-quotgesellschaft-mit-beschränkte
+ r-hoffnung-quot.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2855646-20260613@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Familiensportfest im Sportforum Berlin
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2855646/2026/06/13/f
+ amiliensportfest-im-sportforum-berlin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2896122-20260624@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Die Mobile Schanze an der Grundschule Falkenberg/Mark
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2896122/2026/06/24/d
+ ie-mobile-schanze-an-der-grundschule-falkenberg-mark.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2830125-20260624@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:374. Foyergespr&auml\;ch Alte Handwerkskunst - Zu Besuch im S&aum
+ l\;gewerk Schiffm&uuml\;hle
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2830125/2026/06/24/3
+ 74.-foyergespräch-alte-handwerkskunst-zu-besuch-im-sägewerk-schiffmühl
+ e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2872519-20260627@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Nordcup Finale in Wernigerode
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2872519/2026/06/27/n
+ ordcup-finale-in-wernigerode.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2855660-20260627@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Kinder- und Jugendspiele
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2855660/2026/06/27/k
+ inder-und-jugendspiele.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2871098-20260704@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Landesmeisterschaften Rollerski
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2871098/2026/07/04/l
+ andesmeisterschaften-rollerski.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2892016-20260726@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Lesereihe OderBuch 2026: Lukas Rietzschel "Sanditt"
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2892016/2026/07/26/l
+ esereihe-oderbuch-2026-lukas-rietzschel-quotsanditt-quot.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2892018-20260816@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Lesereihe OderBuch 2026: Regina Scheer "Machandel"
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2892018/2026/08/16/l
+ esereihe-oderbuch-2026-regina-scheer-quotmachandel-quot.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2879625-20260822@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Sommerskispringen in Rothenburg
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2879625/2026/08/22/s
+ ommerskispringen-in-rothenburg.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2899047-20260822@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:NORDCUP P&ouml\;hla
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2899047/2026/08/22/n
+ ordcup-pöhla.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2884824-20260830@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:375. Foyergespr&auml\;ch - Plaumenkuchenwanderung
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2884824/2026/08/30/3
+ 75.-foyergespräch-plaumenkuchenwanderung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2892011-20260906@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Neulietzeg&ouml\;ricker Kolonistentag
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2892011/2026/09/06/n
+ eulietzegöricker-kolonistentag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2821399-20260912@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:DSV Nordcup
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2821399/2026/09/12/d
+ sv-nordcup.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2884829-20260916@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:376. Foyergespr&auml\;ch - Wie steht es mit den Beziehungen zu Po
+ len
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2884829/2026/09/16/3
+ 76.-foyergespräch-wie-steht-es-mit-den-beziehungen-zu-polen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2884733-20260920@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Robbie Doyle und Band und den den Scottish Country Dancing Societ
+ y of Berlin
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2884733/2026/09/20/r
+ obbie-doyle-und-band-und-den-den-scottish-country-dancing-society-of-berl
+ in.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2821403-20261009@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Internationale Offene Landesmeisterschaft im Spezialsprunglauf un
+ d in der Nordischen Kombination
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2821403/2026/10/09/i
+ nternationale-offene-landesmeisterschaft-im-spezialsprunglauf-und-in-der-
+ nordischen-kombination.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2899048-20261010@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:NORDCUP Oberwiesenthal
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2899048/2026/10/10/n
+ ordcup-oberwiesenthal.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2884833-20261014@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:377. Foyergespr&auml\;ch - Joachim Ringelnatz in Sommerfeld
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2884833/2026/10/14/3
+ 77.-foyergespräch-joachim-ringelnatz-in-sommerfeld.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2884700-20261101@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:"Wir st&uuml\;rmen in den Winter" - Linda Feller
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2884700/2026/11/01/w
+ ir-stürmen-in-den-winter-linda-feller.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2884661-20261115@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Orpheus Salon Orchester spielt "Der Kaiserwalzer"
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2884661/2026/11/15/o
+ rpheus-salon-orchester-spielt-der-kaiserwalzer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2899049-20261212@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:NORDCUP Oberwiesenthal/P&ouml\;hla
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2899049/2026/12/12/n
+ ordcup-oberwiesenthal-pöhla.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2892019-20261213@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Adventsmarkt Neulietzeg&ouml\;ricke
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2892019/2026/12/13/a
+ dventsmarkt-neulietzegöricke.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2899050-20270109@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:NORDCUP Bischofsgr&uuml\;n
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2899050/2027/01/09/n
+ ordcup-bischofsgrün.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2899052-20270227@amtsfeed.de
+DTSTAMP:20260506T201201Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:NORDCUP Oberhof
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2899052/2027/02/27/n
+ ordcup-oberhof.html
 END:VEVENT
 END:VCALENDAR

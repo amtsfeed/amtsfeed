@@ -1,7 +1,7 @@
 #!/usr/bin/env tsx
 import { readFileSync, writeFileSync, existsSync, readdirSync, statSync } from "node:fs";
 import { join, resolve } from "node:path";
-import type { EventsFile, NewsFile, AmtsblattFile, NoticesFile, Event, NewsItem, AmtsblattItem, NoticeItem } from "./types.ts";
+import type { NewsFile, AmtsblattFile, NoticesFile, NewsItem, AmtsblattItem, NoticeItem } from "./types.ts";
 
 function escapeXml(str: string): string {
   return str
@@ -10,20 +10,6 @@ function escapeXml(str: string): string {
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&apos;");
-}
-
-function eventToItem(event: Event): string {
-  const description = event.location
-    ? `${event.description ?? ""}\n\nOrt: ${event.location}`.trim()
-    : (event.description ?? "");
-
-  return `    <item>
-      <title>${escapeXml(event.title)}</title>
-      <link>${escapeXml(event.url)}</link>
-      <guid isPermaLink="false">${escapeXml(event.id)}</guid>
-      <pubDate>${new Date(event.startDate).toUTCString()}</pubDate>
-      ${description ? `<description>${escapeXml(description)}</description>` : ""}
-    </item>`;
 }
 
 function newsToItem(news: NewsItem): string {
@@ -62,19 +48,11 @@ function readJson<T>(path: string): T | null {
 }
 
 function generateRss(dir: string): void {
-  const eventsFile = readJson<EventsFile>(join(dir, "events.json"));
   const newsFile = readJson<NewsFile>(join(dir, "news.json"));
   const amtsblattFile = readJson<AmtsblattFile>(join(dir, "amtsblatt.json"));
   const noticesFile = readJson<NoticesFile>(join(dir, "notices.json"));
 
   const allItems: string[] = [];
-
-  if (eventsFile) {
-    const sorted = [...eventsFile.items].sort(
-      (a, b) => new Date(b.startDate).getTime() - new Date(a.startDate).getTime()
-    );
-    allItems.push(...sorted.map(eventToItem));
-  }
 
   if (newsFile) {
     const sorted = [...newsFile.items].sort(

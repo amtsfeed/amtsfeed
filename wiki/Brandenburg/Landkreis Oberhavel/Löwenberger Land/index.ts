@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.loewenberger-land.de";
 const NEWS_RSS_URL = `${BASE_URL}/news/rss.xml`;
 const EVENTS_URL = `${BASE_URL}/veranstaltungen/clr/2`;
+const NOTICES_URL = `${BASE_URL}/bekanntmachungen/index.php`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -98,6 +99,50 @@ function extractEvents(html: string): Event[] {
   return events.sort((a, b) => a.startDate.localeCompare(b.startDate));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// PortUNA new layout: <tr><td valign="top">DD.MM.YYYY</td><td valign="top">Title</td>
+//   <td valign="top"><a href="https://daten.verwaltungsportal.de/...">...</a></td></tr>
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const rowRx = /<tr>\s*<td\s+valign="top">\s*([\d.&#;]+)\s*<\/td>\s*<td\s+valign="top">([\s\S]*?)<\/td>\s*<td\s+valign="top">([\s\S]*?)<\/td>\s*<\/tr>/gi;
+  let m: RegExpExecArray | null;
+  while ((m = rowRx.exec(html)) !== null) {
+    const dateStr = m[1]!.replace(/&#8203;/g, "");
+    const dateParts = dateStr.match(/^(\d{2})\.(\d{2})\.(\d{4})$/);
+    if (!dateParts) continue;
+    const publishedAt = `${dateParts[3]}-${dateParts[2]}-${dateParts[1]}T00:00:00.000Z`;
+
+    const titleRaw = (m[2] ?? "").replace(/<p\s+class="mandate"[^>]*>[\s\S]*?<\/p>/gi, "");
+    const title = decodeHtmlEntities(titleRaw.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim());
+    if (!title) continue;
+
+    const downloadCell = m[3]!;
+    const linkMatch = downloadCell.match(/href="([^"]+)"/);
+    const href = linkMatch ? linkMatch[1]! : NOTICES_URL;
+
+    const tokenMatch = href.match(/\/publicizing\/([^/]+\/[^/]+\/[^/]+\/[^/]+\/[^/]+\/[^.]+)/);
+    const id = tokenMatch
+      ? `loewenberger-land-notice-${tokenMatch[1]!.replace(/\//g, "")}`
+      : `loewenberger-land-notice-${publishedAt.slice(0, 10)}-${encodeURIComponent(title).slice(0, 40)}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    items.push({ id, title, url: href, publishedAt, fetchedAt: now });
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
   const byId = new Map(existing.map((e) => [e.id, e]));
   for (const e of incoming) byId.set(e.id, { ...e, fetchedAt: byId.get(e.id)?.fetchedAt ?? e.fetchedAt });
@@ -119,25 +164,31 @@ function loadJson<T>(path: string, fallback: T): T {
 }
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/news/", "/veranstaltungen/"]);
+assertAllowed(robots, ["/news/", "/veranstaltungen/", "/bekanntmachungen/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [rssXml, eventsHtml] = await Promise.all([
+const [rssXml, eventsHtml, noticesHtml] = await Promise.all([
   fetch(NEWS_RSS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_RSS_URL}`); return r.text(); }),
   fetch(EVENTS_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const newsPath = join(DIR, "news.json");
 const eventsPath = join(DIR, "events.json");
+const noticesPath = join(DIR, "notices.json");
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 const mergedNews = mergeNews(existingNews.items, extractNews(rssXml));
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
 
 const now = new Date().toISOString();
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 if (mergedEvents.length > 0)
   writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
-console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
-console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`news:    ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`events:  ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`notices: ${mergedNotices.length} Einträge → ${noticesPath}`);

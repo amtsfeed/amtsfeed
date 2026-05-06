@@ -2,13 +2,14 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.woltersdorf-schleuse.de";
 const EVENTS_URL = `${BASE_URL}/veranstaltungen/index.php`;
 const NEWS_URL = `${BASE_URL}/news/index.php?rubrik=1`;
 const AMTSBLATT_URL = `${BASE_URL}/amtsblatt/index.php`;
+const NOTICES_URL = `${BASE_URL}/bekanntmachungen/index.php`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -155,6 +156,55 @@ function extractAmtsblatt(html: string): AmtsblattItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// announcement-view table: <tr><td>DD.MM.YYYY</td><td>Title</td><td><a href="https://daten.verwaltungsportal.de/...">...</a></td></tr>
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  // Each data row: <tr><td valign="top">DD.MM.YYYY</td><td valign="top">Title</td><td valign="top">...<a href="...">...</a>...</td></tr>
+  const rowRx = /<tr>\s*<td valign="top">([\d.&#;]+)<\/td>\s*<td valign="top">([\s\S]*?)<\/td>\s*<td valign="top">([\s\S]*?)<\/td>\s*<\/tr>/g;
+  let m: RegExpExecArray | null;
+  let counter = 0;
+  while ((m = rowRx.exec(html)) !== null) {
+    const dateStr = m[1]!.replace(/&#[^;]+;/g, "").replace(/\.+/g, ".").trim();
+    const dateParts = dateStr.match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
+    if (!dateParts) continue;
+    const publishedAt = `${dateParts[3]}-${dateParts[2]!.padStart(2, "0")}-${dateParts[1]!.padStart(2, "0")}T00:00:00.000Z`;
+
+    const title = decodeHtmlEntities((m[2] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    const linkMatch = (m[3] ?? "").match(/href="(https?:\/\/daten\.verwaltungsportal\.de\/[^"]+)"/);
+    const url = linkMatch ? linkMatch[1]! : NOTICES_URL;
+
+    counter++;
+    items.push({
+      id: `woltersdorf-notice-${counter}`,
+      title,
+      url,
+      publishedAt,
+      fetchedAt: now,
+    });
+  }
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  // Key by URL (stable PDF link) when available, else by title+date
+  const key = (n: NoticeItem) => n.url !== NOTICES_URL ? n.url : `${n.title}|${n.publishedAt}`;
+  const byKey = new Map(existing.map((n) => [key(n), n]));
+  for (const n of incoming) {
+    const k = key(n);
+    if (!byKey.has(k)) byKey.set(k, n);
+    else byKey.set(k, { ...n, fetchedAt: byKey.get(k)!.fetchedAt });
+  }
+  // Re-number IDs stably by publishedAt desc then title
+  return [...byKey.values()]
+    .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt) || a.title.localeCompare(b.title))
+    .map((n, i) => ({ ...n, id: `woltersdorf-notice-${i + 1}` }));
+}
+
 function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
   const byId = new Map(existing.map((i) => [i.id, i]));
   for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
@@ -190,32 +240,38 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/news/", "/veranstaltungen/", "/amtsblatt/"]);
+assertAllowed(robots, ["/news/", "/veranstaltungen/", "/amtsblatt/", "/bekanntmachungen/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, newsHtml, amtsblattHtml] = await Promise.all([
+const [eventsHtml, newsHtml, amtsblattHtml, noticesHtml] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
+const noticesPath = join(DIR, "notices.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
 console.log(`events:    ${mergedEvents.length} Einträge → ${eventsPath}`);
 console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

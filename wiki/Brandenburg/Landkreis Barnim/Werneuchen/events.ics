@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Werneuchen
+X-WR-CALDESC:Amtliche Veranstaltungen für Werneuchen
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:werneuchen-event-900001442@amtsfeed.de
+DTSTAMP:20260506T130025Z
+DTSTART:20260506T070000Z
+DTEND:20260506T080000Z
+SUMMARY:Wir laufen gemeinsam – alle sind willkommen!
+URL:https://www.werneuchen-barnim.de/veranstaltungen/veranstaltungen/vera
+ nstaltung/900001442-30690.html
+DESCRIPTION:Gemeinsames Laufen im Amselhain\n\nWir laufen jeden Mittwoch 
+ und Freitag von 9:00–10:00 Uhr gemeinsam.\nTreffpunkt ist der Spielplat
+ z Amselhain.\n\nOb mit oder ohne Stock – alle sind willkommen\, jedes A
+ lter und jedes Fitnesslevel.\nEinfach vorbeikommen und mitmachen!
+LOCATION:Spielplatz Amselhain
+END:VEVENT
+BEGIN:VEVENT
+UID:werneuchen-event-900001424@amtsfeed.de
+DTSTAMP:20260506T130025Z
+DTSTART:20260506T130000Z
+DTEND:20260506T153000Z
+SUMMARY:Kaffee- & Spielenachmittag
+URL:https://www.werneuchen-barnim.de/veranstaltungen/veranstaltungen/vera
+ nstaltung/900001424-30690.html
+LOCATION:Seefelder Seeterassen\, Seestraße 14\, 16356 Werneuchen
+END:VEVENT
+BEGIN:VEVENT
+UID:werneuchen-event-900001527@amtsfeed.de
+DTSTAMP:20260506T130025Z
+DTSTART:20260506T130000Z
+DTEND:20260506T160000Z
+SUMMARY:Kaffee- & Spielenachmittag
+URL:https://www.werneuchen-barnim.de/veranstaltungen/veranstaltungen/vera
+ nstaltung/900001527-30690.html
+DESCRIPTION:gemeinsames Kaffeetrinken\, plaudern und Spielen für jederma
+ nn
+LOCATION:Gaststätte Zur Fischerhütte\, Seestraße 11\, 16356 Werneuchen
+END:VEVENT
+END:VCALENDAR

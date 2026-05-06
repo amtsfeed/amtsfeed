@@ -29,6 +29,74 @@ Weit verbreitetes Kommunal-CMS in Brandenburg/Berlin-Brandenburg-Raum.
 
 ---
 
+## NOLIS
+
+Kommunales CMS-System, weit verbreitet in Brandenburg. Zwei Varianten im Einsatz.
+
+**Erkennungsmerkmale:**
+- URL-Muster `nolis-list-item` im HTML
+- Veranstaltungskalender unter `/veranstaltungen/`
+- iCal-Endpoint `/veranstaltungen/veranstaltungen.ical` vorhanden
+- `selected_kommune=NNNNN` Parameter identifiziert die Kommune
+
+### Variante 1: RSS-Feed (News)
+
+| Element | Selektor |
+|---------|----------|
+| Feed | `/portal/rss.xml` |
+| Item | `<item>...</item>` |
+| Titel | `<title>TEXT</title>` |
+| URL | `<link>URL</link>` |
+| Datum | `<pubDate>RFC-2822</pubDate>` → `new Date(pubDate).toISOString()` |
+| ID | URL-Muster `(\d{6,})-KOMMUNE_ID`, prefixiert mit `{ortsname}-` |
+
+Beispiel: Werneuchen (`werneuchen-barnim.de`, Kommune 30690)
+
+### Variante 2: HTML-Liste (News)
+
+| Element | Selektor |
+|---------|----------|
+| Container | `class="nolis-list-item "` (split) |
+| Datum | `<p class="nolis-list-date">DD.MM.YYYY</p>` |
+| Titel+URL | `<h4><a href="URL">TITEL</a></h4>` |
+| ID | URL-Muster `(\d{6,})-KOMMUNE_ID`, prefixiert mit `{ortsname}-` |
+
+Beispiel: Ahrensfelde (`ahrensfelde.de`, Kommune 30601)
+
+### Events: iCal-Export
+
+Alle NOLIS-Installationen bieten einen iCal-Endpoint für Veranstaltungen:
+
+**URL-Muster:**
+```
+/veranstaltungen/veranstaltungen.ical?zeitauswahl=1&auswahl_woche_tage=365&kategorie=0&selected_kommune=NNNNN&beginn=YYYYMMDD000000&ende=YYYYMMDD235959&intern=0
+```
+
+Bei manchen Installationen reichen auch einfachere Parameter:
+```
+/veranstaltungen/veranstaltungen.ical?selected_kommune=NNNNN&intern=0&beginn=YYYYMMDD000000&ende=YYYYMMDD235959
+```
+
+**VEVENT-Felder:**
+
+| Feld | Bedeutung |
+|------|-----------|
+| `SUMMARY` | Titel |
+| `DTSTART` | Startdatum (YYYYMMDDTHHMMSSZ) |
+| `DTEND` | Enddatum |
+| `LOCATION` | Veranstaltungsort |
+| `DESCRIPTION` | Beschreibung |
+| `X-ID` | `KOMMUNE_ID_EVENTID` (z.B. `30601_900004756`) |
+
+**Parsing-Besonderheiten:**
+- iCal-Zeilen müssen entfaltet werden: CRLF+Leerzeichen = Zeilenfortsetzung
+- `X-ID` letztes Segment = Event-ID → URL: `/{base}/veranstaltungen/veranstaltungen/veranstaltung/{eventId}-{kommuneId}.html`
+- Backslash-Escaping: `\,` → `,`, `\n` → Zeilenumbruch
+
+Beispiele: Ahrensfelde (104 Events, 365 Tage), Werneuchen (3 Events)
+
+---
+
 ## NOLIS Manager
 
 **Erkennungsmerkmale:**
@@ -162,6 +230,43 @@ Beispiel: Strausberg (`www.stadt-strausberg.de`)
 - Kein strukturierter Events/News-Feed in statischem HTML
 
 Beispiel: Bad Saarow (`bad-saarow.de`) — Events über externe Seite (scharmuetzelsee.de)
+
+---
+
+## Contao
+
+Open-Source-CMS, gelegentlich bei deutschen Kommunen.
+
+**Erkennungsmerkmale:**
+- `<!-- This website is powered by Contao -->` oder ähnliches im HTML
+- CSS-Pfade `/files/` oder `/assets/`
+- URL-Muster `/{modul}-reader/{slug}`
+
+**Varianten:**
+
+### News (newslist-timeline)
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<div class="newslist-timeline block ...">` |
+| Datum | `<div class="newslist-timeline-date">DD. Mon YYYY</div>` (deutsches 3-Buchstaben-Format) |
+| Titel+URL | `<h4><a href="RELATIVER-PFAD">TITEL</a></h4>` |
+
+Monatsabkürzungen: Jan, Feb, Mär, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez
+
+### Events (mod_eventlist_v2)
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<div class="mod_eventlist_v2">` |
+| Event-Link | `<a href="Veranstaltung/SLUG" title="TITLE (Wochentag, DD.MM.YYYY, HH:MM)">` |
+| Vergangene Events | `class="bygone"` |
+
+**Besonderheiten:**
+- Datum steht im `title`-Attribut, nicht im `datetime`-Attribut
+- `bygone`-Klasse markiert vergangene Events
+
+Beispiel: Amt Biesenthal-Barnim (`amt-biesenthal-barnim.de`) — aktuell nur vergangene Events sichtbar
 
 ---
 

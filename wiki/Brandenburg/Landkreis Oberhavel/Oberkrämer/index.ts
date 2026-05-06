@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.oberkraemer.de";
 const NEWS_URL = `${BASE_URL}/news/`;
 const AMTSBLATT_URL = `${BASE_URL}/buergerservice/downloads/amtsblatt/`;
+const NOTICES_URL = `${BASE_URL}/bekanntmachungen/`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -92,6 +93,70 @@ function extractAmtsblatt(html: string): AmtsblattItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// TYPO3/WordPress hybrid: notice items in <div class="ovaev-content content-list">
+// Date shown as day (in <span class="date-month">) + month name (in nested <span class="month">)
+// Year derived from DDMMYYYY in the URL slug (e.g. "am-30042026" → 2026-04-30) or current year
+// Title + link in <h2 class="second_font event_title"><a href="/bekanntmachungen/show/[slug]/">
+
+const GERMAN_MONTH_NAMES: Record<string, string> = {
+  Januar: "01", Februar: "02", März: "03", April: "04",
+  Mai: "05", Juni: "06", Juli: "07", August: "08",
+  September: "09", Oktober: "10", November: "11", Dezember: "12",
+};
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+  const currentYear = new Date().getFullYear().toString();
+
+  const start = html.indexOf("<!--TYPO3SEARCH_begin-->");
+  const end = html.indexOf("<!--TYPO3SEARCH_end-->", start);
+  const section = start >= 0 ? html.slice(start, end > start ? end : undefined) : html;
+
+  const blocks = section.split(/(?=<div class="ovaev-content content-list">)/)
+    .filter((b) => /\/bekanntmachungen\/show\//.test(b));
+
+  for (const block of blocks) {
+    const hrefMatch = block.match(/href="(\/bekanntmachungen\/show\/([^"]+))"/);
+    if (!hrefMatch) continue;
+    const href = hrefMatch[1]!;
+    const slug = hrefMatch[2]!.replace(/\/$/, "");
+    const id = `oberkraemer-notice-${slug.slice(0, 80)}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const titleMatch = block.match(/<h2 class="second_font event_title">\s*<a[^>]+>([\s\S]*?)<\/a>/);
+    const title = decodeHtmlEntities((titleMatch?.[1] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    // Try to extract DDMMYYYY from slug (e.g. "am-30042026")
+    const slugDateMatch = slug.match(/(\d{2})(\d{2})(\d{4})$/);
+    let publishedAt: string;
+    if (slugDateMatch) {
+      publishedAt = `${slugDateMatch[3]}-${slugDateMatch[2]}-${slugDateMatch[1]}T00:00:00.000Z`;
+    } else {
+      // Fall back to day/month from display, current year
+      const dayMatch = block.match(/<span class="date-month[^"]*">\s*(\d+)/);
+      const monthMatch = block.match(/<span class="month[^"]*">\s*(\w+)/);
+      const day = dayMatch ? dayMatch[1]!.padStart(2, "0") : "01";
+      const mm = monthMatch ? (GERMAN_MONTH_NAMES[monthMatch[1]!] ?? "01") : "01";
+      publishedAt = `${currentYear}-${mm}-${day}T00:00:00.000Z`;
+    }
+
+    items.push({ id, title, url: `${BASE_URL}${href}`, publishedAt, fetchedAt: now });
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
   const byId = new Map(existing.map((n) => [n.id, n]));
   for (const n of incoming) {
@@ -113,12 +178,13 @@ function loadJson<T>(path: string, fallback: T): T {
 }
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/news/", "/artikel-ansicht/", "/buergerservice/"]);
+assertAllowed(robots, ["/news/", "/artikel-ansicht/", "/buergerservice/", "/bekanntmachungen/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [newsHtml, amtsblattHtml] = await Promise.all([
+const [newsHtml, amtsblattHtml, noticesHtml] = await Promise.all([
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${AMTSBLATT_URL}`); return r.text(); }),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const now = new Date().toISOString();
@@ -134,3 +200,9 @@ const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: ""
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+
+const noticesPath = join(DIR, "notices.json");
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

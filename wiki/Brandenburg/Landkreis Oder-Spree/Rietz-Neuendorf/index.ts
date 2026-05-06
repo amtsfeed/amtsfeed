@@ -2,13 +2,14 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.rietz-neuendorf.de";
 const EVENTS_URL = `${BASE_URL}/Leben-Freizeit/Veranstaltungen/`;
 const NEWS_URL = `${BASE_URL}/Verwaltung/Mitteilungen/`;
 const AMTSBLATT_URL = `${BASE_URL}/Gemeinde/Amtsblatt/`;
+const NOTICES_URL = `${BASE_URL}/Verwaltung/Bekanntmachungen/`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -114,6 +115,41 @@ function extractNews(html: string): NewsItem[] {
   return items;
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// Advantic: <li> with <a href="...?object=tx,3728.XXXXX.1...">Title</a>
+//   <small><span class="sr-only">Datum: </span>DD.MM.YYYY</small>
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const rx = /<a\s+[^>]*href="([^"]*object=tx,3728\.(\d+)\.1[^"]*)"[^>]*>\s*([\s\S]*?)\s*<\/a>[\s\S]{0,300}?Datum:\s*<\/span>(\d{2})\.(\d{2})\.(\d{4})/gi;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const href = m[1]!;
+    const noticeId = m[2]!;
+    const id = `rietz-neuendorf-notice-${noticeId}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const title = decodeHtmlEntities((m[3] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    const publishedAt = `${m[6]}-${m[5]}-${m[4]}T00:00:00.000Z`;
+    const url = href.startsWith("http") ? href : `${BASE_URL}${href}`;
+    items.push({ id, title, url, publishedAt, fetchedAt: now });
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Amtsblatt ─────────────────────────────────────────────────────────────────
 // Advantic: <a ...>Amtsblatt Nr. NN-YYYY</a>...<span class="sr-only">Datum: </span>DD.MM.YYYY
 
@@ -191,29 +227,35 @@ const robots = await checkRobots(DIR, BASE_URL);
 assertAllowed(robots, ["/Leben-Freizeit/", "/Verwaltung/", "/Gemeinde/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, newsHtml, amtsblattHtml] = await Promise.all([
+const [eventsHtml, newsHtml, amtsblattHtml, noticesHtml] = await Promise.all([
   fetchLatin1(EVENTS_URL, headers),
   fetchLatin1(NEWS_URL, headers),
   fetchLatin1(AMTSBLATT_URL, headers).catch(() => ""),
+  fetchLatin1(NOTICES_URL, headers).catch(() => ""),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
+const noticesPath = join(DIR, "notices.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
 console.log(`events:    ${mergedEvents.length} Einträge → ${eventsPath}`);
 console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

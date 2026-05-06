@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.fuerstenberg-havel.de";
 const NEWS_URL = `${BASE_URL}/buergerservice/aktuelles`;
 const AMTSBLATT_URL = `${BASE_URL}/rathaus-und-politik/rathaus/fuerstenberger-anzeiger/`;
+const NOTICES_URL = `${BASE_URL}/rathaus-und-politik/rathaus/bekanntmachungen`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -102,6 +103,60 @@ function extractAmtsblatt(html: string): AmtsblattItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// TYPO3: each notice is a frame block with h3 title + fileadmin PDF links
+// <div id="c{ID}" class="frame ..."><header><h3>Title</h3></header><p><a href="/fileadmin/...pdf">Link text</a>...</p></div>
+// ID from frame div id (e.g. "c1930"). First PDF link is the primary URL.
+// No date available → use fetchedAt as publishedAt approximation (set to year from file path or now).
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  // Find section after "Amtliche Bekanntmachungen" h1
+  const sectionStart = html.indexOf("Amtliche Bekanntmachungen");
+  if (sectionStart < 0) return items;
+  const section = html.slice(sectionStart);
+
+  // Each frame with h3 + fileadmin PDF
+  const frameRx = /<div id="(c\d+)" class="frame[^"]*">\s*(?:<div[^>]*>)*\s*<header>\s*<h3[^>]*>([\s\S]*?)<\/h3>([\s\S]*?)(?=<div id="c\d+"|$)/gi;
+  let m: RegExpExecArray | null;
+  while ((m = frameRx.exec(section)) !== null) {
+    const frameId = m[1]!;
+    const rawTitle = m[2]!;
+    const frameContent = m[3]!;
+
+    const title = decodeHtmlEntities(rawTitle.replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    // Find first fileadmin PDF link
+    const pdfMatch = frameContent.match(/href="(\/fileadmin\/[^"]+\.pdf)"/i);
+    if (!pdfMatch) continue;
+
+    const id = `fuerstenberg-notice-${frameId}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const pdfHref = pdfMatch[1]!;
+    const url = `${BASE_URL}${pdfHref}`;
+
+    // Try to extract year from PDF path
+    const yearMatch = pdfHref.match(/\/(20\d{2})\//);
+    const publishedAt = yearMatch ? `${yearMatch[1]}-01-01T00:00:00.000Z` : now;
+
+    items.push({ id, title, url, publishedAt, fetchedAt: now });
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
   const byId = new Map(existing.map((n) => [n.id, n]));
   for (const n of incoming) {
@@ -126,9 +181,10 @@ const robots = await checkRobots(DIR, BASE_URL);
 assertAllowed(robots, ["/buergerservice/aktuelles", "/rathaus-und-politik/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [newsHtml, amtsblattHtml] = await Promise.all([
+const [newsHtml, amtsblattHtml, noticesHtml] = await Promise.all([
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${AMTSBLATT_URL}`); return r.text(); }),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const now = new Date().toISOString();
@@ -144,3 +200,9 @@ const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: ""
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+
+const noticesPath = join(DIR, "notices.json");
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

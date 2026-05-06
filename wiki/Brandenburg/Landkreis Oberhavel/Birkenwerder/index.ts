@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.birkenwerder.de";
 const NEWS_URL = `${BASE_URL}/rathaus/aktuelles/neuigkeiten`;
 const EVENTS_URL = `${BASE_URL}/rathaus/aktuelles/termine/veranstaltungen`;
+const NOTICES_URL = `${BASE_URL}/rathaus/politik/amtsblaetter`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -90,6 +91,54 @@ function extractEvents(html: string): Event[] {
   return events.sort((a, b) => a.startDate.localeCompare(b.startDate));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// TYPO3 tx_3bdocs: table with rows having title text + PDF link
+// <tr><td>Title - Bereitstellung/Veröffentlichung vom DD.MM.YYYY</td>
+//      <td><a href="/fileadmin/...pdf" ...>Download als PDF</a></td></tr>
+// Date extracted from title text ("Bereitstellung/Veröffentlichung vom DD.MM.YYYY")
+// or from filename (YYYY-MM-DD_...). ID from PDF filename.
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const rx = /<tr>\s*<td>([\s\S]*?)<\/td>\s*<td>\s*<a href="(\/fileadmin\/[^"]+\.pdf)"[^>]*>/gi;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const rawTitle = decodeHtmlEntities((m[1] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!rawTitle) continue;
+    const href = m[2]!;
+
+    const filename = href.split("/").pop()!.replace(".pdf", "");
+    const id = `birkenwerder-notice-${filename.slice(0, 80)}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    // Extract date from "Bereitstellung/Veröffentlichung vom DD.MM.YYYY"
+    const dateMatch = rawTitle.match(/vom\s+(\d{2})\.(\d{2})\.(\d{4})/);
+    let publishedAt: string;
+    if (dateMatch) {
+      publishedAt = `${dateMatch[3]}-${dateMatch[2]}-${dateMatch[1]}T00:00:00.000Z`;
+    } else {
+      // Try YYYY-MM-DD from filename
+      const fnDateMatch = filename.match(/^(\d{4})-(\d{2})-(\d{2})/);
+      publishedAt = fnDateMatch ? `${fnDateMatch[1]}-${fnDateMatch[2]}-${fnDateMatch[3]}T00:00:00.000Z` : now;
+    }
+
+    const url = href.startsWith("http") ? href : `${BASE_URL}${href}`;
+    items.push({ id, title: rawTitle, url, publishedAt, fetchedAt: now });
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
   const byId = new Map(existing.map((e) => [e.id, e]));
   for (const e of incoming) byId.set(e.id, { ...e, fetchedAt: byId.get(e.id)?.fetchedAt ?? e.fetchedAt });
@@ -111,25 +160,31 @@ function loadJson<T>(path: string, fallback: T): T {
 }
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/rathaus/aktuelles/"]);
+assertAllowed(robots, ["/rathaus/aktuelles/", "/rathaus/politik/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [newsHtml, eventsHtml] = await Promise.all([
+const [newsHtml, eventsHtml, noticesHtml] = await Promise.all([
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(EVENTS_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const newsPath = join(DIR, "news.json");
 const eventsPath = join(DIR, "events.json");
+const noticesPath = join(DIR, "notices.json");
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
 
 const now = new Date().toISOString();
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 if (mergedEvents.length > 0)
   writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
-console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
-console.log(`events: ${mergedEvents.length} Einträge`);
+console.log(`news:    ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`events:  ${mergedEvents.length} Einträge`);
+console.log(`notices: ${mergedNotices.length} Einträge → ${noticesPath}`);

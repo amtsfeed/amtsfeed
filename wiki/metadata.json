@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T08:51:43.923Z",
+  "updatedAt": "2026-05-06T09:24:44.568Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -559,6 +559,27 @@
       "sources": []
     },
     {
+      "path": "Brandenburg/Landkreis Oder-Spree/Amt Brieskow-Finkenheerd",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Amt Brieskow-Finkenheerd"
+      ],
+      "name": "Amt Brieskow-Finkenheerd",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 14,
+      "newsCount": 6,
+      "amtsblattCount": 234,
+      "updatedAt": "2026-05-06T09:24:38.205Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Brieskow-Finkenheerd/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Brieskow-Finkenheerd/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Brieskow-Finkenheerd/amtsblatt.json",
+      "sources": []
+    },
+    {
       "path": "Brandenburg/Landkreis Oder-Spree/Amt Neuzelle",
       "breadcrumb": [
         "Brandenburg",
@@ -872,6 +893,27 @@
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Tauche/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Tauche/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Tauche/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oder-Spree/Woltersdorf",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Woltersdorf"
+      ],
+      "name": "Woltersdorf",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 20,
+      "newsCount": 12,
+      "amtsblattCount": 68,
+      "updatedAt": "2026-05-06T09:24:37.186Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Woltersdorf/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Woltersdorf/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Woltersdorf/amtsblatt.json",
       "sources": []
     }
   ]

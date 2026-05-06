@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Amt Schlaubetal
+X-WR-CALDESC:Amtliche Veranstaltungen für Amt Schlaubetal
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:veranstaltungen-2875548-2026-05-17-internationaler-museumstag-im-schl
+ aubetal-heimatstube-schernsdorf.html@amtsfeed.de
+DTSTAMP:20260506T081642Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Internationaler Museumstag im Schlaubetal: Heimatstube Schernsdor
+ f
+URL:https://www.amt-schlaubetal.de/veranstaltungen/2875548/2026/05/17/int
+ ernationaler-museumstag-im-schlaubetal-heimatstube-schernsdorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2876234-2026-05-17-internationaler-museumstag-im-schl
+ aubetal-heidereiterei-und-forstmuseum.html@amtsfeed.de
+DTSTAMP:20260506T081642Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Internationaler Museumstag im Schlaubetal: Heidereiterei- und For
+ stmuseum
+URL:https://www.amt-schlaubetal.de/veranstaltungen/2876234/2026/05/17/int
+ ernationaler-museumstag-im-schlaubetal-heidereiterei-und-forstmuseum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2870146-2026-05-17-internationaler-museumstag-im-schl
+ aubetal-heimatstube-rießen.html@amtsfeed.de
+DTSTAMP:20260506T081642Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Internationaler Museumstag im Schlaubetal: Heimatstube Rießen
+URL:https://www.amt-schlaubetal.de/veranstaltungen/2870146/2026/05/17/int
+ ernationaler-museumstag-im-schlaubetal-heimatstube-rießen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2833588-2026-06-13-abba-abalance-the-show-eisenhütte
+ nstadt.html@amtsfeed.de
+DTSTAMP:20260506T081642Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:ABBA - ABALANCE The Show Eisenhüttenstadt
+URL:https://www.amt-schlaubetal.de/veranstaltungen/2833588/2026/06/13/abb
+ a-abalance-the-show-eisenhüttenstadt.html
+END:VEVENT
+END:VCALENDAR

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T05:33:27.969Z",
+  "updatedAt": "2026-05-06T08:20:18.511Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -559,6 +559,27 @@
       "sources": []
     },
     {
+      "path": "Brandenburg/Landkreis Oder-Spree/Amt Neuzelle",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Amt Neuzelle"
+      ],
+      "name": "Amt Neuzelle",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 1,
+      "newsCount": 6,
+      "amtsblattCount": 162,
+      "updatedAt": "2026-05-06T08:16:41.241Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Neuzelle/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Neuzelle/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Neuzelle/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Neuzelle/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Neuzelle/amtsblatt.json",
+      "sources": []
+    },
+    {
       "path": "Brandenburg/Landkreis Oder-Spree/Amt Scharmützelsee",
       "breadcrumb": [
         "Brandenburg",
@@ -602,6 +623,48 @@
       "sources": []
     },
     {
+      "path": "Brandenburg/Landkreis Oder-Spree/Amt Schlaubetal",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Amt Schlaubetal"
+      ],
+      "name": "Amt Schlaubetal",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 4,
+      "newsCount": 15,
+      "amtsblattCount": 181,
+      "updatedAt": "2026-05-06T08:16:42.468Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Schlaubetal/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Schlaubetal/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Schlaubetal/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Schlaubetal/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Schlaubetal/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oder-Spree/Amt Spreenhagen",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Amt Spreenhagen"
+      ],
+      "name": "Amt Spreenhagen",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 130,
+      "newsCount": 18,
+      "amtsblattCount": 1,
+      "updatedAt": "2026-05-06T08:18:11.588Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Spreenhagen/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Spreenhagen/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Spreenhagen/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Spreenhagen/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Amt%20Spreenhagen/amtsblatt.json",
+      "sources": []
+    },
+    {
       "path": "Brandenburg/Landkreis Oder-Spree/Friedland",
       "breadcrumb": [
         "Brandenburg",
@@ -620,6 +683,69 @@
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Friedland/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Friedland/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Friedland/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oder-Spree/Grünheide (Mark)",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Grünheide (Mark)"
+      ],
+      "name": "Grünheide (Mark)",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 752,
+      "newsCount": 20,
+      "amtsblattCount": 96,
+      "updatedAt": "2026-05-06T08:09:31.127Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Gr%C3%BCnheide%20(Mark)/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Gr%C3%BCnheide%20(Mark)/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Gr%C3%BCnheide%20(Mark)/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Gr%C3%BCnheide%20(Mark)/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Gr%C3%BCnheide%20(Mark)/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oder-Spree/Storkow (Mark)",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Storkow (Mark)"
+      ],
+      "name": "Storkow (Mark)",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 138,
+      "newsCount": 20,
+      "amtsblattCount": 136,
+      "updatedAt": "2026-05-06T08:09:30.088Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Storkow%20(Mark)/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Storkow%20(Mark)/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Storkow%20(Mark)/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Storkow%20(Mark)/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Storkow%20(Mark)/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oder-Spree/Tauche",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Tauche"
+      ],
+      "name": "Tauche",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 78,
+      "newsCount": 10,
+      "amtsblattCount": 213,
+      "updatedAt": "2026-05-06T08:10:00.721Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Tauche/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Tauche/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Tauche/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Tauche/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Tauche/amtsblatt.json",
       "sources": []
     }
   ]

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Amt Neuzelle
+X-WR-CALDESC:Amtliche Veranstaltungen für Amt Neuzelle
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:veranstaltungen-2839673-2026-09-12-100-jahre-feuerwehr-und-steinsdorf
+ -und-steinsdorftreffen.html@amtsfeed.de
+DTSTAMP:20260506T081641Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:100 Jahre Feuerwehr und Steinsdorf und Steinsdorftreffen
+URL:https://www.neuzelle.de/veranstaltungen/2839673/2026/09/12/100-jahre-
+ feuerwehr-und-steinsdorf-und-steinsdorftreffen.html
+END:VEVENT
+END:VCALENDAR

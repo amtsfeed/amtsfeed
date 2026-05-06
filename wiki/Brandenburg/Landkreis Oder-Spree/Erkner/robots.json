@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.erkner.de",
+    "baseUrl": "https://www.erkner.de",
+    "updatedAt": "2026-05-06T08:45:18.363Z",
+    "content": "User-agent: Googlebot\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: Bingbot\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: Slurp\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: DuckDuckBot\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: YandexBot\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: Baiduspider\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: *\nAllow: /\n"
+  }
+]

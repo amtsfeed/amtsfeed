@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T08:37:14.710Z",
+  "updatedAt": "2026-05-06T08:51:43.923Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -707,6 +707,27 @@
       "sources": []
     },
     {
+      "path": "Brandenburg/Landkreis Oder-Spree/Erkner",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Erkner"
+      ],
+      "name": "Erkner",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 81,
+      "newsCount": 381,
+      "amtsblattCount": 5,
+      "updatedAt": "2026-05-06T08:45:22.449Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Erkner/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Erkner/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Erkner/amtsblatt.json",
+      "sources": []
+    },
+    {
       "path": "Brandenburg/Landkreis Oder-Spree/Friedland",
       "breadcrumb": [
         "Brandenburg",
@@ -788,6 +809,27 @@
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Rietz-Neuendorf/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Rietz-Neuendorf/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Rietz-Neuendorf/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oder-Spree/Schöneiche bei Berlin",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Schöneiche bei Berlin"
+      ],
+      "name": "Schöneiche bei Berlin",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 10,
+      "newsCount": 167,
+      "amtsblattCount": 107,
+      "updatedAt": "2026-05-06T08:49:23.019Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Sch%C3%B6neiche%20bei%20Berlin/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Sch%C3%B6neiche%20bei%20Berlin/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Sch%C3%B6neiche%20bei%20Berlin/amtsblatt.json",
       "sources": []
     },
     {

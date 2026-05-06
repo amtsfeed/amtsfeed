@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.schoeneiche.de",
+    "baseUrl": "https://www.schoeneiche.de",
+    "updatedAt": "2026-05-06T08:49:22.195Z",
+    "content": "user-agent:*\ndisallow:/contao/\ndisallow:/_contao/\n\nsitemap:https://www.schoeneiche.de/sitemap.xml"
+  }
+]

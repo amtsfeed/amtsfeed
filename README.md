@@ -10,11 +10,13 @@ Viele Ämter, Gemeinden und Städte veröffentlichen Veranstaltungshinweise, Pre
 
 ## Abgedeckte Regionen
 
-| Bundesland   | Landkreis                   | Orte / Ämter                                                                                                                                                                     |
-|--------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Brandenburg  | Landkreis Barnim            | Ahrensfelde, Amt Biesenthal-Barnim, Amt Britz-Chorin-Oderberg, Bernau bei Berlin, Eberswalde, Panketal, Schorfheide, Wandlitz, Werneuchen                                      |
-| Brandenburg  | Landkreis Märkisch-Oderland | Altlandsberg, Amt Barnim-Oderbruch, Amt Falkenberg-Höhe, Amt Golzow, Amt Lebus, Amt Märkische Schweiz, Bad Freienwalde (Oder), Fredersdorf-Vogelsdorf, Hoppegarten, Müncheberg, Neuenhagen bei Berlin, Oderbruch (Amt Seelow-Land, Seelow, Friedersdorf), Strausberg, Wriezen |
-| Brandenburg  | Landkreis Oder-Spree        | Amt Scharmützelsee (Bad Saarow), Friedland                                                                                                                                       |
+| Bundesland   | Landkreis                    | Orte / Ämter                                                                                                                                                                                                                                                                       |
+|--------------|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Brandenburg  | Landkreis Barnim             | Ahrensfelde, Amt Biesenthal-Barnim, Amt Britz-Chorin-Oderberg, Bernau bei Berlin, Eberswalde, Panketal, Schorfheide, Wandlitz, Werneuchen                                                                                                                                         |
+| Brandenburg  | Landkreis Märkisch-Oderland  | Altlandsberg, Amt Barnim-Oderbruch, Amt Falkenberg-Höhe, Amt Golzow, Amt Lebus, Amt Märkische Schweiz, Bad Freienwalde (Oder), Fredersdorf-Vogelsdorf, Hoppegarten, Müncheberg, Neuenhagen bei Berlin, Oderbruch (Amt Seelow-Land, Seelow, Friedersdorf), Strausberg, Wriezen     |
+| Brandenburg  | Landkreis Oberhavel          | Birkenwerder, Fürstenberg/Havel, Glienicke/Nordbahn, Gransee, Hennigsdorf, Hohen Neuendorf, Kremmen, Leegebruch, Löwenberger Land, Mühlenbecker Land, Oberkrämer, Oranienburg, Velten, Zehdenick                                                                                  |
+| Brandenburg  | Landkreis Oder-Spree         | Amt Brieskow-Finkenheerd, Amt Neuzelle, Amt Scharmützelsee (Bad Saarow), Amt Schlaubetal, Amt Spreenhagen, Beeskow, Eisenhüttenstadt, Erkner, Friedland, Fürstenwalde/Spree, Grünheide (Mark), Rietz-Neuendorf, Schöneiche bei Berlin, Storkow (Mark), Tauche, Woltersdorf         |
+| Brandenburg  | Landkreis Potsdam-Mittelmark | Amt Beetzsee, Amt Brück, Amt Niemegk, Amt Wusterwitz, Amt Ziesar, Bad Belzig, Beelitz, Groß Kreutz, Kleinmachnow, Kloster Lehnin, Michendorf, Nuthetal, Schwielowsee, Seddiner See, Stahnsdorf, Teltow, Treuenbrietzen, Werder (Havel), Wiesenburg/Mark                           |
 
 ## Datenstruktur
 
@@ -23,11 +25,12 @@ wiki/
   bundesland/
     landkreis/
       gemeinde/
-        index.ts       ← Scraper (liest Quelle, schreibt events.json / news.json / amtsblatt.json)
+        index.ts       ← Scraper (liest Quelle, schreibt events.json / news.json / amtsblatt.json / notices.json)
         events.json    ← Strukturierte Veranstaltungsdaten
         news.json      ← Strukturierte Nachrichtendaten
         amtsblatt.json ← Strukturierte Amtsblatt-Einträge (wenn vorhanden)
-        rss.xml        ← RSS-Feed (generiert aus events.json + news.json + amtsblatt.json)
+        notices.json   ← Strukturierte Bekanntmachungen (wenn vorhanden)
+        rss.xml        ← RSS-Feed (generiert aus events.json + news.json + amtsblatt.json + notices.json)
         events.ics     ← iCalendar-Feed (optional)
         robots.json    ← gecachte robots.txt der Quelle
         sources.json   ← offizielle Quell-URLs der Gemeinde (optional)

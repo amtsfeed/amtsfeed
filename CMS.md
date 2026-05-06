@@ -27,6 +27,7 @@ Weit verbreitetes Kommunal-CMS in Brandenburg/Berlin-Brandenburg-Raum.
 - `event-clndr-3`: Events in `data-events`-Attribut, doppelt HTML-kodiert; Monatsnavigation via `?month=YYYY-MM`; News-URL-Muster: `/news/{category}/{id}/nachrichten/{slug}.html`; News-Container `<li class="news-entry-to-limit">`
 - `event-entry-new-1`: Datum aus URL-Pfad (time-Elemente haben datetime="1970-01-01"-Bug); `time`-Elemente in `event-entry-new-1-daytime`-Block; Server kann bei vollem UA alle historischen News zurückgeben → NEWS_LIMIT empfohlen
 - `tab_link_entry`: `<li class="tab_link_entry">` mit URL-Struktur `/veranstaltungen/{ID}/YYYY/MM/DD/slug.html`; Datum aus URL; Beispiel: Leegebruch
+- `event-box (clr/2)`: Listenansicht unter `/veranstaltungen/clr/2`; `<div class="event-box">`; URL-Muster `/veranstaltungen/{ID}/YYYY/MM/DD/slug.html`; ID = `{ortsname}-event-{eventId}-{YYYYMMDD}`; Zeit aus `<span class="event-time"><time>HH:MM</time> Uhr bis <time>HH:MM</time>`; Ort aus `<span class="event-ort">`; Beispiel: Löwenberger Land
 
 **PortUNA auf verwaltungsportal.de (gehostetes Gemeindeportal):**
 - Manche Gemeinden nutzen `*.verwaltungsportal.de` statt eigener Domain
@@ -262,6 +263,21 @@ Kommunales CMS, in Städten Brandenburgs und Berlin-Brandenburgs im Einsatz.
 Besonderheit: `www.oranienburg.de` → Redirect auf no-www; BASE_URL = `https://oranienburg.de`
 Beispiel: Oranienburg (`oranienburg.de`)
 
+### Variante 3: Bekanntmachungen (notices.json)
+
+IKISS liefert Bekanntmachungen (amtliche Mitteilungen / öffentliche Dokumente) in einem separaten Bereich mit `mfid`-Präfix `6.`.
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<li data-ikiss-mfid="6.SITE.NNNN.1">` |
+| Datum | `<span class="sr-only">Datum: </span>DD.MM.YYYY</small>` (Datum direkt nach `</span>`) → Match: `(\d{2})\.(\d{2})\.(\d{4})<\/small>` |
+| Link+Titel | `<a href="/output/download.php?fid=SITE.NNNN.1..PDF" class="csslink_PDF">TITEL</a>` |
+| ID | `{ortsname}-notice-{NNNN}` |
+| Ausgabedatei | `notices.json` (Typ `NoticeItem`/`NoticesFile`) |
+
+Besonderheit: Das Datum steht nicht als Text `Datum: DD.MM.YYYY`, sondern gesplittet: `<span class="sr-only">Datum: </span>` + nackter Text. Regex auf `</small>` als Anker.
+Beispiel: Oranienburg (`oranienburg.de/Rathaus-Service/Aktuelles/Bekanntmachungen/`)
+
 ### Variante 2: result-list mit data-ikiss-mfid (Velten, Hennigsdorf)
 
 | Element | Selektor |
@@ -308,6 +324,33 @@ Besonderheiten:
 - ID: `{ortsname}-event-{id}`
 
 Beispiel: Gransee (`gransee.de`, 470 Events)
+
+### WordPress + Modern Events Calendar (MEC) — RSS-Feed
+
+MEC ist ein WordPress-Plugin für Veranstaltungskalender mit eigenem RSS-Namespace.
+
+**Erkennungsmerkmale:**
+- `/events/feed/` RSS-Endpoint
+- RSS-Namespace: `xmlns:mec="..."`
+- `<mec:startDate>`, `<mec:startHour>`, `<mec:location>` in Items
+
+**RSS-Felder:**
+
+| Feld | Bedeutung |
+|------|-----------|
+| `<guid>` | WordPress-Post-URL (enthält `[?&]p=(\d+)` als Post-ID — Achtung: HTML-kodiert als `&#038;p=`) |
+| `<link>` | Direkte Event-URL (enthält oft `?occurrence=YYYY-MM-DD`) |
+| `<mec:startDate>` | `YYYY-MM-DD` |
+| `<mec:startHour>` | `HH:MM` |
+| `<mec:location>` | Veranstaltungsort |
+
+**Besonderheiten:**
+- `<guid>` enthält `&#038;` statt `&` → Regex `[?&]p=(\d+)` schlägt fehl → Post-ID oft nicht extrahierbar
+- Occurrence-Datum aus `<link>`: `?occurrence=YYYY-MM-DD` als Fallback-ID-Bestandteil
+- ID: `{ortsname}-event-{postId||occurrence}-{YYYY-MM-DD}`
+- Paginierung: `?paged=N` (bis leere Seite)
+
+Beispiel: Amt Niemegk (`niemegk.de/events/feed/`)
 
 ---
 
@@ -473,3 +516,121 @@ Regionale Tourismus-Datenplattform, genutzt als Event-Quelle von Gemeinde-Websit
 | Datum | `<span class="teaser-card__subheader">DD.MM.YYYY[ - DD.MM.YYYY]</span>` |
 
 Beispiel: Bad Saarow (via scharmuetzelsee.de)
+
+---
+
+## cmcitymedia (TYPO3-Kalender-Extension)
+
+Kommerzielle TYPO3-Extension für Veranstaltungskalender, genutzt von brandenburgischen Gemeinden.
+
+**Erkennungsmerkmale:**
+- `exchange.cmcitymedia.de/{ortsname}/` in Quelltext (RSS- und iCal-Endpoints)
+- Events in `<div class="list">` mit `<a id="event{ID}">`
+
+**Events:**
+
+| Element | Selektor |
+|---------|----------|
+| Container | split auf `<div class="list">` |
+| ID | `<a id="event{ID}">` |
+| Titel | `<div class="headline">TEXT</div>` |
+| Datum | `<strong>...DD. Monat YYYY...</strong>` im Zeitblock |
+| Zeit | `um HH:MM Uhr` im Zeitblock |
+| Ort | `<div class="location">TEXT</div>` |
+| URL | Kein HTML-Deeplink → iCal-URL: `https://exchange.cmcitymedia.de/{ortsname}/veranstaltungenIcal.php?id={ID}` |
+
+**Paginierung:**
+- Seite 1: `/{ortsname}/veranstaltungskalender`
+- Seite N: `/index.php?id=20&publish%5Bp%5D=20&publish%5Bstart%5D={N}` (kein cHash erforderlich)
+- Abbruch wenn Seite leer ist (kein `<div class="list">`)
+
+Beispiel: Mühlenbecker Land (`muehlenbecker-land.de`, 80 Events)
+
+---
+
+## ScreendriverFOUR
+
+Kommunales CMS, eingesetzt u.a. bei Gemeinden in Brandenburg.
+
+**Erkennungsmerkmale:**
+- Copyright/Fußzeile: `ScreendriverFOUR` oder `© screendrive`
+- URL-Muster `/aktuelles/mitteilungen/slug.html` (News)
+- Amtsblatt-Pfad: `/images/downloads/Amtsblatt/YYYY/FILENAME.pdf`
+- Events via Tourismusverband-Seite mit `?se=ID`
+
+**News:**
+
+| Element | Selektor |
+|---------|----------|
+| Datumblock | `<strong>DD.MM.YYYY</strong>` |
+| Link | `href="/aktuelles/[rubrik]/slug.html"` |
+| Titel | `<h2><a href="...">TITEL</a></h2>` |
+| ID | `{ortsname}-news-{slug}` |
+
+**Amtsblatt:**
+
+| Element | Selektor |
+|---------|----------|
+| Regex | `<strong>Amtsblatt YYYY/N</strong>` + bis 400 Zeichen + `href="/images/downloads/Amtsblatt/YYYY/...pdf"` |
+| Datum | `vom DD.MM.YYYY` im Textblock zwischen Titel und Link |
+| ID | `{ortsname}-amtsblatt-{YYYY}-{NN}` |
+
+**Events (via Tourismusverband-CMS):**
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<div class="col-sm-4 eventbox ` (split — trailing space) |
+| ID | `?se={ID}` aus `veranstaltungsinformationen.html?se=NNNNNNNN` |
+| Datum + Zeit | `<strong>DD.MM.YYYY</strong> \| HH:MM Uhr` |
+| Titel | `<h3><a href="...">TITEL</a></h3>` |
+| Ort | `<div class="event_ort">Ort: TEXT</div>` |
+| URL | `{TOURISMUS_BASE}/veranstaltungen/veranstaltungsinformationen.html?se={ID}` |
+
+Besonderheit: Die Events liegen auf der Tourismus-Website (`schwielowsee-tourismus.de`), nicht auf der Gemeindewebsite. `robots.txt` wird für die Gemeindewebsite gecheckt; für die Tourismus-Seite separat.
+Beispiel: Schwielowsee (`schwielowsee-tourismus.de`, 1026 Events)
+
+---
+
+## RIS (Ratsinformationssystem)
+
+Kommunales Rats-Informationssystem für Sitzungen, Beschlüsse und Dokumente. Einige RIS-Instanzen veröffentlichen auch Amtsblätter.
+
+**Treuenbrietzen (ti-1):**
+
+| Element | Selektor |
+|---------|----------|
+| Seite | `https://ris.treuenbrietzen.de/ti-1/listen/ti_226_f31.php` |
+| Jahres-Blöcke | split auf `data-role="collapsible"` |
+| Titelzeile | `Amtsblatt Nr. N im Jahr YYYY vom DD.MM.YYYY` |
+| PDF-Link | `href="listen/Anlage_asj...pdf"` → `{RIS_BASE}{href}` |
+| Fallback-URL | Listenseite selbst wenn kein PDF |
+| ID | `{ortsname}-amtsblatt-{YYYY}-{NN}` |
+
+Beispiel: Treuenbrietzen (`ris.treuenbrietzen.de`)
+
+---
+
+## NOLIS Amtsblatt — Variante 3: dokumenteplus-Archiv (Ahrensfelde)
+
+Ergänzung zu den bestehenden NOLIS-Varianten: Amtsblatt-Archiv via NOLIS-Managerbox mit jahresweiser Unterseiten-Struktur.
+
+**Erkennungsmerkmale:**
+- URL-Muster `/aktuelles-mehr/amtsblatt/amtsblatt-archiv/` auf der Archivseite
+- Jahreslinks: `<a href="/amtsblatt-archiv/{YYYY}/">YYYY</a>` oder ähnlich
+- Download-Links: `href="...ahrensfelde.de/downloads/datei/..."` (Direktdownload)
+
+**Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Archivseite | `/aktuelles-mehr/amtsblatt/amtsblatt-archiv/` |
+| Jahres-URL | `<a href="[^"]+amtsblatt-archiv/(\d{4})[^"]*">` |
+| Abruf | letzte 3 Jahre parallel |
+| Dateiblöcke | split auf `managerbox ` |
+| Download-Link | `href="([^"]*ahrensfelde\.de/downloads/datei/[^"]*)"` (erstes Vorkommen) |
+| Titel | `<td class="dokumente_inhalt">TEXT</td>` |
+| Datum | Monatsname im Titel (`Amtsblatt Monat YYYY`) → GERMAN_MONTHS-Lookup → `YYYY-MM-01` |
+| ID | `{ortsname}-amtsblatt-{YYYY}-{MM}` |
+
+Besonderheit: Die Jahresseiten-URLs werden von der Archivseite extrahiert; keine hartkodierte URL-Liste.
+Beispiel: Ahrensfelde (`ahrensfelde.de`, 28 Einträge)

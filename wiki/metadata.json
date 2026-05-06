@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T08:20:18.511Z",
+  "updatedAt": "2026-05-06T08:37:14.710Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -665,6 +665,48 @@
       "sources": []
     },
     {
+      "path": "Brandenburg/Landkreis Oder-Spree/Beeskow",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Beeskow"
+      ],
+      "name": "Beeskow",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 415,
+      "newsCount": 20,
+      "amtsblattCount": 119,
+      "updatedAt": "2026-05-06T08:37:09.944Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Beeskow/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Beeskow/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Beeskow/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Beeskow/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Beeskow/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oder-Spree/Eisenhüttenstadt",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Eisenhüttenstadt"
+      ],
+      "name": "Eisenhüttenstadt",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 25,
+      "newsCount": 20,
+      "amtsblattCount": 10,
+      "updatedAt": "2026-05-06T08:35:22.885Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Eisenh%C3%BCttenstadt/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Eisenh%C3%BCttenstadt/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Eisenh%C3%BCttenstadt/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Eisenh%C3%BCttenstadt/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Eisenh%C3%BCttenstadt/amtsblatt.json",
+      "sources": []
+    },
+    {
       "path": "Brandenburg/Landkreis Oder-Spree/Friedland",
       "breadcrumb": [
         "Brandenburg",
@@ -686,6 +728,27 @@
       "sources": []
     },
     {
+      "path": "Brandenburg/Landkreis Oder-Spree/Fürstenwalde-Spree",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Fürstenwalde-Spree"
+      ],
+      "name": "Fürstenwalde-Spree",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 701,
+      "newsCount": 10,
+      "amtsblattCount": 2,
+      "updatedAt": "2026-05-06T08:23:36.714Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/F%C3%BCrstenwalde-Spree/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/F%C3%BCrstenwalde-Spree/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/F%C3%BCrstenwalde-Spree/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/F%C3%BCrstenwalde-Spree/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/F%C3%BCrstenwalde-Spree/amtsblatt.json",
+      "sources": []
+    },
+    {
       "path": "Brandenburg/Landkreis Oder-Spree/Grünheide (Mark)",
       "breadcrumb": [
         "Brandenburg",
@@ -704,6 +767,27 @@
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Gr%C3%BCnheide%20(Mark)/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Gr%C3%BCnheide%20(Mark)/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Gr%C3%BCnheide%20(Mark)/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oder-Spree/Rietz-Neuendorf",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oder-Spree",
+        "Rietz-Neuendorf"
+      ],
+      "name": "Rietz-Neuendorf",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 21,
+      "newsCount": 26,
+      "amtsblattCount": 22,
+      "updatedAt": "2026-05-06T08:36:22.785Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Rietz-Neuendorf/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Rietz-Neuendorf/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Rietz-Neuendorf/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Rietz-Neuendorf/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Rietz-Neuendorf/amtsblatt.json",
       "sources": []
     },
     {

@@ -2,7 +2,7 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, NewsItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.werneuchen-barnim.de";
@@ -105,18 +105,12 @@ const rssXml = await fetch(RSS_URL, { headers }).then((r) => {
   return r.text();
 });
 
-const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
 
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const mergedNews = mergeNews(existingNews.items, extractNews(rssXml));
 
 const now = new Date().toISOString();
-// Write empty events file (calendar is form-driven, not scrapable)
-if (!existsSync(eventsPath)) {
-  writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: [] } satisfies EventsFile, null, 2));
-}
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews } satisfies NewsFile, null, 2));
 
-console.log(`events: 0 Einträge (kein Events-Feed verfügbar) → ${eventsPath}`);
 console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);

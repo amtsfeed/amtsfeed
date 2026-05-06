@@ -19,7 +19,7 @@ Kein Events-Feed verfügbar.
 
 ## Datenqualität (Stand 2026-05-05)
 
-- **Events:** 0 Einträge (kein Events-Feed verfügbar)
+- **Events:** kein Events-Feed verfügbar – keine events.json wird erzeugt
 - **News:** 15 Einträge, alle mit Datum (DD.MM.YYYY aus HTML-Liste)
 
 ## Besonderheiten

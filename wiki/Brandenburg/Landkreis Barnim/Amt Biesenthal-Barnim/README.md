@@ -18,7 +18,7 @@ Quelle: https://www.amt-biesenthal-barnim.de
 ## Datenqualität (Stand 2026-05-05)
 
 - **News:** 12 Einträge auf `/news`, alle mit Datum (deutsches Datumsformat: „DD. Mon YYYY").
-- Keine Events verfügbar.
+- Keine Events verfügbar – keine events.json wird erzeugt.
 
 ## Besonderheiten
 

@@ -19,7 +19,7 @@ Kein Events-Feed verfügbar (Kalender ist formulargesteuert, nicht scrapbar).
 
 ## Datenqualität (Stand 2026-05-05)
 
-- **Events:** 0 Einträge (kein Events-Feed verfügbar)
+- **Events:** Kalender ist formulargesteuert, nicht scrapbar – keine events.json wird erzeugt
 - **News:** 10 Einträge, alle mit Datum und Uhrzeit aus RSS pubDate
 
 ## Besonderheiten

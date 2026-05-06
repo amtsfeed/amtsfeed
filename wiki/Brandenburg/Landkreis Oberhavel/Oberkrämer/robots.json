@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.oberkraemer.de",
+    "baseUrl": "https://www.oberkraemer.de",
+    "updatedAt": "2026-05-06T15:51:12.934Z",
+    "content": "Sitemap: https://www.oberkraemer.de//sitemap.xml\n\nUser-agent: ingrid\nDisallow:\n\nUser-agent: ingrid\nAllow: *\n\nUser-agent: *\nAllow: /\n\nUser-agent: *\nSitemap: http://www.oberkraemer.de/index.php?id=311\n\nUser-agent: NutchBOA/Nutch-1.0-dev\nDisallow: /\n\nUser-agent: bingbot/2.0\nDisallow: /"
+  }
+]

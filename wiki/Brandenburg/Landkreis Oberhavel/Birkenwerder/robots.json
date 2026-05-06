@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.birkenwerder.de",
+    "baseUrl": "https://www.birkenwerder.de",
+    "updatedAt": "2026-05-06T15:31:12.440Z",
+    "content": "User-Agent: *\nAllow: /               \n\nDisallow: /typo3/        \n\n# L=0 is the default language\nDisallow: /*?L=0*\nDisallow: /*&L=0*\n\nDisallow: /*/Private/*\nDisallow: /*/Configuration/*\n    \nDisallow: /typo3temp/*\nAllow: /typo3temp/*.css\nAllow: /typo3temp/*.css.*.gzip\nAllow: /typo3temp/*.js\nAllow: /typo3temp/*.js.*.gzip\nAllow: /typo3temp/*.jpg\nAllow: /typo3temp/*.gif\nAllow: /typo3temp/*.png         \n \nUser-agent: googlebot\nDisallow: /*?tx_indexedsearch\n\nSitemap: www.birkenwerder.de/sitemap.xml\n\n#ionos\n"
+  }
+]

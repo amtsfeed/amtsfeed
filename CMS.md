@@ -26,6 +26,13 @@ Weit verbreitetes Kommunal-CMS in Brandenburg/Berlin-Brandenburg-Raum.
 - Doppelt kodierte Entities (`&amp;amp;`) möglich
 - `event-clndr-3`: Events in `data-events`-Attribut, doppelt HTML-kodiert; Monatsnavigation via `?month=YYYY-MM`; News-URL-Muster: `/news/{category}/{id}/nachrichten/{slug}.html`; News-Container `<li class="news-entry-to-limit">`
 - `event-entry-new-1`: Datum aus URL-Pfad (time-Elemente haben datetime="1970-01-01"-Bug); `time`-Elemente in `event-entry-new-1-daytime`-Block; Server kann bei vollem UA alle historischen News zurückgeben → NEWS_LIMIT empfohlen
+- `tab_link_entry`: `<li class="tab_link_entry">` mit URL-Struktur `/veranstaltungen/{ID}/YYYY/MM/DD/slug.html`; Datum aus URL; Beispiel: Leegebruch
+
+**PortUNA auf verwaltungsportal.de (gehostetes Gemeindeportal):**
+- Manche Gemeinden nutzen `*.verwaltungsportal.de` statt eigener Domain
+- Problem: Oft liefern alle Seiten nur „Es wurden keine Meldungen gefunden" ohne Inhalte
+- Kein RSS-Feed, kein API-Endpoint vorhanden
+- Beispiel: Liebenwalde (`liebenwalde.verwaltungsportal.de`) — kein Scraper möglich (Stand 2026-05-06)
 
 ---
 
@@ -152,6 +159,52 @@ Open-Source-CMS, häufig bei deutschen Kommunen.
 
 Beispiel: Amt Barnim-Oderbruch (`barnim-oderbruch.de`)
 
+### news-list-view mit articletype (Birkenwerder-Variante)
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<div class="article articletype-0 ...">` (News) / `articletype-*` (Events) |
+| Link | `<a class="article-link" href="/rathaus/aktuelles/neuigkeiten/details/[slug]">` |
+| Datum | `<time itemprop="datePublished" datetime="YYYY-MM-DD">` (leer, Datum nur im Attribut) |
+| Titel | `<span itemprop="headline">TEXT</span>` |
+| Event-URL | `/veranstaltungen/details/[slug]` |
+
+Besonderheiten: `<time>`-Element ist inhaltsleer, Datum nur aus `datetime`-Attribut; ID = slug (max. 80 Zeichen).
+Beispiel: Birkenwerder (`birkenwerder.de`)
+
+### tx_news newsbox-Grid
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<div class="newsbox col-md-6 col-lg-4 my-4">` |
+| Link | `<a title="Title" href="/buergerservice/aktuelles/details/[slug]">` |
+| Datum | Nach `<i class="fa fa-calendar-o ...">` innerhalb 50 Zeichen: `DD.MM.YYYY` |
+| Titel | `<h4 class="h5 mb-1 text-white">TEXT</h4>` |
+
+Beispiel: Fürstenberg/Havel (`fuerstenberg-havel.de`)
+
+### Bootstrap-Accordion (keine Einzel-URLs/Daten)
+
+| Element | Selektor |
+|---------|----------|
+| Item | `<a href="#collapse-NNNN" class="accordion-toggle ...">TEXT</a>` |
+| Datum | nicht vorhanden |
+| URL | Alle Items teilen dieselbe Seiten-URL |
+
+Besonderheiten: IDs aus `#collapse-NNNN`, kein Datum, keine Einzel-Artikel-URLs.
+Beispiel: Zehdenick (`zehdenick.de/nachrichten.html`)
+
+### Custom Events/News-Extension (event_title-Klasse)
+
+| Element | Selektor |
+|---------|----------|
+| Container | split auf `<h2 class="second_font event_title">` |
+| Link | `<a class="readmore second_font" href="/artikel-ansicht/show/[slug]/">Title</a>` |
+| Datum | Nach `<i class="fa fa-fw fa-clock-o mr-1">` innerhalb 30 Zeichen: `DD.MM.YYYY` |
+
+Besonderheiten: Datum nicht immer vorhanden; ID = slug (max. 80 Zeichen).
+Beispiel: Oberkrämer (`oberkraemer.de`)
+
 ### EXT:newsslider (Homepage-Slider)
 
 | Element | Selektor |
@@ -183,6 +236,78 @@ iconateAjaxDispatcherID = altlandsberg_events__list__geteventslist
 X-Requested-With: XMLHttpRequest
 ```
 Beispiel: Altlandsberg (`www.altlandsberg.de`)
+
+---
+
+## IKISS CMS
+
+Kommunales CMS, in Städten Brandenburgs und Berlin-Brandenburgs im Einsatz.
+
+**Erkennungsmerkmale:**
+- `data-ikiss-mfid` auf Listen-Elementen
+- URL-Muster `FID=SITE.NNNN.1` in News-Links
+- IKISS-Version-Hinweis im Quelltext
+
+**Varianten:**
+
+### Variante 1: liste-titel (Oranienburg)
+
+| Element | Selektor |
+|---------|----------|
+| Datum | `<small class="date">DD.MM.YYYY</small>` |
+| Container | Regex über `<small class="date">` + max. 400 Zeichen bis `<h4 class="liste-titel">` |
+| Link | `<h4 class="liste-titel"><a href="...?FID=SITE.NNNN.1...">Title</a></h4>` |
+| ID | `{ortsname}-news-{NNNN}` aus `FID=\d+.{NNNN}.\d+` |
+
+Besonderheit: `www.oranienburg.de` → Redirect auf no-www; BASE_URL = `https://oranienburg.de`
+Beispiel: Oranienburg (`oranienburg.de`)
+
+### Variante 2: result-list mit data-ikiss-mfid (Velten, Hennigsdorf)
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<ul class="result-list">` → `<li data-ikiss-mfid="7.SITE.NNNN.1">` |
+| Link | `<a href="URL" data-ikiss-mfid="7.SITE.NNNN.1">` |
+| Datum | `<span class="sr-only">Datum: </span>DD.MM.YYYY` (in `<small>` oder `<span class="news-date">`) |
+| Titel | `<h3 class="list-title">TEXT</h3>` |
+| ID | `{ortsname}-news-{NNNN}` aus `data-ikiss-mfid="7.SITE.NNNN.1"` |
+
+Beispiele:
+- Velten: `data-ikiss-mfid="7.3631.NNNN.1"` — `www.velten.de` → Redirect auf no-www, BASE_URL = `https://velten.de`
+- Hennigsdorf: `data-ikiss-mfid="7.3590.NNNN.1"`, Datum in `<span class="news-date">`
+
+---
+
+## WordPress + The Events Calendar (Tribe Events)
+
+**Erkennungsmerkmale:**
+- REST-Endpoint `/wp-json/tribe/events/v1/events` vorhanden
+- JavaScript: `tribe-events`-CSS-Klassen oder `tribe_events`-Nonce
+
+**REST API:**
+
+```
+GET /wp-json/tribe/events/v1/events?per_page=100&start_date=YYYY-MM-DD
+→ { events: [...], total, total_pages, next_rest_url }
+```
+
+| Feld | Bedeutung |
+|------|-----------|
+| `id` | Numerische WordPress-Post-ID |
+| `title` | Titel (kann HTML enthalten → Strip) |
+| `url` | Direkte URL zur Veranstaltung |
+| `start_date` | `YYYY-MM-DD HH:MM:SS` → `new Date(...).toISOString()` |
+| `end_date` | wie `start_date` |
+| `venue.venue` | Name des Ortes |
+| `venue.city` | Stadt |
+| `next_rest_url` | URL der nächsten Seite (Paginierung) |
+
+Besonderheiten:
+- Paginierung via `next_rest_url` (nicht via `page`-Parameter)
+- Ort: `venue.venue + ", " + venue.city` (beide optional)
+- ID: `{ortsname}-event-{id}`
+
+Beispiel: Gransee (`gransee.de`, 470 Events)
 
 ---
 

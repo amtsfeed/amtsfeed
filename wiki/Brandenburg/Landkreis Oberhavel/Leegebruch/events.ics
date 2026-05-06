@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Leegebruch
+X-WR-CALDESC:Amtliche Veranstaltungen für Leegebruch
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:leegebruch-event-2892673@amtsfeed.de
+DTSTAMP:20260506T152732Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Schließzeiten der in der Trägerschaft der Gemeinde Leegebruch b
+ efindlichen Kindertagesstätte
+URL:https://www.leegebruch.de/veranstaltungen/2892673/2026/05/20/bauaussc
+ huss-tagt-am.html
+END:VEVENT
+BEGIN:VEVENT
+UID:leegebruch-event-2892676@amtsfeed.de
+DTSTAMP:20260506T152732Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Sozialausschuss tagt am
+URL:https://www.leegebruch.de/veranstaltungen/2892676/2026/05/21/sozialau
+ sschuss-tagt-am.html
+LOCATION:Sitzungssaal des Rathauses
+END:VEVENT
+BEGIN:VEVENT
+UID:leegebruch-event-2892677@amtsfeed.de
+DTSTAMP:20260506T152732Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Werksausschuss tagt am
+URL:https://www.leegebruch.de/veranstaltungen/2892677/2026/05/28/werksaus
+ schuss-tagt-am.html
+LOCATION:Sitzungssaal des Rathauses
+END:VEVENT
+END:VCALENDAR

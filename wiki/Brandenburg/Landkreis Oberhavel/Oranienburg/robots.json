@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "www.oranienburg.de",
+    "baseUrl": "https://www.oranienburg.de",
+    "updatedAt": "2026-05-06T15:31:10.290Z",
+    "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /suche.phtml\nDisallow: /suchen.phtml\nDisallow: /redirect.phtml\n\nSitemap: https://oranienburg.de/sitemap.xml"
+  },
+  {
+    "domain": "oranienburg.de",
+    "baseUrl": "https://oranienburg.de",
+    "updatedAt": "2026-05-06T15:35:32.109Z",
+    "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /suche.phtml\nDisallow: /suchen.phtml\nDisallow: /redirect.phtml\n\nSitemap: https://oranienburg.de/sitemap.xml"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.fuerstenberg-havel.de",
+    "baseUrl": "https://www.fuerstenberg-havel.de",
+    "updatedAt": "2026-05-06T15:51:12.228Z",
+    "content": "User-agent: *\r\nDisallow: /typo3/\r\nDisallow: /typo3_src/\r\nSitemap: https://fuerstenberg-havel.de/sitemap.xml"
+  }
+]

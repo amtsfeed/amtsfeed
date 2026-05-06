@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.muehlenbecker-land.de",
+    "baseUrl": "https://www.muehlenbecker-land.de",
+    "updatedAt": "2026-05-06T15:28:36.635Z",
+    "content": "User-Agent: AhrefsBot\nDisallow: /\nUser-Agent: MJ12bot\nDisallow: /\nUser-Agent: DotBot\nDisallow: /\nUser-Agent: SEOkicks-Robot\nDisallow: /\nUser-Agent: seoscanners.net\nDisallow: /\nUser-agent: jobs.de-Robot\nDisallow: /\nUser-Agent: SemrushBot-SA\nDisallow: /\nUser-Agent: SemrushBot\nDisallow: /\nUser-Agent: ZoominfoBot\nDisallow: /\nUser-Agent: MegaIndex\nDisallow: /\nUser-agent: *\nDisallow: /*&type=98\nUser-agent: *\nDisallow: /*?type=98\n"
+  }
+]

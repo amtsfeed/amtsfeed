@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T14:03:30.930Z",
+  "updatedAt": "2026-05-06T15:56:46.758Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -181,13 +181,13 @@
       "hasIcal": true,
       "eventCount": 3,
       "newsCount": 10,
-      "amtsblattCount": 0,
-      "updatedAt": "2026-05-06T13:00:25.137Z",
+      "amtsblattCount": 10,
+      "updatedAt": "2026-05-06T14:16:28.349Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/news.json",
-      "amtsblattUrl": null,
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/amtsblatt.json",
       "sources": [
         {
           "type": "rss",
@@ -311,15 +311,15 @@
       "name": "Amt Märkische Schweiz",
       "hasRss": true,
       "hasIcal": true,
-      "eventCount": 368,
+      "eventCount": 377,
       "newsCount": 14,
-      "amtsblattCount": 0,
-      "updatedAt": "2026-05-05T14:05:34.114Z",
+      "amtsblattCount": 16,
+      "updatedAt": "2026-05-06T14:21:57.445Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20M%C3%A4rkische%20Schweiz/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20M%C3%A4rkische%20Schweiz/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20M%C3%A4rkische%20Schweiz/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20M%C3%A4rkische%20Schweiz/news.json",
-      "amtsblattUrl": null,
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20M%C3%A4rkische%20Schweiz/amtsblatt.json",
       "sources": []
     },
     {
@@ -556,6 +556,300 @@
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Wriezen/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Wriezen/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Wriezen/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Birkenwerder",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Birkenwerder"
+      ],
+      "name": "Birkenwerder",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 17,
+      "newsCount": 30,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:35:31.592Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Birkenwerder/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Birkenwerder/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Birkenwerder/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Birkenwerder/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Fürstenberg-Havel",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Fürstenberg-Havel"
+      ],
+      "name": "Fürstenberg-Havel",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 12,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:51:12.409Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/F%C3%BCrstenberg-Havel/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/F%C3%BCrstenberg-Havel/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Glienicke-Nordbahn",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Glienicke-Nordbahn"
+      ],
+      "name": "Glienicke-Nordbahn",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 10,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:28:10.717Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Glienicke-Nordbahn/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Glienicke-Nordbahn/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Gransee",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Gransee"
+      ],
+      "name": "Gransee",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 470,
+      "newsCount": 0,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:28:34.849Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Gransee/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Gransee/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Gransee/events.json",
+      "newsUrl": null,
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Hennigsdorf",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Hennigsdorf"
+      ],
+      "name": "Hennigsdorf",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 9,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:51:08.731Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Hennigsdorf/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Hennigsdorf/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Hohen Neuendorf",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Hohen Neuendorf"
+      ],
+      "name": "Hohen Neuendorf",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 10,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:28:36.099Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Hohen%20Neuendorf/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Hohen%20Neuendorf/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Kremmen",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Kremmen"
+      ],
+      "name": "Kremmen",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 47,
+      "newsCount": 11,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:28:09.573Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Kremmen/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Kremmen/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Kremmen/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Kremmen/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Leegebruch",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Leegebruch"
+      ],
+      "name": "Leegebruch",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 3,
+      "newsCount": 2,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:27:32.806Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Leegebruch/rss.xml",
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Leegebruch/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Leegebruch/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Leegebruch/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Löwenberger Land",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Löwenberger Land"
+      ],
+      "name": "Löwenberger Land",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 20,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:27:31.971Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/L%C3%B6wenberger%20Land/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/L%C3%B6wenberger%20Land/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Mühlenbecker Land",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Mühlenbecker Land"
+      ],
+      "name": "Mühlenbecker Land",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 1,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:29:27.725Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/M%C3%BChlenbecker%20Land/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/M%C3%BChlenbecker%20Land/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Oberkrämer",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Oberkrämer"
+      ],
+      "name": "Oberkrämer",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 50,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:51:13.225Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Oberkr%C3%A4mer/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Oberkr%C3%A4mer/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Oranienburg",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Oranienburg"
+      ],
+      "name": "Oranienburg",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 24,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:35:32.192Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Oranienburg/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Oranienburg/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Velten",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Velten"
+      ],
+      "name": "Velten",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 15,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:51:07.568Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Velten/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Velten/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Oberhavel/Zehdenick",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Oberhavel",
+        "Zehdenick"
+      ],
+      "name": "Zehdenick",
+      "hasRss": true,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 9,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T15:51:14.234Z",
+      "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Zehdenick/rss.xml",
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oberhavel/Zehdenick/news.json",
+      "amtsblattUrl": null,
       "sources": []
     },
     {
@@ -1075,13 +1369,13 @@
       "hasIcal": true,
       "eventCount": 31,
       "newsCount": 0,
-      "amtsblattCount": 0,
-      "updatedAt": "2026-05-06T11:35:17.306Z",
+      "amtsblattCount": 17,
+      "updatedAt": "2026-05-06T14:17:38.549Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Gro%C3%9F%20Kreutz/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Gro%C3%9F%20Kreutz/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Gro%C3%9F%20Kreutz/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Gro%C3%9F%20Kreutz/news.json",
-      "amtsblattUrl": null,
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Gro%C3%9F%20Kreutz/amtsblatt.json",
       "sources": []
     },
     {

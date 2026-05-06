@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hennigsdorf
+X-WR-CALDESC:Amtliche Veranstaltungen für Hennigsdorf
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:hennigsdorf-event-820@amtsfeed.de
+DTSTAMP:20260506T180008Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20261004
+SUMMARY:Ausstellung im Grenzturm
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Ausstellung-im-
+ Grenzturm-.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.820.1&amp\
+ ;NavID=2713.9&amp\;La=1&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&a
+ mp\;max=9&amp\;k_sub=1
+LOCATION:Grenzturm | Nieder Neuendorf
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-812@amtsfeed.de
+DTSTAMP:20260506T180008Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260522
+SUMMARY:Tiere und Natur 2.0 - Eine künstlerische Entdeckungsreise
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tiere-und-Natur
+ -2-0-Eine-k%C3%BCnstlerische-Entdeckungsreise.php?object=tx\,3590.4.1&amp
+ \;ModID=11&amp\;FID=3590.812.1&amp\;NavID=2713.9&amp\;La=1&amp\;kat%5B0%5
+ D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-739@amtsfeed.de
+DTSTAMP:20260506T180008Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Tanztee 2026
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tanztee-2026.ph
+ p?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.739.1&amp\;NavID=2713.9
+ &amp\;La=1&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp
+ \;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-787@amtsfeed.de
+DTSTAMP:20260506T180008Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Fackelumzug und Kranzniederlegung | Feuerwehr Hennigsdorf
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Fackelumzug-und
+ -Kranzniederlegung-Feuerwehr-Hennigsdorf-.php?object=tx\,3590.4.1&amp\;Mo
+ dID=11&amp\;FID=3590.787.1&amp\;NavID=2713.9&amp\;La=1&amp\;kat%5B0%5D=1%
+ 2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-788@amtsfeed.de
+DTSTAMP:20260506T180008Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Feuerwehr Hennigsdorf  Tag der offenen Tür
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Feuerwehr-Henni
+ gsdorf-Tag-der-offenen-T%C3%BCr-.php?object=tx\,3590.4.1&amp\;ModID=11&am
+ p\;FID=3590.788.1&amp\;NavID=2713.9&amp\;La=1&amp\;kat%5B0%5D=1%2C2713.5&
+ amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-804@amtsfeed.de
+DTSTAMP:20260506T180008Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:+++Ausverkauft+++ Erlebnistour Kräuterwanderung
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/-Ausverkauft-Er
+ lebnistour-Kr%C3%A4uterwanderung-.php?object=tx\,3590.4.1&amp\;ModID=11&a
+ mp\;FID=3590.804.1&amp\;NavID=2713.9&amp\;La=1&amp\;kat%5B0%5D=1%2C2713.5
+ &amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-835@amtsfeed.de
+DTSTAMP:20260506T180008Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Tag der Städtebauförderung
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tag-der-St%C3%A
+ 4dtebauf%C3%B6rderung.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590
+ .835.1&amp\;NavID=2713.9&amp\;La=1&amp\;kat%5B0%5D=1%2C2713.5&amp\;startk
+ at=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-785@amtsfeed.de
+DTSTAMP:20260506T180008Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:Bilderbuchkino für Familien
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Bilderbuchkino-
+ f%C3%BCr-Familien-.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.78
+ 5.1&amp\;NavID=2713.9&amp\;La=1&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=
+ 2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+END:VCALENDAR

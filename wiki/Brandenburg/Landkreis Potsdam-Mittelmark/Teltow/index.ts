@@ -81,17 +81,25 @@ function extractNews(html: string): NewsItem[] {
 }
 
 function extractAmtsblatt(html: string): AmtsblattItem[] {
+  // VerwaltungsPortal gazette-tab format:
+  // <article class="gazette-tab ..."><h3>Ausgabe Nr. N/YYYY</h3>
+  //   <time datetime="YYYY-MM-DD">...</time>
+  //   <form action="/amtsblatt/index.php#gazette_NNNNN" ...>
   const items: AmtsblattItem[] = [];
   const now = new Date().toISOString();
-  const rx = /<td>(Nr\.\s*(\d+)\/(\d{4}))<\/td>\s*<td>([\d.&#; ]+)<\/td>/g;
+  const seen = new Set<string>();
+  const rx = /<article[^>]*class="gazette-tab[^"]*"[^>]*>[\s\S]*?<h3[^>]*>(Ausgabe\s+Nr\.\s*(\d+)\/(\d{4}))<\/h3>[\s\S]*?<time[^>]*datetime="(\d{4}-\d{2}-\d{2})"[\s\S]*?<form[^>]*action="([^"]*#gazette_(\d+))"[^>]*>/g;
   let m: RegExpExecArray | null;
   while ((m = rx.exec(html)) !== null) {
-    const num = m[2]!.padStart(2, "0"); const year = m[3]!;
-    const dateStr = m[4]!.replace(/&#[^;]+;/g, "").replace(/\.+/g, ".").trim();
-    const dateParts = dateStr.match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
-    if (!dateParts) continue;
-    const publishedAt = `${dateParts[3]}-${dateParts[2]!.padStart(2, "0")}-${dateParts[1]!.padStart(2, "0")}T00:00:00.000Z`;
-    items.push({ id: `teltow-amtsblatt-${year}-${num}`, title: `Amtsblatt Nr. ${num}/${year}`, url: AMTSBLATT_URL, publishedAt, fetchedAt: now });
+    const num = m[2]!.padStart(2, "0");
+    const year = m[3]!;
+    const publishedAt = `${m[4]}T00:00:00.000Z`;
+    const gazetteId = m[6]!;
+    const id = `teltow-amtsblatt-${year}-${num}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+    const url = `${AMTSBLATT_URL}#gazette_${gazetteId}`;
+    items.push({ id, title: `Amtsblatt Nr. ${num}/${year}`, url, publishedAt, fetchedAt: now });
   }
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }

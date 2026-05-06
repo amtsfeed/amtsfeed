@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hohen Neuendorf
+X-WR-CALDESC:Amtliche Veranstaltungen für Hohen Neuendorf
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-digitale-sprechstunde-umgang-mit-dem-smartphone
+ -0@amtsfeed.de
+DTSTAMP:20260506T181238Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Digitale Sprechstunde: Umgang mit dem Smartphone
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ digitale-sprechstunde-umgang-mit-dem-smartphone-0
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-beratungsangebot-der-volkssolidaritaet@amtsfeed
+ .de
+DTSTAMP:20260506T181238Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Beratungsangebot in der Volkssolidarität
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ beratungsangebot-der-volkssolidaritaet
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-buchzeit-wache-geister-heinrich-heine@amtsfeed.
+ de
+DTSTAMP:20260506T181238Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Buchzeit: Wache Geister – Heinrich Heine
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ buchzeit-wache-geister-heinrich-heine
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-offene-sonnabende-des-geschichtskreises-7@amtsf
+ eed.de
+DTSTAMP:20260506T181238Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Offene Sonnabende des Geschichtskreises
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ offene-sonnabende-des-geschichtskreises-7
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-repair-cafe-5@amtsfeed.de
+DTSTAMP:20260506T181238Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Repair-Café
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ repair-cafe-5
+END:VEVENT
+END:VCALENDAR

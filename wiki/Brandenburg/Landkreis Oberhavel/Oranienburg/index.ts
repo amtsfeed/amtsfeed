@@ -2,11 +2,12 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, EventsFile, Event } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://oranienburg.de";
 const NEWS_URL = `${BASE_URL}/Rathaus-Service/Aktuelles/Meldungen/`;
+const EVENTS_URL = `${BASE_URL}/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -19,6 +20,7 @@ function decodeHtmlEntities(str: string): string {
     .replace(/&#(\d+);/g, (_, n: string) => String.fromCharCode(parseInt(n, 10)));
 }
 
+// ── News ──────────────────────────────────────────────────────────────────────
 // IKISS CMS news list:
 // <small class="date">DD.MM.YYYY</small>
 // <h4 class="liste-titel"><a href="/...Slug.php?...&FID=2967.NNNN.1&...">Title</a></h4>
@@ -48,6 +50,49 @@ function extractNews(html: string): NewsItem[] {
   return items.sort((a, b) => (b.publishedAt ?? "").localeCompare(a.publishedAt ?? ""));
 }
 
+// ── Events ────────────────────────────────────────────────────────────────────
+// IKISS CMS events list:
+// <article class="elem row" data-ikiss-mfid="11.2967.NNNN.1">
+//   <small class="date">DD.MM.YYYY[ bis DD.MM.YYYY]</small>
+//   <h4 class="liste-titel"><a href="/...FID=2967.NNNN.1...">Title</a></h4>
+// </article>
+
+function parseDDMMYYYY(dd: string, mm: string, yyyy: string): string {
+  return `${yyyy}-${mm}-${dd}T00:00:00.000Z`;
+}
+
+function extractEvents(html: string): Event[] {
+  const items: Event[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const blocks = html.split(/(?=<article\s[^>]*data-ikiss-mfid="11\.2967\.)/).filter((b) => /data-ikiss-mfid="11\.2967\./.test(b));
+  for (const block of blocks) {
+    const mfidMatch = block.match(/data-ikiss-mfid="11\.2967\.(\d+)\.1"/);
+    if (!mfidMatch) continue;
+    const eventId = mfidMatch[1]!;
+    const id = `oranienburg-event-${eventId}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const hrefMatch = block.match(/<h4\s+class="liste-titel"><a\s+href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/);
+    if (!hrefMatch) continue;
+    const href = hrefMatch[1]!;
+    const title = decodeHtmlEntities((hrefMatch[2] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    const dateMatch = block.match(/<small\s+class="date">(\d{2})\.(\d{2})\.(\d{4})(?:\s+bis\s+(\d{2})\.(\d{2})\.(\d{4}))?<\/small>/);
+    if (!dateMatch) continue;
+    const startDate = parseDDMMYYYY(dateMatch[1]!, dateMatch[2]!, dateMatch[3]!);
+    const endDate = dateMatch[4] ? parseDDMMYYYY(dateMatch[4], dateMatch[5]!, dateMatch[6]!) : undefined;
+
+    const url = href.startsWith("http") ? href : `${BASE_URL}${href}`;
+    items.push({ id, title, url, startDate, ...(endDate && endDate !== startDate ? { endDate } : {}), fetchedAt: now, updatedAt: now });
+  }
+
+  return items.sort((a, b) => a.startDate.localeCompare(b.startDate));
+}
+
 function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
   const byId = new Map(existing.map((n) => [n.id, n]));
   for (const n of incoming) {
@@ -57,24 +102,36 @@ function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
   return [...byId.values()].sort((a, b) => (b.publishedAt ?? "").localeCompare(a.publishedAt ?? ""));
 }
 
+function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
+  const byId = new Map(existing.map((e) => [e.id, e]));
+  for (const e of incoming) byId.set(e.id, { ...e, fetchedAt: byId.get(e.id)?.fetchedAt ?? e.fetchedAt });
+  return [...byId.values()].sort((a, b) => a.startDate.localeCompare(b.startDate));
+}
+
 function loadJson<T>(path: string, fallback: T): T {
   if (existsSync(path)) return JSON.parse(readFileSync(path, "utf-8")) as T;
   return fallback;
 }
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/Rathaus-Service/Aktuelles/"]);
+assertAllowed(robots, ["/Rathaus-Service/Aktuelles/", "/Stadtleben/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const newsHtml = await fetch(NEWS_URL, { headers }).then((r) => {
-  if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`);
-  return r.text();
-});
+const [newsHtml, eventsHtml] = await Promise.all([
+  fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
+  fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
+]);
+
+const now = new Date().toISOString();
 
 const newsPath = join(DIR, "news.json");
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
-
-const now = new Date().toISOString();
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
-console.log(`news: ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
+
+const eventsPath = join(DIR, "events.json");
+const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
+const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
+writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
+console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);

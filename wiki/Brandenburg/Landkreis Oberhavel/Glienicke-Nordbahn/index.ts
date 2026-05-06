@@ -7,8 +7,11 @@ import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/rob
 
 const BASE_URL = "https://www.glienicke.eu";
 const NEWS_RSS_URL = `${BASE_URL}/portal/rss.xml`;
-const EVENTS_URL = `${BASE_URL}/freizeit-kultur/veranstaltungskalender/`;
+const KOMMUNE_ID = "22451";
 const DIR = dirname(fileURLToPath(import.meta.url));
+
+// ── News ──────────────────────────────────────────────────────────────────────
+// PortUNA RSS feed at /portal/rss.xml
 
 function decodeHtmlEntities(str: string): string {
   return str
@@ -19,9 +22,6 @@ function decodeHtmlEntities(str: string): string {
     .replace(/&#x([0-9a-fA-F]+);/g, (_, h: string) => String.fromCharCode(parseInt(h, 16)))
     .replace(/&#(\d+);/g, (_, n: string) => String.fromCharCode(parseInt(n, 10)));
 }
-
-// ── News ──────────────────────────────────────────────────────────────────────
-// PortUNA RSS feed at /portal/rss.xml
 
 function extractNews(xml: string): NewsItem[] {
   const items: NewsItem[] = [];
@@ -55,56 +55,59 @@ function extractNews(xml: string): NewsItem[] {
 }
 
 // ── Events ────────────────────────────────────────────────────────────────────
-// PortUNA events-entry-3 or tab_link_entry format
+// NOLIS iCal bulk export at /veranstaltungen/veranstaltungen.ical
+// VEVENT fields: SUMMARY, DTSTART, DTEND, LOCATION, X-ID (e.g. 22451_NNNNNN)
 
-function extractEvents(html: string): Event[] {
-  const events: Event[] = [];
+function unfoldIcal(raw: string): string {
+  return raw.replace(/\r?\n[ \t]/g, "");
+}
+
+function icalDateToIso(val: string): string {
+  if (val.length >= 15 && val[8] === "T") {
+    return `${val.slice(0, 4)}-${val.slice(4, 6)}-${val.slice(6, 8)}T${val.slice(9, 11)}:${val.slice(11, 13)}:${val.slice(13, 15)}Z`;
+  }
+  return `${val.slice(0, 4)}-${val.slice(4, 6)}-${val.slice(6, 8)}T00:00:00.000Z`;
+}
+
+function extractEvents(ical: string): Event[] {
+  const items: Event[] = [];
   const now = new Date().toISOString();
+  const seen = new Set<string>();
+  const unfolded = unfoldIcal(ical);
 
-  // Try events-entry-3 first
-  const entry3blocks = html.split(/(?=<div\s[^>]*class="row events-entry-3")/)
-    .filter((b) => /class="row events-entry-3"/.test(b));
+  for (const block of unfolded.split("BEGIN:VEVENT").slice(1)) {
+    const get = (key: string) => block.match(new RegExp(`^${key}[;:][^\r\n]*`, "m"))?.[0]?.replace(/^[^:]+:/, "").trim() ?? "";
 
-  for (const block of entry3blocks) {
-    const linkMatch = block.match(/href="(\/veranstaltungen\/[^"]+\.html)"/);
-    if (!linkMatch) continue;
-    const href = linkMatch[1]!;
+    const summary = get("SUMMARY").replace(/\\,/g, ",").replace(/\\n/g, " ").trim();
+    const dtstart = get("DTSTART");
+    const dtend = get("DTEND");
+    const location = get("LOCATION").replace(/\\,/g, ",").replace(/\\n/g, "\n").trim();
+    const xid = get("X-ID"); // e.g. 22451_904005818
 
-    const titleMatch = block.match(/<h[2-6][^>]*>\s*<a[^>]*>([\s\S]*?)<\/a>/i);
-    if (!titleMatch) continue;
-    const title = decodeHtmlEntities((titleMatch[1] ?? "").replace(/<[^>]+>/g, "").trim());
-    if (!title) continue;
+    if (!summary || !dtstart) continue;
 
-    const dateMatch = block.match(/datetime="(\d{4}-\d{2}-\d{2})"/);
-    const startDate = dateMatch ? `${dateMatch[1]}T00:00:00.000Z` : now;
+    const eventId = xid ? xid.split("_")[1] : undefined;
+    const id = eventId ? `glienicke-event-${eventId}` : `glienicke-event-${dtstart}-${summary.slice(0, 20)}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
 
-    const locMatch = block.match(/<p[^>]*class="events-entry-3-location"[^>]*>([\s\S]*?)<\/p>/i);
-    const location = locMatch ? decodeHtmlEntities((locMatch[1] ?? "").replace(/<[^>]+>/g, "").trim()) : undefined;
+    const url = eventId
+      ? `${BASE_URL}/veranstaltungen/${eventId}-${KOMMUNE_ID}.html`
+      : `${BASE_URL}/freizeit-kultur/veranstaltungskalender/`;
 
-    const idMatch = href.match(/\/veranstaltungen\/(\d+)\//);
-    const id = idMatch ? `glienicke-event-${idMatch[1]!}` : href;
-
-    events.push({ id, title, url: `${BASE_URL}${href}`, startDate, ...(location ? { location } : {}), fetchedAt: now, updatedAt: now });
+    items.push({
+      id,
+      title: summary,
+      url,
+      startDate: icalDateToIso(dtstart),
+      ...(dtend ? { endDate: icalDateToIso(dtend) } : {}),
+      ...(location ? { location } : {}),
+      fetchedAt: now,
+      updatedAt: now,
+    });
   }
 
-  // Fallback: tab_link_entry
-  if (events.length === 0) {
-    const tabBlocks = html.split(/(?=<li[^>]*class="[^"]*tab_link_entry)/)
-      .filter((b) => /class="[^"]*tab_link_entry/.test(b));
-    for (const block of tabBlocks) {
-      const linkMatch = block.match(/href="(\/veranstaltungen\/(\d+)\/(\d{4})\/(\d{2})\/(\d{2})\/[^"]+\.html)"/);
-      if (!linkMatch) continue;
-      const href = linkMatch[1]!;
-      const startDate = `${linkMatch[3]}-${linkMatch[4]}-${linkMatch[5]}T00:00:00.000Z`;
-      const titleMatch = block.match(/<a[^>]*>([\s\S]*?)<\/a>/i);
-      if (!titleMatch) continue;
-      const title = decodeHtmlEntities((titleMatch[1] ?? "").replace(/<[^>]+>/g, "").trim());
-      if (!title) continue;
-      events.push({ id: `glienicke-event-${linkMatch[2]!}`, title, url: `${BASE_URL}${href}`, startDate, fetchedAt: now, updatedAt: now });
-    }
-  }
-
-  return events.sort((a, b) => a.startDate.localeCompare(b.startDate));
+  return items.sort((a, b) => a.startDate.localeCompare(b.startDate));
 }
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -128,25 +131,36 @@ function loadJson<T>(path: string, fallback: T): T {
 }
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/portal/rss.xml", "/freizeit-kultur/"]);
+assertAllowed(robots, ["/portal/rss.xml", "/veranstaltungen/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [rssXml, eventsHtml] = await Promise.all([
+
+const today = new Date();
+const nextYear = new Date(today);
+nextYear.setFullYear(nextYear.getFullYear() + 1);
+const fmt = (d: Date) => `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, "0")}${String(d.getDate()).padStart(2, "0")}`;
+const eventsIcalUrl = `${BASE_URL}/veranstaltungen/veranstaltungen.ical?zeitauswahl=1&auswahl_woche_tage=365&kategorie=0&selected_kommune=${KOMMUNE_ID}&beginn=${fmt(today)}000000&ende=${fmt(nextYear)}235959&intern=0`;
+
+const [rssXml, eventsIcal] = await Promise.all([
   fetch(NEWS_RSS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_RSS_URL}`); return r.text(); }),
-  fetch(EVENTS_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(eventsIcalUrl, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${eventsIcalUrl}`); return r.text(); }),
 ]);
 
-const newsPath = join(DIR, "news.json");
-const eventsPath = join(DIR, "events.json");
-const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
-const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
-const mergedNews = mergeNews(existingNews.items, extractNews(rssXml));
-const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
-
 const now = new Date().toISOString();
-writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
-if (mergedEvents.length > 0)
-  writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 
+const newsPath = join(DIR, "news.json");
+const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
+const mergedNews = mergeNews(existingNews.items, extractNews(rssXml));
+writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
-console.log(`events: ${mergedEvents.length} Einträge`);
+
+const incomingEvents = extractEvents(eventsIcal);
+if (incomingEvents.length > 0) {
+  const eventsPath = join(DIR, "events.json");
+  const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
+  const mergedEvents = mergeEvents(existingEvents.items, incomingEvents);
+  writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
+  console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
+} else {
+  console.log("events: 0 Einträge – keine events.json geschrieben");
+}

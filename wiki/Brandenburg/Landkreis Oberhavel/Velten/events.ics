@@ -1,0 +1,270 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Velten
+X-WR-CALDESC:Amtliche Veranstaltungen für Velten
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:velten-event-932@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20260526
+SUMMARY:Ausstellung Barry McDaniel "Then I may put a little gold on it"
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ausste
+ llung-Barry-McDaniel-Then-I-may-put-a-little-gold-on-it-.php?object=tx\,3
+ 631.4.1&amp\;ModID=11&amp\;FID=3631.932.1&amp\;NavID=3631.15&amp\;La=1&am
+ p\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-980@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260526
+SUMMARY:Baukeramik I und II
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Bauker
+ amik-I-und-II.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.980.1&a
+ mp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1098@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260728
+SUMMARY:Ausstellung: "Mixt(o)ur"
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ausste
+ llung-Mixt-o-ur-.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1098
+ .1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1003@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1003.1&amp\;Nav
+ ID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1114@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Straßenfußball-Meisterschaft
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Stra%C
+ 3%9Fenfu%C3%9Fball-Meisterschaft.php?object=tx\,3631.4.1&amp\;ModID=11&am
+ p\;FID=3631.1114.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-961@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260530
+SUMMARY:STADTRADELN - Velten radelt mit
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/STADTR
+ ADELN-Velten-radelt-mit.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=36
+ 31.961.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1081@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:+++ Ausgebucht +++ Stadtrundgang "Veltener Töppertour" mit Rober
+ t Erzig
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/-Ausge
+ bucht-Stadtrundgang-Veltener-T%C3%B6ppertour-mit-Robert-Erzig.php?object=
+ tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1081.1&amp\;NavID=3631.15&amp\;L
+ a=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1109@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Brandschutz in den eigenen vier Wänden
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Brands
+ chutz-in-den-eigenen-vier-W%C3%A4nden-.php?object=tx\,3631.4.1&amp\;ModID
+ =11&amp\;FID=3631.1109.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;s
+ fort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1063@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:Fit am Rathaus: Liebscher & Bracht (Jens Ulmann)
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am
+ -Rathaus-Liebscher-Bracht-Jens-Ulmann-.php?object=tx\,3631.4.1&amp\;ModID
+ =11&amp\;FID=3631.1063.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;s
+ fort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1004@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1004.1&amp\;Nav
+ ID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1110@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Pakt für Pflege: Smartphone-Kurs
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Pakt-f
+ %C3%BCr-Pflege-Smartphone-Kurs-.php?object=tx\,3631.4.1&amp\;ModID=11&amp
+ \;FID=3631.1110.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1064@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Fit am Rathaus: Zumba Easy (Wannis Tanzstudio)
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am
+ -Rathaus-Zumba-Easy-Wannis-Tanzstudio-.php?object=tx\,3631.4.1&amp\;ModID
+ =11&amp\;FID=3631.1064.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;s
+ fort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1115@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Internationaler Museumstag 2026
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Intern
+ ationaler-Museumstag-2026-.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID
+ =3631.1115.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1106@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Eltern-Medien-Abend
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Eltern
+ -Medien-Abend.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1106.1&
+ amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1005@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1005.1&amp\;Nav
+ ID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-897@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:16. Sitzung der Stadtverordnetenversammlung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/16-Sit
+ zung-der-Stadtverordnetenversammlung.php?object=tx\,3631.4.1&amp\;ModID=1
+ 1&amp\;FID=3631.897.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfor
+ t=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1102@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Auf 'ne Radtour mit der Bürgermeisterin
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Auf-ne
+ -Radtour-mit-der-B%C3%BCrgermeisterin.php?object=tx\,3631.4.1&amp\;ModID=
+ 11&amp\;FID=3631.1102.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sf
+ ort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1080@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Pfingstkonzert im Museumshof
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Pfings
+ tkonzert-im-Museumshof.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=363
+ 1.1080.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1006@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1006.1&amp\;Nav
+ ID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-987@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Netzwerk Velten: Beratung zur Pflege vor Ort
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Netzwe
+ rk-Velten-Beratung-zur-Pflege-vor-Ort.php?object=tx\,3631.4.1&amp\;ModID=
+ 11&amp\;FID=3631.987.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfo
+ rt=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-969@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+SUMMARY:Ofen-Stadt-Fest
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ofen-S
+ tadt-Fest.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.969.1&amp\;
+ NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1089@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:5. Brandenburger Science Slam
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/5-Bran
+ denburger-Science-Slam-.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=36
+ 31.1089.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1118@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Tag der Baukultur Brandenburg
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Tag-de
+ r-Baukultur-Brandenburg.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=36
+ 31.1118.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1065@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Fit am Rathaus: Pound - Rockout Workout (Wannis Tanzstudio)
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am
+ -Rathaus-Pound-Rockout-Workout-Wannis-Tanzstudio-.php?object=tx\,3631.4.1
+ &amp\;ModID=11&amp\;FID=3631.1065.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfr
+ eg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-896@amtsfeed.de
+DTSTAMP:20260506T180044Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:13. Sitzung des Ausschusses für Bau und Stadtentwicklung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/13-Sit
+ zung-des-Ausschusses-f%C3%BCr-Bau-und-Stadtentwicklung.php?object=tx\,363
+ 1.4.1&amp\;ModID=11&amp\;FID=3631.896.1&amp\;NavID=3631.15&amp\;La=1&amp\
+ ;sfreg=1&amp\;sfort=1
+END:VEVENT
+END:VCALENDAR

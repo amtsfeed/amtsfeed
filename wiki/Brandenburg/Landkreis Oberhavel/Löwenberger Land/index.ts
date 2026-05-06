@@ -7,7 +7,7 @@ import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/rob
 
 const BASE_URL = "https://www.loewenberger-land.de";
 const NEWS_RSS_URL = `${BASE_URL}/news/rss.xml`;
-const EVENTS_URL = `${BASE_URL}/veranstaltungen/index.php`;
+const EVENTS_URL = `${BASE_URL}/veranstaltungen/clr/2`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -55,35 +55,42 @@ function extractNews(xml: string): NewsItem[] {
 }
 
 // ── Events ────────────────────────────────────────────────────────────────────
-// PortUNA events-entry-3 format
+// VerwaltungsPortal list view (/veranstaltungen/clr/2): 281+ upcoming events.
+// Each event-box contains: optional event-time span, anchor with URL date, event-ort span.
+// URL format: /veranstaltungen/{eventId}/{YYYY}/{MM}/{DD}/{slug}.html
 
 function extractEvents(html: string): Event[] {
   const events: Event[] = [];
   const now = new Date().toISOString();
+  const seen = new Set<string>();
 
-  const blocks = html.split(/(?=<div\s[^>]*class="row events-entry-3")/)
-    .filter((b) => /class="row events-entry-3"/.test(b));
-
+  const blocks = html.split('<div class="event-box">').slice(1);
   for (const block of blocks) {
-    const linkMatch = block.match(/href="(\/veranstaltungen\/[^"]+\.html)"/);
-    if (!linkMatch) continue;
-    const href = linkMatch[1]!;
+    const hrefMatch = block.match(/href="(\/veranstaltungen\/(\d+)\/(\d{4})\/(\d{2})\/(\d{2})\/[^"]+)"/);
+    if (!hrefMatch) continue;
+    const href = hrefMatch[1]!;
+    const eventId = hrefMatch[2]!;
+    const yyyy = hrefMatch[3]!;
+    const mm = hrefMatch[4]!;
+    const dd = hrefMatch[5]!;
 
-    const titleMatch = block.match(/<h[2-6][^>]*>\s*<a[^>]*>([\s\S]*?)<\/a>/i);
-    if (!titleMatch) continue;
-    const title = decodeHtmlEntities((titleMatch[1] ?? "").replace(/<[^>]+>/g, "").trim());
+    const id = `loewenberger-land-event-${eventId}-${yyyy}-${mm}-${dd}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const titleMatch = block.match(/aria-label="Veranstaltung:\s*([\s\S]*?)\s+(?:Mo|Di|Mi|Do|Fr|Sa|So)\s+[\d.&#;]+">([^<]+)<\/a>/);
+    const title = decodeHtmlEntities((titleMatch?.[2] ?? "").trim());
     if (!title) continue;
 
-    const dateMatch = block.match(/datetime="(\d{4}-\d{2}-\d{2})"/);
-    const startDate = dateMatch ? `${dateMatch[1]}T00:00:00.000Z` : now;
+    const timeMatch = block.match(/<span class="event-time"><time>([\d:]+)<\/time>\s*Uhr bis\s*<time>([\d:]+)<\/time>/);
+    const startDate = timeMatch
+      ? `${yyyy}-${mm}-${dd}T${timeMatch[1]}:00.000Z`
+      : `${yyyy}-${mm}-${dd}T00:00:00.000Z`;
 
-    const locMatch = block.match(/<p[^>]*class="events-entry-3-location"[^>]*>([\s\S]*?)<\/p>/i);
-    const location = locMatch
-      ? decodeHtmlEntities((locMatch[1] ?? "").replace(/<[^>]+>/g, "").trim())
+    const ortMatch = block.match(/<span class="event-ort">([\s\S]*?)<\/span>/);
+    const location = ortMatch
+      ? decodeHtmlEntities((ortMatch[1] ?? "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim())
       : undefined;
-
-    const idMatch = href.match(/\/veranstaltungen\/(\d+)\//);
-    const id = idMatch ? `loewenberger-land-event-${idMatch[1]!}` : href;
 
     events.push({ id, title, url: `${BASE_URL}${href}`, startDate, ...(location ? { location } : {}), fetchedAt: now, updatedAt: now });
   }

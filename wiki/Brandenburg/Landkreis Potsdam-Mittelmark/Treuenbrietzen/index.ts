@@ -9,6 +9,8 @@ const BASE_URL = "https://www.treuenbrietzen.de";
 const EVENTS_URL = `${BASE_URL}/veranstaltungen/index.php`;
 const NEWS_URL = `${BASE_URL}/news/index.php?rubrik=1`;
 const AMTSBLATT_URL = `${BASE_URL}/amtsblatt/index.php`;
+const AMTSBLATT_RIS_URL = "https://ris.treuenbrietzen.de/ti-1/listen/ti_226_f31.php";
+const AMTSBLATT_RIS_BASE = "https://ris.treuenbrietzen.de/ti-1/";
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -80,18 +82,27 @@ function extractNews(html: string): NewsItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// RIS Treuenbrietzen: "Amtsblatt Nr. N im Jahr YYYY vom DD.MM.YYYY"
+// PDF link: <a href="listen/Anlage_asj...pdf">
 function extractAmtsblatt(html: string): AmtsblattItem[] {
   const items: AmtsblattItem[] = [];
   const now = new Date().toISOString();
-  const rx = /<td>(Nr\.\s*(\d+)\/(\d{4}))<\/td>\s*<td>([\d.&#; ]+)<\/td>/g;
-  let m: RegExpExecArray | null;
-  while ((m = rx.exec(html)) !== null) {
-    const num = m[2]!.padStart(2, "0"); const year = m[3]!;
-    const dateStr = m[4]!.replace(/&#[^;]+;/g, "").replace(/\.+/g, ".").trim();
-    const dateParts = dateStr.match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
-    if (!dateParts) continue;
-    const publishedAt = `${dateParts[3]}-${dateParts[2]!.padStart(2, "0")}-${dateParts[1]!.padStart(2, "0")}T00:00:00.000Z`;
-    items.push({ id: `treuenbrietzen-amtsblatt-${year}-${num}`, title: `Amtsblatt Nr. ${num}/${year}`, url: AMTSBLATT_URL, publishedAt, fetchedAt: now });
+  const seen = new Set<string>();
+
+  const blocks = html.split('data-role="collapsible"').slice(1);
+  for (const block of blocks) {
+    const headerMatch = block.match(/Amtsblatt\s+Nr\.\s*(\d+)\s+im\s+Jahr\s+(\d{4})\s+vom\s+(\d{2})\.(\d{2})\.(\d{4})/);
+    if (!headerMatch) continue;
+    const num = headerMatch[1]!.padStart(2, "0");
+    const year = headerMatch[2]!;
+    const publishedAt = `${headerMatch[5]}-${headerMatch[4]}-${headerMatch[3]}T00:00:00.000Z`;
+    const id = `treuenbrietzen-amtsblatt-${year}-${num}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const pdfMatch = block.match(/href="(listen\/Anlage_[^"]+\.pdf)"/);
+    const url = pdfMatch ? `${AMTSBLATT_RIS_BASE}${pdfMatch[1]!}` : AMTSBLATT_RIS_URL;
+    items.push({ id, title: `Amtsblatt Nr. ${num}/${year}`, url, publishedAt, fetchedAt: now });
   }
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
@@ -126,7 +137,7 @@ const headers = { "User-Agent": AMTSFEED_UA };
 const [eventsHtml, newsHtml, amtsblattHtml] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
-  fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(AMTSBLATT_RIS_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const eventsPath = join(DIR, "events.json");

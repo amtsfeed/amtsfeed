@@ -2,11 +2,12 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.amt-ziesar.de";
 const NEWS_URL = `${BASE_URL}/aktuelles.html`;
+const NOTICES_URL = `${BASE_URL}/service/bekanntmachungen.html`;
 const AMTSBLATT_ROOT_CAT = 59; // "Amtsblätter, hier herunterladen:"
 const DIR = dirname(fileURLToPath(import.meta.url));
 
@@ -60,6 +61,46 @@ function extractNews(html: string): NewsItem[] {
     items.push({ id, title, url: `${BASE_URL}${href}`, fetchedAt: now, publishedAt, updatedAt: now });
   }
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+// ── Notices ───────────────────────────────────────────────────────────────────
+// Joomla blog layout: <h2><a href="/service/bekanntmachungen/SLUG.html">Title</a></h2>
+// Some slugs: "DD-MM-YYYY-title-text" → date from slug prefix
+// Others: no date in slug → use today's date as fallback
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const rx = /<h2[^>]*>\s*<a href="(\/service\/bekanntmachungen\/([^"]+)\.html)"[^>]*>([\s\S]*?)<\/a>\s*<\/h2>/gi;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const href = m[1]!;
+    const slug = m[2]!;
+    const id = `amt-ziesar-notice-${slug.slice(0, 80)}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const title = decodeHtmlEntities((m[3] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    // Try to parse DD-MM-YYYY from slug start
+    let publishedAt = now;
+    const slugDate = slug.match(/^(\d{2})-(\d{2})-(\d{4})-/);
+    if (slugDate) {
+      publishedAt = `${slugDate[3]}-${slugDate[2]}-${slugDate[1]}T00:00:00.000Z`;
+    }
+
+    items.push({ id, title, url: `${BASE_URL}${href}`, publishedAt, fetchedAt: now });
+  }
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
 // ── Amtsblatt ─────────────────────────────────────────────────────────────────
@@ -122,15 +163,16 @@ function loadJson<T>(path: string, fallback: T): T {
 }
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/aktuelles", "/verwaltung/amtsblaetter"]);
+assertAllowed(robots, ["/aktuelles", "/verwaltung/amtsblaetter", "/service/bekanntmachungen"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [newsHtml, amtsblattItems] = await Promise.all([
+const [newsHtml, amtsblattItems, noticesHtml] = await Promise.all([
   fetch(NEWS_URL, { headers }).then((r) => {
     if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`);
     return r.text();
   }),
   fetchAmtsblatt(headers),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const now = new Date().toISOString();
@@ -146,3 +188,9 @@ const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: ""
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, amtsblattItems);
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+
+const noticesPath = join(DIR, "notices.json");
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

@@ -2,13 +2,15 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, EventsFile, Event, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, EventsFile, Event, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.hohen-neuendorf.de";
+const HN_BASE = "https://hohen-neuendorf.de";
 const NEWS_RSS_URL = `${BASE_URL}/de/rss-feed.xml`;
 const EVENTS_URL = `${BASE_URL}/de/stadt-leben/veranstaltungskalender`;
 const AMTSBLATT_URL = `${BASE_URL}/de/rathaus-politik/amtsblatt`;
+const NOTICES_URL = `${HN_BASE}/de/rathaus-politik/bekanntmachungen/allgemeine-bekanntmachungen`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 // Filename-based month/year parser for inconsistent PDF names like:
@@ -173,6 +175,48 @@ function extractAmtsblatt(html: string): AmtsblattItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// Drupal views: each notice has a date + PDF link.
+// <div class="views-field views-field-field-ausgabe"><div class="field-content">
+//   <span class="date-display-single">DD.MM.YYYY</span></div></div>
+// <div class="views-field views-field-field-pdf-dateien">...
+//   <a href="https://hohen-neuendorf.de/sites/default/files/beteiligungsverfahren/FILENAME.pdf">FILENAME.pdf</a>
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  // Split on views-row blocks
+  const blocks = html.split('<div class="views-row').slice(1);
+  for (const block of blocks) {
+    const dateMatch = block.match(/<span class="date-display-single">(\d{2})\.(\d{2})\.(\d{4})<\/span>/);
+    if (!dateMatch) continue;
+    const publishedAt = `${dateMatch[3]}-${dateMatch[2]}-${dateMatch[1]}T00:00:00.000Z`;
+
+    const pdfMatch = block.match(/href="(https?:\/\/hohen-neuendorf\.de\/sites\/default\/files\/[^"]+\.pdf)"/i);
+    if (!pdfMatch) continue;
+    const url = pdfMatch[1]!;
+    const filename = url.split("/").pop()!.replace(/\.pdf$/i, "");
+
+    const id = `hohen-neuendorf-notice-${filename.slice(0, 80)}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const titleMatch = block.match(/href="[^"]+\.pdf"[^>]*>([^<]+)<\/a>/i);
+    const title = decodeHtmlEntities((titleMatch?.[1] ?? filename).trim());
+
+    items.push({ id, title, url, publishedAt, fetchedAt: now });
+  }
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
   const byId = new Map(existing.map((n) => [n.id, n]));
   for (const n of incoming) {
@@ -197,10 +241,11 @@ const robots = await checkRobots(DIR, BASE_URL);
 assertAllowed(robots, ["/de/rss-feed.xml", "/de/rathaus-politik/", "/de/stadt-leben/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [rssXml, eventsHtml, amtsblattHtml] = await Promise.all([
+const [rssXml, eventsHtml, amtsblattHtml, noticesHtml] = await Promise.all([
   fetch(NEWS_RSS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_RSS_URL}`); return r.text(); }),
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${AMTSBLATT_URL}`); return r.text(); }),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const now = new Date().toISOString();
@@ -222,3 +267,9 @@ const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: ""
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+
+const noticesPath = join(DIR, "notices.json");
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

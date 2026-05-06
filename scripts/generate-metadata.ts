@@ -4,7 +4,7 @@ import { join, resolve } from "node:path";
 import type { EventsFile, NewsFile, AmtsblattFile, NoticesFile } from "./types.ts";
 
 const WIKI_BASE = resolve(import.meta.dirname, "../wiki");
-const RAW_BASE = "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki";
+const RAW_BASE = "https://amtsfeed.github.io/amtsfeed/wiki";
 
 export interface Source {
   type: "rss" | "ical";

@@ -2,11 +2,12 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.amt-ziesar.de";
 const NEWS_URL = `${BASE_URL}/aktuelles.html`;
+const AMTSBLATT_ROOT_CAT = 59; // "Amtsblätter, hier herunterladen:"
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -61,6 +62,52 @@ function extractNews(html: string): NewsItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// Joomla com_dropfiles: year subcategories under root cat 59
+// API: /index.php?option=com_dropfiles&view=frontcategories&format=json&id=59&top=59
+//      /index.php?option=com_dropfiles&view=frontfiles&format=json&id=CATID
+// File fields: id, title, created_time (DD-MM-YYYY), link (download page URL)
+
+interface DropfilesCategory { id: number; title: string; }
+interface DropfilesFile { id: number; title: string; created_time: string; link: string; }
+
+async function fetchAmtsblatt(headers: Record<string, string>): Promise<AmtsblattItem[]> {
+  const now = new Date().toISOString();
+  const catsUrl = `${BASE_URL}/index.php?option=com_dropfiles&view=frontcategories&format=json&id=${AMTSBLATT_ROOT_CAT}&top=${AMTSBLATT_ROOT_CAT}`;
+  const catsData = await fetch(catsUrl, { headers }).then((r) => r.ok ? r.json() as Promise<{ categories?: DropfilesCategory[] }> : { categories: [] });
+  const cats = (catsData.categories ?? [])
+    .filter((c) => /^\d{4}$/.test(c.title))
+    .sort((a, b) => Number(b.title) - Number(a.title))
+    .slice(0, 2); // last 2 years
+
+  const items: AmtsblattItem[] = [];
+  for (const cat of cats) {
+    const filesUrl = `${BASE_URL}/index.php?option=com_dropfiles&view=frontfiles&format=json&id=${cat.id}`;
+    const filesData = await fetch(filesUrl, { headers }).then((r) => r.ok ? r.json() as Promise<{ files?: DropfilesFile[] }> : { files: [] });
+    for (const f of filesData.files ?? []) {
+      // created_time: "DD-MM-YYYY"
+      const dateMatch = f.created_time.match(/^(\d{2})-(\d{2})-(\d{4})$/);
+      const publishedAt = dateMatch
+        ? `${dateMatch[3]}-${dateMatch[2]}-${dateMatch[1]}T00:00:00.000Z`
+        : now;
+      items.push({
+        id: `amt-ziesar-amtsblatt-${f.id}`,
+        title: f.title,
+        url: f.link,
+        publishedAt,
+        fetchedAt: now,
+      });
+    }
+  }
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt) || b.id.localeCompare(a.id));
+}
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.id.localeCompare(a.id));
+}
+
 function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
   const byId = new Map(existing.map((n) => [n.id, n]));
   for (const n of incoming) {
@@ -75,18 +122,27 @@ function loadJson<T>(path: string, fallback: T): T {
 }
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/aktuelles"]);
+assertAllowed(robots, ["/aktuelles", "/verwaltung/amtsblaetter"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const newsHtml = await fetch(NEWS_URL, { headers }).then((r) => {
-  if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`);
-  return r.text();
-});
+const [newsHtml, amtsblattItems] = await Promise.all([
+  fetch(NEWS_URL, { headers }).then((r) => {
+    if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`);
+    return r.text();
+  }),
+  fetchAmtsblatt(headers),
+]);
+
+const now = new Date().toISOString();
 
 const newsPath = join(DIR, "news.json");
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
-
-const now = new Date().toISOString();
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
-console.log(`news: ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
+
+const amtsblattPath = join(DIR, "amtsblatt.json");
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, amtsblattItems);
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

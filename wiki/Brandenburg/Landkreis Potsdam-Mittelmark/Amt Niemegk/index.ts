@@ -76,12 +76,12 @@ function extractNews(html: string): NewsItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
-// WordPress: <h3>Ausgaben YEAR</h3><ul><li><a href="PDF">YEAR - ISSUE - Amtsblatt</a></li></ul>
+// WordPress: <li class="..."><a href="PDF" download rel="nofollow">YYYY &#8211; NN &#8211; Amtsblatt</a>
 function extractAmtsblatt(html: string): AmtsblattItem[] {
   const items: AmtsblattItem[] = [];
   const now = new Date().toISOString();
 
-  const rx = /<li>\s*<a href="([^"]+\.pdf[^"]*)"[^>]*>(\d{4})\s*[-\u2013]\s*(\d{2})\s*[-\u2013]\s*Amtsblatt<\/a>/gi;
+  const rx = /<li[^>]*>\s*<a href="([^"]+\.pdf[^"]*)"[^>]*>(\d{4})\s*(?:[-\u2013]|&#8211;)\s*(\d{2})\s*(?:[-\u2013]|&#8211;)\s*Amtsblatt<\/a>/gi;
   let m: RegExpExecArray | null;
   while ((m = rx.exec(html)) !== null) {
     const pdfUrl = m[1]!.startsWith("http") ? m[1]! : `${BASE_URL}${m[1]!}`;

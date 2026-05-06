@@ -1,4 +1,509 @@
 {
-  "updatedAt": "2026-05-06T11:34:55.804Z",
-  "items": []
+  "updatedAt": "2026-05-06T12:30:01.642Z",
+  "items": [
+    {
+      "id": "michendorf-event-2884831",
+      "title": "offener Bürgerdialog",
+      "url": "https://www.michendorf.de/veranstaltungen/2884831/2026/05/06/offener-bürgerdialog.html",
+      "startDate": "2026-05-06T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2869883",
+      "title": "Workshop: Arbeitskräfte gewinnen, sichern und halten - Positive Führung in schwierigen Zeiten",
+      "url": "https://www.michendorf.de/veranstaltungen/2869883/2026/05/07/workshop-arbeitskräfte-gewinnen-sichern-und-halten-positive-führung-in-schwierigen-zeiten.html",
+      "startDate": "2026-05-07T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2885281",
+      "title": "Impulsvortrag Nachbarschaftshilfe",
+      "url": "https://www.michendorf.de/veranstaltungen/2885281/2026/05/07/impulsvortrag-nachbarschaftshilfe.html",
+      "startDate": "2026-05-07T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2895817",
+      "title": "Podiumsdiskussion: Zukunft mit ohne Bildung?!",
+      "url": "https://www.michendorf.de/veranstaltungen/2895817/2026/05/07/podiumsdiskussion-zukunft-mit-ohne-bildung.html",
+      "startDate": "2026-05-07T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2886864",
+      "title": "Infoabend: Vorstellung Blühwiesenkonzept",
+      "url": "https://www.michendorf.de/veranstaltungen/2886864/2026/05/08/infoabend-vorstellung-blühwiesenkonzept.html",
+      "startDate": "2026-05-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2875224",
+      "title": "Spieletreff",
+      "url": "https://www.michendorf.de/veranstaltungen/2875224/2026/05/08/spieletreff.html",
+      "startDate": "2026-05-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2817155",
+      "title": "Trommel-Workshop \"Groove Werkstatt\"",
+      "url": "https://www.michendorf.de/veranstaltungen/2817155/2026/05/08/trommel-workshop-groove-werkstatt.html",
+      "startDate": "2026-05-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2884042",
+      "title": "Flohmarkt",
+      "url": "https://www.michendorf.de/veranstaltungen/2884042/2026/05/09/flohmarkt.html",
+      "startDate": "2026-05-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2884485",
+      "title": "Fest zum Tag der Städtebauförderung",
+      "url": "https://www.michendorf.de/veranstaltungen/2884485/2026/05/09/fest-zum-tag-der-städtebauförderung.html",
+      "startDate": "2026-05-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2897581",
+      "title": "Tag der offenen Tür Haus St. Norbert",
+      "url": "https://www.michendorf.de/veranstaltungen/2897581/2026/05/09/tag-der-offenen-tür-haus-st.-norbert.html",
+      "startDate": "2026-05-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2891376",
+      "title": "Heimspiel D-Juniorinnen: SG Michendorf - Ludwigsfelder FC II",
+      "url": "https://www.michendorf.de/veranstaltungen/2891376/2026/05/10/heimspiel-d-juniorinnen-sg-michendorf-ludwigsfelder-fc-ii.html",
+      "startDate": "2026-05-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2898589",
+      "title": "Vernissage zur Ausstellung „Farbbewegungen\"",
+      "url": "https://www.michendorf.de/veranstaltungen/2898589/2026/05/12/vernissage-zur-ausstellung-farbbewegungen.html",
+      "startDate": "2026-05-12T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2798286",
+      "title": "Trauercaf&eacute;",
+      "url": "https://www.michendorf.de/veranstaltungen/2798286/2026/05/12/trauercafé.html",
+      "startDate": "2026-05-12T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2655924",
+      "title": "STADTRADELN",
+      "url": "https://www.michendorf.de/veranstaltungen/2655924/2026/05/13/stadtradeln.html",
+      "startDate": "2026-05-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2894024",
+      "title": "Wanderausstellung „Sicherer Schulweg“",
+      "url": "https://www.michendorf.de/veranstaltungen/2894024/2026/05/13/wanderausstellung-sicherer-schulweg.html",
+      "startDate": "2026-05-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2887494",
+      "title": "Heimspiel Erste Herren: SG Michendorf - VfL Nauen",
+      "url": "https://www.michendorf.de/veranstaltungen/2887494/2026/05/13/heimspiel-erste-herren-sg-michendorf-vfl-nauen.html",
+      "startDate": "2026-05-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2888552",
+      "title": "Tipp: Familienradeln am Feiertag",
+      "url": "https://www.michendorf.de/veranstaltungen/2888552/2026/05/14/tipp-familienradeln-am-feiertag.html",
+      "startDate": "2026-05-14T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2886829",
+      "title": "Wunderschöne, leichte Rundtour mit dem Fahrrad durch den Naturpark Nuthe-Nieplitz",
+      "url": "https://www.michendorf.de/veranstaltungen/2886829/2026/05/16/wunderschöne-leichte-rundtour-mit-dem-fahrrad-durch-den-naturpark-nuthe-nieplitz.html",
+      "startDate": "2026-05-16T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2897209",
+      "title": "GreenBagLady - wir nähen zusammen!",
+      "url": "https://www.michendorf.de/veranstaltungen/2897209/2026/05/16/greenbaglady-wir-nähen-zusammen.html",
+      "startDate": "2026-05-16T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2895029",
+      "title": "Wohnzimmer-Gespräche: Wildkräuter im Garten - heimisches Superfoods",
+      "url": "https://www.michendorf.de/veranstaltungen/2895029/2026/05/18/wohnzimmer-gespräche-wildkräuter-im-garten-heimisches-superfoods.html",
+      "startDate": "2026-05-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2888530",
+      "title": "Sundowner-Fahrt",
+      "url": "https://www.michendorf.de/veranstaltungen/2888530/2026/05/18/sundowner-fahrt.html",
+      "startDate": "2026-05-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2888539",
+      "title": "Mountainbike- und Cross-Strecken erkunden",
+      "url": "https://www.michendorf.de/veranstaltungen/2888539/2026/05/22/mountainbike-und-cross-strecken-erkunden.html",
+      "startDate": "2026-05-22T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2888533",
+      "title": "Sundowner-Fahrt",
+      "url": "https://www.michendorf.de/veranstaltungen/2888533/2026/05/26/sundowner-fahrt.html",
+      "startDate": "2026-05-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2508581",
+      "title": "Infoabend Photovoltaik und Energiemanagement",
+      "url": "https://www.michendorf.de/veranstaltungen/2508581/2026/05/28/infoabend-photovoltaik-und-energiemanagement.html",
+      "startDate": "2026-05-28T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2884044",
+      "title": "Progressive Muskelrelaxation für Hashimoto-Patienten",
+      "url": "https://www.michendorf.de/veranstaltungen/2884044/2026/05/29/progressive-muskelrelaxation-für-hashimoto-patienten.html",
+      "startDate": "2026-05-29T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2881737",
+      "title": "1. Kinderfrühlingsfest der Krippe Heideschlösschen",
+      "url": "https://www.michendorf.de/veranstaltungen/2881737/2026/05/30/1.-kinderfrühlingsfest-der-krippe-heideschlösschen.html",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2890409",
+      "title": "Flohmarkt für jedermann",
+      "url": "https://www.michendorf.de/veranstaltungen/2890409/2026/05/30/flohmarkt-für-jedermann.html",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2887521",
+      "title": "Heimspiel Erste Herren: SG Michendorf - Pritzwalker FHV 03",
+      "url": "https://www.michendorf.de/veranstaltungen/2887521/2026/05/30/heimspiel-erste-herren-sg-michendorf-pritzwalker-fhv-03.html",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2888544",
+      "title": "Tipp: Mit dem Fahrrad zur Uschi-Party",
+      "url": "https://www.michendorf.de/veranstaltungen/2888544/2026/05/30/tipp-mit-dem-fahrrad-zur-uschi-party.html",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2646897",
+      "title": "Sonntags-Frühstück",
+      "url": "https://www.michendorf.de/veranstaltungen/2646897/2026/05/31/sonntags-frühstück.html",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2887533",
+      "title": "Heimspiel Dritte Herren: SG Michendorf lll - SV Concordia Nowawes 06",
+      "url": "https://www.michendorf.de/veranstaltungen/2887533/2026/05/31/heimspiel-dritte-herren-sg-michendorf-lll-sv-concordia-nowawes-06.html",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2887527",
+      "title": "Heimspiel Zweite Herren: SG Michendorf ll - SG Blau-Weiß Pessin",
+      "url": "https://www.michendorf.de/veranstaltungen/2887527/2026/05/31/heimspiel-zweite-herren-sg-michendorf-ll-sg-blau-weiß-pessin.html",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2888534",
+      "title": "Sundowner-Fahrt",
+      "url": "https://www.michendorf.de/veranstaltungen/2888534/2026/06/01/sundowner-fahrt.html",
+      "startDate": "2026-06-01T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2888545",
+      "title": "ADFC-Sternfahrt nach Berlin",
+      "url": "https://www.michendorf.de/veranstaltungen/2888545/2026/06/07/adfc-sternfahrt-nach-berlin.html",
+      "startDate": "2026-06-07T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2817156",
+      "title": "Trommel-Workshop \"Groove Werkstatt\"",
+      "url": "https://www.michendorf.de/veranstaltungen/2817156/2026/06/12/trommel-workshop-groove-werkstatt.html",
+      "startDate": "2026-06-12T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2881928",
+      "title": "Irisseefest",
+      "url": "https://www.michendorf.de/veranstaltungen/2881928/2026/06/13/irisseefest.html",
+      "startDate": "2026-06-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2887534",
+      "title": "Heimspiel Dritte Herren: SG Michendorf lll - ESV Lok Potsdam",
+      "url": "https://www.michendorf.de/veranstaltungen/2887534/2026/06/13/heimspiel-dritte-herren-sg-michendorf-lll-esv-lok-potsdam.html",
+      "startDate": "2026-06-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2887523",
+      "title": "Heimspiel Erste Herren: SG Michendorf - FC Borussia Brandenburg",
+      "url": "https://www.michendorf.de/veranstaltungen/2887523/2026/06/13/heimspiel-erste-herren-sg-michendorf-fc-borussia-brandenburg.html",
+      "startDate": "2026-06-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2887529",
+      "title": "Heimspiel Zweite Herren: SG Michendorf ll - SV Kloster Lehnin",
+      "url": "https://www.michendorf.de/veranstaltungen/2887529/2026/06/13/heimspiel-zweite-herren-sg-michendorf-ll-sv-kloster-lehnin.html",
+      "startDate": "2026-06-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2854040",
+      "title": "Tanz in der Kirche 2026",
+      "url": "https://www.michendorf.de/veranstaltungen/2854040/2026/06/19/tanz-in-der-kirche-2026.html",
+      "startDate": "2026-06-19T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2893962",
+      "title": "Chinesische Kalligrafie - Taiji auf dem Papier I Einführung",
+      "url": "https://www.michendorf.de/veranstaltungen/2893962/2026/06/20/chinesische-kalligrafie-taiji-auf-dem-papier-i-einführung.html",
+      "startDate": "2026-06-20T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2893966",
+      "title": "GreenBagLady - wir nähen zusammen!",
+      "url": "https://www.michendorf.de/veranstaltungen/2893966/2026/06/22/greenbaglady-wir-nähen-zusammen.html",
+      "startDate": "2026-06-22T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2680101",
+      "title": "Wirtschaftsempfang",
+      "url": "https://www.michendorf.de/veranstaltungen/2680101/2026/06/25/wirtschaftsempfang.html",
+      "startDate": "2026-06-25T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2796841",
+      "title": "Festival Wilhelmshorst \"80 Jahre Kulturbund Michendorf\"",
+      "url": "https://www.michendorf.de/veranstaltungen/2796841/2026/06/26/festival-wilhelmshorst-80-jahre-kulturbund-michendorf.html",
+      "startDate": "2026-06-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2869332",
+      "title": "Sommerfest",
+      "url": "https://www.michendorf.de/veranstaltungen/2869332/2026/06/27/sommerfest.html",
+      "startDate": "2026-06-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2817157",
+      "title": "Trommel-Workshop \"Groove Werkstatt\"",
+      "url": "https://www.michendorf.de/veranstaltungen/2817157/2026/07/03/trommel-workshop-groove-werkstatt.html",
+      "startDate": "2026-07-03T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2895030",
+      "title": "Reparatur-Caf&eacute;",
+      "url": "https://www.michendorf.de/veranstaltungen/2895030/2026/07/04/reparatur-café.html",
+      "startDate": "2026-07-04T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2854791",
+      "title": "frei - Sommerkonzert des chorus vicanorum",
+      "url": "https://www.michendorf.de/veranstaltungen/2854791/2026/07/05/frei-sommerkonzert-des-chorus-vicanorum.html",
+      "startDate": "2026-07-05T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2893955",
+      "title": "Groß und Klein als Ernährungsdetektive- Unsere Familienwoche in den Sommerferien",
+      "url": "https://www.michendorf.de/veranstaltungen/2893955/2026/08/10/groß-und-klein-als-ernährungsdetektive-unsere-familienwoche-in-den-sommerferien.html",
+      "startDate": "2026-08-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2884698",
+      "title": "Gottesdienst unterm Sternenhimmel",
+      "url": "https://www.michendorf.de/veranstaltungen/2884698/2026/08/21/gottesdienst-unterm-sternenhimmel.html",
+      "startDate": "2026-08-21T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2884691",
+      "title": "Run & Bike Michendorf",
+      "url": "https://www.michendorf.de/veranstaltungen/2884691/2026/08/30/run-bike-michendorf.html",
+      "startDate": "2026-08-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2796859",
+      "title": "Babybegrüßung durch die Bürgermeisterin",
+      "url": "https://www.michendorf.de/veranstaltungen/2796859/2026/09/01/babybegrüßung-durch-die-bürgermeisterin.html",
+      "startDate": "2026-09-01T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2884445",
+      "title": "18. Langerwischer Höfefest",
+      "url": "https://www.michendorf.de/veranstaltungen/2884445/2026/09/05/18.-langerwischer-höfefest.html",
+      "startDate": "2026-09-05T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2854057",
+      "title": "Konzert Irish Folk mit Lovely Madness",
+      "url": "https://www.michendorf.de/veranstaltungen/2854057/2026/09/18/konzert-irish-folk-mit-lovely-madness.html",
+      "startDate": "2026-09-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2897215",
+      "title": "Weniger Stress beim Umgang mit schwierigen Menschen",
+      "url": "https://www.michendorf.de/veranstaltungen/2897215/2026/10/10/weniger-stress-beim-umgang-mit-schwierigen-menschen.html",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2897216",
+      "title": "Weniger Stress beim Umgang mit schwierigen Menschen",
+      "url": "https://www.michendorf.de/veranstaltungen/2897216/2026/10/16/weniger-stress-beim-umgang-mit-schwierigen-menschen.html",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2897217",
+      "title": "Weniger Stress beim Umgang mit schwierigen Menschen",
+      "url": "https://www.michendorf.de/veranstaltungen/2897217/2026/10/20/weniger-stress-beim-umgang-mit-schwierigen-menschen.html",
+      "startDate": "2026-10-20T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2660025",
+      "title": "Laternenumzug der Michendorfer Kitas",
+      "url": "https://www.michendorf.de/veranstaltungen/2660025/2026/11/09/laternenumzug-der-michendorfer-kitas.html",
+      "startDate": "2026-11-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2798288",
+      "title": "Trauercaf&eacute;",
+      "url": "https://www.michendorf.de/veranstaltungen/2798288/2026/11/10/trauercafé.html",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2884834",
+      "title": "offener Bürgerdialog",
+      "url": "https://www.michendorf.de/veranstaltungen/2884834/2026/11/19/offener-bürgerdialog.html",
+      "startDate": "2026-11-19T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2785539",
+      "title": "Tag der offenen Tür im Rathaus mit Weihnachtsleuchten",
+      "url": "https://www.michendorf.de/veranstaltungen/2785539/2026/11/26/tag-der-offenen-tür-im-rathaus-mit-weihnachtsleuchten.html",
+      "startDate": "2026-11-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2796861",
+      "title": "Babybegrüßung durch die Bürgermeisterin",
+      "url": "https://www.michendorf.de/veranstaltungen/2796861/2026/12/01/babybegrüßung-durch-die-bürgermeisterin.html",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2785927",
+      "title": "Nikolauslauf",
+      "url": "https://www.michendorf.de/veranstaltungen/2785927/2026/12/06/nikolauslauf.html",
+      "startDate": "2026-12-06T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-06T12:30:01.632Z"
+    }
+  ]
 }

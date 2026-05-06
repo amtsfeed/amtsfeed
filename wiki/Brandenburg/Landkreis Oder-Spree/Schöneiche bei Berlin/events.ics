@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Schöneiche bei Berlin
+X-WR-CALDESC:Amtliche Veranstaltungen für Schöneiche bei Berlin
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:schoeneiche-event-schoeneicher-chorgemeinschaft-e-v-2@amtsfeed.de
+DTSTAMP:20260506T084923Z
+DTSTART:20260509T170000Z
+SUMMARY:Schöneicher Chorgemeinschaft e.V.
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/schoeneicher
+ -chorgemeinschaft-e-v-2
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-schumann-programm@amtsfeed.de
+DTSTAMP:20260506T084923Z
+DTSTART:20260517T160000Z
+SUMMARY:Schumann-Programm
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/schumann-pro
+ gramm
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-sportvereine@amtsfeed.de
+DTSTAMP:20260506T084923Z
+DTSTART:20260530T133000Z
+SUMMARY:Eichkaters Sportspiele
+URL:https://www.schoeneiche.de/sportvereine
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-pandurina-3@amtsfeed.de
+DTSTAMP:20260506T084923Z
+DTSTART:20260530T170000Z
+SUMMARY:Pandurina
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/pandurina-3
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-sensenschnittkurs-4@amtsfeed.de
+DTSTAMP:20260506T084923Z
+DTSTART:20260606T100000Z
+SUMMARY:Sensenschnittkurs
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/sensenschnit
+ tkurs-4
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-buecherfest-4@amtsfeed.de
+DTSTAMP:20260506T084923Z
+DTSTART:20260607T140000Z
+SUMMARY:Bücherfest
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/buecherfest-
+ 4
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-klangzeit-chor-biesdorf-3@amtsfeed.de
+DTSTAMP:20260506T084923Z
+DTSTART:20260607T170000Z
+SUMMARY:Klangzeit Chor Biesdorf
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/klangzeit-ch
+ or-biesdorf-3
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-schubert-gesang-u-prosa-lyrik-trauth@amtsfeed.de
+DTSTAMP:20260506T084923Z
+DTSTART:20260612T180000Z
+SUMMARY:Schubert\, Gesang u. Prosa/Lyrik- Trauth
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/schubert-ges
+ ang-u-prosa-lyrik-trauth
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-klezmer-ginsburg-dynastie@amtsfeed.de
+DTSTAMP:20260506T084923Z
+DTSTART:20260614T160000Z
+SUMMARY:Klezmer\, Ginzburg Dynastie
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/klezmer-gins
+ burg-dynastie
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-wir-singen-hand-in-hand@amtsfeed.de
+DTSTAMP:20260506T084923Z
+DTSTART:20260621T160000Z
+SUMMARY:Wir singen Hand in Hand
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/wir-singen-h
+ and-in-hand
+END:VEVENT
+END:VCALENDAR

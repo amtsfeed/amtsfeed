@@ -45,7 +45,7 @@ function extractEvents(html: string): Event[] {
   const events: Event[] = [];
   const now = new Date().toISOString();
   const seen = new Set<string>();
-  const rx = /<h[34][^>]*>\s*<a href="(\/veranstaltungen\/(\d+)\/(\d{4})\/(\d{2})\/(\d{2})\/[^"]+)"[^>]*>([\s\S]*?)<\/a>\s*<\/h[34]>/gi;
+  const rx = /<h[234][^>]*>\s*<a href="(\/veranstaltungen\/(\d+)\/(\d{4})\/(\d{2})\/(\d{2})\/[^"]+)"[^>]*>([\s\S]*?)<\/a>\s*<\/h[234]>/gi;
   let m: RegExpExecArray | null;
   while ((m = rx.exec(html)) !== null) {
     const href = m[1]!; const eventId = m[2]!;
@@ -67,7 +67,7 @@ function extractNews(html: string): NewsItem[] {
   const items: NewsItem[] = [];
   const now = new Date().toISOString();
   const seen = new Set<string>();
-  const rx = /<h[34][^>]*>\s*<a href="(\/news\/\d+\/(\d+)\/(?:nachrichten|kategorie)\/[^"]+\.html)"[^>]*>([\s\S]*?)<\/a>\s*<\/h[34]>/gi;
+  const rx = /<h[234][^>]*>\s*<a href="(\/news\/\d+\/(\d+)\/(?:nachrichten|kategorie)\/[^"]+\.html)"[^>]*>([\s\S]*?)<\/a>\s*<\/h[234]>/gi;
   let m: RegExpExecArray | null;
   while ((m = rx.exec(html)) !== null) {
     const href = m[1]!; const id = m[2]!;

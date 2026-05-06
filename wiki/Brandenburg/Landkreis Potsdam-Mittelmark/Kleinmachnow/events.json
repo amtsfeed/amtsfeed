@@ -1,4 +1,205 @@
 {
-  "updatedAt": "2026-05-06T11:36:01.334Z",
-  "items": []
+  "updatedAt": "2026-05-06T12:42:13.360Z",
+  "items": [
+    {
+      "id": "kleinmachnow-event-2016",
+      "title": "Kino Kammerspiele",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Kino-Kammerspiele.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2016.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-01T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2350",
+      "title": "Gudrun Sailer - Plastik und Malerei / Martin Hoffmann - Collagen und Zeichnungen",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Gudrun-Sailer-Plastik-und-Malerei-Martin-Hoffmann-Collagen-und-Zeichnungen.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2350.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-03T14:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2322",
+      "title": "Tanz im Mai",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Tanz-im-Mai.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2322.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-06T15:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2217",
+      "title": "Offenes Caf&eacute;",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Offenes-Caf%C3%A9.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2217.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-07T15:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2353",
+      "title": "8. Mai - Gedenktag der Befreiung vom Nationalsozialismus und der Beendigung des Zweiten Weltkrieges",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/8-Mai-Gedenktag-der-Befreiung-vom-Nationalsozialismus-und-der-Beendigung-des-Zweiten-Weltkrieges.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2353.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-08T09:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2127",
+      "title": "Krabbel- und Säuglingsgruppe",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Krabbel-und-S%C3%A4uglingsgruppe-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2127.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-08T09:30:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2259",
+      "title": "Senioren- und Seniorinnen-Nachmittag",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Senioren-und-Seniorinnen-Nachmittag-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2259.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-08T13:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2342",
+      "title": "Karina Syndicus und Michael Krebs: Schmuckeremiten",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Karina-Syndicus-und-Michael-Krebs-Schmuckeremiten.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2342.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-08T20:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2351",
+      "title": "50 Jahre Freibad Kiebitzberge",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/50-Jahre-Freibad-Kiebitzberge.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2351.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-09T10:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2038",
+      "title": "Einladung zum Bingo-Nachmittag",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Einladung-zum-Bingo-Nachmittag.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2038.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-12T16:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2329",
+      "title": "Klimawissen und Klimapolitik",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Klimawissen-und-Klimapolitik.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2329.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-12T16:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-857",
+      "title": "Maker-Mittwoch | Bee-Bots",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Maker-Mittwoch-Bee-Bots.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.857.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-13T16:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2128",
+      "title": "Krabbel- und Säuglingsgruppe",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Krabbel-und-S%C3%A4uglingsgruppe-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2128.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-15T09:30:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2260",
+      "title": "Senioren- und Seniorinnen-Nachmittag",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Senioren-und-Seniorinnen-Nachmittag-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2260.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-15T13:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2330",
+      "title": "Internationaler Museumstag",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Internationaler-Museumstag.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2330.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-17T10:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2111",
+      "title": "Frühstück für Familien sowie Senioren und Seniorinnen",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Fr%C3%BChst%C3%BCck-f%C3%BCr-Familien-sowie-Senioren-und-Seniorinnen.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2111.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-19T09:30:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2077",
+      "title": "Sprechstunde \"Pflege vor Ort\"",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Sprechstunde-Pflege-vor-Ort-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2077.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-19T14:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2352",
+      "title": "Ein Abend für Herbert Lange (1920 - 2001)",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Ein-Abend-f%C3%BCr-Herbert-Lange-1920-2001-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2352.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-20T19:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2219",
+      "title": "Offenes Caf&eacute;",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Offenes-Caf%C3%A9.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2219.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-21T15:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2129",
+      "title": "Krabbel- und Säuglingsgruppe",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Krabbel-und-S%C3%A4uglingsgruppe-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2129.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-22T09:30:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2261",
+      "title": "Senioren- und Seniorinnen-Nachmittag",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Senioren-und-Seniorinnen-Nachmittag-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2261.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-22T13:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2341",
+      "title": "Alec & Ro Gebhardt: Wenn der Vater mit dem Sohne  feat. Denis Stilke",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Alec-Ro-Gebhardt-Wenn-der-Vater-mit-dem-Sohne-feat-Denis-Stilke.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2341.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-22T20:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2220",
+      "title": "Offenes Caf&eacute;",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Offenes-Caf%C3%A9.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2220.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-28T15:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2130",
+      "title": "Krabbel- und Säuglingsgruppe",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Krabbel-und-S%C3%A4uglingsgruppe-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2130.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-29T09:30:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    },
+    {
+      "id": "kleinmachnow-event-2262",
+      "title": "Senioren- und Seniorinnen-Nachmittag",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Senioren-und-Seniorinnen-Nachmittag-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2262.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-05-29T13:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-05-06T12:42:13.359Z"
+    }
+  ]
 }

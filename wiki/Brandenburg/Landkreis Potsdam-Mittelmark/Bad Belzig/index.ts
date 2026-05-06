@@ -47,30 +47,22 @@ function extractEvents(html: string): Event[] {
   const events: Event[] = [];
   const now = new Date().toISOString();
   const seen = new Set<string>();
-  const rx = /<h[34][^>]*>\s*<a href="(\/veranstaltungen\/(\d+)\/(\d{4})\/(\d{2})\/(\d{2})\/[^"]+)"[^>]*>([\s\S]*?)<\/a>\s*<\/h[34]>/gi;
+  const rx = /<a\b[^>]*href="(\/veranstaltungen\/(\d+)\/(\d{4})\/(\d{2})\/(\d{2})\/[^"]+)"[^>]*>\s*(?!<img\b)([\s\S]{1,300}?)<\/a>/gi;
   let m: RegExpExecArray | null;
   while ((m = rx.exec(html)) !== null) {
-    const href = m[1]!;
-    const eventId = m[2]!;
+    const href = m[1]!; const eventId = m[2]!;
     if (seen.has(eventId)) continue;
+    const title = decodeHtmlEntities((m[6] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!title || title.length < 3) continue;
     seen.add(eventId);
     const startDate = `${m[3]}-${m[4]}-${m[5]}T00:00:00.000Z`;
-    const title = decodeHtmlEntities((m[6] ?? "").replace(/<[^>]+>/g, "").trim());
-    if (!title) continue;
     const after = html.slice(m.index, m.index + 600);
-    const timeMatch = after.match(/Zeit:<\/strong>\s*(\d{2}:\d{2})/i);
+    const timeMatch = after.match(/<time[^>]*>(\d{2}:\d{2})<\/time>/i)
+      ?? after.match(/Zeit:<\/strong>\s*(\d{2}:\d{2})/i);
     const startDateTime = timeMatch ? startDate.replace("T00:00:00.000Z", `T${timeMatch[1]}:00.000Z`) : startDate;
     const locMatch = after.match(/Ort:<\/strong>\s*([^<]+)/i);
     const location = locMatch ? decodeHtmlEntities(locMatch[1]!.trim()) : undefined;
-    events.push({
-      id: `bad-belzig-event-${eventId}`,
-      title,
-      url: `${BASE_URL}${href}`,
-      startDate: startDateTime,
-      ...(location ? { location } : {}),
-      fetchedAt: now,
-      updatedAt: now,
-    });
+    events.push({ id: `bad-belzig-event-${eventId}`, title, url: `${BASE_URL}${href}`, startDate: startDateTime, ...(location ? { location } : {}), fetchedAt: now, updatedAt: now });
   }
   return events;
 }
@@ -79,7 +71,7 @@ function extractNews(html: string): NewsItem[] {
   const items: NewsItem[] = [];
   const now = new Date().toISOString();
   const seen = new Set<string>();
-  const rx = /<h[34][^>]*>\s*<a href="(\/news\/\d+\/(\d+)\/(?:nachrichten|kategorie)\/[^"]+\.html)"[^>]*>([\s\S]*?)<\/a>\s*<\/h[34]>/gi;
+  const rx = /<h[234][^>]*>\s*<a href="(\/news\/\d+\/(\d+)\/(?:nachrichten|kategorie)\/[^"]+\.html)"[^>]*>([\s\S]*?)<\/a>\s*<\/h[234]>/gi;
   let m: RegExpExecArray | null;
   while ((m = rx.exec(html)) !== null) {
     const href = m[1]!;

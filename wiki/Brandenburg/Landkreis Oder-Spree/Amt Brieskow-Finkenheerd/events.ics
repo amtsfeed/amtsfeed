@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Amt Brieskow-Finkenheerd
+X-WR-CALDESC:Amtliche Veranstaltungen für Amt Brieskow-Finkenheerd
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2806433@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Schnuppertag beim Anglerverein "Süd" e.V.
+URL:https://www.amt-b-f.de/veranstaltungen/2806433/2026/05/23/schnupperta
+ g-beim-anglerverein-süd-e.v.html
+LOCATION:Gemeinde Brieskow-Finkenheerd
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2890817@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Saalfelder Vokalisten
+URL:https://www.amt-b-f.de/veranstaltungen/2890817/2026/05/30/saalfelder-
+ vokalisten.html
+LOCATION:Gemeinde Groß Lindow
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2824348@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Lindenfest 2026
+URL:https://www.amt-b-f.de/veranstaltungen/2824348/2026/06/19/lindenfest-
+ 2026.html
+LOCATION:Lindenfest 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2727971@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Lindenblütenfest
+URL:https://www.amt-b-f.de/veranstaltungen/2727971/2026/06/19/lindenblüt
+ enfest.html
+LOCATION:Gemeinde Groß Lindow
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2856042@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Zeidelkirmes
+URL:https://www.amt-b-f.de/veranstaltungen/2856042/2026/06/26/zeidelkirme
+ s.html
+LOCATION:Gemeinde Wiesenau
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2837073@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:70. Jahre Schule Ziltendorf
+URL:https://www.amt-b-f.de/veranstaltungen/2837073/2026/07/03/70.-jahre-s
+ chule-ziltendorf.html
+LOCATION:70. Jahre Schule Ziltendorf
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2808012@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Bergmannsfest Brieskow-Finkenheerd
+URL:https://www.amt-b-f.de/veranstaltungen/2808012/2026/07/04/bergmannsfe
+ st-brieskow-finkenheerd.html
+LOCATION:Gemeinde Brieskow-Finkenheerd
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2806428@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Amtspokal Angeln
+URL:https://www.amt-b-f.de/veranstaltungen/2806428/2026/08/30/amtspokal-a
+ ngeln.html
+LOCATION:Gemeinde Brieskow-Finkenheerd
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2807998@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Trödelmarkt auf dem Sportplatz Brieskow-Finkenheerd
+URL:https://www.amt-b-f.de/veranstaltungen/2807998/2026/09/12/trödelmark
+ t-auf-dem-sportplatz-brieskow-finkenheerd.html
+LOCATION:Gemeinde Brieskow-Finkenheerd
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2856044@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Herbstfest
+URL:https://www.amt-b-f.de/veranstaltungen/2856044/2026/09/27/herbstfest.
+ html
+LOCATION:Gemeinde Wiesenau
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2806431@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Oderpokal Angeln
+URL:https://www.amt-b-f.de/veranstaltungen/2806431/2026/10/03/oderpokal-a
+ ngeln.html
+LOCATION:Gemeinde Brieskow-Finkenheerd
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2807999@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Drachenfest auf dem Sportplatz Brieskow-Finkenheerd
+URL:https://www.amt-b-f.de/veranstaltungen/2807999/2026/10/10/drachenfest
+ -auf-dem-sportplatz-brieskow-finkenheerd.html
+LOCATION:Gemeinde Brieskow-Finkenheerd
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2856049@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Nikolausfest
+URL:https://www.amt-b-f.de/veranstaltungen/2856049/2026/12/06/nikolausfes
+ t.html
+LOCATION:Gemeinde Wiesenau
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2808014@amtsfeed.de
+DTSTAMP:20260506T092438Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Weihnachtsmarkt Brieskow-Finkenheerd
+URL:https://www.amt-b-f.de/veranstaltungen/2808014/2026/12/12/weihnachtsm
+ arkt-brieskow-finkenheerd.html
+LOCATION:Gemeinde Brieskow-Finkenheerd
+END:VEVENT
+END:VCALENDAR

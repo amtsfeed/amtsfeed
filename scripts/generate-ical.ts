@@ -1,9 +1,7 @@
 #!/usr/bin/env tsx
-import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync, readdirSync, statSync } from "node:fs";
 import { join, resolve } from "node:path";
 import type { EventsFile, Event } from "./types.ts";
-
-const dir = resolve(process.argv[2] ?? ".");
 
 function escapeIcalText(str: string): string {
   return str
@@ -99,30 +97,56 @@ function readJson<T>(path: string): T | null {
   return JSON.parse(readFileSync(path, "utf-8")) as T;
 }
 
-const eventsFile = readJson<EventsFile>(join(dir, "events.json"));
-const events = eventsFile
-  ? [...eventsFile.items].sort(
-      (a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime()
-    )
-  : [];
+function generateIcal(dir: string): void {
+  const eventsFile = readJson<EventsFile>(join(dir, "events.json"));
+  const events = eventsFile
+    ? [...eventsFile.items].sort(
+        (a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime()
+      )
+    : [];
 
-const calendarName = dir.split("/").at(-1) ?? "amtsfeed";
-const now = formatDateTime(new Date().toISOString());
+  const calendarName = dir.split("/").at(-1) ?? "amtsfeed";
+  const now = formatDateTime(new Date().toISOString());
 
-const ical = [
-  "BEGIN:VCALENDAR",
-  "VERSION:2.0",
-  "PRODID:-//amtsfeed//amtsfeed//DE",
-  "CALSCALE:GREGORIAN",
-  "METHOD:PUBLISH",
-  property("X-WR-CALNAME", escapeIcalText(calendarName)),
-  property("X-WR-CALDESC", escapeIcalText(`Amtliche Veranstaltungen für ${calendarName}`)),
-  property("X-PUBLISHED-TTL", "PT1H"),
-  ...events.map(eventToVevent),
-  "END:VCALENDAR",
-  "",
-].join("\r\n");
+  const ical = [
+    "BEGIN:VCALENDAR",
+    "VERSION:2.0",
+    "PRODID:-//amtsfeed//amtsfeed//DE",
+    "CALSCALE:GREGORIAN",
+    "METHOD:PUBLISH",
+    property("X-WR-CALNAME", escapeIcalText(calendarName)),
+    property("X-WR-CALDESC", escapeIcalText(`Amtliche Veranstaltungen für ${calendarName}`)),
+    property("X-PUBLISHED-TTL", "PT1H"),
+    ...events.map(eventToVevent),
+    "END:VCALENDAR",
+    "",
+  ].join("\r\n");
 
-const outPath = join(dir, "events.ics");
-writeFileSync(outPath, ical, "utf-8");
-console.log(`Wrote ${events.length} events to ${outPath}`);
+  const outPath = join(dir, "events.ics");
+  writeFileSync(outPath, ical, "utf-8");
+  console.log(`Wrote ${events.length} events to ${outPath}`);
+}
+
+function findDirsWithEventsJson(root: string): string[] {
+  const results: string[] = [];
+  for (const entry of readdirSync(root)) {
+    const full = join(root, entry);
+    if (statSync(full).isDirectory()) {
+      if (existsSync(join(full, "events.json"))) {
+        results.push(full);
+      }
+      results.push(...findDirsWithEventsJson(full));
+    }
+  }
+  return results;
+}
+
+if (process.argv[2]) {
+  generateIcal(resolve(process.argv[2]));
+} else {
+  const wikiRoot = resolve("wiki");
+  const dirs = findDirsWithEventsJson(wikiRoot);
+  for (const dir of dirs) {
+    generateIcal(dir);
+  }
+}

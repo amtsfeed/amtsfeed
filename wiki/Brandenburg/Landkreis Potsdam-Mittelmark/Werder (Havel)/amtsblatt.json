@@ -1,4 +1,418 @@
 {
-  "updatedAt": "2026-05-06T11:41:34.299Z",
-  "items": []
+  "updatedAt": "2026-05-06T12:44:27.587Z",
+  "items": [
+    {
+      "id": "werder-havel-bekanntmachung-252",
+      "title": "Kundeninformation Inbetriebnahme Brauchwasser 2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f252/2026-1-inbetriebnahme-brauchwasser-2026-voe-2026-03-18.pdf",
+      "publishedAt": "2026-03-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-251",
+      "title": "Einladung zur Versammlung der Jagdgenossenschaft Glindow am 24.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f251/2026-1-einladung-jg-glindow-am-2026-04-24-voe-2026-03-18.pdf",
+      "publishedAt": "2026-03-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-250",
+      "title": "Einladung für die kommende Sitzung der Stadtverordnetenversammlung am 19.03.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f250/2026-1-rinladung-stadtverordnetenversammlung-am-2026-03-19-voe-2026-03-12.pdf",
+      "publishedAt": "2026-03-12T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-249",
+      "title": "Bekanntmachung der Beschlüsse des Ortsbeirates Derwitz vom 21.10.2025",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4849/f249/2025-4-beschlussveroeffentlichung-ob-derwitz-vom-2025-10-21-voe-2025-12-23.pdf",
+      "publishedAt": "2025-12-23T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-248",
+      "title": "Ladung zur Nachwahl des Vorstandes der Teilnehmergemeinschaft im Bodenordnungsverfahren Plessower Obstflur - Verf.-Nr.: 108393",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f248/2026-1-ob-vorstandswahl-bov-plessower-obstflur-am-2026-04-15-voe-2026-02-25.pdf",
+      "publishedAt": "2026-02-25T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-247",
+      "title": "Einladung zur Jagdgenossenschaftsversammlung Plötzin-Plessow am 10.03.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f247/2026-1-einladung-jagdgenossenschaftsversammlung-ploetzin-plessow-voe-2026-02-23.pdf",
+      "publishedAt": "2026-02-23T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-246",
+      "title": "Einladung zur außerplanmäßigen Sitzung des Ortsbeirates Glindow am 04.03.2025",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f246/2026-1-einladung-zur-ausserplanmassigen-sitzung-ob-glindow-am-2026-03-04-voe-2026-02-19.pdf",
+      "publishedAt": "2026-02-19T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-245",
+      "title": "Bekanntmachung der Beschlüsse des Ortsbeirates Phöben vom 14.10.2025",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4849/f245/2025-4-beschlussveroeffentlichung-ob-phoeben-vom-2025-10-14-voe-2025-12-23.pdf",
+      "publishedAt": "2025-12-23T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-244",
+      "title": "Einladung zur Jagdgenossenschaftsversammlung Derwitz am 19.03.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f244/2026-1-einladung-jagdgenossenschaftsversammlung-derwitz-voe-2026-02-18.pdf",
+      "publishedAt": "2026-02-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-243",
+      "title": "Einladung zur Sitzung des Hauptausschusses am 05.03.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f243/2026-1-einladung-hauptausschuss-am-2026-03-05-voe-2026-02-18.pdf",
+      "publishedAt": "2026-02-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-242",
+      "title": "Amtliche Bekanntmachung des Festbereiches zum 147. Baumblütenfest",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f242/2026-1-bekanntmachung-festbereich-baumbluetenfest-voe-2026-02-18.pdf",
+      "publishedAt": "2026-02-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-241",
+      "title": "Anhörung Unerlaubte Sondernutzung gem. &sect; 20 BbgStrG für das Fahrzeug VB-GV 1005",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f241/2026-1-amtliche-bekanntmachung-pkw-voe-2026-02-18.pdf",
+      "publishedAt": "2026-02-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-240",
+      "title": "Amtliche Bekanntmachung des Jahresabschlusses 2023",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f240/2026-1-jahresabschluss-2023-voe-2026-02-11.pdf",
+      "publishedAt": "2026-02-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-239",
+      "title": "Einladung Ortsbeirat Töplitz am 17.02.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f239/2026-1-einladung-ob-toeplitz-voe-2026-02-11.pdf",
+      "publishedAt": "2026-02-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-238",
+      "title": "Einladung Ortsbeirat Plötzin am 17.02.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f238/2026-1-einladung-ob-ploetzin-voe-2026-02-11.pdf",
+      "publishedAt": "2026-02-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-237",
+      "title": "Einladung Ortsbeirat Phöben am 17.02.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f237/2026-1-einladung-ob-phoeben-voe-2026-02-11.pdf",
+      "publishedAt": "2026-02-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:43:54.227Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-236",
+      "title": "Einladung Ortsbeirat Petzow am 17.02.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f236/2026-1-einladung-ob-petzow-voe-2026-02-11.pdf",
+      "publishedAt": "2026-02-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-235",
+      "title": "Einladung Ortsbeirat Kemnitz am 17.02.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f235/2026-1-einladung-ob-kemnitz-voe-2026-02-11.pdf",
+      "publishedAt": "2026-02-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-234",
+      "title": "Einladung Ortsbeirat Glindow am 17.02.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f234/2026-1-einladung-ob-glindow-voe-2026-02-11.pdf",
+      "publishedAt": "2026-02-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-233",
+      "title": "Einladung Ortsbeirat Derwitz am 17.02.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f233/2026-1-einladung-ob-derwitz-voe-2026-02-11.pdf",
+      "publishedAt": "2026-02-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-232",
+      "title": "Einladung Ortsbeirat Bliesendorf am 17.02.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f232/2026-1-einladung-ob-bliesendorf-voe-2026-02-11.pdf",
+      "publishedAt": "2026-02-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-231",
+      "title": "Einladung zur Sitzung des Ausschusses für Rechnungsprüfung und Petitionen am 05.05.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f231/2026-2-einladung-sitzung-ausschuss-rechnungspruefung-petition-am-2025-05-05-voe-2025-04-29.pdf",
+      "publishedAt": "2026-04-29T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-230",
+      "title": "Ladung zur Nachwahl des Vorstandes der Teilnehmergemeinschaft im Bodenordnungsverfahren Feldlage Glindower Platte &mdash; Verf.-Nr.: 106393",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f230/2026-2-oeb-vorstandswahl-bov-feldlage-glindower-platte-2026-06-02-voe-2026-04-22.pdf",
+      "publishedAt": "2026-04-22T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-229",
+      "title": "1. Festsetzung nach &sect;14 Absatz 1 Nummer 1 EigV des Eigenbetriebes der Stadt Werder (Havel), Brauchwasserversorgung Werder (Havel) für das Wirtschaftsjahr 2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f229/2026-2-festsetzung-eb-brauchwasserversorgung-voe-2026-04-22.pdf",
+      "publishedAt": "2026-04-22T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-228",
+      "title": "Einladung Sitzung Finanz- und Wirtschaftsausschuss 28.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f228/2026-2-einladung-finanz-und-wirtschaftsausschuss-2026-04-28-voe-2026-04-22.pdf",
+      "publishedAt": "2026-04-22T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-227",
+      "title": "Grundstücksausschreibung Veräußerung zum Höchstgebot „Kirchstraße 11 in Werder (Havel)“",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f227/2026-2-verkauf-kirchstrasse-voe-2026-04-17.pdf",
+      "publishedAt": "2026-04-17T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-226",
+      "title": "Amtliche Bekanntmachung zu verkaufsoffenen Sonntagen 2026 der Stadt Werder (Havel)",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f226/2026-2-verordnung-zu-verkaufsoffenen-sonntagen-2026-voe-2026-04-15.pdf",
+      "publishedAt": "2026-04-15T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-225",
+      "title": "Amtliche Bekanntmachung der Haushaltssatzung 2026 der Stadt Werder (Havel)",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f225/2026-2-amtliche-bekanntmachung-haushaltssatzung-werder-havel-2026-voe-2026-04-15..pdf",
+      "publishedAt": "2026-04-15T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-224",
+      "title": "Einladung zur Sitzung des Ausschusses für Stadtentwicklung und Infrastruktur am 23.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f224/2026-2-einladung-stain-am-2026-04-23-voe-2026-04-15.pdf",
+      "publishedAt": "2026-04-15T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-223",
+      "title": "Einladung zur Sitzung des Ausschusses für Soziales, Bildung, Kultur, Sport und Tourismus am 22.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f223/2026-2-einladung-sobikust-am-2026-04-22-voe-2026-04-15.pdf",
+      "publishedAt": "2026-04-15T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-222",
+      "title": "Einladung Ortsbeirat Töplitz am 14.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f222/2026-2-einladung-ob-toeplitz-am-2026-04-14-voe-2026-04-08.pdf",
+      "publishedAt": "2026-04-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-221",
+      "title": "Einladung Ortsbeirat Plötzin am 16.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f221/2026-2-einladung-ob-ploetzin-am-2026-04-16-voe-2026-04-08.pdf",
+      "publishedAt": "2026-04-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-220",
+      "title": "Einladung Ortsbeirat Phöben am 14.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f220/2026-2-einladung-ob-phoeben-am-2026-04-14-voe-2026-04-08.pdf",
+      "publishedAt": "2026-04-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-219",
+      "title": "Einladung Ortsbeirat Petzow am 13.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f219/2026-2-einladung-ob-petzow-am-2026-04-13-voe-2026-04-08.pdf",
+      "publishedAt": "2026-04-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:43:54.227Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-218",
+      "title": "Einladung Ortsbeirat Kemnitz am 14.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f218/2026-2-einladung-ob-kemnitz-am-2026-04-14-voe-2026-04-08.pdf",
+      "publishedAt": "2026-04-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-217",
+      "title": "Einladung Ortsbeirat Glindow am 15.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f217/2026-2-einladung-ob-glindow-am-2026-04-15-voe-2026-04-08.pdf",
+      "publishedAt": "2026-04-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-192",
+      "title": "Einladung Ortsbeirat Derwitz am 16.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f192/2026-2-einladung-ob-derwitz-am-2026-04-16-voe-2026-04-08.pdf",
+      "publishedAt": "2026-04-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-191",
+      "title": "Einladung Ortsbeirat Bliesendorf am 14.04.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f191/2026-2-einladung-ob-bliesendorf-am-2026-04-14-voe-2026-04-08.pdf",
+      "publishedAt": "2026-04-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-190",
+      "title": "WAZV Kundeninformation: Rohrnetzspülungen der Trinkwasserleitungen",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f190/2026-2-wazv-spuelung-2026-voe-2026-04-08.pdf",
+      "publishedAt": "2026-04-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-189",
+      "title": "Auftragsbekanntmachung gemäß &sect; 12 Absatz 1 VOB/A - Öffentliche WC-Anlagen",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a5003/f189/2026-2-bekanntmachungsanordnung-wc-anlagen-voe-2026-04-08.pdf",
+      "publishedAt": "2026-04-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1424",
+      "title": "Beschluss-Veröffentlichung SVV Werder (Havel) - 1.Quartal",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1424/2025-2-svv-werder-beschlussveroeffentlichung-1-Quartal-voe-2025-04-09.pdf",
+      "publishedAt": "2025-04-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1422",
+      "title": "Beschluss-Veröffentlichung Ortsbeirat Plötzin - 1.Quartal",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1422/2025-2-ob-ploetzin-beschlussveroeffentlichung-1-Quartal-voe-2025-04-09.pdf",
+      "publishedAt": "2025-04-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1419",
+      "title": "Beschluss-Veröffentlichung Ortsbeirat Kemnitz - 1.Quartal",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1419/2025-2-ob-kemnitz-beschlussveroeffentlichung-1-Quartal-voe-2025-04-09.pdf",
+      "publishedAt": "2025-04-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1417",
+      "title": "Beschluss-Veröffentlichung Ortsbeirat Glindow - 1.Quartal",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1417/2025-2-ob-glindow-beschlussveroeffentlichung-1-Quartal-voe-2025-04-09.pdf",
+      "publishedAt": "2025-04-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1414",
+      "title": "Beschluss-Veröffentlichung Ortsbeirat Derwitz - 1.Quartal",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1414/2025-2-ob-derwitz-beschlussveroeffentlichung-1-Quartal-voe-2025-04-09.pdf",
+      "publishedAt": "2025-04-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1412",
+      "title": "Beschluss-Veröffentlichung Ortsbeirat Phöben - 1.Quartal",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1412/2025-2-ob-phoeben-beschlussveroeffentlichung-1-Quartal-voe-2025-04-09.pdf",
+      "publishedAt": "2025-04-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1409",
+      "title": "Beschluss-Veröffentlichung Ortsbeirat Bliesendorf - 1.Quartal",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1409/2025-2-ob-bliesendorf-beschlussveroeffentlichung-1-Quartal-voe-2025-04-09.pdf",
+      "publishedAt": "2025-04-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1407",
+      "title": "Beschluss-Veröffentlichung Ortsbeirat Petzow - 1.Quartal",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1407/2025-2-ob-petzow-beschlussveroeffentlichung-1-Quartal-voe-2025-04-09.pdf",
+      "publishedAt": "2025-04-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1404",
+      "title": "Einladung Ortsbeirat Töplitz am 01.04.2025",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1404/2025-1-einladung-ob-toeplitz-am-2025-04-01-voe-2025-03-26.pdf",
+      "publishedAt": "2025-03-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1402",
+      "title": "Einladung Ortsbeirat Plötzin am 03.04.2025",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1402/2025-1-einladung-ob-ploetzin-am-2025-04-03-voe-2025-03-26.pdf",
+      "publishedAt": "2025-03-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1399",
+      "title": "Einladung Ortsbeirat Phöben am 01.04.2025",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1399/2025-1-einladung-ob-phoeben-am-2025-04-01-voe-2025-03-26.pdf",
+      "publishedAt": "2025-03-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1397",
+      "title": "Einladung Ortsbeirat Petzow am 31.03.2025",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1397/2025-1-einladung-ob-petzow-am-2025-03-31-voe-2025-03-26.pdf",
+      "publishedAt": "2025-03-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1394",
+      "title": "Einladung Ortsbeirat Kemnitz am 01.04.2025",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4565/f1394/2025-1-einladung-ob-kemnitz-am-2025-04-01-voe-2025-03-26.pdf",
+      "publishedAt": "2025-03-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1392",
+      "title": "Aufstellungsbeschluss des Bebauungsplans Nr. 029/95 G „Havelauen Werder – Wohnbebauung zwischen Hafenpromenade, Zum Großen Zernsee, Karl-Härtel-Straße“ gemäß &sect; 2 Abs. 1 Baugesetzbuch (BauGB) sowie die frühzeitige Beteiligung der Öffentllichkeit gemäß &sect; 3 Abs. 1 BauGB am Bebauungsplanverfahren",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f1392/2026-1-bekanntmachung-bp-029-95g-havelauen-wa-voe-2026-03-26.pdf",
+      "publishedAt": "2026-03-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1389",
+      "title": "Bekanntmachung der 2. Änderungssatzung zur Hauptsatzung der Stadt Werder (Havel) vom 19.03.2026",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f1389/2026-1-2-aenderungssatzung-hauptsatzung-voe-2026-03-26.pdf",
+      "publishedAt": "2026-03-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1387",
+      "title": "Ordnungsverfügung Unerlaubte Sondernutzung gem. &sect; 20 BbgStrG für das Fahrzeug Marke: Renault, Model: Twingo, letztes Kennzeichen: PM- YC 696, FIN: VF1CN0D0539690925",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f1387/2026-1-bekanntmachung-unerlaubte-sondernutzung-voe-2026-03-26.pdf",
+      "publishedAt": "2026-03-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1384",
+      "title": "Erneute Beteiligung der Öffentlichkeit gemäß &sect; 4a Abs. 3 Baugesetzbuch zum 2. Entwurf der 9. Änderung des Flächennutzungsplanes 2020 der Stadt Werder (Havel), „Nahversorgungsmarkt Berliner Straße/Kugelweg“",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f1384/2026-1-bekanntmachung-fnp-nahversorgungsmarkt-berliner-voe-2026-03-18.pdf",
+      "publishedAt": "2026-03-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1382",
+      "title": "Erneute Beteiligung der Öffentlichkeit gemäß &sect; 4a Abs. 3 Baugesetzbuch zum 2. Entwurf des Bebauungsplanes Nr. 075/20 „Nahversorgungsmarkt Berliner Straße/Kugelweg“ der Stadt Werder (Havel)",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f1382/2026-1-bekanntmachung-bp-nahversorgungsmarkt-berliner-voe-2026-03-18.pdf",
+      "publishedAt": "2026-03-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    },
+    {
+      "id": "werder-havel-bekanntmachung-1379",
+      "title": "Ordnungsverfügung Unerlaubte Sondernutzung gem. &sect; 20 BbgStrG für das Fahrzeug Marke: BMW, Model: 5er, Kennzeichen: VB-GV 1005",
+      "url": "https://www.werder-havel.de/media/com_form2content/documents/c29/a4946/f1379/2026-1-unerlaube-sondernutzung-pkw-voe-2026-03-18.pdf",
+      "publishedAt": "2026-03-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:44:27.530Z"
+    }
+  ]
 }

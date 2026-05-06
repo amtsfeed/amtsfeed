@@ -61,54 +61,31 @@ function extractNews(html: string): NewsItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
-// Joomla events calendar: <a href="/tourismus/veranstaltungen/veranstaltungskalender.html?eventid=ID">
-// Date shown as "DD.MM.YYYY | HH:MM" or "Heute | HH:MM" above the heading
 function extractEvents(html: string): Event[] {
   const events: Event[] = [];
   const now = new Date().toISOString();
   const seen = new Set<string>();
-
-  const rx = /href="(\/tourismus\/veranstaltungen\/veranstaltungskalender\.html\?eventid=(\d+))"/gi;
+  const rx = /href="[^"]*veranstaltungskalender\.html\?eventid=(\d+)"([\s\S]{0,2000}?)<\/a>/gi;
   let m: RegExpExecArray | null;
   while ((m = rx.exec(html)) !== null) {
-    const href = m[1]!;
-    const eventId = m[2]!;
+    const eventId = m[1]!;
     if (seen.has(eventId)) continue;
-    seen.add(eventId);
-
-    // Look for date/title context around this link
-    const context = html.slice(Math.max(0, m.index - 500), m.index + 200);
-
-    // Date: "DD.MM.YYYY" or "Heute"
-    const dateMatch = context.match(/(\d{2}\.\d{2}\.\d{4})\s*\|/);
-    const startDate = dateMatch ? parseGermanShortDate(dateMatch[1]!) : now;
-
-    // Time: "| HH:MM"
-    const timeMatch = context.match(/\|\s*(\d{2}:\d{2})/);
-    const startDateTime = timeMatch
-      ? startDate.replace("T00:00:00.000Z", `T${timeMatch[1]}:00.000Z`)
-      : startDate;
-
-    // Title: h4 heading
-    const titleMatch = context.match(/<h4[^>]*>([\s\S]*?)<\/h4>/i);
+    const body = m[2] ?? "";
+    const titleMatch = body.match(/<h4[^>]*class="event__title"[^>]*>([\s\S]*?)<\/h4>/i);
     if (!titleMatch) continue;
     const title = decodeHtmlEntities((titleMatch[1] ?? "").replace(/<[^>]+>/g, "").trim());
     if (!title) continue;
-
-    // Location: first non-empty line after heading
-    const locMatch = context.match(/class="event-ort"[^>]*>([^<]+)/i)
-      ?? context.match(/(?:<\/h4>[\s\S]{0,50})([A-ZÜÄÖ][^<\n]{5,})/);
-    const location = locMatch ? decodeHtmlEntities(locMatch[1]!.trim()) : undefined;
-
-    events.push({
-      id: `werder-havel-event-${eventId}`,
-      title,
-      url: `${BASE_URL}${href}`,
-      startDate: startDateTime,
-      ...(location ? { location } : {}),
-      fetchedAt: now,
-      updatedAt: now,
-    });
+    seen.add(eventId);
+    const subheadMatch = body.match(/<p class="subhead">([\s\S]*?)<\/p>/i);
+    const subhead = subheadMatch ? (subheadMatch[1] ?? "").replace(/\s+/g, " ").trim() : "";
+    const dateMatch = subhead.match(/(\d{2}\.\d{2}\.\d{4})/);
+    const startDate = dateMatch ? parseGermanShortDate(dateMatch[1]!) : now;
+    const timeMatch = subhead.match(/\|\s*(\d{2}:\d{2})/);
+    const startDateTime = timeMatch ? startDate.replace("T00:00:00.000Z", `T${timeMatch[1]}:00.000Z`) : startDate;
+    const locMatch = body.match(/<div class="event-ort">[\s\S]*?<span[^>]*>([\s\S]*?)<\/span>/i);
+    const location = locMatch ? decodeHtmlEntities((locMatch[1] ?? "").replace(/<[^>]+>/g, "").trim()) : undefined;
+    const url = `${BASE_URL}/tourismus/veranstaltungen/veranstaltungskalender.html?eventid=${eventId}`;
+    events.push({ id: `werder-havel-event-${eventId}`, title, url, startDate: startDateTime, ...(location ? { location } : {}), fetchedAt: now, updatedAt: now });
   }
   return events.sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());
 }
@@ -120,22 +97,22 @@ function extractAmtsblatt(html: string): AmtsblattItem[] {
   const now = new Date().toISOString();
   const seen = new Set<string>();
 
-  const rx = /href="([^"]+\.pdf[^"]*)"[^>]*>([^<]*Amtsblatt[^<]*)<\/a>/gi;
+  // Bekanntmachungen: <a href="/media/.../fNNN/title.pdf"><img.../>Title - VÖ: DD.MM.YYYY</a>
+  const rx = /href="([^"]*\/f(\d+)\/[^"]+\.pdf[^"]*)"[^>]*>(?:<img[^>]*>\s*)?([\s\S]*?)\s*-\s*V(?:&Ouml;|Ö|O):?\s*(\d{2}\.\d{2}\.\d{4})\s*<\/a>/gi;
   let m: RegExpExecArray | null;
   while ((m = rx.exec(html)) !== null) {
-    const href = m[1]!;
-    const label = m[2]!.trim();
-    const numMatch = label.match(/(\d+)\/(\d{4})/);
-    if (!numMatch) continue;
-    const num = numMatch[1]!.padStart(2, "0");
-    const year = numMatch[2]!;
-    const id = `werder-havel-amtsblatt-${year}-${num}`;
+    const href = m[1]!; const fid = m[2]!;
+    const id = `werder-havel-bekanntmachung-${fid}`;
     if (seen.has(id)) continue;
     seen.add(id);
+    const title = decodeHtmlEntities(m[3]!.trim());
+    if (!title) continue;
+    const dateParts = m[4]!.match(/^(\d{2})\.(\d{2})\.(\d{4})$/)!;
+    const publishedAt = `${dateParts[3]}-${dateParts[2]}-${dateParts[1]}T00:00:00.000Z`;
     const pdfUrl = href.startsWith("http") ? href : `${BASE_URL}${href}`;
-    items.push({ id, title: `Amtsblatt Nr. ${num}/${year}`, url: pdfUrl, publishedAt: `${year}-01-01T00:00:00.000Z`, fetchedAt: now });
+    items.push({ id, title, url: pdfUrl, publishedAt, fetchedAt: now });
   }
-  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt) || b.id.localeCompare(a.id));
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
 function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {

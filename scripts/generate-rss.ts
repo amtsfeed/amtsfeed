@@ -1,9 +1,7 @@
 #!/usr/bin/env tsx
-import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync, readdirSync, statSync } from "node:fs";
 import { join, resolve } from "node:path";
 import type { EventsFile, NewsFile, AmtsblattFile, Event, NewsItem, AmtsblattItem } from "./types.ts";
-
-const dir = resolve(process.argv[2] ?? ".");
 
 function escapeXml(str: string): string {
   return str
@@ -53,37 +51,38 @@ function readJson<T>(path: string): T | null {
   return JSON.parse(readFileSync(path, "utf-8")) as T;
 }
 
-const eventsFile = readJson<EventsFile>(join(dir, "events.json"));
-const newsFile = readJson<NewsFile>(join(dir, "news.json"));
-const amtsblattFile = readJson<AmtsblattFile>(join(dir, "amtsblatt.json"));
+function generateRss(dir: string): void {
+  const eventsFile = readJson<EventsFile>(join(dir, "events.json"));
+  const newsFile = readJson<NewsFile>(join(dir, "news.json"));
+  const amtsblattFile = readJson<AmtsblattFile>(join(dir, "amtsblatt.json"));
 
-const allItems: string[] = [];
+  const allItems: string[] = [];
 
-if (eventsFile) {
-  const sorted = [...eventsFile.items].sort(
-    (a, b) => new Date(b.startDate).getTime() - new Date(a.startDate).getTime()
-  );
-  allItems.push(...sorted.map(eventToItem));
-}
+  if (eventsFile) {
+    const sorted = [...eventsFile.items].sort(
+      (a, b) => new Date(b.startDate).getTime() - new Date(a.startDate).getTime()
+    );
+    allItems.push(...sorted.map(eventToItem));
+  }
 
-if (newsFile) {
-  const sorted = [...newsFile.items].sort(
-    (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
-  );
-  allItems.push(...sorted.map(newsToItem));
-}
+  if (newsFile) {
+    const sorted = [...newsFile.items].sort(
+      (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+    );
+    allItems.push(...sorted.map(newsToItem));
+  }
 
-if (amtsblattFile) {
-  const sorted = [...amtsblattFile.items].sort(
-    (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
-  );
-  allItems.push(...sorted.map(amtsblattToItem));
-}
+  if (amtsblattFile) {
+    const sorted = [...amtsblattFile.items].sort(
+      (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+    );
+    allItems.push(...sorted.map(amtsblattToItem));
+  }
 
-const channelTitle = escapeXml(dir.split("/").at(-1) ?? "amtsfeed");
-const buildDate = new Date().toUTCString();
+  const channelTitle = escapeXml(dir.split("/").at(-1) ?? "amtsfeed");
+  const buildDate = new Date().toUTCString();
 
-const rss = `<?xml version="1.0" encoding="UTF-8"?>
+  const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>${channelTitle}</title>
@@ -96,6 +95,32 @@ ${allItems.join("\n")}
 </rss>
 `;
 
-const outPath = join(dir, "rss.xml");
-writeFileSync(outPath, rss, "utf-8");
-console.log(`Wrote ${allItems.length} items to ${outPath}`);
+  const outPath = join(dir, "rss.xml");
+  writeFileSync(outPath, rss, "utf-8");
+  console.log(`Wrote ${allItems.length} items to ${outPath}`);
+}
+
+function findDirsWithData(root: string): string[] {
+  const results: string[] = [];
+  for (const entry of readdirSync(root)) {
+    const full = join(root, entry);
+    if (statSync(full).isDirectory()) {
+      const hasData = ["events.json", "news.json", "amtsblatt.json"].some(
+        (f) => existsSync(join(full, f))
+      );
+      if (hasData) results.push(full);
+      results.push(...findDirsWithData(full));
+    }
+  }
+  return results;
+}
+
+if (process.argv[2]) {
+  generateRss(resolve(process.argv[2]));
+} else {
+  const wikiRoot = resolve("wiki");
+  const dirs = findDirsWithData(wikiRoot);
+  for (const dir of dirs) {
+    generateRss(dir);
+  }
+}

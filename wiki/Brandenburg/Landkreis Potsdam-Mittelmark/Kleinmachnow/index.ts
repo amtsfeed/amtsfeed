@@ -6,7 +6,7 @@ import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattIte
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.kleinmachnow.de";
-const NEWS_URL = `${BASE_URL}/Kleinmachnow/Aktuelles/`;
+const NEWS_URL = `${BASE_URL}/Kleinmachnow/Aktuelles/Meldungen/`;
 const EVENTS_URL = `${BASE_URL}/Kultur-Freizeit/Freizeit/Veranstaltungen/`;
 const AMTSBLATT_URL = `${BASE_URL}/Politik-Verwaltung/Amtliche-Informationen/Amtsblatt-Kleinmachnow/`;
 const DIR = dirname(fileURLToPath(import.meta.url));
@@ -27,72 +27,49 @@ function parseGermanShortDate(dateStr: string): string {
   return `${m[3]}-${m[2]}-${m[1]}T00:00:00.000Z`;
 }
 
-// Advantic CMS news:
-// <a href="/Kleinmachnow/Aktuelles/slug.php?object=tx,3692.5.1&ModID=7&FID=3692.ID.1&...">
-//   <h3>Title</h3>
-//   <p>Datum: DD.MM.YYYY</p>
-// </a>
 function extractNews(html: string): NewsItem[] {
   const items: NewsItem[] = [];
   const now = new Date().toISOString();
   const seen = new Set<string>();
-
-  const rx = /href="(\/Kleinmachnow\/Aktuelles\/[^"]+FID=3692\.(\d+)\.1[^"]+)"[^>]*>([\s\S]{0,600}?)<\/a>/gi;
+  const rx = /href="(\/Kleinmachnow\/Aktuelles\/[^"]+FID=3692\.(\d+)\.1[^"]+)"[^>]*>/gi;
   let m: RegExpExecArray | null;
   while ((m = rx.exec(html)) !== null) {
-    const href = m[1]!;
-    const fid = m[2]!;
+    const href = m[1]!; const fid = m[2]!;
     const id = `kleinmachnow-news-${fid}`;
     if (seen.has(id)) continue;
     seen.add(id);
-
-    const body = m[3]!;
-    const titleMatch = body.match(/<h3[^>]*>([^<]+)<\/h3>/i);
+    const after = html.slice(m.index, m.index + 2000);
+    const titleMatch = after.match(/<h3[^>]*class="list-title"[^>]*>([\s\S]*?)<\/h3>/i);
     if (!titleMatch) continue;
-    const title = decodeHtmlEntities(titleMatch[1]!.trim());
+    const title = decodeHtmlEntities((titleMatch[1] ?? "").replace(/<[^>]+>/g, "").trim());
     if (!title) continue;
-
-    const dateMatch = body.match(/Datum:\s*(\d{2}\.\d{2}\.\d{4})/);
-    const publishedAt = dateMatch ? parseGermanShortDate(dateMatch[1]!) : now;
-
+    const timeMatch = after.match(/<time[^>]*datetime="(\d{4}-\d{2}-\d{2})[^"]*"/i);
+    const publishedAt = timeMatch ? `${timeMatch[1]}T00:00:00.000Z` : now;
     items.push({ id, title, url: `${BASE_URL}${href}`, fetchedAt: now, publishedAt, updatedAt: now });
   }
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
-// Advantic CMS events:
-// <a href="/Kultur-Freizeit/Freizeit/Veranstaltungen/slug.php?object=tx,3692.4.1&ModID=11&FID=3692.ID.1&...">
-//   <h3>Title</h3>
-//   <p>Datum: DD.MM.YYYY</p>
-//   <p>Uhrzeit: HH:MM bis HH:MM Uhr</p>
-// </a>
 function extractEvents(html: string): Event[] {
   const events: Event[] = [];
   const now = new Date().toISOString();
   const seen = new Set<string>();
-
-  const rx = /href="(\/Kultur-Freizeit\/Freizeit\/Veranstaltungen\/[^"]+FID=3692\.(\d+)\.1[^"]+)"[^>]*>([\s\S]{0,800}?)<\/a>/gi;
+  const rx = /href="(\/Kultur-Freizeit\/Freizeit\/Veranstaltungen\/[^"]+FID=3692\.(\d+)\.1[^"]+)"[^>]*>/gi;
   let m: RegExpExecArray | null;
   while ((m = rx.exec(html)) !== null) {
-    const href = m[1]!;
-    const fid = m[2]!;
+    const href = m[1]!; const fid = m[2]!;
     const id = `kleinmachnow-event-${fid}`;
     if (seen.has(id)) continue;
     seen.add(id);
-
-    const body = m[3]!;
-    const titleMatch = body.match(/<h3[^>]*>([^<]+)<\/h3>/i);
+    const after = html.slice(m.index, m.index + 2000);
+    const titleMatch = after.match(/<h3[^>]*class="list-title"[^>]*>([\s\S]*?)<\/h3>/i);
     if (!titleMatch) continue;
-    const title = decodeHtmlEntities(titleMatch[1]!.trim());
+    const title = decodeHtmlEntities((titleMatch[1] ?? "").replace(/<[^>]+>/g, "").trim());
     if (!title) continue;
-
-    const dateMatch = body.match(/Datum:\s*(\d{2}\.\d{2}\.\d{4})/);
-    if (!dateMatch) continue;
-    const startDate = parseGermanShortDate(dateMatch[1]!);
-
-    const timeMatch = body.match(/Uhrzeit:\s*(\d{2}:\d{2})/);
-    const startDateTime = timeMatch ? startDate.replace("T00:00:00.000Z", `T${timeMatch[1]}:00.000Z`) : startDate;
-
+    const timeMatch = after.match(/<time[^>]*datetime="(\d{4}-\d{2}-\d{2})\s*(\d{2}:\d{2})?[^"]*"/i);
+    if (!timeMatch) continue;
+    const startDate = `${timeMatch[1]}T00:00:00.000Z`;
+    const startDateTime = timeMatch[2] ? startDate.replace("T00:00:00.000Z", `T${timeMatch[2]}:00.000Z`) : startDate;
     events.push({ id, title, url: `${BASE_URL}${href}`, startDate: startDateTime, fetchedAt: now, updatedAt: now });
   }
   return events.sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());

@@ -6,4 +6,254 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kleinmachnow
 X-WR-CALDESC:Amtliche Veranstaltungen für Kleinmachnow
 X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:kleinmachnow-event-2016@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Kino Kammerspiele
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Kino-Kammerspiele.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.201
+ 6.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2350@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260503T140000Z
+SUMMARY:Gudrun Sailer - Plastik und Malerei / Martin Hoffmann - Collagen 
+ und Zeichnungen
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Gudrun-Sailer-Plastik-und-Malerei-Martin-Hoffmann-Collagen-und-Zeichnunge
+ n.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.2350.1&amp\;NavID=3
+ 692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2322@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260506T150000Z
+SUMMARY:Tanz im Mai
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Tanz-im-Mai.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.2322.1&am
+ p\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2217@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260507T150000Z
+SUMMARY:Offenes Caf&eacute\;
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Offenes-Caf%C3%A9.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.221
+ 7.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2353@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260508T090000Z
+SUMMARY:8. Mai - Gedenktag der Befreiung vom Nationalsozialismus und der 
+ Beendigung des Zweiten Weltkrieges
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ 8-Mai-Gedenktag-der-Befreiung-vom-Nationalsozialismus-und-der-Beendigung-
+ des-Zweiten-Weltkrieges.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=36
+ 92.2353.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&amp\;
+ bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2127@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260508T093000Z
+SUMMARY:Krabbel- und Säuglingsgruppe
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Krabbel-und-S%C3%A4uglingsgruppe-.php?object=tx\,3692.4.1&amp\;ModID=11&a
+ mp\;FID=3692.2127.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfo
+ rt=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2259@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260508T130000Z
+SUMMARY:Senioren- und Seniorinnen-Nachmittag
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Senioren-und-Seniorinnen-Nachmittag-.php?object=tx\,3692.4.1&amp\;ModID=1
+ 1&amp\;FID=3692.2259.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;
+ sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2342@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260508T200000Z
+SUMMARY:Karina Syndicus und Michael Krebs: Schmuckeremiten
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Karina-Syndicus-und-Michael-Krebs-Schmuckeremiten.php?object=tx\,3692.4.1
+ &amp\;ModID=11&amp\;FID=3692.2342.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfo
+ dddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2351@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260509T100000Z
+SUMMARY:50 Jahre Freibad Kiebitzberge
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ 50-Jahre-Freibad-Kiebitzberge.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;
+ FID=3692.2351.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1
+ &amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2038@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260512T160000Z
+SUMMARY:Einladung zum Bingo-Nachmittag
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Einladung-zum-Bingo-Nachmittag.php?object=tx\,3692.4.1&amp\;ModID=11&amp\
+ ;FID=3692.2038.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=
+ 1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2329@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260512T160000Z
+SUMMARY:Klimawissen und Klimapolitik
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Klimawissen-und-Klimapolitik.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;F
+ ID=3692.2329.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&
+ amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-857@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260513T160000Z
+SUMMARY:Maker-Mittwoch | Bee-Bots
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Maker-Mittwoch-Bee-Bots.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=36
+ 92.857.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&amp\;b
+ n=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2128@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260515T093000Z
+SUMMARY:Krabbel- und Säuglingsgruppe
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Krabbel-und-S%C3%A4uglingsgruppe-.php?object=tx\,3692.4.1&amp\;ModID=11&a
+ mp\;FID=3692.2128.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfo
+ rt=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2260@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260515T130000Z
+SUMMARY:Senioren- und Seniorinnen-Nachmittag
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Senioren-und-Seniorinnen-Nachmittag-.php?object=tx\,3692.4.1&amp\;ModID=1
+ 1&amp\;FID=3692.2260.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;
+ sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2330@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260517T100000Z
+SUMMARY:Internationaler Museumstag
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Internationaler-Museumstag.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID
+ =3692.2330.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&am
+ p\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2111@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260519T093000Z
+SUMMARY:Frühstück für Familien sowie Senioren und Seniorinnen
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Fr%C3%BChst%C3%BCck-f%C3%BCr-Familien-sowie-Senioren-und-Seniorinnen.php?
+ object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.2111.1&amp\;NavID=3692.15
+ &amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2077@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260519T140000Z
+SUMMARY:Sprechstunde "Pflege vor Ort"
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Sprechstunde-Pflege-vor-Ort-.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;F
+ ID=3692.2077.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&
+ amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2352@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260520T190000Z
+SUMMARY:Ein Abend für Herbert Lange (1920 - 2001)
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Ein-Abend-f%C3%BCr-Herbert-Lange-1920-2001-.php?object=tx\,3692.4.1&amp\;
+ ModID=11&amp\;FID=3692.2352.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=
+ 1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2219@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260521T150000Z
+SUMMARY:Offenes Caf&eacute\;
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Offenes-Caf%C3%A9.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.221
+ 9.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2129@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260522T093000Z
+SUMMARY:Krabbel- und Säuglingsgruppe
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Krabbel-und-S%C3%A4uglingsgruppe-.php?object=tx\,3692.4.1&amp\;ModID=11&a
+ mp\;FID=3692.2129.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfo
+ rt=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2261@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260522T130000Z
+SUMMARY:Senioren- und Seniorinnen-Nachmittag
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Senioren-und-Seniorinnen-Nachmittag-.php?object=tx\,3692.4.1&amp\;ModID=1
+ 1&amp\;FID=3692.2261.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;
+ sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2341@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260522T200000Z
+SUMMARY:Alec & Ro Gebhardt: Wenn der Vater mit dem Sohne  feat. Denis Sti
+ lke
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Alec-Ro-Gebhardt-Wenn-der-Vater-mit-dem-Sohne-feat-Denis-Stilke.php?objec
+ t=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.2341.1&amp\;NavID=3692.15&amp\
+ ;La=1&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2220@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260528T150000Z
+SUMMARY:Offenes Caf&eacute\;
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Offenes-Caf%C3%A9.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.222
+ 0.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2130@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260529T093000Z
+SUMMARY:Krabbel- und Säuglingsgruppe
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Krabbel-und-S%C3%A4uglingsgruppe-.php?object=tx\,3692.4.1&amp\;ModID=11&a
+ mp\;FID=3692.2130.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfo
+ rt=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2262@amtsfeed.de
+DTSTAMP:20260506T124213Z
+DTSTART:20260529T130000Z
+SUMMARY:Senioren- und Seniorinnen-Nachmittag
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Senioren-und-Seniorinnen-Nachmittag-.php?object=tx\,3692.4.1&amp\;ModID=1
+ 1&amp\;FID=3692.2262.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;
+ sfort=1&amp\;bn=1
+END:VEVENT
 END:VCALENDAR

@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://beelitz.de";
 const NEWS_URL = `${BASE_URL}/category/news/`;
 const AMTSBLATT_URL = `${BASE_URL}/amtsblatt/`;
+const NOTICES_URL = `${BASE_URL}/bekanntmachungen/`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -85,6 +86,60 @@ function extractAmtsblatt(html: string): AmtsblattItem[] {
   return items.sort((a, b) => b.id.localeCompare(a.id));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// WordPress page with a table: <table><thead><tr><th>Bekanntmachung</th><th>Datum der Veröffentlichung</th></tr></thead>
+// Each row: <td><a href="PDF_OR_URL">TITLE</a></td><td>DD.MM.YYYY</td>
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  // Split on table rows within notices table
+  const rowRx = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
+  let row: RegExpExecArray | null;
+  while ((row = rowRx.exec(html)) !== null) {
+    const cells = row[1]!;
+    // Need two <td> cells: link + date
+    const tds = [...cells.matchAll(/<td[^>]*>([\s\S]*?)<\/td>/gi)];
+    if (tds.length < 2) continue;
+
+    const linkCell = tds[0]![1]!;
+    const dateCell = tds[1]![1]!;
+
+    const linkMatch = linkCell.match(/<a\s+href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/i);
+    if (!linkMatch) continue;
+    let href = linkMatch[1]!.trim();
+    const title = decodeHtmlEntities(linkMatch[2]!.replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    // Resolve relative URLs
+    if (!href.startsWith("http")) href = `${BASE_URL}${href}`;
+
+    // Parse German date DD.MM.YYYY
+    const dateText = dateCell.replace(/<[^>]+>/g, "").trim();
+    const dateMatch = dateText.match(/(\d{2})\.(\d{2})\.(\d{4})/);
+    const publishedAt = dateMatch
+      ? `${dateMatch[3]}-${dateMatch[2]}-${dateMatch[1]}T00:00:00.000Z`
+      : now;
+
+    // Use hash of href as stable id suffix
+    const slug = href.replace(/^https?:\/\/[^/]+/, "").replace(/[^a-z0-9]+/gi, "-").slice(-60);
+    const id = `beelitz-notice-${slug}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    items.push({ id, title, url: href, publishedAt, fetchedAt: now });
+  }
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
   const byId = new Map(existing.map((i) => [i.id, i]));
   for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
@@ -104,26 +159,32 @@ function loadJson<T>(path: string, fallback: T): T {
 }
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/category/", "/amtsblatt/"]);
+assertAllowed(robots, ["/category/", "/amtsblatt/", "/bekanntmachungen/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [newsHtml, amtsblattHtml] = await Promise.all([
+const [newsHtml, amtsblattHtml, noticesHtml] = await Promise.all([
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
+const noticesPath = join(DIR, "notices.json");
 
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
 
 const now = new Date().toISOString();
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
 console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

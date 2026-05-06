@@ -2,13 +2,14 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem, EventsFile, Event } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem, EventsFile, Event, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://amt-niemegk.de";
 const NEWS_URL = `${BASE_URL}/nachrichten-aus-dem-amtsgebiet/`;
 const AMTSBLATT_URL = `${BASE_URL}/amtsblatt/`;
 const EVENTS_RSS_URL = `${BASE_URL}/events/feed/`;
+const NOTICES_URL = `${BASE_URL}/bekanntmachungen/`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -146,6 +147,81 @@ function extractEventsFromRss(xml: string): Event[] {
   return items.sort((a, b) => a.startDate.localeCompare(b.startDate));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// WordPress block-based page with lightweight accordion by year.
+// Each entry is a 3-column Gutenberg columns block (flex-basis 25/50/25):
+//   col 1 (25%): <p><strong>DD.MM.YYYY</strong></p>  — may be empty for sub-items
+//   col 2 (50%): <p>TITLE TEXT</p>
+//   col 3 (25%): <a class="wp-block-button__link" href="PDF">pdf-Download</a>
+// Some rows have no date (sub-items under previous dated row) — inherit last date.
+// Amtsblatt rows (title contains "Amtsblatt – Nr.") are filtered out.
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  // Split into year blocks by <details> accordion
+  const yearBlocks = html.split(/<details[^>]*>/).slice(1);
+
+  for (const yearBlock of yearBlocks) {
+    let lastDate = now;
+
+    // Each row is a wp-block-columns with 25/50/25 layout
+    const rowRx = /<div class="wp-block-columns[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<\/div>\s*\n?\s*(?:<hr|<div class="wp-block-columns|<\/details>)/g;
+    let rowMatch: RegExpExecArray | null;
+
+    // Simpler: split by known row containers that all share same layout class
+    const rows = yearBlock.split('<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-').slice(1);
+
+    for (const row of rows) {
+      // Col 1: date in <strong>DD.MM.YYYY</strong>
+      const dateMatch = row.match(/<strong[^>]*>(\d{1,2})\.(\d{2})\.(\d{4})<\/strong>/);
+      if (dateMatch) {
+        lastDate = `${dateMatch[3]}-${dateMatch[2]}-${dateMatch[1]!.padStart(2, "0")}T00:00:00.000Z`;
+      }
+
+      // Col 3: PDF URL from button link
+      const pdfMatch = row.match(/class="wp-block-button__link[^"]*"[^>]*href="([^"]+\.pdf[^"]*)"/i)
+        || row.match(/href="([^"]+\.pdf[^"]*)"[^>]*class="wp-block-button__link/i);
+      if (!pdfMatch) continue;
+      const pdfUrl = pdfMatch[1]!;
+
+      // Col 2: title from 50% column — extract first <p>...</p> after flex-basis:50%
+      const col50Match = row.match(/flex-basis:50%[^>]*>([\s\S]*?)(?=flex-basis:\d|<\/div>\s*\n?\s*<\/div>)/);
+      if (!col50Match) continue;
+      const col50Html = col50Match[1]!;
+      // Extract text from first <p> tag in this section
+      const pMatch = col50Html.match(/<p[^>]*>([\s\S]*?)<\/p>/);
+      if (!pMatch) continue;
+      const titleRaw = pMatch[1]!.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+      const title = decodeHtmlEntities(titleRaw);
+      if (!title) continue;
+
+      // Skip Amtsblatt entries — they belong to amtsblatt.json
+      if (/amtsblatt\s*[–-]\s*nr\./i.test(title)) continue;
+
+      // Stable id from upload path
+      const slug = pdfUrl.replace(/^https?:\/\/[^/]+/, "").replace(/[^a-z0-9]+/gi, "-").replace(/^-+|-+$/g, "").slice(-80);
+      const id = `amt-niemegk-notice-${slug}`;
+      if (seen.has(id)) continue;
+      seen.add(id);
+
+      items.push({ id, title, url: pdfUrl, publishedAt: lastDate, fetchedAt: now });
+    }
+
+    void rowMatch; // suppress unused variable warning
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
   const byId = new Map(existing.map((e) => [e.id, e]));
   for (const e of incoming) byId.set(e.id, { ...e, fetchedAt: byId.get(e.id)?.fetchedAt ?? e.fetchedAt });
@@ -171,7 +247,7 @@ function loadJson<T>(path: string, fallback: T): T {
 }
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/nachrichten-aus-dem-amtsgebiet/", "/amtsblatt/", "/events/"]);
+assertAllowed(robots, ["/nachrichten-aus-dem-amtsgebiet/", "/amtsblatt/", "/events/", "/bekanntmachungen/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
 
@@ -188,20 +264,24 @@ async function fetchAllEventPages(): Promise<Event[]> {
   return all;
 }
 
-const [newsHtml, amtsblattHtml, incomingEvents] = await Promise.all([
+const [newsHtml, amtsblattHtml, noticesHtml, incomingEvents] = await Promise.all([
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
   fetchAllEventPages(),
 ]);
 
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
+const noticesPath = join(DIR, "notices.json");
 
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
 
 const eventsPath = join(DIR, "events.json");
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
@@ -210,8 +290,10 @@ const mergedEvents = mergeEvents(existingEvents.items, incomingEvents);
 const now = new Date().toISOString();
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 
 console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);
 console.log(`events:    ${mergedEvents.length} Einträge → ${eventsPath}`);

@@ -2,11 +2,12 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, EventsFile, Event } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, EventsFile, Event, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.ahrensfelde.de";
 const NEWS_URL = `${BASE_URL}/aktuelles-mehr/aktuelle-meldungen/`;
+const AMTSBLATT_ARCHIVE_URL = `${BASE_URL}/aktuelles-mehr/amtsblatt/amtsblatt-archiv/`;
 const KOMMUNE_ID = "30601";
 const DIR = dirname(fileURLToPath(import.meta.url));
 
@@ -125,6 +126,59 @@ function extractNews(html: string): NewsItem[] {
   return items;
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// NOLIS dokumenteplus format: archive page lists year folders, each year page has
+// managerbox blocks with download href and title like "Amtsblatt MONTH YEAR"
+
+const GERMAN_MONTHS_FULL: Record<string, string> = {
+  Januar: "01", Februar: "02", März: "03", April: "04",
+  Mai: "05", Juni: "06", Juli: "07", August: "08",
+  September: "09", Oktober: "10", November: "11", Dezember: "12",
+};
+
+function extractAmtsblattFromYearPage(html: string, year: string): AmtsblattItem[] {
+  const items: AmtsblattItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const blocks = html.split("managerbox ").slice(1);
+  for (const block of blocks) {
+    const hrefMatch = block.match(/href="(https?:\/\/www\.ahrensfelde\.de\/downloads\/datei\/[^"]+)"/);
+    if (!hrefMatch) continue;
+    const url = hrefMatch[1]!;
+
+    const titleMatch = block.match(/<td[^>]*class="dokumente_inhalt"[^>]*>([^<]+)<\/td>/);
+    if (!titleMatch) continue;
+    const rawTitle = decodeHtmlEntities(titleMatch[1]!.trim());
+
+    // Title like "Amtsblatt Januar 2026" or "Amtsblatt 01/2025"
+    let mm: string | undefined;
+    let yyyy = year;
+
+    const longMatch = rawTitle.match(/([A-Za-zäöüÄÖÜß]+)\s+(\d{4})/);
+    if (longMatch) {
+      mm = GERMAN_MONTHS_FULL[longMatch[1]!];
+      yyyy = longMatch[2]!;
+    }
+    if (!mm) continue;
+
+    const id = `ahrensfelde-amtsblatt-${yyyy}-${mm}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const publishedAt = `${yyyy}-${mm}-01T00:00:00.000Z`;
+    items.push({ id, title: `Amtsblatt Ahrensfelde ${mm}/${yyyy}`, url, publishedAt, fetchedAt: now });
+  }
+
+  return items;
+}
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((a) => [a.id, a]));
+  for (const a of incoming) byId.set(a.id, { ...a, fetchedAt: byId.get(a.id)?.fetchedAt ?? a.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 const NEWS_LIMIT = 50;
@@ -172,7 +226,7 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/aktuelles-mehr/aktuelle-meldungen/", "/veranstaltungen/veranstaltungen.ical"]);
+assertAllowed(robots, ["/aktuelles-mehr/aktuelle-meldungen/", "/veranstaltungen/veranstaltungen.ical", "/aktuelles-mehr/amtsblatt/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
 
@@ -182,7 +236,7 @@ nextYear.setFullYear(nextYear.getFullYear() + 1);
 const fmt = (d: Date) => `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, "0")}${String(d.getDate()).padStart(2, "0")}`;
 const eventsIcalUrl = `${BASE_URL}/veranstaltungen/veranstaltungen.ical?zeitauswahl=1&auswahl_woche_tage=365&kategorie=0&selected_kommune=${KOMMUNE_ID}&beginn=${fmt(today)}000000&ende=${fmt(nextYear)}235959&intern=0`;
 
-const [newsHtml, eventsIcal] = await Promise.all([
+const [newsHtml, eventsIcal, archiveHtml] = await Promise.all([
   fetch(NEWS_URL, { headers }).then((r) => {
     if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`);
     return r.text();
@@ -191,6 +245,7 @@ const [newsHtml, eventsIcal] = await Promise.all([
     if (!r.ok) throw new Error(`HTTP ${r.status} ${eventsIcalUrl}`);
     return r.text();
   }),
+  fetch(AMTSBLATT_ARCHIVE_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const now = new Date().toISOString();
@@ -211,3 +266,32 @@ if (incomingEvents.length > 0) {
 } else {
   console.log("events: 0 Einträge – keine events.json geschrieben");
 }
+
+// Amtsblatt: extract year → dokumenteplus URL pairs from archive page, then fetch recent years
+const yearUrlRx = /href="(https?:\/\/www\.ahrensfelde\.de\/portal\/dokumenteplus-\d+-30601\.html[^"]*)"[^>]*>(\d{4})</g;
+const currentYear = new Date().getFullYear();
+const yearUrls: Array<{ year: string; url: string }> = [];
+let ym: RegExpExecArray | null;
+while ((ym = yearUrlRx.exec(archiveHtml)) !== null) {
+  const year = ym[2]!;
+  if (parseInt(year) >= currentYear - 2) yearUrls.push({ year, url: ym[1]! });
+}
+
+const amtsblattPath = join(DIR, "amtsblatt.json");
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+let allIncoming: AmtsblattItem[] = [];
+
+if (yearUrls.length > 0) {
+  const yearPages = await Promise.all(
+    yearUrls.map(({ year, url }) =>
+      fetch(url, { headers }).then((r) => r.ok ? r.text() : "").then((html) => ({ year, html }))
+    )
+  );
+  for (const { year, html } of yearPages) {
+    allIncoming = allIncoming.concat(extractAmtsblattFromYearPage(html, year));
+  }
+}
+
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, allIncoming);
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

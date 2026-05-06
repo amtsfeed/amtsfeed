@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T18:18:53.652Z",
+  "updatedAt": "2026-05-06T19:21:10.023Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -13,13 +13,13 @@
       "hasIcal": true,
       "eventCount": 104,
       "newsCount": 15,
-      "amtsblattCount": 0,
-      "updatedAt": "2026-05-06T13:00:21.949Z",
+      "amtsblattCount": 28,
+      "updatedAt": "2026-05-06T19:17:38.493Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/news.json",
-      "amtsblattUrl": null,
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/amtsblatt.json",
       "sources": []
     },
     {
@@ -1261,14 +1261,14 @@
       ],
       "name": "Amt Niemegk",
       "hasRss": true,
-      "hasIcal": false,
-      "eventCount": 0,
+      "hasIcal": true,
+      "eventCount": 4,
       "newsCount": 1,
       "amtsblattCount": 195,
-      "updatedAt": "2026-05-06T13:16:30.668Z",
+      "updatedAt": "2026-05-06T19:19:47.235Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Niemegk/rss.xml",
-      "icalUrl": null,
-      "eventsUrl": null,
+      "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Niemegk/events.ics",
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Niemegk/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Niemegk/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Niemegk/amtsblatt.json",
       "sources": []

@@ -2,13 +2,14 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://panketal.de";
 const EVENTS_URL = `${BASE_URL}/freizeit/veranstaltungen.html`;
 const AMTSBLATT_URL = `${BASE_URL}/rathaus/amtsblatt.html`;
 const AMTSBLATT_FEED_URL = `${BASE_URL}/rathaus/amtsblatt.feed?type=rss`;
+const NOTICES_FEED_URL = `${BASE_URL}/rathaus/oeffentliche-bekanntmachungen.feed?type=rss`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -134,6 +135,59 @@ function extractAmtsblatt(rss: string): AmtsblattItem[] {
   return [...items.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// Joomla RSS feed at /rathaus/oeffentliche-bekanntmachungen.feed?type=rss
+// Each <item> covers a year. CDATA <description> contains a <table> with rows:
+//   <td colspan="2"><strong>DD.MM.YYYY</strong> - TITLE<br/><a href="PDF">Download</a></td>
+// pubDate of the RSS item is NOT the notice date — use the date from <strong>.
+
+function extractNotices(rss: string): NoticeItem[] {
+  const items = new Map<string, NoticeItem>();
+  const now = new Date().toISOString();
+
+  // Split into RSS <item> blocks
+  const rssBlocks = rss.split(/<item>/).slice(1);
+
+  for (const block of rssBlocks) {
+    // Extract CDATA content
+    const cdataMatch = block.match(/<!\[CDATA\[([\s\S]*?)\]\]>/);
+    if (!cdataMatch) continue;
+    const cdata = cdataMatch[1]!;
+
+    // Each table row: <td ...><strong>DD.MM.YYYY</strong> - TITLE<br /><a href="PDF">Download</a>
+    const rowRx = /<td[^>]*>[\s\S]*?<strong[^>]*>(\d{1,2})\.(\d{2})\.(\d{4})<\/strong>\s*[-–]\s*([\s\S]*?)<br\s*\/?>\s*<a\s+href="([^"]+)"[^>]*>Download<\/a>/gi;
+    let m: RegExpExecArray | null;
+    while ((m = rowRx.exec(cdata)) !== null) {
+      const day = m[1]!.padStart(2, "0");
+      const month = m[2]!;
+      const year = m[3]!;
+      const publishedAt = `${year}-${month}-${day}T00:00:00.000Z`;
+
+      const rawTitle = m[4]!.replace(/<[^>]+>/g, "").replace(/&nbsp;/g, " ").replace(/\s+/g, " ").trim();
+      const title = decodeHtmlEntities(rawTitle);
+      if (!title) continue;
+
+      const href = m[5]!;
+      const pdfUrl = href.startsWith("http") ? href : `${BASE_URL}${href}`;
+
+      // Stable id from PDF filename
+      const slug = pdfUrl.replace(/^https?:\/\/[^/]+/, "").replace(/[^a-z0-9]+/gi, "-").replace(/^-+|-+$/g, "").slice(-80);
+      const id = `panketal-notice-${slug}`;
+      if (!items.has(id)) {
+        items.set(id, { id, title, url: pdfUrl, publishedAt, fetchedAt: now });
+      }
+    }
+  }
+
+  return [...items.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
   const byId = new Map(existing.map((i) => [i.id, i]));
   for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
@@ -158,27 +212,32 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/freizeit/veranstaltungen.html", "/rathaus/amtsblatt.html"]);
+assertAllowed(robots, ["/freizeit/veranstaltungen.html", "/rathaus/amtsblatt.html", "/rathaus/oeffentliche-bekanntmachungen.html"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, amtsblattRss] = await Promise.all([
+const [eventsHtml, amtsblattRss, noticesRss] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_FEED_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(NOTICES_FEED_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
+const noticesPath = join(DIR, "notices.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattRss));
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesRss));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
 // Write empty news.json if it doesn't exist
 if (!existsSync(newsPath)) {
@@ -188,3 +247,4 @@ if (!existsSync(newsPath)) {
 console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
 console.log(`news:       0 Einträge (keine Nachrichten) → ${newsPath}`);
 console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+console.log(`notices:    ${mergedNotices.length} Einträge → ${noticesPath}`);

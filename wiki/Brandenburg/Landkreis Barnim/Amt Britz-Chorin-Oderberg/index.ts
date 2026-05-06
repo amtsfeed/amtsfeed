@@ -2,13 +2,14 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, AmtsblattFile, Event, NewsItem, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, AmtsblattFile, Event, NewsItem, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://britz-chorin-oderberg.de";
 const EVENTS_URL = `${BASE_URL}/events`;
 const NEWS_URL = `${BASE_URL}/thema/news`;
 const AMTSBLATT_URL = `${BASE_URL}/thema/amtliches/amtsblatt`;
+const NOTICES_URL = `${BASE_URL}/thema/amtliches/oeffentliche-bekanntmachungen`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -145,6 +146,59 @@ function extractAmtsblatt(html: string): AmtsblattItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// WordPress custom theme (abco). Same teaser layout as news.
+// <article class="teaser">
+//   <a class="teaser__link" href="URL">
+//   <h2 class="teaser__title"><span class="teaser__topic">...</span>...: TITLE</h2>
+//   <time class="teaser__date" datetime="ISO">
+// ID from last path segment of URL.
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+
+  const blocks = html.split('<a class="teaser__link"').slice(1);
+
+  for (const block of blocks) {
+    const linkMatch = block.match(/href="([^"]+)"/);
+    if (!linkMatch) continue;
+    const url = linkMatch[1]!;
+    // Only include entries under the notices path or amtliches
+    if (!url.includes("/oeffentliche-bekanntmachungen") && !url.includes("/amtliches/")) {
+      // include all links from this category page
+    }
+
+    const titleBlockMatch = block.match(/<h2 class="teaser__title">([\s\S]*?)<\/h2>/);
+    if (!titleBlockMatch) continue;
+    const rawTitle = (titleBlockMatch[1] ?? "")
+      .replace(/<span class="teaser__topic">[^<]*<\/span>/g, "")
+      .replace(/<span class="screen-reader-only">[\s\S]*?<\/span>/g, "")
+      .replace(/<[^>]+>/g, "")
+      .replace(/^\s*[:–-]\s*/, "")
+      .trim();
+    const title = decodeHtmlEntities(rawTitle);
+    if (!title) continue;
+
+    const datetimeMatch = block.match(/<time class="teaser__date"[^>]*datetime="([^"]+)"/);
+    const publishedAt = datetimeMatch ? new Date(datetimeMatch[1]!).toISOString() : now;
+
+    const slugMatch = url.match(/\/([^/]+)\/?$/);
+    const slug = slugMatch ? slugMatch[1]! : url.replace(/[^a-z0-9]+/gi, "-");
+    const id = `britz-chorin-oderberg-notice-${slug}`;
+
+    items.push({ id, title, url, publishedAt, fetchedAt: now });
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
@@ -183,32 +237,38 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/events", "/thema/news", "/thema/amtliches/amtsblatt"]);
+assertAllowed(robots, ["/events", "/thema/news", "/thema/amtliches/amtsblatt", "/thema/amtliches/oeffentliche-bekanntmachungen"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, newsHtml, amtsblattHtml] = await Promise.all([
+const [eventsHtml, newsHtml, amtsblattHtml, noticesHtml] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${AMTSBLATT_URL}`); return r.text(); }),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
+const noticesPath = join(DIR, "notices.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
 console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
 console.log(`news:       ${mergedNews.length} Einträge → ${newsPath}`);
 console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+console.log(`notices:    ${mergedNotices.length} Einträge → ${noticesPath}`);

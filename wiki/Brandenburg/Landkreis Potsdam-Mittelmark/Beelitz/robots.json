@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "beelitz.de",
+    "baseUrl": "https://beelitz.de",
+    "updatedAt": "2026-05-06T11:35:16.679Z",
+    "content": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://beelitz.de/sitemap_index.xml\n"
+  }
+]

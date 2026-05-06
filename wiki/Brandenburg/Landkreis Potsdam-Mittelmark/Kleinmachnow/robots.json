@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.kleinmachnow.de",
+    "baseUrl": "https://www.kleinmachnow.de",
+    "updatedAt": "2026-05-06T11:35:22.243Z",
+    "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /suche.phtml\nDisallow: /suchen.phtml\nDisallow: /redirect.phtml\n\nSitemap: https://www.kleinmachnow.de/sitemap.xml"
+  }
+]

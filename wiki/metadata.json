@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T09:24:44.568Z",
+  "updatedAt": "2026-05-06T11:36:21.253Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -914,6 +914,363 @@
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Woltersdorf/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Woltersdorf/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Oder-Spree/Woltersdorf/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Amt Beetzsee",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Amt Beetzsee"
+      ],
+      "name": "Amt Beetzsee",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 20,
+      "amtsblattCount": 318,
+      "updatedAt": "2026-05-06T11:34:59.874Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Beetzsee/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Beetzsee/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Beetzsee/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Amt Brück",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Amt Brück"
+      ],
+      "name": "Amt Brück",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 100,
+      "amtsblattCount": 191,
+      "updatedAt": "2026-05-06T11:35:11.200Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Br%C3%BCck/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Br%C3%BCck/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Br%C3%BCck/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Amt Niemegk",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Amt Niemegk"
+      ],
+      "name": "Amt Niemegk",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 1,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T11:35:17.541Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Niemegk/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Niemegk/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Amt Wusterwitz",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Amt Wusterwitz"
+      ],
+      "name": "Amt Wusterwitz",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 0,
+      "amtsblattCount": 188,
+      "updatedAt": "2026-05-06T11:34:55.047Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Wusterwitz/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Wusterwitz/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Wusterwitz/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Amt Ziesar",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Amt Ziesar"
+      ],
+      "name": "Amt Ziesar",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 25,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T11:35:25.929Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Ziesar/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Bad Belzig",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Bad Belzig"
+      ],
+      "name": "Bad Belzig",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 20,
+      "amtsblattCount": 157,
+      "updatedAt": "2026-05-06T11:28:42.958Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Bad%20Belzig/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Bad%20Belzig/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Bad%20Belzig/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Beelitz",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Beelitz"
+      ],
+      "name": "Beelitz",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 0,
+      "amtsblattCount": 5,
+      "updatedAt": "2026-05-06T11:35:17.250Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Beelitz/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Beelitz/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Groß Kreutz",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Groß Kreutz"
+      ],
+      "name": "Groß Kreutz",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 31,
+      "newsCount": 0,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T11:35:17.306Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Gro%C3%9F%20Kreutz/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Gro%C3%9F%20Kreutz/news.json",
+      "amtsblattUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Kleinmachnow",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Kleinmachnow"
+      ],
+      "name": "Kleinmachnow",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 0,
+      "amtsblattCount": 60,
+      "updatedAt": "2026-05-06T11:36:01.334Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Kleinmachnow/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Kleinmachnow/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Kleinmachnow/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Kloster Lehnin",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Kloster Lehnin"
+      ],
+      "name": "Kloster Lehnin",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 0,
+      "amtsblattCount": 152,
+      "updatedAt": "2026-05-06T11:35:05.646Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Kloster%20Lehnin/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Kloster%20Lehnin/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Kloster%20Lehnin/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Michendorf",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Michendorf"
+      ],
+      "name": "Michendorf",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 0,
+      "amtsblattCount": 132,
+      "updatedAt": "2026-05-06T11:34:55.804Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Michendorf/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Michendorf/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Michendorf/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Nuthetal",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Nuthetal"
+      ],
+      "name": "Nuthetal",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 20,
+      "amtsblattCount": 222,
+      "updatedAt": "2026-05-06T11:34:54.965Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Nuthetal/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Nuthetal/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Nuthetal/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Schwielowsee",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Schwielowsee"
+      ],
+      "name": "Schwielowsee",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 15,
+      "amtsblattCount": 177,
+      "updatedAt": "2026-05-06T11:35:17.314Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Schwielowsee/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Schwielowsee/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Teltow",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Teltow"
+      ],
+      "name": "Teltow",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 103,
+      "newsCount": 20,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T11:34:49.194Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Teltow/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Teltow/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Teltow/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Treuenbrietzen",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Treuenbrietzen"
+      ],
+      "name": "Treuenbrietzen",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 5,
+      "newsCount": 20,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T11:35:05.304Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Treuenbrietzen/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Treuenbrietzen/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Treuenbrietzen/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Werder (Havel)",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Werder (Havel)"
+      ],
+      "name": "Werder (Havel)",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 881,
+      "amtsblattCount": 0,
+      "updatedAt": "2026-05-06T11:35:31.278Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Werder%20(Havel)/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Werder%20(Havel)/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Werder%20(Havel)/amtsblatt.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Wiesenburg-Mark",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Wiesenburg-Mark"
+      ],
+      "name": "Wiesenburg-Mark",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 10,
+      "amtsblattCount": 188,
+      "updatedAt": "2026-05-06T11:35:07.016Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Wiesenburg-Mark/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Wiesenburg-Mark/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Wiesenburg-Mark/amtsblatt.json",
       "sources": []
     }
   ]

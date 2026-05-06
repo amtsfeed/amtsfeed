@@ -42,3 +42,16 @@ export interface AmtsblattFile {
   updatedAt: string;
   items: AmtsblattItem[];
 }
+
+export interface NoticeItem {
+  id: string;
+  title: string;
+  url: string;           // PDF or HTML URL
+  publishedAt: string;   // ISO 8601
+  fetchedAt: string;     // ISO 8601
+}
+
+export interface NoticesFile {
+  updatedAt: string;
+  items: NoticeItem[];
+}

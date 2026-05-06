@@ -1,7 +1,7 @@
 #!/usr/bin/env tsx
 import { readFileSync, writeFileSync, existsSync, readdirSync, statSync } from "node:fs";
 import { join, resolve } from "node:path";
-import type { EventsFile, NewsFile, AmtsblattFile } from "./types.ts";
+import type { EventsFile, NewsFile, AmtsblattFile, NoticesFile } from "./types.ts";
 
 const WIKI_BASE = resolve(import.meta.dirname, "../wiki");
 const RAW_BASE = "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki";
@@ -21,12 +21,14 @@ export interface FeedEntry {
   eventCount: number;
   newsCount: number;
   amtsblattCount: number;
+  noticeCount: number;
   updatedAt: string | null;
   rssUrl: string | null;
   icalUrl: string | null;
   eventsUrl: string | null;
   newsUrl: string | null;
   amtsblattUrl: string | null;
+  noticesUrl: string | null;
   sources: Source[];
 }
 
@@ -49,11 +51,13 @@ function walkWiki(dir: string, breadcrumb: string[]): FeedEntry[] {
   const hasEvents = existsSync(join(dir, "events.json"));
   const hasNews = existsSync(join(dir, "news.json"));
 
-  if (hasEvents || hasNews) {
+  if (hasEvents || hasNews || existsSync(join(dir, "notices.json"))) {
     const eventsFile = hasEvents ? readJson<EventsFile>(join(dir, "events.json")) : null;
     const newsFile = hasNews ? readJson<NewsFile>(join(dir, "news.json")) : null;
     const hasAmtsblatt = existsSync(join(dir, "amtsblatt.json"));
     const amtsblattFile = hasAmtsblatt ? readJson<AmtsblattFile>(join(dir, "amtsblatt.json")) : null;
+    const hasNotices = existsSync(join(dir, "notices.json"));
+    const noticesFile = hasNotices ? readJson<NoticesFile>(join(dir, "notices.json")) : null;
     const hasRss = existsSync(join(dir, "rss.xml"));
     const hasIcal = existsSync(join(dir, "events.ics"));
     const relPath = dir.slice(WIKI_BASE.length + 1);
@@ -71,12 +75,14 @@ function walkWiki(dir: string, breadcrumb: string[]): FeedEntry[] {
       eventCount: eventsFile?.items.length ?? 0,
       newsCount: newsFile?.items.length ?? 0,
       amtsblattCount: amtsblattFile?.items.length ?? 0,
+      noticeCount: noticesFile?.items.length ?? 0,
       updatedAt,
       rssUrl: hasRss ? `${RAW_BASE}/${encodedPath}/rss.xml` : null,
       icalUrl: hasIcal ? `${RAW_BASE}/${encodedPath}/events.ics` : null,
       eventsUrl: hasEvents ? `${RAW_BASE}/${encodedPath}/events.json` : null,
       newsUrl: hasNews ? `${RAW_BASE}/${encodedPath}/news.json` : null,
       amtsblattUrl: hasAmtsblatt ? `${RAW_BASE}/${encodedPath}/amtsblatt.json` : null,
+      noticesUrl: hasNotices ? `${RAW_BASE}/${encodedPath}/notices.json` : null,
       sources,
     });
   }

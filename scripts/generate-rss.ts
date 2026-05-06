@@ -1,7 +1,7 @@
 #!/usr/bin/env tsx
 import { readFileSync, writeFileSync, existsSync, readdirSync, statSync } from "node:fs";
 import { join, resolve } from "node:path";
-import type { EventsFile, NewsFile, AmtsblattFile, Event, NewsItem, AmtsblattItem } from "./types.ts";
+import type { EventsFile, NewsFile, AmtsblattFile, NoticesFile, Event, NewsItem, AmtsblattItem, NoticeItem } from "./types.ts";
 
 function escapeXml(str: string): string {
   return str
@@ -46,6 +46,16 @@ function amtsblattToItem(a: AmtsblattItem): string {
     </item>`;
 }
 
+function noticeToItem(n: NoticeItem): string {
+  return `    <item>
+      <title>${escapeXml(n.title)}</title>
+      <link>${escapeXml(n.url)}</link>
+      <guid isPermaLink="false">${escapeXml(n.id)}</guid>
+      <pubDate>${new Date(n.publishedAt).toUTCString()}</pubDate>
+      <category>Bekanntmachung</category>
+    </item>`;
+}
+
 function readJson<T>(path: string): T | null {
   if (!existsSync(path)) return null;
   return JSON.parse(readFileSync(path, "utf-8")) as T;
@@ -55,6 +65,7 @@ function generateRss(dir: string): void {
   const eventsFile = readJson<EventsFile>(join(dir, "events.json"));
   const newsFile = readJson<NewsFile>(join(dir, "news.json"));
   const amtsblattFile = readJson<AmtsblattFile>(join(dir, "amtsblatt.json"));
+  const noticesFile = readJson<NoticesFile>(join(dir, "notices.json"));
 
   const allItems: string[] = [];
 
@@ -77,6 +88,13 @@ function generateRss(dir: string): void {
       (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
     );
     allItems.push(...sorted.map(amtsblattToItem));
+  }
+
+  if (noticesFile) {
+    const sorted = [...noticesFile.items].sort(
+      (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+    );
+    allItems.push(...sorted.map(noticeToItem));
   }
 
   const channelTitle = escapeXml(dir.split("/").at(-1) ?? "amtsfeed");
@@ -105,7 +123,7 @@ function findDirsWithData(root: string): string[] {
   for (const entry of readdirSync(root)) {
     const full = join(root, entry);
     if (statSync(full).isDirectory()) {
-      const hasData = ["events.json", "news.json", "amtsblatt.json"].some(
+      const hasData = ["events.json", "news.json", "amtsblatt.json", "notices.json"].some(
         (f) => existsSync(join(full, f))
       );
       if (hasData) results.push(full);

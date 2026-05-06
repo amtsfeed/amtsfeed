@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T11:36:21.253Z",
+  "updatedAt": "2026-05-06T12:05:20.245Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -1190,6 +1190,27 @@
       "sources": []
     },
     {
+      "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Seddiner See",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Potsdam-Mittelmark",
+        "Seddiner See"
+      ],
+      "name": "Seddiner See",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 28,
+      "newsCount": 30,
+      "amtsblattCount": 42,
+      "updatedAt": "2026-05-06T12:05:15.505Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Seddiner%20See/events.json",
+      "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Seddiner%20See/news.json",
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Seddiner%20See/amtsblatt.json",
+      "sources": []
+    },
+    {
       "path": "Brandenburg/Landkreis Potsdam-Mittelmark/Teltow",
       "breadcrumb": [
         "Brandenburg",
@@ -1242,9 +1263,9 @@
       "hasRss": false,
       "hasIcal": false,
       "eventCount": 0,
-      "newsCount": 881,
+      "newsCount": 873,
       "amtsblattCount": 0,
-      "updatedAt": "2026-05-06T11:35:31.278Z",
+      "updatedAt": "2026-05-06T11:41:34.299Z",
       "rssUrl": null,
       "icalUrl": null,
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Werder%20(Havel)/events.json",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T19:41:45.430Z",
+  "updatedAt": "2026-05-06T20:27:14.216Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -14,14 +14,14 @@
       "eventCount": 104,
       "newsCount": 15,
       "amtsblattCount": 28,
-      "noticeCount": 0,
-      "updatedAt": "2026-05-06T19:17:38.493Z",
+      "noticeCount": 47,
+      "updatedAt": "2026-05-06T20:24:28.052Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/amtsblatt.json",
-      "noticesUrl": null,
+      "noticesUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Ahrensfelde/notices.json",
       "sources": []
     },
     {
@@ -198,14 +198,14 @@
       "eventCount": 3,
       "newsCount": 10,
       "amtsblattCount": 10,
-      "noticeCount": 0,
-      "updatedAt": "2026-05-06T14:16:28.349Z",
+      "noticeCount": 15,
+      "updatedAt": "2026-05-06T20:24:39.355Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/amtsblatt.json",
-      "noticesUrl": null,
+      "noticesUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Barnim/Werneuchen/notices.json",
       "sources": [
         {
           "type": "rss",
@@ -273,14 +273,14 @@
       "eventCount": 18,
       "newsCount": 20,
       "amtsblattCount": 207,
-      "noticeCount": 0,
-      "updatedAt": "2026-05-06T05:31:13.018Z",
+      "noticeCount": 20,
+      "updatedAt": "2026-05-06T20:26:55.407Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Falkenberg-H%C3%B6he/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Falkenberg-H%C3%B6he/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Falkenberg-H%C3%B6he/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Falkenberg-H%C3%B6he/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Falkenberg-H%C3%B6he/amtsblatt.json",
-      "noticesUrl": null,
+      "noticesUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Amt%20Falkenberg-H%C3%B6he/notices.json",
       "sources": []
     },
     {
@@ -386,16 +386,16 @@
       "hasRss": true,
       "hasIcal": true,
       "eventCount": 77,
-      "newsCount": 8,
+      "newsCount": 9,
       "amtsblattCount": 182,
-      "noticeCount": 0,
-      "updatedAt": "2026-05-06T05:31:02.724Z",
+      "noticeCount": 5,
+      "updatedAt": "2026-05-06T20:24:52.277Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/amtsblatt.json",
-      "noticesUrl": null,
+      "noticesUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20M%C3%A4rkisch-Oderland/Fredersdorf-Vogelsdorf/notices.json",
       "sources": []
     },
     {
@@ -1750,15 +1750,15 @@
       "hasIcal": true,
       "eventCount": 80,
       "newsCount": 10,
-      "amtsblattCount": 188,
-      "noticeCount": 0,
-      "updatedAt": "2026-05-06T12:30:11.200Z",
+      "amtsblattCount": 189,
+      "noticeCount": 105,
+      "updatedAt": "2026-05-06T20:24:33.445Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Wiesenburg-Mark/rss.xml",
       "icalUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Wiesenburg-Mark/events.ics",
       "eventsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Wiesenburg-Mark/events.json",
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Wiesenburg-Mark/news.json",
       "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Wiesenburg-Mark/amtsblatt.json",
-      "noticesUrl": null,
+      "noticesUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Wiesenburg-Mark/notices.json",
       "sources": []
     }
   ]

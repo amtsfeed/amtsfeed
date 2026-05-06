@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, EventsFile, Event, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, EventsFile, Event, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.werneuchen-barnim.de";
 const RSS_URL = `${BASE_URL}/portal/rss.xml`;
 const AMTSBLATT_URL = `${BASE_URL}/portal/seiten/amtsblatt-stadt-werneuchen-900000022-30690.html`;
+const NOTICES_URL = `${BASE_URL}/stadtverwaltung/oeffentliche-bekanntmachungen/`;
 const KOMMUNE_ID = "30690";
 const DIR = dirname(fileURLToPath(import.meta.url));
 
@@ -168,6 +169,50 @@ function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): A
   return [...byId.values()].sort((a, b) => b.id.localeCompare(a.id));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// NOLIS CMS nolis-list-item variant:
+// <p class="nolis-list-date">DD.MM.YYYY</p>
+// <h4 itemprop="name"><a href="URL">TITLE</a></h4>
+// ID: numeric part from URL pattern (\d{6,})-30690
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const blocks = html.split('class="nolis-list-item ').filter((b) => b.includes("nolis-list-date"));
+
+  for (const block of blocks) {
+    const dateMatch = block.match(/<p class="nolis-list-date">(\d{2})\.(\d{2})\.(\d{4})<\/p>/);
+    const titleMatch = block.match(/<h4[^>]*>\s*<a[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/i);
+    if (!titleMatch) continue;
+
+    const url = titleMatch[1]!.startsWith("http") ? titleMatch[1]! : `${BASE_URL}${titleMatch[1]!}`;
+    const title = decodeHtmlEntities((titleMatch[2] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    const idMatch = url.match(/(\d{6,})-30690/);
+    const id = idMatch ? `werneuchen-notice-${idMatch[1]!}` : `werneuchen-notice-${encodeURIComponent(title).slice(0, 60)}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    let publishedAt = new Date().toISOString();
+    if (dateMatch) {
+      publishedAt = `${dateMatch[3]}-${dateMatch[2]}-${dateMatch[1]}T00:00:00.000Z`;
+    }
+
+    items.push({ id, title, url, publishedAt, fetchedAt: now });
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 const NEWS_LIMIT = 50;
@@ -215,7 +260,7 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/portal/rss.xml", "/veranstaltungen/veranstaltungen.ical", "/portal/seiten/"]);
+assertAllowed(robots, ["/portal/rss.xml", "/veranstaltungen/veranstaltungen.ical", "/portal/seiten/", "/stadtverwaltung/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
 
@@ -225,7 +270,7 @@ nextYear.setFullYear(nextYear.getFullYear() + 1);
 const fmt = (d: Date) => `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, "0")}${String(d.getDate()).padStart(2, "0")}`;
 const eventsIcalUrl = `${BASE_URL}/veranstaltungen/veranstaltungen.ical?selected_kommune=${KOMMUNE_ID}&intern=0&beginn=${fmt(today)}000000&ende=${fmt(nextYear)}235959`;
 
-const [rssXml, eventsIcal, amtsblattHtml] = await Promise.all([
+const [rssXml, eventsIcal, amtsblattHtml, noticesHtml] = await Promise.all([
   fetch(RSS_URL, { headers }).then((r) => {
     if (!r.ok) throw new Error(`HTTP ${r.status} ${RSS_URL}`);
     return r.text();
@@ -235,6 +280,7 @@ const [rssXml, eventsIcal, amtsblattHtml] = await Promise.all([
     return r.text();
   }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const now = new Date().toISOString();
@@ -261,3 +307,9 @@ const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: ""
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt } satisfies AmtsblattFile, null, 2));
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+
+const noticesPath = join(DIR, "notices.json");
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices } satisfies NoticesFile, null, 2));
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

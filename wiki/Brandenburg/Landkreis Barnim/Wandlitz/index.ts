@@ -138,15 +138,16 @@ function extractNews(html: string): NewsItem[] {
 function extractAmtsblatt(html: string, listingUrl: string, idPrefix: string): AmtsblattItem[] {
   const items: AmtsblattItem[] = [];
   const now = new Date().toISOString();
-  const rx = /<td>Nr\.\s*(\d+)\/(\d{4})<\/td>\s*<td>([\d.&#;]+)<\/td>/g;
-  let m: RegExpExecArray | null;
-  while ((m = rx.exec(html)) !== null) {
-    const num = m[1]!.padStart(2, "0");
-    const year = m[2]!;
-    const dateStr = m[3]!.replace(/&#\d+;/g, "");
-    const dateParts = dateStr.match(/^(\d{2})\.(\d{2})\.(\d{4})$/);
-    if (!dateParts) continue;
-    const publishedAt = `${dateParts[3]}-${dateParts[2]}-${dateParts[1]}T00:00:00.000Z`;
+  // Newer PortUNA layout: <h3>Ausgabe Nr. NN/YYYY</h3> + <time datetime="YYYY-MM-DD">
+  const blocks = html.split(/<article\s[^>]*class="gazette-tab/).filter((_, i) => i > 0);
+  for (const block of blocks) {
+    const numMatch = block.match(/<h3[^>]*>Ausgabe Nr\.\s*(\d+)\/(\d{4})<\/h3>/);
+    if (!numMatch) continue;
+    const num = numMatch[1]!.padStart(2, "0");
+    const year = numMatch[2]!;
+    const dateMatch = block.match(/<time\s+datetime="(\d{4}-\d{2}-\d{2})"/);
+    if (!dateMatch) continue;
+    const publishedAt = `${dateMatch[1]}T00:00:00.000Z`;
     items.push({
       id: `${idPrefix}-amtsblatt-${year}-${num}`,
       title: `Amtsblatt Nr. ${num}/${year}`,

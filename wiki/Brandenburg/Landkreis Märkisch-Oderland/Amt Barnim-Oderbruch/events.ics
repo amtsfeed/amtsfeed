@@ -8,8 +8,8 @@ X-WR-CALDESC:Amtliche Veranstaltungen für Amt Barnim-Oderbruch
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:das-theaterschiff-jan-martha@amtsfeed.de
-DTSTAMP:20260505T150430Z
-DTSTART:20260505T150430Z
+DTSTAMP:20260506T053111Z
+DTSTART:20260506T053111Z
 SUMMARY:Das Theaterschiff Jan & Martha
 URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/das-
  theaterschiff-jan-martha
@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausscheid-der-freiwilligen-feuer-und-jugendwehren-des-amtes-barnim-od
  erbruch@amtsfeed.de
-DTSTAMP:20260505T150430Z
+DTSTAMP:20260506T053111Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:Ausscheid der Freiwilligen Feuer- und Jugendwehren des Amtes Barn
@@ -30,7 +30,7 @@ DESCRIPTION:Besucher und Zaungäste sind herzlich willkommen!\nSchauen&he
 END:VEVENT
 BEGIN:VEVENT
 UID:rassehunde-ausstellung-am-09052026-in-moeglin@amtsfeed.de
-DTSTAMP:20260505T150430Z
+DTSTAMP:20260506T053111Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:Rassehunde-Ausstellung am 09.05.2026 in Möglin
@@ -41,7 +41,7 @@ DESCRIPTION:Am 09. Mai 2026 von 9 - 16 Uhr findet die internationale&hell
 END:VEVENT
 BEGIN:VEVENT
 UID:laengste-kaffeetafel-im-oderbruch@amtsfeed.de
-DTSTAMP:20260505T150430Z
+DTSTAMP:20260506T053111Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:Längste Kaffeetafel im Oderbruch

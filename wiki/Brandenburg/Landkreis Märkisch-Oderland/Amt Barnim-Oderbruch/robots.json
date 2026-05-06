@@ -2,7 +2,7 @@
   {
     "domain": "www.barnim-oderbruch.de",
     "baseUrl": "https://www.barnim-oderbruch.de",
-    "updatedAt": "2026-05-05T15:04:30.065Z",
+    "updatedAt": "2026-05-06T20:21:06.821Z",
     "content": "# We do not distinguish between the browsers.\r\nUser-agent: *\r\n\r\nDisallow: /*?id=*\r\nDisallow: /*&id=*\r\n\r\nDisallow: /*?L=0*\r\nDisallow: /*&L=0*\r\n\r\nDisallow: /*/Private/*\r\nDisallow: /*/Configuration/*\r\n\r\nDisallow: /typo3temp/var/*\r\n\r\nDisallow: /typo3/\r\n\r\nDisallow: *.sql\r\nDisallow: *.sql.gz\r\n\r\nSitemap: https://www.barnim-oderbruch.de/sitemap.xml"
   }
 ]

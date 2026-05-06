@@ -2,13 +2,14 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, EventsFile, Event, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, EventsFile, Event, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.hennigsdorf.de";
 const NEWS_URL = `${BASE_URL}/Rathaus/Aktuelles/`;
 const EVENTS_URL = `${BASE_URL}/Stadtleben/Veranstaltungen/`;
 const AMTSBLATT_URL = `${BASE_URL}/Rathaus/Verwaltung/Amtliche-Bekanntmachungen/`;
+const NOTICES_URL = AMTSBLATT_URL;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -155,6 +156,59 @@ function extractAmtsblatt(html: string): AmtsblattItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// IKISS accordion on Amtliche Bekanntmachungen page:
+// <h2 class="accordion-title" id="..."><time datetime="">TITLE</time></h2>
+// <div class="accordion-container" data-ikiss-mfid="7.3590.NNNNN.1">
+//   (PDF links inside)
+// Amtsblätter sections have "Toggler---ÖB-Amtsblätter" in the id — skip those.
+// ID: numeric part of data-ikiss-mfid.
+// URL: first PDF link in the accordion-container, or NOTICES_URL as fallback.
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  // Split on accordion-title to get each notice block
+  const chunks = html.split(/(?=<h2\s+class="accordion-title")/)
+    .filter((c) => c.includes('class="accordion-title"'));
+
+  for (const chunk of chunks) {
+    // Skip Amtsblätter toggle sections (they have "Toggler---" in id)
+    const idAttrMatch = chunk.match(/<h2\s+class="accordion-title"\s+id="([^"]*)"/);
+    if (idAttrMatch && idAttrMatch[1]!.includes("Toggler---")) continue;
+
+    // Extract mfid from following accordion-container
+    const mfidMatch = chunk.match(/data-ikiss-mfid="7\.3590\.(\d+)\.1"/);
+    if (!mfidMatch) continue;
+    const mfid = mfidMatch[1]!;
+    const id = `hennigsdorf-notice-${mfid}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    // Title: text inside <time> tag
+    const timeMatch = chunk.match(/<time[^>]*>([\s\S]*?)<\/time>/);
+    const title = decodeHtmlEntities((timeMatch?.[1] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    // URL: first PDF csslink in the container
+    const pdfMatch = chunk.match(/<a\s+href="(\/media\/custom\/[^"]+\.PDF[^"]*)"[^>]*class="csslink_PDF/i);
+    const url = pdfMatch ? `${BASE_URL}${pdfMatch[1]!.split("?")[0]!}` : NOTICES_URL;
+
+    // publishedAt: not available in HTML, use fetchedAt date as placeholder
+    items.push({ id, title, url, publishedAt: now, fetchedAt: now });
+  }
+
+  return items;
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt, publishedAt: byId.get(n.id)?.publishedAt ?? n.publishedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
   const byId = new Map(existing.map((n) => [n.id, n]));
   for (const n of incoming) {
@@ -210,3 +264,9 @@ const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: ""
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+
+const noticesPath = join(DIR, "notices.json");
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(amtsblattHtml));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

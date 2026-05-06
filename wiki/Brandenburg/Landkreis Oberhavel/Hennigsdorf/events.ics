@@ -8,7 +8,7 @@ X-WR-CALDESC:Amtliche Veranstaltungen für Hennigsdorf
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:hennigsdorf-event-820@amtsfeed.de
-DTSTAMP:20260506T180008Z
+DTSTAMP:20260506T202058Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20261004
 SUMMARY:Ausstellung im Grenzturm
@@ -20,7 +20,7 @@ LOCATION:Grenzturm | Nieder Neuendorf
 END:VEVENT
 BEGIN:VEVENT
 UID:hennigsdorf-event-812@amtsfeed.de
-DTSTAMP:20260506T180008Z
+DTSTAMP:20260506T202058Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260522
 SUMMARY:Tiere und Natur 2.0 - Eine künstlerische Entdeckungsreise
@@ -31,7 +31,7 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tiere-und-Natur
 END:VEVENT
 BEGIN:VEVENT
 UID:hennigsdorf-event-739@amtsfeed.de
-DTSTAMP:20260506T180008Z
+DTSTAMP:20260506T202058Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:Tanztee 2026
@@ -42,7 +42,7 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tanztee-2026.ph
 END:VEVENT
 BEGIN:VEVENT
 UID:hennigsdorf-event-787@amtsfeed.de
-DTSTAMP:20260506T180008Z
+DTSTAMP:20260506T202058Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Fackelumzug und Kranzniederlegung | Feuerwehr Hennigsdorf
@@ -53,7 +53,7 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Fackelumzug-und
 END:VEVENT
 BEGIN:VEVENT
 UID:hennigsdorf-event-788@amtsfeed.de
-DTSTAMP:20260506T180008Z
+DTSTAMP:20260506T202058Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:Feuerwehr Hennigsdorf  Tag der offenen Tür
@@ -64,7 +64,7 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Feuerwehr-Henni
 END:VEVENT
 BEGIN:VEVENT
 UID:hennigsdorf-event-804@amtsfeed.de
-DTSTAMP:20260506T180008Z
+DTSTAMP:20260506T202058Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:+++Ausverkauft+++ Erlebnistour Kräuterwanderung
@@ -75,7 +75,7 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/-Ausverkauft-Er
 END:VEVENT
 BEGIN:VEVENT
 UID:hennigsdorf-event-835@amtsfeed.de
-DTSTAMP:20260506T180008Z
+DTSTAMP:20260506T202058Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:Tag der Städtebauförderung
@@ -86,7 +86,7 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tag-der-St%C3%A
 END:VEVENT
 BEGIN:VEVENT
 UID:hennigsdorf-event-785@amtsfeed.de
-DTSTAMP:20260506T180008Z
+DTSTAMP:20260506T202058Z
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
 SUMMARY:Bilderbuchkino für Familien

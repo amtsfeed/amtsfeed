@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:00:50.477Z",
+  "updatedAt": "2026-05-06T20:21:02.591Z",
   "items": [
     {
       "id": "artikel-salsa_cubana_fuer_weit_fortgeschrittene",
@@ -29,55 +29,11 @@
       "updatedAt": "2026-05-05T17:22:15.321Z"
     },
     {
-      "id": "artikel-bernauer_stadtradeln_2026",
-      "title": "Bernauer Stadtradeln 2026",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-bernauer_stadtradeln_2026-2026-05-06.html",
-      "startDate": "2026-05-06T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-05-05T21:00:50.476Z"
-    },
-    {
-      "id": "artikel-museum_im_henkerhaus",
-      "title": "Museum im Henkerhaus",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-museum_im_henkerhaus-2026-05-06.html",
-      "startDate": "2026-05-06T09:00:00.000Z",
-      "location": "Museum im Henkerhaus",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-05-05T21:00:50.476Z"
-    },
-    {
       "id": "artikel-spielerunde_in_geselligkeit",
       "title": "Spielerunde in Geselligkeit",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-spielerunde_in_geselligkeit-2026-05-06.html",
       "startDate": "2026-05-06T09:30:00.000Z",
       "location": "Aufwind - Begegnung und Beratung",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-05-05T21:00:50.476Z"
-    },
-    {
-      "id": "artikel-atelier-ausstellung_naturtraeume",
-      "title": "Atelier-Ausstellung „Naturträume\"",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-atelier-ausstellung_naturtraeume-2026-05-06.html",
-      "startDate": "2026-05-06T10:00:00.000Z",
-      "location": "Atelier der Galerie Bernau",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-05-05T21:00:50.476Z"
-    },
-    {
-      "id": "artikel-dauerausstellung_im_besucherzentrum_bernau",
-      "title": "Dauerausstellung im Besucherzentrum Bernau",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-dauerausstellung_im_besucherzentrum_bernau-2026-05-06.html",
-      "startDate": "2026-05-06T10:00:00.000Z",
-      "location": "UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-05-05T21:00:50.476Z"
-    },
-    {
-      "id": "artikel-ausstellung_eine_aeusserst_subjektive_version_der_geschichte",
-      "title": "Ausstellung „Eine äußerst subjektive Version der Geschichte\"",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ausstellung_eine_aeusserst_subjektive_version_der_geschichte-2026-05-06.html",
-      "startDate": "2026-05-06T10:00:00.000Z",
-      "location": "Galerie Bernau",
       "fetchedAt": "2026-05-05T17:21:19.746Z",
       "updatedAt": "2026-05-05T21:00:50.476Z"
     },
@@ -150,15 +106,6 @@
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischluft-2026-05-06.html",
       "startDate": "2026-05-06T15:00:00.000Z",
       "location": "Jugend- und Stadtteilzentrum Frischluft",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-05-05T21:00:50.476Z"
-    },
-    {
-      "id": "artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum",
-      "title": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-05-06.html",
-      "startDate": "2026-05-06T15:00:00.000Z",
-      "location": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
       "fetchedAt": "2026-05-05T17:21:19.746Z",
       "updatedAt": "2026-05-05T21:00:50.476Z"
     },
@@ -296,6 +243,257 @@
       "location": "Galerie im Hühnerstall",
       "fetchedAt": "2026-05-05T17:21:19.746Z",
       "updatedAt": "2026-05-05T21:00:50.476Z"
+    },
+    {
+      "id": "artikel-bernauer_stadtradeln_2026",
+      "title": "Bernauer Stadtradeln 2026",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-bernauer_stadtradeln_2026-2026-05-07.html",
+      "startDate": "2026-05-07T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-museum_im_henkerhaus",
+      "title": "Museum im Henkerhaus",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-museum_im_henkerhaus-2026-05-07.html",
+      "startDate": "2026-05-07T09:00:00.000Z",
+      "location": "Museum im Henkerhaus",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-migrations-lerntreff_deutsch_lesen_und_schreiben",
+      "title": "Migrations-Lerntreff: Deutsch lesen und schreiben",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-migrations-lerntreff_deutsch_lesen_und_schreiben-2026-05-07.html",
+      "startDate": "2026-05-07T09:30:00.000Z",
+      "location": "Grundbildungszentrum Barnim",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-atelier-ausstellung_naturtraeume",
+      "title": "Atelier-Ausstellung „Naturträume\"",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-atelier-ausstellung_naturtraeume-2026-05-07.html",
+      "startDate": "2026-05-07T10:00:00.000Z",
+      "location": "Atelier der Galerie Bernau",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-dauerausstellung_im_besucherzentrum_bernau",
+      "title": "Dauerausstellung im Besucherzentrum Bernau",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-dauerausstellung_im_besucherzentrum_bernau-2026-05-07.html",
+      "startDate": "2026-05-07T10:00:00.000Z",
+      "location": "UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-ausstellung_eine_aeusserst_subjektive_version_der_geschichte",
+      "title": "Ausstellung „Eine äußerst subjektive Version der Geschichte\"",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ausstellung_eine_aeusserst_subjektive_version_der_geschichte-2026-05-07.html",
+      "startDate": "2026-05-07T10:00:00.000Z",
+      "location": "Galerie Bernau",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-elternzeitcaf",
+      "title": "ElternZeitCafè",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-elternzeitcaf-2026-05-07.html",
+      "startDate": "2026-05-07T10:00:00.000Z",
+      "location": "Netzwerk Gesunde Kinder Barnim Süd",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-frakimas_malerei_am_vormittag",
+      "title": "FRAKIMAs Malerei | am Vormittag",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_malerei_am_vormittag-2026-05-07.html",
+      "startDate": "2026-05-07T10:00:00.000Z",
+      "location": "FRAKIMA-Werkstatt",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-froehlich_sein_und_knobeln",
+      "title": "Fröhlich sein und knobeln",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-froehlich_sein_und_knobeln-2026-05-07.html",
+      "startDate": "2026-05-07T10:00:00.000Z",
+      "location": "Gemeindezentrum Schönow",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-offene_sprechstunde_schuldner-_und_insolvenzberatungsstelle",
+      "title": "Offene Sprechstunde: Schuldner- und Insolvenzberatungsstelle",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-offene_sprechstunde_schuldner-_und_insolvenzberatungsstelle-2026-05-07.html",
+      "startDate": "2026-05-07T10:00:00.000Z",
+      "location": "AWO Quartier „Am Weinberg\"",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-sprechtag_fuer_geldstrafenschuldner_-innen",
+      "title": "Sprechtag für Geldstrafenschuldner/-innen",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-sprechtag_fuer_geldstrafenschuldner_-innen-2026-05-07.html",
+      "startDate": "2026-05-07T10:00:00.000Z",
+      "location": "Stadtbibliothek Bernau bei Berlin",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-tanz_mit_beckenboden",
+      "title": "Tanz mit Beckenboden",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-tanz_mit_beckenboden-2026-05-07.html",
+      "startDate": "2026-05-07T10:00:00.000Z",
+      "location": "Eastside fun Crew",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-yoga_zur_rueckbildung_staerkung_beckenboden",
+      "title": "Yoga zur Rückbildung & Stärkung Beckenboden",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-yoga_zur_rueckbildung_staerkung_beckenboden-2026-05-07.html",
+      "startDate": "2026-05-07T11:30:00.000Z",
+      "location": "Zentrum Wohlklang",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-bingo_in_der_volkssolidaritaet",
+      "title": "Bingo in der Volkssolidarität",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-bingo_in_der_volkssolidaritaet-2026-05-07.html",
+      "startDate": "2026-05-07T14:00:00.000Z",
+      "location": "Begegnungszentrum Bernau – Einrichtung des Landesverbandes der Volkssolidarität e.V.",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum",
+      "title": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-05-07.html",
+      "startDate": "2026-05-07T15:00:00.000Z",
+      "location": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-frakimas_filzwerkstatt_mit_magdalena_hohberg",
+      "title": "FRAKIMAs Filzwerkstatt mit Magdalena Hohberg",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_filzwerkstatt_mit_magdalena_hohberg-2026-05-07.html",
+      "startDate": "2026-05-07T15:30:00.000Z",
+      "location": "FRAKIMA-Werkstatt",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-frakimas_keramikkurs_fuer_erwachsene_am_donnerstagnachmittag",
+      "title": "FRAKIMAs Keramikkurs | für Erwachsene am Donnerstagnachmittag",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_keramikkurs_fuer_erwachsene_am_donnerstagnachmittag-2026-05-07.html",
+      "startDate": "2026-05-07T15:30:00.000Z",
+      "location": "FRAKIMA-Werkstatt",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-vegane_weltreise_veganes_und_glutenfreies_spanien",
+      "title": "Vegane Weltreise: Veganes und glutenfreies Spanien",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-vegane_weltreise_veganes_und_glutenfreies_spanien-2026-05-07.html",
+      "startDate": "2026-05-07T17:00:00.000Z",
+      "location": "Schule im Nibelungenviertel",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-vinyasa_yin_yoga_kurse_im_wohlklang_zentrum",
+      "title": "Vinyasa & Yin Yoga Kurse im Wohlklang Zentrum",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-vinyasa_yin_yoga_kurse_im_wohlklang_zentrum-2026-05-07.html",
+      "startDate": "2026-05-07T17:00:00.000Z",
+      "location": "Wohlklang Zentrum",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-werden_sie_ehrenamtlicher_pflegelotse_in_ihrer_nachbarschaft",
+      "title": "Werden Sie ehrenamtlicher Pflegelotse in Ihrer Nachbarschaft!",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-werden_sie_ehrenamtlicher_pflegelotse_in_ihrer_nachbarschaft-2026-05-07.html",
+      "startDate": "2026-05-07T17:00:00.000Z",
+      "location": "Aufwind vor Ort",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-frakimas_filzwerkstatt_mit_magdalena_hohberg_am_abend",
+      "title": "FRAKIMAs Filzwerkstatt mit Magdalena Hohberg | am Abend",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_filzwerkstatt_mit_magdalena_hohberg_am_abend-2026-05-07.html",
+      "startDate": "2026-05-07T17:30:00.000Z",
+      "location": "FRAKIMA-Werkstatt",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-achtsamkeitskurs_-_raus_aus_dem_kopf_mit_mehr_achtsamkeit_zu_mehr_frieden_und_leichtigkeit_in_dir",
+      "title": "Achtsamkeitskurs - Raus aus dem Kopf – mit mehr Achtsamkeit zu mehr Frieden und Leichtigkeit in dir",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-achtsamkeitskurs_-_raus_aus_dem_kopf_mit_mehr_achtsamkeit_zu_mehr_frieden_und_leichtigkeit_in_dir-2026-05-07.html",
+      "startDate": "2026-05-07T18:00:00.000Z",
+      "location": "Praxis Wohlklang",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-frakimas_keramikkurs_fuer_erwachsene_am_donnerstagabend",
+      "title": "FRAKIMAs Keramikkurs | für Erwachsene am Donnerstagabend",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_keramikkurs_fuer_erwachsene_am_donnerstagabend-2026-05-07.html",
+      "startDate": "2026-05-07T18:00:00.000Z",
+      "location": "FRAKIMA-Werkstatt",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-findhorntanz",
+      "title": "Findhorntanz",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-findhorntanz-2026-05-08.html",
+      "startDate": "2026-05-08T14:00:00.000Z",
+      "location": "AWO-Treff",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-thematische_stadtfuehrung_genusstour_-_kulinarik_trifft_stadtgeschichte",
+      "title": "Thematische Stadtführung – Genusstour - Kulinarik trifft Stadtgeschichte",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-thematische_stadtfuehrung_genusstour_-_kulinarik_trifft_stadtgeschichte-2026-05-08.html",
+      "startDate": "2026-05-08T16:00:00.000Z",
+      "location": "Tourist-Information Bernau",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-reparatur_caf",
+      "title": "Reparatur Café",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-reparatur_caf-2026-05-08.html",
+      "startDate": "2026-05-08T17:00:00.000Z",
+      "location": "Stadtmauertreff — 1. Raum",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-emerita_pansowova_-_eroeffnung_zur_ausstellung_ausgewaehlter_werke_anlaesslich_des_80_geburtstages_der_bildhauerin",
+      "title": "Emerita Pansowová - Eröffnung zur Ausstellung ausgewählter Werke anlässlich des 80. Geburtstages der Bildhauerin",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-emerita_pansowova_-_eroeffnung_zur_ausstellung_ausgewaehlter_werke_anlaesslich_des_80_geburtstages_der_bildhauerin-2026-05-08.html",
+      "startDate": "2026-05-08T18:00:00.000Z",
+      "location": "Bernauer Innenstadt",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
+    },
+    {
+      "id": "artikel-neues_spiel_-_neues_glueck",
+      "title": "Neues Spiel - neues Glück",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-neues_spiel_-_neues_glueck-2026-05-08.html",
+      "startDate": "2026-05-08T19:30:00.000Z",
+      "location": "Kirche Lobetal",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-05-06T20:21:02.587Z"
     }
   ]
 }

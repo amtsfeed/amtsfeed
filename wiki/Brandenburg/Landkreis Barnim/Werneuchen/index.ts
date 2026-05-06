@@ -2,11 +2,12 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, EventsFile, Event } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, EventsFile, Event, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.werneuchen-barnim.de";
 const RSS_URL = `${BASE_URL}/portal/rss.xml`;
+const AMTSBLATT_URL = `${BASE_URL}/portal/seiten/amtsblatt-stadt-werneuchen-900000022-30690.html`;
 const KOMMUNE_ID = "30690";
 const DIR = dirname(fileURLToPath(import.meta.url));
 
@@ -128,6 +129,45 @@ function extractNews(xml: string): NewsItem[] {
   return items;
 }
 
+// ── Amtsblatt ─────────────────────────────────────────────────────────────────
+// NOLIS: /portal/seiten/amtsblatt-stadt-werneuchen-900000022-30690.html
+// Links: href=".../downloads/datei/TOKEN" with filename like "Amtsblatt26-04.pdf"
+// Year in filename = 2-digit (26 → 2026), month = 2-digit
+
+function extractAmtsblatt(html: string): AmtsblattItem[] {
+  const items: AmtsblattItem[] = [];
+  const now = new Date().toISOString();
+
+  const rx = /<a[^>]+href="([^"]+\/downloads\/datei\/[^"]+)"[^>]*>([\s\S]*?)<\/a>/gi;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const url = m[1]!.startsWith("http") ? m[1]! : `${BASE_URL}${m[1]!}`;
+    const rawText = decodeHtmlEntities((m[2] ?? "").replace(/<[^>]+>/g, " ").trim());
+    if (!rawText.toLowerCase().includes("amtsblatt")) continue;
+
+    // Match filename like "Amtsblatt26-04.pdf" in URL or link text
+    const fnMatch = url.match(/Amtsblatt(\d{2})-(\d{2})\.pdf/i) ?? rawText.match(/Amtsblatt(\d{2})-(\d{2})\.pdf/i);
+    if (!fnMatch) continue;
+    const year = `20${fnMatch[1]!}`;
+    const month = fnMatch[2]!;
+
+    items.push({
+      id: `werneuchen-amtsblatt-${year}-${month}`,
+      title: `Amtsblatt ${year}-${month}`,
+      url,
+      publishedAt: `${year}-${month}-01T00:00:00.000Z`,
+      fetchedAt: now,
+    });
+  }
+  return items.sort((a, b) => b.id.localeCompare(a.id));
+}
+
+function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.id.localeCompare(a.id));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 const NEWS_LIMIT = 50;
@@ -175,7 +215,7 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/portal/rss.xml", "/veranstaltungen/veranstaltungen.ical"]);
+assertAllowed(robots, ["/portal/rss.xml", "/veranstaltungen/veranstaltungen.ical", "/portal/seiten/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
 
@@ -185,7 +225,7 @@ nextYear.setFullYear(nextYear.getFullYear() + 1);
 const fmt = (d: Date) => `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, "0")}${String(d.getDate()).padStart(2, "0")}`;
 const eventsIcalUrl = `${BASE_URL}/veranstaltungen/veranstaltungen.ical?selected_kommune=${KOMMUNE_ID}&intern=0&beginn=${fmt(today)}000000&ende=${fmt(nextYear)}235959`;
 
-const [rssXml, eventsIcal] = await Promise.all([
+const [rssXml, eventsIcal, amtsblattHtml] = await Promise.all([
   fetch(RSS_URL, { headers }).then((r) => {
     if (!r.ok) throw new Error(`HTTP ${r.status} ${RSS_URL}`);
     return r.text();
@@ -194,6 +234,7 @@ const [rssXml, eventsIcal] = await Promise.all([
     if (!r.ok) throw new Error(`HTTP ${r.status} ${eventsIcalUrl}`);
     return r.text();
   }),
+  fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const now = new Date().toISOString();
@@ -202,7 +243,7 @@ const newsPath = join(DIR, "news.json");
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const mergedNews = mergeNews(existingNews.items, extractNews(rssXml));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews } satisfies NewsFile, null, 2));
-console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
+console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
 
 const incomingEvents = extractEvents(eventsIcal);
 if (incomingEvents.length > 0) {
@@ -210,7 +251,13 @@ if (incomingEvents.length > 0) {
   const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
   const mergedEvents = mergeEvents(existingEvents.items, incomingEvents);
   writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents } satisfies EventsFile, null, 2));
-  console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
+  console.log(`events:    ${mergedEvents.length} Einträge → ${eventsPath}`);
 } else {
-  console.log("events: 0 Einträge – keine events.json geschrieben");
+  console.log("events:    0 Einträge – keine events.json geschrieben");
 }
+
+const amtsblattPath = join(DIR, "amtsblatt.json");
+const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
+writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt } satisfies AmtsblattFile, null, 2));
+console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

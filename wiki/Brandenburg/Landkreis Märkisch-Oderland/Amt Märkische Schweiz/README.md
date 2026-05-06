@@ -5,10 +5,11 @@ Quelle: https://www.amt-maerkische-schweiz.de
 
 ## Quellen
 
-| Typ    | URL                                                                                          |
-|--------|----------------------------------------------------------------------------------------------|
-| Events | https://www.amt-maerkische-schweiz.de/tourismus/veranstaltungen/                            |
-| News   | https://www.amt-maerkische-schweiz.de/portal/meldungen/uebersicht-0-34490.html?titel=Aktuelle+Meldungen |
+| Typ       | URL                                                                                          |
+|-----------|----------------------------------------------------------------------------------------------|
+| Events    | https://www.amt-maerkische-schweiz.de/tourismus/veranstaltungen/                            |
+| News      | https://www.amt-maerkische-schweiz.de/portal/meldungen/uebersicht-0-34490.html?titel=Aktuelle+Meldungen |
+| Amtsblatt | https://www.amt-maerkische-schweiz.de/verwaltung/amtsblatt/amtsblatt-{YEAR}/ (aktuell + Vorjahr) |
 
 ## Beispiele (Stand Einrichtung 2026-05-05)
 
@@ -26,10 +27,15 @@ Quelle: https://www.amt-maerkische-schweiz.de
 > 28.04.2026 – Infoabende in Buckow (Märkische Schweiz) für ein zukunftssicheres Zuhause  
 > https://www.amt-maerkische-schweiz.de/portal/meldungen/infoabende-in-buckow-maerkische-schweiz-fuer-ein-zukunftssicheres-zuhause-900000716-34490.html?rubrik=900000001
 
-## Datenqualität (Stand 2026-05-05)
+**Amtsblatt:**
+> Amtsblatt Mai 2026 — Erscheinungsdatum 30.04.2026  
+> https://www.amt-maerkische-schweiz.de/downloads/datei/...
 
-- **Events:** 368 Einträge, davon 273 mit Uhrzeit. Event-Zeitraum: 2026-05-05 – 2026-09-30.
-- **News:** 14 Einträge auf Seite 1 (96 gesamt im Archiv). Alle haben `publishedAt` (Datum immer sichtbar).
+## Datenqualität (Stand 2026-05-06)
+
+- **Events:** 377 Einträge. Event-Zeitraum: 2026-05-05 – 2026-09-30.
+- **News:** 14 Einträge auf Seite 1 (96 gesamt im Archiv). Alle haben `publishedAt`.
+- **Amtsblatt:** 16 Einträge (aktuell + Vorjahr). Titel: "Amtsblatt {Monat} {Jahr}"; `publishedAt` = Erscheinungsdatum.
 - Laufende Ausstellungen haben kein explizites Startdatum im Listing — Enddatum wird als `startDate` verwendet.
 - News-Pagination: 15 pro Seite — aktuell nur Seite 1 abgerufen.
 
@@ -39,6 +45,9 @@ Quelle: https://www.amt-maerkische-schweiz.de
 - Events: ID aus `<a name="terminanker_ID">`, Datum aus `<span class="manager_untertitel">` (kann HTML-Entities + nested `span_enduhrzeit` enthalten)
 - Events-Detailseite hat kein Datum im URL-Pfad (anders als PortUNA) → Datum nur aus Listing
 - News: nur erste Seite (15 Einträge); Seite 2+ via `?p0=N` — Erweiterung auf mehrere Seiten möglich
+- Amtsblatt: Jahresseiten `/verwaltung/amtsblatt/amtsblatt-{YEAR}/` — `<a class="link_dokument nolis-link-intern">` mit NOLIS `/downloads/datei/BASE64TOKEN` Links
+- Amtsblatt-Titelformat: "Amtsblatt {Monatsname} {Jahr} (Erscheinungsdatum DD.MM.YYYY)" — Erscheinungsdatum ist Publikationsdatum, kann im Vorjahr liegen (z.B. Januar-Ausgabe erscheint im Dezember des Vorjahres)
+- Amtsblatt-ID basiert auf Erscheinungsdatum-Jahr und -Monat, nicht auf dem Seiten-URL-Jahr
 - robots.txt: Mehrere `User-agent:`-Blöcke ohne Leerzeilen → wurde durch Wechsel auf `robots-parser` library korrekt behandelt
 
 ## Validierung
@@ -47,4 +56,5 @@ Das Scraping funktioniert noch, wenn:
 1. `pnpm tsx index.ts` ohne Fehler läuft und `events: N Einträge` ausgibt (N > 100)
 2. Event-ID `900028298` (Meditation im BaoBAB) in `events.json` vorhanden
 3. News-ID `900000716` in `news.json` vorhanden
-4. Falls N = 0: `terminanker_` Anker-Pattern prüfen oder ob CMS auf neue Version gewechselt hat
+4. `amtsblatt: N Einträge` (N ≥ 5)
+5. Falls N = 0: `terminanker_` Anker-Pattern prüfen oder ob CMS auf neue Version gewechselt hat

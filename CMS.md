@@ -95,6 +95,29 @@ Bei manchen Installationen reichen auch einfachere Parameter:
 
 Beispiele: Ahrensfelde (104 Events, 365 Tage), Werneuchen (3 Events)
 
+### Amtsblatt: Statische HTML-Seite mit Download-Links
+
+NOLIS-Installationen stellen Amtsblätter oft auf einer statischen Seite mit `/downloads/datei/BASE64TOKEN`-Links bereit.
+
+**Variante 1: Dateiname im Link (Werneuchen)**
+
+| Element | Beschreibung |
+|---------|-------------|
+| Seite | Feste URL, z.B. `/portal/seiten/amtsblatt-stadt-werneuchen-900000022-30690.html` |
+| Link | `<a href=".../downloads/datei/BASE64TOKEN">` |
+| Datum | Aus Dateiname im `href`: `Amtsblatt{YY}-{MM}.pdf` → 2-stellige Jahreszahl |
+| ID | `{ortsname}-amtsblatt-{YYYY}-{MM}` |
+
+**Variante 2: Jahresseiten mit Erscheinungsdatum im Titeltext (Amt Märkische Schweiz)**
+
+| Element | Beschreibung |
+|---------|-------------|
+| Seite | `/verwaltung/amtsblatt/amtsblatt-{YEAR}/` (aktuell + Vorjahr abrufen) |
+| Link | `<a class="link_dokument nolis-link-intern" href=".../downloads/datei/TOKEN">` |
+| Titeltext | `"Amtsblatt {Monatsname} {Jahr} (Erscheinungsdatum DD.MM.YYYY)"` |
+| Datum | `publishedAt` = Erscheinungsdatum; kann im Vorjahr liegen (Jan-Ausgabe erscheint Dez) |
+| ID | `{ortsname}-amtsblatt-{ErscheinungsJahr}-{ErscheinungsMonat}` (nicht Seiten-URL-Jahr!) |
+
 ---
 
 ## NOLIS Manager
@@ -267,6 +290,42 @@ Monatsabkürzungen: Jan, Feb, Mär, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez
 - `bygone`-Klasse markiert vergangene Events
 
 Beispiel: Amt Biesenthal-Barnim (`amt-biesenthal-barnim.de`) — aktuell nur vergangene Events sichtbar
+
+---
+
+## Joomla
+
+Open-Source-CMS, gelegentlich bei deutschen Kommunen.
+
+**Erkennungsmerkmale:**
+- `Joomla!` im HTML-Quelltext oder Meta-Generator
+- URL-Muster `/index.php?option=com_...`
+
+### com_dropfiles (Amtsblatt-Downloads)
+
+Joomla-Extension für Datei-Downloads, genutzt für Amtsblatt-Archive.
+
+**API-Endpunkte:**
+
+```
+# Unterkategorien (Jahres-Ordner) eines Root-Ordners
+GET /index.php?option=com_dropfiles&view=frontcategories&format=json&id={ROOT_CAT}&top={ROOT_CAT}
+→ { "categories": [{ "id": 123, "title": "2026" }, ...] }
+
+# Dateien einer Kategorie
+GET /index.php?option=com_dropfiles&view=frontfiles&format=json&id={CATID}
+→ { "files": [{ "id": 665, "title": "Amtsblatt 2026-04", "created_time": "DD-MM-YYYY", "link": "https://..." }] }
+```
+
+**Besonderheiten:**
+- `created_time` im Format `DD-MM-YYYY` (nicht ISO!)
+- Jahres-Unterkategorien haben `title` = 4-stellige Jahreszahl → filtern mit `/^\d{4}$/`
+- Nur letzte 2 Jahre abrufen (`.slice(0, 2)` nach absteigendem Sort)
+- Datei-`link` ist direkter Download-URL (kein Redirect)
+- Datei-Titel variiert: `Amtsblatt 2026-04` (Groß Kreutz) oder `Amtsblatt-2026-04` (Schreibweise mit Bindestrich)
+- `publishedAt` aus Titelformat `YYYY-MM` extrahieren (nicht aus `created_time`)
+
+Beispiele: Groß Kreutz (`gross-kreutz.de`, Root-Cat 386), Amt Ziesar (`amt-ziesar.de`, Root-Cat 59)
 
 ---
 

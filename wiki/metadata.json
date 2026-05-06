@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T13:03:39.859Z",
+  "updatedAt": "2026-05-06T14:03:30.930Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -970,8 +970,8 @@
       "hasIcal": false,
       "eventCount": 0,
       "newsCount": 1,
-      "amtsblattCount": 0,
-      "updatedAt": "2026-05-06T11:35:17.541Z",
+      "amtsblattCount": 195,
+      "updatedAt": "2026-05-06T13:16:30.668Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Niemegk/rss.xml",
       "icalUrl": null,
       "eventsUrl": null,
@@ -1012,13 +1012,13 @@
       "hasIcal": false,
       "eventCount": 0,
       "newsCount": 25,
-      "amtsblattCount": 0,
-      "updatedAt": "2026-05-06T11:35:25.929Z",
+      "amtsblattCount": 17,
+      "updatedAt": "2026-05-06T13:16:34.850Z",
       "rssUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Ziesar/rss.xml",
       "icalUrl": null,
       "eventsUrl": null,
       "newsUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Ziesar/news.json",
-      "amtsblattUrl": null,
+      "amtsblattUrl": "https://raw.githubusercontent.com/amtsfeed/amtsfeed/main/wiki/Brandenburg/Landkreis%20Potsdam-Mittelmark/Amt%20Ziesar/amtsblatt.json",
       "sources": []
     },
     {

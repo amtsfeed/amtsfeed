@@ -2,13 +2,14 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { EventsFile, NewsFile, Event, NewsItem, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.erkner.de";
 const EVENTS_URL = `${BASE_URL}/freizeit-und-tourismus/stadtgeschichte-und-kultur/veranstaltungskalender.html`;
 const NEWS_URL = `${BASE_URL}/rathaus-und-buergerservice/buergerinformationen/aktuelles.html`;
 const AMTSBLATT_URL = `${BASE_URL}/rathaus-und-buergerservice/buergerinformationen/amtsblatt.html`;
+const NOTICES_URL = `${BASE_URL}/rathaus-und-buergerservice/buergerinformationen/bekanntmachungen.html`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 const GERMAN_MONTHS: Record<string, string> = {
@@ -161,6 +162,52 @@ function extractAmtsblatt(html: string): AmtsblattItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// Neos CMS: sections grouped by reference number h3 (e.g. "03I2026")
+// Each AccordionItem has UUID id, title, and a PDF download link
+// Structure: <h3>NN I YYYY</h3> ... <button id="UUID"><span class="AccordionItem-titleText">Title</span> ... <a href="PDF" class="download">
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  // Split by reference section headings like "03I2026"
+  const sections = html.split(/<h3[^>]*>(\d{2}I\d{4})<\/h3>/);
+  for (let i = 1; i < sections.length; i += 2) {
+    const ref = sections[i]!; // e.g. "03I2026"
+    const sectionHtml = sections[i + 1] ?? "";
+    const num = ref.slice(0, 2);
+    const year = ref.slice(3);
+
+    // Each AccordionItem: UUID as button id, title in AccordionItem-titleText span, PDF link
+    const itemRx = /<button[^>]+id="([a-f0-9-]{36})"[^>]*>[\s\S]*?<span class="AccordionItem-titleText">([\s\S]*?)<\/span>[\s\S]*?<a href="(https?:\/\/[^"]+)" class="download"/gi;
+    let m: RegExpExecArray | null;
+    while ((m = itemRx.exec(sectionHtml)) !== null) {
+      const uuid = m[1]!;
+      const id = `erkner-notice-${uuid}`;
+      if (seen.has(id)) continue;
+      seen.add(id);
+
+      const title = decodeHtmlEntities((m[2] ?? "").replace(/<[^>]+>/g, "").replace(/&nbsp;/g, " ").trim());
+      if (!title) continue;
+
+      const url = m[3]!;
+      // publishedAt: use year from reference number (NNI YYYY), default to Jan 1
+      const publishedAt = `${year}-${num}-01T00:00:00.000Z`;
+      items.push({ id, title, url, publishedAt, fetchedAt: now });
+    }
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): AmtsblattItem[] {
   const byId = new Map(existing.map((i) => [i.id, i]));
   for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
@@ -199,29 +246,35 @@ const robots = await checkRobots(DIR, BASE_URL);
 assertAllowed(robots, ["/freizeit-und-tourismus/", "/rathaus-und-buergerservice/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, newsHtml, amtsblattHtml] = await Promise.all([
+const [eventsHtml, newsHtml, amtsblattHtml, noticesHtml] = await Promise.all([
   fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
+const noticesPath = join(DIR, "notices.json");
 
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 
 const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
 
 const now = new Date().toISOString();
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
 console.log(`events:    ${mergedEvents.length} Einträge → ${eventsPath}`);
 console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

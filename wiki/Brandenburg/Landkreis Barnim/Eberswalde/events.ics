@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausstellung-tuchener-kartenwerke-kuenstlerische-neuvermessung-eines-b
  arnimer-hoehendorfs-kopie-31@amtsfeed.de
-DTSTAMP:20260505T210042Z
+DTSTAMP:20260506T202209Z
 DTSTART:20260505T110000Z
 DTEND:20260506T000000Z
 SUMMARY:Ausstellung Tuchener Kartenwerke - Künstlerische Neuvermessung e
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausstellung-momente-der-stille-kraft-in-der-kleinen-galerie-der-stadt
  -eberswalde-28@amtsfeed.de
-DTSTAMP:20260505T210042Z
+DTSTAMP:20260506T202209Z
 DTSTART:20260506T090000Z
 SUMMARY:Ausstellung „Momente der Stille & Kraft" in der Kleinen Galerie
   der Stadt Eberswalde
@@ -66,7 +66,7 @@ URL:https://www.eberswalde.de/termine/ausstellung-momente-der-stille-kraf
 END:VEVENT
 BEGIN:VEVENT
 UID:rathausausstellung-honey-haze-von-therese-weinhonig-11@amtsfeed.de
-DTSTAMP:20260505T210042Z
+DTSTAMP:20260506T202209Z
 DTSTART:20260506T090000Z
 SUMMARY:Rathausausstellung „honey&haze." von Therese Weinhonig
 URL:https://www.eberswalde.de/termine/rathausausstellung-honey-haze-von-t
@@ -74,7 +74,7 @@ URL:https://www.eberswalde.de/termine/rathausausstellung-honey-haze-von-t
 END:VEVENT
 BEGIN:VEVENT
 UID:ausstellung-wahrheit-und-ordnung-luise-wiegand-43@amtsfeed.de
-DTSTAMP:20260505T210042Z
+DTSTAMP:20260506T202209Z
 DTSTART:20260506T110000Z
 SUMMARY:Ausstellung „Wahrheit und Ordnung - Luise Wiegand"
 URL:https://www.eberswalde.de/termine/ausstellung-wahrheit-und-ordnung-lu
@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausstellung-tuchener-kartenwerke-kuenstlerische-neuvermessung-eines-b
  arnimer-hoehendorfs-kopie-32@amtsfeed.de
-DTSTAMP:20260505T210042Z
+DTSTAMP:20260506T202209Z
 DTSTART:20260506T110000Z
 DTEND:20260507T000000Z
 SUMMARY:Ausstellung Tuchener Kartenwerke - Künstlerische Neuvermessung e
@@ -92,11 +92,47 @@ URL:https://www.eberswalde.de/termine/ausstellung-tuchener-kartenwerke-ku
  enstlerische-neuvermessung-eines-barnimer-hoehendorfs-kopie-32
 END:VEVENT
 BEGIN:VEVENT
+UID:ausstellung-momente-der-stille-kraft-in-der-kleinen-galerie-der-stadt
+ -eberswalde-29@amtsfeed.de
+DTSTAMP:20260506T202209Z
+DTSTART:20260507T090000Z
+SUMMARY:Ausstellung „Momente der Stille & Kraft" in der Kleinen Galerie
+  der Stadt Eberswalde
+URL:https://www.eberswalde.de/termine/ausstellung-momente-der-stille-kraf
+ t-in-der-kleinen-galerie-der-stadt-eberswalde-29
+END:VEVENT
+BEGIN:VEVENT
+UID:rathausausstellung-honey-haze-von-therese-weinhonig-12@amtsfeed.de
+DTSTAMP:20260506T202209Z
+DTSTART:20260507T090000Z
+SUMMARY:Rathausausstellung „honey&haze." von Therese Weinhonig
+URL:https://www.eberswalde.de/termine/rathausausstellung-honey-haze-von-t
+ herese-weinhonig-12
+END:VEVENT
+BEGIN:VEVENT
 UID:ausstellung-wahrheit-und-ordnung-luise-wiegand-44@amtsfeed.de
-DTSTAMP:20260505T210042Z
+DTSTAMP:20260506T202209Z
 DTSTART:20260507T110000Z
 SUMMARY:Ausstellung „Wahrheit und Ordnung - Luise Wiegand"
 URL:https://www.eberswalde.de/termine/ausstellung-wahrheit-und-ordnung-lu
  ise-wiegand-44
+END:VEVENT
+BEGIN:VEVENT
+UID:ausstellung-tuchener-kartenwerke-kuenstlerische-neuvermessung-eines-b
+ arnimer-hoehendorfs-kopie-33@amtsfeed.de
+DTSTAMP:20260506T202209Z
+DTSTART:20260507T110000Z
+DTEND:20260508T000000Z
+SUMMARY:Ausstellung Tuchener Kartenwerke - Künstlerische Neuvermessung e
+ ines Barnimer Höhendorfs
+URL:https://www.eberswalde.de/termine/ausstellung-tuchener-kartenwerke-ku
+ enstlerische-neuvermessung-eines-barnimer-hoehendorfs-kopie-33
+END:VEVENT
+BEGIN:VEVENT
+UID:filmabend-the-vanishing-soldier@amtsfeed.de
+DTSTAMP:20260506T202209Z
+DTSTART:20260507T180000Z
+SUMMARY:Filmabend: The Vanishing Soldier
+URL:https://www.eberswalde.de/termine/filmabend-the-vanishing-soldier
 END:VEVENT
 END:VCALENDAR

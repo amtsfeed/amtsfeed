@@ -2,7 +2,7 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem, EventsFile, Event } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, AmtsblattFile, AmtsblattItem, EventsFile, Event, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.schwielowsee.de";
@@ -10,6 +10,7 @@ const TOURISMUS_BASE = "https://www.schwielowsee-tourismus.de";
 const NEWS_URL = `${BASE_URL}/aktuelles/mitteilungen.html`;
 const AMTSBLATT_URL = `${BASE_URL}/buergerservice/amtsblatt.html`;
 const EVENTS_URL = `${TOURISMUS_BASE}/veranstaltungen.html`;
+const NOTICES_URL = `${BASE_URL}/buergerservice/bekanntmachungen-ortsrecht/weitere-bekanntmachungen.html`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -121,6 +122,48 @@ function extractEvents(html: string): Event[] {
   return items.sort((a, b) => a.startDate.localeCompare(b.startDate));
 }
 
+// ScreendriverFOUR notices: "Weitere Bekanntmachungen" (Veränderungssperren etc.)
+// Structure: <p><strong>DD.MM.YYYY</strong></p>
+//            <p><a href="/images/downloads/Oeffentliche_Bekanntmachungen/YYYY/FILENAME.pdf">Title (PDF)</a></p>
+// A date block may have multiple PDF links; each PDF becomes its own notice.
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  // Split on strong date tags
+  const blocks = html.split(/(?=<p><strong>\d{2}\.\d{2}\.\d{4}<\/strong><\/p>)/);
+  for (const block of blocks) {
+    const dateMatch = block.match(/<strong>(\d{2})\.(\d{2})\.(\d{4})<\/strong>/);
+    if (!dateMatch) continue;
+    const publishedAt = `${dateMatch[3]}-${dateMatch[2]}-${dateMatch[1]}T00:00:00.000Z`;
+
+    // All PDF links in this block
+    const pdfRx = /href="(\/images\/downloads\/[^"]+\.pdf)"[^>]*>([^<]+)<\/a>/gi;
+    let m: RegExpExecArray | null;
+    while ((m = pdfRx.exec(block)) !== null) {
+      const href = m[1]!;
+      const rawTitle = decodeHtmlEntities(m[2]!.trim());
+
+      const filename = href.split("/").pop()!.replace(/\.pdf$/i, "");
+      const id = `schwielowsee-notice-${filename.slice(0, 80)}`;
+      if (seen.has(id)) continue;
+      seen.add(id);
+
+      const url = `${BASE_URL}${href}`;
+      items.push({ id, title: rawTitle, url, publishedAt, fetchedAt: now });
+    }
+  }
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((i) => [i.id, i]));
+  for (const i of incoming) byId.set(i.id, { ...i, fetchedAt: byId.get(i.id)?.fetchedAt ?? i.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
   const byId = new Map(existing.map((e) => [e.id, e]));
   for (const e of incoming) byId.set(e.id, { ...e, fetchedAt: byId.get(e.id)?.fetchedAt ?? e.fetchedAt });
@@ -149,20 +192,24 @@ const robots = await checkRobots(DIR, BASE_URL);
 assertAllowed(robots, ["/aktuelles/", "/buergerservice/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [newsHtml, amtsblattHtml, eventsHtml] = await Promise.all([
+const [newsHtml, amtsblattHtml, eventsHtml, noticesHtml] = await Promise.all([
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => r.ok ? r.text() : ""),
   fetch(EVENTS_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
+const noticesPath = join(DIR, "notices.json");
 
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
 
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
 
 const eventsPath = join(DIR, "events.json");
 const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
@@ -172,7 +219,9 @@ const now = new Date().toISOString();
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 
 console.log(`news:      ${mergedNews.length} Einträge → ${newsPath}`);
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
 console.log(`events:    ${mergedEvents.length} Einträge → ${eventsPath}`);
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

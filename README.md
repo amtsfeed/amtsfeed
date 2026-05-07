@@ -2,6 +2,8 @@
 
 amtsfeed sammelt Veranstaltungen und Nachrichten von öffentlichen Websites deutscher Ämter, Gemeinden und Städte und stellt sie als RSS-Feeds und strukturierte JSON-Daten zur Verfügung.
 
+**→ Weboberfläche: [amtsfeed.github.io](https://amtsfeed.github.io/)**
+
 ## Was amtsfeed ist
 
 Viele Ämter, Gemeinden und Städte veröffentlichen Veranstaltungshinweise, Pressemitteilungen und Nachrichten auf eigenen Websites — aber ohne maschinenlesbare Formate wie RSS. amtsfeed schließt diese Lücke: Es ist eine Suchmaschine und ein Feed-Aggregator auf Basis öffentlich zugänglicher Inhalte.

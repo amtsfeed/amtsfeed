@@ -1,12 +1,12 @@
 # amtsfeed
 
-amtsfeed sammelt Veranstaltungen und Nachrichten von öffentlichen Websites deutscher Ämter, Gemeinden und Städte und stellt sie als RSS-Feeds und strukturierte JSON-Daten zur Verfügung.
+amtsfeed sammelt Veranstaltungen, Meldungen, Amtsblätter und Bekanntmachungen von öffentlichen Websites deutscher Ämter, Gemeinden und Städte und stellt sie als RSS-Feeds, iCalendar-Feeds und strukturierte JSON-Daten zur Verfügung.
 
 **→ Weboberfläche: [amtsfeed.github.io](https://amtsfeed.github.io/)**
 
 ## Was amtsfeed ist
 
-Viele Ämter, Gemeinden und Städte veröffentlichen Veranstaltungshinweise, Pressemitteilungen und Nachrichten auf eigenen Websites — aber ohne maschinenlesbare Formate wie RSS. amtsfeed schließt diese Lücke: Es ist eine Suchmaschine und ein Feed-Aggregator auf Basis öffentlich zugänglicher Inhalte.
+Viele Ämter, Gemeinden und Städte veröffentlichen Veranstaltungen, Pressemitteilungen, Amtsblätter und amtliche Bekanntmachungen auf eigenen Websites — aber ohne maschinenlesbare Formate wie RSS oder iCal. amtsfeed schließt diese Lücke: Es ist ein Feed-Aggregator auf Basis öffentlich zugänglicher Inhalte.
 
 **amtsfeed ist nicht der Erzeuger der Inhalte.** Alle Veranstaltungen und Nachrichten stammen von den Websites der jeweiligen kommunalen Körperschaften. amtsfeed indexiert und strukturiert diese Inhalte lediglich technisch. Die Urheberrechte und Inhaltsrechte verbleiben bei den jeweiligen Körperschaften oder deren Quellen.
 
@@ -32,7 +32,7 @@ wiki/
         news.json      ← Strukturierte Nachrichtendaten
         amtsblatt.json ← Strukturierte Amtsblatt-Einträge (wenn vorhanden)
         notices.json   ← Strukturierte Bekanntmachungen (wenn vorhanden)
-        rss.xml        ← RSS-Feed (generiert aus events.json + news.json + amtsblatt.json + notices.json)
+        rss.xml        ← RSS-Feed (generiert aus news.json + amtsblatt.json + notices.json)
         events.ics     ← iCalendar-Feed (optional)
         robots.json    ← gecachte robots.txt der Quelle
         sources.json   ← offizielle Quell-URLs der Gemeinde (optional)
@@ -60,11 +60,11 @@ Existiert bei einer Gemeinde bereits ein offizieller RSS- oder iCal-Feed, wird e
 
 ## Feeds nutzen
 
-Jede `rss.xml` ist ein vollständiger RSS 2.0-Feed und kann direkt in einem Feed-Reader abonniert werden.
+Jede `rss.xml` ist ein vollständiger RSS 2.0-Feed (Meldungen, Amtsblätter, Bekanntmachungen) und kann direkt in einem Feed-Reader abonniert werden. Veranstaltungen sind ausschließlich im iCalendar-Feed (`events.ics`) enthalten.
 
 ```
 wiki/Brandenburg/Landkreis Märkisch-Oderland/Amt Golzow/rss.xml
-wiki/Brandenburg/Landkreis Märkisch-Oderland/Wriezen/rss.xml
+wiki/Brandenburg/Landkreis Märkisch-Oderland/Amt Golzow/events.ics
 # usw.
 ```
 
@@ -90,7 +90,7 @@ pnpm stats "wiki/Brandenburg/Landkreis Märkisch-Oderland/Amt Golzow"
 
 ## Datenquellen und Urheberrecht
 
-Die indexierten Inhalte (Veranstaltungen, Nachrichten) stammen von den öffentlichen Websites der jeweiligen Kommunen und werden dort von den jeweiligen Körperschaften (Ämter, Städte, Gemeinden) oder von diesen beauftragten Dienstleistern veröffentlicht. Die `README.md`-Dateien in den einzelnen Unterordnern dokumentieren jeweils die genaue Quelle.
+Die indexierten Inhalte (Veranstaltungen, Meldungen, Amtsblätter, Bekanntmachungen) stammen von den öffentlichen Websites der jeweiligen Kommunen und werden dort von den jeweiligen Körperschaften (Ämter, Städte, Gemeinden) oder von diesen beauftragten Dienstleistern veröffentlicht. Die `README.md`-Dateien in den einzelnen Unterordnern dokumentieren jeweils die genaue Quelle.
 
 amtsfeed:
 - speichert keine Volltext-Inhalte, sondern nur Titel, Datum, URL und strukturierte Metadaten
@@ -102,19 +102,19 @@ Bei Fragen zu den Quellinhalten wenden Sie sich bitte an die jeweilige Gemeinde 
 
 ## Beitragen
 
-Neue Scrapers und Korrekturen sind willkommen. Jeder Scraper liegt als `index.ts` im entsprechenden Unterordner und folgt dem gleichen Muster: Robots.txt prüfen → HTML/API abrufen → `events.json` / `news.json` schreiben. Die Dokumentation des jeweiligen CMS und der Scraping-Muster liegt in [`CMS.md`](CMS.md).
+Neue Scrapers und Korrekturen sind willkommen. Jeder Scraper liegt als `index.ts` im entsprechenden Unterordner und folgt dem gleichen Muster: Robots.txt prüfen → HTML/API abrufen → `events.json` / `news.json` / `amtsblatt.json` / `notices.json` schreiben. Die Dokumentation des jeweiligen CMS und der Scraping-Muster liegt in [`CMS.md`](CMS.md).
 
 ## Verwandte Projekte
 
 - **[OParl](https://oparl.org/)** — Standardisiertes API-Format für kommunale Ratsinformationssysteme (Sitzungen, Beschlüsse, Dokumente). Verfolgt ein ähnliches Ziel wie amtsfeed: kommunale Daten in maschinenlesbarer Form zugänglich machen — diesmal von Amts wegen.
 - **[Politik bei uns](https://politik-bei-uns.de/)** — Bürgerportal, das OParl-Daten aufbereitet und zugänglich macht. Zeigt, wie strukturierte kommunale Daten für Bürgerinnen und Bürger nutzbar werden.
 
-amtsfeed ergänzt diese Ansätze für den Bereich Veranstaltungen und Nachrichten, wo noch kein standardisiertes Format existiert.
+amtsfeed ergänzt diese Ansätze für den Bereich Veranstaltungen, Meldungen, Amtsblätter und Bekanntmachungen, wo noch kein standardisiertes Format existiert.
 
 ## Lizenz
 
 Der Code (Scraper, Hilfsskripte) steht unter der [MIT-Lizenz](LICENSE).
 
-Der Suchindex (events.json, news.json, rss.xml) steht unter der [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+Der Suchindex (events.json, news.json, amtsblatt.json, notices.json, rss.xml, events.ics) steht unter der [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
-Die indexierten Einzelinhalte (Veranstaltungstexte, Nachrichtentexte) unterliegen den Nutzungsbedingungen und dem Urheberrecht der jeweiligen veröffentlichenden Körperschaften.
+Die indexierten Einzelinhalte unterliegen den Nutzungsbedingungen und dem Urheberrecht der jeweiligen veröffentlichenden Körperschaften.

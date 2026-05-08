@@ -634,3 +634,334 @@ Ergänzung zu den bestehenden NOLIS-Varianten: Amtsblatt-Archiv via NOLIS-Manage
 
 Besonderheit: Die Jahresseiten-URLs werden von der Archivseite extrahiert; keine hartkodierte URL-Liste.
 Beispiel: Ahrensfelde (`ahrensfelde.de`, 28 Einträge)
+
+---
+
+## PortUNA — neue Varianten
+
+### news-entry-new-3 (News mit deutschen Monatsnamen)
+
+Neuere PortUNA-Installationen zeigen das Datum als ausgeschriebenen Monatsnamen statt DD.MM.YYYY.
+
+**Erkennungsmerkmale:**
+- `class="news-entry-new-3-date"` statt `news-entry-new-2-date`
+- Datumsformat: `DD. Monat YYYY` (z.B. `07. Mai 2026`), oft mit Wochentag-Prefix `Mo, `
+
+**Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<li class="news-entry-to-limit">` |
+| Titel+URL | `<h3><a href="/news/...">Titel</a></h3>` |
+| Datum-Block | `class="news-entry-new-3-date"` |
+| Datumstext | Text nach Strip der `<span>Wochentag</span>`: `(\d{1,2})\.\s*(\S+)\s+(\d{4})` |
+| Monats-Mapping | MONTHS-Objekt: `{ Januar: "01", ..., Dezember: "12" }` |
+
+Beispiel: Amt Plessa (`plessa.de`)
+
+### event-entry-new-2 smol (Events via URL-Datum)
+
+PortUNA-Variante für kleinere Gemeinden: Events ohne eigenen Inhaltsblock, Datum ausschließlich aus URL.
+
+**Erkennungsmerkmale:**
+- `class="event-entry-new-2 smol"` im HTML
+- URL-Muster: `/veranstaltungen/{ID}/{YYYY}/{MM}/{DD}/{slug}.html`
+
+**Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| URL | `<a href="/veranstaltungen/{ID}/{YYYY}/{MM}/{DD}/{slug}.html">` |
+| Datum | aus URL-Pfad-Segmenten (kein `time`-Element) |
+| Titel | Anchor-Text |
+| Filter | Titel `"mehr"` und Leerstring überspringen |
+| ID | `{ortsname}-event-{eventId}-{YYYYMMDD}` |
+
+Beispiele: Amt Plessa (`plessa.de`), Amt Schenkenländchen (`amt-schenkenlaendchen.de`)
+
+### gazette-tab Amtsblatt (PortUNA)
+
+Neueres PortUNA-Format für Amtsblätter mit `<article class="gazette-tab">` statt Tabellen.
+
+**Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<article class="gazette[^>]*>` |
+| Titel | `<h3>Ausgabe Nr. X/YYYY</h3>` |
+| Datum | `<time datetime="YYYY-MM-DD">` |
+| Filter | Titel muss mit `"Ausgabe"` beginnen |
+| URL | Listenseiten-URL (kein Direktdownload bei POST-basierten PDFs) |
+
+Hinweis: Einige PortUNA-Installationen liefern Amtsblatt-PDFs via POST-Formular mit Hash-Parameter. In diesem Fall wird die Listenseiten-URL mit `#gazette_{ID}`-Anker verwendet.
+Beispiel: Amt Plessa (`plessa.de`, 277 Einträge)
+
+### PortUNA Bekanntmachungen — Tabellenvariante
+
+Neuere PortUNA-Installationen listen Bekanntmachungen in einer HTML-Tabelle.
+
+| Element | Selektor |
+|---------|----------|
+| Datum | `<td class="table-title">DD.MM.YYYY</td>` oder `<td valign="top">DD.MM.YYYY</td>` |
+| Titel | `<td class="table-content">Titel</td>` oder nächste `<td>` nach Datum |
+| PDF | `<a href="/...">` in letzter `<td>` |
+
+Beispiel: Amt Plessa, Verbandsgemeinde Bad Liebenwerda
+
+---
+
+## ionas4
+
+Modernes kommunales CMS aus Sachsen/Brandenburg. Serverseitig gerendertes HTML, keine AJAX-Pagination.
+
+**Erkennungsmerkmale:**
+- `class="news-index-item"` für News-Teaserblöcke
+- `<time datetime="ISO-Datum">` für maschinenlesbare Datumsangaben
+- Amtsblatt-PDFs im Pfad `amtsblaetter/YYYY/YYYY-MM-*.pdf`
+
+**News-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Container | `class="[^"]*news-index-item[^"]*"` |
+| URL | `<a href="https://{BASE}/...">` im Container |
+| Datum | `<time datetime="ISO-Datum">` — direkt als ISO-Datum übernehmen |
+| Titel | `<span class="headline[^"]*">Text</span>` |
+| ID | letztes URL-Pfad-Segment ohne trailing slash |
+
+**Amtsblatt-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| PDF-Links | `href="amtsblaetter/YYYY/YYYY-MM-amtsblatt*.pdf"` (relativ oder absolut) |
+| Monat | aus Pfad-Segmenten `YYYY-MM` |
+| Titel | `Amtsblatt Nr. {MM}/{YYYY}` (Monat als Zahl ohne führende Null) |
+| publishedAt | `YYYY-MM-01T00:00:00.000Z` |
+| Basis-URL | `{BASE_URL}/stadt-{name}/de/` für relative Pfade |
+
+Hinweis: Die Seite `luebben.de` hat Meta-Tags `noai, noindex` — diese betreffen nur KI-Indexierungsroboter, nicht generische Crawler. Die `robots.txt` selbst sperrt amtsfeed nicht aus.
+Beispiele: Lübben (Spreewald) (`luebben.de`), Beeskow (`beeskow.de`)
+
+---
+
+## Sitepark
+
+CMS-System häufig eingesetzt bei Städten in Brandenburg. Serverseitig gerendert, keine AJAX-Pagination.
+
+**Erkennungsmerkmale:**
+- `<article id="article_SLUG" class="listItem">` für News-Einträge
+- `class="dateText">DD.MM.YYYY` für das Datum
+- Amtsblatt in jahresweisen Unterseiten mit langen URLs
+
+**News-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<article id="article_SLUG" class="listItem[^"]*">` |
+| Slug | `id`-Attributwert (→ ID) |
+| URL | `href="/de/buergerportal/aktuelles/aktuelle-meldungen/[^"]+"` |
+| Titel | `title="..."` im `<a>`-Tag |
+| Datum | `class="dateText">DD.MM.YYYY` |
+
+**Amtsblatt-Parsing:**
+
+- Jahresweise Unterseiten mit hartkodierten URLs (z.B. `...artikel-ausgaben-...2026.html`, `...2025.html`)
+- HTML-Tabelle: col0 = Lokalanzeiger-PDF + Datum, col1 = Amtsblatt-PDF + Datum
+- Datum aus Amtsblatt-Spalte, Fallback auf Lokalanzeiger-Spalte
+- PDF-Link: erstes `href="[^"]+\.pdf"` in der Amtsblatt-Zelle
+
+**Bekanntmachungen-Parsing (Accordion-Tabelle):**
+
+| Element | Selektor |
+|---------|----------|
+| Zeilen | `<tr>`, Header überspringen (`background-color.*dcdcdc` oder `Veröffentlicht`) |
+| Datum | col0 (ggf. über mehrere Zeilen gültig, `lastDate` merken) |
+| Titel | col2 |
+| PDF | col4: `href="[^"]+\.pdf"` |
+
+Beispiele: Luckau (`luckau.de`)
+
+---
+
+## maXvis v4
+
+CMS-System für kleinere Kommunen. News werden per AJAX geladen (nicht in HTML), aber über Sitemap auffindbar.
+
+**Erkennungsmerkmale:**
+- Sitemap unter `/sitemap.xml` mit Artikeln im URL-Format `Titel-NNNNNN.html` (6-stellige ID)
+- Artikelseiten haben `class="artdate">DD.MM.YYYY` für das Datum
+- Amtsblatt-PDFs mit Namensmuster `Amtsblatt-YYYY-MM-NNNNNN.pdf`
+- News-Liste unter `/meldungen` liefert AJAX — kein direktes HTML-Scraping möglich
+
+**Strategie: Sitemap → Artikel-Einzelseiten:**
+
+| Schritt | Beschreibung |
+|---------|-------------|
+| 1 | Sitemap abrufen, Artikel-URLs mit IDs >= Schwellenwert (z.B. 700000) extrahieren |
+| 2 | Nur neue Artikel abrufen (IDs nicht in vorhandenen Daten) |
+| 3 | `<h2>` als Titel, `class="artdate">` als Datum auslesen |
+| 4 | Bekannte statische Seiten-IDs ausschließen |
+
+**Amtsblatt-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Seite | `/amtsblatt` |
+| PDF-Link | `href="[^"]*Amtsblatt-(\d{4})-(\d{2})-(\d+)\.pdf"` |
+| Titel | `Amtsblatt YYYY Nr. NN` |
+| Datum | `YYYY-MM-01T00:00:00.000Z` |
+
+Beispiel: Zeuthen (`zeuthen.de`)
+
+---
+
+## JGS Media / ASP.NET
+
+Proprietäres ASP.NET-CMS für kleinere Kommunen.
+
+**Erkennungsmerkmale:**
+- `class='listItem' onclick="location.href='/Gemeindeneuigkeiten/...'"` für News-Einträge
+- Datum in Klammern `(DD.MM.YYYY)` in einem `<p>`-Tag nach dem Titel
+- Amtsblatt ausschließlich als ePaper über externe Plattform (wittich.de) — kein Scraping möglich
+
+**News-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Container | `class='listItem' onclick="location.href='/Gemeindeneuigkeiten/...'"` |
+| URL | aus `onclick`-Attribut: `/Gemeindeneuigkeiten/slug.html` |
+| Titel | `<h3>Text</h3>` |
+| Datum | `<p>(DD.MM.YYYY)</p>` nach dem Titel |
+| ID | `{ortsname}-news-{url-slug}` |
+
+Beispiel: Märkische Heide (`maerkische-heide.de`)
+
+---
+
+## REDAXO
+
+Open-Source PHP-CMS. Erkennbar am URL-Aufbau und an spezifischen CSS-Klassen.
+
+**Erkennungsmerkmale:**
+- URL-Pfade wie `/verwaltung/aktuelles/SLUG` und `/verwaltung/amtsblatt`
+- `<h3 class="nomargin"><a href="/verwaltung/aktuelles/SLUG">Titel</a></h3>`
+- `<span class="news-date">DD.MM.YYYY</span>` direkt nach dem Titel-Block
+- Amtsblatt als HTML-Tabelle: `<a href="/media/FILE.pdf">Nr. NUM/YEAR</a>` + Datum-Spalte
+
+**News-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Muster | `<h3 class="nomargin"><a href="(/verwaltung/aktuelles/([^"]+))">(Titel)</a>[\s\S]*?<span class="news-date">(DD.MM.YYYY)</span>` |
+| ID | URL-Slug direkt |
+| Datum | `DD.MM.YYYY` → `YYYY-MM-DDT00:00:00.000Z` |
+
+**Amtsblatt-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Zeile | `<tr><td><a href="/media/FILE.pdf">Nr. N/YYYY</a></td><td>DD.MM.YYYY</td></tr>` |
+| Nummer | aus Anchor-Text extrahiert |
+| Datum | zweite `<td>` |
+| ID | `{ortsname}-amtsblatt-{YYYY}-{NN}` |
+
+Beispiel: Amt Kleine Elster (Niederlausitz) (`amt-kleine-elster.de`, 209 Amtsblätter)
+
+---
+
+## Custom PHP CMS (Dreamweaver-Stil)
+
+Einfaches statisches oder semi-statisches PHP/HTML-CMS ohne Framework, häufig mit Adobe Dreamweaver erstellt. Erkennbar an CollapsiblePanel-Widgets für Events und an rohem `<strong>`-HTML für Bekanntmachungen.
+
+**Events — CollapsiblePanel:**
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<div class="CollapsiblePanelTab">` |
+| Datum/Uhrzeit | `<strong>DD.MM.YYYY[, HH:MM Uhr] \|</strong>` |
+| Titel | Text nach `</strong>` bis `</div>` |
+| URL | Listenseiten-URL (keine Einzelseiten) |
+| ID | `{ortsname}-event-{YYYYMMDD}-{titel-slug}` |
+
+**Bekanntmachungen — rohe `<strong>`-Formatierung:**
+
+| Element | Selektor |
+|---------|----------|
+| Datum | `DD.MM.YYYY<br />` vor `<strong>` |
+| Anker | `<a name="ANCHOR">` optional vor dem Datum |
+| Titel | Inhalt von `<strong>...</strong>` (nach Strip von Tags) |
+| URL | `{SEITE_URL}#ANCHOR` wenn Anker vorhanden, sonst Seitenurl |
+
+Beispiel: Amt Schlieben (`amt-schlieben.de`)
+
+---
+
+## Advantic / ScreendriverFOUR (mit windows-1252 Encoding)
+
+Advantic-CMS-Installationen (auch unter dem Namen „ScreendriverFOUR") nutzen teilweise ISO-8859-15 / windows-1252 Zeichenkodierung statt UTF-8.
+
+**Erkennungsmerkmale:**
+- Antwortheader `Content-Type: text/html; charset=windows-1252` oder `charset=iso-8859-15`
+- FID-basierte News-URLs: `FID={SEITENID}.{ITEMID}.1`
+- `<h3 class="list-title">` für Titel, `<time datetime="YYYY-MM-DD">` für Datum
+- Pagination via `?start=N` oder `?page=N` (IKISS-ähnlich)
+
+**Dekodierung:**
+
+```typescript
+const bytes = Buffer.from(await r.arrayBuffer());
+return new TextDecoder("windows-1252").decode(bytes);
+```
+
+**News-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<li>` mit `FID={SEITEN_ID}.` |
+| FID | `FID={SEITEN_ID}\.(\d+)\.1` → Item-ID |
+| URL | `href="[^"]+FID={SEITEN_ID}\.{ID}\.1[^"]*"` → `{BASE_URL}{href}` |
+| Titel | `<h3 class="list-title">Text</h3>` oder `title="..."` Fallback |
+| Datum | `<time datetime="YYYY-MM-DD">` → direkt als ISO-Datum |
+
+Beispiele: Finsterwalde (`finsterwalde.de`, Seiten-ID 3652), Rietz-Neuendorf, Kleinmachnow
+
+---
+
+## IKISS (lkee.de-Variante)
+
+IKISS ist ein älteres kommunales CMS-System, das windows-1252 Encoding verwendet. Die Landkreis-Elbe-Elster-Variante hat spezifische HTML-Strukturen.
+
+**Erkennungsmerkmale:**
+- `Content-Type: text/html; charset=windows-1252`
+- News: `<div class="date">DD.MM.YYYY</div>` direkt vor `<h4><a href="...">`
+- Events: `<ul data-role="listview">` mit `<li><h3><a>` und Datum in `<p>`
+- Amtsblatt: PDF-Links mit Unix-Timestamp im Query-Parameter `?{unix_ts}`
+
+**Dekodierung:** identisch zu Advantic — `TextDecoder("windows-1252")`
+
+**News-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Muster | `<div class="date">DD.MM.YYYY</div>\s*<h4><a href="URL">(Titel)</a></h4>` |
+| FID | `FID=2112\.(\d+)\.1` aus URL |
+| ID | `lkee-news-{FID}` |
+
+**Events-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Muster | `<li>\s*<h3><a href="URL">(Titel)</a></h3>[\s\S]*?<p>\s*DD.MM.YYYY[ bis DD.MM.YYYY]?` |
+| Datum | `(\d{2})\.(\d{2})\.(\d{4})` für Start; optionales `bis DD.MM.YYYY` für Ende |
+| FID | `FID=2112\.(\d+)\.1` aus URL |
+
+**Amtsblatt-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Muster | `<li><a href="/media/custom/2112_{ID}_1.PDF?{unix_ts}">(Amtsblatt/Kreisanzeiger Text)</a></li>` |
+| Datum | `new Date(parseInt(unix_ts) * 1000).toISOString()` |
+| Hinweis | Kein explizites Datum im HTML — Unix-Timestamp im URL-Query einzige Datumsquelle |
+
+Pagination: IKISS hat keine URL-basierte Pagination — alle Seiten zeigen max. 15 Einträge. Incremental scraping (vorhandene Daten behalten) ist Pflicht.
+Beispiel: Landkreis Elbe-Elster (`lkee.de`, 15 News, 15 Events, 64 Amtsblätter)

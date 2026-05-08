@@ -1,13 +1,13 @@
 #!/usr/bin/env tsx
-// Amt Schlieben uses a custom/older CMS with notices listed on specific pages
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
+import type { EventsFile, Event, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.amt-schlieben.de";
 const NOTICES_URL = `${BASE_URL}/verwaltung/service/veroeffentlichungen/`;
+const EVENTS_URL = `${BASE_URL}/tourismus/kultur/termine/`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 function decodeHtmlEntities(str: string): string {
@@ -50,6 +50,44 @@ function extractNotices(html: string, pageUrl: string): NoticeItem[] {
   return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Events ────────────────────────────────────────────────────────────────────
+// Custom CMS: <div class="CollapsiblePanelTab"><strong>DD.MM.YYYY[, HH:MM Uhr] |</strong> Title</div>
+
+function extractEvents(html: string): Event[] {
+  const items: Event[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const rx = /<div\s+class="CollapsiblePanelTab"[^>]*>\s*<strong>([\d.,: Uhr|]+)<\/strong>\s*([\s\S]*?)<\/div>/gi;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const dateTimeStr = (m[1] ?? "").trim();
+    const title = decodeHtmlEntities((m[2] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    const dm = dateTimeStr.match(/^(\d{2})\.(\d{2})\.(\d{4})(?:,\s*(\d{2}):(\d{2})\s*Uhr)?/);
+    if (!dm) continue;
+    const [, dd, mm, yyyy, hh, min] = dm;
+    const startDate = hh
+      ? `${yyyy}-${mm}-${dd}T${hh}:${min!}:00.000Z`
+      : `${yyyy}-${mm}-${dd}T00:00:00.000Z`;
+
+    const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, "-").slice(0, 40);
+    const id = `schlieben-event-${yyyy}${mm}${dd}-${slug}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+    items.push({ id, title, url: EVENTS_URL, startDate, fetchedAt: now, updatedAt: now });
+  }
+
+  return items.sort((a, b) => a.startDate.localeCompare(b.startDate));
+}
+
+function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
+  const byId = new Map(existing.map((e) => [e.id, e]));
+  for (const e of incoming) byId.set(e.id, { ...e, fetchedAt: byId.get(e.id)?.fetchedAt ?? e.fetchedAt });
+  return [...byId.values()].sort((a, b) => a.startDate.localeCompare(b.startDate));
+}
+
 function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
   const byId = new Map(existing.map((n) => [n.id, n]));
   for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
@@ -62,18 +100,24 @@ function loadJson<T>(path: string, fallback: T): T {
 }
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/verwaltung/service/veroeffentlichungen/"]);
+assertAllowed(robots, ["/verwaltung/service/", "/tourismus/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const html = await fetch(NOTICES_URL, { headers }).then((r) => {
-  if (!r.ok) throw new Error(`HTTP ${r.status} ${NOTICES_URL}`);
-  return r.text();
-});
+const [noticesHtml, eventsHtml] = await Promise.all([
+  fetch(NOTICES_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NOTICES_URL}`); return r.text(); }),
+  fetch(EVENTS_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+]);
+
+const now = new Date().toISOString();
 
 const noticesPath = join(DIR, "notices.json");
 const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
-const mergedNotices = mergeNotices(existingNotices.items, extractNotices(html, NOTICES_URL));
-
-const now = new Date().toISOString();
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml, NOTICES_URL));
 writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices }, null, 2));
 console.log(`notices: ${mergedNotices.length} Einträge → ${noticesPath}`);
+
+const eventsPath = join(DIR, "events.json");
+const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
+const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
+writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
+console.log(`events:  ${mergedEvents.length} Einträge → ${eventsPath}`);

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T18:45:29.486Z",
+  "updatedAt": "2026-05-08T18:54:07.913Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -261,6 +261,29 @@
       "sources": []
     },
     {
+      "path": "Brandenburg/Landkreis Dahme-Spreewald/Eichwalde",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Dahme-Spreewald",
+        "Eichwalde"
+      ],
+      "name": "Eichwalde",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 13,
+      "newsCount": 100,
+      "amtsblattCount": 0,
+      "noticeCount": 0,
+      "updatedAt": "2026-05-08T18:53:16.539Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Eichwalde/events.json",
+      "newsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Eichwalde/news.json",
+      "amtsblattUrl": null,
+      "noticesUrl": null,
+      "sources": []
+    },
+    {
       "path": "Brandenburg/Landkreis Dahme-Spreewald/Heideblick",
       "breadcrumb": [
         "Brandenburg",
@@ -422,6 +445,29 @@
       "sources": []
     },
     {
+      "path": "Brandenburg/Landkreis Dahme-Spreewald/Wildau",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Dahme-Spreewald",
+        "Wildau"
+      ],
+      "name": "Wildau",
+      "hasRss": false,
+      "hasIcal": false,
+      "eventCount": 0,
+      "newsCount": 150,
+      "amtsblattCount": 10,
+      "noticeCount": 0,
+      "updatedAt": "2026-05-08T18:52:55.500Z",
+      "rssUrl": null,
+      "icalUrl": null,
+      "eventsUrl": null,
+      "newsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Wildau/news.json",
+      "amtsblattUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Wildau/amtsblatt.json",
+      "noticesUrl": null,
+      "sources": []
+    },
+    {
       "path": "Brandenburg/Landkreis Dahme-Spreewald/Zeuthen",
       "breadcrumb": [
         "Brandenburg",
@@ -468,6 +514,29 @@
       "sources": []
     },
     {
+      "path": "Brandenburg/Landkreis Elbe-Elster/Amt Plessa",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Elbe-Elster",
+        "Amt Plessa"
+      ],
+      "name": "Amt Plessa",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 31,
+      "newsCount": 20,
+      "amtsblattCount": 277,
+      "noticeCount": 2,
+      "updatedAt": "2026-05-08T18:52:04.618Z",
+      "rssUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Amt%20Plessa/rss.xml",
+      "icalUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Amt%20Plessa/events.ics",
+      "eventsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Amt%20Plessa/events.json",
+      "newsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Amt%20Plessa/news.json",
+      "amtsblattUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Amt%20Plessa/amtsblatt.json",
+      "noticesUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Amt%20Plessa/notices.json",
+      "sources": []
+    },
+    {
       "path": "Brandenburg/Landkreis Elbe-Elster/Amt Schlieben",
       "breadcrumb": [
         "Brandenburg",
@@ -477,14 +546,14 @@
       "name": "Amt Schlieben",
       "hasRss": true,
       "hasIcal": true,
-      "eventCount": 0,
+      "eventCount": 59,
       "newsCount": 0,
       "amtsblattCount": 0,
       "noticeCount": 27,
-      "updatedAt": null,
+      "updatedAt": "2026-05-08T18:53:57.340Z",
       "rssUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Amt%20Schlieben/rss.xml",
       "icalUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Amt%20Schlieben/events.ics",
-      "eventsUrl": null,
+      "eventsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Amt%20Schlieben/events.json",
       "newsUrl": null,
       "amtsblattUrl": null,
       "noticesUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Amt%20Schlieben/notices.json",
@@ -695,6 +764,29 @@
       "newsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Uebigau-Wahrenbr%C3%BCck/news.json",
       "amtsblattUrl": null,
       "noticesUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Elbe-Elster/Verbandsgemeinde Bad Liebenwerda",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Elbe-Elster",
+        "Verbandsgemeinde Bad Liebenwerda"
+      ],
+      "name": "Verbandsgemeinde Bad Liebenwerda",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 101,
+      "newsCount": 20,
+      "amtsblattCount": 334,
+      "noticeCount": 14,
+      "updatedAt": "2026-05-08T18:53:07.314Z",
+      "rssUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Verbandsgemeinde%20Bad%20Liebenwerda/rss.xml",
+      "icalUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Verbandsgemeinde%20Bad%20Liebenwerda/events.ics",
+      "eventsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Verbandsgemeinde%20Bad%20Liebenwerda/events.json",
+      "newsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Verbandsgemeinde%20Bad%20Liebenwerda/news.json",
+      "amtsblattUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Verbandsgemeinde%20Bad%20Liebenwerda/amtsblatt.json",
+      "noticesUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/Verbandsgemeinde%20Bad%20Liebenwerda/notices.json",
       "sources": []
     },
     {

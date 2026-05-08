@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uebigau-Wahrenbrück
+X-WR-CALDESC:Amtliche Veranstaltungen für Uebigau-Wahrenbrück
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:2889904@amtsfeed.de
+DTSTAMP:20260508T183812Z
+DTSTART:20260514T100000Z
+SUMMARY:Himmelfahrt am Fachwerkhaus in Domsdorf
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2889904/2026/05/1
+ 4/himmelfahrt-am-fachwerkhaus-in-domsdorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2880133@amtsfeed.de
+DTSTAMP:20260508T183812Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Frühlingslauf Wahrenbrück
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2880133/2026/06/0
+ 6/frühlingslauf-wahrenbrück.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2866113@amtsfeed.de
+DTSTAMP:20260508T183812Z
+DTSTART:20260905T100000Z
+SUMMARY:Blaulicht-Bronkow
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2866113/2026/09/0
+ 5/blaulicht-bronkow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2897708@amtsfeed.de
+DTSTAMP:20260508T183812Z
+DTSTART:20261111T111100Z
+SUMMARY:Start in die neue Session
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2897708/2026/11/1
+ 1/start-in-die-neue-session.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2897710@amtsfeed.de
+DTSTAMP:20260508T183812Z
+DTSTART:20270130T191100Z
+SUMMARY:Abendveranstaltung
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2897710/2027/01/3
+ 0/abendveranstaltung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2897713@amtsfeed.de
+DTSTAMP:20260508T183812Z
+DTSTART:20270131T141100Z
+SUMMARY:Kinderkarneval
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2897713/2027/01/3
+ 1/kinderkarneval.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2897716@amtsfeed.de
+DTSTAMP:20260508T183812Z
+DTSTART:20270219T191100Z
+SUMMARY:Abendveranstaltung (Sponsoren)
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2897716/2027/02/1
+ 9/abendveranstaltung-sponsoren.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2897714@amtsfeed.de
+DTSTAMP:20260508T183812Z
+DTSTART:20270220T191100Z
+SUMMARY:Abendveranstaltung
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2897714/2027/02/2
+ 0/abendveranstaltung.html
+END:VEVENT
+END:VCALENDAR

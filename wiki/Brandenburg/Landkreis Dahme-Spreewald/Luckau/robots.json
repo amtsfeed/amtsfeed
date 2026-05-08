@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "luckau.de",
+    "baseUrl": "https://luckau.de",
+    "updatedAt": "2026-05-08T18:42:56.021Z",
+    "content": "# www.robotstxt.org/\n\n# Allow crawling of all content\nUser-agent: *\nDisallow: /visioncontent/\n\n# D2\nUser-agent: SurveyBot\nDisallow: /\n\nUser-agent: WebsiteWiki\nDisallow: /\n\nUser-agent: ShopWiki\nDisallow: /\n\nUser-agent: Jakarta Commons-HttpClient\nDisallow: /\n\nUser-Agent: AboutUsBot \nDisallow: /\n\nUser-agent: Semager\nDisallow: /"
+  }
+]

@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Herzberg (Elster)
+X-WR-CALDESC:Amtliche Veranstaltungen für Herzberg (Elster)
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:2849506@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260509T170000Z
+SUMMARY:Frühlingskonzert zum Mitsingen
+URL:https://www.herzberg-elster.de/veranstaltungen/2849506/2026/05/09/fr
+ ühlingskonzert-zum-mitsingen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2880111@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260510T140000Z
+SUMMARY:Der kleine Major Tom: Aufbruch ins Ungewisse
+URL:https://www.herzberg-elster.de/veranstaltungen/2880111/2026/05/10/der
+ -kleine-major-tom-aufbruch-ins-ungewisse.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849507@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260513T180000Z
+SUMMARY:Musikalische Mittwochsandacht
+URL:https://www.herzberg-elster.de/veranstaltungen/2849507/2026/05/13/mus
+ ikalische-mittwochsandacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2898574@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260513T190000Z
+SUMMARY:Einladung zur Informationsveranstaltung - Geplanter Solarpark mit
+  Batteriespeicher bei Friedersdorf
+URL:https://www.herzberg-elster.de/veranstaltungen/2898574/2026/05/13/ein
+ ladung-zur-informationsveranstaltung-geplanter-solarpark-mit-batteriespei
+ cher-bei-friedersdorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2891127@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260514T100000Z
+SUMMARY:Christi Himmelfahrt in Schwarzenburg
+URL:https://www.herzberg-elster.de/veranstaltungen/2891127/2026/05/14/chr
+ isti-himmelfahrt-in-schwarzenburg.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849508@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260520T180000Z
+SUMMARY:Musikalische Mittwochsandacht
+URL:https://www.herzberg-elster.de/veranstaltungen/2849508/2026/05/20/mus
+ ikalische-mittwochsandacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2883774@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260523T183000Z
+SUMMARY:Pfingsrock Open Air
+URL:https://www.herzberg-elster.de/veranstaltungen/2883774/2026/05/23/pfi
+ ngsrock-open-air.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849509@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260525T180000Z
+SUMMARY:Chorkonzert
+URL:https://www.herzberg-elster.de/veranstaltungen/2849509/2026/05/25/cho
+ rkonzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2795774@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260527T120000Z
+SUMMARY:Aufsuchende Sozialberatung des SoVD-Sozialmobils
+URL:https://www.herzberg-elster.de/veranstaltungen/2795774/2026/05/27/auf
+ suchende-sozialberatung-des-sovd-sozialmobils.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849510@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260527T180000Z
+SUMMARY:Musikalische Mittwochandacht
+URL:https://www.herzberg-elster.de/veranstaltungen/2849510/2026/05/27/mus
+ ikalische-mittwochandacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2893780@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260606T140000Z
+SUMMARY:Captain Schnuppes Weltraumreise
+URL:https://www.herzberg-elster.de/veranstaltungen/2893780/2026/06/06/cap
+ tain-schnuppes-weltraumreise.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2893781@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260611T180000Z
+SUMMARY:Neues aus dem Kosmos: ESO- die Südsternwarten
+URL:https://www.herzberg-elster.de/veranstaltungen/2893781/2026/06/11/neu
+ es-aus-dem-kosmos-eso-die-südsternwarten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2795776@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260624T120000Z
+SUMMARY:Aufsuchende Sozialberatung des SoVD-Sozialmobils
+URL:https://www.herzberg-elster.de/veranstaltungen/2795776/2026/06/24/auf
+ suchende-sozialberatung-des-sovd-sozialmobils.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2894207@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Special FUN Cup
+URL:https://www.herzberg-elster.de/veranstaltungen/2894207/2026/06/27/spe
+ cial-fun-cup.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849511@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260628T140000Z
+SUMMARY:Benefizkonzert
+URL:https://www.herzberg-elster.de/veranstaltungen/2849511/2026/06/28/ben
+ efizkonzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2863980@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260905T100000Z
+SUMMARY:Blaulicht Bronkow
+URL:https://www.herzberg-elster.de/veranstaltungen/2863980/2026/09/05/bla
+ ulicht-bronkow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849512@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260906T160000Z
+SUMMARY:Konzert für Sopran &amp\; Orgel
+URL:https://www.herzberg-elster.de/veranstaltungen/2849512/2026/09/06/kon
+ zert-für-sopran-amp-orgel.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849513@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260910T180000Z
+SUMMARY:&bdquo\;Gott.alein./die Ehr.&ldquo\;
+URL:https://www.herzberg-elster.de/veranstaltungen/2849513/2026/09/10/got
+ t.alein.-die-ehr.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2897149@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260913T060000Z
+SUMMARY:Oldtimer- & Teilemarkt Herzberg Elster
+URL:https://www.herzberg-elster.de/veranstaltungen/2897149/2026/09/13/old
+ timer-teilemarkt-herzberg-elster.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849514@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20260927T160000Z
+SUMMARY:Klavierkonzert
+URL:https://www.herzberg-elster.de/veranstaltungen/2849514/2026/09/27/kla
+ vierkonzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849516@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20261011T160000Z
+SUMMARY:Together in One
+URL:https://www.herzberg-elster.de/veranstaltungen/2849516/2026/10/11/tog
+ ether-in-one.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849518@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20261108T160000Z
+SUMMARY:Klänge aus der Puszta
+URL:https://www.herzberg-elster.de/veranstaltungen/2849518/2026/11/08/kl
+ änge-aus-der-puszta.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849519@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20261204T180000Z
+SUMMARY:Adventskonzert
+URL:https://www.herzberg-elster.de/veranstaltungen/2849519/2026/12/04/adv
+ entskonzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849520@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20261206T160000Z
+SUMMARY:Adventssingen
+URL:https://www.herzberg-elster.de/veranstaltungen/2849520/2026/12/06/adv
+ entssingen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849521@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20261219T170000Z
+SUMMARY:Offenes Singen
+URL:https://www.herzberg-elster.de/veranstaltungen/2849521/2026/12/19/off
+ enes-singen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849522@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20261224T220000Z
+SUMMARY:Weihnachtliche Orgelmusik im Kerzenschein
+URL:https://www.herzberg-elster.de/veranstaltungen/2849522/2026/12/24/wei
+ hnachtliche-orgelmusik-im-kerzenschein.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849523@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20261231T230000Z
+SUMMARY:Festliche Orgelmusik zum Jahreswechsel
+URL:https://www.herzberg-elster.de/veranstaltungen/2849523/2026/12/31/fes
+ tliche-orgelmusik-zum-jahreswechsel.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2849524@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20270101T160000Z
+SUMMARY:Neujahrskonzert
+URL:https://www.herzberg-elster.de/veranstaltungen/2849524/2027/01/01/neu
+ jahrskonzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2477269@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20270505T100000Z
+SUMMARY:Seniorencaf&egrave\;
+URL:https://www.herzberg-elster.de/veranstaltungen/2477269/2027/05/05/sen
+ iorencafè.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2439631@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20270505T160000Z
+SUMMARY:Sprach-Caf&egrave\;
+URL:https://www.herzberg-elster.de/veranstaltungen/2439631/2027/05/05/spr
+ ach-cafè.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2331049@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20270506T060000Z
+SUMMARY:Wochenmarkt
+URL:https://www.herzberg-elster.de/veranstaltungen/2331049/2027/05/06/woc
+ henmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2331050@amtsfeed.de
+DTSTAMP:20260508T183429Z
+DTSTART:20270508T063000Z
+SUMMARY:Wochenmarkt
+URL:https://www.herzberg-elster.de/veranstaltungen/2331050/2027/05/08/woc
+ henmarkt.html
+END:VEVENT
+END:VCALENDAR

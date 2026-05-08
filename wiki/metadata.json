@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T18:57:08.375Z",
+  "updatedAt": "2026-05-08T19:36:46.685Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -224,14 +224,14 @@
       "name": "Amt Schenkenländchen",
       "hasRss": true,
       "hasIcal": true,
-      "eventCount": 0,
+      "eventCount": 245,
       "newsCount": 20,
       "amtsblattCount": 662,
       "noticeCount": 0,
-      "updatedAt": "2026-05-08T18:42:41.882Z",
+      "updatedAt": "2026-05-08T19:36:31.077Z",
       "rssUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Amt%20Schenkenl%C3%A4ndchen/rss.xml",
       "icalUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Amt%20Schenkenl%C3%A4ndchen/events.ics",
-      "eventsUrl": null,
+      "eventsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Amt%20Schenkenl%C3%A4ndchen/events.json",
       "newsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Amt%20Schenkenl%C3%A4ndchen/news.json",
       "amtsblattUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Amt%20Schenkenl%C3%A4ndchen/amtsblatt.json",
       "noticesUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Amt%20Schenkenl%C3%A4ndchen/notices.json",
@@ -510,6 +510,28 @@
       "eventsUrl": null,
       "newsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Zeuthen/news.json",
       "amtsblattUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Zeuthen/amtsblatt.json",
+      "noticesUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Elbe-Elster",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Elbe-Elster"
+      ],
+      "name": "Landkreis Elbe-Elster",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 15,
+      "newsCount": 15,
+      "amtsblattCount": 64,
+      "noticeCount": 0,
+      "updatedAt": "2026-05-08T19:34:48.692Z",
+      "rssUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/rss.xml",
+      "icalUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/events.ics",
+      "eventsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/events.json",
+      "newsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/news.json",
+      "amtsblattUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Elbe-Elster/amtsblatt.json",
       "noticesUrl": null,
       "sources": []
     },

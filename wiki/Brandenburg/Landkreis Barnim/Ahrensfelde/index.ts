@@ -2,12 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { NewsFile, NewsItem, EventsFile, Event, AmtsblattFile, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { NewsFile, NewsItem, EventsFile, Event, AmtsblattFile, AmtsblattItem, NoticesFile, NoticeItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.ahrensfelde.de";
 const NEWS_URL = `${BASE_URL}/aktuelles-mehr/aktuelle-meldungen/`;
 const AMTSBLATT_ARCHIVE_URL = `${BASE_URL}/aktuelles-mehr/amtsblatt/amtsblatt-archiv/`;
+const NOTICES_URL = `${BASE_URL}/aktuelles-mehr/amtliche-bekanntmachungen/`;
 const KOMMUNE_ID = "30601";
 const DIR = dirname(fileURLToPath(import.meta.url));
 
@@ -179,6 +180,42 @@ function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): A
   return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// ── Notices ───────────────────────────────────────────────────────────────────
+// NOLIS CMS Bekanntmachungen list:
+// <td class="datum_news">DD.MM.YYYY&nbsp;-</td>
+// <td class="titel_news"><a href="URL"><span itemprop="name">TITLE</span></a></td>
+// ID: numeric part from URL pattern (\d{6,})-30601, else slug-based
+
+function extractNotices(html: string): NoticeItem[] {
+  const items: NoticeItem[] = [];
+  const now = new Date().toISOString();
+  const seen = new Set<string>();
+
+  const rx = /<td class="datum_news">(\d{2})\.(\d{2})\.(\d{4})[\s\S]{0,20}?<\/td>\s*<td class="titel_news"><a[^>]+href="([^"]+)"[^>]*><span[^>]*itemprop="name">([\s\S]*?)<\/span>/gi;
+  let m: RegExpExecArray | null;
+  while ((m = rx.exec(html)) !== null) {
+    const url = m[4]!.startsWith("http") ? m[4]! : `${BASE_URL}${m[4]!}`;
+    const title = decodeHtmlEntities((m[5] ?? "").replace(/<[^>]+>/g, "").trim());
+    if (!title) continue;
+
+    const idMatch = url.match(/(\d{6,})-30601/);
+    const id = idMatch ? `ahrensfelde-notice-${idMatch[1]!}` : `ahrensfelde-notice-${encodeURIComponent(title).slice(0, 60)}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const publishedAt = `${m[3]}-${m[2]}-${m[1]}T00:00:00.000Z`;
+    items.push({ id, title, url, publishedAt, fetchedAt: now });
+  }
+
+  return items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+function mergeNotices(existing: NoticeItem[], incoming: NoticeItem[]): NoticeItem[] {
+  const byId = new Map(existing.map((n) => [n.id, n]));
+  for (const n of incoming) byId.set(n.id, { ...n, fetchedAt: byId.get(n.id)?.fetchedAt ?? n.fetchedAt });
+  return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
 // ── Merge helpers ─────────────────────────────────────────────────────────────
 
 const NEWS_LIMIT = 50;
@@ -226,7 +263,7 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/aktuelles-mehr/aktuelle-meldungen/", "/veranstaltungen/veranstaltungen.ical", "/aktuelles-mehr/amtsblatt/"]);
+assertAllowed(robots, ["/aktuelles-mehr/aktuelle-meldungen/", "/veranstaltungen/veranstaltungen.ical", "/aktuelles-mehr/amtsblatt/", "/aktuelles-mehr/amtliche-bekanntmachungen/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
 
@@ -236,7 +273,7 @@ nextYear.setFullYear(nextYear.getFullYear() + 1);
 const fmt = (d: Date) => `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, "0")}${String(d.getDate()).padStart(2, "0")}`;
 const eventsIcalUrl = `${BASE_URL}/veranstaltungen/veranstaltungen.ical?zeitauswahl=1&auswahl_woche_tage=365&kategorie=0&selected_kommune=${KOMMUNE_ID}&beginn=${fmt(today)}000000&ende=${fmt(nextYear)}235959&intern=0`;
 
-const [newsHtml, eventsIcal, archiveHtml] = await Promise.all([
+const [newsHtml, eventsIcal, archiveHtml, noticesHtml] = await Promise.all([
   fetch(NEWS_URL, { headers }).then((r) => {
     if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`);
     return r.text();
@@ -246,6 +283,7 @@ const [newsHtml, eventsIcal, archiveHtml] = await Promise.all([
     return r.text();
   }),
   fetch(AMTSBLATT_ARCHIVE_URL, { headers }).then((r) => r.ok ? r.text() : ""),
+  fetch(NOTICES_URL, { headers }).then((r) => r.ok ? r.text() : ""),
 ]);
 
 const now = new Date().toISOString();
@@ -295,3 +333,9 @@ if (yearUrls.length > 0) {
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, allIncoming);
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 console.log(`amtsblatt: ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);
+
+const noticesPath = join(DIR, "notices.json");
+const existingNotices = loadJson<NoticesFile>(noticesPath, { updatedAt: "", items: [] });
+const mergedNotices = mergeNotices(existingNotices.items, extractNotices(noticesHtml));
+writeFileSync(noticesPath, JSON.stringify({ updatedAt: now, items: mergedNotices } satisfies NoticesFile, null, 2));
+console.log(`notices:   ${mergedNotices.length} Einträge → ${noticesPath}`);

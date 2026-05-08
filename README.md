@@ -20,7 +20,7 @@ Viele Ämter, Gemeinden und Städte veröffentlichen Veranstaltungen, Pressemitt
 | Brandenburg  | Landkreis Oder-Spree         | Amt Brieskow-Finkenheerd, Amt Neuzelle, Amt Scharmützelsee (Bad Saarow), Amt Schlaubetal, Amt Spreenhagen, Beeskow, Eisenhüttenstadt, Erkner, Friedland, Fürstenwalde/Spree, Grünheide (Mark), Rietz-Neuendorf, Schöneiche bei Berlin, Storkow (Mark), Tauche, Woltersdorf         |
 | Brandenburg  | Landkreis Potsdam-Mittelmark | Amt Beetzsee, Amt Brück, Amt Niemegk, Amt Wusterwitz, Amt Ziesar, Bad Belzig, Beelitz, Groß Kreutz, Kleinmachnow, Kloster Lehnin, Michendorf, Nuthetal, Schwielowsee, Seddiner See, Stahnsdorf, Teltow, Treuenbrietzen, Werder (Havel), Wiesenburg/Mark                           |
 | Brandenburg  | Landkreis Dahme-Spreewald    | Amt Schenkenländchen, Bestensee, Heideblick, Heidesee, Lübben (Spreewald), Luckau, Märkische Heide, Mittenwalde, Schulzendorf, Zeuthen                                                                                                                                            |
-| Brandenburg  | Landkreis Elbe-Elster        | Amt Kleine Elster (Niederlausitz), Amt Schlieben, Amt Schradenland, Bad Liebenwerda, Doberlug-Kirchhain, Elsterwerda, Finsterwalde, Herzberg (Elster), Röderland, Sonnewalde, Uebigau-Wahrenbrück                                                                                  |
+| Brandenburg  | Landkreis Elbe-Elster        | Amt Kleine Elster (Niederlausitz), Amt Plessa, Amt Schlieben, Amt Schradenland, Bad Liebenwerda, Doberlug-Kirchhain, Elsterwerda, Finsterwalde, Herzberg (Elster), Röderland, Sonnewalde, Uebigau-Wahrenbrück, Verbandsgemeinde Bad Liebenwerda                                    |
 
 ## Datenstruktur
 

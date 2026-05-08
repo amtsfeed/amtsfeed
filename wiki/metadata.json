@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:57:21.587Z",
+  "updatedAt": "2026-05-08T17:58:43.489Z",
   "feeds": [
     {
       "path": "Brandenburg/Landkreis Barnim/Ahrensfelde",
@@ -213,6 +213,75 @@
           "title": "Meldungen Werneuchen"
         }
       ]
+    },
+    {
+      "path": "Brandenburg/Landkreis Dahme-Spreewald/Bestensee",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Dahme-Spreewald",
+        "Bestensee"
+      ],
+      "name": "Bestensee",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 0,
+      "newsCount": 16,
+      "amtsblattCount": 30,
+      "noticeCount": 4,
+      "updatedAt": "2026-05-08T17:57:02.947Z",
+      "rssUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Bestensee/rss.xml",
+      "icalUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Bestensee/events.ics",
+      "eventsUrl": null,
+      "newsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Bestensee/news.json",
+      "amtsblattUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Bestensee/amtsblatt.json",
+      "noticesUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Bestensee/notices.json",
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Dahme-Spreewald/Heidesee",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Dahme-Spreewald",
+        "Heidesee"
+      ],
+      "name": "Heidesee",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 11,
+      "newsCount": 9,
+      "amtsblattCount": 0,
+      "noticeCount": 0,
+      "updatedAt": "2026-05-08T17:58:13.564Z",
+      "rssUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Heidesee/rss.xml",
+      "icalUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Heidesee/events.ics",
+      "eventsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Heidesee/events.json",
+      "newsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Heidesee/news.json",
+      "amtsblattUrl": null,
+      "noticesUrl": null,
+      "sources": []
+    },
+    {
+      "path": "Brandenburg/Landkreis Dahme-Spreewald/Mittenwalde",
+      "breadcrumb": [
+        "Brandenburg",
+        "Landkreis Dahme-Spreewald",
+        "Mittenwalde"
+      ],
+      "name": "Mittenwalde",
+      "hasRss": true,
+      "hasIcal": true,
+      "eventCount": 9,
+      "newsCount": 18,
+      "amtsblattCount": 0,
+      "noticeCount": 0,
+      "updatedAt": "2026-05-08T17:56:02.271Z",
+      "rssUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Mittenwalde/rss.xml",
+      "icalUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Mittenwalde/events.ics",
+      "eventsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Mittenwalde/events.json",
+      "newsUrl": "https://amtsfeed.github.io/amtsfeed/wiki/Brandenburg/Landkreis%20Dahme-Spreewald/Mittenwalde/news.json",
+      "amtsblattUrl": null,
+      "noticesUrl": null,
+      "sources": []
     },
     {
       "path": "Brandenburg/Landkreis Märkisch-Oderland/Altlandsberg",

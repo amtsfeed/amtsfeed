@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Heidesee
+X-WR-CALDESC:Amtliche Veranstaltungen für Heidesee
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:heidesee-event-20260509-fruehlingsfest-gussow@amtsfeed.de
+DTSTAMP:20260508T175813Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Frühlingsfest Gussow
+URL:https://gemeinde-heidesee.de/freizeit-und-tourismus-main/veranstaltun
+ gen-main
+END:VEVENT
+BEGIN:VEVENT
+UID:heidesee-event-20260509-pflanzentausch@amtsfeed.de
+DTSTAMP:20260508T175813Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Pflanzentausch
+URL:https://gemeinde-heidesee.de/freizeit-und-tourismus-main/veranstaltun
+ gen-main
+END:VEVENT
+BEGIN:VEVENT
+UID:heidesee-event-20260509-fruehlingsfest@amtsfeed.de
+DTSTAMP:20260508T175813Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Frühlingsfest
+URL:https://gemeinde-heidesee.de/freizeit-und-tourismus-main/veranstaltun
+ gen-main
+END:VEVENT
+BEGIN:VEVENT
+UID:heidesee-event-20260509-generationsangeln@amtsfeed.de
+DTSTAMP:20260508T175813Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Generationsangeln
+URL:https://gemeinde-heidesee.de/freizeit-und-tourismus-main/veranstaltun
+ gen-main
+END:VEVENT
+BEGIN:VEVENT
+UID:heidesee-event-20260510-bienentag@amtsfeed.de
+DTSTAMP:20260508T175813Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:Bienentag
+URL:https://gemeinde-heidesee.de/freizeit-und-tourismus-main/veranstaltun
+ gen-main
+END:VEVENT
+BEGIN:VEVENT
+UID:heidesee-event-20260510-flohmarkt@amtsfeed.de
+DTSTAMP:20260508T175813Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:Flohmarkt
+URL:https://gemeinde-heidesee.de/freizeit-und-tourismus-main/veranstaltun
+ gen-main
+END:VEVENT
+BEGIN:VEVENT
+UID:heidesee-event-20260510-fruehlingskonzert@amtsfeed.de
+DTSTAMP:20260508T175813Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:Frühlingskonzert
+URL:https://gemeinde-heidesee.de/freizeit-und-tourismus-main/veranstaltun
+ gen-main
+END:VEVENT
+BEGIN:VEVENT
+UID:heidesee-event-20260510-troedelmarkt@amtsfeed.de
+DTSTAMP:20260508T175813Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:Trödelmarkt
+URL:https://gemeinde-heidesee.de/freizeit-und-tourismus-main/veranstaltun
+ gen-main
+END:VEVENT
+BEGIN:VEVENT
+UID:heidesee-event-20260514-himmelfahrt-friedersdorf@amtsfeed.de
+DTSTAMP:20260508T175813Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Himmelfahrt Friedersdorf
+URL:https://gemeinde-heidesee.de/freizeit-und-tourismus-main/veranstaltun
+ gen-main
+END:VEVENT
+BEGIN:VEVENT
+UID:heidesee-event-20260514-himmelfahrt-wolzig@amtsfeed.de
+DTSTAMP:20260508T175813Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Himmelfahrt Wolzig
+URL:https://gemeinde-heidesee.de/freizeit-und-tourismus-main/veranstaltun
+ gen-main
+END:VEVENT
+BEGIN:VEVENT
+UID:heidesee-event-20260620-bambini@amtsfeed.de
+DTSTAMP:20260508T175813Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Bambini
+URL:https://gemeinde-heidesee.de/freizeit-und-tourismus-main/veranstaltun
+ gen-main
+END:VEVENT
+END:VCALENDAR

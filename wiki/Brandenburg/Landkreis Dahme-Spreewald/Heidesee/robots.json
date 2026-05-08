@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "gemeinde-heidesee.de",
+    "baseUrl": "https://gemeinde-heidesee.de",
+    "updatedAt": "2026-05-08T17:58:13.030Z",
+    "content": "# If the Joomla site is installed within a folder\r\n# eg www.example.com/joomla/ then the robots.txt file\r\n# MUST be moved to the site root\r\n# eg www.example.com/robots.txt\r\n# AND the joomla folder name MUST be prefixed to all of the\r\n# paths.\r\n# eg the Disallow rule for the /administrator/ folder MUST\r\n# be changed to read\r\n# Disallow: /joomla/administrator/\r\n#\r\n# For more information about the robots.txt standard, see:\r\n# https://www.robotstxt.org/orig.html\r\n\r\nUser-agent: *\r\nDisallow: /administrator/\r\nDisallow: /api/\r\nDisallow: /bin/\r\nDisallow: /cache/\r\nDisallow: /cli/\r\nDisallow: /components/\r\nDisallow: /includes/\r\nDisallow: /installation/\r\nDisallow: /language/\r\nDisallow: /layouts/\r\nDisallow: /libraries/\r\nDisallow: /logs/\r\nDisallow: /modules/\r\nDisallow: /plugins/\r\nDisallow: /tmp/\r\nDisallow: /*.pdf\r\nDisallow: /pdf/\r\n"
+  }
+]

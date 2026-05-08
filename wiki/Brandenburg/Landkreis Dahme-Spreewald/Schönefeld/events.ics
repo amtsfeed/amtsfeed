@@ -1,0 +1,3262 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Schönefeld
+X-WR-CALDESC:Amtliche Veranstaltungen für Schönefeld
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:schoenefeld-event-weihnachtsmarkt-in-waltersdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20221125
+DTEND;VALUE=DATE:20221126
+SUMMARY:Weihnachtsmarkt in Waltersdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/weihnachtsmarkt-in-walt
+ ersdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-weihnachtlicher-adventszauber-fuer-die-ganze-famili
+ e@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20221126
+DTEND;VALUE=DATE:20221127
+SUMMARY:Weihnachtlicher Adventszauber für die ganze Familie
+URL:https://gemeinde-schoenefeld.de/veranstaltung/weihnachtlicher-advents
+ zauber-fuer-die-ganze-familie/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-weihnachtsmarkt-in-waltersdorf-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20221126
+DTEND;VALUE=DATE:20221127
+SUMMARY:Weihnachtsmarkt in Waltersdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/weihnachtsmarkt-in-walt
+ ersdorf-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-weihnachtlicher-adventszauber-fuer-die-ganze-famili
+ e-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20221127
+DTEND;VALUE=DATE:20221128
+SUMMARY:Weihnachtlicher Adventszauber für die ganze Familie
+URL:https://gemeinde-schoenefeld.de/veranstaltung/weihnachtlicher-advents
+ zauber-fuer-die-ganze-familie-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-lichterfest-an-der-schoenefelder-dorfkirche@amtsfee
+ d.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20221127
+DTEND;VALUE=DATE:20221128
+SUMMARY:Lichterfest an der Schönefelder Dorfkirche
+URL:https://gemeinde-schoenefeld.de/veranstaltung/lichterfest-an-der-scho
+ enefelder-dorfkirche/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-weihnachtsmarkt-in-waltersdorf-3@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20221127
+DTEND;VALUE=DATE:20221128
+SUMMARY:Weihnachtsmarkt in Waltersdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/weihnachtsmarkt-in-walt
+ ersdorf-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventsmarkt-in-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20221203
+DTEND;VALUE=DATE:20221204
+SUMMARY:Adventsmarkt in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventsmarkt-in-grosszi
+ ethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-weihnachten-fuer-tiere@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20221203
+DTEND;VALUE=DATE:20221204
+SUMMARY:Weihnachten für Tiere
+URL:https://gemeinde-schoenefeld.de/veranstaltung/weihnachten-fuer-tiere/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20221212
+DTEND;VALUE=DATE:20221213
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-lebkuchenhaeuschen-schmuecken-in-der-oase@amtsfeed.
+ de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20221217
+DTEND;VALUE=DATE:20221218
+SUMMARY:Lebkuchenhäuschen schmücken in der „Oase“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/lebkuchenhaeuschen-schm
+ uecken-in-der-oase/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-seniorenweihnachtsfeier-ue75-im-rathaus@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20221221
+DTEND;VALUE=DATE:20221222
+SUMMARY:Seniorenweihnachtsfeier Ü75 im Rathaus
+URL:https://gemeinde-schoenefeld.de/veranstaltung/seniorenweihnachtsfeier
+ -ue75-im-rathaus/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede-2@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230109
+DTEND;VALUE=DATE:20230110
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-finissage-zur-ausstellung-urkraft@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230115
+DTEND;VALUE=DATE:20230116
+SUMMARY:Finissage zur Ausstellung „Urkraft“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/finissage-zur-ausstellu
+ ng-urkraft/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-3-ziethener-lichtblicke@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230121
+DTEND;VALUE=DATE:20230122
+SUMMARY:3. Ziethener Lichtblicke
+URL:https://gemeinde-schoenefeld.de/veranstaltung/3-ziethener-lichtblicke
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tag-der-offenen-tuer-am-osz@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230211
+DTEND;VALUE=DATE:20230212
+SUMMARY:Tag der offenen Tür am OSZ
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tag-der-offenen-tuer-am
+ -osz/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-grossziehtener-kulturschmiede@amtsfeed.d
+ e
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230213
+DTEND;VALUE=DATE:20230214
+SUMMARY:Stammtisch Großziehtener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-grossziehten
+ er-kulturschmiede/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-ausstellung-chrome-trifft-charakter@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230226
+DTEND;VALUE=DATE:20230227
+SUMMARY:Ausstellung: Chrome trifft Charakter
+URL:https://gemeinde-schoenefeld.de/veranstaltung/ausstellung-chrome-trif
+ ft-charakter/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-quappentag-im-biosphaerenreservat-spreewald@amtsfee
+ d.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230311
+DTEND;VALUE=DATE:20230312
+SUMMARY:Quappentag im Biosphärenreservat Spreewald
+URL:https://gemeinde-schoenefeld.de/veranstaltung/quappentag-im-biosphaer
+ enreservat-spreewald/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-16-benefizkonzert-des-stabsmusikkorps-der-bundesweh
+ r@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230312
+DTEND;VALUE=DATE:20230313
+SUMMARY:16. Benefizkonzert des Stabsmusikkorps der Bundeswehr
+URL:https://gemeinde-schoenefeld.de/veranstaltung/16-benefizkonzert-des-s
+ tabsmusikkorps-der-bundeswehr/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede-3@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230313
+DTEND;VALUE=DATE:20230314
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tanz-in-den-fruehling-ue70@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230324
+DTEND;VALUE=DATE:20230325
+SUMMARY:Tanz in den Frühling „Ü70“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tanz-in-den-fruehling-u
+ e70/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-2-ziethener-hasenfest@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230325
+DTEND;VALUE=DATE:20230326
+SUMMARY:2. Ziethener Hasenfest
+URL:https://gemeinde-schoenefeld.de/veranstaltung/2-ziethener-hasenfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kehrtag-der-gemeinde-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230401
+DTEND;VALUE=DATE:20230402
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Kehrtag der Gemeinde Sch
+ önefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kehrtag-der-gemeinde-sc
+ hoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-vernissage-waldmagie@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230402
+DTEND;VALUE=DATE:20230403
+SUMMARY:Vernissage Waldmagie
+URL:https://gemeinde-schoenefeld.de/veranstaltung/vernissage-waldmagie/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-osterfeuer-in-wassmannsdorf@am
+ tsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230406
+DTEND;VALUE=DATE:20230407
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Osterfeuer in Waßmannsdo
+ rf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-os
+ terfeuer-in-wassmannsdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfloetenkonzert@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230408
+DTEND;VALUE=DATE:20230409
+SUMMARY:Osterflötenkonzert
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfloetenkonzert/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-osterfeuer-in-rotberg@amtsfeed
+ .de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230408
+DTEND;VALUE=DATE:20230409
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Osterfeuer in Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-os
+ terfeuer-in-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede-4@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230410
+DTEND;VALUE=DATE:20230411
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-seniorinnenradtour-nach-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230421
+DTEND;VALUE=DATE:20230422
+SUMMARY:Senior*innenradtour nach Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/seniorinnenradtour-nach
+ -grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-lesung-oberschueler-praesentieren-schulhausroman@am
+ tsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230426
+DTEND;VALUE=DATE:20230427
+SUMMARY:Lesung: Oberschüler präsentieren Schulhausroman
+URL:https://gemeinde-schoenefeld.de/veranstaltung/lesung-oberschueler-pra
+ esentieren-schulhausroman/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-flohmarkt-in-der-oase@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230430
+DTEND;VALUE=DATE:20230501
+SUMMARY:Flohmarkt in der Oase
+URL:https://gemeinde-schoenefeld.de/veranstaltung/flohmarkt-in-der-oase/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tanz-in-den-mai-in-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230430
+DTEND;VALUE=DATE:20230501
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Tanz in den Mai in Schön
+ efeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tanz-in-den-mai-in-scho
+ enefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-tanz-in-den-mai-in-grossziethe
+ n@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230430
+DTEND;VALUE=DATE:20230501
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Tanz in den Mai in Großz
+ iethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-ta
+ nz-in-den-mai-in-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-fruehlingsfest-in-waltersdorf@
+ amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230430
+DTEND;VALUE=DATE:20230501
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Frühlingsfest in Walters
+ dorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-fr
+ uehlingsfest-in-waltersdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-familienfest-in-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230501
+DTEND;VALUE=DATE:20230502
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Familienfest in Schönefe
+ ld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/familienfest-in-schoene
+ feld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-familienpatinnen-werden-infoveranstaltung-fuer-inte
+ ressierte@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230502
+DTEND;VALUE=DATE:20230503
+SUMMARY:Familienpat*innen werden: Infoveranstaltung für Interessierte
+URL:https://gemeinde-schoenefeld.de/veranstaltung/familienpatinnen-werden
+ -infoveranstaltung-fuer-interessierte/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-durchstarten-1-job-messe-am-ber@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230506
+DTEND;VALUE=DATE:20230507
+SUMMARY:Durchstarten: 1. Job-Messe am BER
+URL:https://gemeinde-schoenefeld.de/veranstaltung/durchstarten-1-job-mess
+ e-am-ber/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-konzeptwerkstatt-fuer-spiel-und-erholungspark-gross
+ ziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230506
+DTEND;VALUE=DATE:20230507
+SUMMARY:Konzeptwerkstatt für Spiel- und Erholungspark Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/konzeptwerkstatt-fuer-s
+ piel-und-erholungspark-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede-5@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230508
+DTEND;VALUE=DATE:20230509
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-bau-pflanz-und-malerworkshop-in-der-oase@amtsfeed.d
+ e
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230513
+DTEND;VALUE=DATE:20230514
+SUMMARY:Bau-\, Pflanz- und Malerworkshop in der Oase
+URL:https://gemeinde-schoenefeld.de/veranstaltung/bau-pflanz-und-malerwor
+ kshop-in-der-oase/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tenoere4you-tour-2023-mitsingkonzert-in-schoenefeld
+ @amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230516
+DTEND;VALUE=DATE:20230517
+SUMMARY:Tenöre4you-Tour 2023: Mitsingkonzert in Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tenoere4you-tour-2023-m
+ itsingkonzert-in-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-ziethener-pfotenfest@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230527
+DTEND;VALUE=DATE:20230528
+SUMMARY:Ziethener Pfotenfest
+URL:https://gemeinde-schoenefeld.de/veranstaltung/ziethener-pfotenfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-virtuose-floetenklaenge-in-schoenefelder-dorfkirche
+ @amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230601
+DTEND;VALUE=DATE:20230602
+SUMMARY:Virtuose Flötenklänge in Schönefelder Dorfkirche
+URL:https://gemeinde-schoenefeld.de/veranstaltung/virtuose-floetenklaenge
+ -in-schoenefelder-dorfkirche/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-galerie-fruehstueck-auf-dem-kunsthof@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230603
+DTEND;VALUE=DATE:20230604
+SUMMARY:Galerie-Frühstück auf dem Kunsthof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/galerie-fruehstueck-auf
+ -dem-kunsthof/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-kirchenkonzert-in-rotberg@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230604
+DTEND;VALUE=DATE:20230605
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Kirchenkonzert in Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-ki
+ rchenkonzert-in-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-dorfkirche-rotberg-jeannette-rasenberger-in-konzert
+ @amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230604
+DTEND;VALUE=DATE:20230605
+SUMMARY:Dorfkirche Rotberg: Jeannette Rasenberger in Konzert
+URL:https://gemeinde-schoenefeld.de/veranstaltung/dorfkirche-rotberg-jean
+ nette-rasenberger-in-konzert/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-infoveranstaltung-zur-kindertagespflege@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230607
+DTEND;VALUE=DATE:20230608
+SUMMARY:Kindertagespflege: Informationsveranstaltung im Rathaus
+URL:https://gemeinde-schoenefeld.de/veranstaltung/infoveranstaltung-zur-k
+ indertagespflege/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-kirchenkonzert-in-waltersdorf@
+ amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230609
+DTEND;VALUE=DATE:20230610
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Kirchenkonzert in Walters
+ dorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-ki
+ rchenkonzert-in-waltersdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-latin-for-lovers-grupo-corcovado-in-waltersdorf@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230609
+DTEND;VALUE=DATE:20230610
+SUMMARY:Latin for Lovers: Grupo Corcovado in Waltersdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/latin-for-lovers-grupo-
+ corcovado-in-waltersdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-klassik-konzert-in-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230611
+DTEND;VALUE=DATE:20230612
+SUMMARY:Klassik-Konzert in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/klassik-konzert-in-gros
+ sziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede-6@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230612
+DTEND;VALUE=DATE:20230613
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-orgelmusik-konzert-in-schoenefelder-dorfkirche@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230615
+DTEND;VALUE=DATE:20230616
+SUMMARY:Orgelmusik-Konzert in Schönefelder Dorfkirche
+URL:https://gemeinde-schoenefeld.de/veranstaltung/orgelmusik-konzert-in-s
+ choenefelder-dorfkirche/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-von-evergreen-bis-rock-jazz-auf-dem-kunsthof@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230617
+DTEND;VALUE=DATE:20230618
+SUMMARY:Von Evergreen bis Rock: Jazz auf dem Kunsthof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/von-evergreen-bis-rock-
+ jazz-auf-dem-kunsthof/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-youth-safe-rave-fest-der-jugend@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230624
+DTEND;VALUE=DATE:20230625
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Youth SaveRave (Fest der 
+ Jugend)
+URL:https://gemeinde-schoenefeld.de/veranstaltung/youth-safe-rave-fest-de
+ r-jugend/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-informationsveranstaltung-finanzielle-absicherung-i
+ m-alter@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230626
+DTEND;VALUE=DATE:20230627
+SUMMARY:Informationsveranstaltung: Finanzielle Absicherung im Alter
+URL:https://gemeinde-schoenefeld.de/veranstaltung/informationsveranstaltu
+ ng-finanzielle-absicherung-im-alter/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-7543@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230630
+SUMMARY:Fluglärm im Fokus: FBB lädt zum Schallschutztag in Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/7543/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-lange-nacht-der-wirtschaft-schoenefeld-und-nachbarn
+ -praesentieren-sich@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230630
+DTEND;VALUE=DATE:20230701
+SUMMARY:Lange Nacht der Wirtschaft: Schönefeld und Nachbarn präsentiere
+ n sich
+URL:https://gemeinde-schoenefeld.de/veranstaltung/lange-nacht-der-wirtsch
+ aft-schoenefeld-und-nachbarn-praesentieren-sich/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-in-waltersdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Sommerfest in Waltersdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-in-waltersdo
+ rf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-fuer-gewerbetreibende-in-schoenefeld@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230704
+DTEND;VALUE=DATE:20230705
+SUMMARY:Stammtisch für Gewerbetreibende in Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-fuer-gewerbe
+ treibende-in-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-orgelfest-mit-hoererwuenschen-und-literaturstuecken
+ @amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230706
+DTEND;VALUE=DATE:20230707
+SUMMARY:Orgelfest mit Hörerwünschen und Literaturstücken
+URL:https://gemeinde-schoenefeld.de/veranstaltung/orgelfest-mit-hoererwue
+ nschen-und-literaturstuecken/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-konzeptpraesentation-spiel-und-erholungspark-grossz
+ iethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230706
+DTEND;VALUE=DATE:20230707
+SUMMARY:Konzeptpräsentation Spiel- und Erholungspark Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/konzeptpraesentation-sp
+ iel-und-erholungspark-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-insek-in-schoenefeld-ergebnispraesentation-im-dialo
+ gforum@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230707
+DTEND;VALUE=DATE:20230708
+SUMMARY:INSEK in Schönefeld: Ergebnispräsentation im Dialogforum
+URL:https://gemeinde-schoenefeld.de/veranstaltung/insek-in-schoenefeld-er
+ gebnispraesentation-im-dialogforum/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-sommerfest-in-rotberg@amtsfeed
+ .de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230708
+DTEND;VALUE=DATE:20230709
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Sommerfest in Rotberg auf
+  der Festwiese
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-so
+ mmerfest-in-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-ortsteil-sommerfest-in-wassman
+ nsdorf-auf-dem-sportplatz@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230708
+DTEND;VALUE=DATE:20230709
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Ortsteil-/Sommerfest in W
+ aßmannsdorf auf dem Sportplatz
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-or
+ tsteil-sommerfest-in-wassmannsdorf-auf-dem-sportplatz/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede-7@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230710
+DTEND;VALUE=DATE:20230711
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-im-eltern-kind-zentrum-und-mehrgeneratio
+ nenhaus-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230713
+DTEND;VALUE=DATE:20230714
+SUMMARY:Sommerfest im Eltern-Kind-Zentrum und Mehrgenerationenhaus Schön
+ efeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-im-eltern-ki
+ nd-zentrum-und-mehrgenerationenhaus-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-dorffest-in-selchow@amtsfeed.d
+ e
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230716
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Dorffest in Selchow
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-do
+ rffest-in-selchow/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-drachenboot-schnuppertraining-in-gruenau@amtsfeed.d
+ e
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230727
+DTEND;VALUE=DATE:20230728
+SUMMARY:Drachenboot-Schnuppertraining in Grünau
+URL:https://gemeinde-schoenefeld.de/veranstaltung/drachenboot-schnuppertr
+ aining-in-gruenau/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede-8@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230814
+DTEND;VALUE=DATE:20230815
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-drachenboot-schnuppertraining-in-gruenau-2@amtsfeed
+ .de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230824
+DTEND;VALUE=DATE:20230825
+SUMMARY:Drachenboot-Schnuppertraining in Grünau
+URL:https://gemeinde-schoenefeld.de/veranstaltung/drachenboot-schnuppertr
+ aining-in-gruenau-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-awo-kinderstrassenfest-koenigs-wusterhausen@amtsfee
+ d.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230830
+DTEND;VALUE=DATE:20230831
+SUMMARY:AWO-Kinderstraßenfest Königs Wusterhausen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/awo-kinderstrassenfest-
+ koenigs-wusterhausen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-buntes-familienfest-und-abschi
+ ed-terminal-5@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230902
+DTEND;VALUE=DATE:20230903
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Buntes Familienfest und A
+ bschied T5
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-bu
+ ntes-familienfest-und-abschied-terminal-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-familienpatinnen-werden-inforveranstaltung-fuer-int
+ eressierte@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230905
+DTEND;VALUE=DATE:20230906
+SUMMARY:Familienpat*innen werden: Infoveranstaltung für Interessierte
+URL:https://gemeinde-schoenefeld.de/veranstaltung/familienpatinnen-werden
+ -inforveranstaltung-fuer-interessierte/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-auftakt-stadtradeln-2023@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230909
+DTEND;VALUE=DATE:20230910
+SUMMARY:Auftakt STADTRADELN 2023
+URL:https://gemeinde-schoenefeld.de/veranstaltung/auftakt-stadtradeln-202
+ 3/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede-9@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230911
+DTEND;VALUE=DATE:20230912
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-zukunft-ausbildung-messe-im-oberstufenzentrum-kw@am
+ tsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20230916
+DTEND;VALUE=DATE:20230917
+SUMMARY:Zukunft Ausbildung: Messe im Oberstufenzentrum KW
+URL:https://gemeinde-schoenefeld.de/veranstaltung/zukunft-ausbildung-mess
+ e-im-oberstufenzentrum-kw/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede-10@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231009
+DTEND;VALUE=DATE:20231010
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sportlerball@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231014
+DTEND;VALUE=DATE:20231015
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Sportlerball
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sportlerball/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-flughafengemeinde-schoenefeld-herbstfeuer-
+ in-rotberg@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231014
+DTEND;VALUE=DATE:20231015
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Herbstfeuer in Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-flughafengemei
+ nde-schoenefeld-herbstfeuer-in-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-duo-amortal-tango-in-der-dorfkirche@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231021
+DTEND;VALUE=DATE:20231022
+SUMMARY:Duo Amortal: Tango in der Dorfkirche Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/duo-amortal-tango-in-de
+ r-dorfkirche/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-einbruchschutz-polizei-laedt-zur-infoveranstaltung@
+ amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231026
+DTEND;VALUE=DATE:20231027
+SUMMARY:Einbruchschutz: Polizei lädt zur Infoveranstaltung
+URL:https://gemeinde-schoenefeld.de/veranstaltung/einbruchschutz-polizei-
+ laedt-zur-infoveranstaltung/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-halloweenfeier@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231031
+DTEND;VALUE=DATE:20231101
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Halloweenfeier
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-ha
+ lloweenfeier/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede-11@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231113
+DTEND;VALUE=DATE:20231114
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-informationsveranstaltung-zu-breitbandausbau@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231114
+DTEND;VALUE=DATE:20231115
+SUMMARY:Informationsveranstaltung zum Breitbandausbau
+URL:https://gemeinde-schoenefeld.de/veranstaltung/informationsveranstaltu
+ ng-zu-breitbandausbau/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tag-der-offenen-tuer-an-der-evangelischen-schule-sc
+ hoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231117
+DTEND;VALUE=DATE:20231118
+SUMMARY:Tag der offenen Tür an der Evangelischen Schule Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tag-der-offenen-tuer-an
+ -der-evangelischen-schule-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-infoveranstaltung-grenzen-setzen-bei-kindern@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231118
+DTEND;VALUE=DATE:20231119
+SUMMARY:Infoveranstaltung Grenzen setzen bei Kindern
+URL:https://gemeinde-schoenefeld.de/veranstaltung/infoveranstaltung-grenz
+ en-setzen-bei-kindern/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-volkstrauertag-schoenefeld-gedenkt-kriegsopfern@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231119
+DTEND;VALUE=DATE:20231120
+SUMMARY:Volkstrauertag: Schönefeld gedenkt Kriegsopfern
+URL:https://gemeinde-schoenefeld.de/veranstaltung/volkstrauertag-schoenef
+ eld-gedenkt-kriegsopfern/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-informationsveranstaltung-zu-breitbandausbau-grossz
+ iethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231121
+DTEND;VALUE=DATE:20231122
+SUMMARY:Informationsveranstaltung zum Breitbandausbau Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/informationsveranstaltu
+ ng-zu-breitbandausbau-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-lieblings-fruehstueck-fuer-muetter-mit-baby@amtsfee
+ d.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231123
+DTEND;VALUE=DATE:20231124
+SUMMARY:Lieblings-Frühstück für Mütter mit Baby
+URL:https://gemeinde-schoenefeld.de/veranstaltung/lieblings-fruehstueck-f
+ uer-muetter-mit-baby/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventskranz-basteln-fuer-familien@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231125
+DTEND;VALUE=DATE:20231126
+SUMMARY:Adventskranz-Basteln für Familien
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventskranz-basteln-fu
+ er-familien/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-mehr-gelassenheit-im-familienalltag-kompaktkurs-in-
+ wildau@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231129
+DTEND;VALUE=DATE:20231130
+SUMMARY:Mehr Gelassenheit im Familienalltag: Kompaktkurs in Wildau
+URL:https://gemeinde-schoenefeld.de/veranstaltung/mehr-gelassenheit-im-fa
+ milienalltag-kompaktkurs-in-wildau/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-erste-lichterfahrt-der-freiwilligen-feuerwehr-gross
+ ziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20231202
+SUMMARY:Erste Lichterfahrt der Freiwilligen Feuerwehr Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/erste-lichterfahrt-der-
+ freiwilligen-feuerwehr-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventsfeier@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231202
+DTEND;VALUE=DATE:20231203
+SUMMARY:Adventsfeier
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventsfeier/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-lichterfest@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231203
+DTEND;VALUE=DATE:20231204
+SUMMARY:1. Advent: Schönefelder Lichterfest
+URL:https://gemeinde-schoenefeld.de/veranstaltung/lichterfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventum@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231209
+DTEND;VALUE=DATE:20231210
+SUMMARY:Adventum
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventum/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventsmarkt-in-grossziethen-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231209
+DTEND;VALUE=DATE:20231210
+SUMMARY:Adventsmarkt in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventsmarkt-in-grosszi
+ ethen-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-gospelkonzert-mit-kirk-smith@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231209
+DTEND;VALUE=DATE:20231210
+SUMMARY:Gospelkonzert mit Kirk Smith
+URL:https://gemeinde-schoenefeld.de/veranstaltung/gospelkonzert-mit-kirk-
+ smith/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stammtisch-der-grossziethener-kulturschmiede-12@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231211
+DTEND;VALUE=DATE:20231212
+SUMMARY:Stammtisch der Großziethener Kulturschmiede
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stammtisch-der-grosszie
+ thener-kulturschmiede-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventssingen-in-der-sgg-arena-grossziethen@amtsfee
+ d.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231216
+DTEND;VALUE=DATE:20231217
+SUMMARY:Adventssingen in der SGG Arena Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventssingen-in-der-sg
+ g-arena-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-christmas-special-in-kiekebusch-matthias-wacker-fri
+ ends@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231217
+DTEND;VALUE=DATE:20231218
+SUMMARY:Christmas Special in Kiekebusch: Matthias Wacker & Friends
+URL:https://gemeinde-schoenefeld.de/veranstaltung/christmas-special-in-ki
+ ekebusch-matthias-wacker-friends/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-weihnachtliches-konzert-fuer-trompete-und-orgel@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231226
+SUMMARY:Weihnachtliches Konzert für Trompete und Orgel
+URL:https://gemeinde-schoenefeld.de/veranstaltung/weihnachtliches-konzert
+ -fuer-trompete-und-orgel/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-vom-mauerweg-zum-europaradweg-vortrag-im-rathaus@am
+ tsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240118
+DTEND;VALUE=DATE:20240119
+SUMMARY:Vom Mauerweg zum Europaradweg: Vortrag im Rathaus
+URL:https://gemeinde-schoenefeld.de/veranstaltung/vom-mauerweg-zum-europa
+ radweg-vortrag-im-rathaus/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-familien-brunch-in-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240204
+DTEND;VALUE=DATE:20240205
+SUMMARY:Familien-Brunch in Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/familien-brunch-in-scho
+ enefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-konzert-in-der-dorfkirche-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240222
+DTEND;VALUE=DATE:20240223
+SUMMARY:Konzert in der Dorfkirche Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/konzert-in-der-dorfkirc
+ he-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-familientreff-neues-angebot-in-grossziethen@amtsfee
+ d.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240222
+DTEND;VALUE=DATE:20240223
+SUMMARY:Familientreff: Neues Angebot in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/familientreff-neues-ang
+ ebot-in-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kochen-im-gemeindezentrum-grossziethen-2@amtsfeed.d
+ e
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240223
+DTEND;VALUE=DATE:20240224
+SUMMARY:Kochen im Gemeindezentrum Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kochen-im-gemeindezentr
+ um-grossziethen-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kochen-im-gemeindezentrum-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240224
+DTEND;VALUE=DATE:20240225
+SUMMARY:Kochen im Gemeindezentrum Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kochen-im-gemeindezentr
+ um-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-der-gentleman-ausstellung-auf-dem-kunsthof@amtsfeed
+ .de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240225
+DTEND;VALUE=DATE:20240226
+SUMMARY:„Der Gentleman“ – Ausstellung auf dem Kunsthof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/der-gentleman-ausstellu
+ ng-auf-dem-kunsthof/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-frauen-machen-kommunalpolitik-1-netzwerkabend-in-sc
+ hoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240302
+SUMMARY:Frauen machen Kommunalpolitik: 1. Netzwerkabend in Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/frauen-machen-kommunalp
+ olitik-1-netzwerkabend-in-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-chormusik-in-der-dorfkirche-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240307
+DTEND;VALUE=DATE:20240308
+SUMMARY:Chormusik in der Dorfkirche Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/chormusik-in-der-dorfki
+ rche-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-frauentagsfeier@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240309
+DTEND;VALUE=DATE:20240310
+SUMMARY:Frauentagsfeier Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/frauentagsfeier/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-grosser-flohmarkt-im-kaufhausstil@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240309
+DTEND;VALUE=DATE:20240310
+SUMMARY:Großer Flohmarkt im Kaufhausstil
+URL:https://gemeinde-schoenefeld.de/veranstaltung/grosser-flohmarkt-im-ka
+ ufhausstil/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kreativer-mittwoch-linoldruckwerkstatt-fuer-frauen@
+ amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240313
+DTEND;VALUE=DATE:20240314
+SUMMARY:Kreativer Mittwoch – Linoldruckwerkstatt für Frauen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kreativer-mittwoch-lino
+ ldruckwerkstatt-fuer-frauen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-seniorenbeirat-schoenefeld-tanz-in-den-fruehling@am
+ tsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240315
+DTEND;VALUE=DATE:20240316
+SUMMARY:Seniorenbeirat Ortsteil Schönefeld: Tanz in den Frühling
+URL:https://gemeinde-schoenefeld.de/veranstaltung/seniorenbeirat-schoenef
+ eld-tanz-in-den-fruehling/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-ziethener-hasenfest-am-haus-belger@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240316
+DTEND;VALUE=DATE:20240317
+SUMMARY:Ziethener Hasenfest am Haus Belger
+URL:https://gemeinde-schoenefeld.de/veranstaltung/ziethener-hasenfest-am-
+ haus-belger/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-selbstverteidigungskurs-fuer-maedchen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240317
+DTEND;VALUE=DATE:20240318
+SUMMARY:Selbstverteidigungskurs für Mädchen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/selbstverteidigungskurs
+ -fuer-maedchen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-praesentation-strassenausbau-waldstrasse-und-garten
+ strasse-ortsteil-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240319
+DTEND;VALUE=DATE:20240320
+SUMMARY:Präsentation Straßenausbau Waldstraße und Gartenstraße\, Orts
+ teil Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/praesentation-strassena
+ usbau-waldstrasse-und-gartenstrasse-ortsteil-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-fit-fuer-kommunalpolitik-workshops-fuer-politikinte
+ ressierte-frauen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240322
+SUMMARY:Fit für Kommunalpolitik: Workshops für politikinteressierte Fra
+ uen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/fit-fuer-kommunalpoliti
+ k-workshops-fuer-politikinteressierte-frauen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfeuer-wassmannsdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240328
+DTEND;VALUE=DATE:20240329
+SUMMARY:Osterfeuer Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfeuer-wassmannsdor
+ f/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfeuer-in-rotberg@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240331
+SUMMARY:Osterfeuer in Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfeuer-in-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfeuer-in-kiekebusch@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240331
+SUMMARY:Osterfeuer in Kiekebusch
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfeuer-in-kiekebusc
+ h/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfeuer-in-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240331
+SUMMARY:Osterfeuer in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfeuer-in-grossziet
+ hen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-buergerwerkstatt-entwicklungsgebiet-schoenefeld-nor
+ d@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240411
+DTEND;VALUE=DATE:20240412
+SUMMARY:Bürgerwerkstatt Entwicklungsgebiet Schönefeld Nord
+URL:https://gemeinde-schoenefeld.de/veranstaltung/buergerwerkstatt-entwic
+ klungsgebiet-schoenefeld-nord/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-fruehjahrs-kehrtag@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240413
+DTEND;VALUE=DATE:20240414
+SUMMARY:Frühjahrs-Kehrtag
+URL:https://gemeinde-schoenefeld.de/veranstaltung/fruehjahrs-kehrtag/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-family-brunch@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240414
+DTEND;VALUE=DATE:20240415
+SUMMARY:Family Brunch
+URL:https://gemeinde-schoenefeld.de/veranstaltung/family-brunch/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-familienflohmarkt-in-wassmannsdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240420
+DTEND;VALUE=DATE:20240421
+SUMMARY:Familienflohmarkt in Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/familienflohmarkt-in-wa
+ ssmannsdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-orgelkonzert-in-der-dorfkirche-schoenefeld@amtsfeed
+ .de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240425
+DTEND;VALUE=DATE:20240426
+SUMMARY:Orgelkonzert in der Dorfkirche Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/orgelkonzert-in-der-dor
+ fkirche-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-blaulichttag-im-kiez-frauensee@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240427
+DTEND;VALUE=DATE:20240428
+SUMMARY:Blaulichttag im KiEZ Frauensee
+URL:https://gemeinde-schoenefeld.de/veranstaltung/blaulichttag-im-kiez-fr
+ auensee/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sicher-handeln-in-der-not-selbstverteidigungskurs-f
+ uer-maedchen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240427
+DTEND;VALUE=DATE:20240428
+SUMMARY:Sicher handeln in der Not: Selbstverteidigungskurs für Mädchen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sicher-handeln-in-der-n
+ ot-selbstverteidigungskurs-fuer-maedchen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tanz-in-den-mai-im-ortsteil-grossziethen@amtsfeed.d
+ e
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+SUMMARY:Tanz in den Mai im Ortsteil Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tanz-in-den-mai-im-orts
+ teil-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tanz-in-den-mai-im-ortsteil-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+SUMMARY:Tanz in den Mai im Ortsteil Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tanz-in-den-mai-im-orts
+ teil-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-familien-maifest@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240501
+DTEND;VALUE=DATE:20240502
+SUMMARY:Familien-Maifest
+URL:https://gemeinde-schoenefeld.de/veranstaltung/familien-maifest/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-gespraechsrunde-zur-wahl-des-kreistages-dahme-spree
+ wald@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240513
+DTEND;VALUE=DATE:20240514
+SUMMARY:Gesprächsrunde zur Wahl des Kreistages Dahme-Spreewald
+URL:https://gemeinde-schoenefeld.de/veranstaltung/gespraechsrunde-zur-wah
+ l-des-kreistages-dahme-spreewald/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-orgelkonzert-in-der-dorfkirche-schoenefeld-2@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240516
+DTEND;VALUE=DATE:20240517
+SUMMARY:Orgelkonzert in der Dorfkirche Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/orgelkonzert-in-der-dor
+ fkirche-schoenefeld-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-fruehlingskonzert-scheunenchor@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240525
+DTEND;VALUE=DATE:20240526
+SUMMARY:Frühlingskonzert Scheunenchor
+URL:https://gemeinde-schoenefeld.de/veranstaltung/fruehlingskonzert-scheu
+ nenchor/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-in-rotberg@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+SUMMARY:Sommerfest in Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-in-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-gropius-chor-und-chor-cantabile-in-der-dorfkirche-g
+ rossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+SUMMARY:Gropius-Chor und Chor Cantabile in der Dorfkirche Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/gropius-chor-und-chor-c
+ antabile-in-der-dorfkirche-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-landtag-brandenburg-tag-der-offenen-tuer@amtsfeed.d
+ e
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+SUMMARY:Landtag Brandenburg: Tag der offenen Tür
+URL:https://gemeinde-schoenefeld.de/veranstaltung/landtag-brandenburg-tag
+ -der-offenen-tuer/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schallschutztag@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240613
+DTEND;VALUE=DATE:20240614
+SUMMARY:Schallschutztag
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schallschutztag/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-auf-dem-kinderbauernhof@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240616
+DTEND;VALUE=DATE:20240617
+SUMMARY:Sommerfest auf dem Kinderbauernhof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-auf-dem-kind
+ erbauernhof/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-fete-de-la-musique-live-musik-auf-drei-buehnen@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240622
+SUMMARY:Fête de la musique: Live-Musik auf drei Bühnen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/fete-de-la-musique-live
+ -musik-auf-drei-buehnen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-rock-classics-konzert-in-der-dorfkirche-kiekebusch@
+ amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240622
+DTEND;VALUE=DATE:20240623
+SUMMARY:„Rock Classics“: Konzert in der Dorfkirche Kiekebusch
+URL:https://gemeinde-schoenefeld.de/veranstaltung/rock-classics-konzert-i
+ n-der-dorfkirche-kiekebusch/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-stadtradeln-fahrradtor-rund-um-den-flughafen@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
+SUMMARY:STADTRADELN-Fahrradtour „Rund um den Flughafen“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/stadtradeln-fahrradtor-
+ rund-um-den-flughafen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-technik-zum-anfassen-auf-innovationsmeile-2024-in-w
+ ildau@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
+SUMMARY:Technik zum Anfassen auf Innovationsmeile 2024 in Wildau
+URL:https://gemeinde-schoenefeld.de/veranstaltung/technik-zum-anfassen-au
+ f-innovationsmeile-2024-in-wildau/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-der-evangelischen-schule-schoenefeld@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:Sommerfest der Evangelischen Schule Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-der-evangeli
+ schen-schule-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-meer-liebe-maritimes-fest-auf-dem-kunsthof@amtsfeed
+ .de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240707
+DTEND;VALUE=DATE:20240708
+SUMMARY:Meer-Liebe: Maritimes Fest auf dem Kunsthof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/meer-liebe-maritimes-fe
+ st-auf-dem-kunsthof/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kandidatinnen-stehen-rede-und-antwort-podiumsdiskus
+ sion-zur-landtagswahl@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240711
+DTEND;VALUE=DATE:20240712
+SUMMARY:Kandidat*innen stehen Rede und Antwort: Podiumsdiskussion zur Lan
+ dtagswahl
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kandidatinnen-stehen-re
+ de-und-antwort-podiumsdiskussion-zur-landtagswahl/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-in-kiekebusch@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240713
+DTEND;VALUE=DATE:20240714
+SUMMARY:Sommerfest in Kiekebusch
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-in-kiekebusc
+ h/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-jublilaeumsfest-bei-der-sg-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240713
+DTEND;VALUE=DATE:20240714
+SUMMARY:Jubliläumsfest bei der SG Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/jublilaeumsfest-bei-der
+ -sg-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-landespolizeiorchester-spielt-fuer-seniorinnen@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240717
+DTEND;VALUE=DATE:20240718
+SUMMARY:Landespolizeiorchester spielt für Senior*innen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/landespolizeiorchester-
+ spielt-fuer-seniorinnen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-im-mehrgenerationenhaus@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240718
+DTEND;VALUE=DATE:20240719
+SUMMARY:Sommerfest im Mehrgenerationenhaus
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-im-mehrgener
+ ationenhaus/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-hiphop-sommerferienprojekt-tanzperformance-vor-dem-
+ eltern-kind-zentrum@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240731
+DTEND;VALUE=DATE:20240801
+SUMMARY:HipHop-Sommerferienprojekt: Tanzperformance vor dem Eltern-Kind-Z
+ entrum
+URL:https://gemeinde-schoenefeld.de/veranstaltung/hiphop-sommerferienproj
+ ekt-tanzperformance-vor-dem-eltern-kind-zentrum/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adonia-kindermusical-zu-gast-in-grossziethen@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240802
+DTEND;VALUE=DATE:20240803
+SUMMARY:Adonia-Kindermusical zu Gast in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adonia-kindermusical-zu
+ -gast-in-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-youth-saverave@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240810
+DTEND;VALUE=DATE:20240811
+SUMMARY:Youth SaveRave
+URL:https://gemeinde-schoenefeld.de/veranstaltung/youth-saverave/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-lavendelfest-mit-destillationsvorfuehrung@amtsfeed.
+ de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240811
+DTEND;VALUE=DATE:20240812
+SUMMARY:Lavendelfest mit Destillationsvorführung
+URL:https://gemeinde-schoenefeld.de/veranstaltung/lavendelfest-mit-destil
+ lationsvorfuehrung/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kochen-international@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240828
+DTEND;VALUE=DATE:20240829
+SUMMARY:Kochen international
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kochen-international/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-oeffentliche-demokratie-tafel@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240901
+DTEND;VALUE=DATE:20240902
+SUMMARY:Öffentliche Demokratie-Tafel
+URL:https://gemeinde-schoenefeld.de/veranstaltung/oeffentliche-demokratie
+ -tafel/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-anouk-die-nachts-auf-reisen-geht@
+ amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240910
+DTEND;VALUE=DATE:20240911
+SUMMARY:Schönefeld liest: „Anouk\, die nachts auf Reisen geht“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-anouk
+ -die-nachts-auf-reisen-geht/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tag-der-offenen-tuer-der-fahrbibliothek@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240913
+DTEND;VALUE=DATE:20240914
+SUMMARY:Tag der offenen Tür der Fahrbibliothek
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tag-der-offenen-tuer-de
+ r-fahrbibliothek/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-quartierssafari-schoenefeld-nord@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240914
+DTEND;VALUE=DATE:20240915
+SUMMARY:Quartierssafari Schönefeld Nord
+URL:https://gemeinde-schoenefeld.de/veranstaltung/quartierssafari-schoene
+ feld-nord/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-as-time-goes-by-konzert-in-der-dorfkirche-waltersdo
+ rf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240914
+DTEND;VALUE=DATE:20240915
+SUMMARY:„As Time Goes By“: Konzert in der Dorfkirche Waltersdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/as-time-goes-by-konzert
+ -in-der-dorfkirche-waltersdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-berlin-beschimpfung-und-ueberall-
+ nachbarn@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240918
+DTEND;VALUE=DATE:20240919
+SUMMARY:Schönefeld liest: „Berlin Beschimpfung“ und „Überall Nach
+ barn“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-berli
+ n-beschimpfung-und-ueberall-nachbarn/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-flohmarkt-im-kaufhausstil@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20240929
+SUMMARY:Flohmarkt im Kaufhausstil
+URL:https://gemeinde-schoenefeld.de/veranstaltung/flohmarkt-im-kaufhausst
+ il/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sicher-handeln-in-notsituationen-selbstverteidigung
+ skurs-fuer-maedchen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20240929
+SUMMARY:Sicher handeln in der Not: Selbstverteidigungskurs für Mädchen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sicher-handeln-in-notsi
+ tuationen-selbstverteidigungskurs-fuer-maedchen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-find-raus-was-passt-ausbildungsmesse-in-koenigs-wus
+ terhausen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20240929
+SUMMARY:Find raus\, was passt: Ausbildungsmesse in Königs Wusterhausen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/find-raus-was-passt-aus
+ bildungsmesse-in-koenigs-wusterhausen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-geschichten-von-der-kleinen-schne
+ cke-monika-haeuschen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241001
+SUMMARY:Schönefeld liest: Geschichten von der kleinen Schnecke „Monika
+  Häuschen“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-gesch
+ ichten-von-der-kleinen-schnecke-monika-haeuschen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-mit-herz-kreiert-kunstmarkt-in-grossziethen@amtsfee
+ d.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241006
+DTEND;VALUE=DATE:20241007
+SUMMARY:Mit Herz kreiert: Kunstmarkt in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/mit-herz-kreiert-kunstm
+ arkt-in-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-der-kleine-drache-kokusnuss@amtsf
+ eed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241008
+SUMMARY:Schönefeld liest: „Der kleine Drache Kokusnuss“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-der-k
+ leine-drache-kokusnuss/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-herbstfeuer-der-freiwilligen-feuerwehr-wassmannsdor
+ f@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241011
+DTEND;VALUE=DATE:20241012
+SUMMARY:Herbstfeuer der Freiwilligen Feuerwehr Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/herbstfeuer-der-freiwil
+ ligen-feuerwehr-wassmannsdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-herbstfeuer-in-rotberg@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241012
+DTEND;VALUE=DATE:20241013
+SUMMARY:Herbstfeuer in Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/herbstfeuer-in-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-willi-winter-und-das-ding-aus-dem
+ -all@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241016
+DTEND;VALUE=DATE:20241017
+SUMMARY:Schönefeld liest: „Willi Winter und das Ding aus dem All“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-willi
+ -winter-und-das-ding-aus-dem-all/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-geschichten-zum-thema-brandschutz
+ erziehung@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241016
+DTEND;VALUE=DATE:20241017
+SUMMARY:Schönefeld liest: Geschichten zum Thema „Brandschutzerziehung
+ “
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-gesch
+ ichten-zum-thema-brandschutzerziehung/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-tage-des-vergessens@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241019
+SUMMARY:Schönefeld liest: „Tage des Vergessens“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-tage-
+ des-vergessens/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-herbstfeuer-kiekebusch@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241020
+SUMMARY:Herbstfeuer in Kiekebusch
+URL:https://gemeinde-schoenefeld.de/veranstaltung/herbstfeuer-kiekebusch/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kuerbisschnitzen-in-waltersdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+SUMMARY:Kürbisschnitzen in Waltersdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kuerbisschnitzen-in-wal
+ tersdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-don-kosaken-in-der-schoenefelder-dorfkirche@amtsfee
+ d.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+SUMMARY:Don Kosaken in der Schönefelder Dorfkirche
+URL:https://gemeinde-schoenefeld.de/veranstaltung/don-kosaken-in-der-scho
+ enefelder-dorfkirche/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-irgendwie-anders@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241107
+DTEND;VALUE=DATE:20241108
+SUMMARY:Schönefeld liest: „Irgendwie Anders“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-irgen
+ dwie-anders/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sportlerball-der-sg-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
+SUMMARY:Sportlerball der SG Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sportlerball-der-sg-gro
+ ssziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tag-der-offenen-tuer-an-der-evangelischen-schule@am
+ tsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:Tag der offenen Tür an der evangelischen Schule
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tag-der-offenen-tuer-an
+ -der-evangelischen-schule/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-diskriminierung-durch-einheitsvertrag-ausstellung-b
+ eleuchtet-frauen-schicksale@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:Diskriminierung durch Einheitsvertrag: Ausstellung beleuchtet Fra
+ uen-Schicksale
+URL:https://gemeinde-schoenefeld.de/veranstaltung/diskriminierung-durch-e
+ inheitsvertrag-ausstellung-beleuchtet-frauen-schicksale/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-konferenz-mit-der-natur-kunst-trifft-wissenschaft@a
+ mtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241116
+DTEND;VALUE=DATE:20241117
+SUMMARY:Konferenz mit der Natur: Kunst trifft Wissenschaft
+URL:https://gemeinde-schoenefeld.de/veranstaltung/konferenz-mit-der-natur
+ -kunst-trifft-wissenschaft/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-gedenken-an-kriegsopfer-ortsbeirat-legt-blumen-nied
+ er@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241117
+DTEND;VALUE=DATE:20241118
+SUMMARY:Gedenken an Kriegsopfer: Ortsbeirat legt Blumen nieder
+URL:https://gemeinde-schoenefeld.de/veranstaltung/gedenken-an-kriegsopfer
+ -ortsbeirat-legt-blumen-nieder/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-wuestenblume-buchlesung-zum-tag-gegen-gewalt-an-fra
+ uen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241124
+SUMMARY:Wüstenblume: Buchlesung zum Tag gegen Gewalt an Frauen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/wuestenblume-buchlesung
+ -zum-tag-gegen-gewalt-an-frauen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-fuer-die-ganze-familie-adventskranz-selber-binden@a
+ mtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241124
+DTEND;VALUE=DATE:20241125
+SUMMARY:Für die ganze Familie: Adventskranz selber binden
+URL:https://gemeinde-schoenefeld.de/veranstaltung/fuer-die-ganze-familie-
+ adventskranz-selber-binden/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-baumloben-wassmannsdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:Baumloben Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/baumloben-wassmannsdorf
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-energie-und-sanierungsmesse-in-blankenfeld-mahlow@a
+ mtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:Energie- und Sanierungsmesse in Blankenfeld-Mahlow
+URL:https://gemeinde-schoenefeld.de/veranstaltung/energie-und-sanierungsm
+ esse-in-blankenfeld-mahlow/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-14-schoenefelder-lichterfest@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241201
+DTEND;VALUE=DATE:20241202
+SUMMARY:14. Schönefelder Lichterfest
+URL:https://gemeinde-schoenefeld.de/veranstaltung/14-schoenefelder-lichte
+ rfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-lichterfahrt-durch-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241201
+DTEND;VALUE=DATE:20241202
+SUMMARY:Lichterfahrt durch Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/lichterfahrt-durch-gros
+ sziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-rathaus-schoenefeld-weihnachtsfeier-fuer-seniorinne
+ n@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241205
+DTEND;VALUE=DATE:20241206
+SUMMARY:Rathaus Schönefeld: Weihnachtsfeier für Senior*innen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/rathaus-schoenefeld-wei
+ hnachtsfeier-fuer-seniorinnen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-lichterfahrt-durch-waltersdorf-rotberg@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241207
+SUMMARY:Lichterfahrt von Rotberg nach Kiekebusch
+URL:https://gemeinde-schoenefeld.de/veranstaltung/lichterfahrt-durch-walt
+ ersdorf-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-gleichstellung-und-inklusion-podiumsdiskussion-mit-
+ landkreisabgeordneten@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241207
+SUMMARY:Gleichstellung und Inklusion: Podiumsdiskussion mit Landkreisabge
+ ordneten
+URL:https://gemeinde-schoenefeld.de/veranstaltung/gleichstellung-und-inkl
+ usion-podiumsdiskussion-mit-landkreisabgeordneten/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventum-in-waltersdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241208
+SUMMARY:Adventum in Waltersdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventum-in-waltersdorf
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-12236@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241208
+SUMMARY:Selbstverteidigungskurs für Mädchen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/12236/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-weihnachtsfeier-fuer-seniorinnen-und-senioren@amtsf
+ eed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241213
+DTEND;VALUE=DATE:20241214
+SUMMARY:Weihnachtsfeier für Seniorinnen und Senioren
+URL:https://gemeinde-schoenefeld.de/veranstaltung/weihnachtsfeier-fuer-se
+ niorinnen-und-senioren/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventszauber-im-eltern-kind-zentrum@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241217
+SUMMARY:Adventszauber im Eltern-Kind-Zentrum
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventszauber-im-eltern
+ -kind-zentrum/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schulwechsel-tag-der-offenen-tuer-am-oberstufenzent
+ rum@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250111
+DTEND;VALUE=DATE:20250112
+SUMMARY:Schulwechsel: Tag der offenen Tür am Oberstufenzentrum
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schulwechsel-tag-der-of
+ fenen-tuer-am-oberstufenzentrum/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-neues-kirchenzentrum-praesentation-der-wettbewerbse
+ rgebnisse@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250126
+DTEND;VALUE=DATE:20250127
+SUMMARY:Neues Kirchenzentrum: Präsentation der Wettbewerbsergebnisse
+URL:https://gemeinde-schoenefeld.de/veranstaltung/neues-kirchenzentrum-pr
+ aesentation-der-wettbewerbsergebnisse/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-podiumsdiskussion-zur-zukunft-der-flughafenregion@a
+ mtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250212
+DTEND;VALUE=DATE:20250213
+SUMMARY:Podiumsdiskussion zur Zukunft der Flughafenregion
+URL:https://gemeinde-schoenefeld.de/veranstaltung/podiumsdiskussion-zur-z
+ ukunft-der-flughafenregion/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-erinnerungen-einer-vergessenen-kindheit-filmvorfueh
+ rung-mit-diskussion@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250218
+SUMMARY:Erinnerungen einer vergessenen Kindheit: Filmvorführung mit Disk
+ ussion
+URL:https://gemeinde-schoenefeld.de/veranstaltung/erinnerungen-einer-verg
+ essenen-kindheit-filmvorfuehrung-mit-diskussion/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-infoveranstaltung-fuer-interessierte-familienpatinn
+ en@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250219
+SUMMARY:Infoveranstaltung für interessierte Familienpat*innen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/infoveranstaltung-fuer-
+ interessierte-familienpatinnen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-krabbel-gruppe-in-der-oase@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250219
+SUMMARY:Krabbel-Gruppe in der Oase
+URL:https://gemeinde-schoenefeld.de/veranstaltung/krabbel-gruppe-in-der-o
+ ase/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-muetter-unter-sich-mamatreff-in-koenigs-wusterhause
+ n@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250219
+DTEND;VALUE=DATE:20250220
+SUMMARY:Mütter unter sich: Mamatreff in Königs Wusterhausen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/muetter-unter-sich-mama
+ treff-in-koenigs-wusterhausen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-seniorinnen-in-schoenefeld-faschingstanz-im-rathaus
+ @amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250306
+DTEND;VALUE=DATE:20250307
+SUMMARY:Senior*innen in Schönefeld: Faschingstanz im Rathaus
+URL:https://gemeinde-schoenefeld.de/veranstaltung/seniorinnen-in-schoenef
+ eld-faschingstanz-im-rathaus/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-frauentagsfeier-wassmannsdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:Frauentagsfeier Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/frauentagsfeier-wassman
+ nsdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-abheben-in-die-zukunft-berufschancen-fuer-junge-fra
+ uen-in-der-luft-und-raumfahrt@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250311
+DTEND;VALUE=DATE:20250312
+SUMMARY:Abheben in die Zukunft: Berufschancen für junge Frauen in der Lu
+ ft- und Raumfahrt
+URL:https://gemeinde-schoenefeld.de/veranstaltung/abheben-in-die-zukunft-
+ berufschancen-fuer-junge-frauen-in-der-luft-und-raumfahrt/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-benefizkonzert-des-stabsmusikkorps-in-bestensee@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250316
+DTEND;VALUE=DATE:20250317
+SUMMARY:Benefizkonzert des Stabsmusikkorps in Bestensee
+URL:https://gemeinde-schoenefeld.de/veranstaltung/benefizkonzert-des-stab
+ smusikkorps-in-bestensee/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-grossziethen-flohmarkt-im-kaufhausstil@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+SUMMARY:Großziethen: Flohmarkt im Kaufhausstil
+URL:https://gemeinde-schoenefeld.de/veranstaltung/grossziethen-flohmarkt-
+ im-kaufhausstil/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-selbstverteidigungskurs-fuer-maedchen-und-junge-fra
+ uen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+SUMMARY:Selbstverteidigungskurs für  Mädchen und junge Frauen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/selbstverteidigungskurs
+ -fuer-maedchen-und-junge-frauen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sicher-mobil-verkehrsteilnehmerschulung-fuer-senior
+ innen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250401
+DTEND;VALUE=DATE:20250402
+SUMMARY:„Sicher mobil“ – Verkehrsteilnehmerschulung für Senior*inn
+ en
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sicher-mobil-verkehrste
+ ilnehmerschulung-fuer-seniorinnen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-hasenfest-im-ortsteil-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250405
+DTEND;VALUE=DATE:20250406
+SUMMARY:Hasenfest im Ortsteil Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/hasenfest-im-ortsteil-g
+ rossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-orgelkonzert-in-der-dorfkirche@amtsfeed
+ .de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:Schönefeld: Orgelkonzert in der Dorfkirche
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-orgelkonzer
+ t-in-der-dorfkirche/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-putzt-sich-raus-kehrtag-am-12-april-202
+ 5@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:Schönefeld putzt sich raus: Kehrtag am 12. April 2025
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-putzt-sich-
+ raus-kehrtag-am-12-april-2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfeuer-in-wassmannsdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250417
+DTEND;VALUE=DATE:20250418
+SUMMARY:Osterfeuer in Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfeuer-in-wassmanns
+ dorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfeuer-in-kiekebusch-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+SUMMARY:Osterfeuer in Kiekebusch
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfeuer-in-kiekebusc
+ h-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfeuer-in-rotberg-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+SUMMARY:Osterfeuer in Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfeuer-in-rotberg-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfeuer-in-grossziethen-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+SUMMARY:Osterfeuer in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfeuer-in-grossziet
+ hen-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-30-jahre-jugendfeuerwehr-wassmannsdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+SUMMARY:30 Jahre Jugendfeuerwehr Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/30-jahre-jugendfeuerweh
+ r-wassmannsdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tanz-in-den-mai-in-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Tanz in den Mai in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tanz-in-den-mai-in-gros
+ sziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tanz-in-den-mai-im-ortsteil-schoenefeld-2@amtsfeed.
+ de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Tanz in den Mai im Ortsteil Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tanz-in-den-mai-im-orts
+ teil-schoenefeld-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-familien-maifest-im-ortsteil-schoenefeld@amtsfeed.d
+ e
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:Familien-Maifest im Ortsteil Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/familien-maifest-im-ort
+ steil-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-mai-familienfest-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:Mai-Familienfest Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/mai-familienfest-grossz
+ iethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-komm-sing-mit-mir-16-fruehlingsfest-des-grossziethe
+ ner-scheunenchors@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:„Komm sing mit mir“: 16. Frühlingsfest des Großziethener Sc
+ heunenchors
+URL:https://gemeinde-schoenefeld.de/veranstaltung/komm-sing-mit-mir-16-fr
+ uehlingsfest-des-grossziethener-scheunenchors/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kindertroedelmarkt-der-kita-kunterbunt@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:Kindertrödelmarkt der Kita Kunterbunt
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kindertroedelmarkt-der-
+ kita-kunterbunt/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sicher-mobil-verkehrsteilnehmerschulung-fuer-senior
+ innen-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250513
+DTEND;VALUE=DATE:20250514
+SUMMARY:„Sicher mobil“ – Verkehrsteilnehmerschulung für Senior*inn
+ en
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sicher-mobil-verkehrste
+ ilnehmerschulung-fuer-seniorinnen-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-villa-wolff-nutzungskonzept-wird-vorgestellt@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250514
+DTEND;VALUE=DATE:20250515
+SUMMARY:Villa Wolff: Nutzungskonzept wird vorgestellt
+URL:https://gemeinde-schoenefeld.de/veranstaltung/villa-wolff-nutzungskon
+ zept-wird-vorgestellt/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schallschutztag-fbb-bietet-letztmalig-beratung-an@a
+ mtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:Schallschutztag: FBB bietet letztmalig Beratung an
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schallschutztag-fbb-bie
+ tet-letztmalig-beratung-an/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-flohmarkt-in-der-kita-gaensebluemchen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+SUMMARY:Flohmarkt in der Kita Gänseblümchen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/flohmarkt-in-der-kita-g
+ aensebluemchen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-zukunft-des-ber-vortrag-zur-luftfahrtgeschichte@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250522
+DTEND;VALUE=DATE:20250523
+SUMMARY:Zukunft des BER: Vortrag zur Luftfahrtgeschichte
+URL:https://gemeinde-schoenefeld.de/veranstaltung/zukunft-des-ber-vortrag
+ -zur-luftfahrtgeschichte/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-glasfaser-ausbau-infoveranstaltung-in-wassmannsdorf
+ @amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250527
+DTEND;VALUE=DATE:20250528
+SUMMARY:Glasfaser-Ausbau: Infoveranstaltung in Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/glasfaser-ausbau-infove
+ ranstaltung-in-wassmannsdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-auf-dem-kinderbauernhof-in-grossziethen@
+ amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250615
+DTEND;VALUE=DATE:20250616
+SUMMARY:Sommerfest auf dem Kinderbauernhof in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-auf-dem-kind
+ erbauernhof-in-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-traditionelle-seniorenveranstaltung-dampferfahrt-au
+ f-der-spree@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:Traditionelle Seniorenveranstaltung: Dampferfahrt auf der Spree
+URL:https://gemeinde-schoenefeld.de/veranstaltung/traditionelle-seniorenv
+ eranstaltung-dampferfahrt-auf-der-spree/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-streetsoccer-2-spieltag-der-sxf-league@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:Streetsoccer: 2. Spieltag der SXF League
+URL:https://gemeinde-schoenefeld.de/veranstaltung/streetsoccer-2-spieltag
+ -der-sxf-league/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-fete-de-la-musique@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:Fête de la Musique
+URL:https://gemeinde-schoenefeld.de/veranstaltung/fete-de-la-musique/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-konzert-matthias-wacker-friends@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250622
+DTEND;VALUE=DATE:20250623
+SUMMARY:Konzert Matthias Wacker & Friends
+URL:https://gemeinde-schoenefeld.de/veranstaltung/konzert-matthias-wacker
+ -friends/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-neptunfest-auf-dem-kunsthof@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250622
+DTEND;VALUE=DATE:20250623
+SUMMARY:Neptunfest auf dem Kunsthof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/neptunfest-auf-dem-kuns
+ thof/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-matthias-wacker-friends-in-kiekebusch@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250622
+DTEND;VALUE=DATE:20250623
+SUMMARY:Matthias Wacker & Friends in Kiekebusch
+URL:https://gemeinde-schoenefeld.de/veranstaltung/matthias-wacker-friends
+ -in-kiekebusch/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-rotberg@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+SUMMARY:Sommerfest Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kinder-und-jugendbeteiligung-ideen-workshop-in-lueb
+ ben@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:Kinder- und Jugendbeteiligung: Ideen-Workshop in Lübben
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kinder-und-jugendbeteil
+ igung-ideen-workshop-in-luebben/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-in-wassmannsdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250706
+SUMMARY:Sommerfest in Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-in-wassmanns
+ dorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tag-der-offenen-tuer-reitverein-samosaea@amtsfeed.d
+ e
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:Tag der offenen Tür Reitverein SAMOSAEA
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tag-der-offenen-tuer-re
+ itverein-samosaea/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-streetsoccer-3-spieltag-der-sxf-league@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250716
+DTEND;VALUE=DATE:20250717
+SUMMARY:Streetsoccer: 3. Spieltag der SXF League
+URL:https://gemeinde-schoenefeld.de/veranstaltung/streetsoccer-3-spieltag
+ -der-sxf-league/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-650-jahre-schoenefeld-deutsch-mongolisches-partners
+ chaftsfest@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:650 Jahre Schönefeld & Deutsch-Mongolisches Partnerschaftsfest
+URL:https://gemeinde-schoenefeld.de/veranstaltung/650-jahre-schoenefeld-d
+ eutsch-mongolisches-partnerschaftsfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-kiekebusch@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+SUMMARY:Sommerfest Kiekebusch
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-kiekebusch/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-der-senioren-und-seniorinnen-wassmannsdo
+ rf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250806
+DTEND;VALUE=DATE:20250807
+SUMMARY:Sommerfest der Senioren und Seniorinnen Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-der-senioren
+ -und-seniorinnen-wassmannsdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-youth-save-rave@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:Youth Save Rave
+URL:https://gemeinde-schoenefeld.de/veranstaltung/youth-save-rave/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-seniorinnen-oktoberfest-in-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250911
+DTEND;VALUE=DATE:20250912
+SUMMARY:Senior*innen-Oktoberfest in Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/seniorinnen-oktoberfest
+ -in-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-streetsoccer-4-spieltag-der-sxf-league@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250912
+DTEND;VALUE=DATE:20250913
+SUMMARY:Streetsoccer: 4. Spieltag der SXF League
+URL:https://gemeinde-schoenefeld.de/veranstaltung/streetsoccer-4-spieltag
+ -der-sxf-league/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tag-der-offenen-tuer-der-freiwilligen-feuerwehr-gro
+ ssziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250914
+SUMMARY:Tag der offenen Tür der Freiwilligen Feuerwehr Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tag-der-offenen-tuer-de
+ r-freiwilligen-feuerwehr-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tag-des-offenen-denkmals@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250914
+DTEND;VALUE=DATE:20250915
+SUMMARY:Tag des offenen Denkmals
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tag-des-offenen-denkmal
+ s/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+SUMMARY:„Schönefeld liest“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250924
+DTEND;VALUE=DATE:20250925
+SUMMARY:„Schönefeld liest“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-3@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+SUMMARY:„Schönefeld liest“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-14718@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:Find raus\, was passt! OSZ lädt zur Ausbildungsmesse
+URL:https://gemeinde-schoenefeld.de/veranstaltung/14718/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schwalbenwegfest-schwalbenweg-vereint-gemeinsam-fei
+ ern@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:Schwalbenwegfest: Schwalbenweg vereint – gemeinsam feiern
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schwalbenwegfest-schwal
+ benweg-vereint-gemeinsam-feiern/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-4@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251007
+DTEND;VALUE=DATE:20251008
+SUMMARY:„Schönefeld liest“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-herbstfeuer-wassmannsdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:Herbstfeuer Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/herbstfeuer-wassmannsdo
+ rf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-herbstfeuer-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:Herbstfeuer Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/herbstfeuer-grossziethe
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-vortrag-cybercrime-sicherheit-im-internet@amtsfeed.
+ de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251015
+SUMMARY:Vortrag „Cybercrime“ – Sicherheit im Internet
+URL:https://gemeinde-schoenefeld.de/veranstaltung/vortrag-cybercrime-sich
+ erheit-im-internet/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-5@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251016
+DTEND;VALUE=DATE:20251017
+SUMMARY:„Schönefeld liest“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kuerbisschnitzen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:Kürbisschnitzen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kuerbisschnitzen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-buergerdialog-zur-gesundheitsversorgung-im-landkrei
+ s@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251104
+SUMMARY:Bürgerdialog zur Gesundheitsversorgung im Landkreis
+URL:https://gemeinde-schoenefeld.de/veranstaltung/buergerdialog-zur-gesun
+ dheitsversorgung-im-landkreis/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-6@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251107
+SUMMARY:„Schönefeld liest“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-schoenefeld-liest-bjoern-kuhligk-im-rathaus-schoene
+ feld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:„Schönefeld liest“: Björn Kuhligk im Rathaus der Gemeinde S
+ chönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/schoenefeld-liest-bjoer
+ n-kuhligk-im-rathaus-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sportlerball-in-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:Sportlerball in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sportlerball-in-grosszi
+ ethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-8-kommunalpolitisches-forum@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251113
+SUMMARY:8. Kommunalpolitisches Forum
+URL:https://gemeinde-schoenefeld.de/veranstaltung/8-kommunalpolitisches-f
+ orum/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventskranzbinden-fuer-familien@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251123
+DTEND;VALUE=DATE:20251124
+SUMMARY:Adventskranzbinden für Familien
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventskranzbinden-fuer
+ -familien/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tag-gegen-gewalt-an-frauen-fahnenhissung-am-rathaus
+ @amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251126
+SUMMARY:Tag gegen Gewalt an Frauen: Fahnenhissung am Rathaus
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tag-gegen-gewalt-an-fra
+ uen-fahnenhissung-am-rathaus/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-buergerinnenveranstaltung-zum-klimaschutzkonzept-in
+ -der-gemeinde@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:Bürger*innenveranstaltung: Klimaschutzkonzept der Gemeinde mitge
+ stalten!
+URL:https://gemeinde-schoenefeld.de/veranstaltung/buergerinnenveranstaltu
+ ng-zum-klimaschutzkonzept-in-der-gemeinde/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-lichterfest-in-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251130
+DTEND;VALUE=DATE:20251201
+SUMMARY:Lichterfest in Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/lichterfest-in-schoenef
+ eld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-3-lichterfahrt-der-freiwilligen-feuerwehr-grossziet
+ hen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251130
+DTEND;VALUE=DATE:20251201
+SUMMARY:3. Lichterfahrt der Freiwilligen Feuerwehr Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/3-lichterfahrt-der-frei
+ willigen-feuerwehr-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-senioren-weihnachtsfeier-rotberg@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20251203
+SUMMARY:Senioren-Weihnachtsfeier Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/senioren-weihnachtsfeie
+ r-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-senioren-weihnachtsfeier-waltersdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251203
+DTEND;VALUE=DATE:20251204
+SUMMARY:Senioren-Weihnachtsfeier Waltersdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/senioren-weihnachtsfeie
+ r-waltersdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventsmarkt-in-grossziethen-3@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:Adventsmarkt in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventsmarkt-in-grosszi
+ ethen-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventum-in-waltersdorf-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:Adventum in Waltersdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventum-in-waltersdorf
+ -2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-lichterfahrt-der-freiwilligen-feuerwehr-rotberg@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:Lichterfahrt der Freiwilligen Feuerwehr Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/lichterfahrt-der-freiwi
+ lligen-feuerwehr-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-seniorenweihnachtsfeier-im-ortsteil-schoenefeld@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251212
+SUMMARY:Seniorenweihnachtsfeier im Ortsteil Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/seniorenweihnachtsfeier
+ -im-ortsteil-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-weihnachtsfeier-fuer-wassmannsdorfer-seniorinnen-un
+ d-senioren@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Weihnachtsfeier für Waßmannsdorfer Seniorinnen und Senioren
+URL:https://gemeinde-schoenefeld.de/veranstaltung/weihnachtsfeier-fuer-wa
+ ssmannsdorfer-seniorinnen-und-senioren/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-weihnachtlicher-kuchen-und-backtag-am-backhaus-rotb
+ erg@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:Weihnachtlicher Kuchen- und Backtag am Backhaus Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/weihnachtlicher-kuchen-
+ und-backtag-am-backhaus-rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventum-mit-dem-grossziethener-scheunenchor@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:Adventum mit dem Großziethener Scheunenchor
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventum-mit-dem-grossz
+ iethener-scheunenchor/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-konzert-zum-3-advent-in-der-dorfkirche-schoenefeld@
+ amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:Konzert zum 3. Advent  in der Dorfkirche Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/konzert-zum-3-advent-in
+ -der-dorfkirche-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-oberstufenzentrum-tage-der-offenen-tuer@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Oberstufenzentrum: Tage der offenen Tür
+URL:https://gemeinde-schoenefeld.de/veranstaltung/oberstufenzentrum-tage-
+ der-offenen-tuer/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tenoere4you-gala-mitsingkonzert-in-schoenefeld@amts
+ feed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Tenöre4you: Gala Mitsingkonzert in Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tenoere4you-gala-mitsin
+ gkonzert-in-schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-getragene-vielfalt-sorbische-trachten-der-lausitz-p
+ isanosc-serbskich-drastwow@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:Getragene Vielfalt – Sorbische Trachten der Lausitz / Pisanosć
+  serbskich drastwow
+URL:https://gemeinde-schoenefeld.de/veranstaltung/getragene-vielfalt-sorb
+ ische-trachten-der-lausitz-pisanosc-serbskich-drastwow/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-frauentagsvorfeier@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:Frauentagsvorfeier
+URL:https://gemeinde-schoenefeld.de/veranstaltung/frauentagsvorfeier/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kreativworkshop-wut-lernt-fliegen-und-wird-zur-kuns
+ t@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:Kreativworkshop: Wut lernt fliegen – und wird zur Kunst
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kreativworkshop-wut-ler
+ nt-fliegen-und-wird-zur-kunst/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-ausstellungseroeffnung-alexandra-bonin-von-der-ambi
+ valenz-der-schoenen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:Ausstellungseröffnung Alexandra Bonin: „Von der Ambivalenz der
+  Schönen“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/ausstellungseroeffnung-
+ alexandra-bonin-von-der-ambivalenz-der-schoenen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-dinnergespraeche-kochen-mit-politikerinnen@amtsfeed
+ .de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:Dinnergespräche: Kochen mit Politikerinnen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/dinnergespraeche-kochen
+ -mit-politikerinnen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-frauentagsveranstaltung-fuer-grossziethener-seniori
+ nnen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:Frauentagsveranstaltung für Großziethener Seniorinnen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/frauentagsveranstaltung
+ -fuer-grossziethener-seniorinnen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-flohmarkt-im-kaufhausstil-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:Flohmarkt im Kaufhausstil
+URL:https://gemeinde-schoenefeld.de/veranstaltung/flohmarkt-im-kaufhausst
+ il-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-benefizkonzert-des-stabsmusikkorps-der-bundeswehr-i
+ n-bestensee@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Benefizkonzert des Stabsmusikkorps der Bundeswehr in Bestensee
+URL:https://gemeinde-schoenefeld.de/veranstaltung/benefizkonzert-des-stab
+ smusikkorps-der-bundeswehr-in-bestensee/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-familienpaten-gesucht-infoabend-in-koenigs-wusterha
+ usen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Familienpaten gesucht: Infoabend in Königs Wusterhausen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/familienpaten-gesucht-i
+ nfoabend-in-koenigs-wusterhausen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfeuer-wassmannsdorf-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Osterfeuer Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfeuer-wassmannsdor
+ f-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfeuer-waltersdorf-rotberg@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Osterfeuer Waltersdorf/Rotberg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfeuer-waltersdorf-
+ rotberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-osterfeuer-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Osterfeuer Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/osterfeuer-grossziethen
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-backtag-im-rotberger-backhaus@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:Backtag im Rotberger Backhaus
+URL:https://gemeinde-schoenefeld.de/veranstaltung/backtag-im-rotberger-ba
+ ckhaus/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-farben-sind-unser-weg-fruehschoppen-vernissage-in-g
+ rossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:„Farben sind unser Weg“: Frühschoppen-Vernissage in Großzie
+ then
+URL:https://gemeinde-schoenefeld.de/veranstaltung/farben-sind-unser-weg-f
+ ruehschoppen-vernissage-in-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-auftaktveranstaltung-helfen-im-verbund@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Auftaktveranstaltung „Helfen im Verbund“
+URL:https://gemeinde-schoenefeld.de/veranstaltung/auftaktveranstaltung-he
+ lfen-im-verbund/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-spektrale-begleitausstellung-randerscheinungen-eroe
+ ffnet@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Spektrale: Begleitausstellung „Randerscheinungen“ eröffnet
+URL:https://gemeinde-schoenefeld.de/veranstaltung/spektrale-begleitausste
+ llung-randerscheinungen-eroeffnet/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-flohmarkt-kita-gaensebluemchen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Flohmarkt Kita Gänseblümchen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/flohmarkt-kita-gaensebl
+ uemchen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-blaulichttag-kinder-und-jugenderholungszentrum-frau
+ ensee@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Blaulichttag Kinder- und Jugenderholungszentrum Frauensee
+URL:https://gemeinde-schoenefeld.de/veranstaltung/blaulichttag-kinder-und
+ -jugenderholungszentrum-frauensee/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kehrtag-2026@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Schönefeld putzt sich raus: Kehrtag am 25. April 2026
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kehrtag-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-jubilaeumssause-10-jahre-kunsthof-mattiesson-mit-ku
+ nstmarkt-und-finissage@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Jubiläumssause – 10 Jahre Kunsthof Mattiesson mit Kunstmarkt u
+ nd Finissage
+URL:https://gemeinde-schoenefeld.de/veranstaltung/jubilaeumssause-10-jahr
+ e-kunsthof-mattiesson-mit-kunstmarkt-und-finissage/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tanz-in-den-mai-in-grossziethen-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Tanz in den Mai in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tanz-in-den-mai-in-gros
+ sziethen-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tanz-in-den-mai-im-ortsteil-schoenefeld-3@amtsfeed.
+ de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Tanz in den Mai im Ortsteil Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tanz-in-den-mai-im-orts
+ teil-schoenefeld-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-mai-familienfest-in-grossziethen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Mai-Familienfest in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/mai-familienfest-in-gro
+ ssziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-familien-maifest-im-ortsteil-schoenefeld-2@amtsfeed
+ .de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Familien-Maifest im Ortsteil Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/familien-maifest-im-ort
+ steil-schoenefeld-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-klaerwerk-wassmannsdorf-seniorenbeirat-laedt-zur-be
+ sichtigung@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Klärwerk Waßmannsdorf: Seniorenbeirat lädt zur Besichtigung
+URL:https://gemeinde-schoenefeld.de/veranstaltung/klaerwerk-wassmannsdorf
+ -seniorenbeirat-laedt-zur-besichtigung/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-einblicke-in-die-kunst-offene-ateliers-in-brandenbu
+ rg@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Einblicke in die Kunst: Offene Ateliers in Brandenburg
+URL:https://gemeinde-schoenefeld.de/veranstaltung/einblicke-in-die-kunst-
+ offene-ateliers-in-brandenburg/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-kita-ausstellung-der-schnipseljet-im-rathaus@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Kita-Ausstellung „Der Schnipseljet“ im Rathaus
+URL:https://gemeinde-schoenefeld.de/veranstaltung/kita-ausstellung-der-sc
+ hnipseljet-im-rathaus/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-wichtelmarkt-auf-dem-kunsthof@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Wichtelmarkt auf dem Kunsthof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/wichtelmarkt-auf-dem-ku
+ nsthof/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-modellbau-ausstellung-in-wassmannsdorf@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Modellbau-Ausstellung in Waßmannsdorf
+URL:https://gemeinde-schoenefeld.de/veranstaltung/modellbau-ausstellung-i
+ n-wassmannsdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-oktoberfest-im-ortsteil-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Oktoberfest im Ortsteil Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/oktoberfest-im-ortsteil
+ -schoenefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-oktoberfest-in-schoenefeld-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Oktoberfest in Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/oktoberfest-in-schoenef
+ eld-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-paradies-im-gruenen-tage-der-offenen-gaerten-geben-
+ einblick@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Paradies im Grünen: Tage der offenen Gärten geben Einblick
+URL:https://gemeinde-schoenefeld.de/veranstaltung/paradies-im-gruenen-tag
+ e-der-offenen-gaerten-geben-einblick/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tage-der-offenen-ateliers-auf-dem-kunsthof-2@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Tage der offenen Ateliers auf dem Kunsthof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tage-der-offenen-atelie
+ rs-auf-dem-kunsthof-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-girls-without-borders-internationales-maedchenproje
+ kt-in-blossin@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Girls without Borders: Internationales Mädchenprojekt in Blossin
+URL:https://gemeinde-schoenefeld.de/veranstaltung/girls-without-borders-i
+ nternationales-maedchenprojekt-in-blossin/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-ostermarkt-auf-dem-kunsthof@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Ostermarkt auf dem Kunsthof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/ostermarkt-auf-dem-kuns
+ thof/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-frauenarbeit-frauenalltag-frauenrechte-ausstellung-
+ im-rathaus@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Frauenarbeit-Frauenalltag-Frauenrechte: Ausstellung im Rathaus
+URL:https://gemeinde-schoenefeld.de/veranstaltung/frauenarbeit-frauenallt
+ ag-frauenrechte-ausstellung-im-rathaus/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-winterferien-hoerreise-wer-hat-die-lutki-gesehen@am
+ tsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Winterferien-Hörreise: Wer hat die Lutki gesehen?
+URL:https://gemeinde-schoenefeld.de/veranstaltung/winterferien-hoerreise-
+ wer-hat-die-lutki-gesehen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-gruene-woche-landkreis-praesentiert-sich@amtsfeed.d
+ e
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Grüne Woche: Landkreis präsentiert sich
+URL:https://gemeinde-schoenefeld.de/veranstaltung/gruene-woche-landkreis-
+ praesentiert-sich/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-weihnachtsidyll-auf-dem-kunsthof@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Weihnachtsidyll auf dem Kunsthof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/weihnachtsidyll-auf-dem
+ -kunsthof/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-aktionswoche-zur-seelischen-gesundheit-am-arbeitspl
+ atz@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Aktionswoche zur seelischen Gesundheit am Arbeitsplatz
+URL:https://gemeinde-schoenefeld.de/veranstaltung/aktionswoche-zur-seelis
+ chen-gesundheit-am-arbeitsplatz/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-fuer-mehr-praesenz-und-selbstbewusstsein-rhetorik-w
+ orkshop-fuer-frauen@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Für mehr Präsenz und Selbstbewusstsein: Rhetorik-Workshop für 
+ Frauen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/fuer-mehr-praesenz-und-
+ selbstbewusstsein-rhetorik-workshop-fuer-frauen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-oktoberfest-in-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Oktoberfest in Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/oktoberfest-in-schoenef
+ eld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-ferien-jugendfahrt-zur-insel-usedom@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Ferien-Jugendfahrt zur Insel Usedom
+URL:https://gemeinde-schoenefeld.de/veranstaltung/ferien-jugendfahrt-zur-
+ insel-usedom/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tage-der-offenen-ateliers-auf-dem-kunsthof@amtsfeed
+ .de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Tage der offenen Ateliers auf dem Kunsthof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tage-der-offenen-atelie
+ rs-auf-dem-kunsthof/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-zweitaegiger-rhetorik-workshop-fuer-frauen@amtsfeed
+ .de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Zweitägiger Rhetorik-Workshop für Frauen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/zweitaegiger-rhetorik-w
+ orkshop-fuer-frauen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-adventsmarkt-auf-dem-kunsthof-in-grossziethen@amtsf
+ eed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Adventsmarkt auf dem Kunsthof in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/adventsmarkt-auf-dem-ku
+ nsthof-in-grossziethen/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-3-ziethener-weinfest@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Weinfest in Großziethen
+URL:https://gemeinde-schoenefeld.de/veranstaltung/3-ziethener-weinfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-oktoberfest@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Oktoberfest am Dorfanger
+URL:https://gemeinde-schoenefeld.de/veranstaltung/oktoberfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-drei-tage-superheldin-sommerferien-workshop-fuer-ki
+ ds-von-7-bis-9@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Drei Tage Superheld*in: Sommerferien-Workshop für Kids
+URL:https://gemeinde-schoenefeld.de/veranstaltung/drei-tage-superheldin-s
+ ommerferien-workshop-fuer-kids-von-7-bis-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-graffiti-workshop-fuer-kids-von-9-bis-12-jahren@amt
+ sfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Graffiti-Workshop für Kids von 9 bis 12 Jahren
+URL:https://gemeinde-schoenefeld.de/veranstaltung/graffiti-workshop-fuer-
+ kids-von-9-bis-12-jahren/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-20-jahre-schoenefeld-modellbauausstellung@amtsfeed.
+ de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:20 Jahre Flughafengemeinde Schönefeld: Modellbauausstellung
+URL:https://gemeinde-schoenefeld.de/veranstaltung/20-jahre-schoenefeld-mo
+ dellbauausstellung/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-tage-der-offenen-ateliers@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Tage der offenen Ateliers
+URL:https://gemeinde-schoenefeld.de/veranstaltung/tage-der-offenen-atelie
+ rs/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-mitgliederversammlung-der-jagdgenossenschaft@amtsfe
+ ed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Mitgliederversammlung der Jagdgenossenschaft
+URL:https://gemeinde-schoenefeld.de/veranstaltung/mitgliederversammlung-d
+ er-jagdgenossenschaft/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-winterwanderungen-durchs-dahme-seenland@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Winterwanderungen durchs Dahme-Seenland
+URL:https://gemeinde-schoenefeld.de/veranstaltung/winterwanderungen-durch
+ s-dahme-seenland/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-25-11-2022-27-11-2022-dahme-seenland-praesentiert-s
+ ich-auf-berlin-travel-festival@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART:20260508T185612Z
+SUMMARY:Dahme-Seenland präsentiert sich auf Berlin Travel Festival
+URL:https://gemeinde-schoenefeld.de/veranstaltung/25-11-2022-27-11-2022-d
+ ahme-seenland-praesentiert-sich-auf-berlin-travel-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-backtag-im-rotberger-backhaus-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Backtag im Rotberger Backhaus
+URL:https://gemeinde-schoenefeld.de/veranstaltung/backtag-im-rotberger-ba
+ ckhaus-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-workshop-fuer-frauen-diskussionskultur-in-oeffentli
+ chen-gremien@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:Workshop für Frauen: Diskussionskultur in öffentlichen Gremien
+URL:https://gemeinde-schoenefeld.de/veranstaltung/workshop-fuer-frauen-di
+ skussionskultur-in-oeffentlichen-gremien/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-elterncafe-im-mgh-schoenefeld@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Elterncafè im MGH Schönefeld
+URL:https://gemeinde-schoenefeld.de/veranstaltung/elterncafe-im-mgh-schoe
+ nefeld/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-wochenend-und-sonnenschein-fruehlingskonzert-grossz
+ iethener-scheunenchor@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:„Wochenend und Sonnenschein“: Frühlingskonzert Großziethene
+ r Scheunenchor
+URL:https://gemeinde-schoenefeld.de/veranstaltung/wochenend-und-sonnensch
+ ein-fruehlingskonzert-grossziethener-scheunenchor/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-kiekebusch-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Sommerfest Kiekebusch
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-kiekebusch-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-mitsommerkonzert-in-der-dorfkirche-kiekebusch@amtsf
+ eed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Mitsommerkonzert in der Dorfkirche Kiekebusch
+URL:https://gemeinde-schoenefeld.de/veranstaltung/mitsommerkonzert-in-der
+ -dorfkirche-kiekebusch/
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenefeld-event-sommerfest-auf-dem-kinderbauernhof-2@amtsfeed.de
+DTSTAMP:20260508T185612Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Sommerfest auf dem Kinderbauernhof
+URL:https://gemeinde-schoenefeld.de/veranstaltung/sommerfest-auf-dem-kind
+ erbauernhof-2/
+END:VEVENT
+END:VCALENDAR

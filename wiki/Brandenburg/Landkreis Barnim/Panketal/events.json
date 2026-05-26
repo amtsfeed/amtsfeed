@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:21:54.896Z",
+  "updatedAt": "2026-05-26T08:49:46.914Z",
   "items": [
     {
       "id": "99187997",
@@ -62,7 +62,7 @@
       "startDate": "2026-06-03T14:00:00.000Z",
       "location": "Zepernick - Garten der Seniorenpflegeheime Eichenhof und Rotunde",
       "fetchedAt": "2026-05-05T17:21:07.048Z",
-      "updatedAt": "2026-05-06T20:21:54.886Z"
+      "updatedAt": "2026-05-26T08:49:46.905Z"
     },
     {
       "id": "99169472",
@@ -71,7 +71,7 @@
       "startDate": "2026-06-04T17:00:00.000Z",
       "location": "Zepernick - Rathaus Panketal",
       "fetchedAt": "2026-05-05T17:21:07.048Z",
-      "updatedAt": "2026-05-06T20:21:54.886Z"
+      "updatedAt": "2026-05-26T08:49:46.905Z"
     },
     {
       "id": "99169131",
@@ -80,7 +80,16 @@
       "startDate": "2026-06-06T19:00:00.000Z",
       "location": "Zepernick - Forum der Grundschule Zepernick",
       "fetchedAt": "2026-05-05T17:21:07.048Z",
-      "updatedAt": "2026-05-06T20:21:54.886Z"
+      "updatedAt": "2026-05-26T08:49:46.905Z"
+    },
+    {
+      "id": "99191250",
+      "title": "Zu Gast bei der Pferdekultur auf Gut Hobrechtsfelde - zur 31. Brandenburger Landpartie",
+      "url": "https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?se=99191250",
+      "startDate": "2026-06-13T11:00:00.000Z",
+      "location": "Hobrechtsfelde - Pferdekultur Gut Hobrechtsfelde",
+      "fetchedAt": "2026-05-26T08:49:46.905Z",
+      "updatedAt": "2026-05-26T08:49:46.905Z"
     },
     {
       "id": "99172009",
@@ -89,7 +98,7 @@
       "startDate": "2026-06-20T14:00:00.000Z",
       "location": "Zepernick - Schönower Straße",
       "fetchedAt": "2026-05-05T17:21:07.048Z",
-      "updatedAt": "2026-05-06T20:21:54.886Z"
+      "updatedAt": "2026-05-26T08:49:46.905Z"
     },
     {
       "id": "99169130",
@@ -98,7 +107,7 @@
       "startDate": "2026-06-27T21:30:00.000Z",
       "location": "Zepernick - Speicher Hobrechtsfelde",
       "fetchedAt": "2026-05-05T17:21:07.048Z",
-      "updatedAt": "2026-05-06T20:21:54.886Z"
+      "updatedAt": "2026-05-26T08:49:46.905Z"
     },
     {
       "id": "9994560",
@@ -107,7 +116,16 @@
       "startDate": "2026-07-04T09:00:00.000Z",
       "location": "Schwanebeck - Sportplatz Schwanebeck",
       "fetchedAt": "2026-05-05T17:21:07.048Z",
-      "updatedAt": "2026-05-06T20:21:54.886Z"
+      "updatedAt": "2026-05-26T08:49:46.905Z"
+    },
+    {
+      "id": "99190504",
+      "title": "Beschwingte Klassik, Kaffee und Kuchen  Ein Nachmittag am alten Traumschloss",
+      "url": "https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?se=99190504",
+      "startDate": "2026-07-12T15:30:00.000Z",
+      "location": "Zepernick - Jugendklub Villa",
+      "fetchedAt": "2026-05-26T08:49:46.905Z",
+      "updatedAt": "2026-05-26T08:49:46.905Z"
     },
     {
       "id": "99169611",
@@ -116,7 +134,7 @@
       "startDate": "2026-07-19T14:00:00.000Z",
       "location": "Hobrechtsfelde - Pferdekultur Gut Hobrechtsfelde",
       "fetchedAt": "2026-05-05T17:21:07.048Z",
-      "updatedAt": "2026-05-06T20:21:54.886Z"
+      "updatedAt": "2026-05-26T08:49:46.905Z"
     },
     {
       "id": "99169129",
@@ -125,7 +143,7 @@
       "startDate": "2026-07-25T21:30:00.000Z",
       "location": "Zepernick - Speicher Hobrechtsfelde",
       "fetchedAt": "2026-05-05T17:21:07.048Z",
-      "updatedAt": "2026-05-06T20:21:54.886Z"
+      "updatedAt": "2026-05-26T08:49:46.905Z"
     },
     {
       "id": "99169128",
@@ -134,7 +152,7 @@
       "startDate": "2026-08-22T21:30:00.000Z",
       "location": "Zepernick - Speicher Hobrechtsfelde",
       "fetchedAt": "2026-05-05T17:21:07.048Z",
-      "updatedAt": "2026-05-06T20:21:54.886Z"
+      "updatedAt": "2026-05-26T08:49:46.905Z"
     },
     {
       "id": "99169745",
@@ -143,7 +161,7 @@
       "startDate": "2026-09-20T09:00:00.000Z",
       "location": "Schwanebeck - Schwanenhalle",
       "fetchedAt": "2026-05-05T17:21:07.048Z",
-      "updatedAt": "2026-05-06T20:21:54.886Z"
+      "updatedAt": "2026-05-26T08:49:46.905Z"
     }
   ]
 }

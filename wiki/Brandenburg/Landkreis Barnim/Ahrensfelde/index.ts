@@ -41,7 +41,69 @@ function icalDateToIso(val: string): string {
   return `${val.slice(0, 4)}-${val.slice(4, 6)}-${val.slice(6, 8)}T00:00:00.000Z`;
 }
 
-function extractEvents(ical: string): Event[] {
+// Build {eventId → fullUrl} map from search-results pages.
+// NOLIS sucheplus.html mit Datumsbereich+Pagination liefert alle Slug-URLs (eine Seite = ca. 15 Einträge).
+// "p0=N" steuert die Seite; oben in der Antwort steht "Seite 1 von X".
+const SUCHEPLUS_BASE_URL = `${BASE_URL}/regional/veranstaltungen/sucheplus.html`;
+async function fetchSearchUrlMap(headers: Record<string, string>): Promise<Map<string, string>> {
+  const map = new Map<string, string>();
+  const today = new Date();
+  const past = new Date(today); past.setFullYear(past.getFullYear() - 3);
+  const future = new Date(today); future.setFullYear(future.getFullYear() + 2);
+  const fmt = (d: Date) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+  const baseBody = new URLSearchParams({
+    action: "1", naviID: "0", titel: "Veranstaltungen", intern: "0",
+    zeitauswahl: "4", beginn_datum: fmt(past), ende_datum: fmt(future),
+  });
+  const linkRx = /href="(https?:\/\/www\.ahrensfelde\.de\/regional\/veranstaltungen\/[^"\/]+-(\d{9})-30601\.html)[^"]*"/g;
+
+  const fetchPage = async (page: number): Promise<string> => {
+    const body = new URLSearchParams(baseBody); body.set("p0", String(page));
+    const res = await fetch(SUCHEPLUS_BASE_URL, {
+      method: "POST",
+      headers: { ...headers, "Content-Type": "application/x-www-form-urlencoded" },
+      body: body.toString(),
+      signal: AbortSignal.timeout(15_000),
+    });
+    return res.ok ? res.text() : "";
+  };
+
+  const first = await fetchPage(0);
+  // "Seite 1 von N"
+  const totalMatch = first.match(/Seite\s+\d+\s+von\s+(\d+)/);
+  const totalPages = totalMatch ? parseInt(totalMatch[1]!, 10) : 1;
+  const collect = (html: string) => { for (const m of html.matchAll(linkRx)) map.set(m[2]!, m[1]!); };
+  collect(first);
+
+  const CONC = 5;
+  for (let p = 1; p < totalPages; p += CONC) {
+    const batch = Array.from({ length: Math.min(CONC, totalPages - p) }, (_, i) => p + i);
+    const pages = await Promise.all(batch.map(fetchPage));
+    for (const html of pages) collect(html);
+  }
+  return map;
+}
+
+function slugifyTitle(title: string): string {
+  return title.toLowerCase()
+    .replace(/ä/g, "ae").replace(/ö/g, "oe").replace(/ü/g, "ue").replace(/ß/g, "ss")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function eventUrl(eventId: string, urlMap: Map<string, string>, title?: string): string {
+  const mapped = urlMap.get(eventId);
+  if (mapped) return mapped;
+  if (title) {
+    const slug = slugifyTitle(title);
+    if (slug) return `${BASE_URL}/regional/veranstaltungen/${slug}-${eventId}-30601.html?naviID=0`;
+  }
+  return `${BASE_URL}/regional/veranstaltungen/sucheplus.html?detail=1&id=${eventId}`;
+}
+
+const SLUG_URL_RX = /\/regional\/veranstaltungen\/[^"\/]+-\d{9}-30601\.html/;
+
+function extractEvents(ical: string, urlMap: Map<string, string>): Event[] {
   const items: Event[] = [];
   const now = new Date().toISOString();
   const seen = new Set<string>();
@@ -66,8 +128,8 @@ function extractEvents(ical: string): Event[] {
     seen.add(id);
 
     const url = eventId
-      ? `${BASE_URL}/veranstaltungen/veranstaltungen/veranstaltung/${eventId}-${KOMMUNE_ID}.html`
-      : `${BASE_URL}/veranstaltungen/`;
+      ? eventUrl(eventId, urlMap, summary)
+      : `${BASE_URL}/leben-freizeit/veranstaltungen/veranstaltungsuebersicht/`;
 
     items.push({
       id,
@@ -240,14 +302,25 @@ function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
 
 const EVENTS_LIMIT = 200;
 
-function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
-  const byId = new Map(existing.map((e) => [e.id, e]));
+function mergeEvents(existing: Event[], incoming: Event[], urlMap: Map<string, string>): Event[] {
+  // Upgrade auf Slug-URL, wenn die Map sie kennt und der Eintrag noch das alte 404-Muster
+  // oder den sucheplus-Fallback nutzt
+  const isSlugUrl = (url: string) => SLUG_URL_RX.test(url);
+  const fixUrl = (e: Event): Event => {
+    if (isSlugUrl(e.url)) return e;
+    const idMatch = e.id.match(/-(\d{9})$/);
+    if (!idMatch) return e;
+    const better = urlMap.get(idMatch[1]!);
+    return better ? { ...e, url: better } : { ...e, url: eventUrl(idMatch[1]!, urlMap) };
+  };
+  const byId = new Map(existing.map((e) => [e.id, fixUrl(e)]));
   for (const e of incoming) {
-    if (!byId.has(e.id)) {
-      byId.set(e.id, e);
+    const fixed = fixUrl(e);
+    if (!byId.has(fixed.id)) {
+      byId.set(fixed.id, fixed);
     } else {
-      const old = byId.get(e.id)!;
-      byId.set(e.id, { ...e, fetchedAt: old.fetchedAt ?? e.fetchedAt });
+      const old = byId.get(fixed.id)!;
+      byId.set(fixed.id, { ...fixed, fetchedAt: old.fetchedAt ?? fixed.fetchedAt });
     }
   }
   return [...byId.values()]
@@ -272,7 +345,6 @@ const nextYear = new Date(today);
 nextYear.setFullYear(nextYear.getFullYear() + 1);
 const fmt = (d: Date) => `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, "0")}${String(d.getDate()).padStart(2, "0")}`;
 const eventsIcalUrl = `${BASE_URL}/veranstaltungen/veranstaltungen.ical?zeitauswahl=1&auswahl_woche_tage=365&kategorie=0&selected_kommune=${KOMMUNE_ID}&beginn=${fmt(today)}000000&ende=${fmt(nextYear)}235959&intern=0`;
-
 const [newsHtml, eventsIcal, archiveHtml, noticesHtml] = await Promise.all([
   fetch(NEWS_URL, { headers }).then((r) => {
     if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`);
@@ -294,11 +366,17 @@ const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews } satisfies NewsFile, null, 2));
 console.log(`news:   ${mergedNews.length} Einträge → ${newsPath}`);
 
-const incomingEvents = extractEvents(eventsIcal);
+const urlMap = await fetchSearchUrlMap(headers);
+const eventsPath = join(DIR, "events.json");
+const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
+// Slugs aus bestehenden events.json-Einträgen als Backup übernehmen
+for (const item of existingEvents.items) {
+  const idM = item.id.match(/-(\d{9})$/);
+  if (idM && !urlMap.has(idM[1]!) && SLUG_URL_RX.test(item.url)) urlMap.set(idM[1]!, item.url);
+}
+const incomingEvents = extractEvents(eventsIcal, urlMap);
 if (incomingEvents.length > 0) {
-  const eventsPath = join(DIR, "events.json");
-  const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
-  const mergedEvents = mergeEvents(existingEvents.items, incomingEvents);
+  const mergedEvents = mergeEvents(existingEvents.items, incomingEvents, urlMap);
   writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents } satisfies EventsFile, null, 2));
   console.log(`events: ${mergedEvents.length} Einträge → ${eventsPath}`);
 } else {

@@ -88,7 +88,31 @@ pnpm generate-ical "wiki/Brandenburg/Landkreis Märkisch-Oderland/Amt Golzow"
 
 # Statistik anzeigen (Anzahl Events, News, letzte RSS-Einträge)
 pnpm stats "wiki/Brandenburg/Landkreis Märkisch-Oderland/Amt Golzow"
+
+# Alle Scraper sequenziell laufen lassen + Report (Differenzen pro Kategorie, Failures, Drops)
+pnpm tsx scripts/run-all-scrapers.ts
+
+# Nur Scraper unter einem Pfadfragment laufen lassen
+pnpm tsx scripts/run-all-scrapers.ts "Landkreis Barnim"
+
+# Nach einem Lauf updatedAt-Felder zurücksetzen, deren Item-Inhalt unverändert ist
+pnpm tsx scripts/normalize-updated-at.ts
 ```
+
+### `scripts/run-all-scrapers.ts`
+
+Führt alle `wiki/**/index.ts` strikt **sequenziell** aus (kein Parallelismus — manche Quellen reagieren empfindlich auf gleichzeitige Requests) und erzeugt am Ende einen Report:
+
+- **Total / OK / Failed** — Anzahl Scraper, davon erfolgreich
+- **Zero-after-nonzero** — Kategorien (news/events/amtsblatt/notices), die vorher Einträge hatten und jetzt auf 0 stehen (starkes Regressions-Signal)
+- **Drops > 50 %** — Kategorien mit vorher ≥ 5 Einträgen, jetzt weniger als die Hälfte
+- **Vollständige Tabelle** — pro Scraper `vorher → nachher (±diff)` für jede der vier Kategorien
+
+Exit-Code 0 bei sauberem Lauf, 1 bei Failures oder Zero-after-nonzero — geeignet für CI-Checks.
+
+### `scripts/normalize-updated-at.ts`
+
+Vergleicht jede in der Working Tree modifizierte JSON-Datei (`news/events/amtsblatt/notices/robots.json`) gegen `git HEAD`. Wenn sich der Item-Inhalt (alle Felder außer `fetchedAt` und `updatedAt`) nicht geändert hat, wird der alte `updatedAt`-Zeitstempel wiederhergestellt — sowohl auf Item-Ebene als auch top-level der Datei. Damit bleibt `updatedAt` ein sinnvolles Signal („zuletzt inhaltlich geändert"), statt bei jedem Scraper-Lauf zu kippen.
 
 ## Datenquellen und Urheberrecht
 

@@ -2,8 +2,8 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, Event } from "../../../../scripts/types.ts";
-import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
+import type { EventsFile, Event } from "../../../../../scripts/types.ts";
+import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../../scripts/robots.ts";
 
 const BASE_URL = "https://bad-saarow.de";
 const EVENTS_SOURCE_BASE = "https://www.scharmuetzelsee.de";

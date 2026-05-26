@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:20:58.013Z",
+  "updatedAt": "2026-05-26T09:03:59.186Z",
   "items": [
     {
       "id": "hennigsdorf-event-820",
@@ -67,6 +67,71 @@
       "startDate": "2026-05-12T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:08.054Z",
       "updatedAt": "2026-05-06T20:20:58.031Z"
+    },
+    {
+      "id": "hennigsdorf-event-813",
+      "title": "Ausstellung \"Stahl und Seele\"",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Ausstellung-Stahl-und-Seele-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.813.1&amp;NavID=2713.9&amp;La=1&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-05-28T00:00:00.000Z",
+      "endDate": "2026-07-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:03:59.193Z",
+      "updatedAt": "2026-05-26T09:03:59.193Z"
+    },
+    {
+      "id": "hennigsdorf-event-766",
+      "title": "Familienspieltag | Tierischer Hüpfburgspass 2026",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Familienspieltag-Tierischer-H%C3%BCpfburgspass-2026.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.766.1&amp;NavID=2713.9&amp;La=1&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:03:59.193Z",
+      "updatedAt": "2026-05-26T09:03:59.193Z"
+    },
+    {
+      "id": "hennigsdorf-event-849",
+      "title": "Tag der Baukultur | Tag der offenen Tür im KreativWerkR6",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tag-der-Baukultur-Tag-der-offenen-T%C3%BCr-im-KreativWerkR6.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.849.1&amp;NavID=2713.9&amp;La=1&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:03:59.193Z",
+      "updatedAt": "2026-05-26T09:03:59.193Z"
+    },
+    {
+      "id": "hennigsdorf-event-731",
+      "title": "Kindermusiktheater | Nopo's Schatzkiste",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Kindermusiktheater-Nopo-s-Schatzkiste-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.731.1&amp;NavID=2713.9&amp;La=1&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:03:59.193Z",
+      "updatedAt": "2026-05-26T09:03:59.193Z"
+    },
+    {
+      "id": "hennigsdorf-event-797",
+      "title": "Kitakonzert 3. Juni | 9:00 Uhr",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Kitakonzert-3-Juni-9-00-Uhr-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.797.1&amp;NavID=2713.9&amp;La=1&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-06-03T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:03:59.193Z",
+      "updatedAt": "2026-05-26T09:03:59.193Z"
+    },
+    {
+      "id": "hennigsdorf-event-798",
+      "title": "Kitakonzert 3. Juni | 10:30 Uhr",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Kitakonzert-3-Juni-10-30-Uhr-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.798.1&amp;NavID=2713.9&amp;La=1&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-06-03T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:03:59.193Z",
+      "updatedAt": "2026-05-26T09:03:59.193Z"
+    },
+    {
+      "id": "hennigsdorf-event-795",
+      "title": "Kitakonzert 4. Juni | 9:00 Uhr",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Kitakonzert-4-Juni-9-00-Uhr-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.795.1&amp;NavID=2713.9&amp;La=1&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-06-04T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:03:59.193Z",
+      "updatedAt": "2026-05-26T09:03:59.193Z"
+    },
+    {
+      "id": "hennigsdorf-event-796",
+      "title": "Kitakonzert 4. Juni | 10:30 Uhr",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Kitakonzert-4-Juni-10-30-Uhr-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.796.1&amp;NavID=2713.9&amp;La=1&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-06-04T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:03:59.193Z",
+      "updatedAt": "2026-05-26T09:03:59.193Z"
     }
   ]
 }

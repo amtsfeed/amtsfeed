@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T18:00:44.332Z",
+  "updatedAt": "2026-05-26T09:04:09.995Z",
   "items": [
     {
       "id": "velten-event-932",
@@ -183,6 +183,15 @@
       "updatedAt": "2026-05-06T18:00:44.341Z"
     },
     {
+      "id": "velten-event-1124",
+      "title": "Abstimmung Bürgerhaushalt:",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Abstimmung-B%C3%BCrgerhaushalt-.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1124.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-05-29T00:00:00.000Z",
+      "endDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
       "id": "velten-event-1118",
       "title": "Tag der Baukultur Brandenburg",
       "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Tag-der-Baukultur-Brandenburg.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1118.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
@@ -199,12 +208,134 @@
       "updatedAt": "2026-05-06T18:00:44.341Z"
     },
     {
+      "id": "velten-event-1121",
+      "title": "Ausstellung Kinderarmut",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ausstellung-Kinderarmut.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1121.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-01T00:00:00.000Z",
+      "endDate": "2026-06-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
       "id": "velten-event-896",
       "title": "13. Sitzung des Ausschusses für Bau und Stadtentwicklung",
       "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/13-Sitzung-des-Ausschusses-f%C3%BCr-Bau-und-Stadtentwicklung.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.896.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
       "startDate": "2026-06-02T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:07.374Z",
       "updatedAt": "2026-05-06T18:00:44.341Z"
+    },
+    {
+      "id": "velten-event-1007",
+      "title": "Wochenmarkt",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochenmarkt.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1007.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-03T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-1097",
+      "title": "Auf 'n Kaffee mit der Bürgermeisterin",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Auf-n-Kaffee-mit-der-B%C3%BCrgermeisterin.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1097.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-03T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-960",
+      "title": "Fahrradcodierung der Polizei",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fahrradcodierung-der-Polizei.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.960.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-04T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-895",
+      "title": "13. Sitzung des Ausschusses für Soziales und Bürgerservice",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/13-Sitzung-des-Ausschusses-f%C3%BCr-Soziales-und-B%C3%BCrgerservice.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.895.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-04T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-963",
+      "title": "125 Jahre Stadtbibliothek",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/125-Jahre-Stadtbibliothek.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.963.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-06T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-1066",
+      "title": "Fit am Rathaus: Yoga für einen gesunden Rücken (Yogalinchen)",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am-Rathaus-Yoga-f%C3%BCr-einen-gesunden-R%C3%BCcken-Yogalinchen-.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1066.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-07T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-894",
+      "title": "13. Sitzung des Ausschusses für Sicherheit und Ordnung",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/13-Sitzung-des-Ausschusses-f%C3%BCr-Sicherheit-und-Ordnung.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.894.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-1008",
+      "title": "Wochenmarkt",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochenmarkt.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1008.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-1112",
+      "title": "Netzwerk Velten: Pflegebörse",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Netzwerk-Velten-Pflegeb%C3%B6rse.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1112.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-893",
+      "title": "13. Sitzung des Ausschusses für Haushalt, Wirtschaft und Finanzen",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/13-Sitzung-des-Ausschusses-f%C3%BCr-Haushalt-Wirtschaft-und-Finanzen.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.893.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-892",
+      "title": "13. Sitzung des Hauptausschusses",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/13-Sitzung-des-Hauptausschusses.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.892.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-977",
+      "title": "Haka Rugby Global Elite Camp 2026",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Haka-Rugby-Global-Elite-Camp-2026.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.977.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-12T00:00:00.000Z",
+      "endDate": "2026-06-14T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-982",
+      "title": "40 Jahre Jugendfeuerwehr: Tag der offenen Tür",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/40-Jahre-Jugendfeuerwehr-Tag-der-offenen-T%C3%BCr.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.982.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
+    },
+    {
+      "id": "velten-event-1044",
+      "title": "Seniorenfest",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Seniorenfest.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1044.1&amp;NavID=3631.15&amp;La=1&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-06-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:10.002Z",
+      "updatedAt": "2026-05-26T09:04:10.002Z"
     }
   ]
 }

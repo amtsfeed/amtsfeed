@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:21:23.645Z",
+  "updatedAt": "2026-05-26T09:04:36.302Z",
   "items": [
     {
       "id": "veranstaltungen-2814562-2026-05-06-digitaltreff-die-technik-von-heute-verstehen.html",
@@ -783,9 +783,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/05/27/familienkaffee.html",
       "startDate": "2026-05-27T15:00:00.000Z",
       "endDate": "2026-05-27T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-05-27-back-ag-jugendclub-grünheide.html",
@@ -833,9 +833,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/05/28/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-05-28T09:00:00.000Z",
       "endDate": "2026-05-28T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898834-2026-05-28-offene-tage-am-schildkrötengehege-grünheide.html",
@@ -878,6 +878,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-05-29-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/05/29/eltern-kind-sport.html",
+      "startDate": "2026-05-29T15:00:00.000Z",
+      "endDate": "2026-05-29T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2898605-2026-05-29-offener-treffpunkt-jugendclub-spreeau.html",
       "title": "Offener Treffpunkt - Jugendclub Spreeau",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2898605/2026/05/29/offener-treffpunkt-jugendclub-spreeau.html",
@@ -893,9 +903,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/05/29/pilates-kurs.html",
       "startDate": "2026-05-29T18:00:00.000Z",
       "endDate": "2026-05-29T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2889941-2026-05-30-hofflohmarkt-spreeau-spreewerder-sieverslake-freienbrink.html",
@@ -943,6 +953,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-06-01-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/06/01/spielenachmittag.html",
+      "startDate": "2026-06-01T15:15:00.000Z",
+      "endDate": "2026-06-01T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-06-01-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/06/01/sport-ag-jugendclub-grünheide.html",
@@ -958,9 +978,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/06/01/qi-gong.html",
       "startDate": "2026-06-01T18:30:00.000Z",
       "endDate": "2026-06-01T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-06-01-fitnessdance.html",
@@ -981,6 +1001,16 @@
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-06-02-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/06/02/familienfrühstück-kagel.html",
+      "startDate": "2026-06-02T09:00:00.000Z",
+      "endDate": "2026-06-02T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814561-2026-06-02-sanft-bewegt.html",
@@ -1026,9 +1056,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/06/03/familienkaffee.html",
       "startDate": "2026-06-03T15:00:00.000Z",
       "endDate": "2026-06-03T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-06-03-back-ag-jugendclub-grünheide.html",
@@ -1049,6 +1079,25 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901488-2026-06-03-sommerfest-des-seniorenbeirates.html",
+      "title": "Sommerfest des Seniorenbeirates",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901488/2026/06/03/sommerfest-des-seniorenbeirates.html",
+      "startDate": "2026-06-03T15:00:00.000Z",
+      "endDate": "2026-06-03T18:00:00.000Z",
+      "location": "Bürgerhaus Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2901473-2026-06-03-gründungsversammlung-der-adfc-regiogruppe-oder-spree-los.html",
+      "title": "Gründungsversammlung der ADFC Regiogruppe Oder-Spree (LOS)",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901473/2026/06/03/gründungsversammlung-der-adfc-regiogruppe-oder-spree-los.html",
+      "startDate": "2026-06-03T18:30:00.000Z",
+      "location": "Störitzland - Kinder-, Jugend- und Familiencamp",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2825184-2026-06-03-1.-kurs-bauch-beine-po.html",
@@ -1076,9 +1125,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/06/04/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-06-04T09:00:00.000Z",
       "endDate": "2026-06-04T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814566-2026-06-04-kochtreff.html",
@@ -1130,14 +1179,33 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-06-05-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/06/05/eltern-kind-sport.html",
+      "startDate": "2026-06-05T15:00:00.000Z",
+      "endDate": "2026-06-05T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-06-05-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/06/05/pilates-kurs.html",
       "startDate": "2026-06-05T18:00:00.000Z",
       "endDate": "2026-06-05T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2906012-2026-06-06-lidl-outletverkauf-im-gvz-freienbrink.html",
+      "title": "LIDL Outletverkauf im GVZ Freienbrink",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2906012/2026/06/06/lidl-outletverkauf-im-gvz-freienbrink.html",
+      "startDate": "2026-06-06T08:00:00.000Z",
+      "endDate": "2026-06-06T14:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2852752-2026-06-06-trödelmarkt-hangelsberg.html",
@@ -1159,6 +1227,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2898834-2026-06-07-offenes-schildkrötengehege-grünheide.html",
+      "title": "Offenes Schildkrötengehege Grünheide",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/06/07/offenes-schildkrötengehege-grünheide.html",
+      "startDate": "2026-06-07T11:00:00.000Z",
+      "endDate": "2026-06-07T13:00:00.000Z",
+      "location": "Schildkrötengehege",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825196-2026-06-08-jugendtreff-kienbaum.html",
       "title": "Jugendtreff Kienbaum",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/06/08/jugendtreff-kienbaum.html",
@@ -1167,6 +1245,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-06-08-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/06/08/spielenachmittag.html",
+      "startDate": "2026-06-08T15:15:00.000Z",
+      "endDate": "2026-06-08T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-06-08-sport-ag-jugendclub-grünheide.html",
@@ -1184,9 +1272,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/06/08/qi-gong.html",
       "startDate": "2026-06-08T18:30:00.000Z",
       "endDate": "2026-06-08T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-06-08-fitnessdance.html",
@@ -1203,10 +1291,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/06/09/familienfrühstück-hangelsberg.html",
       "startDate": "2026-06-09T09:00:00.000Z",
-      "endDate": "2026-06-09T12:30:00.000Z",
+      "endDate": "2026-06-09T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-06-09-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/06/09/familienfrühstück-kagel.html",
+      "startDate": "2026-06-09T09:00:00.000Z",
+      "endDate": "2026-06-09T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2721462-2026-06-09-erzählcafé.html",
@@ -1262,9 +1360,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/06/10/familienkaffee.html",
       "startDate": "2026-06-10T15:00:00.000Z",
       "endDate": "2026-06-10T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-06-10-back-ag-jugendclub-grünheide.html",
@@ -1312,9 +1410,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/06/11/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-06-11T09:00:00.000Z",
       "endDate": "2026-06-11T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898834-2026-06-11-offene-tage-am-schildkrötengehege-grünheide.html",
@@ -1366,14 +1464,33 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-06-12-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/06/12/eltern-kind-sport.html",
+      "startDate": "2026-06-12T15:00:00.000Z",
+      "endDate": "2026-06-12T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-06-12-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/06/12/pilates-kurs.html",
       "startDate": "2026-06-12T18:00:00.000Z",
       "endDate": "2026-06-12T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2906026-2026-06-13-geschichte-und-geschichten-am-spreebord.html",
+      "title": "Geschichte und Geschichten am Spreebord",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2906026/2026/06/13/geschichte-und-geschichten-am-spreebord.html",
+      "startDate": "2026-06-13T00:00:00.000Z",
+      "location": "Heimatstube Grünheide",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2829459-2026-06-13-hoftrödel-mönchwinkel.html",
@@ -1431,6 +1548,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-06-15-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/06/15/spielenachmittag.html",
+      "startDate": "2026-06-15T15:15:00.000Z",
+      "endDate": "2026-06-15T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-06-15-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/06/15/sport-ag-jugendclub-grünheide.html",
@@ -1446,9 +1573,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/06/15/qi-gong.html",
       "startDate": "2026-06-15T18:30:00.000Z",
       "endDate": "2026-06-15T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-06-15-fitnessdance.html",
@@ -1474,10 +1601,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/06/16/familienfrühstück-hangelsberg.html",
       "startDate": "2026-06-16T09:00:00.000Z",
-      "endDate": "2026-06-16T12:30:00.000Z",
+      "endDate": "2026-06-16T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-06-16-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/06/16/familienfrühstück-kagel.html",
+      "startDate": "2026-06-16T09:00:00.000Z",
+      "endDate": "2026-06-16T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814563-2026-06-16-digitaltreff-die-technik-von-heute-verstehen.html",
@@ -1532,9 +1669,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/06/17/familienkaffee.html",
       "startDate": "2026-06-17T15:00:00.000Z",
       "endDate": "2026-06-17T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-06-17-back-ag-jugendclub-grünheide.html",
@@ -1591,9 +1728,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/06/18/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-06-18T09:00:00.000Z",
       "endDate": "2026-06-18T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-06-18-nachhilfe-jugendclub-spreeau.html",
@@ -1635,14 +1772,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-06-19-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/06/19/eltern-kind-sport.html",
+      "startDate": "2026-06-19T15:00:00.000Z",
+      "endDate": "2026-06-19T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-06-19-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/06/19/pilates-kurs.html",
       "startDate": "2026-06-19T18:00:00.000Z",
       "endDate": "2026-06-19T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2437412-2026-06-20-stadtradeln-grünheide-tritt-in-die-pedale.html",
@@ -1702,6 +1849,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2898834-2026-06-21-offenes-schildkrötengehege-grünheide.html",
+      "title": "Offenes Schildkrötengehege Grünheide",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/06/21/offenes-schildkrötengehege-grünheide.html",
+      "startDate": "2026-06-21T11:00:00.000Z",
+      "endDate": "2026-06-21T13:00:00.000Z",
+      "location": "Schildkrötengehege",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2437412-2026-06-22-stadtradeln-grünheide-tritt-in-die-pedale.html",
       "title": "STADTRADELN - Grünheide tritt in die Pedale",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2437412/2026/06/22/stadtradeln-grünheide-tritt-in-die-pedale.html",
@@ -1721,6 +1878,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-06-22-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/06/22/spielenachmittag.html",
+      "startDate": "2026-06-22T15:15:00.000Z",
+      "endDate": "2026-06-22T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-06-22-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/06/22/sport-ag-jugendclub-grünheide.html",
@@ -1736,9 +1903,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/06/22/qi-gong.html",
       "startDate": "2026-06-22T18:30:00.000Z",
       "endDate": "2026-06-22T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-06-22-fitnessdance.html",
@@ -1764,10 +1931,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/06/23/familienfrühstück-hangelsberg.html",
       "startDate": "2026-06-23T09:00:00.000Z",
-      "endDate": "2026-06-23T12:30:00.000Z",
+      "endDate": "2026-06-23T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-06-23-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/06/23/familienfrühstück-kagel.html",
+      "startDate": "2026-06-23T09:00:00.000Z",
+      "endDate": "2026-06-23T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814575-2026-06-23-offenes-haus-spielrunde.html",
@@ -1796,6 +1973,15 @@
       "location": "Kleine Turnhalle auf dem Löcknitzcampus",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901490-2026-06-23-informationsveranstaltung-zu-betrugsprävention-und-sicherheit-im-alltag.html",
+      "title": "Informationsveranstaltung zu Betrugsprävention und Sicherheit im Alltag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901490/2026/06/23/informationsveranstaltung-zu-betrugsprävention-und-sicherheit-im-alltag.html",
+      "startDate": "2026-06-23T17:00:00.000Z",
+      "location": "Kita Regenbogenhaus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855058-2026-06-23-pilates.html",
@@ -1831,9 +2017,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/06/24/familienkaffee.html",
       "startDate": "2026-06-24T15:00:00.000Z",
       "endDate": "2026-06-24T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-06-24-back-ag-jugendclub-grünheide.html",
@@ -1899,9 +2085,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/06/25/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-06-25T09:00:00.000Z",
       "endDate": "2026-06-25T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898834-2026-06-25-offene-tage-am-schildkrötengehege-grünheide.html",
@@ -1962,6 +2148,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-06-26-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/06/26/eltern-kind-sport.html",
+      "startDate": "2026-06-26T15:00:00.000Z",
+      "endDate": "2026-06-26T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2898605-2026-06-26-offener-treffpunkt-jugendclub-spreeau.html",
       "title": "Offener Treffpunkt - Jugendclub Spreeau",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2898605/2026/06/26/offener-treffpunkt-jugendclub-spreeau.html",
@@ -1977,9 +2173,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/06/26/pilates-kurs.html",
       "startDate": "2026-06-26T18:00:00.000Z",
       "endDate": "2026-06-26T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2437412-2026-06-27-stadtradeln-grünheide-tritt-in-die-pedale.html",
@@ -2038,6 +2234,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-06-29-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/06/29/spielenachmittag.html",
+      "startDate": "2026-06-29T15:15:00.000Z",
+      "endDate": "2026-06-29T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-06-29-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/06/29/sport-ag-jugendclub-grünheide.html",
@@ -2053,9 +2259,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/06/29/qi-gong.html",
       "startDate": "2026-06-29T18:30:00.000Z",
       "endDate": "2026-06-29T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-06-29-fitnessdance.html",
@@ -2081,10 +2287,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/06/30/familienfrühstück-hangelsberg.html",
       "startDate": "2026-06-30T09:00:00.000Z",
-      "endDate": "2026-06-30T12:30:00.000Z",
+      "endDate": "2026-06-30T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-06-30-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/06/30/familienfrühstück-kagel.html",
+      "startDate": "2026-06-30T09:00:00.000Z",
+      "endDate": "2026-06-30T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814561-2026-06-30-sanft-bewegt.html",
@@ -2139,9 +2355,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/07/01/familienkaffee.html",
       "startDate": "2026-07-01T15:00:00.000Z",
       "endDate": "2026-07-01T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-07-01-back-ag-jugendclub-grünheide.html",
@@ -2198,9 +2414,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/07/02/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-07-02T09:00:00.000Z",
       "endDate": "2026-07-02T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814566-2026-07-02-kochtreff.html",
@@ -2260,14 +2476,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-07-03-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/07/03/eltern-kind-sport.html",
+      "startDate": "2026-07-03T15:00:00.000Z",
+      "endDate": "2026-07-03T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-07-03-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/07/03/pilates-kurs.html",
       "startDate": "2026-07-03T18:00:00.000Z",
       "endDate": "2026-07-03T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2437412-2026-07-04-stadtradeln-grünheide-tritt-in-die-pedale.html",
@@ -2298,6 +2524,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2898834-2026-07-05-offenes-schildkrötengehege-grünheide.html",
+      "title": "Offenes Schildkrötengehege Grünheide",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/07/05/offenes-schildkrötengehege-grünheide.html",
+      "startDate": "2026-07-05T11:00:00.000Z",
+      "endDate": "2026-07-05T13:00:00.000Z",
+      "location": "Schildkrötengehege",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825196-2026-07-06-jugendtreff-kienbaum.html",
       "title": "Jugendtreff Kienbaum",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/07/06/jugendtreff-kienbaum.html",
@@ -2306,6 +2542,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-07-06-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/07/06/spielenachmittag.html",
+      "startDate": "2026-07-06T15:15:00.000Z",
+      "endDate": "2026-07-06T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-07-06-sport-ag-jugendclub-grünheide.html",
@@ -2323,9 +2569,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/07/06/qi-gong.html",
       "startDate": "2026-07-06T18:30:00.000Z",
       "endDate": "2026-07-06T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-07-06-fitnessdance.html",
@@ -2342,10 +2588,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/07/07/familienfrühstück-hangelsberg.html",
       "startDate": "2026-07-07T09:00:00.000Z",
-      "endDate": "2026-07-07T12:30:00.000Z",
+      "endDate": "2026-07-07T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-07-07-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/07/07/familienfrühstück-kagel.html",
+      "startDate": "2026-07-07T09:00:00.000Z",
+      "endDate": "2026-07-07T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814561-2026-07-07-sanft-bewegt.html",
@@ -2391,9 +2647,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/07/08/familienkaffee.html",
       "startDate": "2026-07-08T15:00:00.000Z",
       "endDate": "2026-07-08T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-07-08-back-ag-jugendclub-grünheide.html",
@@ -2503,14 +2759,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-07-10-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/07/10/eltern-kind-sport.html",
+      "startDate": "2026-07-10T15:00:00.000Z",
+      "endDate": "2026-07-10T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-07-10-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/07/10/pilates-kurs.html",
       "startDate": "2026-07-10T18:00:00.000Z",
       "endDate": "2026-07-10T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2869703-2026-07-12-happiness-frühstück-im-störitzland--genuss-natur-lebensfreude.html",
@@ -2532,6 +2798,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-07-13-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/07/13/spielenachmittag.html",
+      "startDate": "2026-07-13T15:15:00.000Z",
+      "endDate": "2026-07-13T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-07-13-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/07/13/sport-ag-jugendclub-grünheide.html",
@@ -2547,9 +2823,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/07/13/qi-gong.html",
       "startDate": "2026-07-13T18:30:00.000Z",
       "endDate": "2026-07-13T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-07-13-fitnessdance.html",
@@ -2566,10 +2842,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/07/14/familienfrühstück-hangelsberg.html",
       "startDate": "2026-07-14T09:00:00.000Z",
-      "endDate": "2026-07-14T12:30:00.000Z",
+      "endDate": "2026-07-14T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-07-14-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/07/14/familienfrühstück-kagel.html",
+      "startDate": "2026-07-14T09:00:00.000Z",
+      "endDate": "2026-07-14T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2721462-2026-07-14-erzählcafé.html",
@@ -2616,9 +2902,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/07/15/familienkaffee.html",
       "startDate": "2026-07-15T15:00:00.000Z",
       "endDate": "2026-07-15T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-07-15-back-ag-jugendclub-grünheide.html",
@@ -2666,9 +2952,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/07/16/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-07-16T09:00:00.000Z",
       "endDate": "2026-07-16T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-07-16-nachhilfe-jugendclub-spreeau.html",
@@ -2701,14 +2987,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-07-17-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/07/17/eltern-kind-sport.html",
+      "startDate": "2026-07-17T15:00:00.000Z",
+      "endDate": "2026-07-17T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-07-17-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/07/17/pilates-kurs.html",
       "startDate": "2026-07-17T18:00:00.000Z",
       "endDate": "2026-07-17T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2836031-2026-07-18-schifffahrt-tagestour-grünheide-brandenburg.html",
@@ -2769,6 +3065,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2898834-2026-07-19-offenes-schildkrötengehege-grünheide.html",
+      "title": "Offenes Schildkrötengehege Grünheide",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/07/19/offenes-schildkrötengehege-grünheide.html",
+      "startDate": "2026-07-19T11:00:00.000Z",
+      "endDate": "2026-07-19T13:00:00.000Z",
+      "location": "Schildkrötengehege",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825196-2026-07-20-jugendtreff-kienbaum.html",
       "title": "Jugendtreff Kienbaum",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/07/20/jugendtreff-kienbaum.html",
@@ -2777,6 +3083,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-07-20-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/07/20/spielenachmittag.html",
+      "startDate": "2026-07-20T15:15:00.000Z",
+      "endDate": "2026-07-20T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-07-20-sport-ag-jugendclub-grünheide.html",
@@ -2794,9 +3110,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/07/20/qi-gong.html",
       "startDate": "2026-07-20T18:30:00.000Z",
       "endDate": "2026-07-20T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-07-20-fitnessdance.html",
@@ -2813,10 +3129,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/07/21/familienfrühstück-hangelsberg.html",
       "startDate": "2026-07-21T09:00:00.000Z",
-      "endDate": "2026-07-21T12:30:00.000Z",
+      "endDate": "2026-07-21T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-07-21-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/07/21/familienfrühstück-kagel.html",
+      "startDate": "2026-07-21T09:00:00.000Z",
+      "endDate": "2026-07-21T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814563-2026-07-21-digitaltreff-die-technik-von-heute-verstehen.html",
@@ -2862,9 +3188,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/07/22/familienkaffee.html",
       "startDate": "2026-07-22T15:00:00.000Z",
       "endDate": "2026-07-22T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-07-22-back-ag-jugendclub-grünheide.html",
@@ -2912,9 +3238,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/07/23/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-07-23T09:00:00.000Z",
       "endDate": "2026-07-23T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898834-2026-07-23-offene-tage-am-schildkrötengehege-grünheide.html",
@@ -2957,14 +3283,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-07-24-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/07/24/eltern-kind-sport.html",
+      "startDate": "2026-07-24T15:00:00.000Z",
+      "endDate": "2026-07-24T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-07-24-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/07/24/pilates-kurs.html",
       "startDate": "2026-07-24T18:00:00.000Z",
       "endDate": "2026-07-24T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2811449-2026-07-25-monatliche-führung-sportmuseum-kienbaum.html",
@@ -2986,6 +3322,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-07-27-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/07/27/spielenachmittag.html",
+      "startDate": "2026-07-27T15:15:00.000Z",
+      "endDate": "2026-07-27T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-07-27-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/07/27/sport-ag-jugendclub-grünheide.html",
@@ -3001,9 +3347,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/07/27/qi-gong.html",
       "startDate": "2026-07-27T18:30:00.000Z",
       "endDate": "2026-07-27T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-07-27-fitnessdance.html",
@@ -3020,10 +3366,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/07/28/familienfrühstück-hangelsberg.html",
       "startDate": "2026-07-28T09:00:00.000Z",
-      "endDate": "2026-07-28T12:30:00.000Z",
+      "endDate": "2026-07-28T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-07-28-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/07/28/familienfrühstück-kagel.html",
+      "startDate": "2026-07-28T09:00:00.000Z",
+      "endDate": "2026-07-28T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814575-2026-07-28-offenes-haus-spielrunde.html",
@@ -3069,9 +3425,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/07/29/familienkaffee.html",
       "startDate": "2026-07-29T15:00:00.000Z",
       "endDate": "2026-07-29T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-07-29-back-ag-jugendclub-grünheide.html",
@@ -3119,9 +3475,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/07/30/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-07-30T09:00:00.000Z",
       "endDate": "2026-07-30T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-07-30-nachhilfe-jugendclub-spreeau.html",
@@ -3154,6 +3510,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-07-31-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/07/31/eltern-kind-sport.html",
+      "startDate": "2026-07-31T15:00:00.000Z",
+      "endDate": "2026-07-31T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2898605-2026-07-31-offener-treffpunkt-jugendclub-spreeau.html",
       "title": "Offener Treffpunkt - Jugendclub Spreeau",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2898605/2026/07/31/offener-treffpunkt-jugendclub-spreeau.html",
@@ -3169,9 +3535,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/07/31/pilates-kurs.html",
       "startDate": "2026-07-31T18:00:00.000Z",
       "endDate": "2026-07-31T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2829471-2026-08-01-seniorensommerfest-mönchwinkel.html",
@@ -3193,6 +3559,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2898834-2026-08-02-offenes-schildkrötengehege-grünheide.html",
+      "title": "Offenes Schildkrötengehege Grünheide",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/08/02/offenes-schildkrötengehege-grünheide.html",
+      "startDate": "2026-08-02T11:00:00.000Z",
+      "endDate": "2026-08-02T13:00:00.000Z",
+      "location": "Schildkrötengehege",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825196-2026-08-03-jugendtreff-kienbaum.html",
       "title": "Jugendtreff Kienbaum",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/08/03/jugendtreff-kienbaum.html",
@@ -3201,6 +3577,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-08-03-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/08/03/spielenachmittag.html",
+      "startDate": "2026-08-03T15:15:00.000Z",
+      "endDate": "2026-08-03T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-08-03-sport-ag-jugendclub-grünheide.html",
@@ -3218,9 +3604,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/08/03/qi-gong.html",
       "startDate": "2026-08-03T18:30:00.000Z",
       "endDate": "2026-08-03T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-08-03-fitnessdance.html",
@@ -3237,10 +3623,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/08/04/familienfrühstück-hangelsberg.html",
       "startDate": "2026-08-04T09:00:00.000Z",
-      "endDate": "2026-08-04T12:30:00.000Z",
+      "endDate": "2026-08-04T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-08-04-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/08/04/familienfrühstück-kagel.html",
+      "startDate": "2026-08-04T09:00:00.000Z",
+      "endDate": "2026-08-04T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814561-2026-08-04-sanft-bewegt.html",
@@ -3286,9 +3682,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/08/05/familienkaffee.html",
       "startDate": "2026-08-05T15:00:00.000Z",
       "endDate": "2026-08-05T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-08-05-back-ag-jugendclub-grünheide.html",
@@ -3336,9 +3732,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/08/06/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-08-06T09:00:00.000Z",
       "endDate": "2026-08-06T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814566-2026-08-06-kochtreff.html",
@@ -3399,14 +3795,33 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-08-07-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/08/07/eltern-kind-sport.html",
+      "startDate": "2026-08-07T15:00:00.000Z",
+      "endDate": "2026-08-07T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-08-07-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/08/07/pilates-kurs.html",
       "startDate": "2026-08-07T18:00:00.000Z",
       "endDate": "2026-08-07T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2906168-2026-08-08-ausstellung-zum-heimatfest-kunst-von-marion-sander.html",
+      "title": "Ausstellung zum Heimatfest: Kunst von Marion Sander",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2906168/2026/08/08/ausstellung-zum-heimatfest-kunst-von-marion-sander.html",
+      "startDate": "2026-08-08T00:00:00.000Z",
+      "location": "Heimatstube Grünheide",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2869703-2026-08-09-happiness-frühstück-im-störitzland--genuss-natur-lebensfreude.html",
@@ -3428,6 +3843,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-08-10-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/08/10/spielenachmittag.html",
+      "startDate": "2026-08-10T15:15:00.000Z",
+      "endDate": "2026-08-10T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-08-10-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/08/10/sport-ag-jugendclub-grünheide.html",
@@ -3443,9 +3868,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/08/10/qi-gong.html",
       "startDate": "2026-08-10T18:30:00.000Z",
       "endDate": "2026-08-10T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-08-10-fitnessdance.html",
@@ -3462,10 +3887,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/08/11/familienfrühstück-hangelsberg.html",
       "startDate": "2026-08-11T09:00:00.000Z",
-      "endDate": "2026-08-11T12:30:00.000Z",
+      "endDate": "2026-08-11T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-08-11-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/08/11/familienfrühstück-kagel.html",
+      "startDate": "2026-08-11T09:00:00.000Z",
+      "endDate": "2026-08-11T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2721462-2026-08-11-erzählcafé.html",
@@ -3521,9 +3956,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/08/12/familienkaffee.html",
       "startDate": "2026-08-12T15:00:00.000Z",
       "endDate": "2026-08-12T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-08-12-back-ag-jugendclub-grünheide.html",
@@ -3571,9 +4006,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/08/13/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-08-13T09:00:00.000Z",
       "endDate": "2026-08-13T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-08-13-nachhilfe-jugendclub-spreeau.html",
@@ -3606,14 +4041,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-08-14-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/08/14/eltern-kind-sport.html",
+      "startDate": "2026-08-14T15:00:00.000Z",
+      "endDate": "2026-08-14T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-08-14-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/08/14/pilates-kurs.html",
       "startDate": "2026-08-14T18:00:00.000Z",
       "endDate": "2026-08-14T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2836112-2026-08-15-schifffahrt-tagestour-grünheide-bad-saarow.html",
@@ -3646,6 +4091,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2898834-2026-08-16-offenes-schildkrötengehege-grünheide.html",
+      "title": "Offenes Schildkrötengehege Grünheide",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/08/16/offenes-schildkrötengehege-grünheide.html",
+      "startDate": "2026-08-16T11:00:00.000Z",
+      "endDate": "2026-08-16T13:00:00.000Z",
+      "location": "Schildkrötengehege",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825196-2026-08-17-jugendtreff-kienbaum.html",
       "title": "Jugendtreff Kienbaum",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/08/17/jugendtreff-kienbaum.html",
@@ -3654,6 +4109,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-08-17-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/08/17/spielenachmittag.html",
+      "startDate": "2026-08-17T15:15:00.000Z",
+      "endDate": "2026-08-17T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-08-17-sport-ag-jugendclub-grünheide.html",
@@ -3671,9 +4136,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/08/17/qi-gong.html",
       "startDate": "2026-08-17T18:30:00.000Z",
       "endDate": "2026-08-17T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-08-17-fitnessdance.html",
@@ -3690,10 +4155,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/08/18/familienfrühstück-hangelsberg.html",
       "startDate": "2026-08-18T09:00:00.000Z",
-      "endDate": "2026-08-18T12:30:00.000Z",
+      "endDate": "2026-08-18T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-08-18-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/08/18/familienfrühstück-kagel.html",
+      "startDate": "2026-08-18T09:00:00.000Z",
+      "endDate": "2026-08-18T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814563-2026-08-18-digitaltreff-die-technik-von-heute-verstehen.html",
@@ -3739,9 +4214,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/08/19/familienkaffee.html",
       "startDate": "2026-08-19T15:00:00.000Z",
       "endDate": "2026-08-19T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-08-19-back-ag-jugendclub-grünheide.html",
@@ -3789,9 +4264,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/08/20/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-08-20T09:00:00.000Z",
       "endDate": "2026-08-20T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898834-2026-08-20-offene-tage-am-schildkrötengehege-grünheide.html",
@@ -3834,14 +4309,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-08-21-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/08/21/eltern-kind-sport.html",
+      "startDate": "2026-08-21T15:00:00.000Z",
+      "endDate": "2026-08-21T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-08-21-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/08/21/pilates-kurs.html",
       "startDate": "2026-08-21T18:00:00.000Z",
       "endDate": "2026-08-21T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2869713-2026-08-22-zuckertütenbrunch-im-störitzland--familienbrunch-zur-einschulung.html",
@@ -3864,6 +4349,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-08-24-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/08/24/spielenachmittag.html",
+      "startDate": "2026-08-24T15:15:00.000Z",
+      "endDate": "2026-08-24T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-08-24-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/08/24/sport-ag-jugendclub-grünheide.html",
@@ -3879,9 +4374,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/08/24/qi-gong.html",
       "startDate": "2026-08-24T18:30:00.000Z",
       "endDate": "2026-08-24T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-08-24-fitnessdance.html",
@@ -3898,10 +4393,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/08/25/familienfrühstück-hangelsberg.html",
       "startDate": "2026-08-25T09:00:00.000Z",
-      "endDate": "2026-08-25T12:30:00.000Z",
+      "endDate": "2026-08-25T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-08-25-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/08/25/familienfrühstück-kagel.html",
+      "startDate": "2026-08-25T09:00:00.000Z",
+      "endDate": "2026-08-25T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814575-2026-08-25-offenes-haus-spielrunde.html",
@@ -3956,9 +4461,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/08/26/familienkaffee.html",
       "startDate": "2026-08-26T15:00:00.000Z",
       "endDate": "2026-08-26T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-08-26-back-ag-jugendclub-grünheide.html",
@@ -4006,9 +4511,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/08/27/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-08-27T09:00:00.000Z",
       "endDate": "2026-08-27T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-08-27-nachhilfe-jugendclub-spreeau.html",
@@ -4041,6 +4546,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-08-28-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/08/28/eltern-kind-sport.html",
+      "startDate": "2026-08-28T15:00:00.000Z",
+      "endDate": "2026-08-28T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2898605-2026-08-28-offener-treffpunkt-jugendclub-spreeau.html",
       "title": "Offener Treffpunkt - Jugendclub Spreeau",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2898605/2026/08/28/offener-treffpunkt-jugendclub-spreeau.html",
@@ -4056,9 +4571,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/08/28/pilates-kurs.html",
       "startDate": "2026-08-28T18:00:00.000Z",
       "endDate": "2026-08-28T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2811451-2026-08-29-monatliche-führung-sportmuseum-kienbaum.html",
@@ -4099,6 +4614,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2898834-2026-08-30-offenes-schildkrötengehege-grünheide.html",
+      "title": "Offenes Schildkrötengehege Grünheide",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/08/30/offenes-schildkrötengehege-grünheide.html",
+      "startDate": "2026-08-30T11:00:00.000Z",
+      "endDate": "2026-08-30T13:00:00.000Z",
+      "location": "Schildkrötengehege",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2829464-2026-08-30-wiesengottesdienst-mönchwinkel.html",
       "title": "Wiesengottesdienst Mönchwinkel",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2829464/2026/08/30/wiesengottesdienst-mönchwinkel.html",
@@ -4118,6 +4643,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-08-31-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/08/31/spielenachmittag.html",
+      "startDate": "2026-08-31T15:15:00.000Z",
+      "endDate": "2026-08-31T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-08-31-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/08/31/sport-ag-jugendclub-grünheide.html",
@@ -4133,9 +4668,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/08/31/qi-gong.html",
       "startDate": "2026-08-31T18:30:00.000Z",
       "endDate": "2026-08-31T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-08-31-fitnessdance.html",
@@ -4152,10 +4687,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/09/01/familienfrühstück-hangelsberg.html",
       "startDate": "2026-09-01T09:00:00.000Z",
-      "endDate": "2026-09-01T12:30:00.000Z",
+      "endDate": "2026-09-01T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-09-01-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/09/01/familienfrühstück-kagel.html",
+      "startDate": "2026-09-01T09:00:00.000Z",
+      "endDate": "2026-09-01T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814561-2026-09-01-sanft-bewegt.html",
@@ -4201,9 +4746,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/09/02/familienkaffee.html",
       "startDate": "2026-09-02T15:00:00.000Z",
       "endDate": "2026-09-02T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-09-02-back-ag-jugendclub-grünheide.html",
@@ -4260,9 +4805,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/09/03/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-09-03T09:00:00.000Z",
       "endDate": "2026-09-03T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814566-2026-09-03-kochtreff.html",
@@ -4314,14 +4859,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-09-04-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/09/04/eltern-kind-sport.html",
+      "startDate": "2026-09-04T15:00:00.000Z",
+      "endDate": "2026-09-04T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-09-04-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/09/04/pilates-kurs.html",
       "startDate": "2026-09-04T18:00:00.000Z",
       "endDate": "2026-09-04T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2839921-2026-09-05-löcknitzcampustag.html",
@@ -4334,6 +4889,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901671-2026-09-05-schildkrötengehege-grünheide-geöffnet-zum-löcknitzcampustag.html",
+      "title": "Schildkrötengehege Grünheide geöffnet zum Löcknitzcampustag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901671/2026/09/05/schildkrötengehege-grünheide-geöffnet-zum-löcknitzcampustag.html",
+      "startDate": "2026-09-05T10:00:00.000Z",
+      "endDate": "2026-09-05T13:00:00.000Z",
+      "location": "Schildkrötengehege",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825196-2026-09-07-jugendtreff-kienbaum.html",
       "title": "Jugendtreff Kienbaum",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/09/07/jugendtreff-kienbaum.html",
@@ -4342,6 +4907,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-09-07-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/09/07/spielenachmittag.html",
+      "startDate": "2026-09-07T15:15:00.000Z",
+      "endDate": "2026-09-07T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-09-07-sport-ag-jugendclub-grünheide.html",
@@ -4359,9 +4934,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/09/07/qi-gong.html",
       "startDate": "2026-09-07T18:30:00.000Z",
       "endDate": "2026-09-07T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-09-07-fitnessdance.html",
@@ -4378,10 +4953,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/09/08/familienfrühstück-hangelsberg.html",
       "startDate": "2026-09-08T09:00:00.000Z",
-      "endDate": "2026-09-08T12:30:00.000Z",
+      "endDate": "2026-09-08T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-09-08-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/09/08/familienfrühstück-kagel.html",
+      "startDate": "2026-09-08T09:00:00.000Z",
+      "endDate": "2026-09-08T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2721462-2026-09-08-erzählcafé.html",
@@ -4437,9 +5022,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/09/09/familienkaffee.html",
       "startDate": "2026-09-09T15:00:00.000Z",
       "endDate": "2026-09-09T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-09-09-back-ag-jugendclub-grünheide.html",
@@ -4487,9 +5072,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/09/10/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-09-10T09:00:00.000Z",
       "endDate": "2026-09-10T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-09-10-nachhilfe-jugendclub-spreeau.html",
@@ -4522,14 +5107,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-09-11-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/09/11/eltern-kind-sport.html",
+      "startDate": "2026-09-11T15:00:00.000Z",
+      "endDate": "2026-09-11T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-09-11-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/09/11/pilates-kurs.html",
       "startDate": "2026-09-11T18:00:00.000Z",
       "endDate": "2026-09-11T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2761122-2026-09-12-ironman-70.3-erkner-berlin-brandenburg.html",
@@ -4571,6 +5166,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-09-14-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/09/14/spielenachmittag.html",
+      "startDate": "2026-09-14T15:15:00.000Z",
+      "endDate": "2026-09-14T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-09-14-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/09/14/sport-ag-jugendclub-grünheide.html",
@@ -4586,9 +5191,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/09/14/qi-gong.html",
       "startDate": "2026-09-14T18:30:00.000Z",
       "endDate": "2026-09-14T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-09-14-fitnessdance.html",
@@ -4605,10 +5210,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/09/15/familienfrühstück-hangelsberg.html",
       "startDate": "2026-09-15T09:00:00.000Z",
-      "endDate": "2026-09-15T12:30:00.000Z",
+      "endDate": "2026-09-15T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-09-15-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/09/15/familienfrühstück-kagel.html",
+      "startDate": "2026-09-15T09:00:00.000Z",
+      "endDate": "2026-09-15T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814563-2026-09-15-digitaltreff-die-technik-von-heute-verstehen.html",
@@ -4654,9 +5269,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/09/16/familienkaffee.html",
       "startDate": "2026-09-16T15:00:00.000Z",
       "endDate": "2026-09-16T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-09-16-back-ag-jugendclub-grünheide.html",
@@ -4704,9 +5319,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/09/17/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-09-17T09:00:00.000Z",
       "endDate": "2026-09-17T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898834-2026-09-17-offene-tage-am-schildkrötengehege-grünheide.html",
@@ -4749,14 +5364,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-09-18-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/09/18/eltern-kind-sport.html",
+      "startDate": "2026-09-18T15:00:00.000Z",
+      "endDate": "2026-09-18T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-09-18-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/09/18/pilates-kurs.html",
       "startDate": "2026-09-18T18:00:00.000Z",
       "endDate": "2026-09-18T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2835262-2026-09-20-geführte-fahrradtour-oder-spree-kanal-gravel-bike-tour.html",
@@ -4769,6 +5394,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901676-2026-09-20-offene-tage-am-schildkrötengehege-grünheide.html",
+      "title": "Offene Tage am Schildkrötengehege Grünheide",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901676/2026/09/20/offene-tage-am-schildkrötengehege-grünheide.html",
+      "startDate": "2026-09-20T11:00:00.000Z",
+      "endDate": "2026-09-20T13:00:00.000Z",
+      "location": "Schildkrötengehege",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825196-2026-09-21-jugendtreff-kienbaum.html",
       "title": "Jugendtreff Kienbaum",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/09/21/jugendtreff-kienbaum.html",
@@ -4777,6 +5412,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-09-21-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/09/21/spielenachmittag.html",
+      "startDate": "2026-09-21T15:15:00.000Z",
+      "endDate": "2026-09-21T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-09-21-sport-ag-jugendclub-grünheide.html",
@@ -4794,9 +5439,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/09/21/qi-gong.html",
       "startDate": "2026-09-21T18:30:00.000Z",
       "endDate": "2026-09-21T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-09-21-fitnessdance.html",
@@ -4813,10 +5458,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/09/22/familienfrühstück-hangelsberg.html",
       "startDate": "2026-09-22T09:00:00.000Z",
-      "endDate": "2026-09-22T12:30:00.000Z",
+      "endDate": "2026-09-22T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-09-22-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/09/22/familienfrühstück-kagel.html",
+      "startDate": "2026-09-22T09:00:00.000Z",
+      "endDate": "2026-09-22T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814575-2026-09-22-offenes-haus-spielrunde.html",
@@ -4862,9 +5517,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/09/23/familienkaffee.html",
       "startDate": "2026-09-23T15:00:00.000Z",
       "endDate": "2026-09-23T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-09-23-back-ag-jugendclub-grünheide.html",
@@ -4912,9 +5567,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/09/24/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-09-24T09:00:00.000Z",
       "endDate": "2026-09-24T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-09-24-nachhilfe-jugendclub-spreeau.html",
@@ -4947,6 +5602,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-09-25-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/09/25/eltern-kind-sport.html",
+      "startDate": "2026-09-25T15:00:00.000Z",
+      "endDate": "2026-09-25T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2898605-2026-09-25-offener-treffpunkt-jugendclub-spreeau.html",
       "title": "Offener Treffpunkt - Jugendclub Spreeau",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2898605/2026/09/25/offener-treffpunkt-jugendclub-spreeau.html",
@@ -4962,9 +5627,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/09/25/pilates-kurs.html",
       "startDate": "2026-09-25T18:00:00.000Z",
       "endDate": "2026-09-25T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2811452-2026-09-26-monatliche-führung-sportmuseum-kienbaum.html",
@@ -4995,6 +5660,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-09-28-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/09/28/spielenachmittag.html",
+      "startDate": "2026-09-28T15:15:00.000Z",
+      "endDate": "2026-09-28T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-09-28-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/09/28/sport-ag-jugendclub-grünheide.html",
@@ -5010,9 +5685,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/09/28/qi-gong.html",
       "startDate": "2026-09-28T18:30:00.000Z",
       "endDate": "2026-09-28T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-09-28-fitnessdance.html",
@@ -5029,10 +5704,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/09/29/familienfrühstück-hangelsberg.html",
       "startDate": "2026-09-29T09:00:00.000Z",
-      "endDate": "2026-09-29T12:30:00.000Z",
+      "endDate": "2026-09-29T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-09-29-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/09/29/familienfrühstück-kagel.html",
+      "startDate": "2026-09-29T09:00:00.000Z",
+      "endDate": "2026-09-29T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814561-2026-09-29-sanft-bewegt.html",
@@ -5069,9 +5754,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/09/30/familienkaffee.html",
       "startDate": "2026-09-30T15:00:00.000Z",
       "endDate": "2026-09-30T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-09-30-back-ag-jugendclub-grünheide.html",
@@ -5119,9 +5804,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/10/01/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-10-01T09:00:00.000Z",
       "endDate": "2026-10-01T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814566-2026-10-01-kochtreff.html",
@@ -5163,14 +5848,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-10-02-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/10/02/eltern-kind-sport.html",
+      "startDate": "2026-10-02T15:00:00.000Z",
+      "endDate": "2026-10-02T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-10-02-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/10/02/pilates-kurs.html",
       "startDate": "2026-10-02T18:00:00.000Z",
       "endDate": "2026-10-02T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2825196-2026-10-05-jugendtreff-kienbaum.html",
@@ -5181,6 +5876,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-10-05-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/10/05/spielenachmittag.html",
+      "startDate": "2026-10-05T15:15:00.000Z",
+      "endDate": "2026-10-05T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-10-05-sport-ag-jugendclub-grünheide.html",
@@ -5198,9 +5903,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/10/05/qi-gong.html",
       "startDate": "2026-10-05T18:30:00.000Z",
       "endDate": "2026-10-05T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-10-05-fitnessdance.html",
@@ -5217,10 +5922,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/10/06/familienfrühstück-hangelsberg.html",
       "startDate": "2026-10-06T09:00:00.000Z",
-      "endDate": "2026-10-06T12:30:00.000Z",
+      "endDate": "2026-10-06T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-10-06-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/10/06/familienfrühstück-kagel.html",
+      "startDate": "2026-10-06T09:00:00.000Z",
+      "endDate": "2026-10-06T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814561-2026-10-06-sanft-bewegt.html",
@@ -5266,9 +5981,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/10/07/familienkaffee.html",
       "startDate": "2026-10-07T15:00:00.000Z",
       "endDate": "2026-10-07T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-10-07-back-ag-jugendclub-grünheide.html",
@@ -5316,9 +6031,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/10/08/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-10-08T09:00:00.000Z",
       "endDate": "2026-10-08T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-10-08-nachhilfe-jugendclub-spreeau.html",
@@ -5351,14 +6066,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-10-09-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/10/09/eltern-kind-sport.html",
+      "startDate": "2026-10-09T15:00:00.000Z",
+      "endDate": "2026-10-09T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-10-09-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/10/09/pilates-kurs.html",
       "startDate": "2026-10-09T18:00:00.000Z",
       "endDate": "2026-10-09T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2825196-2026-10-12-jugendtreff-kienbaum.html",
@@ -5369,6 +6094,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-10-12-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/10/12/spielenachmittag.html",
+      "startDate": "2026-10-12T15:15:00.000Z",
+      "endDate": "2026-10-12T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-10-12-sport-ag-jugendclub-grünheide.html",
@@ -5386,9 +6121,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/10/12/qi-gong.html",
       "startDate": "2026-10-12T18:30:00.000Z",
       "endDate": "2026-10-12T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-10-12-fitnessdance.html",
@@ -5405,10 +6140,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/10/13/familienfrühstück-hangelsberg.html",
       "startDate": "2026-10-13T09:00:00.000Z",
-      "endDate": "2026-10-13T12:30:00.000Z",
+      "endDate": "2026-10-13T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-10-13-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/10/13/familienfrühstück-kagel.html",
+      "startDate": "2026-10-13T09:00:00.000Z",
+      "endDate": "2026-10-13T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2721462-2026-10-13-erzählcafé.html",
@@ -5474,9 +6219,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/10/14/familienkaffee.html",
       "startDate": "2026-10-14T15:00:00.000Z",
       "endDate": "2026-10-14T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-10-14-back-ag-jugendclub-grünheide.html",
@@ -5524,9 +6269,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/10/15/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-10-15T09:00:00.000Z",
       "endDate": "2026-10-15T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-10-15-nachhilfe-jugendclub-spreeau.html",
@@ -5559,14 +6304,34 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-10-16-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/10/16/eltern-kind-sport.html",
+      "startDate": "2026-10-16T15:00:00.000Z",
+      "endDate": "2026-10-16T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-10-16-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/10/16/pilates-kurs.html",
       "startDate": "2026-10-16T18:00:00.000Z",
       "endDate": "2026-10-16T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2906170-2026-10-17-die-lindwallinsel-im-laufe-der-zeit.html",
+      "title": "Die Lindwallinsel im Laufe der Zeit",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2906170/2026/10/17/die-lindwallinsel-im-laufe-der-zeit.html",
+      "startDate": "2026-10-17T14:00:00.000Z",
+      "endDate": "2026-10-17T16:00:00.000Z",
+      "location": "Heimatstube Grünheide",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2835292-2026-10-18-geführte-fahrradtour-radpilgern-auf-dem-jakobsweg-bb-südroute.html",
@@ -5589,6 +6354,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-10-19-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/10/19/spielenachmittag.html",
+      "startDate": "2026-10-19T15:15:00.000Z",
+      "endDate": "2026-10-19T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-10-19-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/10/19/sport-ag-jugendclub-grünheide.html",
@@ -5604,9 +6379,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/10/19/qi-gong.html",
       "startDate": "2026-10-19T18:30:00.000Z",
       "endDate": "2026-10-19T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-10-19-fitnessdance.html",
@@ -5623,10 +6398,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/10/20/familienfrühstück-hangelsberg.html",
       "startDate": "2026-10-20T09:00:00.000Z",
-      "endDate": "2026-10-20T12:30:00.000Z",
+      "endDate": "2026-10-20T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-10-20-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/10/20/familienfrühstück-kagel.html",
+      "startDate": "2026-10-20T09:00:00.000Z",
+      "endDate": "2026-10-20T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814563-2026-10-20-digitaltreff-die-technik-von-heute-verstehen.html",
@@ -5672,9 +6457,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/10/21/familienkaffee.html",
       "startDate": "2026-10-21T15:00:00.000Z",
       "endDate": "2026-10-21T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-10-21-back-ag-jugendclub-grünheide.html",
@@ -5722,9 +6507,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/10/22/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-10-22T09:00:00.000Z",
       "endDate": "2026-10-22T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-10-22-nachhilfe-jugendclub-spreeau.html",
@@ -5757,14 +6542,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-10-23-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/10/23/eltern-kind-sport.html",
+      "startDate": "2026-10-23T15:00:00.000Z",
+      "endDate": "2026-10-23T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-10-23-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/10/23/pilates-kurs.html",
       "startDate": "2026-10-23T18:00:00.000Z",
       "endDate": "2026-10-23T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2825196-2026-10-26-jugendtreff-kienbaum.html",
@@ -5775,6 +6570,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-10-26-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/10/26/spielenachmittag.html",
+      "startDate": "2026-10-26T15:15:00.000Z",
+      "endDate": "2026-10-26T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-10-26-sport-ag-jugendclub-grünheide.html",
@@ -5792,9 +6597,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/10/26/qi-gong.html",
       "startDate": "2026-10-26T18:30:00.000Z",
       "endDate": "2026-10-26T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-10-26-fitnessdance.html",
@@ -5811,10 +6616,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/10/27/familienfrühstück-hangelsberg.html",
       "startDate": "2026-10-27T09:00:00.000Z",
-      "endDate": "2026-10-27T12:30:00.000Z",
+      "endDate": "2026-10-27T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-10-27-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/10/27/familienfrühstück-kagel.html",
+      "startDate": "2026-10-27T09:00:00.000Z",
+      "endDate": "2026-10-27T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814575-2026-10-27-offenes-haus-spielrunde.html",
@@ -5869,9 +6684,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/10/28/familienkaffee.html",
       "startDate": "2026-10-28T15:00:00.000Z",
       "endDate": "2026-10-28T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-10-28-back-ag-jugendclub-grünheide.html",
@@ -5919,9 +6734,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/10/29/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-10-29T09:00:00.000Z",
       "endDate": "2026-10-29T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-10-29-nachhilfe-jugendclub-spreeau.html",
@@ -5954,6 +6769,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-10-30-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/10/30/eltern-kind-sport.html",
+      "startDate": "2026-10-30T15:00:00.000Z",
+      "endDate": "2026-10-30T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2898605-2026-10-30-offener-treffpunkt-jugendclub-spreeau.html",
       "title": "Offener Treffpunkt - Jugendclub Spreeau",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2898605/2026/10/30/offener-treffpunkt-jugendclub-spreeau.html",
@@ -5969,9 +6794,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/10/30/pilates-kurs.html",
       "startDate": "2026-10-30T18:00:00.000Z",
       "endDate": "2026-10-30T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2811453-2026-10-31-monatliche-führung-sportmuseum-kienbaum.html",
@@ -5993,6 +6818,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-11-02-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/11/02/spielenachmittag.html",
+      "startDate": "2026-11-02T15:15:00.000Z",
+      "endDate": "2026-11-02T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-11-02-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/11/02/sport-ag-jugendclub-grünheide.html",
@@ -6008,9 +6843,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/11/02/qi-gong.html",
       "startDate": "2026-11-02T18:30:00.000Z",
       "endDate": "2026-11-02T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-11-02-fitnessdance.html",
@@ -6027,10 +6862,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/11/03/familienfrühstück-hangelsberg.html",
       "startDate": "2026-11-03T09:00:00.000Z",
-      "endDate": "2026-11-03T12:30:00.000Z",
+      "endDate": "2026-11-03T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-11-03-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/11/03/familienfrühstück-kagel.html",
+      "startDate": "2026-11-03T09:00:00.000Z",
+      "endDate": "2026-11-03T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814561-2026-11-03-sanft-bewegt.html",
@@ -6076,9 +6921,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/11/04/familienkaffee.html",
       "startDate": "2026-11-04T15:00:00.000Z",
       "endDate": "2026-11-04T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-11-04-back-ag-jugendclub-grünheide.html",
@@ -6126,9 +6971,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/11/05/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-11-05T09:00:00.000Z",
       "endDate": "2026-11-05T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814566-2026-11-05-kochtreff.html",
@@ -6170,14 +7015,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-11-06-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/11/06/eltern-kind-sport.html",
+      "startDate": "2026-11-06T15:00:00.000Z",
+      "endDate": "2026-11-06T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-11-06-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/11/06/pilates-kurs.html",
       "startDate": "2026-11-06T18:00:00.000Z",
       "endDate": "2026-11-06T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2825196-2026-11-09-jugendtreff-kienbaum.html",
@@ -6188,6 +7043,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-11-09-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/11/09/spielenachmittag.html",
+      "startDate": "2026-11-09T15:15:00.000Z",
+      "endDate": "2026-11-09T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-11-09-sport-ag-jugendclub-grünheide.html",
@@ -6205,9 +7070,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/11/09/qi-gong.html",
       "startDate": "2026-11-09T18:30:00.000Z",
       "endDate": "2026-11-09T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-11-09-fitnessdance.html",
@@ -6224,10 +7089,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/11/10/familienfrühstück-hangelsberg.html",
       "startDate": "2026-11-10T09:00:00.000Z",
-      "endDate": "2026-11-10T12:30:00.000Z",
+      "endDate": "2026-11-10T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-11-10-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/11/10/familienfrühstück-kagel.html",
+      "startDate": "2026-11-10T09:00:00.000Z",
+      "endDate": "2026-11-10T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2721462-2026-11-10-erzählcafé.html",
@@ -6283,9 +7158,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/11/11/familienkaffee.html",
       "startDate": "2026-11-11T15:00:00.000Z",
       "endDate": "2026-11-11T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-11-11-back-ag-jugendclub-grünheide.html",
@@ -6342,9 +7217,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/11/12/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-11-12T09:00:00.000Z",
       "endDate": "2026-11-12T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-11-12-nachhilfe-jugendclub-spreeau.html",
@@ -6377,6 +7252,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-11-13-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/11/13/eltern-kind-sport.html",
+      "startDate": "2026-11-13T15:00:00.000Z",
+      "endDate": "2026-11-13T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2744053-2026-11-13-martinsumzug-grünheide.html",
       "title": "Martinsumzug Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2744053/2026/11/13/martinsumzug-grünheide.html",
@@ -6391,9 +7276,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/11/13/pilates-kurs.html",
       "startDate": "2026-11-13T18:00:00.000Z",
       "endDate": "2026-11-13T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2868024-2026-11-15-piano-live-concert.html",
@@ -6415,6 +7300,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-11-16-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/11/16/spielenachmittag.html",
+      "startDate": "2026-11-16T15:15:00.000Z",
+      "endDate": "2026-11-16T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-11-16-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/11/16/sport-ag-jugendclub-grünheide.html",
@@ -6430,9 +7325,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/11/16/qi-gong.html",
       "startDate": "2026-11-16T18:30:00.000Z",
       "endDate": "2026-11-16T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-11-16-fitnessdance.html",
@@ -6449,10 +7344,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/11/17/familienfrühstück-hangelsberg.html",
       "startDate": "2026-11-17T09:00:00.000Z",
-      "endDate": "2026-11-17T12:30:00.000Z",
+      "endDate": "2026-11-17T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-11-17-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/11/17/familienfrühstück-kagel.html",
+      "startDate": "2026-11-17T09:00:00.000Z",
+      "endDate": "2026-11-17T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814563-2026-11-17-digitaltreff-die-technik-von-heute-verstehen.html",
@@ -6498,9 +7403,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/11/18/familienkaffee.html",
       "startDate": "2026-11-18T15:00:00.000Z",
       "endDate": "2026-11-18T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-11-18-back-ag-jugendclub-grünheide.html",
@@ -6548,9 +7453,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/11/19/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-11-19T09:00:00.000Z",
       "endDate": "2026-11-19T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-11-19-nachhilfe-jugendclub-spreeau.html",
@@ -6583,14 +7488,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-11-20-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/11/20/eltern-kind-sport.html",
+      "startDate": "2026-11-20T15:00:00.000Z",
+      "endDate": "2026-11-20T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-11-20-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/11/20/pilates-kurs.html",
       "startDate": "2026-11-20T18:00:00.000Z",
       "endDate": "2026-11-20T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2805008-2026-11-21-weihnachtsbasteln-hort.html",
@@ -6603,6 +7518,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2906172-2026-11-21-gewässer-und-brücken-im-gebiet-grünheide.html",
+      "title": "Gewässer und Brücken im Gebiet Grünheide",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2906172/2026/11/21/gewässer-und-brücken-im-gebiet-grünheide.html",
+      "startDate": "2026-11-21T14:00:00.000Z",
+      "endDate": "2026-11-21T16:00:00.000Z",
+      "location": "Heimatstube Grünheide",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825196-2026-11-23-jugendtreff-kienbaum.html",
       "title": "Jugendtreff Kienbaum",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/11/23/jugendtreff-kienbaum.html",
@@ -6611,6 +7536,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-11-23-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/11/23/spielenachmittag.html",
+      "startDate": "2026-11-23T15:15:00.000Z",
+      "endDate": "2026-11-23T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-11-23-sport-ag-jugendclub-grünheide.html",
@@ -6628,9 +7563,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/11/23/qi-gong.html",
       "startDate": "2026-11-23T18:30:00.000Z",
       "endDate": "2026-11-23T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-11-23-fitnessdance.html",
@@ -6647,10 +7582,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/11/24/familienfrühstück-hangelsberg.html",
       "startDate": "2026-11-24T09:00:00.000Z",
-      "endDate": "2026-11-24T12:30:00.000Z",
+      "endDate": "2026-11-24T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-11-24-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/11/24/familienfrühstück-kagel.html",
+      "startDate": "2026-11-24T09:00:00.000Z",
+      "endDate": "2026-11-24T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814575-2026-11-24-offenes-haus-spielrunde.html",
@@ -6696,9 +7641,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/11/25/familienkaffee.html",
       "startDate": "2026-11-25T15:00:00.000Z",
       "endDate": "2026-11-25T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-11-25-back-ag-jugendclub-grünheide.html",
@@ -6746,9 +7691,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/11/26/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-11-26T09:00:00.000Z",
       "endDate": "2026-11-26T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-11-26-nachhilfe-jugendclub-spreeau.html",
@@ -6781,6 +7726,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-11-27-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/11/27/eltern-kind-sport.html",
+      "startDate": "2026-11-27T15:00:00.000Z",
+      "endDate": "2026-11-27T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2898605-2026-11-27-offener-treffpunkt-jugendclub-spreeau.html",
       "title": "Offener Treffpunkt - Jugendclub Spreeau",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2898605/2026/11/27/offener-treffpunkt-jugendclub-spreeau.html",
@@ -6796,9 +7751,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/11/27/pilates-kurs.html",
       "startDate": "2026-11-27T18:00:00.000Z",
       "endDate": "2026-11-27T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2825196-2026-11-30-jugendtreff-kienbaum.html",
@@ -6809,6 +7764,16 @@
       "location": "Jugendclub Kienbaum",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2901837-2026-11-30-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/11/30/spielenachmittag.html",
+      "startDate": "2026-11-30T15:15:00.000Z",
+      "endDate": "2026-11-30T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2854983-2026-11-30-sport-ag-jugendclub-grünheide.html",
@@ -6826,9 +7791,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/11/30/qi-gong.html",
       "startDate": "2026-11-30T18:30:00.000Z",
       "endDate": "2026-11-30T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-11-30-fitnessdance.html",
@@ -6845,10 +7810,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/12/01/familienfrühstück-hangelsberg.html",
       "startDate": "2026-12-01T09:00:00.000Z",
-      "endDate": "2026-12-01T12:30:00.000Z",
+      "endDate": "2026-12-01T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-12-01-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/12/01/familienfrühstück-kagel.html",
+      "startDate": "2026-12-01T09:00:00.000Z",
+      "endDate": "2026-12-01T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814561-2026-12-01-sanft-bewegt.html",
@@ -6904,9 +7879,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/12/02/familienkaffee.html",
       "startDate": "2026-12-02T15:00:00.000Z",
       "endDate": "2026-12-02T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-12-02-back-ag-jugendclub-grünheide.html",
@@ -6954,9 +7929,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/12/03/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-12-03T09:00:00.000Z",
       "endDate": "2026-12-03T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814566-2026-12-03-kochtreff.html",
@@ -6998,6 +7973,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-12-04-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/12/04/eltern-kind-sport.html",
+      "startDate": "2026-12-04T15:00:00.000Z",
+      "endDate": "2026-12-04T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2898597-2026-12-04-5.-weihnachtssingen-der-sg-hangelsberg.html",
       "title": "5. Weihnachtssingen der SG Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2898597/2026/12/04/5.-weihnachtssingen-der-sg-hangelsberg.html",
@@ -7013,9 +7998,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/12/04/pilates-kurs.html",
       "startDate": "2026-12-04T18:00:00.000Z",
       "endDate": "2026-12-04T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2836120-2026-12-05-schifffahrt-weihnachtsgans-an-bord.html",
@@ -7057,6 +8042,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-12-07-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/12/07/spielenachmittag.html",
+      "startDate": "2026-12-07T15:15:00.000Z",
+      "endDate": "2026-12-07T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-12-07-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/12/07/sport-ag-jugendclub-grünheide.html",
@@ -7072,9 +8067,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/12/07/qi-gong.html",
       "startDate": "2026-12-07T18:30:00.000Z",
       "endDate": "2026-12-07T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-12-07-fitnessdance.html",
@@ -7091,10 +8086,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/12/08/familienfrühstück-hangelsberg.html",
       "startDate": "2026-12-08T09:00:00.000Z",
-      "endDate": "2026-12-08T12:30:00.000Z",
+      "endDate": "2026-12-08T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-12-08-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/12/08/familienfrühstück-kagel.html",
+      "startDate": "2026-12-08T09:00:00.000Z",
+      "endDate": "2026-12-08T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2721462-2026-12-08-erzählcafé.html",
@@ -7168,9 +8173,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/12/09/familienkaffee.html",
       "startDate": "2026-12-09T15:00:00.000Z",
       "endDate": "2026-12-09T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-12-09-back-ag-jugendclub-grünheide.html",
@@ -7218,9 +8223,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/12/10/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-12-10T09:00:00.000Z",
       "endDate": "2026-12-10T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-12-10-nachhilfe-jugendclub-spreeau.html",
@@ -7253,14 +8258,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-12-11-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/12/11/eltern-kind-sport.html",
+      "startDate": "2026-12-11T15:00:00.000Z",
+      "endDate": "2026-12-11T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-12-11-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/12/11/pilates-kurs.html",
       "startDate": "2026-12-11T18:00:00.000Z",
       "endDate": "2026-12-11T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2744054-2026-12-12-grünheider-weihnachtsmarkt-und-5.-grünheider-weihnachtssingen.html",
@@ -7283,6 +8298,16 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2901837-2026-12-14-spielenachmittag.html",
+      "title": "Spielenachmittag",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/12/14/spielenachmittag.html",
+      "startDate": "2026-12-14T15:15:00.000Z",
+      "endDate": "2026-12-14T17:30:00.000Z",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2854983-2026-12-14-sport-ag-jugendclub-grünheide.html",
       "title": "Sport-AG Jugendclub Grünheide",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2854983/2026/12/14/sport-ag-jugendclub-grünheide.html",
@@ -7298,9 +8323,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/12/14/qi-gong.html",
       "startDate": "2026-12-14T18:30:00.000Z",
       "endDate": "2026-12-14T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855015-2026-12-14-fitnessdance.html",
@@ -7317,10 +8342,20 @@
       "title": "Familienfrühstück Hangelsberg",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/12/15/familienfrühstück-hangelsberg.html",
       "startDate": "2026-12-15T09:00:00.000Z",
-      "endDate": "2026-12-15T12:30:00.000Z",
+      "endDate": "2026-12-15T12:00:00.000Z",
       "location": "Jugendclub Hangelsberg",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2904336-2026-12-15-familienfrühstück-kagel.html",
+      "title": "Familienfrühstück Kagel",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/12/15/familienfrühstück-kagel.html",
+      "startDate": "2026-12-15T09:00:00.000Z",
+      "endDate": "2026-12-15T12:00:00.000Z",
+      "location": "Jugendclub Kagel",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814563-2026-12-15-digitaltreff-die-technik-von-heute-verstehen.html",
@@ -7366,9 +8401,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/12/16/familienkaffee.html",
       "startDate": "2026-12-16T15:00:00.000Z",
       "endDate": "2026-12-16T17:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2855070-2026-12-16-back-ag-jugendclub-grünheide.html",
@@ -7416,9 +8451,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/12/17/frühstücksspielplatz-grünheide-mit-hebammensprechstunde.html",
       "startDate": "2026-12-17T09:00:00.000Z",
       "endDate": "2026-12-17T12:00:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2898606-2026-12-17-nachhilfe-jugendclub-spreeau.html",
@@ -7451,14 +8486,24 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2902113-2026-12-18-eltern-kind-sport.html",
+      "title": "Eltern-Kind-Sport",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/12/18/eltern-kind-sport.html",
+      "startDate": "2026-12-18T15:00:00.000Z",
+      "endDate": "2026-12-18T17:00:00.000Z",
+      "location": "Kleine Turnhalle auf dem Löcknitzcampus",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
       "id": "veranstaltungen-2825190-2026-12-18-pilates-kurs.html",
       "title": "Pilates - Kurs",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/12/18/pilates-kurs.html",
       "startDate": "2026-12-18T18:00:00.000Z",
       "endDate": "2026-12-18T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2814606-2026-12-23-offenes-haus-spielrunde.html",
@@ -7475,9 +8520,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/12/25/pilates-kurs.html",
       "startDate": "2026-12-25T18:00:00.000Z",
       "endDate": "2026-12-25T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-1796959-2026-12-31-silvesterabend-gottesdienst.html",
@@ -7513,9 +8558,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2027/01/01/pilates-kurs.html",
       "startDate": "2027-01-01T18:00:00.000Z",
       "endDate": "2027-01-01T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2825190-2027-01-08-pilates-kurs.html",
@@ -7523,9 +8568,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2027/01/08/pilates-kurs.html",
       "startDate": "2027-01-08T18:00:00.000Z",
       "endDate": "2027-01-08T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2721462-2027-01-12-erzählcafé.html",
@@ -7543,9 +8588,9 @@
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825190/2027/01/15/pilates-kurs.html",
       "startDate": "2027-01-15T18:00:00.000Z",
       "endDate": "2027-01-15T19:30:00.000Z",
-      "location": "Eltern-Kind-Zentrum",
+      "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
-      "updatedAt": "2026-05-06T20:21:23.625Z"
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     },
     {
       "id": "veranstaltungen-2721462-2027-02-09-erzählcafé.html",
@@ -7576,6 +8621,16 @@
       "location": "Die Gute Stube",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2721462-2027-05-11-erzählcafé.html",
+      "title": "Erzählcaf&eacute;",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2721462/2027/05/11/erzählcafé.html",
+      "startDate": "2027-05-11T10:00:00.000Z",
+      "endDate": "2027-05-11T13:00:00.000Z",
+      "location": "Die Gute Stube",
+      "fetchedAt": "2026-05-26T09:04:36.284Z",
+      "updatedAt": "2026-05-26T09:04:36.284Z"
     }
   ]
 }

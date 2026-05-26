@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T19:34:48.692Z",
+  "updatedAt": "2026-05-26T09:01:58.877Z",
   "items": [
     {
       "id": "lkee-event-4016",
@@ -124,6 +124,102 @@
       "startDate": "2026-05-17T00:00:00.000Z",
       "fetchedAt": "2026-05-08T19:34:48.706Z",
       "updatedAt": "2026-05-08T19:34:48.706Z"
+    },
+    {
+      "id": "lkee-event-4778",
+      "title": "Sonderausstellung - \"Aus Liebe zur Stadt\" Hans Kretschmann als Maler und Museumsmacher",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Sonderausstellung-Aus-Liebe-zur-Stadt-Hans-Kretschmann-als-Maler-und-Museumsmacher.php?object=tx,2112.2.1&ModID=11&FID=2112.4778.1&NavID=2112.265&La=1&kat=2112.71",
+      "startDate": "2026-05-17T00:00:00.000Z",
+      "endDate": "2026-08-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:58.884Z",
+      "updatedAt": "2026-05-26T09:01:58.884Z"
+    },
+    {
+      "id": "lkee-event-4797",
+      "title": "Der 1. Mai in Doberlug-Kirchhain - Eine fotografische Rückschau",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Der-1-Mai-in-Doberlug-Kirchhain-Eine-fotografische-R%C3%BCckschau.php?object=tx,2112.2.1&ModID=11&FID=2112.4797.1&NavID=2112.265&La=1&kat=2112.71",
+      "startDate": "2026-05-19T00:00:00.000Z",
+      "endDate": "2026-08-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:58.884Z",
+      "updatedAt": "2026-05-26T09:01:58.884Z"
+    },
+    {
+      "id": "lkee-event-4806",
+      "title": "Das Finsterwalder Sängerlied",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Das-Finsterwalder-S%C3%A4ngerlied.php?object=tx,2112.2.1&ModID=11&FID=2112.4806.1&NavID=2112.265&La=1&kat=2112.71",
+      "startDate": "2026-05-20T00:00:00.000Z",
+      "endDate": "2027-12-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:58.884Z",
+      "updatedAt": "2026-05-26T09:01:58.884Z"
+    },
+    {
+      "id": "lkee-event-4807",
+      "title": "Chorwurm - Gemeinsames Singen durch die Jahrhunderte",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Chorwurm-Gemeinsames-Singen-durch-die-Jahrhunderte.php?object=tx,2112.2.1&ModID=11&FID=2112.4807.1&NavID=2112.265&La=1&kat=2112.71",
+      "startDate": "2026-05-20T00:00:00.000Z",
+      "endDate": "2027-12-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:58.884Z",
+      "updatedAt": "2026-05-26T09:01:58.884Z"
+    },
+    {
+      "id": "lkee-event-4808",
+      "title": "\"Die Schlacht bei Mühlberg 1547 und ihre Folgen\"und \"Mühlberg - Doppelstadt an der Elbe\" sowie \"Die Kriegsgefangenenlager Stalag IV B und Speziallager Nr. 1\"",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/-Die-Schlacht-bei-M%C3%BChlberg-1547-und-ihre-Folgen-und-M%C3%BChlberg-Doppelstadt-an-der-Elbe-sowie-Die-Kriegsgefangenenlager-Stalag-IV-B-und-Speziallager-Nr-1-.php?object=tx,2112.2.1&ModID=11&FID=2112.4808.1&NavID=2112.265&La=1&kat=2112.71",
+      "startDate": "2026-05-20T00:00:00.000Z",
+      "endDate": "2027-12-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:58.884Z",
+      "updatedAt": "2026-05-26T09:01:58.884Z"
+    },
+    {
+      "id": "lkee-event-4803",
+      "title": "Kaspers Welten",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Kaspers-Welten.php?object=tx,2112.2.1&ModID=11&FID=2112.4803.1&NavID=2112.265&La=1&kat=2112.71",
+      "startDate": "2026-05-20T00:00:00.000Z",
+      "endDate": "2027-12-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:58.884Z",
+      "updatedAt": "2026-05-26T09:01:58.884Z"
+    },
+    {
+      "id": "lkee-event-4804",
+      "title": "Doberlug und das sächsische Brandenburg",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Doberlug-und-das-s%C3%A4chsische-Brandenburg.php?object=tx,2112.2.1&ModID=11&FID=2112.4804.1&NavID=2112.265&La=1&kat=2112.71",
+      "startDate": "2026-05-20T00:00:00.000Z",
+      "endDate": "2027-12-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:58.884Z",
+      "updatedAt": "2026-05-26T09:01:58.884Z"
+    },
+    {
+      "id": "lkee-event-4805",
+      "title": "Historischer Kolonialwarenladen von G. F. Wittke",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Historischer-Kolonialwarenladen-von-G-F-Wittke.php?object=tx,2112.2.1&ModID=11&FID=2112.4805.1&NavID=2112.265&La=1&kat=2112.71",
+      "startDate": "2026-05-20T00:00:00.000Z",
+      "endDate": "2027-12-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:58.884Z",
+      "updatedAt": "2026-05-26T09:01:58.884Z"
+    },
+    {
+      "id": "lkee-event-4704",
+      "title": "Musikalische Mittwochsandacht",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Musikalische-Mittwochsandacht.php?object=tx,2112.2.1&ModID=11&FID=2112.4704.1&NavID=2112.265&La=1&kat=2112.71",
+      "startDate": "2026-05-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:58.884Z",
+      "updatedAt": "2026-05-26T09:01:58.884Z"
+    },
+    {
+      "id": "lkee-event-4795",
+      "title": "Großthiemiger Hofflohmarkt",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Gro%C3%9Fthiemiger-Hofflohmarkt.php?object=tx,2112.2.1&ModID=11&FID=2112.4795.1&NavID=2112.265&La=1&kat=2112.71",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:58.884Z",
+      "updatedAt": "2026-05-26T09:01:58.884Z"
+    },
+    {
+      "id": "lkee-event-4802",
+      "title": "Puppentheater vorm Kindertag: Rumpelstilzchen - die wahre Geschichte",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Puppentheater-vorm-Kindertag-Rumpelstilzchen-die-wahre-Geschichte.php?object=tx,2112.2.1&ModID=11&FID=2112.4802.1&NavID=2112.265&La=1&kat=2112.71",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:58.884Z",
+      "updatedAt": "2026-05-26T09:01:58.884Z"
     }
   ]
 }

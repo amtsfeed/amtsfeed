@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T15:27:32.806Z",
+  "updatedAt": "2026-05-26T09:04:01.936Z",
   "items": [
     {
       "id": "leegebruch-event-2892673",
@@ -20,12 +20,29 @@
     },
     {
       "id": "leegebruch-event-2892677",
-      "title": "Werksausschuss tagt am",
+      "title": "Schließzeiten der in der Trägerschaft der Gemeinde Leegebruch befindlichen Kindertagesstätte",
       "url": "https://www.leegebruch.de/veranstaltungen/2892677/2026/05/28/werksausschuss-tagt-am.html",
       "startDate": "2026-05-28T00:00:00.000Z",
-      "location": "Sitzungssaal des Rathauses",
       "fetchedAt": "2026-05-06T15:27:32.805Z",
-      "updatedAt": "2026-05-06T15:27:32.805Z"
+      "updatedAt": "2026-05-26T09:04:01.935Z"
+    },
+    {
+      "id": "leegebruch-event-2892679",
+      "title": "Hauptausschuss tagt am",
+      "url": "https://www.leegebruch.de/veranstaltungen/2892679/2026/06/04/hauptausschuss-tagt-am.html",
+      "startDate": "2026-06-04T00:00:00.000Z",
+      "location": "Sitzungssaal des Rathauses",
+      "fetchedAt": "2026-05-26T09:04:01.935Z",
+      "updatedAt": "2026-05-26T09:04:01.935Z"
+    },
+    {
+      "id": "leegebruch-event-2892230",
+      "title": "Blutspendetermin am",
+      "url": "https://www.leegebruch.de/veranstaltungen/2892230/2026/06/16/blutspendetermin-am.html",
+      "startDate": "2026-06-16T00:00:00.000Z",
+      "location": "Sitzungssaal des Rathauses",
+      "fetchedAt": "2026-05-26T09:04:01.935Z",
+      "updatedAt": "2026-05-26T09:04:01.935Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T18:08:08.329Z",
+  "updatedAt": "2026-05-26T09:03:38.065Z",
   "items": [
     {
       "id": "glienicke-event-904005818",
@@ -174,12 +174,12 @@
     },
     {
       "id": "glienicke-event-904005712",
-      "title": "20. Sitzung der Gemeindevertretung Glienicke/Nordbahn",
+      "title": "21. Sitzung der Gemeindevertretung Glienicke/Nordbahn",
       "url": "https://www.glienicke.eu/veranstaltungen/904005712-22451.html",
       "startDate": "2026-06-02T16:30:00Z",
       "location": "Mensa",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-05-26T09:03:38.072Z"
     },
     {
       "id": "glienicke-event-904005799",
@@ -193,13 +193,13 @@
     },
     {
       "id": "glienicke-event-904005824",
-      "title": "Trödelmarkt an der Grundschule",
+      "title": "Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentrum Galerie Sonnengarten",
       "url": "https://www.glienicke.eu/veranstaltungen/904005824-22451.html",
       "startDate": "2026-06-07T07:00:00Z",
       "endDate": "2026-06-07T12:00:00Z",
       "location": "Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen den Hausnummern 60 und 61",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-05-26T09:03:38.072Z"
     },
     {
       "id": "glienicke-event-904005737",
@@ -230,6 +230,26 @@
       "updatedAt": "2026-05-06T18:08:08.338Z"
     },
     {
+      "id": "glienicke-event-904005853",
+      "title": "„Zeitläufe“ – Ausstellung des Künstlertreff Velten",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005853-22451.html",
+      "startDate": "2026-06-11T16:00:00Z",
+      "endDate": "2026-09-01T22:00:00Z",
+      "location": "Rathaus - Neubau, Hauptstraße 21, 16548 Glienicke/Nordbahn",
+      "fetchedAt": "2026-05-26T09:03:38.072Z",
+      "updatedAt": "2026-05-26T09:03:38.072Z"
+    },
+    {
+      "id": "glienicke-event-904005854",
+      "title": "Familiensportfest des SV Glienicke",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005854-22451.html",
+      "startDate": "2026-06-13T09:00:00Z",
+      "endDate": "2026-06-13T14:00:00Z",
+      "location": "Dreifeldhalle, Hauptstraße 64a, 16548 Glienicke-Nordbahn",
+      "fetchedAt": "2026-05-26T09:03:38.072Z",
+      "updatedAt": "2026-05-26T09:03:38.072Z"
+    },
+    {
       "id": "glienicke-event-904005714",
       "title": "13. Sitzung des Ausschusses für Soziales, Bildung, Kultur und Sport",
       "url": "https://www.glienicke.eu/veranstaltungen/904005714-22451.html",
@@ -258,6 +278,16 @@
       "updatedAt": "2026-05-06T18:08:08.338Z"
     },
     {
+      "id": "glienicke-event-904005855",
+      "title": "Fête de la Musique",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005855-22451.html",
+      "startDate": "2026-06-21T14:00:00Z",
+      "endDate": "2026-06-21T19:00:00Z",
+      "location": "Verteilt im ganzen Ort",
+      "fetchedAt": "2026-05-26T09:03:38.072Z",
+      "updatedAt": "2026-05-26T09:03:38.072Z"
+    },
+    {
       "id": "glienicke-event-904005716",
       "title": "15. Sitzung des Hauptausschusses",
       "url": "https://www.glienicke.eu/veranstaltungen/904005716-22451.html",
@@ -265,6 +295,15 @@
       "location": "Vereinszimmer Dreifeldhalle",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
       "updatedAt": "2026-05-06T18:08:08.338Z"
+    },
+    {
+      "id": "glienicke-event-904005852",
+      "title": "Chanson Festival Brassens Basdorf zu Gast in Glienicke",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005852-22451.html",
+      "startDate": "2026-06-27T17:00:00Z",
+      "location": "Bürgerhaus, Moskauer Straße 20, 16548 Glienicke-Nordbahn",
+      "fetchedAt": "2026-05-26T09:03:38.072Z",
+      "updatedAt": "2026-05-26T09:03:38.072Z"
     },
     {
       "id": "glienicke-event-904005801",
@@ -277,23 +316,33 @@
       "updatedAt": "2026-05-06T18:08:08.338Z"
     },
     {
+      "id": "glienicke-event-904005851",
+      "title": "Freiwillige Feuerwehr: Tag der offenen Tür",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005851-22451.html",
+      "startDate": "2026-07-04T08:00:00Z",
+      "endDate": "2026-07-04T14:00:00Z",
+      "location": "Freiwillige Feuerwehr, Hattwichstraße 15, 16548 Glienicke-Nordbahn",
+      "fetchedAt": "2026-05-26T09:03:38.072Z",
+      "updatedAt": "2026-05-26T09:03:38.072Z"
+    },
+    {
       "id": "glienicke-event-904005825",
-      "title": "Trödelmarkt an der Grundschule",
+      "title": "Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentrum Galerie Sonnengarten",
       "url": "https://www.glienicke.eu/veranstaltungen/904005825-22451.html",
       "startDate": "2026-07-05T07:00:00Z",
       "endDate": "2026-07-05T12:00:00Z",
       "location": "Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen den Hausnummern 60 und 61",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-05-26T09:03:38.072Z"
     },
     {
       "id": "glienicke-event-904005717",
-      "title": "21. Sitzung der Gemeindevertretung Glienicke/Nordbahn",
+      "title": "22. Sitzung der Gemeindevertretung Glienicke/Nordbahn",
       "url": "https://www.glienicke.eu/veranstaltungen/904005717-22451.html",
       "startDate": "2026-07-07T16:30:00Z",
       "location": "Mensa",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-05-26T09:03:38.072Z"
     },
     {
       "id": "glienicke-event-904005667",
@@ -336,13 +385,13 @@
     },
     {
       "id": "glienicke-event-904005826",
-      "title": "Trödelmarkt an der Grundschule",
+      "title": "Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentrum Galerie Sonnengarten",
       "url": "https://www.glienicke.eu/veranstaltungen/904005826-22451.html",
       "startDate": "2026-08-02T07:00:00Z",
       "endDate": "2026-08-02T12:00:00Z",
       "location": "Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen den Hausnummern 60 und 61",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-05-26T09:03:38.072Z"
     },
     {
       "id": "glienicke-event-904005739",
@@ -402,13 +451,13 @@
     },
     {
       "id": "glienicke-event-904005827",
-      "title": "Trödelmarkt an der Grundschule",
+      "title": "Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentrum Galerie Sonnengarten",
       "url": "https://www.glienicke.eu/veranstaltungen/904005827-22451.html",
       "startDate": "2026-09-06T07:00:00Z",
       "endDate": "2026-09-06T12:00:00Z",
       "location": "Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen den Hausnummern 60 und 61",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-05-26T09:03:38.072Z"
     },
     {
       "id": "glienicke-event-904005721",
@@ -487,13 +536,13 @@
     },
     {
       "id": "glienicke-event-904005828",
-      "title": "Trödelmarkt an der Grundschule",
+      "title": "Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentrum Galerie Sonnengarten",
       "url": "https://www.glienicke.eu/veranstaltungen/904005828-22451.html",
       "startDate": "2026-10-04T07:00:00Z",
       "endDate": "2026-10-04T12:00:00Z",
       "location": "Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen den Hausnummern 60 und 61",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-05-26T09:03:38.072Z"
     },
     {
       "id": "glienicke-event-904005669",
@@ -536,13 +585,13 @@
     },
     {
       "id": "glienicke-event-904005829",
-      "title": "Trödelmarkt an der Grundschule",
+      "title": "Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentrum Galerie Sonnengarten",
       "url": "https://www.glienicke.eu/veranstaltungen/904005829-22451.html",
       "startDate": "2026-11-01T08:00:00Z",
       "endDate": "2026-11-01T13:00:00Z",
       "location": "Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen den Hausnummern 60 und 61",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-05-26T09:03:38.072Z"
     },
     {
       "id": "glienicke-event-904005725",
@@ -620,13 +669,13 @@
     },
     {
       "id": "glienicke-event-904005830",
-      "title": "Trödelmarkt an der Grundschule",
+      "title": "Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentrum Galerie Sonnengarten",
       "url": "https://www.glienicke.eu/veranstaltungen/904005830-22451.html",
       "startDate": "2026-12-06T08:00:00Z",
       "endDate": "2026-12-06T13:00:00Z",
       "location": "Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen den Hausnummern 60 und 61",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-05-26T09:03:38.072Z"
     },
     {
       "id": "glienicke-event-904005730",

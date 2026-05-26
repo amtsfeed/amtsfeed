@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:21:37.073Z",
+  "updatedAt": "2026-05-26T09:03:34.697Z",
   "items": [
     {
       "id": "strausberg-29061-20260316",
@@ -45,6 +45,15 @@
       "location": "Familienzentrum \"Das Nest\" Berliner Straße 6 15306 Seelow",
       "fetchedAt": "2026-05-05T16:34:02.696Z",
       "updatedAt": "2026-05-06T20:21:37.066Z"
+    },
+    {
+      "id": "strausberg-29289-20260423",
+      "title": "Männer Frühstücksrunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29289-2026-04-23",
+      "startDate": "2026-04-23T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
     },
     {
       "id": "strausberg-29291-20260424",
@@ -533,6 +542,69 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29565-20260501",
+      "title": "Wechselnde Veranstaltungen",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29565-2026-05-01",
+      "startDate": "2026-05-01T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29291-20260501",
+      "title": "PC-Kurs",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29291-2026-05-01",
+      "startDate": "2026-05-01T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29567-20260501",
+      "title": "Bastelrunde und Gesellschaftsspiele",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29567-2026-05-01",
+      "startDate": "2026-05-01T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29563-20260501",
+      "title": "Gesang und Musizierrunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29563-2026-05-01",
+      "startDate": "2026-05-01T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29562-20260501",
+      "title": "Trommelgruppe „Die Fröhlichen Kochlöffel- Klopfer“ (auf Pezzibällen)",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29562-2026-05-01",
+      "startDate": "2026-05-01T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29564-20260501",
+      "title": "Seniorensport und Kafeerunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29564-2026-05-01",
+      "startDate": "2026-05-01T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29566-20260501",
+      "title": "Qi Gong",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29566-2026-05-01",
+      "startDate": "2026-05-01T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-28965-20260502",
       "title": "Intensivkurs: Gute-Laune-Nähen – Grundlagen schneidern",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-28965-2026-05-02",
@@ -659,6 +731,42 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29280-20260504",
+      "title": "Sportgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29280-2026-05-04",
+      "startDate": "2026-05-04T00:00:00.000Z",
+      "location": "REKIS Strausberg Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29563-20260504",
+      "title": "Gesang und Musizierrunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29563-2026-05-04",
+      "startDate": "2026-05-04T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29282-20260504",
+      "title": "Englisch Mittelstufe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29282-2026-05-04",
+      "startDate": "2026-05-04T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29283-20260504",
+      "title": "Englisch Anfänger",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29283-2026-05-04",
+      "startDate": "2026-05-04T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-5105-20260505",
       "title": "Seniorensport/Seniorengymnastik",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-5105-2026-05-05",
@@ -731,6 +839,33 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29285-20260505",
+      "title": "Qigong",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29285-2026-05-05",
+      "startDate": "2026-05-05T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29286-20260505",
+      "title": "Kreativkreis Ariadne",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29286-2026-05-05",
+      "startDate": "2026-05-05T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29564-20260505",
+      "title": "Seniorensport und Kafeerunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29564-2026-05-05",
+      "startDate": "2026-05-05T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-28892-20260506",
       "title": "Spanisch A1.1 -Hoppegarten",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-28892-2026-05-06",
@@ -774,6 +909,33 @@
       "location": "Begegnungsstätte der Volkssolidarität Strausberg Gerhart-Hauptmann-Straße 6 15344 Strausberg",
       "fetchedAt": "2026-05-06T20:21:37.066Z",
       "updatedAt": "2026-05-06T20:21:37.066Z"
+    },
+    {
+      "id": "strausberg-29565-20260506",
+      "title": "Wechselnde Veranstaltungen",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29565-2026-05-06",
+      "startDate": "2026-05-06T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29288-20260506",
+      "title": "Sport",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29288-2026-05-06",
+      "startDate": "2026-05-06T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29562-20260506",
+      "title": "Trommelgruppe „Die Fröhlichen Kochlöffel- Klopfer“ (auf Pezzibällen)",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29562-2026-05-06",
+      "startDate": "2026-05-06T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
     },
     {
       "id": "strausberg-28641-20260507",
@@ -1037,6 +1199,24 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29566-20260507",
+      "title": "Qi Gong",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29566-2026-05-07",
+      "startDate": "2026-05-07T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29290-20260507",
+      "title": "Sportgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29290-2026-05-07",
+      "startDate": "2026-05-07T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-28754-20260508",
       "title": "Career Compass Ausbildungs- & Jobmesse 2026",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-28754-2026-05-08",
@@ -1053,6 +1233,24 @@
       "location": "Patrizier Markt 6B 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.696Z",
       "updatedAt": "2026-05-06T20:21:37.066Z"
+    },
+    {
+      "id": "strausberg-29291-20260508",
+      "title": "PC-Kurs",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29291-2026-05-08",
+      "startDate": "2026-05-08T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29567-20260508",
+      "title": "Bastelrunde und Gesellschaftsspiele",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29567-2026-05-08",
+      "startDate": "2026-05-08T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
     },
     {
       "id": "strausberg-28965-20260509",
@@ -1199,6 +1397,42 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29280-20260511",
+      "title": "Sportgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29280-2026-05-11",
+      "startDate": "2026-05-11T00:00:00.000Z",
+      "location": "REKIS Strausberg Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29563-20260511",
+      "title": "Gesang und Musizierrunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29563-2026-05-11",
+      "startDate": "2026-05-11T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29282-20260511",
+      "title": "Englisch Mittelstufe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29282-2026-05-11",
+      "startDate": "2026-05-11T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29283-20260511",
+      "title": "Englisch Anfänger",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29283-2026-05-11",
+      "startDate": "2026-05-11T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-5105-20260512",
       "title": "Seniorensport/Seniorengymnastik",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-5105-2026-05-12",
@@ -1289,6 +1523,33 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29285-20260512",
+      "title": "Qigong",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29285-2026-05-12",
+      "startDate": "2026-05-12T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29286-20260512",
+      "title": "Kreativkreis Ariadne",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29286-2026-05-12",
+      "startDate": "2026-05-12T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29564-20260512",
+      "title": "Seniorensport und Kafeerunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29564-2026-05-12",
+      "startDate": "2026-05-12T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-28892-20260513",
       "title": "Spanisch A1.1 -Hoppegarten",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-28892-2026-05-13",
@@ -1350,6 +1611,33 @@
       "location": "Begegnungsstätte der Volkssolidarität Strausberg Gerhart-Hauptmann-Straße 6 15344 Strausberg",
       "fetchedAt": "2026-05-06T20:21:37.066Z",
       "updatedAt": "2026-05-06T20:21:37.066Z"
+    },
+    {
+      "id": "strausberg-29565-20260513",
+      "title": "Wechselnde Veranstaltungen",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29565-2026-05-13",
+      "startDate": "2026-05-13T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29288-20260513",
+      "title": "Sport",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29288-2026-05-13",
+      "startDate": "2026-05-13T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29562-20260513",
+      "title": "Trommelgruppe „Die Fröhlichen Kochlöffel- Klopfer“ (auf Pezzibällen)",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29562-2026-05-13",
+      "startDate": "2026-05-13T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
     },
     {
       "id": "strausberg-28902-20260514",
@@ -1568,6 +1856,24 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29566-20260514",
+      "title": "Qi Gong",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29566-2026-05-14",
+      "startDate": "2026-05-14T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29290-20260514",
+      "title": "Sportgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29290-2026-05-14",
+      "startDate": "2026-05-14T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-29299-20260515",
       "title": "Freitags Kräuterwanderung",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29299-2026-05-15",
@@ -1584,6 +1890,24 @@
       "location": "Patrizier Markt 6B 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.696Z",
       "updatedAt": "2026-05-06T20:21:37.066Z"
+    },
+    {
+      "id": "strausberg-29291-20260515",
+      "title": "PC-Kurs",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29291-2026-05-15",
+      "startDate": "2026-05-15T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29567-20260515",
+      "title": "Bastelrunde und Gesellschaftsspiele",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29567-2026-05-15",
+      "startDate": "2026-05-15T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
     },
     {
       "id": "strausberg-29309-20260516",
@@ -1694,6 +2018,42 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29280-20260518",
+      "title": "Sportgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29280-2026-05-18",
+      "startDate": "2026-05-18T00:00:00.000Z",
+      "location": "REKIS Strausberg Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29563-20260518",
+      "title": "Gesang und Musizierrunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29563-2026-05-18",
+      "startDate": "2026-05-18T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29282-20260518",
+      "title": "Englisch Mittelstufe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29282-2026-05-18",
+      "startDate": "2026-05-18T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29283-20260518",
+      "title": "Englisch Anfänger",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29283-2026-05-18",
+      "startDate": "2026-05-18T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-5105-20260519",
       "title": "Seniorensport/Seniorengymnastik",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-5105-2026-05-19",
@@ -1775,6 +2135,33 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29285-20260519",
+      "title": "Qigong",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29285-2026-05-19",
+      "startDate": "2026-05-19T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29286-20260519",
+      "title": "Kreativkreis Ariadne",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29286-2026-05-19",
+      "startDate": "2026-05-19T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29564-20260519",
+      "title": "Seniorensport und Kafeerunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29564-2026-05-19",
+      "startDate": "2026-05-19T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-28892-20260520",
       "title": "Spanisch A1.1 -Hoppegarten",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-28892-2026-05-20",
@@ -1809,6 +2196,33 @@
       "location": "Stätte der Begegnung Gerhart-Hauptmann-Straße 6 15344 Strausberg",
       "fetchedAt": "2026-05-06T20:21:37.066Z",
       "updatedAt": "2026-05-06T20:21:37.066Z"
+    },
+    {
+      "id": "strausberg-29565-20260520",
+      "title": "Wechselnde Veranstaltungen",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29565-2026-05-20",
+      "startDate": "2026-05-20T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29288-20260520",
+      "title": "Sport",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29288-2026-05-20",
+      "startDate": "2026-05-20T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29562-20260520",
+      "title": "Trommelgruppe „Die Fröhlichen Kochlöffel- Klopfer“ (auf Pezzibällen)",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29562-2026-05-20",
+      "startDate": "2026-05-20T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
     },
     {
       "id": "strausberg-28902-20260521",
@@ -2036,6 +2450,33 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29578-20260521",
+      "title": "Offene Krabbelgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29578-2026-05-21",
+      "startDate": "2026-05-21T00:00:00.000Z",
+      "location": "AWO Kita “Spatzennest” Am Marienberg 63/64 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29566-20260521",
+      "title": "Qi Gong",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29566-2026-05-21",
+      "startDate": "2026-05-21T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29290-20260521",
+      "title": "Sportgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29290-2026-05-21",
+      "startDate": "2026-05-21T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-29114-20260522",
       "title": "Hatha-Yoga zum Wochenende zum Kennenlernen",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29114-2026-05-22",
@@ -2043,6 +2484,24 @@
       "location": "Volkshochschule Märkisch-Oderland Wriezener Straße 30 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.696Z",
       "updatedAt": "2026-05-06T20:21:37.066Z"
+    },
+    {
+      "id": "strausberg-29291-20260522",
+      "title": "PC-Kurs",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29291-2026-05-22",
+      "startDate": "2026-05-22T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29567-20260522",
+      "title": "Bastelrunde und Gesellschaftsspiele",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29567-2026-05-22",
+      "startDate": "2026-05-22T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
     },
     {
       "id": "strausberg-29390-20260523",
@@ -2126,6 +2585,42 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29280-20260525",
+      "title": "Sportgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29280-2026-05-25",
+      "startDate": "2026-05-25T00:00:00.000Z",
+      "location": "REKIS Strausberg Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29563-20260525",
+      "title": "Gesang und Musizierrunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29563-2026-05-25",
+      "startDate": "2026-05-25T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29282-20260525",
+      "title": "Englisch Mittelstufe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29282-2026-05-25",
+      "startDate": "2026-05-25T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29283-20260525",
+      "title": "Englisch Anfänger",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29283-2026-05-25",
+      "startDate": "2026-05-25T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-5105-20260526",
       "title": "Seniorensport/Seniorengymnastik",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-5105-2026-05-26",
@@ -2207,6 +2702,33 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29285-20260526",
+      "title": "Qigong",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29285-2026-05-26",
+      "startDate": "2026-05-26T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29286-20260526",
+      "title": "Kreativkreis Ariadne",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29286-2026-05-26",
+      "startDate": "2026-05-26T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29564-20260526",
+      "title": "Seniorensport und Kafeerunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29564-2026-05-26",
+      "startDate": "2026-05-26T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-28892-20260527",
       "title": "Spanisch A1.1 -Hoppegarten",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-28892-2026-05-27",
@@ -2268,6 +2790,42 @@
       "location": "Begegnungsstätte der Volkssolidarität Strausberg Gerhart-Hauptmann-Straße 6 15344 Strausberg",
       "fetchedAt": "2026-05-06T20:21:37.066Z",
       "updatedAt": "2026-05-06T20:21:37.066Z"
+    },
+    {
+      "id": "strausberg-29565-20260527",
+      "title": "Wechselnde Veranstaltungen",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29565-2026-05-27",
+      "startDate": "2026-05-27T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29288-20260527",
+      "title": "Sport",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29288-2026-05-27",
+      "startDate": "2026-05-27T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29562-20260527",
+      "title": "Trommelgruppe „Die Fröhlichen Kochlöffel- Klopfer“ (auf Pezzibällen)",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29562-2026-05-27",
+      "startDate": "2026-05-27T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29607-20260527",
+      "title": "Diabetes-Café",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29607-2026-05-27",
+      "startDate": "2026-05-27T00:00:00.000Z",
+      "location": "Krankenhaus MOL Prötzeler Chaussee 5 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
     },
     {
       "id": "strausberg-28902-20260528",
@@ -2468,6 +3026,51 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29578-20260528",
+      "title": "Offene Krabbelgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29578-2026-05-28",
+      "startDate": "2026-05-28T00:00:00.000Z",
+      "location": "AWO Kita “Spatzennest” Am Marienberg 63/64 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29289-20260528",
+      "title": "Männer Frühstücksrunde",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29289-2026-05-28",
+      "startDate": "2026-05-28T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29293-20260528",
+      "title": "Jeder kann Tanzen",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29293-2026-05-28",
+      "startDate": "2026-05-28T00:00:00.000Z",
+      "location": "REKIS SHK Am Anntal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29566-20260528",
+      "title": "Qi Gong",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29566-2026-05-28",
+      "startDate": "2026-05-28T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29290-20260528",
+      "title": "Sportgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29290-2026-05-28",
+      "startDate": "2026-05-28T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-29032-20260529",
       "title": "Wir wollen feiern – Einladung zum Tag der Offenen Tür",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29032-2026-05-29",
@@ -2486,6 +3089,24 @@
       "updatedAt": "2026-05-06T20:21:37.066Z"
     },
     {
+      "id": "strausberg-29291-20260529",
+      "title": "PC-Kurs",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29291-2026-05-29",
+      "startDate": "2026-05-29T00:00:00.000Z",
+      "location": "REKIS SHK Am Annatal 57 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
+      "id": "strausberg-29567-20260529",
+      "title": "Bastelrunde und Gesellschaftsspiele",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29567-2026-05-29",
+      "startDate": "2026-05-29T00:00:00.000Z",
+      "location": "Diakonie Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
+    },
+    {
       "id": "strausberg-28968-20260530",
       "title": "Intensivkurs Häkeln für Anfänger",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-28968-2026-05-30",
@@ -2493,6 +3114,15 @@
       "location": "Volkshochschule Märkisch-Oderland Wriezener Straße 30 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.696Z",
       "updatedAt": "2026-05-06T20:21:37.066Z"
+    },
+    {
+      "id": "strausberg-29606-20260530",
+      "title": "Tag der Baukultur Brandenburg",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-05-01/mai-2026/#veranstaltungen-29606-2026-05-30",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "location": "Altes Postgelände Garzauer Straße 20 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.690Z",
+      "updatedAt": "2026-05-26T09:03:34.690Z"
     },
     {
       "id": "strausberg-28585-20260531",
@@ -2621,6 +3251,15 @@
       "updatedAt": "2026-05-06T20:21:37.068Z"
     },
     {
+      "id": "strausberg-29579-20260602",
+      "title": "Café am See",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29579-2026-06-02",
+      "startDate": "2026-06-02T00:00:00.000Z",
+      "location": "Mehrgenerationenhaus August-Bebel-Straße 50 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.692Z",
+      "updatedAt": "2026-05-26T09:03:34.692Z"
+    },
+    {
       "id": "strausberg-28892-20260603",
       "title": "Spanisch A1.1 -Hoppegarten",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-28892-2026-06-03",
@@ -2646,6 +3285,15 @@
       "location": "Volkshochschule Märkisch-Oderland Wriezener Straße 30 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.698Z",
       "updatedAt": "2026-05-06T20:21:37.068Z"
+    },
+    {
+      "id": "strausberg-29608-20260603",
+      "title": "Aktionstag gegen den Schmerz",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29608-2026-06-03",
+      "startDate": "2026-06-03T00:00:00.000Z",
+      "location": "Krankenhaus MOL Prötzeler Chaussee 5 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.692Z",
+      "updatedAt": "2026-05-26T09:03:34.692Z"
     },
     {
       "id": "strausberg-28641-20260604",
@@ -2835,6 +3483,33 @@
       "location": "Volkshochschule Märkisch-Oderland Wriezener Straße 30 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.698Z",
       "updatedAt": "2026-05-06T20:21:37.068Z"
+    },
+    {
+      "id": "strausberg-29578-20260604",
+      "title": "Offene Krabbelgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29578-2026-06-04",
+      "startDate": "2026-06-04T00:00:00.000Z",
+      "location": "AWO Kita “Spatzennest” Am Marienberg 63/64 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.692Z",
+      "updatedAt": "2026-05-26T09:03:34.692Z"
+    },
+    {
+      "id": "strausberg-29618-20260605",
+      "title": "Strausberger Brauerei Eröffnung",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29618-2026-06-05",
+      "startDate": "2026-06-05T00:00:00.000Z",
+      "location": "Gewerbegebiet Strausberg Nord Am Biotop 23 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.692Z",
+      "updatedAt": "2026-05-26T09:03:34.692Z"
+    },
+    {
+      "id": "strausberg-29587-20260605",
+      "title": "Strausberger Brauerei",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29587-2026-06-05",
+      "startDate": "2026-06-05T00:00:00.000Z",
+      "location": "Gewerbegebiet Strausberg Nord Am Biotop 23 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.692Z",
+      "updatedAt": "2026-05-26T09:03:34.692Z"
     },
     {
       "id": "strausberg-29118-20260606",
@@ -3044,6 +3719,15 @@
       "updatedAt": "2026-05-06T20:21:37.068Z"
     },
     {
+      "id": "strausberg-29572-20260610",
+      "title": "Gesund bewegen im Alter",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29572-2026-06-10",
+      "startDate": "2026-06-10T00:00:00.000Z",
+      "location": "Diakonischen Werk Oderland-Spree e.V. Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.692Z",
+      "updatedAt": "2026-05-26T09:03:34.692Z"
+    },
+    {
       "id": "strausberg-28902-20260611",
       "title": "Französisch A2.1 – Fredersdorf",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-28902-2026-06-11",
@@ -3213,6 +3897,15 @@
       "location": "Volkshochschule Märkisch-Oderland Wriezener Straße 30 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.698Z",
       "updatedAt": "2026-05-06T20:21:37.068Z"
+    },
+    {
+      "id": "strausberg-29578-20260611",
+      "title": "Offene Krabbelgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29578-2026-06-11",
+      "startDate": "2026-06-11T00:00:00.000Z",
+      "location": "AWO Kita “Spatzennest” Am Marienberg 63/64 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.692Z",
+      "updatedAt": "2026-05-26T09:03:34.692Z"
     },
     {
       "id": "strausberg-29023-20260613",
@@ -3584,6 +4277,15 @@
       "updatedAt": "2026-05-06T20:21:37.068Z"
     },
     {
+      "id": "strausberg-29578-20260618",
+      "title": "Offene Krabbelgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29578-2026-06-18",
+      "startDate": "2026-06-18T00:00:00.000Z",
+      "location": "AWO Kita “Spatzennest” Am Marienberg 63/64 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.692Z",
+      "updatedAt": "2026-05-26T09:03:34.692Z"
+    },
+    {
       "id": "strausberg-29129-20260620",
       "title": "Sonderführung „Kirchen und ihre Geschichten in Strausberg“ mit Herrn Mettner",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29129-2026-06-20",
@@ -3726,6 +4428,15 @@
       "location": "Volkshochschule Märkisch-Oderland Wriezener Straße 30 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.698Z",
       "updatedAt": "2026-05-06T20:21:37.068Z"
+    },
+    {
+      "id": "strausberg-29573-20260624",
+      "title": "Vortrag „Die Geschichte Strausbergs – Vom Mittelalter bis in die Moderne“",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29573-2026-06-24",
+      "startDate": "2026-06-24T00:00:00.000Z",
+      "location": "Diakonischen Werk Oderland-Spree e.V. Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.692Z",
+      "updatedAt": "2026-05-26T09:03:34.692Z"
     },
     {
       "id": "strausberg-28902-20260625",
@@ -3917,6 +4628,15 @@
       "updatedAt": "2026-05-06T20:21:37.068Z"
     },
     {
+      "id": "strausberg-29578-20260625",
+      "title": "Offene Krabbelgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29578-2026-06-25",
+      "startDate": "2026-06-25T00:00:00.000Z",
+      "location": "AWO Kita “Spatzennest” Am Marienberg 63/64 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.692Z",
+      "updatedAt": "2026-05-26T09:03:34.692Z"
+    },
+    {
       "id": "strausberg-28918-20260626",
       "title": "Fest an der Fähre",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-28918-2026-06-26",
@@ -3960,6 +4680,15 @@
       "location": "St. Marienkirche Strausberg Predigerstr. 2 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.698Z",
       "updatedAt": "2026-05-06T20:21:37.068Z"
+    },
+    {
+      "id": "strausberg-29626-20260628",
+      "title": "Thematische Wanderung: „Wenn die Eisenbahnschienen erzählen könnten“ mit Herrn Gerd-Ulrich Herrmann",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-06-01/juni-2026/#veranstaltungen-29626-2026-06-28",
+      "startDate": "2026-06-28T00:00:00.000Z",
+      "location": "Stadtmuseum Strausberg August-Bebel-Straße 33 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.692Z",
+      "updatedAt": "2026-05-26T09:03:34.692Z"
     },
     {
       "id": "strausberg-28905-20260629",
@@ -4142,6 +4871,15 @@
       "updatedAt": "2026-05-06T20:21:37.070Z"
     },
     {
+      "id": "strausberg-29578-20260702",
+      "title": "Offene Krabbelgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-07-01/juli-2026/#veranstaltungen-29578-2026-07-02",
+      "startDate": "2026-07-02T00:00:00.000Z",
+      "location": "AWO Kita “Spatzennest” Am Marienberg 63/64 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.693Z",
+      "updatedAt": "2026-05-26T09:03:34.693Z"
+    },
+    {
       "id": "strausberg-29528-20260704",
       "title": "BÖTZ IN LOVE – OPEN AIR AM SEE",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-07-01/juli-2026/#veranstaltungen-29528-2026-07-04",
@@ -4232,6 +4970,15 @@
       "updatedAt": "2026-05-06T20:21:37.070Z"
     },
     {
+      "id": "strausberg-29574-20260708",
+      "title": "„Alles wird teurer!“",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-07-01/juli-2026/#veranstaltungen-29574-2026-07-08",
+      "startDate": "2026-07-08T00:00:00.000Z",
+      "location": "Diakonischen Werk Oderland-Spree e.V. Landhausstraße 8 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.693Z",
+      "updatedAt": "2026-05-26T09:03:34.693Z"
+    },
+    {
       "id": "strausberg-16674-20260709",
       "title": "Beratung zur Erstellung einer individuellen Patientenverfügung",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-07-01/juli-2026/#veranstaltungen-16674-2026-07-09",
@@ -4295,6 +5042,15 @@
       "updatedAt": "2026-05-06T20:21:37.070Z"
     },
     {
+      "id": "strausberg-29578-20260709",
+      "title": "Offene Krabbelgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-07-01/juli-2026/#veranstaltungen-29578-2026-07-09",
+      "startDate": "2026-07-09T00:00:00.000Z",
+      "location": "AWO Kita “Spatzennest” Am Marienberg 63/64 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.693Z",
+      "updatedAt": "2026-05-26T09:03:34.693Z"
+    },
+    {
       "id": "strausberg-29124-20260711",
       "title": "Intensivkurs: Gute-Laune-Nähen – Grundlagen Schneidern",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-07-01/juli-2026/#veranstaltungen-29124-2026-07-11",
@@ -4302,6 +5058,15 @@
       "location": "Volkshochschule Märkisch-Oderland Wriezener Straße 30 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.699Z",
       "updatedAt": "2026-05-06T20:21:37.070Z"
+    },
+    {
+      "id": "strausberg-29627-20260711",
+      "title": "Filmvorführung: Dokumentationsfilm „Falkenberg“ mit Torsten Richter",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-07-01/juli-2026/#veranstaltungen-29627-2026-07-11",
+      "startDate": "2026-07-11T00:00:00.000Z",
+      "location": "Stadtmuseum Strausberg August-Bebel-Straße 33 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.693Z",
+      "updatedAt": "2026-05-26T09:03:34.693Z"
     },
     {
       "id": "strausberg-28585-20260712",
@@ -4374,6 +5139,15 @@
       "location": "Nordspitze des Straussees auf dem Parkplatz 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.699Z",
       "updatedAt": "2026-05-06T20:21:37.070Z"
+    },
+    {
+      "id": "strausberg-29578-20260716",
+      "title": "Offene Krabbelgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-07-01/juli-2026/#veranstaltungen-29578-2026-07-16",
+      "startDate": "2026-07-16T00:00:00.000Z",
+      "location": "AWO Kita “Spatzennest” Am Marienberg 63/64 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.693Z",
+      "updatedAt": "2026-05-26T09:03:34.693Z"
     },
     {
       "id": "strausberg-29299-20260717",
@@ -4475,6 +5249,15 @@
       "updatedAt": "2026-05-06T20:21:37.070Z"
     },
     {
+      "id": "strausberg-29578-20260723",
+      "title": "Offene Krabbelgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-07-01/juli-2026/#veranstaltungen-29578-2026-07-23",
+      "startDate": "2026-07-23T00:00:00.000Z",
+      "location": "AWO Kita “Spatzennest” Am Marienberg 63/64 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.693Z",
+      "updatedAt": "2026-05-26T09:03:34.693Z"
+    },
+    {
       "id": "strausberg-28585-20260726",
       "title": "Neue Selbsthilfegruppen in Strausberg",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-07-01/juli-2026/#veranstaltungen-28585-2026-07-26",
@@ -4518,6 +5301,15 @@
       "location": "Am Annatal 57 15344 Strausberg",
       "fetchedAt": "2026-05-05T16:34:02.699Z",
       "updatedAt": "2026-05-06T20:21:37.070Z"
+    },
+    {
+      "id": "strausberg-29578-20260730",
+      "title": "Offene Krabbelgruppe",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-07-01/juli-2026/#veranstaltungen-29578-2026-07-30",
+      "startDate": "2026-07-30T00:00:00.000Z",
+      "location": "AWO Kita “Spatzennest” Am Marienberg 63/64 15344 Strausberg",
+      "fetchedAt": "2026-05-26T09:03:34.693Z",
+      "updatedAt": "2026-05-26T09:03:34.693Z"
     }
   ]
 }

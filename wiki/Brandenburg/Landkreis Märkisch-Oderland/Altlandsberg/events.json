@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:22:43.836Z",
+  "updatedAt": "2026-05-26T09:03:16.487Z",
   "items": [
     {
       "id": "19",
@@ -52,16 +52,6 @@
       "updatedAt": "2026-05-06T20:21:26.841Z"
     },
     {
-      "id": "2",
-      "title": "Nachtwächter-Rundgang",
-      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/nachtwaechter-rundgang-2/",
-      "startDate": "2026-05-22T00:00:00.000Z",
-      "location": "Schlossgut Altlandsberg",
-      "description": "Hört Ihr Leute lasst euch sagen ... unsere Uhr hat grad geschlagen!\n\nMit diesem oder einem ähnlichen Ruf empfängt Sie der Nachtwächter der Stadt Altlandsberg. Gemeinsam werden Sie auf einem Rundgang die historische Stadt erkunden.  \nSie hören und erleben Geschichten aus dem Leben des Nachtwächters, von der...",
-      "fetchedAt": "2026-05-05T15:11:35.434Z",
-      "updatedAt": "2026-05-06T20:21:26.841Z"
-    },
-    {
       "id": "23",
       "title": "Schlösser und Parks in Märkisch-Oderland. Ein Blick in...",
       "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/schloesser-und-parks-in-maerkisch-oderland-ein-blick-in-vergangenheit-und-gegenwart-23/",
@@ -72,26 +62,6 @@
       "updatedAt": "2026-05-06T20:21:26.841Z"
     },
     {
-      "id": "1",
-      "title": "Workshop: \"Sumi-e\" Japanische Tuschemalerei mit Uta Wilczok",
-      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/workshop-sumi-e-japanische-tuschemalerei-mit-uta-wilczok-1/",
-      "startDate": "2026-05-23T00:00:00.000Z",
-      "location": "Schlossgut Altlandsberg",
-      "description": "Sumi-e bedeutet übersetzt Schwarze-Tusche-Bild oder –Malerei. Es ist eine seit Jahrhunderten in Japan ausgeübte Kunst, in ihrer Einfachheit und ihrem Ausdruck des Wesentlichen in den Zen-Klöstern zur Meisterschaft gebracht. Der Workshop gibt eine Idee vom „Weg der schwarzen Tusche“, der spontan ist, meditativ, auf...",
-      "fetchedAt": "2026-05-05T15:11:35.434Z",
-      "updatedAt": "2026-05-06T20:21:26.841Z"
-    },
-    {
-      "id": "24",
-      "title": "Schlösser und Parks in Märkisch-Oderland. Ein Blick in...",
-      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/schloesser-und-parks-in-maerkisch-oderland-ein-blick-in-vergangenheit-und-gegenwart-24/",
-      "startDate": "2026-05-24T00:00:00.000Z",
-      "location": "Schlossgut Altlandsberg",
-      "description": "Die Ausstellung erkundet den Kulturlandschaftsraum zwischen der östlichen Berliner Stadtgrenze und der Oder. Historische und zeitgenössische Ansichten von Schlössern, Gutshäusern und Parkanlagen ergänzt durch seltene Landkarten aus Privatsammlung zeichnen ein facettenreiches Bild der Region Märkisch-Oderland.\n\nIm...",
-      "fetchedAt": "2026-05-05T15:11:35.844Z",
-      "updatedAt": "2026-05-06T20:21:31.555Z"
-    },
-    {
       "id": "9",
       "title": "Pfingstkonzert: Vier Hände für Beethovens 9.",
       "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/pfingstkonzert-vier-haende-fuer-beethovens-9/",
@@ -100,6 +70,26 @@
       "description": "Die Schlosskirche Altlandsberg wird am 24. Mai zum Klangraum für eine außergewöhnliche musikalische Begegnung: Maria Magdalena Pitu-Jokisch und Beatrice Wehner-Schaller präsentieren Beethovens 9. Sinfonie in einer eindrucksvollen Fassung für Klavier zu vier Händen.\n\nDie beiden Pianistinnen, die für ihre...",
       "fetchedAt": "2026-05-05T15:11:35.844Z",
       "updatedAt": "2026-05-06T20:21:31.555Z"
+    },
+    {
+      "id": "2",
+      "title": "Tag der Vereine",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/tag-der-vereine-2/",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "location": "Stadtkirche Altlandsberg",
+      "description": "Mit dem 'Tag der Vereine' stellen wir sowohl unseren Bürgerinnen und Bürgern, als auch unseren Gästen die breite Palette der Altlandsberger Vereinslandschaft und deren Aktivitäten vor. Ob Sport, Kultur oder Freizeitgestaltung - für jeden Geschmack ist etwas dabei.\n\nRund um die Stadtkirche präsentieren sich unsere...",
+      "fetchedAt": "2026-05-05T15:11:35.434Z",
+      "updatedAt": "2026-05-26T09:02:04.208Z"
+    },
+    {
+      "id": "24",
+      "title": "Altlandsberger Frischemarkt",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/altlandsberger-frischemarkt-24/",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "location": "Schlossgut Altlandsberg",
+      "description": "**Regionale Vielfalt – Genuss im historischen Ambiente**\n\nDer Frischemarkt auf dem Schlossgut Altlandsberg lädt regelmäßig dazu ein, frische Lebensmittel und besondere Produkte aus der Region zu entdecken. Auf der **Schlossterrasse** , mit Blick auf das historische Ensemble, präsentieren lokale Erzeugerinnen und...",
+      "fetchedAt": "2026-05-05T15:11:35.844Z",
+      "updatedAt": "2026-05-26T09:02:04.208Z"
     },
     {
       "id": "kraeuterwanderung-mit-landmarie",
@@ -120,6 +110,16 @@
       "description": "\"Klezmer-Musik allerfeinster Güt, wie man sie nur selten hören kann!\"",
       "fetchedAt": "2026-05-05T15:11:36.250Z",
       "updatedAt": "2026-05-06T20:21:38.353Z"
+    },
+    {
+      "id": "1",
+      "title": "Workshop: \"Von der Natur zum Druck\" - Botanische Gelli Plate Drucke...",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/workshop-von-der-natur-zum-druck-botanische-gelli-plate-drucke-mit-ulrich-handke-1/",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "location": "Schlossgut Altlandsberg",
+      "description": "In seinem Kreativ-Workshop zum Thema „Von der Natur zum Druck“ gibt Ulrich Handke eine Einführung in die Technik der botanischen Gelli Plate Drucke. Diese vielfältige Druckmethode ermöglicht einzigartige Kunstwerke, denn jeder Druck entsteht nur ein einziges Mal und trägt die individuellen Strukturen und Formen der...",
+      "fetchedAt": "2026-05-05T15:11:35.434Z",
+      "updatedAt": "2026-05-26T09:02:10.187Z"
     },
     {
       "id": "3",

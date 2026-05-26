@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T18:15:53.279Z",
+  "updatedAt": "2026-05-26T09:05:05.146Z",
   "items": [
     {
       "id": "teltow-event-2859714",
@@ -29,14 +29,6 @@
       "id": "teltow-event-2878519",
       "title": "Der PC-Senior",
       "url": "https://www.teltow.de/veranstaltungen/2878519/2026/05/07/der-pc-senior.html",
-      "startDate": "2026-05-07T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T11:34:49.176Z",
-      "updatedAt": "2026-05-06T18:15:53.268Z"
-    },
-    {
-      "id": "teltow-event-2699683",
-      "title": "Repair Caf&eacute; Teltow",
-      "url": "https://www.teltow.de/veranstaltungen/2699683/2026/05/07/repair-café-teltow.html",
       "startDate": "2026-05-07T00:00:00.000Z",
       "fetchedAt": "2026-05-06T11:34:49.176Z",
       "updatedAt": "2026-05-06T18:15:53.268Z"
@@ -322,6 +314,14 @@
       "updatedAt": "2026-05-06T18:15:53.268Z"
     },
     {
+      "id": "teltow-event-2699683",
+      "title": "Repair Caf&eacute; Teltow",
+      "url": "https://www.teltow.de/veranstaltungen/2699683/2026/05/28/repair-café-teltow.html",
+      "startDate": "2026-05-28T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T11:34:49.176Z",
+      "updatedAt": "2026-05-26T09:05:05.138Z"
+    },
+    {
       "id": "teltow-event-2878540",
       "title": "KlatschKaffee",
       "url": "https://www.teltow.de/veranstaltungen/2878540/2026/05/28/klatschkaffee.html",
@@ -368,6 +368,14 @@
       "startDate": "2026-05-31T00:00:00.000Z",
       "fetchedAt": "2026-05-06T11:34:49.176Z",
       "updatedAt": "2026-05-06T18:15:53.268Z"
+    },
+    {
+      "id": "teltow-event-2903817",
+      "title": "Ruhlsdorfer Kinderfest",
+      "url": "https://www.teltow.de/veranstaltungen/2903817/2026/05/31/ruhlsdorfer-kinderfest.html",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:05.138Z",
+      "updatedAt": "2026-05-26T09:05:05.138Z"
     },
     {
       "id": "teltow-event-2878541",
@@ -602,6 +610,14 @@
       "updatedAt": "2026-05-06T18:15:53.268Z"
     },
     {
+      "id": "teltow-event-2906900",
+      "title": "Weinfest auf dem Teltower Marktplatz",
+      "url": "https://www.teltow.de/veranstaltungen/2906900/2026/06/19/weinfest-auf-dem-teltower-marktplatz.html",
+      "startDate": "2026-06-19T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:05.138Z",
+      "updatedAt": "2026-05-26T09:05:05.138Z"
+    },
+    {
       "id": "teltow-event-2874224",
       "title": "Radwandertour: Mittsommer-Tour",
       "url": "https://www.teltow.de/veranstaltungen/2874224/2026/06/20/radwandertour-mittsommer-tour.html",
@@ -738,12 +754,28 @@
       "updatedAt": "2026-05-06T18:15:53.268Z"
     },
     {
+      "id": "teltow-event-2904605",
+      "title": "„Das perfekte Geheimnis“ - TKS-Kinosommer",
+      "url": "https://www.teltow.de/veranstaltungen/2904605/2026/07/04/das-perfekte-geheimnis-tks-kinosommer.html",
+      "startDate": "2026-07-04T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:05.138Z",
+      "updatedAt": "2026-05-26T09:05:05.138Z"
+    },
+    {
       "id": "teltow-event-2857820",
       "title": "Teltow singt - Das Mitsingkonzert",
       "url": "https://www.teltow.de/veranstaltungen/2857820/2026/07/15/teltow-singt-das-mitsingkonzert.html",
       "startDate": "2026-07-15T00:00:00.000Z",
       "fetchedAt": "2026-05-06T11:34:49.176Z",
       "updatedAt": "2026-05-06T18:15:53.268Z"
+    },
+    {
+      "id": "teltow-event-2904621",
+      "title": "„Der Spitzname“ - TKS-Kinosommer",
+      "url": "https://www.teltow.de/veranstaltungen/2904621/2026/07/25/der-spitzname-tks-kinosommer.html",
+      "startDate": "2026-07-25T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:05.138Z",
+      "updatedAt": "2026-05-26T09:05:05.138Z"
     },
     {
       "id": "teltow-event-2881609",

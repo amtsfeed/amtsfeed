@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T12:30:01.642Z",
+  "updatedAt": "2026-05-26T09:05:00.467Z",
   "items": [
     {
       "id": "michendorf-event-2884831",
@@ -98,14 +98,6 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
-      "id": "michendorf-event-2798286",
-      "title": "Trauercaf&eacute;",
-      "url": "https://www.michendorf.de/veranstaltungen/2798286/2026/05/12/trauercafé.html",
-      "startDate": "2026-05-12T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:01.632Z",
-      "updatedAt": "2026-05-06T12:30:01.632Z"
-    },
-    {
       "id": "michendorf-event-2655924",
       "title": "STADTRADELN",
       "url": "https://www.michendorf.de/veranstaltungen/2655924/2026/05/13/stadtradeln.html",
@@ -115,11 +107,11 @@
     },
     {
       "id": "michendorf-event-2894024",
-      "title": "Wanderausstellung „Sicherer Schulweg“",
-      "url": "https://www.michendorf.de/veranstaltungen/2894024/2026/05/13/wanderausstellung-sicherer-schulweg.html",
+      "title": "Wanderausstellung Ablenkung im Straßenverkehr",
+      "url": "https://www.michendorf.de/veranstaltungen/2894024/2026/05/13/wanderausstellung-ablenkung-im-straßenverkehr.html",
       "startDate": "2026-05-13T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
-      "updatedAt": "2026-05-06T12:30:01.632Z"
+      "updatedAt": "2026-05-26T09:05:00.459Z"
     },
     {
       "id": "michendorf-event-2887494",
@@ -170,6 +162,14 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2904356",
+      "title": "Leben ist Wandlung -  Ausstellung von Michael Müller",
+      "url": "https://www.michendorf.de/veranstaltungen/2904356/2026/05/21/leben-ist-wandlung-ausstellung-von-michael-müller.html",
+      "startDate": "2026-05-21T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
       "id": "michendorf-event-2888539",
       "title": "Mountainbike- und Cross-Strecken erkunden",
       "url": "https://www.michendorf.de/veranstaltungen/2888539/2026/05/22/mountainbike-und-cross-strecken-erkunden.html",
@@ -178,12 +178,36 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2798286",
+      "title": "Trauercaf&eacute;",
+      "url": "https://www.michendorf.de/veranstaltungen/2798286/2026/05/26/trauercafé.html",
+      "startDate": "2026-05-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
       "id": "michendorf-event-2888533",
       "title": "Sundowner-Fahrt",
       "url": "https://www.michendorf.de/veranstaltungen/2888533/2026/05/26/sundowner-fahrt.html",
       "startDate": "2026-05-26T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2903749",
+      "title": "Filmclub im Mai: M.C. Escher - Reise in die Unendlichkeit (NL 2018)",
+      "url": "https://www.michendorf.de/veranstaltungen/2903749/2026/05/27/filmclub-im-mai-m.c.-escher-reise-in-die-unendlichkeit-nl-2018.html",
+      "startDate": "2026-05-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
+      "id": "michendorf-event-2906669",
+      "title": "Einladung zum 1. BNE-Netzwerktreffen im Naturpark Nuthe-Nieplitz",
+      "url": "https://www.michendorf.de/veranstaltungen/2906669/2026/05/27/einladung-zum-1.-bne-netzwerktreffen-im-naturpark-nuthe-nieplitz.html",
+      "startDate": "2026-05-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
     },
     {
       "id": "michendorf-event-2508581",
@@ -200,6 +224,22 @@
       "startDate": "2026-05-29T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2904348",
+      "title": "Kennenlern-Nachmittag der Kita Kunterbunt",
+      "url": "https://www.michendorf.de/veranstaltungen/2904348/2026/05/29/kennenlern-nachmittag-der-kita-kunterbunt.html",
+      "startDate": "2026-05-29T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
+      "id": "michendorf-event-2905349",
+      "title": "Die Tür nebenan",
+      "url": "https://www.michendorf.de/veranstaltungen/2905349/2026/05/29/die-tür-nebenan.html",
+      "startDate": "2026-05-29T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
     },
     {
       "id": "michendorf-event-2881737",
@@ -234,6 +274,14 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2905350",
+      "title": "Die Tür nebenan",
+      "url": "https://www.michendorf.de/veranstaltungen/2905350/2026/05/30/die-tür-nebenan.html",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
       "id": "michendorf-event-2646897",
       "title": "Sonntags-Frühstück",
       "url": "https://www.michendorf.de/veranstaltungen/2646897/2026/05/31/sonntags-frühstück.html",
@@ -258,6 +306,22 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2901766",
+      "title": "Rad-Tour de Templiner See",
+      "url": "https://www.michendorf.de/veranstaltungen/2901766/2026/05/31/rad-tour-de-templiner-see.html",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
+      "id": "michendorf-event-2905352",
+      "title": "Die Tür nebenan",
+      "url": "https://www.michendorf.de/veranstaltungen/2905352/2026/05/31/die-tür-nebenan.html",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
       "id": "michendorf-event-2888534",
       "title": "Sundowner-Fahrt",
       "url": "https://www.michendorf.de/veranstaltungen/2888534/2026/06/01/sundowner-fahrt.html",
@@ -266,12 +330,44 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2905356",
+      "title": "Die Tür nebenan",
+      "url": "https://www.michendorf.de/veranstaltungen/2905356/2026/06/05/die-tür-nebenan.html",
+      "startDate": "2026-06-05T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
+      "id": "michendorf-event-2905358",
+      "title": "Die Tür nebenan",
+      "url": "https://www.michendorf.de/veranstaltungen/2905358/2026/06/06/die-tür-nebenan.html",
+      "startDate": "2026-06-06T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
       "id": "michendorf-event-2888545",
       "title": "ADFC-Sternfahrt nach Berlin",
       "url": "https://www.michendorf.de/veranstaltungen/2888545/2026/06/07/adfc-sternfahrt-nach-berlin.html",
       "startDate": "2026-06-07T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2905987",
+      "title": "Familiensportfest",
+      "url": "https://www.michendorf.de/veranstaltungen/2905987/2026/06/07/familiensportfest.html",
+      "startDate": "2026-06-07T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
+      "id": "michendorf-event-2905359",
+      "title": "Die Tür nebenan",
+      "url": "https://www.michendorf.de/veranstaltungen/2905359/2026/06/07/die-tür-nebenan.html",
+      "startDate": "2026-06-07T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
     },
     {
       "id": "michendorf-event-2817156",
@@ -314,6 +410,22 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2905989",
+      "title": "Tag der offenen Tür - Anglerverein Wildenbruch",
+      "url": "https://www.michendorf.de/veranstaltungen/2905989/2026/06/13/tag-der-offenen-tür-anglerverein-wildenbruch.html",
+      "startDate": "2026-06-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
+      "id": "michendorf-event-2904358",
+      "title": "18. juryfreie Kunstausstellung - Mystischer Garten",
+      "url": "https://www.michendorf.de/veranstaltungen/2904358/2026/06/13/18.-juryfreie-kunstausstellung-mystischer-garten.html",
+      "startDate": "2026-06-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
+    },
+    {
       "id": "michendorf-event-2854040",
       "title": "Tanz in der Kirche 2026",
       "url": "https://www.michendorf.de/veranstaltungen/2854040/2026/06/19/tanz-in-der-kirche-2026.html",
@@ -328,6 +440,14 @@
       "startDate": "2026-06-20T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2903814",
+      "title": "MittSommerMusikFest",
+      "url": "https://www.michendorf.de/veranstaltungen/2903814/2026/06/20/mittsommermusikfest.html",
+      "startDate": "2026-06-20T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
     },
     {
       "id": "michendorf-event-2893966",
@@ -347,11 +467,11 @@
     },
     {
       "id": "michendorf-event-2796841",
-      "title": "Festival Wilhelmshorst \"80 Jahre Kulturbund Michendorf\"",
-      "url": "https://www.michendorf.de/veranstaltungen/2796841/2026/06/26/festival-wilhelmshorst-80-jahre-kulturbund-michendorf.html",
-      "startDate": "2026-06-26T00:00:00.000Z",
+      "title": "Festival Wilhelmshorst",
+      "url": "https://www.michendorf.de/veranstaltungen/2796841/2026/06/27/festival-wilhelmshorst.html",
+      "startDate": "2026-06-27T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
-      "updatedAt": "2026-05-06T12:30:01.632Z"
+      "updatedAt": "2026-05-26T09:05:00.459Z"
     },
     {
       "id": "michendorf-event-2869332",
@@ -424,6 +544,14 @@
       "startDate": "2026-09-05T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2904622",
+      "title": "80 Jahre Kulturbund Michendorf",
+      "url": "https://www.michendorf.de/veranstaltungen/2904622/2026/09/12/80-jahre-kulturbund-michendorf.html",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:05:00.459Z",
+      "updatedAt": "2026-05-26T09:05:00.459Z"
     },
     {
       "id": "michendorf-event-2854057",

@@ -2,7 +2,7 @@
   {
     "domain": "www.finsterwalde.de",
     "baseUrl": "https://www.finsterwalde.de",
-    "updatedAt": "2026-05-08T18:41:01.928Z",
+    "updatedAt": "2026-05-26T09:01:55.547Z",
     "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /suche.phtml\nDisallow: /suchen.phtml\nDisallow: /redirect.phtml\nDisallow: /showobject.phtml\n\nSitemap: https://www.finsterwalde.de/sitemap.xml"
   }
 ]

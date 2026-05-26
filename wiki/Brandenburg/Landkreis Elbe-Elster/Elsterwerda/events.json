@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T18:39:29.399Z",
+  "updatedAt": "2026-05-26T09:01:53.568Z",
   "items": [
     {
       "id": "22492",
@@ -178,12 +178,28 @@
       "updatedAt": "2026-05-08T18:39:29.399Z"
     },
     {
+      "id": "23243",
+      "title": "Nacht der Jugend",
+      "url": "https://www.elsterwerda.de/veranstaltung/nacht-der-jugend/",
+      "startDate": "2026-06-05T18:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
       "id": "22693",
       "title": "Paarangeln am Schwertgraben",
       "url": "https://www.elsterwerda.de/veranstaltung/paarangeln-am-schwertgraben/",
       "startDate": "2026-06-06T13:00:00.000Z",
       "fetchedAt": "2026-05-08T18:39:29.399Z",
       "updatedAt": "2026-05-08T18:39:29.399Z"
+    },
+    {
+      "id": "23245",
+      "title": "Partynacht",
+      "url": "https://www.elsterwerda.de/veranstaltung/partynacht/",
+      "startDate": "2026-06-06T20:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
     },
     {
       "id": "22503",
@@ -400,6 +416,110 @@
       "startDate": "2026-09-12T14:00:00.000Z",
       "fetchedAt": "2026-05-08T18:39:29.399Z",
       "updatedAt": "2026-05-08T18:39:29.399Z"
+    },
+    {
+      "id": "21585",
+      "title": "35 Jahre Jugendclub Banane – Jubiläumsfest",
+      "url": "https://www.elsterwerda.de/veranstaltung/35-jahre-jugendclub-banane-jubilaeumsfest/",
+      "startDate": "2026-09-12T16:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "10001048",
+      "title": "Trauercafé Elsterwerda",
+      "url": "https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2026-09-17/",
+      "startDate": "2026-09-17T15:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "21848",
+      "title": "Ausstellung Toralf Schirmer",
+      "url": "https://www.elsterwerda.de/veranstaltung/ausstellung-toralf-schirmer/",
+      "startDate": "2026-09-18T14:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "10001929",
+      "title": "Auf alten Heidewegen… „Kräuter- und Erlebnistour durch die Heidelandschaft um Kraupa“",
+      "url": "https://www.elsterwerda.de/veranstaltung/auf-alten-heidewegen-kraeuter-und-erlebnistour-durch-die-heidelandschaft-um-kraupa/2026-09-19/",
+      "startDate": "2026-09-19T14:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "22517",
+      "title": "Familienkirche",
+      "url": "https://www.elsterwerda.de/veranstaltung/familienkirche-6/",
+      "startDate": "2026-09-20T10:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "22519",
+      "title": "Familienkirche",
+      "url": "https://www.elsterwerda.de/veranstaltung/familienkirche-7/",
+      "startDate": "2026-10-04T10:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "10001930",
+      "title": "Auf alten Heidewegen… „Kräuter- und Erlebnistour durch die Heidelandschaft um Kraupa“",
+      "url": "https://www.elsterwerda.de/veranstaltung/auf-alten-heidewegen-kraeuter-und-erlebnistour-durch-die-heidelandschaft-um-kraupa/2026-10-10/",
+      "startDate": "2026-10-10T14:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "10001049",
+      "title": "Trauercafé Elsterwerda",
+      "url": "https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2026-10-15/",
+      "startDate": "2026-10-15T15:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "21589",
+      "title": "Halloween-Kinderparty",
+      "url": "https://www.elsterwerda.de/veranstaltung/halloween-kinderparty/",
+      "startDate": "2026-10-31T15:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "22521",
+      "title": "Familienkirche Martinstag",
+      "url": "https://www.elsterwerda.de/veranstaltung/familienkirche-martinstag/",
+      "startDate": "2026-11-08T10:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "22523",
+      "title": "Familienkirche Martinstag",
+      "url": "https://www.elsterwerda.de/veranstaltung/familienkirche-martinstag-2/",
+      "startDate": "2026-11-10T17:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "10001931",
+      "title": "Auf alten Heidewegen… „Kräuter- und Erlebnistour durch die Heidelandschaft um Kraupa“",
+      "url": "https://www.elsterwerda.de/veranstaltung/auf-alten-heidewegen-kraeuter-und-erlebnistour-durch-die-heidelandschaft-um-kraupa/2026-11-14/",
+      "startDate": "2026-11-14T14:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "10001050",
+      "title": "Trauercafé Elsterwerda",
+      "url": "https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2026-11-19/",
+      "startDate": "2026-11-19T15:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:53.568Z",
+      "updatedAt": "2026-05-26T09:01:53.568Z"
     }
   ]
 }

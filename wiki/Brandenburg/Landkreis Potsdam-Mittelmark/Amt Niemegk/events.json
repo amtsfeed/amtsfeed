@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:26:46.403Z",
+  "updatedAt": "2026-05-26T09:04:49.759Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -38,6 +38,34 @@
       "location": "Burg Rabenstein in Raben",
       "fetchedAt": "2026-05-06T19:19:39.954Z",
       "updatedAt": "2026-05-06T20:26:46.394Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-05-26-2026-05-26",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-05-26",
+      "startDate": "2026-05-26T14:00:00.000Z",
+      "endDate": "2026-05-26T15:30:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:42.006Z",
+      "updatedAt": "2026-05-26T09:04:49.757Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-05-27-2026-05-27",
+      "title": "Willkommen- Baby- Frühstück",
+      "url": "https://amt-niemegk.de/events/willkommen-baby-fruehstueck-3-911-925-786-401-808-698-320-746-273/?occurrence=2026-05-27&#038;time=1779874200",
+      "startDate": "2026-05-27T9:30:00.000Z",
+      "endDate": "2026-05-27T11:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-05-26T09:04:42.006Z",
+      "updatedAt": "2026-05-26T09:04:49.757Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-05-28-2026-05-28",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-05-28",
+      "startDate": "2026-05-28T14:00:00.000Z",
+      "endDate": "2026-05-28T15:30:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:42.006Z",
+      "updatedAt": "2026-05-26T09:04:49.757Z"
     }
   ]
 }

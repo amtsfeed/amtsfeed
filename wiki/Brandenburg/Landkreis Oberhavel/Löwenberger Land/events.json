@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:20:25.996Z",
+  "updatedAt": "2026-05-26T09:04:02.656Z",
   "items": [
     {
       "id": "loewenberger-land-event-2839292-2026-05-06",
@@ -495,6 +495,33 @@
       "location": "DGH Nassenheide, Am Dorfanger 25",
       "fetchedAt": "2026-05-06T19:30:49.920Z",
       "updatedAt": "2026-05-06T20:20:25.992Z"
+    },
+    {
+      "id": "loewenberger-land-event-2904544-2026-06-19",
+      "title": "Löwenberger Festwochenende",
+      "url": "https://www.loewenberger-land.de/veranstaltungen/2904544/2026/06/19/löwenberger-festwochenende.html",
+      "startDate": "2026-06-19T19:00:00.000Z",
+      "location": "Im Hain Löwenberg",
+      "fetchedAt": "2026-05-26T09:04:02.652Z",
+      "updatedAt": "2026-05-26T09:04:02.652Z"
+    },
+    {
+      "id": "loewenberger-land-event-2904547-2026-06-20",
+      "title": "WM-Party",
+      "url": "https://www.loewenberger-land.de/veranstaltungen/2904547/2026/06/20/wm-party.html",
+      "startDate": "2026-06-20T00:00:00.000Z",
+      "location": "Im Hain Löwenberg",
+      "fetchedAt": "2026-05-26T09:04:02.652Z",
+      "updatedAt": "2026-05-26T09:04:02.652Z"
+    },
+    {
+      "id": "loewenberger-land-event-2904549-2026-06-21",
+      "title": "Picknick in Weiß",
+      "url": "https://www.loewenberger-land.de/veranstaltungen/2904549/2026/06/21/picknick-in-weiß.html",
+      "startDate": "2026-06-21T00:00:00.000Z",
+      "location": "Im Hain Löwenberg",
+      "fetchedAt": "2026-05-26T09:04:02.652Z",
+      "updatedAt": "2026-05-26T09:04:02.652Z"
     },
     {
       "id": "loewenberger-land-event-2893529-2026-06-21",
@@ -1035,6 +1062,15 @@
       "location": "DGH Nassenheide, Am Dorfanger 25",
       "fetchedAt": "2026-05-06T19:30:49.920Z",
       "updatedAt": "2026-05-06T20:20:25.992Z"
+    },
+    {
+      "id": "loewenberger-land-event-2900787-2026-08-16",
+      "title": "Liebenberg im Tangofieber",
+      "url": "https://www.loewenberger-land.de/veranstaltungen/2900787/2026/08/16/liebenberg-im-tangofieber.html",
+      "startDate": "2026-08-16T00:00:00.000Z",
+      "location": "Musikscheune Liebenberg",
+      "fetchedAt": "2026-05-26T09:04:02.652Z",
+      "updatedAt": "2026-05-26T09:04:02.652Z"
     },
     {
       "id": "loewenberger-land-event-2893529-2026-08-16",
@@ -2475,6 +2511,42 @@
       "location": "Großmutz",
       "fetchedAt": "2026-05-06T19:30:49.920Z",
       "updatedAt": "2026-05-06T20:20:25.992Z"
+    },
+    {
+      "id": "loewenberger-land-event-2823129-2027-05-10",
+      "title": "Sport in Neulöwenberg",
+      "url": "https://www.loewenberger-land.de/veranstaltungen/2823129/2027/05/10/sport-in-neulöwenberg.html",
+      "startDate": "2027-05-10T19:30:00.000Z",
+      "location": "Neulöwenberg",
+      "fetchedAt": "2026-05-26T09:04:02.652Z",
+      "updatedAt": "2026-05-26T09:04:02.652Z"
+    },
+    {
+      "id": "loewenberger-land-event-2823129-2027-05-17",
+      "title": "Sport in Neulöwenberg",
+      "url": "https://www.loewenberger-land.de/veranstaltungen/2823129/2027/05/17/sport-in-neulöwenberg.html",
+      "startDate": "2027-05-17T19:30:00.000Z",
+      "location": "Neulöwenberg",
+      "fetchedAt": "2026-05-26T09:04:02.652Z",
+      "updatedAt": "2026-05-26T09:04:02.652Z"
+    },
+    {
+      "id": "loewenberger-land-event-2521191-2027-05-18",
+      "title": "Romm&eacute; spielen im Dorfgemeinschaftshaus Großmutz",
+      "url": "https://www.loewenberger-land.de/veranstaltungen/2521191/2027/05/18/rommé-spielen-im-dorfgemeinschaftshaus-großmutz.html",
+      "startDate": "2027-05-18T14:00:00.000Z",
+      "location": "Großmutz",
+      "fetchedAt": "2026-05-26T09:04:02.652Z",
+      "updatedAt": "2026-05-26T09:04:02.652Z"
+    },
+    {
+      "id": "loewenberger-land-event-2823129-2027-05-24",
+      "title": "Sport in Neulöwenberg",
+      "url": "https://www.loewenberger-land.de/veranstaltungen/2823129/2027/05/24/sport-in-neulöwenberg.html",
+      "startDate": "2027-05-24T19:30:00.000Z",
+      "location": "Neulöwenberg",
+      "fetchedAt": "2026-05-26T09:04:02.652Z",
+      "updatedAt": "2026-05-26T09:04:02.652Z"
     }
   ]
 }

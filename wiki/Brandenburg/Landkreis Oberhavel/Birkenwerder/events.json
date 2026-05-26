@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:22:51.032Z",
+  "updatedAt": "2026-05-26T09:03:36.190Z",
   "items": [
     {
       "id": "birkenwerder-event-offene-atelier-in-oberhavel-am-02-und-3-mai-2026",
@@ -36,6 +36,24 @@
       "location": "Gemeindehaus der evangelischen Kirche, Hauptstrasse 52, Birkenwerder",
       "fetchedAt": "2026-05-06T15:35:31.591Z",
       "updatedAt": "2026-05-06T20:22:51.030Z"
+    },
+    {
+      "id": "birkenwerder-event-gemeindebibliothek-birkenwerder-2",
+      "title": "MONATSRÄTSEL mit Preisen in der Gemeindebibliothek",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/gemeindebibliothek-birkenwerder-2",
+      "startDate": "2026-05-04T00:00:00.000Z",
+      "location": "16547 Birkenwerder, Summter Str. 04",
+      "fetchedAt": "2026-05-26T09:03:36.189Z",
+      "updatedAt": "2026-05-26T09:03:36.189Z"
+    },
+    {
+      "id": "birkenwerder-event-ich-bin-bibliotheksfit-der-bibliotheksfuehrerschein-fuer-kita-kinder",
+      "title": "„Ich bin Bib(liotheks)fit - Der Bibliotheksführerschein für Kita-Kinder“",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/ich-bin-bibliotheksfit-der-bibliotheksfuehrerschein-fuer-kita-kinder",
+      "startDate": "2026-05-04T00:00:00.000Z",
+      "location": "Rathaus Birkenwerder, Ratssaal",
+      "fetchedAt": "2026-05-26T09:03:36.189Z",
+      "updatedAt": "2026-05-26T09:03:36.189Z"
     },
     {
       "id": "birkenwerder-event-energiesprechstunde-06a2cbd1be45e13d81c03cdf26e4df63",
@@ -153,6 +171,15 @@
       "location": "Jugendclub CORN, Hauptstraße 112, 16547 Birkenwerder",
       "fetchedAt": "2026-05-06T15:35:31.591Z",
       "updatedAt": "2026-05-06T20:22:51.030Z"
+    },
+    {
+      "id": "birkenwerder-event-feier-zum-kindertag-im-jugendclub-corn",
+      "title": "Feier zum Kindertag im Jugendclub CORN",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/feier-zum-kindertag-im-jugendclub-corn",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "location": "Kinder- und Jugendfreizeithaus CORN, Hauptstraße 112, 16547 Birkenwerder",
+      "fetchedAt": "2026-05-26T09:03:36.189Z",
+      "updatedAt": "2026-05-26T09:03:36.189Z"
     }
   ]
 }

@@ -1,19 +1,11 @@
 {
-  "updatedAt": "2026-05-06T20:16:14.202Z",
+  "updatedAt": "2026-05-26T09:04:40.511Z",
   "items": [
     {
       "id": "amt-beetzsee-event-2740698",
       "title": "Betzavta-Ausbildung Modul 1 (Methodik des Adam Instituts) (Bildungsurlaub)",
       "url": "https://www.amt-beetzsee.de/veranstaltungen/2740698/2026/05/04/betzavta-ausbildung-modul-1-methodik-des-adam-instituts-bildungsurlaub.html",
       "startDate": "2026-05-04T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:37:19.276Z",
-      "updatedAt": "2026-05-06T20:16:14.183Z"
-    },
-    {
-      "id": "amt-beetzsee-event-2645431",
-      "title": "Beetzseebücherei",
-      "url": "https://www.amt-beetzsee.de/veranstaltungen/2645431/2026/05/07/beetzseebücherei.html",
-      "startDate": "2026-05-07T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:19.276Z",
       "updatedAt": "2026-05-06T20:16:14.183Z"
     },
@@ -82,14 +74,6 @@
       "updatedAt": "2026-05-06T20:16:14.183Z"
     },
     {
-      "id": "amt-beetzsee-event-2496637",
-      "title": "Beetzseebücherei",
-      "url": "https://www.amt-beetzsee.de/veranstaltungen/2496637/2026/05/21/beetzseebücherei.html",
-      "startDate": "2026-05-21T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:37:19.276Z",
-      "updatedAt": "2026-05-06T20:16:14.183Z"
-    },
-    {
       "id": "amt-beetzsee-event-2723909",
       "title": "Kulturfestival am Havelufer",
       "url": "https://www.amt-beetzsee.de/veranstaltungen/2723909/2026/05/22/kulturfestival-am-havelufer.html",
@@ -112,6 +96,14 @@
       "startDate": "2026-05-28T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:19.276Z",
       "updatedAt": "2026-05-06T20:16:14.183Z"
+    },
+    {
+      "id": "amt-beetzsee-event-2901539",
+      "title": "Wir läuten den Sommer ein - Grillen inkl. Fotoshooting",
+      "url": "https://www.amt-beetzsee.de/veranstaltungen/2901539/2026/05/30/wir-läuten-den-sommer-ein-grillen-inkl.-fotoshooting.html",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:40.502Z",
+      "updatedAt": "2026-05-26T09:04:40.502Z"
     },
     {
       "id": "amt-beetzsee-event-2741828",
@@ -162,6 +154,14 @@
       "updatedAt": "2026-05-06T20:16:14.183Z"
     },
     {
+      "id": "amt-beetzsee-event-2645431",
+      "title": "Beetzseebücherei",
+      "url": "https://www.amt-beetzsee.de/veranstaltungen/2645431/2026/06/04/beetzseebücherei.html",
+      "startDate": "2026-06-04T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:37:19.276Z",
+      "updatedAt": "2026-05-26T09:04:40.502Z"
+    },
+    {
       "id": "amt-beetzsee-event-2833413",
       "title": "Fritz-Flitz-Olympiade",
       "url": "https://www.amt-beetzsee.de/veranstaltungen/2833413/2026/06/06/fritz-flitz-olympiade.html",
@@ -200,6 +200,14 @@
       "startDate": "2026-06-15T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:19.276Z",
       "updatedAt": "2026-05-06T20:16:14.183Z"
+    },
+    {
+      "id": "amt-beetzsee-event-2496637",
+      "title": "Beetzseebücherei",
+      "url": "https://www.amt-beetzsee.de/veranstaltungen/2496637/2026/06/18/beetzseebücherei.html",
+      "startDate": "2026-06-18T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:37:19.276Z",
+      "updatedAt": "2026-05-26T09:04:40.502Z"
     },
     {
       "id": "amt-beetzsee-event-2833412",
@@ -298,12 +306,28 @@
       "updatedAt": "2026-05-06T20:16:14.183Z"
     },
     {
+      "id": "amt-beetzsee-event-2905240",
+      "title": "Uferkultur Open-Air-Konzert \"Zs&oacute; Zs&oacute;\"",
+      "url": "https://www.amt-beetzsee.de/veranstaltungen/2905240/2026/08/06/uferkultur-open-air-konzert-zsó-zsó.html",
+      "startDate": "2026-08-06T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:40.502Z",
+      "updatedAt": "2026-05-26T09:04:40.502Z"
+    },
+    {
       "id": "amt-beetzsee-event-2763479",
       "title": "Englisch & Yoga (A2/B1) (Bildungsurlaub) (Warteliste)",
       "url": "https://www.amt-beetzsee.de/veranstaltungen/2763479/2026/08/10/englisch-yoga-a2-b1-bildungsurlaub-warteliste.html",
       "startDate": "2026-08-10T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:19.276Z",
       "updatedAt": "2026-05-06T20:16:14.183Z"
+    },
+    {
+      "id": "amt-beetzsee-event-2904590",
+      "title": "Uferkultur Open-Air-Kino \"father mother sister brother\"",
+      "url": "https://www.amt-beetzsee.de/veranstaltungen/2904590/2026/08/13/uferkultur-open-air-kino-father-mother-sister-brother.html",
+      "startDate": "2026-08-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:40.502Z",
+      "updatedAt": "2026-05-26T09:04:40.502Z"
     },
     {
       "id": "amt-beetzsee-event-2898924",
@@ -322,6 +346,14 @@
       "updatedAt": "2026-05-06T20:16:14.183Z"
     },
     {
+      "id": "amt-beetzsee-event-2905219",
+      "title": "Uferkultur Open-Air-Konzert \"Maria Schüritz\"",
+      "url": "https://www.amt-beetzsee.de/veranstaltungen/2905219/2026/08/20/uferkultur-open-air-konzert-maria-schüritz.html",
+      "startDate": "2026-08-20T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:40.502Z",
+      "updatedAt": "2026-05-26T09:04:40.502Z"
+    },
+    {
       "id": "amt-beetzsee-event-2740631",
       "title": "MBSR – Achtsamkeitstraining (Bildungsurlaub)",
       "url": "https://www.amt-beetzsee.de/veranstaltungen/2740631/2026/08/24/mbsr--achtsamkeitstraining-bildungsurlaub.html",
@@ -336,6 +368,14 @@
       "startDate": "2026-09-05T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:19.276Z",
       "updatedAt": "2026-05-06T20:16:14.183Z"
+    },
+    {
+      "id": "amt-beetzsee-event-2905243",
+      "title": "Uferkultur Open-Air-Kino \"Ach, diese Lücke, diese entsetzliche Lücke\"",
+      "url": "https://www.amt-beetzsee.de/veranstaltungen/2905243/2026/09/05/uferkultur-open-air-kino-ach-diese-lücke-diese-entsetzliche-lücke.html",
+      "startDate": "2026-09-05T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:40.502Z",
+      "updatedAt": "2026-05-26T09:04:40.502Z"
     },
     {
       "id": "amt-beetzsee-event-2898925",
@@ -384,6 +424,14 @@
       "startDate": "2026-09-25T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:19.276Z",
       "updatedAt": "2026-05-06T20:16:14.183Z"
+    },
+    {
+      "id": "amt-beetzsee-event-2902623",
+      "title": "Politische Kompetenzen in der BNE (Modul 1) (Bildungsurlaub)",
+      "url": "https://www.amt-beetzsee.de/veranstaltungen/2902623/2026/09/28/politische-kompetenzen-in-der-bne-modul-1-bildungsurlaub.html",
+      "startDate": "2026-09-28T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:40.502Z",
+      "updatedAt": "2026-05-26T09:04:40.502Z"
     },
     {
       "id": "amt-beetzsee-event-2833416",
@@ -466,6 +514,14 @@
       "updatedAt": "2026-05-06T20:16:14.183Z"
     },
     {
+      "id": "amt-beetzsee-event-2902625",
+      "title": "Politische Kompetenzen in der BNE (Modul 2) (Bildungsurlaub)",
+      "url": "https://www.amt-beetzsee.de/veranstaltungen/2902625/2026/11/16/politische-kompetenzen-in-der-bne-modul-2-bildungsurlaub.html",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:40.502Z",
+      "updatedAt": "2026-05-26T09:04:40.502Z"
+    },
+    {
       "id": "amt-beetzsee-event-2833418",
       "title": "Eisbeinessen",
       "url": "https://www.amt-beetzsee.de/veranstaltungen/2833418/2026/11/21/eisbeinessen.html",
@@ -512,6 +568,14 @@
       "startDate": "2026-12-28T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:19.276Z",
       "updatedAt": "2026-05-06T20:16:14.183Z"
+    },
+    {
+      "id": "amt-beetzsee-event-2904871",
+      "title": "Feldenkrais-Intensiv: Feldenkrais bewegt! (Bildungsurlaub)",
+      "url": "https://www.amt-beetzsee.de/veranstaltungen/2904871/2027/01/22/feldenkrais-intensiv-feldenkrais-bewegt-bildungsurlaub.html",
+      "startDate": "2027-01-22T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:40.502Z",
+      "updatedAt": "2026-05-26T09:04:40.502Z"
     },
     {
       "id": "amt-beetzsee-event-2788152",

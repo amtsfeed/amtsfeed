@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T18:34:29.691Z",
+  "updatedAt": "2026-05-26T09:01:56.297Z",
   "items": [
     {
       "id": "2849506",
@@ -122,6 +122,14 @@
       "updatedAt": "2026-05-08T18:34:29.680Z"
     },
     {
+      "id": "2906933",
+      "title": "Infoabend zum Parlamentarischen Patenschafts-Programm (PPP)",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2906933/2026/07/03/infoabend-zum-parlamentarischen-patenschafts-programm-ppp.html",
+      "startDate": "2026-07-03T16:30:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:56.289Z",
+      "updatedAt": "2026-05-26T09:01:56.289Z"
+    },
+    {
       "id": "2863980",
       "title": "Blaulicht Bronkow",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2863980/2026/09/05/blaulicht-bronkow.html",
@@ -168,6 +176,14 @@
       "startDate": "2026-10-11T16:00:00.000Z",
       "fetchedAt": "2026-05-08T18:34:29.680Z",
       "updatedAt": "2026-05-08T18:34:29.680Z"
+    },
+    {
+      "id": "2901708",
+      "title": "Lesung und Gespräch mit Michael Bukowski &bdquo;Deutsches Sonnenmärchen &ndash; Wie wir die Solarenergie zum weltweiten Erfolg gemacht haben&ldquo;",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2901708/2026/10/14/lesung-und-gespräch-mit-michael-bukowski-deutsches-sonnenmärchen--wie-wir-die-solarenergie-zum-weltweiten-erfolg-gemacht-haben.html",
+      "startDate": "2026-10-14T19:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:01:56.289Z",
+      "updatedAt": "2026-05-26T09:01:56.289Z"
     },
     {
       "id": "2849518",
@@ -226,36 +242,36 @@
       "updatedAt": "2026-05-08T18:34:29.680Z"
     },
     {
-      "id": "2477269",
-      "title": "Seniorencaf&egrave;",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2477269/2027/05/05/seniorencafè.html",
-      "startDate": "2027-05-05T10:00:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-05-08T18:34:29.680Z"
-    },
-    {
-      "id": "2439631",
-      "title": "Sprach-Caf&egrave;",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2439631/2027/05/05/sprach-cafè.html",
-      "startDate": "2027-05-05T16:00:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-05-08T18:34:29.680Z"
-    },
-    {
       "id": "2331049",
       "title": "Wochenmarkt",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2331049/2027/05/06/wochenmarkt.html",
-      "startDate": "2027-05-06T06:00:00.000Z",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2331049/2027/05/20/wochenmarkt.html",
+      "startDate": "2027-05-20T06:00:00.000Z",
       "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-05-08T18:34:29.680Z"
+      "updatedAt": "2026-05-26T09:01:56.289Z"
     },
     {
       "id": "2331050",
       "title": "Wochenmarkt",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2331050/2027/05/08/wochenmarkt.html",
-      "startDate": "2027-05-08T06:30:00.000Z",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2331050/2027/05/22/wochenmarkt.html",
+      "startDate": "2027-05-22T06:30:00.000Z",
       "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-05-08T18:34:29.680Z"
+      "updatedAt": "2026-05-26T09:01:56.289Z"
+    },
+    {
+      "id": "2477269",
+      "title": "Seniorencaf&egrave;",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2477269/2027/05/26/seniorencafè.html",
+      "startDate": "2027-05-26T10:00:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-05-26T09:01:56.289Z"
+    },
+    {
+      "id": "2439631",
+      "title": "Sprach-Caf&egrave;",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2439631/2027/05/26/sprach-cafè.html",
+      "startDate": "2027-05-26T16:00:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-05-26T09:01:56.289Z"
     }
   ]
 }

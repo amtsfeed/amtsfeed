@@ -9,7 +9,9 @@
     "generate-rss": "tsx scripts/generate-rss.ts",
     "stats": "tsx scripts/stats.ts",
     "update-robots": "tsx scripts/update-robots.ts",
-    "generate-metadata": "tsx scripts/generate-metadata.ts"
+    "generate-metadata": "tsx scripts/generate-metadata.ts",
+    "run-all-scrapers": "tsx run-all-scrapers.ts",
+    "normalize-updated-at": "tsx scripts/normalize-updated-at.ts"
   },
   "keywords": [],
   "author": "",

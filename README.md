@@ -90,13 +90,13 @@ pnpm generate-ical "wiki/Brandenburg/Landkreis Märkisch-Oderland/Amt Golzow"
 pnpm stats "wiki/Brandenburg/Landkreis Märkisch-Oderland/Amt Golzow"
 
 # Alle Scraper sequenziell laufen lassen + Report (Differenzen pro Kategorie, Failures, Drops)
-pnpm tsx scripts/run-all-scrapers.ts
+pnpm run-all-scrapers
 
 # Nur Scraper unter einem Pfadfragment laufen lassen
-pnpm tsx scripts/run-all-scrapers.ts "Landkreis Barnim"
+pnpm run-all-scrapers "Landkreis Barnim"
 
 # Nach einem Lauf updatedAt-Felder zurücksetzen, deren Item-Inhalt unverändert ist
-pnpm tsx scripts/normalize-updated-at.ts
+pnpm run normalize-updated-at
 ```
 
 ### `scripts/run-all-scrapers.ts`

@@ -111,12 +111,13 @@ pnpm run-all-scrapers
 pnpm normalize-updated-at   # nur echte Inhaltsänderungen behalten
 pnpm generate-rss           # rss.xml aus normalisierten JSONs
 pnpm generate-ical          # events.ics aus normalisierten JSONs
+pnpm generate-metadata      # wiki/metadata.json (Index für Weboberfläche)
 pnpm append-update-log      # neuen Block in UPDATES.md schreiben
 ```
 
 ### Vollständiger Tagesupdate-Workflow
 
-Wer das Datenset auf den aktuellen Stand bringen will (z.B. ein Update-Agent), führt **diese sechs Schritte in genau dieser Reihenfolge** aus — keine Zwischenschritte, keine zusätzlichen Entscheidungen:
+Wer das Datenset auf den aktuellen Stand bringen will (z.B. ein Update-Agent), führt **diese sieben Schritte in genau dieser Reihenfolge** aus — keine Zwischenschritte, keine zusätzlichen Entscheidungen:
 
 ```bash
 # 1. Alle Scraper sequenziell laufen lassen (~10 Min für ~125 Scraper)
@@ -131,10 +132,13 @@ pnpm generate-rss
 # 4. iCalendar-Feeds neu generieren
 pnpm generate-ical
 
-# 5. Änderungs-Log eintragen (schreibt nur, wenn echte Inhaltsdiffs existieren)
+# 5. wiki/metadata.json neu generieren (Index für Weboberfläche, Counts + Feed-Flags)
+pnpm generate-metadata
+
+# 6. Änderungs-Log eintragen (schreibt nur, wenn echte Inhaltsdiffs existieren)
 pnpm append-update-log
 
-# 6. Alles in einem Commit festhalten — Datum im ISO-Format YYYY-MM-DD
+# 7. Alles in einem Commit festhalten — Datum im ISO-Format YYYY-MM-DD
 git add -A
 git commit -m "chore: update $(date +%Y-%m-%d)"
 ```
@@ -142,8 +146,9 @@ git commit -m "chore: update $(date +%Y-%m-%d)"
 **Warum diese Reihenfolge:**
 
 - **2 vor 3+4:** `generate-rss`/`generate-ical` lesen die JSON-Dateien (inkl. `updatedAt`/`fetchedAt`) und schreiben sie in die Feed-Dateien. Ohne vorheriges `normalize-updated-at` würden RSS und iCal bei jedem Lauf neue Timestamps enthalten, selbst wenn sich nichts geändert hat — und damit unnötige Feed-Diffs erzeugen.
-- **3+4 vor 5:** Damit Feed-Änderungen (`rss.xml`, `events.ics`) ebenfalls Teil desselben Commits werden. `append-update-log` selbst betrachtet nur JSON-Dateien — die Feed-Files fließen in den Commit, werden aber nicht im Log gezählt.
-- **5 vor 6:** Damit `UPDATES.md` zusammen mit den eigentlichen Datenänderungen in einem Commit landet, nicht als Nachzügler.
+- **3+4 vor 5:** `generate-metadata` setzt die Flags `hasRss`/`hasIcal` in `wiki/metadata.json` auf Basis tatsächlich existierender `rss.xml`/`events.ics`-Dateien — also müssen die Feeds vorher aktuell sein.
+- **5 vor 6:** `append-update-log` schaut nur auf JSON-Dateien — die Metadaten-Generierung kann das Log nicht beeinflussen, gehört aber in denselben Commit wie die Feed-Updates.
+- **6 vor 7:** Damit `UPDATES.md` zusammen mit den eigentlichen Datenänderungen in einem Commit landet, nicht als Nachzügler.
 
 **Abbruchbedingungen:**
 

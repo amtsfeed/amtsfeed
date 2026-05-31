@@ -98,7 +98,41 @@ pnpm run-all-scrapers "Landkreis Barnim"
 
 # Nach einem Lauf updatedAt-Felder zurücksetzen, deren Item-Inhalt unverändert ist
 pnpm run normalize-updated-at
+
+# Änderungs-Log in UPDATES.md aktualisieren (neu/aktualisiert/entfernt pro Gemeinde+Kategorie)
+pnpm append-update-log
 ```
+
+**Empfohlene Reihenfolge nach einem Scraper-Lauf:**
+
+```bash
+pnpm run-all-scrapers
+pnpm normalize-updated-at   # nur echte Inhaltsänderungen behalten
+pnpm append-update-log      # neuen Block in UPDATES.md schreiben
+```
+
+### Vollständiger Tagesupdate-Workflow
+
+Wer das Datenset auf den aktuellen Stand bringen will (z.B. ein Update-Agent), führt **diese vier Schritte in genau dieser Reihenfolge** aus — keine Zwischenschritte, keine zusätzlichen Entscheidungen:
+
+```bash
+# 1. Alle Scraper sequenziell laufen lassen (~10 Min für ~115 Scraper)
+pnpm run-all-scrapers
+
+# 2. updatedAt-Felder zurücksetzen, wo sich am Inhalt nichts geändert hat
+pnpm normalize-updated-at
+
+# 3. Änderungs-Log eintragen (schreibt nur, wenn echte Inhaltsdiffs existieren)
+pnpm append-update-log
+
+# 4. Alles in einem Commit festhalten — Datum im ISO-Format YYYY-MM-DD
+git add -A
+git commit -m "chore: update $(date +%Y-%m-%d)"
+```
+
+Schritt 4 hat keinen Tippfehler-Spielraum: die Commit-Message ist **immer** `chore: update YYYY-MM-DD` mit dem heutigen Datum (durch `$(date +%Y-%m-%d)` automatisch). Wenn `pnpm run-all-scrapers` Failures meldet (Exit-Code 1) oder eine Kategorie auf 0 abfällt, wird **nicht commitet** — stattdessen die betroffene Quelle im Scraper reparieren und erneut laufen lassen.
+
+Wenn der Working Tree nach Schritt 2 leer ist (keine inhaltlichen Diffs), entfallen Schritte 3 und 4 — es gibt nichts zu commiten.
 
 ### `scripts/run-all-scrapers.ts`
 
@@ -114,6 +148,29 @@ Exit-Code 0 bei sauberem Lauf, 1 bei Failures oder Zero-after-nonzero — geeign
 ### `scripts/normalize-updated-at.ts`
 
 Vergleicht jede in der Working Tree modifizierte JSON-Datei (`news/events/amtsblatt/notices/robots.json`) gegen `git HEAD`. Wenn sich der Item-Inhalt (alle Felder außer `fetchedAt` und `updatedAt`) nicht geändert hat, wird der alte `updatedAt`-Zeitstempel wiederhergestellt — sowohl auf Item-Ebene als auch top-level der Datei. Damit bleibt `updatedAt` ein sinnvolles Signal („zuletzt inhaltlich geändert"), statt bei jedem Scraper-Lauf zu kippen.
+
+### `scripts/append-update-log.ts`
+
+Vergleicht den aktuellen Working Tree gegen `git HEAD` und schreibt einen neuen Block oben in `UPDATES.md` mit den per-Gemeinde-und-Kategorie aufgeschlüsselten Zählern:
+
+- **+N** — neue Items (ID war in HEAD nicht enthalten)
+- **~N** — aktualisierte Items (ID in beiden, Inhalt ohne `fetchedAt`/`updatedAt` unterschiedlich)
+- **-N** — entfernte Items (ID in HEAD, im Working Tree weg)
+
+Vergleicht **nur Item-Inhalte** (nicht Timestamps), daher idealerweise nach `normalize-updated-at` aufrufen. Gibt es keine echten Änderungen, bleibt `UPDATES.md` unverändert. Die Zeile pro Gemeinde wird nur ausgegeben, wenn mindestens eine Kategorie nicht null ist; unveränderte Kategorien stehen als `—`.
+
+Format eines Blocks:
+
+```markdown
+## 2026-05-31 19:12
+
+Insgesamt **N neu**, **M aktualisiert**, **K entfernt** in X Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | +1 | +3 / ~2 | — | — |
+| Landkreis Havelland (LK-Ebene) | +105 | — | +443 | — |
+```
 
 ## Datenquellen und Urheberrecht
 

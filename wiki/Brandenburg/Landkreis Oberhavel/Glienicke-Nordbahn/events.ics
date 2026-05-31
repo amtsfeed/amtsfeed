@@ -167,9 +167,9 @@ LOCATION:Seniorenclub\, Märkische Allee 72\, 16548 Glienicke/Nordbahn
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005712@amtsfeed.de
-DTSTAMP:20260506T180808Z
+DTSTAMP:20260526T090338Z
 DTSTART:20260602T163000Z
-SUMMARY:20. Sitzung der Gemeindevertretung Glienicke/Nordbahn
+SUMMARY:21. Sitzung der Gemeindevertretung Glienicke/Nordbahn
 URL:https://www.glienicke.eu/veranstaltungen/904005712-22451.html
 LOCATION:Mensa
 END:VEVENT
@@ -184,11 +184,20 @@ LOCATION:Nachbarschaftstreff Glienicke\, Eichenallee 10\, 16548 Glienicke
  -Nordbahn
 END:VEVENT
 BEGIN:VEVENT
+UID:glienicke-event-904005857@amtsfeed.de
+DTSTAMP:20260531T131534Z
+DTSTART:20260606T090000Z
+SUMMARY:5. Motorrad Gottesdienst
+URL:https://www.glienicke.eu/veranstaltungen/904005857-22451.html
+LOCATION:Kirche\, Gartenstraße 19\, 16548 Glienicke/Nordbahn
+END:VEVENT
+BEGIN:VEVENT
 UID:glienicke-event-904005824@amtsfeed.de
-DTSTAMP:20260506T180808Z
+DTSTAMP:20260526T090338Z
 DTSTART:20260607T070000Z
 DTEND:20260607T120000Z
-SUMMARY:Trödelmarkt an der Grundschule
+SUMMARY:Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentr
+ um Galerie Sonnengarten
 URL:https://www.glienicke.eu/veranstaltungen/904005824-22451.html
 LOCATION:Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen
   den Hausnummern 60 und 61
@@ -220,6 +229,24 @@ URL:https://www.glienicke.eu/veranstaltungen/904005666-22451.html
 LOCATION:Konferenzraum Neues Rathaus
 END:VEVENT
 BEGIN:VEVENT
+UID:glienicke-event-904005853@amtsfeed.de
+DTSTAMP:20260526T090338Z
+DTSTART:20260611T160000Z
+DTEND:20260901T220000Z
+SUMMARY:„Zeitläufe“ – Ausstellung des Künstlertreff Velten
+URL:https://www.glienicke.eu/veranstaltungen/904005853-22451.html
+LOCATION:Rathaus - Neubau\, Hauptstraße 21\, 16548 Glienicke/Nordbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005854@amtsfeed.de
+DTSTAMP:20260526T090338Z
+DTSTART:20260613T090000Z
+DTEND:20260613T140000Z
+SUMMARY:Familiensportfest des SV Glienicke
+URL:https://www.glienicke.eu/veranstaltungen/904005854-22451.html
+LOCATION:Dreifeldhalle\, Hauptstraße 64a\, 16548 Glienicke-Nordbahn
+END:VEVENT
+BEGIN:VEVENT
 UID:glienicke-event-904005714@amtsfeed.de
 DTSTAMP:20260506T180808Z
 DTSTART:20260615T163000Z
@@ -248,12 +275,38 @@ LOCATION:Nachbarschaftstreff Glienicke\, Eichenallee 10\, 16548 Glienicke
  -Nordbahn
 END:VEVENT
 BEGIN:VEVENT
+UID:glienicke-event-904005855@amtsfeed.de
+DTSTAMP:20260526T090338Z
+DTSTART:20260621T140000Z
+DTEND:20260621T190000Z
+SUMMARY:Fête de la Musique
+URL:https://www.glienicke.eu/veranstaltungen/904005855-22451.html
+LOCATION:Verteilt im ganzen Ort
+END:VEVENT
+BEGIN:VEVENT
 UID:glienicke-event-904005716@amtsfeed.de
 DTSTAMP:20260506T180808Z
 DTSTART:20260624T163000Z
 SUMMARY:15. Sitzung des Hauptausschusses
 URL:https://www.glienicke.eu/veranstaltungen/904005716-22451.html
 LOCATION:Vereinszimmer Dreifeldhalle
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005852@amtsfeed.de
+DTSTAMP:20260526T090338Z
+DTSTART:20260627T170000Z
+SUMMARY:Chanson Festival Brassens Basdorf zu Gast in Glienicke
+URL:https://www.glienicke.eu/veranstaltungen/904005852-22451.html
+LOCATION:Bürgerhaus\, Moskauer Straße 20\, 16548 Glienicke-Nordbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005856@amtsfeed.de
+DTSTAMP:20260531T131534Z
+DTSTART:20260702T163000Z
+SUMMARY:gemeinsame Sitzung des Hauptausschusses mit dem Mühlenebcker Lan
+ d
+URL:https://www.glienicke.eu/veranstaltungen/904005856-22451.html
+LOCATION:Bürgersaal Schildow
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005801@amtsfeed.de
@@ -266,20 +319,31 @@ LOCATION:Nachbarschaftstreff Glienicke\, Eichenallee 10\, 16548 Glienicke
  -Nordbahn
 END:VEVENT
 BEGIN:VEVENT
+UID:glienicke-event-904005851@amtsfeed.de
+DTSTAMP:20260526T090338Z
+DTSTART:20260704T080000Z
+DTEND:20260704T140000Z
+SUMMARY:Freiwillige Feuerwehr: Tag der offenen Tür
+URL:https://www.glienicke.eu/veranstaltungen/904005851-22451.html
+LOCATION:Freiwillige Feuerwehr\, Hattwichstraße 15\, 16548 Glienicke-Nor
+ dbahn
+END:VEVENT
+BEGIN:VEVENT
 UID:glienicke-event-904005825@amtsfeed.de
-DTSTAMP:20260506T180808Z
+DTSTAMP:20260526T090338Z
 DTSTART:20260705T070000Z
 DTEND:20260705T120000Z
-SUMMARY:Trödelmarkt an der Grundschule
+SUMMARY:Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentr
+ um Galerie Sonnengarten
 URL:https://www.glienicke.eu/veranstaltungen/904005825-22451.html
 LOCATION:Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen
   den Hausnummern 60 und 61
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005717@amtsfeed.de
-DTSTAMP:20260506T180808Z
+DTSTAMP:20260526T090338Z
 DTSTART:20260707T163000Z
-SUMMARY:21. Sitzung der Gemeindevertretung Glienicke/Nordbahn
+SUMMARY:22. Sitzung der Gemeindevertretung Glienicke/Nordbahn
 URL:https://www.glienicke.eu/veranstaltungen/904005717-22451.html
 LOCATION:Mensa
 END:VEVENT
@@ -322,10 +386,11 @@ LOCATION:Nachbarschaftstreff Glienicke\, Eichenallee 10\, 16548 Glienicke
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005826@amtsfeed.de
-DTSTAMP:20260506T180808Z
+DTSTAMP:20260526T090338Z
 DTSTART:20260802T070000Z
 DTEND:20260802T120000Z
-SUMMARY:Trödelmarkt an der Grundschule
+SUMMARY:Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentr
+ um Galerie Sonnengarten
 URL:https://www.glienicke.eu/veranstaltungen/904005826-22451.html
 LOCATION:Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen
   den Hausnummern 60 und 61
@@ -386,10 +451,11 @@ LOCATION:Nachbarschaftstreff Glienicke\, Eichenallee 10\, 16548 Glienicke
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005827@amtsfeed.de
-DTSTAMP:20260506T180808Z
+DTSTAMP:20260526T090338Z
 DTSTART:20260906T070000Z
 DTEND:20260906T120000Z
-SUMMARY:Trödelmarkt an der Grundschule
+SUMMARY:Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentr
+ um Galerie Sonnengarten
 URL:https://www.glienicke.eu/veranstaltungen/904005827-22451.html
 LOCATION:Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen
   den Hausnummern 60 und 61
@@ -466,10 +532,11 @@ LOCATION:Nachbarschaftstreff Glienicke\, Eichenallee 10\, 16548 Glienicke
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005828@amtsfeed.de
-DTSTAMP:20260506T180808Z
+DTSTAMP:20260526T090338Z
 DTSTART:20261004T070000Z
 DTEND:20261004T120000Z
-SUMMARY:Trödelmarkt an der Grundschule
+SUMMARY:Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentr
+ um Galerie Sonnengarten
 URL:https://www.glienicke.eu/veranstaltungen/904005828-22451.html
 LOCATION:Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen
   den Hausnummern 60 und 61
@@ -513,10 +580,11 @@ LOCATION:Nachbarschaftstreff Glienicke\, Eichenallee 10\, 16548 Glienicke
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005829@amtsfeed.de
-DTSTAMP:20260506T180808Z
+DTSTAMP:20260526T090338Z
 DTSTART:20261101T080000Z
 DTEND:20261101T130000Z
-SUMMARY:Trödelmarkt an der Grundschule
+SUMMARY:Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentr
+ um Galerie Sonnengarten
 URL:https://www.glienicke.eu/veranstaltungen/904005829-22451.html
 LOCATION:Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen
   den Hausnummern 60 und 61
@@ -593,10 +661,11 @@ LOCATION:Mensa
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005830@amtsfeed.de
-DTSTAMP:20260506T180808Z
+DTSTAMP:20260526T090338Z
 DTSTART:20261206T080000Z
 DTEND:20261206T130000Z
-SUMMARY:Trödelmarkt an der Grundschule
+SUMMARY:Trödelmarkt auf dem Parkplatz des EDEKA-Marktes im Einkaufszentr
+ um Galerie Sonnengarten
 URL:https://www.glienicke.eu/veranstaltungen/904005830-22451.html
 LOCATION:Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen
   den Hausnummern 60 und 61

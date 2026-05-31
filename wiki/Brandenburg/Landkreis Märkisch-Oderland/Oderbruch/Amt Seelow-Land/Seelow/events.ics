@@ -228,9 +228,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865450-2026-05-30-ausstellungseröffnung-erhard-thom
  s-skulpturen-und-zeichnungen.html@amtsfeed.de
-DTSTAMP:20260505T215635Z
+DTSTAMP:20260526T090326Z
 DTSTART:20260530T150000Z
-DTEND:20260531T140000Z
+DTEND:20260531T110000Z
 SUMMARY:Ausstellungseröffnung Erhard Thoms - Skulpturen und Zeichnungen
 URL:https://www.seelow.de/veranstaltungen/2865450/2026/05/30/ausstellungs
  eröffnung-erhard-thoms-skulpturen-und-zeichnungen.html
@@ -456,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2862298-2026-06-29-eröffnung-brandenburger-lesesomme
  r.html@amtsfeed.de
-DTSTAMP:20260505T215635Z
+DTSTAMP:20260531T131517Z
 DTSTART:20260629T140000Z
 DTEND:20260630T140000Z
 SUMMARY:Eröffnung Brandenburger Lesesommer
@@ -674,7 +674,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863548-2026-08-31-konzertlesung-ein-abend-mit-goethe
  -dem-teufel-steine-in-den-weg-legen.html@amtsfeed.de
-DTSTAMP:20260505T215638Z
+DTSTAMP:20260531T131518Z
 DTSTART:20260831T190000Z
 DTEND:20260901T140000Z
 SUMMARY:Konzertlesung - Ein Abend mit Goethe "Dem Teufel Steine in den We
@@ -801,7 +801,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863670-2026-09-28-lesung-mit-roland-lampe-ein-ringel
  natz-programm-mit-kinovorführung.html@amtsfeed.de
-DTSTAMP:20260505T215639Z
+DTSTAMP:20260531T131518Z
 DTSTART:20260928T190000Z
 DTEND:20260929T140000Z
 SUMMARY:Lesung mit Roland Lampe "Ein Ringelnatz-Programm" mit Kinovorfüh
@@ -914,7 +914,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863697-2026-10-31-halloweenfeuer-und-party-in-werbig
  .html@amtsfeed.de
-DTSTAMP:20260505T215639Z
+DTSTAMP:20260531T131519Z
 DTSTART:20261031T170000Z
 DTEND:20261101T140000Z
 SUMMARY:Halloweenfeuer- und party in Werbig
@@ -1128,7 +1128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865426-2026-11-29-keramikausstellung-zum-1.-advent.h
  tml@amtsfeed.de
-DTSTAMP:20260505T215639Z
+DTSTAMP:20260531T131520Z
 DTSTART:20261129T150000Z
 DTEND:20261130T140000Z
 SUMMARY:Keramikausstellung zum 1. Advent
@@ -1170,7 +1170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865430-2026-12-14-weihnachtskino-mit-buchbasar.html@
  amtsfeed.de
-DTSTAMP:20260505T215639Z
+DTSTAMP:20260531T131522Z
 DTSTART:20261214T190000Z
 DTEND:20261215T140000Z
 SUMMARY:Weihnachtskino mit Buchbasar
@@ -1190,7 +1190,7 @@ LOCATION:Kulturhaus Seelow
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865433-2027-01-16-neujahrsfeuer.html@amtsfeed.de
-DTSTAMP:20260505T215641Z
+DTSTAMP:20260531T131523Z
 DTSTART:20270116T160000Z
 DTEND:20270117T140000Z
 SUMMARY:Neujahrsfeuer

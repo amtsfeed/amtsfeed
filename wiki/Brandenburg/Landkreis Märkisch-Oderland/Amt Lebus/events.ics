@@ -7,27 +7,6 @@ X-WR-CALNAME:Amt Lebus
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Lebus
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2486339@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-SUMMARY:Sport für Senioren in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/05/06/sport-fü
- r-senioren-in-podelzig.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464908@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-SUMMARY:Fleischerwagen Fleischerei Höhne
-URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/05/06/fleischer
- wagen-fleischerei-höhne.html
-DESCRIPTION:am Dorfteich Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2846347@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20260506
@@ -40,57 +19,6 @@ DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
 END:VEVENT
 BEGIN:VEVENT
-UID:2464904@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-SUMMARY:&bdquo\;Yoga &ndash\; sanft und entspannend&ldquo\;
-URL:https://www.amt-lebus.de/veranstaltungen/2464904/2026/05/06/yoga--san
- ft-und-entspannend.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2820928@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-SUMMARY:Yoga - Anfänger & Wiedereinsteiger
-URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/05/06/yoga-anf
- änger-wiedereinsteiger.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2538590@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/05/07/tischtenn
- is.html
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464906@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/05/08/selbstver
- teidigung-für-kinder-von-5-13-jahren.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464907@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/05/08/selbstver
- teidigung-für-jugendliche-ab-13-jahren.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2895394@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20260508
@@ -99,18 +27,6 @@ SUMMARY:81 Jahre Kiregsende - die Lesung Schicksale 1945in Lebus
 URL:https://www.amt-lebus.de/veranstaltungen/2895394/2026/05/08/81-jahre-
  kiregsende-die-lesung-schicksale-1945in-lebus.html
 LOCATION:Haus Lebuser Land
-END:VEVENT
-BEGIN:VEVENT
-UID:2464910@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Bäckerwagen in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/05/09/bäckerwa
- gen-in-podelzig.html
-DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
-  Dorfteich
-LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2851027@amtsfeed.de
@@ -167,61 +83,6 @@ SUMMARY:Hof - Trödel in der Schönfließer Straße in Lebus
 URL:https://www.amt-lebus.de/veranstaltungen/2898782/2026/05/09/hof-tröd
  el-in-der-schönfließer-straße-in-lebus.html
 LOCATION:Lebus\, Schönfließer Starsse  am alten Bahnübergang
-END:VEVENT
-BEGIN:VEVENT
-UID:2402834@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-SUMMARY:Kreativgruppe in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/05/11/kreativgr
- uppe-in-podelzig.html
-DESCRIPTION:in Gemeindezentrum
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464902@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/05/11/tischtenn
- is.html
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464900@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-SUMMARY:Dart für Jedermann
-URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/05/11/dart-für
- -jedermann.html
-DESCRIPTION:Sportlerheim Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464901@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-SUMMARY:Selbstverteidigung für Frauen
-URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/05/12/selbstver
- teidigung-für-frauen.html
-DESCRIPTION:in Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2419554@amtsfeed.de
-DTSTAMP:20260506T202027Z
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-SUMMARY:Posaunenchor  Probe
-URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/05/12/posaunenc
- hor-probe.html
-DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
-LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2890763@amtsfeed.de
@@ -288,6 +149,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2852954/2026/05/24/gestgotte
 LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2906702@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Natur - Exkursion Lietzen  - Döbberin
+URL:https://www.amt-lebus.de/veranstaltungen/2906702/2026/05/29/natur-exk
+ ursion-lietzen-döbberin.html
+LOCATION:Treffpunkt: Falkenhagener Straße\, Lietzen
+END:VEVENT
+BEGIN:VEVENT
 UID:2852961@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20260530
@@ -310,6 +181,30 @@ URL:https://www.amt-lebus.de/veranstaltungen/2881863/2026/05/30/rockfesti
 LOCATION:Bischofsplatz in Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2904704@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Paulinenhof Trödelmarkt in Döbberin
+URL:https://www.amt-lebus.de/veranstaltungen/2904704/2026/05/30/paulinenh
+ of-trödelmarkt-in-döbberin.html
+LOCATION:Döbberin
+END:VEVENT
+BEGIN:VEVENT
+UID:2901689@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Kulturstark: Konzert Detlef Bunk und Open Stage
+URL:https://www.amt-lebus.de/veranstaltungen/2901689/2026/05/30/kultursta
+ rk-konzert-detlef-bunk-und-open-stage.html
+DESCRIPTION:« Alle Veranstaltungen Kulturstark: Konzert Detlef Bunk und 
+ Open Stage 30. Mai | 19:00   Im Rahmen der Reihe „Kulturstark“\, unt
+ erstützt durch die Beisheim Stiftung\, begrüßen wir am 30.05.2026 um 1
+ 9 Uhr den renommierten Akustikgitarristen ...
+LOCATION:Speichercafé im Ökospeicher Wulkow
+END:VEVENT
+BEGIN:VEVENT
 UID:2898786@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20260531
@@ -318,6 +213,123 @@ SUMMARY:11. Reitweiner Trödelmarkt
 URL:https://www.amt-lebus.de/veranstaltungen/2898786/2026/05/31/11.-reitw
  einer-trödelmarkt.html
 LOCATION:Gemeinde Reitwein
+END:VEVENT
+BEGIN:VEVENT
+UID:2908343@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Kinderfest in Reitwein
+URL:https://www.amt-lebus.de/veranstaltungen/2908343/2026/05/31/kinderfes
+ t-in-reitwein.html
+LOCATION:Sportplatz Reitwein
+END:VEVENT
+BEGIN:VEVENT
+UID:2402834@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Kreativgruppe in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/06/01/kreativgr
+ uppe-in-podelzig.html
+DESCRIPTION:in Gemeindezentrum
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464902@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/06/01/tischtenn
+ is.html
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464900@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Dart für Jedermann
+URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/06/01/dart-für
+ -jedermann.html
+DESCRIPTION:Sportlerheim Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464901@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Selbstverteidigung für Frauen
+URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/06/02/selbstver
+ teidigung-für-frauen.html
+DESCRIPTION:in Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2419554@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Posaunenchor  Probe
+URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/06/02/posaunenc
+ hor-probe.html
+DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
+LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2486339@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Sport für Senioren in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/06/03/sport-fü
+ r-senioren-in-podelzig.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464908@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Fleischerwagen Fleischerei Höhne
+URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/06/03/fleischer
+ wagen-fleischerei-höhne.html
+DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464904@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:&bdquo\;Yoga &ndash\; sanft und entspannend&ldquo\;
+URL:https://www.amt-lebus.de/veranstaltungen/2464904/2026/06/03/yoga--san
+ ft-und-entspannend.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2820928@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Yoga - Anfänger & Wiedereinsteiger
+URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/06/03/yoga-anf
+ änger-wiedereinsteiger.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2538590@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/06/04/tischtenn
+ is.html
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2890766@amtsfeed.de
@@ -330,6 +342,38 @@ URL:https://www.amt-lebus.de/veranstaltungen/2890766/2026/06/04/treff-am-
 DESCRIPTION:Der bewegte Treff am Donnerstag - aktiv durchs Dorf  - Donne
  rstag ab 19:00 Uhr - am Gemeindezentrum  bitte in bequemer unddem Wetter
   entsprechen der Kleidung erscheinen
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464906@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/06/05/selbstver
+ teidigung-für-kinder-von-5-13-jahren.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464907@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/06/05/selbstver
+ teidigung-für-jugendliche-ab-13-jahren.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464910@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Bäckerwagen in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/06/06/bäckerwa
+ gen-in-podelzig.html
+DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
+  Dorfteich
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
@@ -356,6 +400,27 @@ DESCRIPTION:Festwiese in Schönfließ
 LOCATION:Schönfließ
 END:VEVENT
 BEGIN:VEVENT
+UID:2899522@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:3. Kindertagfest zum Internationalen Kindertag in Alt Zeschdorf
+URL:https://www.amt-lebus.de/veranstaltungen/2899522/2026/06/06/3.-kinder
+ tagfest-zum-internationalen-kindertag-in-alt-zeschdorf.html
+LOCATION:Alt Zeschdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:2900910@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:HOFTRÖDEL in Lebus
+URL:https://www.amt-lebus.de/veranstaltungen/2900910/2026/06/07/hoftröde
+ l-in-lebus.html
+DESCRIPTION:Verschiedene Verkäufer laden ein zum HOFTRÖDEL
+LOCATION:Am Bahnhof 3a Lebus
+END:VEVENT
+BEGIN:VEVENT
 UID:2846351@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20260610
@@ -368,6 +433,26 @@ DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
 END:VEVENT
 BEGIN:VEVENT
+UID:2904718@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Spielenachmittag im Kultrhaus Lebus
+URL:https://www.amt-lebus.de/veranstaltungen/2904718/2026/06/10/spielenac
+ hmittag-im-kultrhaus-lebus.html
+LOCATION:Kulturhaus Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2906030@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Jubiläumskonzert der Jungen Camerata Dresen im Kulturhaus Seelow
+URL:https://www.amt-lebus.de/veranstaltungen/2906030/2026/06/12/jubiläum
+ skonzert-der-jungen-camerata-dresen-im-kulturhaus-seelow.html
+LOCATION:Kulturhaus Seelow
+END:VEVENT
+BEGIN:VEVENT
 UID:2852964@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20260613
@@ -376,6 +461,66 @@ SUMMARY:Theaterstück an der Oder
 URL:https://www.amt-lebus.de/veranstaltungen/2852964/2026/06/13/theaterst
  ück-an-der-oder.html
 LOCATION:Anglerheim Parkplatz an der Oder
+END:VEVENT
+BEGIN:VEVENT
+UID:2900147@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Kirchturmfest in Hohenjesar
+URL:https://www.amt-lebus.de/veranstaltungen/2900147/2026/06/13/kirchturm
+ fest-in-hohenjesar.html
+LOCATION:Kirche Hohenjesar
+END:VEVENT
+BEGIN:VEVENT
+UID:2907249@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:13. Zeschdorfer Kinonacht - Dorfkino im Kulturhaus Alt Zeschdorf
+URL:https://www.amt-lebus.de/veranstaltungen/2907249/2026/06/13/13.-zesch
+ dorfer-kinonacht-dorfkino-im-kulturhaus-alt-zeschdorf.html
+LOCATION:Kulturhaus Alt Zeschdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:2909092@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Kirchturmfestin Hohenjesar
+URL:https://www.amt-lebus.de/veranstaltungen/2909092/2026/06/13/kirchturm
+ festin-hohenjesar.html
+LOCATION:Kirche Hohenjesar
+END:VEVENT
+BEGIN:VEVENT
+UID:2904721@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Fahrt zur Therme
+URL:https://www.amt-lebus.de/veranstaltungen/2904721/2026/06/16/fahrt-zur
+ -therme.html
+LOCATION:Treffpunkt : Postkasten Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2900148@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Stummfilmkino mit Klanierbegleitung
+URL:https://www.amt-lebus.de/veranstaltungen/2900148/2026/06/19/stummfilm
+ kino-mit-klanierbegleitung.html
+LOCATION:Kirche Hohenjesar
+END:VEVENT
+BEGIN:VEVENT
+UID:2902409@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Das Wanderkino an der Kirche Hohenjesar
+URL:https://www.amt-lebus.de/veranstaltungen/2902409/2026/06/19/das-wande
+ rkino-an-der-kirche-hohenjesar.html
+LOCATION:Kirche Hohenjesar
 END:VEVENT
 BEGIN:VEVENT
 UID:2890781@amtsfeed.de
@@ -401,6 +546,61 @@ DESCRIPTION:Endlich beginnt der kartenvorverkauf! Am 20. Juni 2026 ab 18
  Musik um einen Oderbruch-Verbrecher. Schnappt euch die Federboa und den F
  rack. Oder kommt\, wie ihr wollt\, aber kommt!
 LOCATION:Gemeinde Reitwein
+END:VEVENT
+BEGIN:VEVENT
+UID:2900163@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:21. Schlossseeturnier in Alt Zeschdorf
+URL:https://www.amt-lebus.de/veranstaltungen/2900163/2026/06/20/21.-schlo
+ ssseeturnier-in-alt-zeschdorf.html
+LOCATION:Alt Zeschdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:2907775@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Ein literarische  spurensuche im Museum Haus Lebuser Land
+URL:https://www.amt-lebus.de/veranstaltungen/2907775/2026/06/20/ein-liter
+ arische-spurensuche-im-museum-haus-lebuser-land.html
+DESCRIPTION:mit Herrn Dr. Szalai
+LOCATION:Haus Lebuser Land
+END:VEVENT
+BEGIN:VEVENT
+UID:2907752@amtsfeed.de
+DTSTAMP:20260531T131505Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Sommernacht im Museum
+URL:https://www.amt-lebus.de/veranstaltungen/2907752/2026/06/20/sommernac
+ ht-im-museum.html
+LOCATION:Haus Lebuser Land
+END:VEVENT
+BEGIN:VEVENT
+UID:2904724@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Spielenachmittag im Kultrhaus Lebus
+URL:https://www.amt-lebus.de/veranstaltungen/2904724/2026/06/24/spielenac
+ hmittag-im-kultrhaus-lebus.html
+LOCATION:Kulturhaus Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2904770@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Unternehmerfrühstück - zusammen vor Ort
+URL:https://www.amt-lebus.de/veranstaltungen/2904770/2026/06/26/unternehm
+ erfrühstück-zusammen-vor-ort.html
+DESCRIPTION:Am Freitag \, 26. Juni 2026 findet ab 09:00 Uhr im Haus Licht
+ blick\, Karl - Marx - Str. 2\, 15324 Letschin\, ein Unternehmerfrühstuck
+  im Rahmen des Interkommunalen Wirtschaftstreffens der Oderlandregion sta
+ tt.
+LOCATION:Haus Lichtblick\, Karl - Marx - Str. 2\, 15324 Letschin
 END:VEVENT
 BEGIN:VEVENT
 UID:2843723@amtsfeed.de
@@ -435,6 +635,20 @@ URL:https://www.amt-lebus.de/veranstaltungen/2852973/2026/06/27/weiße-na
 DESCRIPTION:Gottesdienst\, anschließend Essen und Musik\, alle Gäste er
  scheinen in weißer Kleidung
 LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2900157@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Strandfest in Zeschdorf
+URL:https://www.amt-lebus.de/veranstaltungen/2900157/2026/06/27/strandfes
+ t-in-zeschdorf.html
+DESCRIPTION:Unter dem Motto " Grenzenloser Sommer" lädt die Gemeinde Zes
+ chdorf zum beliebten Strandfest am Badestrand Alt Zeschdorf ein.  Verein
+ e\, Kitas \, Schule im Grünen\,  feuerwehren\, Jäger\,  Paramedic Bra
+ ndenburg und viele angagierte Bürger gestalten das ...
+LOCATION:Alt Zeschdorf
 END:VEVENT
 BEGIN:VEVENT
 UID:2837715@amtsfeed.de
@@ -499,6 +713,44 @@ DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
 END:VEVENT
 BEGIN:VEVENT
+UID:2904726@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Fahrt zur Therme
+URL:https://www.amt-lebus.de/veranstaltungen/2904726/2026/07/14/fahrt-zur
+ -therme.html
+LOCATION:Treffpunkt : Postkasten Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2899565@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Das Oderbruch lesen  - Kirche Lebus
+URL:https://www.amt-lebus.de/veranstaltungen/2899565/2026/07/15/das-oderb
+ ruch-lesen-kirche-lebus.html
+DESCRIPTION:Die Pfanne - eine Revue über  Scmelztiegel Oderbruch in Spi
+ egel der Menschen\, die in ihm tätig waren. Das Oderbruch erweckt einen 
+ abgelegenen Eindruck\, geprägt von weitläufigen Feldern\, Wasser und we
+ nigen Dörfern. Es ist erstaunlich\, welche ...
+LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2900159@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Sonnenfest am Gemeindehaus und Solarpark Petershagen
+URL:https://www.amt-lebus.de/veranstaltungen/2900159/2026/07/19/sonnenfes
+ t-am-gemeindehaus-und-solarpark-petershagen.html
+DESCRIPTION:Am Samsatg\, 19. Juni 2026 veranstaltendie Firma Naturstrom u
+ nd der Petershagener Dorfverein gemeinsam das Sonnenfest. Einwohnerinnen 
+ und Einwohner sowie Gäste erwartet ein gemütliches  Beisammensein mit 
+ Informationen\, kulinaridchen leckereine\, ...
+LOCATION:Petershagen
+END:VEVENT
+BEGIN:VEVENT
 UID:2846307@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20260801
@@ -529,6 +781,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2853003/2026/08/01/sommerfol
 LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2900153@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:Gottesdienst an der Quelle am Reiterhof Alt Zeschdorf
+URL:https://www.amt-lebus.de/veranstaltungen/2900153/2026/08/02/gottesdie
+ nst-an-der-quelle-am-reiterhof-alt-zeschdorf.html
+LOCATION:Alt Zeschdorf
+END:VEVENT
+BEGIN:VEVENT
 UID:2846355@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20260805
@@ -549,6 +811,16 @@ SUMMARY:East German Classics in Reitwein
 URL:https://www.amt-lebus.de/veranstaltungen/2889425/2026/08/07/east-germ
  an-classics-in-reitwein.html
 LOCATION:Gemeinde Reitwein
+END:VEVENT
+BEGIN:VEVENT
+UID:2904727@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:Fahrt zur Therme
+URL:https://www.amt-lebus.de/veranstaltungen/2904727/2026/08/11/fahrt-zur
+ -therme.html
+LOCATION:Treffpunkt : Postkasten Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2881848@amtsfeed.de
@@ -659,6 +931,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2846432/2026/09/12/2.-krimis
 LOCATION:Amtsscheune Treplin
 END:VEVENT
 BEGIN:VEVENT
+UID:2904729@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Fahrt zur Therme
+URL:https://www.amt-lebus.de/veranstaltungen/2904729/2026/09/15/fahrt-zur
+ -therme.html
+LOCATION:Treffpunkt : Postkasten Lebus
+END:VEVENT
+BEGIN:VEVENT
 UID:2888059@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20260917
@@ -707,6 +989,26 @@ DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
 END:VEVENT
 BEGIN:VEVENT
+UID:2904732@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Fahrt zur Therme
+URL:https://www.amt-lebus.de/veranstaltungen/2904732/2026/10/13/fahrt-zur
+ -therme.html
+LOCATION:Treffpunkt : Postkasten Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2904739@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Jahresgeburtstagsfeier der Volksoloidarität in lebus
+URL:https://www.amt-lebus.de/veranstaltungen/2904739/2026/10/20/jahresgeb
+ urtstagsfeier-der-volksoloidarität-in-lebus.html
+LOCATION:Kulturhaus Lebus
+END:VEVENT
+BEGIN:VEVENT
 UID:2846367@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20261104
@@ -727,6 +1029,16 @@ SUMMARY:3. Krimischeune in Treplin
 URL:https://www.amt-lebus.de/veranstaltungen/2846436/2026/11/07/3.-krimis
  cheune-in-treplin.html
 LOCATION:Amtsscheune Treplin
+END:VEVENT
+BEGIN:VEVENT
+UID:2904734@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Fahrt zur Therme
+URL:https://www.amt-lebus.de/veranstaltungen/2904734/2026/11/10/fahrt-zur
+ -therme.html
+LOCATION:Treffpunkt : Postkasten Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2873357@amtsfeed.de
@@ -760,6 +1072,26 @@ URL:https://www.amt-lebus.de/veranstaltungen/2846376/2026/12/02/bowling-f
 DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
  4 5535 E-mail  g.e.garschhammer(at)gmail.com
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
+END:VEVENT
+BEGIN:VEVENT
+UID:2904735@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Fahrt zur Therme
+URL:https://www.amt-lebus.de/veranstaltungen/2904735/2026/12/08/fahrt-zur
+ -therme.html
+LOCATION:Treffpunkt : Postkasten Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2904743@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Seniorenweihnachtsfeier in Lebus
+URL:https://www.amt-lebus.de/veranstaltungen/2904743/2026/12/10/seniorenw
+ eihnachtsfeier-in-lebus.html
+LOCATION:Kulturhaus Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2846438@amtsfeed.de

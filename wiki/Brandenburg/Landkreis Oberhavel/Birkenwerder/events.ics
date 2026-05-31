@@ -51,6 +51,29 @@ LOCATION:Gemeindehaus der evangelischen Kirche\, Hauptstrasse 52\, Birken
  werder
 END:VEVENT
 BEGIN:VEVENT
+UID:birkenwerder-event-gemeindebibliothek-birkenwerder-2@amtsfeed.de
+DTSTAMP:20260526T090336Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:MONATSRÄTSEL mit Preisen in der Gemeindebibliothek
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/gemeindebibliothek-birkenwerder-2
+LOCATION:16547 Birkenwerder\, Summter Str. 04
+END:VEVENT
+BEGIN:VEVENT
+UID:birkenwerder-event-ich-bin-bibliotheksfit-der-bibliotheksfuehrerschei
+ n-fuer-kita-kinder@amtsfeed.de
+DTSTAMP:20260526T090336Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:„Ich bin Bib(liotheks)fit - Der Bibliotheksführerschein für K
+ ita-Kinder“
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/ich-bin-bibliotheksfit-der-bibliotheksfuehrerschein-fuer-kita-ki
+ nder
+LOCATION:Rathaus Birkenwerder\, Ratssaal
+END:VEVENT
+BEGIN:VEVENT
 UID:birkenwerder-event-energiesprechstunde-06a2cbd1be45e13d81c03cdf26e4df
  63@amtsfeed.de
 DTSTAMP:20260506T202251Z
@@ -190,5 +213,38 @@ SUMMARY:Vernetzungstreffen für Alleinerziehende und ihre Kinder
 URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
  /details/vernetzungstreffen-fuer-alleinerziehende-und-ihre-kinder-1
 LOCATION:Jugendclub CORN\, Hauptstraße 112\, 16547 Birkenwerder
+END:VEVENT
+BEGIN:VEVENT
+UID:birkenwerder-event-vernissage-ausstellung-blick-raeume@amtsfeed.de
+DTSTAMP:20260531T131533Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Vernissage Ausstellung Blick Räume
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/vernissage-ausstellung-blick-raeume
+LOCATION:Kommunale Galerie47 e.V. • Hauptstraße 47 • 16547 Birkenwer
+ der
+END:VEVENT
+BEGIN:VEVENT
+UID:birkenwerder-event-feier-zum-kindertag-im-jugendclub-corn@amtsfeed.de
+DTSTAMP:20260526T090336Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Feier zum Kindertag im Jugendclub CORN
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/feier-zum-kindertag-im-jugendclub-corn
+LOCATION:Kinder- und Jugendfreizeithaus CORN\, Hauptstraße 112\, 16547 B
+ irkenwerder
+END:VEVENT
+BEGIN:VEVENT
+UID:birkenwerder-event-eulen-gottesdienst-ein-herz-fuer-die-schleiereule@
+ amtsfeed.de
+DTSTAMP:20260531T131533Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Eulen-Gottesdienst "Ein Herz für die Schleiereule"
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/eulen-gottesdienst-ein-herz-fuer-die-schleiereule
+LOCATION:Evangelischen Kirche Birkenwerder
 END:VEVENT
 END:VCALENDAR

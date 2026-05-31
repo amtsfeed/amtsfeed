@@ -236,6 +236,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/5-Bran
  31.1089.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1124@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+SUMMARY:Abstimmung Bürgerhaushalt:
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Abstim
+ mung-B%C3%BCrgerhaushalt-.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=
+ 3631.1124.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-1118@amtsfeed.de
 DTSTAMP:20260506T180044Z
 DTSTART;VALUE=DATE:20260530
@@ -257,6 +267,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am
  eg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1121@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260627
+SUMMARY:Ausstellung Kinderarmut
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ausste
+ llung-Kinderarmut.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.112
+ 1.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-896@amtsfeed.de
 DTSTAMP:20260506T180044Z
 DTSTART;VALUE=DATE:20260602
@@ -266,5 +286,205 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/13-Sit
  zung-des-Ausschusses-f%C3%BCr-Bau-und-Stadtentwicklung.php?object=tx\,363
  1.4.1&amp\;ModID=11&amp\;FID=3631.896.1&amp\;NavID=3631.15&amp\;La=1&amp\
  ;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1007@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1007.1&amp\;Nav
+ ID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1097@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Auf 'n Kaffee mit der Bürgermeisterin
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Auf-n-
+ Kaffee-mit-der-B%C3%BCrgermeisterin.php?object=tx\,3631.4.1&amp\;ModID=11
+ &amp\;FID=3631.1097.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfor
+ t=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-960@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Fahrradcodierung der Polizei
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fahrra
+ dcodierung-der-Polizei.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=363
+ 1.960.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-895@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:13. Sitzung des Ausschusses für Soziales und Bürgerservice
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/13-Sit
+ zung-des-Ausschusses-f%C3%BCr-Soziales-und-B%C3%BCrgerservice.php?object=
+ tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.895.1&amp\;NavID=3631.15&amp\;La
+ =1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-963@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:125 Jahre Stadtbibliothek
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/125-Ja
+ hre-Stadtbibliothek.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.9
+ 63.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1066@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Fit am Rathaus: Yoga für einen gesunden Rücken (Yogalinchen)
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am
+ -Rathaus-Yoga-f%C3%BCr-einen-gesunden-R%C3%BCcken-Yogalinchen-.php?object
+ =tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1066.1&amp\;NavID=3631.15&amp\;
+ La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-894@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:13. Sitzung des Ausschusses für Sicherheit und Ordnung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/13-Sit
+ zung-des-Ausschusses-f%C3%BCr-Sicherheit-und-Ordnung.php?object=tx\,3631.
+ 4.1&amp\;ModID=11&amp\;FID=3631.894.1&amp\;NavID=3631.15&amp\;La=1&amp\;s
+ freg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1008@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1008.1&amp\;Nav
+ ID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1112@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Netzwerk Velten: Pflegebörse
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Netzwe
+ rk-Velten-Pflegeb%C3%B6rse.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID
+ =3631.1112.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-893@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:13. Sitzung des Ausschusses für Haushalt\, Wirtschaft und Finanz
+ en
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/13-Sit
+ zung-des-Ausschusses-f%C3%BCr-Haushalt-Wirtschaft-und-Finanzen.php?object
+ =tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.893.1&amp\;NavID=3631.15&amp\;L
+ a=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-892@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:13. Sitzung des Hauptausschusses
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/13-Sit
+ zung-des-Hauptausschusses.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=
+ 3631.892.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-977@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260615
+SUMMARY:Haka Rugby Global Elite Camp 2026
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Haka-R
+ ugby-Global-Elite-Camp-2026.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FI
+ D=3631.977.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-982@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:40 Jahre Jugendfeuerwehr: Tag der offenen Tür
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/40-Jah
+ re-Jugendfeuerwehr-Tag-der-offenen-T%C3%BCr.php?object=tx\,3631.4.1&amp\;
+ ModID=11&amp\;FID=3631.982.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&am
+ p\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1044@amtsfeed.de
+DTSTAMP:20260526T090410Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Seniorenfest
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Senior
+ enfest.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1044.1&amp\;Na
+ vID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1067@amtsfeed.de
+DTSTAMP:20260531T131608Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Fit am Rathaus: Zumba Original (Wannis Tanzstudio)
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am
+ -Rathaus-Zumba-Original-Wannis-Tanzstudio-.php?object=tx\,3631.4.1&amp\;M
+ odID=11&amp\;FID=3631.1067.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&am
+ p\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1009@amtsfeed.de
+DTSTAMP:20260531T131608Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1009.1&amp\;Nav
+ ID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-970@amtsfeed.de
+DTSTAMP:20260531T131608Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Kinderfest am Bernsteinsee
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Kinder
+ fest-am-Bernsteinsee.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.
+ 970.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1113@amtsfeed.de
+DTSTAMP:20260531T131608Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Jubiläumskonzert Voce libera Velten
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Jubil%
+ C3%A4umskonzert-Voce-libera-Velten-.php?object=tx\,3631.4.1&amp\;ModID=11
+ &amp\;FID=3631.1113.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;sfor
+ t=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1068@amtsfeed.de
+DTSTAMP:20260531T131608Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Fit am Rathaus: Liebscher & Bracht (Jens Ulmann)
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am
+ -Rathaus-Liebscher-Bracht-Jens-Ulmann-.php?object=tx\,3631.4.1&amp\;ModID
+ =11&amp\;FID=3631.1068.1&amp\;NavID=3631.15&amp\;La=1&amp\;sfreg=1&amp\;s
+ fort=1
 END:VEVENT
 END:VCALENDAR

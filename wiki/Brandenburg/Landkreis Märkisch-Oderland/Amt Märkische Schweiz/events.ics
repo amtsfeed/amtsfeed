@@ -7,6 +7,17 @@ X-WR-CALNAME:Amt Märkische Schweiz
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Märkische Schweiz
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:900029200@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Ausstellung: Momente der Vergänglichkeit - Malerei von Diana Jus
+ tus
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausste
+ llung-momente-der-vergaenglichkeit-malerei-von-diana-justus-900029200-344
+ 90.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
 UID:900024806@amtsfeed.de
 DTSTAMP:20260505T140534Z
 DTSTART;VALUE=DATE:20260505
@@ -406,24 +417,6 @@ DTEND;VALUE=DATE:20260509
 SUMMARY:Open Air- Ausstellung in Pritzhagen
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
  ir-ausstellung-in-pritzhagen-900024809-34490.html?naviID=0
-END:VEVENT
-BEGIN:VEVENT
-UID:900028467@amtsfeed.de
-DTSTAMP:20260506T142157Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Ausstellung: Sandra Hübner – Malerei
-URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausste
- llung-sandra-huebner-malerei-900028467-34490.html?naviID=0
-END:VEVENT
-BEGIN:VEVENT
-UID:900029266@amtsfeed.de
-DTSTAMP:20260506T142157Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Ausstellung: Stille Horizonte - Innere Landschaften
-URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausste
- llung-stille-horizonte-innere-landschaften-900029266-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
 UID:900029403@amtsfeed.de
@@ -1564,17 +1557,6 @@ URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
  ir-ausstellung-in-pritzhagen-900024821-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
-UID:900028227@amtsfeed.de
-DTSTAMP:20260506T142157Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-SUMMARY:Als ich nachher von dir ging - Eine Kunstausstellung zum 19. Kün
- stlerpleinair der KÖzwölf
-URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/als-ic
- h-nachher-von-dir-ging-eine-kunstausstellung-zum-19-kuenstlerpleinair-der
- -koezwoelf-900028227-34490.html?naviID=0
-END:VEVENT
-BEGIN:VEVENT
 UID:900029415@amtsfeed.de
 DTSTAMP:20260506T142157Z
 DTSTART;VALUE=DATE:20260520
@@ -2250,6 +2232,15 @@ URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lese-u
  =0
 END:VEVENT
 BEGIN:VEVENT
+UID:900029674@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260526T190000Z
+SUMMARY:Lese- und Erzählabend im Gemeindehaus Rehfelde Dorf
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lese-u
+ nd-erzaehlabend-im-gemeindehaus-rehfelde-dorf-900029674-34490.html?naviID
+ =0
+END:VEVENT
+BEGIN:VEVENT
 UID:900025946@amtsfeed.de
 DTSTAMP:20260506T142157Z
 DTSTART:20260526T193000Z
@@ -2330,9 +2321,18 @@ URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lineda
  nce-kurs-aufbaukurs-900026114-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
-UID:900027674@amtsfeed.de
-DTSTAMP:20260506T142157Z
+UID:900029670@amtsfeed.de
+DTSTAMP:20260526T090319Z
 DTSTART:20260527T170000Z
+SUMMARY:Workshop: Grünflächen und Blühwiesen in Klosterdorf
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/worksh
+ op-gruenflaechen-und-bluehwiesen-in-klosterdorf-900029670-34490.html?navi
+ ID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027674@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260527T173000Z
 SUMMARY:Breakdance Kurs
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/breakd
  ance-kurs-900027674-34490.html?naviID=0
@@ -2345,14 +2345,6 @@ DTEND:20260527T200000Z
 SUMMARY:Zumba-Kurs im Familienzentrum Rehfelde
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/zumba-
  kurs-im-familienzentrum-rehfelde-900022495-34490.html?naviID=0
-END:VEVENT
-BEGIN:VEVENT
-UID:900029226@amtsfeed.de
-DTSTAMP:20260506T142157Z
-DTSTART:20260527T190000Z
-SUMMARY:Buchvorstellung & Gespräch: "Lauter Hass"
-URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/buchvo
- rstellung-gespraech-lauter-hass-900029226-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
 UID:900029643@amtsfeed.de
@@ -2399,15 +2391,6 @@ URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
  ir-ausstellung-in-pritzhagen-900024829-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
-UID:900025599@amtsfeed.de
-DTSTAMP:20260506T142157Z
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20260529
-SUMMARY:Tour der Rehfelder Freizeitradler
-URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tour-d
- er-rehfelder-freizeitradler-900025599-34490.html?naviID=0
-END:VEVENT
-BEGIN:VEVENT
 UID:900029423@amtsfeed.de
 DTSTAMP:20260506T142157Z
 DTSTART;VALUE=DATE:20260528
@@ -2415,6 +2398,16 @@ DTEND;VALUE=DATE:20260529
 SUMMARY:Kremserfahrten durch die Märkische Schweiz
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
  rfahrten-durch-die-maerkische-schweiz-900029423-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025599@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260528T100000Z
+DTEND:20260528T160000Z
+SUMMARY:Tour der Rehfelder Freizeitradler - Feldsteine & Orchideen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tour-d
+ er-rehfelder-freizeitradler-feldsteine-orchideen-900025599-34490.html?nav
+ iID=0
 END:VEVENT
 BEGIN:VEVENT
 UID:900025306@amtsfeed.de
@@ -2657,6 +2650,15 @@ URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kundad
  ance-by-maya-finnes-900029311-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
+UID:900029685@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260530T100000Z
+DTEND:20260530T170000Z
+SUMMARY:Tag der Baukultur auf Hof Prädikow
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tag-de
+ r-baukultur-auf-hof-praedikow-900029685-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
 UID:900029235@amtsfeed.de
 DTSTAMP:20260506T142157Z
 DTSTART:20260530T110000Z
@@ -2674,6 +2676,16 @@ DTEND:20260530T180000Z
 SUMMARY:Offener Garten auf dem Zachariashof
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
  r-garten-auf-dem-zachariashof-900029263-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029722@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260530T110000Z
+DTEND:20260530T160000Z
+SUMMARY:Erleben Sie den Kneipp-Erlebnisgarten und die Heimatstube
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/erlebe
+ n-sie-den-kneipp-erlebnisgarten-und-die-heimatstube-900029722-34490.html?
+ naviID=0
 END:VEVENT
 BEGIN:VEVENT
 UID:900028972@amtsfeed.de
@@ -2711,17 +2723,6 @@ SUMMARY:REWILD YOUR TASTE! - Das Wildpflanzen-Verkostungs-Dinner
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/rewild
  -your-taste-das-wildpflanzen-verkostungs-dinner-900029209-34490.html?navi
  ID=0
-END:VEVENT
-BEGIN:VEVENT
-UID:900029200@amtsfeed.de
-DTSTAMP:20260506T142157Z
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Ausstellung: Momente der Vergänglichkeit - Malerei von Diana Jus
- tus
-URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausste
- llung-momente-der-vergaenglichkeit-malerei-von-diana-justus-900029200-344
- 90.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
 UID:900024832@amtsfeed.de
@@ -2795,6 +2796,14 @@ DTEND:20260531T140000Z
 SUMMARY:Waldsieversdorfer Vereins- und Bürgertag
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/waldsi
  eversdorfer-vereins-und-buergertag-900029664-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029699@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260531T110000Z
+SUMMARY:Die Zauberflöte in den Parklichtspielen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/die-za
+ uberfloete-in-den-parklichtspielen-900029699-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
 UID:900028669@amtsfeed.de
@@ -2878,6 +2887,15 @@ URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tri-yo
  ga-im-baobab-900026302-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
+UID:900029740@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260601T130000Z
+DTEND:20260601T180000Z
+SUMMARY:Kindertagsfest in Rehfelde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kinder
+ tagsfest-in-rehfelde-900029740-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
 UID:900028550@amtsfeed.de
 DTSTAMP:20260506T142157Z
 DTSTART:20260601T140000Z
@@ -2886,6 +2904,15 @@ SUMMARY:Dorf*Labor Rehfelde: Offene Jugendarbeit im Waldgarten
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorf-l
  abor-rehfelde-offene-jugendarbeit-im-waldgarten-900028550-34490.html?navi
  ID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029689@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260601T140000Z
+DTEND:20260601T163000Z
+SUMMARY:Bastelaktion am Kindertag
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/bastel
+ aktion-am-kindertag-900029689-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
 UID:900015867@amtsfeed.de
@@ -3072,8 +3099,8 @@ URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lineda
 END:VEVENT
 BEGIN:VEVENT
 UID:900027675@amtsfeed.de
-DTSTAMP:20260506T142157Z
-DTSTART:20260603T170000Z
+DTSTAMP:20260526T090319Z
+DTSTART:20260603T173000Z
 SUMMARY:Breakdance Kurs
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/breakd
  ance-kurs-900027675-34490.html?naviID=0
@@ -3149,6 +3176,16 @@ DTEND:20260604T111500Z
 SUMMARY:Rückbildungskurs
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/rueckb
  ildungskurs-900025817-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029690@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260604T150000Z
+DTEND:20260604T180000Z
+SUMMARY:Grünen Tour im Naturpark: Orchideen im Ruhlsdorfer Bruch
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/gruene
+ n-tour-im-naturpark-orchideen-im-ruhlsdorfer-bruch-900029690-34490.html?n
+ aviID=0
 END:VEVENT
 BEGIN:VEVENT
 UID:900025887@amtsfeed.de
@@ -3264,6 +3301,15 @@ URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
  rfahrten-durch-die-maerkische-schweiz-900029431-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
+UID:900029750@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Eröffnung der Strausberger Brauerei
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/eroeff
+ nung-der-strausberger-brauerei-900029750-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
 UID:900025309@amtsfeed.de
 DTSTAMP:20260506T142157Z
 DTSTART:20260605T100000Z
@@ -3300,6 +3346,1124 @@ URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lilien
  lauf-auf-dem-rehfelder-lilienweg-2026-900009339-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
+UID:900029745@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260605T190000Z
+SUMMARY:»Sternen-Menü« im Wohlbehagen - Astrologische Vorschau auf den
+  Juni mit Dinner
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/-stern
+ en-menue-im-wohlbehagen-astrologische-vorschau-auf-den-juni-mit-dinner-90
+ 0029745-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024838@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024838-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029432@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029432-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029761@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Ausstellung: Demensch - Alltagssituationen von Menschen mit Demen
+ z
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausste
+ llung-demensch-alltagssituationen-von-menschen-mit-demenz-900029761-34490
+ .html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900018900@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260606T083000Z
+SUMMARY:Nordic Walking
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nordic
+ -walking-900018900-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029723@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260606T110000Z
+DTEND:20260606T160000Z
+SUMMARY:Erleben Sie den Kneipp-Erlebnisgarten und die Heimatstube
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/erlebe
+ n-sie-den-kneipp-erlebnisgarten-und-die-heimatstube-900029723-34490.html?
+ naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029071@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260606T111500Z
+DTEND:20260606T131500Z
+SUMMARY:Führung durch den Bunker Garzau
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/fuehru
+ ng-durch-den-bunker-garzau-900029071-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029372@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260606T140000Z
+SUMMARY:Dorffest in Batzlow
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorffe
+ st-in-batzlow-900029372-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028244@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260606T170000Z
+SUMMARY:Film im Forum: „Also sind die Situationen die Mütter der Mensc
+ hen“
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/film-i
+ m-forum-also-sind-die-situationen-die-muetter-der-menschen--900028244-344
+ 90.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029352@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260606T180000Z
+SUMMARY:Werke und Briefe zwischen Clara Schumann und Johannes Brahms
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/werke-
+ und-briefe-zwischen-clara-schumann-und-johannes-brahms-900029352-34490.ht
+ ml?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024839@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024839-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029433@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029433-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900018901@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260607T083000Z
+SUMMARY:Nordic Walking
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nordic
+ -walking-900018901-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029010@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260607T103000Z
+DTEND:20260607T120000Z
+SUMMARY:Sonntäglicher Stadtrundgang
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/sonnta
+ eglicher-stadtrundgang-900029010-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028426@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260607T110000Z
+DTEND:20260607T180000Z
+SUMMARY:Schlossbesichtigungen in Neuhardenberg
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/schlos
+ sbesichtigungen-in-neuhardenberg-900028426-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029677@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260607T120000Z
+SUMMARY:Film & Gespräch: Rote Sterne überm Feld
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/film-g
+ espraech-rote-sterne-ueberm-feld-900029677-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028014@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260607T140000Z
+DTEND:20260607T173000Z
+SUMMARY:Für den Frieden Singen und Tanzen im Kreis
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/fuer-d
+ en-frieden-singen-und-tanzen-im-kreis-900028014-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029665@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260607T140000Z
+DTEND:20260607T180000Z
+SUMMARY:Workshop: Entgiften für Körper\, Geist und Seele
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/worksh
+ op-entgiften-fuer-koerper-geist-und-seele-900029665-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029119@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260607T143000Z
+SUMMARY:Aufmarsch der Buckower Kanoniere mit anschließendem Böllern
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/aufmar
+ sch-der-buckower-kanoniere-mit-anschliessendem-boellern-900029119-34490.h
+ tml?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029359@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260607T160000Z
+SUMMARY:Konzertreihe "Klassik im Grünen" 2026 - Harfenduo Loreley
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/konzer
+ treihe-klassik-im-gruenen-2026-harfenduo-loreley-900029359-34490.html?nav
+ iID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028961@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260607T170000Z
+SUMMARY:Auftaktkonzert der Konzertreihe "Feldstein und Musik 2026" - "hä
+ lm"
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/auftak
+ tkonzert-der-konzertreihe-feldstein-und-musik-2026-haelm-900028961-34490.
+ html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022902@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022902-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024840@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024840-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029434@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029434-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026303@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260608T100000Z
+DTEND:20260608T113000Z
+SUMMARY:Tri Yoga im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tri-yo
+ ga-im-baobab-900026303-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028552@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260608T140000Z
+DTEND:20260608T190000Z
+SUMMARY:Dorf*Labor Rehfelde: Offene Jugendarbeit im Waldgarten
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorf-l
+ abor-rehfelde-offene-jugendarbeit-im-waldgarten-900028552-34490.html?navi
+ ID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900021152@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260608T163000Z
+DTEND:20260608T173000Z
+SUMMARY:Aerobic-Kurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/aerobi
+ c-kurs-900021152-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028627@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260608T174500Z
+DTEND:20260608T193000Z
+SUMMARY:Zumba für Kids und Junioren
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/zumba-
+ fuer-kids-und-junioren-900028627-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024841@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024841-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029435@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029435-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028303@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260609T090000Z
+DTEND:20260609T100000Z
+SUMMARY:Meditation im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/medita
+ tion-im-baobab-900028303-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025585@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260609T140000Z
+DTEND:20260609T160000Z
+SUMMARY:Museumstag in der Rehfelder Heimatstube
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/museum
+ stag-in-der-rehfelder-heimatstube-900025585-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028747@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260609T153000Z
+SUMMARY:Qi Gong mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/qi-gon
+ g-mit-dem-kneipp-und-heimatverein-900028747-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028794@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260609T153000Z
+SUMMARY:Frauentanzgruppe mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/frauen
+ tanzgruppe-mit-dem-kneipp-und-heimatverein-900028794-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029695@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260609T160000Z
+DTEND:20260609T173000Z
+SUMMARY:Wanderung: Bäume im Schlosspark Buckow
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wander
+ ung-baeume-im-schlosspark-buckow-900029695-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026423@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260609T161500Z
+DTEND:20260609T174500Z
+SUMMARY:Kindertanz im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kinder
+ tanz-im-baobab-900026423-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026745@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260609T180000Z
+DTEND:20260609T184500Z
+SUMMARY:Fitnesstanz im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/fitnes
+ stanz-im-baobab-900026745-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025948@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260609T193000Z
+DTEND:20260609T213000Z
+SUMMARY:Dart-Abend
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dart-a
+ bend-900025948-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022903@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022903-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024842@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024842-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029436@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029436-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026638@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260610T090000Z
+DTEND:20260610T100000Z
+SUMMARY:Somatisches Yoga im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/somati
+ sches-yoga-im-baobab-900026638-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025748@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260610T100000Z
+DTEND:20260610T120000Z
+SUMMARY:Krabbelgruppe im Familienzentrum Rehfelde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/krabbe
+ lgruppe-im-familienzentrum-rehfelde-900025748-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900021369@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260610T130000Z
+SUMMARY:Rehfelder Mittwochs-Radler
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/rehfel
+ der-mittwochs-radler-900021369-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026075@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260610T143000Z
+SUMMARY:Werdertreff im Feuerwehrhaus Werder
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/werder
+ treff-im-feuerwehrhaus-werder-900026075-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026116@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260610T170000Z
+DTEND:20260610T183000Z
+SUMMARY:Linedance-Kurs - Aufbaukurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lineda
+ nce-kurs-aufbaukurs-900026116-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027676@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260610T173000Z
+SUMMARY:Breakdance Kurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/breakd
+ ance-kurs-900027676-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022497@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260610T190000Z
+DTEND:20260610T200000Z
+SUMMARY:Zumba-Kurs im Familienzentrum Rehfelde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/zumba-
+ kurs-im-familienzentrum-rehfelde-900022497-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029671@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260610T190000Z
+SUMMARY:Film- und Gesprächsabend
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/film-u
+ nd-gespraechsabend-900029671-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026017@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260610T193000Z
+SUMMARY:"Denkraum Buckow"
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/denkra
+ um-buckow-900026017-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027927@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260610T193000Z
+DTEND:20260610T210000Z
+SUMMARY:Mantrasingen im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/mantra
+ singen-im-baobab-900027927-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027619@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260610T194500Z
+DTEND:20260610T213000Z
+SUMMARY:PRÄDICHOR
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/praedi
+ chor-900027619-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022904@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022904-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024843@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024843-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029437@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029437-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025310@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260611T100000Z
+DTEND:20260611T150000Z
+SUMMARY:Das historische Klassenzimmer im WaldKAuTZ
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/das-hi
+ storische-klassenzimmer-im-waldkautz-900025310-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025818@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260611T100000Z
+DTEND:20260611T111500Z
+SUMMARY:Rückbildungskurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/rueckb
+ ildungskurs-900025818-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029151@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260611T100000Z
+DTEND:20260611T113000Z
+SUMMARY:Singend in den Tag - Gemeinschaftsprojekt für Erwachsene
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/singen
+ d-in-den-tag-gemeinschaftsprojekt-fuer-erwachsene-900029151-34490.html?na
+ viID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025888@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260611T170000Z
+DTEND:20260611T200000Z
+SUMMARY:Kinder- und Jugendtanz im Familienzentrum Rehfelde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kinder
+ -und-jugendtanz-im-familienzentrum-rehfelde-900025888-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028682@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260611T170000Z
+SUMMARY:Biografisches Theater mit Vera Lisdat
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/biogra
+ fisches-theater-mit-vera-lisdat-900028682-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028882@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260611T170000Z
+DTEND:20260611T180000Z
+SUMMARY:Linedance-Kurs - Anfängerkurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lineda
+ nce-kurs-anfaengerkurs-900028882-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027338@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260611T173000Z
+DTEND:20260611T210000Z
+SUMMARY:Tri Yoga im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tri-yo
+ ga-im-baobab-900027338-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028091@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260611T180000Z
+SUMMARY:Fitness-Aerobic mit Maxi Mue
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/fitnes
+ s-aerobic-mit-maxi-mue-900028091-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028928@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260611T180000Z
+DTEND:20260611T200000Z
+SUMMARY:Linedance-Kurs - Fortgeschrittenenkurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lineda
+ nce-kurs-fortgeschrittenenkurs-900028928-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027736@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260611T183000Z
+SUMMARY:Yoga in Prädikow
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/yoga-i
+ n-praedikow-900027736-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028142@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260611T190000Z
+SUMMARY:Ganzkörpertraining mit Maxi Mue
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ganzko
+ erpertraining-mit-maxi-mue-900028142-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900009331@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:60. Buckower Rosentage
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/60-buc
+ kower-rosentage-900009331-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022905@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022905-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024844@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024844-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029438@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029438-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025311@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260612T100000Z
+DTEND:20260612T150000Z
+SUMMARY:Das historische Klassenzimmer im WaldKAuTZ
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/das-hi
+ storische-klassenzimmer-im-waldkautz-900025311-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029697@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260612T100000Z
+DTEND:20260612T130000Z
+SUMMARY:Wanderung: Welche Baumarten finden wir hier im Wald?
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wander
+ ung-welche-baumarten-finden-wir-hier-im-wald--900029697-34490.html?naviID
+ =0
+END:VEVENT
+BEGIN:VEVENT
+UID:900021000@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260612T140000Z
+DTEND:20260612T180000Z
+SUMMARY:Café Reh im Familienzentrum
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/caf-re
+ h-im-familienzentrum-900021000-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028553@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260612T140000Z
+DTEND:20260612T190000Z
+SUMMARY:Dorf*Labor Rehfelde: Offene Jugendarbeit im Waldgarten
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorf-l
+ abor-rehfelde-offene-jugendarbeit-im-waldgarten-900028553-34490.html?navi
+ ID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029330@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260612T180000Z
+SUMMARY:OMU-Club in den Buckower Parklichtspielen - Rocky Horror Picture 
+ Show
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/omu-cl
+ ub-in-den-buckower-parklichtspielen-rocky-horror-picture-show-900029330-3
+ 4490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029743@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260612T183000Z
+DTEND:20260613T160000Z
+SUMMARY:Wilde Delikatessen - ein Menü aus Wildpflanzen zubereiten
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wilde-
+ delikatessen-ein-menue-aus-wildpflanzen-zubereiten-900029743-34490.html?n
+ aviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024845@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024845-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029439@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029439-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900018902@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T083000Z
+SUMMARY:Nordic Walking
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nordic
+ -walking-900018902-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900015028@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T100000Z
+DTEND:20260613T150000Z
+SUMMARY:Offener Wildhof zur Brandenburger Landpartie
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ r-wildhof-zur-brandenburger-landpartie-900015028-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900023576@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T100000Z
+DTEND:20260613T180000Z
+SUMMARY:Brandenburger Landpartie bei der Baumschule Vierhub
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/brande
+ nburger-landpartie-bei-der-baumschule-vierhub-900023576-34490.html?naviID
+ =0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029312@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T100000Z
+SUMMARY:KundaDance by Maya Finnes
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kundad
+ ance-by-maya-finnes-900029312-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029698@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T100000Z
+DTEND:20260613T130000Z
+SUMMARY:Wanderung: „Wir besuchen die Buchen…“
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wander
+ ung-wir-besuchen-die-buchen--900029698-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900023578@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T110000Z
+DTEND:20260613T160000Z
+SUMMARY:Die Brandenburger Landpartie auf dem Straußenhof Weideblick
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/die-br
+ andenburger-landpartie-auf-dem-straussenhof-weideblick-900023578-34490.ht
+ ml?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900023580@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T110000Z
+DTEND:20260613T180000Z
+SUMMARY:Die Brandenburger Landpartie bei der Ölmühle Sunt
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/die-br
+ andenburger-landpartie-bei-der-oelmuehle-sunt-900023580-34490.html?naviID
+ =0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029693@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T110000Z
+DTEND:20260613T170000Z
+SUMMARY:Workshop: Storytelling und Nachhaltigkeit
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/worksh
+ op-storytelling-und-nachhaltigkeit-900029693-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900015001@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T140000Z
+SUMMARY:Ihlower Lichterfest
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ihlowe
+ r-lichterfest-900015001-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029688@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T140000Z
+DTEND:20260613T200000Z
+SUMMARY:Bollenfüßlerfest in Neuhardenberg
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/bollen
+ fuesslerfest-in-neuhardenberg-900029688-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029676@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T190000Z
+SUMMARY:Nacht der Offenen Kirche in Altfriedland
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nacht-
+ der-offenen-kirche-in-altfriedland-900029676-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029686@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T190000Z
+DTEND:20260613T213000Z
+SUMMARY:Jam Session  / Open Mic in Prädikow
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/jam-se
+ ssion-open-mic-in-praedikow-900029686-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029243@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260613T193000Z
+DTEND:20260613T220000Z
+SUMMARY:Garten-Konzert * KELPIE * KERSTIN BLODIG & IAN MELROSE * dt./norw
+ ./schottisch
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/garten
+ -konzert-kelpie-kerstin-blodig-ian-melrose-dt-norw-schottisch-900029243-3
+ 4490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024846@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024846-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029440@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029440-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900018903@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T083000Z
+SUMMARY:Nordic Walking
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nordic
+ -walking-900018903-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029694@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T090000Z
+DTEND:20260614T130000Z
+SUMMARY:Naturparkeinsatz: Biotoppflege Trockenrasen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/naturp
+ arkeinsatz-biotoppflege-trockenrasen-900029694-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022609@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T100000Z
+DTEND:20260614T150000Z
+SUMMARY:Offener Wildhof zur Brandenburger Landpartie
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ r-wildhof-zur-brandenburger-landpartie-900022609-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029658@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T100000Z
+DTEND:20260614T180000Z
+SUMMARY:Brandenburger Landpartie bei der Baumschule Vierhub
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/brande
+ nburger-landpartie-bei-der-baumschule-vierhub-900029658-34490.html?naviID
+ =0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029692@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T100000Z
+DTEND:20260614T143000Z
+SUMMARY:Nachhaltigkeit und die Folgen des Klimawandels
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nachha
+ ltigkeit-und-die-folgen-des-klimawandels-900029692-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029011@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T103000Z
+DTEND:20260614T120000Z
+SUMMARY:Sonntäglicher Stadtrundgang
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/sonnta
+ eglicher-stadtrundgang-900029011-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029275@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T104500Z
+DTEND:20260614T130000Z
+SUMMARY:Führung durch den Trebnitzer Schlosspark
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/fuehru
+ ng-durch-den-trebnitzer-schlosspark-900029275-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028427@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T110000Z
+DTEND:20260614T180000Z
+SUMMARY:Schlossbesichtigungen in Neuhardenberg
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/schlos
+ sbesichtigungen-in-neuhardenberg-900028427-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028675@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T110000Z
+DTEND:20260614T160000Z
+SUMMARY:Offene Gärten 2026 in Rehfelde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ -gaerten-2026-in-rehfelde-900028675-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029659@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T110000Z
+DTEND:20260614T160000Z
+SUMMARY:Die Brandenburger Landpartie auf dem Straußenhof Weideblick
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/die-br
+ andenburger-landpartie-auf-dem-straussenhof-weideblick-900029659-34490.ht
+ ml?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029660@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T110000Z
+DTEND:20260614T180000Z
+SUMMARY:Die Brandenburger Landpartie bei der Ölmühle Sunt
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/die-br
+ andenburger-landpartie-bei-der-oelmuehle-sunt-900029660-34490.html?naviID
+ =0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029662@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T110000Z
+DTEND:20260614T160000Z
+SUMMARY:Offene Gärten 2026 auf dem Findlingshof
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ -gaerten-2026-auf-dem-findlingshof-900029662-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029687@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T110000Z
+DTEND:20260614T160000Z
+SUMMARY:Flohmarkt in Prädikow
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/flohma
+ rkt-in-praedikow-900029687-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029755@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260614T110000Z
+DTEND:20260614T160000Z
+SUMMARY:Offene Gärten 2026 im Haus H & M - Kunst im Garten
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ -gaerten-2026-im-haus-h-m-kunst-im-garten-900029755-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029756@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260614T110000Z
+DTEND:20260614T160000Z
+SUMMARY:Offene Gärten 2026 im Japan-Garten
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ -gaerten-2026-im-japan-garten-900029756-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029757@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260614T110000Z
+DTEND:20260614T160000Z
+SUMMARY:Offene Gärten 2026 im Waldgarten Rehfelde Dorf
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ -gaerten-2026-im-waldgarten-rehfelde-dorf-900029757-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029758@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260614T110000Z
+DTEND:20260614T160000Z
+SUMMARY:Offene Gärten 2026 im Gutshaus der Zukunft
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ -gaerten-2026-im-gutshaus-der-zukunft-900029758-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029759@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260614T110000Z
+DTEND:20260614T160000Z
+SUMMARY:Offene Gärten 2026 bei Ines Jaitner
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ -gaerten-2026-bei-ines-jaitner-900029759-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029760@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260614T110000Z
+DTEND:20260614T160000Z
+SUMMARY:Offene Gärten 2026 im Bibelgarten
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ -gaerten-2026-im-bibelgarten-900029760-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900023628@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T140000Z
+SUMMARY:Konzert der Kneip-p-Sisters & Kids
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/konzer
+ t-der-kneip-p-sisters-kids-900023628-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028064@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T170000Z
+DTEND:20260614T183000Z
+SUMMARY:Die Grenzgänger - Zeitlose Utopien
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/die-gr
+ enzgaenger-zeitlose-utopien-900028064-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028670@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260614T180000Z
+SUMMARY:Musikalische Lesung: Marilyn Monroe - Fragments of a Soul
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/musika
+ lische-lesung-marilyn-monroe-fragments-of-a-soul-900028670-34490.html?nav
+ iID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022906@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022906-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024847@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024847-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029441@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029441-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026304@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260615T100000Z
+DTEND:20260615T113000Z
+SUMMARY:Tri Yoga im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tri-yo
+ ga-im-baobab-900026304-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028554@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260615T140000Z
+DTEND:20260615T190000Z
+SUMMARY:Dorf*Labor Rehfelde: Offene Jugendarbeit im Waldgarten
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorf-l
+ abor-rehfelde-offene-jugendarbeit-im-waldgarten-900028554-34490.html?navi
+ ID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900021153@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260615T163000Z
+DTEND:20260615T173000Z
+SUMMARY:Aerobic-Kurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/aerobi
+ c-kurs-900021153-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028628@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260615T174500Z
+DTEND:20260615T193000Z
+SUMMARY:Zumba für Kids und Junioren
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/zumba-
+ fuer-kids-und-junioren-900028628-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025608@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260615T190000Z
+SUMMARY:Film im Forum: So\, wie es ist\, bleibt es nicht – Helene Weige
+ l
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/film-i
+ m-forum-so-wie-es-ist-bleibt-es-nicht-helene-weigel-900025608-34490.html?
+ naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029661@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260615T190000Z
+DTEND:20260615T203000Z
+SUMMARY:KINO IN DER KIRCHE: Die Wriezener Bahn – Eine Spurensuche
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kino-i
+ n-der-kirche-die-wriezener-bahn-eine-spurensuche-900029661-34490.html?nav
+ iID=0
+END:VEVENT
+BEGIN:VEVENT
 UID:900029058@amtsfeed.de
 DTSTAMP:20260506T142157Z
 DTSTART;VALUE=DATE:20260616
@@ -3309,6 +4473,746 @@ SUMMARY:Ausstellung: "Große Kunst von kleinen Händen" - Ausstellung der
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausste
  llung-grosse-kunst-von-kleinen-haenden-ausstellung-der-rehfelder-grundsch
  ueler-in-der-entr-egalerie-900029058-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024848@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024848-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029442@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029442-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028304@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260616T090000Z
+DTEND:20260616T100000Z
+SUMMARY:Meditation im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/medita
+ tion-im-baobab-900028304-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028748@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260616T153000Z
+SUMMARY:Qi Gong mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/qi-gon
+ g-mit-dem-kneipp-und-heimatverein-900028748-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028795@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260616T153000Z
+SUMMARY:Frauentanzgruppe mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/frauen
+ tanzgruppe-mit-dem-kneipp-und-heimatverein-900028795-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029696@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260616T160000Z
+DTEND:20260616T173000Z
+SUMMARY:Wanderung: Bäume im Schlosspark Buckow
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wander
+ ung-baeume-im-schlosspark-buckow-900029696-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026424@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260616T161500Z
+DTEND:20260616T174500Z
+SUMMARY:Kindertanz im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kinder
+ tanz-im-baobab-900026424-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026746@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260616T180000Z
+DTEND:20260616T184500Z
+SUMMARY:Fitnesstanz im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/fitnes
+ stanz-im-baobab-900026746-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028375@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260616T191500Z
+DTEND:20260616T204500Z
+SUMMARY:Kundalini Dance im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kundal
+ ini-dance-im-baobab-900028375-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025949@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260616T193000Z
+DTEND:20260616T213000Z
+SUMMARY:Dart-Abend
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dart-a
+ bend-900025949-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022907@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022907-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024849@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024849-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029443@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029443-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026639@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T090000Z
+DTEND:20260617T100000Z
+SUMMARY:Somatisches Yoga im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/somati
+ sches-yoga-im-baobab-900026639-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025749@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T100000Z
+DTEND:20260617T120000Z
+SUMMARY:Krabbelgruppe im Familienzentrum Rehfelde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/krabbe
+ lgruppe-im-familienzentrum-rehfelde-900025749-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900021370@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T130000Z
+SUMMARY:Rehfelder Mittwochs-Radler
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/rehfel
+ der-mittwochs-radler-900021370-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025541@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T140000Z
+DTEND:20260617T160000Z
+SUMMARY:Spielenachmittag der Volkssolidarität
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/spiele
+ nachmittag-der-volkssolidaritaet-900025541-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026046@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T140000Z
+SUMMARY:Rehfelder Seniorentreff
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/rehfel
+ der-seniorentreff-900026046-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028828@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T150000Z
+SUMMARY:Basteln mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/bastel
+ n-mit-dem-kneipp-und-heimatverein-900028828-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026117@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T170000Z
+DTEND:20260617T183000Z
+SUMMARY:Linedance-Kurs - Aufbaukurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lineda
+ nce-kurs-aufbaukurs-900026117-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027677@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T173000Z
+SUMMARY:Breakdance Kurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/breakd
+ ance-kurs-900027677-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022498@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T190000Z
+DTEND:20260617T200000Z
+SUMMARY:Zumba-Kurs im Familienzentrum Rehfelde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/zumba-
+ kurs-im-familienzentrum-rehfelde-900022498-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026004@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T190000Z
+DTEND:20260617T210000Z
+SUMMARY:Stammtisch für pflegende Angehörige
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/stammt
+ isch-fuer-pflegende-angehoerige-900026004-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027901@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T193000Z
+DTEND:20260617T203000Z
+SUMMARY:Ehrliches Mitteilen im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ehrlic
+ hes-mitteilen-im-baobab-900027901-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027620@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260617T194500Z
+DTEND:20260617T213000Z
+SUMMARY:PRÄDICHOR
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/praedi
+ chor-900027620-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029266@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Ausstellung: Stille Horizonte - Innere Landschaften
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausste
+ llung-stille-horizonte-innere-landschaften-900029266-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022908@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022908-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024850@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024850-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029444@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029444-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025312@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T100000Z
+DTEND:20260618T150000Z
+SUMMARY:Das historische Klassenzimmer im WaldKAuTZ
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/das-hi
+ storische-klassenzimmer-im-waldkautz-900025312-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025819@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T100000Z
+DTEND:20260618T111500Z
+SUMMARY:Rückbildungskurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/rueckb
+ ildungskurs-900025819-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028213@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T120000Z
+DTEND:20260618T170000Z
+SUMMARY:Offene Bibliothek im Brecht-Weigel-Haus
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ -bibliothek-im-brecht-weigel-haus-900028213-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025889@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T170000Z
+DTEND:20260618T200000Z
+SUMMARY:Kinder- und Jugendtanz im Familienzentrum Rehfelde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kinder
+ -und-jugendtanz-im-familienzentrum-rehfelde-900025889-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028683@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T170000Z
+SUMMARY:Biografisches Theater mit Vera Lisdat
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/biogra
+ fisches-theater-mit-vera-lisdat-900028683-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028883@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T170000Z
+DTEND:20260618T180000Z
+SUMMARY:Linedance-Kurs - Anfängerkurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lineda
+ nce-kurs-anfaengerkurs-900028883-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027339@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T173000Z
+DTEND:20260618T210000Z
+SUMMARY:Tri Yoga im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tri-yo
+ ga-im-baobab-900027339-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028092@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T180000Z
+SUMMARY:Fitness-Aerobic mit Maxi Mue
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/fitnes
+ s-aerobic-mit-maxi-mue-900028092-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028929@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T180000Z
+DTEND:20260618T200000Z
+SUMMARY:Linedance-Kurs - Fortgeschrittenenkurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lineda
+ nce-kurs-fortgeschrittenenkurs-900028929-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029749@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T180000Z
+SUMMARY:Filmvorführung und Gespräch: Am Ende ein Fest
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/filmvo
+ rfuehrung-und-gespraech-am-ende-ein-fest-900029749-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027737@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T183000Z
+SUMMARY:Yoga in Prädikow
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/yoga-i
+ n-praedikow-900027737-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028143@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T190000Z
+SUMMARY:Ganzkörpertraining mit Maxi Mue
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ganzko
+ erpertraining-mit-maxi-mue-900028143-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029045@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:Offene Kreistanzabende mit Anke Schnabel
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ -kreistanzabende-mit-anke-schnabel-900029045-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022170@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260618T200000Z
+DTEND:20260618T220000Z
+SUMMARY:Offene Nährunde "Rehmaschinen"
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene
+ -naehrunde-rehmaschinen-900022170-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022909@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022909-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024851@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024851-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028275@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Tage der Generationen - Opitz-Cup 2026
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tage-d
+ er-generationen-opitz-cup-2026-900028275-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029445@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029445-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025313@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260619T100000Z
+DTEND:20260619T150000Z
+SUMMARY:Das historische Klassenzimmer im WaldKAuTZ
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/das-hi
+ storische-klassenzimmer-im-waldkautz-900025313-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900021001@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260619T140000Z
+DTEND:20260619T180000Z
+SUMMARY:Café Reh im Familienzentrum
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/caf-re
+ h-im-familienzentrum-900021001-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028555@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260619T140000Z
+DTEND:20260619T190000Z
+SUMMARY:Dorf*Labor Rehfelde: Offene Jugendarbeit im Waldgarten
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorf-l
+ abor-rehfelde-offene-jugendarbeit-im-waldgarten-900028555-34490.html?navi
+ ID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028266@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260619T180000Z
+DTEND:20260619T200000Z
+SUMMARY:"Lust auf Genuss" - Rehfelder Gourmetabende 2026
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lust-a
+ uf-genuss-rehfelder-gourmetabende-2026-900028266-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029666@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260619T180000Z
+SUMMARY:Vernissage: „Melodien in Farbe und Form“ - Eine Ausstellung v
+ on Margit Auer
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/vernis
+ sage-melodien-in-farbe-und-form-eine-ausstellung-von-margit-auer-90002966
+ 6-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024852@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024852-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029446@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029446-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900018904@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260620T083000Z
+SUMMARY:Nordic Walking
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nordic
+ -walking-900018904-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029747@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260620T100000Z
+DTEND:20260620T150000Z
+SUMMARY:Genogrammarbeit mit dem Herkunftssystem
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/genogr
+ ammarbeit-mit-dem-herkunftssystem-900029747-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029724@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260620T110000Z
+DTEND:20260620T160000Z
+SUMMARY:Erleben Sie den Kneipp-Erlebnisgarten und die Heimatstube
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/erlebe
+ n-sie-den-kneipp-erlebnisgarten-und-die-heimatstube-900029724-34490.html?
+ naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029206@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260620T150000Z
+SUMMARY:Filmvorführung & Gespräch - "Kuhle Wampe" von Slatan Dudow
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/filmvo
+ rfuehrung-gespraech-kuhle-wampe-von-slatan-dudow-900029206-34490.html?nav
+ iID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029654@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260620T150000Z
+SUMMARY:Dorffest in Ringenwalde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorffe
+ st-in-ringenwalde-900029654-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029741@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260620T150000Z
+DTEND:20260620T170000Z
+SUMMARY:Familienwandern zur Sommersonnenwende
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/famili
+ enwandern-zur-sommersonnenwende-900029741-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028671@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260620T173000Z
+SUMMARY:Dinner / Konzert / Gespräch / Film: Kino trifft Kulinarik - Rame
+ n everywhere
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dinner
+ -konzert-gespraech-film-kino-trifft-kulinarik-ramen-everywhere-900028671-
+ 34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028245@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260620T180000Z
+SUMMARY:Lesung: „Bleib übrig\, Zwilling: Zwei junge Frauen in Kriegs- 
+ und Nachkriegszeit 1943 bis 1948“ von Käthe Rülicke-Weiler
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lesung
+ -bleib-uebrig-zwilling-zwei-junge-frauen-in-kriegs-und-nachkriegszeit-194
+ 3-bis-1948-von-kaethe-ruelicke-weiler-900028245-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029353@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260620T190000Z
+SUMMARY:Berliner Abend in der Ihlower Kirche
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/berlin
+ er-abend-in-der-ihlower-kirche-900029353-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024853@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024853-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029447@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029447-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900018905@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260621T083000Z
+SUMMARY:Nordic Walking
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nordic
+ -walking-900018905-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029339@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260621T100000Z
+DTEND:20260621T130000Z
+SUMMARY:Familien-Fahrradkorso: Gemeinsam radeln für sichere Mobilität
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/famili
+ en-fahrradkorso-gemeinsam-radeln-fuer-sichere-mobilitaet-900029339-34490.
+ html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029355@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260621T100000Z
+DTEND:20260621T173000Z
+SUMMARY:Schreiben zwischen Wald und Welt – Schreibwerkstatt mit Ulla Le
+ nze
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/schrei
+ ben-zwischen-wald-und-welt-schreibwerkstatt-mit-ulla-lenze-900029355-3449
+ 0.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029748@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260621T100000Z
+DTEND:20260621T150000Z
+SUMMARY:Genogrammarbeit mit dem Herkunftssystem
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/genogr
+ ammarbeit-mit-dem-herkunftssystem-900029748-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029012@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260621T103000Z
+DTEND:20260621T120000Z
+SUMMARY:Sonntäglicher Stadtrundgang
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/sonnta
+ eglicher-stadtrundgang-900029012-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028428@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260621T110000Z
+DTEND:20260621T180000Z
+SUMMARY:Schlossbesichtigungen in Neuhardenberg
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/schlos
+ sbesichtigungen-in-neuhardenberg-900028428-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028202@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260621T123000Z
+SUMMARY:Sonderführung Brechtspaziergang
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/sonder
+ fuehrung-brechtspaziergang-900028202-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900011661@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260621T150000Z
+SUMMARY:Sommerkonzert mit OPUS 3
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/sommer
+ konzert-mit-opus-3-900011661-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029277@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260621T160000Z
+DTEND:20260621T173000Z
+SUMMARY:MUSIKA AKKORDIA – Sommerkonzert in der Staadtpfarrkirche
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/musika
+ -akkordia-sommerkonzert-in-der-staadtpfarrkirche-900029277-34490.html?nav
+ iID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029360@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260621T160000Z
+SUMMARY:Konzertreihe "Klassik im Grünen" 2026 - Bläserquintett Half & H
+ alf
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/konzer
+ treihe-klassik-im-gruenen-2026-blaeserquintett-half-half-900029360-34490.
+ html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028672@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260621T190000Z
+SUMMARY:Konzert: Bundesjazzorchester - Thank you\, Peter!
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/konzer
+ t-bundesjazzorchester-thank-you-peter--900028672-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022910@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022910-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024854@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024854-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029448@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029448-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026305@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260622T100000Z
+DTEND:20260622T113000Z
+SUMMARY:Tri Yoga im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tri-yo
+ ga-im-baobab-900026305-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028556@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260622T140000Z
+DTEND:20260622T190000Z
+SUMMARY:Dorf*Labor Rehfelde: Offene Jugendarbeit im Waldgarten
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorf-l
+ abor-rehfelde-offene-jugendarbeit-im-waldgarten-900028556-34490.html?navi
+ ID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900021154@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260622T163000Z
+DTEND:20260622T173000Z
+SUMMARY:Aerobic-Kurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/aerobi
+ c-kurs-900021154-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028629@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260622T174500Z
+DTEND:20260622T193000Z
+SUMMARY:Zumba für Kids und Junioren
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/zumba-
+ fuer-kids-und-junioren-900028629-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
 UID:900029079@amtsfeed.de
@@ -3322,6 +5226,693 @@ URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/verlae
  490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
+UID:900024855@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024855-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029449@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029449-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028305@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260623T090000Z
+DTEND:20260623T100000Z
+SUMMARY:Meditation im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/medita
+ tion-im-baobab-900028305-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028749@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260623T153000Z
+SUMMARY:Qi Gong mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/qi-gon
+ g-mit-dem-kneipp-und-heimatverein-900028749-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028796@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260623T153000Z
+SUMMARY:Frauentanzgruppe mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/frauen
+ tanzgruppe-mit-dem-kneipp-und-heimatverein-900028796-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026425@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260623T161500Z
+DTEND:20260623T174500Z
+SUMMARY:Kindertanz im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kinder
+ tanz-im-baobab-900026425-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026747@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260623T180000Z
+DTEND:20260623T184500Z
+SUMMARY:Fitnesstanz im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/fitnes
+ stanz-im-baobab-900026747-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025950@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260623T193000Z
+DTEND:20260623T213000Z
+SUMMARY:Dart-Abend
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dart-a
+ bend-900025950-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028673@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260623T200000Z
+SUMMARY:Konzert: China Moses - It’s Complicated
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/konzer
+ t-china-moses-it-s-complicated-900028673-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022911@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022911-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024856@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024856-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029450@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029450-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026640@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260624T090000Z
+DTEND:20260624T100000Z
+SUMMARY:Somatisches Yoga im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/somati
+ sches-yoga-im-baobab-900026640-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025750@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260624T100000Z
+DTEND:20260624T120000Z
+SUMMARY:Krabbelgruppe im Familienzentrum Rehfelde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/krabbe
+ lgruppe-im-familienzentrum-rehfelde-900025750-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900021371@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260624T130000Z
+SUMMARY:Rehfelder Mittwochs-Radler
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/rehfel
+ der-mittwochs-radler-900021371-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026118@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260624T170000Z
+DTEND:20260624T183000Z
+SUMMARY:Linedance-Kurs - Aufbaukurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lineda
+ nce-kurs-aufbaukurs-900026118-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027678@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260624T173000Z
+SUMMARY:Breakdance Kurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/breakd
+ ance-kurs-900027678-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022499@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260624T190000Z
+DTEND:20260624T200000Z
+SUMMARY:Zumba-Kurs im Familienzentrum Rehfelde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/zumba-
+ kurs-im-familienzentrum-rehfelde-900022499-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027902@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260624T193000Z
+DTEND:20260624T203000Z
+SUMMARY:Ehrliches Mitteilen im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ehrlic
+ hes-mitteilen-im-baobab-900027902-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027621@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260624T194500Z
+DTEND:20260624T213000Z
+SUMMARY:PRÄDICHOR
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/praedi
+ chor-900027621-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022912@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022912-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024857@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024857-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025600@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Tour der Freizeitradler nach Hennickendorf - Wachtelturm & Heimat
+ stube
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tour-d
+ er-freizeitradler-nach-hennickendorf-wachtelturm-heimatstube-900025600-34
+ 490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029451@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029451-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025314@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260625T100000Z
+DTEND:20260625T150000Z
+SUMMARY:Das historische Klassenzimmer im WaldKAuTZ
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/das-hi
+ storische-klassenzimmer-im-waldkautz-900025314-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025820@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260625T100000Z
+DTEND:20260625T111500Z
+SUMMARY:Rückbildungskurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/rueckb
+ ildungskurs-900025820-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029152@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260625T100000Z
+DTEND:20260625T113000Z
+SUMMARY:Singend in den Tag - Gemeinschaftsprojekt für Erwachsene
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/singen
+ d-in-den-tag-gemeinschaftsprojekt-fuer-erwachsene-900029152-34490.html?na
+ viID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025890@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260625T170000Z
+DTEND:20260625T200000Z
+SUMMARY:Kinder- und Jugendtanz im Familienzentrum Rehfelde
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kinder
+ -und-jugendtanz-im-familienzentrum-rehfelde-900025890-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028684@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260625T170000Z
+SUMMARY:Biografisches Theater mit Vera Lisdat
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/biogra
+ fisches-theater-mit-vera-lisdat-900028684-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028884@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260625T170000Z
+DTEND:20260625T180000Z
+SUMMARY:Linedance-Kurs - Anfängerkurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lineda
+ nce-kurs-anfaengerkurs-900028884-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027340@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260625T173000Z
+DTEND:20260625T210000Z
+SUMMARY:Tri Yoga im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tri-yo
+ ga-im-baobab-900027340-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028093@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260625T180000Z
+SUMMARY:Fitness-Aerobic mit Maxi Mue
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/fitnes
+ s-aerobic-mit-maxi-mue-900028093-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028930@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260625T180000Z
+DTEND:20260625T200000Z
+SUMMARY:Linedance-Kurs - Fortgeschrittenenkurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lineda
+ nce-kurs-fortgeschrittenenkurs-900028930-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027738@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260625T183000Z
+SUMMARY:Yoga in Prädikow
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/yoga-i
+ n-praedikow-900027738-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028144@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART:20260625T190000Z
+SUMMARY:Ganzkörpertraining mit Maxi Mue
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ganzko
+ erpertraining-mit-maxi-mue-900028144-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022913@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022913-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024858@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024858-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027767@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Heilkräuterseminar im Rhythmus der Jahreszeiten 1. Jahr
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/heilkr
+ aeuterseminar-im-rhythmus-der-jahreszeiten-1-jahr-900027767-34490.html?na
+ viID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029452@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029452-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025315@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260626T100000Z
+DTEND:20260626T150000Z
+SUMMARY:Das historische Klassenzimmer im WaldKAuTZ
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/das-hi
+ storische-klassenzimmer-im-waldkautz-900025315-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900021002@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260626T140000Z
+DTEND:20260626T180000Z
+SUMMARY:Café Reh im Familienzentrum
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/caf-re
+ h-im-familienzentrum-900021002-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028557@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260626T140000Z
+DTEND:20260626T190000Z
+SUMMARY:Dorf*Labor Rehfelde: Offene Jugendarbeit im Waldgarten
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorf-l
+ abor-rehfelde-offene-jugendarbeit-im-waldgarten-900028557-34490.html?navi
+ ID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024859@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024859-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028400@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Flohmarkt bei Willes Welt
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/flohma
+ rkt-bei-willes-welt-900028400-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029453@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029453-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029653@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:100 Jahre Freiwillige Feuerwehr Klosterdorf
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/100-ja
+ hre-freiwillige-feuerwehr-klosterdorf-900029653-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029668@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Ausstellung "Vielfalt des Lebens" von Angela Borlocan
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausste
+ llung-vielfalt-des-lebens-von-angela-borlocan-900029668-34490.html?naviID
+ =0
+END:VEVENT
+BEGIN:VEVENT
+UID:900018906@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260627T083000Z
+SUMMARY:Nordic Walking
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nordic
+ -walking-900018906-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029313@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260627T100000Z
+SUMMARY:KundaDance by Maya Finnes
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kundad
+ ance-by-maya-finnes-900029313-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029725@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260627T110000Z
+DTEND:20260627T160000Z
+SUMMARY:Erleben Sie den Kneipp-Erlebnisgarten und die Heimatstube
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/erlebe
+ n-sie-den-kneipp-erlebnisgarten-und-die-heimatstube-900029725-34490.html?
+ naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029059@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260627T130000Z
+DTEND:20260627T220000Z
+SUMMARY:FestivALLE im Familienzentrum
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/festiv
+ alle-im-familienzentrum-900029059-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028005@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260627T131500Z
+DTEND:20260627T160000Z
+SUMMARY:Achtsame Wanderung auf dem barrierearmen Weg: „Abenteuer mit St
+ obbi“
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/achtsa
+ me-wanderung-auf-dem-barrierearmen-weg-abenteuer-mit-stobbi--900028005-34
+ 490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028674@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260627T150000Z
+SUMMARY:Lieder\, Sänger und Poeten - 7. Neuhardenberger Sängertreffen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lieder
+ -saenger-und-poeten-7-neuhardenberger-saengertreffen-900028674-34490.html
+ ?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029354@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260627T150000Z
+SUMMARY:Klavierkonzert in der Ihlower Kirche
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/klavie
+ rkonzert-in-der-ihlower-kirche-900029354-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029667@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260627T170000Z
+SUMMARY:Vernissage zur Ausstellung "Vielfalt des Lebens" von Angela Borlo
+ can
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/vernis
+ sage-zur-ausstellung-vielfalt-des-lebens-von-angela-borlocan-900029667-34
+ 490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029226@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260627T190000Z
+SUMMARY:Buchvorstellung & Gespräch: "Lauter Hass"
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/buchvo
+ rstellung-gespraech-lauter-hass-900029226-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900027969@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260627T190000Z
+DTEND:20260627T220000Z
+SUMMARY:Tantrischer Frauentempel
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tantri
+ scher-frauentempel-900027969-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028227@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Als ich nachher von dir ging - Eine Kunstausstellung zum 19. Kün
+ stlerpleinair der KÖzwölf
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/als-ic
+ h-nachher-von-dir-ging-eine-kunstausstellung-zum-19-kuenstlerpleinair-der
+ -koezwoelf-900028227-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024860@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024860-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029454@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029454-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900010894@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260628T073000Z
+SUMMARY:Wilde-Wald-Wanderung um´s Gartzmoor und Umgebung
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wilde-
+ wald-wanderung-um-s-gartzmoor-und-umgebung-900010894-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900018907@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260628T083000Z
+SUMMARY:Nordic Walking
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nordic
+ -walking-900018907-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028451@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260628T100000Z
+DTEND:20260628T160000Z
+SUMMARY:Jeder Mensch ist ein Schöpfer – Intuitives Malen mit Monika Be
+ rsch
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/jeder-
+ mensch-ist-ein-schoepfer-intuitives-malen-mit-monika-bersch-900028451-344
+ 90.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029013@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260628T103000Z
+DTEND:20260628T120000Z
+SUMMARY:Sonntäglicher Stadtrundgang
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/sonnta
+ eglicher-stadtrundgang-900029013-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028429@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260628T110000Z
+DTEND:20260628T180000Z
+SUMMARY:Schlossbesichtigungen in Neuhardenberg
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/schlos
+ sbesichtigungen-in-neuhardenberg-900028429-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028246@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260628T170000Z
+SUMMARY:Lesung: „DIE WINDBRIEFE an den Herrn b.b.“ von der Schauspiel
+ erin Käthe Reichel
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lesung
+ -die-windbriefe-an-den-herrn-b-b-von-der-schauspielerin-kaethe-reichel-90
+ 0028246-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028468@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260628T170000Z
+DTEND:20260628T190000Z
+SUMMARY:Berliner Frauenensemble holz&blech - „Sous le ciel de Münchebe
+ rg“
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/berlin
+ er-frauenensemble-holz-blech-sous-le-ciel-de-muencheberg--900028468-34490
+ .html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028269@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260628T190000Z
+SUMMARY:Konzert: 2Raumwohnung
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/konzer
+ t-2raumwohnung-900028269-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029244@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260628T190000Z
+DTEND:20260628T213000Z
+SUMMARY:Garten-Konzert * USCHI BRÜNING & STEPHAN KÖNIG * HERZENSLIEDER
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/garten
+ -konzert-uschi-bruening-stephan-koenig-herzenslieder-900029244-34490.html
+ ?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900022914@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Wassergymnastik mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wasser
+ gymnastik-mit-dem-kneipp-und-heimatverein-900022914-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024861@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024861-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029455@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029455-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026306@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260629T100000Z
+DTEND:20260629T113000Z
+SUMMARY:Tri Yoga im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tri-yo
+ ga-im-baobab-900026306-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028558@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260629T140000Z
+DTEND:20260629T190000Z
+SUMMARY:Dorf*Labor Rehfelde: Offene Jugendarbeit im Waldgarten
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorf-l
+ abor-rehfelde-offene-jugendarbeit-im-waldgarten-900028558-34490.html?navi
+ ID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900021155@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260629T163000Z
+DTEND:20260629T173000Z
+SUMMARY:Aerobic-Kurs
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/aerobi
+ c-kurs-900021155-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028630@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260629T174500Z
+DTEND:20260629T193000Z
+SUMMARY:Zumba für Kids und Junioren
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/zumba-
+ fuer-kids-und-junioren-900028630-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
 UID:900029144@amtsfeed.de
 DTSTAMP:20260506T142157Z
 DTSTART;VALUE=DATE:20260630
@@ -3329,6 +5920,94 @@ DTEND;VALUE=DATE:20260701
 SUMMARY:Open Air Ausstellung am Bauzaun - Stadt. Land. Klima.
 URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
  ir-ausstellung-am-bauzaun-stadt-land-klima--900029144-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900024862@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Open Air- Ausstellung in Pritzhagen
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-a
+ ir-ausstellung-in-pritzhagen-900024862-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029456@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Kremserfahrten durch die Märkische Schweiz
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremse
+ rfahrten-durch-die-maerkische-schweiz-900029456-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028306@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260630T090000Z
+DTEND:20260630T100000Z
+SUMMARY:Meditation im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/medita
+ tion-im-baobab-900028306-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028750@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260630T153000Z
+SUMMARY:Qi Gong mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/qi-gon
+ g-mit-dem-kneipp-und-heimatverein-900028750-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028797@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260630T153000Z
+SUMMARY:Frauentanzgruppe mit dem Kneipp- und Heimatverein
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/frauen
+ tanzgruppe-mit-dem-kneipp-und-heimatverein-900028797-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026426@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260630T161500Z
+DTEND:20260630T174500Z
+SUMMARY:Kindertanz im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kinder
+ tanz-im-baobab-900026426-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900026748@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260630T180000Z
+DTEND:20260630T184500Z
+SUMMARY:Fitnesstanz im BaoBAB
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/fitnes
+ stanz-im-baobab-900026748-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900029672@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260630T190000Z
+SUMMARY:Lese- und Erzählabend im Gemeindehaus Rehfelde Dorf
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lese-u
+ nd-erzaehlabend-im-gemeindehaus-rehfelde-dorf-900029672-34490.html?naviID
+ =0
+END:VEVENT
+BEGIN:VEVENT
+UID:900025951@amtsfeed.de
+DTSTAMP:20260531T131506Z
+DTSTART:20260630T193000Z
+DTEND:20260630T213000Z
+SUMMARY:Dart-Abend
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dart-a
+ bend-900025951-34490.html?naviID=0
+END:VEVENT
+BEGIN:VEVENT
+UID:900028467@amtsfeed.de
+DTSTAMP:20260526T090319Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:Ausstellung: Sandra Hübner – Malerei
+URL:https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausste
+ llung-sandra-huebner-malerei-900028467-34490.html?naviID=0
 END:VEVENT
 BEGIN:VEVENT
 UID:900028470@amtsfeed.de

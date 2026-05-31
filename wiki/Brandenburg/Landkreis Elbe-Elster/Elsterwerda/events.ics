@@ -179,11 +179,40 @@ URL:https://www.elsterwerda.de/veranstaltung/keine-hochzeit-ist-auch-kein
  e-loesung/
 END:VEVENT
 BEGIN:VEVENT
+UID:23243@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20260605T180000Z
+SUMMARY:Nacht der Jugend
+URL:https://www.elsterwerda.de/veranstaltung/nacht-der-jugend/
+END:VEVENT
+BEGIN:VEVENT
+UID:23300@amtsfeed.de
+DTSTAMP:20260531T131348Z
+DTSTART:20260606T100000Z
+SUMMARY:Sommerfest in der Hundeschule
+URL:https://www.elsterwerda.de/veranstaltung/sommerfest-in-der-hundeschul
+ e/
+END:VEVENT
+BEGIN:VEVENT
 UID:22693@amtsfeed.de
 DTSTAMP:20260508T183929Z
 DTSTART:20260606T130000Z
 SUMMARY:Paarangeln am Schwertgraben
 URL:https://www.elsterwerda.de/veranstaltung/paarangeln-am-schwertgraben/
+END:VEVENT
+BEGIN:VEVENT
+UID:23245@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20260606T200000Z
+SUMMARY:Partynacht
+URL:https://www.elsterwerda.de/veranstaltung/partynacht/
+END:VEVENT
+BEGIN:VEVENT
+UID:23295@amtsfeed.de
+DTSTAMP:20260531T131348Z
+DTSTART:20260607T100000Z
+SUMMARY:Familienkirche
+URL:https://www.elsterwerda.de/veranstaltung/familienkirche-8/
 END:VEVENT
 BEGIN:VEVENT
 UID:22503@amtsfeed.de
@@ -198,6 +227,14 @@ DTSTAMP:20260508T183929Z
 DTSTART:20260607T140000Z
 SUMMARY:Kinderfest
 URL:https://www.elsterwerda.de/veranstaltung/kinderfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:23322@amtsfeed.de
+DTSTAMP:20260531T131348Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Goldenes Abitur 2026
+URL:https://www.elsterwerda.de/veranstaltung/goldenes-abitur-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:22708@amtsfeed.de
@@ -274,6 +311,13 @@ URL:https://www.elsterwerda.de/veranstaltung/kunstausstellung-schenkflohm
  arkt-kreativhaus-feldstr-8/
 END:VEVENT
 BEGIN:VEVENT
+UID:23324@amtsfeed.de
+DTSTAMP:20260531T131348Z
+DTSTART:20260626T160000Z
+SUMMARY:Bekränzung Abitur 2026
+URL:https://www.elsterwerda.de/veranstaltung/bekraenzung-abitur-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:22718@amtsfeed.de
 DTSTAMP:20260508T183929Z
 DTSTART;VALUE=DATE:20260627
@@ -314,6 +358,24 @@ SUMMARY:Familienkirche
 URL:https://www.elsterwerda.de/veranstaltung/familienkirche-4/
 END:VEVENT
 BEGIN:VEVENT
+UID:23326@amtsfeed.de
+DTSTAMP:20260531T131348Z
+DTSTART:20260707T140000Z
+SUMMARY:Rechtsberatung zu mietrechtlichen Angelegenheiten des Mieterverei
+ ns Finsterwalde und Umgebung e.V.
+URL:https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtl
+ ichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v/
+END:VEVENT
+BEGIN:VEVENT
+UID:23334@amtsfeed.de
+DTSTAMP:20260531T131348Z
+DTSTART:20260709T160000Z
+SUMMARY:Rechtsberatung zu mietrechtlichen Angelegenheiten des Mieterverei
+ ns Finsterwalde und Umgebung e.V.
+URL:https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtl
+ ichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-5/
+END:VEVENT
+BEGIN:VEVENT
 UID:10001927@amtsfeed.de
 DTSTAMP:20260508T183929Z
 DTSTART:20260711T140000Z
@@ -321,6 +383,15 @@ SUMMARY:Auf alten Heidewegen… „Kräuter- und Erlebnistour durch die H
  eidelandschaft um Kraupa“
 URL:https://www.elsterwerda.de/veranstaltung/auf-alten-heidewegen-kraeute
  r-und-erlebnistour-durch-die-heidelandschaft-um-kraupa/2026-07-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:23328@amtsfeed.de
+DTSTAMP:20260531T131348Z
+DTSTART:20260714T160000Z
+SUMMARY:Rechtsberatung zu mietrechtlichen Angelegenheiten des Mieterverei
+ ns Finsterwalde und Umgebung e.V.
+URL:https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtl
+ ichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:10001046@amtsfeed.de
@@ -343,6 +414,33 @@ DTSTAMP:20260508T183929Z
 DTSTART:20260718T070000Z
 SUMMARY:Fischerfest der OG Elster
 URL:https://www.elsterwerda.de/veranstaltung/fischerfest-der-og-elster/
+END:VEVENT
+BEGIN:VEVENT
+UID:23330@amtsfeed.de
+DTSTAMP:20260531T131348Z
+DTSTART:20260721T140000Z
+SUMMARY:Rechtsberatung zu mietrechtlichen Angelegenheiten des Mieterverei
+ ns Finsterwalde und Umgebung e.V.
+URL:https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtl
+ ichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:23336@amtsfeed.de
+DTSTAMP:20260531T131348Z
+DTSTART:20260723T160000Z
+SUMMARY:Rechtsberatung zu mietrechtlichen Angelegenheiten des Mieterverei
+ ns Finsterwalde und Umgebung e.V.
+URL:https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtl
+ ichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:23332@amtsfeed.de
+DTSTAMP:20260531T131348Z
+DTSTART:20260728T140000Z
+SUMMARY:Rechtsberatung zu mietrechtlichen Angelegenheiten des Mieterverei
+ ns Finsterwalde und Umgebung e.V.
+URL:https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtl
+ ichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:10001831@amtsfeed.de
@@ -400,5 +498,106 @@ DTSTAMP:20260508T183929Z
 DTSTART:20260912T140000Z
 SUMMARY:Federweißerfest
 URL:https://www.elsterwerda.de/veranstaltung/federweisserfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:21585@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20260912T160000Z
+SUMMARY:35 Jahre Jugendclub Banane – Jubiläumsfest
+URL:https://www.elsterwerda.de/veranstaltung/35-jahre-jugendclub-banane-j
+ ubilaeumsfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:10001048@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20260917T150000Z
+SUMMARY:Trauercafé Elsterwerda
+URL:https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2026-
+ 09-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:21848@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20260918T140000Z
+SUMMARY:Ausstellung Toralf Schirmer
+URL:https://www.elsterwerda.de/veranstaltung/ausstellung-toralf-schirmer/
+END:VEVENT
+BEGIN:VEVENT
+UID:10001929@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20260919T140000Z
+SUMMARY:Auf alten Heidewegen… „Kräuter- und Erlebnistour durch die H
+ eidelandschaft um Kraupa“
+URL:https://www.elsterwerda.de/veranstaltung/auf-alten-heidewegen-kraeute
+ r-und-erlebnistour-durch-die-heidelandschaft-um-kraupa/2026-09-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:22517@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20260920T100000Z
+SUMMARY:Familienkirche
+URL:https://www.elsterwerda.de/veranstaltung/familienkirche-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:22519@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20261004T100000Z
+SUMMARY:Familienkirche
+URL:https://www.elsterwerda.de/veranstaltung/familienkirche-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:10001930@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20261010T140000Z
+SUMMARY:Auf alten Heidewegen… „Kräuter- und Erlebnistour durch die H
+ eidelandschaft um Kraupa“
+URL:https://www.elsterwerda.de/veranstaltung/auf-alten-heidewegen-kraeute
+ r-und-erlebnistour-durch-die-heidelandschaft-um-kraupa/2026-10-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:10001049@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20261015T150000Z
+SUMMARY:Trauercafé Elsterwerda
+URL:https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2026-
+ 10-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:21589@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20261031T150000Z
+SUMMARY:Halloween-Kinderparty
+URL:https://www.elsterwerda.de/veranstaltung/halloween-kinderparty/
+END:VEVENT
+BEGIN:VEVENT
+UID:22521@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20261108T100000Z
+SUMMARY:Familienkirche Martinstag
+URL:https://www.elsterwerda.de/veranstaltung/familienkirche-martinstag/
+END:VEVENT
+BEGIN:VEVENT
+UID:22523@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20261110T170000Z
+SUMMARY:Familienkirche Martinstag
+URL:https://www.elsterwerda.de/veranstaltung/familienkirche-martinstag-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:10001931@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20261114T140000Z
+SUMMARY:Auf alten Heidewegen… „Kräuter- und Erlebnistour durch die H
+ eidelandschaft um Kraupa“
+URL:https://www.elsterwerda.de/veranstaltung/auf-alten-heidewegen-kraeute
+ r-und-erlebnistour-durch-die-heidelandschaft-um-kraupa/2026-11-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:10001050@amtsfeed.de
+DTSTAMP:20260526T090153Z
+DTSTART:20261119T150000Z
+SUMMARY:Trauercafé Elsterwerda
+URL:https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2026-
+ 11-19/
 END:VEVENT
 END:VCALENDAR

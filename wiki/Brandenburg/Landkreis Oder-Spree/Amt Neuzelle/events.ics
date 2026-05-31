@@ -7,6 +7,16 @@ X-WR-CALNAME:Amt Neuzelle
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Neuzelle
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:veranstaltungen-2900127-2026-06-26-food-music-neuzelle.html@amtsfeed.
+ de
+DTSTAMP:20260526T090411Z
+DTSTART:20260626T150000Z
+DTEND:20260626T220000Z
+SUMMARY:Food Music Neuzelle
+URL:https://www.neuzelle.de/veranstaltungen/2900127/2026/06/26/food-music
+ -neuzelle.html
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2839673-2026-09-12-100-jahre-feuerwehr-und-steinsdorf
  -und-steinsdorftreffen.html@amtsfeed.de
 DTSTAMP:20260506T081641Z

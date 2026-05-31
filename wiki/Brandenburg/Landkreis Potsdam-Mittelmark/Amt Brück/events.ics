@@ -7,15 +7,6 @@ X-WR-CALNAME:Amt Brück
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Brück
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:amt-brueck-event-2364624@amtsfeed.de
-DTSTAMP:20260506T123009Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-SUMMARY:Gesprächs- und Informationsforum "Frauenfrühstück"
-URL:https://www.amt-brueck.de/veranstaltungen/2364624/2026/05/11/gespräc
- hs-und-informationsforum-frauenfrühstück.html
-END:VEVENT
-BEGIN:VEVENT
 UID:amt-brueck-event-2861447@amtsfeed.de
 DTSTAMP:20260506T123009Z
 DTSTART;VALUE=DATE:20260514
@@ -61,6 +52,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/2819553/2026/05/25/mühlent
  ag.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-2900677@amtsfeed.de
+DTSTAMP:20260526T090441Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:26.05. ist schulfrei
+URL:https://www.amt-brueck.de/veranstaltungen/2900677/2026/05/26/26.05.-i
+ st-schulfrei.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2852201@amtsfeed.de
 DTSTAMP:20260506T123009Z
 DTSTART;VALUE=DATE:20260530
@@ -77,6 +77,15 @@ DTEND;VALUE=DATE:20260531
 SUMMARY:Dorftrödelmarkt / Offene Höfe
 URL:https://www.amt-brueck.de/veranstaltungen/2870446/2026/05/30/dorftrö
  delmarkt-offene-höfe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-2906022@amtsfeed.de
+DTSTAMP:20260526T090441Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Feuerwehrfest - 10 Jahre neues Gerätehaus + JF in Gömnigk
+URL:https://www.amt-brueck.de/veranstaltungen/2906022/2026/05/30/feuerweh
+ rfest-10-jahre-neues-gerätehaus--jf-in-gömnigk.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2898063@amtsfeed.de
@@ -97,13 +106,40 @@ URL:https://www.amt-brueck.de/veranstaltungen/2819555/2026/06/06/140-jahr
  e-chorjubiläum-cammer.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-2364624@amtsfeed.de
+DTSTAMP:20260526T090441Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Gesprächs- und Informationsforum "Frauenfrühstück"
+URL:https://www.amt-brueck.de/veranstaltungen/2364624/2026/06/08/gespräc
+ hs-und-informationsforum-frauenfrühstück.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2880313@amtsfeed.de
-DTSTAMP:20260506T123009Z
+DTSTAMP:20260531T131644Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-SUMMARY:Kinderfest und Blaulichtparty
+SUMMARY:Kinderfest
 URL:https://www.amt-brueck.de/veranstaltungen/2880313/2026/06/13/kinderfe
- st-und-blaulichtparty.html
+ st.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-2900899@amtsfeed.de
+DTSTAMP:20260526T090441Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Freundschafts-Tischtennisturnier
+URL:https://www.amt-brueck.de/veranstaltungen/2900899/2026/06/13/freundsc
+ hafts-tischtennisturnier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-2908999@amtsfeed.de
+DTSTAMP:20260531T131644Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Blaulichtparty
+URL:https://www.amt-brueck.de/veranstaltungen/2908999/2026/06/13/blaulich
+ tparty.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2886546@amtsfeed.de
@@ -124,6 +160,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/2783036/2026/06/26/775-jahr
  e-gömnigk-und-trebitz.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-2907669@amtsfeed.de
+DTSTAMP:20260526T090441Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Plane Beats
+URL:https://www.amt-brueck.de/veranstaltungen/2907669/2026/06/26/plane-be
+ ats.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2870448@amtsfeed.de
 DTSTAMP:20260506T123009Z
 DTSTART;VALUE=DATE:20260627
@@ -131,6 +176,15 @@ DTEND;VALUE=DATE:20260628
 SUMMARY:Theater an der Mühle
 URL:https://www.amt-brueck.de/veranstaltungen/2870448/2026/06/27/theater-
  an-der-mühle.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-2907659@amtsfeed.de
+DTSTAMP:20260531T131644Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Sommerkonzert "Chor am Burgwall"
+URL:https://www.amt-brueck.de/veranstaltungen/2907659/2026/06/28/sommerko
+ nzert-chor-am-burgwall.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2859140@amtsfeed.de
@@ -160,6 +214,24 @@ URL:https://www.amt-brueck.de/veranstaltungen/2819556/2026/07/12/oldtimer
  treffen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-2905387@amtsfeed.de
+DTSTAMP:20260526T090441Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Bürgerberatung zu Wasser und Boden
+URL:https://www.amt-brueck.de/veranstaltungen/2905387/2026/07/21/bürgerb
+ eratung-zu-wasser-und-boden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-2909106@amtsfeed.de
+DTSTAMP:20260531T131644Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Wasser- und Bodenanalysen
+URL:https://www.amt-brueck.de/veranstaltungen/2909106/2026/07/21/wasser-u
+ nd-bodenanalysen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2819557@amtsfeed.de
 DTSTAMP:20260506T123009Z
 DTSTART;VALUE=DATE:20260801
@@ -176,6 +248,24 @@ DTEND;VALUE=DATE:20260816
 SUMMARY:Schätze von Planebruch
 URL:https://www.amt-brueck.de/veranstaltungen/2819558/2026/08/15/schätze
  -von-planebruch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-2907662@amtsfeed.de
+DTSTAMP:20260526T090441Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Titanen - das Turnier
+URL:https://www.amt-brueck.de/veranstaltungen/2907662/2026/08/22/titanen-
+ das-turnier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-2907667@amtsfeed.de
+DTSTAMP:20260526T090441Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Kartoffelfest
+URL:https://www.amt-brueck.de/veranstaltungen/2907667/2026/08/23/kartoffe
+ lfest.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2861450@amtsfeed.de

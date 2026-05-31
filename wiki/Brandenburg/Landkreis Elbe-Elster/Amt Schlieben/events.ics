@@ -138,6 +138,14 @@ SUMMARY:Kindertag
 URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
 END:VEVENT
 BEGIN:VEVENT
+UID:schlieben-event-20260613-sommerfest-berga@amtsfeed.de
+DTSTAMP:20260526T090148Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Sommerfest Berga
+URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
+END:VEVENT
+BEGIN:VEVENT
 UID:schlieben-event-20260613-17-weinkeller-stra-en-turnier-im-doppelk@amt
  sfeed.de
 DTSTAMP:20260508T185357Z

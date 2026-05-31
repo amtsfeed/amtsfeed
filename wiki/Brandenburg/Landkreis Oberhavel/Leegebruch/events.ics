@@ -28,12 +28,42 @@ LOCATION:Sitzungssaal des Rathauses
 END:VEVENT
 BEGIN:VEVENT
 UID:leegebruch-event-2892677@amtsfeed.de
-DTSTAMP:20260506T152732Z
+DTSTAMP:20260526T090401Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-SUMMARY:Werksausschuss tagt am
+SUMMARY:Schließzeiten der in der Trägerschaft der Gemeinde Leegebruch b
+ efindlichen Kindertagesstätte
 URL:https://www.leegebruch.de/veranstaltungen/2892677/2026/05/28/werksaus
  schuss-tagt-am.html
+END:VEVENT
+BEGIN:VEVENT
+UID:leegebruch-event-2892679@amtsfeed.de
+DTSTAMP:20260531T131602Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Schließzeiten der in der Trägerschaft der Gemeinde Leegebruch b
+ efindlichen Kindertagesstätte
+URL:https://www.leegebruch.de/veranstaltungen/2892679/2026/06/04/hauptaus
+ schuss-tagt-am.html
+END:VEVENT
+BEGIN:VEVENT
+UID:leegebruch-event-2892230@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Blutspendetermin am
+URL:https://www.leegebruch.de/veranstaltungen/2892230/2026/06/16/blutspen
+ determin-am.html
+LOCATION:Sitzungssaal des Rathauses
+END:VEVENT
+BEGIN:VEVENT
+UID:leegebruch-event-2892681@amtsfeed.de
+DTSTAMP:20260531T131602Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Gemeindevertretung tagt am
+URL:https://www.leegebruch.de/veranstaltungen/2892681/2026/06/18/gemeinde
+ vertretung-tagt-am.html
 LOCATION:Sitzungssaal des Rathauses
 END:VEVENT
 END:VCALENDAR

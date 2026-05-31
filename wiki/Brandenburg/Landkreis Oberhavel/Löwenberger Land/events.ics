@@ -254,6 +254,15 @@ URL:https://www.loewenberger-land.de/veranstaltungen/2888894/2026/05/28/s
 LOCATION:DGH Nassenheide\, Am Dorfanger 25
 END:VEVENT
 BEGIN:VEVENT
+UID:loewenberger-land-event-2908832-2026-05-31@amtsfeed.de
+DTSTAMP:20260531T131603Z
+DTSTART:20260531T100000Z
+SUMMARY:Offene Gärten Oberhavel
+URL:https://www.loewenberger-land.de/veranstaltungen/2908832/2026/05/31/o
+ ffene-gärten-oberhavel.html
+LOCATION:Oberhavel
+END:VEVENT
+BEGIN:VEVENT
 UID:loewenberger-land-event-2893529-2026-05-31@amtsfeed.de
 DTSTAMP:20260506T202025Z
 DTSTART:20260531T130000Z
@@ -419,6 +428,15 @@ URL:https://www.loewenberger-land.de/veranstaltungen/2875681/2026/06/13/f
 LOCATION:Grieben - Kranichs Ackermuseum
 END:VEVENT
 BEGIN:VEVENT
+UID:loewenberger-land-event-2909087-2026-06-13@amtsfeed.de
+DTSTAMP:20260531T131603Z
+DTSTART:20260613T090000Z
+SUMMARY:Brandenburger Landpartie
+URL:https://www.loewenberger-land.de/veranstaltungen/2909087/2026/06/13/b
+ randenburger-landpartie.html
+LOCATION:Luisenhof Liebenberg
+END:VEVENT
+BEGIN:VEVENT
 UID:loewenberger-land-event-2878513-2026-06-13@amtsfeed.de
 DTSTAMP:20260506T202025Z
 DTSTART:20260613T140000Z
@@ -508,6 +526,35 @@ SUMMARY:Seniorengymnastik am Donnerstag
 URL:https://www.loewenberger-land.de/veranstaltungen/2843943/2026/06/18/s
  eniorengymnastik-am-donnerstag.html
 LOCATION:DGH Nassenheide\, Am Dorfanger 25
+END:VEVENT
+BEGIN:VEVENT
+UID:loewenberger-land-event-2904544-2026-06-19@amtsfeed.de
+DTSTAMP:20260526T090402Z
+DTSTART:20260619T190000Z
+SUMMARY:Löwenberger Festwochenende
+URL:https://www.loewenberger-land.de/veranstaltungen/2904544/2026/06/19/l
+ öwenberger-festwochenende.html
+LOCATION:Im Hain Löwenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:loewenberger-land-event-2904547-2026-06-20@amtsfeed.de
+DTSTAMP:20260526T090402Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:WM-Party
+URL:https://www.loewenberger-land.de/veranstaltungen/2904547/2026/06/20/w
+ m-party.html
+LOCATION:Im Hain Löwenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:loewenberger-land-event-2904549-2026-06-21@amtsfeed.de
+DTSTAMP:20260526T090402Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Picknick in Weiß
+URL:https://www.loewenberger-land.de/veranstaltungen/2904549/2026/06/21/p
+ icknick-in-weiß.html
+LOCATION:Im Hain Löwenberg
 END:VEVENT
 BEGIN:VEVENT
 UID:loewenberger-land-event-2893529-2026-06-21@amtsfeed.de
@@ -1059,6 +1106,16 @@ SUMMARY:Seniorengymnastik am Donnerstag
 URL:https://www.loewenberger-land.de/veranstaltungen/2843943/2026/08/13/s
  eniorengymnastik-am-donnerstag.html
 LOCATION:DGH Nassenheide\, Am Dorfanger 25
+END:VEVENT
+BEGIN:VEVENT
+UID:loewenberger-land-event-2900787-2026-08-16@amtsfeed.de
+DTSTAMP:20260526T090402Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Liebenberg im Tangofieber
+URL:https://www.loewenberger-land.de/veranstaltungen/2900787/2026/08/16/l
+ iebenberg-im-tangofieber.html
+LOCATION:Musikscheune Liebenberg
 END:VEVENT
 BEGIN:VEVENT
 UID:loewenberger-land-event-2893529-2026-08-16@amtsfeed.de
@@ -2522,5 +2579,50 @@ SUMMARY:Romm&eacute\; spielen im Dorfgemeinschaftshaus Großmutz
 URL:https://www.loewenberger-land.de/veranstaltungen/2521191/2027/05/04/r
  ommé-spielen-im-dorfgemeinschaftshaus-großmutz.html
 LOCATION:Großmutz
+END:VEVENT
+BEGIN:VEVENT
+UID:loewenberger-land-event-2823129-2027-05-10@amtsfeed.de
+DTSTAMP:20260526T090402Z
+DTSTART:20270510T193000Z
+SUMMARY:Sport in Neulöwenberg
+URL:https://www.loewenberger-land.de/veranstaltungen/2823129/2027/05/10/s
+ port-in-neulöwenberg.html
+LOCATION:Neulöwenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:loewenberger-land-event-2823129-2027-05-17@amtsfeed.de
+DTSTAMP:20260526T090402Z
+DTSTART:20270517T193000Z
+SUMMARY:Sport in Neulöwenberg
+URL:https://www.loewenberger-land.de/veranstaltungen/2823129/2027/05/17/s
+ port-in-neulöwenberg.html
+LOCATION:Neulöwenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:loewenberger-land-event-2521191-2027-05-18@amtsfeed.de
+DTSTAMP:20260526T090402Z
+DTSTART:20270518T140000Z
+SUMMARY:Romm&eacute\; spielen im Dorfgemeinschaftshaus Großmutz
+URL:https://www.loewenberger-land.de/veranstaltungen/2521191/2027/05/18/r
+ ommé-spielen-im-dorfgemeinschaftshaus-großmutz.html
+LOCATION:Großmutz
+END:VEVENT
+BEGIN:VEVENT
+UID:loewenberger-land-event-2823129-2027-05-24@amtsfeed.de
+DTSTAMP:20260526T090402Z
+DTSTART:20270524T193000Z
+SUMMARY:Sport in Neulöwenberg
+URL:https://www.loewenberger-land.de/veranstaltungen/2823129/2027/05/24/s
+ port-in-neulöwenberg.html
+LOCATION:Neulöwenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:loewenberger-land-event-2823129-2027-05-31@amtsfeed.de
+DTSTAMP:20260531T131603Z
+DTSTART:20270531T193000Z
+SUMMARY:Sport in Neulöwenberg
+URL:https://www.loewenberger-land.de/veranstaltungen/2823129/2027/05/31/s
+ port-in-neulöwenberg.html
+LOCATION:Neulöwenberg
 END:VEVENT
 END:VCALENDAR

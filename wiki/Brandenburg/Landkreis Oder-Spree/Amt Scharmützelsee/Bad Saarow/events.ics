@@ -7,15 +7,6 @@ X-WR-CALNAME:Bad Saarow
 X-WR-CALDESC:Amtliche Veranstaltungen für Bad Saarow
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-hulahoop-im-kurpark@amtsfeed.de
-DTSTAMP:20260505T155040Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
- park
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
  eed.de
 DTSTAMP:20260505T155040Z
@@ -24,15 +15,6 @@ DTEND;VALUE=DATE:20260506
 SUMMARY:Aktiv Wochenplan - Morgen-Paddeltour mit der YAAS
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-morgen-paddelto
  ur-mit-der-yaas
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
-DTSTAMP:20260505T155040Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:Linienfahrten Hauptsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
- ch
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-l
@@ -46,15 +28,6 @@ URL:https://www.scharmuetzelsee.de/event/unruhestand-kultur-am-nachmittag
  -bebbo-kuester-mein-leben-ein-kessel-buntes
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260505T155040Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
 DTSTAMP:20260505T155040Z
 DTSTART;VALUE=DATE:20260506
@@ -64,13 +37,92 @@ URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
  m-morgen
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-hulahoop-im-kurpark@amtsfeed.de
+DTSTAMP:20260526T090412Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
+ park
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20260526T090412Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-glueckliche-fuesse@amtsfeed.de
+DTSTAMP:20260526T090412Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Glückliche Füße
+URL:https://www.scharmuetzelsee.de/event/glueckliche-fuesse
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-radtour-zwischen-burg-und-see-natur-und-kultur-erfahr
+ en-mit-dem-gruenen-lutz@amtsfeed.de
+DTSTAMP:20260526T090412Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Radtour: Zwischen Burg und See – Natur und Kultur erfahren mit 
+ dem grünen Lutz
+URL:https://www.scharmuetzelsee.de/event/radtour-zwischen-burg-und-see-na
+ tur-und-kultur-erfahren-mit-dem-gruenen-lutz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
+DTSTAMP:20260531T131612Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Linienfahrten Hauptsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
+ ch
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-geburtstagsfeier-650-jahre-wendisch-rietz@amtsfeed.de
-DTSTAMP:20260505T155040Z
-DTSTART;VALUE=DATE:20260529
+DTSTAMP:20260531T131612Z
+DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
 SUMMARY:Geburtstagsfeier 650 Jahre Wendisch Rietz
 URL:https://www.scharmuetzelsee.de/event/geburtstagsfeier-650-jahre-wendi
  sch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-mini-kneippkur@amtsfeed.de
+DTSTAMP:20260531T131612Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Aktiv Wochenplan - Mini Kneippkur
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
+DTSTAMP:20260531T131612Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Ortsführung durch den Kurort Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-kneippsegeln-ab-wendisch-rietz@amtsfeed.de
+DTSTAMP:20260531T131612Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Kneippsegeln ab Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/kneippsegeln-ab-wendisch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-fruehshoppen-auf-der-festwiese@amtsfeed.de
+DTSTAMP:20260531T131612Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Frühshoppen auf der Festwiese
+URL:https://www.scharmuetzelsee.de/event/fruehshoppen-auf-der-festwiese
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-lesung-mit-nicci-schmieder@amtsfeed.de

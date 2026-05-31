@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Heideblick
+X-WR-CALDESC:Amtliche Veranstaltungen für Heideblick
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:heideblick-event-2896160-20260508@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Burgerday
+URL:https://www.heideblick.de/veranstaltungen/2896160/2026/05/08/burgerda
+ y.html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2890614-20260510@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:Tag der Natur und des Handwerks
+URL:https://www.heideblick.de/veranstaltungen/2890614/2026/05/10/tag-der-
+ natur-und-des-handwerks.html
+LOCATION:Höllberghof
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2895210-20260514@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Die "3 Damen vom Grill" laden ein.
+URL:https://www.heideblick.de/veranstaltungen/2895210/2026/05/14/die-3-da
+ men-vom-grill-laden-ein.html
+LOCATION:Sportplatz Waltersdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2868796-20260514@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Himmelfahrt
+URL:https://www.heideblick.de/veranstaltungen/2868796/2026/05/14/himmelfa
+ hrt.html
+LOCATION:Schulmuseum Schwarzenburg
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2895206-20260514@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Männertag am Sportlerheim
+URL:https://www.heideblick.de/veranstaltungen/2895206/2026/05/14/männert
+ ag-am-sportlerheim.html
+LOCATION:Gaststätte Sportlerheim SV Walddrehna 72
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2883406-20260523@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Töpfern
+URL:https://www.heideblick.de/veranstaltungen/2883406/2026/05/23/töpfern
+ .html
+LOCATION:Grundschule Walddrehna
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2860288-20260523@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Jugendliebe
+URL:https://www.heideblick.de/veranstaltungen/2860288/2026/05/23/jugendli
+ ebe.html
+LOCATION:Waldbühne Gehren
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2860289-20260530@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Die Casanovas - ABGESAGT!
+URL:https://www.heideblick.de/veranstaltungen/2860289/2026/05/30/die-casa
+ novas-abgesagt.html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2881192-20260530@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Dorffest Waltersdorf
+URL:https://www.heideblick.de/veranstaltungen/2881192/2026/05/30/dorffest
+ -waltersdorf.html
+LOCATION:Spielplatz Waltersdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2899638-20260531@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Kinderfest
+URL:https://www.heideblick.de/veranstaltungen/2899638/2026/05/31/kinderfe
+ st.html
+LOCATION:Langengrassau
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2890973-20260603@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Senior-innentag
+URL:https://www.heideblick.de/veranstaltungen/2890973/2026/06/03/senior-i
+ nnentag.html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2899654-20260606@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:800 Jahre Wüstermarke
+URL:https://www.heideblick.de/veranstaltungen/2899654/2026/06/06/800-jahr
+ e-wüstermarke.html
+LOCATION:Wüstermarke
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2865958-20260607@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Kinderfest
+URL:https://www.heideblick.de/veranstaltungen/2865958/2026/06/07/kinderfe
+ st.html
+LOCATION:Waldbühne Gehren
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2907810-20260613@amtsfeed.de
+DTSTAMP:20260531T131324Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Zwergen-Sommerfest in Kemlitz: Ein Tag voller Abenteuer für die 
+  ganze Familie
+URL:https://www.heideblick.de/veranstaltungen/2907810/2026/06/13/zwergen-
+ sommerfest-in-kemlitz-ein-tag-voller-abenteuer-für-die-ganze-familie.htm
+ l
+LOCATION:Kemlitz
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2899959-20260620@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Kinder- und Sommerfest
+URL:https://www.heideblick.de/veranstaltungen/2899959/2026/06/20/kinder-u
+ nd-sommerfest.html
+LOCATION:Freiwillige Feuerwehr Goßmar
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2896156-20260620@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Trödelmarkt in Schwarzenburg
+URL:https://www.heideblick.de/veranstaltungen/2896156/2026/06/20/trödelm
+ arkt-in-schwarzenburg.html
+LOCATION:Schulmuseum Schwarzenburg
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2899568-20260620@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Kinderflohmarkt
+URL:https://www.heideblick.de/veranstaltungen/2899568/2026/06/20/kinderfl
+ ohmarkt.html
+LOCATION:Freiwillige Feuerwehr Walddrehna
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2899569-20260620@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:3. Kindersommerfest Walddrehna
+URL:https://www.heideblick.de/veranstaltungen/2899569/2026/06/20/3.-kinde
+ rsommerfest-walddrehna.html
+LOCATION:Freiwillige Feuerwehr Walddrehna
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2865862-20260627@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Simsontreffen Gehren
+URL:https://www.heideblick.de/veranstaltungen/2865862/2026/06/27/simsontr
+ effen-gehren.html
+LOCATION:Gehren
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2908044-20260627@amtsfeed.de
+DTSTAMP:20260531T131324Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Töpfern
+URL:https://www.heideblick.de/veranstaltungen/2908044/2026/06/27/töpfern
+ .html
+LOCATION:Grundschule Walddrehna
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2908045-20260710@amtsfeed.de
+DTSTAMP:20260531T131324Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Töpfern
+URL:https://www.heideblick.de/veranstaltungen/2908045/2026/07/10/töpfern
+ .html
+LOCATION:Grundschule Walddrehna
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2865946-20260725@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Die Ossis - Rock meets Classic
+URL:https://www.heideblick.de/veranstaltungen/2865946/2026/07/25/die-ossi
+ s-rock-meets-classic.html
+LOCATION:Waldbühne Gehren
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2908027-20260801@amtsfeed.de
+DTSTAMP:20260531T131324Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Irischer Abend
+URL:https://www.heideblick.de/veranstaltungen/2908027/2026/08/01/irischer
+ -abend.html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2865951-20260809@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:Inge Borg - Radeberger Biertheater
+URL:https://www.heideblick.de/veranstaltungen/2865951/2026/08/09/inge-bor
+ g-radeberger-biertheater.html
+LOCATION:Waldbühne Gehren
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2865977-20260828@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Rock im Wald
+URL:https://www.heideblick.de/veranstaltungen/2865977/2026/08/28/rock-im-
+ wald.html
+LOCATION:Waldbühne Gehren
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2865972-20260918@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Laternenabeneteuer
+URL:https://www.heideblick.de/veranstaltungen/2865972/2026/09/18/laternen
+ abeneteuer.html
+LOCATION:Waldbühne Gehren
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2865953-20261107@amtsfeed.de
+DTSTAMP:20260508T175922Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Jugendliebe im Herbst
+URL:https://www.heideblick.de/veranstaltungen/2865953/2026/11/07/jugendli
+ ebe-im-herbst.html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+END:VCALENDAR

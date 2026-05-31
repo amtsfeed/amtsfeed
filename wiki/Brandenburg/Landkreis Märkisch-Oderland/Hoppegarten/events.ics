@@ -52,6 +52,16 @@ URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2897235/2026/05/2
 LOCATION:Mahlsdorfer Str. 61\, 15366 Hoppegarten/OT Hönow
 END:VEVENT
 BEGIN:VEVENT
+UID:2901057@amtsfeed.de
+DTSTAMP:20260526T090321Z
+DTSTART:20260530T100000Z
+SUMMARY:125 Jahre Feuerwehr Dahlwitz-Hoppegarten
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2901057/2026/05/3
+ 0/125-jahre-feuerwehr-dahlwitz-hoppegarten.html
+LOCATION:Feuerwehrgerätehaus Dahlwitz-Hoppegarten\, An der Feuerwehr 1\,
+  Hoppegarten
+END:VEVENT
+BEGIN:VEVENT
 UID:2897883@amtsfeed.de
 DTSTAMP:20260506T053103Z
 DTSTART:20260530T140000Z
@@ -82,6 +92,15 @@ URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2886308/2026/06/0
 LOCATION:Haus der Generationen\, Lindenallee 12\, 15366 Hoppegarten
 END:VEVENT
 BEGIN:VEVENT
+UID:2901053@amtsfeed.de
+DTSTAMP:20260526T090321Z
+DTSTART:20260605T150000Z
+SUMMARY:Kinder- Straßen- und Sommerfest
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2901053/2026/06/0
+ 5/kinder-straßen-und-sommerfest.html
+LOCATION:Straße Am Berge
+END:VEVENT
+BEGIN:VEVENT
 UID:2888688@amtsfeed.de
 DTSTAMP:20260506T053103Z
 DTSTART:20260605T190000Z
@@ -100,6 +119,15 @@ URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2886306/2026/06/0
 LOCATION:Haus der Generationen\, Lindenallee 12\, 15366 Hoppegarten
 END:VEVENT
 BEGIN:VEVENT
+UID:2901733@amtsfeed.de
+DTSTAMP:20260526T090321Z
+DTSTART:20260609T160000Z
+SUMMARY:Patientenverfügung - Informationsveranstaltung
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2901733/2026/06/0
+ 9/patientenverfügung-informationsveranstaltung.html
+LOCATION:Mahlsdorfer Str. 61\, 15366 Hoppegarten/OT Hönow
+END:VEVENT
+BEGIN:VEVENT
 UID:2846757@amtsfeed.de
 DTSTAMP:20260506T053103Z
 DTSTART:20260613T100000Z
@@ -109,6 +137,15 @@ URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2846757/2026/06/1
 LOCATION:Startpunkt siehe Flyer
 END:VEVENT
 BEGIN:VEVENT
+UID:2905210@amtsfeed.de
+DTSTAMP:20260526T090321Z
+DTSTART:20260617T170000Z
+SUMMARY:Vernissage "Im Rhythmus der Farbe"
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2905210/2026/06/1
+ 7/vernissage-im-rhythmus-der-farbe.html
+LOCATION:Rathaus Hoppegarten
+END:VEVENT
+BEGIN:VEVENT
 UID:2861607@amtsfeed.de
 DTSTAMP:20260506T053103Z
 DTSTART:20260618T150000Z
@@ -116,5 +153,32 @@ SUMMARY:4. Gründer- und Unternehmertag 2026
 URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2861607/2026/06/1
  8/4.-gründer-und-unternehmertag-2026.html
 LOCATION:STIC- Gelände TP 6\, Garzauer Chaussee 1a\, 15344 Strausberg
+END:VEVENT
+BEGIN:VEVENT
+UID:2901740@amtsfeed.de
+DTSTAMP:20260526T090321Z
+DTSTART:20260620T140000Z
+SUMMARY:Familienfest auf dem Bolzplatz Birkenstein
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2901740/2026/06/2
+ 0/familienfest-auf-dem-bolzplatz-birkenstein.html
+LOCATION:Bolzplatz Birkenstein
+END:VEVENT
+BEGIN:VEVENT
+UID:2906645@amtsfeed.de
+DTSTAMP:20260526T090321Z
+DTSTART:20260625T190000Z
+SUMMARY:HOPPEGARTENER KULTURREIHEN
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2906645/2026/06/2
+ 5/hoppegartener-kulturreihen.html
+LOCATION:Haus der Generationen\, Lindenallee 12\, 15366 Hoppegarten
+END:VEVENT
+BEGIN:VEVENT
+UID:2846758@amtsfeed.de
+DTSTAMP:20260531T131509Z
+DTSTART:20260829T100000Z
+SUMMARY:CleanUpDay
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2846758/2026/08/2
+ 9/cleanupday.html
+LOCATION:Startpunkt siehe Flyer
 END:VEVENT
 END:VCALENDAR

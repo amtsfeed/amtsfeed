@@ -127,6 +127,16 @@ URL:https://www.kremmen.de/veranstaltungen/2896187/2026/05/16/frühstück
 LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2901879@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Picknickkorb
+URL:https://www.kremmen.de/veranstaltungen/2901879/2026/05/16/picknickkor
+ b.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2846289@amtsfeed.de
 DTSTAMP:20260506T201908Z
 DTSTART;VALUE=DATE:20260522
@@ -217,6 +227,16 @@ URL:https://www.kremmen.de/veranstaltungen/2881060/2026/05/30/sebastian-l
 LOCATION:Kultur & Beeren UG
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2905389@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Abendbrot und Drinks / verlängerte Öffnungszeit ab 05.06.2026
+URL:https://www.kremmen.de/veranstaltungen/2905389/2026/06/05/abendbrot-u
+ nd-drinks-verlängerte-öffnungszeit-ab-05.06.2026.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2889458@amtsfeed.de
 DTSTAMP:20260506T201908Z
 DTSTART;VALUE=DATE:20260606
@@ -227,6 +247,16 @@ URL:https://www.kremmen.de/veranstaltungen/2889458/2026/06/06/fahrradcodi
 LOCATION:Kremmen\, Marktplatz
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2901874@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Frühstück am Bahnhof Beetz-Sommerfeld
+URL:https://www.kremmen.de/veranstaltungen/2901874/2026/06/06/frühstück
+ -am-bahnhof-beetz-sommerfeld.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2864394@amtsfeed.de
 DTSTAMP:20260506T201908Z
 DTSTART;VALUE=DATE:20260607
@@ -235,6 +265,27 @@ SUMMARY:Konzert des Norddeutschen Kammerchores in Kremmen
 URL:https://www.kremmen.de/veranstaltungen/2864394/2026/06/07/konzert-des
  -norddeutschen-kammerchores-in-kremmen.html
 LOCATION:Kirche Kremmen
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2909672@amtsfeed.de
+DTSTAMP:20260531T131600Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Von Angesicht zu Angesicht - diesmal geht es um &bdquo\;Naturschu
+ tz rund um Kremmen&ldquo\;
+URL:https://www.kremmen.de/veranstaltungen/2909672/2026/06/10/von-angesic
+ ht-zu-angesicht-diesmal-geht-es-um-naturschutz-rund-um-kremmen.html
+LOCATION:Kultur & Beeren UG
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2910350@amtsfeed.de
+DTSTAMP:20260531T131600Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Gift und Honig - Autorenlesung mit Patricia Vellard
+URL:https://www.kremmen.de/veranstaltungen/2910350/2026/06/12/gift-und-ho
+ nig-autorenlesung-mit-patricia-vellard.html
+LOCATION:Museumsscheune
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2824695@amtsfeed.de
@@ -257,6 +308,66 @@ URL:https://www.kremmen.de/veranstaltungen/2881933/2026/06/13/julius-fisc
 LOCATION:Kultur & Beeren UG
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2901876@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Frühstück am Gleis / Caf&eacute\; Sommerfeld
+URL:https://www.kremmen.de/veranstaltungen/2901876/2026/06/13/frühstück
+ -am-gleis-café-sommerfeld.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2904071@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:HOBBYHORSE Training
+URL:https://www.kremmen.de/veranstaltungen/2904071/2026/06/14/hobbyhorse-
+ training.html
+LOCATION:Sportplatz Kremmen
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2906125@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:KULTUR & BEEREN PUBLIC VIEWING
+URL:https://www.kremmen.de/veranstaltungen/2906125/2026/06/14/kultur-beer
+ en-public-viewing.html
+LOCATION:Kultur & Beeren UG
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2907741@amtsfeed.de
+DTSTAMP:20260531T131600Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Fundsachenversteigerung im Innenhof des Rathauses
+URL:https://www.kremmen.de/veranstaltungen/2907741/2026/06/16/fundsachenv
+ ersteigerung-im-innenhof-des-rathauses.html
+LOCATION:Rathaus Kremmen\, Innenhof\, Zugang über die Mühlenstraße
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2906234@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Klappstuhl - Theater  BROADWAY MUSICAL NACHT
+URL:https://www.kremmen.de/veranstaltungen/2906234/2026/06/20/klappstuhl-
+ theater-broadway-musical-nacht.html
+LOCATION:Sportplatz Staffelde\, Nauener Chaussee 3
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2907132@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Trödelmarkt
+URL:https://www.kremmen.de/veranstaltungen/2907132/2026/06/21/trödelmark
+ t.html
+LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2881934@amtsfeed.de
 DTSTAMP:20260506T201908Z
 DTSTART;VALUE=DATE:20260626
@@ -275,6 +386,26 @@ SUMMARY:Johannisfest in Kremmen
 URL:https://www.kremmen.de/veranstaltungen/2887332/2026/06/27/johannisfes
  t-in-kremmen.html
 LOCATION:Kirche Kremmen
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2901878@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Frühstück Caf&eacute\; Sommerfeld
+URL:https://www.kremmen.de/veranstaltungen/2901878/2026/06/27/frühstück
+ -café-sommerfeld.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2900192@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Geschichte der Ruppiner Schifffahrt - Eröffnung der Ausstellung
+URL:https://www.kremmen.de/veranstaltungen/2900192/2026/06/27/geschichte-
+ der-ruppiner-schifffahrt-eröffnung-der-ausstellung.html
+LOCATION:Restaurant Klosterhof\, Neuruppin\, Poststraße 31
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2881937@amtsfeed.de
@@ -297,6 +428,16 @@ URL:https://www.kremmen.de/veranstaltungen/2742809/2026/07/04/drachenboot
 LOCATION:Beetzer See\, Nordseite
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2900206@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Magische Sommerschule
+URL:https://www.kremmen.de/veranstaltungen/2900206/2026/07/09/magische-so
+ mmerschule.html
+LOCATION:Schlosspark Oranienburg
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2881939@amtsfeed.de
 DTSTAMP:20260506T201908Z
 DTSTART;VALUE=DATE:20260718
@@ -305,6 +446,26 @@ SUMMARY:Adam Wendler - &bdquo\;Back to the Country&ldquo\; (Live Konzert)
 URL:https://www.kremmen.de/veranstaltungen/2881939/2026/07/18/adam-wendle
  r-back-to-the-country-live-konzert.html
 LOCATION:Kultur & Beeren UG
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2905386@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Pulled Pork Burger / 1 Jahr Caf&eacute\; Sommerfeld
+URL:https://www.kremmen.de/veranstaltungen/2905386/2026/07/18/pulled-pork
+ -burger-1-jahr-café-sommerfeld.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2907133@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Trödelmarkt
+URL:https://www.kremmen.de/veranstaltungen/2907133/2026/07/19/trödelmark
+ t.html
+LOCATION:Restaurant Coldehörn
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2802591@amtsfeed.de
@@ -337,6 +498,16 @@ URL:https://www.kremmen.de/veranstaltungen/2881941/2026/08/08/ludwig-wrig
 LOCATION:Kultur & Beeren UG
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2907134@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Trödelmarkt
+URL:https://www.kremmen.de/veranstaltungen/2907134/2026/08/16/trödelmark
+ t.html
+LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2774252@amtsfeed.de
 DTSTAMP:20260506T201908Z
 DTSTART;VALUE=DATE:20260904
@@ -347,6 +518,16 @@ URL:https://www.kremmen.de/veranstaltungen/2774252/2026/09/04/erntefest-2
 LOCATION:Altstadt und Scheunenviertel
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2907135@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Trödelmarkt
+URL:https://www.kremmen.de/veranstaltungen/2907135/2026/09/05/trödelmark
+ t.html
+LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2196215@amtsfeed.de
 DTSTAMP:20260506T201908Z
 DTSTART;VALUE=DATE:20260910
@@ -355,6 +536,16 @@ SUMMARY:Bundesweiter Warntag
 URL:https://www.kremmen.de/veranstaltungen/2196215/2026/09/10/bundesweite
  r-warntag.html
 LOCATION:Feuerwehr Kremmen
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2910121@amtsfeed.de
+DTSTAMP:20260531T131600Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Unfreiwillig komisch - Die Junge Diestel
+URL:https://www.kremmen.de/veranstaltungen/2910121/2026/09/11/unfreiwilli
+ g-komisch-die-junge-diestel.html
+LOCATION:Theater "Tiefste Provinz"
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2774244@amtsfeed.de
@@ -387,6 +578,36 @@ URL:https://www.kremmen.de/veranstaltungen/2846315/2026/09/12/herbstfest.
 LOCATION:Sportplatz am Eichenhain
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2545776@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:23. Dackelrennen in Bärenklau
+URL:https://www.kremmen.de/veranstaltungen/2545776/2026/09/13/23.-dackelr
+ ennen-in-bärenklau.html
+LOCATION:Regionalpark Krämer Forst e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2849042@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:KUNST- HANDWERKER- & TRÖDELMARKT
+URL:https://www.kremmen.de/veranstaltungen/2849042/2026/09/20/kunst-handw
+ erker-trödelmarkt.html
+LOCATION:Historisches Scheunenviertel Kremmen
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2907136@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Trödelmarkt
+URL:https://www.kremmen.de/veranstaltungen/2907136/2026/09/20/trödelmark
+ t.html
+LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2871145@amtsfeed.de
 DTSTAMP:20260506T201908Z
 DTSTART;VALUE=DATE:20261017
@@ -397,12 +618,22 @@ URL:https://www.kremmen.de/veranstaltungen/2871145/2026/10/17/kürbisfest
 LOCATION:Historisches Scheunenviertel Kremmen
 END:VEVENT
 BEGIN:VEVENT
-UID:kremmen-event-2849042@amtsfeed.de
-DTSTAMP:20260506T201908Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+UID:kremmen-event-2907137@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Kürbisfest
+URL:https://www.kremmen.de/veranstaltungen/2907137/2026/10/17/kürbisfest
+ .html
+LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2900417@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
 SUMMARY:KUNST- HANDWERKER- & TRÖDELMARKT
-URL:https://www.kremmen.de/veranstaltungen/2849042/2026/10/18/kunst-handw
+URL:https://www.kremmen.de/veranstaltungen/2900417/2026/10/17/kunst-handw
  erker-trödelmarkt.html
 LOCATION:Historisches Scheunenviertel Kremmen
 END:VEVENT
@@ -447,6 +678,16 @@ URL:https://www.kremmen.de/veranstaltungen/2871170/2026/12/20/weihnachtsm
 LOCATION:Historisches Scheunenviertel Kremmen
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2907138@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Weihnachtsmarkt und Trödelmarkt
+URL:https://www.kremmen.de/veranstaltungen/2907138/2026/12/20/weihnachtsm
+ arkt-und-trödelmarkt.html
+LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2894328@amtsfeed.de
 DTSTAMP:20260506T201908Z
 DTSTART;VALUE=DATE:20270501
@@ -475,5 +716,15 @@ SUMMARY:20 Jahre Restaurant Coldehörn Kremmen
 URL:https://www.kremmen.de/veranstaltungen/2894324/2027/05/01/20-jahre-re
  staurant-coldehörn-kremmen.html
 LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2897263@amtsfeed.de
+DTSTAMP:20260526T090401Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Kremmen läuft 2027
+URL:https://www.kremmen.de/veranstaltungen/2897263/2027/05/09/kremmen-lä
+ uft-2027.html
+LOCATION:Kremmen
 END:VEVENT
 END:VCALENDAR

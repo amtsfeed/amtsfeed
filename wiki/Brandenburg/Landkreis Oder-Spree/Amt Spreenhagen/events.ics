@@ -234,6 +234,17 @@ URL:https://www.amt-spreenhagen.de/veranstaltungen/2888707/2026/06/04/let
 LOCATION:Gemeinde Spreenhagen
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2909674-2026-06-06-spreenhagener-sommerfest.html@amts
+ feed.de
+DTSTAMP:20260531T131616Z
+DTSTART:20260606T140000Z
+DTEND:20260606T223000Z
+SUMMARY:Spreenhagener Sommerfest
+URL:https://www.amt-spreenhagen.de/veranstaltungen/2909674/2026/06/06/spr
+ eenhagener-sommerfest.html
+LOCATION:Gemeinde Spreenhagen
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2888711-2026-06-09-kreativ-werkstatt-zeit-für-deine-
  ideen.html@amtsfeed.de
 DTSTAMP:20260506T081811Z
@@ -1359,6 +1370,69 @@ DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:Let's Linedance!
 URL:https://www.amt-spreenhagen.de/veranstaltungen/2888707/2027/05/06/let
+ -s-linedance.html
+LOCATION:Gemeinde Spreenhagen
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2888711-2027-05-11-kreativ-werkstatt-zeit-für-deine-
+ ideen.html@amtsfeed.de
+DTSTAMP:20260526T090414Z
+DTSTART:20270511T170000Z
+DTEND:20270511T200000Z
+SUMMARY:Kreativ Werkstatt - Zeit für Deine Ideen
+URL:https://www.amt-spreenhagen.de/veranstaltungen/2888711/2027/05/11/kre
+ ativ-werkstatt-zeit-für-deine-ideen.html
+LOCATION:Gemeinde Spreenhagen
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2888707-2027-05-13-let-s-linedance.html@amtsfeed.de
+DTSTAMP:20260526T090414Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Let's Linedance!
+URL:https://www.amt-spreenhagen.de/veranstaltungen/2888707/2027/05/13/let
+ -s-linedance.html
+LOCATION:Gemeinde Spreenhagen
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2888711-2027-05-18-kreativ-werkstatt-zeit-für-deine-
+ ideen.html@amtsfeed.de
+DTSTAMP:20260526T090414Z
+DTSTART:20270518T170000Z
+DTEND:20270518T200000Z
+SUMMARY:Kreativ Werkstatt - Zeit für Deine Ideen
+URL:https://www.amt-spreenhagen.de/veranstaltungen/2888711/2027/05/18/kre
+ ativ-werkstatt-zeit-für-deine-ideen.html
+LOCATION:Gemeinde Spreenhagen
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2888707-2027-05-20-let-s-linedance.html@amtsfeed.de
+DTSTAMP:20260526T090414Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Let's Linedance!
+URL:https://www.amt-spreenhagen.de/veranstaltungen/2888707/2027/05/20/let
+ -s-linedance.html
+LOCATION:Gemeinde Spreenhagen
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2888711-2027-05-25-kreativ-werkstatt-zeit-für-deine-
+ ideen.html@amtsfeed.de
+DTSTAMP:20260526T090414Z
+DTSTART:20270525T170000Z
+DTEND:20270525T200000Z
+SUMMARY:Kreativ Werkstatt - Zeit für Deine Ideen
+URL:https://www.amt-spreenhagen.de/veranstaltungen/2888711/2027/05/25/kre
+ ativ-werkstatt-zeit-für-deine-ideen.html
+LOCATION:Gemeinde Spreenhagen
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2888707-2027-05-27-let-s-linedance.html@amtsfeed.de
+DTSTAMP:20260531T131616Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Let's Linedance!
+URL:https://www.amt-spreenhagen.de/veranstaltungen/2888707/2027/05/27/let
  -s-linedance.html
 LOCATION:Gemeinde Spreenhagen
 END:VEVENT

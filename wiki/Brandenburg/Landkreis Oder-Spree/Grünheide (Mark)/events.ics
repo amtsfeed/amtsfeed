@@ -853,13 +853,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-05-27-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260527T150000Z
 DTEND:20260527T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/05/27/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-05-27-back-ag-jugendclub-grünheide.html
@@ -908,13 +908,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-05-28-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260528T090000Z
 DTEND:20260528T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/05/28/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898834-2026-05-28-offene-tage-am-schildkrötengehege
@@ -961,6 +961,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/05/29/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-05-29-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260529T150000Z
+DTEND:20260529T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/05/29/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2898605-2026-05-29-offener-treffpunkt-jugendclub-spre
  eau.html@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -973,13 +983,13 @@ LOCATION:Jugendclub Spreeau
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-05-29-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260529T180000Z
 DTEND:20260529T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/05/29/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2889941-2026-05-30-hofflohmarkt-spreeau-spreewerder-s
@@ -1021,6 +1031,17 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2811442/2026/05/30/mon
  atliche-führung-sportmuseum-kienbaum.html
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2909083-2026-06-01-kindertag-in-spreeau.html@amtsfeed
+ .de
+DTSTAMP:20260531T131636Z
+DTSTART:20260601T140000Z
+DTEND:20260601T180000Z
+SUMMARY:Kindertag in Spreeau
+URL:https://www.gruenheide-mark.de/veranstaltungen/2909083/2026/06/01/kin
+ dertag-in-spreeau.html
+LOCATION:Spielplätze im Ortsteil Spreeau
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-06-01-jugendtreff-kienbaum.html@amtsfeed
  .de
 DTSTAMP:20260506T202123Z
@@ -1030,6 +1051,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/06/01/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-06-01-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260601T151500Z
+DTEND:20260601T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/06/01/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-06-01-sport-ag-jugendclub-grünheide.htm
@@ -1044,13 +1075,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-06-01-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260601T183000Z
 DTEND:20260601T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/06/01/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-06-01-fitnessdance.html@amtsfeed.de
@@ -1072,6 +1103,17 @@ SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/06/02/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-06-02-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260602T090000Z
+DTEND:20260602T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/06/02/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814561-2026-06-02-sanft-bewegt.html@amtsfeed.de
@@ -1115,13 +1157,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-06-03-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260603T150000Z
 DTEND:20260603T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/06/03/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-06-03-back-ag-jugendclub-grünheide.html
@@ -1144,6 +1186,27 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/06/03/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901488-2026-06-03-sommerfest-des-seniorenbeirates.ht
+ ml@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260603T150000Z
+DTEND:20260603T180000Z
+SUMMARY:Sommerfest des Seniorenbeirates
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901488/2026/06/03/som
+ merfest-des-seniorenbeirates.html
+LOCATION:Bürgerhaus Kagel
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901473-2026-06-03-gründungsversammlung-der-adfc-reg
+ iogruppe-oder-spree-los.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260603T183000Z
+SUMMARY:Gründungsversammlung der ADFC Regiogruppe Oder-Spree (LOS)
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901473/2026/06/03/gr
+ ündungsversammlung-der-adfc-regiogruppe-oder-spree-los.html
+LOCATION:Störitzland - Kinder-\, Jugend- und Familiencamp
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825184-2026-06-03-1.-kurs-bauch-beine-po.html@amtsfe
@@ -1170,13 +1233,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-06-04-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260604T090000Z
 DTEND:20260604T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/06/04/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814566-2026-06-04-kochtreff.html@amtsfeed.de
@@ -1232,14 +1295,34 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/06/05/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-06-05-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260605T150000Z
+DTEND:20260605T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/06/05/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-06-05-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260605T180000Z
 DTEND:20260605T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/06/05/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2906012-2026-06-06-lidl-outletverkauf-im-gvz-freienbr
+ ink.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260606T080000Z
+DTEND:20260606T140000Z
+SUMMARY:LIDL Outletverkauf im GVZ Freienbrink
+URL:https://www.gruenheide-mark.de/veranstaltungen/2906012/2026/06/06/lid
+ l-outletverkauf-im-gvz-freienbrink.html
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2852752-2026-06-06-trödelmarkt-hangelsberg.html@amts
@@ -1263,6 +1346,17 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/06/07/off
 LOCATION:Schildkrötengehege
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2898834-2026-06-07-offenes-schildkrötengehege-grünh
+ eide.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260607T110000Z
+DTEND:20260607T130000Z
+SUMMARY:Offenes Schildkrötengehege Grünheide
+URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/06/07/off
+ enes-schildkrötengehege-grünheide.html
+LOCATION:Schildkrötengehege
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-06-08-jugendtreff-kienbaum.html@amtsfeed
  .de
 DTSTAMP:20260506T202123Z
@@ -1272,6 +1366,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/06/08/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-06-08-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260608T151500Z
+DTEND:20260608T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/06/08/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-06-08-sport-ag-jugendclub-grünheide.htm
@@ -1286,13 +1390,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-06-08-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260608T183000Z
 DTEND:20260608T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/06/08/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-06-08-fitnessdance.html@amtsfeed.de
@@ -1307,13 +1411,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-06-09-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260609T090000Z
-DTEND:20260609T123000Z
+DTEND:20260609T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/06/09/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-06-09-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260609T090000Z
+DTEND:20260609T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/06/09/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2721462-2026-06-09-erzählcafé.html@amtsfeed.de
@@ -1367,13 +1482,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-06-10-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260610T150000Z
 DTEND:20260610T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/06/10/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-06-10-back-ag-jugendclub-grünheide.html
@@ -1422,13 +1537,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-06-11-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260611T090000Z
 DTEND:20260611T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/06/11/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898834-2026-06-11-offene-tage-am-schildkrötengehege
@@ -1485,14 +1600,35 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/06/12/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-06-12-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260612T150000Z
+DTEND:20260612T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/06/12/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-06-12-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260612T180000Z
 DTEND:20260612T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/06/12/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2906026-2026-06-13-geschichte-und-geschichten-am-spre
+ ebord.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Geschichte und Geschichten am Spreebord
+URL:https://www.gruenheide-mark.de/veranstaltungen/2906026/2026/06/13/ges
+ chichte-und-geschichten-am-spreebord.html
+LOCATION:Heimatstube Grünheide
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2829459-2026-06-13-hoftrödel-mönchwinkel.html@amtsf
@@ -1528,6 +1664,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2437412/2026/06/14/sta
 LOCATION:Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2909086-2026-06-14-eröffnungstour-zum-stadtradeln-in
+ -grünheide-mark.html@amtsfeed.de
+DTSTAMP:20260531T131636Z
+DTSTART:20260614T110000Z
+SUMMARY:Eröffnungstour zum STADTRADELN in Grünheide (Mark)
+URL:https://www.gruenheide-mark.de/veranstaltungen/2909086/2026/06/14/er
+ öffnungstour-zum-stadtradeln-in-grünheide-mark.html
+LOCATION:Marktplatz Grünheide
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2868022-2026-06-14-piano-live-concert.html@amtsfeed.d
  e
 DTSTAMP:20260506T202123Z
@@ -1560,6 +1706,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/06/15/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-06-15-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260615T151500Z
+DTEND:20260615T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/06/15/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-06-15-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -1572,13 +1728,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-06-15-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260615T183000Z
 DTEND:20260615T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/06/15/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-06-15-fitnessdance.html@amtsfeed.de
@@ -1604,13 +1760,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-06-16-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260616T090000Z
-DTEND:20260616T123000Z
+DTEND:20260616T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/06/16/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-06-16-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260616T090000Z
+DTEND:20260616T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/06/16/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814563-2026-06-16-digitaltreff-die-technik-von-heute
@@ -1665,13 +1832,13 @@ LOCATION:Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-06-17-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260617T150000Z
 DTEND:20260617T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/06/17/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-06-17-back-ag-jugendclub-grünheide.html
@@ -1731,13 +1898,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-06-18-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260618T090000Z
 DTEND:20260618T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/06/18/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-06-18-nachhilfe-jugendclub-spreeau.html@
@@ -1784,14 +1951,35 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/06/19/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-06-19-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260619T150000Z
+DTEND:20260619T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/06/19/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2909839-2026-06-19-kräuter-koch-kurs.html@amtsfeed.d
+ e
+DTSTAMP:20260531T131636Z
+DTSTART:20260619T170000Z
+DTEND:20260619T190000Z
+SUMMARY:Kräuter - Koch Kurs
+URL:https://www.gruenheide-mark.de/veranstaltungen/2909839/2026/06/19/kr
+ äuter-koch-kurs.html
+LOCATION:Clubhaus "Zur Kegelbahn"
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-06-19-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260619T180000Z
 DTEND:20260619T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/06/19/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2437412-2026-06-20-stadtradeln-grünheide-tritt-in-di
@@ -1859,6 +2047,17 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/06/21/off
 LOCATION:Schildkrötengehege
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2898834-2026-06-21-offenes-schildkrötengehege-grünh
+ eide.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260621T110000Z
+DTEND:20260621T130000Z
+SUMMARY:Offenes Schildkrötengehege Grünheide
+URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/06/21/off
+ enes-schildkrötengehege-grünheide.html
+LOCATION:Schildkrötengehege
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2437412-2026-06-22-stadtradeln-grünheide-tritt-in-di
  e-pedale.html@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -1881,6 +2080,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/06/22/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-06-22-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260622T151500Z
+DTEND:20260622T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/06/22/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-06-22-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -1893,13 +2102,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-06-22-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260622T183000Z
 DTEND:20260622T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/06/22/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-06-22-fitnessdance.html@amtsfeed.de
@@ -1925,13 +2134,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-06-23-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260623T090000Z
-DTEND:20260623T123000Z
+DTEND:20260623T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/06/23/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-06-23-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260623T090000Z
+DTEND:20260623T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/06/23/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814575-2026-06-23-offenes-haus-spielrunde.html@amtsf
@@ -1962,6 +2182,18 @@ SUMMARY:Trendsportarten-AG Jugendclub Grünheide
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855053/2026/06/23/tre
  ndsportarten-ag-jugendclub-grünheide.html
 LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901490-2026-06-23-informationsveranstaltung-zu-betru
+ gsprävention-und-sicherheit-im-alltag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260623T170000Z
+SUMMARY:Informationsveranstaltung zu Betrugsprävention und Sicherheit im
+  Alltag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901490/2026/06/23/inf
+ ormationsveranstaltung-zu-betrugsprävention-und-sicherheit-im-alltag.htm
+ l
+LOCATION:Kita Regenbogenhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855058-2026-06-23-pilates.html@amtsfeed.de
@@ -1996,13 +2228,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-06-24-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260624T150000Z
 DTEND:20260624T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/06/24/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-06-24-back-ag-jugendclub-grünheide.html
@@ -2074,13 +2306,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-06-25-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260625T090000Z
 DTEND:20260625T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/06/25/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898834-2026-06-25-offene-tage-am-schildkrötengehege
@@ -2148,6 +2380,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/06/26/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-06-26-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260626T150000Z
+DTEND:20260626T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/06/26/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2898605-2026-06-26-offener-treffpunkt-jugendclub-spre
  eau.html@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -2160,13 +2402,13 @@ LOCATION:Jugendclub Spreeau
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-06-26-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260626T180000Z
 DTEND:20260626T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/06/26/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2437412-2026-06-27-stadtradeln-grünheide-tritt-in-di
@@ -2234,6 +2476,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/06/29/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-06-29-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260629T151500Z
+DTEND:20260629T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/06/29/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-06-29-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -2246,13 +2498,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-06-29-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260629T183000Z
 DTEND:20260629T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/06/29/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-06-29-fitnessdance.html@amtsfeed.de
@@ -2278,13 +2530,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-06-30-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260630T090000Z
-DTEND:20260630T123000Z
+DTEND:20260630T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/06/30/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-06-30-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260630T090000Z
+DTEND:20260630T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/06/30/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814561-2026-06-30-sanft-bewegt.html@amtsfeed.de
@@ -2339,13 +2602,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-07-01-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260701T150000Z
 DTEND:20260701T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/07/01/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-07-01-back-ag-jugendclub-grünheide.html
@@ -2405,13 +2668,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-07-02-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260702T090000Z
 DTEND:20260702T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/07/02/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814566-2026-07-02-kochtreff.html@amtsfeed.de
@@ -2478,14 +2741,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2884119/2026/07/03/gem
 LOCATION:Müggelspreehalle
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-07-03-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260703T150000Z
+DTEND:20260703T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/07/03/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-07-03-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260703T180000Z
 DTEND:20260703T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/07/03/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2437412-2026-07-04-stadtradeln-grünheide-tritt-in-di
@@ -2521,6 +2794,17 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/07/05/off
 LOCATION:Schildkrötengehege
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2898834-2026-07-05-offenes-schildkrötengehege-grünh
+ eide.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260705T110000Z
+DTEND:20260705T130000Z
+SUMMARY:Offenes Schildkrötengehege Grünheide
+URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/07/05/off
+ enes-schildkrötengehege-grünheide.html
+LOCATION:Schildkrötengehege
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-07-06-jugendtreff-kienbaum.html@amtsfeed
  .de
 DTSTAMP:20260506T202123Z
@@ -2530,6 +2814,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/07/06/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-07-06-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260706T151500Z
+DTEND:20260706T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/07/06/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-07-06-sport-ag-jugendclub-grünheide.htm
@@ -2544,13 +2838,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-07-06-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260706T183000Z
 DTEND:20260706T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/07/06/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-07-06-fitnessdance.html@amtsfeed.de
@@ -2565,13 +2859,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-07-07-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260707T090000Z
-DTEND:20260707T123000Z
+DTEND:20260707T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/07/07/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-07-07-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260707T090000Z
+DTEND:20260707T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/07/07/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814561-2026-07-07-sanft-bewegt.html@amtsfeed.de
@@ -2615,13 +2920,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-07-08-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260708T150000Z
 DTEND:20260708T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/07/08/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-07-08-back-ag-jugendclub-grünheide.html
@@ -2743,14 +3048,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/07/10/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-07-10-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260710T150000Z
+DTEND:20260710T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/07/10/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-07-10-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260710T180000Z
 DTEND:20260710T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/07/10/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2869703-2026-07-12-happiness-frühstück-im-störitzl
@@ -2776,6 +3091,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/07/13/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-07-13-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260713T151500Z
+DTEND:20260713T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/07/13/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-07-13-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -2788,13 +3113,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-07-13-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260713T183000Z
 DTEND:20260713T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/07/13/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-07-13-fitnessdance.html@amtsfeed.de
@@ -2809,13 +3134,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-07-14-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260714T090000Z
-DTEND:20260714T123000Z
+DTEND:20260714T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/07/14/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-07-14-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260714T090000Z
+DTEND:20260714T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/07/14/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2721462-2026-07-14-erzählcafé.html@amtsfeed.de
@@ -2859,13 +3195,13 @@ LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-07-15-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260715T150000Z
 DTEND:20260715T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/07/15/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-07-15-back-ag-jugendclub-grünheide.html
@@ -2914,13 +3250,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-07-16-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260716T090000Z
 DTEND:20260716T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/07/16/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-07-16-nachhilfe-jugendclub-spreeau.html@
@@ -2956,14 +3292,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/07/17/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-07-17-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260717T150000Z
+DTEND:20260717T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/07/17/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-07-17-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260717T180000Z
 DTEND:20260717T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/07/17/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2836031-2026-07-18-schifffahrt-tagestour-grünheide-b
@@ -3028,6 +3374,17 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/07/19/off
 LOCATION:Schildkrötengehege
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2898834-2026-07-19-offenes-schildkrötengehege-grünh
+ eide.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260719T110000Z
+DTEND:20260719T130000Z
+SUMMARY:Offenes Schildkrötengehege Grünheide
+URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/07/19/off
+ enes-schildkrötengehege-grünheide.html
+LOCATION:Schildkrötengehege
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-07-20-jugendtreff-kienbaum.html@amtsfeed
  .de
 DTSTAMP:20260506T202123Z
@@ -3037,6 +3394,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/07/20/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-07-20-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260720T151500Z
+DTEND:20260720T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/07/20/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-07-20-sport-ag-jugendclub-grünheide.htm
@@ -3051,13 +3418,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-07-20-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260720T183000Z
 DTEND:20260720T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/07/20/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-07-20-fitnessdance.html@amtsfeed.de
@@ -3072,13 +3439,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-07-21-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260721T090000Z
-DTEND:20260721T123000Z
+DTEND:20260721T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/07/21/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-07-21-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260721T090000Z
+DTEND:20260721T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/07/21/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814563-2026-07-21-digitaltreff-die-technik-von-heute
@@ -3122,13 +3500,13 @@ LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-07-22-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260722T150000Z
 DTEND:20260722T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/07/22/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-07-22-back-ag-jugendclub-grünheide.html
@@ -3177,13 +3555,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-07-23-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260723T090000Z
 DTEND:20260723T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/07/23/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898834-2026-07-23-offene-tage-am-schildkrötengehege
@@ -3230,14 +3608,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/07/24/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-07-24-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260724T150000Z
+DTEND:20260724T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/07/24/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-07-24-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260724T180000Z
 DTEND:20260724T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/07/24/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2811449-2026-07-25-monatliche-führung-sportmuseum-ki
@@ -3261,6 +3649,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/07/27/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-07-27-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260727T151500Z
+DTEND:20260727T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/07/27/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-07-27-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -3273,13 +3671,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-07-27-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260727T183000Z
 DTEND:20260727T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/07/27/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-07-27-fitnessdance.html@amtsfeed.de
@@ -3294,13 +3692,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-07-28-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260728T090000Z
-DTEND:20260728T123000Z
+DTEND:20260728T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/07/28/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-07-28-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260728T090000Z
+DTEND:20260728T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/07/28/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814575-2026-07-28-offenes-haus-spielrunde.html@amtsf
@@ -3344,13 +3753,13 @@ LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-07-29-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260729T150000Z
 DTEND:20260729T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/07/29/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-07-29-back-ag-jugendclub-grünheide.html
@@ -3399,13 +3808,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-07-30-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260730T090000Z
 DTEND:20260730T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/07/30/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-07-30-nachhilfe-jugendclub-spreeau.html@
@@ -3441,6 +3850,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/07/31/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-07-31-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260731T150000Z
+DTEND:20260731T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/07/31/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2898605-2026-07-31-offener-treffpunkt-jugendclub-spre
  eau.html@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -3453,13 +3872,13 @@ LOCATION:Jugendclub Spreeau
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-07-31-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260731T180000Z
 DTEND:20260731T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/07/31/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2829471-2026-08-01-seniorensommerfest-mönchwinkel.ht
@@ -3483,6 +3902,17 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/08/02/off
 LOCATION:Schildkrötengehege
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2898834-2026-08-02-offenes-schildkrötengehege-grünh
+ eide.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260802T110000Z
+DTEND:20260802T130000Z
+SUMMARY:Offenes Schildkrötengehege Grünheide
+URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/08/02/off
+ enes-schildkrötengehege-grünheide.html
+LOCATION:Schildkrötengehege
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-08-03-jugendtreff-kienbaum.html@amtsfeed
  .de
 DTSTAMP:20260506T202123Z
@@ -3492,6 +3922,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/08/03/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-08-03-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260803T151500Z
+DTEND:20260803T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/08/03/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-08-03-sport-ag-jugendclub-grünheide.htm
@@ -3506,13 +3946,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-08-03-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260803T183000Z
 DTEND:20260803T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/08/03/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-08-03-fitnessdance.html@amtsfeed.de
@@ -3527,13 +3967,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-08-04-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260804T090000Z
-DTEND:20260804T123000Z
+DTEND:20260804T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/08/04/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-08-04-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260804T090000Z
+DTEND:20260804T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/08/04/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814561-2026-08-04-sanft-bewegt.html@amtsfeed.de
@@ -3577,13 +4028,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-08-05-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260805T150000Z
 DTEND:20260805T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/08/05/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-08-05-back-ag-jugendclub-grünheide.html
@@ -3632,13 +4083,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-08-06-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260806T090000Z
 DTEND:20260806T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/08/06/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814566-2026-08-06-kochtreff.html@amtsfeed.de
@@ -3704,14 +4155,35 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/08/07/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-08-07-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260807T150000Z
+DTEND:20260807T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/08/07/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-08-07-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260807T180000Z
 DTEND:20260807T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/08/07/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2906168-2026-08-08-ausstellung-zum-heimatfest-kunst-v
+ on-marion-sander.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:Ausstellung zum Heimatfest: Kunst von Marion Sander
+URL:https://www.gruenheide-mark.de/veranstaltungen/2906168/2026/08/08/aus
+ stellung-zum-heimatfest-kunst-von-marion-sander.html
+LOCATION:Heimatstube Grünheide
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2869703-2026-08-09-happiness-frühstück-im-störitzl
@@ -3737,6 +4209,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/08/10/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-08-10-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260810T151500Z
+DTEND:20260810T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/08/10/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-08-10-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -3749,13 +4231,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-08-10-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260810T183000Z
 DTEND:20260810T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/08/10/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-08-10-fitnessdance.html@amtsfeed.de
@@ -3770,13 +4252,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-08-11-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260811T090000Z
-DTEND:20260811T123000Z
+DTEND:20260811T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/08/11/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-08-11-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260811T090000Z
+DTEND:20260811T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/08/11/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2721462-2026-08-11-erzählcafé.html@amtsfeed.de
@@ -3830,13 +4323,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-08-12-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260812T150000Z
 DTEND:20260812T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/08/12/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-08-12-back-ag-jugendclub-grünheide.html
@@ -3885,13 +4378,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-08-13-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260813T090000Z
 DTEND:20260813T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/08/13/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-08-13-nachhilfe-jugendclub-spreeau.html@
@@ -3927,14 +4420,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/08/14/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-08-14-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260814T150000Z
+DTEND:20260814T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/08/14/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-08-14-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260814T180000Z
 DTEND:20260814T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/08/14/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2836112-2026-08-15-schifffahrt-tagestour-grünheide-b
@@ -3970,6 +4473,17 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/08/16/off
 LOCATION:Schildkrötengehege
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2898834-2026-08-16-offenes-schildkrötengehege-grünh
+ eide.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260816T110000Z
+DTEND:20260816T130000Z
+SUMMARY:Offenes Schildkrötengehege Grünheide
+URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/08/16/off
+ enes-schildkrötengehege-grünheide.html
+LOCATION:Schildkrötengehege
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-08-17-jugendtreff-kienbaum.html@amtsfeed
  .de
 DTSTAMP:20260506T202123Z
@@ -3979,6 +4493,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/08/17/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-08-17-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260817T151500Z
+DTEND:20260817T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/08/17/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-08-17-sport-ag-jugendclub-grünheide.htm
@@ -3993,13 +4517,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-08-17-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260817T183000Z
 DTEND:20260817T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/08/17/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-08-17-fitnessdance.html@amtsfeed.de
@@ -4014,13 +4538,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-08-18-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260818T090000Z
-DTEND:20260818T123000Z
+DTEND:20260818T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/08/18/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-08-18-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260818T090000Z
+DTEND:20260818T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/08/18/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814563-2026-08-18-digitaltreff-die-technik-von-heute
@@ -4064,13 +4599,13 @@ LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-08-19-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260819T150000Z
 DTEND:20260819T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/08/19/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-08-19-back-ag-jugendclub-grünheide.html
@@ -4119,13 +4654,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-08-20-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260820T090000Z
 DTEND:20260820T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/08/20/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898834-2026-08-20-offene-tage-am-schildkrötengehege
@@ -4172,14 +4707,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/08/21/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-08-21-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260821T150000Z
+DTEND:20260821T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/08/21/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-08-21-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260821T180000Z
 DTEND:20260821T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/08/21/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2869713-2026-08-22-zuckertütenbrunch-im-störitzland
@@ -4205,6 +4750,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/08/24/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-08-24-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260824T151500Z
+DTEND:20260824T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/08/24/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-08-24-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -4217,13 +4772,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-08-24-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260824T183000Z
 DTEND:20260824T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/08/24/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-08-24-fitnessdance.html@amtsfeed.de
@@ -4238,13 +4793,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-08-25-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260825T090000Z
-DTEND:20260825T123000Z
+DTEND:20260825T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/08/25/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-08-25-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260825T090000Z
+DTEND:20260825T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/08/25/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814575-2026-08-25-offenes-haus-spielrunde.html@amtsf
@@ -4298,13 +4864,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-08-26-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260826T150000Z
 DTEND:20260826T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/08/26/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-08-26-back-ag-jugendclub-grünheide.html
@@ -4353,13 +4919,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-08-27-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260827T090000Z
 DTEND:20260827T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/08/27/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-08-27-nachhilfe-jugendclub-spreeau.html@
@@ -4395,6 +4961,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/08/28/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-08-28-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260828T150000Z
+DTEND:20260828T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/08/28/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2898605-2026-08-28-offener-treffpunkt-jugendclub-spre
  eau.html@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -4407,13 +4983,13 @@ LOCATION:Jugendclub Spreeau
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-08-28-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260828T180000Z
 DTEND:20260828T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/08/28/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2811451-2026-08-29-monatliche-führung-sportmuseum-ki
@@ -4458,6 +5034,17 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/08/30/off
 LOCATION:Schildkrötengehege
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2898834-2026-08-30-offenes-schildkrötengehege-grünh
+ eide.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260830T110000Z
+DTEND:20260830T130000Z
+SUMMARY:Offenes Schildkrötengehege Grünheide
+URL:https://www.gruenheide-mark.de/veranstaltungen/2898834/2026/08/30/off
+ enes-schildkrötengehege-grünheide.html
+LOCATION:Schildkrötengehege
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2829464-2026-08-30-wiesengottesdienst-mönchwinkel.ht
  ml@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -4479,6 +5066,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/08/31/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-08-31-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260831T151500Z
+DTEND:20260831T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/08/31/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-08-31-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -4491,13 +5088,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-08-31-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260831T183000Z
 DTEND:20260831T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/08/31/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-08-31-fitnessdance.html@amtsfeed.de
@@ -4512,13 +5109,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-09-01-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260901T090000Z
-DTEND:20260901T123000Z
+DTEND:20260901T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/09/01/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-09-01-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260901T090000Z
+DTEND:20260901T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/09/01/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814561-2026-09-01-sanft-bewegt.html@amtsfeed.de
@@ -4562,13 +5170,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-09-02-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260902T150000Z
 DTEND:20260902T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/09/02/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-09-02-back-ag-jugendclub-grünheide.html
@@ -4629,13 +5237,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-09-03-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260903T090000Z
 DTEND:20260903T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/09/03/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814566-2026-09-03-kochtreff.html@amtsfeed.de
@@ -4691,14 +5299,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/09/04/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-09-04-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260904T150000Z
+DTEND:20260904T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/09/04/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-09-04-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260904T180000Z
 DTEND:20260904T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/09/04/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2839921-2026-09-05-löcknitzcampustag.html@amtsfeed.d
@@ -4712,6 +5330,17 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2839921/2026/09/05/lö
 LOCATION:Löcknitzcampus
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901671-2026-09-05-schildkrötengehege-grünheide-ge
+ öffnet-zum-löcknitzcampustag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260905T100000Z
+DTEND:20260905T130000Z
+SUMMARY:Schildkrötengehege Grünheide geöffnet zum Löcknitzcampustag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901671/2026/09/05/sch
+ ildkrötengehege-grünheide-geöffnet-zum-löcknitzcampustag.html
+LOCATION:Schildkrötengehege
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-09-07-jugendtreff-kienbaum.html@amtsfeed
  .de
 DTSTAMP:20260506T202123Z
@@ -4721,6 +5350,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/09/07/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-09-07-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260907T151500Z
+DTEND:20260907T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/09/07/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-09-07-sport-ag-jugendclub-grünheide.htm
@@ -4735,13 +5374,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-09-07-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260907T183000Z
 DTEND:20260907T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/09/07/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-09-07-fitnessdance.html@amtsfeed.de
@@ -4756,13 +5395,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-09-08-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260908T090000Z
-DTEND:20260908T123000Z
+DTEND:20260908T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/09/08/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-09-08-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260908T090000Z
+DTEND:20260908T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/09/08/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2721462-2026-09-08-erzählcafé.html@amtsfeed.de
@@ -4816,13 +5466,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-09-09-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260909T150000Z
 DTEND:20260909T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/09/09/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-09-09-back-ag-jugendclub-grünheide.html
@@ -4871,13 +5521,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-09-10-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260910T090000Z
 DTEND:20260910T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/09/10/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-09-10-nachhilfe-jugendclub-spreeau.html@
@@ -4913,14 +5563,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/09/11/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-09-11-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260911T150000Z
+DTEND:20260911T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/09/11/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-09-11-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260911T180000Z
 DTEND:20260911T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/09/11/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2761122-2026-09-12-ironman-70.3-erkner-berlin-branden
@@ -4967,6 +5627,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/09/14/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-09-14-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260914T151500Z
+DTEND:20260914T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/09/14/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-09-14-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -4979,13 +5649,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-09-14-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260914T183000Z
 DTEND:20260914T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/09/14/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-09-14-fitnessdance.html@amtsfeed.de
@@ -5000,13 +5670,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-09-15-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260915T090000Z
-DTEND:20260915T123000Z
+DTEND:20260915T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/09/15/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-09-15-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260915T090000Z
+DTEND:20260915T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/09/15/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814563-2026-09-15-digitaltreff-die-technik-von-heute
@@ -5050,13 +5731,13 @@ LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-09-16-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260916T150000Z
 DTEND:20260916T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/09/16/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-09-16-back-ag-jugendclub-grünheide.html
@@ -5105,13 +5786,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-09-17-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260917T090000Z
 DTEND:20260917T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/09/17/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898834-2026-09-17-offene-tage-am-schildkrötengehege
@@ -5158,14 +5839,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/09/18/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-09-18-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260918T150000Z
+DTEND:20260918T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/09/18/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-09-18-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260918T180000Z
 DTEND:20260918T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/09/18/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2835262-2026-09-20-geführte-fahrradtour-oder-spree-k
@@ -5179,6 +5870,17 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2835262/2026/09/20/gef
 LOCATION:Gemeinde Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901676-2026-09-20-offene-tage-am-schildkrötengehege
+ -grünheide.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260920T110000Z
+DTEND:20260920T130000Z
+SUMMARY:Offene Tage am Schildkrötengehege Grünheide
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901676/2026/09/20/off
+ ene-tage-am-schildkrötengehege-grünheide.html
+LOCATION:Schildkrötengehege
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-09-21-jugendtreff-kienbaum.html@amtsfeed
  .de
 DTSTAMP:20260506T202123Z
@@ -5188,6 +5890,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/09/21/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-09-21-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260921T151500Z
+DTEND:20260921T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/09/21/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-09-21-sport-ag-jugendclub-grünheide.htm
@@ -5202,13 +5914,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-09-21-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260921T183000Z
 DTEND:20260921T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/09/21/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-09-21-fitnessdance.html@amtsfeed.de
@@ -5223,13 +5935,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-09-22-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260922T090000Z
-DTEND:20260922T123000Z
+DTEND:20260922T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/09/22/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-09-22-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260922T090000Z
+DTEND:20260922T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/09/22/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814575-2026-09-22-offenes-haus-spielrunde.html@amtsf
@@ -5273,13 +5996,13 @@ LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-09-23-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260923T150000Z
 DTEND:20260923T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/09/23/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-09-23-back-ag-jugendclub-grünheide.html
@@ -5328,13 +6051,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-09-24-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260924T090000Z
 DTEND:20260924T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/09/24/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-09-24-nachhilfe-jugendclub-spreeau.html@
@@ -5370,6 +6093,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/09/25/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-09-25-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260925T150000Z
+DTEND:20260925T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/09/25/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2898605-2026-09-25-offener-treffpunkt-jugendclub-spre
  eau.html@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -5382,13 +6115,13 @@ LOCATION:Jugendclub Spreeau
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-09-25-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260925T180000Z
 DTEND:20260925T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/09/25/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2811452-2026-09-26-monatliche-führung-sportmuseum-ki
@@ -5421,6 +6154,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/09/28/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-09-28-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260928T151500Z
+DTEND:20260928T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/09/28/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-09-28-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -5433,13 +6176,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-09-28-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260928T183000Z
 DTEND:20260928T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/09/28/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-09-28-fitnessdance.html@amtsfeed.de
@@ -5454,13 +6197,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-09-29-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260929T090000Z
-DTEND:20260929T123000Z
+DTEND:20260929T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/09/29/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-09-29-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20260929T090000Z
+DTEND:20260929T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/09/29/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814561-2026-09-29-sanft-bewegt.html@amtsfeed.de
@@ -5494,13 +6248,13 @@ LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-09-30-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20260930T150000Z
 DTEND:20260930T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/09/30/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-09-30-back-ag-jugendclub-grünheide.html
@@ -5549,13 +6303,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-10-01-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261001T090000Z
 DTEND:20261001T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/10/01/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814566-2026-10-01-kochtreff.html@amtsfeed.de
@@ -5600,14 +6354,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/10/02/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-10-02-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261002T150000Z
+DTEND:20261002T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/10/02/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-10-02-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261002T180000Z
 DTEND:20261002T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/10/02/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-10-05-jugendtreff-kienbaum.html@amtsfeed
@@ -5619,6 +6383,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/10/05/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-10-05-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261005T151500Z
+DTEND:20261005T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/10/05/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-10-05-sport-ag-jugendclub-grünheide.htm
@@ -5633,13 +6407,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-10-05-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261005T183000Z
 DTEND:20261005T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/10/05/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-10-05-fitnessdance.html@amtsfeed.de
@@ -5654,13 +6428,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-10-06-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261006T090000Z
-DTEND:20261006T123000Z
+DTEND:20261006T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/10/06/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-10-06-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261006T090000Z
+DTEND:20261006T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/10/06/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814561-2026-10-06-sanft-bewegt.html@amtsfeed.de
@@ -5704,13 +6489,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-10-07-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261007T150000Z
 DTEND:20261007T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/10/07/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-10-07-back-ag-jugendclub-grünheide.html
@@ -5759,13 +6544,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-10-08-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261008T090000Z
 DTEND:20261008T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/10/08/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-10-08-nachhilfe-jugendclub-spreeau.html@
@@ -5801,14 +6586,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/10/09/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-10-09-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261009T150000Z
+DTEND:20261009T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/10/09/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-10-09-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261009T180000Z
 DTEND:20261009T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/10/09/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-10-12-jugendtreff-kienbaum.html@amtsfeed
@@ -5820,6 +6615,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/10/12/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-10-12-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261012T151500Z
+DTEND:20261012T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/10/12/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-10-12-sport-ag-jugendclub-grünheide.htm
@@ -5834,13 +6639,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-10-12-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261012T183000Z
 DTEND:20261012T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/10/12/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-10-12-fitnessdance.html@amtsfeed.de
@@ -5855,13 +6660,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-10-13-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261013T090000Z
-DTEND:20261013T123000Z
+DTEND:20261013T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/10/13/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-10-13-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261013T090000Z
+DTEND:20261013T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/10/13/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2721462-2026-10-13-erzählcafé.html@amtsfeed.de
@@ -5926,13 +6742,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-10-14-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261014T150000Z
 DTEND:20261014T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/10/14/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-10-14-back-ag-jugendclub-grünheide.html
@@ -5981,13 +6797,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-10-15-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261015T090000Z
 DTEND:20261015T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/10/15/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-10-15-nachhilfe-jugendclub-spreeau.html@
@@ -6023,14 +6839,35 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/10/16/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-10-16-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261016T150000Z
+DTEND:20261016T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/10/16/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-10-16-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261016T180000Z
 DTEND:20261016T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/10/16/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2906170-2026-10-17-die-lindwallinsel-im-laufe-der-zei
+ t.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Die Lindwallinsel im Laufe der Zeit
+URL:https://www.gruenheide-mark.de/veranstaltungen/2906170/2026/10/17/die
+ -lindwallinsel-im-laufe-der-zeit.html
+LOCATION:Heimatstube Grünheide
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2835292-2026-10-18-geführte-fahrradtour-radpilgern-a
@@ -6056,6 +6893,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/10/19/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-10-19-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261019T151500Z
+DTEND:20261019T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/10/19/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-10-19-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -6068,13 +6915,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-10-19-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261019T183000Z
 DTEND:20261019T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/10/19/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-10-19-fitnessdance.html@amtsfeed.de
@@ -6089,13 +6936,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-10-20-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261020T090000Z
-DTEND:20261020T123000Z
+DTEND:20261020T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/10/20/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-10-20-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261020T090000Z
+DTEND:20261020T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/10/20/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814563-2026-10-20-digitaltreff-die-technik-von-heute
@@ -6139,13 +6997,13 @@ LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-10-21-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261021T150000Z
 DTEND:20261021T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/10/21/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-10-21-back-ag-jugendclub-grünheide.html
@@ -6194,13 +7052,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-10-22-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261022T090000Z
 DTEND:20261022T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/10/22/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-10-22-nachhilfe-jugendclub-spreeau.html@
@@ -6236,14 +7094,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/10/23/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-10-23-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261023T150000Z
+DTEND:20261023T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/10/23/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-10-23-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261023T180000Z
 DTEND:20261023T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/10/23/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-10-26-jugendtreff-kienbaum.html@amtsfeed
@@ -6255,6 +7123,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/10/26/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-10-26-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261026T151500Z
+DTEND:20261026T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/10/26/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-10-26-sport-ag-jugendclub-grünheide.htm
@@ -6269,13 +7147,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-10-26-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261026T183000Z
 DTEND:20261026T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/10/26/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-10-26-fitnessdance.html@amtsfeed.de
@@ -6290,13 +7168,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-10-27-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261027T090000Z
-DTEND:20261027T123000Z
+DTEND:20261027T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/10/27/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-10-27-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261027T090000Z
+DTEND:20261027T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/10/27/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814575-2026-10-27-offenes-haus-spielrunde.html@amtsf
@@ -6350,13 +7239,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-10-28-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261028T150000Z
 DTEND:20261028T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/10/28/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-10-28-back-ag-jugendclub-grünheide.html
@@ -6405,13 +7294,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-10-29-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261029T090000Z
 DTEND:20261029T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/10/29/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-10-29-nachhilfe-jugendclub-spreeau.html@
@@ -6447,6 +7336,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/10/30/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-10-30-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/10/30/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2898605-2026-10-30-offener-treffpunkt-jugendclub-spre
  eau.html@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -6459,13 +7358,13 @@ LOCATION:Jugendclub Spreeau
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-10-30-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261030T180000Z
 DTEND:20261030T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/10/30/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2811453-2026-10-31-monatliche-führung-sportmuseum-ki
@@ -6489,6 +7388,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/11/02/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-11-02-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261102T151500Z
+DTEND:20261102T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/11/02/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-11-02-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -6501,13 +7410,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-11-02-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261102T183000Z
 DTEND:20261102T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/11/02/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-11-02-fitnessdance.html@amtsfeed.de
@@ -6522,13 +7431,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-11-03-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261103T090000Z
-DTEND:20261103T123000Z
+DTEND:20261103T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/11/03/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-11-03-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261103T090000Z
+DTEND:20261103T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/11/03/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814561-2026-11-03-sanft-bewegt.html@amtsfeed.de
@@ -6572,13 +7492,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-11-04-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261104T150000Z
 DTEND:20261104T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/11/04/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-11-04-back-ag-jugendclub-grünheide.html
@@ -6627,13 +7547,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-11-05-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261105T090000Z
 DTEND:20261105T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/11/05/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814566-2026-11-05-kochtreff.html@amtsfeed.de
@@ -6678,14 +7598,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/11/06/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-11-06-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/11/06/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-11-06-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261106T180000Z
 DTEND:20261106T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/11/06/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-11-09-jugendtreff-kienbaum.html@amtsfeed
@@ -6697,6 +7627,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/11/09/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-11-09-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261109T151500Z
+DTEND:20261109T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/11/09/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-11-09-sport-ag-jugendclub-grünheide.htm
@@ -6711,13 +7651,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-11-09-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261109T183000Z
 DTEND:20261109T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/11/09/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-11-09-fitnessdance.html@amtsfeed.de
@@ -6732,13 +7672,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-11-10-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261110T090000Z
-DTEND:20261110T123000Z
+DTEND:20261110T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/11/10/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-11-10-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261110T090000Z
+DTEND:20261110T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/11/10/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2721462-2026-11-10-erzählcafé.html@amtsfeed.de
@@ -6792,13 +7743,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-11-11-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261111T150000Z
 DTEND:20261111T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/11/11/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-11-11-back-ag-jugendclub-grünheide.html
@@ -6857,13 +7808,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-11-12-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261112T090000Z
 DTEND:20261112T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/11/12/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-11-12-nachhilfe-jugendclub-spreeau.html@
@@ -6899,6 +7850,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/11/13/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-11-13-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/11/13/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2744053-2026-11-13-martinsumzug-grünheide.html@amtsf
  eed.de
 DTSTAMP:20260506T202123Z
@@ -6910,13 +7871,13 @@ LOCATION:Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-11-13-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261113T180000Z
 DTEND:20261113T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/11/13/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2868024-2026-11-15-piano-live-concert.html@amtsfeed.d
@@ -6940,6 +7901,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/11/16/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-11-16-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261116T151500Z
+DTEND:20261116T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/11/16/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-11-16-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -6952,13 +7923,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-11-16-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261116T183000Z
 DTEND:20261116T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/11/16/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-11-16-fitnessdance.html@amtsfeed.de
@@ -6973,13 +7944,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-11-17-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261117T090000Z
-DTEND:20261117T123000Z
+DTEND:20261117T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/11/17/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-11-17-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261117T090000Z
+DTEND:20261117T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/11/17/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814563-2026-11-17-digitaltreff-die-technik-von-heute
@@ -7023,13 +8005,13 @@ LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-11-18-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261118T150000Z
 DTEND:20261118T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/11/18/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-11-18-back-ag-jugendclub-grünheide.html
@@ -7078,13 +8060,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-11-19-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261119T090000Z
 DTEND:20261119T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/11/19/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-11-19-nachhilfe-jugendclub-spreeau.html@
@@ -7120,14 +8102,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/11/20/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-11-20-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/11/20/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-11-20-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261120T180000Z
 DTEND:20261120T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/11/20/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2805008-2026-11-21-weihnachtsbasteln-hort.html@amtsfe
@@ -7141,6 +8133,17 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2805008/2026/11/21/wei
 LOCATION:Hort Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2906172-2026-11-21-gewässer-und-brücken-im-gebiet-g
+ rünheide.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
+SUMMARY:Gewässer und Brücken im Gebiet Grünheide
+URL:https://www.gruenheide-mark.de/veranstaltungen/2906172/2026/11/21/gew
+ ässer-und-brücken-im-gebiet-grünheide.html
+LOCATION:Heimatstube Grünheide
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-11-23-jugendtreff-kienbaum.html@amtsfeed
  .de
 DTSTAMP:20260506T202123Z
@@ -7150,6 +8153,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/11/23/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-11-23-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261123T151500Z
+DTEND:20261123T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/11/23/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-11-23-sport-ag-jugendclub-grünheide.htm
@@ -7164,13 +8177,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-11-23-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261123T183000Z
 DTEND:20261123T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/11/23/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-11-23-fitnessdance.html@amtsfeed.de
@@ -7185,13 +8198,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-11-24-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261124T090000Z
-DTEND:20261124T123000Z
+DTEND:20261124T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/11/24/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-11-24-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261124T090000Z
+DTEND:20261124T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/11/24/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814575-2026-11-24-offenes-haus-spielrunde.html@amtsf
@@ -7235,13 +8259,13 @@ LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-11-25-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261125T150000Z
 DTEND:20261125T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/11/25/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-11-25-back-ag-jugendclub-grünheide.html
@@ -7290,13 +8314,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-11-26-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261126T090000Z
 DTEND:20261126T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/11/26/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-11-26-nachhilfe-jugendclub-spreeau.html@
@@ -7332,6 +8356,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/11/27/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-11-27-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/11/27/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2898605-2026-11-27-offener-treffpunkt-jugendclub-spre
  eau.html@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -7344,13 +8378,13 @@ LOCATION:Jugendclub Spreeau
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-11-27-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261127T180000Z
 DTEND:20261127T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/11/27/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825196-2026-11-30-jugendtreff-kienbaum.html@amtsfeed
@@ -7362,6 +8396,16 @@ SUMMARY:Jugendtreff Kienbaum
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/11/30/jug
  endtreff-kienbaum.html
 LOCATION:Jugendclub Kienbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-11-30-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261130T151500Z
+DTEND:20261130T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/11/30/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-11-30-sport-ag-jugendclub-grünheide.htm
@@ -7376,13 +8420,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-11-30-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261130T183000Z
 DTEND:20261130T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/11/30/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-11-30-fitnessdance.html@amtsfeed.de
@@ -7397,13 +8441,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-12-01-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261201T090000Z
-DTEND:20261201T123000Z
+DTEND:20261201T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/12/01/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-12-01-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261201T090000Z
+DTEND:20261201T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/12/01/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814561-2026-12-01-sanft-bewegt.html@amtsfeed.de
@@ -7458,13 +8513,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-12-02-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261202T150000Z
 DTEND:20261202T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/12/02/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-12-02-back-ag-jugendclub-grünheide.html
@@ -7513,13 +8568,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-12-03-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261203T090000Z
 DTEND:20261203T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/12/03/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814566-2026-12-03-kochtreff.html@amtsfeed.de
@@ -7564,6 +8619,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/12/04/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-12-04-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261204T150000Z
+DTEND:20261204T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/12/04/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2898597-2026-12-04-5.-weihnachtssingen-der-sg-hangels
  berg.html@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -7576,13 +8641,13 @@ LOCATION:Sportplatz Hangelsberg
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-12-04-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261204T180000Z
 DTEND:20261204T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/12/04/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2836120-2026-12-05-schifffahrt-weihnachtsgans-an-bord
@@ -7628,6 +8693,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/12/07/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-12-07-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261207T151500Z
+DTEND:20261207T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/12/07/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-12-07-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -7640,13 +8715,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-12-07-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261207T183000Z
 DTEND:20261207T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/12/07/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-12-07-fitnessdance.html@amtsfeed.de
@@ -7661,13 +8736,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-12-08-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261208T090000Z
-DTEND:20261208T123000Z
+DTEND:20261208T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/12/08/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-12-08-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261208T090000Z
+DTEND:20261208T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/12/08/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2721462-2026-12-08-erzählcafé.html@amtsfeed.de
@@ -7741,13 +8827,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-12-09-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261209T150000Z
 DTEND:20261209T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/12/09/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-12-09-back-ag-jugendclub-grünheide.html
@@ -7796,13 +8882,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-12-10-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261210T090000Z
 DTEND:20261210T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/12/10/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-12-10-nachhilfe-jugendclub-spreeau.html@
@@ -7838,14 +8924,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/12/11/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-12-11-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261211T150000Z
+DTEND:20261211T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/12/11/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-12-11-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261211T180000Z
 DTEND:20261211T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/12/11/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2744054-2026-12-12-grünheider-weihnachtsmarkt-und-5.
@@ -7870,6 +8966,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825196/2026/12/14/jug
 LOCATION:Jugendclub Kienbaum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2901837-2026-12-14-spielenachmittag.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261214T151500Z
+DTEND:20261214T173000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gruenheide-mark.de/veranstaltungen/2901837/2026/12/14/spi
+ elenachmittag.html
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2854983-2026-12-14-sport-ag-jugendclub-grünheide.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202123Z
@@ -7882,13 +8988,13 @@ LOCATION:Löcknitzhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855000-2026-12-14-qi-gong.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261214T183000Z
 DTEND:20261214T193000Z
 SUMMARY:Qi Gong
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855000/2026/12/14/qi-
  gong.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855015-2026-12-14-fitnessdance.html@amtsfeed.de
@@ -7903,13 +9009,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855046-2026-12-15-familienfrühstück-hangelsberg.ht
  ml@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261215T090000Z
-DTEND:20261215T123000Z
+DTEND:20261215T120000Z
 SUMMARY:Familienfrühstück Hangelsberg
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855046/2026/12/15/fam
  ilienfrühstück-hangelsberg.html
 LOCATION:Jugendclub Hangelsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2904336-2026-12-15-familienfrühstück-kagel.html@amt
+ sfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261215T090000Z
+DTEND:20261215T120000Z
+SUMMARY:Familienfrühstück Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2904336/2026/12/15/fam
+ ilienfrühstück-kagel.html
+LOCATION:Jugendclub Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814563-2026-12-15-digitaltreff-die-technik-von-heute
@@ -7953,13 +9070,13 @@ LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825188-2026-12-16-familienkaffee.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261216T150000Z
 DTEND:20261216T173000Z
 SUMMARY:FamilienKaffee
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825188/2026/12/16/fam
  ilienkaffee.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2855070-2026-12-16-back-ag-jugendclub-grünheide.html
@@ -8008,13 +9125,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825186-2026-12-17-frühstücksspielplatz-grünheide-
  mit-hebammensprechstunde.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261217T090000Z
 DTEND:20261217T120000Z
 SUMMARY:Frühstücksspielplatz Grünheide mit Hebammensprechstunde
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825186/2026/12/17/fr
  ühstücksspielplatz-grünheide-mit-hebammensprechstunde.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2898606-2026-12-17-nachhilfe-jugendclub-spreeau.html@
@@ -8050,14 +9167,24 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/12/18/spr
 LOCATION:Eltern-Kind-Zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2902113-2026-12-18-eltern-kind-sport.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20261218T150000Z
+DTEND:20261218T170000Z
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/12/18/elt
+ ern-kind-sport.html
+LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-12-18-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261218T180000Z
 DTEND:20261218T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/12/18/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2814606-2026-12-23-offenes-haus-spielrunde.html@amtsf
@@ -8071,13 +9198,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-12-25-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20261225T180000Z
 DTEND:20261225T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2026/12/25/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-1796959-2026-12-31-silvesterabend-gottesdienst.html@a
@@ -8113,23 +9240,23 @@ LOCATION:Müggelspreehalle
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2027-01-01-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20270101T180000Z
 DTEND:20270101T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2027/01/01/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2027-01-08-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20270108T180000Z
 DTEND:20270108T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2027/01/08/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2721462-2027-01-12-erzählcafé.html@amtsfeed.de
@@ -8143,13 +9270,13 @@ LOCATION:Die Gute Stube
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2825190-2027-01-15-pilates-kurs.html@amtsfeed.de
-DTSTAMP:20260506T202123Z
+DTSTAMP:20260526T090436Z
 DTSTART:20270115T180000Z
 DTEND:20270115T193000Z
 SUMMARY:Pilates - Kurs
 URL:https://www.gruenheide-mark.de/veranstaltungen/2825190/2027/01/15/pil
  ates-kurs.html
-LOCATION:Eltern-Kind-Zentrum
+LOCATION:Eltern-Kind-Zentrum Grünheide (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2721462-2027-02-09-erzählcafé.html@amtsfeed.de
@@ -8178,6 +9305,16 @@ DTSTART:20270413T100000Z
 DTEND:20270413T130000Z
 SUMMARY:Erzählcaf&eacute\;
 URL:https://www.gruenheide-mark.de/veranstaltungen/2721462/2027/04/13/erz
+ ählcafé.html
+LOCATION:Die Gute Stube
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2721462-2027-05-11-erzählcafé.html@amtsfeed.de
+DTSTAMP:20260526T090436Z
+DTSTART:20270511T100000Z
+DTEND:20270511T130000Z
+SUMMARY:Erzählcaf&eacute\;
+URL:https://www.gruenheide-mark.de/veranstaltungen/2721462/2027/05/11/erz
  ählcafé.html
 LOCATION:Die Gute Stube
 END:VEVENT

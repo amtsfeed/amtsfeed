@@ -89,21 +89,6 @@ DESCRIPTION:Die Ausstellung erkundet den Kulturlandschaftsraum zwischen d
 LOCATION:Schlossgut Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
-UID:2@amtsfeed.de
-DTSTAMP:20260506T202126Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:Nachtwächter-Rundgang
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/nachtwaechter-rundgang-2/
-DESCRIPTION:Hört Ihr Leute lasst euch sagen ... unsere Uhr hat grad gesc
- hlagen!\n\nMit diesem oder einem ähnlichen Ruf empfängt Sie der Nachtw
- ächter der Stadt Altlandsberg. Gemeinsam werden Sie auf einem Rundgang d
- ie historische Stadt erkunden.  \nSie hören und erleben Geschichten aus 
- dem Leben des Nachtwächters\, von der...
-LOCATION:Schlossgut Altlandsberg
-END:VEVENT
-BEGIN:VEVENT
 UID:23@amtsfeed.de
 DTSTAMP:20260506T202126Z
 DTSTART;VALUE=DATE:20260523
@@ -112,37 +97,6 @@ SUMMARY:Schlösser und Parks in Märkisch-Oderland. Ein Blick in...
 URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
  gen/schloesser-und-parks-in-maerkisch-oderland-ein-blick-in-vergangenheit
  -und-gegenwart-23/
-DESCRIPTION:Die Ausstellung erkundet den Kulturlandschaftsraum zwischen d
- er östlichen Berliner Stadtgrenze und der Oder. Historische und zeitgen
- össische Ansichten von Schlössern\, Gutshäusern und Parkanlagen ergän
- zt durch seltene Landkarten aus Privatsammlung zeichnen ein facettenreich
- es Bild der Region Märkisch-Oderland.\n\nIm...
-LOCATION:Schlossgut Altlandsberg
-END:VEVENT
-BEGIN:VEVENT
-UID:1@amtsfeed.de
-DTSTAMP:20260506T202126Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:Workshop: "Sumi-e" Japanische Tuschemalerei mit Uta Wilczok
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/workshop-sumi-e-japanische-tuschemalerei-mit-uta-wilczok-1/
-DESCRIPTION:Sumi-e bedeutet übersetzt Schwarze-Tusche-Bild oder –Maler
- ei. Es ist eine seit Jahrhunderten in Japan ausgeübte Kunst\, in ihrer E
- infachheit und ihrem Ausdruck des Wesentlichen in den Zen-Klöstern zur M
- eisterschaft gebracht. Der Workshop gibt eine Idee vom „Weg der schwarz
- en Tusche“\, der spontan ist\, meditativ\, auf...
-LOCATION:Schlossgut Altlandsberg
-END:VEVENT
-BEGIN:VEVENT
-UID:24@amtsfeed.de
-DTSTAMP:20260506T202131Z
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-SUMMARY:Schlösser und Parks in Märkisch-Oderland. Ein Blick in...
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/schloesser-und-parks-in-maerkisch-oderland-ein-blick-in-vergangenheit
- -und-gegenwart-24/
 DESCRIPTION:Die Ausstellung erkundet den Kulturlandschaftsraum zwischen d
  er östlichen Berliner Stadtgrenze und der Oder. Historische und zeitgen
  össische Ansichten von Schlössern\, Gutshäusern und Parkanlagen ergän
@@ -163,6 +117,21 @@ DESCRIPTION:Die Schlosskirche Altlandsberg wird am 24. Mai zum Klangraum
  -Jokisch und Beatrice Wehner-Schaller präsentieren Beethovens 9. Sinfoni
  e in einer eindrucksvollen Fassung für Klavier zu vier Händen.\n\nDie b
  eiden Pianistinnen\, die für ihre...
+LOCATION:Schlossgut Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:24@amtsfeed.de
+DTSTAMP:20260526T090204Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Altlandsberger Frischemarkt
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/altlandsberger-frischemarkt-24/
+DESCRIPTION:**Regionale Vielfalt – Genuss im historischen Ambiente**\n\
+ nDer Frischemarkt auf dem Schlossgut Altlandsberg lädt regelmäßig dazu
+  ein\, frische Lebensmittel und besondere Produkte aus der Region zu entd
+ ecken. Auf der **Schlossterrasse** \, mit Blick auf das historische Ensem
+ ble\, präsentieren lokale Erzeugerinnen und...
 LOCATION:Schlossgut Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
@@ -191,6 +160,23 @@ DESCRIPTION:"Klezmer-Musik allerfeinster Güt\, wie man sie nur selten h
 LOCATION:Kirchplatz
 END:VEVENT
 BEGIN:VEVENT
+UID:1@amtsfeed.de
+DTSTAMP:20260526T090210Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Workshop: "Von der Natur zum Druck" - Botanische Gelli Plate Druc
+ ke...
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/workshop-von-der-natur-zum-druck-botanische-gelli-plate-drucke-mit-ul
+ rich-handke-1/
+DESCRIPTION:In seinem Kreativ-Workshop zum Thema „Von der Natur zum Dru
+ ck“ gibt Ulrich Handke eine Einführung in die Technik der botanischen 
+ Gelli Plate Drucke. Diese vielfältige Druckmethode ermöglicht einzigart
+ ige Kunstwerke\, denn jeder Druck entsteht nur ein einziges Mal und träg
+ t die individuellen Strukturen und Formen der...
+LOCATION:Schlossgut Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
 UID:3@amtsfeed.de
 DTSTAMP:20260506T202138Z
 DTSTART;VALUE=DATE:20260605
@@ -203,6 +189,21 @@ DESCRIPTION:Hört Ihr Leute lasst euch sagen ... unsere Uhr hat grad gesc
  ächter der Stadt Altlandsberg. Gemeinsam werden Sie auf einem Rundgang d
  ie historische Stadt erkunden.  \nSie hören und erleben Geschichten aus 
  dem Leben des Nachtwächters\, von der...
+LOCATION:Schlossgut Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:2@amtsfeed.de
+DTSTAMP:20260531T131357Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Workshop: "Sumi-e" Japanische Tuschemalerei mit Uta Wilczok
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/workshop-sumi-e-japanische-tuschemalerei-mit-uta-wilczok-2/
+DESCRIPTION:Sumi-e bedeutet übersetzt Schwarze-Tusche-Bild oder –Maler
+ ei. Es ist eine seit Jahrhunderten in Japan ausgeübte Kunst\, in ihrer E
+ infachheit und ihrem Ausdruck des Wesentlichen in den Zen-Klöstern zur M
+ eisterschaft gebracht. Der Workshop gibt eine Idee vom „Weg der schwarz
+ en Tusche“\, der spontan ist\, meditativ\, auf...
 LOCATION:Schlossgut Altlandsberg
 END:VEVENT
 BEGIN:VEVENT

@@ -7,6 +7,35 @@ X-WR-CALNAME:Eberswalde
 X-WR-CALDESC:Amtliche Veranstaltungen für Eberswalde
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:ausstellung-momente-der-stille-und-kraft@amtsfeed.de
+DTSTAMP:20260531T131310Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260627
+SUMMARY:Ausstellung „Momente der Stille und Kraft"
+URL:https://www.eberswalde.de/termine/ausstellung-momente-der-stille-und-
+ kraft
+END:VEVENT
+BEGIN:VEVENT
+UID:momente-der-stille-kraft-in-der-kleinen-galerie-der-stadt-eberswalde@
+ amtsfeed.de
+DTSTAMP:20260526T084946Z
+DTSTART:20260327T090000Z
+DTEND:20260626T000000Z
+SUMMARY:„Momente der Stille & Kraft" in der Kleinen Galerie der Stadt E
+ berswalde
+URL:https://www.eberswalde.de/termine/momente-der-stille-kraft-in-der-kle
+ inen-galerie-der-stadt-eberswalde
+END:VEVENT
+BEGIN:VEVENT
+UID:rathausausstellung-honey-haze-von-therese-weinhonig-25@amtsfeed.de
+DTSTAMP:20260526T084946Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260613
+SUMMARY:Rathausausstellung „honey&haze." von Therese Weinhonig
+URL:https://www.eberswalde.de/termine/rathausausstellung-honey-haze-von-t
+ herese-weinhonig-25
+END:VEVENT
+BEGIN:VEVENT
 UID:ausstellung-tuchener-kartenwerke-kuenstlerische-neuvermessung-eines-b
  arnimer-hoehendorfs-kopie-30@amtsfeed.de
 DTSTAMP:20260505T210042Z
@@ -134,5 +163,147 @@ DTSTAMP:20260506T202209Z
 DTSTART:20260507T180000Z
 SUMMARY:Filmabend: The Vanishing Soldier
 URL:https://www.eberswalde.de/termine/filmabend-the-vanishing-soldier
+END:VEVENT
+BEGIN:VEVENT
+UID:ausstellung-tuchener-kartenwerke-kuenstlerische-neuvermessung-eines-b
+ arnimer-hoehendorfs-kopie-45@amtsfeed.de
+DTSTAMP:20260526T084946Z
+DTSTART:20260525T110000Z
+DTEND:20260526T000000Z
+SUMMARY:Ausstellung Tuchener Kartenwerke - Künstlerische Neuvermessung e
+ ines Barnimer Höhendorfs
+URL:https://www.eberswalde.de/termine/ausstellung-tuchener-kartenwerke-ku
+ enstlerische-neuvermessung-eines-barnimer-hoehendorfs-kopie-45
+END:VEVENT
+BEGIN:VEVENT
+UID:168-ausstellung-...und-jede-woche-lockt-die-kunst-2@amtsfeed.de
+DTSTAMP:20260526T084946Z
+DTSTART:20260525T143000Z
+DTEND:20260526T000000Z
+SUMMARY:168. Ausstellung: …und jede Woche lockt die Kunst
+URL:https://www.eberswalde.de/termine/168-ausstellung-...und-jede-woche-l
+ ockt-die-kunst-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ausstellung-tuchener-kartenwerke-kuenstlerische-neuvermessung-eines-b
+ arnimer-hoehendorfs-kopie-46@amtsfeed.de
+DTSTAMP:20260526T084946Z
+DTSTART:20260526T110000Z
+DTEND:20260527T000000Z
+SUMMARY:Ausstellung Tuchener Kartenwerke - Künstlerische Neuvermessung e
+ ines Barnimer Höhendorfs
+URL:https://www.eberswalde.de/termine/ausstellung-tuchener-kartenwerke-ku
+ enstlerische-neuvermessung-eines-barnimer-hoehendorfs-kopie-46
+END:VEVENT
+BEGIN:VEVENT
+UID:workshopreihe-26-5-26-30-5-26-platten-spiel-strand@amtsfeed.de
+DTSTAMP:20260526T084946Z
+DTSTART:20260526T143000Z
+SUMMARY:Workshopreihe 26.5.26 - 30.5.26 #platten#spiel#strand
+URL:https://www.eberswalde.de/termine/workshopreihe-26-5-26-30-5-26-platt
+ en-spiel-strand
+END:VEVENT
+BEGIN:VEVENT
+UID:ausstellung-tuchener-kartenwerke-kuenstlerische-neuvermessung-eines-b
+ arnimer-hoehendorfs-kopie-47@amtsfeed.de
+DTSTAMP:20260526T084946Z
+DTSTART:20260527T110000Z
+DTEND:20260528T000000Z
+SUMMARY:Ausstellung Tuchener Kartenwerke - Künstlerische Neuvermessung e
+ ines Barnimer Höhendorfs
+URL:https://www.eberswalde.de/termine/ausstellung-tuchener-kartenwerke-ku
+ enstlerische-neuvermessung-eines-barnimer-hoehendorfs-kopie-47
+END:VEVENT
+BEGIN:VEVENT
+UID:workshopreihe-26-5-26-30-5-26-platten-spiel-strand-2@amtsfeed.de
+DTSTAMP:20260526T084946Z
+DTSTART:20260527T150000Z
+SUMMARY:Workshopreihe 26.5.26 - 30.5.26 #platten#spiel#strand
+URL:https://www.eberswalde.de/termine/workshopreihe-26-5-26-30-5-26-platt
+ en-spiel-strand-2
+END:VEVENT
+BEGIN:VEVENT
+UID:kinderaktion-die-wunderbare-welt-der-pflanzen-im-museum-eberswalde@am
+ tsfeed.de
+DTSTAMP:20260526T084946Z
+DTSTART:20260527T153000Z
+SUMMARY:Kinderaktion „Die wunderbare Welt der Pflanzen" im Museum Ebers
+ walde
+URL:https://www.eberswalde.de/termine/kinderaktion-die-wunderbare-welt-de
+ r-pflanzen-im-museum-eberswalde
+END:VEVENT
+BEGIN:VEVENT
+UID:bilderbuchkino-in-der-stadtbibliothek-eberswalde-5@amtsfeed.de
+DTSTAMP:20260526T084946Z
+DTSTART:20260528T163000Z
+SUMMARY:Bilderbuchkino in der Stadtbibliothek Eberswalde
+URL:https://www.eberswalde.de/termine/bilderbuchkino-in-der-stadtbiblioth
+ ek-eberswalde-5
+END:VEVENT
+BEGIN:VEVENT
+UID:169-ausstellung-holz-und-was-daraus-werden-kann-3@amtsfeed.de
+DTSTAMP:20260531T131310Z
+DTSTART:20260531T143000Z
+SUMMARY:169. Ausstellung: Holz- und was daraus werden kann
+URL:https://www.eberswalde.de/termine/169-ausstellung-holz-und-was-daraus
+ -werden-kann-3
+END:VEVENT
+BEGIN:VEVENT
+UID:169-ausstellung-holz-und-was-daraus-werden-kann-2@amtsfeed.de
+DTSTAMP:20260531T131310Z
+DTSTART:20260531T143000Z
+SUMMARY:169. Ausstellung: Holz- und was daraus werden kann
+URL:https://www.eberswalde.de/termine/169-ausstellung-holz-und-was-daraus
+ -werden-kann-2
+END:VEVENT
+BEGIN:VEVENT
+UID:friedhofsfuehrung-und-konzert-auf-dem-waldfriedhof-2@amtsfeed.de
+DTSTAMP:20260531T131310Z
+DTSTART:20260531T150000Z
+SUMMARY:Friedhofsführung und Konzert auf dem Waldfriedhof
+URL:https://www.eberswalde.de/termine/friedhofsfuehrung-und-konzert-auf-d
+ em-waldfriedhof-2
+END:VEVENT
+BEGIN:VEVENT
+UID:warum-ein-biosphaerenreservat-eine-chance-fuer-uns-ist-vortrag-von-dr
+ -susanne-winter@amtsfeed.de
+DTSTAMP:20260531T131310Z
+DTSTART:20260602T170000Z
+SUMMARY:„Warum ein Biosphärenreservat eine Chance für uns ist" Vortra
+ g von Dr. Susanne Winter
+URL:https://www.eberswalde.de/termine/warum-ein-biosphaerenreservat-eine-
+ chance-fuer-uns-ist-vortrag-von-dr-susanne-winter
+END:VEVENT
+BEGIN:VEVENT
+UID:waldstadt-festival-2026-2@amtsfeed.de
+DTSTAMP:20260531T131310Z
+DTSTART:20260605T180000Z
+DTEND:20260606T000000Z
+SUMMARY:Waldstadt-Festival 2026
+URL:https://www.eberswalde.de/termine/waldstadt-festival-2026-2
+END:VEVENT
+BEGIN:VEVENT
+UID:waldstadt-festival-2026-3@amtsfeed.de
+DTSTAMP:20260531T131310Z
+DTSTART:20260606T103000Z
+DTEND:20260607T000000Z
+SUMMARY:Waldstadt-Festival 2026
+URL:https://www.eberswalde.de/termine/waldstadt-festival-2026-3
+END:VEVENT
+BEGIN:VEVENT
+UID:169-ausstellung-holz-und-was-daraus-werden-kann-4@amtsfeed.de
+DTSTAMP:20260531T131310Z
+DTSTART:20260606T143000Z
+SUMMARY:169. Ausstellung: Holz- und was daraus werden kann
+URL:https://www.eberswalde.de/termine/169-ausstellung-holz-und-was-daraus
+ -werden-kann-4
+END:VEVENT
+BEGIN:VEVENT
+UID:169-ausstellung-holz-und-was-daraus-werden-kann-5@amtsfeed.de
+DTSTAMP:20260531T131310Z
+DTSTART:20260607T143000Z
+SUMMARY:169. Ausstellung: Holz- und was daraus werden kann
+URL:https://www.eberswalde.de/termine/169-ausstellung-holz-und-was-daraus
+ -werden-kann-5
 END:VEVENT
 END:VCALENDAR

@@ -252,6 +252,24 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2893928/2026/05/
  30/5.-teupitzer-kinderfest.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2902814-20260530@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:5. Teupitzer Kinderfest
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2902814/2026/05/
+ 30/5.-teupitzer-kinderfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2902624-20260530@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Konzert der LIMESTONES
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2902624/2026/05/
+ 30/konzert-der-limestones.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2896993-20260601@amtsfeed.de
 DTSTAMP:20260508T193631Z
 DTSTART;VALUE=DATE:20260601
@@ -306,6 +324,15 @@ DTEND;VALUE=DATE:20260604
 SUMMARY:4. Schulkonferenz
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2860264/2026/06/
  03/4.-schulkonferenz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908461-20260603@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Jugendtreffen &bdquo\;Eure Ideen für unsere Stadt&ldquo\;
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908461/2026/06/
+ 03/jugendtreffen-eure-ideen-für-unsere-stadt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2836263-20260604@amtsfeed.de
@@ -439,12 +466,21 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/06/
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2894939-20260613@amtsfeed.de
-DTSTAMP:20260508T193631Z
+DTSTAMP:20260526T090114Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-SUMMARY:Rosenbaum Klein Köris
+SUMMARY:Klein Köriser Rosenbaum
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2894939/2026/06/
- 13/rosenbaum-klein-köris.html
+ 13/klein-köriser-rosenbaum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908463-20260613@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Tag der offenen Tür SV Grün-Weiß Märkisch Buchholz
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908463/2026/06/
+ 13/tag-der-offenen-tür-sv-grün-weiß-märkisch-buchholz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2836271-20260616@amtsfeed.de
@@ -501,6 +537,24 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2708009/2026/06/
  20/sommerfest-freilichtmuseum-klein-köris-e.v.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2902818-20260620@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:14. Teupitzer Warentauschtag
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2902818/2026/06/
+ 20/14.-teupitzer-warentauschtag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908464-20260620@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:"Fete de la musique"
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908464/2026/06/
+ 20/fete-de-la-musique.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2668097-20260622@amtsfeed.de
 DTSTAMP:20260508T193631Z
 DTSTART;VALUE=DATE:20260622
@@ -510,6 +564,15 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2668097/2026/06/
  22/mgh-franz-fühmann-frühstückstreff.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908469-20260623@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Bürgermeistersprechstunde
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908469/2026/06/
+ 23/bürgermeistersprechstunde.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2549386-20260624@amtsfeed.de
 DTSTAMP:20260508T193631Z
 DTSTART;VALUE=DATE:20260624
@@ -517,6 +580,15 @@ DTEND;VALUE=DATE:20260625
 SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2026/06/
  24/krabbelgruppe-im-mgh-franz-fühmann-nach-anmeldung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908470-20260624@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Stadtverordnetenversammlung
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908470/2026/06/
+ 24/stadtverordnetenversammlung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2861706-20260625@amtsfeed.de
@@ -535,6 +607,15 @@ DTEND;VALUE=DATE:20260626
 SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/06/
  25/literaturcafé-im-mgh-franz-fühmann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908476-20260628@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Radrennen Dresden-Erkner
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908476/2026/06/
+ 28/radrennen-dresden-erkner.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2836272-20260629@amtsfeed.de
@@ -582,6 +663,24 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/07/
  02/literaturcafé-im-mgh-franz-fühmann.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2904006-20260704@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Open Air Konzert der Schenkenland Big Band
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2904006/2026/07/
+ 04/open-air-konzert-der-schenkenland-big-band.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908484-20260704@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Strandfest in Köthen
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908484/2026/07/
+ 04/strandfest-in-köthen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2694656-20260705@amtsfeed.de
 DTSTAMP:20260508T193631Z
 DTSTART;VALUE=DATE:20260705
@@ -609,6 +708,15 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2836289/2026/07/
  06/abschied-4.-klasse.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2900871-20260706@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:Feierliche Zeugnisübergabe Klasse 6
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2900871/2026/07/
+ 06/feierliche-zeugnisübergabe-klasse-6.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2668124-20260707@amtsfeed.de
 DTSTAMP:20260508T193631Z
 DTSTART;VALUE=DATE:20260707
@@ -616,6 +724,15 @@ DTEND;VALUE=DATE:20260708
 SUMMARY:Reparaturcaf&eacute\; - Reparieren statt wegwerfen
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2668124/2026/07/
  07/reparaturcafé-reparieren-statt-wegwerfen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2900870-20260707@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Feierliche Zeugnisübergabe Klassenstufe 10
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2900870/2026/07/
+ 07/feierliche-zeugnisübergabe-klassenstufe-10.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2549386-20260708@amtsfeed.de
@@ -654,6 +771,24 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/07/
  09/literaturcafé-im-mgh-franz-fühmann.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908486-20260709@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Sommer-Lese-Aktion zum Ferienbeginn
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908486/2026/07/
+ 09/sommer-lese-aktion-zum-ferienbeginn.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908488-20260711@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Livemusik "Graubart Trio"
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908488/2026/07/
+ 11/livemusik-graubart-trio.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2549386-20260715@amtsfeed.de
 DTSTAMP:20260508T193631Z
 DTSTART;VALUE=DATE:20260715
@@ -681,6 +816,24 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/07/
  16/literaturcafé-im-mgh-franz-fühmann.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2902826-20260718@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:15. Seeschwimmen in Teupitz am See
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2902826/2026/07/
+ 18/15.-seeschwimmen-in-teupitz-am-see.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908489-20260718@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Sommercamp der Johanniter Jugend
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908489/2026/07/
+ 18/sommercamp-der-johanniter-jugend.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2668097-20260720@amtsfeed.de
 DTSTAMP:20260508T193631Z
 DTSTART;VALUE=DATE:20260720
@@ -697,6 +850,24 @@ DTEND;VALUE=DATE:20260723
 SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2026/07/
  22/krabbelgruppe-im-mgh-franz-fühmann-nach-anmeldung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908491-20260722@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:Ausflug ins Anne Frank Zentrum (ab 12 Jahre)
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908491/2026/07/
+ 22/ausflug-ins-anne-frank-zentrum-ab-12-jahre.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908490-20260722@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:Kaffeeklatsch in der Jugendherberge Köthen
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908490/2026/07/
+ 22/kaffeeklatsch-in-der-jugendherberge-köthen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2861706-20260723@amtsfeed.de
@@ -724,6 +895,15 @@ DTEND;VALUE=DATE:20260730
 SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2026/07/
  29/krabbelgruppe-im-mgh-franz-fühmann-nach-anmeldung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2908492-20260729@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:Fahrt zum Bundestag (ab 14 Jahre) Jugendclub
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2908492/2026/07/
+ 29/fahrt-zum-bundestag-ab-14-jahre-jugendclub.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2549396-20260730@amtsfeed.de
@@ -2218,5 +2398,104 @@ DTEND;VALUE=DATE:20270507
 SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2027/05/
  06/literaturcafé-im-mgh-franz-fühmann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2668097-20270510@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:MGH "Franz Fühmann": Frühstückstreff
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2668097/2027/05/
+ 10/mgh-franz-fühmann-frühstückstreff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549386-20270512@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2027/05/
+ 12/krabbelgruppe-im-mgh-franz-fühmann-nach-anmeldung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2861706-20270513@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Kreativ-Workshop im MGH "Franz Fühmann":
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2861706/2027/05/
+ 13/kreativ-workshop-im-mgh-franz-fühmann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549405-20270513@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2027/05/
+ 13/literaturcafé-im-mgh-franz-fühmann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549386-20270519@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2027/05/
+ 19/krabbelgruppe-im-mgh-franz-fühmann-nach-anmeldung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549396-20270520@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Kreativ-Workshop im MGH "Franz Fühmann":
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549396/2027/05/
+ 20/kreativ-workshop-im-mgh-franz-fühmann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549405-20270520@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2027/05/
+ 20/literaturcafé-im-mgh-franz-fühmann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2668097-20270524@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:MGH "Franz Fühmann": Frühstückstreff
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2668097/2027/05/
+ 24/mgh-franz-fühmann-frühstückstreff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549386-20270526@amtsfeed.de
+DTSTAMP:20260526T090114Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2027/05/
+ 26/krabbelgruppe-im-mgh-franz-fühmann-nach-anmeldung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2861706-20270527@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Kreativ-Workshop im MGH "Franz Fühmann":
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2861706/2027/05/
+ 27/kreativ-workshop-im-mgh-franz-fühmann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549405-20270527@amtsfeed.de
+DTSTAMP:20260531T131316Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2027/05/
+ 27/literaturcafé-im-mgh-franz-fühmann.html
 END:VEVENT
 END:VCALENDAR

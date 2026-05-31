@@ -739,6 +739,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191106@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260512T140000Z
+DTEND:20260512T150000Z
+SUMMARY:Treff BibKa: Kaffeestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104410@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260513T110000Z
@@ -768,6 +777,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99188083@amtsfeed.de
 DTSTAMP:20260506T083709Z
+DTSTART:20260516T103000Z
+DTEND:20260516T113000Z
+SUMMARY:“Was fehlt dir\, kleiner Roboter?”
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99189074@amtsfeed.de
+DTSTAMP:20260526T090429Z
 DTSTART:20260516T103000Z
 DTEND:20260516T113000Z
 SUMMARY:“Was fehlt dir\, kleiner Roboter?”
@@ -815,6 +833,15 @@ UID:beeskow-event-99940659@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260519T100000Z
 DTEND:20260519T235959Z
+SUMMARY:Stunde für Kreative und Buchliebhaber
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191072@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260519T100000Z
+DTEND:20260519T113000Z
 SUMMARY:Stunde für Kreative und Buchliebhaber
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
@@ -883,6 +910,16 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191085@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260525T170000Z
+DTEND:20260525T173000Z
+SUMMARY:Die Welt der Onleihe – elektronische Medien erklärt und vorgef
+ ührt
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99940680@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260525T173000Z
@@ -911,6 +948,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191096@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260526T140000Z
+DTEND:20260526T150000Z
+SUMMARY:Treff BibKa: Spielestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104422@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260527T110000Z
@@ -933,6 +979,15 @@ UID:beeskow-event-99188084@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260528T183000Z
 DTEND:20260528T200000Z
+SUMMARY:Apps leicht erklärt
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99189073@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260528T183000Z
+DTEND:20260528T193000Z
 SUMMARY:Apps leicht erklärt
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
@@ -1019,11 +1074,29 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191114@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260602T180000Z
+DTEND:20260602T190000Z
+SUMMARY:Kreativ-Treff mit Elke
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99940646@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260603T100000Z
 DTEND:20260603T235959Z
 SUMMARY:Bücherkreis ☕✨
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191063@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260603T100000Z
+DTEND:20260603T113000Z
+SUMMARY:Bücherkreis
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
@@ -1091,6 +1164,15 @@ URL:https://operoderspree.reservix.de/
 LOCATION:Burg Beeskow\, Burghof
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-69433:0@amtsfeed.de
+DTSTAMP:20260531T131624Z
+DTSTART:20260607T093000Z
+DTEND:20260607T130000Z
+SUMMARY:13. Beeskower Altstadtlauf
+URL:https://beeskower-altstadtlauf.de
+LOCATION:Marktplatz Beeskow
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104432@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260607T110000Z
@@ -1136,6 +1218,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191107@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260609T140000Z
+DTEND:20260609T150000Z
+SUMMARY:Treff BibKa: Kaffeestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104434@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260610T110000Z
@@ -1172,6 +1263,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191121@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260613T100000Z
+DTEND:20260613T120000Z
+SUMMARY:Maker & Coder Dojo Beeskow
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104437@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260613T110000Z
@@ -1194,6 +1294,15 @@ UID:beeskow-event-99940660@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260616T100000Z
 DTEND:20260616T235959Z
+SUMMARY:Stunde für Kreative und Buchliebhaber
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191073@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260616T100000Z
+DTEND:20260616T113000Z
 SUMMARY:Stunde für Kreative und Buchliebhaber
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
@@ -1242,6 +1351,16 @@ DTEND:20260619T170000Z
 SUMMARY:museum oder-spree „lauschen und lärmen“
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-69475:0@amtsfeed.de
+DTSTAMP:20260531T131624Z
+DTSTART:20260619T190000Z
+DTEND:20260619T213000Z
+SUMMARY:Science Slam der Hochschulpräsenzstelle Beeskow
+URL:https://www.praesenzstelle-beeskow.de/termine/detail/4-brandenburger-
+ science-slam-1
+LOCATION:Kulturfabrik Fürstenwalde
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-9994879@amtsfeed.de
@@ -1361,6 +1480,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191097@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260623T140000Z
+DTEND:20260623T150000Z
+SUMMARY:Treff BibKa: Spielestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104446@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260624T110000Z
@@ -1406,6 +1534,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99196351@amtsfeed.de
+DTSTAMP:20260531T131624Z
+DTSTART:20260628T100000Z
+DTEND:20260628T170000Z
+SUMMARY:Picknick mit Musik
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Burg Beeskow\, museum oder spree
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104450@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260628T110000Z
@@ -1413,6 +1550,16 @@ DTEND:20260628T170000Z
 SUMMARY:museum oder-spree „lauschen und lärmen“
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191086@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260629T170000Z
+DTEND:20260629T173000Z
+SUMMARY:Die Welt der Onleihe – elektronische Medien erklärt und vorgef
+ ührt
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99940681@amtsfeed.de
@@ -1439,6 +1586,15 @@ DTSTAMP:20260506T083709Z
 DTSTART:20260701T100000Z
 DTEND:20260701T235959Z
 SUMMARY:Bücherkreis ☕✨
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191064@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260701T100000Z
+DTEND:20260701T113000Z
+SUMMARY:Bücherkreis
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
@@ -1569,6 +1725,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191115@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260707T180000Z
+DTEND:20260707T190000Z
+SUMMARY:Kreativ-Treff mit Elke
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104458@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260708T110000Z
@@ -1632,6 +1797,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99196389@amtsfeed.de
+DTSTAMP:20260531T131624Z
+DTSTART:20260712T143000Z
+DTEND:20260712T163000Z
+SUMMARY:Der unsichtbare Pianist im Kaffeehaus
+URL:https://burg-beeskow.reservix.de/
+LOCATION:Burg Beeskow
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104463@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260714T110000Z
@@ -1646,6 +1820,15 @@ DTSTAMP:20260506T083709Z
 DTSTART:20260714T140000Z
 DTEND:20260714T235959Z
 SUMMARY:Treff BibKa: Kaffeestündchen ☕ ✨
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191108@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260714T140000Z
+DTEND:20260714T150000Z
+SUMMARY:Treff BibKa: Kaffeestündchen
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
@@ -1740,6 +1923,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191074@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260721T100000Z
+DTEND:20260721T113000Z
+SUMMARY:Stunde für Kreative und Buchliebhaber
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104469@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260721T110000Z
@@ -1794,6 +1986,16 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191087@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260727T170000Z
+DTEND:20260727T173000Z
+SUMMARY:Die Welt der Onleihe – elektronische Medien erklärt und vorgef
+ ührt
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99940682@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260727T173000Z
@@ -1817,6 +2019,15 @@ UID:beeskow-event-99940598@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260728T140000Z
 DTEND:20260728T235959Z
+SUMMARY:Treff BibKa: Spielestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191098@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260728T140000Z
+DTEND:20260728T150000Z
 SUMMARY:Treff BibKa: Spielestündchen
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
@@ -1856,6 +2067,15 @@ DTEND:20260801T170000Z
 SUMMARY:museum oder-spree „lauschen und lärmen“
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99196466@amtsfeed.de
+DTSTAMP:20260531T131624Z
+DTSTART:20260801T200000Z
+DTEND:20260801T223000Z
+SUMMARY:Konzert mit Friedrich & Wiesenhütter
+URL:https://burg-beeskow.reservix.de/
+LOCATION:Burg Beeskow\, Burghof
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-68578:0@amtsfeed.de
@@ -1912,11 +2132,29 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191116@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260804T180000Z
+DTEND:20260804T190000Z
+SUMMARY:Kreativ-Treff mit Elke
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99940648@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260805T100000Z
 DTEND:20260805T235959Z
 SUMMARY:Bücherkreis ☕✨
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191065@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260805T100000Z
+DTEND:20260805T113000Z
+SUMMARY:Bücherkreis
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
@@ -2020,6 +2258,24 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Sport- und Freizeitzentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191181@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260810T100000Z
+DTEND:20260810T150000Z
+SUMMARY:Ferienworkshop: Mein Minecraft-Ich
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191182@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260811T100000Z
+DTEND:20260811T150000Z
+SUMMARY:Ferienworkshop: Mein Minecraft-Ich
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104487@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260811T110000Z
@@ -2038,6 +2294,24 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191109@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260811T140000Z
+DTEND:20260811T150000Z
+SUMMARY:Treff BibKa: Kaffeestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191183@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260812T100000Z
+DTEND:20260812T150000Z
+SUMMARY:Ferienworkshop: Mein Minecraft-Ich
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104488@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260812T110000Z
@@ -2047,6 +2321,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191184@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260813T100000Z
+DTEND:20260813T150000Z
+SUMMARY:Ferienworkshop: Mein Minecraft-Ich
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104489@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260813T110000Z
@@ -2054,6 +2337,15 @@ DTEND:20260813T170000Z
 SUMMARY:museum oder-spree „lauschen und lärmen“
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191185@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260814T100000Z
+DTEND:20260814T150000Z
+SUMMARY:Ferienworkshop: Mein Minecraft-Ich
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99104490@amtsfeed.de
@@ -2138,6 +2430,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191075@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260818T100000Z
+DTEND:20260818T113000Z
+SUMMARY:Stunde für Kreative und Buchliebhaber
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104493@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260818T110000Z
@@ -2210,6 +2511,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191099@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260825T140000Z
+DTEND:20260825T150000Z
+SUMMARY:Treff BibKa: Spielestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104500@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260826T110000Z
@@ -2273,6 +2583,16 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191088@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260831T170000Z
+DTEND:20260831T173000Z
+SUMMARY:Die Welt der Onleihe – elektronische Medien erklärt und vorgef
+ ührt
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99940683@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260831T173000Z
@@ -2301,11 +2621,29 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191117@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260901T180000Z
+DTEND:20260901T190000Z
+SUMMARY:Kreativ-Treff mit Elke
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99940649@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260902T100000Z
 DTEND:20260902T235959Z
 SUMMARY:Bücherkreis ☕✨
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191066@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260902T100000Z
+DTEND:20260902T113000Z
+SUMMARY:Bücherkreis
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
@@ -2418,6 +2756,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191110@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260908T140000Z
+DTEND:20260908T150000Z
+SUMMARY:Treff BibKa: Kaffeestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104512@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260909T110000Z
@@ -2463,6 +2810,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191123@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:Maker & Coder Dojo Beeskow
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104515@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260912T110000Z
@@ -2485,6 +2841,15 @@ UID:beeskow-event-99940663@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260915T100000Z
 DTEND:20260915T235959Z
+SUMMARY:Stunde für Kreative und Buchliebhaber
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191076@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260915T100000Z
+DTEND:20260915T113000Z
 SUMMARY:Stunde für Kreative und Buchliebhaber
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
@@ -2589,6 +2954,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191100@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260922T140000Z
+DTEND:20260922T150000Z
+SUMMARY:Treff BibKa: Spielestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104524@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20260923T110000Z
@@ -2632,6 +3006,16 @@ DTEND:20260927T170000Z
 SUMMARY:museum oder-spree „lauschen und lärmen“
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191089@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20260928T170000Z
+DTEND:20260928T173000Z
+SUMMARY:Die Welt der Onleihe – elektronische Medien erklärt und vorgef
+ ührt
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99940684@amtsfeed.de
@@ -2752,11 +3136,29 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191118@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261006T180000Z
+DTEND:20261006T190000Z
+SUMMARY:Kreativ-Treff mit Elke
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99940650@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261007T100000Z
 DTEND:20261007T235959Z
 SUMMARY:Bücherkreis ☕✨
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191067@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261007T100000Z
+DTEND:20261007T113000Z
+SUMMARY:Bücherkreis
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
@@ -2793,6 +3195,15 @@ DTSTAMP:20260506T083709Z
 DTSTART:20261010T100000Z
 DTEND:20261010T120000Z
 SUMMARY:Coder Dojo Beeskow - Programmier` dein eigenes Spiel
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191124@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261010T100000Z
+DTEND:20261010T120000Z
+SUMMARY:Maker & Coder Dojo Beeskow
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
@@ -2865,6 +3276,15 @@ DTSTAMP:20260506T083709Z
 DTSTART:20261013T140000Z
 DTEND:20261013T235959Z
 SUMMARY:Treff BibKa: Kaffeestündchen ☕ ✨
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191111@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261013T140000Z
+DTEND:20261013T150000Z
+SUMMARY:Treff BibKa: Kaffeestündchen
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
@@ -2950,6 +3370,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191077@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261020T100000Z
+DTEND:20261020T113000Z
+SUMMARY:Stunde für Kreative und Buchliebhaber
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104547@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261020T110000Z
@@ -3013,6 +3442,16 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Rasenplatz + beide Hallen (Sport- und Freizeitzentrum)
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191090@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261026T170000Z
+DTEND:20261026T173000Z
+SUMMARY:Die Welt der Onleihe – elektronische Medien erklärt und vorgef
+ ührt
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99940685@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261026T173000Z
@@ -3036,6 +3475,15 @@ UID:beeskow-event-99940601@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261027T140000Z
 DTEND:20261027T235959Z
+SUMMARY:Treff BibKa: Spielestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191101@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261027T140000Z
+DTEND:20261027T150000Z
 SUMMARY:Treff BibKa: Spielestündchen
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
@@ -3122,11 +3570,29 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191119@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261103T180000Z
+DTEND:20261103T190000Z
+SUMMARY:Kreativ-Treff mit Elke
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99940651@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261104T100000Z
 DTEND:20261104T235959Z
 SUMMARY:Bücherkreis ☕✨
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191068@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261104T100000Z
+DTEND:20261104T113000Z
+SUMMARY:Bücherkreis
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
@@ -3212,6 +3678,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191112@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261110T140000Z
+DTEND:20261110T150000Z
+SUMMARY:Treff BibKa: Kaffeestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104566@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261111T110000Z
@@ -3248,6 +3723,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191125@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261114T100000Z
+DTEND:20261114T120000Z
+SUMMARY:Maker & Coder Dojo Beeskow
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104569@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261114T110000Z
@@ -3270,6 +3754,15 @@ UID:beeskow-event-99940665@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261117T100000Z
 DTEND:20261117T235959Z
+SUMMARY:Stunde für Kreative und Buchliebhaber
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191078@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261117T100000Z
+DTEND:20261117T113000Z
 SUMMARY:Stunde für Kreative und Buchliebhaber
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
@@ -3347,6 +3840,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191102@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261124T140000Z
+DTEND:20261124T150000Z
+SUMMARY:Treff BibKa: Spielestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104578@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261125T110000Z
@@ -3392,6 +3894,16 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191091@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261130T170000Z
+DTEND:20261130T173000Z
+SUMMARY:Die Welt der Onleihe – elektronische Medien erklärt und vorgef
+ ührt
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99940686@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261130T173000Z
@@ -3420,11 +3932,29 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191120@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261201T180000Z
+DTEND:20261201T190000Z
+SUMMARY:Kreativ-Treff mit Elke
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99940652@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261202T100000Z
 DTEND:20261202T235959Z
 SUMMARY:Bücherkreis ☕✨
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191069@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261202T100000Z
+DTEND:20261202T113000Z
+SUMMARY:Bücherkreis
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
@@ -3528,6 +4058,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191113@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261208T140500Z
+DTEND:20261208T150500Z
+SUMMARY:Treff BibKa: Kaffeestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104590@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261209T110000Z
@@ -3573,6 +4112,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191126@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261212T100000Z
+DTEND:20261212T120000Z
+SUMMARY:Maker & Coder Dojo Beeskow
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104593@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261212T110000Z
@@ -3595,6 +4143,15 @@ UID:beeskow-event-99940666@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261215T100000Z
 DTEND:20261215T235959Z
+SUMMARY:Stunde für Kreative und Buchliebhaber
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191079@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261215T100000Z
+DTEND:20261215T113000Z
 SUMMARY:Stunde für Kreative und Buchliebhaber
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
@@ -3672,6 +4229,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99191103@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261222T140000Z
+DTEND:20261222T150000Z
+SUMMARY:Treff BibKa: Spielestündchen
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104602@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261223T110000Z
@@ -3715,6 +4281,16 @@ DTEND:20261227T170000Z
 SUMMARY:museum oder-spree „lauschen und lärmen“
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99191092@amtsfeed.de
+DTSTAMP:20260526T090429Z
+DTSTART:20261228T170000Z
+DTEND:20261228T173000Z
+SUMMARY:Die Welt der Onleihe – elektronische Medien erklärt und vorgef
+ ührt
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99940687@amtsfeed.de

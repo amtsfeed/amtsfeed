@@ -26,7 +26,10 @@ function gitHeadJson(path: string): unknown | null {
 }
 
 function modifiedFiles(): string[] {
-  const out = execSync("git status --porcelain -z", { encoding: "utf-8", cwd: ROOT });
+  // -uall: zeige untracked Dateien einzeln statt nur den Ordner zu listen.
+  // Ohne den Flag würden neu angelegte Gemeinde-Ordner als "?? wiki/.../Foo/"
+  // erscheinen und die JSON-Dateien darin nicht erkannt werden.
+  const out = execSync("git status --porcelain -uall -z", { encoding: "utf-8", cwd: ROOT });
   const files: string[] = [];
   for (const e of out.split("\0").filter(Boolean)) {
     const status = e.slice(0, 2);

@@ -20,7 +20,8 @@ function gitHead(path: string): string | null {
 }
 
 function modifiedJsonFiles(): string[] {
-  const out = execSync("git status --porcelain -z", { encoding: "utf-8", cwd: ROOT });
+  // -uall: untracked Dateien einzeln auflisten (sonst nur Ordner ohne JSON-Pfade)
+  const out = execSync("git status --porcelain -uall -z", { encoding: "utf-8", cwd: ROOT });
   const entries = out.split("\0").filter(Boolean);
   const files: string[] = [];
   for (const e of entries) {

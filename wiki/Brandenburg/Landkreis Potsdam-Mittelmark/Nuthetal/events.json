@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:05:01.113Z",
+  "updatedAt": "2026-05-31T13:17:12.047Z",
   "items": [
     {
       "id": "nuthetal-event-2898065",
@@ -50,42 +50,10 @@
       "updatedAt": "2026-05-06T12:37:24.563Z"
     },
     {
-      "id": "nuthetal-event-2718105",
-      "title": "Unterstütztes Einkaufen - Nahkauf Saarmund",
-      "url": "https://www.nuthetal.de/veranstaltungen/2718105/2026/05/26/unterstütztes-einkaufen-nahkauf-saarmund.html",
-      "startDate": "2026-05-26T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:37:24.563Z",
-      "updatedAt": "2026-05-26T09:05:01.105Z"
-    },
-    {
-      "id": "nuthetal-event-2855138",
-      "title": "Krabbelgruppe in Saarmund",
-      "url": "https://www.nuthetal.de/veranstaltungen/2855138/2026/05/28/krabbelgruppe-in-saarmund.html",
-      "startDate": "2026-05-28T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:37:24.563Z",
-      "updatedAt": "2026-05-26T09:05:01.105Z"
-    },
-    {
       "id": "nuthetal-event-2895535",
       "title": "Gemeinsam kochen mit Frau Feinkost",
       "url": "https://www.nuthetal.de/veranstaltungen/2895535/2026/05/28/gemeinsam-kochen-mit-frau-feinkost.html",
       "startDate": "2026-05-28T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:37:24.563Z",
-      "updatedAt": "2026-05-06T12:37:24.563Z"
-    },
-    {
-      "id": "nuthetal-event-2855177",
-      "title": "Handarbeitsgruppe im Mehrgenerationshaus",
-      "url": "https://www.nuthetal.de/veranstaltungen/2855177/2026/05/29/handarbeitsgruppe-im-mehrgenerationshaus.html",
-      "startDate": "2026-05-29T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:37:24.563Z",
-      "updatedAt": "2026-05-26T09:05:01.105Z"
-    },
-    {
-      "id": "nuthetal-event-2888693",
-      "title": "Bewegung, Begegnung & Natur erleben – Gesundheitswanderung in Potsdam",
-      "url": "https://www.nuthetal.de/veranstaltungen/2888693/2026/05/30/bewegung-begegnung-natur-erleben--gesundheitswanderung-in-potsdam.html",
-      "startDate": "2026-05-30T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:24.563Z",
       "updatedAt": "2026-05-06T12:37:24.563Z"
     },
@@ -96,6 +64,14 @@
       "startDate": "2026-05-31T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:24.563Z",
       "updatedAt": "2026-05-06T12:37:24.563Z"
+    },
+    {
+      "id": "nuthetal-event-2718105",
+      "title": "Unterstütztes Einkaufen - Nahkauf Saarmund",
+      "url": "https://www.nuthetal.de/veranstaltungen/2718105/2026/06/02/unterstütztes-einkaufen-nahkauf-saarmund.html",
+      "startDate": "2026-06-02T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:37:24.563Z",
+      "updatedAt": "2026-05-31T13:17:12.038Z"
     },
     {
       "id": "nuthetal-event-2895532",
@@ -114,12 +90,36 @@
       "updatedAt": "2026-05-06T12:37:24.563Z"
     },
     {
+      "id": "nuthetal-event-2855138",
+      "title": "Krabbelgruppe in Saarmund",
+      "url": "https://www.nuthetal.de/veranstaltungen/2855138/2026/06/04/krabbelgruppe-in-saarmund.html",
+      "startDate": "2026-06-04T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:37:24.563Z",
+      "updatedAt": "2026-05-31T13:17:12.038Z"
+    },
+    {
+      "id": "nuthetal-event-2855177",
+      "title": "Handarbeitsgruppe im Mehrgenerationshaus",
+      "url": "https://www.nuthetal.de/veranstaltungen/2855177/2026/06/05/handarbeitsgruppe-im-mehrgenerationshaus.html",
+      "startDate": "2026-06-05T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:37:24.563Z",
+      "updatedAt": "2026-05-31T13:17:12.038Z"
+    },
+    {
       "id": "nuthetal-event-2812863",
       "title": "Seniorentreff: Spielenachmittag",
       "url": "https://www.nuthetal.de/veranstaltungen/2812863/2026/06/05/seniorentreff-spielenachmittag.html",
       "startDate": "2026-06-05T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:24.563Z",
       "updatedAt": "2026-05-06T12:37:24.563Z"
+    },
+    {
+      "id": "nuthetal-event-2908323",
+      "title": "Sommerfest",
+      "url": "https://www.nuthetal.de/veranstaltungen/2908323/2026/06/05/sommerfest.html",
+      "startDate": "2026-06-05T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:12.038Z",
+      "updatedAt": "2026-05-31T13:17:12.038Z"
     },
     {
       "id": "nuthetal-event-2814846",
@@ -136,6 +136,30 @@
       "startDate": "2026-06-19T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:24.563Z",
       "updatedAt": "2026-05-06T12:37:24.563Z"
+    },
+    {
+      "id": "nuthetal-event-2908502",
+      "title": "Offener Bonsaigarten",
+      "url": "https://www.nuthetal.de/veranstaltungen/2908502/2026/06/21/offener-bonsaigarten.html",
+      "startDate": "2026-06-21T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:12.038Z",
+      "updatedAt": "2026-05-31T13:17:12.038Z"
+    },
+    {
+      "id": "nuthetal-event-2888693",
+      "title": "Bewegung, Begegnung & Natur erleben – Gesundheitswanderung in Potsdam",
+      "url": "https://www.nuthetal.de/veranstaltungen/2888693/2026/06/27/bewegung-begegnung-natur-erleben--gesundheitswanderung-in-potsdam.html",
+      "startDate": "2026-06-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:37:24.563Z",
+      "updatedAt": "2026-05-31T13:17:12.038Z"
+    },
+    {
+      "id": "nuthetal-event-2908508",
+      "title": "Offener Bonsaigarten",
+      "url": "https://www.nuthetal.de/veranstaltungen/2908508/2026/07/12/offener-bonsaigarten.html",
+      "startDate": "2026-07-12T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:12.038Z",
+      "updatedAt": "2026-05-31T13:17:12.038Z"
     },
     {
       "id": "nuthetal-event-2905196",
@@ -168,6 +192,14 @@
       "startDate": "2026-09-04T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:24.563Z",
       "updatedAt": "2026-05-06T12:37:24.563Z"
+    },
+    {
+      "id": "nuthetal-event-2908504",
+      "title": "Offener Bonsaigarten",
+      "url": "https://www.nuthetal.de/veranstaltungen/2908504/2026/09/13/offener-bonsaigarten.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:12.038Z",
+      "updatedAt": "2026-05-31T13:17:12.038Z"
     },
     {
       "id": "nuthetal-event-2812870",

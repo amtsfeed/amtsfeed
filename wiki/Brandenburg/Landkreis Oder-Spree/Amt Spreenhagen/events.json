@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:04:14.280Z",
+  "updatedAt": "2026-05-31T13:16:16.400Z",
   "items": [
     {
       "id": "veranstaltungen-2798415-2025-11-26-termine-fahrbibliothek-2026-hartmannsdorf.html",
@@ -198,6 +198,16 @@
       "location": "Gemeinde Spreenhagen",
       "fetchedAt": "2026-05-06T08:18:11.581Z",
       "updatedAt": "2026-05-06T08:18:11.581Z"
+    },
+    {
+      "id": "veranstaltungen-2909674-2026-06-06-spreenhagener-sommerfest.html",
+      "title": "Spreenhagener Sommerfest",
+      "url": "https://www.amt-spreenhagen.de/veranstaltungen/2909674/2026/06/06/spreenhagener-sommerfest.html",
+      "startDate": "2026-06-06T14:00:00.000Z",
+      "endDate": "2026-06-06T22:30:00.000Z",
+      "location": "Gemeinde Spreenhagen",
+      "fetchedAt": "2026-05-31T13:16:16.396Z",
+      "updatedAt": "2026-05-31T13:16:16.396Z"
     },
     {
       "id": "veranstaltungen-2888711-2026-06-09-kreativ-werkstatt-zeit-für-deine-ideen.html",
@@ -1260,6 +1270,15 @@
       "location": "Gemeinde Spreenhagen",
       "fetchedAt": "2026-05-26T09:04:14.275Z",
       "updatedAt": "2026-05-26T09:04:14.275Z"
+    },
+    {
+      "id": "veranstaltungen-2888707-2027-05-27-let-s-linedance.html",
+      "title": "Let's Linedance!",
+      "url": "https://www.amt-spreenhagen.de/veranstaltungen/2888707/2027/05/27/let-s-linedance.html",
+      "startDate": "2027-05-27T00:00:00.000Z",
+      "location": "Gemeinde Spreenhagen",
+      "fetchedAt": "2026-05-31T13:16:16.396Z",
+      "updatedAt": "2026-05-31T13:16:16.396Z"
     }
   ]
 }

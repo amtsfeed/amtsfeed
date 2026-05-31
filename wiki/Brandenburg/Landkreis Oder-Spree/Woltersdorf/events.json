@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:04:39.826Z",
+  "updatedAt": "2026-05-31T13:16:42.365Z",
   "items": [
     {
       "id": "woltersdorf-event-2891242",
@@ -164,6 +164,15 @@
       "updatedAt": "2026-05-06T20:22:49.896Z"
     },
     {
+      "id": "woltersdorf-event-2908825",
+      "title": "Erwachsene Klavierschüler spielen",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2908825/2026/05/31/erwachsene-klavierschüler-spielen.html",
+      "startDate": "2026-05-31T16:00:00.000Z",
+      "location": "St.-Michael-Kirche",
+      "fetchedAt": "2026-05-31T13:16:42.357Z",
+      "updatedAt": "2026-05-31T13:16:42.357Z"
+    },
+    {
       "id": "woltersdorf-event-2826850",
       "title": "WERDE WALD-GESUNDHEITSTRAINER - Dein Jobneustart als Trainer:in",
       "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2826850/2026/06/04/werde-wald-gesundheitstrainer-dein-jobneustart-als-trainer-in.html",
@@ -315,6 +324,15 @@
       "location": "Kulturhaus Alte Schule Woltersdorf",
       "fetchedAt": "2026-05-26T09:04:39.818Z",
       "updatedAt": "2026-05-26T09:04:39.818Z"
+    },
+    {
+      "id": "woltersdorf-event-2909006",
+      "title": "Woltersdorf meets Electronic Music",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2909006/2026/08/29/woltersdorf-meets-electronic-music.html",
+      "startDate": "2026-08-29T14:00:00.000Z",
+      "location": "Maiwiese Woltersdorf",
+      "fetchedAt": "2026-05-31T13:16:42.357Z",
+      "updatedAt": "2026-05-31T13:16:42.357Z"
     }
   ]
 }

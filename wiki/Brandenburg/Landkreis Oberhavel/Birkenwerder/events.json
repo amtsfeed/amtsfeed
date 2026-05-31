@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:03:36.190Z",
+  "updatedAt": "2026-05-31T13:15:33.548Z",
   "items": [
     {
       "id": "birkenwerder-event-offene-atelier-in-oberhavel-am-02-und-3-mai-2026",
@@ -173,6 +173,15 @@
       "updatedAt": "2026-05-06T20:22:51.030Z"
     },
     {
+      "id": "birkenwerder-event-vernissage-ausstellung-blick-raeume",
+      "title": "Vernissage Ausstellung Blick Räume",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/vernissage-ausstellung-blick-raeume",
+      "startDate": "2026-05-30T00:00:00.000Z",
+      "location": "Kommunale Galerie47 e.V. • Hauptstraße 47 • 16547 Birkenwerder",
+      "fetchedAt": "2026-05-31T13:15:33.547Z",
+      "updatedAt": "2026-05-31T13:15:33.547Z"
+    },
+    {
       "id": "birkenwerder-event-feier-zum-kindertag-im-jugendclub-corn",
       "title": "Feier zum Kindertag im Jugendclub CORN",
       "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/feier-zum-kindertag-im-jugendclub-corn",
@@ -180,6 +189,15 @@
       "location": "Kinder- und Jugendfreizeithaus CORN, Hauptstraße 112, 16547 Birkenwerder",
       "fetchedAt": "2026-05-26T09:03:36.189Z",
       "updatedAt": "2026-05-26T09:03:36.189Z"
+    },
+    {
+      "id": "birkenwerder-event-eulen-gottesdienst-ein-herz-fuer-die-schleiereule",
+      "title": "Eulen-Gottesdienst \"Ein Herz für die Schleiereule\"",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/eulen-gottesdienst-ein-herz-fuer-die-schleiereule",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "location": "Evangelischen Kirche Birkenwerder",
+      "fetchedAt": "2026-05-31T13:15:33.547Z",
+      "updatedAt": "2026-05-31T13:15:33.547Z"
     }
   ]
 }

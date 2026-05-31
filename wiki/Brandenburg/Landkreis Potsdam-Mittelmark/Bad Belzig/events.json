@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:04:56.340Z",
+  "updatedAt": "2026-05-31T13:17:00.493Z",
   "items": [
     {
       "id": "bad-belzig-event-2888350",
@@ -82,14 +82,6 @@
       "updatedAt": "2026-05-06T20:22:50.698Z"
     },
     {
-      "id": "bad-belzig-event-2878242",
-      "title": "Starke Eltern, starke Kinder",
-      "url": "https://www.bad-belzig.de/veranstaltungen/2878242/2026/05/26/starke-eltern-starke-kinder.html",
-      "startDate": "2026-05-26T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:37:18.297Z",
-      "updatedAt": "2026-05-26T09:04:56.332Z"
-    },
-    {
       "id": "bad-belzig-event-2888352",
       "title": "Frühstückstreff Lebenswer(t)k mit anschließender Stuhlgymnastik",
       "url": "https://www.bad-belzig.de/veranstaltungen/2888352/2026/05/27/frühstückstreff-lebenswertk-mit-anschließender-stuhlgymnastik.html",
@@ -114,12 +106,36 @@
       "updatedAt": "2026-05-06T20:22:50.698Z"
     },
     {
+      "id": "bad-belzig-event-2878242",
+      "title": "Starke Eltern, starke Kinder",
+      "url": "https://www.bad-belzig.de/veranstaltungen/2878242/2026/06/02/starke-eltern-starke-kinder.html",
+      "startDate": "2026-06-02T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:37:18.297Z",
+      "updatedAt": "2026-05-31T13:17:00.485Z"
+    },
+    {
       "id": "bad-belzig-event-2896063",
       "title": "Frühstückstreff Lebenswer(t)k mit Gedächtnistraining",
       "url": "https://www.bad-belzig.de/veranstaltungen/2896063/2026/06/03/frühstückstreff-lebenswertk-mit-gedächtnistraining.html",
       "startDate": "2026-06-03T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:18.297Z",
       "updatedAt": "2026-05-06T20:22:50.698Z"
+    },
+    {
+      "id": "bad-belzig-event-2908234",
+      "title": "Frühstückstreff Lebenswer(t)k mit Kochworkshop",
+      "url": "https://www.bad-belzig.de/veranstaltungen/2908234/2026/06/10/frühstückstreff-lebenswertk-mit-kochworkshop.html",
+      "startDate": "2026-06-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:00.485Z",
+      "updatedAt": "2026-05-31T13:17:00.485Z"
+    },
+    {
+      "id": "bad-belzig-event-2908240",
+      "title": "Götz Aly liest im Roger Loewig Haus",
+      "url": "https://www.bad-belzig.de/veranstaltungen/2908240/2026/06/21/götz-aly-liest-im-roger-loewig-haus.html",
+      "startDate": "2026-06-21T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:00.485Z",
+      "updatedAt": "2026-05-31T13:17:00.485Z"
     },
     {
       "id": "bad-belzig-event-2896064",
@@ -144,6 +160,14 @@
       "startDate": "2026-07-26T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:37:18.297Z",
       "updatedAt": "2026-05-06T20:22:50.698Z"
+    },
+    {
+      "id": "bad-belzig-event-2908237",
+      "title": "10. Kunstbummel Bad Belzig",
+      "url": "https://www.bad-belzig.de/veranstaltungen/2908237/2026/08/22/10.-kunstbummel-bad-belzig.html",
+      "startDate": "2026-08-22T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:00.485Z",
+      "updatedAt": "2026-05-31T13:17:00.485Z"
     }
   ]
 }

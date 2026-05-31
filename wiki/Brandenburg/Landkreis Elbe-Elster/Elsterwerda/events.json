@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:01:53.568Z",
+  "updatedAt": "2026-05-31T13:13:48.775Z",
   "items": [
     {
       "id": "22492",
@@ -186,6 +186,14 @@
       "updatedAt": "2026-05-26T09:01:53.568Z"
     },
     {
+      "id": "23300",
+      "title": "Sommerfest in der Hundeschule",
+      "url": "https://www.elsterwerda.de/veranstaltung/sommerfest-in-der-hundeschule/",
+      "startDate": "2026-06-06T10:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:13:48.775Z",
+      "updatedAt": "2026-05-31T13:13:48.775Z"
+    },
+    {
       "id": "22693",
       "title": "Paarangeln am Schwertgraben",
       "url": "https://www.elsterwerda.de/veranstaltung/paarangeln-am-schwertgraben/",
@@ -202,6 +210,14 @@
       "updatedAt": "2026-05-26T09:01:53.568Z"
     },
     {
+      "id": "23295",
+      "title": "Familienkirche",
+      "url": "https://www.elsterwerda.de/veranstaltung/familienkirche-8/",
+      "startDate": "2026-06-07T10:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:13:48.775Z",
+      "updatedAt": "2026-05-31T13:13:48.775Z"
+    },
+    {
       "id": "22503",
       "title": "Familienkirche im Stadtpark",
       "url": "https://www.elsterwerda.de/veranstaltung/familienkirche-im-stadtpark/",
@@ -216,6 +232,14 @@
       "startDate": "2026-06-07T14:00:00.000Z",
       "fetchedAt": "2026-05-08T18:39:29.399Z",
       "updatedAt": "2026-05-08T18:39:29.399Z"
+    },
+    {
+      "id": "23322",
+      "title": "Goldenes Abitur 2026",
+      "url": "https://www.elsterwerda.de/veranstaltung/goldenes-abitur-2026/",
+      "startDate": "2026-06-12T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:13:48.775Z",
+      "updatedAt": "2026-05-31T13:13:48.775Z"
     },
     {
       "id": "22708",
@@ -290,6 +314,14 @@
       "updatedAt": "2026-05-08T18:39:29.399Z"
     },
     {
+      "id": "23324",
+      "title": "Bekränzung Abitur 2026",
+      "url": "https://www.elsterwerda.de/veranstaltung/bekraenzung-abitur-2026/",
+      "startDate": "2026-06-26T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:13:48.775Z",
+      "updatedAt": "2026-05-31T13:13:48.775Z"
+    },
+    {
       "id": "22718",
       "title": "II. Hegefischen in Mühlberg Werk IV",
       "url": "https://www.elsterwerda.de/veranstaltung/ii-hegefischen-in-muehlberg-werk-iv/",
@@ -330,12 +362,36 @@
       "updatedAt": "2026-05-08T18:39:29.399Z"
     },
     {
+      "id": "23326",
+      "title": "Rechtsberatung zu mietrechtlichen Angelegenheiten des Mietervereins Finsterwalde und Umgebung e.V.",
+      "url": "https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtlichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v/",
+      "startDate": "2026-07-07T14:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:13:48.775Z",
+      "updatedAt": "2026-05-31T13:13:48.775Z"
+    },
+    {
+      "id": "23334",
+      "title": "Rechtsberatung zu mietrechtlichen Angelegenheiten des Mietervereins Finsterwalde und Umgebung e.V.",
+      "url": "https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtlichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-5/",
+      "startDate": "2026-07-09T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:13:48.775Z",
+      "updatedAt": "2026-05-31T13:13:48.775Z"
+    },
+    {
       "id": "10001927",
       "title": "Auf alten Heidewegen… „Kräuter- und Erlebnistour durch die Heidelandschaft um Kraupa“",
       "url": "https://www.elsterwerda.de/veranstaltung/auf-alten-heidewegen-kraeuter-und-erlebnistour-durch-die-heidelandschaft-um-kraupa/2026-07-11/",
       "startDate": "2026-07-11T14:00:00.000Z",
       "fetchedAt": "2026-05-08T18:39:29.399Z",
       "updatedAt": "2026-05-08T18:39:29.399Z"
+    },
+    {
+      "id": "23328",
+      "title": "Rechtsberatung zu mietrechtlichen Angelegenheiten des Mietervereins Finsterwalde und Umgebung e.V.",
+      "url": "https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtlichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-2/",
+      "startDate": "2026-07-14T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:13:48.775Z",
+      "updatedAt": "2026-05-31T13:13:48.775Z"
     },
     {
       "id": "10001046",
@@ -360,6 +416,30 @@
       "startDate": "2026-07-18T07:00:00.000Z",
       "fetchedAt": "2026-05-08T18:39:29.399Z",
       "updatedAt": "2026-05-08T18:39:29.399Z"
+    },
+    {
+      "id": "23330",
+      "title": "Rechtsberatung zu mietrechtlichen Angelegenheiten des Mietervereins Finsterwalde und Umgebung e.V.",
+      "url": "https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtlichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-3/",
+      "startDate": "2026-07-21T14:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:13:48.775Z",
+      "updatedAt": "2026-05-31T13:13:48.775Z"
+    },
+    {
+      "id": "23336",
+      "title": "Rechtsberatung zu mietrechtlichen Angelegenheiten des Mietervereins Finsterwalde und Umgebung e.V.",
+      "url": "https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtlichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-6/",
+      "startDate": "2026-07-23T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:13:48.775Z",
+      "updatedAt": "2026-05-31T13:13:48.775Z"
+    },
+    {
+      "id": "23332",
+      "title": "Rechtsberatung zu mietrechtlichen Angelegenheiten des Mietervereins Finsterwalde und Umgebung e.V.",
+      "url": "https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtlichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-4/",
+      "startDate": "2026-07-28T14:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:13:48.775Z",
+      "updatedAt": "2026-05-31T13:13:48.775Z"
     },
     {
       "id": "10001831",

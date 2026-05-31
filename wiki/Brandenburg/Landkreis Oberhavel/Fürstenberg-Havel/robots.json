@@ -2,7 +2,7 @@
   {
     "domain": "www.fuerstenberg-havel.de",
     "baseUrl": "https://www.fuerstenberg-havel.de",
-    "updatedAt": "2026-05-26T09:03:36.544Z",
+    "updatedAt": "2026-05-31T13:15:34.035Z",
     "content": "User-agent: *\r\nDisallow: /typo3/\r\nDisallow: /typo3_src/\r\nSitemap: https://fuerstenberg-havel.de/sitemap.xml"
   }
 ]

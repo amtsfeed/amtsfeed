@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T08:49:48.078Z",
+  "updatedAt": "2026-05-31T13:13:13.802Z",
   "items": [
     {
       "id": "99172364",
@@ -641,6 +641,33 @@
       "updatedAt": "2026-05-26T08:49:48.069Z"
     },
     {
+      "id": "99197301",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197301",
+      "startDate": "2026-06-03T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
+      "id": "99197302",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197302",
+      "startDate": "2026-06-04T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
+      "id": "99197303",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197303",
+      "startDate": "2026-06-05T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
       "id": "99169685",
       "title": "Kommunales Kino Kein Land für Niemand  Abschottung eines Einwanderungslandes",
       "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99169685",
@@ -657,6 +684,15 @@
       "location": "Marienwerder - Altes Sägewerk",
       "fetchedAt": "2026-05-26T08:49:48.069Z",
       "updatedAt": "2026-05-26T08:49:48.069Z"
+    },
+    {
+      "id": "99197304",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197304",
+      "startDate": "2026-06-06T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
     },
     {
       "id": "99190349",
@@ -704,6 +740,15 @@
       "updatedAt": "2026-05-26T08:49:48.069Z"
     },
     {
+      "id": "99197305",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197305",
+      "startDate": "2026-06-07T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
       "id": "99938757",
       "title": "Brunchbuffet im Jagdschloss Hubertusstock",
       "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99938757",
@@ -720,6 +765,42 @@
       "location": "Klandorf - Theatersaal Klandorf",
       "fetchedAt": "2026-05-26T08:49:48.069Z",
       "updatedAt": "2026-05-26T08:49:48.069Z"
+    },
+    {
+      "id": "99197273",
+      "title": "Drei Tage deutsch-französische Begegnung im Garten und Theatersaal Klandorf",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197273",
+      "startDate": "2026-06-07T11:00:00.000Z",
+      "location": "Klandorf - Theatersaal Klandorf",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
+      "id": "99197306",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197306",
+      "startDate": "2026-06-10T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
+      "id": "99197307",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197307",
+      "startDate": "2026-06-11T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
+      "id": "99197308",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197308",
+      "startDate": "2026-06-12T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
     },
     {
       "id": "99195723",
@@ -756,6 +837,15 @@
       "location": "Groß Schönebeck - Kutschenmuseum Groß Schönebeck",
       "fetchedAt": "2026-05-05T17:21:13.644Z",
       "updatedAt": "2026-05-26T08:49:48.069Z"
+    },
+    {
+      "id": "99197309",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197309",
+      "startDate": "2026-06-13T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
     },
     {
       "id": "99128167",
@@ -812,6 +902,15 @@
       "updatedAt": "2026-05-26T08:49:48.069Z"
     },
     {
+      "id": "99197310",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197310",
+      "startDate": "2026-06-14T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
       "id": "99119704",
       "title": "KochWerkstatt - Tipps vom Profikoch!",
       "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99119704",
@@ -821,6 +920,33 @@
       "updatedAt": "2026-05-26T08:49:48.069Z"
     },
     {
+      "id": "99197311",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197311",
+      "startDate": "2026-06-17T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
+      "id": "99197312",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197312",
+      "startDate": "2026-06-18T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
+      "id": "99197313",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197313",
+      "startDate": "2026-06-19T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
       "id": "99170396",
       "title": "Kommunales Kino Mothers Baby",
       "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99170396",
@@ -828,6 +954,15 @@
       "location": "Joachimsthal - Kulturhaus Heidekrug in Joachimsthal",
       "fetchedAt": "2026-05-05T17:21:13.644Z",
       "updatedAt": "2026-05-26T08:49:48.069Z"
+    },
+    {
+      "id": "99197314",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197314",
+      "startDate": "2026-06-20T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
     },
     {
       "id": "99112885",
@@ -875,6 +1010,24 @@
       "updatedAt": "2026-05-26T08:49:48.069Z"
     },
     {
+      "id": "99197315",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197315",
+      "startDate": "2026-06-21T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
+      "id": "99197316",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197316",
+      "startDate": "2026-06-24T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
       "id": "99172142",
       "title": "Vortrag - Kräuter in unserem Garten - mit Marita Witte der Kräuterhexe aus",
       "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99172142",
@@ -882,6 +1035,24 @@
       "location": "Joachimsthal - Schorfheide-Info in Joachimsthal",
       "fetchedAt": "2026-05-05T17:21:13.644Z",
       "updatedAt": "2026-05-26T08:49:48.069Z"
+    },
+    {
+      "id": "99197317",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197317",
+      "startDate": "2026-06-25T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
+      "id": "99197318",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197318",
+      "startDate": "2026-06-26T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
     },
     {
       "id": "99129176",
@@ -900,6 +1071,15 @@
       "location": "Finowfurt - Luftfahrtmuseum Finowfurt",
       "fetchedAt": "2026-05-05T17:21:13.644Z",
       "updatedAt": "2026-05-26T08:49:48.069Z"
+    },
+    {
+      "id": "99197319",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197319",
+      "startDate": "2026-06-27T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
     },
     {
       "id": "99128168",
@@ -936,6 +1116,15 @@
       "location": "Joachimsthal - Kulturhaus Heidekrug in Joachimsthal",
       "fetchedAt": "2026-05-05T17:21:13.644Z",
       "updatedAt": "2026-05-26T08:49:48.069Z"
+    },
+    {
+      "id": "99197320",
+      "title": "Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197320",
+      "startDate": "2026-06-28T10:00:00.000Z",
+      "location": "Groß-Ziethen - Eiszeitmuseum Ziethen",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
     },
     {
       "id": "99171641",
@@ -990,6 +1179,15 @@
       "location": "Böhmerheide - Keramikwerkstatt Petra Wessel",
       "fetchedAt": "2026-05-05T17:21:13.644Z",
       "updatedAt": "2026-05-26T08:49:48.069Z"
+    },
+    {
+      "id": "99197183",
+      "title": "Stadtfest Joachimsthal - Feiern - Begegnen - Gemeinsam genießen",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99197183",
+      "startDate": "2026-07-04T14:00:00.000Z",
+      "location": "Joachimsthal - Park in Joachimsthal",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
     },
     {
       "id": "99125136",
@@ -1053,6 +1251,15 @@
       "location": "Eichhorst - Askanierturm",
       "fetchedAt": "2026-05-26T08:49:48.069Z",
       "updatedAt": "2026-05-26T08:49:48.069Z"
+    },
+    {
+      "id": "99196602",
+      "title": "Offene Gärten Barnim - Staudengarten Althüttendorf - Verwunschenes Blütenparadies",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99196602",
+      "startDate": "2026-07-12T10:00:00.000Z",
+      "location": "Althüttendorf - CMB-Staudenpark",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
     },
     {
       "id": "99938758",
@@ -1388,6 +1595,15 @@
       "updatedAt": "2026-05-26T08:49:48.069Z"
     },
     {
+      "id": "99196603",
+      "title": "Offene Gärten Barnim - Staudengarten Althüttendorf - Verwunschenes Blütenparadies",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99196603",
+      "startDate": "2026-08-16T10:00:00.000Z",
+      "location": "Althüttendorf - CMB-Staudenpark",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
+    },
+    {
       "id": "99938759",
       "title": "Brunchbuffet im Jagdschloss Hubertusstock",
       "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99938759",
@@ -1593,6 +1809,15 @@
       "location": "Groß Schönebeck - Wildpark Schorfheide",
       "fetchedAt": "2026-05-05T17:21:13.644Z",
       "updatedAt": "2026-05-26T08:49:48.069Z"
+    },
+    {
+      "id": "99196604",
+      "title": "Offene Gärten Barnim - Staudengarten Althüttendorf - Verwunschenes Blütenparadies",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99196604",
+      "startDate": "2026-09-13T10:00:00.000Z",
+      "location": "Althüttendorf - CMB-Staudenpark",
+      "fetchedAt": "2026-05-31T13:13:13.794Z",
+      "updatedAt": "2026-05-31T13:13:13.794Z"
     },
     {
       "id": "99938760",

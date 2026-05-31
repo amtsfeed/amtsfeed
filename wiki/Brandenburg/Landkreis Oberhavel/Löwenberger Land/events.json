@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:04:02.656Z",
+  "updatedAt": "2026-05-31T13:16:03.329Z",
   "items": [
     {
       "id": "loewenberger-land-event-2839292-2026-05-06",
@@ -245,6 +245,15 @@
       "updatedAt": "2026-05-06T20:20:25.992Z"
     },
     {
+      "id": "loewenberger-land-event-2908832-2026-05-31",
+      "title": "Offene Gärten Oberhavel",
+      "url": "https://www.loewenberger-land.de/veranstaltungen/2908832/2026/05/31/offene-gärten-oberhavel.html",
+      "startDate": "2026-05-31T10:00:00.000Z",
+      "location": "Oberhavel",
+      "fetchedAt": "2026-05-31T13:16:03.325Z",
+      "updatedAt": "2026-05-31T13:16:03.325Z"
+    },
+    {
       "id": "loewenberger-land-event-2893529-2026-05-31",
       "title": "Kindertanzen mit Martina",
       "url": "https://www.loewenberger-land.de/veranstaltungen/2893529/2026/05/31/kindertanzen-mit-martina.html",
@@ -405,6 +414,15 @@
       "location": "Grieben - Kranichs Ackermuseum",
       "fetchedAt": "2026-05-06T19:30:49.920Z",
       "updatedAt": "2026-05-06T20:20:25.992Z"
+    },
+    {
+      "id": "loewenberger-land-event-2909087-2026-06-13",
+      "title": "Brandenburger Landpartie",
+      "url": "https://www.loewenberger-land.de/veranstaltungen/2909087/2026/06/13/brandenburger-landpartie.html",
+      "startDate": "2026-06-13T09:00:00.000Z",
+      "location": "Luisenhof Liebenberg",
+      "fetchedAt": "2026-05-31T13:16:03.325Z",
+      "updatedAt": "2026-05-31T13:16:03.325Z"
     },
     {
       "id": "loewenberger-land-event-2878513-2026-06-13",
@@ -2547,6 +2565,15 @@
       "location": "Neulöwenberg",
       "fetchedAt": "2026-05-26T09:04:02.652Z",
       "updatedAt": "2026-05-26T09:04:02.652Z"
+    },
+    {
+      "id": "loewenberger-land-event-2823129-2027-05-31",
+      "title": "Sport in Neulöwenberg",
+      "url": "https://www.loewenberger-land.de/veranstaltungen/2823129/2027/05/31/sport-in-neulöwenberg.html",
+      "startDate": "2027-05-31T19:30:00.000Z",
+      "location": "Neulöwenberg",
+      "fetchedAt": "2026-05-31T13:16:03.325Z",
+      "updatedAt": "2026-05-31T13:16:03.325Z"
     }
   ]
 }

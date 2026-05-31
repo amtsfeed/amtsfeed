@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:04:49.759Z",
+  "updatedAt": "2026-05-31T13:16:52.222Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -66,6 +66,44 @@
       "endDate": "2026-05-28T15:30:00.000Z",
       "fetchedAt": "2026-05-26T09:04:42.006Z",
       "updatedAt": "2026-05-26T09:04:49.757Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-06-01-2026-06-01",
+      "title": "Senioren-Vereinstraining",
+      "url": "https://amt-niemegk.de/events/senioren-vereinstraining/?occurrence=2026-06-01",
+      "startDate": "2026-06-01T11:00:00.000Z",
+      "endDate": "2026-06-01T13:00:00.000Z",
+      "location": "Paul-Temming-Badeanstalt Niemegk",
+      "fetchedAt": "2026-05-31T13:16:46.740Z",
+      "updatedAt": "2026-05-31T13:16:52.219Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-06-02-2026-06-02",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-06-02",
+      "startDate": "2026-06-02T14:00:00.000Z",
+      "endDate": "2026-06-02T15:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:46.740Z",
+      "updatedAt": "2026-05-31T13:16:52.219Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-06-03-2026-06-03",
+      "title": "Entdeckungsraum mit Anita",
+      "url": "https://amt-niemegk.de/events/entdeckungsraum-mit-anita/?occurrence=2026-06-03&#038;time=1780479000",
+      "startDate": "2026-06-03T9:30:00.000Z",
+      "endDate": "2026-06-03T11:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-05-31T13:16:46.740Z",
+      "updatedAt": "2026-05-31T13:16:52.219Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-06-04-2026-06-04",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-06-04",
+      "startDate": "2026-06-04T14:00:00.000Z",
+      "endDate": "2026-06-04T15:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:46.740Z",
+      "updatedAt": "2026-05-31T13:16:52.219Z"
     }
   ]
 }

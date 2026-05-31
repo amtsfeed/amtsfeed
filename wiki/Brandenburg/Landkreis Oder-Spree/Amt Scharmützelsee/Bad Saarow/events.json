@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:04:12.557Z",
+  "updatedAt": "2026-05-31T13:16:12.298Z",
   "items": [
     {
       "id": "scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas",
@@ -34,14 +34,6 @@
       "updatedAt": "2026-05-26T09:04:12.555Z"
     },
     {
-      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
-      "title": "Linienfahrten Hauptsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
-      "startDate": "2026-05-26T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-05-26T09:04:12.555Z"
-    },
-    {
       "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
       "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
       "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
@@ -66,13 +58,52 @@
       "updatedAt": "2026-05-26T09:04:12.555Z"
     },
     {
+      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
+      "title": "Linienfahrten Hauptsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-05-31T13:16:12.297Z"
+    },
+    {
       "id": "scharmuetzelsee-geburtstagsfeier-650-jahre-wendisch-rietz",
       "title": "Geburtstagsfeier 650 Jahre Wendisch Rietz",
       "url": "https://www.scharmuetzelsee.de/event/geburtstagsfeier-650-jahre-wendisch-rietz",
-      "startDate": "2026-05-29T00:00:00.000Z",
-      "endDate": "2026-05-31T00:00:00.000Z",
+      "startDate": "2026-05-31T00:00:00.000Z",
       "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-05-05T15:50:40.941Z"
+      "updatedAt": "2026-05-31T13:16:12.297Z"
+    },
+    {
+      "id": "scharmuetzelsee-aktiv-wochenplan-mini-kneippkur",
+      "title": "Aktiv Wochenplan - Mini Kneippkur",
+      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:12.297Z",
+      "updatedAt": "2026-05-31T13:16:12.297Z"
+    },
+    {
+      "id": "scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow",
+      "title": "Ortsführung durch den Kurort Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-bad-saarow",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:12.297Z",
+      "updatedAt": "2026-05-31T13:16:12.297Z"
+    },
+    {
+      "id": "scharmuetzelsee-kneippsegeln-ab-wendisch-rietz",
+      "title": "Kneippsegeln ab Wendisch Rietz",
+      "url": "https://www.scharmuetzelsee.de/event/kneippsegeln-ab-wendisch-rietz",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:12.297Z",
+      "updatedAt": "2026-05-31T13:16:12.297Z"
+    },
+    {
+      "id": "scharmuetzelsee-fruehshoppen-auf-der-festwiese",
+      "title": "Frühshoppen auf der Festwiese",
+      "url": "https://www.scharmuetzelsee.de/event/fruehshoppen-auf-der-festwiese",
+      "startDate": "2026-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:12.297Z",
+      "updatedAt": "2026-05-31T13:16:12.297Z"
     },
     {
       "id": "scharmuetzelsee-lesung-mit-nicci-schmieder",

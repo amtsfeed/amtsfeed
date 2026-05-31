@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:05:00.467Z",
+  "updatedAt": "2026-05-31T13:17:07.237Z",
   "items": [
     {
       "id": "michendorf-event-2884831",
@@ -107,11 +107,11 @@
     },
     {
       "id": "michendorf-event-2894024",
-      "title": "Wanderausstellung Ablenkung im Straßenverkehr",
-      "url": "https://www.michendorf.de/veranstaltungen/2894024/2026/05/13/wanderausstellung-ablenkung-im-straßenverkehr.html",
+      "title": "Wanderausstellung Sicherer Schulweg",
+      "url": "https://www.michendorf.de/veranstaltungen/2894024/2026/05/13/wanderausstellung-sicherer-schulweg.html",
       "startDate": "2026-05-13T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
-      "updatedAt": "2026-05-26T09:05:00.459Z"
+      "updatedAt": "2026-05-31T13:17:07.230Z"
     },
     {
       "id": "michendorf-event-2887494",
@@ -176,14 +176,6 @@
       "startDate": "2026-05-22T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
-    },
-    {
-      "id": "michendorf-event-2798286",
-      "title": "Trauercaf&eacute;",
-      "url": "https://www.michendorf.de/veranstaltungen/2798286/2026/05/26/trauercafé.html",
-      "startDate": "2026-05-26T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:01.632Z",
-      "updatedAt": "2026-05-26T09:05:00.459Z"
     },
     {
       "id": "michendorf-event-2888533",
@@ -370,6 +362,14 @@
       "updatedAt": "2026-05-26T09:05:00.459Z"
     },
     {
+      "id": "michendorf-event-2798286",
+      "title": "Trauercaf&eacute;",
+      "url": "https://www.michendorf.de/veranstaltungen/2798286/2026/06/09/trauercafé.html",
+      "startDate": "2026-06-09T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-31T13:17:07.230Z"
+    },
+    {
       "id": "michendorf-event-2817156",
       "title": "Trommel-Workshop \"Groove Werkstatt\"",
       "url": "https://www.michendorf.de/veranstaltungen/2817156/2026/06/12/trommel-workshop-groove-werkstatt.html",
@@ -482,6 +482,14 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2908350",
+      "title": "Kriminacht am Seddiner See",
+      "url": "https://www.michendorf.de/veranstaltungen/2908350/2026/06/27/kriminacht-am-seddiner-see.html",
+      "startDate": "2026-06-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:07.230Z",
+      "updatedAt": "2026-05-31T13:17:07.230Z"
+    },
+    {
       "id": "michendorf-event-2817157",
       "title": "Trommel-Workshop \"Groove Werkstatt\"",
       "url": "https://www.michendorf.de/veranstaltungen/2817157/2026/07/03/trommel-workshop-groove-werkstatt.html",
@@ -520,6 +528,14 @@
       "startDate": "2026-08-21T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2908348",
+      "title": "Starke Frauen- Deine Power, dein Netzwerk, deine Zukunft.",
+      "url": "https://www.michendorf.de/veranstaltungen/2908348/2026/08/29/starke-frauen-deine-power-dein-netzwerk-deine-zukunft.html",
+      "startDate": "2026-08-29T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:07.230Z",
+      "updatedAt": "2026-05-31T13:17:07.230Z"
     },
     {
       "id": "michendorf-event-2884691",
@@ -570,20 +586,20 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
-      "id": "michendorf-event-2897216",
-      "title": "Weniger Stress beim Umgang mit schwierigen Menschen",
-      "url": "https://www.michendorf.de/veranstaltungen/2897216/2026/10/16/weniger-stress-beim-umgang-mit-schwierigen-menschen.html",
-      "startDate": "2026-10-16T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:01.632Z",
-      "updatedAt": "2026-05-06T12:30:01.632Z"
-    },
-    {
       "id": "michendorf-event-2897217",
       "title": "Weniger Stress beim Umgang mit schwierigen Menschen",
       "url": "https://www.michendorf.de/veranstaltungen/2897217/2026/10/20/weniger-stress-beim-umgang-mit-schwierigen-menschen.html",
       "startDate": "2026-10-20T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2897216",
+      "title": "Weniger Stress beim Umgang mit schwierigen Menschen",
+      "url": "https://www.michendorf.de/veranstaltungen/2897216/2026/10/23/weniger-stress-beim-umgang-mit-schwierigen-menschen.html",
+      "startDate": "2026-10-23T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-05-31T13:17:07.230Z"
     },
     {
       "id": "michendorf-event-2660025",

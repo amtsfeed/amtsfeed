@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-05-26T09:03:19.749Z",
+  "updatedAt": "2026-05-31T13:15:06.210Z",
   "items": [
+    {
+      "id": "900029200",
+      "title": "Ausstellung: Momente der Vergänglichkeit - Malerei von Diana Justus",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausstellung-momente-der-vergaenglichkeit-malerei-von-diana-justus-900029200-34490.html?naviID=0",
+      "startDate": "2026-03-20T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T14:00:25.954Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
     {
       "id": "900024806",
       "title": "Open Air- Ausstellung in Pritzhagen",
@@ -2235,14 +2243,6 @@
       "updatedAt": "2026-05-06T14:21:57.430Z"
     },
     {
-      "id": "900029226",
-      "title": "Buchvorstellung & Gespräch: \"Lauter Hass\"",
-      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/buchvorstellung-gespraech-lauter-hass-900029226-34490.html?naviID=0",
-      "startDate": "2026-05-27T19:00:00.000Z",
-      "fetchedAt": "2026-05-05T14:00:25.954Z",
-      "updatedAt": "2026-05-06T14:21:57.430Z"
-    },
-    {
       "id": "900029643",
       "title": "Männergruppe",
       "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/maennergruppe-900029643-34490.html?naviID=0",
@@ -2598,14 +2598,6 @@
       "title": "REWILD YOUR TASTE! - Das Wildpflanzen-Verkostungs-Dinner",
       "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/rewild-your-taste-das-wildpflanzen-verkostungs-dinner-900029209-34490.html?naviID=0",
       "startDate": "2026-05-30T19:30:00.000Z",
-      "fetchedAt": "2026-05-05T14:00:25.954Z",
-      "updatedAt": "2026-05-06T14:21:57.430Z"
-    },
-    {
-      "id": "900029200",
-      "title": "Ausstellung: Momente der Vergänglichkeit - Malerei von Diana Justus",
-      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausstellung-momente-der-vergaenglichkeit-malerei-von-diana-justus-900029200-34490.html?naviID=0",
-      "startDate": "2026-05-31T00:00:00.000Z",
       "fetchedAt": "2026-05-05T14:00:25.954Z",
       "updatedAt": "2026-05-06T14:21:57.430Z"
     },
@@ -3228,6 +3220,14 @@
       "startDate": "2026-06-06T00:00:00.000Z",
       "fetchedAt": "2026-05-26T09:03:19.736Z",
       "updatedAt": "2026-05-26T09:03:19.736Z"
+    },
+    {
+      "id": "900029761",
+      "title": "Ausstellung: Demensch - Alltagssituationen von Menschen mit Demenz",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausstellung-demensch-alltagssituationen-von-menschen-mit-demenz-900029761-34490.html?naviID=0",
+      "startDate": "2026-06-06T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
     },
     {
       "id": "900018900",
@@ -4099,6 +4099,60 @@
       "endDate": "2026-06-14T16:00:00.000Z",
       "fetchedAt": "2026-05-26T09:03:19.736Z",
       "updatedAt": "2026-05-26T09:03:19.736Z"
+    },
+    {
+      "id": "900029755",
+      "title": "Offene Gärten 2026 im Haus H & M - Kunst im Garten",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene-gaerten-2026-im-haus-h-m-kunst-im-garten-900029755-34490.html?naviID=0",
+      "startDate": "2026-06-14T11:00:00.000Z",
+      "endDate": "2026-06-14T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029756",
+      "title": "Offene Gärten 2026 im Japan-Garten",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene-gaerten-2026-im-japan-garten-900029756-34490.html?naviID=0",
+      "startDate": "2026-06-14T11:00:00.000Z",
+      "endDate": "2026-06-14T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029757",
+      "title": "Offene Gärten 2026 im Waldgarten Rehfelde Dorf",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene-gaerten-2026-im-waldgarten-rehfelde-dorf-900029757-34490.html?naviID=0",
+      "startDate": "2026-06-14T11:00:00.000Z",
+      "endDate": "2026-06-14T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029758",
+      "title": "Offene Gärten 2026 im Gutshaus der Zukunft",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene-gaerten-2026-im-gutshaus-der-zukunft-900029758-34490.html?naviID=0",
+      "startDate": "2026-06-14T11:00:00.000Z",
+      "endDate": "2026-06-14T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029759",
+      "title": "Offene Gärten 2026 bei Ines Jaitner",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene-gaerten-2026-bei-ines-jaitner-900029759-34490.html?naviID=0",
+      "startDate": "2026-06-14T11:00:00.000Z",
+      "endDate": "2026-06-14T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029760",
+      "title": "Offene Gärten 2026 im Bibelgarten",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/offene-gaerten-2026-im-bibelgarten-900029760-34490.html?naviID=0",
+      "startDate": "2026-06-14T11:00:00.000Z",
+      "endDate": "2026-06-14T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
     },
     {
       "id": "900023628",
@@ -5220,6 +5274,189 @@
       "updatedAt": "2026-05-26T09:03:19.736Z"
     },
     {
+      "id": "900022913",
+      "title": "Wassergymnastik mit dem Kneipp- und Heimatverein",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wassergymnastik-mit-dem-kneipp-und-heimatverein-900022913-34490.html?naviID=0",
+      "startDate": "2026-06-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900024858",
+      "title": "Open Air- Ausstellung in Pritzhagen",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-air-ausstellung-in-pritzhagen-900024858-34490.html?naviID=0",
+      "startDate": "2026-06-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900027767",
+      "title": "Heilkräuterseminar im Rhythmus der Jahreszeiten 1. Jahr",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/heilkraeuterseminar-im-rhythmus-der-jahreszeiten-1-jahr-900027767-34490.html?naviID=0",
+      "startDate": "2026-06-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029452",
+      "title": "Kremserfahrten durch die Märkische Schweiz",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremserfahrten-durch-die-maerkische-schweiz-900029452-34490.html?naviID=0",
+      "startDate": "2026-06-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900025315",
+      "title": "Das historische Klassenzimmer im WaldKAuTZ",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/das-historische-klassenzimmer-im-waldkautz-900025315-34490.html?naviID=0",
+      "startDate": "2026-06-26T10:00:00.000Z",
+      "endDate": "2026-06-26T15:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900021002",
+      "title": "Café Reh im Familienzentrum",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/caf-reh-im-familienzentrum-900021002-34490.html?naviID=0",
+      "startDate": "2026-06-26T14:00:00.000Z",
+      "endDate": "2026-06-26T18:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028557",
+      "title": "Dorf*Labor Rehfelde: Offene Jugendarbeit im Waldgarten",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorf-labor-rehfelde-offene-jugendarbeit-im-waldgarten-900028557-34490.html?naviID=0",
+      "startDate": "2026-06-26T14:00:00.000Z",
+      "endDate": "2026-06-26T19:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900024859",
+      "title": "Open Air- Ausstellung in Pritzhagen",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-air-ausstellung-in-pritzhagen-900024859-34490.html?naviID=0",
+      "startDate": "2026-06-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028400",
+      "title": "Flohmarkt bei Willes Welt",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/flohmarkt-bei-willes-welt-900028400-34490.html?naviID=0",
+      "startDate": "2026-06-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029453",
+      "title": "Kremserfahrten durch die Märkische Schweiz",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremserfahrten-durch-die-maerkische-schweiz-900029453-34490.html?naviID=0",
+      "startDate": "2026-06-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029653",
+      "title": "100 Jahre Freiwillige Feuerwehr Klosterdorf",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/100-jahre-freiwillige-feuerwehr-klosterdorf-900029653-34490.html?naviID=0",
+      "startDate": "2026-06-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029668",
+      "title": "Ausstellung \"Vielfalt des Lebens\" von Angela Borlocan",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/ausstellung-vielfalt-des-lebens-von-angela-borlocan-900029668-34490.html?naviID=0",
+      "startDate": "2026-06-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900018906",
+      "title": "Nordic Walking",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nordic-walking-900018906-34490.html?naviID=0",
+      "startDate": "2026-06-27T08:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029313",
+      "title": "KundaDance by Maya Finnes",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kundadance-by-maya-finnes-900029313-34490.html?naviID=0",
+      "startDate": "2026-06-27T10:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029725",
+      "title": "Erleben Sie den Kneipp-Erlebnisgarten und die Heimatstube",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/erleben-sie-den-kneipp-erlebnisgarten-und-die-heimatstube-900029725-34490.html?naviID=0",
+      "startDate": "2026-06-27T11:00:00.000Z",
+      "endDate": "2026-06-27T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029059",
+      "title": "FestivALLE im Familienzentrum",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/festivalle-im-familienzentrum-900029059-34490.html?naviID=0",
+      "startDate": "2026-06-27T13:00:00.000Z",
+      "endDate": "2026-06-27T22:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028005",
+      "title": "Achtsame Wanderung auf dem barrierearmen Weg: „Abenteuer mit Stobbi“",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/achtsame-wanderung-auf-dem-barrierearmen-weg-abenteuer-mit-stobbi--900028005-34490.html?naviID=0",
+      "startDate": "2026-06-27T13:15:00.000Z",
+      "endDate": "2026-06-27T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028674",
+      "title": "Lieder, Sänger und Poeten - 7. Neuhardenberger Sängertreffen",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lieder-saenger-und-poeten-7-neuhardenberger-saengertreffen-900028674-34490.html?naviID=0",
+      "startDate": "2026-06-27T15:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029354",
+      "title": "Klavierkonzert in der Ihlower Kirche",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/klavierkonzert-in-der-ihlower-kirche-900029354-34490.html?naviID=0",
+      "startDate": "2026-06-27T15:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029667",
+      "title": "Vernissage zur Ausstellung \"Vielfalt des Lebens\" von Angela Borlocan",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/vernissage-zur-ausstellung-vielfalt-des-lebens-von-angela-borlocan-900029667-34490.html?naviID=0",
+      "startDate": "2026-06-27T17:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029226",
+      "title": "Buchvorstellung & Gespräch: \"Lauter Hass\"",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/buchvorstellung-gespraech-lauter-hass-900029226-34490.html?naviID=0",
+      "startDate": "2026-06-27T19:00:00.000Z",
+      "fetchedAt": "2026-05-05T14:00:25.954Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900027969",
+      "title": "Tantrischer Frauentempel",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tantrischer-frauentempel-900027969-34490.html?naviID=0",
+      "startDate": "2026-06-27T19:00:00.000Z",
+      "endDate": "2026-06-27T22:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
       "id": "900028227",
       "title": "Als ich nachher von dir ging - Eine Kunstausstellung zum 19. Künstlerpleinair der KÖzwölf",
       "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/als-ich-nachher-von-dir-ging-eine-kunstausstellung-zum-19-kuenstlerpleinair-der-koezwoelf-900028227-34490.html?naviID=0",
@@ -5228,12 +5465,241 @@
       "updatedAt": "2026-05-26T09:03:19.736Z"
     },
     {
+      "id": "900024860",
+      "title": "Open Air- Ausstellung in Pritzhagen",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-air-ausstellung-in-pritzhagen-900024860-34490.html?naviID=0",
+      "startDate": "2026-06-28T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029454",
+      "title": "Kremserfahrten durch die Märkische Schweiz",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremserfahrten-durch-die-maerkische-schweiz-900029454-34490.html?naviID=0",
+      "startDate": "2026-06-28T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900010894",
+      "title": "Wilde-Wald-Wanderung um´s Gartzmoor und Umgebung",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wilde-wald-wanderung-um-s-gartzmoor-und-umgebung-900010894-34490.html?naviID=0",
+      "startDate": "2026-06-28T07:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900018907",
+      "title": "Nordic Walking",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/nordic-walking-900018907-34490.html?naviID=0",
+      "startDate": "2026-06-28T08:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028451",
+      "title": "Jeder Mensch ist ein Schöpfer – Intuitives Malen mit Monika Bersch",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/jeder-mensch-ist-ein-schoepfer-intuitives-malen-mit-monika-bersch-900028451-34490.html?naviID=0",
+      "startDate": "2026-06-28T10:00:00.000Z",
+      "endDate": "2026-06-28T16:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029013",
+      "title": "Sonntäglicher Stadtrundgang",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/sonntaeglicher-stadtrundgang-900029013-34490.html?naviID=0",
+      "startDate": "2026-06-28T10:30:00.000Z",
+      "endDate": "2026-06-28T12:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028429",
+      "title": "Schlossbesichtigungen in Neuhardenberg",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/schlossbesichtigungen-in-neuhardenberg-900028429-34490.html?naviID=0",
+      "startDate": "2026-06-28T11:00:00.000Z",
+      "endDate": "2026-06-28T18:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028246",
+      "title": "Lesung: „DIE WINDBRIEFE an den Herrn b.b.“ von der Schauspielerin Käthe Reichel",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lesung-die-windbriefe-an-den-herrn-b-b-von-der-schauspielerin-kaethe-reichel-900028246-34490.html?naviID=0",
+      "startDate": "2026-06-28T17:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028468",
+      "title": "Berliner Frauenensemble holz&blech - „Sous le ciel de Müncheberg“",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/berliner-frauenensemble-holz-blech-sous-le-ciel-de-muencheberg--900028468-34490.html?naviID=0",
+      "startDate": "2026-06-28T17:00:00.000Z",
+      "endDate": "2026-06-28T19:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028269",
+      "title": "Konzert: 2Raumwohnung",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/konzert-2raumwohnung-900028269-34490.html?naviID=0",
+      "startDate": "2026-06-28T19:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029244",
+      "title": "Garten-Konzert * USCHI BRÜNING & STEPHAN KÖNIG * HERZENSLIEDER",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/garten-konzert-uschi-bruening-stephan-koenig-herzenslieder-900029244-34490.html?naviID=0",
+      "startDate": "2026-06-28T19:00:00.000Z",
+      "endDate": "2026-06-28T21:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900022914",
+      "title": "Wassergymnastik mit dem Kneipp- und Heimatverein",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/wassergymnastik-mit-dem-kneipp-und-heimatverein-900022914-34490.html?naviID=0",
+      "startDate": "2026-06-29T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900024861",
+      "title": "Open Air- Ausstellung in Pritzhagen",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-air-ausstellung-in-pritzhagen-900024861-34490.html?naviID=0",
+      "startDate": "2026-06-29T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029455",
+      "title": "Kremserfahrten durch die Märkische Schweiz",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremserfahrten-durch-die-maerkische-schweiz-900029455-34490.html?naviID=0",
+      "startDate": "2026-06-29T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900026306",
+      "title": "Tri Yoga im BaoBAB",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/tri-yoga-im-baobab-900026306-34490.html?naviID=0",
+      "startDate": "2026-06-29T10:00:00.000Z",
+      "endDate": "2026-06-29T11:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028558",
+      "title": "Dorf*Labor Rehfelde: Offene Jugendarbeit im Waldgarten",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dorf-labor-rehfelde-offene-jugendarbeit-im-waldgarten-900028558-34490.html?naviID=0",
+      "startDate": "2026-06-29T14:00:00.000Z",
+      "endDate": "2026-06-29T19:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900021155",
+      "title": "Aerobic-Kurs",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/aerobic-kurs-900021155-34490.html?naviID=0",
+      "startDate": "2026-06-29T16:30:00.000Z",
+      "endDate": "2026-06-29T17:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028630",
+      "title": "Zumba für Kids und Junioren",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/zumba-fuer-kids-und-junioren-900028630-34490.html?naviID=0",
+      "startDate": "2026-06-29T17:45:00.000Z",
+      "endDate": "2026-06-29T19:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
       "id": "900029144",
       "title": "Open Air Ausstellung am Bauzaun - Stadt. Land. Klima.",
       "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-air-ausstellung-am-bauzaun-stadt-land-klima--900029144-34490.html?naviID=0",
       "startDate": "2026-06-30T00:00:00.000Z",
       "fetchedAt": "2026-05-05T14:00:25.954Z",
       "updatedAt": "2026-05-06T14:21:57.430Z"
+    },
+    {
+      "id": "900024862",
+      "title": "Open Air- Ausstellung in Pritzhagen",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/open-air-ausstellung-in-pritzhagen-900024862-34490.html?naviID=0",
+      "startDate": "2026-06-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029456",
+      "title": "Kremserfahrten durch die Märkische Schweiz",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kremserfahrten-durch-die-maerkische-schweiz-900029456-34490.html?naviID=0",
+      "startDate": "2026-06-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028306",
+      "title": "Meditation im BaoBAB",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/meditation-im-baobab-900028306-34490.html?naviID=0",
+      "startDate": "2026-06-30T09:00:00.000Z",
+      "endDate": "2026-06-30T10:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028750",
+      "title": "Qi Gong mit dem Kneipp- und Heimatverein",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/qi-gong-mit-dem-kneipp-und-heimatverein-900028750-34490.html?naviID=0",
+      "startDate": "2026-06-30T15:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900028797",
+      "title": "Frauentanzgruppe mit dem Kneipp- und Heimatverein",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/frauentanzgruppe-mit-dem-kneipp-und-heimatverein-900028797-34490.html?naviID=0",
+      "startDate": "2026-06-30T15:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900026426",
+      "title": "Kindertanz im BaoBAB",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/kindertanz-im-baobab-900026426-34490.html?naviID=0",
+      "startDate": "2026-06-30T16:15:00.000Z",
+      "endDate": "2026-06-30T17:45:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900026748",
+      "title": "Fitnesstanz im BaoBAB",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/fitnesstanz-im-baobab-900026748-34490.html?naviID=0",
+      "startDate": "2026-06-30T18:00:00.000Z",
+      "endDate": "2026-06-30T18:45:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900029672",
+      "title": "Lese- und Erzählabend im Gemeindehaus Rehfelde Dorf",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/lese-und-erzaehlabend-im-gemeindehaus-rehfelde-dorf-900029672-34490.html?naviID=0",
+      "startDate": "2026-06-30T19:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
+    },
+    {
+      "id": "900025951",
+      "title": "Dart-Abend",
+      "url": "https://www.amt-maerkische-schweiz.de/regional/veranstaltungen/dart-abend-900025951-34490.html?naviID=0",
+      "startDate": "2026-06-30T19:30:00.000Z",
+      "endDate": "2026-06-30T21:30:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:06.196Z",
+      "updatedAt": "2026-05-31T13:15:06.196Z"
     },
     {
       "id": "900028467",

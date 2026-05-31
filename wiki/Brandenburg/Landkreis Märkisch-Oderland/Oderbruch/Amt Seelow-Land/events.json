@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:03:29.087Z",
+  "updatedAt": "2026-05-31T13:15:26.880Z",
   "items": [
     {
       "id": "veranstaltungen-2863155-2026-03-01-open-air-ausstellung-am-bauzaun-stadt.-land.-klima.html",
@@ -542,6 +542,15 @@
       "location": "Kulturförderverein Altfriedand e.V.",
       "fetchedAt": "2026-05-05T13:38:58.738Z",
       "updatedAt": "2026-05-05T22:14:30.420Z"
+    },
+    {
+      "id": "veranstaltungen-2908365-2026-08-01-dorffest-dolgelin.html",
+      "title": "Dorffest Dolgelin",
+      "url": "https://www.amt-seelow-land.de/veranstaltungen/2908365/2026/08/01/dorffest-dolgelin.html",
+      "startDate": "2026-08-01T00:00:00.000Z",
+      "endDate": "2026-08-02T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:15:26.872Z",
+      "updatedAt": "2026-05-31T13:15:26.872Z"
     },
     {
       "id": "veranstaltungen-2808353-2026-08-02-paarangeln.html",
@@ -1144,6 +1153,26 @@
       "location": "Verein Langes Haus e.V.",
       "fetchedAt": "2026-05-26T09:03:29.080Z",
       "updatedAt": "2026-05-26T09:03:29.080Z"
+    },
+    {
+      "id": "veranstaltungen-2857590-2027-05-30-tag-der-baukultur-am-gutshaus-der-zukunft.html",
+      "title": "Tag der Baukultur - am Gutshaus der Zukunft",
+      "url": "https://www.amt-seelow-land.de/veranstaltungen/2857590/2027/05/30/tag-der-baukultur-am-gutshaus-der-zukunft.html",
+      "startDate": "2027-05-30T00:00:00.000Z",
+      "endDate": "2027-05-30T00:00:00.000Z",
+      "location": "Gutshaus der Zukunft Altfriedland gGmbH",
+      "fetchedAt": "2026-05-31T13:15:26.873Z",
+      "updatedAt": "2026-05-31T13:15:26.873Z"
+    },
+    {
+      "id": "veranstaltungen-2857591-2027-05-30-nachbarschaftsfest.html",
+      "title": "Nachbarschaftsfest",
+      "url": "https://www.amt-seelow-land.de/veranstaltungen/2857591/2027/05/30/nachbarschaftsfest.html",
+      "startDate": "2027-05-30T00:00:00.000Z",
+      "endDate": "2027-05-30T00:00:00.000Z",
+      "location": "Verein Langes Haus e.V.",
+      "fetchedAt": "2026-05-31T13:15:26.873Z",
+      "updatedAt": "2026-05-31T13:15:26.873Z"
     }
   ]
 }

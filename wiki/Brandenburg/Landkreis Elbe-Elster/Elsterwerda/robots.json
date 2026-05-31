@@ -2,7 +2,7 @@
   {
     "domain": "www.elsterwerda.de",
     "baseUrl": "https://www.elsterwerda.de",
-    "updatedAt": "2026-05-26T09:01:53.567Z",
+    "updatedAt": "2026-05-31T13:13:48.774Z",
     "content": "User-agent: *\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php"
   }
 ]

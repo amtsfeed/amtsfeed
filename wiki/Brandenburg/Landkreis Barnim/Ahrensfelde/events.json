@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T08:57:37.794Z",
+  "updatedAt": "2026-05-31T13:13:03.018Z",
   "items": [
     {
       "id": "ahrensfelde-event-900004756",
@@ -215,12 +215,35 @@
     },
     {
       "id": "ahrensfelde-event-900004759",
-      "title": "öffentliche Sitzung des Ausschusses für Finanzen",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-finanzen-900004759-30601.html",
-      "startDate": "2026-06-04T17:00:00Z",
+      "title": "Ausfall der öffentlichen Sitzung des Ausschusses für Finanzen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/ausfall-der-oeffentlichen-sitzung-des-ausschusses-fuer-finanzen-900004759-30601.html",
+      "startDate": "2026-06-03T22:00:00Z",
       "location": "16356 Ahrensfelde, Rathaus (Hintereingang), Versammlungsraum Raum Nr.106, Lindenberger Straße 1, OT Ahrensfelde",
+      "description": "Zur Tagesordnung",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
-      "updatedAt": "2026-05-26T08:57:39.891Z"
+      "updatedAt": "2026-05-31T13:13:04.882Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004962",
+      "title": "50 Jahre Gartendenkmal",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/50-jahre-gartendenkmal-900004962-30601.html",
+      "startDate": "2026-06-04T14:00:00Z",
+      "endDate": "2026-06-04T18:00:00Z",
+      "location": "Ortsteilzentrum Ahrensfelde, Lindenberger Straße 1b, 16356 Ahrensfelde",
+      "description": "Freuen Sie sich auf interessante Fachvorträge, Einblicke und spannende Gesprächsrunden. Im Fokus der Veranstaltung steht die Zukunft unserer historischen Parkanlagen - wie kann Denkmalpflege, Naturerleben und nicht zuletzt Begegnung und Erholung in Einklang gebracht werden. Im Anschluss besteht die Möglichkeit zum persönlichen Austausch in angenehmer Atmosphäre. die Veranstaltung wird abgerundet durch eine fotografische Zeitreise durch den Lenné-Park und den Ausblick auf das Wochenende der offenen Gärten. Für Speisen und Getränke ist gesorgt.",
+      "fetchedAt": "2026-05-31T13:13:04.882Z",
+      "updatedAt": "2026-05-31T13:13:04.882Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004963",
+      "title": "Wochenende der offenen Gärten 2026",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/wochenende-der-offenen-gaerten-2026-900004963-30601.html",
+      "startDate": "2026-06-06T08:00:00Z",
+      "endDate": "2026-06-06T15:00:00Z",
+      "location": "Gemeindegebiet - alle Ortsteile",
+      "description": "Am 06.06. bis 07.06.2026 lädt die Gemeinde herzlich zum Wochenende der offenen Gärten ein.\nMachen Sie mit und werden Sie Teil eines lebendigen, grünen Wochenendes voller Begegnungen, Ideen und schöner Eindrücke!\n\nAm 06.06.findet zusätzlich um 14:00 Uhr eine Führung durch den Lenné-Park in Blumberg statt (Treffpunkt Schloßstrasse 7, Kita Parkplatz).",
+      "fetchedAt": "2026-05-31T13:13:04.882Z",
+      "updatedAt": "2026-05-31T13:13:04.882Z"
     },
     {
       "id": "ahrensfelde-event-900004956",
@@ -232,6 +255,17 @@
       "description": "Der Blumberger Kulturverein von Canitz e.V. lädt bereits zum 17. Mal alle Garten- Interessierten zu einer geführten Tour durch verschiedene Gärten in Blumberg ein.",
       "fetchedAt": "2026-05-26T08:45:33.229Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004964",
+      "title": "Wochenende der offenen Gärten 2026",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/wochenende-der-offenen-gaerten-2026-900004964-30601.html",
+      "startDate": "2026-06-07T08:00:00Z",
+      "endDate": "2026-06-07T15:00:00Z",
+      "location": "Gemeindegebiet - alle Ortsteile",
+      "description": "Am 06.06. bis 07.06.2026 lädt die Gemeinde herzlich zum Wochenende der offenen Gärten ein.\nMachen Sie mit und werden Sie Teil eines lebendigen, grünen Wochenendes voller Begegnungen, Ideen und schöner Eindrücke!\n\nAm 07.06.findet von 15:00- 17:00 Uhr unser Garten- Infopoint statt. Begleitet wird das Wochenende durch Möglichkeiten zum Austausch und zur Inspiration rund ums Gärtnern. An Spiel & Spaß für die Kinder ist auch gedacht. Kleine Verkostungen aus Garten und Region laden zusätzlich zum Verweilen und Genießen ein., Treffpunkt Jugendclub, Birkholzer Allee 15.",
+      "fetchedAt": "2026-05-31T13:13:04.882Z",
+      "updatedAt": "2026-05-31T13:13:04.882Z"
     },
     {
       "id": "ahrensfelde-event-900004952",

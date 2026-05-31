@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:04:38.632Z",
+  "updatedAt": "2026-05-31T13:16:38.562Z",
   "items": [
     {
       "id": "veranstaltungen-2780360-2026-05-06-kräuterworkshop-grüne-schätze-der-natur--auf-kräutersuche-mit-allen-sinnen.html",
@@ -237,6 +237,14 @@
       "updatedAt": "2026-05-06T08:09:30.074Z"
     },
     {
+      "id": "veranstaltungen-2909678-2026-06-06-csd-seenland-oder-spree.html",
+      "title": "CSD Seenland Oder-Spree",
+      "url": "https://www.storkow-mark.de/veranstaltungen/2909678/2026/06/06/csd-seenland-oder-spree.html",
+      "startDate": "2026-06-06T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:38.552Z",
+      "updatedAt": "2026-05-31T13:16:38.552Z"
+    },
+    {
       "id": "veranstaltungen-2896062-2026-06-10-jeder-kann-zeichnen-lernen--naturmotive-entdecken-und-festhalten.html",
       "title": "Jeder kann zeichnen lernen &ndash; Naturmotive entdecken und festhalten",
       "url": "https://www.storkow-mark.de/veranstaltungen/2896062/2026/06/10/jeder-kann-zeichnen-lernen--naturmotive-entdecken-und-festhalten.html",
@@ -357,6 +365,14 @@
       "location": "Burg Storkow",
       "fetchedAt": "2026-05-06T08:09:30.074Z",
       "updatedAt": "2026-05-06T08:09:30.074Z"
+    },
+    {
+      "id": "veranstaltungen-2908031-2026-06-20-orgelkonzert-mit-matthias-eisenberg-in-evangelischer-kirche-storkow.html",
+      "title": "Orgelkonzert mit Matthias Eisenberg in evangelischer Kirche Storkow",
+      "url": "https://www.storkow-mark.de/veranstaltungen/2908031/2026/06/20/orgelkonzert-mit-matthias-eisenberg-in-evangelischer-kirche-storkow.html",
+      "startDate": "2026-06-20T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:38.552Z",
+      "updatedAt": "2026-05-31T13:16:38.552Z"
     },
     {
       "id": "veranstaltungen-2896067-2026-06-24-jeder-kann-zeichnen-lernen--naturmotive-entdecken-und-festhalten.html",
@@ -1412,6 +1428,15 @@
       "location": "Burg Storkow",
       "fetchedAt": "2026-05-26T09:04:38.623Z",
       "updatedAt": "2026-05-26T09:04:38.623Z"
+    },
+    {
+      "id": "veranstaltungen-2340326-2027-05-30-training-der-burgwache-storkow.html",
+      "title": "Training der Burgwache Storkow",
+      "url": "https://www.storkow-mark.de/veranstaltungen/2340326/2027/05/30/training-der-burgwache-storkow.html",
+      "startDate": "2027-05-30T00:00:00.000Z",
+      "location": "Burg Storkow",
+      "fetchedAt": "2026-05-31T13:16:38.552Z",
+      "updatedAt": "2026-05-31T13:16:38.552Z"
     }
   ]
 }

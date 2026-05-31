@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Milower Land
+X-WR-CALDESC:Amtliche Veranstaltungen für Milower Land
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:milower-land-event-2854926-20260620@amtsfeed.de
+DTSTAMP:20260531T134723Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Dorffest Zollchow
+URL:https://www.milow.de/veranstaltungen/2854926/2026/06/20/dorffest-zoll
+ chow.html
+LOCATION:Zollchow
+END:VEVENT
+BEGIN:VEVENT
+UID:milower-land-event-2731432-20260627@amtsfeed.de
+DTSTAMP:20260531T134723Z
+DTSTART:20260627T100000Z
+SUMMARY:100 Jahre FF Buckow
+URL:https://www.milow.de/veranstaltungen/2731432/2026/06/27/100-jahre-ff-
+ buckow.html
+DESCRIPTION:Die Feuerwehr Buckow feiert ihr 100jähriges Jubiläum
+LOCATION:Freiwillige Feuerwehr Buckow
+END:VEVENT
+BEGIN:VEVENT
+UID:milower-land-event-2876250-20260713@amtsfeed.de
+DTSTAMP:20260531T134723Z
+DTSTART:20260713T093000Z
+SUMMARY:Sommer Fußball Camp
+URL:https://www.milow.de/veranstaltungen/2876250/2026/07/13/sommer-fußba
+ ll-camp.html
+LOCATION:Waldstadion Großwudicke
+END:VEVENT
+BEGIN:VEVENT
+UID:milower-land-event-2895466-20260905@amtsfeed.de
+DTSTAMP:20260531T134723Z
+DTSTART:20260905T100000Z
+SUMMARY:6. Zweitakt und Ostfahrzeuge Treffen
+URL:https://www.milow.de/veranstaltungen/2895466/2026/09/05/6.-zweitakt-u
+ nd-ostfahrzeuge-treffen.html
+LOCATION:Jerchel
+END:VEVENT
+BEGIN:VEVENT
+UID:milower-land-event-2895469-20260905@amtsfeed.de
+DTSTAMP:20260531T134723Z
+DTSTART:20260905T193000Z
+SUMMARY:Ostrock P70
+URL:https://www.milow.de/veranstaltungen/2895469/2026/09/05/ostrock-p70.h
+ tml
+LOCATION:Jerchel
+END:VEVENT
+BEGIN:VEVENT
+UID:milower-land-event-2855024-20261002@amtsfeed.de
+DTSTAMP:20260531T134723Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Kranzstechen
+URL:https://www.milow.de/veranstaltungen/2855024/2026/10/02/kranzstechen.
+ html
+LOCATION:Zollchow
+END:VEVENT
+BEGIN:VEVENT
+UID:milower-land-event-2890789-20261031@amtsfeed.de
+DTSTAMP:20260531T134723Z
+DTSTART:20261031T170000Z
+SUMMARY:Milower Halloween Spektakel
+URL:https://www.milow.de/veranstaltungen/2890789/2026/10/31/milower-hallo
+ ween-spektakel.html
+LOCATION:Milow
+END:VEVENT
+BEGIN:VEVENT
+UID:milower-land-event-2855031-20261106@amtsfeed.de
+DTSTAMP:20260531T134723Z
+DTSTART:20261106T190000Z
+SUMMARY:Spieleabend
+URL:https://www.milow.de/veranstaltungen/2855031/2026/11/06/spieleabend.h
+ tml
+LOCATION:Zollchow
+END:VEVENT
+BEGIN:VEVENT
+UID:milower-land-event-2855032-20261127@amtsfeed.de
+DTSTAMP:20260531T134723Z
+DTSTART:20261127T150000Z
+SUMMARY:Weihnachtsfeier Rentner & Engagierte
+URL:https://www.milow.de/veranstaltungen/2855032/2026/11/27/weihnachtsfei
+ er-rentner-engagierte.html
+LOCATION:Zollchow
+END:VEVENT
+BEGIN:VEVENT
+UID:milower-land-event-2855034-20261128@amtsfeed.de
+DTSTAMP:20260531T134723Z
+DTSTART:20261128T170000Z
+SUMMARY:Weihnachtsmarkt Zolllchow
+URL:https://www.milow.de/veranstaltungen/2855034/2026/11/28/weihnachtsmar
+ kt-zolllchow.html
+LOCATION:Zollchow
+END:VEVENT
+BEGIN:VEVENT
+UID:milower-land-event-2855038-20261212@amtsfeed.de
+DTSTAMP:20260531T134723Z
+DTSTART:20261212T140000Z
+SUMMARY:Weihnachtsmarkt Grille
+URL:https://www.milow.de/veranstaltungen/2855038/2026/12/12/weihnachtsmar
+ kt-grille.html
+LOCATION:Zollchow
+END:VEVENT
+END:VCALENDAR

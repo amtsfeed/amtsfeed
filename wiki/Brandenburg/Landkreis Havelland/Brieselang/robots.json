@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.gemeindebrieselang.de",
+    "baseUrl": "https://www.gemeindebrieselang.de",
+    "updatedAt": "2026-05-31T13:52:57.474Z",
+    "content": "# robots.txt f�r www.brieselang.de\r\n\r\nUser-agent: Mail.Ru/1.0\r\nDisallow: /\r\n\r\nUser-agent: *\r\nDisallow: /city_info/anzeige/news/\r\nDisallow: /city_info/anzeige/redaktionssystem/\r\nDisallow: /city_info/anzeige/zoomkarte/\r\nDisallow: /city_info/display/adresse/\r\nDisallow: /city_info/display/bb/\r\nDisallow: /city_info/display/boerse/\r\nDisallow: /city_info/display/bs/\r\nDisallow: /city_info/display/checkliste/\r\nDisallow: /city_info/display/dokument_paket/\r\nDisallow: /city_info/display/feedback/\r\nDisallow: /city_info/display/forum/\r\nDisallow: /city_info/display/forums/\r\nDisallow: /city_info/display/freizeit/\r\nDisallow: /city_info/display/gallery/\r\nDisallow: /city_info/display/gmap/\r\nDisallow: /city_info/display/grusskarten/\r\nDisallow: /city_info/display/lebenslage/\r\nDisallow: /city_info/display/m_calendar/\r\nDisallow: /city_info/display/n_kalender/\r\nDisallow: /city_info/display/rat/\r\nDisallow: /city_info/display/tp/\r\n\r\nDisallow: /city_info/display/dokument/\r\nDisallow: /city_info/display/vcard/\r\nDisallow: /city_data/images/\r\nDisallow: /flv/\r\nDisallow: /test/\r\nDisallow: /flv/\r\nDisallow: /Wappen/\r\n\r\nCrawl-delay: 300\r\n"
+  }
+]

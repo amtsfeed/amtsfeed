@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.rathenow.de",
+    "baseUrl": "https://www.rathenow.de",
+    "updatedAt": "2026-05-31T13:45:11.448Z",
+    "content": "User-agent: SemrushBot\nDisallow: /\n\nUser-agent: SemrushBot-BA\nDisallow: /\n\nUser-agent: Googlebot \nDisallow: /suche/\n\nUser-agent: *\nAllow: /\n"
+  }
+]

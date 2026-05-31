@@ -1,0 +1,8 @@
+[
+  {
+    "domain": "www.nauen.de",
+    "baseUrl": "https://www.nauen.de",
+    "updatedAt": "2026-05-31T13:46:56.994Z",
+    "content": "# SEO Checker for Umbraco \r\nSitemap: http://www.nauen.de/sitemap.xml\r\nUser-Agent: *\r\nAllow: DependencyHandler.axd\r\nDisallow: /aspnet_client/\r\nDisallow: /bin/\r\nDisallow: /config/\r\nDisallow: /data/\r\nDisallow: /macroScripts/\r\nDisallow: /umbraco/\r\nDisallow: /umbraco_client/\r\nDisallow: /usercontrols/\r\nDisallow: /xslt/\r\nDisallow: /*.axd"
+  }
+]

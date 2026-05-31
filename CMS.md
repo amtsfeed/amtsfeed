@@ -965,3 +965,51 @@ IKISS ist ein älteres kommunales CMS-System, das windows-1252 Encoding verwende
 
 Pagination: IKISS hat keine URL-basierte Pagination — alle Seiten zeigen max. 15 Einträge. Incremental scraping (vorhandene Daten behalten) ist Pflicht.
 Beispiel: Landkreis Elbe-Elster (`lkee.de`, 15 News, 15 Events, 64 Amtsblätter)
+
+---
+
+## active-City (ColdFusion)
+
+Älteres Kommunal-CMS (ColdFusion-basiert), erkennbar am Kommentar `Generated with active-City X.Y.Z` und am Tracker `piwik.active-city.net`.
+
+**Erkennungsmerkmale:**
+- Kommentar `Generated with active-City N.NNN.N` im HTML
+- URLs für PDF-Dokumente: `/city_info/display/dokument/show.cfm?region_id=NNN&id=NNNNNN`
+- News-Teaser: `<div class="ac_teaser_item item_{ID}">` mit `<a class="ac_teaser_link">`, `<h3 class="ac_teaser_title">`, `<div class="ac_teaser_date">Datum DD.MM.YYYY</div>`, `<span class="text_wrapper">`
+- Event-Teaser: `<div class="event_wrapper teaser_element">` mit `event_teaser_title_link`, `<span class="event_date_from">` / `<span class="event_date_to">` (deutscher Wochentag + DD. Monatsname, **ohne Jahr**)
+
+**Besonderheit: gzip-Pflicht.** Der ColdFusion-Server liefert bei normalen Requests einen **leeren Body** (`Content-Length: 0`, HTTP 200) zurück. Der Inhalt wird erst gesendet, wenn der Client `Accept-Encoding: gzip` setzt. Node `fetch` macht das automatisch; bei `curl` ist `--compressed` notwendig.
+
+**News-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<div class="ac_teaser_item item_NNN ...">` |
+| ID | `item_(\d+)` (Item-Nummer) |
+| URL | `<a class="ac_teaser_link" href="...">` |
+| Titel | `<h3 class="ac_teaser_title">TEXT</h3>` |
+| Datum | `<div class="ac_teaser_date">Datum DD.MM.YYYY</div>` |
+| Teaser | `<span class="text_wrapper">TEXT</span>` |
+
+**Events-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Container | `<div class="event_wrapper teaser_element">` |
+| URL+Titel | `<a class="event_teaser_link event_teaser_title_link" href="..." title="...">TITEL</a>` |
+| Datum (Start) | `<span class="event_date_from">Wochentag DD. Monatsname [YYYY]</span>` — Jahr fehlt meist |
+| Datum (Ende) | `<span class="event_date_to">…</span>` |
+| Teaser | `<span class="event_teaser">TEXT</span>` |
+| Ort | `<span class="event_place">TEXT</span>` |
+
+**Jahresinferenz für Events** (kein Jahr im HTML): liegt das parsed Datum mehr als 60 Tage in der Vergangenheit relativ zu `now`, wird `currentYear + 1` angenommen, sonst `currentYear`.
+
+**Amtsblatt-Parsing:**
+
+| Element | Selektor |
+|---------|----------|
+| Link | `<a href="/city_info/display/dokument/show.cfm?region_id=NNN&id=DOC_ID" title="...">Amtsblatt MM/YYYY vom DD. Monatsname YYYY</a>` |
+| ID | aus Linktext (`MM/YYYY`) oder DOC_ID als Fallback |
+| Datum | `vom DD. Monatsname YYYY` im Linktext |
+
+Beispiel: Brieselang (`gemeindebrieselang.de`)

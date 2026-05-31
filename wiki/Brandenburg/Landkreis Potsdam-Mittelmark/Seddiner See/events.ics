@@ -126,8 +126,8 @@ URL:https://www.seddiner-see.de/calendar/category?id=2
 END:VEVENT
 BEGIN:VEVENT
 UID:seddiner-see-event-439@amtsfeed.de
-DTSTAMP:20260506T120515Z
-DTSTART:20260606T110000Z
+DTSTAMP:20260531T131715Z
+DTSTART:20260606T120000Z
 DTEND:20260606T160000Z
 SUMMARY:Tag der offenen Tür Feuerwehr Neuseddin
 URL:https://www.seddiner-see.de/calendar/category?id=2
@@ -207,11 +207,11 @@ URL:https://www.seddiner-see.de/calendar/category?id=2
 END:VEVENT
 BEGIN:VEVENT
 UID:seddiner-see-event-451@amtsfeed.de
-DTSTAMP:20260506T120515Z
+DTSTAMP:20260531T131715Z
 DTSTART:20260830T123000Z
 DTEND:20260830T160000Z
 SUMMARY:Vernissage - Christine Gröling\, Fichtenwalde: „TOUTES DIRECTI
- ONS“ – Inspirationen von unterwegs in verschiedenen Techniken
+ ONS“
 URL:https://www.seddiner-see.de/calendar/category?id=2
 END:VEVENT
 BEGIN:VEVENT
@@ -236,6 +236,62 @@ DTSTAMP:20260506T120515Z
 DTSTART:20260919T180000Z
 DTEND:20260919T220000Z
 SUMMARY:Tanzveranstaltung anlässlich des Kindertages
+URL:https://www.seddiner-see.de/calendar/category?id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:seddiner-see-event-456@amtsfeed.de
+DTSTAMP:20260531T131715Z
+DTSTART:20261016T140000Z
+DTEND:20261016T170000Z
+SUMMARY:Kürbisfest in der Kita Seepferdchen
+URL:https://www.seddiner-see.de/calendar/category?id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:seddiner-see-event-457@amtsfeed.de
+DTSTAMP:20260531T131715Z
+DTSTART:20261024T130000Z
+DTEND:20261024T190000Z
+SUMMARY:"Feuer und Flamme für unsere Museen"
+URL:https://www.seddiner-see.de/calendar/category?id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:seddiner-see-event-458@amtsfeed.de
+DTSTAMP:20260531T131715Z
+DTSTART:20261113T170000Z
+DTEND:20261113T180000Z
+SUMMARY:Laternenumzug in der Kita Waldsternchen
+URL:https://www.seddiner-see.de/calendar/category?id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:seddiner-see-event-459@amtsfeed.de
+DTSTAMP:20260531T131715Z
+DTSTART:20261128T153000Z
+DTEND:20261128T173000Z
+SUMMARY:Licheranzünden
+URL:https://www.seddiner-see.de/calendar/category?id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:seddiner-see-event-460@amtsfeed.de
+DTSTAMP:20260531T131715Z
+DTSTART:20261202T130000Z
+DTEND:20261202T163000Z
+SUMMARY:Senioren-Weihnachtsfeier
+URL:https://www.seddiner-see.de/calendar/category?id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:seddiner-see-event-461@amtsfeed.de
+DTSTAMP:20260531T131715Z
+DTSTART:20261205T130000Z
+DTEND:20261205T170000Z
+SUMMARY:Nikolausmarkt
+URL:https://www.seddiner-see.de/calendar/category?id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:seddiner-see-event-462@amtsfeed.de
+DTSTAMP:20260531T131715Z
+DTSTART:20261219T140000Z
+DTEND:20261219T210000Z
+SUMMARY:Adventsfest Seddin
 URL:https://www.seddiner-see.de/calendar/category?id=2
 END:VEVENT
 END:VCALENDAR

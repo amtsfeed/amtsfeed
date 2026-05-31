@@ -91,8 +91,8 @@ URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
 END:VEVENT
 BEGIN:VEVENT
 UID:stahnsdorf-event-69b29e5d@amtsfeed.de
-DTSTAMP:20260506T121536Z
-DTSTART:20260517T100000Z
+DTSTAMP:20260526T090504Z
+DTSTART:20260517T130000Z
 SUMMARY:Internationaler Museumstag
 URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
@@ -119,6 +119,14 @@ DTSTAMP:20260506T121536Z
 DTSTART:20260520T140000Z
 SUMMARY:Stahnsdorfer Gartenfestival: Offener Kinder-\, Wildbienen- und Ze
  idlergarten
+URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
+ gskalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6a033a55@amtsfeed.de
+DTSTAMP:20260526T090504Z
+DTSTART:20260520T180000Z
+SUMMARY:Kreativtreff
 URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
 END:VEVENT
@@ -158,11 +166,27 @@ URL:https://stahnsdorf.de/mailto:stephanie.kessel@online.de
 END:VEVENT
 BEGIN:VEVENT
 UID:stahnsdorf-event-6995d198@amtsfeed.de
-DTSTAMP:20260506T121536Z
-DTSTART:20260530T140000Z
+DTSTAMP:20260526T090504Z
+DTSTART:20260523T140000Z
 SUMMARY:Denksportnachmittag
 URL:https://stahnsdorf.de/../../images/pictures/veranstaltungen/buergerha
- euser/denksport_nachmittage_bismai2025.jpg
+ euser/denksportnachmittage_flyer-bis-sep-2026.png
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6a17fc21@amtsfeed.de
+DTSTAMP:20260531T131716Z
+DTSTART:20260530T093000Z
+SUMMARY:2er – Mannschafts-Tischtennisturnier „60 Jahre TSV“
+URL:https://stahnsdorf.de/../../images/pictures/veranstaltungen/sport/tsv
+ _stahnsdorf_tischtennis_jubiturnier2026.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6a01f60e@amtsfeed.de
+DTSTAMP:20260526T090504Z
+DTSTART:20260531T090000Z
+SUMMARY:Flohmarkt Güterfelde
+URL:https://stahnsdorf.de/../../images/pictures/veranstaltungen/buergerha
+ euser/flohmarkt_gueterfelde_mai2026_story.png
 END:VEVENT
 BEGIN:VEVENT
 UID:stahnsdorf-event-69a162bf@amtsfeed.de
@@ -187,6 +211,22 @@ DTSTART:20260606T100000Z
 SUMMARY:Reiterstaffel der Bundespolizei: Tag der offenen Tür
 URL:https://stahnsdorf.de/../../images/pictures/veranstaltungen/reitersta
  ffel_tdot_2026_poster.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6a01f68b@amtsfeed.de
+DTSTAMP:20260526T090504Z
+DTSTART:20260611T140000Z
+SUMMARY:32. Brandenburgische Seniorenwoche: Mit dem ÖPNV in die Zukunft
+URL:https://stahnsdorf.de/../../images/pictures/soziales/senioren/seniore
+ nwoche_2026_schenkenhorst_oepnv.png
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6a0f1df7@amtsfeed.de
+DTSTAMP:20260526T090504Z
+DTSTART:20260612T150000Z
+SUMMARY:Sommerfest der Kita "Buddelflink"
+URL:https://stahnsdorf.de/../../images/pictures/veranstaltungen/kitas/kit
+ a_buddelflink_sommerfest_2026_plakat.jpg
 END:VEVENT
 BEGIN:VEVENT
 UID:stahnsdorf-event-69b29e17@amtsfeed.de
@@ -214,6 +254,14 @@ URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:stahnsdorf-event-6a16aa22@amtsfeed.de
+DTSTAMP:20260531T131716Z
+DTSTART:20260703T150000Z
+SUMMARY:Sommerfest in der Kneipp-Kita
+URL:https://stahnsdorf.de/../../images/pictures/grafiken_logos_icons/kita
+ waldhaeuschen_logo.png
+END:VEVENT
+BEGIN:VEVENT
 UID:stahnsdorf-event-69ccea9a@amtsfeed.de
 DTSTAMP:20260506T121536Z
 DTSTART:20260704T140000Z
@@ -238,9 +286,17 @@ URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:stahnsdorf-event-6a033aac@amtsfeed.de
+DTSTAMP:20260526T090504Z
+DTSTART:20260805T180000Z
+SUMMARY:Kreativtreff
+URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
+ gskalender/
+END:VEVENT
+BEGIN:VEVENT
 UID:stahnsdorf-event-69b29e82@amtsfeed.de
-DTSTAMP:20260506T121536Z
-DTSTART:20260808T100000Z
+DTSTAMP:20260526T090504Z
+DTSTART:20260808T130000Z
 SUMMARY:4. Tag der Industriekultur
 URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/

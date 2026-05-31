@@ -7,24 +7,6 @@ X-WR-CALNAME:Nuthetal
 X-WR-CALDESC:Amtliche Veranstaltungen für Nuthetal
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:nuthetal-event-2855138@amtsfeed.de
-DTSTAMP:20260506T123724Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:Krabbelgruppe in Saarmund
-URL:https://www.nuthetal.de/veranstaltungen/2855138/2026/05/07/krabbelgru
- ppe-in-saarmund.html
-END:VEVENT
-BEGIN:VEVENT
-UID:nuthetal-event-2855177@amtsfeed.de
-DTSTAMP:20260506T123724Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Handarbeitsgruppe im Mehrgenerationshaus
-URL:https://www.nuthetal.de/veranstaltungen/2855177/2026/05/08/handarbeit
- sgruppe-im-mehrgenerationshaus.html
-END:VEVENT
-BEGIN:VEVENT
 UID:nuthetal-event-2898065@amtsfeed.de
 DTSTAMP:20260506T123724Z
 DTSTART;VALUE=DATE:20260508
@@ -71,15 +53,6 @@ URL:https://www.nuthetal.de/veranstaltungen/2868718/2026/05/10/nuthetaler
  -pflanzentauschbörste.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nuthetal-event-2718105@amtsfeed.de
-DTSTAMP:20260506T123724Z
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
-URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/05/12/unterstüt
- ztes-einkaufen-nahkauf-saarmund.html
-END:VEVENT
-BEGIN:VEVENT
 UID:nuthetal-event-2812861@amtsfeed.de
 DTSTAMP:20260506T123724Z
 DTSTART;VALUE=DATE:20260522
@@ -98,16 +71,6 @@ URL:https://www.nuthetal.de/veranstaltungen/2895535/2026/05/28/gemeinsam-
  kochen-mit-frau-feinkost.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nuthetal-event-2888693@amtsfeed.de
-DTSTAMP:20260506T123724Z
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-SUMMARY:Bewegung\, Begegnung & Natur erleben – Gesundheitswanderung in 
- Potsdam
-URL:https://www.nuthetal.de/veranstaltungen/2888693/2026/05/30/bewegung-b
- egegnung-natur-erleben--gesundheitswanderung-in-potsdam.html
-END:VEVENT
-BEGIN:VEVENT
 UID:nuthetal-event-2855150@amtsfeed.de
 DTSTAMP:20260506T123724Z
 DTSTART;VALUE=DATE:20260531
@@ -115,6 +78,15 @@ DTEND;VALUE=DATE:20260601
 SUMMARY:31.05.2026 – Hofflohmarkt in Saarmund
 URL:https://www.nuthetal.de/veranstaltungen/2855150/2026/05/31/31.05.2026
  --hofflohmarkt-in-saarmund.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2718105@amtsfeed.de
+DTSTAMP:20260531T131712Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
+URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/06/02/unterstüt
+ ztes-einkaufen-nahkauf-saarmund.html
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2895532@amtsfeed.de
@@ -135,6 +107,24 @@ URL:https://www.nuthetal.de/veranstaltungen/2895541/2026/06/02/geistig-fi
  t-bleiben-im-alter.html
 END:VEVENT
 BEGIN:VEVENT
+UID:nuthetal-event-2855138@amtsfeed.de
+DTSTAMP:20260531T131712Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Krabbelgruppe in Saarmund
+URL:https://www.nuthetal.de/veranstaltungen/2855138/2026/06/04/krabbelgru
+ ppe-in-saarmund.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2855177@amtsfeed.de
+DTSTAMP:20260531T131712Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Handarbeitsgruppe im Mehrgenerationshaus
+URL:https://www.nuthetal.de/veranstaltungen/2855177/2026/06/05/handarbeit
+ sgruppe-im-mehrgenerationshaus.html
+END:VEVENT
+BEGIN:VEVENT
 UID:nuthetal-event-2812863@amtsfeed.de
 DTSTAMP:20260506T123724Z
 DTSTART;VALUE=DATE:20260605
@@ -142,6 +132,15 @@ DTEND;VALUE=DATE:20260606
 SUMMARY:Seniorentreff: Spielenachmittag
 URL:https://www.nuthetal.de/veranstaltungen/2812863/2026/06/05/seniorentr
  eff-spielenachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2908323@amtsfeed.de
+DTSTAMP:20260531T131712Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Sommerfest
+URL:https://www.nuthetal.de/veranstaltungen/2908323/2026/06/05/sommerfest
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2814846@amtsfeed.de
@@ -154,16 +153,6 @@ URL:https://www.nuthetal.de/veranstaltungen/2814846/2026/06/12/die-leseeu
  le-lädt-ein-vorlesestunde-für-kita-und-vorschulkinder.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nuthetal-event-2891313@amtsfeed.de
-DTSTAMP:20260506T123724Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
-SUMMARY:Die Leseeule lädt ein - Vorlesestunde für Kita- und Vorschulkin
- der
-URL:https://www.nuthetal.de/veranstaltungen/2891313/2026/06/12/die-leseeu
- le-lädt-ein-vorlesestunde-für-kita-und-vorschulkinder.html
-END:VEVENT
-BEGIN:VEVENT
 UID:nuthetal-event-2812867@amtsfeed.de
 DTSTAMP:20260506T123724Z
 DTSTART;VALUE=DATE:20260619
@@ -171,6 +160,43 @@ DTEND;VALUE=DATE:20260620
 SUMMARY:Seniorentreff: Grillfest
 URL:https://www.nuthetal.de/veranstaltungen/2812867/2026/06/19/seniorentr
  eff-grillfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2908502@amtsfeed.de
+DTSTAMP:20260531T131712Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Offener Bonsaigarten
+URL:https://www.nuthetal.de/veranstaltungen/2908502/2026/06/21/offener-bo
+ nsaigarten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2888693@amtsfeed.de
+DTSTAMP:20260531T131712Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Bewegung\, Begegnung & Natur erleben – Gesundheitswanderung in 
+ Potsdam
+URL:https://www.nuthetal.de/veranstaltungen/2888693/2026/06/27/bewegung-b
+ egegnung-natur-erleben--gesundheitswanderung-in-potsdam.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2908508@amtsfeed.de
+DTSTAMP:20260531T131712Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Offener Bonsaigarten
+URL:https://www.nuthetal.de/veranstaltungen/2908508/2026/07/12/offener-bo
+ nsaigarten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2905196@amtsfeed.de
+DTSTAMP:20260526T090501Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Lesung mit Karin Kalisa
+URL:https://www.nuthetal.de/veranstaltungen/2905196/2026/07/16/lesung-mit
+ -karin-kalisa.html
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2888684@amtsfeed.de
@@ -182,6 +208,16 @@ URL:https://www.nuthetal.de/veranstaltungen/2888684/2026/07/18/tag-der-of
  fenen-tür-seniorenresidenz-oskar-picht.html
 END:VEVENT
 BEGIN:VEVENT
+UID:nuthetal-event-2891313@amtsfeed.de
+DTSTAMP:20260526T090501Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Die Leseeule lädt ein - Vorlesestunde für Kita- und Vorschulkin
+ der
+URL:https://www.nuthetal.de/veranstaltungen/2891313/2026/08/14/die-leseeu
+ le-lädt-ein-vorlesestunde-für-kita-und-vorschulkinder.html
+END:VEVENT
+BEGIN:VEVENT
 UID:nuthetal-event-2812869@amtsfeed.de
 DTSTAMP:20260506T123724Z
 DTSTART;VALUE=DATE:20260904
@@ -189,6 +225,15 @@ DTEND;VALUE=DATE:20260905
 SUMMARY:Seniorentreff: Spielenachmittag
 URL:https://www.nuthetal.de/veranstaltungen/2812869/2026/09/04/seniorentr
  eff-spielenachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2908504@amtsfeed.de
+DTSTAMP:20260531T131712Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Offener Bonsaigarten
+URL:https://www.nuthetal.de/veranstaltungen/2908504/2026/09/13/offener-bo
+ nsaigarten.html
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2812870@amtsfeed.de

@@ -1013,3 +1013,25 @@ Beispiel: Landkreis Elbe-Elster (`lkee.de`, 15 News, 15 Events, 64 Amtsblätter)
 | Datum | `vom DD. Monatsname YYYY` im Linktext |
 
 Beispiel: Brieselang (`gemeindebrieselang.de`)
+
+---
+
+## CONTENIDO
+
+Klassisches Open-Source-CMS (`<meta name="generator" content="CMS CONTENIDO 4.10">`). Aussterbend, aber gelegentlich in kleineren Kommunen anzutreffen.
+
+**Erkennungsmerkmale:**
+- `<base href="https://.../cms/">` im Head
+- Artikel-URLs mit `?idart=NNN` Parameter
+- Listenseiten unter sprechenden Pfaden (`/startseite/nachrichten/`, `/startseite/veranstaltungen/`)
+
+**News-Listing:** `<h3>Titel</h3>` + (teilweise Bild + Teaser) + `<a class="more" href="URL">mehr</a>` — **kein Datum im Listing**.
+
+**Events-Listing:** `<div class="event">` mit:
+- `<h2>Titel</h2>`
+- `<ul><li><strong>am:</strong> DD.MM.YYYY</li><li><strong>um:</strong> HH:MM Uhr</li><li><strong>bis</strong> HH:MM Uhr</li><li><strong>Ort:</strong> ...</li></ul>`
+- `<div class="termintext">...<a href="...idart=NNN">mehr</a></div>`
+
+**Amtsblatt:** PDF-Tabellen mit Datei-Konvention wie `Stadt_Amtsblatt_YYMM.pdf` unter `/cms/upload/dokumente/...`.
+
+Beispiel: Vetschau/Spreewald (`stadt.vetschau.de`)

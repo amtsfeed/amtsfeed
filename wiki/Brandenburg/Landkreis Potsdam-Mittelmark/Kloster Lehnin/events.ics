@@ -352,6 +352,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2859102/2026/05/29/s-cap
  e.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2905300@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Konzert S-cape
+URL:https://www.klosterlehnin.de/veranstaltungen/2905300/2026/05/29/konze
+ rt-s-cape.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2732440@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260530
@@ -416,6 +425,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2846793/2026/05/31/höfe
  flohmarkt.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2903999@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Gastspiel „kaputt“ vom Theater „die exen“
+URL:https://www.klosterlehnin.de/veranstaltungen/2903999/2026/05/31/gasts
+ piel-kaputt-vom-theater-die-exen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2892219@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260601
@@ -436,6 +454,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2846454/2026/06/04/versa
  mmlung-volkssolidarität-lehnin--vorstand.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2904639@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Helferversammlung in der Mensa
+URL:https://www.klosterlehnin.de/veranstaltungen/2904639/2026/06/04/helfe
+ rversammlung-in-der-mensa.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2850947@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260605
@@ -452,6 +479,15 @@ DTEND;VALUE=DATE:20260607
 SUMMARY:80 Jahre Rot-Weiß-Netzen
 URL:https://www.klosterlehnin.de/veranstaltungen/2735265/2026/06/06/80-ja
  hre-rot-weiß-netzen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903757@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Kinderfest in Rädel
+URL:https://www.klosterlehnin.de/veranstaltungen/2903757/2026/06/06/kinde
+ rfest-in-rädel.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2872158@amtsfeed.de
@@ -571,6 +607,33 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2859127/2026/06/14/ki-wi
  e-du-und-ich--autorenlesung-mit-thomas-frick.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2903053@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Feuer und Tango – Ein Konzert voller Leidenschaft
+URL:https://www.klosterlehnin.de/veranstaltungen/2903053/2026/06/14/feuer
+ -und-tango--ein-konzert-voller-leidenschaft.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2902784@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Feuer und Tango – Ein Konzert voller Leidenschaft
+URL:https://www.klosterlehnin.de/veranstaltungen/2902784/2026/06/14/feuer
+ -und-tango--ein-konzert-voller-leidenschaft.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2904640@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Kaffeerunde
+URL:https://www.klosterlehnin.de/veranstaltungen/2904640/2026/06/18/kaffe
+ erunde.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2884244@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260619
@@ -653,12 +716,12 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2884245/2026/06/24/kaffe
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2887899@amtsfeed.de
-DTSTAMP:20260506T201826Z
+DTSTAMP:20260531T131706Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:Simsontreffen in Netzen
-URL:https://www.klosterlehnin.de/veranstaltungen/2887899/2026/06/26/simso
- ntreffen-in-netzen.html
+SUMMARY:10. Simsontreffen in Netzen
+URL:https://www.klosterlehnin.de/veranstaltungen/2887899/2026/06/26/10.-s
+ imsontreffen-in-netzen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2889742@amtsfeed.de
@@ -679,6 +742,17 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2891649/2026/06/27/flamm
  en-aus-ton-rietzer-berg.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2903057@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Lehniner Sommermusiken: „Die Primaner“ - Jugendchor des Georg
+ -Friedrich-Händel-Gymnasiums Berlin
+URL:https://www.klosterlehnin.de/veranstaltungen/2903057/2026/06/27/lehni
+ ner-sommermusiken-die-primaner-jugendchor-des-georg-friedrich-händel-gym
+ nasiums-berlin.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2872160@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260628
@@ -688,6 +762,15 @@ SUMMARY:Workshop: Rita Zepf: Zeichnen mit dem Nähfaden\, die stille Poes
 URL:https://www.klosterlehnin.de/veranstaltungen/2872160/2026/06/28/works
  hop-rita-zepf-zeichnen-mit-dem-nähfaden-die-stille-poesie-der-nähnadel.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2899672@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Fühlst du dein Seelenfeuer?
+URL:https://www.klosterlehnin.de/veranstaltungen/2899672/2026/06/28/fühl
+ st-du-dein-seelenfeuer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2846459@amtsfeed.de
@@ -735,6 +818,36 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2727192/2026/07/03/100-j
  ahre-rudern-in-lehnin-und-landeswanderrudertreffen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2903061@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Lehniner Sommermusiken: Inauguration neue Wegscheider-Orgel in de
+ r Klosterkirche
+URL:https://www.klosterlehnin.de/veranstaltungen/2903061/2026/07/03/lehni
+ ner-sommermusiken-inauguration-neue-wegscheider-orgel-in-der-klosterkirch
+ e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903056@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Spanische Nacht
+URL:https://www.klosterlehnin.de/veranstaltungen/2903056/2026/07/03/spani
+ sche-nacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903063@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Lehniner Sommermusiken: Olivier Messiaen - La Nativit&eacute\; du
+  Seigneur
+URL:https://www.klosterlehnin.de/veranstaltungen/2903063/2026/07/03/lehni
+ ner-sommermusiken-olivier-messiaen-la-nativité-du-seigneur.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2783033@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260704
@@ -771,6 +884,33 @@ DTEND;VALUE=DATE:20260706
 SUMMARY:21. Vogelscheuchenfest im Naturdorf Rädel
 URL:https://www.klosterlehnin.de/veranstaltungen/2767115/2026/07/05/21.-v
  ogelscheuchenfest-im-naturdorf-rädel.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903064@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Lehniner Sommermusiken: Eröffnungsgottesdienst
+URL:https://www.klosterlehnin.de/veranstaltungen/2903064/2026/07/05/lehni
+ ner-sommermusiken-eröffnungsgottesdienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903065@amtsfeed.de
+DTSTAMP:20260531T131706Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Lehniner Sommermusiken: Polyverse - Symposium und Konzert
+URL:https://www.klosterlehnin.de/veranstaltungen/2903065/2026/07/05/lehni
+ ner-sommermusiken-polyverse-symposium-und-konzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903069@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Lehniner Sommermusiken: "Polyverse Echoes“
+URL:https://www.klosterlehnin.de/veranstaltungen/2903069/2026/07/05/lehni
+ ner-sommermusiken-polyverse-echoes.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2876232@amtsfeed.de
@@ -818,6 +958,17 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2732905/2026/07/11/malle
  -und-schlagerbums-vol.2.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2903071@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Lehniner Sommermusiken: Bach-Kanal live -  Ich will den Kreuzstab
+  gerne tragen
+URL:https://www.klosterlehnin.de/veranstaltungen/2903071/2026/07/11/lehni
+ ner-sommermusiken-bach-kanal-live-ich-will-den-kreuzstab-gerne-tragen.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2891654@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260712
@@ -834,6 +985,24 @@ DTEND;VALUE=DATE:20260713
 SUMMARY:Familienbande – Morgen wird alles gut
 URL:https://www.klosterlehnin.de/veranstaltungen/2884585/2026/07/12/famil
  ienbande--morgen-wird-alles-gut.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903073@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Lehniner Sommermusiken: Bach-Kantaten-Gottesdienst
+URL:https://www.klosterlehnin.de/veranstaltungen/2903073/2026/07/12/lehni
+ ner-sommermusiken-bach-kantaten-gottesdienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903075@amtsfeed.de
+DTSTAMP:20260531T131706Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Lehniner Sommermusiken: Orgelmatineen
+URL:https://www.klosterlehnin.de/veranstaltungen/2903075/2026/07/12/lehni
+ ner-sommermusiken-orgelmatineen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2833504@amtsfeed.de
@@ -854,6 +1023,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2863736/2026/07/13/1.-so
  mmersportcamp-des-kreissportbundes-potsdam-mittelmark.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2906214@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Lehniner Sommermusiken: Potsdamer Orchesterwoche
+URL:https://www.klosterlehnin.de/veranstaltungen/2906214/2026/07/16/lehni
+ ner-sommermusiken-potsdamer-orchesterwoche.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2884246@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260717
@@ -863,6 +1041,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2884246/2026/07/17/gemei
  nsamer-spieleabend-in-der-feuerwehr.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2906240@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Lehniner Sommermusiken: Sonaten von J. S. Bach
+URL:https://www.klosterlehnin.de/veranstaltungen/2906240/2026/07/18/lehni
+ ner-sommermusiken-sonaten-von-j.-s.-bach.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2850954@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260719
@@ -870,6 +1057,15 @@ DTEND;VALUE=DATE:20260720
 SUMMARY:Eröffnung Sommerausstellung
 URL:https://www.klosterlehnin.de/veranstaltungen/2850954/2026/07/19/eröf
  fnung-sommerausstellung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903079@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Lehniner Sommermusiken: Orgelmatinee
+URL:https://www.klosterlehnin.de/veranstaltungen/2903079/2026/07/19/lehni
+ ner-sommermusiken-orgelmatinee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2887929@amtsfeed.de
@@ -890,6 +1086,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2738744/2026/07/25/volle
  yballmeeting-auf-dem-segelplatz-25.-juli-2026.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2906245@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Lehniner Sommermusiken: Purcell – Träume im Sommer
+URL:https://www.klosterlehnin.de/veranstaltungen/2906245/2026/07/25/lehni
+ ner-sommermusiken-purcell--träume-im-sommer.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2891655@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260726
@@ -906,6 +1111,15 @@ DTEND;VALUE=DATE:20260727
 SUMMARY:Workshop: Constanze Claudia Lorenz: AKTIONSPAINTING AUF 10 METERN
 URL:https://www.klosterlehnin.de/veranstaltungen/2872162/2026/07/26/works
  hop-constanze-claudia-lorenz-aktionspainting-auf-10-metern.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903083@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Lehniner Sommermusiken: Orgelmatinee
+URL:https://www.klosterlehnin.de/veranstaltungen/2903083/2026/07/26/lehni
+ ner-sommermusiken-orgelmatinee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2884247@amtsfeed.de
@@ -935,6 +1149,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2885297/2026/08/01/somme
  rfest-des-heimatvereins.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2903085@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:Lehniner Sommermusiken: Orgelmatinee
+URL:https://www.klosterlehnin.de/veranstaltungen/2903085/2026/08/02/lehni
+ ner-sommermusiken-orgelmatinee.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2891665@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260808
@@ -951,6 +1174,25 @@ DTEND;VALUE=DATE:20260810
 SUMMARY:Workshop: Anke Pradel Schönknecht: STRUKTUREN AUF LEINWAND
 URL:https://www.klosterlehnin.de/veranstaltungen/2872173/2026/08/09/works
  hop-anke-pradel-schönknecht-strukturen-auf-leinwand.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903086@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:Lehniner Sommermusiken: Orgelmatinee
+URL:https://www.klosterlehnin.de/veranstaltungen/2903086/2026/08/09/lehni
+ ner-sommermusiken-orgelmatinee.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2906250@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:Lehniner Sommermusiken: Cor Europae - Tiburtina Frauenvokalensemb
+ le Prag
+URL:https://www.klosterlehnin.de/veranstaltungen/2906250/2026/08/09/lehni
+ ner-sommermusiken-cor-europae-tiburtina-frauenvokalensemble-prag.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2884248@amtsfeed.de
@@ -998,6 +1240,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2891680/2026/08/15/offen
  e-gärten-rietzer-berg.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2906251@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Lehniner Sommermusiken: Marianische Reflexionen
+URL:https://www.klosterlehnin.de/veranstaltungen/2906251/2026/08/15/lehni
+ ner-sommermusiken-marianische-reflexionen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2891684@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260816
@@ -1005,6 +1256,15 @@ DTEND;VALUE=DATE:20260817
 SUMMARY:Konzert Alaa Zouiten
 URL:https://www.klosterlehnin.de/veranstaltungen/2891684/2026/08/16/konze
  rt-alaa-zouiten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903087@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Lehniner Sommermusiken: Orgelmatinee
+URL:https://www.klosterlehnin.de/veranstaltungen/2903087/2026/08/16/lehni
+ ner-sommermusiken-orgelmatinee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2833506@amtsfeed.de
@@ -1023,6 +1283,15 @@ DTEND;VALUE=DATE:20260824
 SUMMARY:Der kleine Prinz
 URL:https://www.klosterlehnin.de/veranstaltungen/2891687/2026/08/23/der-k
  leine-prinz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903088@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Lehniner Sommermusiken: Orgelmatinee
+URL:https://www.klosterlehnin.de/veranstaltungen/2903088/2026/08/23/lehni
+ ner-sommermusiken-orgelmatinee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2884249@amtsfeed.de
@@ -1052,6 +1321,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2785044/2026/08/29/somme
  rfest.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2906253@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Lehniner Sommermusiken: „Paradiesgarten“
+URL:https://www.klosterlehnin.de/veranstaltungen/2906253/2026/08/29/lehni
+ ner-sommermusiken-paradiesgarten.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2856212@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260830
@@ -1068,6 +1346,15 @@ DTEND;VALUE=DATE:20260831
 SUMMARY:Martina Breyer: KUNSTWERKE MIT KREATIVEN EXPERIMENTEN
 URL:https://www.klosterlehnin.de/veranstaltungen/2884188/2026/08/30/marti
  na-breyer-kunstwerke-mit-kreativen-experimenten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903089@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Lehniner Sommermusiken: Orgelmatinee
+URL:https://www.klosterlehnin.de/veranstaltungen/2903089/2026/08/30/lehni
+ ner-sommermusiken-orgelmatinee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2846455@amtsfeed.de
@@ -1095,6 +1382,24 @@ DTEND;VALUE=DATE:20260906
 SUMMARY:Jazz-Festival
 URL:https://www.klosterlehnin.de/veranstaltungen/2850956/2026/09/05/jazz-
  festival.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2906254@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Lehniner Sommermusiken: Trance &amp\; Rhythm
+URL:https://www.klosterlehnin.de/veranstaltungen/2906254/2026/09/05/lehni
+ ner-sommermusiken-trance-amp-rhythm.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903091@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Lehniner Sommermusiken: Orgelmatinee
+URL:https://www.klosterlehnin.de/veranstaltungen/2903091/2026/09/06/lehni
+ ner-sommermusiken-orgelmatinee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2884250@amtsfeed.de
@@ -1187,6 +1492,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2884193/2026/09/13/kurs-
  andrea-tuve-weidepapierlicht.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2903092@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Lehniner Sommermusiken: Orgelmatinee
+URL:https://www.klosterlehnin.de/veranstaltungen/2903092/2026/09/13/lehni
+ ner-sommermusiken-orgelmatinee.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2850959@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260916
@@ -1224,6 +1538,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2821062/2026/09/19/kinde
  rfest-antik-und-flohmarkt.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2906255@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Lehniner Sommermusiken: Das Narrenschiff
+URL:https://www.klosterlehnin.de/veranstaltungen/2906255/2026/09/19/lehni
+ ner-sommermusiken-das-narrenschiff.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2884199@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260920
@@ -1240,6 +1563,15 @@ DTEND;VALUE=DATE:20260921
 SUMMARY:Workshop: Das Feuer in dir
 URL:https://www.klosterlehnin.de/veranstaltungen/2891704/2026/09/20/works
  hop-das-feuer-in-dir.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2903093@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Lehniner Sommermusiken: Orgelmatinee
+URL:https://www.klosterlehnin.de/veranstaltungen/2903093/2026/09/20/lehni
+ ner-sommermusiken-orgelmatinee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2782994@amtsfeed.de
@@ -1267,6 +1599,15 @@ DTEND;VALUE=DATE:20260927
 SUMMARY:Herbstputz in Prützke
 URL:https://www.klosterlehnin.de/veranstaltungen/2864178/2026/09/26/herbs
  tputz-in-prützke.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2906259@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Lehniner Sommermusiken: Monteverdis Marienvesper
+URL:https://www.klosterlehnin.de/veranstaltungen/2906259/2026/09/26/lehni
+ ner-sommermusiken-monteverdis-marienvesper.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2884251@amtsfeed.de
@@ -1594,5 +1935,23 @@ DTEND;VALUE=DATE:20261227
 SUMMARY:Weihnachtsfrühschoppen
 URL:https://www.klosterlehnin.de/veranstaltungen/2785050/2026/12/26/weihn
  achtsfrühschoppen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2899453@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Sportabzeichentag 2027 in Lehnin - avisierter Termin!
+URL:https://www.klosterlehnin.de/veranstaltungen/2899453/2027/04/24/sport
+ abzeichentag-2027-in-lehnin-avisierter-termin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2899393@amtsfeed.de
+DTSTAMP:20260526T090459Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Sportabzeichentag 2027
+URL:https://www.klosterlehnin.de/veranstaltungen/2899393/2027/04/24/sport
+ abzeichentag-2027.html
 END:VEVENT
 END:VCALENDAR

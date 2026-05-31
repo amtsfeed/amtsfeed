@@ -667,6 +667,33 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99167653@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260526T090513Z
+SUMMARY:Rundfahrt nach Potsdam
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99167653
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99167832@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260526T090513Z
+SUMMARY:Kleine Seenrundfahrt
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99167832
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193397@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260526T090513Z
+SUMMARY:Senioren Café in Phöben
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193397
+LOCATION:Alte Schule in Phöben
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99188359@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260526T180000Z
@@ -676,24 +703,6 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:Havel-Therme
 END:VEVENT
 BEGIN:VEVENT
-UID:werder-havel-event-99167653@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260527T103000Z
-SUMMARY:Rundfahrt nach Potsdam
-URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
- alender.html?eventid=99167653
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99167832@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260527T140000Z
-SUMMARY:Kleine Seenrundfahrt
-URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
- alender.html?eventid=99167832
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
 UID:werder-havel-event-99170427@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260528T130000Z
@@ -701,6 +710,15 @@ SUMMARY:Nicole Heinzel - Was ist das eigentlich da draußen?
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99170427
 LOCATION:Stadtgalerie KUNST-GESCHOSS
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193337@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260528T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193337
+LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167655@amtsfeed.de
@@ -745,6 +763,15 @@ DTSTART:20260530T090000Z
 SUMMARY:Antik- & Kreativmarkt
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99139683
+LOCATION:EKZ Werderpark
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99191158@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260530T090000Z
+SUMMARY:Kreativ- & Antikmarkt
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99191158
 LOCATION:EKZ Werderpark
 END:VEVENT
 BEGIN:VEVENT
@@ -822,8 +849,8 @@ LOCATION:Marktplatz Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99102435@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260531T100000Z
+DTSTAMP:20260531T131725Z
+DTSTART:20260531T131725Z
 SUMMARY:Rittmeisters Brunch
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99102435
@@ -831,8 +858,8 @@ LOCATION:Hotel "Zum Rittmeister"
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99139337@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260531T100000Z
+DTSTAMP:20260531T131725Z
+DTSTART:20260531T131725Z
 SUMMARY:Kunst-Workshop "Einführung in die Gartenillustration"
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99139337
@@ -840,8 +867,8 @@ LOCATION:Schlossgarten Petzow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167657@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260531T103000Z
+DTSTAMP:20260531T131725Z
+DTSTART:20260531T131725Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167657
@@ -849,8 +876,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99128683@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260531T110000Z
+DTSTAMP:20260531T131725Z
+DTSTART:20260531T131725Z
 SUMMARY:"Kraftfeld"
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99128683
@@ -858,8 +885,8 @@ LOCATION:Kulturkirche Petzow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99135595@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260531T130000Z
+DTSTAMP:20260531T131725Z
+DTSTART:20260531T131725Z
 SUMMARY:„Die Schoßeule“ - Klaus Zylla
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99135595
@@ -867,8 +894,8 @@ LOCATION:Christian-Morgenstern Museum
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99170429@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260531T130000Z
+DTSTAMP:20260531T131725Z
+DTSTART:20260531T131725Z
 SUMMARY:Nicole Heinzel - Was ist das eigentlich da draußen?
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99170429
@@ -876,8 +903,8 @@ LOCATION:Stadtgalerie KUNST-GESCHOSS
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167836@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260531T140000Z
+DTSTAMP:20260531T131725Z
+DTSTART:20260531T131725Z
 SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167836
@@ -885,8 +912,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99118212@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260531T150000Z
+DTSTAMP:20260531T131725Z
+DTSTART:20260531T131725Z
 SUMMARY:„Scherben“ Renaissance–Barock-Folk-ART der Gruppe "ANTIQUA"
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99118212
@@ -947,6 +974,33 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:Stadtgalerie KUNST-GESCHOSS
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193331@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260604T170000Z
+SUMMARY:Flower Hour: dein eigener Strauß\, frisch vom Feld
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193331
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193338@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260604T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193338
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99197321@amtsfeed.de
+DTSTAMP:20260531T131725Z
+DTSTART:20260604T180000Z
+SUMMARY:Luz y Muzicá - Livemusik mit Anatol Reinke
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99197321
+LOCATION:Havel-Therme
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99139356@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260605T180000Z
@@ -975,9 +1029,10 @@ LOCATION:Kulturkirche Petzow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99126130@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260606T130000Z
-SUMMARY:Dorffest am Lilienthaldenkmal
+DTSTAMP:20260531T131725Z
+DTSTART:20260606T113000Z
+SUMMARY:Dorffest am Lilienthaldenkmal - 135. Jahrestag „erster Menschen
+ flug“
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99126130
 LOCATION:Lilienthaldenkmal
@@ -1017,6 +1072,15 @@ SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167958
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99194861@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260606T180000Z
+SUMMARY:Hafenkino
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99194861
+LOCATION:Marina Havelauen
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99113839@amtsfeed.de
@@ -1089,6 +1153,16 @@ SUMMARY:Die große Insel Potsdam
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99168053
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193323@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260609T183000Z
+SUMMARY:Werderaner Gespräch - Zum ökologischen Zustand der Brandenburge
+ r Seen / Vortrag von Dr....
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193323
+LOCATION:Schützenhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99127108@amtsfeed.de
@@ -1172,6 +1246,15 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193339@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260611T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193339
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99139333@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260612T100000Z
@@ -1181,13 +1264,58 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:Schlossgarten Petzow
 END:VEVENT
 BEGIN:VEVENT
-UID:werder-havel-event-99188746@amtsfeed.de
-DTSTAMP:20260506T202147Z
+UID:werder-havel-event-99197323@amtsfeed.de
+DTSTAMP:20260531T131725Z
 DTSTART:20260612T170000Z
+SUMMARY:"Orientalische Nacht" mit Bauchtanz-Show
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99197323
+LOCATION:Havel-Therme
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99188746@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260612T190000Z
 SUMMARY:Blues im Garten Festival
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99188746
 LOCATION:B29
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193370@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260613T080000Z
+SUMMARY:Reitturnier in Phöben: Dressur und Springen hautnah erleben
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193370
+LOCATION:Reitanlage Pappelhof
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193427@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260613T100000Z
+SUMMARY:Brandenburger Landpartie - Sanddorn-Garten Petzow
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193427
+LOCATION:Sanddorn-Garten
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193429@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260613T100000Z
+SUMMARY:Brandenburger Landpartie - Werderaner Tannenhof
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193429
+LOCATION:Werderaner Tannenhof
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193438@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260613T100000Z
+SUMMARY:Brandenburger Landpartie - Streuobst-Seiffert
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193438
+LOCATION:Streuobst-Seiffert
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167666@amtsfeed.de
@@ -1262,6 +1390,15 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99188748@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260613T160000Z
+SUMMARY:Blues im Garten Festival
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99188748
+LOCATION:B29
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99113989@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260613T170000Z
@@ -1271,13 +1408,40 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:Insel Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
-UID:werder-havel-event-99188748@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260613T170000Z
-SUMMARY:Blues im Garten Festival
+UID:werder-havel-event-99193371@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260614T080000Z
+SUMMARY:Reitturnier in Phöben: Dressur und Springen hautnah erleben
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
- alender.html?eventid=99188748
-LOCATION:B29
+ alender.html?eventid=99193371
+LOCATION:Reitanlage Pappelhof
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193428@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260614T100000Z
+SUMMARY:Brandenburger Landpartie - Sanddorn-Garten Petzow
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193428
+LOCATION:Sanddorn-Garten
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193430@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260614T100000Z
+SUMMARY:Brandenburger Landpartie - Werderaner Tannenhof
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193430
+LOCATION:Werderaner Tannenhof
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193439@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260614T100000Z
+SUMMARY:Brandenburger Landpartie - Streuobst-Seiffert
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193439
+LOCATION:Streuobst-Seiffert
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167667@amtsfeed.de
@@ -1305,6 +1469,15 @@ SUMMARY:"Kraftfeld"
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99128687
 LOCATION:Kulturkirche Petzow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99188747@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260614T110000Z
+SUMMARY:Blues im Garten Festival
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99188747
+LOCATION:B29
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99135599@amtsfeed.de
@@ -1352,13 +1525,22 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
-UID:werder-havel-event-99188747@amtsfeed.de
-DTSTAMP:20260506T202147Z
-DTSTART:20260614T170000Z
-SUMMARY:Blues im Garten Festival
+UID:werder-havel-event-99193080@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260615T190000Z
+SUMMARY:Die Krise als Chance und Herausforderung
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
- alender.html?eventid=99188747
-LOCATION:B29
+ alender.html?eventid=99193080
+LOCATION:Kräutermanufaktur Kasimir & Lieselotte
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99191177@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260616T140000Z
+SUMMARY:Seniorentag auf der Insel
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99191177
+LOCATION:Schützenhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99116126@amtsfeed.de
@@ -1398,6 +1580,15 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99197042@amtsfeed.de
+DTSTAMP:20260531T131725Z
+DTSTART:20260617T183000Z
+SUMMARY:Vortragsabend mit Annegret Kiesow
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99197042
+LOCATION:Gahe Juwele
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167669@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260618T103000Z
@@ -1434,6 +1625,24 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193340@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260618T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193340
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99197322@amtsfeed.de
+DTSTAMP:20260531T131725Z
+DTSTART:20260618T180000Z
+SUMMARY:"Beats unter Palmen" | DJ-Night mit Bertram Denzel
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99197322
+LOCATION:Havel-Therme
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99127705@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260619T190000Z
@@ -1461,6 +1670,15 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:EKZ Werderpark
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99191159@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260620T090000Z
+SUMMARY:Kreativ- & Antikmarkt
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99191159
+LOCATION:EKZ Werderpark
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167671@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260620T103000Z
@@ -1468,6 +1686,24 @@ SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167671
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99196845@amtsfeed.de
+DTSTAMP:20260531T131725Z
+DTSTART:20260620T103000Z
+SUMMARY:Segelregatta Havelpokal
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99196845
+LOCATION:Havel vor der Insel Werder und Schwielowsee
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99190519@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260620T110000Z
+SUMMARY:2. Aktionstag – Kräuterkraft
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99190519
+LOCATION:Heimatverein Glindow e.V. im Heimatmuseum Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99170437@amtsfeed.de
@@ -1486,6 +1722,15 @@ SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167850
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99191199@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260620T140000Z
+SUMMARY:35 Jahre Waldorf Werder
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99191199
+LOCATION:Freie Waldorfschule Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167968@amtsfeed.de
@@ -1534,6 +1779,15 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99196846@amtsfeed.de
+DTSTAMP:20260531T131725Z
+DTSTART:20260621T103000Z
+SUMMARY:Segelregatta Havelpokal
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99196846
+LOCATION:Havel vor der Insel Werder und Schwielowsee
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99128703@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260621T110000Z
@@ -1568,6 +1822,15 @@ SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167969
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193093@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260621T170000Z
+SUMMARY:Chorkonzert
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193093
+LOCATION:Heilig-Geist-Kirche
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167673@amtsfeed.de
@@ -1622,6 +1885,15 @@ SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167971
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193341@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260625T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193341
+LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167675@amtsfeed.de
@@ -1694,6 +1966,25 @@ SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167973
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99197065@amtsfeed.de
+DTSTAMP:20260531T131725Z
+DTSTART:20260627T170000Z
+SUMMARY:Sommerkonzert der "Klangkirschen"
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99197065
+LOCATION:Katholische Kirche Maria Meeresstern
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99194178@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260627T180000Z
+SUMMARY:SOMMERTHEATER an der Tourist-Information Werder (Havel) | „Der 
+ eingebildete Kranke“
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99194178
+LOCATION:Tourist-Information Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167677@amtsfeed.de
@@ -1804,6 +2095,24 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193332@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260702T170000Z
+SUMMARY:Flower Hour: dein eigener Strauß\, frisch vom Feld
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193332
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193342@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260702T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193342
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167680@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260703T103000Z
@@ -1865,6 +2174,15 @@ SUMMARY:5 Jahre Havel-Therme | Jubiläumswochenende
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99188074
 LOCATION:Havel-Therme
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99191160@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260704T090000Z
+SUMMARY:Kreativ- & Antikmarkt
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99191160
+LOCATION:EKZ Werderpark
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167681@amtsfeed.de
@@ -2093,6 +2411,15 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193343@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260709T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193343
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167685@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260710T103000Z
@@ -2274,6 +2601,15 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193344@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260716T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193344
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167691@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260718T103000Z
@@ -2290,6 +2626,15 @@ SUMMARY:"Only Human"
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99128710
 LOCATION:Kulturkirche Petzow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99190520@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260718T110000Z
+SUMMARY:3. Aktionstag – Kulinarische Kräuter-Genüsse
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99190520
+LOCATION:Heimatverein Glindow e.V. im Heimatmuseum Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99139344@amtsfeed.de
@@ -2425,6 +2770,15 @@ SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167990
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193345@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260723T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193345
+LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167695@amtsfeed.de
@@ -2616,6 +2970,15 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193346@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260730T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193346
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167700@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260731T103000Z
@@ -2785,6 +3148,24 @@ SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99168001
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193333@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260806T170000Z
+SUMMARY:Flower Hour: dein eigener Strauß\, frisch vom Feld
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193333
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193347@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260806T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193347
+LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167705@amtsfeed.de
@@ -2983,6 +3364,15 @@ SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99168006
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193348@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260813T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193348
+LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99139339@amtsfeed.de
@@ -3192,12 +3582,30 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193349@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260820T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193349
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99139686@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260822T090000Z
 SUMMARY:Antik- & Kreativmarkt
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99139686
+LOCATION:EKZ Werderpark
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99191161@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260822T090000Z
+SUMMARY:Kreativ- & Antikmarkt
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99191161
 LOCATION:EKZ Werderpark
 END:VEVENT
 BEGIN:VEVENT
@@ -3336,6 +3744,15 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193350@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260827T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193350
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167720@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260828T103000Z
@@ -3397,6 +3814,15 @@ SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99168018
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99190521@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260829T180000Z
+SUMMARY:4. Aktionstag – Kräuterzauber nachts im Museum
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99190521
+LOCATION:Heimatverein Glindow e.V. im Heimatmuseum Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99113845@amtsfeed.de
@@ -3507,6 +3933,24 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193334@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260903T170000Z
+SUMMARY:Flower Hour: dein eigener Strauß\, frisch vom Feld
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193334
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193351@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260903T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193351
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167725@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260904T103000Z
@@ -3604,6 +4048,15 @@ SUMMARY:Nachtwächterrundgang
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99113833
 LOCATION:Insel Werder (Havel)
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99191180@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260905T190000Z
+SUMMARY:WOYZECK von Büchner
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99191180
+LOCATION:Festwiese am Jahnufer
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167727@amtsfeed.de
@@ -3714,6 +4167,15 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193352@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260910T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193352
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167730@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260911T103000Z
@@ -3766,6 +4228,15 @@ SUMMARY:"Feldsteinkirchen im Fläming"
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99128732
 LOCATION:Kulturkirche Petzow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99190522@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260912T110000Z
+SUMMARY:5. Aktionstag – Wildkräuter entdecken
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99190522
+LOCATION:Heimatverein Glindow e.V. im Heimatmuseum Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99135621@amtsfeed.de
@@ -3929,6 +4400,15 @@ SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99168031
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193353@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260917T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193353
+LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99139687@amtsfeed.de
@@ -4136,6 +4616,15 @@ SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99168036
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193354@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20260924T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193354
+LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167740@amtsfeed.de
@@ -4354,6 +4843,24 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193335@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20261001T170000Z
+SUMMARY:Flower Hour: dein eigener Strauß\, frisch vom Feld
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193335
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193355@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20261001T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193355
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167745@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20261002T103000Z
@@ -4516,6 +5023,15 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99193356@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20261008T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193356
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167750@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20261009T103000Z
@@ -4667,6 +5183,15 @@ SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167933
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193357@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20261015T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193357
+LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167755@amtsfeed.de
@@ -4832,6 +5357,15 @@ SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167938
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193358@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20261022T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193358
+LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167760@amtsfeed.de
@@ -5003,6 +5537,15 @@ SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99167943
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193359@amtsfeed.de
+DTSTAMP:20260526T090513Z
+DTSTART:20261029T170000Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
+ alender.html?eventid=99193359
+LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167765@amtsfeed.de

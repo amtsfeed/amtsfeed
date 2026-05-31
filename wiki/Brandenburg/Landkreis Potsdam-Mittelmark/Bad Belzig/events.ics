@@ -18,15 +18,6 @@ URL:https://www.bad-belzig.de/veranstaltungen/2888350/2026/05/06/frühst
  l
 END:VEVENT
 BEGIN:VEVENT
-UID:bad-belzig-event-2878242@amtsfeed.de
-DTSTAMP:20260506T202250Z
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-SUMMARY:Starke Eltern\, starke Kinder
-URL:https://www.bad-belzig.de/veranstaltungen/2878242/2026/05/12/starke-e
- ltern-starke-kinder.html
-END:VEVENT
-BEGIN:VEVENT
 UID:bad-belzig-event-2847999@amtsfeed.de
 DTSTAMP:20260506T202250Z
 DTSTART;VALUE=DATE:20260512
@@ -136,6 +127,15 @@ URL:https://www.bad-belzig.de/veranstaltungen/2834703/2026/05/31/komödia
  ntisch-ernsthafte-lesung-mit-thomas-nicolai.html
 END:VEVENT
 BEGIN:VEVENT
+UID:bad-belzig-event-2878242@amtsfeed.de
+DTSTAMP:20260531T131700Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Starke Eltern\, starke Kinder
+URL:https://www.bad-belzig.de/veranstaltungen/2878242/2026/06/02/starke-e
+ ltern-starke-kinder.html
+END:VEVENT
+BEGIN:VEVENT
 UID:bad-belzig-event-2896063@amtsfeed.de
 DTSTAMP:20260506T202250Z
 DTSTART;VALUE=DATE:20260603
@@ -143,6 +143,24 @@ DTEND;VALUE=DATE:20260604
 SUMMARY:Frühstückstreff Lebenswer(t)k mit Gedächtnistraining
 URL:https://www.bad-belzig.de/veranstaltungen/2896063/2026/06/03/frühst
  ückstreff-lebenswertk-mit-gedächtnistraining.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-belzig-event-2908234@amtsfeed.de
+DTSTAMP:20260531T131700Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Frühstückstreff Lebenswer(t)k mit Kochworkshop
+URL:https://www.bad-belzig.de/veranstaltungen/2908234/2026/06/10/frühst
+ ückstreff-lebenswertk-mit-kochworkshop.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-belzig-event-2908240@amtsfeed.de
+DTSTAMP:20260531T131700Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Götz Aly liest im Roger Loewig Haus
+URL:https://www.bad-belzig.de/veranstaltungen/2908240/2026/06/21/götz-al
+ y-liest-im-roger-loewig-haus.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bad-belzig-event-2896064@amtsfeed.de
@@ -172,5 +190,14 @@ DTEND;VALUE=DATE:20260727
 SUMMARY:Franziska Troegner - Hässlich biste nich\, aba schön is anders
 URL:https://www.bad-belzig.de/veranstaltungen/2843540/2026/07/26/franzisk
  a-troegner-hässlich-biste-nich-aba-schön-is-anders.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-belzig-event-2908237@amtsfeed.de
+DTSTAMP:20260531T131700Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:10. Kunstbummel Bad Belzig
+URL:https://www.bad-belzig.de/veranstaltungen/2908237/2026/08/22/10.-kuns
+ tbummel-bad-belzig.html
 END:VEVENT
 END:VCALENDAR

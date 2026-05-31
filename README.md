@@ -22,6 +22,7 @@ Viele Ämter, Gemeinden und Städte veröffentlichen Veranstaltungen, Pressemitt
 | Brandenburg  | Landkreis Dahme-Spreewald    | Amt Schenkenländchen, Bestensee, Eichwalde, Heideblick, Heidesee, Lübben (Spreewald), Luckau, Märkische Heide, Mittenwalde, Schönefeld, Schulzendorf, Wildau, Zeuthen                                                                                                             |
 | Brandenburg  | Landkreis Elbe-Elster        | Amt Kleine Elster (Niederlausitz), Amt Plessa, Amt Schlieben, Amt Schradenland, Bad Liebenwerda, Doberlug-Kirchhain, Elsterwerda, Finsterwalde, Herzberg (Elster), Röderland, Sonnewalde, Uebigau-Wahrenbrück, Verbandsgemeinde Bad Liebenwerda                                    |
 | Brandenburg  | Landkreis Havelland          | Amt Friesack, Amt Nennhausen, Amt Rhinow, Brieselang, Dallgow-Döberitz, Falkensee, Ketzin/Havel, Milower Land, Nauen, Premnitz, Rathenow, Schönwalde-Glien, Wustermark                                                                                                            |
+| Brandenburg  | Landkreis Oberspreewald-Lausitz | Amt Altdöbern, Amt Ortrand, Amt Ruhland, Calau, Großräschen, Lauchhammer, Lübbenau/Spreewald, Schipkau, Schwarzheide, Senftenberg, Vetschau/Spreewald                                                                                                                          |
 
 ## Datenstruktur
 
@@ -108,31 +109,47 @@ pnpm append-update-log
 ```bash
 pnpm run-all-scrapers
 pnpm normalize-updated-at   # nur echte Inhaltsänderungen behalten
+pnpm generate-rss           # rss.xml aus normalisierten JSONs
+pnpm generate-ical          # events.ics aus normalisierten JSONs
 pnpm append-update-log      # neuen Block in UPDATES.md schreiben
 ```
 
 ### Vollständiger Tagesupdate-Workflow
 
-Wer das Datenset auf den aktuellen Stand bringen will (z.B. ein Update-Agent), führt **diese vier Schritte in genau dieser Reihenfolge** aus — keine Zwischenschritte, keine zusätzlichen Entscheidungen:
+Wer das Datenset auf den aktuellen Stand bringen will (z.B. ein Update-Agent), führt **diese sechs Schritte in genau dieser Reihenfolge** aus — keine Zwischenschritte, keine zusätzlichen Entscheidungen:
 
 ```bash
-# 1. Alle Scraper sequenziell laufen lassen (~10 Min für ~115 Scraper)
+# 1. Alle Scraper sequenziell laufen lassen (~10 Min für ~125 Scraper)
 pnpm run-all-scrapers
 
 # 2. updatedAt-Felder zurücksetzen, wo sich am Inhalt nichts geändert hat
 pnpm normalize-updated-at
 
-# 3. Änderungs-Log eintragen (schreibt nur, wenn echte Inhaltsdiffs existieren)
+# 3. RSS-Feeds neu generieren (aus den normalisierten JSON-Daten)
+pnpm generate-rss
+
+# 4. iCalendar-Feeds neu generieren
+pnpm generate-ical
+
+# 5. Änderungs-Log eintragen (schreibt nur, wenn echte Inhaltsdiffs existieren)
 pnpm append-update-log
 
-# 4. Alles in einem Commit festhalten — Datum im ISO-Format YYYY-MM-DD
+# 6. Alles in einem Commit festhalten — Datum im ISO-Format YYYY-MM-DD
 git add -A
 git commit -m "chore: update $(date +%Y-%m-%d)"
 ```
 
-Schritt 4 hat keinen Tippfehler-Spielraum: die Commit-Message ist **immer** `chore: update YYYY-MM-DD` mit dem heutigen Datum (durch `$(date +%Y-%m-%d)` automatisch). Wenn `pnpm run-all-scrapers` Failures meldet (Exit-Code 1) oder eine Kategorie auf 0 abfällt, wird **nicht commitet** — stattdessen die betroffene Quelle im Scraper reparieren und erneut laufen lassen.
+**Warum diese Reihenfolge:**
 
-Wenn der Working Tree nach Schritt 2 leer ist (keine inhaltlichen Diffs), entfallen Schritte 3 und 4 — es gibt nichts zu commiten.
+- **2 vor 3+4:** `generate-rss`/`generate-ical` lesen die JSON-Dateien (inkl. `updatedAt`/`fetchedAt`) und schreiben sie in die Feed-Dateien. Ohne vorheriges `normalize-updated-at` würden RSS und iCal bei jedem Lauf neue Timestamps enthalten, selbst wenn sich nichts geändert hat — und damit unnötige Feed-Diffs erzeugen.
+- **3+4 vor 5:** Damit Feed-Änderungen (`rss.xml`, `events.ics`) ebenfalls Teil desselben Commits werden. `append-update-log` selbst betrachtet nur JSON-Dateien — die Feed-Files fließen in den Commit, werden aber nicht im Log gezählt.
+- **5 vor 6:** Damit `UPDATES.md` zusammen mit den eigentlichen Datenänderungen in einem Commit landet, nicht als Nachzügler.
+
+**Abbruchbedingungen:**
+
+- Wenn `pnpm run-all-scrapers` Failures meldet (Exit-Code 1) oder eine Kategorie auf 0 abfällt → **nicht commiten**; betroffene Quelle reparieren und erneut laufen lassen.
+- Wenn der Working Tree nach Schritt 2 leer ist (keine inhaltlichen JSON-Diffs) → Schritte 3–6 entfallen, es gibt nichts zu commiten.
+- Die Commit-Message ist **immer** `chore: update YYYY-MM-DD` mit dem heutigen Datum (durch `$(date +%Y-%m-%d)` automatisch).
 
 ### `scripts/run-all-scrapers.ts`
 

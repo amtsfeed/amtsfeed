@@ -1,0 +1,432 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//amtsfeed//amtsfeed//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Amt Ortrand
+X-WR-CALDESC:Amtliche Veranstaltungen für Amt Ortrand
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ortrand-event-2026-06-05-ortrand-17-amtsseniorentag@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Ortrand - 17. Amtsseniorentag
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-06-06-frauendorf-kindertagsparty@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Frauendorf - Kindertagsparty
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-06-06-ortrand-buergertag-fuer-eine-offene-verwaltu
+ ng-der-buerger-s@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Ortrand - Bürgertag - Für eine offene Verwaltung – der Bürge
+ r steht im Mittelpunkt.
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-06-13-lindenau-100-jahre-freiwillige-feuerwehr@amt
+ sfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Lindenau - 100 Jahre freiwillige Feuerwehr
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-06-13-ortrand-freibadfest-mit-6-weinlauf@amtsfeed.
+ de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Ortrand - Freibadfest mit 6. Weinlauf
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-06-20-tettau-sommerparty@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Tettau - Sommerparty
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-06-26-grosskmehlen-kmehlen-klaenge-openair@amtsfee
+ d.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Großkmehlen - Kmehlen Klänge OpenAir
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-06-27-grosskmehlen-sport-und-kinderfest@amtsfeed.d
+ e
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Großkmehlen - Sport- und Kinderfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-06-27-kroppen-park-und-dorffest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Kroppen - Park- und Dorffest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-06-28-grosskmehlen-sport-und-kinderfest@amtsfeed.d
+ e
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Großkmehlen - Sport- und Kinderfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-06-28-kroppen-park-und-dorffest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Kroppen - Park- und Dorffest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-07-05-tettau-70-jahre-martin-luther-haus@amtsfeed.
+ de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Tettau - 70 Jahre Martin-Luther-Haus
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-07-08-tettau-sportfest-80-jahre-tsg-tettau@amtsfee
+ d.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:Tettau - Sportfest 80 Jahre TSG Tettau
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-07-09-tettau-sportfest-80-jahre-tsg-tettau@amtsfee
+ d.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Tettau - Sportfest 80 Jahre TSG Tettau
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-07-10-lindenau-mallorca-openair@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Lindenau - Mallorca OpenAir
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-07-10-tettau-sportfest-80-jahre-tsg-tettau@amtsfee
+ d.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Tettau - Sportfest 80 Jahre TSG Tettau
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-07-11-tettau-sportfest-80-jahre-tsg-tettau@amtsfee
+ d.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Tettau - Sportfest 80 Jahre TSG Tettau
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-07-12-tettau-sportfest-80-jahre-tsg-tettau@amtsfee
+ d.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Tettau - Sportfest 80 Jahre TSG Tettau
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-08-01-kleinkmehlen-sommerfest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Kleinkmehlen - Sommerfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-08-21-frauendorf-tag-der-oberlausitz@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Frauendorf - Tag der Oberlausitz
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-08-23-lindenau-kaffeeklatsch@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Lindenau - Kaffeeklatsch
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-08-29-frauwalde-dorffest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Frauwalde - Dorffest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-08-29-ortrand-100-jahre-freibad-ortrand@amtsfeed.d
+ e
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Ortrand - 100 Jahre Freibad Ortrand
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-08-30-frauwalde-dorffest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Frauwalde - Dorffest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-05-grosskmehlen-76-autocross-am-kutschenberg@am
+ tsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Großkmehlen - 76. Autocross am Kutschenberg
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-05-tettau-sommerkino@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Tettau - Sommerkino
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-06-grosskmehlen-76-autocross-am-kutschenberg@am
+ tsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Großkmehlen - 76. Autocross am Kutschenberg
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-06-tettau-nussgarten@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Tettau - Nussgarten
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-11-frauendorf-sportfest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Frauendorf - Sportfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-12-frauendorf-sportfest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Frauendorf - Sportfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-12-grosskmehlen-schloss-und-hopfenfest@amtsfeed
+ .de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Großkmehlen - Schloss- und Hopfenfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-13-frauendorf-sportfest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Frauendorf - Sportfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-13-grosskmehlen-schloss-und-hopfenfest@amtsfeed
+ .de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Großkmehlen - Schloss- und Hopfenfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-13-ortrand-tag-des-offenen-denkmals@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Ortrand - Tag des offenen Denkmals
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-14-kroppen-verkehrsteilnehmerschulung@amtsfeed.
+ de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Kroppen - Verkehrsteilnehmerschulung
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-19-frauendorf-weinfest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Frauendorf - Weinfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-19-lindenau-amtsfeuerwehrtag@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Lindenau - Amtsfeuerwehrtag
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-19-ortrand-musikbarett-schwarze-gruetze@amtsfee
+ d.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Ortrand - Musikbarett Schwarze Grütze
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-26-ortrand-rockkonzert-frank-out@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Ortrand - Rockkonzert Frank OUT!
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-09-27-tettau-drachenfest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Tettau - Drachenfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-10-03-kroppen-schlachtefest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Kroppen - Schlachtefest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-10-03-lindenau-8-garagenfest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Lindenau - 8. Garagenfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-10-03-ortrand-drachenfest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Ortrand - Drachenfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-10-03-tettau-oktoberfest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Tettau - Oktoberfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-10-04-kroppen-erntedankfest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Kroppen - Erntedankfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-10-10-frauendorf-43-bauernmarkt-mit-traktortreffen
+ @amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Frauendorf - 43. Bauernmarkt mit Traktortreffen
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-10-10-tettau-herbstfest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Tettau - Herbstfest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-10-12-frauendorf-fruehshoppen-zur-kirmes@amtsfeed.
+ de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Frauendorf - Frühshoppen zur Kirmes
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-10-17-ortrand-thunder-road-bruce-springsteen-abend
+ @amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Ortrand - Thunder Road (Bruce Springsteen Abend)
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+BEGIN:VEVENT
+UID:ortrand-event-2026-10-17-tettau-schlachtefest@amtsfeed.de
+DTSTAMP:20260531T184155Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Tettau - Schlachtefest
+URL:https://www.amt-ortrand.de/veranstaltungen
+END:VEVENT
+END:VCALENDAR

@@ -127,10 +127,15 @@ function extractEventsFromRss(xml: string): Event[] {
     if (seen.has(id)) continue;
     seen.add(id);
 
-    const startDateTime = startHour ? `${startDate}T${startHour}:00.000Z` : `${startDate}T00:00:00.000Z`;
+    // MEC liefert teilweise einstellige Stunden ("9:30") — auf "HH:MM" normalisieren
+    const padHour = (h: string): string => {
+      const m = h.match(/^(\d{1,2}):(\d{2})$/);
+      return m ? `${m[1]!.padStart(2, "0")}:${m[2]}` : h;
+    };
+    const startDateTime = startHour ? `${startDate}T${padHour(startHour)}:00.000Z` : `${startDate}T00:00:00.000Z`;
     const location = locationMatch ? decodeHtmlEntities(locationMatch[1]!.trim()) : undefined;
     let endDateTime: string | undefined;
-    if (endDate) endDateTime = endHour ? `${endDate}T${endHour}:00.000Z` : `${endDate}T00:00:00.000Z`;
+    if (endDate) endDateTime = endHour ? `${endDate}T${padHour(endHour)}:00.000Z` : `${endDate}T00:00:00.000Z`;
 
     items.push({
       id,

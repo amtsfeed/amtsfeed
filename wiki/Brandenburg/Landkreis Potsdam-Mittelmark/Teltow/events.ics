@@ -44,15 +44,6 @@ URL:https://www.teltow.de/veranstaltungen/2878519/2026/05/07/der-pc-senio
  r.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2699683@amtsfeed.de
-DTSTAMP:20260506T181553Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:Repair Caf&eacute\; Teltow
-URL:https://www.teltow.de/veranstaltungen/2699683/2026/05/07/repair-café
- -teltow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2873969@amtsfeed.de
 DTSTAMP:20260506T181553Z
 DTSTART;VALUE=DATE:20260508
@@ -424,6 +415,15 @@ URL:https://www.teltow.de/veranstaltungen/2881541/2026/05/31/das-heimatmu
  seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2903817@amtsfeed.de
+DTSTAMP:20260526T090505Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Ruhlsdorfer Kinderfest
+URL:https://www.teltow.de/veranstaltungen/2903817/2026/05/31/ruhlsdorfer-
+ kinderfest.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2878541@amtsfeed.de
 DTSTAMP:20260506T181553Z
 DTSTART;VALUE=DATE:20260601
@@ -467,6 +467,15 @@ DTEND;VALUE=DATE:20260604
 SUMMARY:Die Lasten teilen
 URL:https://www.teltow.de/veranstaltungen/2859847/2026/06/03/die-lasten-t
  eilen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2699683@amtsfeed.de
+DTSTAMP:20260531T131717Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Repair Caf&eacute\; Teltow
+URL:https://www.teltow.de/veranstaltungen/2699683/2026/06/04/repair-café
+ -teltow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2878545@amtsfeed.de
@@ -685,6 +694,15 @@ URL:https://www.teltow.de/veranstaltungen/2865852/2026/06/19/weinfest-auf
  -dem-teltower-marktplatz.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2906900@amtsfeed.de
+DTSTAMP:20260526T090505Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Weinfest auf dem Teltower Marktplatz
+URL:https://www.teltow.de/veranstaltungen/2906900/2026/06/19/weinfest-auf
+ -dem-teltower-marktplatz.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2874224@amtsfeed.de
 DTSTAMP:20260506T181553Z
 DTSTART;VALUE=DATE:20260620
@@ -840,6 +858,15 @@ URL:https://www.teltow.de/veranstaltungen/2846375/2026/07/03/gesprächsre
  ihe-freytag-mit-freymuth.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2904605@amtsfeed.de
+DTSTAMP:20260526T090505Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:„Das perfekte Geheimnis“ - TKS-Kinosommer
+URL:https://www.teltow.de/veranstaltungen/2904605/2026/07/04/das-perfekte
+ -geheimnis-tks-kinosommer.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2857820@amtsfeed.de
 DTSTAMP:20260506T181553Z
 DTSTART;VALUE=DATE:20260715
@@ -847,6 +874,15 @@ DTEND;VALUE=DATE:20260716
 SUMMARY:Teltow singt - Das Mitsingkonzert
 URL:https://www.teltow.de/veranstaltungen/2857820/2026/07/15/teltow-singt
  -das-mitsingkonzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2904621@amtsfeed.de
+DTSTAMP:20260526T090505Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:„Der Spitzname“ - TKS-Kinosommer
+URL:https://www.teltow.de/veranstaltungen/2904621/2026/07/25/der-spitznam
+ e-tks-kinosommer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2881609@amtsfeed.de

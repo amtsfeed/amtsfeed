@@ -8,7 +8,10 @@ import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../scripts/robots
 const BASE_URL = "https://www.lkee.de";
 const NEWS_URL = `${BASE_URL}/Aktuelles-Kreistag/`;
 const EVENTS_URL = `${BASE_URL}/Soziales-Kultur/Veranstaltungen/`;
-const AMTSBLATT_URL = `${BASE_URL}/index.php?La=1&object=tx,2112.1066.1&kuo=2&sub=0`;
+const AMTSBLATT_OVERVIEW_URL = `${BASE_URL}/Unser-Landkreis/Kreisanzeiger-Amtsblatt/`;
+// Die Amtsblatt-Jahrgangsliste liegt seit dem lkee.de-Umbau unter der Kreisanzeiger-Rubrik.
+// Ohne Referer auf die Übersichtsseite antwortet iKISS mit einer 307-Weiterleitungsschleife.
+const AMTSBLATT_URL = `${AMTSBLATT_OVERVIEW_URL}index.php?La=1&object=tx,2112.219.1&kat=&kuo=2&sub=0`;
 const DIR = dirname(fileURLToPath(import.meta.url));
 
 // lkee.de uses ISO-8859-15 / windows-1252 encoding
@@ -141,13 +144,13 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/Aktuelles-Kreistag/", "/Soziales-Kultur/", "/index.php", "/media/"]);
+assertAllowed(robots, ["/Aktuelles-Kreistag/", "/Soziales-Kultur/", "/Unser-Landkreis/", "/index.php", "/media/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
 const [newsHtml, eventsHtml, amtsblattHtml] = await Promise.all([
   fetchDecoded(NEWS_URL, headers),
   fetchDecoded(EVENTS_URL, headers),
-  fetchDecoded(AMTSBLATT_URL, headers),
+  fetchDecoded(AMTSBLATT_URL, { ...headers, Referer: AMTSBLATT_OVERVIEW_URL }),
 ]);
 
 const now = new Date().toISOString();

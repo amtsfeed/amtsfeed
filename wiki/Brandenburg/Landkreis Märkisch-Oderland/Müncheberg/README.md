@@ -5,10 +5,14 @@ Quelle: https://www.stadt-muencheberg.de
 
 ## Quellen
 
-| Typ    | URL                                                                        |
-|--------|----------------------------------------------------------------------------|
-| Events | https://www.stadt-muencheberg.de/kultur-tourismus/events                   |
-| News   | https://www.stadt-muencheberg.de/startseite (TYPO3 newsslider auf Homepage)|
+| Typ       | URL                                                                        |
+|-----------|----------------------------------------------------------------------------|
+| News      | https://www.stadt-muencheberg.de/startseite (TYPO3 newsslider auf Homepage)|
+| Amtsblatt | https://www.stadt-muencheberg.de/buerger-stadt/stadtverwaltung/muencheberger-anzeiger-und-nachrichtenblatt |
+
+> **Veranstaltungen entfallen (Stand 09/2026):** `/kultur-tourismus/events` antwortet mit 403 und
+> taucht in keiner Navigation mehr auf — der öffentliche Veranstaltungskalender wurde ersatzlos
+> abgeschaltet. `events.json` bleibt als Archiv bestehen, wird aber nicht mehr fortgeschrieben.
 
 ## Beispiele (Stand Einrichtung 2026-05-05)
 

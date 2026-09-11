@@ -11,7 +11,7 @@ Amtsfreie Gemeinde im Landkreis Havelland, Brandenburg.
 
 | Kategorie | URL | Variante |
 |-----------|-----|----------|
-| News | `/media/rss/Meldungen_aus_Wustermark.xml` | RSS-Feed (windows-1252), FID `3847.NNNNN.1` aus Link |
+| News | `/media/rss/MeldungenWustermark.xml` | RSS-Feed (windows-1252), FID `3847.NNNNN.1` aus Link |
 | Events | `/Verwaltung-Politik/Allgemeines/Veranstaltungen/` | IKISS `result-list_object` mit `data-ikiss-mfid="11.3847.{ID}.1"` + `<time datetime>` |
 | Amtsblatt | `/Verwaltung-Politik/Allgemeines/Amtsblatt/` | Accordion mit `/loadDocument.phtml?FID=3847.{ID}.1&Ext=PDF`-Links, Titel `Amtsblatt N der Gemeinde Wustermark aus YYYY` |
 | Bekanntmachungen | `/Verwaltung-Politik/Allgemeines/öffentliche-Bekanntmachungen/` | IKISS `result-list_object` mit `data-ikiss-mfid="6.3847.{ID}.1"` |

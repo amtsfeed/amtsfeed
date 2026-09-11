@@ -2,11 +2,13 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { EventsFile, NewsFile, AmtsblattFile, Event, NewsItem, AmtsblattItem } from "../../../../scripts/types.ts";
+import type { NewsFile, AmtsblattFile, NewsItem, AmtsblattItem } from "../../../../scripts/types.ts";
 import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/robots.ts";
 
 const BASE_URL = "https://www.stadt-muencheberg.de";
-const EVENTS_URL = `${BASE_URL}/kultur-tourismus/events`;
+// Der öffentliche Veranstaltungskalender (/kultur-tourismus/events) wurde im Zuge des
+// TYPO3-Umbaus ersatzlos abgeschaltet (liefert 403, taucht in keiner Navigation mehr auf).
+// events.json bleibt als Archiv bestehen, wird aber nicht mehr fortgeschrieben.
 const NEWS_URL = `${BASE_URL}/startseite`;
 const AMTSBLATT_URL = `${BASE_URL}/buerger-stadt/stadtverwaltung/muencheberger-anzeiger-und-nachrichtenblatt`;
 const DIR = dirname(fileURLToPath(import.meta.url));
@@ -28,78 +30,6 @@ function slugify(str: string): string {
 // ── Events ────────────────────────────────────────────────────────────────────
 // Events are a plain HTML text list in the TYPO3 content element.
 // Format: <li class="text-justify"><strong>DD.MM.YYYY[[ -|- bis] DD.MM.YYYY][ | ab H:MM Uhr]</strong><br> Title</li>
-// No individual URLs — all events link to the events page.
-
-function parseDate(d: string, m: string, y: string, time?: string): string {
-  const date = `${y}-${m.padStart(2, "0")}-${d.padStart(2, "0")}`;
-  if (time) {
-    const [h, min] = time.split(":");
-    return `${date}T${(h ?? "0").padStart(2, "0")}:${(min ?? "00").padStart(2, "0")}:00.000Z`;
-  }
-  return `${date}T00:00:00.000Z`;
-}
-
-function extractEvents(html: string): Event[] {
-  const now = new Date().toISOString();
-  const events: Event[] = [];
-  const seen = new Set<string>();
-
-  // Extract the events content block (between "Verstaltungen" header and end of ce-bodytext)
-  const bodyMatch = html.match(/class="ce-bodytext">([\s\S]*?)<\/div>/);
-  if (!bodyMatch) return events;
-  const body = bodyMatch[1]!;
-
-  // Find all <li class="text-justify"> entries
-  const liBlocks = [...body.matchAll(/<li\s+class="text-justify">([\s\S]*?)<\/li>/g)];
-
-  for (const m of liBlocks) {
-    const raw = m[1]!;
-    // Strip all HTML tags to get plain text, then decode
-    const text = decodeHtmlEntities(raw.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim());
-    if (!text) continue;
-
-    // Pattern: "DD.MM.[YYYY][ -|- bis DD.MM.YYYY][ | ab H:MM Uhr][ |] Title"
-    // Example: "17.04.2026 | Frühjahrsputz..."
-    // Example: "18.04.2026 | ab 16:00 Uhr Feierliche Übergabe..."
-    // Example: "30.04. - 03.05.2026  2. Mittelalterfest..."
-
-    // Try range format: DD.MM.[YYYY] - DD.MM.YYYY
-    const rangeMatch = text.match(
-      /^(\d{1,2})\.(\d{2})\.(\d{4})?\s*[-–]\s*(\d{1,2})\.(\d{2})\.(\d{4})\s*(?:\|\s*ab\s+(\d+:\d+)\s*Uhr\s*)?(.*)/
-    );
-    if (rangeMatch) {
-      const [, d1, m1, y1, d2, m2, y2, time, rest] = rangeMatch;
-      const year = y1 ?? y2!;
-      const startDate = parseDate(d1!, m1!, year, time);
-      const endDate = parseDate(d2!, m2!, y2!, time);
-      const title = rest?.replace(/^\s*\|\s*/, "").trim() ?? "";
-      if (!title) continue;
-      const id = `muencheberg-${startDate.slice(0, 10).replace(/-/g, "")}-${slugify(title)}`;
-      if (seen.has(id)) continue;
-      seen.add(id);
-      events.push({ id, title, url: EVENTS_URL, startDate, endDate, fetchedAt: now, updatedAt: now });
-      continue;
-    }
-
-    // Single date: DD.MM.YYYY
-    const singleMatch = text.match(
-      /^(\d{1,2})\.(\d{2})\.(\d{4})\s*(?:\|\s*ab\s+(\d+:\d+)\s*Uhr\s*)?(.*)/
-    );
-    if (singleMatch) {
-      const [, d1, m1, y1, time, rest] = singleMatch;
-      const startDate = parseDate(d1!, m1!, y1!, time);
-      const title = rest?.replace(/^\s*\|\s*/, "").trim() ?? "";
-      if (!title) continue;
-      const id = `muencheberg-${startDate.slice(0, 10).replace(/-/g, "")}-${slugify(title)}`;
-      if (seen.has(id)) continue;
-      seen.add(id);
-      events.push({ id, title, url: EVENTS_URL, startDate, fetchedAt: now, updatedAt: now });
-      continue;
-    }
-  }
-
-  return events.sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());
-}
 
 // ── News ──────────────────────────────────────────────────────────────────────
 // News slider on homepage — TYPO3 newsslider extension (EXT:newsslider)
@@ -194,11 +124,6 @@ function mergeAmtsblatt(existing: AmtsblattItem[], incoming: AmtsblattItem[]): A
   return [...byId.values()].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
-function mergeEvents(existing: Event[], incoming: Event[]): Event[] {
-  const byId = new Map(existing.map((e) => [e.id, e]));
-  for (const e of incoming) byId.set(e.id, { ...e, fetchedAt: byId.get(e.id)?.fetchedAt ?? e.fetchedAt });
-  return [...byId.values()].sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());
-}
 
 function mergeNews(existing: NewsItem[], incoming: NewsItem[]): NewsItem[] {
   const byId = new Map(existing.map((n) => [n.id, n]));
@@ -224,32 +149,26 @@ function loadJson<T>(path: string, fallback: T): T {
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 const robots = await checkRobots(DIR, BASE_URL);
-assertAllowed(robots, ["/kultur-tourismus/events", "/startseite", "/buerger-stadt/stadtverwaltung/"]);
+assertAllowed(robots, ["/startseite", "/buerger-stadt/stadtverwaltung/"]);
 
 const headers = { "User-Agent": AMTSFEED_UA };
-const [eventsHtml, newsHtml, amtsblattHtml] = await Promise.all([
-  fetch(EVENTS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${EVENTS_URL}`); return r.text(); }),
+const [newsHtml, amtsblattHtml] = await Promise.all([
   fetch(NEWS_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${NEWS_URL}`); return r.text(); }),
   fetch(AMTSBLATT_URL, { headers }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status} ${AMTSBLATT_URL}`); return r.text(); }),
 ]);
 
-const eventsPath = join(DIR, "events.json");
 const newsPath = join(DIR, "news.json");
 const amtsblattPath = join(DIR, "amtsblatt.json");
 
-const existingEvents = loadJson<EventsFile>(eventsPath, { updatedAt: "", items: [] });
 const existingNews = loadJson<NewsFile>(newsPath, { updatedAt: "", items: [] });
 const existingAmtsblatt = loadJson<AmtsblattFile>(amtsblattPath, { updatedAt: "", items: [] });
 
-const mergedEvents = mergeEvents(existingEvents.items, extractEvents(eventsHtml));
 const mergedNews = mergeNews(existingNews.items, extractNews(newsHtml));
 const mergedAmtsblatt = mergeAmtsblatt(existingAmtsblatt.items, extractAmtsblatt(amtsblattHtml));
 
 const now = new Date().toISOString();
-writeFileSync(eventsPath, JSON.stringify({ updatedAt: now, items: mergedEvents }, null, 2));
 writeFileSync(newsPath, JSON.stringify({ updatedAt: now, items: mergedNews }, null, 2));
 writeFileSync(amtsblattPath, JSON.stringify({ updatedAt: now, items: mergedAmtsblatt }, null, 2));
 
-console.log(`events:     ${mergedEvents.length} Einträge → ${eventsPath}`);
 console.log(`news:       ${mergedNews.length} Einträge → ${newsPath}`);
 console.log(`amtsblatt:  ${mergedAmtsblatt.length} Einträge → ${amtsblattPath}`);

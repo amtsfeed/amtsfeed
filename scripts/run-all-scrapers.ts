@@ -41,6 +41,32 @@ function counts(dir: string): Record<Kind, number | null> {
   return out;
 }
 
+/**
+ * Jüngstes `fetchedAt` über alle Kategorien einer Quelle.
+ *
+ * Scraper, die ihre Einträge mergen, laufen ohne Fehler durch, wenn die Quelle umgebaut wurde:
+ * der Parser greift ins Leere, der Bestand bleibt stehen, der Report meldet "OK". Genau so sind
+ * mehrere Quellen monatelang unbemerkt veraltet. Weil `fetchedAt` beim Merge das Datum der
+ * Erstsichtung behält, ist "heute nichts Neues" aber der Normalfall — erst wenn über Wochen
+ * nichts Frisches ankommt, ist die Quelle verdächtig.
+ */
+function latestFetchedAt(dir: string): string | null {
+  let latest: string | null = null;
+  for (const kind of KINDS) {
+    const path = join(dir, `${kind}.json`);
+    if (!existsSync(path)) continue;
+    try {
+      const data = JSON.parse(readFileSync(path, "utf-8"));
+      for (const item of data.items ?? []) {
+        if (typeof item?.fetchedAt === "string" && (latest === null || item.fetchedAt > latest)) latest = item.fetchedAt;
+      }
+    } catch { /* defekte Datei taucht schon über counts() als -1 auf */ }
+  }
+  return latest;
+}
+
+const STALE_AFTER_DAYS = 30;
+
 function fmtDiff(before: number | null, after: number | null): string {
   if (before === null && after === null) return "—";
   if (before === null) return `(neu) ${after}`;
@@ -57,6 +83,7 @@ interface Result {
   durationMs: number;
   before: Record<Kind, number | null>;
   after: Record<Kind, number | null>;
+  latestFetchedAt: string | null;
   error?: string;
 }
 
@@ -68,6 +95,7 @@ console.log(`Found ${scrapers.length} scrapers${FILTER ? ` (filter: ${FILTER})` 
 
 const results: Result[] = [];
 const tsxBin = join(ROOT, "node_modules", ".bin", "tsx");
+const staleBefore = new Date(Date.now() - STALE_AFTER_DAYS * 24 * 60 * 60 * 1000).toISOString();
 
 for (let i = 0; i < scrapers.length; i++) {
   const scraper = scrapers[i]!;
@@ -76,12 +104,15 @@ for (let i = 0; i < scrapers.length; i++) {
   const before = counts(dir);
   process.stdout.write(`[${i + 1}/${scrapers.length}] ${rel} ... `);
   const t0 = Date.now();
-  const proc = spawnSync(tsxBin, [scraper], { cwd: ROOT, encoding: "utf-8", timeout: 120_000 });
+  // 120 s reichten für Altlandsberg nicht (rund 160 s, weil pro Termin eine Detailseite geholt
+  // wird); 300 s lassen auch langsame Quellen durchlaufen, ohne einen Hänger ewig offen zu halten.
+  const proc = spawnSync(tsxBin, [scraper], { cwd: ROOT, encoding: "utf-8", timeout: 300_000 });
   const durationMs = Date.now() - t0;
   const ok = proc.status === 0;
   const after = counts(dir);
+  const latest = latestFetchedAt(dir);
   const err = ok ? undefined : (proc.stderr.trim().split("\n").slice(-3).join(" | ") || `exit ${proc.status}`);
-  results.push({ path: rel, ok, durationMs, before, after, error: err });
+  results.push({ path: rel, ok, durationMs, before, after, latestFetchedAt: latest, error: err });
   console.log(ok ? `OK (${durationMs}ms)` : `FAILED (${durationMs}ms)`);
   if (!ok) console.log(`   ${err}`);
 }
@@ -105,6 +136,10 @@ const bigDrops = results.filter((r) =>
 const noData = results.filter((r) =>
   r.ok && KINDS.every((k) => r.after[k] === null || r.after[k] === 0)
 );
+// Lief durch, hat aber seit Wochen nichts Neues geholt → Quelle vermutlich umgebaut.
+const stale = results.filter((r) =>
+  r.ok && KINDS.some((k) => (r.after[k] ?? 0) > 0) && (r.latestFetchedAt === null || r.latestFetchedAt < staleBefore)
+);
 
 console.log(`Total:           ${results.length}`);
 console.log(`OK:              ${results.length - failed.length}`);
@@ -112,6 +147,7 @@ console.log(`Failed:          ${failed.length}`);
 console.log(`Zero-after-nonzero (Kategorie auf 0 abgefallen): ${zeroAfterNonzero.length}`);
 console.log(`Drops >50 %:     ${bigDrops.length}`);
 console.log(`Kein einziger Eintrag in irgendeiner Kategorie:   ${noData.length}`);
+console.log(`Seit ${STALE_AFTER_DAYS} Tagen nichts Neues (nur Hinweis):  ${stale.length}`);
 console.log();
 
 if (failed.length) {
@@ -127,6 +163,12 @@ if (zeroAfterNonzero.length) {
       .map((k) => `${k}: ${r.before[k]} → 0`).join(", ");
     console.log(`  ! ${r.path}  [${lost}]`);
   }
+  console.log();
+}
+
+if (stale.length) {
+  console.log(`─── SEIT ${STALE_AFTER_DAYS} TAGEN NICHTS NEUES ───`);
+  for (const r of stale) console.log(`  ? ${r.path}  (jüngstes fetchedAt: ${r.latestFetchedAt ?? "—"})`);
   console.log();
 }
 

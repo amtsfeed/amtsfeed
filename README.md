@@ -156,6 +156,15 @@ git commit -m "chore: update $(date +%Y-%m-%d)"
 - Wenn der Working Tree nach Schritt 2 leer ist (keine inhaltlichen JSON-Diffs) → Schritte 3–6 entfallen, es gibt nichts zu commiten.
 - Die Commit-Message ist **immer** `chore: update YYYY-MM-DD` mit dem heutigen Datum (durch `$(date +%Y-%m-%d)` automatisch).
 
+### Automatisierung: GitHub Action
+
+Der Tagesupdate-Workflow läuft als GitHub Action `.github/workflows/daily-scrape.yml`:
+
+- **Zeitplan:** täglich 03:15 UTC (≈ 05:15 MESZ / 04:15 MEZ), zusätzlich manuell über *Run workflow* startbar (optional mit Pfadfilter, analog zum Argument von `run-all-scrapers`).
+- **Ablauf:** identisch zu den sieben Schritten oben — Scraper, `normalize-updated-at`, `generate-rss`, `generate-ical`, `generate-metadata`, `append-update-log`, Commit & Push als `github-actions[bot]`.
+- **Fehlertoleranz:** ein fehlgeschlagener Scraper bricht den Lauf nicht ab (sonst würde eine kaputte Quelle die Daten aller anderen blockieren). Stattdessen landet der komplette Report in der Job-Summary, und ein Guard-Schritt setzt alle JSON-Dateien zurück, deren `items` von >0 auf 0 gefallen sind — leergelaufene Kategorien werden also nie committet.
+- **Secrets:** keine nötig, die Scraper sprechen ausschließlich öffentliche Websites an.
+
 ### `scripts/run-all-scrapers.ts`
 
 Führt alle `wiki/**/index.ts` strikt **sequenziell** aus (kein Parallelismus — manche Quellen reagieren empfindlich auf gleichzeitige Requests) und erzeugt am Ende einen Report:

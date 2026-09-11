@@ -1,37 +1,37 @@
 # Amt Ortrand
 
-- **Website:** https://www.amt-ortrand.de
-- **CMS:** Joomla! (com_content blog category) + JEvents 3.6
+- **Website:** https://amt-ortrand.de
+- **CMS:** WordPress (seit Juni 2026; vorher Joomla! + JEvents)
 - **Landkreis:** Oberspreewald-Lausitz, Brandenburg
 - **Mitgliedsgemeinden:** Ortrand, Frauendorf, Großkmehlen, Kroppen, Lindenau, Tettau
 
 ## Datenquellen
 
-| Quelle      | URL                                                   | Felder                                                    |
-|-------------|-------------------------------------------------------|-----------------------------------------------------------|
-| News        | `/` (Joomla-Blog auf der Startseite)                  | Titel (`<h2 class="article-title">`), URL (`meta itemprop="url"`), `publishedAt` (`<time datetime>`) |
-| Events      | `/veranstaltungen` (JEvents Accordion)                | Titel, Datum (parsed aus "DD. Monat YYYY")                |
-| Amtsblatt   | `/downloads/amtsblätter`                              | Nr./Jahrgang, Erscheinungsdatum, direkter PDF-Link        |
+| Quelle    | URL                                                | Felder                                        |
+|-----------|----------------------------------------------------|-----------------------------------------------|
+| News      | `/wp-json/wp/v2/posts` (REST-API, 50 Beiträge)     | `slug`, `title`, `link`, `date`, `excerpt`    |
+| Amtsblatt | `/amtsblaetter/`                                   | Titel, Erscheinungsdatum, direkter PDF-Link   |
 
 ## Besonderheiten
 
-- Die "News" der Startseite sind ein Joomla-Blog mit Featured Articles. Es gibt keinen separaten
-  News-Bereich; der Scraper parst die Artikel der Kategorie-View.
-- JEvents-Listing zeigt nur Datum + Titel in einem Bootstrap-Accordion — pro Event gibt es **keinen
-  Detail-URL** in der Listing-Markup. `event.url` zeigt daher auf die Listing-Seite. IDs werden aus
-  `{slug-aus-titel}-{YYYY-MM-DD}` gebildet.
-- Es gibt einen JEvents RSS-Feed unter
-  `/index.php?option=com_jevents&task=modlatest.rss&format=feed&type=rss&Itemid=535&modid=0` — dieser
-  enthält allerdings nur die nächste(n) Veranstaltung(en) und wurde daher nicht verwendet.
-- Amtsblatt-PDFs liegen unter `/images/Amtsblaeter/{YYYY}/`. Dateinamen folgen meistens
-  `Amtsblatt_Nr._N_-_Monat_YYYY_-_DD.MM.YYYY.pdf` (Datum exakt), für 2026 wurden teils
-  Sonderbenennungen wie `Mai_2026_Siegel.pdf` verwendet (Datum = Monatserster als Fallback).
-- Die Kategorieseite zeigt teils nicht-amtliche Beiträge (KI-generierte Versuche im HTML
-  gefunden). Inhalte werden 1:1 übernommen — gefiltert wird nicht.
+- **Relaunch 2026:** Die Seite ist von Joomla auf WordPress umgezogen. Die alten Pfade
+  (`/veranstaltungen`, `/downloads/amtsblätter`) liefern 404, ebenso die `www.`-Variante der Domain.
+- **Keine Veranstaltungen mehr:** Der JEvents-Kalender ist ersatzlos entfallen; es gibt nur noch
+  einen Sitzungskalender. `events.json` bleibt als Archiv bestehen, wird aber nicht fortgeschrieben.
+- Amtsblatt-Einträge stehen als Linkliste mit Titelformat
+  `Amtsblatt Nr. N – Monat – DD.MM.YYYY`; die PDFs liegen unter `/wp-content/uploads/{YYYY}/{MM}/`.
+  Gelegentlich erscheinen Sonderausgaben ("Sonderblatt – Rück und Blick").
+- robots.txt sperrt nur `/wp-admin/`, die REST-API ist also nutzbar.
 - Keine strukturierte Liste öffentlicher Bekanntmachungen, daher kein `notices.json`.
 
 ## ID-Konvention
 
-- `ortrand-news-{slug}` (Slug = letzter Pfad-Teil der Artikel-URL)
-- `ortrand-event-{YYYY-MM-DD}-{slug}`
-- `ortrand-amtsblatt-{YYYY}-{NN-oder-Datum}`
+- `ortrand-news-{slug}` (WordPress-Slug, deckungsgleich mit den Joomla-IDs aus der Altbestand)
+- `ortrand-amtsblatt-{YYYY}-{MM}` (aus dem Erscheinungsdatum, damit der Merge mit dem Altbestand greift)
+
+## Validierung
+
+Das Scraping funktioniert noch, wenn:
+1. `pnpm tsx index.ts` ohne Fehler läuft und `news: N` (N ≥ 5) sowie `amtsblatt: N` (N ≥ 50) ausgibt
+2. Falls news = 0: prüfen, ob `/wp-json/wp/v2/posts` noch JSON liefert
+3. Falls amtsblatt = 0: prüfen, ob auf `/amtsblaetter/` noch PDF-Links mit Datum im Linktext stehen

@@ -3,7 +3,7 @@
  * Scraper for Gemeinde Wustermark (IKISS / Advantic CMS, windows-1252-Kodierung).
  * https://www.wustermark.de
  *
- * News:             /media/rss/Meldungen_aus_Wustermark.xml — RSS-Feed (NOLIS-Variante 1-ähnlich)
+ * News:             /media/rss/MeldungenWustermark.xml — RSS-Feed (NOLIS-Variante 1-ähnlich)
  * Events:           /Verwaltung-Politik/Allgemeines/Veranstaltungen/  — IKISS result-list mit ModID=11
  * Amtsblatt:        /Verwaltung-Politik/Allgemeines/Amtsblatt/        — Accordion mit Amtsblatt-PDFs (kein konkretes Datum, nur Nr./Jahr)
  * Bekanntmachungen: /Verwaltung-Politik/Allgemeines/öffentliche-Bekanntmachungen/ — IKISS result-list mit ModID=6 (kein Datum)
@@ -19,7 +19,7 @@ import { checkRobots, assertAllowed, AMTSFEED_UA } from "../../../../scripts/rob
 
 const SLUG = "wustermark";
 const BASE_URL = "https://www.wustermark.de";
-const NEWS_RSS_URL = `${BASE_URL}/media/rss/Meldungen_aus_Wustermark.xml`;
+const NEWS_RSS_URL = `${BASE_URL}/media/rss/MeldungenWustermark.xml`;
 const EVENTS_URL = `${BASE_URL}/Verwaltung-Politik/Allgemeines/Veranstaltungen/`;
 const AMTSBLATT_URL = `${BASE_URL}/Verwaltung-Politik/Allgemeines/Amtsblatt/`;
 const NOTICES_URL = `${BASE_URL}/Verwaltung-Politik/Allgemeines/%C3%B6ffentliche-Bekanntmachungen/`;

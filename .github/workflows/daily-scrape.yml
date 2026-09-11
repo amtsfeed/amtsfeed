@@ -1,0 +1,119 @@
+name: daily-scrape
+
+on:
+  schedule:
+    # täglich 03:15 UTC (≈ 05:15 MESZ / 04:15 MEZ)
+    - cron: "15 3 * * *"
+  workflow_dispatch:
+    inputs:
+      filter:
+        description: "Nur Scraper mit diesem Pfadsubstring laufen lassen (leer = alle)"
+        required: false
+        default: ""
+
+concurrency:
+  group: daily-scrape
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # --- 1. Scraper (sequenziell, Report am Ende) ---
+      - name: run-all-scrapers
+        id: scrapers
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          pnpm run-all-scrapers "${{ github.event.inputs.filter }}" 2>&1 | tee /tmp/scraper-report.txt
+
+      - name: Report in Job-Summary
+        if: always()
+        run: |
+          {
+            echo '## run-all-scrapers'
+            echo
+            echo '```'
+            sed -n '/^REPORT$/,$p' /tmp/scraper-report.txt || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # --- 2. Guard: Dateien verwerfen, deren items von >0 auf 0 gefallen sind ---
+      # README: "Wenn eine Kategorie auf 0 abfällt → nicht commiten." In der Action
+      # verwerfen wir stattdessen genau diese Dateien, damit ein kaputter Scraper
+      # nicht die Daten aller anderen blockiert.
+      - name: Leergelaufene JSON-Dateien zurücksetzen
+        run: |
+          node --input-type=module -e '
+            import { execSync } from "node:child_process";
+            import { readFileSync } from "node:fs";
+            const changed = execSync("git diff --name-only -z", { encoding: "buffer" })
+              .toString("utf-8").split("\0").filter(Boolean)
+              .filter((p) => /\/(news|events|amtsblatt|notices)\.json$/.test(p));
+            const count = (text) => {
+              try { const d = JSON.parse(text); return Array.isArray(d.items) ? d.items.length : 0; }
+              catch { return -1; }
+            };
+            const reverted = [];
+            for (const path of changed) {
+              const after = count(readFileSync(path, "utf-8"));
+              let beforeText;
+              try { beforeText = execSync(`git show HEAD:"${path}"`, { encoding: "utf-8", maxBuffer: 256 * 1024 * 1024 }); }
+              catch { continue; } // neue Datei — nichts zurückzusetzen
+              const before = count(beforeText);
+              if (before > 0 && after <= 0) reverted.push(path);
+            }
+            for (const path of reverted) execSync(`git checkout -- "${path}"`);
+            if (reverted.length) {
+              console.log(`Zurückgesetzt (Kategorie auf 0 abgefallen):\n  ${reverted.join("\n  ")}`);
+            } else {
+              console.log("Keine leergelaufenen Dateien.");
+            }
+          ' | tee -a "$GITHUB_STEP_SUMMARY"
+
+      # --- 3. Aufbereitung (Reihenfolge siehe README) ---
+      - name: normalize-updated-at
+        run: pnpm normalize-updated-at
+      - name: generate-rss
+        run: pnpm generate-rss
+      - name: generate-ical
+        run: pnpm generate-ical
+      - name: generate-metadata
+        run: pnpm generate-metadata
+      - name: append-update-log
+        run: pnpm append-update-log
+
+      # --- 4. Commit & Push ---
+      - name: Configure Git Identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: commit & push
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen — nichts zu committen."
+            exit 0
+          fi
+          git commit -m "chore: update $(date -u +%Y-%m-%d)"
+          git push

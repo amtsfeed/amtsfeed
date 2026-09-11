@@ -92,4 +92,54 @@ SUMMARY:Wir singen Hand in Hand
 URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/wir-singen-h
  and-in-hand
 END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-faust-n-roll-rocktheater-nach-goethe@amtsfeed.de
+DTSTAMP:20260911T111306Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Faust´n´Roll - Rocktheater nach Goethe
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/faust-n-roll
+ -rocktheater-nach-goethe
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-tag-der-offenen-tuer-freiwillige-feuerwehr@amtsfeed
+ .de
+DTSTAMP:20260911T111306Z
+DTSTART:20260912T100000Z
+SUMMARY:Tag der offenen Tür - freiwillige Feuerwehr
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/tag-der-offe
+ nen-tuer-freiwillige-feuerwehr
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-schoeneicher-chorgemeinschaft-e-v-3@amtsfeed.de
+DTSTAMP:20260911T111306Z
+DTSTART:20260912T160000Z
+SUMMARY:Schöneicher Chorgemeinschaft e.V.
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/schoeneicher
+ -chorgemeinschaft-e-v-3
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-tag-d-offenen-denkmals@amtsfeed.de
+DTSTAMP:20260911T111306Z
+DTSTART:20260913T110000Z
+SUMMARY:Tag d. offenen Denkmals
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/tag-d-offene
+ n-denkmals
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-tag-d-offenen-denkmals-2@amtsfeed.de
+DTSTAMP:20260911T111306Z
+DTSTART:20260913T110000Z
+SUMMARY:Tag d. Offenen Denkmals
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/tag-d-offene
+ n-denkmals-2
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-tag-d-offenen-denkmals-3@amtsfeed.de
+DTSTAMP:20260911T111306Z
+DTSTART:20260913T110000Z
+SUMMARY:Tag d. offenen Denkmals
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/tag-d-offene
+ n-denkmals-3
+END:VEVENT
 END:VCALENDAR

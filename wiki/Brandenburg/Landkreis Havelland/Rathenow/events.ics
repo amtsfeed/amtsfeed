@@ -494,6 +494,28 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Haveltorkino Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1643-20260701@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261001
+SUMMARY:Landschaften und Portraits von Ferenc Takàcs und Andreas Behncke
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/landschaften-und-portraits-von-
+ ferenc-takacs-und-andreas-behncke/
+LOCATION:Rathaus Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1642-20260703@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20261001
+SUMMARY:FARBENRAUSCH - Die Jubiläums-Kunstausstellung
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/farbenrausch-die-jubilaeums-kun
+ stausstellung/
+LOCATION:Rathaus Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-344-20260704@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20260704
@@ -738,6 +760,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, Optikpark
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1720-20260830@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20261003
+SUMMARY:Kunstausstellung „Retroperspektive Peter Zacharias"
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/kunstausstellung-retroperspekti
+ ve-peter-zacharias/
+LOCATION:Sankt-Marien-Andreas-Kirche
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1560-20260902@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20260902
@@ -802,6 +835,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, Restaurant "Zum Alten Hafen"
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1707-20260912@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260920
+SUMMARY:7. Trödel- und Flohmarkt in SEMLIN
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/7-troedel-und-flohmarkt-in-seml
+ in/
+LOCATION:Rund um den Dorfplatz & auf dem Gelände der Feuerwehr Semlin
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-122-20260913@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20260913
@@ -821,6 +865,49 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/wein-weib-und-gesang-das-salonk
  onzert/
 LOCATION:Rathenow\, Kulturzentrum\, Blauer Saal
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1709-20260913@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Ein besonderer Ausklang
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/ein-besonderer-ausklang/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1729-20260913@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Eine musikalische Reise
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/eine-musikalische-reise/
+LOCATION:Dorfkirche in Ferchesar
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1723-20260916@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:13. HAVELLÄNDISCHES SENIORENSPORTFEST
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/13-havellaendisches-seniorenspo
+ rtfest/
+LOCATION:Sportpark an der B5 Hamburger Chaussee 175 Dallgow-Döberitz
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1704-20260917@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:„Birnen zum Leuchten bringen“: Tourismustag Havelland 2026 au
+ f Schloss Ribbeck
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/birnen-zum-leuchten-bringen-tou
+ rismustag-havelland-2026-auf-schloss-ribbeck/
+LOCATION:Schloss Ribbeck\, Theodor-Fontane-Straße 10\, 14641 Nauen
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1487-20260919@amtsfeed.de
@@ -845,6 +932,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1717-20260919@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Radtour: Der Rathenower Stadtforst - ein Kleinod im Havelland
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/radtour-der-rathenower-stadtfor
+ st-ein-kleinod-im-havelland/
+LOCATION:Wanderparkplatz Ferchesarer Weg\, Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1511-20260920@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20260920
@@ -867,6 +965,27 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1735-20260920@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:J.S. Bach - A. Corelli - G.F. Händel
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/js-bach-a-corelli-gf-haendel/
+LOCATION:St. Marien-Andreas-Kirche Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-264-20260923@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Abschlussveranstaltung des Brandenburger Lesesommers
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/abschlussveranstaltung-des-bran
+ denburger-lesesommers/
+LOCATION:Rathenow\, Stadtbilbliothek\, Am Schleusenplatz
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-334-20260924@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20260924
@@ -875,6 +994,36 @@ SUMMARY:Seniorentanz im September
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/seniorentanz-im-september/
 LOCATION:Rathenow\, im Tivoli\, K.-Gehrmann Str. 43d
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1710-20260924@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:After-Work-Lounge mit DJ Pasi
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/after-work-lounge-mit-dj-pasi/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1725-20260925@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+SUMMARY:TROJAN HORSE
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/trojan-horse/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1705-20260926@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:11. Rathenower Schwedentage
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/11-rathenower-schwedentage-1/
+LOCATION:Weinberg\, rund um den Bismarckturm Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1600-20260927@amtsfeed.de
@@ -889,14 +1038,45 @@ LOCATION:Schlosskapelle\, Am Gutspark 1\, 14712 Milower Land OT Großwudi
  cke
 END:VEVENT
 BEGIN:VEVENT
-UID:rathenow-event-399-20261003@amtsfeed.de
-DTSTAMP:20260531T141404Z
-DTSTART;VALUE=DATE:20261003
+UID:rathenow-event-1733-20261001@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261123
+SUMMARY:HÄUTUNG
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/haeutung/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1677-20261002@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261005
+SUMMARY:GALMER Kranzstechen
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/galmer-kranzstechen/
+LOCATION:Galmer Str. Milower Land
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-399-20261003@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
 SUMMARY:Saisonausklang im Optikpark
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/saisonausklang-im-optikpark/
 LOCATION:Rathenow\, Optikpark
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1554-20261004@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Das Konzert der Lieblingsbücher mit der Band RUMPELSTIL
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/das-konzert-der-lieblingsbueche
+ r-mit-der-band-rumpelstil/
+LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1603-20261009@amtsfeed.de
@@ -910,9 +1090,30 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1730-20261009@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+SUMMARY:GOSPEL Workshop
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/gospel-workshop/
+LOCATION:St. Marien-Andreaskirche Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1410-20261010@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Herbstfest mit Saisonabschluss 2026
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/herbstfest-mit-saisonabschluss-
+ 2026/
+LOCATION:Rathenow\, Optikpark
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1410-20261011@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Herbstfest mit Saisonabschluss 2026
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
@@ -932,6 +1133,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Freizeithaus „Mühle“ Am Schwedendamm 1 in Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1732-20261014@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Robin Alexander „Die letzte Chance. Der neue Kanzler und der Ka
+ mpf um die Demokratie“
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/robin-alexander-die-letzte-chan
+ ce-der-neue-kanzler-und-der-kampf-um-die-demokratie/
+LOCATION:Gaststätte Schwedendamm Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1540-20261017@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261017
@@ -940,6 +1153,38 @@ SUMMARY:Die Welt der Filmmusik
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/die-welt-der-filmmusik/
 LOCATION:Theatersaal Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-271-20261018@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Rathenower Weinfest
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/26-rathenower-weinfest/
+LOCATION:Rathenow\, Märkischer Platz
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1712-20261020@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261030
+SUMMARY:Herbstferien im Optik Industrie Museum Rathenow
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/herbstferien-im-optik-industrie
+ -museum-rathenow/
+LOCATION:Optik Industrie Museum Rathenow/ Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1727-20261021@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Adonia-Musical TREFFPUNKT BRUNNEN
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/adonia-musical-treffpunkt-brunn
+ en/
+LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-197-20261022@amtsfeed.de
@@ -952,6 +1197,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, im Tivoli\, Karl-Gehrmann Str. 43d
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1724-20261024@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Feuer und Flamme für unsere Museen
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/feuer-und-flamme-fuer-unsere-mu
+ seen/
+LOCATION:OIMR/ Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-123-20261025@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261025
@@ -960,6 +1216,18 @@ SUMMARY:Altweibersommer-Lauf
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/altweibersommer-lauf/
 LOCATION:Rathenow\, Ferchesarer Weg
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1669-20261025@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:CAFÉ PARIS – Die Ära der goldenen Kaffeehausjahre im Schloss 
+ Ribbeck
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/cafe-paris-die-aera-der-goldene
+ n-kaffeehausjahre-im-schloss-ribbeck-2/
+LOCATION:Schloss Ribbeck Nauen OT Ribbeck
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1506-20261031@amtsfeed.de
@@ -993,6 +1261,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, Rathaus\, Berliner Straße 15
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1097-20261113@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:"Schöne Töne-Special"
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/schoene-toene-special/
+LOCATION:Rathenow\, Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1097-20261114@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261114
@@ -1011,6 +1289,16 @@ SUMMARY:Seniorentanz im November
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/seniorentanz-im-november/
 LOCATION:Rathenow\, im Tivoli\, K.-Gehrmann Str. 43d
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-833-20261127@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261214
+SUMMARY:Rathenower Weihnachtsmarkt
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/rathenower-weihnachtsmarkt/
+LOCATION:Rathenow\, Märkischer Platz
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1572-20261203@amtsfeed.de
@@ -1044,6 +1332,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, Kulturzentrum\, Blauer Saal
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1641-20261206@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Theos Abenteuerreise zum Mond
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/theos-abenteuerreise-zum-mond/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-199-20261217@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261217
@@ -1073,5 +1371,55 @@ SUMMARY:Parkweihnacht 2026
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/parkweihnacht-2026/
 LOCATION:Rathenow\, Optikpark
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1734-20270103@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Neujahrskonzerte 2027
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/neujahrskonzerte-2027/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1688-20270206@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Moving Shadows
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/moving-shadows/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1634-20270306@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Die große SCHLAGER-HITPARADE
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/die-grosse-schlager-hitparade/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1689-20270311@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Zauber der Travestie 2027
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/zauber-der-travestie-2027/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1690-20270409@amtsfeed.de
+DTSTAMP:20260911T110748Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:TARZAN – Das Musical
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/tarzan-das-musical/
+LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 END:VCALENDAR

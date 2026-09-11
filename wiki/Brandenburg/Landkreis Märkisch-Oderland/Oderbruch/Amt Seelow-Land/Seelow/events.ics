@@ -725,6 +725,17 @@ URL:https://www.seelow.de/veranstaltungen/2863561/2026/09/09/abschluss-br
 LOCATION:Stadtbibliothek Ulrich Plenzdorf
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2952701-2026-09-12-begegnungskarussell.html@amtsfeed.
+ de
+DTSTAMP:20260911T111142Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Begegnungskarussell
+URL:https://www.seelow.de/veranstaltungen/2952701/2026/09/12/begegnungska
+ russell.html
+LOCATION:Begegnungsstätte Seelow\, Puschkinplatz 18a
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2866930-2026-09-12-ausstellungseröffnung-monika-mari
  a-novak-malerei-und-fotografie-armin-hauer-malerei.html@amtsfeed.de
 DTSTAMP:20260505T215639Z
@@ -745,6 +756,17 @@ SUMMARY:Tag des offenen Denkmals
 URL:https://www.seelow.de/veranstaltungen/2863565/2026/09/13/tag-des-offe
  nen-denkmals.html
 LOCATION:Heimatverein "Schweizerhaus Seelow" e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2930614-2026-09-13-sammeltassencafé-im-schweizerhaus
+ -seelow.html@amtsfeed.de
+DTSTAMP:20260911T111142Z
+DTSTART:20260913T140000Z
+DTEND:20260913T170000Z
+SUMMARY:Sammeltassencaf&eacute\; im Schweizerhaus Seelow
+URL:https://www.seelow.de/veranstaltungen/2930614/2026/09/13/sammeltassen
+ café-im-schweizerhaus-seelow.html
+LOCATION:Stadt Seelow
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863575-2026-09-16-weltkindertagsfest.html@amtsfeed.d
@@ -778,6 +800,17 @@ URL:https://www.seelow.de/veranstaltungen/2863629/2026/09/20/abschluss-sa
 LOCATION:Heimatverein "Schweizerhaus Seelow" e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2930614-2026-09-20-sammeltassencafé-im-schweizerhaus
+ -seelow.html@amtsfeed.de
+DTSTAMP:20260911T111142Z
+DTSTART:20260920T140000Z
+DTEND:20260920T170000Z
+SUMMARY:Sammeltassencaf&eacute\; im Schweizerhaus Seelow
+URL:https://www.seelow.de/veranstaltungen/2930614/2026/09/20/sammeltassen
+ café-im-schweizerhaus-seelow.html
+LOCATION:Stadt Seelow
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2867002-2026-09-24-kaffeeklatsch-für-senioren.html@a
  mtsfeed.de
 DTSTAMP:20260505T215639Z
@@ -787,6 +820,28 @@ SUMMARY:Kaffeeklatsch für Senioren
 URL:https://www.seelow.de/veranstaltungen/2867002/2026/09/24/kaffeeklatsc
  h-für-senioren.html
 LOCATION:Aus-Tauschladen\, Breite Straße 18\, Seelow
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2952703-2026-09-24-geistig-fit-bleiben.html@amtsfeed.
+ de
+DTSTAMP:20260911T111142Z
+DTSTART:20260924T140000Z
+DTEND:20260924T153000Z
+SUMMARY:Geistig fit bleiben
+URL:https://www.seelow.de/veranstaltungen/2952703/2026/09/24/geistig-fit-
+ bleiben.html
+LOCATION:Kulturhaus Seelow
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2960910-2026-09-25-sponsorenlauf-wir-laufen-für-den-
+ förderverein-unserer-schule.html@amtsfeed.de
+DTSTAMP:20260911T111142Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Sponsorenlauf - Wir laufen für den Förderverein unserer Schule
+URL:https://www.seelow.de/veranstaltungen/2960910/2026/09/25/sponsorenlau
+ f-wir-laufen-für-den-förderverein-unserer-schule.html
+LOCATION:Grundschule Seelow
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863665-2026-09-26-musikalischer-abend-melodien-für-
@@ -822,9 +877,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863687-2026-10-03-food-for-tomorrow-markt.html@amtsf
  eed.de
-DTSTAMP:20260505T215639Z
-DTSTART:20261003T110000Z
-DTEND:20261003T190000Z
+DTSTAMP:20260911T111142Z
+DTSTART:20261003T100000Z
+DTEND:20261003T180000Z
 SUMMARY:Food for Tomorrow - Markt
 URL:https://www.seelow.de/veranstaltungen/2863687/2026/10/03/food-for-tom
  orrow-markt.html
@@ -859,6 +914,27 @@ SUMMARY:Eröffnung Vernissage "Meine Welt in Form und Farbe"
 URL:https://www.seelow.de/veranstaltungen/2865476/2026/10/11/eröffnung-v
  ernissage-meine-welt-in-form-und-farbe.html
 LOCATION:Alte Dampfbäckerei
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2954565-2026-10-11-theater-herbstfest-in-der-senioren
+ residenz.html@amtsfeed.de
+DTSTAMP:20260911T111142Z
+DTSTART:20261011T150000Z
+SUMMARY:Theater "Herbstfest in der Seniorenresidenz"
+URL:https://www.seelow.de/veranstaltungen/2954565/2026/10/11/theater-herb
+ stfest-in-der-seniorenresidenz.html
+LOCATION:Kulturhaus Seelow
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2960912-2026-10-15-lesungen-mit-autorin-lotte-schweiz
+ er-für-die-1.-bis-4.-klassen.html@amtsfeed.de
+DTSTAMP:20260911T111142Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Lesungen mit Autorin Lotte Schweizer für die 1. bis 4. Klassen
+URL:https://www.seelow.de/veranstaltungen/2960912/2026/10/15/lesungen-mit
+ -autorin-lotte-schweizer-für-die-1.-bis-4.-klassen.html
+LOCATION:Grundschule Seelow
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863690-2026-10-17-puppentheater.html@amtsfeed.de
@@ -1045,6 +1121,17 @@ URL:https://www.seelow.de/veranstaltungen/2865378/2026/11/18/textvorstell
 LOCATION:Stadtbibliothek Ulrich Plenzdorf
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2960913-2026-11-20-bundesweiter-vorlesetag.html@amtsf
+ eed.de
+DTSTAMP:20260911T111143Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Bundesweiter Vorlesetag
+URL:https://www.seelow.de/veranstaltungen/2960913/2026/11/20/bundesweiter
+ -vorlesetag.html
+LOCATION:Grundschule Seelow
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2865379-2026-11-20-travestieshow.html@amtsfeed.de
 DTSTAMP:20260505T215639Z
 DTSTART:20261120T200000Z
@@ -1137,6 +1224,32 @@ URL:https://www.seelow.de/veranstaltungen/2865426/2026/11/29/keramikausst
 LOCATION:Alte Dampfbäckerei
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2960914-2026-12-01-start-des-schuladventskalenders-un
+ glaubliche-weihnachten-24-rätselreisen-um-die-welt.html@amtsfeed.de
+DTSTAMP:20260911T111143Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Start des Schuladventskalenders "Unglaubliche Weihnachten- 24 Rä
+ tselreisen um die Welt"
+URL:https://www.seelow.de/veranstaltungen/2960914/2026/12/01/start-des-sc
+ huladventskalenders-unglaubliche-weihnachten-24-rätselreisen-um-die-welt
+ .html
+LOCATION:Grundschule Seelow
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2960916-2026-12-02-traditioneller-theaterbesuch-für-
+ unsere-1.-und-2.-klassen-in-der-vorweihnachtszeit.html@amtsfeed.de
+DTSTAMP:20260911T111143Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Traditioneller Theaterbesuch für unsere 1. und 2. Klassen in der
+  Vorweihnachtszeit
+URL:https://www.seelow.de/veranstaltungen/2960916/2026/12/02/traditionell
+ er-theaterbesuch-für-unsere-1.-und-2.-klassen-in-der-vorweihnachtszeit.h
+ tml
+LOCATION:Grundschule Seelow
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2865427-2026-12-02-stadtseniorenweihnachtsfeier.html@
  amtsfeed.de
 DTSTAMP:20260505T215639Z
@@ -1145,6 +1258,17 @@ SUMMARY:Stadtseniorenweihnachtsfeier
 URL:https://www.seelow.de/veranstaltungen/2865427/2026/12/02/stadtseniore
  nweihnachtsfeier.html
 LOCATION:Kulturhaus Seelow
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2962654-2026-12-07-fachlehrersprechtag.html@amtsfeed.
+ de
+DTSTAMP:20260911T111143Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Fachlehrersprechtag
+URL:https://www.seelow.de/veranstaltungen/2962654/2026/12/07/fachlehrersp
+ rechtag.html
+LOCATION:Grundschule Seelow
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2859171-2026-12-11-seelower-weihnacht.html@amtsfeed.d

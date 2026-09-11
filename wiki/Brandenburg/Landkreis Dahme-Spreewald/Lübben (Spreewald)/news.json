@@ -1,6 +1,454 @@
 {
-  "updatedAt": "2026-05-31T13:13:30.508Z",
+  "updatedAt": "2026-09-11T11:06:54.202Z",
   "items": [
+    {
+      "id": "luebben-news-mina-witkojc-preis",
+      "title": "STARTSCHUSS FÜR DIESJÄHRIGEN MINA-WITKOJC-PREIS",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/mina-witkojc-preis/",
+      "publishedAt": "2026-09-10T14:55:29.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-tag-des-offenen-denkmals-1",
+      "title": "SCHLOSSFÜHRUNG ZUM TAG DES OFFENEN DENKMALS",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/tag-des-offenen-denkmals-1/",
+      "publishedAt": "2026-09-10T07:44:38.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-spreewald-chorkonzert",
+      "title": "SPREEWALD-CHORKONZERT ZUM 1. LÜBBENER HAFENFEST",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/spreewald-chorkonzert/",
+      "publishedAt": "2026-09-09T12:50:19.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-stauden-fuer-den-kreisverkehr",
+      "title": "STAUDEN FÜR DEN KREISVERKEHR LINDENSTRAẞE",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/stauden-fuer-den-kreisverkehr/",
+      "publishedAt": "2026-09-07T08:24:44.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-bundesweiter-warntag-1",
+      "title": "BUNDESWEITER WARNTAG 2026",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/bundesweiter-warntag-1/",
+      "publishedAt": "2026-09-03T15:12:06.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-weisser-ring-polizei-auf-dem-wochenmarkt-2",
+      "title": "WOCHENMARKT WIRD ZUM ORT DES DIALOGS",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/weisser-ring-polizei-auf-dem-wochenmarkt-2/",
+      "publishedAt": "2026-09-03T10:13:03.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-futurlab-stadt-gemeinsam-denken",
+      "title": "FUTURLAB: STADT GEMEINSAM DENKEN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/futurlab-stadt-gemeinsam-denken/",
+      "publishedAt": "2026-09-03T10:08:46.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-spreewandel-2026",
+      "title": "SPREEWANDEL 2026",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/spreewandel-2026/",
+      "publishedAt": "2026-09-02T09:45:52.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-museumsnacht",
+      "title": "Museumsnacht im Schloss",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/museumsnacht/",
+      "publishedAt": "2026-09-01T15:48:02.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-lesung-mit-bestsellerautorin-elisabeth-herrmann",
+      "title": "LESUNG MIT BESTSELLERAUTORIN ELISABETH HERRMANN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/lesung-mit-bestsellerautorin-elisabeth-herrmann/",
+      "publishedAt": "2026-09-01T09:11:14.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-interkulturelles-picknick-fest",
+      "title": "INTERKULTURELLES PICKNICK-FEST",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/interkulturelles-picknick-fest/",
+      "publishedAt": "2026-09-01T08:56:44.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-verkehrsmitteilung-a13",
+      "title": "VERKEHRSMITTEILUNG A13",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/verkehrsmitteilung-a13/",
+      "publishedAt": "2026-09-01T08:21:26.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-eintragung-in-das-goldene-buch-fuer-werner-kuhtz",
+      "title": "EINTRAGUNG IN DAS GOLDENE BUCH DER STADT",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/eintragung-in-das-goldene-buch-fuer-werner-kuhtz/",
+      "publishedAt": "2026-08-27T13:26:48.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-luebbener-ehrenamtspreis-2026-vergeben",
+      "title": "LÜBBENER EHRENAMTSPREIS 2026 VERGEBEN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/luebbener-ehrenamtspreis-2026-vergeben/",
+      "publishedAt": "2026-08-27T13:26:31.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-houwald-musikpreis-fuer-musikalische-nachwuchstalente",
+      "title": "HOUWALD-MUSIKPREIS FÜR MUSIKALISCHE NACHWUCHSTALENTE",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/houwald-musikpreis-fuer-musikalische-nachwuchstalente/",
+      "publishedAt": "2026-08-27T13:26:13.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-erweiterungsbau-der-liuba-grundschule-eroeffnet",
+      "title": "ERWEITERUNGSBAU DER LIUBA-GRUNDSCHULE ERÖFFNET",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/erweiterungsbau-der-liuba-grundschule-eroeffnet/",
+      "publishedAt": "2026-08-24T07:06:24.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-paul-gerhardt-gedenkjahr-2026",
+      "title": "PAUL-GERHARDT-GEDENKJAHR 2026",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/paul-gerhardt-gedenkjahr-2026/",
+      "publishedAt": "2026-08-21T08:46:48.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-rathaus-telefonisch-nicht-erreichbar",
+      "title": "RATHAUS ZEITWEISE TELEFONISCH NICHT ERREICHBAR",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/rathaus-telefonisch-nicht-erreichbar/",
+      "publishedAt": "2026-08-21T08:26:46.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-wasserentnahme-an-oberflaechengewaessern",
+      "title": "WASSERENTNAHME AN OBERFLÄCHENGEWÄSSERN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/wasserentnahme-an-oberflaechengewaessern/",
+      "publishedAt": "2026-08-21T07:22:23.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-neuer-vorsitzender-im-seniorenbeirat-gewaehlt",
+      "title": "NEUER VORSITZENDER IM SENIORENBEIRAT",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/neuer-vorsitzender-im-seniorenbeirat-gewaehlt/",
+      "publishedAt": "2026-08-13T08:58:18.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-neue-verstaerkung-fuer-den-mupaed",
+      "title": "NEUE VERSTÄRKUNG FÜR DEN MUPÄD",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/neue-verstaerkung-fuer-den-mupaed/",
+      "publishedAt": "2026-08-13T08:45:11.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-wirtschaft-im-dialog-ministerin-martina-klement-besucht-luebben",
+      "title": "MINISTERIN KLEMENT BESUCHT LÜBBEN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/wirtschaft-im-dialog-ministerin-martina-klement-besucht-luebben/",
+      "publishedAt": "2026-08-06T12:29:36.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-abfahrtsorte-fuer-gewerbliche-kahnfahrten",
+      "title": "ABFAHRTSORTE FÜR GEWERBLICHE KAHNFAHRTEN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/abfahrtsorte-fuer-gewerbliche-kahnfahrten/",
+      "publishedAt": "2026-08-05T12:41:31.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-spreewaelder-gurkentag-2027",
+      "title": "SPREEWÄLDER GURKENTAG 2027 KOMMT NACH LÜBBEN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/spreewaelder-gurkentag-2027/",
+      "publishedAt": "2026-08-03T07:18:13.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-entkrautung-der-spreelagune",
+      "title": "ENTKRAUTUNG DER SPREELAGUNE",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/entkrautung-der-spreelagune/",
+      "publishedAt": "2026-07-31T06:58:42.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-wirtschaft-im-fokus-stadt-laedt-zum-dialog",
+      "title": "WIRTSCHAFT IM FOKUS: STADT LÄDT ZUM DIALOG",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/wirtschaft-im-fokus-stadt-laedt-zum-dialog/",
+      "publishedAt": "2026-07-30T08:07:10.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-mupaed-sommerprogramm",
+      "title": "MUPÄD LÄDT ZUM SOMMERPROGRAMM FÜR KINDER",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/mupaed-sommerprogramm/",
+      "publishedAt": "2026-07-27T16:02:15.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-trinkwasserversorgung",
+      "title": "TRINKWASSERVERSORGUNG WIEDERHERGESTELLT",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/trinkwasserversorgung/",
+      "publishedAt": "2026-07-22T07:42:37.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-ausschreibung-schlossrestaurant",
+      "title": "AUSSCHREIBUNG SCHLOSSRESTAURANT",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/ausschreibung-schlossrestaurant/",
+      "publishedAt": "2026-07-21T12:36:29.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-neue-gestaltung-kreisverkehr-lindenstrasse",
+      "title": "HOLZBRÜCKE ZIEHT AUF KREISVERKEHR LINDENSTRASSE",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/neue-gestaltung-kreisverkehr-lindenstrasse/",
+      "publishedAt": "2026-07-21T11:19:52.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-sanierung-von-abwasserschachtdeckeln",
+      "title": "SANIERUNG VON ABWASSERSCHACHTDECKELN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/sanierung-von-abwasserschachtdeckeln/",
+      "publishedAt": "2026-07-20T13:41:59.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-nachtbaustelle",
+      "title": "NACHTBAUSTELLE IN DER COTTBUSER STRASSE (L49)",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/nachtbaustelle/",
+      "publishedAt": "2026-07-16T14:10:15.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-lebensart-auf-der-schlossinsel",
+      "title": "MESSE LEBENSART BRINGT GARTENTRENDS AUF DIE SCHLOSSINSEL",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/lebensart-auf-der-schlossinsel/",
+      "publishedAt": "2026-07-16T08:26:29.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-hort-baut-nistkaesten",
+      "title": "GEMEINSAM FÜR GESUNDE EICHEN UND ARTENVIELFALT",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/hort-baut-nistkaesten/",
+      "publishedAt": "2026-07-14T13:32:24.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-suew-service-gmbh-zieht-ins-rathaus",
+      "title": "SÜW SERVICE GMBH ZIEHT INS RATHAUS",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/suew-service-gmbh-zieht-ins-rathaus/",
+      "publishedAt": "2026-07-13T14:14:13.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-waldbraende-vermeiden",
+      "title": "VERMEIDUNG VON WALDBRÄNDEN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/waldbraende-vermeiden/",
+      "publishedAt": "2026-07-13T06:54:28.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-10-buergerdialog",
+      "title": "10. BÜRGERDIALOG „IDEEN FÜR EIN STARKES MITEINANDER“",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/10-buergerdialog/",
+      "publishedAt": "2026-07-09T13:01:39.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-eroeffnung-der-personenunterfuehrung-1",
+      "title": "ERÖFFNUNG DER PERSONENUNTERFÜHRUNG",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/eroeffnung-der-personenunterfuehrung-1/",
+      "publishedAt": "2026-07-08T08:31:25.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-kommunen-am-limit-information",
+      "title": "KOMMUNEN AM LIMIT",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/kommunen-am-limit-information/",
+      "publishedAt": "2026-07-01T13:45:46.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-information-fuer-garagenbesitzer",
+      "title": "ÄNDERUNG VON GARAGENPACHTVERTRÄGEN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/information-fuer-garagenbesitzer/",
+      "publishedAt": "2026-07-01T13:43:33.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-schlossinsel-mit-neuer-familientoilette",
+      "title": "NEUE FAMILIENTOILETTE AM WASSERSPIELPLATZ",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/schlossinsel-mit-neuer-familientoilette/",
+      "publishedAt": "2026-06-30T13:11:24.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-infoveranstaltung-gefoerderter-glasfaserausbau",
+      "title": "INFOVERANSTALTUNG | GEFÖRDERTER GLASFASERAUSBAU",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/infoveranstaltung-gefoerderter-glasfaserausbau/",
+      "publishedAt": "2026-06-26T11:45:33.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-verkuerzte-oeffnungszeiten-luebbener-wochenmarkt-kw-26",
+      "title": "LÜBBENER WOCHENMARKT WEGEN HOHER TEMPERATUREN MIT VERKÜRZTEN ÖFFNUNGSZEITEN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/verkuerzte-oeffnungszeiten-luebbener-wochenmarkt-kw-26/",
+      "publishedAt": "2026-06-23T10:30:15.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-kommunen-am-limit",
+      "title": "KOMMUNEN AM LIMIT",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/kommunen-am-limit/",
+      "publishedAt": "2026-06-19T10:07:44.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-ausstellungseroeffnung-mit-ruediger-neick",
+      "title": "AUSSTELLUNGSERÖFFNUNG MIT RÜDIGER NEICK",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/ausstellungseroeffnung-mit-ruediger-neick/",
+      "publishedAt": "2026-06-19T09:05:05.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-gegendarstellung-interview-im-luebbener-herold",
+      "title": "GEGENDARSTELLUNG | INTERVIEW IM LÜBBENER HEROLD",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/gegendarstellung-interview-im-luebbener-herold/",
+      "publishedAt": "2026-06-19T07:26:02.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-fundsachen",
+      "title": "FUNDSACHEN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/fundsachen/",
+      "publishedAt": "2026-06-18T11:30:41.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-kahnkorso-2026",
+      "title": "KAHNKORSO ZUM 1. LÜBBENER HAFENFEST",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/kahnkorso-2026/",
+      "publishedAt": "2026-06-18T09:52:54.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-eu-bericht-spreelagune",
+      "title": "EU-BERICHT LOBT RASTWANDERPLATZ SPREELAGUNE",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/eu-bericht-spreelagune/",
+      "publishedAt": "2026-06-16T11:47:39.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-kreisverkehr-berliner-chaussee",
+      "title": "INSTANDSETZUNG KREISEL BERLINER CHAUSSEE",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/kreisverkehr-berliner-chaussee/",
+      "publishedAt": "2026-06-09T12:57:23.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-verlegung-luebbener-wochenmarkt-12-06",
+      "title": "WOCHENMARKT IN BREITE STRASSE VERLEGT",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/verlegung-luebbener-wochenmarkt-12-06/",
+      "publishedAt": "2026-06-08T11:59:10.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-sperrung-schlossinsel",
+      "title": "SPERRUNG SCHLOSSINSEL",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/sperrung-schlossinsel/",
+      "publishedAt": "2026-06-05T10:55:45.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-wohnbaulandstrategie",
+      "title": "KOMMUNALE WOHNBAULANDSTRATIEGIE",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/wohnbaulandstrategie/",
+      "publishedAt": "2026-06-05T08:09:56.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-eichenprozessionsspinner",
+      "title": "STADT INFORMIERT ÜBER EICHENPROZESSIONSSPINNER",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/eichenprozessionsspinner/",
+      "publishedAt": "2026-06-02T13:35:49.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-1-nachtragshaushalt-beschlossen",
+      "title": "1. NACHTRAGSHAUSHALT BESCHLOSSEN",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/1-nachtragshaushalt-beschlossen/",
+      "publishedAt": "2026-06-02T13:16:19.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
+    {
+      "id": "luebben-news-luebbener-ferienspass",
+      "title": "LÜBBENER FERIENSPASS",
+      "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/luebbener-ferienspass/",
+      "publishedAt": "2026-06-01T12:06:04.000Z",
+      "fetchedAt": "2026-09-11T09:53:35.451Z",
+      "updatedAt": "2026-09-11T11:06:54.176Z"
+    },
     {
       "id": "luebben-news-museumsgeburtstag-kinderspektakel-1",
       "title": "MUSEUMSGEBURTSTAG & KINDERSPEKTAKEL",
@@ -163,11 +611,11 @@
     },
     {
       "id": "luebben-news-fete-de-la-musique",
-      "title": "AUFRUF ZUR FÊTE DE LA MUSIQUE AM 21.06.",
+      "title": "FÊTE DE LA MUSIQUE IN LÜBBEN",
       "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/fete-de-la-musique/",
       "publishedAt": "2026-04-02T09:40:59.000Z",
       "fetchedAt": "2026-05-08T18:45:11.211Z",
-      "updatedAt": "2026-05-08T18:45:11.211Z"
+      "updatedAt": "2026-09-11T11:06:54.176Z"
     },
     {
       "id": "luebben-news-ehrenamtspreis-2026",
@@ -219,11 +667,11 @@
     },
     {
       "id": "luebben-news-luebbener-hafenfest",
-      "title": "1. LÜBBENER HAFENFEST VERGEBEN",
+      "title": "1. LÜBBENER HAFENFEST",
       "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/luebbener-hafenfest/",
       "publishedAt": "2026-03-26T16:01:48.000Z",
       "fetchedAt": "2026-05-08T18:45:11.211Z",
-      "updatedAt": "2026-05-08T18:45:11.211Z"
+      "updatedAt": "2026-09-11T11:06:54.176Z"
     },
     {
       "id": "luebben-news-ordnungsbehoerdliche-verordnung-beschlossen",
@@ -427,11 +875,11 @@
     },
     {
       "id": "luebben-news-bahnhofsumfeld",
-      "title": "BAHNHOFSUMFELD & PERSONENUNTERFÜHRUNG",
+      "title": "BAHNHOFSUMFELD & PERSONENUNTERFÜHRUNG (PU)",
       "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/bahnhofsumfeld/",
       "publishedAt": "2026-02-18T13:19:13.000Z",
       "fetchedAt": "2026-05-08T18:45:11.211Z",
-      "updatedAt": "2026-05-08T18:45:11.211Z"
+      "updatedAt": "2026-09-11T11:06:54.176Z"
     },
     {
       "id": "luebben-news-bfw-arbeitskreis-development",
@@ -1075,11 +1523,11 @@
     },
     {
       "id": "luebben-news-shoppingnacht",
-      "title": "3. QUARK-LEINÖL-MEILE MIT SHOPPINGNACHT",
+      "title": "LÜBBENER SHOPPINGNACHT",
       "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/shoppingnacht/",
       "publishedAt": "2025-09-23T14:51:26.000Z",
       "fetchedAt": "2026-05-08T18:45:11.211Z",
-      "updatedAt": "2026-05-08T18:45:11.211Z"
+      "updatedAt": "2026-09-11T11:06:54.176Z"
     },
     {
       "id": "luebben-news-stadt-unterstuetzt-laubentsorgung",
@@ -1259,11 +1707,11 @@
     },
     {
       "id": "luebben-news-luebben-hoch-6",
-      "title": "LÜBBEN HOCH 6 IM ZEICHEN DES JUBILÄUMS",
+      "title": "LÜBBEN HOCH 6 IM ZEICHEN PAUL GERHARDTS",
       "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/luebben-hoch-6/",
       "publishedAt": "2025-08-20T13:02:42.000Z",
       "fetchedAt": "2026-05-08T18:45:11.211Z",
-      "updatedAt": "2026-05-08T18:45:11.211Z"
+      "updatedAt": "2026-09-11T11:06:54.176Z"
     },
     {
       "id": "luebben-news-die-faszination-fuer-mathematik-in-der-musik",
@@ -1315,11 +1763,11 @@
     },
     {
       "id": "luebben-news-stadtradeln",
-      "title": "STADTRADELN | LÜBBEN BRICHT REKORD",
+      "title": "STADTRADELN | AUFRUF ZUR TEILNAHME",
       "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/stadtradeln/",
       "publishedAt": "2025-07-31T12:09:25.000Z",
       "fetchedAt": "2026-05-08T18:45:11.211Z",
-      "updatedAt": "2026-05-08T18:45:11.211Z"
+      "updatedAt": "2026-09-11T11:06:54.176Z"
     },
     {
       "id": "luebben-news-wasserspielplatz",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:15:00.280Z",
+  "updatedAt": "2026-09-11T11:11:24.869Z",
   "items": [
     {
       "id": "ausscheid-der-freiwilligen-feuer-und-jugendwehren-des-amtes-barnim-oderbruch",
@@ -90,6 +90,24 @@
       "description": "Für das leibliche Wohl ist gesorgt.",
       "fetchedAt": "2026-05-31T13:15:00.274Z",
       "updatedAt": "2026-05-31T13:15:00.274Z"
+    },
+    {
+      "id": "hoffest-auf-dem-ziegenhof-in-zollbruecke",
+      "title": "Hoffest auf dem Ziegenhof in Zollbrücke",
+      "url": "https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/hoffest-auf-dem-ziegenhof-in-zollbruecke",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "description": "von 10-16 Uhr",
+      "fetchedAt": "2026-09-11T09:57:22.115Z",
+      "updatedAt": "2026-09-11T11:11:24.857Z"
+    },
+    {
+      "id": "neulewiner-oktoberfest",
+      "title": "Neulewiner Oktoberfest",
+      "url": "https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/neulewiner-oktoberfest",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "description": "ab 19 Uhr in der Sporthalle",
+      "fetchedAt": "2026-09-11T09:57:22.115Z",
+      "updatedAt": "2026-09-11T11:11:24.857Z"
     }
   ]
 }

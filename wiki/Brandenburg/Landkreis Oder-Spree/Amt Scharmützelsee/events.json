@@ -1,896 +1,23 @@
 {
-  "updatedAt": "2026-05-31T13:16:13.953Z",
+  "updatedAt": "2026-09-11T11:12:47.193Z",
   "items": [
     {
-      "id": "2906204-2026-05-29-650-jahre-wendisch-rietz",
-      "title": "650 Jahre Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2906204/2026/05/29/650-jahre-wendisch-rietz.html",
-      "startDate": "2026-05-29T00:00:00.000Z",
-      "location": "Gemeinde Wendisch Rietz · Festwiese Hauptstraße/Seestraße · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2892696-2026-05-31-bad-saarow-liest-ein-buch",
-      "title": "\"Bad Saarow liest ein Buch\"",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2892696/2026/05/31/bad-saarow-liest-ein-buch.html",
-      "startDate": "2026-05-31T10:00:00.000Z",
-      "location": "Bibliothek Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2903511-2026-06-04-könig-drosselbart-im-puppentheater",
-      "title": "König Drosselbart im Puppentheater",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2903511/2026/06/04/könig-drosselbart-im-puppentheater.html",
-      "startDate": "2026-06-04T09:00:00.000Z",
-      "location": "Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2852626-2026-06-04-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/06/04/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-06-04T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908980-2026-06-04-schlauberger-treff-in-der-gemeindebibliothek-bad-saarow",
-      "title": "Schlauberger-Treff in der Gemeindebibliothek Bad Saarow",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908980/2026/06/04/schlauberger-treff-in-der-gemeindebibliothek-bad-saarow.html",
-      "startDate": "2026-06-04T16:30:00.000Z",
-      "location": "Bibliothek Bad Saarow",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2892702-2026-06-04-bad-saarow-liest-ein-buch",
-      "title": "\"Bad Saarow liest ein Buch\"",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2892702/2026/06/04/bad-saarow-liest-ein-buch.html",
-      "startDate": "2026-06-04T19:00:00.000Z",
-      "location": "Bibliothek Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2870625-2026-06-04-lesung-mit-nicci-schmieder",
-      "title": "Lesung mit Nicci Schmieder",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2870625/2026/06/04/lesung-mit-nicci-schmieder.html",
-      "startDate": "2026-06-04T19:00:00.000Z",
-      "location": "Bücher & mehr - Haus des Gastes · Kleine Promenade 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2907491-2026-06-05-ausstellung-im-scharwenkahaus",
-      "title": "Ausstellung im Scharwenkahaus",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2907491/2026/06/05/ausstellung-im-scharwenkahaus.html",
-      "startDate": "2026-06-05T19:00:00.000Z",
-      "location": "Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2908806-2026-06-06-kinderaktionstag-im-märchenwald",
-      "title": "Kinderaktionstag im Märchenwald",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908806/2026/06/06/kinderaktionstag-im-märchenwald.html",
-      "startDate": "2026-06-06T14:00:00.000Z",
-      "location": "Märchenwald Pieskow · Dorfstraße 4 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2903513-2026-06-06-klavierkonzert-mit-wichtigen-personen",
-      "title": "Klavierkonzert mit \"wichtigen Personen\"",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2903513/2026/06/06/klavierkonzert-mit-wichtigen-personen.html",
-      "startDate": "2026-06-06T18:00:00.000Z",
-      "location": "Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2812160-2026-06-07-klassik-am-see-bad-saarow-eduards-traum-von-wilhelm-busch",
-      "title": "KLASSIK AM SEE BAD SAAROW: Eduards Traum von Wilhelm Busch",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2812160/2026/06/07/klassik-am-see-bad-saarow-eduards-traum-von-wilhelm-busch.html",
-      "startDate": "2026-06-07T17:00:00.000Z",
-      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2852626-2026-06-11-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/06/11/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-06-11T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2812164-2026-06-12-ausverkauft-quatsch-comedy-club--die-live-show-zu-gast-in-bad",
-      "title": "+AUSVERKAUFT+ QUATSCH COMEDY CLUB &ndash; Die Live Show zu Gast in Bad Saarow",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2812164/2026/06/12/ausverkauft-quatsch-comedy-club--die-live-show-zu-gast-in-bad-saarow.html",
-      "startDate": "2026-06-12T20:00:00.000Z",
-      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2901802-2026-06-13-aktion-naturraum-wir-machen-sauber",
-      "title": "AKTION NATURRAUM: Wir machen sauber!",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2901802/2026/06/13/aktion-naturraum-wir-machen-sauber.html",
-      "startDate": "2026-06-13T10:00:00.000Z",
-      "location": "Haltepunkt/Bahnhofsplatz · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2903563-2026-06-13-führungen-im-scharwenkahaus",
-      "title": "Führungen im Scharwenkahaus",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2903563/2026/06/13/führungen-im-scharwenkahaus.html",
-      "startDate": "2026-06-13T13:00:00.000Z",
-      "location": "Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2906801-2026-06-13-bad-saarow-liest-ein-buch",
-      "title": "\"Bad Saarow liest ein Buch\"",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2906801/2026/06/13/bad-saarow-liest-ein-buch.html",
-      "startDate": "2026-06-13T14:00:00.000Z",
-      "location": "Bibliothek Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2816051-2026-06-14-tanz-brunch-im-juni",
-      "title": "TANZ & BRUNCH IM JUNI",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2816051/2026/06/14/tanz-brunch-im-juni.html",
-      "startDate": "2026-06-14T11:00:00.000Z",
-      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2847493-2026-06-15-kleinkunst-in-der-theaterlounge-im-juni",
-      "title": "KLEINKUNST IN DER THEATERLOUNGE im Juni",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2847493/2026/06/15/kleinkunst-in-der-theaterlounge-im-juni.html",
-      "startDate": "2026-06-15T19:00:00.000Z",
-      "location": "Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2900197-2026-06-18-sunset-lounge-und-aperitivo-im-kin-fusion-kitchen",
-      "title": "Sunset Lounge und Aperitivo im KIN Fusion Kitchen",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2900197/2026/06/18/sunset-lounge-und-aperitivo-im-kin-fusion-kitchen.html",
-      "startDate": "2026-06-18T00:00:00.000Z",
-      "location": "KIN Fusion Kitchen · Ulmenstr. 2 · Kurpark Kolonnaden · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2852626-2026-06-18-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/06/18/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-06-18T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2900195-2026-06-18-sunset-lounge-und-aperitivo-im-kin-fusion-kitchen",
-      "title": "Sunset Lounge und Aperitivo im KIN Fusion Kitchen",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2900195/2026/06/18/sunset-lounge-und-aperitivo-im-kin-fusion-kitchen.html",
-      "startDate": "2026-06-18T17:00:00.000Z",
-      "location": "KIN Fusion Kitchen · Ulmenstr. 2 · Kurpark Kolonnaden · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2883447-2026-06-18-wurzeln-wandel-der-lausitz-eine-heimatkundliche-spurensuche",
-      "title": "WURZELN & WANDEL DER LAUSITZ - Eine heimatkundliche Spurensuche",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2883447/2026/06/18/wurzeln-wandel-der-lausitz-eine-heimatkundliche-spurensuche.html",
-      "startDate": "2026-06-18T19:00:00.000Z",
-      "location": "Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2892704-2026-06-20-bad-saarow-liest-ein-buch",
-      "title": "\"Bad Saarow liest ein Buch\"",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2892704/2026/06/20/bad-saarow-liest-ein-buch.html",
-      "startDate": "2026-06-20T17:00:00.000Z",
-      "location": "Bibliothek Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2853532-2026-06-21-sonntagsbrunch",
-      "title": "Sonntagsbrunch",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853532/2026/06/21/sonntagsbrunch.html",
-      "startDate": "2026-06-21T10:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2903562-2026-06-21-kurkonzert-auf-der-neuen-gartenbühne",
-      "title": "Kurkonzert auf der neuen Gartenbühne",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2903562/2026/06/21/kurkonzert-auf-der-neuen-gartenbühne.html",
-      "startDate": "2026-06-21T15:30:00.000Z",
-      "location": "Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2852626-2026-06-25-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/06/25/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-06-25T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2892817-2026-06-26-bad-saarow-liest-ein-buch",
-      "title": "\"Bad Saarow liest ein Buch\"",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2892817/2026/06/26/bad-saarow-liest-ein-buch.html",
-      "startDate": "2026-06-26T18:00:00.000Z",
-      "location": "Bibliothek Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2816067-2026-06-26-after-work-dance-in-der-lounge-im-juni",
-      "title": "AFTER WORK DANCE in der Lounge im Juni",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2816067/2026/06/26/after-work-dance-in-der-lounge-im-juni.html",
-      "startDate": "2026-06-26T19:00:00.000Z",
-      "location": "Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2903564-2026-06-27-tango-im-scharwenkagarten",
-      "title": "Tango im Scharwenkagarten",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2903564/2026/06/27/tango-im-scharwenkagarten.html",
-      "startDate": "2026-06-27T16:00:00.000Z",
-      "location": "Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2883884-2026-06-27-the-end-is-the-beginning--the-legacy-of-black-sabbath",
-      "title": "The End is the Beginning &ndash; The Legacy of Black Sabbath",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2883884/2026/06/27/the-end-is-the-beginning--the-legacy-of-black-sabbath.html",
-      "startDate": "2026-06-27T21:00:00.000Z",
-      "location": "Alte Schulscheune · Schulweg 1 · 15864 Diensdorf-Radlow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2909003-2026-06-30-vorlesestunde-in-der-gemeindebibliothek-bad-saarow",
-      "title": "Vorlesestunde in der Gemeindebibliothek Bad Saarow",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2909003/2026/06/30/vorlesestunde-in-der-gemeindebibliothek-bad-saarow.html",
-      "startDate": "2026-06-30T16:00:00.000Z",
-      "location": "Bibliothek Bad Saarow",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2852626-2026-07-02-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/07/02/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-07-02T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2853527-2026-07-02-abendfahrt-zum-sonnenuntergang",
-      "title": "Abendfahrt zum Sonnenuntergang",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853527/2026/07/02/abendfahrt-zum-sonnenuntergang.html",
-      "startDate": "2026-07-02T19:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2835135-2026-07-05-leute-bei-lippert-exklusiv-im-theater-am-see",
-      "title": "LEUTE BEI LIPPERT exklusiv im Theater am See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2835135/2026/07/05/leute-bei-lippert-exklusiv-im-theater-am-see.html",
-      "startDate": "2026-07-05T17:00:00.000Z",
-      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-07-09-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/09/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-09T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2852626-2026-07-09-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/07/09/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-07-09T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2900198-2026-07-09-summer-grill-jazz-night-im-kin-fusion-kitchen",
-      "title": "Summer Grill & Jazz Night im KIN Fusion Kitchen",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2900198/2026/07/09/summer-grill-jazz-night-im-kin-fusion-kitchen.html",
-      "startDate": "2026-07-09T18:30:00.000Z",
-      "location": "KIN Fusion Kitchen · Ulmenstr. 2 · Kurpark Kolonnaden · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2853527-2026-07-09-abendfahrt-zum-sonnenuntergang",
-      "title": "Abendfahrt zum Sonnenuntergang",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853527/2026/07/09/abendfahrt-zum-sonnenuntergang.html",
-      "startDate": "2026-07-09T19:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-07-10-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/10/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-10T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2903696-2026-07-11-aktion-naturraum-wir-machen-sauber",
-      "title": "AKTION NATURRAUM: Wir machen sauber!",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2903696/2026/07/11/aktion-naturraum-wir-machen-sauber.html",
-      "startDate": "2026-07-11T10:00:00.000Z",
-      "location": "Picknickhütte Silbersee · Silberberger Chaussee 73 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2908824-2026-07-11-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/11/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-11T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2883886-2026-07-11-clapton-experience-aus-dem-rhein-neckar-raum",
-      "title": "Clapton Experience aus dem Rhein-Neckar-Raum",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2883886/2026/07/11/clapton-experience-aus-dem-rhein-neckar-raum.html",
-      "startDate": "2026-07-11T21:00:00.000Z",
-      "location": "Alte Schulscheune · Schulweg 1 · 15864 Diensdorf-Radlow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-07-12-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/12/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-12T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-07-15-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/15/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-15T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-07-16-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/16/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-16T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2852626-2026-07-16-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/07/16/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-07-16T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2853527-2026-07-16-abendfahrt-zum-sonnenuntergang",
-      "title": "Abendfahrt zum Sonnenuntergang",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853527/2026/07/16/abendfahrt-zum-sonnenuntergang.html",
-      "startDate": "2026-07-16T19:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-07-17-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/17/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-17T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-07-18-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/18/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-18T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2853541-2026-07-19-sonntagsbrunch",
-      "title": "Sonntagsbrunch",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853541/2026/07/19/sonntagsbrunch.html",
-      "startDate": "2026-07-19T10:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-07-19-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/19/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-19T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2900172-2026-07-20-kleinkunst-in-der-theaterlounge-im-juli",
-      "title": "KLEINKUNST IN DER THEATERLOUNGE im Juli",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2900172/2026/07/20/kleinkunst-in-der-theaterlounge-im-juli.html",
-      "startDate": "2026-07-20T19:00:00.000Z",
-      "location": "Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2908824-2026-07-22-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/22/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-22T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-07-23-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/23/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-23T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2852626-2026-07-23-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/07/23/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-07-23T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2853527-2026-07-23-abendfahrt-zum-sonnenuntergang",
-      "title": "Abendfahrt zum Sonnenuntergang",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853527/2026/07/23/abendfahrt-zum-sonnenuntergang.html",
-      "startDate": "2026-07-23T19:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-07-24-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/24/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-24T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-07-25-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/25/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-25T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-07-26-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/26/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-26T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2816068-2026-07-26-klassik-am-see-bad-saarow-quantum-clarinet-trio",
-      "title": "KLASSIK AM SEE BAD SAAROW: Quantum Clarinet Trio",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2816068/2026/07/26/klassik-am-see-bad-saarow-quantum-clarinet-trio.html",
-      "startDate": "2026-07-26T17:00:00.000Z",
-      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-07-29-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/29/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-29T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-07-30-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/30/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-30T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2852626-2026-07-30-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/07/30/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-07-30T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2853527-2026-07-30-abendfahrt-zum-sonnenuntergang",
-      "title": "Abendfahrt zum Sonnenuntergang",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853527/2026/07/30/abendfahrt-zum-sonnenuntergang.html",
-      "startDate": "2026-07-30T19:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-07-31-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/07/31/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-07-31T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2816069-2026-07-31-after-work-dance-in-der-lounge-im-juli",
-      "title": "AFTER WORK DANCE in der Lounge im Juli",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2816069/2026/07/31/after-work-dance-in-der-lounge-im-juli.html",
-      "startDate": "2026-07-31T19:00:00.000Z",
-      "location": "Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-08-01-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/01/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-01T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2884021-2026-08-01-achtung-baby-the-ultimate-tribute-to-u2",
-      "title": "Achtung Baby - the ultimate tribute to U2!",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2884021/2026/08/01/achtung-baby-the-ultimate-tribute-to-u2.html",
-      "startDate": "2026-08-01T21:00:00.000Z",
-      "location": "Alte Schulscheune · Schulweg 1 · 15864 Diensdorf-Radlow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-08-02-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/02/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-02T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-08-05-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/05/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-05T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-08-06-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/06/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-06T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2852626-2026-08-06-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/08/06/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-08-06T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2853527-2026-08-06-abendfahrt-zum-sonnenuntergang",
-      "title": "Abendfahrt zum Sonnenuntergang",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853527/2026/08/06/abendfahrt-zum-sonnenuntergang.html",
-      "startDate": "2026-08-06T19:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-08-07-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/07/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-07T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-08-08-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/08/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-08T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2900178-2026-08-08-ü30--die-schöne-party",
-      "title": "Ü30 &ndash; Die schöne Party",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2900178/2026/08/08/ü30--die-schöne-party.html",
-      "startDate": "2026-08-08T20:00:00.000Z",
-      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2908824-2026-08-09-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/09/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-09T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-08-12-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/12/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-12T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2908824-2026-08-13-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/13/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-13T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2852626-2026-08-13-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/08/13/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-08-13T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2853527-2026-08-13-abendfahrt-zum-sonnenuntergang",
-      "title": "Abendfahrt zum Sonnenuntergang",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853527/2026/08/13/abendfahrt-zum-sonnenuntergang.html",
-      "startDate": "2026-08-13T19:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-08-14-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/14/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-14T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2903702-2026-08-15-aktion-naturraum-wir-machen-sauber",
-      "title": "AKTION NATURRAUM: Wir machen sauber!",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2903702/2026/08/15/aktion-naturraum-wir-machen-sauber.html",
-      "startDate": "2026-08-15T10:00:00.000Z",
-      "location": "Parkplatz am Hafen · Seestraße 51 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2908824-2026-08-15-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/15/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-15T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2884052-2026-08-15-traditional-jazz--blues--swing-open-air-mit-den-dixie-brother",
-      "title": "Traditional Jazz &ndash; Blues &ndash; Swing open air mit den Dixie Brothers",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2884052/2026/08/15/traditional-jazz--blues--swing-open-air-mit-den-dixie-brothers.html",
-      "startDate": "2026-08-15T20:00:00.000Z",
-      "location": "Alte Schulscheune · Schulweg 1 · 15864 Diensdorf-Radlow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2853537-2026-08-16-sonntagsbrunch",
-      "title": "Sonntagsbrunch",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853537/2026/08/16/sonntagsbrunch.html",
-      "startDate": "2026-08-16T10:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2908824-2026-08-16-puppentheater-traumland-in-wendisch-rietz",
-      "title": "Puppentheater Traumland in Wendisch Rietz",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2908824/2026/08/16/puppentheater-traumland-in-wendisch-rietz.html",
-      "startDate": "2026-08-16T11:00:00.000Z",
-      "location": "Puppentheater Traumland · Am Freizeitpark 1 · 15864 Wendisch Rietz",
-      "fetchedAt": "2026-05-31T13:16:13.944Z",
-      "updatedAt": "2026-05-31T13:16:13.944Z"
-    },
-    {
-      "id": "2847496-2026-08-17-kleinkunst-in-der-theaterlounge-im-august",
-      "title": "KLEINKUNST IN DER THEATERLOUNGE im August",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2847496/2026/08/17/kleinkunst-in-der-theaterlounge-im-august.html",
-      "startDate": "2026-08-17T19:00:00.000Z",
-      "location": "Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2852626-2026-08-20-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/08/20/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-08-20T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2900202-2026-08-20-piano-candle-light-dinner-im-kin-fusion-kitchen",
-      "title": "Piano & Candle Light Dinner im KIN Fusion Kitchen",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2900202/2026/08/20/piano-candle-light-dinner-im-kin-fusion-kitchen.html",
-      "startDate": "2026-08-20T19:00:00.000Z",
-      "location": "KIN Fusion Kitchen · Ulmenstr. 2 · Kurpark Kolonnaden · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-26T09:04:13.153Z",
-      "updatedAt": "2026-05-26T09:04:13.153Z"
-    },
-    {
-      "id": "2853527-2026-08-20-abendfahrt-zum-sonnenuntergang",
-      "title": "Abendfahrt zum Sonnenuntergang",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853527/2026/08/20/abendfahrt-zum-sonnenuntergang.html",
-      "startDate": "2026-08-20T19:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2852626-2026-08-27-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/08/27/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-08-27T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2816072-2026-08-28-after-work-dance-in-der-lounge-im-august",
-      "title": "AFTER WORK DANCE in der Lounge im August",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2816072/2026/08/28/after-work-dance-in-der-lounge-im-august.html",
-      "startDate": "2026-08-28T19:00:00.000Z",
-      "location": "Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2816071-2026-08-29-karussell-rockband",
-      "title": "KARUSSELL Rockband",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2816071/2026/08/29/karussell-rockband.html",
-      "startDate": "2026-08-29T19:00:00.000Z",
-      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2884058-2026-08-29-george-the-midnight-special-der-ccr-abend-an-der-schulscheune",
-      "title": "George & The Midnight Special - Der CCR Abend an der Schulscheune",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2884058/2026/08/29/george-the-midnight-special-der-ccr-abend-an-der-schulscheune.html",
-      "startDate": "2026-08-29T21:00:00.000Z",
-      "location": "Alte Schulscheune · Schulweg 1 · 15864 Diensdorf-Radlow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2852626-2026-09-03-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/09/03/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-09-03T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2855204-2026-09-04-move-mix-in-der-lounge",
-      "title": "MOVE & MIX in der Lounge",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2855204/2026/09/04/move-mix-in-der-lounge.html",
-      "startDate": "2026-09-04T19:00:00.000Z",
-      "location": "Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2871470-2026-09-05-2.-schlagernacht-im-theater-am-see",
-      "title": "2. Schlagernacht im Theater am See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2871470/2026/09/05/2.-schlagernacht-im-theater-am-see.html",
-      "startDate": "2026-09-05T19:30:00.000Z",
-      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2852626-2026-09-10-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/09/10/schleusenfahrt-zum-storkower-see.html",
-      "startDate": "2026-09-10T12:00:00.000Z",
-      "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
+      "id": "2964864-2026-09-11-flammender-scharmützelsee-in-bad-saarow",
+      "title": "Flammender Scharmützelsee in Bad Saarow",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2964864/2026/09/11/flammender-scharmützelsee-in-bad-saarow.html",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "location": "Flammender Scharmützelsee · Erich-Weinert-Platz / Seestraße · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
+      "id": "2960321-2026-09-11-parkkonzert-in-reichenwalde",
+      "title": "Parkkonzert in Reichenwalde",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2960321/2026/09/11/parkkonzert-in-reichenwalde.html",
+      "startDate": "2026-09-11T18:00:00.000Z",
+      "location": "Hoffnungstaler Stiftung Lobetal · Wohnstätten Reichenwalde · Dahmsdorfer Straße 6 · 15526 Reichenwakde",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
     },
     {
       "id": "2903704-2026-09-12-aktion-naturraum-wir-machen-sauber",
@@ -911,13 +38,31 @@
       "updatedAt": "2026-05-06T05:31:10.714Z"
     },
     {
-      "id": "2816073-2026-09-13-heisser-sommer--50-jahre-film-jubiläum",
-      "title": "HEISSER SOMMER &ndash; 50 Jahre Film-Jubiläum",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2816073/2026/09/13/heisser-sommer--50-jahre-film-jubiläum.html",
+      "id": "2957241-2026-09-12-nachtspiel--die-party-zum-flammenden-scharmützelsee",
+      "title": "Nach(t)spiel &ndash; Die Party zum Flammenden Scharmützelsee",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2957241/2026/09/12/nachtspiel--die-party-zum-flammenden-scharmützelsee.html",
+      "startDate": "2026-09-12T21:00:00.000Z",
+      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
+      "id": "2948561-2026-09-13-offenes-denkmal-scharwenkahaus",
+      "title": "Offenes Denkmal: Scharwenkahaus",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2948561/2026/09/13/offenes-denkmal-scharwenkahaus.html",
+      "startDate": "2026-09-13T13:00:00.000Z",
+      "location": "Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
+      "id": "2816073-2026-09-13-heisser-sommer--50-jahre-film-jubiläum-abgesagt",
+      "title": "Heisser Sommer &ndash; 50 Jahre Film-Jubiläum - ABGESAGT",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2816073/2026/09/13/heisser-sommer--50-jahre-film-jubiläum-abgesagt.html",
       "startDate": "2026-09-13T15:00:00.000Z",
       "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
     },
     {
       "id": "2852626-2026-09-17-schleusenfahrt-zum-storkower-see",
@@ -927,6 +72,33 @@
       "location": "Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saarow",
       "fetchedAt": "2026-05-06T05:31:10.714Z",
       "updatedAt": "2026-05-06T05:31:10.714Z"
+    },
+    {
+      "id": "2933676-2026-09-17-lesung-mit-eva-martina-weyer-tabakpech",
+      "title": "Lesung mit Eva-Martina Weyer: &bdquo;Tabakpech&ldquo;",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2933676/2026/09/17/lesung-mit-eva-martina-weyer-tabakpech.html",
+      "startDate": "2026-09-17T19:00:00.000Z",
+      "location": "Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
+      "id": "2952657-2026-09-19-drachenfest-in-neu-golm",
+      "title": "Drachenfest in Neu Golm",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2952657/2026/09/19/drachenfest-in-neu-golm.html",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "location": "Festwiese Neu Golm",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
+      "id": "2948563-2026-09-19-klavierkonzert-mit-vladimir-valdivia",
+      "title": "Klavierkonzert mit Vladimir Valdivia",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2948563/2026/09/19/klavierkonzert-mit-vladimir-valdivia.html",
+      "startDate": "2026-09-19T18:00:00.000Z",
+      "location": "Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
     },
     {
       "id": "2835533-2026-09-19-oktoberfest-mit-ennstaler-steirerklang",
@@ -965,6 +137,15 @@
       "updatedAt": "2026-05-06T05:31:10.714Z"
     },
     {
+      "id": "2948566-2026-09-24-reiseerzählungen-mit-michaela-münzberg",
+      "title": "Reiseerzählungen mit Michaela Münzberg",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2948566/2026/09/24/reiseerzählungen-mit-michaela-münzberg.html",
+      "startDate": "2026-09-24T15:00:00.000Z",
+      "location": "Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
       "id": "2816074-2026-09-25-after-work-dance-in-der-lounge-im-september",
       "title": "AFTER WORK DANCE in der Lounge im September",
       "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2816074/2026/09/25/after-work-dance-in-der-lounge-im-september.html",
@@ -983,6 +164,15 @@
       "updatedAt": "2026-05-06T05:31:10.714Z"
     },
     {
+      "id": "2934448-2026-09-26-tongrubenwanderung-strecke-ca.-3-km",
+      "title": "Tongrubenwanderung (Strecke: ca. 3 km)",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2934448/2026/09/26/tongrubenwanderung-strecke-ca.-3-km.html",
+      "startDate": "2026-09-26T10:00:00.000Z",
+      "location": "Fontanepark · Uferstraße/ Ecke Parkstraße · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
       "id": "2871475-2026-09-27-tanz-brunch-im-september",
       "title": "TANZ & BRUNCH IM SEPTEMBER",
       "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2871475/2026/09/27/tanz-brunch-im-september.html",
@@ -992,13 +182,13 @@
       "updatedAt": "2026-05-06T05:31:10.714Z"
     },
     {
-      "id": "2855209-2026-10-02-move-mix-in-der-lounge",
-      "title": "MOVE & MIX in der Lounge",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2855209/2026/10/02/move-mix-in-der-lounge.html",
-      "startDate": "2026-10-02T19:00:00.000Z",
-      "location": "Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
+      "id": "2964404-2026-10-01-zwischen-reet-rosenthal-und-revision--bauen-in-bad-saarow",
+      "title": "Zwischen Reet, Rosenthal und Revision &ndash; Bauen in Bad Saarow",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2964404/2026/10/01/zwischen-reet-rosenthal-und-revision--bauen-in-bad-saarow.html",
+      "startDate": "2026-10-01T19:00:00.000Z",
+      "location": "Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
     },
     {
       "id": "2897537-2026-10-03-quatsch-comedy-club--die-live-show-zu-gast-in-bad-saarow",
@@ -1019,6 +209,15 @@
       "updatedAt": "2026-05-06T05:31:10.714Z"
     },
     {
+      "id": "2934454-2026-10-10-kräuterfeen-wanderung-dauer-ca.-2-stunden",
+      "title": "Kräuterfeen-Wanderung, Dauer: ca. 2 Stunden",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2934454/2026/10/10/kräuterfeen-wanderung-dauer-ca.-2-stunden.html",
+      "startDate": "2026-10-10T10:00:00.000Z",
+      "location": "Brunnen Lebensfreude · Bahnhofsplatz · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
       "id": "2816076-2026-10-10-frank-sinatra-show--roger-pabst-the-swingin-strangers",
       "title": "FRANK SINATRA SHOW &ndash; Roger Pabst & the Swingin&lsquo; Strangers",
       "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2816076/2026/10/10/frank-sinatra-show--roger-pabst-the-swingin-strangers.html",
@@ -1026,6 +225,24 @@
       "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
       "fetchedAt": "2026-05-06T05:31:10.714Z",
       "updatedAt": "2026-05-06T05:31:10.714Z"
+    },
+    {
+      "id": "2918036-2026-10-17-vocal-day-bad-saarow-3-workshops--abendkonzert-mit-club-for-f",
+      "title": "Vocal Day Bad Saarow - 3 Workshops + Abendkonzert mit Club For Five",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2918036/2026/10/17/vocal-day-bad-saarow-3-workshops--abendkonzert-mit-club-for-five.html",
+      "startDate": "2026-10-17T09:30:00.000Z",
+      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
+      "id": "2934552-2026-10-17-aktion-naturraum-wir-machen-sauber",
+      "title": "AKTION NATURRAUM: Wir machen sauber!",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2934552/2026/10/17/aktion-naturraum-wir-machen-sauber.html",
+      "startDate": "2026-10-17T10:00:00.000Z",
+      "location": "Haltepunkt Bad Saarow · Bahnhofsplatz · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
     },
     {
       "id": "2835546-2026-10-17-club-for-five--a-cappella-quintett-aus-finnland",
@@ -1055,6 +272,24 @@
       "updatedAt": "2026-05-06T05:31:10.714Z"
     },
     {
+      "id": "2964818-2026-10-22-meise-erzählt-geschichten-und-märchen",
+      "title": "Meise erzählt Geschichten und Märchen",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2964818/2026/10/22/meise-erzählt-geschichten-und-märchen.html",
+      "startDate": "2026-10-22T15:00:00.000Z",
+      "location": "Bibliothek · Haus des Gastes · Kleine Promenade 1 · 15864 Wendisch Rietz",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
+      "id": "2964845-2026-10-22-lesekreis-bibo-wendisch-rietz",
+      "title": "Lesekreis Bibo Wendisch Rietz",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2964845/2026/10/22/lesekreis-bibo-wendisch-rietz.html",
+      "startDate": "2026-10-22T18:00:00.000Z",
+      "location": "Bibliothek · Haus des Gastes · Kleine Promenade 1 · 15864 Wendisch Rietz",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
       "id": "2871476-2026-10-25-tanz-brunch-im-oktober",
       "title": "TANZ & BRUNCH IM OKTOBER",
       "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2871476/2026/10/25/tanz-brunch-im-oktober.html",
@@ -1082,13 +317,13 @@
       "updatedAt": "2026-05-06T05:31:10.714Z"
     },
     {
-      "id": "2855215-2026-11-06-move-mix-in-der-lounge",
-      "title": "MOVE & MIX in der Lounge",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2855215/2026/11/06/move-mix-in-der-lounge.html",
-      "startDate": "2026-11-06T19:00:00.000Z",
-      "location": "Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
+      "id": "2915217-2026-11-07-quaster-friends",
+      "title": "QUASTER & FRIENDS",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2915217/2026/11/07/quaster-friends.html",
+      "startDate": "2026-11-07T20:00:00.000Z",
+      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
     },
     {
       "id": "2877157-2026-11-15-der-traumzauberbaum--das-geburtstagsfest",
@@ -1150,15 +385,6 @@
       "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2835565/2026/12/02/herkuleskeule-nur-die-harten-komm-in-garten.html",
       "startDate": "2026-12-02T19:00:00.000Z",
       "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
-      "fetchedAt": "2026-05-06T05:31:10.714Z",
-      "updatedAt": "2026-05-06T05:31:10.714Z"
-    },
-    {
-      "id": "2855219-2026-12-04-move-mix-in-der-lounge",
-      "title": "MOVE & MIX in der Lounge",
-      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2855219/2026/12/04/move-mix-in-der-lounge.html",
-      "startDate": "2026-12-04T19:00:00.000Z",
-      "location": "Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow",
       "fetchedAt": "2026-05-06T05:31:10.714Z",
       "updatedAt": "2026-05-06T05:31:10.714Z"
     },
@@ -1280,6 +506,15 @@
       "updatedAt": "2026-05-06T05:31:10.714Z"
     },
     {
+      "id": "2930506-2026-12-28-daniel-hilpert-band-30-jahre-rastlos",
+      "title": "DANiEL HiLPERT & BAND: 30 Jahre Rastlos",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2930506/2026/12/28/daniel-hilpert-band-30-jahre-rastlos.html",
+      "startDate": "2026-12-28T19:00:00.000Z",
+      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
       "id": "2853524-2026-12-29-winterfahrt",
       "title": "Winterfahrt",
       "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2853524/2026/12/29/winterfahrt.html",
@@ -1298,6 +533,33 @@
       "updatedAt": "2026-05-06T05:31:10.714Z"
     },
     {
+      "id": "2871470-2027-01-23-2.-schlagernacht-im-theater-am-see",
+      "title": "2. Schlagernacht im Theater am See",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2871470/2027/01/23/2.-schlagernacht-im-theater-am-see.html",
+      "startDate": "2027-01-23T19:30:00.000Z",
+      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
+      "id": "2915218-2027-02-05-lisa-fitz-heimleuchten--das-neue-programm",
+      "title": "LISA FITZ: HEIMLEUCHTEN &ndash; das neue Programm",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2915218/2027/02/05/lisa-fitz-heimleuchten--das-neue-programm.html",
+      "startDate": "2027-02-05T19:30:00.000Z",
+      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
+      "id": "2927495-2027-02-16-axel-petermann-die-psyche-des-bösen",
+      "title": "AXEL PETERMANN: Die Psyche des Bösen",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2927495/2027/02/16/axel-petermann-die-psyche-des-bösen.html",
+      "startDate": "2027-02-16T19:00:00.000Z",
+      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
       "id": "2871472-2027-02-19-bruce-springsteen-thunder-road-teil-2",
       "title": "Bruce Springsteen: Thunder Road Teil 2",
       "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2871472/2027/02/19/bruce-springsteen-thunder-road-teil-2.html",
@@ -1307,6 +569,15 @@
       "updatedAt": "2026-05-06T05:31:10.714Z"
     },
     {
+      "id": "2927497-2027-03-06-ladies-night-2027--dance-party-zum-frauentag",
+      "title": "LADIES NIGHT 2027 &ndash; Dance-Party zum Frauentag",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2927497/2027/03/06/ladies-night-2027--dance-party-zum-frauentag.html",
+      "startDate": "2027-03-06T19:00:00.000Z",
+      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
       "id": "2817412-2027-04-09-genesis-classic-feat.-ray-wilson-band-upon-my-life-tour",
       "title": "GENESIS classic feat. Ray Wilson & Band &bdquo;Upon My Life Tour&ldquo;",
       "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2817412/2027/04/09/genesis-classic-feat.-ray-wilson-band-upon-my-life-tour.html",
@@ -1314,6 +585,24 @@
       "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
       "fetchedAt": "2026-05-06T05:31:10.714Z",
       "updatedAt": "2026-05-06T05:31:10.714Z"
+    },
+    {
+      "id": "2927499-2027-04-25-queen-rhapsody--natalia-posnova-antony-austin",
+      "title": "QUEEN RHAPSODY &ndash; Natalia Posnova & Antony Austin",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2927499/2027/04/25/queen-rhapsody--natalia-posnova-antony-austin.html",
+      "startDate": "2027-04-25T18:30:00.000Z",
+      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
+    },
+    {
+      "id": "2929746-2027-05-04-simone-solga--sie-kennen-mich",
+      "title": "SIMONE SOLGA &ndash; Sie kennen mich",
+      "url": "https://www.amt-scharmuetzelsee.de/veranstaltungen/2929746/2027/05/04/simone-solga--sie-kennen-mich.html",
+      "startDate": "2027-05-04T19:30:00.000Z",
+      "location": "Theater am See · Seestraße 22 · 15526 Bad Saarow",
+      "fetchedAt": "2026-09-11T11:12:47.166Z",
+      "updatedAt": "2026-09-11T11:12:47.166Z"
     }
   ]
 }

@@ -107,4 +107,24 @@ URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/125-
  jahre-freiwillige-feuerwehr-altreetz
 DESCRIPTION:Für das leibliche Wohl ist gesorgt.
 END:VEVENT
+BEGIN:VEVENT
+UID:hoffest-auf-dem-ziegenhof-in-zollbruecke@amtsfeed.de
+DTSTAMP:20260911T111124Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Hoffest auf dem Ziegenhof in Zollbrücke
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/hoff
+ est-auf-dem-ziegenhof-in-zollbruecke
+DESCRIPTION:von 10-16 Uhr
+END:VEVENT
+BEGIN:VEVENT
+UID:neulewiner-oktoberfest@amtsfeed.de
+DTSTAMP:20260911T111124Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Neulewiner Oktoberfest
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/neul
+ ewiner-oktoberfest
+DESCRIPTION:ab 19 Uhr in der Sporthalle
+END:VEVENT
 END:VCALENDAR

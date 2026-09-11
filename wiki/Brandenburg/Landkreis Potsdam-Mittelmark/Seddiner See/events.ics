@@ -175,8 +175,8 @@ URL:https://www.seddiner-see.de/calendar/category?id=2
 END:VEVENT
 BEGIN:VEVENT
 UID:seddiner-see-event-447@amtsfeed.de
-DTSTAMP:20260506T120515Z
-DTSTART:20260815T130000Z
+DTSTAMP:20260911T111344Z
+DTSTART:20260725T160000Z
 DTEND:20260815T230000Z
 SUMMARY:Sommerfest Seddin
 URL:https://www.seddiner-see.de/calendar/category?id=2
@@ -216,9 +216,9 @@ URL:https://www.seddiner-see.de/calendar/category?id=2
 END:VEVENT
 BEGIN:VEVENT
 UID:seddiner-see-event-452@amtsfeed.de
-DTSTAMP:20260506T120515Z
-DTSTART:20260913T120000Z
-DTEND:20260913T160000Z
+DTSTAMP:20260911T111344Z
+DTSTART:20260913T080000Z
+DTEND:20260913T120000Z
 SUMMARY:Flohmarkt Seddin
 URL:https://www.seddiner-see.de/calendar/category?id=2
 END:VEVENT
@@ -236,6 +236,14 @@ DTSTAMP:20260506T120515Z
 DTSTART:20260919T180000Z
 DTEND:20260919T220000Z
 SUMMARY:Tanzveranstaltung anlässlich des Kindertages
+URL:https://www.seddiner-see.de/calendar/category?id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:seddiner-see-event-463@amtsfeed.de
+DTSTAMP:20260911T111344Z
+DTSTART:20261010T150000Z
+DTEND:20261010T230000Z
+SUMMARY:Erntedankfest
 URL:https://www.seddiner-see.de/calendar/category?id=2
 END:VEVENT
 BEGIN:VEVENT

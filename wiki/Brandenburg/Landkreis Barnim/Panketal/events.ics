@@ -164,6 +164,34 @@ URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
 LOCATION:Zepernick - Speicher Hobrechtsfelde
 END:VEVENT
 BEGIN:VEVENT
+UID:99221065@amtsfeed.de
+DTSTAMP:20260911T110625Z
+DTSTART:20260919T090000Z
+SUMMARY:Weltkindertag im Holland-Park
+URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
+ e=99221065
+LOCATION:Schwanebeck - Holland Park
+END:VEVENT
+BEGIN:VEVENT
+UID:99216710@amtsfeed.de
+DTSTAMP:20260911T110625Z
+DTSTART:20260919T100000Z
+SUMMARY:Herbst-Müllsammelaktion in Zepernick
+URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
+ e=99216710
+LOCATION:Zepernick - Rathausvorplatz\, S-Bahnhof Zepernick
+END:VEVENT
+BEGIN:VEVENT
+UID:99216711@amtsfeed.de
+DTSTAMP:20260911T110625Z
+DTSTART:20260919T100000Z
+SUMMARY:Herbst-Müllsammelaktion in Schwanebeck
+URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
+ e=99216711
+LOCATION:Schwanebeck - Zepernicker Straße\, gegenüber Eingang Mülldepo
+ nie Schwanebeck
+END:VEVENT
+BEGIN:VEVENT
 UID:99169745@amtsfeed.de
 DTSTAMP:20260526T084946Z
 DTSTART:20260920T090000Z
@@ -171,5 +199,41 @@ SUMMARY:24. offene Panketaler  Tischtennis-Meisterschaft
 URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
  e=99169745
 LOCATION:Schwanebeck - Schwanenhalle
+END:VEVENT
+BEGIN:VEVENT
+UID:99221066@amtsfeed.de
+DTSTAMP:20260911T110625Z
+DTSTART:20260920T090000Z
+SUMMARY:Weltkindertag im Holland-Park
+URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
+ e=99221066
+LOCATION:Schwanebeck - Holland Park
+END:VEVENT
+BEGIN:VEVENT
+UID:99214468@amtsfeed.de
+DTSTAMP:20260911T110625Z
+DTSTART:20261011T160000Z
+SUMMARY:Familienkonzert Peter und der Wolf
+URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
+ e=99214468
+LOCATION:Zepernick - Kunstbrücke Panketal e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:99220466@amtsfeed.de
+DTSTAMP:20260911T110625Z
+DTSTART:20261101T130000Z
+SUMMARY:9. Ausstellung Faszination Hobby Panketal
+URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
+ e=99220466
+LOCATION:Zepernick - Mensa am Schulstandort Zepernick
+END:VEVENT
+BEGIN:VEVENT
+UID:99217406@amtsfeed.de
+DTSTAMP:20260911T110625Z
+DTSTART:20261120T190000Z
+SUMMARY:Lesung mit Melanie Fischer Die Fernsehfrauen
+URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
+ e=99217406
+LOCATION:Zepernick - Kunstbrücke Panketal e.V.
 END:VEVENT
 END:VCALENDAR

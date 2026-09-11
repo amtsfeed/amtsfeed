@@ -8,14 +8,14 @@ X-WR-CALDESC:Amtliche Veranstaltungen für Hennigsdorf
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:hennigsdorf-event-820@amtsfeed.de
-DTSTAMP:20260506T202058Z
+DTSTAMP:20260911T111206Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20261004
 SUMMARY:Ausstellung im Grenzturm
 URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Ausstellung-im-
  Grenzturm-.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.820.1&amp\
- ;NavID=2713.9&amp\;La=1&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&a
- mp\;max=9&amp\;k_sub=1
+ ;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&
+ amp\;k_sub=1
 LOCATION:Grenzturm | Nieder Neuendorf
 END:VEVENT
 BEGIN:VEVENT
@@ -193,5 +193,94 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tanztee-2026.ph
  p?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.740.1&amp\;NavID=2713.9
  &amp\;La=1&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp
  \;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-854@amtsfeed.de
+DTSTAMP:20260911T111206Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20261016
+SUMMARY:Ausstellung | Hennigsdorf - Arbeiten\, Leben und Wohnen in einer 
+ Industriestadt
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Ausstellung-Hen
+ nigsdorf-Arbeiten-Leben-und-Wohnen-in-einer-Industriestadt-.php?object=tx
+ \,3590.4.1&amp\;ModID=11&amp\;FID=3590.854.1&amp\;NavID=2713.9&amp\;kat%5
+ B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-833@amtsfeed.de
+DTSTAMP:20260911T111206Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Familienflohmarkt 2026
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Familienflohmar
+ kt-2026.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.833.1&amp\;Na
+ vID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp
+ \;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-853@amtsfeed.de
+DTSTAMP:20260911T111206Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Tag des offenen Denkmals
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tag-des-offenen
+ -Denkmals-.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.853.1&amp\
+ ;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&
+ amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-866@amtsfeed.de
+DTSTAMP:20260911T111206Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Lesung | Reisemaulwurf
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Lesung-Reisemau
+ lwurf.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.866.1&amp\;NavI
+ D=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;
+ k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-863@amtsfeed.de
+DTSTAMP:20260911T111206Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Buchvorstellung | Die Abriegelung von Rainer Potratz
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Buchvorstellung
+ -Die-Abriegelung-von-Rainer-Potratz.php?object=tx\,3590.4.1&amp\;ModID=11
+ &amp\;FID=3590.863.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;st
+ artkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-806@amtsfeed.de
+DTSTAMP:20260911T111206Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:7. Hennigsdorfer Müllsammelaktion
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/7-Hennigsdorfer
+ -M%C3%BCllsammelaktion.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=359
+ 0.806.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5
+ &amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-857@amtsfeed.de
+DTSTAMP:20260911T111206Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Stadtführungen mit dem Bürgermeister 2026 | Radtour
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Stadtf%C3%BChru
+ ngen-mit-dem-B%C3%BCrgermeister-2026-Radtour-.php?object=tx\,3590.4.1&amp
+ \;ModID=11&amp\;FID=3590.857.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713
+ .5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-773@amtsfeed.de
+DTSTAMP:20260911T111206Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Konzert der Gefühle
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Konzert-der-Gef
+ %C3%BChle-.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.773.1&amp\
+ ;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&
+ amp\;k_sub=1
 END:VEVENT
 END:VCALENDAR

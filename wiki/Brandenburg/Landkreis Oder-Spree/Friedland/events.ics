@@ -526,6 +526,15 @@ URL:https://www.friedland-nl.de/veranstaltungen/2892936/2026/09/05/klimaf
  est.html
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2924547-2026-09-12-familienfest.html@amtsfeed.de
+DTSTAMP:20260911T111303Z
+DTSTART:20260912T140000Z
+DTEND:20260912T170000Z
+SUMMARY:Familienfest
+URL:https://www.friedland-nl.de/veranstaltungen/2924547/2026/09/12/famili
+ enfest.html
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2897276-2026-09-24-bürgersprechstunde-mit-der-bürge
  rmeisterin-karolin-lisiecki.html@amtsfeed.de
 DTSTAMP:20260506T202026Z
@@ -534,6 +543,24 @@ DTEND:20260924T170000Z
 SUMMARY:Bürgersprechstunde mit der Bürgermeisterin Karolin Lisiecki
 URL:https://www.friedland-nl.de/veranstaltungen/2897276/2026/09/24/bürge
  rsprechstunde-mit-der-bürgermeisterin-karolin-lisiecki.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2943363-2026-09-26-der-flohmarkt.html@amtsfeed.de
+DTSTAMP:20260911T111303Z
+DTSTART:20260926T090000Z
+DTEND:20260926T140000Z
+SUMMARY:DER Flohmarkt
+URL:https://www.friedland-nl.de/veranstaltungen/2943363/2026/09/26/der-fl
+ ohmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2953641-2026-09-26-partnerstadt-sulecin-nordic-walkin
+ g.html@amtsfeed.de
+DTSTAMP:20260911T111303Z
+DTSTART:20260926T093000Z
+SUMMARY:Partnerstadt Sulecin - Nordic Walking
+URL:https://www.friedland-nl.de/veranstaltungen/2953641/2026/09/26/partne
+ rstadt-sulecin-nordic-walking.html
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2864843-2026-10-03-3.-vernissage-kreatives-nähen-con
@@ -603,5 +630,15 @@ DTEND:20261217T170000Z
 SUMMARY:Bürgersprechstunde mit der Bürgermeisterin Karolin Lisiecki
 URL:https://www.friedland-nl.de/veranstaltungen/2897280/2026/12/17/bürge
  rsprechstunde-mit-der-bürgermeisterin-karolin-lisiecki.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2913061-2027-06-05-145-jahre-feuerwehr-beeskow-jubil
+ äum-am-05.06.2027.html@amtsfeed.de
+DTSTAMP:20260911T111303Z
+DTSTART:20270605T180000Z
+DTEND:20270606T180000Z
+SUMMARY:145 Jahre Feuerwehr Beeskow - Jubiläum am 05.06.2027
+URL:https://www.friedland-nl.de/veranstaltungen/2913061/2027/06/05/145-ja
+ hre-feuerwehr-beeskow-jubiläum-am-05.06.2027.html
 END:VEVENT
 END:VCALENDAR

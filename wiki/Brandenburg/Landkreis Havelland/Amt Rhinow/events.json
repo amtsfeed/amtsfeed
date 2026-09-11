@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T14:13:47.491Z",
+  "updatedAt": "2026-09-11T11:07:29.190Z",
   "items": [
     {
       "id": "amt-rhinow-event-2897599-20260510",
@@ -90,6 +90,62 @@
       "updatedAt": "2026-05-31T14:13:47.499Z"
     },
     {
+      "id": "amt-rhinow-event-2959167-20260912",
+      "title": "Sommerfest in Wassersuppe",
+      "url": "https://www.rhinow.de/veranstaltungen/2959167/2026/09/12/sommerfest-in-wassersuppe.html",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
+      "id": "amt-rhinow-event-2948299-20260913",
+      "title": "Gottesdienst in Parey",
+      "url": "https://www.rhinow.de/veranstaltungen/2948299/2026/09/13/gottesdienst-in-parey.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
+      "id": "amt-rhinow-event-2962535-20260913",
+      "title": "25 Jahre Förderkreis Stadtkirche Rhinow",
+      "url": "https://www.rhinow.de/veranstaltungen/2962535/2026/09/13/25-jahre-förderkreis-stadtkirche-rhinow.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
+      "id": "amt-rhinow-event-2948305-20260913",
+      "title": "Gottesdienst in Rhinow",
+      "url": "https://www.rhinow.de/veranstaltungen/2948305/2026/09/13/gottesdienst-in-rhinow.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
+      "id": "amt-rhinow-event-2962539-20260919",
+      "title": "Reparaturcaf&eacute; in Hohennauen",
+      "url": "https://www.rhinow.de/veranstaltungen/2962539/2026/09/19/reparaturcafé-in-hohennauen.html",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
+      "id": "amt-rhinow-event-2955496-20260920",
+      "title": "A cappella Konzert manus mulierum",
+      "url": "https://www.rhinow.de/veranstaltungen/2955496/2026/09/20/a-cappella-konzert-manus-mulierum.html",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
+      "id": "amt-rhinow-event-2961938-20260920",
+      "title": "Chorkonzert mit Salto Tonale in Großderschau",
+      "url": "https://www.rhinow.de/veranstaltungen/2961938/2026/09/20/chorkonzert-mit-salto-tonale-in-großderschau.html",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
       "id": "amt-rhinow-event-2814039-20260926",
       "title": "Wiesenfest in Stölln",
       "url": "https://www.rhinow.de/veranstaltungen/2814039/2026/09/26/wiesenfest-in-stölln.html",
@@ -98,12 +154,60 @@
       "updatedAt": "2026-05-31T14:13:47.499Z"
     },
     {
+      "id": "amt-rhinow-event-2964402-20260926",
+      "title": "Konzert Gospel und mehr in Hohennauen",
+      "url": "https://www.rhinow.de/veranstaltungen/2964402/2026/09/26/konzert-gospel-und-mehr-in-hohennauen.html",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
+      "id": "amt-rhinow-event-2948308-20260927",
+      "title": "Gottesdienst in Hohennauen",
+      "url": "https://www.rhinow.de/veranstaltungen/2948308/2026/09/27/gottesdienst-in-hohennauen.html",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
+      "id": "amt-rhinow-event-2948306-20260927",
+      "title": "Gottesdienst in Rhinow",
+      "url": "https://www.rhinow.de/veranstaltungen/2948306/2026/09/27/gottesdienst-in-rhinow.html",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
       "id": "amt-rhinow-event-2813873-20261003",
       "title": "Backofenfest in Parey",
       "url": "https://www.rhinow.de/veranstaltungen/2813873/2026/10/03/backofenfest-in-parey.html",
       "startDate": "2026-10-03T00:00:00.000Z",
       "fetchedAt": "2026-05-31T13:41:15.981Z",
       "updatedAt": "2026-05-31T14:13:47.499Z"
+    },
+    {
+      "id": "amt-rhinow-event-2924568-20261003",
+      "title": "Dorf- und Sportfest in Spaatz",
+      "url": "https://www.rhinow.de/veranstaltungen/2924568/2026/10/03/dorf-und-sportfest-in-spaatz.html",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
+      "id": "amt-rhinow-event-2965263-20261017",
+      "title": "Dacapodaster - Livemusik",
+      "url": "https://www.rhinow.de/veranstaltungen/2965263/2026/10/17/dacapodaster-livemusik.html",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
+    },
+    {
+      "id": "amt-rhinow-event-2960073-20261023",
+      "title": "Demenz Partner Musik Schulung",
+      "url": "https://www.rhinow.de/veranstaltungen/2960073/2026/10/23/demenz-partner-musik-schulung.html",
+      "startDate": "2026-10-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
     },
     {
       "id": "amt-rhinow-event-2814041-20261024",
@@ -120,6 +224,14 @@
       "startDate": "2026-10-31T00:00:00.000Z",
       "fetchedAt": "2026-05-31T13:41:15.981Z",
       "updatedAt": "2026-05-31T14:13:47.499Z"
+    },
+    {
+      "id": "amt-rhinow-event-2862149-20261101",
+      "title": "Hubertusmesse in Hohennauen",
+      "url": "https://www.rhinow.de/veranstaltungen/2862149/2026/11/01/hubertusmesse-in-hohennauen.html",
+      "startDate": "2026-11-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
     },
     {
       "id": "amt-rhinow-event-2814046-20261107",
@@ -152,6 +264,14 @@
       "startDate": "2026-11-13T00:00:00.000Z",
       "fetchedAt": "2026-05-31T13:41:15.981Z",
       "updatedAt": "2026-05-31T14:13:47.499Z"
+    },
+    {
+      "id": "amt-rhinow-event-2862156-20261114",
+      "title": "Sankt Martin in Hohennauen",
+      "url": "https://www.rhinow.de/veranstaltungen/2862156/2026/11/14/sankt-martin-in-hohennauen.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:54:13.470Z",
+      "updatedAt": "2026-09-11T11:07:29.201Z"
     },
     {
       "id": "amt-rhinow-event-2813851-20261128",

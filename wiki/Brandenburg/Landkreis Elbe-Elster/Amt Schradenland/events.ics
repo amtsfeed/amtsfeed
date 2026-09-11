@@ -171,15 +171,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2897504/2026/06/02/ba
  bytreff-kita-hirschfeld.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2897451@amtsfeed.de
-DTSTAMP:20260531T131346Z
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260605
-SUMMARY:Krabbelgruppe Kita Gröden
-URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/06/04/kr
- abbelgruppe-kita-gröden.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2899376@amtsfeed.de
 DTSTAMP:20260508T183740Z
 DTSTART;VALUE=DATE:20260606
@@ -391,6 +382,15 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829818/2026/07/31/ba
  dfest-merzdorf-wxw-wrestling.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2927801@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:openart Lausitz Biennale
+URL:https://www.amt-schradenland.de/veranstaltungen/2927801/2026/07/31/op
+ enart-lausitz-biennale.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2909827@amtsfeed.de
 DTSTAMP:20260531T131346Z
 DTSTART;VALUE=DATE:20260803
@@ -499,13 +499,87 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829846/2026/09/12/he
  rbstfest-der-blide.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2952441@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Last Summer Night
+URL:https://www.amt-schradenland.de/veranstaltungen/2952441/2026/09/12/la
+ st-summer-night.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953504@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Partywochenende im Kulturhaus Plessa
+URL:https://www.amt-schradenland.de/veranstaltungen/2953504/2026/09/12/pa
+ rtywochenende-im-kulturhaus-plessa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2947172@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Tag des offenen Denkmals im Elbe-Röder-Dreieck
+URL:https://www.amt-schradenland.de/veranstaltungen/2947172/2026/09/13/ta
+ g-des-offenen-denkmals-im-elbe-röder-dreieck.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2932548@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Seminar &bdquo\;Einführung in die Pomologie und praktische Sorte
+ nbestimmung&ldquo\; im Bauernmuseum Zabeltitz
+URL:https://www.amt-schradenland.de/veranstaltungen/2932548/2026/09/13/se
+ minar-einführung-in-die-pomologie-und-praktische-sortenbestimmung-im-bau
+ ernmuseum-zabeltitz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2897451@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Krabbelgruppe Kita Gröden
+URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/09/17/kr
+ abbelgruppe-kita-gröden.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2829847@amtsfeed.de
-DTSTAMP:20260508T183740Z
+DTSTAMP:20260911T110713Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-SUMMARY:Weltkindertag
-URL:https://www.amt-schradenland.de/veranstaltungen/2829847/2026/09/18/we
- ltkindertag.html
+SUMMARY:Kinderfest
+URL:https://www.amt-schradenland.de/veranstaltungen/2829847/2026/09/18/ki
+ nderfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953391@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/2953391/2026/09/20/go
+ ttesdienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2940150@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Woche der Demenz im Landkreis Elbe-Elster
+URL:https://www.amt-schradenland.de/veranstaltungen/2940150/2026/09/21/wo
+ che-der-demenz-im-landkreis-elbe-elster.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953619@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Seniorennachmittag - GEMEINSAM STATT EINSAM" in Gröden
+URL:https://www.amt-schradenland.de/veranstaltungen/2953619/2026/09/23/se
+ niorennachmittag-gemeinsam-statt-einsam-in-gröden.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829848@amtsfeed.de
@@ -517,6 +591,42 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829848/2026/09/24/mi
  nitreff.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2953626@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Seniorennachmittag - GEMEINSAM STATT EINSAM" in Hirschfeld
+URL:https://www.amt-schradenland.de/veranstaltungen/2953626/2026/09/24/se
+ niorennachmittag-gemeinsam-statt-einsam-in-hirschfeld.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953633@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Himmlisch kreativ für Kinder
+URL:https://www.amt-schradenland.de/veranstaltungen/2953633/2026/09/24/hi
+ mmlisch-kreativ-für-kinder.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953506@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Herbstbasteln
+URL:https://www.amt-schradenland.de/veranstaltungen/2953506/2026/09/27/he
+ rbstbasteln.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953628@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Seniorenveranstaltung "GEMEINSAM STATT EINSAM" in Merzdorf
+URL:https://www.amt-schradenland.de/veranstaltungen/2953628/2026/09/30/se
+ niorenveranstaltung-gemeinsam-statt-einsam-in-merzdorf.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2829854@amtsfeed.de
 DTSTAMP:20260508T183740Z
 DTSTART;VALUE=DATE:20261002
@@ -524,6 +634,15 @@ DTEND;VALUE=DATE:20261003
 SUMMARY:Kindertreff Großthiemig
 URL:https://www.amt-schradenland.de/veranstaltungen/2829854/2026/10/02/ki
  ndertreff-großthiemig.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953392@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Annahme Erntedankgaben
+URL:https://www.amt-schradenland.de/veranstaltungen/2953392/2026/10/03/an
+ nahme-erntedankgaben.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829856@amtsfeed.de
@@ -544,6 +663,33 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829855/2026/10/04/er
  ntedankfest-heimatverein-hirschfeld.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2953361@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Erntedankgottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/2953361/2026/10/04/er
+ ntedankgottesdienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953399@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/2953399/2026/10/05/go
+ ttesdienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2952576@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Nähen\, Stricken \, Häkeln
+URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/10/05/n
+ ähen-stricken--häkeln.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2897508@amtsfeed.de
 DTSTAMP:20260508T183740Z
 DTSTART;VALUE=DATE:20261006
@@ -560,6 +706,33 @@ DTEND;VALUE=DATE:20261008
 SUMMARY:Herbst- und Erntefest Seniorenverein Hirschfeld
 URL:https://www.amt-schradenland.de/veranstaltungen/2829857/2026/10/07/he
  rbst-und-erntefest-seniorenverein-hirschfeld.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953407@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Taize Andacht
+URL:https://www.amt-schradenland.de/veranstaltungen/2953407/2026/10/09/ta
+ ize-andacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2964525@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:49. Werner - Seelenbinder - Lauf
+URL:https://www.amt-schradenland.de/veranstaltungen/2964525/2026/10/18/49
+ .-werner-seelenbinder-lauf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953466@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/2953466/2026/10/25/go
+ ttesdienst.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829858@amtsfeed.de
@@ -661,6 +834,24 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829980/2026/11/11/st
  .-martin-großthiemig.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2953410@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Martinstag
+URL:https://www.amt-schradenland.de/veranstaltungen/2953410/2026/11/11/ma
+ rtinstag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953412@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Lichterklang - Konzert im Kerzenschein
+URL:https://www.amt-schradenland.de/veranstaltungen/2953412/2026/11/14/li
+ chterklang-konzert-im-kerzenschein.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2829984@amtsfeed.de
 DTSTAMP:20260508T183740Z
 DTSTART;VALUE=DATE:20261115
@@ -670,6 +861,15 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829984/2026/11/15/ki
  rmesgottesdienst-gröden.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2953414@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Gottesdienst zum Volkstrauertag
+URL:https://www.amt-schradenland.de/veranstaltungen/2953414/2026/11/15/go
+ ttesdienst-zum-volkstrauertag.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2829985@amtsfeed.de
 DTSTAMP:20260508T183740Z
 DTSTART;VALUE=DATE:20261122
@@ -677,6 +877,24 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:Gottesdienst zum Totensonntag
 URL:https://www.amt-schradenland.de/veranstaltungen/2829985/2026/11/22/go
  ttesdienst-zum-totensonntag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953415@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/2953415/2026/11/22/go
+ ttesdienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953425@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Gottesdienst zum Ewigkeitssonntag
+URL:https://www.amt-schradenland.de/veranstaltungen/2953425/2026/11/22/go
+ ttesdienst-zum-ewigkeitssonntag.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2835515@amtsfeed.de
@@ -722,6 +940,24 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Adventskonzert Frauenchor Gröden
 URL:https://www.amt-schradenland.de/veranstaltungen/2829988/2026/11/29/ad
  ventskonzert-frauenchor-gröden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953435@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Familiengottesdienst zum 1. Advent
+URL:https://www.amt-schradenland.de/veranstaltungen/2953435/2026/11/29/fa
+ miliengottesdienst-zum-1.-advent.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2953424@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/2953424/2026/11/29/go
+ ttesdienst.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2897511@amtsfeed.de

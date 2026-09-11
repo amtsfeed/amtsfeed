@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:16:12.298Z",
+  "updatedAt": "2026-09-11T11:12:44.111Z",
   "items": [
     {
       "id": "scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas",
@@ -34,14 +34,6 @@
       "updatedAt": "2026-05-26T09:04:12.555Z"
     },
     {
-      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
-      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
-      "startDate": "2026-05-26T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-05-26T09:04:12.555Z"
-    },
-    {
       "id": "scharmuetzelsee-glueckliche-fuesse",
       "title": "Glückliche Füße",
       "url": "https://www.scharmuetzelsee.de/event/glueckliche-fuesse",
@@ -56,14 +48,6 @@
       "startDate": "2026-05-27T00:00:00.000Z",
       "fetchedAt": "2026-05-26T09:04:12.555Z",
       "updatedAt": "2026-05-26T09:04:12.555Z"
-    },
-    {
-      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
-      "title": "Linienfahrten Hauptsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
-      "startDate": "2026-05-31T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-05-31T13:16:12.297Z"
     },
     {
       "id": "scharmuetzelsee-geburtstagsfeier-650-jahre-wendisch-rietz",
@@ -197,12 +181,136 @@
       "updatedAt": "2026-05-05T15:50:40.941Z"
     },
     {
+      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
+      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
+      "title": "Linienfahrten Hauptsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-flammender-scharmuetzelsee-2026",
+      "title": "Flammender Scharmützelsee 2026",
+      "url": "https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee-2026",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "endDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
+      "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-durch-die-ortsgeschichte",
+      "title": "Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang durch die Ortsgeschichte",
+      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-durch-die-ortsgeschichte",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-naturfuehrung-und-lesung-mit-karsten-nitsch",
+      "title": "Naturführung und Lesung mit Karsten Nitsch",
+      "url": "https://www.scharmuetzelsee.de/event/naturfuehrung-und-lesung-mit-karsten-nitsch",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-fuehrung-mit-den-gefaehrten-der-nacht-in-storkow",
+      "title": "Führung mit den Gefährten der Nacht in Storkow",
+      "url": "https://www.scharmuetzelsee.de/event/fuehrung-mit-den-gefaehrten-der-nacht-in-storkow",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-flammender-scharmuetzelsee",
+      "title": "Flammender Scharmützelsee",
+      "url": "https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte",
+      "title": "Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen – Ein Rundgang durch die Ortsgeschichte",
+      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-satamas-aufguss-wm-2026",
+      "title": "SATAMAs Aufguss-WM 2026",
+      "url": "https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "endDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-antik-und-troedelmarkt-in-wendisch-rietz",
+      "title": "Antik- und Trödelmarkt in Wendisch Rietz",
+      "url": "https://www.scharmuetzelsee.de/event/antik-und-troedelmarkt-in-wendisch-rietz",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-tag-des-offenen-denkmals-im-scharwenka-kulturforum",
+      "title": "Tag des offenen Denkmals im Scharwenka Kulturforum",
+      "url": "https://www.scharmuetzelsee.de/event/tag-des-offenen-denkmals-im-scharwenka-kulturforum",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-drachenfest-neu-golm",
+      "title": "Drachenfest Neu Golm",
+      "url": "https://www.scharmuetzelsee.de/event/drachenfest-neu-golm",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-deutsche-meisterschaft-im-kutterrudern",
+      "title": "Deutsche Meisterschaft im Kutterrudern",
+      "url": "https://www.scharmuetzelsee.de/event/deutsche-meisterschaft-im-kutterrudern",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "endDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
       "id": "scharmuetzelsee-naturpark-hoffest-burg-storkow",
       "title": "Naturpark Hoffest Burg Storkow",
       "url": "https://www.scharmuetzelsee.de/event/naturpark-hoffest-burg-storkow",
       "startDate": "2026-09-20T00:00:00.000Z",
       "fetchedAt": "2026-05-05T15:50:40.941Z",
       "updatedAt": "2026-05-05T15:50:40.941Z"
+    },
+    {
+      "id": "scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-almuth-lohmann-zell",
+      "title": "Keramik-Workshop in Bad Saarow mit der Künstlerin Almuth Lohmann-Zell",
+      "url": "https://www.scharmuetzelsee.de/event/keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-almuth-lohmann-zell",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "endDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-11T11:12:44.108Z"
     }
   ]
 }

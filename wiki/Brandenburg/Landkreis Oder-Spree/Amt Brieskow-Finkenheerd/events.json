@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:04:11.348Z",
+  "updatedAt": "2026-09-11T11:12:43.222Z",
   "items": [
     {
       "id": "brieskow-finkenheerd-event-2806433",
@@ -92,15 +92,6 @@
       "updatedAt": "2026-05-06T20:20:31.043Z"
     },
     {
-      "id": "brieskow-finkenheerd-event-2856044",
-      "title": "Herbstfest",
-      "url": "https://www.amt-b-f.de/veranstaltungen/2856044/2026/09/27/herbstfest.html",
-      "startDate": "2026-09-27T00:00:00.000Z",
-      "location": "Gemeinde Wiesenau",
-      "fetchedAt": "2026-05-06T09:23:29.213Z",
-      "updatedAt": "2026-05-06T20:20:31.043Z"
-    },
-    {
       "id": "brieskow-finkenheerd-event-2806431",
       "title": "Oderpokal Angeln",
       "url": "https://www.amt-b-f.de/veranstaltungen/2806431/2026/10/03/oderpokal-angeln.html",
@@ -108,6 +99,15 @@
       "location": "Gemeinde Brieskow-Finkenheerd",
       "fetchedAt": "2026-05-06T09:23:29.213Z",
       "updatedAt": "2026-05-06T20:20:31.043Z"
+    },
+    {
+      "id": "brieskow-finkenheerd-event-2856044",
+      "title": "Herbstfest",
+      "url": "https://www.amt-b-f.de/veranstaltungen/2856044/2026/10/04/herbstfest.html",
+      "startDate": "2026-10-04T00:00:00.000Z",
+      "location": "Gemeinde Wiesenau",
+      "fetchedAt": "2026-05-06T09:23:29.213Z",
+      "updatedAt": "2026-09-11T11:12:43.198Z"
     },
     {
       "id": "brieskow-finkenheerd-event-2807999",
@@ -135,6 +135,15 @@
       "location": "Gemeinde Brieskow-Finkenheerd",
       "fetchedAt": "2026-05-06T09:23:29.213Z",
       "updatedAt": "2026-05-06T20:20:31.043Z"
+    },
+    {
+      "id": "brieskow-finkenheerd-event-2847846",
+      "title": "Lindenblütenfest",
+      "url": "https://www.amt-b-f.de/veranstaltungen/2847846/2027/06/11/lindenblütenfest.html",
+      "startDate": "2027-06-11T00:00:00.000Z",
+      "location": "Gemeinde Groß Lindow",
+      "fetchedAt": "2026-09-11T09:59:01.346Z",
+      "updatedAt": "2026-09-11T11:12:43.198Z"
     }
   ]
 }

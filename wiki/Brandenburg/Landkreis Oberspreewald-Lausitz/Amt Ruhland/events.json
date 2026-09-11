@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T18:42:01.015Z",
+  "updatedAt": "2026-09-11T11:12:27.912Z",
   "items": [
     {
       "id": "ruhland-event-5053",
@@ -569,13 +569,56 @@
     },
     {
       "id": "ruhland-event-4939",
-      "title": "Sommerfest/Frühschoppen - Hermsdorf",
+      "title": "Kinder-/Sommerfest mit Tanzabend + Frühshoppen in Hermsdorf",
       "url": "https://www.amt-ruhland.de/veranstaltungen/",
       "startDate": "2026-07-04T00:00:00.000Z",
-      "endDate": "2026-07-06T00:00:00.000Z",
+      "endDate": "2026-07-05T23:59:00.000Z",
+      "location": "Sportplatz Hermsdorf",
       "description": "Schlagworte: Hermsdorf",
       "fetchedAt": "2026-05-31T17:27:51.299Z",
-      "updatedAt": "2026-05-31T18:42:01.007Z"
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6010",
+      "title": "Blutspende",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-07-10T14:30:00.000Z",
+      "endDate": "2026-07-10T18:30:00.000Z",
+      "location": "Geschwister-Scholle-Oberschule Ruhland",
+      "description": "Schlagworte: Ruhland",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6109",
+      "title": "Turmfest",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-07-11T14:30:00.000Z",
+      "endDate": "2026-07-11T15:30:00.000Z",
+      "location": "Dorfplatz Sella",
+      "description": "Schlagworte: Grünewald",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6112",
+      "title": "Turmfest",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-07-12T10:00:00.000Z",
+      "endDate": "2026-07-12T14:00:00.000Z",
+      "location": "Dorfplatz Sella",
+      "description": "Schlagworte: Grünewald",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6277",
+      "title": "Ressourcen sparen in KMU – Informationen zu Fördermöglichkeiten im Land Brandenburg",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-07-15T10:00:00.000Z",
+      "endDate": "2026-10-30T11:30:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
     },
     {
       "id": "ruhland-event-5191",
@@ -630,6 +673,37 @@
       "updatedAt": "2026-05-31T18:42:01.007Z"
     },
     {
+      "id": "ruhland-event-6187",
+      "title": "Motorradtreffen",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-08-14T00:00:00.000Z",
+      "endDate": "2026-08-17T00:00:00.000Z",
+      "location": "Schlosspark Lipsa",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6367",
+      "title": "2. Musikfestival Südbrandenburg",
+      "url": "https://www.kirche-uckermark.de/pl/termine/detailansicht-termine/termindetails/2-musikfestival-suedbrandenburg",
+      "startDate": "2026-08-16T00:00:00.000Z",
+      "endDate": "2026-08-24T00:00:00.000Z",
+      "location": "Stadtkirche Ruhland",
+      "description": "Schlagworte: Ruhland",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6340",
+      "title": "Baby- und Kinderflohmarkt",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-08-29T10:00:00.000Z",
+      "endDate": "2026-08-29T15:00:00.000Z",
+      "location": "Parkbühne Arnsdorf",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
       "id": "ruhland-event-4987",
       "title": "Treff der Seniorengruppe des HKC",
       "url": "https://www.amt-ruhland.de/veranstaltungen/",
@@ -639,6 +713,48 @@
       "description": "Schlagworte: Hohenbocka",
       "fetchedAt": "2026-05-31T17:27:51.299Z",
       "updatedAt": "2026-05-31T18:42:01.007Z"
+    },
+    {
+      "id": "ruhland-event-6553",
+      "title": "Zweites Deutsches Safran Symposium",
+      "url": "https://neuwerg.de/angebote/2-safran-symposium/",
+      "startDate": "2026-09-07T09:30:00.000Z",
+      "endDate": "2026-09-07T16:00:00.000Z",
+      "location": "Gasthof Schwarze",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6421",
+      "title": "Amtsfeuerwehrtag + Nachtpokal Grünewald/Sella",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-09-12T14:00:00.000Z",
+      "endDate": "2026-09-12T15:00:00.000Z",
+      "location": "Sportplatz Grünewald",
+      "description": "Schlagworte: Grünewald",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6652",
+      "title": "Tag des offenen Denkmals",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-09-13T12:00:00.000Z",
+      "endDate": "2026-09-13T18:00:00.000Z",
+      "location": "Kirche Hermsdorf",
+      "description": "Schlagworte: Hermsdorf",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6505",
+      "title": "Kreis-Erntefest 2026",
+      "url": "https://kreiserntefest-osl.de/",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "endDate": "2026-09-21T00:00:00.000Z",
+      "location": "Ogrosen",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
     },
     {
       "id": "ruhland-event-5560",
@@ -652,6 +768,28 @@
       "updatedAt": "2026-05-31T18:42:01.007Z"
     },
     {
+      "id": "ruhland-event-6658",
+      "title": "Blutspende",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-09-25T14:30:00.000Z",
+      "endDate": "2026-09-25T18:30:00.000Z",
+      "location": "Geschwister-Scholle-Oberschule Ruhland",
+      "description": "Schlagworte: Ruhland",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6640",
+      "title": "Oldtimerschau",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-09-26T10:00:00.000Z",
+      "endDate": "2026-09-26T17:00:00.000Z",
+      "location": "Auto Schultz",
+      "description": "Schlagworte: Ruhland",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
       "id": "ruhland-event-4990",
       "title": "Treff der Seniorengruppe des HKC",
       "url": "https://www.amt-ruhland.de/veranstaltungen/",
@@ -661,6 +799,15 @@
       "description": "Schlagworte: Hohenbocka",
       "fetchedAt": "2026-05-31T17:27:51.299Z",
       "updatedAt": "2026-05-31T18:42:01.007Z"
+    },
+    {
+      "id": "ruhland-event-6631",
+      "title": "Günter Grass Kulturtage Altdöbern",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-10-09T00:00:00.000Z",
+      "endDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
     },
     {
       "id": "ruhland-event-5563",
@@ -702,6 +849,16 @@
       "description": "Schlagworte: Hohenbocka",
       "fetchedAt": "2026-05-31T17:27:51.299Z",
       "updatedAt": "2026-05-31T18:42:01.007Z"
+    },
+    {
+      "id": "ruhland-event-6271",
+      "title": "Schlüsselübergabe am Rathaus",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-11-14T18:11:00.000Z",
+      "endDate": "2026-11-14T23:59:00.000Z",
+      "location": "Amtsverwaltung Ruhland",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
     },
     {
       "id": "ruhland-event-4912",
@@ -764,6 +921,26 @@
       "description": "Schlagworte: Ruhland",
       "fetchedAt": "2026-05-31T17:27:51.299Z",
       "updatedAt": "2026-05-31T18:42:01.007Z"
+    },
+    {
+      "id": "ruhland-event-6199",
+      "title": "ABBA - ABALANCE The Show Schwarzheide",
+      "url": "https://www.abalance2000.de/",
+      "startDate": "2026-12-12T18:00:00.000Z",
+      "endDate": "2026-12-12T20:30:00.000Z",
+      "location": "Kulturhaus der BASF Schwarzheide",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6037",
+      "title": "Kabarettabend mit Uwe Steimle",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2027-01-09T19:30:00.000Z",
+      "endDate": "2027-01-09T20:30:00.000Z",
+      "location": "Schützenhaus Ruhland",
+      "fetchedAt": "2026-09-11T09:58:43.635Z",
+      "updatedAt": "2026-09-11T11:12:27.893Z"
     }
   ]
 }

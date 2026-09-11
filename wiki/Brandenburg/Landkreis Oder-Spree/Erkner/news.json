@@ -1,6 +1,374 @@
 {
-  "updatedAt": "2026-05-31T13:16:29.166Z",
+  "updatedAt": "2026-09-11T11:13:02.422Z",
   "items": [
+    {
+      "id": "erkner-news-temporaere-halteverbotszone-am-zob",
+      "title": "Temporäre Halteverbotszone am ZOB",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/temporaere-halteverbotszone-am-zob.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-bundesweiter-warntag-am-10-september",
+      "title": "Bundesweiter Warntag am 10. September",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/bundesweiter-warntag-am-10-september.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-family-party-2026",
+      "title": "Family Party 2026",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/family-party-2026.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-spendenaktion-fuer-sonya",
+      "title": "Spendenaktion für Sonya",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/spendenaktion-fuer-sonya.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-buergerhaushalt-geht-in-die-schlussphase",
+      "title": "Bürgerhaushalt geht in die Schlussphase",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/buergerhaushalt-geht-in-die-schlussphase.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-haeusliche-gewalt-durchbrechen",
+      "title": "Häusliche Gewalt durchbrechen",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/haeusliche-gewalt-durchbrechen.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-dank-an-die-blaulichtfamilie",
+      "title": "Dank an die Blaulichtfamilie",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/dank-an-die-blaulichtfamilie.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-ausgabe-der-laubsaecke-2026",
+      "title": "Ausgabe der Laubsäcke 2026",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/ausgabe-der-laubsaecke-2026.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-deutsches-ironman-saisonfinale-vor-den-toren-berlins-beim-ironman-70-3-erkner",
+      "title": "Deutsches IRONMAN-Saisonfinale vor den Toren Berlins beim IRONMAN 70.3 Erkner",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/deutsches-ironman-saisonfinale-vor-den-toren-berlins-beim-ironman-70-3-erkner.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-ausbau-der-scharnweberstrasse",
+      "title": "Ausbau der Scharnweberstraße",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/ausbau-der-scharnweberstrasse.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-wohnungsbrand-in-erkner",
+      "title": "Wohnungsbrand in Erkner",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/wohnungsbrand-in-erkner.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-polizei-und-rettungskraefte-in-erkner-im-einsatz",
+      "title": "Polizei und Rettungskräfte in Erkner im Einsatz",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/polizei-und-rettungskraefte-in-erkner-im-einsatz.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-einsatzrueckblick-der-freiwilligen-feuerwehr",
+      "title": "Einsatzrückblick der Freiwilligen Feuerwehr",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/einsatzrueckblick-der-freiwilligen-feuerwehr.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-naechtliche-gleisbauarbeiten",
+      "title": "Nächtliche Gleisbauarbeiten",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/naechtliche-gleisbauarbeiten.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-sprechstunde-des-vorsitzenden-der-stadtverordnetenversammlung-erkner-1-1-1",
+      "title": "Sprechstunde des Vorsitzenden der Stadtverordnetenversammlung Erkner",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/sprechstunde-des-vorsitzenden-der-stadtverordnetenversammlung-erkner-1-1-1.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-grundsteinlegung-der-neuen-dreifeldsporthalle",
+      "title": "Grundsteinlegung der neuen Dreifeldsporthalle",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/grundsteinlegung-der-neuen-dreifeldsporthalle.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-information-zur-ausgabe-der-gelben-saecke",
+      "title": "Information zur Ausgabe der Gelben Säcke",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/information-zur-ausgabe-der-gelben-saecke.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-fitnessplatz-am-daemeritzsee-fertiggestellt",
+      "title": "Fitnessplatz am Dämeritzsee fertiggestellt",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/fitnessplatz-am-daemeritzsee-fertiggestellt.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-schadstoffmobil-kommt-nach-erkner",
+      "title": "Schadstoffmobil kommt nach Erkner",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/schadstoffmobil-kommt-nach-erkner.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-pruefung-von-wasser-und-bodenproben",
+      "title": "Prüfung von Wasser- und Bodenproben",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/pruefung-von-wasser-und-bodenproben.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-22T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-buechersuche-wird-leichter",
+      "title": "Büchersuche wird leichter",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/buechersuche-wird-leichter.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-21T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-stadt-erkner-stellte-strafanzeige",
+      "title": "Stadt Erkner stellte Strafanzeige",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/stadt-erkner-stellte-strafanzeige.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-21T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-buergerhaushalt-2026-erreicht-naechste-phase",
+      "title": "Bürgerhaushalt 2026 erreicht nächste Phase",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/buergerhaushalt-2026-erreicht-naechste-phase.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-audio-mitschnitt-der-11-sitzung-der-stadtverordnetenversammlung-erkner-in-der-8-wahlperiode",
+      "title": "Audio-Mitschnitt der 11. Sitzung der Stadtverordnetenversammlung Erkner in der 8. Wahlperiode",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/audio-mitschnitt-der-11-sitzung-der-stadtverordnetenversammlung-erkner-in-der-8-wahlperiode.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-17T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-ferien-baustelle-suedliche-friedrichstrasse",
+      "title": "Ferien-Baustelle südliche Friedrichstraße",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/ferien-baustelle-suedliche-friedrichstrasse.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-stadtradeln-2026",
+      "title": "STADTRADELN 2026",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/stadtradeln-2026.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-15T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-schienenersatzverkehr-durch-re-1-ausfall",
+      "title": "Schienenersatzverkehr durch RE1-Ausfall",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/schienenersatzverkehr-durch-re-1-ausfall.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-e-dis-stromnetz-in-erkner-umfangreich-ausgebaut",
+      "title": "E.DIS-Stromnetz in Erkner umfangreich ausgebaut",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/e-dis-stromnetz-in-erkner-umfangreich-ausgebaut.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-17-jugendkunstpreis-in-erkner-ausgelobt",
+      "title": "17. Jugendkunstpreis in Erkner ausgelobt",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/17-jugendkunstpreis-in-erkner-ausgelobt.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-diebstahl-von-ortseingangsschildern",
+      "title": "Diebstahl von Ortseingangsschildern",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/diebstahl-von-ortseingangsschildern.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-einschraenkung-mobilfunknetz-aufgrund-netzmodernisierung",
+      "title": "Einschränkung Mobilfunknetz aufgrund Netzmodernisierung",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/einschraenkung-mobilfunknetz-aufgrund-netzmodernisierung.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-gehwegarbeiten-neu-zittauer-strasse",
+      "title": "Gehwegarbeiten Neu Zittauer Straße",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/gehwegarbeiten-neu-zittauer-strasse.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-modernisierung-der-strassenbeleuchtung",
+      "title": "Modernisierung der Straßenbeleuchtung",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/modernisierung-der-strassenbeleuchtung.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-stadtbaeume-bei-anhaltender-hitze-giessen",
+      "title": "Stadtbäume bei anhaltender Hitze gießen",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/stadtbaeume-bei-anhaltender-hitze-giessen.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-zwischen-energie-und-lebenskraft",
+      "title": "Zwischen Energie und Lebenskraft",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/zwischen-energie-und-lebenskraft.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-schweissarbeiten-im-bahnhofsbereich",
+      "title": "Schweißarbeiten im Bahnhofsbereich",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/schweissarbeiten-im-bahnhofsbereich.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-interpretationen-sorgten-fuer-gaensehautmomente",
+      "title": "Interpretationen sorgten für Gänsehautmomente",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/interpretationen-sorgten-fuer-gaensehautmomente.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-24T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-ergebnisse-der-umfrage-zum-heimatfest-2026",
+      "title": "Ergebnisse der Umfrage zum Heimatfest 2026",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/ergebnisse-der-umfrage-zum-heimatfest-2026.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-mitglieder-fuer-eine-buerger-jury-werden-gesucht",
+      "title": "Mitglieder für eine Bürger-Jury werden gesucht",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/mitglieder-fuer-eine-buerger-jury-werden-gesucht.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-gerhart-hauptmann-ist-schuld",
+      "title": "\"Gerhart Hauptmann ist schuld!\"",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/gerhart-hauptmann-ist-schuld.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-sprechstunde-des-vorsitzenden-der-stadtverordnetenversammlung-erkner-1-1",
+      "title": "Sprechstunde des Vorsitzenden der Stadtverordnetenversammlung Erkner",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/sprechstunde-des-vorsitzenden-der-stadtverordnetenversammlung-erkner-1-1.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-reste-von-tankstelle-geborgen",
+      "title": "Reste von Tankstelle geborgen",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/reste-von-tankstelle-geborgen.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-12T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-21-bechstein-gedenkkonzert",
+      "title": "21. Bechstein-Gedenkkonzert",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/21-bechstein-gedenkkonzert.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-neuerungen-beim-heimatfest-gut-angenommen",
+      "title": "Neuerungen beim Heimatfest gut angenommen",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/neuerungen-beim-heimatfest-gut-angenommen.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-05T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-endspurt-im-buergerhaushalt-2026",
+      "title": "Endspurt im Bürgerhaushalt 2026",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/endspurt-im-buergerhaushalt-2026.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
+    {
+      "id": "erkner-news-havariebeseitigung",
+      "title": "Havariebeseitigung",
+      "url": "https://www.erkner.de/rathaus-und-buergerservice/buergerinformationen/aktuelles/neuigkeiten/2026-1/havariebeseitigung.html",
+      "fetchedAt": "2026-09-11T09:59:26.101Z",
+      "publishedAt": "2026-06-01T00:00:00.000Z",
+      "updatedAt": "2026-09-11T11:13:02.402Z"
+    },
     {
       "id": "erkner-news-lieblingsblick-fuer-erkner",
       "title": "Lieblingsblick für Erkner",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:13:24.943Z",
+  "updatedAt": "2026-09-11T11:06:42.544Z",
   "items": [
     {
       "id": "heideblick-event-2896160-20260508",
@@ -227,6 +227,15 @@
       "updatedAt": "2026-05-08T17:59:22.435Z"
     },
     {
+      "id": "heideblick-event-2936443-20260913",
+      "title": "Frühschoppen am Dorfteich Gehren",
+      "url": "https://www.heideblick.de/veranstaltungen/2936443/2026/09/13/frühschoppen-am-dorfteich-gehren.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "location": "Gehren",
+      "fetchedAt": "2026-09-11T09:53:24.954Z",
+      "updatedAt": "2026-09-11T11:06:42.503Z"
+    },
+    {
       "id": "heideblick-event-2865972-20260918",
       "title": "Laternenabeneteuer",
       "url": "https://www.heideblick.de/veranstaltungen/2865972/2026/09/18/laternenabeneteuer.html",
@@ -236,6 +245,51 @@
       "updatedAt": "2026-05-08T17:59:22.435Z"
     },
     {
+      "id": "heideblick-event-2948556-20260919",
+      "title": "Oktoberfest Pitschen-Pickel",
+      "url": "https://www.heideblick.de/veranstaltungen/2948556/2026/09/19/oktoberfest-pitschen-pickel.html",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "location": "Pitschen-Pickel",
+      "fetchedAt": "2026-09-11T09:53:24.954Z",
+      "updatedAt": "2026-09-11T11:06:42.503Z"
+    },
+    {
+      "id": "heideblick-event-2922034-20260923",
+      "title": "Senioren in Bewegung",
+      "url": "https://www.heideblick.de/veranstaltungen/2922034/2026/09/23/senioren-in-bewegung.html",
+      "startDate": "2026-09-23T00:00:00.000Z",
+      "location": "Sportplatz Walddrehna",
+      "fetchedAt": "2026-09-11T09:53:24.954Z",
+      "updatedAt": "2026-09-11T11:06:42.503Z"
+    },
+    {
+      "id": "heideblick-event-2958666-20260925",
+      "title": "Pizzaday",
+      "url": "https://www.heideblick.de/veranstaltungen/2958666/2026/09/25/pizzaday.html",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "location": "Gaststätte Raunigk   \"Zum Lindenkrug\"",
+      "fetchedAt": "2026-09-11T09:53:24.954Z",
+      "updatedAt": "2026-09-11T11:06:42.503Z"
+    },
+    {
+      "id": "heideblick-event-2922032-20260930",
+      "title": "Infocaf&eacute;",
+      "url": "https://www.heideblick.de/veranstaltungen/2922032/2026/09/30/infocafé.html",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "location": "Gemeinde Heideblick",
+      "fetchedAt": "2026-09-11T09:53:24.954Z",
+      "updatedAt": "2026-09-11T11:06:42.503Z"
+    },
+    {
+      "id": "heideblick-event-2965448-20261011",
+      "title": "Hoftrödel",
+      "url": "https://www.heideblick.de/veranstaltungen/2965448/2026/10/11/hoftrödel.html",
+      "startDate": "2026-10-11T00:00:00.000Z",
+      "location": "Langengrassau",
+      "fetchedAt": "2026-09-11T09:53:24.954Z",
+      "updatedAt": "2026-09-11T11:06:42.503Z"
+    },
+    {
       "id": "heideblick-event-2865953-20261107",
       "title": "Jugendliebe im Herbst",
       "url": "https://www.heideblick.de/veranstaltungen/2865953/2026/11/07/jugendliebe-im-herbst.html",
@@ -243,6 +297,24 @@
       "location": "Gaststätte Raunigk   \"Zum Lindenkrug\"",
       "fetchedAt": "2026-05-08T17:59:22.435Z",
       "updatedAt": "2026-05-08T17:59:22.435Z"
+    },
+    {
+      "id": "heideblick-event-2958785-20261113",
+      "title": "Krimidinner",
+      "url": "https://www.heideblick.de/veranstaltungen/2958785/2026/11/13/krimidinner.html",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "location": "Gaststätte Raunigk   \"Zum Lindenkrug\"",
+      "fetchedAt": "2026-09-11T09:53:24.954Z",
+      "updatedAt": "2026-09-11T11:06:42.503Z"
+    },
+    {
+      "id": "heideblick-event-2958786-20270108",
+      "title": "Krimidinner",
+      "url": "https://www.heideblick.de/veranstaltungen/2958786/2027/01/08/krimidinner.html",
+      "startDate": "2027-01-08T00:00:00.000Z",
+      "location": "Gaststätte Raunigk   \"Zum Lindenkrug\"",
+      "fetchedAt": "2026-09-11T09:53:24.954Z",
+      "updatedAt": "2026-09-11T11:06:42.503Z"
     }
   ]
 }

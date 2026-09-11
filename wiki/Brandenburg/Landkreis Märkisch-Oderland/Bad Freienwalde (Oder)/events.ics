@@ -257,12 +257,21 @@ URL:https://stadt.bad-freienwalde.de/veranstaltungen/2892011/2026/09/06/n
 END:VEVENT
 BEGIN:VEVENT
 UID:bad-freienwalde-event-2821399-20260912@amtsfeed.de
-DTSTAMP:20260506T201201Z
+DTSTAMP:20260911T111134Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-SUMMARY:DSV Nordcup
+SUMMARY:DSV Nordcup Bad Freienwalde
 URL:https://stadt.bad-freienwalde.de/veranstaltungen/2821399/2026/09/12/d
- sv-nordcup.html
+ sv-nordcup-bad-freienwalde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2930830-20260912@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Nordcup in Bad Freienwalde
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2930830/2026/09/12/n
+ ordcup-in-bad-freienwalde.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bad-freienwalde-event-2884829-20260916@amtsfeed.de
@@ -275,6 +284,33 @@ URL:https://stadt.bad-freienwalde.de/veranstaltungen/2884829/2026/09/16/3
  76.-foyergespräch-wie-steht-es-mit-den-beziehungen-zu-polen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:bad-freienwalde-event-2939906-20260917@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Alpencup Nordische Kombination in Villach
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939906/2026/09/17/a
+ lpencup-nordische-kombination-in-villach.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2945448-20260918@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Sch&uuml\;lercup in Degenfeld
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2945448/2026/09/18/s
+ chülercup-in-degenfeld.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2952806-20260919@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:ICOC/COC Stams (AUT)
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2952806/2026/09/19/i
+ coc-coc-stams-aut.html
+END:VEVENT
+BEGIN:VEVENT
 UID:bad-freienwalde-event-2884733-20260920@amtsfeed.de
 DTSTAMP:20260506T201201Z
 DTSTART;VALUE=DATE:20260920
@@ -284,6 +320,24 @@ SUMMARY:Robbie Doyle und Band und den den Scottish Country Dancing Societ
 URL:https://stadt.bad-freienwalde.de/veranstaltungen/2884733/2026/09/20/r
  obbie-doyle-und-band-und-den-den-scottish-country-dancing-society-of-berl
  in.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2939907-20260924@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Alpencup Nordische Kombination in Liberec (CZE)
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939907/2026/09/24/a
+ lpencup-nordische-kombination-in-liberec-cze.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2913005-20260928@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Internationales deutsch-polnisches Trainingslager
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2913005/2026/09/28/i
+ nternationales-deutsch-polnisches-trainingslager.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bad-freienwalde-event-2821403-20261002@amtsfeed.de
@@ -304,6 +358,37 @@ DTEND;VALUE=DATE:20261003
 SUMMARY:Die mobile Schanze an der Bundtstift-Schule Strausberg
 URL:https://stadt.bad-freienwalde.de/veranstaltungen/2902349/2026/10/02/d
  ie-mobile-schanze-an-der-bundtstift-schule-strausberg.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2918407-20261002@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Internationale Offene Landesmeisterschaften im Spezialsprunglauf 
+ und in der Nordischen Kombination
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2918407/2026/10/02/i
+ nternationale-offene-landesmeisterschaften-im-spezialsprunglauf-und-in-de
+ r-nordischen-kombination.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2918403-20261002@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Internationale Offene Landesmeisterschaften Spezialsprunglauf und
+  Nordische Kombination
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2918403/2026/10/02/i
+ nternationale-offene-landesmeisterschaften-spezialsprunglauf-und-nordisch
+ e-kombination.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2939908-20261008@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Deutsche Meisterschaften Nordische Kombination
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939908/2026/10/08/d
+ eutsche-meisterschaften-nordische-kombination.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bad-freienwalde-event-2821403-20261009@amtsfeed.de
@@ -335,6 +420,33 @@ URL:https://stadt.bad-freienwalde.de/veranstaltungen/2884833/2026/10/14/3
  77.-foyergespräch-joachim-ringelnatz-in-sommerfeld.html
 END:VEVENT
 BEGIN:VEVENT
+UID:bad-freienwalde-event-2939909-20261015@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Alpencup Nordische Kombinatipn in Predazzo (ITA)
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939909/2026/10/15/a
+ lpencup-nordische-kombinatipn-in-predazzo-ita.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2945454-20261029@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Abendsprunglauf in Biberschlag
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2945454/2026/10/29/a
+ bendsprunglauf-in-biberschlag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2939921-20261029@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Deutschlandpokal Nordische Kombination in Berchtesgaden
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939921/2026/10/29/d
+ eutschlandpokal-nordische-kombination-in-berchtesgaden.html
+END:VEVENT
+BEGIN:VEVENT
 UID:bad-freienwalde-event-2884700-20261101@amtsfeed.de
 DTSTAMP:20260506T201201Z
 DTSTART;VALUE=DATE:20261101
@@ -351,6 +463,24 @@ DTEND;VALUE=DATE:20261116
 SUMMARY:Orpheus Salon Orchester spielt "Der Kaiserwalzer"
 URL:https://stadt.bad-freienwalde.de/veranstaltungen/2884661/2026/11/15/o
  rpheus-salon-orchester-spielt-der-kaiserwalzer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2939910-20261210@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:COC Nordische Kombination in Ruka (FIN)
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939910/2026/12/10/c
+ oc-nordische-kombination-in-ruka-fin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2939912-20261210@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Deutschlandpokal in Oberhof
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939912/2026/12/10/d
+ eutschlandpokal-in-oberhof.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bad-freienwalde-event-2899049-20261212@amtsfeed.de
@@ -371,6 +501,51 @@ URL:https://stadt.bad-freienwalde.de/veranstaltungen/2892019/2026/12/13/a
  dventsmarkt-neulietzegöricke.html
 END:VEVENT
 BEGIN:VEVENT
+UID:bad-freienwalde-event-2939914-20261217@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Alpencup Nordische Kombination in Seefeld
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939914/2026/12/17/a
+ lpencup-nordische-kombination-in-seefeld.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2945455-20261219@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Sch&uuml\;lercup in Rastb&uuml\;chl
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2945455/2026/12/19/s
+ chülercup-in-rastbüchl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2939917-20270107@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Weltcup Nordische Kombination in Klingenthal
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939917/2027/01/07/w
+ eltcup-nordische-kombination-in-klingenthal.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2939915-20270107@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:COC Nordische Kombination in Eisenerz
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939915/2027/01/07/c
+ oc-nordische-kombination-in-eisenerz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2939916-20270107@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Alpencup in Caux Neuve (FRA)
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939916/2027/01/07/a
+ lpencup-in-caux-neuve-fra.html
+END:VEVENT
+BEGIN:VEVENT
 UID:bad-freienwalde-event-2899050-20270109@amtsfeed.de
 DTSTAMP:20260506T201201Z
 DTSTART;VALUE=DATE:20270109
@@ -378,6 +553,33 @@ DTEND;VALUE=DATE:20270110
 SUMMARY:NORDCUP Bischofsgr&uuml\;n
 URL:https://stadt.bad-freienwalde.de/veranstaltungen/2899050/2027/01/09/n
  ordcup-bischofsgrün.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2939918-20270114@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:COC Nordische Kombination in Klingenthal
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939918/2027/01/14/c
+ oc-nordische-kombination-in-klingenthal.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2939920-20270118@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Junioren-Weltmeisterschaft in Otep&auml\;&auml\; (FIN)
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939920/2027/01/18/j
+ unioren-weltmeisterschaft-in-otepää-fin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2939922-20270128@amtsfeed.de
+DTSTAMP:20260911T111134Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:COC in ITA/SUI
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2939922/2027/01/28/c
+ oc-in-ita-sui.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bad-freienwalde-event-2899052-20270227@amtsfeed.de

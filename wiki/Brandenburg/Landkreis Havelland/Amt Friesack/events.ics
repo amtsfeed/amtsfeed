@@ -388,6 +388,24 @@ URL:https://www.amt-friesack.de/veranstaltungen/2851788/2026/09/13/tag-de
  s-offenen-denkmals-fintelmannhaus-senzke.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-friesack-event-2949486-20260917@amtsfeed.de
+DTSTAMP:20260911T110727Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Ein Moment der Ruhe- Zeit zum Lesen und Schreiben
+URL:https://www.amt-friesack.de/veranstaltungen/2949486/2026/09/17/ein-mo
+ ment-der-ruhe-zeit-zum-lesen-und-schreiben.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-friesack-event-2841380-20260917@amtsfeed.de
+DTSTAMP:20260911T110727Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Kino im Gemeinderaum "Das ultimative Geschenk"
+URL:https://www.amt-friesack.de/veranstaltungen/2841380/2026/09/17/kino-i
+ m-gemeinderaum-das-ultimative-geschenk.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-friesack-event-2851792-20260919@amtsfeed.de
 DTSTAMP:20260531T141346Z
 DTSTART;VALUE=DATE:20260919
@@ -406,6 +424,24 @@ URL:https://www.amt-friesack.de/veranstaltungen/2841385/2026/09/26/gospel
  konzert-mit-den-finchpot-singers-mit-anschl.-kaffeetrinken.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-friesack-event-2957490-20260926@amtsfeed.de
+DTSTAMP:20260911T110727Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Herbstfest mit Oldtimertreffen Wutzetz
+URL:https://www.amt-friesack.de/veranstaltungen/2957490/2026/09/26/herbst
+ fest-mit-oldtimertreffen-wutzetz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-friesack-event-2964409-20260926@amtsfeed.de
+DTSTAMP:20260911T110727Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Die Unterschätzten - Lesung des Autors Andreas Möller -
+URL:https://www.amt-friesack.de/veranstaltungen/2964409/2026/09/26/die-un
+ terschätzten-lesung-des-autors-andreas-möller.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-friesack-event-2851794-20261002@amtsfeed.de
 DTSTAMP:20260531T141346Z
 DTSTART;VALUE=DATE:20261002
@@ -413,6 +449,15 @@ DTEND;VALUE=DATE:20261003
 SUMMARY:Herbstfeuer in Wagenitz
 URL:https://www.amt-friesack.de/veranstaltungen/2851794/2026/10/02/herbst
  feuer-in-wagenitz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-friesack-event-2947941-20261002@amtsfeed.de
+DTSTAMP:20260911T110727Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Vivendo trifft Friesacker Kirche
+URL:https://www.amt-friesack.de/veranstaltungen/2947941/2026/10/02/vivend
+ o-trifft-friesacker-kirche.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2851795-20261010@amtsfeed.de
@@ -526,12 +571,12 @@ URL:https://www.amt-friesack.de/veranstaltungen/2851818/2026/11/08/herbst
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2904789-20261111@amtsfeed.de
-DTSTAMP:20260531T141346Z
+DTSTAMP:20260911T110727Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:FKC - Eröffnung der 74. Session 11.11 Uhr und abends
+SUMMARY:FKC - Eröffnung der 74. Session 11.11 Uhr
 URL:https://www.amt-friesack.de/veranstaltungen/2904789/2026/11/11/fkc-er
- öffnung-der-74.-session-11.11-uhr-und-abends.html
+ öffnung-der-74.-session-11.11-uhr.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2841409-20261119@amtsfeed.de

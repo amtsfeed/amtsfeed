@@ -319,15 +319,6 @@ URL:https://www.michendorf.de/veranstaltungen/2905350/2026/05/30/die-tür
  -nebenan.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2646897@amtsfeed.de
-DTSTAMP:20260506T123001Z
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Sonntags-Frühstück
-URL:https://www.michendorf.de/veranstaltungen/2646897/2026/05/31/sonntags
- -frühstück.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2887533@amtsfeed.de
 DTSTAMP:20260506T123001Z
 DTSTART;VALUE=DATE:20260531
@@ -417,15 +408,6 @@ DTEND;VALUE=DATE:20260608
 SUMMARY:Die Tür nebenan
 URL:https://www.michendorf.de/veranstaltungen/2905359/2026/06/07/die-tür
  -nebenan.html
-END:VEVENT
-BEGIN:VEVENT
-UID:michendorf-event-2798286@amtsfeed.de
-DTSTAMP:20260531T131707Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260610
-SUMMARY:Trauercaf&eacute\;
-URL:https://www.michendorf.de/veranstaltungen/2798286/2026/06/09/trauerca
- fé.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2817156@amtsfeed.de
@@ -637,6 +619,15 @@ URL:https://www.michendorf.de/veranstaltungen/2796859/2026/09/01/babybegr
  üßung-durch-die-bürgermeisterin.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2948283@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:“Demenz neu sehen” - Ausstellung im Rathaus
+URL:https://www.michendorf.de/veranstaltungen/2948283/2026/09/01/demenz-n
+ eu-sehen-ausstellung-im-rathaus.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2884445@amtsfeed.de
 DTSTAMP:20260506T123001Z
 DTSTART;VALUE=DATE:20260905
@@ -646,13 +637,185 @@ URL:https://www.michendorf.de/veranstaltungen/2884445/2026/09/05/18.-lang
  erwischer-höfefest.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2904622@amtsfeed.de
-DTSTAMP:20260526T090500Z
+UID:michendorf-event-2935190@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Ausstellung: Auf den zweiten Blick
+URL:https://www.michendorf.de/veranstaltungen/2935190/2026/09/08/ausstell
+ ung-auf-den-zweiten-blick.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2950244@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Ruhe finden mit Hilfe der Progressiven Muskelrelaxation
+URL:https://www.michendorf.de/veranstaltungen/2950244/2026/09/10/ruhe-fin
+ den-mit-hilfe-der-progressiven-muskelrelaxation.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2950239@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Schmerzlinderung durch Autogenes Training
+URL:https://www.michendorf.de/veranstaltungen/2950239/2026/09/10/schmerzl
+ inderung-durch-autogenes-training.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959541@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959541/2026/09/11/jugendcl
+ ub-micheck-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2944577@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Kaffeeklatsch mit Kalter Hund Verkostung und Perspektivengespräc
+ h
+URL:https://www.michendorf.de/veranstaltungen/2944577/2026/09/11/kaffeekl
+ atsch-mit-kalter-hund-verkostung-und-perspektivengespräch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2924185@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Kleine Verbrechen unter Liebenden
+URL:https://www.michendorf.de/veranstaltungen/2924185/2026/09/11/kleine-v
+ erbrechen-unter-liebenden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2954891@amtsfeed.de
+DTSTAMP:20260911T111336Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
+SUMMARY:Filmworkshop Langerwisch
+URL:https://www.michendorf.de/veranstaltungen/2954891/2026/09/12/filmwork
+ shop-langerwisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2961742@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Unsere D-Juniorinnen laden zum Freundschaftsspiel!
+URL:https://www.michendorf.de/veranstaltungen/2961742/2026/09/12/unsere-d
+ -juniorinnen-laden-zum-freundschaftsspiel.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959804@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:21. Kinder- und Dorffest in Fresdorf
+URL:https://www.michendorf.de/veranstaltungen/2959804/2026/09/12/21.-kind
+ er-und-dorffest-in-fresdorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2924186@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Kleine Verbrechen unter Liebenden
+URL:https://www.michendorf.de/veranstaltungen/2924186/2026/09/12/kleine-v
+ erbrechen-unter-liebenden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2904622@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
 SUMMARY:80 Jahre Kulturbund Michendorf
-URL:https://www.michendorf.de/veranstaltungen/2904622/2026/09/12/80-jahre
+URL:https://www.michendorf.de/veranstaltungen/2904622/2026/09/13/80-jahre
  -kulturbund-michendorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2958922@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Treffen: Nachhaltig lecker Essen (Erfahrungsaustausch)
+URL:https://www.michendorf.de/veranstaltungen/2958922/2026/09/13/treffen-
+ nachhaltig-lecker-essen-erfahrungsaustausch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2924187@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Kleine Verbrechen unter Liebenden
+URL:https://www.michendorf.de/veranstaltungen/2924187/2026/09/13/kleine-v
+ erbrechen-unter-liebenden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2955837@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Mut tut gut!
+URL:https://www.michendorf.de/veranstaltungen/2955837/2026/09/14/mut-tut-
+ gut.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2798286@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Trauercaf&eacute\;
+URL:https://www.michendorf.de/veranstaltungen/2798286/2026/09/15/trauerca
+ fé.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959538@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959538/2026/09/15/jugendcl
+ ub-micheck-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2964312@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Mädchenfußball in Michendorf
+URL:https://www.michendorf.de/veranstaltungen/2964312/2026/09/15/mädchen
+ fußball-in-michendorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959533@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959533/2026/09/17/jugendcl
+ ub-micheck-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2964315@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Mädchenfußball in Michendorf
+URL:https://www.michendorf.de/veranstaltungen/2964315/2026/09/17/mädchen
+ fußball-in-michendorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938941@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Im Gespräch in Fresdorf
+URL:https://www.michendorf.de/veranstaltungen/2938941/2026/09/17/im-gespr
+ äch-in-fresdorf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2854057@amtsfeed.de
@@ -664,6 +827,277 @@ URL:https://www.michendorf.de/veranstaltungen/2854057/2026/09/18/konzert-
  irish-folk-mit-lovely-madness.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2924363@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Spieleabend
+URL:https://www.michendorf.de/veranstaltungen/2924363/2026/09/18/spieleab
+ end.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2924356@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Trommel-Workshop "Groove Werkstatt"
+URL:https://www.michendorf.de/veranstaltungen/2924356/2026/09/18/trommel-
+ workshop-groove-werkstatt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2935189@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Sommerfest Ortsbeirat Michendorf
+URL:https://www.michendorf.de/veranstaltungen/2935189/2026/09/19/sommerfe
+ st-ortsbeirat-michendorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938757@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Der dressierte Mann - Premiere
+URL:https://www.michendorf.de/veranstaltungen/2938757/2026/09/19/der-dres
+ sierte-mann-premiere.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2919370@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Michendorfer Demenzwoche
+URL:https://www.michendorf.de/veranstaltungen/2919370/2026/09/21/michendo
+ rfer-demenzwoche.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2948991@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Workshop "Mit Demenz umgehen"
+URL:https://www.michendorf.de/veranstaltungen/2948991/2026/09/21/workshop
+ -mit-demenz-umgehen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2954859@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Englisch A2 zum Dranbleiben. Neuer Kurs
+URL:https://www.michendorf.de/veranstaltungen/2954859/2026/09/22/englisch
+ -a2-zum-dranbleiben.-neuer-kurs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2964317@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Mädchenfußball in Michendorf
+URL:https://www.michendorf.de/veranstaltungen/2964317/2026/09/22/mädchen
+ fußball-in-michendorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2949030@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Ausstellung "Flur der Erinnerungen"
+URL:https://www.michendorf.de/veranstaltungen/2949030/2026/09/23/ausstell
+ ung-flur-der-erinnerungen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2949015@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Wer nicht gut hört\, zieht sich zurück.
+URL:https://www.michendorf.de/veranstaltungen/2949015/2026/09/23/wer-nich
+ t-gut-hört-zieht-sich-zurück.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2964311@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Filmclub: Das Salz der Erde - Dokumentarfilm von Wim Wenders
+URL:https://www.michendorf.de/veranstaltungen/2964311/2026/09/23/filmclub
+ -das-salz-der-erde-dokumentarfilm-von-wim-wenders.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2954684@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Arbeitgeberseminar: Sicher im Personalalltag handeln
+URL:https://www.michendorf.de/veranstaltungen/2954684/2026/09/24/arbeitge
+ berseminar-sicher-im-personalalltag-handeln.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2949035@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Musik-Kaffee mit Bingo
+URL:https://www.michendorf.de/veranstaltungen/2949035/2026/09/24/musik-ka
+ ffee-mit-bingo.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2941838@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Arbeitsrecht für Arbeitgeber - sicher entscheiden im Personalall
+ tag
+URL:https://www.michendorf.de/veranstaltungen/2941838/2026/09/24/arbeitsr
+ echt-für-arbeitgeber-sicher-entscheiden-im-personalalltag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2941857@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Englisch für die Reise A1/A2 - Neuer Kurs
+URL:https://www.michendorf.de/veranstaltungen/2941857/2026/09/24/englisch
+ -für-die-reise-a1-a2-neuer-kurs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2960881@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Eröffnung der neuen Sport- und Freizeitstätte
+URL:https://www.michendorf.de/veranstaltungen/2960881/2026/09/25/eröffnu
+ ng-der-neuen-sport-und-freizeitstätte.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2937568@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Lesung vom Kulturbund
+URL:https://www.michendorf.de/veranstaltungen/2937568/2026/09/25/lesung-v
+ om-kulturbund.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938760@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Der dressierte Mann
+URL:https://www.michendorf.de/veranstaltungen/2938760/2026/09/25/der-dres
+ sierte-mann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2951619@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Kita Löwenzahn lädt zum Tag der offenen Tür ein
+URL:https://www.michendorf.de/veranstaltungen/2951619/2026/09/26/kita-lö
+ wenzahn-lädt-zum-tag-der-offenen-tür-ein.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938762@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Der dressierte Mann
+URL:https://www.michendorf.de/veranstaltungen/2938762/2026/09/26/der-dres
+ sierte-mann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2646897@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Sonntags-Frühstück
+URL:https://www.michendorf.de/veranstaltungen/2646897/2026/09/27/sonntags
+ -frühstück.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938764@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Der dressierte Mann
+URL:https://www.michendorf.de/veranstaltungen/2938764/2026/09/27/der-dres
+ sierte-mann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938926@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Rathaus unterwegs in Wilhelmshorst
+URL:https://www.michendorf.de/veranstaltungen/2938926/2026/09/29/rathaus-
+ unterwegs-in-wilhelmshorst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938769@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Der dressierte Mann
+URL:https://www.michendorf.de/veranstaltungen/2938769/2026/10/02/der-dres
+ sierte-mann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938774@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Der dressierte Mann
+URL:https://www.michendorf.de/veranstaltungen/2938774/2026/10/03/der-dres
+ sierte-mann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938776@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Der dressierte Mann
+URL:https://www.michendorf.de/veranstaltungen/2938776/2026/10/04/der-dres
+ sierte-mann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2961738@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Konzert für Celloquartett und Sopran
+URL:https://www.michendorf.de/veranstaltungen/2961738/2026/10/04/konzert-
+ für-celloquartett-und-sopran.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2960790@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Herbstfest AWO Ortsverein Michendorf e.V.
+URL:https://www.michendorf.de/veranstaltungen/2960790/2026/10/08/herbstfe
+ st-awo-ortsverein-michendorf-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2958923@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Spieletreff
+URL:https://www.michendorf.de/veranstaltungen/2958923/2026/10/09/spieletr
+ eff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938778@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Der dressierte Mann
+URL:https://www.michendorf.de/veranstaltungen/2938778/2026/10/09/der-dres
+ sierte-mann.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2897215@amtsfeed.de
 DTSTAMP:20260506T123001Z
 DTSTART;VALUE=DATE:20261010
@@ -671,6 +1105,106 @@ DTEND;VALUE=DATE:20261011
 SUMMARY:Weniger Stress beim Umgang mit schwierigen Menschen
 URL:https://www.michendorf.de/veranstaltungen/2897215/2026/10/10/weniger-
  stress-beim-umgang-mit-schwierigen-menschen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2958921@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Reparatur-Caf&eacute\;
+URL:https://www.michendorf.de/veranstaltungen/2958921/2026/10/10/reparatu
+ r-café.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2955843@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Kleine Kunstmesse 10x10x10 im Fliederhof Stücken
+URL:https://www.michendorf.de/veranstaltungen/2955843/2026/10/10/kleine-k
+ unstmesse-10x10x10-im-fliederhof-stücken.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938783@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Der dressierte Mann
+URL:https://www.michendorf.de/veranstaltungen/2938783/2026/10/10/der-dres
+ sierte-mann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938784@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Der dressierte Mann
+URL:https://www.michendorf.de/veranstaltungen/2938784/2026/10/11/der-dres
+ sierte-mann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2961734@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Lymphdrainage &amp\; AtemAchtsamkeit
+URL:https://www.michendorf.de/veranstaltungen/2961734/2026/10/12/lymphdra
+ inage-amp-atemachtsamkeit.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2923241@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Umfrage für den 3. Tag der Kinderrechte
+URL:https://www.michendorf.de/veranstaltungen/2923241/2026/10/14/umfrage-
+ für-den-3.-tag-der-kinderrechte.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2965556@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Wärmepumpen-Eignungstest Infoveranstaltung
+URL:https://www.michendorf.de/veranstaltungen/2965556/2026/10/15/wärmepu
+ mpen-eignungstest-infoveranstaltung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2958919@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Lesungen im Herbst: Geschenke aus dem Nichts (Mareen Behrendt-Det
+ er)
+URL:https://www.michendorf.de/veranstaltungen/2958919/2026/10/16/lesungen
+ -im-herbst-geschenke-aus-dem-nichts-mareen-behrendt-deter.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938787@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Der dressierte Mann
+URL:https://www.michendorf.de/veranstaltungen/2938787/2026/10/16/der-dres
+ sierte-mann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2955844@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Stückener Tanzabend im Hofsaal des Fliederhofes
+URL:https://www.michendorf.de/veranstaltungen/2955844/2026/10/17/stücken
+ er-tanzabend-im-hofsaal-des-fliederhofes.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2938832@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Der dressierte Mann
+URL:https://www.michendorf.de/veranstaltungen/2938832/2026/10/17/der-dres
+ sierte-mann.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2897217@amtsfeed.de
@@ -691,6 +1225,51 @@ URL:https://www.michendorf.de/veranstaltungen/2897216/2026/10/23/weniger-
  stress-beim-umgang-mit-schwierigen-menschen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2958924@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Spieletreff
+URL:https://www.michendorf.de/veranstaltungen/2958924/2026/10/23/spieletr
+ eff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2958374@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Im Gespräch in Wildenbruch
+URL:https://www.michendorf.de/veranstaltungen/2958374/2026/10/29/im-gespr
+ äch-in-wildenbruch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2937569@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Lesung vom Kulturbund
+URL:https://www.michendorf.de/veranstaltungen/2937569/2026/10/30/lesung-v
+ om-kulturbund.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2965475@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Seniorenfest der Gemeinde
+URL:https://www.michendorf.de/veranstaltungen/2965475/2026/11/05/senioren
+ fest-der-gemeinde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2958377@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Im Gespräch in Wilhelmshorst
+URL:https://www.michendorf.de/veranstaltungen/2958377/2026/11/05/im-gespr
+ äch-in-wilhelmshorst.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2660025@amtsfeed.de
 DTSTAMP:20260506T123001Z
 DTSTART;VALUE=DATE:20261109
@@ -707,6 +1286,34 @@ DTEND;VALUE=DATE:20261111
 SUMMARY:Trauercaf&eacute\;
 URL:https://www.michendorf.de/veranstaltungen/2798288/2026/11/10/trauerca
  fé.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2958916@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Lesungen im Herbst: Bleiben und Aufbauen (Luise Wegscheider/Vera 
+ Wendt)
+URL:https://www.michendorf.de/veranstaltungen/2958916/2026/11/13/lesungen
+ -im-herbst-bleiben-und-aufbauen-luise-wegscheider-vera-wendt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2950248@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:1. Michendorfer Science Slam
+URL:https://www.michendorf.de/veranstaltungen/2950248/2026/11/13/1.-miche
+ ndorfer-science-slam.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2950245@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Mit Klangschalen entspannt in die Herbst- und Adventszeit
+URL:https://www.michendorf.de/veranstaltungen/2950245/2026/11/14/mit-klan
+ gschalen-entspannt-in-die-herbst-und-adventszeit.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2884834@amtsfeed.de
@@ -727,6 +1334,24 @@ URL:https://www.michendorf.de/veranstaltungen/2785539/2026/11/26/tag-der-
  offenen-tür-im-rathaus-mit-weihnachtsleuchten.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2937570@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Lesung vom Kulturbund
+URL:https://www.michendorf.de/veranstaltungen/2937570/2026/11/27/lesung-v
+ om-kulturbund.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2941861@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Wilhelmshorster Weihnachtsmarkt
+URL:https://www.michendorf.de/veranstaltungen/2941861/2026/11/28/wilhelms
+ horster-weihnachtsmarkt.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2796861@amtsfeed.de
 DTSTAMP:20260506T123001Z
 DTSTART;VALUE=DATE:20261201
@@ -743,5 +1368,14 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Nikolauslauf
 URL:https://www.michendorf.de/veranstaltungen/2785927/2026/12/06/nikolaus
  lauf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959134@amtsfeed.de
+DTSTAMP:20260911T111336Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Im Gespräch in Michendorf
+URL:https://www.michendorf.de/veranstaltungen/2959134/2026/12/17/im-gespr
+ äch-in-michendorf.html
 END:VEVENT
 END:VCALENDAR

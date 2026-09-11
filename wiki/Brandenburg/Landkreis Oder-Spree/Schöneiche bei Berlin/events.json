@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T09:04:38.032Z",
+  "updatedAt": "2026-09-11T11:13:06.681Z",
   "items": [
     {
       "id": "schoeneiche-event-schoeneicher-chorgemeinschaft-e-v-2",
@@ -88,6 +88,54 @@
       "startDate": "2026-06-21T16:00:00.000Z",
       "fetchedAt": "2026-05-06T08:49:23.007Z",
       "updatedAt": "2026-05-06T08:49:23.007Z"
+    },
+    {
+      "id": "schoeneiche-event-faust-n-roll-rocktheater-nach-goethe",
+      "title": "Faust´n´Roll - Rocktheater nach Goethe",
+      "url": "https://www.schoeneiche.de/freizeit/kultur/veranstaltung/faust-n-roll-rocktheater-nach-goethe",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:31.376Z",
+      "updatedAt": "2026-09-11T11:13:06.655Z"
+    },
+    {
+      "id": "schoeneiche-event-tag-der-offenen-tuer-freiwillige-feuerwehr",
+      "title": "Tag der offenen Tür - freiwillige Feuerwehr",
+      "url": "https://www.schoeneiche.de/freizeit/kultur/veranstaltung/tag-der-offenen-tuer-freiwillige-feuerwehr",
+      "startDate": "2026-09-12T10:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:31.376Z",
+      "updatedAt": "2026-09-11T11:13:06.655Z"
+    },
+    {
+      "id": "schoeneiche-event-schoeneicher-chorgemeinschaft-e-v-3",
+      "title": "Schöneicher Chorgemeinschaft e.V.",
+      "url": "https://www.schoeneiche.de/freizeit/kultur/veranstaltung/schoeneicher-chorgemeinschaft-e-v-3",
+      "startDate": "2026-09-12T16:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:31.376Z",
+      "updatedAt": "2026-09-11T11:13:06.655Z"
+    },
+    {
+      "id": "schoeneiche-event-tag-d-offenen-denkmals",
+      "title": "Tag d. offenen Denkmals",
+      "url": "https://www.schoeneiche.de/freizeit/kultur/veranstaltung/tag-d-offenen-denkmals",
+      "startDate": "2026-09-13T11:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:31.376Z",
+      "updatedAt": "2026-09-11T11:13:06.655Z"
+    },
+    {
+      "id": "schoeneiche-event-tag-d-offenen-denkmals-2",
+      "title": "Tag d. Offenen Denkmals",
+      "url": "https://www.schoeneiche.de/freizeit/kultur/veranstaltung/tag-d-offenen-denkmals-2",
+      "startDate": "2026-09-13T11:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:31.376Z",
+      "updatedAt": "2026-09-11T11:13:06.655Z"
+    },
+    {
+      "id": "schoeneiche-event-tag-d-offenen-denkmals-3",
+      "title": "Tag d. offenen Denkmals",
+      "url": "https://www.schoeneiche.de/freizeit/kultur/veranstaltung/tag-d-offenen-denkmals-3",
+      "startDate": "2026-09-13T11:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:31.376Z",
+      "updatedAt": "2026-09-11T11:13:06.655Z"
     }
   ]
 }

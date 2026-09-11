@@ -46,15 +46,6 @@ URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
  park
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260526T090412Z
-DTSTART;VALUE=DATE:20260526
-DTEND;VALUE=DATE:20260527
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-glueckliche-fuesse@amtsfeed.de
 DTSTAMP:20260526T090412Z
 DTSTART;VALUE=DATE:20260526
@@ -72,15 +63,6 @@ SUMMARY:Radtour: Zwischen Burg und See – Natur und Kultur erfahren mit
  dem grünen Lutz
 URL:https://www.scharmuetzelsee.de/event/radtour-zwischen-burg-und-see-na
  tur-und-kultur-erfahren-mit-dem-gruenen-lutz
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
-DTSTAMP:20260531T131612Z
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Linienfahrten Hauptsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
- ch
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-geburtstagsfeier-650-jahre-wendisch-rietz@amtsfeed.de
@@ -226,11 +208,152 @@ SUMMARY:Rad-Scharmützel 2026
 URL:https://www.scharmuetzelsee.de/event/rad-scharmuetzel-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Linienfahrten Hauptsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
+ ch
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-flammender-scharmuetzelsee-2026@amtsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+SUMMARY:Flammender Scharmützelsee 2026
+URL:https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
+ durch-die-ortsgeschichte@amtsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang dur
+ ch die Ortsgeschichte
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-
+ fps-ssp-ein-rundgang-durch-die-ortsgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-naturfuehrung-und-lesung-mit-karsten-nitsch@amtsfeed.
+ de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Naturführung und Lesung mit Karsten Nitsch
+URL:https://www.scharmuetzelsee.de/event/naturfuehrung-und-lesung-mit-kar
+ sten-nitsch
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrung-mit-den-gefaehrten-der-nacht-in-storkow@amts
+ feed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Führung mit den Gefährten der Nacht in Storkow
+URL:https://www.scharmuetzelsee.de/event/fuehrung-mit-den-gefaehrten-der-
+ nacht-in-storkow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-flammender-scharmuetzelsee@amtsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Flammender Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650ja
+ ehrigen-ein-rundgang-durch-die-ortsgeschichte@amtsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen 
+ – Ein Rundgang durch die Ortsgeschichte
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-
+ dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260921
+SUMMARY:SATAMAs Aufguss-WM 2026
+URL:https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-antik-und-troedelmarkt-in-wendisch-rietz@amtsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Antik- und Trödelmarkt in Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/antik-und-troedelmarkt-in-wendis
+ ch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-tag-des-offenen-denkmals-im-scharwenka-kulturforum@am
+ tsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Tag des offenen Denkmals im Scharwenka Kulturforum
+URL:https://www.scharmuetzelsee.de/event/tag-des-offenen-denkmals-im-scha
+ rwenka-kulturforum
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-drachenfest-neu-golm@amtsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Drachenfest Neu Golm
+URL:https://www.scharmuetzelsee.de/event/drachenfest-neu-golm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-deutsche-meisterschaft-im-kutterrudern@amtsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Deutsche Meisterschaft im Kutterrudern
+URL:https://www.scharmuetzelsee.de/event/deutsche-meisterschaft-im-kutter
+ rudern
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-naturpark-hoffest-burg-storkow@amtsfeed.de
 DTSTAMP:20260505T155040Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Naturpark Hoffest Burg Storkow
 URL:https://www.scharmuetzelsee.de/event/naturpark-hoffest-burg-storkow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-al
+ muth-lohmann-zell@amtsfeed.de
+DTSTAMP:20260911T111244Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Keramik-Workshop in Bad Saarow mit der Künstlerin Almuth Lohmann
+ -Zell
+URL:https://www.scharmuetzelsee.de/event/keramik-workshop-in-bad-saarow-m
+ it-der-kuenstlerin-almuth-lohmann-zell
 END:VEVENT
 END:VCALENDAR

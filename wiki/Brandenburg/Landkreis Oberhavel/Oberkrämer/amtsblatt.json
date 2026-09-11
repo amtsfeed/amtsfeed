@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-05-31T13:16:07.438Z",
+  "updatedAt": "2026-09-11T11:12:17.580Z",
   "items": [
+    {
+      "id": "oberkraemer-amtsblatt-88408",
+      "title": "Amtsblatt Ausgabe Nr. 2/2026",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_88408",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
     {
       "id": "oberkraemer-amtsblatt-ab_8e30ca",
       "title": "ab_8e30ca",
@@ -37,6 +44,13 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-88407",
+      "title": "Amtsblatt Ausgabe Nr. 1/2026",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_88407",
+      "publishedAt": "2026-03-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Oberkraemer_Sieben_Orte_-_Eine_Gemeinde_Nr1_2026",
       "title": "Oberkrämer \"Sieben Orte - Eine Gemeinde\" Nr. 1 2026",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/Oberkraemer_Sieben_Orte_-_Eine_Gemeinde_Nr1_2026.pdf",
@@ -51,11 +65,25 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85900",
+      "title": "Amtsblatt Ausgabe Nr. 6/2025",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85900",
+      "publishedAt": "2025-12-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr5_Jahrgang_24_vom_24102025",
       "title": "Amtsblatt Nr. 5 - Jahrgang 24 - vom 24.10.2025",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/AB2025/Amtsblatt_Nr5_Jahrgang_24_vom_24102025.pdf",
       "publishedAt": "2025-10-24T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:50.349Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85899",
+      "title": "Amtsblatt Ausgabe Nr. 5/2025",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85899",
+      "publishedAt": "2025-10-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
     },
     {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr4_Jahrgang_24_vom_18072025",
@@ -65,11 +93,25 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85898",
+      "title": "Amtsblatt Ausgabe Nr. 4/2025",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85898",
+      "publishedAt": "2025-07-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr3_Jahrgang_24_von_17042025",
       "title": "Amtsblatt Nr. 3 - Jahrgang 24 - vom 17.04.2025",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/AB2025/Amtsblatt_Nr3_Jahrgang_24_von_17042025.pdf",
       "publishedAt": "2025-04-17T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:50.349Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85897",
+      "title": "Amtsblatt Ausgabe Nr. 3/2025",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85897",
+      "publishedAt": "2025-04-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
     },
     {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr2_Jahrgang_24_von_28022025",
@@ -79,11 +121,25 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85896",
+      "title": "Amtsblatt Ausgabe Nr. 2/2025",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85896",
+      "publishedAt": "2025-02-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr1_Jahrgang_24_von_27012025",
       "title": "Amtsblatt Nr. 1 - Jahrgang 24 - vom 27.01.2025",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/AB2025/Amtsblatt_Nr1_Jahrgang_24_von_27012025.pdf",
       "publishedAt": "2025-01-27T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:50.349Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85895",
+      "title": "Amtsblatt Ausgabe Nr. 1/2025",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85895",
+      "publishedAt": "2025-01-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
     },
     {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr8_Jahrgang_23_vom_13122024",
@@ -93,11 +149,25 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85908",
+      "title": "Amtsblatt Ausgabe Nr. 8/2024",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85908",
+      "publishedAt": "2024-12-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr7_Jahrgang_23_vom_25102024",
       "title": "Amtsblatt Nr. 7 - Jahrgang 23 - vom 25.10.2024",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/AB2024/Amtsblatt_Nr7_Jahrgang_23_vom_25102024.pdf",
       "publishedAt": "2024-10-25T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:50.349Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85907",
+      "title": "Amtsblatt Ausgabe Nr. 7/2024",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85907",
+      "publishedAt": "2024-10-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
     },
     {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr6_Jahrgang_23_vom_22072024",
@@ -107,11 +177,25 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85906",
+      "title": "Amtsblatt Ausgabe Nr. 6/2024",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85906",
+      "publishedAt": "2024-07-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr5_Jahrgang_23_vom_20062024",
       "title": "Amtsblatt Nr. 5 - Jahrgang 23 - vom 20.06.2024",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/AB2024/Amtsblatt_Nr5_Jahrgang_23_vom_20062024.pdf",
       "publishedAt": "2024-06-20T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:50.349Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85905",
+      "title": "Amtsblatt Ausgabe Nr. 5/2024",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85905",
+      "publishedAt": "2024-06-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
     },
     {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr4_Jahrgang_23_vom_31052024",
@@ -121,11 +205,25 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85904",
+      "title": "Amtsblatt Ausgabe Nr. 4/2024",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85904",
+      "publishedAt": "2024-05-31T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr3_Jahrgang_23_vom_18042024",
       "title": "Amtsblatt Nr. 3 - Jahrgang 23 - vom 18.04.2024",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/AB2024/Amtsblatt_Nr3_Jahrgang_23_vom_18042024.pdf",
       "publishedAt": "2024-04-18T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:50.349Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85903",
+      "title": "Amtsblatt Ausgabe Nr. 3/2024",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85903",
+      "publishedAt": "2024-04-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
     },
     {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr2_Jahrgang_23_vom_08032024",
@@ -135,11 +233,25 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85902",
+      "title": "Amtsblatt Ausgabe Nr. 2/2024",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85902",
+      "publishedAt": "2024-03-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr1_Jahrgang_23_vom_21022024",
       "title": "Amtsblatt Nr. 1 - Jahrgang 23 - vom 21.02.2024",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/AB2024/Amtsblatt_Nr1_Jahrgang_23_vom_21022024.pdf",
       "publishedAt": "2024-02-21T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:50.349Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85901",
+      "title": "Amtsblatt Ausgabe Nr. 1/2024",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85901",
+      "publishedAt": "2024-02-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
     },
     {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr._5_-_Jahrgang_22_-_vom_15.12.2023",
@@ -149,11 +261,25 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85917",
+      "title": "Amtsblatt Ausgabe Nr. 5/2023",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85917",
+      "publishedAt": "2023-12-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr._4_-_Jahrgang_22_-_vom_20.10.2023",
       "title": "Amtsblatt Nr. 4 - Jahrgang 22 - vom 20.10.2023",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/AB2023/Amtsblatt_Nr._4_-_Jahrgang_22_-_vom_20.10.2023.pdf",
       "publishedAt": "2023-10-20T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:50.349Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85916",
+      "title": "Amtsblatt Ausgabe Nr. 4/2023",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85916",
+      "publishedAt": "2023-10-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
     },
     {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr._3_-_Jahrgang_22_-_vom_21.07.2023",
@@ -163,6 +289,13 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85915",
+      "title": "Amtsblatt Ausgabe Nr. 3/2023",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85915",
+      "publishedAt": "2023-07-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr._2_-_Jahrgang_22_-_vom_17.05.2023",
       "title": "Amtsblatt Nr. 2 - Jahrgang 22 - vom 17.05.2023",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/AB2023/Amtsblatt_Nr._2_-_Jahrgang_22_-_vom_17.05.2023.pdf",
@@ -170,11 +303,242 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85914",
+      "title": "Amtsblatt Ausgabe Nr. 2/2023",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85914",
+      "publishedAt": "2023-05-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Nr._1_Jahrgang_22_vom_10.03.2023",
       "title": "Amtsblatt Nr. 1 - Jahrgang 22 - vom 10.03.2023",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/AB2023/Amtsblatt_Nr._1_Jahrgang_22_vom_10.03.2023.pdf",
       "publishedAt": "2023-03-10T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:50.349Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85909",
+      "title": "Amtsblatt Ausgabe Nr. 1/2023",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85909",
+      "publishedAt": "2023-03-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85928",
+      "title": "Amtsblatt Ausgabe Nr. 8/2022",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85928",
+      "publishedAt": "2022-12-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85927",
+      "title": "Amtsblatt Ausgabe Nr. 7/2022",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85927",
+      "publishedAt": "2022-10-07T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85926",
+      "title": "Amtsblatt Ausgabe Nr. 6/2022",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85926",
+      "publishedAt": "2022-07-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85925",
+      "title": "Amtsblatt Ausgabe Nr. 5/2022",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85925",
+      "publishedAt": "2022-07-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85924",
+      "title": "Amtsblatt Ausgabe Nr. 4/2022",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85924",
+      "publishedAt": "2022-05-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85923",
+      "title": "Amtsblatt Ausgabe Nr. 3/2022",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85923",
+      "publishedAt": "2022-03-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85922",
+      "title": "Amtsblatt Ausgabe Nr. 2/2022",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85922",
+      "publishedAt": "2022-02-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85921",
+      "title": "Amtsblatt Ausgabe Nr. 1/2022",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85921",
+      "publishedAt": "2022-01-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85939",
+      "title": "Amtsblatt Ausgabe Nr. 9/2021",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85939",
+      "publishedAt": "2021-12-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85938",
+      "title": "Amtsblatt Ausgabe Nr. 8/2021",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85938",
+      "publishedAt": "2021-12-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85937",
+      "title": "Amtsblatt Ausgabe Nr. 7/2021",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85937",
+      "publishedAt": "2021-10-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85935",
+      "title": "Amtsblatt Ausgabe Nr. 6/2021",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85935",
+      "publishedAt": "2021-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85934",
+      "title": "Amtsblatt Ausgabe Nr. 5/2021",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85934",
+      "publishedAt": "2021-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85933",
+      "title": "Amtsblatt Ausgabe Nr. 4/2021",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85933",
+      "publishedAt": "2021-09-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85931",
+      "title": "Amtsblatt Ausgabe Nr. 3/2021",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85931",
+      "publishedAt": "2021-07-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85930",
+      "title": "Amtsblatt Ausgabe Nr. 2/2021",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85930",
+      "publishedAt": "2021-05-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85929",
+      "title": "Amtsblatt Ausgabe Nr. 1/2021",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85929",
+      "publishedAt": "2021-03-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85945",
+      "title": "Amtsblatt Ausgabe Nr. 5/2020",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85945",
+      "publishedAt": "2020-12-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85944",
+      "title": "Amtsblatt Ausgabe Nr. 4/2020",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85944",
+      "publishedAt": "2020-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85942",
+      "title": "Amtsblatt Ausgabe Nr. 3/2020",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85942",
+      "publishedAt": "2020-07-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85941",
+      "title": "Amtsblatt Ausgabe Nr. 2/2020",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85941",
+      "publishedAt": "2020-05-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85940",
+      "title": "Amtsblatt Ausgabe Nr. 1/2020",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85940",
+      "publishedAt": "2020-03-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85954",
+      "title": "Amtsblatt Ausgabe Nr. 9/2019",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85954",
+      "publishedAt": "2019-12-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85953",
+      "title": "Amtsblatt Ausgabe Nr. 8/2019",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85953",
+      "publishedAt": "2019-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85952",
+      "title": "Amtsblatt Ausgabe Nr. 7/2019",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85952",
+      "publishedAt": "2019-08-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85951",
+      "title": "Amtsblatt Ausgabe Nr. 6/2019",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85951",
+      "publishedAt": "2019-07-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85950",
+      "title": "Amtsblatt Ausgabe Nr. 5/2019",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85950",
+      "publishedAt": "2019-06-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85949",
+      "title": "Amtsblatt Ausgabe Nr. 4/2019",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85949",
+      "publishedAt": "2019-05-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85947",
+      "title": "Amtsblatt Ausgabe Nr. 2/2019",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85947",
+      "publishedAt": "2019-03-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85948",
+      "title": "Amtsblatt Ausgabe Nr. 3/2019",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85948",
+      "publishedAt": "2019-03-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85946",
+      "title": "Amtsblatt Ausgabe Nr. 1/2019",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85946",
+      "publishedAt": "2019-02-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
     },
     {
       "id": "oberkraemer-amtsblatt-Ab_01_2019",
@@ -191,6 +555,48 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85961",
+      "title": "Amtsblatt Ausgabe Nr. 6/2018",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85961",
+      "publishedAt": "2018-12-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85960",
+      "title": "Amtsblatt Ausgabe Nr. 5/2018",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85960",
+      "publishedAt": "2018-10-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85958",
+      "title": "Amtsblatt Ausgabe Nr. 4/2018",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85958",
+      "publishedAt": "2018-07-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85957",
+      "title": "Amtsblatt Ausgabe Nr. 3/2018",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85957",
+      "publishedAt": "2018-05-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85956",
+      "title": "Amtsblatt Ausgabe Nr. 2/2018",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85956",
+      "publishedAt": "2018-03-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85955",
+      "title": "Amtsblatt Ausgabe Nr. 1/2018",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85955",
+      "publishedAt": "2018-01-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Ab_01_2018_Gemeinde_Oberkraemer",
       "title": "Ab_01_2018_Gemeinde_Oberkraemer",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/Unsortiert/Ab_01_2018_Gemeinde_Oberkraemer.pdf",
@@ -203,6 +609,62 @@
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/Unsortiert/Amtsblatt_2_2018.pdf",
       "publishedAt": "2018-01-01T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:50.349Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85970",
+      "title": "Amtsblatt Ausgabe Nr. 8/2017",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85970",
+      "publishedAt": "2017-12-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85968",
+      "title": "Amtsblatt Ausgabe Nr. 7/2017",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85968",
+      "publishedAt": "2017-10-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85967",
+      "title": "Amtsblatt Ausgabe Nr. 6/2017",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85967",
+      "publishedAt": "2017-08-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85966",
+      "title": "Amtsblatt Ausgabe Nr. 5/2017",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85966",
+      "publishedAt": "2017-07-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85965",
+      "title": "Amtsblatt Ausgabe Nr. 4/2017",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85965",
+      "publishedAt": "2017-05-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85964",
+      "title": "Amtsblatt Ausgabe Nr. 3/2017",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85964",
+      "publishedAt": "2017-03-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85963",
+      "title": "Amtsblatt Ausgabe Nr. 2/2017",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85963",
+      "publishedAt": "2017-02-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85962",
+      "title": "Amtsblatt Ausgabe Nr. 1/2017",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85962",
+      "publishedAt": "2017-01-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
     },
     {
       "id": "oberkraemer-amtsblatt-Ab_01_2017_01",
@@ -233,6 +695,48 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85976",
+      "title": "Amtsblatt Ausgabe Nr. 6/2016",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85976",
+      "publishedAt": "2016-12-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85975",
+      "title": "Amtsblatt Ausgabe Nr. 5/2016",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85975",
+      "publishedAt": "2016-10-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85974",
+      "title": "Amtsblatt Ausgabe Nr. 4/2016",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85974",
+      "publishedAt": "2016-08-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85973",
+      "title": "Amtsblatt Ausgabe Nr. 3/2016",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85973",
+      "publishedAt": "2016-07-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85972",
+      "title": "Amtsblatt Ausgabe Nr. 2/2016",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85972",
+      "publishedAt": "2016-05-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85971",
+      "title": "Amtsblatt Ausgabe Nr. 1/2016",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85971",
+      "publishedAt": "2016-03-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-AB_01_2016",
       "title": "AB_01_2016",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/Unsortiert/AB_01_2016.pdf",
@@ -254,11 +758,606 @@
       "fetchedAt": "2026-05-06T18:00:50.349Z"
     },
     {
+      "id": "oberkraemer-amtsblatt-85985",
+      "title": "Amtsblatt Ausgabe Nr. 8/2015",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85985",
+      "publishedAt": "2015-12-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85984",
+      "title": "Amtsblatt Ausgabe Nr. 7/2015",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85984",
+      "publishedAt": "2015-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85983",
+      "title": "Amtsblatt Ausgabe Nr. 6/2015",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85983",
+      "publishedAt": "2015-10-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85982",
+      "title": "Amtsblatt Ausgabe Nr. 5/2015",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85982",
+      "publishedAt": "2015-09-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85981",
+      "title": "Amtsblatt Ausgabe Nr. 4/2015",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85981",
+      "publishedAt": "2015-08-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85980",
+      "title": "Amtsblatt Ausgabe Nr. 3/2015",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85980",
+      "publishedAt": "2015-07-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85979",
+      "title": "Amtsblatt Ausgabe Nr. 2/2015",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85979",
+      "publishedAt": "2015-05-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85977",
+      "title": "Amtsblatt Ausgabe Nr. 1/2015",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85977",
+      "publishedAt": "2015-03-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
       "id": "oberkraemer-amtsblatt-Amtsblatt_Oberkraemer_01_2015",
       "title": "Amtsblatt_Oberkraemer_01_2015",
       "url": "https://www.oberkraemer.de/fileadmin/files/06_Service/Amtsblatt/Unsortiert/Amtsblatt_Oberkraemer_01_2015.pdf",
       "publishedAt": "2015-01-01T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:00:50.349Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85997",
+      "title": "Amtsblatt Ausgabe Nr. 11/2014",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85997",
+      "publishedAt": "2014-12-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85995",
+      "title": "Amtsblatt Ausgabe Nr. 10/2014",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85995",
+      "publishedAt": "2014-12-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85994",
+      "title": "Amtsblatt Ausgabe Nr. 9/2014",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85994",
+      "publishedAt": "2014-11-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85993",
+      "title": "Amtsblatt Ausgabe Nr. 8/2014",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85993",
+      "publishedAt": "2014-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85992",
+      "title": "Amtsblatt Ausgabe Nr. 7/2014",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85992",
+      "publishedAt": "2014-07-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85991",
+      "title": "Amtsblatt Ausgabe Nr. 6/2014",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85991",
+      "publishedAt": "2014-06-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85990",
+      "title": "Amtsblatt Ausgabe Nr. 5/2014",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85990",
+      "publishedAt": "2014-05-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85989",
+      "title": "Amtsblatt Ausgabe Nr. 4/2014",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85989",
+      "publishedAt": "2014-04-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85988",
+      "title": "Amtsblatt Ausgabe Nr. 3/2014",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85988",
+      "publishedAt": "2014-03-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85987",
+      "title": "Amtsblatt Ausgabe Nr. 2/2014",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85987",
+      "publishedAt": "2014-02-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85986",
+      "title": "Amtsblatt Ausgabe Nr. 1/2014",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85986",
+      "publishedAt": "2014-01-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86001",
+      "title": "Amtsblatt Ausgabe Nr. 4/2013",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86001",
+      "publishedAt": "2013-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86000",
+      "title": "Amtsblatt Ausgabe Nr. 3/2013",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86000",
+      "publishedAt": "2013-06-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85999",
+      "title": "Amtsblatt Ausgabe Nr. 2/2013",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85999",
+      "publishedAt": "2013-05-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-85998",
+      "title": "Amtsblatt Ausgabe Nr. 1/2013",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_85998",
+      "publishedAt": "2013-03-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86007",
+      "title": "Amtsblatt Ausgabe Nr. 6/2012",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86007",
+      "publishedAt": "2012-12-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86006",
+      "title": "Amtsblatt Ausgabe Nr. 5/2012",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86006",
+      "publishedAt": "2012-09-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86005",
+      "title": "Amtsblatt Ausgabe Nr. 4/2012",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86005",
+      "publishedAt": "2012-07-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86004",
+      "title": "Amtsblatt Ausgabe Nr. 3/2012",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86004",
+      "publishedAt": "2012-07-06T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86003",
+      "title": "Amtsblatt Ausgabe Nr. 2/2012",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86003",
+      "publishedAt": "2012-04-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86002",
+      "title": "Amtsblatt Ausgabe Nr. 1/2012",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86002",
+      "publishedAt": "2012-03-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86015",
+      "title": "Amtsblatt Ausgabe Nr. 7/2011",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86015",
+      "publishedAt": "2011-12-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86014",
+      "title": "Amtsblatt Ausgabe Nr. 6/2011",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86014",
+      "publishedAt": "2011-10-07T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86013",
+      "title": "Amtsblatt Ausgabe Nr. 5/2011",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86013",
+      "publishedAt": "2011-08-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86011",
+      "title": "Amtsblatt Ausgabe Nr. 4/2011",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86011",
+      "publishedAt": "2011-07-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86010",
+      "title": "Amtsblatt Ausgabe Nr. 3/2011",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86010",
+      "publishedAt": "2011-04-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86009",
+      "title": "Amtsblatt Ausgabe Nr. 2/2011",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86009",
+      "publishedAt": "2011-03-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86008",
+      "title": "Amtsblatt Ausgabe Nr. 1/2011",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86008",
+      "publishedAt": "2011-03-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86020",
+      "title": "Amtsblatt Ausgabe Nr. 5/2010",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86020",
+      "publishedAt": "2010-12-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86018",
+      "title": "Amtsblatt Ausgabe Nr. 4/2010",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86018",
+      "publishedAt": "2010-10-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86019",
+      "title": "Amtsblatt Ausgabe Nr. 3/2010",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86019",
+      "publishedAt": "2010-07-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86017",
+      "title": "Amtsblatt Ausgabe Nr. 2/2010",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86017",
+      "publishedAt": "2010-05-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86016",
+      "title": "Amtsblatt Ausgabe Nr. 1/2010",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86016",
+      "publishedAt": "2010-03-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86026",
+      "title": "Amtsblatt Ausgabe Nr. 6/2009",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86026",
+      "publishedAt": "2009-12-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86025",
+      "title": "Amtsblatt Ausgabe Nr. 5/2009",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86025",
+      "publishedAt": "2009-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86024",
+      "title": "Amtsblatt Ausgabe Nr. 4/2009",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86024",
+      "publishedAt": "2009-07-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86023",
+      "title": "Amtsblatt Ausgabe Nr. 3/2009",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86023",
+      "publishedAt": "2009-05-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86022",
+      "title": "Amtsblatt Ausgabe Nr. 2/2009",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86022",
+      "publishedAt": "2009-04-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86021",
+      "title": "Amtsblatt Ausgabe Nr. 1/2009",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86021",
+      "publishedAt": "2009-02-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86032",
+      "title": "Amtsblatt Ausgabe Nr. 6/2008",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86032",
+      "publishedAt": "2008-12-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86031",
+      "title": "Amtsblatt Ausgabe Nr. 5/2008",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86031",
+      "publishedAt": "2008-10-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86030",
+      "title": "Amtsblatt Ausgabe Nr. 4/2008",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86030",
+      "publishedAt": "2008-07-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86029",
+      "title": "Amtsblatt Ausgabe Nr. 3/2008",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86029",
+      "publishedAt": "2008-05-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86028",
+      "title": "Amtsblatt Ausgabe Nr. 2/2008",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86028",
+      "publishedAt": "2008-04-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86027",
+      "title": "Amtsblatt Ausgabe Nr. 1/2008",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86027",
+      "publishedAt": "2008-02-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86038",
+      "title": "Amtsblatt Ausgabe Nr. 39/2007",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86038",
+      "publishedAt": "2007-12-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86037",
+      "title": "Amtsblatt Ausgabe Nr. 38/2007",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86037",
+      "publishedAt": "2007-10-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86035",
+      "title": "Amtsblatt Ausgabe Nr. 37/2007",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86035",
+      "publishedAt": "2007-07-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86034",
+      "title": "Amtsblatt Ausgabe Nr. 36/2007",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86034",
+      "publishedAt": "2007-05-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86033",
+      "title": "Amtsblatt Ausgabe Nr. 35/2007",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86033",
+      "publishedAt": "2007-03-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86044",
+      "title": "Amtsblatt Ausgabe Nr. 34/2006",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86044",
+      "publishedAt": "2006-12-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86042",
+      "title": "Amtsblatt Ausgabe Nr. 33/2006",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86042",
+      "publishedAt": "2006-10-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86041",
+      "title": "Amtsblatt Ausgabe Nr. 32/2006",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86041",
+      "publishedAt": "2006-06-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86040",
+      "title": "Amtsblatt Ausgabe Nr. 31/2006",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86040",
+      "publishedAt": "2006-05-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86039",
+      "title": "Amtsblatt Ausgabe Nr. 30/2006",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86039",
+      "publishedAt": "2006-03-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86053",
+      "title": "Amtsblatt Ausgabe Nr. 29/2005",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86053",
+      "publishedAt": "2005-12-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86052",
+      "title": "Amtsblatt Ausgabe Nr. 28/2005",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86052",
+      "publishedAt": "2005-12-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86051",
+      "title": "Amtsblatt Ausgabe Nr. 27/2005",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86051",
+      "publishedAt": "2005-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86050",
+      "title": "Amtsblatt Ausgabe Nr. 26/2005",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86050",
+      "publishedAt": "2005-09-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86049",
+      "title": "Amtsblatt Ausgabe Nr. 25/2005",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86049",
+      "publishedAt": "2005-08-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86048",
+      "title": "Amtsblatt Ausgabe Nr. 24/2005",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86048",
+      "publishedAt": "2005-06-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86046",
+      "title": "Amtsblatt Ausgabe Nr. 23/2005",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86046",
+      "publishedAt": "2005-04-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86045",
+      "title": "Amtsblatt Ausgabe Nr. 22/2005",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86045",
+      "publishedAt": "2005-02-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86060",
+      "title": "Amtsblatt Ausgabe Nr. 21/2004",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86060",
+      "publishedAt": "2004-12-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86059",
+      "title": "Amtsblatt Ausgabe Nr. 20/2004",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86059",
+      "publishedAt": "2004-11-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86058",
+      "title": "Amtsblatt Ausgabe Nr. 19/2004",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86058",
+      "publishedAt": "2004-09-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86057",
+      "title": "Amtsblatt Ausgabe Nr. 18/2004",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86057",
+      "publishedAt": "2004-06-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86056",
+      "title": "Amtsblatt Ausgabe Nr. 17/2004",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86056",
+      "publishedAt": "2004-05-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86063",
+      "title": "Amtsblatt Ausgabe Nr. 10/2003",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86063",
+      "publishedAt": "2004-05-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86055",
+      "title": "Amtsblatt Ausgabe Nr. 16/2004",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86055",
+      "publishedAt": "2004-03-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86054",
+      "title": "Amtsblatt Ausgabe Nr. 15/2004",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86054",
+      "publishedAt": "2004-02-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86067",
+      "title": "Amtsblatt Ausgabe Nr. 14/2003",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86067",
+      "publishedAt": "2003-12-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86066",
+      "title": "Amtsblatt Ausgabe Nr. 13/2003",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86066",
+      "publishedAt": "2003-11-07T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86065",
+      "title": "Amtsblatt Ausgabe Nr. 12/2003",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86065",
+      "publishedAt": "2003-09-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86064",
+      "title": "Amtsblatt Ausgabe Nr. 11/2003",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86064",
+      "publishedAt": "2003-06-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86062",
+      "title": "Amtsblatt Ausgabe Nr. 9/2003",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86062",
+      "publishedAt": "2003-04-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
+    },
+    {
+      "id": "oberkraemer-amtsblatt-86061",
+      "title": "Amtsblatt Ausgabe Nr. 8/2003",
+      "url": "https://www.oberkraemer.de/amtsblatt/index.php#gazette_86061",
+      "publishedAt": "2003-02-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.381Z"
     }
   ]
 }

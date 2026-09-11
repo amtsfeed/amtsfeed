@@ -133,6 +133,15 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2812621/2026/07/03
  /sportfest.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2922522@amtsfeed.de
+DTSTAMP:20260911T110717Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Fotoausstellung "Töne\, Lieder & Musik"
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2922522/2026/07/05
+ /fotoausstellung-töne-lieder-musik.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2812619@amtsfeed.de
 DTSTAMP:20260508T183812Z
 DTSTART;VALUE=DATE:20260710
@@ -211,6 +220,30 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2906044/2026/08/30
  /orgel-am-sonntag.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2954918@amtsfeed.de
+DTSTAMP:20260911T110717Z
+DTSTART:20260912T090000Z
+SUMMARY:geführte Radtour - LOUISE -
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2954918/2026/09/12
+ /geführte-radtour-louise.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2938980@amtsfeed.de
+DTSTAMP:20260911T110717Z
+DTSTART:20260917T153000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2938980/2026/09/17
+ /spielenachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2954919@amtsfeed.de
+DTSTAMP:20260911T110717Z
+DTSTART:20260919T170000Z
+SUMMARY:28. Puppentheaterfestival
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2954919/2026/09/19
+ /28.-puppentheaterfestival.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2812263@amtsfeed.de
 DTSTAMP:20260508T183812Z
 DTSTART;VALUE=DATE:20260926
@@ -244,6 +277,14 @@ DTEND;VALUE=DATE:20261004
 SUMMARY:Herbstfest
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2812246/2026/10/03
  /herbstfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2947230@amtsfeed.de
+DTSTAMP:20260911T110717Z
+DTSTART:20261003T160000Z
+SUMMARY:Oktoberfest
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2947230/2026/10/03
+ /oktoberfest.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2811928@amtsfeed.de

@@ -259,6 +259,16 @@ URL:https://www.heideblick.de/veranstaltungen/2865977/2026/08/28/rock-im-
 LOCATION:Waldbühne Gehren
 END:VEVENT
 BEGIN:VEVENT
+UID:heideblick-event-2936443-20260913@amtsfeed.de
+DTSTAMP:20260911T110642Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Frühschoppen am Dorfteich Gehren
+URL:https://www.heideblick.de/veranstaltungen/2936443/2026/09/13/frühsch
+ oppen-am-dorfteich-gehren.html
+LOCATION:Gehren
+END:VEVENT
+BEGIN:VEVENT
 UID:heideblick-event-2865972-20260918@amtsfeed.de
 DTSTAMP:20260508T175922Z
 DTSTART;VALUE=DATE:20260918
@@ -269,6 +279,56 @@ URL:https://www.heideblick.de/veranstaltungen/2865972/2026/09/18/laternen
 LOCATION:Waldbühne Gehren
 END:VEVENT
 BEGIN:VEVENT
+UID:heideblick-event-2948556-20260919@amtsfeed.de
+DTSTAMP:20260911T110642Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Oktoberfest Pitschen-Pickel
+URL:https://www.heideblick.de/veranstaltungen/2948556/2026/09/19/oktoberf
+ est-pitschen-pickel.html
+LOCATION:Pitschen-Pickel
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2922034-20260923@amtsfeed.de
+DTSTAMP:20260911T110642Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Senioren in Bewegung
+URL:https://www.heideblick.de/veranstaltungen/2922034/2026/09/23/senioren
+ -in-bewegung.html
+LOCATION:Sportplatz Walddrehna
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2958666-20260925@amtsfeed.de
+DTSTAMP:20260911T110642Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Pizzaday
+URL:https://www.heideblick.de/veranstaltungen/2958666/2026/09/25/pizzaday
+ .html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2922032-20260930@amtsfeed.de
+DTSTAMP:20260911T110642Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Infocaf&eacute\;
+URL:https://www.heideblick.de/veranstaltungen/2922032/2026/09/30/infocaf
+ é.html
+LOCATION:Gemeinde Heideblick
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2965448-20261011@amtsfeed.de
+DTSTAMP:20260911T110642Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Hoftrödel
+URL:https://www.heideblick.de/veranstaltungen/2965448/2026/10/11/hoftröd
+ el.html
+LOCATION:Langengrassau
+END:VEVENT
+BEGIN:VEVENT
 UID:heideblick-event-2865953-20261107@amtsfeed.de
 DTSTAMP:20260508T175922Z
 DTSTART;VALUE=DATE:20261107
@@ -276,6 +336,26 @@ DTEND;VALUE=DATE:20261108
 SUMMARY:Jugendliebe im Herbst
 URL:https://www.heideblick.de/veranstaltungen/2865953/2026/11/07/jugendli
  ebe-im-herbst.html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2958785-20261113@amtsfeed.de
+DTSTAMP:20260911T110642Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Krimidinner
+URL:https://www.heideblick.de/veranstaltungen/2958785/2026/11/13/krimidin
+ ner.html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2958786-20270108@amtsfeed.de
+DTSTAMP:20260911T110642Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Krimidinner
+URL:https://www.heideblick.de/veranstaltungen/2958786/2027/01/08/krimidin
+ ner.html
 LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
 END:VEVENT
 END:VCALENDAR

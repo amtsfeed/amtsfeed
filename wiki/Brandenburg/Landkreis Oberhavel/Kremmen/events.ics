@@ -528,16 +528,6 @@ URL:https://www.kremmen.de/veranstaltungen/2907135/2026/09/05/trödelmark
 LOCATION:Restaurant Coldehörn
 END:VEVENT
 BEGIN:VEVENT
-UID:kremmen-event-2196215@amtsfeed.de
-DTSTAMP:20260506T201908Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:Bundesweiter Warntag
-URL:https://www.kremmen.de/veranstaltungen/2196215/2026/09/10/bundesweite
- r-warntag.html
-LOCATION:Feuerwehr Kremmen
-END:VEVENT
-BEGIN:VEVENT
 UID:kremmen-event-2910121@amtsfeed.de
 DTSTAMP:20260531T131600Z
 DTSTART;VALUE=DATE:20260911
@@ -546,6 +536,16 @@ SUMMARY:Unfreiwillig komisch - Die Junge Diestel
 URL:https://www.kremmen.de/veranstaltungen/2910121/2026/09/11/unfreiwilli
  g-komisch-die-junge-diestel.html
 LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2965420@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Eröffnung von &bdquo\;Emmas Kaufhalle&ldquo\; in Sommerfeld
+URL:https://www.kremmen.de/veranstaltungen/2965420/2026/09/11/eröffnung-
+ von-emmas-kaufhalle-in-sommerfeld.html
+LOCATION:Sommerfeld
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2774244@amtsfeed.de
@@ -578,14 +578,124 @@ URL:https://www.kremmen.de/veranstaltungen/2846315/2026/09/12/herbstfest.
 LOCATION:Sportplatz am Eichenhain
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2954037@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Frühstück am Bahnhof Beetz-Sommerfeld
+URL:https://www.kremmen.de/veranstaltungen/2954037/2026/09/12/frühstück
+ -am-bahnhof-beetz-sommerfeld.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2937986@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Laut & Lustig II
+URL:https://www.kremmen.de/veranstaltungen/2937986/2026/09/12/laut-lustig
+ -ii.html
+LOCATION:Sommerfeld\, Platz vor der Kirche
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2950455@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Hofkonzert - Könich Henry
+URL:https://www.kremmen.de/veranstaltungen/2950455/2026/09/12/hofkonzert-
+ könich-henry.html
+LOCATION:Alte Lebkuchenfabrik - Pension & Café
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2545776@amtsfeed.de
-DTSTAMP:20260526T090401Z
+DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:23. Dackelrennen in Bärenklau
 URL:https://www.kremmen.de/veranstaltungen/2545776/2026/09/13/23.-dackelr
  ennen-in-bärenklau.html
-LOCATION:Regionalpark Krämer Forst e.V.
+LOCATION:Förderverein Regionalpark Krämer Forst e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2957630@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Pilz Wanderung
+URL:https://www.kremmen.de/veranstaltungen/2957630/2026/09/13/pilz-wander
+ ung.html
+LOCATION:Der Pilz-Dude
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2962523@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Tierschutzfest
+URL:https://www.kremmen.de/veranstaltungen/2962523/2026/09/13/tierschutzf
+ est.html
+LOCATION:Hauptstraße 29 in 16766 Kremmen - OT Flatow
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2964558@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Tag des offenen Denkmals im Schloss Sommerswalde
+URL:https://www.kremmen.de/veranstaltungen/2964558/2026/09/13/tag-des-off
+ enen-denkmals-im-schloss-sommerswalde.html
+LOCATION:Förderverein Regionalpark Krämer Forst e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2964556@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Tag des offenen Denkmals - Mathiasberg in Bötzow
+URL:https://www.kremmen.de/veranstaltungen/2964556/2026/09/13/tag-des-off
+ enen-denkmals-mathiasberg-in-bötzow.html
+LOCATION:Förderverein Regionalpark Krämer Forst e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911504@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Michael Eller
+URL:https://www.kremmen.de/veranstaltungen/2911504/2026/09/18/michael-ell
+ er.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2964561@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Speedway - ADAC Speedway Liga Nord + NBM
+URL:https://www.kremmen.de/veranstaltungen/2964561/2026/09/19/speedway-ad
+ ac-speedway-liga-nord--nbm.html
+LOCATION:Förderverein Regionalpark Krämer Forst e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2954635@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Frühstück im Caf&eacute\; Sommerfeld
+URL:https://www.kremmen.de/veranstaltungen/2954635/2026/09/19/frühstück
+ -im-café-sommerfeld.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2957537@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Apfelerntefest
+URL:https://www.kremmen.de/veranstaltungen/2957537/2026/09/19/apfelerntef
+ est.html
+LOCATION:Schlossgut Schwante
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2849042@amtsfeed.de
@@ -606,6 +716,137 @@ SUMMARY:Trödelmarkt
 URL:https://www.kremmen.de/veranstaltungen/2907136/2026/09/20/trödelmark
  t.html
 LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2948320@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Sommerfriede kocht - Gulaschsuppe & Abendbrot im Caf&eacute\; Som
+ merfeld
+URL:https://www.kremmen.de/veranstaltungen/2948320/2026/09/25/sommerfried
+ e-kocht-gulaschsuppe-abendbrot-im-café-sommerfeld.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2941605@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Erntedank in Staffelde
+URL:https://www.kremmen.de/veranstaltungen/2941605/2026/09/25/erntedank-i
+ n-staffelde.html
+LOCATION:Kirche Staffelde
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911512@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Comedian Fil
+URL:https://www.kremmen.de/veranstaltungen/2911512/2026/09/25/comedian-fi
+ l.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2954641@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Frühstück im Caf&eacute\; Sommerfeld am Bahnhof
+URL:https://www.kremmen.de/veranstaltungen/2954641/2026/09/26/frühstück
+ -im-café-sommerfeld-am-bahnhof.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2964565@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Dorffest Schwante
+URL:https://www.kremmen.de/veranstaltungen/2964565/2026/09/26/dorffest-sc
+ hwante.html
+LOCATION:Förderverein Regionalpark Krämer Forst e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2928760@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Herbstfest der Senioren
+URL:https://www.kremmen.de/veranstaltungen/2928760/2026/09/26/herbstfest-
+ der-senioren.html
+LOCATION:Bistro Stadtparkhalle Kremmen
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2941606@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Erntedank in Groß-Ziethen
+URL:https://www.kremmen.de/veranstaltungen/2941606/2026/09/27/erntedank-i
+ n-groß-ziethen.html
+LOCATION:Dorfkirche Groß-Ziethen
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911517@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Kneipenquiz
+URL:https://www.kremmen.de/veranstaltungen/2911517/2026/10/02/kneipenquiz
+ .html
+LOCATION:Theaterbistro "Kombüse 11"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2948322@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Frischer Leberkäs in warmer Semmel
+URL:https://www.kremmen.de/veranstaltungen/2948322/2026/10/03/frischer-le
+ berkäs-in-warmer-semmel.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2941607@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Erntedank in Kremmen
+URL:https://www.kremmen.de/veranstaltungen/2941607/2026/10/04/erntedank-i
+ n-kremmen.html
+LOCATION:Kirche Kremmen
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911519@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Lesung  "Wenn der Nebel übers Feld"
+URL:https://www.kremmen.de/veranstaltungen/2911519/2026/10/09/lesung-wenn
+ -der-nebel-übers-feld.html
+LOCATION:Theaterbistro "Kombüse 11"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911520@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Friedemann Weise
+URL:https://www.kremmen.de/veranstaltungen/2911520/2026/10/15/friedemann-
+ weise.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2954646@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Käsefondue im Caf&eacute\; Sommerfeld
+URL:https://www.kremmen.de/veranstaltungen/2954646/2026/10/16/käsefondue
+ -im-café-sommerfeld.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2871145@amtsfeed.de
@@ -638,6 +879,56 @@ URL:https://www.kremmen.de/veranstaltungen/2900417/2026/10/17/kunst-handw
 LOCATION:Historisches Scheunenviertel Kremmen
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2954040@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Waffelwochenende
+URL:https://www.kremmen.de/veranstaltungen/2954040/2026/10/17/waffelwoche
+ nende.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911521@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:FolkMan
+URL:https://www.kremmen.de/veranstaltungen/2911521/2026/10/23/folkman.htm
+ l
+LOCATION:Theaterbistro "Kombüse 11"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911524@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Busse und Scheunemann
+URL:https://www.kremmen.de/veranstaltungen/2911524/2026/10/24/busse-und-s
+ cheunemann.html
+LOCATION:Theaterbistro "Kombüse 11"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911527@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Busse und Scheunemann
+URL:https://www.kremmen.de/veranstaltungen/2911527/2026/10/31/busse-und-s
+ cheunemann.html
+LOCATION:Theaterbistro "Kombüse 11"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911533@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Eric Fish & Friends
+URL:https://www.kremmen.de/veranstaltungen/2911533/2026/11/06/eric-fish-f
+ riends.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2846337@amtsfeed.de
 DTSTAMP:20260506T201908Z
 DTSTART;VALUE=DATE:20261107
@@ -646,6 +937,67 @@ SUMMARY:Lichterfest
 URL:https://www.kremmen.de/veranstaltungen/2846337/2026/11/07/lichterfest
  .html
 LOCATION:Flatow
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2954042@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Lichtenberg und Wedding: Geschichte einer Liebe im geteilten Berl
+ in
+URL:https://www.kremmen.de/veranstaltungen/2954042/2026/11/07/lichtenberg
+ -und-wedding-geschichte-einer-liebe-im-geteilten-berlin.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911534@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Dominic Merten
+URL:https://www.kremmen.de/veranstaltungen/2911534/2026/11/07/dominic-mer
+ ten.html
+LOCATION:Theaterbistro "Kombüse 11"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2615527@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Weihnachtspostamt Oberkrämer öffnet
+URL:https://www.kremmen.de/veranstaltungen/2615527/2026/11/13/weihnachtsp
+ ostamt-oberkrämer-öffnet.html
+LOCATION:Bockwindmühle Vehlefanz
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911537@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Christina Lux & Oliver George
+URL:https://www.kremmen.de/veranstaltungen/2911537/2026/11/13/christina-l
+ ux-oliver-george.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2916046@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Repair-Caf&eacute\; Kremmen
+URL:https://www.kremmen.de/veranstaltungen/2916046/2026/11/14/repair-caf
+ é-kremmen.html
+LOCATION:Museumsscheune
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2911539@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:3 Tage Bell\, Book & Candle
+URL:https://www.kremmen.de/veranstaltungen/2911539/2026/11/19/3-tage-bell
+ -book-candle.html
+LOCATION:Theater "Tiefste Provinz"
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2846348@amtsfeed.de
@@ -658,6 +1010,16 @@ URL:https://www.kremmen.de/veranstaltungen/2846348/2026/11/28/weihnachtsm
 LOCATION:Denkmal Ortsmitte
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2927970@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Schneewittchen im November
+URL:https://www.kremmen.de/veranstaltungen/2927970/2026/11/28/schneewittc
+ hen-im-november.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2846366@amtsfeed.de
 DTSTAMP:20260506T201908Z
 DTSTART;VALUE=DATE:20261204
@@ -666,6 +1028,46 @@ SUMMARY:Seniorenweihnachtsfeier
 URL:https://www.kremmen.de/veranstaltungen/2846366/2026/12/04/seniorenwei
  hnachtsfeier.html
 LOCATION:Turnhalle am Mühlenring
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927971@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:KI sucht WG
+URL:https://www.kremmen.de/veranstaltungen/2927971/2026/12/05/ki-sucht-wg
+ .html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2941320@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Wordlüsterne Schandtaten\, Martin Buchholz liest
+URL:https://www.kremmen.de/veranstaltungen/2941320/2026/12/11/wordlüster
+ ne-schandtaten-martin-buchholz-liest.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2758463@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Oberkrämer Weihnachtsmarkt
+URL:https://www.kremmen.de/veranstaltungen/2758463/2026/12/12/oberkrämer
+ -weihnachtsmarkt.html
+LOCATION:Bockwindmühle Vehlefanz
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927974@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Weihnachtsliedersingen
+URL:https://www.kremmen.de/veranstaltungen/2927974/2026/12/19/weihnachtsl
+ iedersingen.html
+LOCATION:Theater "Tiefste Provinz"
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2871170@amtsfeed.de
@@ -686,6 +1088,115 @@ SUMMARY:Weihnachtsmarkt und Trödelmarkt
 URL:https://www.kremmen.de/veranstaltungen/2907138/2026/12/20/weihnachtsm
  arkt-und-trödelmarkt.html
 LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2964867@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Rentner- Weihnachtsfeier / Jahresabschlussfeier
+URL:https://www.kremmen.de/veranstaltungen/2964867/2027/01/08/rentner-wei
+ hnachtsfeier-jahresabschlussfeier.html
+LOCATION:Flatow
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927977@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Delaia
+URL:https://www.kremmen.de/veranstaltungen/2927977/2027/02/19/delaia.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927982@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Arnulf Rating - WARE LÜGEN
+URL:https://www.kremmen.de/veranstaltungen/2927982/2027/02/26/arnulf-rati
+ ng-ware-lügen.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927985@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:H. J. Schatz liest...
+URL:https://www.kremmen.de/veranstaltungen/2927985/2027/03/05/h.-j.-schat
+ z-liest.html
+LOCATION:Theaterbistro "Kombüse 11"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927987@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:FRAUENTAG! - Bremerich Broneske Das Duo
+URL:https://www.kremmen.de/veranstaltungen/2927987/2027/03/06/frauentag-b
+ remerich-broneske-das-duo.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927988@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Hasenscheisse
+URL:https://www.kremmen.de/veranstaltungen/2927988/2027/03/13/hasenscheis
+ se.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927989@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Das Musikquiz mit DJ Sixty6
+URL:https://www.kremmen.de/veranstaltungen/2927989/2027/03/19/das-musikqu
+ iz-mit-dj-sixty6.html
+LOCATION:Theaterbistro "Kombüse 11"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927991@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Get Stoned
+URL:https://www.kremmen.de/veranstaltungen/2927991/2027/03/20/get-stoned.
+ html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927992@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Bluesnacht im Theater tiefste Provinz
+URL:https://www.kremmen.de/veranstaltungen/2927992/2027/04/03/bluesnacht-
+ im-theater-tiefste-provinz.html
+LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927993@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Bluesnacht in der Kombüse 11
+URL:https://www.kremmen.de/veranstaltungen/2927993/2027/04/03/bluesnacht-
+ in-der-kombüse-11.html
+LOCATION:Theaterbistro "Kombüse 11"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2927994@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Mago Masin
+URL:https://www.kremmen.de/veranstaltungen/2927994/2027/04/23/mago-masin.
+ html
+LOCATION:Theater "Tiefste Provinz"
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2894328@amtsfeed.de
@@ -726,5 +1237,35 @@ SUMMARY:Kremmen läuft 2027
 URL:https://www.kremmen.de/veranstaltungen/2897263/2027/05/09/kremmen-lä
  uft-2027.html
 LOCATION:Kremmen
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2943393@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Das könnte der Termin für Ihre Hochzeit sein.
+URL:https://www.kremmen.de/veranstaltungen/2943393/2027/07/07/das-könnte
+ -der-termin-für-ihre-hochzeit-sein.html
+LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2943397@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Das könnte der Termin für Ihre Hochzeit sein.
+URL:https://www.kremmen.de/veranstaltungen/2943397/2027/07/27/das-könnte
+ -der-termin-für-ihre-hochzeit-sein.html
+LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2196215@amtsfeed.de
+DTSTAMP:20260911T111210Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Bundesweiter Warntag
+URL:https://www.kremmen.de/veranstaltungen/2196215/2027/09/09/bundesweite
+ r-warntag.html
+LOCATION:Feuerwehr Kremmen
 END:VEVENT
 END:VCALENDAR

@@ -107,16 +107,6 @@ URL:https://www.amt-b-f.de/veranstaltungen/2807998/2026/09/12/trödelmark
 LOCATION:Gemeinde Brieskow-Finkenheerd
 END:VEVENT
 BEGIN:VEVENT
-UID:brieskow-finkenheerd-event-2856044@amtsfeed.de
-DTSTAMP:20260506T202031Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:Herbstfest
-URL:https://www.amt-b-f.de/veranstaltungen/2856044/2026/09/27/herbstfest.
- html
-LOCATION:Gemeinde Wiesenau
-END:VEVENT
-BEGIN:VEVENT
 UID:brieskow-finkenheerd-event-2806431@amtsfeed.de
 DTSTAMP:20260506T202031Z
 DTSTART;VALUE=DATE:20261003
@@ -125,6 +115,16 @@ SUMMARY:Oderpokal Angeln
 URL:https://www.amt-b-f.de/veranstaltungen/2806431/2026/10/03/oderpokal-a
  ngeln.html
 LOCATION:Gemeinde Brieskow-Finkenheerd
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2856044@amtsfeed.de
+DTSTAMP:20260911T111243Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Herbstfest
+URL:https://www.amt-b-f.de/veranstaltungen/2856044/2026/10/04/herbstfest.
+ html
+LOCATION:Gemeinde Wiesenau
 END:VEVENT
 BEGIN:VEVENT
 UID:brieskow-finkenheerd-event-2807999@amtsfeed.de
@@ -155,5 +155,15 @@ SUMMARY:Weihnachtsmarkt Brieskow-Finkenheerd
 URL:https://www.amt-b-f.de/veranstaltungen/2808014/2026/12/12/weihnachtsm
  arkt-brieskow-finkenheerd.html
 LOCATION:Gemeinde Brieskow-Finkenheerd
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2847846@amtsfeed.de
+DTSTAMP:20260911T111243Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Lindenblütenfest
+URL:https://www.amt-b-f.de/veranstaltungen/2847846/2027/06/11/lindenblüt
+ enfest.html
+LOCATION:Gemeinde Groß Lindow
 END:VEVENT
 END:VCALENDAR

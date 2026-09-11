@@ -52,12 +52,21 @@ URL:https://www.amt-wusterwitz.de/veranstaltungen/2795411/2026/08/28/spie
  l-der-wandlung.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-wusterwitz-event-2958392@amtsfeed.de
+DTSTAMP:20260911T111327Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Herbstfest für Senioren am 10. Oktober 2026
+URL:https://www.amt-wusterwitz.de/veranstaltungen/2958392/2026/09/01/herb
+ stfest-für-senioren-am-10.-oktober-2026.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-wusterwitz-event-2795412@amtsfeed.de
-DTSTAMP:20260506T201657Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
+DTSTAMP:20260911T111327Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
 SUMMARY:Spiel der Wandlung
-URL:https://www.amt-wusterwitz.de/veranstaltungen/2795412/2026/10/02/spie
+URL:https://www.amt-wusterwitz.de/veranstaltungen/2795412/2026/10/30/spie
  l-der-wandlung.html
 END:VEVENT
 BEGIN:VEVENT
@@ -70,12 +79,21 @@ URL:https://www.amt-wusterwitz.de/veranstaltungen/2802322/2026/11/06/laub
  fest.html
 END:VEVENT
 BEGIN:VEVENT
-UID:amt-wusterwitz-event-2795413@amtsfeed.de
-DTSTAMP:20260506T201657Z
+UID:amt-wusterwitz-event-2948955@amtsfeed.de
+DTSTAMP:20260911T111327Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
+SUMMARY:Mantrasingen
+URL:https://www.amt-wusterwitz.de/veranstaltungen/2948955/2026/11/13/mant
+ rasingen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-wusterwitz-event-2795413@amtsfeed.de
+DTSTAMP:20260911T111327Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
 SUMMARY:Spiel der Wandlung
-URL:https://www.amt-wusterwitz.de/veranstaltungen/2795413/2026/11/13/spie
+URL:https://www.amt-wusterwitz.de/veranstaltungen/2795413/2026/11/20/spie
  l-der-wandlung.html
 END:VEVENT
 END:VCALENDAR

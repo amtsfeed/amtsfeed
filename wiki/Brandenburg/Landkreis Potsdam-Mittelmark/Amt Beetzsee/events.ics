@@ -167,15 +167,6 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2808403/2026/06/02/orient
  ierungsarbeit-deutsch-kl.-2.html
 END:VEVENT
 BEGIN:VEVENT
-UID:amt-beetzsee-event-2202003@amtsfeed.de
-DTSTAMP:20260506T201614Z
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-SUMMARY:Dorfstammtisch Butzow
-URL:https://www.amt-beetzsee.de/veranstaltungen/2202003/2026/06/02/dorfst
- ammtisch-butzow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:amt-beetzsee-event-2808404@amtsfeed.de
 DTSTAMP:20260506T201614Z
 DTSTART;VALUE=DATE:20260603
@@ -183,15 +174,6 @@ DTEND;VALUE=DATE:20260604
 SUMMARY:Orientierungsarbeit Mathe Kl. 4
 URL:https://www.amt-beetzsee.de/veranstaltungen/2808404/2026/06/03/orient
  ierungsarbeit-mathe-kl.-4.html
-END:VEVENT
-BEGIN:VEVENT
-UID:amt-beetzsee-event-2645431@amtsfeed.de
-DTSTAMP:20260526T090440Z
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260605
-SUMMARY:Beetzseebücherei
-URL:https://www.amt-beetzsee.de/veranstaltungen/2645431/2026/06/04/beetzs
- eebücherei.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2833413@amtsfeed.de
@@ -239,15 +221,6 @@ SUMMARY:Inklusives Gedenkstättenseminar – zur Erinnerung an die NS-Pat
 URL:https://www.amt-beetzsee.de/veranstaltungen/2801326/2026/06/15/inklus
  ives-gedenkstättenseminar--zur-erinnerung-an-die-ns-patient-innenmorde-b
  ildungsurlaub.html
-END:VEVENT
-BEGIN:VEVENT
-UID:amt-beetzsee-event-2496637@amtsfeed.de
-DTSTAMP:20260526T090440Z
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-SUMMARY:Beetzseebücherei
-URL:https://www.amt-beetzsee.de/veranstaltungen/2496637/2026/06/18/beetzs
- eebücherei.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2833412@amtsfeed.de
@@ -341,17 +314,6 @@ SUMMARY:Die Lehmbauwoche zu traditionellen und modernen Lehmbautechniken
 URL:https://www.amt-beetzsee.de/veranstaltungen/2738373/2026/07/27/die-le
  hmbauwoche-zu-traditionellen-und-modernen-lehmbautechniken-bildungsurlaub
  -warteliste.html
-END:VEVENT
-BEGIN:VEVENT
-UID:amt-beetzsee-event-2813136@amtsfeed.de
-DTSTAMP:20260506T201614Z
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-SUMMARY:Von Bäumen\, der Havel und Zukunft – ein Familienwochenende vo
- ller Entdeckungen (Warteliste)
-URL:https://www.amt-beetzsee.de/veranstaltungen/2813136/2026/07/31/von-b
- äumen-der-havel-und-zukunft--ein-familienwochenende-voller-entdeckungen-
- warteliste.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2757298@amtsfeed.de
@@ -481,6 +443,24 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2833410/2026/09/12/verein
  stag.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-beetzsee-event-2920156@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Tag des offenen Denkmals an der Bockwindmühle
+URL:https://www.amt-beetzsee.de/veranstaltungen/2920156/2026/09/13/tag-de
+ s-offenen-denkmals-an-der-bockwindmühle.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2496637@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Beetzseebücherei
+URL:https://www.amt-beetzsee.de/veranstaltungen/2496637/2026/09/17/beetzs
+ eebücherei.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-beetzsee-event-2817449@amtsfeed.de
 DTSTAMP:20260506T201614Z
 DTSTART;VALUE=DATE:20260921
@@ -492,12 +472,12 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2817449/2026/09/21/betzav
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2783140@amtsfeed.de
-DTSTAMP:20260506T201614Z
+DTSTAMP:20260911T111317Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Regenbogenfamilienwochenende (Warteliste)
+SUMMARY:Regenbogenfamilien-Wochenende (ausgebucht)
 URL:https://www.amt-beetzsee.de/veranstaltungen/2783140/2026/09/25/regenb
- ogenfamilienwochenende-warteliste.html
+ ogenfamilien-wochenende-ausgebucht.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2833411@amtsfeed.de
@@ -518,6 +498,15 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2902623/2026/09/28/politi
  sche-kompetenzen-in-der-bne-modul-1-bildungsurlaub.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-beetzsee-event-2645431@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Beetzseebücherei
+URL:https://www.amt-beetzsee.de/veranstaltungen/2645431/2026/10/01/beetzs
+ eebücherei.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-beetzsee-event-2833416@amtsfeed.de
 DTSTAMP:20260506T201614Z
 DTSTART;VALUE=DATE:20261003
@@ -525,6 +514,35 @@ DTEND;VALUE=DATE:20261004
 SUMMARY:Oktoberfest
 URL:https://www.amt-beetzsee.de/veranstaltungen/2833416/2026/10/03/oktobe
  rfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2936123@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Lebens.Wert? Gedenkstättenseminar zur Erinnerung an die NS-Patie
+ nt:innenmorde (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2936123/2026/10/05/lebens
+ .wert-gedenkstättenseminar-zur-erinnerung-an-die-ns-patient-innenmorde-b
+ ildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2202003@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Dorfstammtisch Butzow
+URL:https://www.amt-beetzsee.de/veranstaltungen/2202003/2026/10/06/dorfst
+ ammtisch-butzow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2959162@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:"Klima & Rechtsextremismus" (Online)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2959162/2026/10/06/klima-
+ rechtsextremismus-online.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2854568@amtsfeed.de
@@ -543,6 +561,24 @@ DTEND;VALUE=DATE:20261011
 SUMMARY:Räderwechsel
 URL:https://www.amt-beetzsee.de/veranstaltungen/2833406/2026/10/10/räder
  wechsel.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2920164@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Oktoberfest
+URL:https://www.amt-beetzsee.de/veranstaltungen/2920164/2026/10/10/oktobe
+ rfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2959199@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:"Realutopien" (Online)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2959199/2026/10/13/realut
+ opien-online.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2783192@amtsfeed.de
@@ -564,12 +600,13 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2898926/2026/10/25/treffp
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2749779@amtsfeed.de
-DTSTAMP:20260506T201614Z
+DTSTAMP:20260911T111317Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:Spielend nachhaltig das Havelland entdecken (Bildungsurlaub)
+SUMMARY:Spielend nachhaltig das Havelland entdecken (Bildungsurlaub) (War
+ teliste)
 URL:https://www.amt-beetzsee.de/veranstaltungen/2749779/2026/10/26/spiele
- nd-nachhaltig-das-havelland-entdecken-bildungsurlaub.html
+ nd-nachhaltig-das-havelland-entdecken-bildungsurlaub-warteliste.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2747610@amtsfeed.de
@@ -581,6 +618,15 @@ SUMMARY:Licht aus! 5 Tage rund um Dunkelheit\, Licht(verschmutzung) und S
 URL:https://www.amt-beetzsee.de/veranstaltungen/2747610/2026/11/02/licht-
  aus-5-tage-rund-um-dunkelheit-lichtverschmutzung-und-sterne-bildungsurlau
  b-warteliste.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2959201@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:"Klima & KI" (Online)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2959201/2026/11/03/klima-
+ ki-online.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2833419@amtsfeed.de
@@ -599,6 +645,26 @@ DTEND;VALUE=DATE:20261110
 SUMMARY:Transformational Leadership Training (Bildungsurlaub)
 URL:https://www.amt-beetzsee.de/veranstaltungen/2787971/2026/11/09/transf
  ormational-leadership-training-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2915946@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Englisch A2/B1 – Sprache\, Resilienz  und Achtsamkeit für den 
+ Arbeitsalltag (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2915946/2026/11/09/englis
+ ch-a2-b1--sprache-resilienz-und-achtsamkeit-für-den-arbeitsalltag-bildun
+ gsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2959202@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:"Klimagespräche führen" (Online)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2959202/2026/11/10/klimag
+ espräche-führen-online.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2898928@amtsfeed.de
@@ -626,6 +692,15 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:Eisbeinessen
 URL:https://www.amt-beetzsee.de/veranstaltungen/2833418/2026/11/21/eisbei
  nessen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2964774@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Konsum.Macht.Zukunft (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2964774/2026/11/23/konsum
+ .macht.zukunft-bildungsurlaub.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2773461@amtsfeed.de
@@ -696,12 +771,50 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2908434/2027/01/02/mbsr-a
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2904871@amtsfeed.de
-DTSTAMP:20260526T090440Z
+DTSTAMP:20260911T111317Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:Feldenkrais-Intensiv: Feldenkrais bewegt! (Bildungsurlaub)
+SUMMARY:Feldenkrais-Intensiv: Feldenkrais bewegt!
 URL:https://www.amt-beetzsee.de/veranstaltungen/2904871/2027/01/22/felden
- krais-intensiv-feldenkrais-bewegt-bildungsurlaub.html
+ krais-intensiv-feldenkrais-bewegt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2915916@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Transformational Leadership Training (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2915916/2027/02/22/transf
+ ormational-leadership-training-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2910834@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Licht aus! 5 Tage rund um Dunkelheit\, Licht(verschmutzung) und S
+ terne (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2910834/2027/03/15/licht-
+ aus-5-tage-rund-um-dunkelheit-lichtverschmutzung-und-sterne-bildungsurlau
+ b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2924026@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:MBSR-Achtsamkeitstraining (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2924026/2027/03/21/mbsr-a
+ chtsamkeitstraining-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2915597@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Englisch & Yoga (A2/B1) (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2915597/2027/03/29/englis
+ ch-yoga-a2-b1-bildungsurlaub.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2788152@amtsfeed.de
@@ -712,5 +825,165 @@ SUMMARY:Betzavta-Basismodul (Methodik des Adam Instituts) (Bildungsurlaub
  )
 URL:https://www.amt-beetzsee.de/veranstaltungen/2788152/2027/04/05/betzav
  ta-basismodul-methodik-des-adam-instituts-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2944185@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Naturfotografie im Havelland. Wasser\, Wälder\, Weite (Bildungsu
+ rlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2944185/2027/04/12/naturf
+ otografie-im-havelland.-wasser-wälder-weite-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2937326@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Feldenkrais-Intensiv: "Feldenkrais bewegt!"
+URL:https://www.amt-beetzsee.de/veranstaltungen/2937326/2027/05/06/felden
+ krais-intensiv-feldenkrais-bewegt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2910885@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Kreatives Schreiben an der Havel – Worte wachsen lassen (Bildun
+ gsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2910885/2027/05/10/kreati
+ ves-schreiben-an-der-havel--worte-wachsen-lassen-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2940794@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Kulturfestival am Havelufer
+URL:https://www.amt-beetzsee.de/veranstaltungen/2940794/2027/05/14/kultur
+ festival-am-havelufer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2933721@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Der Lehmgrundofenbau (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2933721/2027/05/24/der-le
+ hmgrundofenbau-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2937287@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Lehmputze (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2937287/2027/05/24/lehmpu
+ tze-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2788156@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Betzavta-Ausbildung Modul 1 (Methodik des Adam Instituts) (Bildun
+ gsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2788156/2027/06/14/betzav
+ ta-ausbildung-modul-1-methodik-des-adam-instituts-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2948281@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Stadt. Rad. Fluss (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2948281/2027/06/28/stadt.
+ -rad.-fluss-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2918348@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Mobilität für alle! (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2918348/2027/07/05/mobili
+ tät-für-alle-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2937295@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Feldenkrais-Intensiv: "Feldenkrais bewegt!"
+URL:https://www.amt-beetzsee.de/veranstaltungen/2937295/2027/07/09/felden
+ krais-intensiv-feldenkrais-bewegt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2936566@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:Geteilte Erinnerung\, gemeinsame Zukunft – wie Ost und West uns
+  bis heute prägen (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2936566/2027/07/12/geteil
+ te-erinnerung-gemeinsame-zukunft--wie-ost-und-west-uns-bis-heute-prägen-
+ bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2937327@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Feldenkrais Sommer spezial (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2937327/2027/07/19/felden
+ krais-sommer-spezial-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2813136@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Von Bäumen\, der Havel und Zukunft
+URL:https://www.amt-beetzsee.de/veranstaltungen/2813136/2027/07/30/von-b
+ äumen-der-havel-und-zukunft.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2915598@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Englisch & Yoga (A2/B1) (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2915598/2027/08/02/englis
+ ch-yoga-a2-b1-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2915600@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Englisch & Yoga (B1/B2) (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2915600/2027/08/09/englis
+ ch-yoga-b1-b2-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2932578@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:MBSR – Achtsamkeitstraining (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2932578/2027/08/16/mbsr--
+ achtsamkeitstraining-bildungsurlaub.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2937288@amtsfeed.de
+DTSTAMP:20260911T111317Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Die Lehmbauwoche zu traditionellen und modernen Lehmbautechniken 
+ (Bildungsurlaub)
+URL:https://www.amt-beetzsee.de/veranstaltungen/2937288/2027/08/23/die-le
+ hmbauwoche-zu-traditionellen-und-modernen-lehmbautechniken-bildungsurlaub
+ .html
 END:VEVENT
 END:VCALENDAR

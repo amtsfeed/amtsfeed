@@ -1068,6 +1068,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2903079/2026/07/19/lehni
  ner-sommermusiken-orgelmatinee.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2927656@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Ausstellung: STILLSTAND WAR GESTERN
+URL:https://www.klosterlehnin.de/veranstaltungen/2927656/2026/07/19/ausst
+ ellung-stillstand-war-gestern.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2887929@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260721
@@ -1412,12 +1421,39 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2884250/2026/09/11/gemei
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2845928@amtsfeed.de
-DTSTAMP:20260506T201826Z
+DTSTAMP:20260911T111334Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-SUMMARY:Freilichtkino Kloster Lehnin in Emstal am See
-URL:https://www.klosterlehnin.de/veranstaltungen/2845928/2026/09/11/freil
- ichtkino-kloster-lehnin-in-emstal-am-see.html
+SUMMARY:Kino Open Air Kloster Lehnin in Emstal am See
+URL:https://www.klosterlehnin.de/veranstaltungen/2845928/2026/09/11/kino-
+ open-air-kloster-lehnin-in-emstal-am-see.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2918685@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Dialog-Konzert: Kein schöner Land – in dieser Zeit?
+URL:https://www.klosterlehnin.de/veranstaltungen/2918685/2026/09/11/dialo
+ g-konzert-kein-schöner-land--in-dieser-zeit.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2952774@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Vom Beet auf den Teller – Gemeinsam Kochen
+URL:https://www.klosterlehnin.de/veranstaltungen/2952774/2026/09/11/vom-b
+ eet-auf-den-teller--gemeinsam-kochen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2958627@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Freitagskino im Gemeindezentrum Emstal am See - Kinderfilm
+URL:https://www.klosterlehnin.de/veranstaltungen/2958627/2026/09/11/freit
+ agskino-im-gemeindezentrum-emstal-am-see-kinderfilm.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2766458@amtsfeed.de
@@ -1465,6 +1501,24 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2841872/2026/09/12/17.-s
  chützenfest.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2943395@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Brandenburger Dorf- und Erntefest mit Flämingmarkt in Damelang
+URL:https://www.klosterlehnin.de/veranstaltungen/2943395/2026/09/12/brand
+ enburger-dorf-und-erntefest-mit-flämingmarkt-in-damelang.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2964508@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Cello Konzert Kirche Damsdorf
+URL:https://www.klosterlehnin.de/veranstaltungen/2964508/2026/09/12/cello
+ -konzert-kirche-damsdorf.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2891699@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260913
@@ -1501,6 +1555,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2903092/2026/09/13/lehni
  ner-sommermusiken-orgelmatinee.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2944829@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Mitgliederversammlung SV Blau-Weiß Damsdorf e.V.
+URL:https://www.klosterlehnin.de/veranstaltungen/2944829/2026/09/14/mitgl
+ iederversammlung-sv-blau-weiß-damsdorf-e.v.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2850959@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260916
@@ -1530,12 +1593,12 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2891702/2026/09/19/filma
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2821062@amtsfeed.de
-DTSTAMP:20260506T201826Z
+DTSTAMP:20260911T111334Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-SUMMARY:Kinderfest & Antik- und Flohmarkt
-URL:https://www.klosterlehnin.de/veranstaltungen/2821062/2026/09/19/kinde
- rfest-antik-und-flohmarkt.html
+SUMMARY:2. Krahner Antik- und Trödelmarkt
+URL:https://www.klosterlehnin.de/veranstaltungen/2821062/2026/09/19/2.-kr
+ ahner-antik-und-trödelmarkt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2906255@amtsfeed.de
@@ -1545,6 +1608,24 @@ DTEND;VALUE=DATE:20260920
 SUMMARY:Lehniner Sommermusiken: Das Narrenschiff
 URL:https://www.klosterlehnin.de/veranstaltungen/2906255/2026/09/19/lehni
  ner-sommermusiken-das-narrenschiff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2950221@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Theateraufführung - "Geister wie wir"
+URL:https://www.klosterlehnin.de/veranstaltungen/2950221/2026/09/19/theat
+ eraufführung-geister-wie-wir.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2964697@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Malte Vief
+URL:https://www.klosterlehnin.de/veranstaltungen/2964697/2026/09/19/malte
+ -vief.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2884199@amtsfeed.de
@@ -1583,6 +1664,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2782994/2026/09/25/mitgl
  iederversammlung-segeln-19.00-uhr.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2952776@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Vom Beet auf den Teller – Gemeinsam Kochen
+URL:https://www.klosterlehnin.de/veranstaltungen/2952776/2026/09/25/vom-b
+ eet-auf-den-teller--gemeinsam-kochen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2783034@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260926
@@ -1610,6 +1700,42 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2906259/2026/09/26/lehni
  ner-sommermusiken-monteverdis-marienvesper.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2918688@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Theater Premiere: Flügel unter der Haut
+URL:https://www.klosterlehnin.de/veranstaltungen/2918688/2026/09/26/theat
+ er-premiere-flügel-unter-der-haut.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2952777@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Fühlst du dein Seelenfeuer?
+URL:https://www.klosterlehnin.de/veranstaltungen/2952777/2026/09/26/fühl
+ st-du-dein-seelenfeuer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2952778@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Musikalische Lesung Frederik Durczok „In Brandenburg“
+URL:https://www.klosterlehnin.de/veranstaltungen/2952778/2026/09/27/musik
+ alische-lesung-frederik-durczok-in-brandenburg.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2918691@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Theater: Flügel unter der Haut
+URL:https://www.klosterlehnin.de/veranstaltungen/2918691/2026/09/27/theat
+ er-flügel-unter-der-haut.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2884251@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20260930
@@ -1628,6 +1754,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2898176/2026/10/03/backt
  ag-am-backofenmuseum.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2959179@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Herbst Flohmarkt
+URL:https://www.klosterlehnin.de/veranstaltungen/2959179/2026/10/03/herbs
+ t-flohmarkt.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2891719@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261004
@@ -1635,6 +1770,15 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:Erntefest - Rietzer Berg
 URL:https://www.klosterlehnin.de/veranstaltungen/2891719/2026/10/04/ernte
  fest-rietzer-berg.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2959553@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Erntedank in Michelsdorf
+URL:https://www.klosterlehnin.de/veranstaltungen/2959553/2026/10/04/ernte
+ dank-in-michelsdorf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2846460@amtsfeed.de
@@ -1655,6 +1799,17 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2783038/2026/10/07/arbei
  tseinsatz-vorbereitung-aufslippen-16.00-uhr.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2944199@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Lehniner Gespräch mit Ilko-Sascha Kowalczuk und Bundestagsvizepr
+ äsident Bodo Ramelow
+URL:https://www.klosterlehnin.de/veranstaltungen/2944199/2026/10/07/lehni
+ ner-gespräch-mit-ilko-sascha-kowalczuk-und-bundestagsvizepräsident-bodo
+ -ramelow.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2884253@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261009
@@ -1662,6 +1817,24 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:Gemeinsamer Spieleabend in der Feuerwehr
 URL:https://www.klosterlehnin.de/veranstaltungen/2884253/2026/10/09/gemei
  nsamer-spieleabend-in-der-feuerwehr.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2915343@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:„Mit gespitzten Ohren“- Vorlesezeit in der Bibliothek
+URL:https://www.klosterlehnin.de/veranstaltungen/2915343/2026/10/09/mit-g
+ espitzten-ohren-vorlesezeit-in-der-bibliothek.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2952779@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Vom Beet auf den Teller – Gemeinsam Kochen
+URL:https://www.klosterlehnin.de/veranstaltungen/2952779/2026/10/09/vom-b
+ eet-auf-den-teller--gemeinsam-kochen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2783040@amtsfeed.de
@@ -1692,6 +1865,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2884589/2026/10/10/autor
  enlesung--paul-bartsch-und-das-ist-noch-nicht-alles.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2952780@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Kreative Köpfe – garantiert ohne KI
+URL:https://www.klosterlehnin.de/veranstaltungen/2952780/2026/10/10/kreat
+ ive-köpfe--garantiert-ohne-ki.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2891721@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261011
@@ -1717,6 +1899,15 @@ DTEND;VALUE=DATE:20261012
 SUMMARY:Flohmarkt Rädel
 URL:https://www.klosterlehnin.de/veranstaltungen/2859128/2026/10/11/flohm
  arkt-rädel.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2953247@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Klänge und Stille Konzert mit Klangschalen
+URL:https://www.klosterlehnin.de/veranstaltungen/2953247/2026/10/11/klän
+ ge-und-stille-konzert-mit-klangschalen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2821098@amtsfeed.de
@@ -1746,6 +1937,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2868849/2026/10/25/jan-m
  ichael-horstmann-tauben-vergiften-im-park.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2952781@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Workshop: Kürbis schnitzen
+URL:https://www.klosterlehnin.de/veranstaltungen/2952781/2026/10/25/works
+ hop-kürbis-schnitzen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2782996@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261030
@@ -1753,6 +1953,24 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Mitgliederversammlung Segeln (19.00 Uhr)
 URL:https://www.klosterlehnin.de/veranstaltungen/2782996/2026/10/30/mitgl
  iederversammlung-segeln-19.00-uhr.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2963608@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:20 Jahre Halloween in Damsdorf - Das große Jubiläum!
+URL:https://www.klosterlehnin.de/veranstaltungen/2963608/2026/10/30/20-ja
+ hre-halloween-in-damsdorf-das-große-jubiläum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2965456@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Halloween in Michelsdorf
+URL:https://www.klosterlehnin.de/veranstaltungen/2965456/2026/10/30/hallo
+ ween-in-michelsdorf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2864257@amtsfeed.de
@@ -1773,6 +1991,16 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2846461/2026/11/05/versa
  mmlung-volkssolidarität-lehnin.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2944213@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Autorenlesung mit Bestseller-Autor Max Bentow  in der Bibliothek 
+ Lehnin
+URL:https://www.klosterlehnin.de/veranstaltungen/2944213/2026/11/06/autor
+ enlesung-mit-bestseller-autor-max-bentow-in-der-bibliothek-lehnin.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2884256@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261111
@@ -1791,6 +2019,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2785048/2026/11/13/st.-m
  artinstag.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2915344@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:„Mit gespitzten Ohren“- Vorlesezeit in der Bibliothek
+URL:https://www.klosterlehnin.de/veranstaltungen/2915344/2026/11/13/mit-g
+ espitzten-ohren-vorlesezeit-in-der-bibliothek.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2884257@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261120
@@ -1800,6 +2037,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2884257/2026/11/20/gemei
  nsamer-spieleabend-in-der-feuerwehr.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2964738@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Schöne Bescherung von 0 auf 24
+URL:https://www.klosterlehnin.de/veranstaltungen/2964738/2026/11/20/schö
+ ne-bescherung-von-0-auf-24.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2856215@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261121
@@ -1807,6 +2053,15 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:Wintermarkt
 URL:https://www.klosterlehnin.de/veranstaltungen/2856215/2026/11/21/winte
  rmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2945107@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Theater Nadi: Dare so kare
+URL:https://www.klosterlehnin.de/veranstaltungen/2945107/2026/11/21/theat
+ er-nadi-dare-so-kare.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2884260@amtsfeed.de
@@ -1836,6 +2091,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2850962/2026/11/28/eröf
  fnung-weihnachtsausstellung.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2961362@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:32. Adventsmarkt Lehnin
+URL:https://www.klosterlehnin.de/veranstaltungen/2961362/2026/11/29/32.-a
+ dventsmarkt-lehnin.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2804503@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261203
@@ -1845,6 +2109,15 @@ SUMMARY:Jahreshauptversammlung / Vorstandswahl SVKL (Donnerstag\, 3.12.20
 URL:https://www.klosterlehnin.de/veranstaltungen/2804503/2026/12/03/jahre
  shauptversammlung-vorstandswahl-svkl-donnerstag-3.12.2026-ab-19.00-uhr.ht
  ml
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2954438@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Improtheater: Champion of the Night
+URL:https://www.klosterlehnin.de/veranstaltungen/2954438/2026/12/04/impro
+ theater-champion-of-the-night.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2783043@amtsfeed.de
@@ -1901,6 +2174,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2884591/2026/12/11/solo-
  ohne-sunny.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2915346@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:„Mit gespitzten Ohren“- Vorlesezeit in der Bibliothek
+URL:https://www.klosterlehnin.de/veranstaltungen/2915346/2026/12/11/mit-g
+ espitzten-ohren-vorlesezeit-in-der-bibliothek.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2884265@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261213
@@ -1910,6 +2192,24 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2884265/2026/12/13/adven
  tsmarkt-in-göhlsdorf.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2954440@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Adele-Ukulele oder warum mit Musik alles besser geht
+URL:https://www.klosterlehnin.de/veranstaltungen/2954440/2026/12/13/adele
+ -ukulele-oder-warum-mit-musik-alles-besser-geht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2945110@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Irish Christmas mit Larkin
+URL:https://www.klosterlehnin.de/veranstaltungen/2945110/2026/12/18/irish
+ -christmas-mit-larkin.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2856216@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261219
@@ -1917,6 +2217,15 @@ DTEND;VALUE=DATE:20261220
 SUMMARY:Weihnachtsparade
 URL:https://www.klosterlehnin.de/veranstaltungen/2856216/2026/12/19/weihn
  achtsparade.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2945111@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Weihnachtszauber mit Hans-Günter Pittelkow
+URL:https://www.klosterlehnin.de/veranstaltungen/2945111/2026/12/20/weihn
+ achtszauber-mit-hans-günter-pittelkow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2898177@amtsfeed.de
@@ -1937,6 +2246,24 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2785050/2026/12/26/weihn
  achtsfrühschoppen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2945112@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Matthias Peter – Percussion und Electronics
+URL:https://www.klosterlehnin.de/veranstaltungen/2945112/2026/12/27/matth
+ ias-peter--percussion-und-electronics.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2899393@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Sportabzeichentag 2027
+URL:https://www.klosterlehnin.de/veranstaltungen/2899393/2027/04/23/sport
+ abzeichentag-2027.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2899453@amtsfeed.de
 DTSTAMP:20260526T090459Z
 DTSTART;VALUE=DATE:20270424
@@ -1946,12 +2273,48 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2899453/2027/04/24/sport
  abzeichentag-2027-in-lehnin-avisierter-termin.html
 END:VEVENT
 BEGIN:VEVENT
-UID:kloster-lehnin-event-2899393@amtsfeed.de
-DTSTAMP:20260526T090459Z
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
-SUMMARY:Sportabzeichentag 2027
-URL:https://www.klosterlehnin.de/veranstaltungen/2899393/2027/04/24/sport
- abzeichentag-2027.html
+UID:kloster-lehnin-event-2927939@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Backofenfest
+URL:https://www.klosterlehnin.de/veranstaltungen/2927939/2027/05/23/backo
+ fenfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2935809@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Malle & Schlagerbums
+URL:https://www.klosterlehnin.de/veranstaltungen/2935809/2027/06/05/malle
+ -schlagerbums.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2930168@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:25 Jahre Gemeinde Kloster Lehnin - Festwochenende
+URL:https://www.klosterlehnin.de/veranstaltungen/2930168/2027/06/11/25-ja
+ hre-gemeinde-kloster-lehnin-festwochenende.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2958253@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Damsdorf feiert Dorffest
+URL:https://www.klosterlehnin.de/veranstaltungen/2958253/2027/08/20/damsd
+ orf-feiert-dorffest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2718207@amtsfeed.de
+DTSTAMP:20260911T111334Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:120 Jahre Freiwillige Feuerwehr Lehnin
+URL:https://www.klosterlehnin.de/veranstaltungen/2718207/2027/08/28/120-j
+ ahre-freiwillige-feuerwehr-lehnin.html
 END:VEVENT
 END:VCALENDAR

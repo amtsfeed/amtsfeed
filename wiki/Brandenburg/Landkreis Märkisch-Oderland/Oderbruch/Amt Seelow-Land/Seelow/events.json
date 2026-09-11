@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:15:25.022Z",
+  "updatedAt": "2026-09-11T11:11:43.421Z",
   "items": [
     {
       "id": "veranstaltungen-2862121-2026-05-06-dr.-arnold-pistiak-liest-neue-texte.html",
@@ -643,6 +643,16 @@
       "updatedAt": "2026-05-05T21:56:39.174Z"
     },
     {
+      "id": "veranstaltungen-2952701-2026-09-12-begegnungskarussell.html",
+      "title": "Begegnungskarussell",
+      "url": "https://www.seelow.de/veranstaltungen/2952701/2026/09/12/begegnungskarussell.html",
+      "startDate": "2026-09-12T14:00:00.000Z",
+      "endDate": "2026-09-12T16:00:00.000Z",
+      "location": "Begegnungsstätte Seelow, Puschkinplatz 18a",
+      "fetchedAt": "2026-09-11T09:57:44.147Z",
+      "updatedAt": "2026-09-11T11:11:42.769Z"
+    },
+    {
       "id": "veranstaltungen-2866930-2026-09-12-ausstellungseröffnung-monika-maria-novak-malerei-und-fotografie-armin-hauer-malerei.html",
       "title": "Ausstellungseröffnung Monika Maria Novak - Malerei und Fotografie & Armin Hauer - Malerei",
       "url": "https://www.seelow.de/veranstaltungen/2866930/2026/09/12/ausstellungseröffnung-monika-maria-novak-malerei-und-fotografie-armin-hauer-malerei.html",
@@ -659,6 +669,16 @@
       "location": "Heimatverein \"Schweizerhaus Seelow\" e.V.",
       "fetchedAt": "2026-05-05T13:34:28.213Z",
       "updatedAt": "2026-05-05T21:56:39.174Z"
+    },
+    {
+      "id": "veranstaltungen-2930614-2026-09-13-sammeltassencafé-im-schweizerhaus-seelow.html",
+      "title": "Sammeltassencaf&eacute; im Schweizerhaus Seelow",
+      "url": "https://www.seelow.de/veranstaltungen/2930614/2026/09/13/sammeltassencafé-im-schweizerhaus-seelow.html",
+      "startDate": "2026-09-13T14:00:00.000Z",
+      "endDate": "2026-09-13T17:00:00.000Z",
+      "location": "Stadt Seelow",
+      "fetchedAt": "2026-09-11T09:57:44.147Z",
+      "updatedAt": "2026-09-11T11:11:42.769Z"
     },
     {
       "id": "veranstaltungen-2863575-2026-09-16-weltkindertagsfest.html",
@@ -689,6 +709,16 @@
       "updatedAt": "2026-05-05T21:56:39.174Z"
     },
     {
+      "id": "veranstaltungen-2930614-2026-09-20-sammeltassencafé-im-schweizerhaus-seelow.html",
+      "title": "Sammeltassencaf&eacute; im Schweizerhaus Seelow",
+      "url": "https://www.seelow.de/veranstaltungen/2930614/2026/09/20/sammeltassencafé-im-schweizerhaus-seelow.html",
+      "startDate": "2026-09-20T14:00:00.000Z",
+      "endDate": "2026-09-20T17:00:00.000Z",
+      "location": "Stadt Seelow",
+      "fetchedAt": "2026-09-11T09:57:44.147Z",
+      "updatedAt": "2026-09-11T11:11:42.769Z"
+    },
+    {
       "id": "veranstaltungen-2867002-2026-09-24-kaffeeklatsch-für-senioren.html",
       "title": "Kaffeeklatsch für Senioren",
       "url": "https://www.seelow.de/veranstaltungen/2867002/2026/09/24/kaffeeklatsch-für-senioren.html",
@@ -697,6 +727,25 @@
       "location": "Aus-Tauschladen, Breite Straße 18, Seelow",
       "fetchedAt": "2026-05-05T13:34:28.213Z",
       "updatedAt": "2026-05-05T21:56:39.174Z"
+    },
+    {
+      "id": "veranstaltungen-2952703-2026-09-24-geistig-fit-bleiben.html",
+      "title": "Geistig fit bleiben",
+      "url": "https://www.seelow.de/veranstaltungen/2952703/2026/09/24/geistig-fit-bleiben.html",
+      "startDate": "2026-09-24T14:00:00.000Z",
+      "endDate": "2026-09-24T15:30:00.000Z",
+      "location": "Kulturhaus Seelow",
+      "fetchedAt": "2026-09-11T09:57:44.147Z",
+      "updatedAt": "2026-09-11T11:11:42.769Z"
+    },
+    {
+      "id": "veranstaltungen-2960910-2026-09-25-sponsorenlauf-wir-laufen-für-den-förderverein-unserer-schule.html",
+      "title": "Sponsorenlauf - Wir laufen für den Förderverein unserer Schule",
+      "url": "https://www.seelow.de/veranstaltungen/2960910/2026/09/25/sponsorenlauf-wir-laufen-für-den-förderverein-unserer-schule.html",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "location": "Grundschule Seelow",
+      "fetchedAt": "2026-09-11T09:57:44.147Z",
+      "updatedAt": "2026-09-11T11:11:42.769Z"
     },
     {
       "id": "veranstaltungen-2863665-2026-09-26-musikalischer-abend-melodien-für-die-seele.html",
@@ -730,11 +779,11 @@
       "id": "veranstaltungen-2863687-2026-10-03-food-for-tomorrow-markt.html",
       "title": "Food for Tomorrow - Markt",
       "url": "https://www.seelow.de/veranstaltungen/2863687/2026/10/03/food-for-tomorrow-markt.html",
-      "startDate": "2026-10-03T11:00:00.000Z",
-      "endDate": "2026-10-03T19:00:00.000Z",
+      "startDate": "2026-10-03T10:00:00.000Z",
+      "endDate": "2026-10-03T18:00:00.000Z",
       "location": "Puschkinplatz - Marktplatz",
       "fetchedAt": "2026-05-05T13:34:28.590Z",
-      "updatedAt": "2026-05-05T21:56:39.423Z"
+      "updatedAt": "2026-09-11T11:11:42.893Z"
     },
     {
       "id": "veranstaltungen-2866954-2026-10-08-briefmarkentauschabende.html",
@@ -763,6 +812,24 @@
       "location": "Alte Dampfbäckerei",
       "fetchedAt": "2026-05-05T13:34:28.590Z",
       "updatedAt": "2026-05-05T21:56:39.423Z"
+    },
+    {
+      "id": "veranstaltungen-2954565-2026-10-11-theater-herbstfest-in-der-seniorenresidenz.html",
+      "title": "Theater \"Herbstfest in der Seniorenresidenz\"",
+      "url": "https://www.seelow.de/veranstaltungen/2954565/2026/10/11/theater-herbstfest-in-der-seniorenresidenz.html",
+      "startDate": "2026-10-11T15:00:00.000Z",
+      "location": "Kulturhaus Seelow",
+      "fetchedAt": "2026-09-11T09:57:45.033Z",
+      "updatedAt": "2026-09-11T11:11:42.893Z"
+    },
+    {
+      "id": "veranstaltungen-2960912-2026-10-15-lesungen-mit-autorin-lotte-schweizer-für-die-1.-bis-4.-klassen.html",
+      "title": "Lesungen mit Autorin Lotte Schweizer für die 1. bis 4. Klassen",
+      "url": "https://www.seelow.de/veranstaltungen/2960912/2026/10/15/lesungen-mit-autorin-lotte-schweizer-für-die-1.-bis-4.-klassen.html",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "location": "Grundschule Seelow",
+      "fetchedAt": "2026-09-11T09:57:45.033Z",
+      "updatedAt": "2026-09-11T11:11:42.893Z"
     },
     {
       "id": "veranstaltungen-2863690-2026-10-17-puppentheater.html",
@@ -932,6 +999,15 @@
       "updatedAt": "2026-05-05T21:56:39.669Z"
     },
     {
+      "id": "veranstaltungen-2960913-2026-11-20-bundesweiter-vorlesetag.html",
+      "title": "Bundesweiter Vorlesetag",
+      "url": "https://www.seelow.de/veranstaltungen/2960913/2026/11/20/bundesweiter-vorlesetag.html",
+      "startDate": "2026-11-20T00:00:00.000Z",
+      "location": "Grundschule Seelow",
+      "fetchedAt": "2026-09-11T09:57:45.343Z",
+      "updatedAt": "2026-09-11T11:11:43.017Z"
+    },
+    {
       "id": "veranstaltungen-2865379-2026-11-20-travestieshow.html",
       "title": "Travestieshow",
       "url": "https://www.seelow.de/veranstaltungen/2865379/2026/11/20/travestieshow.html",
@@ -1016,6 +1092,24 @@
       "updatedAt": "2026-05-31T13:15:20.970Z"
     },
     {
+      "id": "veranstaltungen-2960914-2026-12-01-start-des-schuladventskalenders-unglaubliche-weihnachten-24-rätselreisen-um-die-welt.html",
+      "title": "Start des Schuladventskalenders \"Unglaubliche Weihnachten- 24 Rätselreisen um die Welt\"",
+      "url": "https://www.seelow.de/veranstaltungen/2960914/2026/12/01/start-des-schuladventskalenders-unglaubliche-weihnachten-24-rätselreisen-um-die-welt.html",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "location": "Grundschule Seelow",
+      "fetchedAt": "2026-09-11T09:57:45.711Z",
+      "updatedAt": "2026-09-11T11:11:43.136Z"
+    },
+    {
+      "id": "veranstaltungen-2960916-2026-12-02-traditioneller-theaterbesuch-für-unsere-1.-und-2.-klassen-in-der-vorweihnachtszeit.html",
+      "title": "Traditioneller Theaterbesuch für unsere 1. und 2. Klassen in der Vorweihnachtszeit",
+      "url": "https://www.seelow.de/veranstaltungen/2960916/2026/12/02/traditioneller-theaterbesuch-für-unsere-1.-und-2.-klassen-in-der-vorweihnachtszeit.html",
+      "startDate": "2026-12-02T00:00:00.000Z",
+      "location": "Grundschule Seelow",
+      "fetchedAt": "2026-09-11T09:57:45.711Z",
+      "updatedAt": "2026-09-11T11:11:43.136Z"
+    },
+    {
       "id": "veranstaltungen-2865427-2026-12-02-stadtseniorenweihnachtsfeier.html",
       "title": "Stadtseniorenweihnachtsfeier",
       "url": "https://www.seelow.de/veranstaltungen/2865427/2026/12/02/stadtseniorenweihnachtsfeier.html",
@@ -1023,6 +1117,15 @@
       "location": "Kulturhaus Seelow",
       "fetchedAt": "2026-05-05T13:34:29.453Z",
       "updatedAt": "2026-05-05T21:56:39.923Z"
+    },
+    {
+      "id": "veranstaltungen-2962654-2026-12-07-fachlehrersprechtag.html",
+      "title": "Fachlehrersprechtag",
+      "url": "https://www.seelow.de/veranstaltungen/2962654/2026/12/07/fachlehrersprechtag.html",
+      "startDate": "2026-12-07T00:00:00.000Z",
+      "location": "Grundschule Seelow",
+      "fetchedAt": "2026-09-11T09:57:45.711Z",
+      "updatedAt": "2026-09-11T11:11:43.136Z"
     },
     {
       "id": "veranstaltungen-2859171-2026-12-11-seelower-weihnacht.html",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:13:07.490Z",
+  "updatedAt": "2026-09-11T11:06:22.521Z",
   "items": [
     {
       "id": "15493",
@@ -974,6 +974,33 @@
       "updatedAt": "2026-05-26T08:49:43.841Z"
     },
     {
+      "id": "16193",
+      "title": "Stille Stunde",
+      "url": "https://britz-chorin-oderberg.de/events#event-16193",
+      "startDate": "2026-09-11T17:00:00.000Z",
+      "location": "16230 Chorin – Chorin – Amt Chorin 11a, Kloster Chorin",
+      "fetchedAt": "2026-09-11T09:53:02.426Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
+    },
+    {
+      "id": "16183",
+      "title": "Leinwand Oderberg",
+      "url": "https://britz-chorin-oderberg.de/events#event-16183",
+      "startDate": "2026-09-11T17:30:00.000Z",
+      "location": "16248 Oderberg – Berliner Straße 73 (\"Schwarzer Adler\")",
+      "fetchedAt": "2026-09-11T09:53:02.426Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
+    },
+    {
+      "id": "16194",
+      "title": "2. Bücherfest im Kloster Chorin",
+      "url": "https://britz-chorin-oderberg.de/events#event-16194",
+      "startDate": "2026-09-12T08:00:00.000Z",
+      "location": "16230 Chorin – Chorin – Amt Chorin 11a, Kloster Chorin",
+      "fetchedAt": "2026-09-11T09:53:02.426Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
+    },
+    {
       "id": "14825",
       "title": "Tag des offenen Denkmals",
       "url": "https://britz-chorin-oderberg.de/events#event-14825",
@@ -992,22 +1019,31 @@
       "updatedAt": "2026-05-26T08:49:43.841Z"
     },
     {
-      "id": "15028",
-      "title": "Brückenfest",
-      "url": "https://britz-chorin-oderberg.de/events#event-15028",
-      "startDate": "2026-09-18T22:00:00.000Z",
-      "location": "16248 Liepe",
-      "fetchedAt": "2026-05-05T17:20:57.837Z",
-      "updatedAt": "2026-05-26T08:49:43.841Z"
+      "id": "16186",
+      "title": "Trödelmarkt in Neuehütte",
+      "url": "https://britz-chorin-oderberg.de/events#event-16186",
+      "startDate": "2026-09-13T09:00:00.000Z",
+      "location": "16230 Chorin – Neuehütte – Spielplatz",
+      "fetchedAt": "2026-09-11T09:53:02.426Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
     },
     {
-      "id": "15101",
-      "title": "Erntefest in Lunow",
-      "url": "https://britz-chorin-oderberg.de/events#event-15101",
-      "startDate": "2026-09-18T22:00:00.000Z",
-      "location": "16248 Lunow-Stolzenhagen – Lunow",
-      "fetchedAt": "2026-05-05T17:20:57.837Z",
-      "updatedAt": "2026-05-26T08:49:43.841Z"
+      "id": "16181",
+      "title": "Flohmarkt in Brodowin",
+      "url": "https://britz-chorin-oderberg.de/events#event-16181",
+      "startDate": "2026-09-13T11:00:00.000Z",
+      "location": "16230 Chorin – Brodowin – Dorfanger",
+      "fetchedAt": "2026-09-11T09:53:02.426Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
+    },
+    {
+      "id": "16195",
+      "title": "Konzertlesung: „Was wäre unser Leben ohne Musik?“",
+      "url": "https://britz-chorin-oderberg.de/events#event-16195",
+      "startDate": "2026-09-13T14:00:00.000Z",
+      "location": "16230 Chorin – Chorin – Amt Chorin 11a, Kloster Chorin",
+      "fetchedAt": "2026-09-11T09:53:02.426Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
     },
     {
       "id": "15304",
@@ -1026,6 +1062,42 @@
       "location": "16230 Chorin – Golzow – Sportplatz",
       "fetchedAt": "2026-05-05T17:20:57.837Z",
       "updatedAt": "2026-05-26T08:49:43.841Z"
+    },
+    {
+      "id": "16170",
+      "title": "1. Serwester Dorfflohmarkt",
+      "url": "https://britz-chorin-oderberg.de/events#event-16170",
+      "startDate": "2026-09-19T08:00:00.000Z",
+      "location": "16230 Chorin – Serwest – Serwester Dorfstraße",
+      "fetchedAt": "2026-09-11T09:53:02.426Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
+    },
+    {
+      "id": "15028",
+      "title": "2. Lieper Brückenfest",
+      "url": "https://britz-chorin-oderberg.de/events#event-15028",
+      "startDate": "2026-09-19T12:00:00.000Z",
+      "location": "16248 Liepe – Festplatz Fischerstraße",
+      "fetchedAt": "2026-05-05T17:20:57.837Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
+    },
+    {
+      "id": "15101",
+      "title": "Erntefest in Lunow",
+      "url": "https://britz-chorin-oderberg.de/events#event-15101",
+      "startDate": "2026-09-19T12:00:00.000Z",
+      "location": "16248 Lunow-Stolzenhagen – Lunow – Unter den Akazien",
+      "fetchedAt": "2026-05-05T17:20:57.837Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
+    },
+    {
+      "id": "16184",
+      "title": "Kinder-, Jugend- und Feuerwehrfest in Golzow",
+      "url": "https://britz-chorin-oderberg.de/events#event-16184",
+      "startDate": "2026-09-19T13:00:00.000Z",
+      "location": "16230 Chorin – Golzow – Sportplatz",
+      "fetchedAt": "2026-09-11T09:53:02.426Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
     },
     {
       "id": "15331",
@@ -1055,6 +1127,15 @@
       "updatedAt": "2026-05-26T08:49:43.841Z"
     },
     {
+      "id": "16189",
+      "title": "Choriner Morgengebet",
+      "url": "https://britz-chorin-oderberg.de/events#event-16189",
+      "startDate": "2026-09-26T08:30:00.000Z",
+      "location": "16230 Chorin – Chorin – Kloster Chorin, Amt 11a",
+      "fetchedAt": "2026-09-11T09:53:02.426Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
+    },
+    {
       "id": "15387",
       "title": "Gottesdienst zum Erntedankfest in Golzow",
       "url": "https://britz-chorin-oderberg.de/events#event-15387",
@@ -1062,6 +1143,15 @@
       "location": "16230 Chorin – Golzow – Kirche",
       "fetchedAt": "2026-05-05T17:20:57.837Z",
       "updatedAt": "2026-05-26T08:49:43.841Z"
+    },
+    {
+      "id": "16196",
+      "title": "Resonanzen in Oderberg",
+      "url": "https://britz-chorin-oderberg.de/events#event-16196",
+      "startDate": "2026-09-29T14:30:00.000Z",
+      "location": "16248 Oderberg – Fliederweg 1",
+      "fetchedAt": "2026-09-11T09:53:02.426Z",
+      "updatedAt": "2026-09-11T11:06:22.513Z"
     },
     {
       "id": "14811",
@@ -1113,9 +1203,9 @@
       "title": "Clara Werden auf der RIESA – Der Name ist Programm",
       "url": "https://britz-chorin-oderberg.de/events#event-15084",
       "startDate": "2026-10-10T17:00:00.000Z",
-      "location": "16248 Oderberg – Museumsschiff „Riesa“, Bugsalon",
+      "location": "16248 Oderberg – Museumsschiff \"Riesa\", Bugsalon",
       "fetchedAt": "2026-05-05T17:20:57.837Z",
-      "updatedAt": "2026-05-26T08:49:43.841Z"
+      "updatedAt": "2026-09-11T11:06:22.513Z"
     },
     {
       "id": "15039",
@@ -1149,9 +1239,9 @@
       "title": "Die Schwärzefüße auf der RIESA",
       "url": "https://britz-chorin-oderberg.de/events#event-15085",
       "startDate": "2026-10-24T17:00:00.000Z",
-      "location": "16248 Oderberg – Museumsschiff „Riesa“, Bugsalon",
+      "location": "16248 Oderberg – Museumsschiff \"Riesa\", Bugsalon",
       "fetchedAt": "2026-05-05T17:20:57.837Z",
-      "updatedAt": "2026-05-26T08:49:43.841Z"
+      "updatedAt": "2026-09-11T11:06:22.513Z"
     },
     {
       "id": "15029",
@@ -1218,12 +1308,12 @@
     },
     {
       "id": "15030",
-      "title": "Weihnachtsbaumschmücken",
+      "title": "Schmücken des Weihnachtsbaums",
       "url": "https://britz-chorin-oderberg.de/events#event-15030",
       "startDate": "2026-11-27T23:00:00.000Z",
       "location": "16248 Liepe",
       "fetchedAt": "2026-05-05T17:20:57.837Z",
-      "updatedAt": "2026-05-26T08:49:43.841Z"
+      "updatedAt": "2026-09-11T11:06:22.513Z"
     },
     {
       "id": "15301",

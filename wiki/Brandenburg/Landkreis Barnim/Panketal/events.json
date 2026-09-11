@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T08:49:46.914Z",
+  "updatedAt": "2026-09-11T11:06:25.476Z",
   "items": [
     {
       "id": "99187997",
@@ -155,6 +155,33 @@
       "updatedAt": "2026-05-26T08:49:46.905Z"
     },
     {
+      "id": "99221065",
+      "title": "Weltkindertag im Holland-Park",
+      "url": "https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?se=99221065",
+      "startDate": "2026-09-19T09:00:00.000Z",
+      "location": "Schwanebeck - Holland Park",
+      "fetchedAt": "2026-09-11T09:53:06.551Z",
+      "updatedAt": "2026-09-11T11:06:25.464Z"
+    },
+    {
+      "id": "99216710",
+      "title": "Herbst-Müllsammelaktion in Zepernick",
+      "url": "https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?se=99216710",
+      "startDate": "2026-09-19T10:00:00.000Z",
+      "location": "Zepernick - Rathausvorplatz, S-Bahnhof Zepernick",
+      "fetchedAt": "2026-09-11T09:53:06.551Z",
+      "updatedAt": "2026-09-11T11:06:25.464Z"
+    },
+    {
+      "id": "99216711",
+      "title": "Herbst-Müllsammelaktion in Schwanebeck",
+      "url": "https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?se=99216711",
+      "startDate": "2026-09-19T10:00:00.000Z",
+      "location": "Schwanebeck - Zepernicker Straße, gegenüber Eingang Mülldeponie Schwanebeck",
+      "fetchedAt": "2026-09-11T09:53:06.551Z",
+      "updatedAt": "2026-09-11T11:06:25.464Z"
+    },
+    {
       "id": "99169745",
       "title": "24. offene Panketaler  Tischtennis-Meisterschaft",
       "url": "https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?se=99169745",
@@ -162,6 +189,42 @@
       "location": "Schwanebeck - Schwanenhalle",
       "fetchedAt": "2026-05-05T17:21:07.048Z",
       "updatedAt": "2026-05-26T08:49:46.905Z"
+    },
+    {
+      "id": "99221066",
+      "title": "Weltkindertag im Holland-Park",
+      "url": "https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?se=99221066",
+      "startDate": "2026-09-20T09:00:00.000Z",
+      "location": "Schwanebeck - Holland Park",
+      "fetchedAt": "2026-09-11T09:53:06.551Z",
+      "updatedAt": "2026-09-11T11:06:25.464Z"
+    },
+    {
+      "id": "99214468",
+      "title": "Familienkonzert Peter und der Wolf",
+      "url": "https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?se=99214468",
+      "startDate": "2026-10-11T16:00:00.000Z",
+      "location": "Zepernick - Kunstbrücke Panketal e.V.",
+      "fetchedAt": "2026-09-11T09:53:06.551Z",
+      "updatedAt": "2026-09-11T11:06:25.464Z"
+    },
+    {
+      "id": "99220466",
+      "title": "9. Ausstellung Faszination Hobby Panketal",
+      "url": "https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?se=99220466",
+      "startDate": "2026-11-01T13:00:00.000Z",
+      "location": "Zepernick - Mensa am Schulstandort Zepernick",
+      "fetchedAt": "2026-09-11T09:53:06.551Z",
+      "updatedAt": "2026-09-11T11:06:25.464Z"
+    },
+    {
+      "id": "99217406",
+      "title": "Lesung mit Melanie Fischer Die Fernsehfrauen",
+      "url": "https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?se=99217406",
+      "startDate": "2026-11-20T19:00:00.000Z",
+      "location": "Zepernick - Kunstbrücke Panketal e.V.",
+      "fetchedAt": "2026-09-11T09:53:06.551Z",
+      "updatedAt": "2026-09-11T11:06:25.464Z"
     }
   ]
 }

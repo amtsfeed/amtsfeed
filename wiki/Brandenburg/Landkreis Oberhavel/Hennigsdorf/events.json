@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-05-31T13:15:58.280Z",
+  "updatedAt": "2026-09-11T11:12:06.686Z",
   "items": [
     {
       "id": "hennigsdorf-event-820",
       "title": "Ausstellung im Grenzturm",
-      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Ausstellung-im-Grenzturm-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.820.1&amp;NavID=2713.9&amp;La=1&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Ausstellung-im-Grenzturm-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.820.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
       "startDate": "2026-04-04T00:00:00.000Z",
       "endDate": "2026-10-03T00:00:00.000Z",
       "location": "Grenzturm | Nieder Neuendorf",
       "fetchedAt": "2026-05-06T18:00:08.054Z",
-      "updatedAt": "2026-05-06T20:20:58.031Z"
+      "updatedAt": "2026-09-11T11:12:06.709Z"
     },
     {
       "id": "hennigsdorf-event-812",
@@ -140,6 +140,71 @@
       "startDate": "2026-06-04T00:00:00.000Z",
       "fetchedAt": "2026-05-31T13:15:58.287Z",
       "updatedAt": "2026-05-31T13:15:58.287Z"
+    },
+    {
+      "id": "hennigsdorf-event-854",
+      "title": "Ausstellung | Hennigsdorf - Arbeiten, Leben und Wohnen in einer Industriestadt",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Ausstellung-Hennigsdorf-Arbeiten-Leben-und-Wohnen-in-einer-Industriestadt-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.854.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-09-10T00:00:00.000Z",
+      "endDate": "2026-10-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:21.898Z",
+      "updatedAt": "2026-09-11T11:12:06.709Z"
+    },
+    {
+      "id": "hennigsdorf-event-833",
+      "title": "Familienflohmarkt 2026",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Familienflohmarkt-2026.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.833.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:21.898Z",
+      "updatedAt": "2026-09-11T11:12:06.709Z"
+    },
+    {
+      "id": "hennigsdorf-event-853",
+      "title": "Tag des offenen Denkmals",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tag-des-offenen-Denkmals-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.853.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:21.898Z",
+      "updatedAt": "2026-09-11T11:12:06.709Z"
+    },
+    {
+      "id": "hennigsdorf-event-866",
+      "title": "Lesung | Reisemaulwurf",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Lesung-Reisemaulwurf.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.866.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-09-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:21.898Z",
+      "updatedAt": "2026-09-11T11:12:06.709Z"
+    },
+    {
+      "id": "hennigsdorf-event-863",
+      "title": "Buchvorstellung | Die Abriegelung von Rainer Potratz",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Buchvorstellung-Die-Abriegelung-von-Rainer-Potratz.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.863.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-09-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:21.898Z",
+      "updatedAt": "2026-09-11T11:12:06.709Z"
+    },
+    {
+      "id": "hennigsdorf-event-806",
+      "title": "7. Hennigsdorfer Müllsammelaktion",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/7-Hennigsdorfer-M%C3%BCllsammelaktion.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.806.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:21.898Z",
+      "updatedAt": "2026-09-11T11:12:06.709Z"
+    },
+    {
+      "id": "hennigsdorf-event-857",
+      "title": "Stadtführungen mit dem Bürgermeister 2026 | Radtour",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Stadtf%C3%BChrungen-mit-dem-B%C3%BCrgermeister-2026-Radtour-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.857.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:21.898Z",
+      "updatedAt": "2026-09-11T11:12:06.709Z"
+    },
+    {
+      "id": "hennigsdorf-event-773",
+      "title": "Konzert der Gefühle",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Konzert-der-Gef%C3%BChle-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.773.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:21.898Z",
+      "updatedAt": "2026-09-11T11:12:06.709Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:15:34.904Z",
+  "updatedAt": "2026-09-11T11:11:54.668Z",
   "items": [
     {
       "id": "glienicke-event-904005818",
@@ -458,6 +458,16 @@
       "updatedAt": "2026-05-06T18:08:08.338Z"
     },
     {
+      "id": "glienicke-event-904005874",
+      "title": "Element Wasser",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005874-22451.html",
+      "startDate": "2026-09-03T16:00:00Z",
+      "endDate": "2026-12-02T17:00:00Z",
+      "location": "Rathaus - Neubau, Hauptstraße 21, 16548 Glienicke/Nordbahn",
+      "fetchedAt": "2026-09-11T09:58:04.201Z",
+      "updatedAt": "2026-09-11T11:11:54.680Z"
+    },
+    {
       "id": "glienicke-event-904005805",
       "title": "Glienicker Repair Café",
       "url": "https://www.glienicke.eu/veranstaltungen/904005805-22451.html",
@@ -497,6 +507,15 @@
       "updatedAt": "2026-05-06T18:08:08.338Z"
     },
     {
+      "id": "glienicke-event-904005875",
+      "title": "Ringelnatz-Abend mit Katrin Schrader",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005875-22451.html",
+      "startDate": "2026-09-12T17:00:00Z",
+      "location": "Bürgerhaus, Moskauer Straße 20, 16548 Glienicke-Nordbahn",
+      "fetchedAt": "2026-09-11T09:58:04.201Z",
+      "updatedAt": "2026-09-11T11:11:54.680Z"
+    },
+    {
       "id": "glienicke-event-904005740",
       "title": "Sitzung des Seniorenbeirates",
       "url": "https://www.glienicke.eu/veranstaltungen/904005740-22451.html",
@@ -506,22 +525,31 @@
       "updatedAt": "2026-05-06T18:08:08.338Z"
     },
     {
+      "id": "glienicke-event-904005878",
+      "title": "Oktoberfest im Seniorenclub",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005878-22451.html",
+      "startDate": "2026-09-16T13:00:00Z",
+      "location": "Seniorenclub, Märkische Allee 72, 16548 Glienicke/Nordbahn",
+      "fetchedAt": "2026-09-11T09:58:04.201Z",
+      "updatedAt": "2026-09-11T11:11:54.680Z"
+    },
+    {
       "id": "glienicke-event-904005722",
-      "title": "16. Sitzung des Hauptausschusses (HH)",
+      "title": "17. Sitzung des Hauptausschusses (HH)",
       "url": "https://www.glienicke.eu/veranstaltungen/904005722-22451.html",
       "startDate": "2026-09-16T16:30:00Z",
       "location": "Vereinszimmer Dreifeldhalle",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-09-11T11:11:54.680Z"
     },
     {
       "id": "glienicke-event-904005723",
-      "title": "16. Sitzung des Hauptausschusses (HH)",
+      "title": "17. Sitzung des Hauptausschusses (HH)",
       "url": "https://www.glienicke.eu/veranstaltungen/904005723-22451.html",
       "startDate": "2026-09-17T16:30:00Z",
       "location": "Vereinszimmer Dreifeldhalle",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-09-11T11:11:54.680Z"
     },
     {
       "id": "glienicke-event-904005806",
@@ -535,12 +563,30 @@
     },
     {
       "id": "glienicke-event-904005724",
-      "title": "Sitzung der Gemeindevertretung Glienicke/Nordbahn",
+      "title": "23. Sitzung der Gemeindevertretung Glienicke/Nordbahn",
       "url": "https://www.glienicke.eu/veranstaltungen/904005724-22451.html",
       "startDate": "2026-09-22T16:30:00Z",
       "location": "Mensa",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-09-11T11:11:54.680Z"
+    },
+    {
+      "id": "glienicke-event-904005877",
+      "title": "Es rauscht wiie Freiheit - es riecht wie Welt",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005877-22451.html",
+      "startDate": "2026-09-23T12:00:00Z",
+      "location": "Seniorenclub, Märkische Allee 72, 16548 Glienicke/Nordbahn",
+      "fetchedAt": "2026-09-11T09:58:04.201Z",
+      "updatedAt": "2026-09-11T11:11:54.680Z"
+    },
+    {
+      "id": "glienicke-event-904005870",
+      "title": "3. Sitzung des zeitweiligen Ausschusses ´Neubau/Erweiterung Schul- und Hortcampus",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005870-22451.html",
+      "startDate": "2026-09-29T16:30:00Z",
+      "location": "Vereinszimmer Dreifeldhalle",
+      "fetchedAt": "2026-09-11T09:58:04.201Z",
+      "updatedAt": "2026-09-11T11:11:54.680Z"
     },
     {
       "id": "glienicke-event-904005807",
@@ -561,6 +607,15 @@
       "location": "Auf dem Glascontainer-Parkplatz in der Hauptstraße – zwischen den Hausnummern 60 und 61",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
       "updatedAt": "2026-05-26T09:03:38.072Z"
+    },
+    {
+      "id": "glienicke-event-904005873",
+      "title": "1. Sitzung der AG Wahl",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005873-22451.html",
+      "startDate": "2026-10-06T16:00:00Z",
+      "location": "Konferenzraum Neues Rathaus",
+      "fetchedAt": "2026-09-11T09:58:04.201Z",
+      "updatedAt": "2026-09-11T11:11:54.680Z"
     },
     {
       "id": "glienicke-event-904005669",
@@ -590,6 +645,24 @@
       "location": "Märkische Allee 72, 16548 Glienicke/Nordbahn, Seniorenclub",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
       "updatedAt": "2026-05-06T18:08:08.338Z"
+    },
+    {
+      "id": "glienicke-event-904005876",
+      "title": "Lesung mit Hanna Heim im Bürgerhaus",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005876-22451.html",
+      "startDate": "2026-10-14T16:00:00Z",
+      "location": "Bürgerhaus, Moskauer Straße 20, 16548 Glienicke-Nordbahn",
+      "fetchedAt": "2026-09-11T09:58:04.201Z",
+      "updatedAt": "2026-09-11T11:11:54.680Z"
+    },
+    {
+      "id": "glienicke-event-904005865",
+      "title": "18. (Sonder) Sitzung des Hauptausschusses EBS",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005865-22451.html",
+      "startDate": "2026-10-14T16:30:00Z",
+      "location": "Vereinszimmer Dreifeldhalle",
+      "fetchedAt": "2026-09-11T09:58:04.201Z",
+      "updatedAt": "2026-09-11T11:11:54.680Z"
     },
     {
       "id": "glienicke-event-904005808",
@@ -639,6 +712,15 @@
       "updatedAt": "2026-05-06T18:08:08.338Z"
     },
     {
+      "id": "glienicke-event-904005728",
+      "title": "19.Sitzung des Hauptausschusses",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005728-22451.html",
+      "startDate": "2026-11-09T17:30:00Z",
+      "location": "Vereinszimmer Dreifeldhalle",
+      "fetchedAt": "2026-05-06T18:08:08.338Z",
+      "updatedAt": "2026-09-11T11:11:54.680Z"
+    },
+    {
       "id": "glienicke-event-904005727",
       "title": "15. Sitzung des Ausschusses für Technische Infrastruktur und Gewerbe",
       "url": "https://www.glienicke.eu/veranstaltungen/904005727-22451.html",
@@ -658,13 +740,13 @@
       "updatedAt": "2026-05-06T18:08:08.338Z"
     },
     {
-      "id": "glienicke-event-904005728",
-      "title": "17.Sitzung des Hauptausschusses",
-      "url": "https://www.glienicke.eu/veranstaltungen/904005728-22451.html",
+      "id": "glienicke-event-904005871",
+      "title": "4. Sitzung des zeitweiligen Ausschusses ´Neubau/Erweiterung Schul- und Hortcampus",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005871-22451.html",
       "startDate": "2026-11-18T17:30:00Z",
       "location": "Vereinszimmer Dreifeldhalle",
-      "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "fetchedAt": "2026-09-11T09:58:04.201Z",
+      "updatedAt": "2026-09-11T11:11:54.680Z"
     },
     {
       "id": "glienicke-event-904005810",
@@ -678,12 +760,12 @@
     },
     {
       "id": "glienicke-event-904005729",
-      "title": "Sitzung der Gemeindevertretung Glienicke/Nordbahn (HH)",
+      "title": "24. Sitzung der Gemeindevertretung Glienicke/Nordbahn (HH)",
       "url": "https://www.glienicke.eu/veranstaltungen/904005729-22451.html",
       "startDate": "2026-11-24T17:30:00Z",
       "location": "Mensa",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-09-11T11:11:54.680Z"
     },
     {
       "id": "glienicke-event-904005830",
@@ -697,12 +779,12 @@
     },
     {
       "id": "glienicke-event-904005730",
-      "title": "Sitzung der Gemeindevertretung Glienicke/Nordbahn",
+      "title": "25. Sitzung der Gemeindevertretung Glienicke/Nordbahn",
       "url": "https://www.glienicke.eu/veranstaltungen/904005730-22451.html",
       "startDate": "2026-12-08T17:30:00Z",
       "location": "Mensa",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
-      "updatedAt": "2026-05-06T18:08:08.338Z"
+      "updatedAt": "2026-09-11T11:11:54.680Z"
     },
     {
       "id": "glienicke-event-904005681",

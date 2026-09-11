@@ -162,4 +162,50 @@ SUMMARY:Digitale Sprechstunde: Umgang mit dem Smartphone
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  digitale-sprechstunde-umgang-mit-dem-smartphone-3
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-hohen-neuendorfer-herbstfest-tag-1@amtsfeed.de
+DTSTAMP:20260911T111208Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Hohen Neuendorfer Herbstfest - Tag 1
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ hohen-neuendorfer-herbstfest-tag-1
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-repair-cafe-9@amtsfeed.de
+DTSTAMP:20260911T111208Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Repair-Café
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ repair-cafe-9
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-hohen-neuendorfer-herbstfest-tag-2@amtsfeed.de
+DTSTAMP:20260911T111208Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Hohen Neuendorfer Herbstfest - Tag 2
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ hohen-neuendorfer-herbstfest-tag-2
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-ausstellung-im-paddenkrug-vernissage@amtsfeed.d
+ e
+DTSTAMP:20260911T111208Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Ausstellung im Paddenkrug\, Vernissage
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ ausstellung-im-paddenkrug-vernissage
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-tag-des-offenen-denkmals@amtsfeed.de
+DTSTAMP:20260911T111208Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Tag des offenen Denkmals
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ tag-des-offenen-denkmals
+END:VEVENT
 END:VCALENDAR

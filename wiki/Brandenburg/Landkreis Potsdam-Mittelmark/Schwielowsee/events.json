@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:17:14.573Z",
+  "updatedAt": "2026-09-11T11:13:43.584Z",
   "items": [
     {
       "id": "schwielowsee-event-99127087",
@@ -6815,6 +6815,15 @@
       "updatedAt": "2026-05-26T09:05:03.027Z"
     },
     {
+      "id": "schwielowsee-event-99220195",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220195",
+      "startDate": "2026-09-11T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167730",
       "title": "Rundfahrt nach Potsdam",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167730",
@@ -6851,6 +6860,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99218724",
+      "title": "Fahrradkino zur Aktionswoche für ein Weltoffenes Werder",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99218724",
+      "startDate": "2026-09-11T20:00:00.000Z",
+      "location": "Werder (Havel) - Marktplatz Werder (Havel)",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99160404",
       "title": "Parkrun um den Caputher See",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99160404",
@@ -6858,6 +6876,15 @@
       "location": "Caputh - Caputher See",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99221085",
+      "title": "Äpfel und Birnen selbst pflücken",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221085",
+      "startDate": "2026-09-12T09:00:00.000Z",
+      "location": "Werder (Havel) - Obsthof Lindicke",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99116304",
@@ -6876,6 +6903,15 @@
       "location": "Petzow - Schlossgarten Petzow",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99220196",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220196",
+      "startDate": "2026-09-12T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167731",
@@ -6924,12 +6960,39 @@
     },
     {
       "id": "schwielowsee-event-99135621",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135621",
       "startDate": "2026-09-12T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99216228",
+      "title": "Wachsmann und die Idee des industriellen Bauens",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216228",
+      "startDate": "2026-09-12T13:00:00.000Z",
+      "location": "Caputh - Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217226",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217226",
+      "startDate": "2026-09-12T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217364",
+      "title": "Festival für ein Weltoffenes Werder",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217364",
+      "startDate": "2026-09-12T13:00:00.000Z",
+      "location": "Werder (Havel) - Marktplatz Werder (Havel)",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167910",
@@ -6950,6 +7013,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99209881",
+      "title": "Von Hof zu Hof – Stadtflohmarkt in Werder (Havel)",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99209881",
+      "startDate": "2026-09-13T09:00:00.000Z",
+      "location": "Werder (Havel) - Stadt Werder (Havel) & Stadtteile",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99221086",
+      "title": "Äpfel und Birnen selbst pflücken",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221086",
+      "startDate": "2026-09-13T09:00:00.000Z",
+      "location": "Werder (Havel) - Obsthof Lindicke",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99139331",
       "title": "Kunst-Workshop \"Garteninterpretation in Collagetechnik\"",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99139331",
@@ -6957,6 +7038,15 @@
       "location": "Petzow - Schlossgarten Petzow",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99220197",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220197",
+      "startDate": "2026-09-13T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167732",
@@ -6996,12 +7086,39 @@
     },
     {
       "id": "schwielowsee-event-99135622",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135622",
       "startDate": "2026-09-13T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99198262",
+      "title": "Offenes Atelier bei Constanze Claudia Lorenz – Kunst und Begegnung",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99198262",
+      "startDate": "2026-09-13T13:00:00.000Z",
+      "location": "Werder (Havel) - Atelier auf der Wachtelburg",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99216229",
+      "title": "Wachsmann und die Idee des industriellen Bauens",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216229",
+      "startDate": "2026-09-13T13:00:00.000Z",
+      "location": "Caputh - Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217227",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217227",
+      "startDate": "2026-09-13T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99171433",
@@ -7022,6 +7139,60 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99197843",
+      "title": "1033 Jahre Geltow + 80 Jahre Volkssolidarität",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99197843",
+      "startDate": "2026-09-13T14:00:00.000Z",
+      "location": "Geltow - Heimathaus Geltow",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99219468",
+      "title": "Musik für Frauenstimmen und Klavier",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99219468",
+      "startDate": "2026-09-13T15:00:00.000Z",
+      "location": "Petzow - Kulturkirche Petzow",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99202585",
+      "title": "Fontane auf See – Eine Dampferfahrt über den Schwielowsee",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99202585",
+      "startDate": "2026-09-13T17:00:00.000Z",
+      "location": "Werder (Havel) - MS Bismarckhöhe",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220198",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220198",
+      "startDate": "2026-09-14T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99207966",
+      "title": "Ausflug nach Spandau",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99207966",
+      "startDate": "2026-09-15T10:00:00.000Z",
+      "location": "Werder (Havel) - MS Bismarckhöhe",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220199",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220199",
+      "startDate": "2026-09-15T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99136975",
       "title": "Wachsmann und die Idee des industriellen Bauens",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99136975",
@@ -7038,6 +7209,24 @@
       "location": "Werder (Havel) - Schützenhaus",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99216104",
+      "title": "Von Thing-Feiern zu Karl-May-Festspielen: Die Geschichte der Freilichtbühne",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216104",
+      "startDate": "2026-09-15T19:00:00.000Z",
+      "location": "Werder (Havel) - Schützenhaus",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220200",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220200",
+      "startDate": "2026-09-16T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167733",
@@ -7076,6 +7265,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220201",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220201",
+      "startDate": "2026-09-17T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167734",
       "title": "Rundfahrt nach Potsdam",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167734",
@@ -7101,6 +7299,24 @@
       "location": "Ferch - Museum der Havelländischen Malerkolonie",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99216230",
+      "title": "Wachsmann und die Idee des industriellen Bauens",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216230",
+      "startDate": "2026-09-17T13:00:00.000Z",
+      "location": "Caputh - Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217228",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217228",
+      "startDate": "2026-09-17T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167913",
@@ -7130,6 +7346,33 @@
       "updatedAt": "2026-05-26T09:05:03.027Z"
     },
     {
+      "id": "schwielowsee-event-99212216",
+      "title": "Hatha-Yogakurs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212216",
+      "startDate": "2026-09-17T17:00:00.000Z",
+      "location": "Caputh - Herz-Heilpraxis Ines Jahn im Blütenviertel",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99210224",
+      "title": "Poetry Slam an der Bockwindmühle Werder: Zwischen Zeilen und Ziegeln",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99210224",
+      "startDate": "2026-09-17T18:00:00.000Z",
+      "location": "Werder (Havel) - Bockwindmühle Werder (Havel)",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220202",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220202",
+      "startDate": "2026-09-18T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99136978",
       "title": "Wachsmann und die Idee des industriellen Bauens",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99136978",
@@ -7148,6 +7391,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99216231",
+      "title": "Wachsmann und die Idee des industriellen Bauens",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216231",
+      "startDate": "2026-09-18T13:00:00.000Z",
+      "location": "Caputh - Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99139687",
       "title": "Antik- & Kreativmarkt",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99139687",
@@ -7164,6 +7416,42 @@
       "location": "Caputh - Caputher See",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99221843",
+      "title": "Kreativ- & Antikmarkt",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221843",
+      "startDate": "2026-09-19T09:00:00.000Z",
+      "location": "Werder (Havel) - EKZ Werderpark",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99212227",
+      "title": "Spieletag in der Stadtbibliothek - „Stadt Land Spielt!“",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212227",
+      "startDate": "2026-09-19T10:00:00.000Z",
+      "location": "Werder (Havel) - Stadtbibliothek Werder (Havel)",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99214833",
+      "title": "„Am See sagen wir Du“",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214833",
+      "startDate": "2026-09-19T10:00:00.000Z",
+      "location": "Werder (Havel) - Klimawerkstatt Werder (Havel)",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220203",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220203",
+      "startDate": "2026-09-19T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167736",
@@ -7193,6 +7481,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99211843",
+      "title": "70. Herbstregatta",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99211843",
+      "startDate": "2026-09-19T11:00:00.000Z",
+      "location": "Werder (Havel) - Vor der Insel Werder",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99147610",
       "title": "Künstlerkolonie Heikendorf zu Gast in Ferch",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99147610",
@@ -7203,12 +7500,30 @@
     },
     {
       "id": "schwielowsee-event-99135623",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135623",
       "startDate": "2026-09-19T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99216232",
+      "title": "Wachsmann und die Idee des industriellen Bauens",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216232",
+      "startDate": "2026-09-19T13:00:00.000Z",
+      "location": "Caputh - Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217229",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217229",
+      "startDate": "2026-09-19T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167915",
@@ -7229,6 +7544,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99210612",
+      "title": "Jazz in the Garden: Björn Bergmann „First World Problems“ - Petzower Gartenkonzerte 2026",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99210612",
+      "startDate": "2026-09-19T16:00:00.000Z",
+      "location": "Petzow - Schlossgarten Petzow",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99135567",
       "title": "Farm-to-table Aperitivo - Ein Tisch. Vier Jahreszeiten",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135567",
@@ -7236,6 +7560,15 @@
       "location": "Werder (Havel) - Von Hand - Blumen & Gemüse",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99208949",
+      "title": "Rock'n church",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99208949",
+      "startDate": "2026-09-19T17:00:00.000Z",
+      "location": "Werder (Havel) - Heilig-Geist-Kirche",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99113834",
@@ -7254,6 +7587,33 @@
       "location": "Caputh - Verschiedene Orte in Schwielowsee",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99214731",
+      "title": "27. Fahrradsonntag",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214731",
+      "startDate": "2026-09-20T10:00:00.000Z",
+      "location": "Werder (Havel) - Stadt Werder (Havel) & Stadtteile",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99214834",
+      "title": "„Am See sagen wir Du“",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214834",
+      "startDate": "2026-09-20T10:00:00.000Z",
+      "location": "Werder (Havel) - Klimawerkstatt Werder (Havel)",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220204",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220204",
+      "startDate": "2026-09-20T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167737",
@@ -7311,12 +7671,48 @@
     },
     {
       "id": "schwielowsee-event-99135624",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135624",
       "startDate": "2026-09-20T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99198263",
+      "title": "Offenes Atelier bei Constanze Claudia Lorenz – Kunst und Begegnung",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99198263",
+      "startDate": "2026-09-20T13:00:00.000Z",
+      "location": "Werder (Havel) - Atelier auf der Wachtelburg",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99216233",
+      "title": "Wachsmann und die Idee des industriellen Bauens",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216233",
+      "startDate": "2026-09-20T13:00:00.000Z",
+      "location": "Caputh - Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217230",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217230",
+      "startDate": "2026-09-20T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99219488",
+      "title": "Fahrradsonntag auf dem Weinberg",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99219488",
+      "startDate": "2026-09-20T13:00:00.000Z",
+      "location": "Werder (Havel) - Werderaner Wachtelberg",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167916",
@@ -7328,6 +7724,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99197844",
+      "title": "1033 Jahre Geltow + 80 Jahre Volkssolidarität",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99197844",
+      "startDate": "2026-09-20T14:00:00.000Z",
+      "location": "Geltow - Heimathaus Geltow",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99168034",
       "title": "Der Sonne hinterher",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99168034",
@@ -7335,6 +7740,15 @@
       "location": "Werder (Havel) - MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99220205",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220205",
+      "startDate": "2026-09-21T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99135280",
@@ -7355,6 +7769,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220206",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220206",
+      "startDate": "2026-09-22T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99136981",
       "title": "Wachsmann und die Idee des industriellen Bauens",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99136981",
@@ -7362,6 +7785,15 @@
       "location": "Caputh - Bürgerhaus Caputh",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99220207",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220207",
+      "startDate": "2026-09-23T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167738",
@@ -7409,6 +7841,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220208",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220208",
+      "startDate": "2026-09-24T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167739",
       "title": "Rundfahrt nach Potsdam",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167739",
@@ -7436,6 +7877,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99216234",
+      "title": "Wachsmann und die Idee des industriellen Bauens",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216234",
+      "startDate": "2026-09-24T13:00:00.000Z",
+      "location": "Caputh - Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217231",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217231",
+      "startDate": "2026-09-24T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167918",
       "title": "Kleine Seenrundfahrt",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167918",
@@ -7443,6 +7902,15 @@
       "location": "Werder (Havel) - MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99218943",
+      "title": "Erzählcafé",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99218943",
+      "startDate": "2026-09-24T15:00:00.000Z",
+      "location": "Ferch - Seniorenpflege am Schwielowsee der Hoffbauerstiftung",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99168036",
@@ -7461,6 +7929,24 @@
       "location": "Werder (Havel) - Von Hand - Blumen & Gemüse",
       "fetchedAt": "2026-05-26T09:05:03.027Z",
       "updatedAt": "2026-05-26T09:05:03.027Z"
+    },
+    {
+      "id": "schwielowsee-event-99212217",
+      "title": "Hatha-Yogakurs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212217",
+      "startDate": "2026-09-24T17:00:00.000Z",
+      "location": "Caputh - Herz-Heilpraxis Ines Jahn im Blütenviertel",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220209",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220209",
+      "startDate": "2026-09-25T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167740",
@@ -7488,6 +7974,15 @@
       "location": "Ferch - Museum der Havelländischen Malerkolonie",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99216235",
+      "title": "Wachsmann und die Idee des industriellen Bauens",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216235",
+      "startDate": "2026-09-25T13:00:00.000Z",
+      "location": "Caputh - Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167919",
@@ -7571,6 +8066,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99212081",
+      "title": "Unterwegs mit Skizzenbuch - die Insel Werder. Einführung",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212081",
+      "startDate": "2026-09-26T11:00:00.000Z",
+      "location": "Werder (Havel) - Vor der Insel Werder",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99147614",
       "title": "Künstlerkolonie Heikendorf zu Gast in Ferch",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99147614",
@@ -7581,12 +8085,30 @@
     },
     {
       "id": "schwielowsee-event-99135625",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135625",
       "startDate": "2026-09-26T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99216236",
+      "title": "Wachsmann und die Idee des industriellen Bauens",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216236",
+      "startDate": "2026-09-26T13:00:00.000Z",
+      "location": "Caputh - Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217232",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217232",
+      "startDate": "2026-09-26T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99119272",
@@ -7625,13 +8147,22 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99209911",
+      "title": "75 Jahre Bundespolizei - Dankandacht mit Benefizkonzert des Bundespolizeiorchesters Berlin",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99209911",
+      "startDate": "2026-09-26T17:00:00.000Z",
+      "location": "Werder (Havel) - Katholische Kirche Maria Meeresstern",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99135638",
-      "title": "Konzert mit Alix Dudel: Lieder und Lyrik von Mascha Kaléko",
+      "title": "„Sozusagen grundlos vergnügt“ - Konzert mit Alix Dudel | Lieder & Lyrik von Mascha Kaléko",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135638",
       "startDate": "2026-09-26T19:30:00.000Z",
       "location": "Werder (Havel) - Theater Comedie Soleil",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167742",
@@ -7689,12 +8220,39 @@
     },
     {
       "id": "schwielowsee-event-99135626",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135626",
       "startDate": "2026-09-27T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99198264",
+      "title": "Offenes Atelier bei Constanze Claudia Lorenz – Kunst und Begegnung",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99198264",
+      "startDate": "2026-09-27T13:00:00.000Z",
+      "location": "Werder (Havel) - Atelier auf der Wachtelburg",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99216237",
+      "title": "Wachsmann und die Idee des industriellen Bauens",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216237",
+      "startDate": "2026-09-27T13:00:00.000Z",
+      "location": "Caputh - Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217233",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217233",
+      "startDate": "2026-09-27T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167921",
@@ -7704,6 +8262,15 @@
       "location": "Werder (Havel) - MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99197845",
+      "title": "1033 Jahre Geltow + 80 Jahre Volkssolidarität",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99197845",
+      "startDate": "2026-09-27T14:00:00.000Z",
+      "location": "Geltow - Heimathaus Geltow",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99128799",
@@ -7787,6 +8354,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99217234",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217234",
+      "startDate": "2026-10-01T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167923",
       "title": "Kleine Seenrundfahrt",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167923",
@@ -7812,6 +8388,24 @@
       "location": "Werder (Havel) - Von Hand - Blumen & Gemüse",
       "fetchedAt": "2026-05-26T09:05:03.027Z",
       "updatedAt": "2026-05-26T09:05:03.027Z"
+    },
+    {
+      "id": "schwielowsee-event-99212218",
+      "title": "Hatha-Yogakurs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212218",
+      "startDate": "2026-10-01T17:00:00.000Z",
+      "location": "Caputh - Herz-Heilpraxis Ines Jahn im Blütenviertel",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99215431",
+      "title": "KreativHerbst: Dämmerungs Malerei - ein Reisetagebuch aus Caputh mit Barbara Tauber und Heike Isenmann",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99215431",
+      "startDate": "2026-10-01T17:30:00.000Z",
+      "location": "Caputh - Manuskriptur - Die Schreibwerkstatt",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167745",
@@ -7850,6 +8444,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99206292",
+      "title": "Ökofilmgespräch: Wie geht Natur?!",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206292",
+      "startDate": "2026-10-02T18:30:00.000Z",
+      "location": "Werder (Havel) - Uferhaus im Uferwerk",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99212079",
+      "title": "Ökofilmgespräch - \"Wie geht Natur?!\" Von deutsch-deutscher Naturschutz-Revolution bis Naturschutz heute",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212079",
+      "startDate": "2026-10-02T18:30:00.000Z",
+      "location": "Werder (Havel) - Uferhaus im Uferwerk",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99160407",
       "title": "Parkrun um den Caputher See",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99160407",
@@ -7859,6 +8471,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99214031",
+      "title": "KreativHerbst: Bewusst sehen. Räumlich zeichnen.",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214031",
+      "startDate": "2026-10-03T10:00:00.000Z",
+      "location": "Caputh - Atelier Ralf Wilhelm Schmidt",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167746",
       "title": "Rundfahrt nach Potsdam",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167746",
@@ -7866,6 +8487,15 @@
       "location": "Werder (Havel) - MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99214021",
+      "title": "KreativHerbst: Encaustik-Workshop - Malen mit Wachs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214021",
+      "startDate": "2026-10-03T11:00:00.000Z",
+      "location": "Caputh - Atelier Christine Lindemann",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99147618",
@@ -7878,12 +8508,21 @@
     },
     {
       "id": "schwielowsee-event-99135627",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135627",
       "startDate": "2026-10-03T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217235",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217235",
+      "startDate": "2026-10-03T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167925",
@@ -7893,6 +8532,15 @@
       "location": "Werder (Havel) - MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99215450",
+      "title": "KreativHerbst: Holzschnitt - entwerfen, schneiden, drucken",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99215450",
+      "startDate": "2026-10-03T14:00:00.000Z",
+      "location": "Geltow - Atelier Siegfried Gwosdz",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99139164",
@@ -7913,6 +8561,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99221850",
+      "title": "KreativHerbst: Ein seltenes Instrument",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221850",
+      "startDate": "2026-10-03T19:00:00.000Z",
+      "location": "Caputh - Gemeindesaal der ev. Kirche Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99219478",
+      "title": "Hallentrödel in Geltow",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99219478",
+      "startDate": "2026-10-04T09:00:00.000Z",
+      "location": "Geltow - Sporthalle vom SG Geltow e.V.",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167747",
       "title": "Rundfahrt nach Potsdam",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167747",
@@ -7931,6 +8597,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99214022",
+      "title": "KreativHerbst: Encaustik-Workshop - Malen mit Wachs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214022",
+      "startDate": "2026-10-04T11:00:00.000Z",
+      "location": "Caputh - Atelier Christine Lindemann",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99147619",
       "title": "Künstlerkolonie Heikendorf zu Gast in Ferch",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99147619",
@@ -7941,12 +8616,21 @@
     },
     {
       "id": "schwielowsee-event-99135628",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135628",
       "startDate": "2026-10-04T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217236",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217236",
+      "startDate": "2026-10-04T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99171434",
@@ -7967,6 +8651,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99215451",
+      "title": "KreativHerbst: Holzschnitt - entwerfen, schneiden, drucken",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99215451",
+      "startDate": "2026-10-04T14:00:00.000Z",
+      "location": "Geltow - Atelier Siegfried Gwosdz",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99138539",
       "title": "Webkurs in der Geltower Handweberei",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99138539",
@@ -7974,6 +8667,24 @@
       "location": "Geltow - Handweberei Henni Jaensch-Zeymer",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99220341",
+      "title": "KreativHerbst: Webkurs in der Geltower Handweberei",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220341",
+      "startDate": "2026-10-06T09:00:00.000Z",
+      "location": "Geltow - Handweberei Henni Jaensch-Zeymer",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99197853",
+      "title": "Spaziergang durch das 1033-jährige Geltow",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99197853",
+      "startDate": "2026-10-06T10:00:00.000Z",
+      "location": "Geltow - Restaurant Grashorn",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99127092",
@@ -7994,13 +8705,22 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220342",
+      "title": "KreativHerbst: Webkurs in der Geltower Handweberei",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220342",
+      "startDate": "2026-10-07T09:00:00.000Z",
+      "location": "Geltow - Handweberei Henni Jaensch-Zeymer",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99115813",
-      "title": "Optische Illusion – Linien verlassen die zweite Dimension",
+      "title": "KreativHerbst: Optische Illusion – Linien verlassen die zweite Dimension",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99115813",
       "startDate": "2026-10-07T10:00:00.000Z",
       "location": "Caputh - SchlossGalerie Haape",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167748",
@@ -8022,12 +8742,12 @@
     },
     {
       "id": "schwielowsee-event-99115814",
-      "title": "Optische Illusion – Linien verlassen die zweite Dimension",
+      "title": "KreativHerbst: Optische Illusion – Linien verlassen die zweite Dimension",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99115814",
       "startDate": "2026-10-07T13:00:00.000Z",
       "location": "Caputh - SchlossGalerie Haape",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167927",
@@ -8037,6 +8757,15 @@
       "location": "Werder (Havel) - MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99217112",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217112",
+      "startDate": "2026-10-08T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167749",
@@ -8057,6 +8786,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99217237",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217237",
+      "startDate": "2026-10-08T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167928",
       "title": "Kleine Seenrundfahrt",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167928",
@@ -8066,6 +8804,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99218688",
+      "title": "Herbstfest der Senioren",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99218688",
+      "startDate": "2026-10-08T14:00:00.000Z",
+      "location": "Werder (Havel) - Schützenhaus",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99216184",
+      "title": "Kaffeeklatsch im Erzählcafé für Seniorinnen und Senioren",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216184",
+      "startDate": "2026-10-08T15:00:00.000Z",
+      "location": "Geltow - Begegnungsstätte der Generationen GRASHORN",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99193356",
       "title": "Donnerstag ist Hoftag: Gemüse und Blumen",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99193356",
@@ -8073,6 +8829,24 @@
       "location": "Werder (Havel) - Von Hand - Blumen & Gemüse",
       "fetchedAt": "2026-05-26T09:05:03.027Z",
       "updatedAt": "2026-05-26T09:05:03.027Z"
+    },
+    {
+      "id": "schwielowsee-event-99212219",
+      "title": "Hatha-Yogakurs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212219",
+      "startDate": "2026-10-08T17:00:00.000Z",
+      "location": "Caputh - Herz-Heilpraxis Ines Jahn im Blütenviertel",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217113",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217113",
+      "startDate": "2026-10-09T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167750",
@@ -8111,13 +8885,40 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99221087",
+      "title": "Äpfel und Birnen selbst pflücken",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221087",
+      "startDate": "2026-10-10T09:00:00.000Z",
+      "location": "Werder (Havel) - Obsthof Lindicke",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99116278",
-      "title": "Kräuterwerkstatt \"Rund um die Knolle\" - Kurs mit Sammeln und Kochen!",
+      "title": "KreativHerbst: Kräuterwerkstatt \"Rund um die Knolle\" - Kurs mit Sammeln und Kochen!",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99116278",
       "startDate": "2026-10-10T10:00:00.000Z",
       "location": "Ferch - Kräuter-Heidi in der Kräuterwerkstatt",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99215104",
+      "title": "KreativHerbst: MosaikWorkshop mitten in der Natur",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99215104",
+      "startDate": "2026-10-10T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217114",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217114",
+      "startDate": "2026-10-10T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167751",
@@ -8157,12 +8958,21 @@
     },
     {
       "id": "schwielowsee-event-99135629",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135629",
       "startDate": "2026-10-10T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217238",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217238",
+      "startDate": "2026-10-10T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167930",
@@ -8201,6 +9011,42 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99221851",
+      "title": "KreativHerbst: Ein seltenes Instrument",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221851",
+      "startDate": "2026-10-10T19:00:00.000Z",
+      "location": "Caputh - Gemeindesaal der ev. Kirche Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99221088",
+      "title": "Äpfel und Birnen selbst pflücken",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221088",
+      "startDate": "2026-10-11T09:00:00.000Z",
+      "location": "Werder (Havel) - Obsthof Lindicke",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99215105",
+      "title": "KreativHerbst: MosaikWorkshop mitten in der Natur",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99215105",
+      "startDate": "2026-10-11T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217115",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217115",
+      "startDate": "2026-10-11T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167752",
       "title": "Rundfahrt nach Potsdam",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167752",
@@ -8228,6 +9074,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99214016",
+      "title": "KreativHerbst: Kreativwerkstatt \"Kräuterseifen-Set\"",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214016",
+      "startDate": "2026-10-11T11:00:00.000Z",
+      "location": "Ferch - Kräuter-Heidi in der Kräuterwerkstatt",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99147623",
       "title": "Künstlerkolonie Heikendorf zu Gast in Ferch",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99147623",
@@ -8238,12 +9093,21 @@
     },
     {
       "id": "schwielowsee-event-99135630",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135630",
       "startDate": "2026-10-11T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217239",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217239",
+      "startDate": "2026-10-11T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167931",
@@ -8255,6 +9119,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99217116",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217116",
+      "startDate": "2026-10-12T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99135281",
       "title": "Streifzug durch Caputh",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135281",
@@ -8264,6 +9137,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99217117",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217117",
+      "startDate": "2026-10-13T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99216189",
+      "title": "Sicher unterwegs im Straßenverkehr",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99216189",
+      "startDate": "2026-10-13T14:00:00.000Z",
+      "location": "Ferch - Gemeindesaal Schwielowsee - Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99127112",
       "title": "Erzählfrühstück für Seniorinnen und Senioren",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99127112",
@@ -8271,6 +9162,15 @@
       "location": "Werder (Havel) - Cafe Kirstein",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99217118",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217118",
+      "startDate": "2026-10-14T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167753",
@@ -8300,6 +9200,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99215092",
+      "title": "KreativHerbst: Tanzbewegt",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99215092",
+      "startDate": "2026-10-14T19:00:00.000Z",
+      "location": "Ferch - Sportverein Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217119",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217119",
+      "startDate": "2026-10-15T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167754",
       "title": "Rundfahrt nach Potsdam",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167754",
@@ -8318,6 +9236,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99217240",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217240",
+      "startDate": "2026-10-15T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167933",
       "title": "Kleine Seenrundfahrt",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167933",
@@ -8334,6 +9261,24 @@
       "location": "Werder (Havel) - Von Hand - Blumen & Gemüse",
       "fetchedAt": "2026-05-26T09:05:03.027Z",
       "updatedAt": "2026-05-26T09:05:03.027Z"
+    },
+    {
+      "id": "schwielowsee-event-99212220",
+      "title": "Hatha-Yogakurs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212220",
+      "startDate": "2026-10-15T17:00:00.000Z",
+      "location": "Caputh - Herz-Heilpraxis Ines Jahn im Blütenviertel",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217120",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217120",
+      "startDate": "2026-10-16T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167755",
@@ -8373,12 +9318,39 @@
     },
     {
       "id": "schwielowsee-event-99119190",
-      "title": "Kräuterwerkstatt „Wilde Küche“ Kurs mit Sammeln und Kochen",
+      "title": "KreativHerbst: Kräuterwerkstatt „Wilde Küche“ Kurs mit Sammeln und Kochen",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99119190",
       "startDate": "2026-10-17T10:00:00.000Z",
       "location": "Ferch - Kräuter-Heidi in der Kräuterwerkstatt",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99214030",
+      "title": "KreativHerbst: Bewusst sehen. Realistisch zeichnen.",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214030",
+      "startDate": "2026-10-17T10:00:00.000Z",
+      "location": "Caputh - Atelier Ralf Wilhelm Schmidt",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99215106",
+      "title": "KreativHerbst: MosaikWorkshop mitten in der Natur",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99215106",
+      "startDate": "2026-10-17T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217121",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217121",
+      "startDate": "2026-10-17T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167756",
@@ -8409,12 +9381,21 @@
     },
     {
       "id": "schwielowsee-event-99135631",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135631",
       "startDate": "2026-10-17T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217241",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217241",
+      "startDate": "2026-10-17T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167935",
@@ -8433,6 +9414,33 @@
       "location": "Werder (Havel) - Insel Werder (Havel)",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99221852",
+      "title": "KreativHerbst: Ein seltenes Instrument",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221852",
+      "startDate": "2026-10-17T19:00:00.000Z",
+      "location": "Caputh - Gemeindesaal der ev. Kirche Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99215107",
+      "title": "KreativHerbst: MosaikWorkshop mitten in der Natur",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99215107",
+      "startDate": "2026-10-18T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217122",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217122",
+      "startDate": "2026-10-18T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167757",
@@ -8472,12 +9480,21 @@
     },
     {
       "id": "schwielowsee-event-99135632",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135632",
       "startDate": "2026-10-18T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217242",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217242",
+      "startDate": "2026-10-18T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167936",
@@ -8498,6 +9515,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99217123",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217123",
+      "startDate": "2026-10-19T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217124",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217124",
+      "startDate": "2026-10-20T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99116255",
       "title": "Werderaner Gespräch - Geschichten aus der Muckerstube! / erzählt von Heidemarie Garbe",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99116255",
@@ -8505,6 +9540,24 @@
       "location": "Werder (Havel) - Schützenhaus",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99221855",
+      "title": "Erzählfrühstück für Seniorinnen und Senioren",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221855",
+      "startDate": "2026-10-21T09:30:00.000Z",
+      "location": "Caputh - Gemeindesaal der ev. Kirche Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217125",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217125",
+      "startDate": "2026-10-21T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167758",
@@ -8525,6 +9578,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99217126",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217126",
+      "startDate": "2026-10-22T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167759",
       "title": "Rundfahrt nach Potsdam",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167759",
@@ -8541,6 +9603,15 @@
       "location": "Ferch - Museum der Havelländischen Malerkolonie",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99217243",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217243",
+      "startDate": "2026-10-22T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167938",
@@ -8561,6 +9632,24 @@
       "updatedAt": "2026-05-26T09:05:03.027Z"
     },
     {
+      "id": "schwielowsee-event-99214033",
+      "title": "KreativHerbst: Bring Deine Zeichnungen mit!",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214033",
+      "startDate": "2026-10-22T17:00:00.000Z",
+      "location": "Caputh - Atelier Ralf Wilhelm Schmidt",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217127",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217127",
+      "startDate": "2026-10-23T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99167760",
       "title": "Rundfahrt nach Potsdam",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99167760",
@@ -8568,6 +9657,15 @@
       "location": "Werder (Havel) - MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99214023",
+      "title": "KreativHerbst: Encaustik-Workshop - Malen mit Wachs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214023",
+      "startDate": "2026-10-23T11:00:00.000Z",
+      "location": "Caputh - Atelier Christine Lindemann",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99147629",
@@ -8606,6 +9704,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99221847",
+      "title": "Antikmarkt Bismarckhöhe",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221847",
+      "startDate": "2026-10-24T09:00:00.000Z",
+      "location": "Werder (Havel) - Festsaal Bismarckhöhe",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99119197",
       "title": "Kräuterwerkstatt „Grüne Hausapotheke“ - Kurs mit Kochen!",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99119197",
@@ -8613,6 +9720,33 @@
       "location": "Ferch - Kräuter-Heidi in der Kräuterwerkstatt",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99214019",
+      "title": "KreativHerbst: Kräuterwerkstatt „Grüne Hausapotheke“ - Kurs mit Kochen!",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214019",
+      "startDate": "2026-10-24T10:00:00.000Z",
+      "location": "Ferch - Kräuter-Heidi in der Kräuterwerkstatt",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99215108",
+      "title": "KreativHerbst: MosaikWorkshop mitten in der Natur",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99215108",
+      "startDate": "2026-10-24T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217128",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217128",
+      "startDate": "2026-10-24T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167761",
@@ -8631,6 +9765,15 @@
       "location": "Petzow - Kulturkirche Petzow",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99214024",
+      "title": "KreativHerbst: Encaustik-Workshop - Malen mit Wachs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214024",
+      "startDate": "2026-10-24T11:00:00.000Z",
+      "location": "Caputh - Atelier Christine Lindemann",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99147630",
@@ -8652,12 +9795,12 @@
     },
     {
       "id": "schwielowsee-event-99135633",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135633",
       "startDate": "2026-10-24T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99138719",
@@ -8667,6 +9810,15 @@
       "location": "Caputh - Bürgerhaus Caputh",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99217244",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217244",
+      "startDate": "2026-10-24T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167940",
@@ -8687,6 +9839,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99221853",
+      "title": "KreativHerbst: Ein seltenes Instrument",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221853",
+      "startDate": "2026-10-24T19:00:00.000Z",
+      "location": "Caputh - Gemeindesaal der ev. Kirche Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99141678",
       "title": "Antikmarkt Bismarckhöhe",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99141678",
@@ -8694,6 +9855,33 @@
       "location": "Werder (Havel) - Festsaal Bismarckhöhe",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99221848",
+      "title": "Antikmarkt Bismarckhöhe",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221848",
+      "startDate": "2026-10-25T09:00:00.000Z",
+      "location": "Werder (Havel) - Festsaal Bismarckhöhe",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99215109",
+      "title": "KreativHerbst: MosaikWorkshop mitten in der Natur",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99215109",
+      "startDate": "2026-10-25T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217129",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217129",
+      "startDate": "2026-10-25T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167762",
@@ -8714,6 +9902,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99214025",
+      "title": "KreativHerbst: Encaustik-Workshop - Malen mit Wachs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214025",
+      "startDate": "2026-10-25T11:00:00.000Z",
+      "location": "Caputh - Atelier Christine Lindemann",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99116055",
       "title": "Kreativwerkstatt \"Kräuterseifen-Set\"",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99116055",
@@ -8732,6 +9929,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99214017",
+      "title": "KreativHerbst: Kreativwerkstatt \"Kräuterseifen-Set\"",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214017",
+      "startDate": "2026-10-25T12:00:00.000Z",
+      "location": "Ferch - Kräuter-Heidi in der Kräuterwerkstatt",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99125463",
       "title": "Wer lebte im Schloss Caputh? - Eine Zeitreise ins 17. Jahrhundert",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99125463",
@@ -8742,12 +9948,21 @@
     },
     {
       "id": "schwielowsee-event-99135634",
-      "title": "„Strichgewitter“ - Rainer Ehrt",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99135634",
       "startDate": "2026-10-25T13:00:00.000Z",
       "location": "Werder (Havel) - Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
-      "updatedAt": "2026-05-06T20:22:21.246Z"
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99217225",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99217225",
+      "startDate": "2026-10-25T13:00:00.000Z",
+      "location": "Werder (Havel) - Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167941",
@@ -8784,6 +9999,15 @@
       "location": "Ferch - Sportverein Ferch",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99215093",
+      "title": "KreativHerbst: Tanzbewegt",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99215093",
+      "startDate": "2026-10-28T19:00:00.000Z",
+      "location": "Ferch - Sportverein Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99167764",
@@ -8867,6 +10091,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99214018",
+      "title": "KreativHerbst: \"Gurke und Prosecco\" - Der Freundinnen-Nachmittag",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99214018",
+      "startDate": "2026-10-30T16:00:00.000Z",
+      "location": "Ferch - Kräuter-Heidi in der Kräuterwerkstatt",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220327",
+      "title": "Bei Anruf Kultur: Kurfürstin Dorothea und ihr Schloss Caputh",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220327",
+      "startDate": "2026-10-30T17:30:00.000Z",
+      "location": "Caputh - Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99160411",
       "title": "Parkrun um den Caputher See",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99160411",
@@ -8921,6 +10163,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99221854",
+      "title": "KreativHerbst: Ein seltenes Instrument",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221854",
+      "startDate": "2026-10-31T19:00:00.000Z",
+      "location": "Caputh - Gemeindesaal der ev. Kirche Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99128748",
       "title": "„UND WEIL DER MENSCH EIN MENSCH IST...“",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99128748",
@@ -8948,6 +10199,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220210",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220210",
+      "startDate": "2026-11-02T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220211",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220211",
+      "startDate": "2026-11-03T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99127093",
       "title": "Erzählfrühstück für Seniorinnen und Senioren",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99127093",
@@ -8964,6 +10233,15 @@
       "location": "Caputh - SchlossGalerie Haape",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99220212",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220212",
+      "startDate": "2026-11-04T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99103623",
@@ -8984,6 +10262,33 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220213",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220213",
+      "startDate": "2026-11-05T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99212221",
+      "title": "Hatha-Yogakurs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212221",
+      "startDate": "2026-11-05T17:00:00.000Z",
+      "location": "Caputh - Herz-Heilpraxis Ines Jahn im Blütenviertel",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220214",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220214",
+      "startDate": "2026-11-06T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99141586",
       "title": "Petzow Village Club",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99141586",
@@ -8993,6 +10298,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99209766",
+      "title": "Kriminal Dinner - Kreuzfahrt ins Grab",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99209766",
+      "startDate": "2026-11-06T18:30:00.000Z",
+      "location": "Werder (Havel) - Restaurant Filterhaus",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99160412",
       "title": "Parkrun um den Caputher See",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99160412",
@@ -9000,6 +10314,15 @@
       "location": "Caputh - Caputher See",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99221844",
+      "title": "Kreativ- & Antikmarkt",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221844",
+      "startDate": "2026-11-07T09:00:00.000Z",
+      "location": "Werder (Havel) - EKZ Werderpark",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99116305",
@@ -9018,6 +10341,24 @@
       "location": "Werder (Havel) - Kelterei Weinbau Dr. Lindicke",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99220215",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220215",
+      "startDate": "2026-11-07T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99221090",
+      "title": "Apfeltage auf dem Obsthof Lindicke",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221090",
+      "startDate": "2026-11-07T10:00:00.000Z",
+      "location": "Werder (Havel) - Obsthof Lindicke",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99147636",
@@ -9047,6 +10388,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220216",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220216",
+      "startDate": "2026-11-08T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99221091",
+      "title": "Apfeltage auf dem Obsthof Lindicke",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221091",
+      "startDate": "2026-11-08T10:00:00.000Z",
+      "location": "Werder (Havel) - Obsthof Lindicke",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99118247",
       "title": "Kochwerkstatt „Rund um die Wurst“ - Wir stellen Wildkräuter-Bratwurst her!",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99118247",
@@ -9074,6 +10433,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220217",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220217",
+      "startDate": "2026-11-09T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220218",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220218",
+      "startDate": "2026-11-10T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99116256",
       "title": "Werderaner Gespräch - Der Weinbauverein Werder (Havel) stellt sich vor / Vortrag von Kerstin Otto",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99116256",
@@ -9092,6 +10469,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220219",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220219",
+      "startDate": "2026-11-11T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99944421",
       "title": "Tanzbewegt",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99944421",
@@ -9101,6 +10487,33 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220220",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220220",
+      "startDate": "2026-11-12T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99212222",
+      "title": "Hatha-Yogakurs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212222",
+      "startDate": "2026-11-12T17:00:00.000Z",
+      "location": "Caputh - Herz-Heilpraxis Ines Jahn im Blütenviertel",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220221",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220221",
+      "startDate": "2026-11-13T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99160413",
       "title": "Parkrun um den Caputher See",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99160413",
@@ -9108,6 +10521,24 @@
       "location": "Caputh - Caputher See",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99212072",
+      "title": "Shiatsu (Akupressur) zur gegenseitigen Unterstützung. Einführungsworkshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212072",
+      "startDate": "2026-11-14T10:00:00.000Z",
+      "location": "Werder (Havel) - Kreisvolkshochschule Potsdam-Mittelmark",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220222",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220222",
+      "startDate": "2026-11-14T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99128753",
@@ -9146,6 +10577,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220223",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220223",
+      "startDate": "2026-11-15T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99128754",
       "title": "\"Und immer lockt die Kunst - 30 Jahre Stilus\"",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99128754",
@@ -9173,6 +10613,33 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220224",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220224",
+      "startDate": "2026-11-16T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220225",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220225",
+      "startDate": "2026-11-17T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220226",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220226",
+      "startDate": "2026-11-18T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99944422",
       "title": "Tanzbewegt",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99944422",
@@ -9182,6 +10649,33 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220227",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220227",
+      "startDate": "2026-11-19T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99212223",
+      "title": "Hatha-Yogakurs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212223",
+      "startDate": "2026-11-19T17:00:00.000Z",
+      "location": "Caputh - Herz-Heilpraxis Ines Jahn im Blütenviertel",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220228",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220228",
+      "startDate": "2026-11-20T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99160414",
       "title": "Parkrun um den Caputher See",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99160414",
@@ -9189,6 +10683,15 @@
       "location": "Caputh - Caputher See",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99220229",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220229",
+      "startDate": "2026-11-21T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99128755",
@@ -9207,6 +10710,15 @@
       "location": "Ferch - Museum Havelländische Malerkolonie",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99212073",
+      "title": "Selbstverteidigung für Frauen. Einführung",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212073",
+      "startDate": "2026-11-21T14:00:00.000Z",
+      "location": "Werder (Havel) - Kreisvolkshochschule Potsdam-Mittelmark",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99119203",
@@ -9245,6 +10757,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99209778",
+      "title": "Kriminal Dinner - Sherlock darf nicht sterben",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99209778",
+      "startDate": "2026-11-21T19:00:00.000Z",
+      "location": "Caputh - Kavalierhaus Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99119198",
       "title": "Kräuterwerkstatt „Grüne Hausapotheke“ - Kurs mit Kochen!",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99119198",
@@ -9252,6 +10773,15 @@
       "location": "Ferch - Kräuter-Heidi in der Kräuterwerkstatt",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99220230",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220230",
+      "startDate": "2026-11-22T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99128756",
@@ -9281,6 +10811,33 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99220231",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220231",
+      "startDate": "2026-11-23T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220232",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220232",
+      "startDate": "2026-11-24T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99220233",
+      "title": "Mosaik-Workshop",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99220233",
+      "startDate": "2026-11-25T10:00:00.000Z",
+      "location": "Ferch - WaldGalerie Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99115267",
       "title": "Schwielowseekonzert am Feldsteinkamin: „Und wieder hier draußen ein neues Jahr…“ (mit Fontane)",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99115267",
@@ -9288,6 +10845,15 @@
       "location": "Ferch - Fercher ObstkistenBühne",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99212224",
+      "title": "Hatha-Yogakurs",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99212224",
+      "startDate": "2026-11-26T17:00:00.000Z",
+      "location": "Caputh - Herz-Heilpraxis Ines Jahn im Blütenviertel",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99119211",
@@ -9306,6 +10872,15 @@
       "location": "Werder (Havel) - Marktplatz Werder (Havel)",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99209767",
+      "title": "Kriminal Dinner - Manche mögen's TOT!",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99209767",
+      "startDate": "2026-11-27T18:30:00.000Z",
+      "location": "Werder (Havel) - Restaurant Filterhaus",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99160415",
@@ -9369,6 +10944,15 @@
       "location": "Ferch - Fercher ObstkistenBühne",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99219479",
+      "title": "Hallentrödel in Geltow",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99219479",
+      "startDate": "2026-11-29T09:00:00.000Z",
+      "location": "Geltow - Sporthalle vom SG Geltow e.V.",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99116056",
@@ -9452,6 +11036,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99209770",
+      "title": "Kriminal Dinner - Bluthochzeit im Western-Puff",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99209770",
+      "startDate": "2026-12-03T18:30:00.000Z",
+      "location": "Werder (Havel) - Restaurant Filterhaus",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99119240",
       "title": "Unsere kleine, romantische Weihnachts- Kräuterwerkstatt",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99119240",
@@ -9470,6 +11063,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99198163",
+      "title": "True Crime Slam Werder",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99198163",
+      "startDate": "2026-12-04T19:00:00.000Z",
+      "location": "Werder (Havel) - Scala-Kulturpalast",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99160416",
       "title": "Parkrun um den Caputher See",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99160416",
@@ -9477,6 +11079,15 @@
       "location": "Caputh - Caputher See",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99221845",
+      "title": "Kreativ- & Antikmarkt",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221845",
+      "startDate": "2026-12-05T09:00:00.000Z",
+      "location": "Werder (Havel) - EKZ Werderpark",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99128759",
@@ -9495,6 +11106,15 @@
       "location": "Ferch - Museum Havelländische Malerkolonie",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99209779",
+      "title": "Kriminal Dinner - Adel vergiftet",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99209779",
+      "startDate": "2026-12-05T19:00:00.000Z",
+      "location": "Caputh - Kavalierhaus Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99127916",
@@ -9540,6 +11160,15 @@
       "location": "Werder (Havel) - Cafe Kirstein",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99221856",
+      "title": "Weihnachtsfeier Erzählfrühstück für Seniorinnen und Senioren",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221856",
+      "startDate": "2026-12-09T09:30:00.000Z",
+      "location": "Caputh - Gemeindesaal der ev. Kirche Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99114587",
@@ -9605,6 +11234,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99209782",
+      "title": "Kriminal Dinner - Mord in der Promiklapse",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99209782",
+      "startDate": "2026-12-18T19:00:00.000Z",
+      "location": "Caputh - Kavalierhaus Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99160418",
       "title": "Parkrun um den Caputher See",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99160418",
@@ -9612,6 +11250,15 @@
       "location": "Caputh - Caputher See",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99221846",
+      "title": "Kreativ- & Antikmarkt",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99221846",
+      "startDate": "2026-12-19T09:00:00.000Z",
+      "location": "Werder (Havel) - EKZ Werderpark",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
       "id": "schwielowsee-event-99147648",
@@ -9713,6 +11360,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99211484",
+      "title": "Kriminal Dinner - Bluthochzeit im Western-Puff",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99211484",
+      "startDate": "2027-01-16T19:00:00.000Z",
+      "location": "Caputh - Kavalierhaus Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99147657",
       "title": "Künstlerkolonie Heikendorf zu Gast in Ferch",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99147657",
@@ -9740,6 +11396,15 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99209771",
+      "title": "Kriminal Dinner - Sherlock darf nicht sterben",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99209771",
+      "startDate": "2027-01-29T18:30:00.000Z",
+      "location": "Werder (Havel) - Restaurant Filterhaus",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
       "id": "schwielowsee-event-99147660",
       "title": "Künstlerkolonie Heikendorf zu Gast in Ferch",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99147660",
@@ -9756,6 +11421,159 @@
       "location": "Ferch - Museum Havelländische Malerkolonie",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99211485",
+      "title": "Kriminal Dinner - Mörderische Erscheinung",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99211485",
+      "startDate": "2027-02-06T19:00:00.000Z",
+      "location": "Caputh - Kavalierhaus Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99211486",
+      "title": "Kriminal Dinner - Kreuzfahrt ins Grab",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99211486",
+      "startDate": "2027-02-27T19:00:00.000Z",
+      "location": "Caputh - Kavalierhaus Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99211487",
+      "title": "Kriminal Dinner - Manche mögen's TOT!",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99211487",
+      "startDate": "2027-03-20T19:00:00.000Z",
+      "location": "Caputh - Kavalierhaus Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99206378",
+      "title": "Jazz Kollektiv",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206378",
+      "startDate": "2027-04-24T19:00:00.000Z",
+      "location": "Caputh - Festsaal Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99207043",
+      "title": "Pfingstkonzert",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99207043",
+      "startDate": "2027-05-17T00:00:00.000Z",
+      "location": "Geltow - Wegestern im Wildpark",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99206379",
+      "title": "Orgelkonzert",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206379",
+      "startDate": "2027-05-18T17:00:00.000Z",
+      "location": "Caputh - Kirche Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99206380",
+      "title": "Emily Instiful + Band",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206380",
+      "startDate": "2027-05-29T17:00:00.000Z",
+      "location": "Caputh - Garten des Einsteinhauses",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99209644",
+      "title": "Sport- und Sommerfest",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99209644",
+      "startDate": "2027-06-12T09:00:00.000Z",
+      "location": "Ferch - Sportplatz Ferch",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99206381",
+      "title": "Chorus Vicanorum",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206381",
+      "startDate": "2027-06-12T17:00:00.000Z",
+      "location": "Caputh - Kirche Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99205760",
+      "title": "SommerPicknick am Schwielowsee",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99205760",
+      "startDate": "2027-06-19T18:00:00.000Z",
+      "location": "Caputh - Verschiedene Orte in Schwielowsee",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99206391",
+      "title": "Männerchor Caputh",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206391",
+      "startDate": "2027-06-20T17:00:00.000Z",
+      "location": "Caputh - Kirche Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99206393",
+      "title": "Handglockenchor Caputh",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206393",
+      "startDate": "2027-06-26T17:00:00.000Z",
+      "location": "Caputh - Kirche Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99206394",
+      "title": "Picknickkonzert",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206394",
+      "startDate": "2027-08-21T17:00:00.000Z",
+      "location": "Caputh - Schlosspark Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99205768",
+      "title": "28. Fahrradsonntag",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99205768",
+      "startDate": "2027-09-19T11:00:00.000Z",
+      "location": "Caputh - Verschiedene Orte in Schwielowsee",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99206395",
+      "title": "Wolf-Ferrari",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206395",
+      "startDate": "2027-10-09T19:00:00.000Z",
+      "location": "Caputh - Festsaal Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99206397",
+      "title": "I sogni",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206397",
+      "startDate": "2027-11-13T19:00:00.000Z",
+      "location": "Caputh - Festsaal Schloss Caputh",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99207054",
+      "title": "Weihnachtsmarkt in Wildpark West",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99207054",
+      "startDate": "2027-11-28T00:00:00.000Z",
+      "location": "Geltow - Marktplatz Wildpark West",
+      "fetchedAt": "2026-09-11T10:00:19.700Z",
+      "updatedAt": "2026-09-11T11:13:43.579Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:17:07.237Z",
+  "updatedAt": "2026-09-11T11:13:36.062Z",
   "items": [
     {
       "id": "michendorf-event-2884831",
@@ -274,14 +274,6 @@
       "updatedAt": "2026-05-26T09:05:00.459Z"
     },
     {
-      "id": "michendorf-event-2646897",
-      "title": "Sonntags-Frühstück",
-      "url": "https://www.michendorf.de/veranstaltungen/2646897/2026/05/31/sonntags-frühstück.html",
-      "startDate": "2026-05-31T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:01.632Z",
-      "updatedAt": "2026-05-06T12:30:01.632Z"
-    },
-    {
       "id": "michendorf-event-2887533",
       "title": "Heimspiel Dritte Herren: SG Michendorf lll - SV Concordia Nowawes 06",
       "url": "https://www.michendorf.de/veranstaltungen/2887533/2026/05/31/heimspiel-dritte-herren-sg-michendorf-lll-sv-concordia-nowawes-06.html",
@@ -360,14 +352,6 @@
       "startDate": "2026-06-07T00:00:00.000Z",
       "fetchedAt": "2026-05-26T09:05:00.459Z",
       "updatedAt": "2026-05-26T09:05:00.459Z"
-    },
-    {
-      "id": "michendorf-event-2798286",
-      "title": "Trauercaf&eacute;",
-      "url": "https://www.michendorf.de/veranstaltungen/2798286/2026/06/09/trauercafé.html",
-      "startDate": "2026-06-09T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:01.632Z",
-      "updatedAt": "2026-05-31T13:17:07.230Z"
     },
     {
       "id": "michendorf-event-2817156",
@@ -554,6 +538,14 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2948283",
+      "title": "“Demenz neu sehen” - Ausstellung im Rathaus",
+      "url": "https://www.michendorf.de/veranstaltungen/2948283/2026/09/01/demenz-neu-sehen-ausstellung-im-rathaus.html",
+      "startDate": "2026-09-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
       "id": "michendorf-event-2884445",
       "title": "18. Langerwischer Höfefest",
       "url": "https://www.michendorf.de/veranstaltungen/2884445/2026/09/05/18.-langerwischer-höfefest.html",
@@ -562,12 +554,164 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2935190",
+      "title": "Ausstellung: Auf den zweiten Blick",
+      "url": "https://www.michendorf.de/veranstaltungen/2935190/2026/09/08/ausstellung-auf-den-zweiten-blick.html",
+      "startDate": "2026-09-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2950244",
+      "title": "Ruhe finden mit Hilfe der Progressiven Muskelrelaxation",
+      "url": "https://www.michendorf.de/veranstaltungen/2950244/2026/09/10/ruhe-finden-mit-hilfe-der-progressiven-muskelrelaxation.html",
+      "startDate": "2026-09-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2950239",
+      "title": "Schmerzlinderung durch Autogenes Training",
+      "url": "https://www.michendorf.de/veranstaltungen/2950239/2026/09/10/schmerzlinderung-durch-autogenes-training.html",
+      "startDate": "2026-09-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2959541",
+      "title": "Jugendclub \"MICHECK\" geöffnet",
+      "url": "https://www.michendorf.de/veranstaltungen/2959541/2026/09/11/jugendclub-micheck-geöffnet.html",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2944577",
+      "title": "Kaffeeklatsch mit Kalter Hund Verkostung und Perspektivengespräch",
+      "url": "https://www.michendorf.de/veranstaltungen/2944577/2026/09/11/kaffeeklatsch-mit-kalter-hund-verkostung-und-perspektivengespräch.html",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2924185",
+      "title": "Kleine Verbrechen unter Liebenden",
+      "url": "https://www.michendorf.de/veranstaltungen/2924185/2026/09/11/kleine-verbrechen-unter-liebenden.html",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2954891",
+      "title": "Filmworkshop Langerwisch",
+      "url": "https://www.michendorf.de/veranstaltungen/2954891/2026/09/12/filmworkshop-langerwisch.html",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2961742",
+      "title": "Unsere D-Juniorinnen laden zum Freundschaftsspiel!",
+      "url": "https://www.michendorf.de/veranstaltungen/2961742/2026/09/12/unsere-d-juniorinnen-laden-zum-freundschaftsspiel.html",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2959804",
+      "title": "21. Kinder- und Dorffest in Fresdorf",
+      "url": "https://www.michendorf.de/veranstaltungen/2959804/2026/09/12/21.-kinder-und-dorffest-in-fresdorf.html",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2924186",
+      "title": "Kleine Verbrechen unter Liebenden",
+      "url": "https://www.michendorf.de/veranstaltungen/2924186/2026/09/12/kleine-verbrechen-unter-liebenden.html",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
       "id": "michendorf-event-2904622",
       "title": "80 Jahre Kulturbund Michendorf",
-      "url": "https://www.michendorf.de/veranstaltungen/2904622/2026/09/12/80-jahre-kulturbund-michendorf.html",
-      "startDate": "2026-09-12T00:00:00.000Z",
+      "url": "https://www.michendorf.de/veranstaltungen/2904622/2026/09/13/80-jahre-kulturbund-michendorf.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
       "fetchedAt": "2026-05-26T09:05:00.459Z",
-      "updatedAt": "2026-05-26T09:05:00.459Z"
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2958922",
+      "title": "Treffen: Nachhaltig lecker Essen (Erfahrungsaustausch)",
+      "url": "https://www.michendorf.de/veranstaltungen/2958922/2026/09/13/treffen-nachhaltig-lecker-essen-erfahrungsaustausch.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2924187",
+      "title": "Kleine Verbrechen unter Liebenden",
+      "url": "https://www.michendorf.de/veranstaltungen/2924187/2026/09/13/kleine-verbrechen-unter-liebenden.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2955837",
+      "title": "Mut tut gut!",
+      "url": "https://www.michendorf.de/veranstaltungen/2955837/2026/09/14/mut-tut-gut.html",
+      "startDate": "2026-09-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2798286",
+      "title": "Trauercaf&eacute;",
+      "url": "https://www.michendorf.de/veranstaltungen/2798286/2026/09/15/trauercafé.html",
+      "startDate": "2026-09-15T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2959538",
+      "title": "Jugendclub \"MICHECK\" geöffnet",
+      "url": "https://www.michendorf.de/veranstaltungen/2959538/2026/09/15/jugendclub-micheck-geöffnet.html",
+      "startDate": "2026-09-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2964312",
+      "title": "Mädchenfußball in Michendorf",
+      "url": "https://www.michendorf.de/veranstaltungen/2964312/2026/09/15/mädchenfußball-in-michendorf.html",
+      "startDate": "2026-09-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2959533",
+      "title": "Jugendclub \"MICHECK\" geöffnet",
+      "url": "https://www.michendorf.de/veranstaltungen/2959533/2026/09/17/jugendclub-micheck-geöffnet.html",
+      "startDate": "2026-09-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2964315",
+      "title": "Mädchenfußball in Michendorf",
+      "url": "https://www.michendorf.de/veranstaltungen/2964315/2026/09/17/mädchenfußball-in-michendorf.html",
+      "startDate": "2026-09-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938941",
+      "title": "Im Gespräch in Fresdorf",
+      "url": "https://www.michendorf.de/veranstaltungen/2938941/2026/09/17/im-gespräch-in-fresdorf.html",
+      "startDate": "2026-09-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
     },
     {
       "id": "michendorf-event-2854057",
@@ -578,12 +722,340 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2924363",
+      "title": "Spieleabend",
+      "url": "https://www.michendorf.de/veranstaltungen/2924363/2026/09/18/spieleabend.html",
+      "startDate": "2026-09-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2924356",
+      "title": "Trommel-Workshop \"Groove Werkstatt\"",
+      "url": "https://www.michendorf.de/veranstaltungen/2924356/2026/09/18/trommel-workshop-groove-werkstatt.html",
+      "startDate": "2026-09-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2935189",
+      "title": "Sommerfest Ortsbeirat Michendorf",
+      "url": "https://www.michendorf.de/veranstaltungen/2935189/2026/09/19/sommerfest-ortsbeirat-michendorf.html",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938757",
+      "title": "Der dressierte Mann - Premiere",
+      "url": "https://www.michendorf.de/veranstaltungen/2938757/2026/09/19/der-dressierte-mann-premiere.html",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2919370",
+      "title": "Michendorfer Demenzwoche",
+      "url": "https://www.michendorf.de/veranstaltungen/2919370/2026/09/21/michendorfer-demenzwoche.html",
+      "startDate": "2026-09-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2948991",
+      "title": "Workshop \"Mit Demenz umgehen\"",
+      "url": "https://www.michendorf.de/veranstaltungen/2948991/2026/09/21/workshop-mit-demenz-umgehen.html",
+      "startDate": "2026-09-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2954859",
+      "title": "Englisch A2 zum Dranbleiben. Neuer Kurs",
+      "url": "https://www.michendorf.de/veranstaltungen/2954859/2026/09/22/englisch-a2-zum-dranbleiben.-neuer-kurs.html",
+      "startDate": "2026-09-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2964317",
+      "title": "Mädchenfußball in Michendorf",
+      "url": "https://www.michendorf.de/veranstaltungen/2964317/2026/09/22/mädchenfußball-in-michendorf.html",
+      "startDate": "2026-09-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2949030",
+      "title": "Ausstellung \"Flur der Erinnerungen\"",
+      "url": "https://www.michendorf.de/veranstaltungen/2949030/2026/09/23/ausstellung-flur-der-erinnerungen.html",
+      "startDate": "2026-09-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2949015",
+      "title": "Wer nicht gut hört, zieht sich zurück.",
+      "url": "https://www.michendorf.de/veranstaltungen/2949015/2026/09/23/wer-nicht-gut-hört-zieht-sich-zurück.html",
+      "startDate": "2026-09-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2964311",
+      "title": "Filmclub: Das Salz der Erde - Dokumentarfilm von Wim Wenders",
+      "url": "https://www.michendorf.de/veranstaltungen/2964311/2026/09/23/filmclub-das-salz-der-erde-dokumentarfilm-von-wim-wenders.html",
+      "startDate": "2026-09-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2954684",
+      "title": "Arbeitgeberseminar: Sicher im Personalalltag handeln",
+      "url": "https://www.michendorf.de/veranstaltungen/2954684/2026/09/24/arbeitgeberseminar-sicher-im-personalalltag-handeln.html",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2949035",
+      "title": "Musik-Kaffee mit Bingo",
+      "url": "https://www.michendorf.de/veranstaltungen/2949035/2026/09/24/musik-kaffee-mit-bingo.html",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2941838",
+      "title": "Arbeitsrecht für Arbeitgeber - sicher entscheiden im Personalalltag",
+      "url": "https://www.michendorf.de/veranstaltungen/2941838/2026/09/24/arbeitsrecht-für-arbeitgeber-sicher-entscheiden-im-personalalltag.html",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2941857",
+      "title": "Englisch für die Reise A1/A2 - Neuer Kurs",
+      "url": "https://www.michendorf.de/veranstaltungen/2941857/2026/09/24/englisch-für-die-reise-a1-a2-neuer-kurs.html",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2960881",
+      "title": "Eröffnung der neuen Sport- und Freizeitstätte",
+      "url": "https://www.michendorf.de/veranstaltungen/2960881/2026/09/25/eröffnung-der-neuen-sport-und-freizeitstätte.html",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2937568",
+      "title": "Lesung vom Kulturbund",
+      "url": "https://www.michendorf.de/veranstaltungen/2937568/2026/09/25/lesung-vom-kulturbund.html",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938760",
+      "title": "Der dressierte Mann",
+      "url": "https://www.michendorf.de/veranstaltungen/2938760/2026/09/25/der-dressierte-mann.html",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2951619",
+      "title": "Kita Löwenzahn lädt zum Tag der offenen Tür ein",
+      "url": "https://www.michendorf.de/veranstaltungen/2951619/2026/09/26/kita-löwenzahn-lädt-zum-tag-der-offenen-tür-ein.html",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938762",
+      "title": "Der dressierte Mann",
+      "url": "https://www.michendorf.de/veranstaltungen/2938762/2026/09/26/der-dressierte-mann.html",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2646897",
+      "title": "Sonntags-Frühstück",
+      "url": "https://www.michendorf.de/veranstaltungen/2646897/2026/09/27/sonntags-frühstück.html",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938764",
+      "title": "Der dressierte Mann",
+      "url": "https://www.michendorf.de/veranstaltungen/2938764/2026/09/27/der-dressierte-mann.html",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938926",
+      "title": "Rathaus unterwegs in Wilhelmshorst",
+      "url": "https://www.michendorf.de/veranstaltungen/2938926/2026/09/29/rathaus-unterwegs-in-wilhelmshorst.html",
+      "startDate": "2026-09-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938769",
+      "title": "Der dressierte Mann",
+      "url": "https://www.michendorf.de/veranstaltungen/2938769/2026/10/02/der-dressierte-mann.html",
+      "startDate": "2026-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938774",
+      "title": "Der dressierte Mann",
+      "url": "https://www.michendorf.de/veranstaltungen/2938774/2026/10/03/der-dressierte-mann.html",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938776",
+      "title": "Der dressierte Mann",
+      "url": "https://www.michendorf.de/veranstaltungen/2938776/2026/10/04/der-dressierte-mann.html",
+      "startDate": "2026-10-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2961738",
+      "title": "Konzert für Celloquartett und Sopran",
+      "url": "https://www.michendorf.de/veranstaltungen/2961738/2026/10/04/konzert-für-celloquartett-und-sopran.html",
+      "startDate": "2026-10-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2960790",
+      "title": "Herbstfest AWO Ortsverein Michendorf e.V.",
+      "url": "https://www.michendorf.de/veranstaltungen/2960790/2026/10/08/herbstfest-awo-ortsverein-michendorf-e.v.html",
+      "startDate": "2026-10-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2958923",
+      "title": "Spieletreff",
+      "url": "https://www.michendorf.de/veranstaltungen/2958923/2026/10/09/spieletreff.html",
+      "startDate": "2026-10-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938778",
+      "title": "Der dressierte Mann",
+      "url": "https://www.michendorf.de/veranstaltungen/2938778/2026/10/09/der-dressierte-mann.html",
+      "startDate": "2026-10-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
       "id": "michendorf-event-2897215",
       "title": "Weniger Stress beim Umgang mit schwierigen Menschen",
       "url": "https://www.michendorf.de/veranstaltungen/2897215/2026/10/10/weniger-stress-beim-umgang-mit-schwierigen-menschen.html",
       "startDate": "2026-10-10T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2958921",
+      "title": "Reparatur-Caf&eacute;",
+      "url": "https://www.michendorf.de/veranstaltungen/2958921/2026/10/10/reparatur-café.html",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2955843",
+      "title": "Kleine Kunstmesse 10x10x10 im Fliederhof Stücken",
+      "url": "https://www.michendorf.de/veranstaltungen/2955843/2026/10/10/kleine-kunstmesse-10x10x10-im-fliederhof-stücken.html",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938783",
+      "title": "Der dressierte Mann",
+      "url": "https://www.michendorf.de/veranstaltungen/2938783/2026/10/10/der-dressierte-mann.html",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938784",
+      "title": "Der dressierte Mann",
+      "url": "https://www.michendorf.de/veranstaltungen/2938784/2026/10/11/der-dressierte-mann.html",
+      "startDate": "2026-10-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2961734",
+      "title": "Lymphdrainage &amp; AtemAchtsamkeit",
+      "url": "https://www.michendorf.de/veranstaltungen/2961734/2026/10/12/lymphdrainage-amp-atemachtsamkeit.html",
+      "startDate": "2026-10-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2923241",
+      "title": "Umfrage für den 3. Tag der Kinderrechte",
+      "url": "https://www.michendorf.de/veranstaltungen/2923241/2026/10/14/umfrage-für-den-3.-tag-der-kinderrechte.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2965556",
+      "title": "Wärmepumpen-Eignungstest Infoveranstaltung",
+      "url": "https://www.michendorf.de/veranstaltungen/2965556/2026/10/15/wärmepumpen-eignungstest-infoveranstaltung.html",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:13:36.054Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2958919",
+      "title": "Lesungen im Herbst: Geschenke aus dem Nichts (Mareen Behrendt-Deter)",
+      "url": "https://www.michendorf.de/veranstaltungen/2958919/2026/10/16/lesungen-im-herbst-geschenke-aus-dem-nichts-mareen-behrendt-deter.html",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938787",
+      "title": "Der dressierte Mann",
+      "url": "https://www.michendorf.de/veranstaltungen/2938787/2026/10/16/der-dressierte-mann.html",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2955844",
+      "title": "Stückener Tanzabend im Hofsaal des Fliederhofes",
+      "url": "https://www.michendorf.de/veranstaltungen/2955844/2026/10/17/stückener-tanzabend-im-hofsaal-des-fliederhofes.html",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2938832",
+      "title": "Der dressierte Mann",
+      "url": "https://www.michendorf.de/veranstaltungen/2938832/2026/10/17/der-dressierte-mann.html",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
     },
     {
       "id": "michendorf-event-2897217",
@@ -602,6 +1074,46 @@
       "updatedAt": "2026-05-31T13:17:07.230Z"
     },
     {
+      "id": "michendorf-event-2958924",
+      "title": "Spieletreff",
+      "url": "https://www.michendorf.de/veranstaltungen/2958924/2026/10/23/spieletreff.html",
+      "startDate": "2026-10-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2958374",
+      "title": "Im Gespräch in Wildenbruch",
+      "url": "https://www.michendorf.de/veranstaltungen/2958374/2026/10/29/im-gespräch-in-wildenbruch.html",
+      "startDate": "2026-10-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2937569",
+      "title": "Lesung vom Kulturbund",
+      "url": "https://www.michendorf.de/veranstaltungen/2937569/2026/10/30/lesung-vom-kulturbund.html",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2965475",
+      "title": "Seniorenfest der Gemeinde",
+      "url": "https://www.michendorf.de/veranstaltungen/2965475/2026/11/05/seniorenfest-der-gemeinde.html",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2958377",
+      "title": "Im Gespräch in Wilhelmshorst",
+      "url": "https://www.michendorf.de/veranstaltungen/2958377/2026/11/05/im-gespräch-in-wilhelmshorst.html",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
       "id": "michendorf-event-2660025",
       "title": "Laternenumzug der Michendorfer Kitas",
       "url": "https://www.michendorf.de/veranstaltungen/2660025/2026/11/09/laternenumzug-der-michendorfer-kitas.html",
@@ -616,6 +1128,30 @@
       "startDate": "2026-11-10T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2958916",
+      "title": "Lesungen im Herbst: Bleiben und Aufbauen (Luise Wegscheider/Vera Wendt)",
+      "url": "https://www.michendorf.de/veranstaltungen/2958916/2026/11/13/lesungen-im-herbst-bleiben-und-aufbauen-luise-wegscheider-vera-wendt.html",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2950248",
+      "title": "1. Michendorfer Science Slam",
+      "url": "https://www.michendorf.de/veranstaltungen/2950248/2026/11/13/1.-michendorfer-science-slam.html",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2950245",
+      "title": "Mit Klangschalen entspannt in die Herbst- und Adventszeit",
+      "url": "https://www.michendorf.de/veranstaltungen/2950245/2026/11/14/mit-klangschalen-entspannt-in-die-herbst-und-adventszeit.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
     },
     {
       "id": "michendorf-event-2884834",
@@ -634,6 +1170,22 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2937570",
+      "title": "Lesung vom Kulturbund",
+      "url": "https://www.michendorf.de/veranstaltungen/2937570/2026/11/27/lesung-vom-kulturbund.html",
+      "startDate": "2026-11-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2941861",
+      "title": "Wilhelmshorster Weihnachtsmarkt",
+      "url": "https://www.michendorf.de/veranstaltungen/2941861/2026/11/28/wilhelmshorster-weihnachtsmarkt.html",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
       "id": "michendorf-event-2796861",
       "title": "Babybegrüßung durch die Bürgermeisterin",
       "url": "https://www.michendorf.de/veranstaltungen/2796861/2026/12/01/babybegrüßung-durch-die-bürgermeisterin.html",
@@ -648,6 +1200,14 @@
       "startDate": "2026-12-06T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2959134",
+      "title": "Im Gespräch in Michendorf",
+      "url": "https://www.michendorf.de/veranstaltungen/2959134/2026/12/17/im-gespräch-in-michendorf.html",
+      "startDate": "2026-12-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-11T11:13:36.054Z"
     }
   ]
 }

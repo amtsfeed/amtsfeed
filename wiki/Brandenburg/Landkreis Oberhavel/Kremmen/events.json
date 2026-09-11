@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:16:00.913Z",
+  "updatedAt": "2026-09-11T11:12:10.794Z",
   "items": [
     {
       "id": "kremmen-event-2897663",
@@ -470,15 +470,6 @@
       "updatedAt": "2026-05-26T09:04:01.433Z"
     },
     {
-      "id": "kremmen-event-2196215",
-      "title": "Bundesweiter Warntag",
-      "url": "https://www.kremmen.de/veranstaltungen/2196215/2026/09/10/bundesweiter-warntag.html",
-      "startDate": "2026-09-10T00:00:00.000Z",
-      "location": "Feuerwehr Kremmen",
-      "fetchedAt": "2026-05-06T15:27:28.720Z",
-      "updatedAt": "2026-05-06T20:19:08.627Z"
-    },
-    {
       "id": "kremmen-event-2910121",
       "title": "Unfreiwillig komisch - Die Junge Diestel",
       "url": "https://www.kremmen.de/veranstaltungen/2910121/2026/09/11/unfreiwillig-komisch-die-junge-diestel.html",
@@ -486,6 +477,15 @@
       "location": "Theater \"Tiefste Provinz\"",
       "fetchedAt": "2026-05-31T13:16:00.904Z",
       "updatedAt": "2026-05-31T13:16:00.904Z"
+    },
+    {
+      "id": "kremmen-event-2965420",
+      "title": "Eröffnung von &bdquo;Emmas Kaufhalle&ldquo; in Sommerfeld",
+      "url": "https://www.kremmen.de/veranstaltungen/2965420/2026/09/11/eröffnung-von-emmas-kaufhalle-in-sommerfeld.html",
+      "startDate": "2026-09-11T00:00:00.000Z",
+      "location": "Sommerfeld",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
     },
     {
       "id": "kremmen-event-2774244",
@@ -515,13 +515,112 @@
       "updatedAt": "2026-05-06T20:19:08.627Z"
     },
     {
+      "id": "kremmen-event-2954037",
+      "title": "Frühstück am Bahnhof Beetz-Sommerfeld",
+      "url": "https://www.kremmen.de/veranstaltungen/2954037/2026/09/12/frühstück-am-bahnhof-beetz-sommerfeld.html",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "location": "Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2937986",
+      "title": "Laut & Lustig II",
+      "url": "https://www.kremmen.de/veranstaltungen/2937986/2026/09/12/laut-lustig-ii.html",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "location": "Sommerfeld, Platz vor der Kirche",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2950455",
+      "title": "Hofkonzert - Könich Henry",
+      "url": "https://www.kremmen.de/veranstaltungen/2950455/2026/09/12/hofkonzert-könich-henry.html",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "location": "Alte Lebkuchenfabrik - Pension & Café",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
       "id": "kremmen-event-2545776",
       "title": "23. Dackelrennen in Bärenklau",
       "url": "https://www.kremmen.de/veranstaltungen/2545776/2026/09/13/23.-dackelrennen-in-bärenklau.html",
       "startDate": "2026-09-13T00:00:00.000Z",
-      "location": "Regionalpark Krämer Forst e.V.",
+      "location": "Förderverein Regionalpark Krämer Forst e.V.",
       "fetchedAt": "2026-05-26T09:04:01.433Z",
-      "updatedAt": "2026-05-26T09:04:01.433Z"
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2957630",
+      "title": "Pilz Wanderung",
+      "url": "https://www.kremmen.de/veranstaltungen/2957630/2026/09/13/pilz-wanderung.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "location": "Der Pilz-Dude",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2962523",
+      "title": "Tierschutzfest",
+      "url": "https://www.kremmen.de/veranstaltungen/2962523/2026/09/13/tierschutzfest.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "location": "Hauptstraße 29 in 16766 Kremmen - OT Flatow",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2964558",
+      "title": "Tag des offenen Denkmals im Schloss Sommerswalde",
+      "url": "https://www.kremmen.de/veranstaltungen/2964558/2026/09/13/tag-des-offenen-denkmals-im-schloss-sommerswalde.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "location": "Förderverein Regionalpark Krämer Forst e.V.",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2964556",
+      "title": "Tag des offenen Denkmals - Mathiasberg in Bötzow",
+      "url": "https://www.kremmen.de/veranstaltungen/2964556/2026/09/13/tag-des-offenen-denkmals-mathiasberg-in-bötzow.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "location": "Förderverein Regionalpark Krämer Forst e.V.",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911504",
+      "title": "Michael Eller",
+      "url": "https://www.kremmen.de/veranstaltungen/2911504/2026/09/18/michael-eller.html",
+      "startDate": "2026-09-18T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2964561",
+      "title": "Speedway - ADAC Speedway Liga Nord + NBM",
+      "url": "https://www.kremmen.de/veranstaltungen/2964561/2026/09/19/speedway-adac-speedway-liga-nord--nbm.html",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "location": "Förderverein Regionalpark Krämer Forst e.V.",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2954635",
+      "title": "Frühstück im Caf&eacute; Sommerfeld",
+      "url": "https://www.kremmen.de/veranstaltungen/2954635/2026/09/19/frühstück-im-café-sommerfeld.html",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "location": "Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2957537",
+      "title": "Apfelerntefest",
+      "url": "https://www.kremmen.de/veranstaltungen/2957537/2026/09/19/apfelerntefest.html",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "location": "Schlossgut Schwante",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
     },
     {
       "id": "kremmen-event-2849042",
@@ -540,6 +639,123 @@
       "location": "Restaurant Coldehörn",
       "fetchedAt": "2026-05-26T09:04:01.433Z",
       "updatedAt": "2026-05-26T09:04:01.433Z"
+    },
+    {
+      "id": "kremmen-event-2948320",
+      "title": "Sommerfriede kocht - Gulaschsuppe & Abendbrot im Caf&eacute; Sommerfeld",
+      "url": "https://www.kremmen.de/veranstaltungen/2948320/2026/09/25/sommerfriede-kocht-gulaschsuppe-abendbrot-im-café-sommerfeld.html",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "location": "Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2941605",
+      "title": "Erntedank in Staffelde",
+      "url": "https://www.kremmen.de/veranstaltungen/2941605/2026/09/25/erntedank-in-staffelde.html",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "location": "Kirche Staffelde",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911512",
+      "title": "Comedian Fil",
+      "url": "https://www.kremmen.de/veranstaltungen/2911512/2026/09/25/comedian-fil.html",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2954641",
+      "title": "Frühstück im Caf&eacute; Sommerfeld am Bahnhof",
+      "url": "https://www.kremmen.de/veranstaltungen/2954641/2026/09/26/frühstück-im-café-sommerfeld-am-bahnhof.html",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "location": "Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2964565",
+      "title": "Dorffest Schwante",
+      "url": "https://www.kremmen.de/veranstaltungen/2964565/2026/09/26/dorffest-schwante.html",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "location": "Förderverein Regionalpark Krämer Forst e.V.",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2928760",
+      "title": "Herbstfest der Senioren",
+      "url": "https://www.kremmen.de/veranstaltungen/2928760/2026/09/26/herbstfest-der-senioren.html",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "location": "Bistro Stadtparkhalle Kremmen",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2941606",
+      "title": "Erntedank in Groß-Ziethen",
+      "url": "https://www.kremmen.de/veranstaltungen/2941606/2026/09/27/erntedank-in-groß-ziethen.html",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "location": "Dorfkirche Groß-Ziethen",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911517",
+      "title": "Kneipenquiz",
+      "url": "https://www.kremmen.de/veranstaltungen/2911517/2026/10/02/kneipenquiz.html",
+      "startDate": "2026-10-02T00:00:00.000Z",
+      "location": "Theaterbistro \"Kombüse 11\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2948322",
+      "title": "Frischer Leberkäs in warmer Semmel",
+      "url": "https://www.kremmen.de/veranstaltungen/2948322/2026/10/03/frischer-leberkäs-in-warmer-semmel.html",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "location": "Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2941607",
+      "title": "Erntedank in Kremmen",
+      "url": "https://www.kremmen.de/veranstaltungen/2941607/2026/10/04/erntedank-in-kremmen.html",
+      "startDate": "2026-10-04T00:00:00.000Z",
+      "location": "Kirche Kremmen",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911519",
+      "title": "Lesung  \"Wenn der Nebel übers Feld\"",
+      "url": "https://www.kremmen.de/veranstaltungen/2911519/2026/10/09/lesung-wenn-der-nebel-übers-feld.html",
+      "startDate": "2026-10-09T00:00:00.000Z",
+      "location": "Theaterbistro \"Kombüse 11\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911520",
+      "title": "Friedemann Weise",
+      "url": "https://www.kremmen.de/veranstaltungen/2911520/2026/10/15/friedemann-weise.html",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2954646",
+      "title": "Käsefondue im Caf&eacute; Sommerfeld",
+      "url": "https://www.kremmen.de/veranstaltungen/2954646/2026/10/16/käsefondue-im-café-sommerfeld.html",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "location": "Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
     },
     {
       "id": "kremmen-event-2871145",
@@ -569,6 +785,51 @@
       "updatedAt": "2026-05-26T09:04:01.433Z"
     },
     {
+      "id": "kremmen-event-2954040",
+      "title": "Waffelwochenende",
+      "url": "https://www.kremmen.de/veranstaltungen/2954040/2026/10/17/waffelwochenende.html",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "location": "Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911521",
+      "title": "FolkMan",
+      "url": "https://www.kremmen.de/veranstaltungen/2911521/2026/10/23/folkman.html",
+      "startDate": "2026-10-23T00:00:00.000Z",
+      "location": "Theaterbistro \"Kombüse 11\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911524",
+      "title": "Busse und Scheunemann",
+      "url": "https://www.kremmen.de/veranstaltungen/2911524/2026/10/24/busse-und-scheunemann.html",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "location": "Theaterbistro \"Kombüse 11\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911527",
+      "title": "Busse und Scheunemann",
+      "url": "https://www.kremmen.de/veranstaltungen/2911527/2026/10/31/busse-und-scheunemann.html",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "location": "Theaterbistro \"Kombüse 11\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911533",
+      "title": "Eric Fish & Friends",
+      "url": "https://www.kremmen.de/veranstaltungen/2911533/2026/11/06/eric-fish-friends.html",
+      "startDate": "2026-11-06T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
       "id": "kremmen-event-2846337",
       "title": "Lichterfest",
       "url": "https://www.kremmen.de/veranstaltungen/2846337/2026/11/07/lichterfest.html",
@@ -576,6 +837,60 @@
       "location": "Flatow",
       "fetchedAt": "2026-05-06T15:27:28.720Z",
       "updatedAt": "2026-05-06T20:19:08.627Z"
+    },
+    {
+      "id": "kremmen-event-2954042",
+      "title": "Lichtenberg und Wedding: Geschichte einer Liebe im geteilten Berlin",
+      "url": "https://www.kremmen.de/veranstaltungen/2954042/2026/11/07/lichtenberg-und-wedding-geschichte-einer-liebe-im-geteilten-berlin.html",
+      "startDate": "2026-11-07T00:00:00.000Z",
+      "location": "Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911534",
+      "title": "Dominic Merten",
+      "url": "https://www.kremmen.de/veranstaltungen/2911534/2026/11/07/dominic-merten.html",
+      "startDate": "2026-11-07T00:00:00.000Z",
+      "location": "Theaterbistro \"Kombüse 11\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2615527",
+      "title": "Weihnachtspostamt Oberkrämer öffnet",
+      "url": "https://www.kremmen.de/veranstaltungen/2615527/2026/11/13/weihnachtspostamt-oberkrämer-öffnet.html",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "location": "Bockwindmühle Vehlefanz",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911537",
+      "title": "Christina Lux & Oliver George",
+      "url": "https://www.kremmen.de/veranstaltungen/2911537/2026/11/13/christina-lux-oliver-george.html",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2916046",
+      "title": "Repair-Caf&eacute; Kremmen",
+      "url": "https://www.kremmen.de/veranstaltungen/2916046/2026/11/14/repair-café-kremmen.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "Museumsscheune",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2911539",
+      "title": "3 Tage Bell, Book & Candle",
+      "url": "https://www.kremmen.de/veranstaltungen/2911539/2026/11/19/3-tage-bell-book-candle.html",
+      "startDate": "2026-11-19T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
     },
     {
       "id": "kremmen-event-2846348",
@@ -587,6 +902,15 @@
       "updatedAt": "2026-05-06T20:19:08.627Z"
     },
     {
+      "id": "kremmen-event-2927970",
+      "title": "Schneewittchen im November",
+      "url": "https://www.kremmen.de/veranstaltungen/2927970/2026/11/28/schneewittchen-im-november.html",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
       "id": "kremmen-event-2846366",
       "title": "Seniorenweihnachtsfeier",
       "url": "https://www.kremmen.de/veranstaltungen/2846366/2026/12/04/seniorenweihnachtsfeier.html",
@@ -594,6 +918,42 @@
       "location": "Turnhalle am Mühlenring",
       "fetchedAt": "2026-05-06T15:27:28.720Z",
       "updatedAt": "2026-05-06T20:19:08.627Z"
+    },
+    {
+      "id": "kremmen-event-2927971",
+      "title": "KI sucht WG",
+      "url": "https://www.kremmen.de/veranstaltungen/2927971/2026/12/05/ki-sucht-wg.html",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2941320",
+      "title": "Wordlüsterne Schandtaten, Martin Buchholz liest",
+      "url": "https://www.kremmen.de/veranstaltungen/2941320/2026/12/11/wordlüsterne-schandtaten-martin-buchholz-liest.html",
+      "startDate": "2026-12-11T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2758463",
+      "title": "Oberkrämer Weihnachtsmarkt",
+      "url": "https://www.kremmen.de/veranstaltungen/2758463/2026/12/12/oberkrämer-weihnachtsmarkt.html",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "location": "Bockwindmühle Vehlefanz",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2927974",
+      "title": "Weihnachtsliedersingen",
+      "url": "https://www.kremmen.de/veranstaltungen/2927974/2026/12/19/weihnachtsliedersingen.html",
+      "startDate": "2026-12-19T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
     },
     {
       "id": "kremmen-event-2871170",
@@ -612,6 +972,105 @@
       "location": "Restaurant Coldehörn",
       "fetchedAt": "2026-05-26T09:04:01.433Z",
       "updatedAt": "2026-05-26T09:04:01.433Z"
+    },
+    {
+      "id": "kremmen-event-2964867",
+      "title": "Rentner- Weihnachtsfeier / Jahresabschlussfeier",
+      "url": "https://www.kremmen.de/veranstaltungen/2964867/2027/01/08/rentner-weihnachtsfeier-jahresabschlussfeier.html",
+      "startDate": "2027-01-08T00:00:00.000Z",
+      "location": "Flatow",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2927977",
+      "title": "Delaia",
+      "url": "https://www.kremmen.de/veranstaltungen/2927977/2027/02/19/delaia.html",
+      "startDate": "2027-02-19T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2927982",
+      "title": "Arnulf Rating - WARE LÜGEN",
+      "url": "https://www.kremmen.de/veranstaltungen/2927982/2027/02/26/arnulf-rating-ware-lügen.html",
+      "startDate": "2027-02-26T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2927985",
+      "title": "H. J. Schatz liest...",
+      "url": "https://www.kremmen.de/veranstaltungen/2927985/2027/03/05/h.-j.-schatz-liest.html",
+      "startDate": "2027-03-05T00:00:00.000Z",
+      "location": "Theaterbistro \"Kombüse 11\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2927987",
+      "title": "FRAUENTAG! - Bremerich Broneske Das Duo",
+      "url": "https://www.kremmen.de/veranstaltungen/2927987/2027/03/06/frauentag-bremerich-broneske-das-duo.html",
+      "startDate": "2027-03-06T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2927988",
+      "title": "Hasenscheisse",
+      "url": "https://www.kremmen.de/veranstaltungen/2927988/2027/03/13/hasenscheisse.html",
+      "startDate": "2027-03-13T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2927989",
+      "title": "Das Musikquiz mit DJ Sixty6",
+      "url": "https://www.kremmen.de/veranstaltungen/2927989/2027/03/19/das-musikquiz-mit-dj-sixty6.html",
+      "startDate": "2027-03-19T00:00:00.000Z",
+      "location": "Theaterbistro \"Kombüse 11\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2927991",
+      "title": "Get Stoned",
+      "url": "https://www.kremmen.de/veranstaltungen/2927991/2027/03/20/get-stoned.html",
+      "startDate": "2027-03-20T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2927992",
+      "title": "Bluesnacht im Theater tiefste Provinz",
+      "url": "https://www.kremmen.de/veranstaltungen/2927992/2027/04/03/bluesnacht-im-theater-tiefste-provinz.html",
+      "startDate": "2027-04-03T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2927993",
+      "title": "Bluesnacht in der Kombüse 11",
+      "url": "https://www.kremmen.de/veranstaltungen/2927993/2027/04/03/bluesnacht-in-der-kombüse-11.html",
+      "startDate": "2027-04-03T00:00:00.000Z",
+      "location": "Theaterbistro \"Kombüse 11\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2927994",
+      "title": "Mago Masin",
+      "url": "https://www.kremmen.de/veranstaltungen/2927994/2027/04/23/mago-masin.html",
+      "startDate": "2027-04-23T00:00:00.000Z",
+      "location": "Theater \"Tiefste Provinz\"",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
     },
     {
       "id": "kremmen-event-2894328",
@@ -648,6 +1107,33 @@
       "location": "Kremmen",
       "fetchedAt": "2026-05-26T09:04:01.433Z",
       "updatedAt": "2026-05-26T09:04:01.433Z"
+    },
+    {
+      "id": "kremmen-event-2943393",
+      "title": "Das könnte der Termin für Ihre Hochzeit sein.",
+      "url": "https://www.kremmen.de/veranstaltungen/2943393/2027/07/07/das-könnte-der-termin-für-ihre-hochzeit-sein.html",
+      "startDate": "2027-07-07T00:00:00.000Z",
+      "location": "Restaurant Coldehörn",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2943397",
+      "title": "Das könnte der Termin für Ihre Hochzeit sein.",
+      "url": "https://www.kremmen.de/veranstaltungen/2943397/2027/07/27/das-könnte-der-termin-für-ihre-hochzeit-sein.html",
+      "startDate": "2027-07-27T00:00:00.000Z",
+      "location": "Restaurant Coldehörn",
+      "fetchedAt": "2026-09-11T09:58:26.096Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2196215",
+      "title": "Bundesweiter Warntag",
+      "url": "https://www.kremmen.de/veranstaltungen/2196215/2027/09/09/bundesweiter-warntag.html",
+      "startDate": "2027-09-09T00:00:00.000Z",
+      "location": "Feuerwehr Kremmen",
+      "fetchedAt": "2026-05-06T15:27:28.720Z",
+      "updatedAt": "2026-09-11T11:12:10.767Z"
     }
   ]
 }

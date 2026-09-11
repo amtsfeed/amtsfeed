@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T14:14:04.120Z",
+  "updatedAt": "2026-09-11T11:07:48.625Z",
   "items": [
     {
       "id": "rathenow-event-1476-20260101",
@@ -422,6 +422,26 @@
       "updatedAt": "2026-05-31T14:14:04.126Z"
     },
     {
+      "id": "rathenow-event-1643-20260701",
+      "title": "Landschaften und Portraits von Ferenc Takàcs und Andreas Behncke",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/landschaften-und-portraits-von-ferenc-takacs-und-andreas-behncke/",
+      "startDate": "2026-07-01T00:00:00.000Z",
+      "endDate": "2026-09-30T00:00:00.000Z",
+      "location": "Rathaus Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1642-20260703",
+      "title": "FARBENRAUSCH - Die Jubiläums-Kunstausstellung",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/farbenrausch-die-jubilaeums-kunstausstellung/",
+      "startDate": "2026-07-03T00:00:00.000Z",
+      "endDate": "2026-09-30T00:00:00.000Z",
+      "location": "Rathaus Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
       "id": "rathenow-event-344-20260704",
       "title": "Sommerfest der Musik- und Kunstschule Havelland",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/sommerfest-der-musik-und-kunstschule-havelland/",
@@ -628,6 +648,16 @@
       "updatedAt": "2026-05-31T14:14:04.126Z"
     },
     {
+      "id": "rathenow-event-1720-20260830",
+      "title": "Kunstausstellung „Retroperspektive Peter Zacharias\"",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/kunstausstellung-retroperspektive-peter-zacharias/",
+      "startDate": "2026-08-30T00:00:00.000Z",
+      "endDate": "2026-10-02T00:00:00.000Z",
+      "location": "Sankt-Marien-Andreas-Kirche",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
       "id": "rathenow-event-1560-20260902",
       "title": "Augenblick-Workshops — Jetzt anmelden!",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/augenblick-workshop/",
@@ -684,6 +714,16 @@
       "updatedAt": "2026-05-31T14:14:04.126Z"
     },
     {
+      "id": "rathenow-event-1707-20260912",
+      "title": "7. Trödel- und Flohmarkt in SEMLIN",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/7-troedel-und-flohmarkt-in-semlin/",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "endDate": "2026-09-19T00:00:00.000Z",
+      "location": "Rund um den Dorfplatz & auf dem Gelände der Feuerwehr Semlin",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
       "id": "rathenow-event-122-20260913",
       "title": "26. Werner-Bünger-Gedenklauf",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/werner-buenger-gedenklauf/",
@@ -700,6 +740,42 @@
       "location": "Rathenow, Kulturzentrum, Blauer Saal",
       "fetchedAt": "2026-05-31T13:45:14.969Z",
       "updatedAt": "2026-05-31T14:14:04.126Z"
+    },
+    {
+      "id": "rathenow-event-1709-20260913",
+      "title": "Ein besonderer Ausklang",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/ein-besonderer-ausklang/",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1729-20260913",
+      "title": "Eine musikalische Reise",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/eine-musikalische-reise/",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "location": "Dorfkirche in Ferchesar",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1723-20260916",
+      "title": "13. HAVELLÄNDISCHES SENIORENSPORTFEST",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/13-havellaendisches-seniorensportfest/",
+      "startDate": "2026-09-16T00:00:00.000Z",
+      "location": "Sportpark an der B5 Hamburger Chaussee 175 Dallgow-Döberitz",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1704-20260917",
+      "title": "„Birnen zum Leuchten bringen“: Tourismustag Havelland 2026 auf Schloss Ribbeck",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/birnen-zum-leuchten-bringen-tourismustag-havelland-2026-auf-schloss-ribbeck/",
+      "startDate": "2026-09-17T00:00:00.000Z",
+      "location": "Schloss Ribbeck, Theodor-Fontane-Straße 10, 14641 Nauen",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
     },
     {
       "id": "rathenow-event-1487-20260919",
@@ -720,6 +796,15 @@
       "updatedAt": "2026-05-31T14:14:04.126Z"
     },
     {
+      "id": "rathenow-event-1717-20260919",
+      "title": "Radtour: Der Rathenower Stadtforst - ein Kleinod im Havelland",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/radtour-der-rathenower-stadtforst-ein-kleinod-im-havelland/",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "location": "Wanderparkplatz Ferchesarer Weg, Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
       "id": "rathenow-event-1511-20260920",
       "title": "Babykonzert im September - Konzertreihe für die Allerkleinsten",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/babykonzert-im-september-konzertreihe-fuer-die-allerkleinsten/",
@@ -738,6 +823,24 @@
       "updatedAt": "2026-05-31T14:14:04.126Z"
     },
     {
+      "id": "rathenow-event-1735-20260920",
+      "title": "J.S. Bach - A. Corelli - G.F. Händel",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/js-bach-a-corelli-gf-haendel/",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "location": "St. Marien-Andreas-Kirche Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-264-20260923",
+      "title": "Abschlussveranstaltung des Brandenburger Lesesommers",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/abschlussveranstaltung-des-brandenburger-lesesommers/",
+      "startDate": "2026-09-23T00:00:00.000Z",
+      "location": "Rathenow, Stadtbilbliothek, Am Schleusenplatz",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
       "id": "rathenow-event-334-20260924",
       "title": "Seniorentanz im September",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/seniorentanz-im-september/",
@@ -745,6 +848,35 @@
       "location": "Rathenow, im Tivoli, K.-Gehrmann Str. 43d",
       "fetchedAt": "2026-05-31T13:45:14.969Z",
       "updatedAt": "2026-05-31T14:14:04.126Z"
+    },
+    {
+      "id": "rathenow-event-1710-20260924",
+      "title": "After-Work-Lounge mit DJ Pasi",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/after-work-lounge-mit-dj-pasi/",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1725-20260925",
+      "title": "TROJAN HORSE",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/trojan-horse/",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "endDate": "2026-09-27T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1705-20260926",
+      "title": "11. Rathenower Schwedentage",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/11-rathenower-schwedentage-1/",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "endDate": "2026-09-27T00:00:00.000Z",
+      "location": "Weinberg, rund um den Bismarckturm Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
     },
     {
       "id": "rathenow-event-1600-20260927",
@@ -756,14 +888,42 @@
       "updatedAt": "2026-05-31T14:14:04.126Z"
     },
     {
+      "id": "rathenow-event-1733-20261001",
+      "title": "HÄUTUNG",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/haeutung/",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "endDate": "2026-11-22T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1677-20261002",
+      "title": "GALMER Kranzstechen",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/galmer-kranzstechen/",
+      "startDate": "2026-10-02T00:00:00.000Z",
+      "endDate": "2026-10-04T00:00:00.000Z",
+      "location": "Galmer Str. Milower Land",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
       "id": "rathenow-event-399-20261003",
       "title": "Saisonausklang im Optikpark",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/saisonausklang-im-optikpark/",
       "startDate": "2026-10-03T00:00:00.000Z",
-      "endDate": "2026-10-04T00:00:00.000Z",
       "location": "Rathenow, Optikpark",
       "fetchedAt": "2026-05-31T13:45:14.969Z",
-      "updatedAt": "2026-05-31T14:14:04.126Z"
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1554-20261004",
+      "title": "Das Konzert der Lieblingsbücher mit der Band RUMPELSTIL",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/das-konzert-der-lieblingsbuecher-mit-der-band-rumpelstil/",
+      "startDate": "2026-10-04T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
     },
     {
       "id": "rathenow-event-1603-20261009",
@@ -776,6 +936,16 @@
       "updatedAt": "2026-05-31T14:14:04.126Z"
     },
     {
+      "id": "rathenow-event-1730-20261009",
+      "title": "GOSPEL Workshop",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/gospel-workshop/",
+      "startDate": "2026-10-09T00:00:00.000Z",
+      "endDate": "2026-10-10T00:00:00.000Z",
+      "location": "St. Marien-Andreaskirche Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
       "id": "rathenow-event-1410-20261010",
       "title": "Herbstfest mit Saisonabschluss 2026",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/herbstfest-mit-saisonabschluss-2026/",
@@ -784,6 +954,15 @@
       "location": "Rathenow, Optikpark",
       "fetchedAt": "2026-05-31T13:45:14.969Z",
       "updatedAt": "2026-05-31T14:14:04.126Z"
+    },
+    {
+      "id": "rathenow-event-1410-20261011",
+      "title": "Herbstfest mit Saisonabschluss 2026",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/herbstfest-mit-saisonabschluss-2026/",
+      "startDate": "2026-10-11T00:00:00.000Z",
+      "location": "Rathenow, Optikpark",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
     },
     {
       "id": "rathenow-event-1564-20261012",
@@ -796,6 +975,15 @@
       "updatedAt": "2026-05-31T14:14:04.126Z"
     },
     {
+      "id": "rathenow-event-1732-20261014",
+      "title": "Robin Alexander „Die letzte Chance. Der neue Kanzler und der Kampf um die Demokratie“",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/robin-alexander-die-letzte-chance-der-neue-kanzler-und-der-kampf-um-die-demokratie/",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "location": "Gaststätte Schwedendamm Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
       "id": "rathenow-event-1540-20261017",
       "title": "Die Welt der Filmmusik",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/die-welt-der-filmmusik/",
@@ -803,6 +991,34 @@
       "location": "Theatersaal Kulturzentrum Rathenow",
       "fetchedAt": "2026-05-31T13:45:14.969Z",
       "updatedAt": "2026-05-31T14:14:04.126Z"
+    },
+    {
+      "id": "rathenow-event-271-20261018",
+      "title": "Rathenower Weinfest",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/26-rathenower-weinfest/",
+      "startDate": "2026-10-18T00:00:00.000Z",
+      "location": "Rathenow, Märkischer Platz",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1712-20261020",
+      "title": "Herbstferien im Optik Industrie Museum Rathenow",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/herbstferien-im-optik-industrie-museum-rathenow/",
+      "startDate": "2026-10-20T00:00:00.000Z",
+      "endDate": "2026-10-29T00:00:00.000Z",
+      "location": "Optik Industrie Museum Rathenow/ Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1727-20261021",
+      "title": "Adonia-Musical TREFFPUNKT BRUNNEN",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/adonia-musical-treffpunkt-brunnen/",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
     },
     {
       "id": "rathenow-event-197-20261022",
@@ -814,6 +1030,15 @@
       "updatedAt": "2026-05-31T14:14:04.126Z"
     },
     {
+      "id": "rathenow-event-1724-20261024",
+      "title": "Feuer und Flamme für unsere Museen",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/feuer-und-flamme-fuer-unsere-museen/",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "location": "OIMR/ Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
       "id": "rathenow-event-123-20261025",
       "title": "Altweibersommer-Lauf",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/altweibersommer-lauf/",
@@ -821,6 +1046,15 @@
       "location": "Rathenow, Ferchesarer Weg",
       "fetchedAt": "2026-05-31T13:45:14.969Z",
       "updatedAt": "2026-05-31T14:14:04.126Z"
+    },
+    {
+      "id": "rathenow-event-1669-20261025",
+      "title": "CAFÉ PARIS – Die Ära der goldenen Kaffeehausjahre im Schloss Ribbeck",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/cafe-paris-die-aera-der-goldenen-kaffeehausjahre-im-schloss-ribbeck-2/",
+      "startDate": "2026-10-25T00:00:00.000Z",
+      "location": "Schloss Ribbeck Nauen OT Ribbeck",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
     },
     {
       "id": "rathenow-event-1506-20261031",
@@ -850,6 +1084,15 @@
       "updatedAt": "2026-05-31T14:14:04.126Z"
     },
     {
+      "id": "rathenow-event-1097-20261113",
+      "title": "\"Schöne Töne-Special\"",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/schoene-toene-special/",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "location": "Rathenow, Kulturzentrum",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
       "id": "rathenow-event-1097-20261114",
       "title": "\"Schöne Töne-Special\"",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/schoene-toene-special/",
@@ -866,6 +1109,16 @@
       "location": "Rathenow, im Tivoli, K.-Gehrmann Str. 43d",
       "fetchedAt": "2026-05-31T13:45:14.969Z",
       "updatedAt": "2026-05-31T14:14:04.126Z"
+    },
+    {
+      "id": "rathenow-event-833-20261127",
+      "title": "Rathenower Weihnachtsmarkt",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/rathenower-weihnachtsmarkt/",
+      "startDate": "2026-11-27T00:00:00.000Z",
+      "endDate": "2026-12-13T00:00:00.000Z",
+      "location": "Rathenow, Märkischer Platz",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
     },
     {
       "id": "rathenow-event-1572-20261203",
@@ -895,6 +1148,15 @@
       "updatedAt": "2026-05-31T14:14:04.126Z"
     },
     {
+      "id": "rathenow-event-1641-20261206",
+      "title": "Theos Abenteuerreise zum Mond",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/theos-abenteuerreise-zum-mond/",
+      "startDate": "2026-12-06T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
       "id": "rathenow-event-199-20261217",
       "title": "Seniorentanz im Dezember",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/seniorentanz-im-dezember/",
@@ -921,6 +1183,51 @@
       "location": "Rathenow, Optikpark",
       "fetchedAt": "2026-05-31T13:45:14.969Z",
       "updatedAt": "2026-05-31T14:14:04.126Z"
+    },
+    {
+      "id": "rathenow-event-1734-20270103",
+      "title": "Neujahrskonzerte 2027",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/neujahrskonzerte-2027/",
+      "startDate": "2027-01-03T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1688-20270206",
+      "title": "Moving Shadows",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/moving-shadows/",
+      "startDate": "2027-02-06T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1634-20270306",
+      "title": "Die große SCHLAGER-HITPARADE",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/die-grosse-schlager-hitparade/",
+      "startDate": "2027-03-06T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1689-20270311",
+      "title": "Zauber der Travestie 2027",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/zauber-der-travestie-2027/",
+      "startDate": "2027-03-11T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1690-20270409",
+      "title": "TARZAN – Das Musical",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/tarzan-das-musical/",
+      "startDate": "2027-04-09T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-11T09:54:39.415Z",
+      "updatedAt": "2026-09-11T11:07:48.648Z"
     }
   ]
 }

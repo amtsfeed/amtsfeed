@@ -1023,12 +1023,81 @@ LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900004970@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20260912T090000Z
+DTEND:20260912T150000Z
+SUMMARY:Tag der offenen Tür der Freiwilligen Feuerwehr Ahrensfelde
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/tag-der-offenen-t
+ uer-der-freiwilligen-feuerwehr-ahrensfelde-900004970-30601.html
+DESCRIPTION:Wir laden ein! Ein Tag für die ganze Familie\, mit Vorführu
+ ngen der Jugendfeuerwehr\, Essen und Trinken\, Kinderschminken\, Hüpfbur
+ g und vielem mehr.
+LOCATION:Freiwillige Feuerwehr Ahrensfelde\, Dorfstr. 51\, 16356 Ahrensfe
+ lde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004971@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20260912T140000Z
+DTEND:20260912T210000Z
+SUMMARY:Klappstuhlkonzert Eiche
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/klappstuhlkonzert
+ -eiche-900004971-30601.html
+DESCRIPTION:Die Eichener Märchengruppe führt das "Sommer-Meer-chen" auf
+  und die Partyband "PartyholiXxX" tritt auf.
+LOCATION:Dorfanger Eiche\, Eichener Dorfstraße\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004974@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20260913T074500Z
+DTEND:20260913T160000Z
+SUMMARY:Tag des offenen Denkmals
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/tag-des-offenen-d
+ enkmals-900004974-30601.html
+DESCRIPTION:Entdecken Sie den Blumberger Lenné-Park mit all seinen Facet
+ ten! Freuen Sie sich auf spannende Führungen\, interessante Vorträge\, 
+ Ausstellungen und ein abwechslungsreiches Familienprogramm. Erfahren Sie 
+ mehr über die Geschichte des Gartendenkmals\, seine Pflege und die laufe
+ nde Parksanierung.\n\nGenießen Sie bei Kaffee und Kuchen den offenen Aus
+ tausch mit der Gemeinde\, ehrenamtlichen Parkpflegerinnen und Parkpfleger
+ n sowie Landschaftsarchitektinnen. Ob Groß oder Klein für jeden ist etw
+ as dabei– erleben Sie einen informativen und abwechslungsreichen Tag in
+  besonderer Atmosphäre. \n\nDas erwartet Sie: \n\n• 9:45 Uhr: Eröffnu
+ ng durch den Bürgermeister im Stufensaal\n• 10:00\, 14:00 und 16:00 Uh
+ r: Führungen durch den Lenné-Park\n• ab 13:00 Uhr: Familien- und Kind
+ erprogramm\n• ganztägig: Fotoausstellung im Stufensaal\n• Kaffee und
+  Kuchen auf dem Hexenberg\n\nWir freuen uns auf zahlreiche Besucherinnen 
+ und Besucher!\n\nVeranstaltungsort:\nLenné-Park Blumberg & Stufensaal\nS
+ chloßstraße 7\n16356 Ahrensfelde OT Blumberg\n\nDer Eintritt ist frei.\
+ n\nIhre Gemeinde Ahrensfelde\nUmweltamt
+LOCATION:Gemeindesaal Blumberg (ehem. Stufensaal)\, Schloßstraße 7\, 16
+ 356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004983@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20260914T080000Z
+DTEND:20260914T100000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900004983-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Ortsteilzentrum Lindenberg\, Karl-Marx-Straße 20e\, 16356 Ahren
+ sfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004768@amtsfeed.de
-DTSTAMP:20260526T085739Z
+DTSTAMP:20260911T110619Z
 DTSTART:20260914T170000Z
 SUMMARY:öffentliche Sitzung des Ausschusses für Soziales und Kultur
 URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-ausschusses-fuer-soziales-und-kultur-900004768-30601.html
+DESCRIPTION:Zur Tagesordnung
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
@@ -1047,13 +1116,29 @@ LOCATION:Ortsteilzentrum Ahrensfelde\, Lindenberger Straße 1b\, 16356 Ah
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004822@amtsfeed.de
-DTSTAMP:20260526T085739Z
-DTSTART:20260917T160000Z
+DTSTAMP:20260911T110619Z
+DTSTART:20260916T160000Z
 SUMMARY:öffentliche Sitzung des Ortsbeirates Blumberg
 URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-ortsbeirates-blumberg-900004822-30601.html
+DESCRIPTION:Zur Tagesordnung
 LOCATION:16356 Ahrensfelde\, ehem. Stufensaal\, Schloßstraße 7\, OT B
  lumberg
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005007@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20260917T140000Z
+DTEND:20260917T160000Z
+SUMMARY:Social Media Werkstatt (außerhalb der Ferien)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werk
+ statt-ausserhalb-der-ferien--900005007-30601.html
+DESCRIPTION:Gemeinsam lernen wir soziale Medien sicher zu nutzen und erst
+ ellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\n
+ Das Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub E
+ iche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat\, kommt ein
+ fach vorbei.
+LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004842@amtsfeed.de
@@ -1067,6 +1152,29 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/ahrensfelde-in-be
 LOCATION:Lenné-Park Blumberg
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900004967@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20260919T080000Z
+DTEND:20260919T120000Z
+SUMMARY:29. Regionalparklauf
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/29-regionalparkla
+ uf-900004967-30601.html
+DESCRIPTION:Am Samstag\, den 19. September 2026\, lädt der Regionalparkv
+ erein zum 29. Regionalparklauf im Blumberger Lenné Park ein. Die Veranst
+ altung bietet für alle Altersklassen passende Streckenlängen von 1\,5 k
+ m bis 13\,2 km\, darunter auch Nordic-Walking-Strecken.\nDer Regionalpark
+ lauf findet in Kooperation mit „Ahrensfelde in Bewegung“ und dem Camp
+ ustag der Docemus Privatschule Blumberg statt. Für das leibliche Wohl de
+ r Teilnehmenden ist bestens gesorgt. Nach dem Lauf erhalten alle Teilnehm
+ er traditionell einen „Appel und 'n Ei“ als kleine Aufmerksamkeit.\nD
+ ie besten Läuferinnen und Läufer werden mit Pokalen\, Medaillen und Urk
+ unden geehrt. Zudem werden auch Gäste aus der polnischen Partnergemeinde
+  Kolberg erwartet\, die zur internationalen Atmosphäre der Veranstaltung
+  beitragen.\nWir freuen uns auf zahlreiche Teilnehmer und einen sportlich
+ en Tag in der schönen Barnimer Feldmark!
+LOCATION:Lenné-Park\, Kirchstraße\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004823@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20260921T170000Z
@@ -1077,6 +1185,36 @@ LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005004@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20260923T080000Z
+DTEND:20260923T100000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900005004-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Freiwillige Feuerwehr Mehrow\, Mehrower Dorfstraße 6\, 16356 Ah
+ rensfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005008@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20260924T140000Z
+DTEND:20260924T160000Z
+SUMMARY:Social Media Werkstatt (außerhalb der Ferien)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werk
+ statt-ausserhalb-der-ferien--900005008-30601.html
+DESCRIPTION:Gemeinsam lernen wir soziale Medien sicher zu nutzen und erst
+ ellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\n
+ Das Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub E
+ iche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat\, kommt ein
+ fach vorbei.
+LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004824@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20260924T170000Z
@@ -1085,6 +1223,20 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-ortsbeirates-lindenberg-900004824-30601.html
 LOCATION:16356 Ahrensfelde\, Ortszentrum\, Karl-Marx-Straße 20 E\, OT
   Lindenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004988@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20260928T080000Z
+DTEND:20260928T100000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900004988-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Ortsteilzentrum Eiche\, Mehrower Weg\, 16356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004825@amtsfeed.de
@@ -1120,6 +1272,51 @@ LOCATION:Ortsteilzentrum Ahrensfelde\, Lindenberger Straße 1b\, 16356 Ah
  rensfelde
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005026@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20260929T160000Z
+DTEND:20260929T180000Z
+SUMMARY:Sozialraumrunde Ahrensfelde - Bilder\, die bleiben! Der verantwor
+ tungsvolle Umgang beim Fotografieren von Kindern und Jugendlichen in Vere
+ inen\, Feuerwehr & Co.
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/sozialraumrunde-a
+ hrensfelde-bilder-die-bleiben-der-verantwortungsvolle-umgang-beim-fotogra
+ fieren-von-kindern-und-jugendlichen-in-vereinen-feuerwehr-co--900005026-3
+ 0601.html
+DESCRIPTION:In vielen pädagogischen Kontexten werden regelmäßig Fotos 
+ und Filme von Kindern und Jugendlichen gemacht – sei es für die Erinne
+ rung an schöne Veranstaltungen\, für Projektberichte oder zur Veröffen
+ tlichung.\nDoch wann ist es überhaupt gerechtfertigt\, Bilder zu machen?
+  Wer trifft die Entscheidung und wie gehen wir danach mit den Aufnahmen u
+ m?\nIn dieser Sozialraumrunde möchten wir gemeinsam mit Ihnen über den 
+ bewussten Umgang mit Bildern im Alltag von Vereinen\, Feuerwehren & Co. s
+ prechen. Wir gehen den Fragen nach\, wann Fotos erstellt werden und warum
+  das in bestimmten Kontexten sinnvoll ist. Dabei beleuchten wir ethische 
+ Fragestellungen\, wie den Schutz der Privatsphäre und die Rechte der Kin
+ der und Jugendlichen\, und überlegen\, wie wir sie altersgerecht in den 
+ Prozess einbinden können.\nDurch konkrete Fallbeispiele und einen intera
+ ktiven Austausch wollen wir die Vielfalt der Perspektiven sichtbar machen
+  und einen Leitfaden für den verantwortungsvollen Umgang mit Fotos entwi
+ ckeln.
+LOCATION:Seniorenbegegnungsstätte\, Lindenberger Straße 1b\, 16356 Ahre
+ nsfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005009@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261001T140000Z
+DTEND:20261001T160000Z
+SUMMARY:Social Media Werkstatt (außerhalb der Ferien)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werk
+ statt-ausserhalb-der-ferien--900005009-30601.html
+DESCRIPTION:Gemeinsam lernen wir soziale Medien sicher zu nutzen und erst
+ ellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\n
+ Das Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub E
+ iche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat\, kommt ein
+ fach vorbei.
+LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004769@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20261001T170000Z
@@ -1128,6 +1325,21 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-ausschusses-fuer-finanzen-900004769-30601.html
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004995@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261005T080000Z
+DTEND:20261005T100000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900004995-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernren Medien\n
+ - wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr bere
+ its erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fa
+ lls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Ortsteilzentrum Ahrensfelde\, Lindenberger Straße 1b\, 16356 Ah
+ rensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004770@amtsfeed.de
@@ -1159,6 +1371,21 @@ LOCATION:Seniorenbegegnungsstätte\, Lindenberger Straße 1b\,\n16356 Ahr
  ensfelde
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005010@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261008T140000Z
+DTEND:20261008T160000Z
+SUMMARY:Social Media Werkstatt (außerhalb der Ferien)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werk
+ statt-ausserhalb-der-ferien--900005010-30601.html
+DESCRIPTION:Gemeinsam lernen wir soziale Medien sicher zu nutzen und erst
+ ellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\n
+ Das Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub E
+ iche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat\, kommt ein
+ fach vorbei.
+LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004826@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20261008T170000Z
@@ -1169,6 +1396,21 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  0601.html
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004984@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261012T080000Z
+DTEND:20261012T100000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900004984-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Ortsteilzentrum Lindenberg\, Karl-Marx-Straße 20e\, 16356 Ahren
+ sfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004771@amtsfeed.de
@@ -1207,6 +1449,21 @@ LOCATION:16356 Ahrensfelde\, Gemeindezentrum Eiche\, Ahrensfelder Chaus
  see 35\, OT Eiche
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005011@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261015T140000Z
+DTEND:20261015T160000Z
+SUMMARY:Social Media Werkstatt (außerhalb der Ferien)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werk
+ statt-ausserhalb-der-ferien--900005011-30601.html
+DESCRIPTION:Gemeinsam lernen wir soziale Medien sicher zu nutzen und erst
+ ellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\n
+ Das Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub E
+ iche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat\, kommt ein
+ fach vorbei.
+LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004828@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20261015T160000Z
@@ -1215,6 +1472,57 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-ortsbeirates-blumberg-900004828-30601.html
 LOCATION:16356 Ahrensfelde\, ehem. Stufensaal\, Schloßstraße 7\, OT B
  lumberg
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004975@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261016T160000Z
+DTEND:20261016T180000Z
+SUMMARY:Schwarzes Gold
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/schwarzes-gold-90
+ 0004975-30601.html
+DESCRIPTION:Mit ihrem neuen Werk in Spielfilm-Überlänge begeben sich di
+ e Spurensucher Kerstin und Torsten Richter auf interessante Exkursionen z
+ um eher wenig bekannten Thema des Braunkohletiefbaus in unserer Region. N
+ ach einer leichten Einführung ins Thema Braunkohle geht es in die Areale
+  alter Bergwerke\, auf die Jagd nach Grenzsteinen der Kohlegruben und es 
+ werden die spektakulärsten Bergschäden aus der Umgebung gezeigt. Bewohn
+ er dieser Gebiete erzählen ihre Erlebnisse. Und um Ihrer Eisenbahn-Affin
+ ität treu zu bleiben\, werden vier Kohlebahntrassen vorgestellt. Einen F
+ ilm dieser Art sieht man nicht alle Tage. \nGezeigt wird er am Freitag\, 
+ den 16. Oktober 2026 um 18 Uhr im Ortsteilzentrum (Feuerwehr) Mehrow\, Kr
+ ummenseer Weg 1.\nDer Eintritt ist frei.
+LOCATION:Freiwillige Feuerwehr Mehrow\, Mehrower Dorfstraße 6\, 16356 Ah
+ rensfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005018@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261018T220000Z
+DTEND:20261022T220000Z
+SUMMARY:Herbstferienprogramm 2026 - Erste Ferienwoche
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/herbstferienprogr
+ amm-2026-erste-ferienwoche-900005018-30601.html
+DESCRIPTION:Gemeinsam entscheiden wir\, worauf wir Lust haben: Kochen\, b
+ acken\, Halloweenbasteleien\, Spiele\, Mario Kart? Kommt vorbei und gesta
+ ltet eure Ferien mit uns.
+LOCATION:Jugendclub Ahrensfelde\, Lindenberger Straße 9\, 16356 Ahrensfe
+ lde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004999@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261019T080000Z
+DTEND:20261019T100000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900004999-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Gemeindesaal Blumberg (ehem. Stufensaal)\, Schloßstraße 7\, 16
+ 356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004829@amtsfeed.de
@@ -1240,6 +1548,21 @@ LOCATION:Ortsteilzentrum Ahrensfelde\, Lindenberger Straße 1b\, 16356 Ah
  rensfelde
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005005@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261021T080000Z
+DTEND:20261021T100000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900005005-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Freiwillige Feuerwehr Mehrow\, Mehrower Dorfstraße 6\, 16356 Ah
+ rensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004830@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20261022T170000Z
@@ -1250,6 +1573,40 @@ LOCATION:16356 Ahrensfelde\, Ortszentrum\, Karl-Marx-Straße 20 E\, OT
   Lindenberg
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005019@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261025T230000Z
+SUMMARY:Herbstferienprogramm 2026 - Schwimmbad Schwapp (ab Klasse 5)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/herbstferienprogr
+ amm-2026-schwimmbad-schwapp-ab-klasse-5--900005019-30601.html
+DESCRIPTION:Wir starten unsere Herbstferien mit einem actionreichen Tag i
+ m SCHWAPP Fürstenwalde. Dort erwarten uns jede Menge Wasser\, Spaß und 
+ spannende Aktivitäten. Gemeinsam können wir schwimmen\, rutschen und ei
+ nen tollen Ferientag genießen.Mehr Infos: https://www.schwapp.de/spassba
+ d-erlebnisbad\nLiebe Kinder und Jugendliche\,\n\nwir treffen uns um 8 Uhr
+  im Jugendclub Ahrensfelde. Gegen 16 Uhr sind wir zurück im Jugendclub.\
+ n\nBitte nehmt folgendes mit:\n-Badesachen/-latschen\n-Handtuch\n-Essen &
+  Trinken\n-Taschengeld\n-falls nicht online bezahlt: Teilnehmerbeitrag\n\
+ nWir freuen uns auf Euch!\n\nEuer Team von der Jugendarbeit Ahrensfelde A
+ ntje\, Lucas\, Celina und Bene
+LOCATION:Schwapp Erlebnisbad\, Große Freizeit 1\, 15517 Fürstenwalde/Sp
+ ree
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004989@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261026T090000Z
+DTEND:20261026T110000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900004989-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Ortsteilzentrum Eiche\, Mehrower Weg\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004831@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20261026T180000Z
@@ -1258,6 +1615,26 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-ortsbeirates-ahrensfelde-900004831-30601.html
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005020@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261026T230000Z
+SUMMARY:Herbstferienprogramm 2026 - FunJump Bernau (ab 4. Klasse)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/herbstferienprogr
+ amm-2026-funjump-bernau-ab-4-klasse--900005020-30601.html
+DESCRIPTION:Am Dienstag geht es hoch hinaus! Im Fun Jump Bernau können w
+ ir uns auf den verschiedenen Trampolinen richtig austoben. Springen\, bal
+ ancieren und kleine Herausforderungen sorgen für jede Menge Bewegung\, S
+ paß und gute Laune.Mehr Infos: https://funjump-bernau.de/\nLiebe Kinder 
+ und Jugendliche\,\n\nwir treffen uns um 9 Uhr im Jugendclub Lindenberg.
+  Gegen 14 Uhr sind wir zurück im Jugendclub.\n\nBitte nehmt folgendes mi
+ t:\n-Sportsachen\n-Essen & Trinken\n-Taschengeld\n-Fun Jump Socken\, wenn
+  vorhanden\n-falls nicht online bezahlt: Teilnehmerbeitrag\n\nWir freuen 
+ uns auf Euch!\n\nEuer Team von der Jugendarbeit Ahrensfelde Antje\, Lucas
+ \, Celina und Bene
+LOCATION:FunJump Sportforum Bernau\, An d. Tränke 30\, 16321 Bernau bei 
+ Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004870@amtsfeed.de
@@ -1281,6 +1658,67 @@ DESCRIPTION:Seniorennachmittag mit individuellem Thema und Kaffee und Kuc
  Büchertausch
 LOCATION:Gemeindesaal Blumberg (ehem. Stufensaal)\, Schloßstraße 7\, 16
  356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005021@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261027T230000Z
+SUMMARY:Herbstferienprogramm 2026 - Spectrum und Technikmuseum (ab 4. Kla
+ sse)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/herbstferienprogr
+ amm-2026-spectrum-und-technikmuseum-ab-4-klasse--900005021-30601.html
+DESCRIPTION:Am Mittwoch wird es spannend und lehrreich. Zuerst besuchen w
+ ir das Spectrum und können dort an vielen Experimentierstationen selbst 
+ ausprobieren\, entdecken und staunen. Anschließend geht es ins Deutsche 
+ Technikmuseum\, wo wir spannende Technik\, historische Fahrzeuge und viel
+ e weitere interessante Ausstellungsstücke entdecken können.Mehr Infos: 
+ https://technikmuseum.berlin/\nLiebe Kinder und Jugendliche\,\n\nwir tref
+ fen uns um 8 Uhr im Jugendclub Ahrensfelde. Gegen 15 Uhr sind wir zurüc
+ k im Jugendclub.\n\nBitte nehmt folgendes mit:\n-Essen & Trinken\n-Tasche
+ ngeld\n\nWir freuen uns auf Euch!\n\nEuer Team von der Jugendarbeit Ahren
+ sfelde Antje\, Lucas\, Celina und Bene
+LOCATION:Technikmuseum Berlin\, Trebbiner Str. 9\, 10963 Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005027@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261029T080000Z
+DTEND:20261029T150000Z
+SUMMARY:Herbstferienprogramm 2026 - Eislaufen im Sportforum (ab Klasse 7)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/herbstferienprogr
+ amm-2026-eislaufen-im-sportforum-ab-klasse-7--900005027-30601.html
+DESCRIPTION:Am Donnerstag erwartet euch ein abwechslungsreicher Ferientag
+ . Wir starten gemeinsam mit einer Runde Eislaufen und drehen Pirouetten a
+ uf dem Eis. Anschließend geht es zurück zum Jugendclub Ahrensfelde\, wo
+  wir gemeinsam leckere Burger selbst zubereiten können.Mehr Infos: Öffe
+ ntliches Eislaufen im Sportforum Berlin (https://www.form-dienstleistunge
+ n.de/oeffentliches-eislaufen.html)\nLiebe Jugendliche\,\n\nwir treffen un
+ s um 9 Uhr im Jugendclub Ahrensfelde. Gegen 14 Uhr sind wir zurück im
+  Jugendclub und machen gemeinsam Selfmade Burger.\n\nBitte nehmt folgende
+ s mit:\n-warme sportliche Kleidung\n-dicke Socken\n-Essen & Trinken\n-Tas
+ chengeld\n-Schlittschuhe\, wenn vorhanden\n-falls nicht online bezahlt: 
+ Teilnehmerbeitrag\n\nWir freuen uns auf Euch!\n\nEuer Team von der Jugend
+ arbeit Ahrensfelde Antje\, Lucas\, Celina und Bene\n\nHinweis: Wer keine 
+ eigenen Schlittschuhe hat\, denkt bitte daran uns mittzuteilen welche Sch
+ littschuhgröße er benötigt. Das Ausleihen der Schlittschuhe kostet 7 
+ €.
+LOCATION:Sportforum Berlin Hohenschönhausen\, Konrad-Wolf-Straße 39\, 1
+ 3055 Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004996@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261102T090000Z
+DTEND:20261102T110000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900004996-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernren Medien\n
+ - wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr bere
+ its erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fa
+ lls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Ortsteilzentrum Ahrensfelde\, Lindenberger Straße 1b\, 16356 Ah
+ rensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004772@amtsfeed.de
@@ -1312,6 +1750,21 @@ LOCATION:Seniorenbegegnungsstätte\, Lindenberger Straße 1b\,\n16356 Ahr
  ensfelde
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005014@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261105T150000Z
+DTEND:20261105T170000Z
+SUMMARY:Social Media Werkstatt (außerhalb der Ferien)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werk
+ statt-ausserhalb-der-ferien--900005014-30601.html
+DESCRIPTION:Gemeinsam lernen wir soziale Medien sicher zu nutzen und erst
+ ellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\n
+ Das Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub E
+ iche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat\, kommt ein
+ fach vorbei.
+LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004773@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20261105T180000Z
@@ -1320,6 +1773,21 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-ausschusses-fuer-finanzen-900004773-30601.html
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004985@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261109T090000Z
+DTEND:20261109T110000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900004985-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Ortsteilzentrum Lindenberg\, Karl-Marx-Straße 20e\, 16356 Ahren
+ sfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004774@amtsfeed.de
@@ -1358,6 +1826,21 @@ LOCATION:16356 Ahrensfelde\, Gemeindezentrum Eiche\, Ahrensfelder Chaus
  see 35\, OT Eiche
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005015@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261112T150000Z
+DTEND:20261112T170000Z
+SUMMARY:Social Media Werkstatt (außerhalb der Ferien)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werk
+ statt-ausserhalb-der-ferien--900005015-30601.html
+DESCRIPTION:Gemeinsam lernen wir soziale Medien sicher zu nutzen und erst
+ ellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\n
+ Das Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub E
+ iche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat\, kommt ein
+ fach vorbei.
+LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004833@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20261112T180000Z
@@ -1368,6 +1851,21 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  0601.html
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005000@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261116T090000Z
+DTEND:20261116T110000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900005000-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Gemeindesaal Blumberg (ehem. Stufensaal)\, Schloßstraße 7\, 16
+ 356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004834@amtsfeed.de
@@ -1393,6 +1891,36 @@ LOCATION:Ortsteilzentrum Ahrensfelde\, Lindenberger Straße 1b\, 16356 Ah
  rensfelde
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005006@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261118T090000Z
+DTEND:20261118T110000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900005006-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Freiwillige Feuerwehr Mehrow\, Mehrower Dorfstraße 6\, 16356 Ah
+ rensfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005016@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261119T150000Z
+DTEND:20261119T170000Z
+SUMMARY:Social Media Werkstatt (außerhalb der Ferien)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werk
+ statt-ausserhalb-der-ferien--900005016-30601.html
+DESCRIPTION:Gemeinsam lernen wir soziale Medien sicher zu nutzen und erst
+ ellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\n
+ Das Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub E
+ iche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat\, kommt ein
+ fach vorbei.
+LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004835@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20261119T170000Z
@@ -1401,6 +1929,20 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-ortsbeirates-blumberg-900004835-30601.html
 LOCATION:16356 Ahrensfelde\, ehem. Stufensaal\, Schloßstraße 7\, OT B
  lumberg
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004990@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261123T090000Z
+DTEND:20261123T110000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900004990-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Ortsteilzentrum Eiche\, Mehrower Weg\, 16356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004836@amtsfeed.de
@@ -1454,23 +1996,48 @@ LOCATION:Ortsteilzentrum Lindenberg\, Karl-Marx-Straße 20e\, 16356 Ahren
  sfelde
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005017@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261126T150000Z
+DTEND:20261126T170000Z
+SUMMARY:Social Media Werkstatt (außerhalb der Ferien)
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werk
+ statt-ausserhalb-der-ferien--900005017-30601.html
+DESCRIPTION:Gemeinsam lernen wir soziale Medien sicher zu nutzen und erst
+ ellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\n
+ Das Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub E
+ iche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat\, kommt ein
+ fach vorbei.
+LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004837@amtsfeed.de
-DTSTAMP:20260526T085739Z
+DTSTAMP:20260911T110619Z
 DTSTART:20261126T180000Z
 SUMMARY:öffentliche Sitzung des Ortsbeirates Lindenberg
 URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ortsbeirates-lindenberg-900004837-30601.html?naviID=0
+ ung-des-ortsbeirates-lindenberg-900004837-30601.html
 LOCATION:16356 Ahrensfelde\, Ortszentrum\, Karl-Marx-Straße 20 E\, OT
   Lindenberg
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005024@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261201T103000Z
+DTEND:20261201T153000Z
+SUMMARY:Ausflug Wintergarten Klassenstufe 2
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/ausflug-wintergar
+ ten-klassenstufe-2-900005024-30601.html
+LOCATION:Friedrichstadtpalast
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004882@amtsfeed.de
-DTSTAMP:20260526T085739Z
+DTSTAMP:20260911T110619Z
 DTSTART:20261201T130000Z
 DTEND:20261201T160000Z
 SUMMARY:Spielenachmittag der Senioren Ahrensfelde
 URL:https://www.ahrensfelde.de/regional/veranstaltungen/spielenachmittag-
- der-senioren-ahrensfelde-900004882-30601.html?naviID=0
+ der-senioren-ahrensfelde-900004882-30601.html
 DESCRIPTION:Spielenachmittag für die Senioren aus dem Ortsteil Ahrensfel
  de.\n\nVeranstaltungsplan der AG Senioren OT Ahrensfelde 2026\n\ngestalte
  t von den Mitarbeitern der AG\, Leitung Angelika Klitzsch\nin der Begegnu
@@ -1484,25 +2051,40 @@ LOCATION:Seniorenbegegnungsstätte\, Lindenberger Straße 1b\,\n16356 Ahr
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004903@amtsfeed.de
-DTSTAMP:20260526T085739Z
+DTSTAMP:20260911T110619Z
 DTSTART:20261202T130000Z
 DTEND:20261202T150000Z
 SUMMARY:Große Senioren Weihnachtsfeier
 URL:https://www.ahrensfelde.de/regional/veranstaltungen/grosse-senioren-w
- eihnachtsfeier-900004903-30601.html?naviID=0
+ eihnachtsfeier-900004903-30601.html
 DESCRIPTION:Weihnachtsfeier für Senioren in Blumberg
 LOCATION:Gemeindesaal Blumberg (ehem. Stufensaal)\, Schloßstraße 7\, 16
  356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004775@amtsfeed.de
-DTSTAMP:20260526T085739Z
+DTSTAMP:20260911T110619Z
 DTSTART:20261203T180000Z
 SUMMARY:öffentliche Sitzung des Ausschusses für Finanzen
 URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-finanzen-900004775-30601.html?naviID=0
+ ung-des-ausschusses-fuer-finanzen-900004775-30601.html
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004986@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261207T090000Z
+DTEND:20261207T110000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900004986-30601.html
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Ortsteilzentrum Lindenberg\, Karl-Marx-Straße 20e\, 16356 Ahren
+ sfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004776@amtsfeed.de
@@ -1539,6 +2121,16 @@ LOCATION:16356 Ahrensfelde\, Gemeindezentrum Eiche\, Ahrensfelder Chaus
  see 35\, OT Eiche
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005023@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261210T110000Z
+DTEND:20261210T160000Z
+SUMMARY:Ausflug Friedrichstadtpalast Klassenstufe 4
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/ausflug-friedrich
+ stadtpalast-klassenstufe-4-900005023-30601.html?naviID=0
+LOCATION:Friedrichstadtpalast Berlin
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004839@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20261210T180000Z
@@ -1549,6 +2141,21 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  0601.html?naviID=0
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005001@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261214T090000Z
+DTEND:20261214T110000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900005001-30601.html?naviID=0
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Gemeindesaal Blumberg (ehem. Stufensaal)\, Schloßstraße 7\, 16
+ 356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004777@amtsfeed.de
@@ -1562,6 +2169,16 @@ LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005025@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261217T140000Z
+DTEND:20261217T170000Z
+SUMMARY:Weihnachtsmarkt Grundschule und Hort Lindenberg
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/weihnachtsmarkt-g
+ rundschule-und-hort-lindenberg-900005025-30601.html?naviID=0
+LOCATION:Grunschule/Hort Lindenberg
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004840@amtsfeed.de
 DTSTAMP:20260526T085739Z
 DTSTART:20261217T170000Z
@@ -1570,6 +2187,20 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-ortsbeirates-blumberg-900004840-30601.html?naviID=0
 LOCATION:16356 Ahrensfelde\, ehem. Stufensaal\, Schloßstraße 7\, OT B
  lumberg
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900004991@amtsfeed.de
+DTSTAMP:20260911T110619Z
+DTSTART:20261221T090000Z
+DTEND:20261221T110000Z
+SUMMARY:"LebensNetz" Hilfe bei digitalen Problemen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-
+ bei-digitalen-problemen-900004991-30601.html?naviID=0
+DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
+  wie Handy\, Tablets\, Computer usw. vertraut machen\,\n- sowie Ihr berei
+ ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
+ ls erforderlich werden auch Hausbesuche durchgeführt
+LOCATION:Ortsteilzentrum Eiche\, Mehrower Weg\, 16356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004841@amtsfeed.de

@@ -875,6 +875,30 @@ URL:https://britz-chorin-oderberg.de/events#event-15105
 LOCATION:16248 Niederfinow – Infozentrum am Hebewerk
 END:VEVENT
 BEGIN:VEVENT
+UID:16193@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260911T170000Z
+SUMMARY:Stille Stunde
+URL:https://britz-chorin-oderberg.de/events#event-16193
+LOCATION:16230 Chorin – Chorin – Amt Chorin 11a\, Kloster Chorin
+END:VEVENT
+BEGIN:VEVENT
+UID:16183@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260911T173000Z
+SUMMARY:Leinwand Oderberg
+URL:https://britz-chorin-oderberg.de/events#event-16183
+LOCATION:16248 Oderberg – Berliner Straße 73 ("Schwarzer Adler")
+END:VEVENT
+BEGIN:VEVENT
+UID:16194@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260912T080000Z
+SUMMARY:2. Bücherfest im Kloster Chorin
+URL:https://britz-chorin-oderberg.de/events#event-16194
+LOCATION:16230 Chorin – Chorin – Amt Chorin 11a\, Kloster Chorin
+END:VEVENT
+BEGIN:VEVENT
 UID:14825@amtsfeed.de
 DTSTAMP:20260526T084943Z
 DTSTART:20260912T220000Z
@@ -891,20 +915,28 @@ URL:https://britz-chorin-oderberg.de/events#event-15490
 LOCATION:16230 Chorin – Neuehütte
 END:VEVENT
 BEGIN:VEVENT
-UID:15028@amtsfeed.de
-DTSTAMP:20260526T084943Z
-DTSTART:20260918T220000Z
-SUMMARY:Brückenfest
-URL:https://britz-chorin-oderberg.de/events#event-15028
-LOCATION:16248 Liepe
+UID:16186@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260913T090000Z
+SUMMARY:Trödelmarkt in Neuehütte
+URL:https://britz-chorin-oderberg.de/events#event-16186
+LOCATION:16230 Chorin – Neuehütte – Spielplatz
 END:VEVENT
 BEGIN:VEVENT
-UID:15101@amtsfeed.de
-DTSTAMP:20260526T084943Z
-DTSTART:20260918T220000Z
-SUMMARY:Erntefest in Lunow
-URL:https://britz-chorin-oderberg.de/events#event-15101
-LOCATION:16248 Lunow-Stolzenhagen – Lunow
+UID:16181@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260913T110000Z
+SUMMARY:Flohmarkt in Brodowin
+URL:https://britz-chorin-oderberg.de/events#event-16181
+LOCATION:16230 Chorin – Brodowin – Dorfanger
+END:VEVENT
+BEGIN:VEVENT
+UID:16195@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260913T140000Z
+SUMMARY:Konzertlesung: „Was wäre unser Leben ohne Musik?“
+URL:https://britz-chorin-oderberg.de/events#event-16195
+LOCATION:16230 Chorin – Chorin – Amt Chorin 11a\, Kloster Chorin
 END:VEVENT
 BEGIN:VEVENT
 UID:15304@amtsfeed.de
@@ -920,6 +952,38 @@ DTSTAMP:20260526T084943Z
 DTSTART:20260918T220000Z
 SUMMARY:Kinderfest und Tanzveranstaltung
 URL:https://britz-chorin-oderberg.de/events#event-15386
+LOCATION:16230 Chorin – Golzow – Sportplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:16170@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260919T080000Z
+SUMMARY:1. Serwester Dorfflohmarkt
+URL:https://britz-chorin-oderberg.de/events#event-16170
+LOCATION:16230 Chorin – Serwest – Serwester Dorfstraße
+END:VEVENT
+BEGIN:VEVENT
+UID:15028@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260919T120000Z
+SUMMARY:2. Lieper Brückenfest
+URL:https://britz-chorin-oderberg.de/events#event-15028
+LOCATION:16248 Liepe – Festplatz Fischerstraße
+END:VEVENT
+BEGIN:VEVENT
+UID:15101@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260919T120000Z
+SUMMARY:Erntefest in Lunow
+URL:https://britz-chorin-oderberg.de/events#event-15101
+LOCATION:16248 Lunow-Stolzenhagen – Lunow – Unter den Akazien
+END:VEVENT
+BEGIN:VEVENT
+UID:16184@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260919T130000Z
+SUMMARY:Kinder-\, Jugend- und Feuerwehrfest in Golzow
+URL:https://britz-chorin-oderberg.de/events#event-16184
 LOCATION:16230 Chorin – Golzow – Sportplatz
 END:VEVENT
 BEGIN:VEVENT
@@ -947,12 +1011,28 @@ URL:https://britz-chorin-oderberg.de/events#event-15050
 LOCATION:16230 Chorin – Senftenhütte – Choriner Ende 5
 END:VEVENT
 BEGIN:VEVENT
+UID:16189@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260926T083000Z
+SUMMARY:Choriner Morgengebet
+URL:https://britz-chorin-oderberg.de/events#event-16189
+LOCATION:16230 Chorin – Chorin – Kloster Chorin\, Amt 11a
+END:VEVENT
+BEGIN:VEVENT
 UID:15387@amtsfeed.de
 DTSTAMP:20260526T084943Z
 DTSTART:20260927T083000Z
 SUMMARY:Gottesdienst zum Erntedankfest in Golzow
 URL:https://britz-chorin-oderberg.de/events#event-15387
 LOCATION:16230 Chorin – Golzow – Kirche
+END:VEVENT
+BEGIN:VEVENT
+UID:16196@amtsfeed.de
+DTSTAMP:20260911T110622Z
+DTSTART:20260929T143000Z
+SUMMARY:Resonanzen in Oderberg
+URL:https://britz-chorin-oderberg.de/events#event-16196
+LOCATION:16248 Oderberg – Fliederweg 1
 END:VEVENT
 BEGIN:VEVENT
 UID:14811@amtsfeed.de
@@ -996,11 +1076,11 @@ LOCATION:16248 Oderberg – St. Nikolaikirche
 END:VEVENT
 BEGIN:VEVENT
 UID:15084@amtsfeed.de
-DTSTAMP:20260526T084943Z
+DTSTAMP:20260911T110622Z
 DTSTART:20261010T170000Z
 SUMMARY:Clara Werden auf der RIESA – Der Name ist Programm
 URL:https://britz-chorin-oderberg.de/events#event-15084
-LOCATION:16248 Oderberg – Museumsschiff „Riesa“\, Bugsalon
+LOCATION:16248 Oderberg – Museumsschiff "Riesa"\, Bugsalon
 END:VEVENT
 BEGIN:VEVENT
 UID:15039@amtsfeed.de
@@ -1028,11 +1108,11 @@ LOCATION:16230 Britz – Eisenwerkstraße 11\, Rathaus
 END:VEVENT
 BEGIN:VEVENT
 UID:15085@amtsfeed.de
-DTSTAMP:20260526T084943Z
+DTSTAMP:20260911T110622Z
 DTSTART:20261024T170000Z
 SUMMARY:Die Schwärzefüße auf der RIESA
 URL:https://britz-chorin-oderberg.de/events#event-15085
-LOCATION:16248 Oderberg – Museumsschiff „Riesa“\, Bugsalon
+LOCATION:16248 Oderberg – Museumsschiff "Riesa"\, Bugsalon
 END:VEVENT
 BEGIN:VEVENT
 UID:15029@amtsfeed.de
@@ -1092,9 +1172,9 @@ LOCATION:16230 Chorin – Senftenhütte – Gemeinderaum\, Ärmel 14
 END:VEVENT
 BEGIN:VEVENT
 UID:15030@amtsfeed.de
-DTSTAMP:20260526T084943Z
+DTSTAMP:20260911T110622Z
 DTSTART:20261127T230000Z
-SUMMARY:Weihnachtsbaumschmücken
+SUMMARY:Schmücken des Weihnachtsbaums
 URL:https://britz-chorin-oderberg.de/events#event-15030
 LOCATION:16248 Liepe
 END:VEVENT

@@ -139,6 +139,22 @@ URL:https://www.stadt-sonnewalde.de/veranstaltungen/2850029/2026/09/12/30
  -jahre-feuerwehrmuseum-finsterwalde.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2937826@amtsfeed.de
+DTSTAMP:20260911T110718Z
+DTSTART:20260912T150000Z
+SUMMARY:Elbe-Elster Schlössernacht
+URL:https://www.stadt-sonnewalde.de/veranstaltungen/2937826/2026/09/12/el
+ be-elster-schlössernacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2934374@amtsfeed.de
+DTSTAMP:20260911T110718Z
+DTSTART:20260916T100000Z
+SUMMARY:1. Seniorentag im Landkreis Elbe-Elster
+URL:https://www.stadt-sonnewalde.de/veranstaltungen/2934374/2026/09/16/1.
+ -seniorentag-im-landkreis-elbe-elster.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2889779@amtsfeed.de
 DTSTAMP:20260508T184436Z
 DTSTART;VALUE=DATE:20260926
@@ -166,6 +182,14 @@ URL:https://www.stadt-sonnewalde.de/veranstaltungen/2843621/2026/10/10/ki
  nder-und-jugendbowlingturnier-2026.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2934516@amtsfeed.de
+DTSTAMP:20260911T110718Z
+DTSTART:20261010T130000Z
+SUMMARY:Kinder- und Jugendbowlingturnier 2026
+URL:https://www.stadt-sonnewalde.de/veranstaltungen/2934516/2026/10/10/ki
+ nder-und-jugendbowlingturnier-2026.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2843629@amtsfeed.de
 DTSTAMP:20260508T184436Z
 DTSTART;VALUE=DATE:20261019
@@ -173,5 +197,13 @@ DTEND;VALUE=DATE:20261020
 SUMMARY:Mädchenaktionstage 2026
 URL:https://www.stadt-sonnewalde.de/veranstaltungen/2843629/2026/10/19/m
  ädchenaktionstage-2026.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2949429@amtsfeed.de
+DTSTAMP:20260911T110718Z
+DTSTART:20270626T123000Z
+SUMMARY:45. Dorffest in Goßmar
+URL:https://www.stadt-sonnewalde.de/veranstaltungen/2949429/2027/06/26/45
+ .-dorffest-in-goßmar.html
 END:VEVENT
 END:VCALENDAR

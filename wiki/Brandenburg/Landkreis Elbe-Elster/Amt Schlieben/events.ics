@@ -258,11 +258,36 @@ SUMMARY:Offener Weinberg
 URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
 END:VEVENT
 BEGIN:VEVENT
+UID:schlieben-event-20260912-tag-des-offenen-werkstoffhofes-in-herzbe@amt
+ sfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Tag des offenen Werkstoffhofes in Herzberg
+URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
+END:VEVENT
+BEGIN:VEVENT
 UID:schlieben-event-20260913-32-m-hlenfest@amtsfeed.de
 DTSTAMP:20260508T185357Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:32. Mühlenfest
+URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
+END:VEVENT
+BEGIN:VEVENT
+UID:schlieben-event-20260916-tag-der-senioren@amtsfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART:20260916T100000Z
+SUMMARY:Tag der Senioren
+URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
+END:VEVENT
+BEGIN:VEVENT
+UID:schlieben-event-20260917-zwei-gener-le-das-treffen-von-marschall-@amt
+ sfeed.de
+DTSTAMP:20260911T110713Z
+DTSTART:20260917T190000Z
+SUMMARY:Zwei Generäle - das Treffen von Marschall Konew und General Brad
+ ley in Lebusa am 05. Mai 1945
 URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
 END:VEVENT
 BEGIN:VEVENT

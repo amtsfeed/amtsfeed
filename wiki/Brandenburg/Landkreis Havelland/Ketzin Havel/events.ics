@@ -1339,6 +1339,16 @@ URL:https://www.ketzin.de/veranstaltungen/2457429/2026/09/15/seniorengymn
  astik-mit-dem-seniorenverein-falkenrehde-e.v.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ketzin-havel-event-2944389-20260916@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Havelländisches Seniorensportfest am 16. September 2026 in Dallg
+ ow-Döberitz
+URL:https://www.ketzin.de/veranstaltungen/2944389/2026/09/16/havelländis
+ ches-seniorensportfest-am-16.-september-2026-in-dallgow-döberitz.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ketzin-havel-event-2658477-20260918@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20260918
@@ -1348,13 +1358,31 @@ URL:https://www.ketzin.de/veranstaltungen/2658477/2026/09/18/jeden-freita
  g-senioren-sportnachmittag.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ketzin-havel-event-2949451-20260919@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Vortrag Rehkitzrettung im HVL
+URL:https://www.ketzin.de/veranstaltungen/2949451/2026/09/19/vortrag-rehk
+ itzrettung-im-hvl.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ketzin-havel-event-2688061-20260920@amtsfeed.de
-DTSTAMP:20260531T141353Z
+DTSTAMP:20260911T110733Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-SUMMARY:Erntefrühstück in Paretz mit Live-Musik
+SUMMARY:Erntefrühstück in Paretz mit Live-Musik Berliner Lieder
 URL:https://www.ketzin.de/veranstaltungen/2688061/2026/09/20/erntefrühst
- ück-in-paretz-mit-live-musik.html
+ ück-in-paretz-mit-live-musik-berliner-lieder.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2949830-20260920@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Königin Luises Herbstfest
+URL:https://www.ketzin.de/veranstaltungen/2949830/2026/09/20/königin-lui
+ ses-herbstfest.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ketzin-havel-event-2842560-20260921@amtsfeed.de
@@ -3556,5 +3584,644 @@ DTEND;VALUE=DATE:20270601
 SUMMARY:Boxtraining für Jung und Alt
 URL:https://www.ketzin.de/veranstaltungen/2842560/2027/05/31/boxtraining-
  für-jung-und-alt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270601@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/06/01/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270601@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/06/01/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2657370-20270601@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Plauderstunde mit dem Seniorenrat
+URL:https://www.ketzin.de/veranstaltungen/2657370/2027/06/01/plauderstund
+ e-mit-dem-seniorenrat.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270601@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/06/01/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270604@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/06/04/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270608@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/06/08/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270608@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/06/08/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270608@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/06/08/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2663053-20270610@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Mühlencaf&eacute\;
+URL:https://www.ketzin.de/veranstaltungen/2663053/2027/06/10/mühlencafé
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270611@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/06/11/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270615@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/06/15/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2534944-20270615@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Sprechstunde mit dem Seniorenrat
+URL:https://www.ketzin.de/veranstaltungen/2534944/2027/06/15/sprechstunde
+ -mit-dem-seniorenrat.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270615@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/06/15/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270615@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/06/15/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270618@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/06/18/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270622@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/06/22/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270622@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/06/22/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270622@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/06/22/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270625@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/06/25/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270629@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/06/29/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270629@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/06/29/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270629@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/06/29/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270702@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/07/02/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270706@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/07/06/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270706@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/07/06/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2657370-20270706@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Plauderstunde mit dem Seniorenrat
+URL:https://www.ketzin.de/veranstaltungen/2657370/2027/07/06/plauderstund
+ e-mit-dem-seniorenrat.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270706@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/07/06/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2663053-20270708@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Mühlencaf&eacute\;
+URL:https://www.ketzin.de/veranstaltungen/2663053/2027/07/08/mühlencafé
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270709@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/07/09/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270713@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/07/13/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270713@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/07/13/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270713@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/07/13/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270716@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/07/16/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270720@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/07/20/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2534944-20270720@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Sprechstunde mit dem Seniorenrat
+URL:https://www.ketzin.de/veranstaltungen/2534944/2027/07/20/sprechstunde
+ -mit-dem-seniorenrat.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270720@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/07/20/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270720@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/07/20/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270723@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/07/23/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270727@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/07/27/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270727@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/07/27/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270727@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/07/27/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270730@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/07/30/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270803@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/08/03/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270803@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/08/03/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2657370-20270803@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Plauderstunde mit dem Seniorenrat
+URL:https://www.ketzin.de/veranstaltungen/2657370/2027/08/03/plauderstund
+ e-mit-dem-seniorenrat.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270803@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/08/03/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270806@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/08/06/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270810@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/08/10/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270810@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/08/10/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270810@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/08/10/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2663053-20270812@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Mühlencaf&eacute\;
+URL:https://www.ketzin.de/veranstaltungen/2663053/2027/08/12/mühlencafé
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270813@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/08/13/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270817@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/08/17/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2534944-20270817@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Sprechstunde mit dem Seniorenrat
+URL:https://www.ketzin.de/veranstaltungen/2534944/2027/08/17/sprechstunde
+ -mit-dem-seniorenrat.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270817@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/08/17/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270817@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/08/17/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270820@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/08/20/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270824@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/08/24/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270824@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/08/24/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270824@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/08/24/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270827@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/08/27/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270831@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/08/31/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270831@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/08/31/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270831@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/08/31/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270903@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/09/03/jeden-freita
+ g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20270907@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/09/07/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20270907@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/09/07/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2657370-20270907@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Plauderstunde mit dem Seniorenrat
+URL:https://www.ketzin.de/veranstaltungen/2657370/2027/09/07/plauderstund
+ e-mit-dem-seniorenrat.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20270907@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/09/07/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2663053-20270909@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Mühlencaf&eacute\;
+URL:https://www.ketzin.de/veranstaltungen/2663053/2027/09/09/mühlencafé
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270910@amtsfeed.de
+DTSTAMP:20260911T110733Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/09/10/jeden-freita
+ g-senioren-sportnachmittag.html
 END:VEVENT
 END:VCALENDAR

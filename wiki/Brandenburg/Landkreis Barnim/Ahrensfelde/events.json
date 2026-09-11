@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:13:03.018Z",
+  "updatedAt": "2026-09-11T11:06:18.006Z",
   "items": [
     {
       "id": "ahrensfelde-event-900004756",
@@ -727,13 +727,58 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900004970",
+      "title": "Tag der offenen Tür der Freiwilligen Feuerwehr Ahrensfelde",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/tag-der-offenen-tuer-der-freiwilligen-feuerwehr-ahrensfelde-900004970-30601.html",
+      "startDate": "2026-09-12T09:00:00Z",
+      "endDate": "2026-09-12T15:00:00Z",
+      "location": "Freiwillige Feuerwehr Ahrensfelde, Dorfstr. 51, 16356 Ahrensfelde",
+      "description": "Wir laden ein! Ein Tag für die ganze Familie, mit Vorführungen der Jugendfeuerwehr, Essen und Trinken, Kinderschminken, Hüpfburg und vielem mehr.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004971",
+      "title": "Klappstuhlkonzert Eiche",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/klappstuhlkonzert-eiche-900004971-30601.html",
+      "startDate": "2026-09-12T14:00:00Z",
+      "endDate": "2026-09-12T21:00:00Z",
+      "location": "Dorfanger Eiche, Eichener Dorfstraße, 16356 Ahrensfelde",
+      "description": "Die Eichener Märchengruppe führt das \"Sommer-Meer-chen\" auf und die Partyband \"PartyholiXxX\" tritt auf.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004974",
+      "title": "Tag des offenen Denkmals",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/tag-des-offenen-denkmals-900004974-30601.html",
+      "startDate": "2026-09-13T07:45:00Z",
+      "endDate": "2026-09-13T16:00:00Z",
+      "location": "Gemeindesaal Blumberg (ehem. Stufensaal), Schloßstraße 7, 16356 Ahrensfelde",
+      "description": "Entdecken Sie den Blumberger Lenné-Park mit all seinen Facetten! Freuen Sie sich auf spannende Führungen, interessante Vorträge, Ausstellungen und ein abwechslungsreiches Familienprogramm. Erfahren Sie mehr über die Geschichte des Gartendenkmals, seine Pflege und die laufende Parksanierung.\n\nGenießen Sie bei Kaffee und Kuchen den offenen Austausch mit der Gemeinde, ehrenamtlichen Parkpflegerinnen und Parkpflegern sowie Landschaftsarchitektinnen. Ob Groß oder Klein für jeden ist etwas dabei– erleben Sie einen informativen und abwechslungsreichen Tag in besonderer Atmosphäre. \n\nDas erwartet Sie: \n\n• 9:45 Uhr: Eröffnung durch den Bürgermeister im Stufensaal\n• 10:00, 14:00 und 16:00 Uhr: Führungen durch den Lenné-Park\n• ab 13:00 Uhr: Familien- und Kinderprogramm\n• ganztägig: Fotoausstellung im Stufensaal\n• Kaffee und Kuchen auf dem Hexenberg\n\nWir freuen uns auf zahlreiche Besucherinnen und Besucher!\n\nVeranstaltungsort:\nLenné-Park Blumberg & Stufensaal\nSchloßstraße 7\n16356 Ahrensfelde OT Blumberg\n\nDer Eintritt ist frei.\n\nIhre Gemeinde Ahrensfelde\nUmweltamt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004983",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004983-30601.html",
+      "startDate": "2026-09-14T08:00:00Z",
+      "endDate": "2026-09-14T10:00:00Z",
+      "location": "Ortsteilzentrum Lindenberg, Karl-Marx-Straße 20e, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004768",
       "title": "öffentliche Sitzung des Ausschusses für Soziales und Kultur",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-soziales-und-kultur-900004768-30601.html",
       "startDate": "2026-09-14T17:00:00Z",
       "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
+      "description": "Zur Tagesordnung",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
-      "updatedAt": "2026-05-26T08:57:39.891Z"
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004890",
@@ -750,10 +795,22 @@
       "id": "ahrensfelde-event-900004822",
       "title": "öffentliche Sitzung des Ortsbeirates Blumberg",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-blumberg-900004822-30601.html",
-      "startDate": "2026-09-17T16:00:00Z",
+      "startDate": "2026-09-16T16:00:00Z",
       "location": "16356 Ahrensfelde, ehem. Stufensaal, Schloßstraße 7, OT Blumberg",
+      "description": "Zur Tagesordnung",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
-      "updatedAt": "2026-05-26T08:57:39.891Z"
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005007",
+      "title": "Social Media Werkstatt (außerhalb der Ferien)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werkstatt-ausserhalb-der-ferien--900005007-30601.html",
+      "startDate": "2026-09-17T14:00:00Z",
+      "endDate": "2026-09-17T16:00:00Z",
+      "location": "Jugendclub Eiche, Ahrensfelder Chaussee 35, 16356 Ahrensfelde",
+      "description": "Gemeinsam lernen wir soziale Medien sicher zu nutzen und erstellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\nDas Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub Eiche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat, kommt einfach vorbei.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004842",
@@ -765,6 +822,17 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900004967",
+      "title": "29. Regionalparklauf",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/29-regionalparklauf-900004967-30601.html",
+      "startDate": "2026-09-19T08:00:00Z",
+      "endDate": "2026-09-19T12:00:00Z",
+      "location": "Lenné-Park, Kirchstraße, 16356 Ahrensfelde",
+      "description": "Am Samstag, den 19. September 2026, lädt der Regionalparkverein zum 29. Regionalparklauf im Blumberger Lenné Park ein. Die Veranstaltung bietet für alle Altersklassen passende Streckenlängen von 1,5 km bis 13,2 km, darunter auch Nordic-Walking-Strecken.\nDer Regionalparklauf findet in Kooperation mit „Ahrensfelde in Bewegung“ und dem Campustag der Docemus Privatschule Blumberg statt. Für das leibliche Wohl der Teilnehmenden ist bestens gesorgt. Nach dem Lauf erhalten alle Teilnehmer traditionell einen „Appel und 'n Ei“ als kleine Aufmerksamkeit.\nDie besten Läuferinnen und Läufer werden mit Pokalen, Medaillen und Urkunden geehrt. Zudem werden auch Gäste aus der polnischen Partnergemeinde Kolberg erwartet, die zur internationalen Atmosphäre der Veranstaltung beitragen.\nWir freuen uns auf zahlreiche Teilnehmer und einen sportlichen Tag in der schönen Barnimer Feldmark!",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004823",
       "title": "öffentliche Sitzung der Gemeindevertretung Ahrensfelde",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-der-gemeindevertretung-ahrensfelde-900004823-30601.html",
@@ -774,6 +842,28 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005004",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900005004-30601.html",
+      "startDate": "2026-09-23T08:00:00Z",
+      "endDate": "2026-09-23T10:00:00Z",
+      "location": "Freiwillige Feuerwehr Mehrow, Mehrower Dorfstraße 6, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005008",
+      "title": "Social Media Werkstatt (außerhalb der Ferien)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werkstatt-ausserhalb-der-ferien--900005008-30601.html",
+      "startDate": "2026-09-24T14:00:00Z",
+      "endDate": "2026-09-24T16:00:00Z",
+      "location": "Jugendclub Eiche, Ahrensfelder Chaussee 35, 16356 Ahrensfelde",
+      "description": "Gemeinsam lernen wir soziale Medien sicher zu nutzen und erstellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\nDas Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub Eiche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat, kommt einfach vorbei.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004824",
       "title": "öffentliche Sitzung des Ortsbeirates Lindenberg",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-lindenberg-900004824-30601.html",
@@ -781,6 +871,17 @@
       "location": "16356 Ahrensfelde, Ortszentrum, Karl-Marx-Straße 20 E, OT Lindenberg",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004988",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004988-30601.html",
+      "startDate": "2026-09-28T08:00:00Z",
+      "endDate": "2026-09-28T10:00:00Z",
+      "location": "Ortsteilzentrum Eiche, Mehrower Weg, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004825",
@@ -803,6 +904,28 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005026",
+      "title": "Sozialraumrunde Ahrensfelde - Bilder, die bleiben! Der verantwortungsvolle Umgang beim Fotografieren von Kindern und Jugendlichen in Vereinen, Feuerwehr & Co.",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/sozialraumrunde-ahrensfelde-bilder-die-bleiben-der-verantwortungsvolle-umgang-beim-fotografieren-von-kindern-und-jugendlichen-in-vereinen-feuerwehr-co--900005026-30601.html",
+      "startDate": "2026-09-29T16:00:00Z",
+      "endDate": "2026-09-29T18:00:00Z",
+      "location": "Seniorenbegegnungsstätte, Lindenberger Straße 1b, 16356 Ahrensfelde",
+      "description": "In vielen pädagogischen Kontexten werden regelmäßig Fotos und Filme von Kindern und Jugendlichen gemacht – sei es für die Erinnerung an schöne Veranstaltungen, für Projektberichte oder zur Veröffentlichung.\nDoch wann ist es überhaupt gerechtfertigt, Bilder zu machen? Wer trifft die Entscheidung und wie gehen wir danach mit den Aufnahmen um?\nIn dieser Sozialraumrunde möchten wir gemeinsam mit Ihnen über den bewussten Umgang mit Bildern im Alltag von Vereinen, Feuerwehren & Co. sprechen. Wir gehen den Fragen nach, wann Fotos erstellt werden und warum das in bestimmten Kontexten sinnvoll ist. Dabei beleuchten wir ethische Fragestellungen, wie den Schutz der Privatsphäre und die Rechte der Kinder und Jugendlichen, und überlegen, wie wir sie altersgerecht in den Prozess einbinden können.\nDurch konkrete Fallbeispiele und einen interaktiven Austausch wollen wir die Vielfalt der Perspektiven sichtbar machen und einen Leitfaden für den verantwortungsvollen Umgang mit Fotos entwickeln.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005009",
+      "title": "Social Media Werkstatt (außerhalb der Ferien)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werkstatt-ausserhalb-der-ferien--900005009-30601.html",
+      "startDate": "2026-10-01T14:00:00Z",
+      "endDate": "2026-10-01T16:00:00Z",
+      "location": "Jugendclub Eiche, Ahrensfelder Chaussee 35, 16356 Ahrensfelde",
+      "description": "Gemeinsam lernen wir soziale Medien sicher zu nutzen und erstellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\nDas Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub Eiche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat, kommt einfach vorbei.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004769",
       "title": "öffentliche Sitzung des Ausschusses für Finanzen",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-finanzen-900004769-30601.html",
@@ -810,6 +933,17 @@
       "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004995",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004995-30601.html",
+      "startDate": "2026-10-05T08:00:00Z",
+      "endDate": "2026-10-05T10:00:00Z",
+      "location": "Ortsteilzentrum Ahrensfelde, Lindenberger Straße 1b, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernren Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004770",
@@ -832,6 +966,17 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005010",
+      "title": "Social Media Werkstatt (außerhalb der Ferien)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werkstatt-ausserhalb-der-ferien--900005010-30601.html",
+      "startDate": "2026-10-08T14:00:00Z",
+      "endDate": "2026-10-08T16:00:00Z",
+      "location": "Jugendclub Eiche, Ahrensfelder Chaussee 35, 16356 Ahrensfelde",
+      "description": "Gemeinsam lernen wir soziale Medien sicher zu nutzen und erstellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\nDas Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub Eiche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat, kommt einfach vorbei.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004826",
       "title": "öffentliche Sitzung des Ausschusses für Wirtschaft, Bauwesen, Umwelt und Natur",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-wirtschaft-bauwesen-umwelt-und-natur-900004826-30601.html",
@@ -839,6 +984,17 @@
       "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004984",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004984-30601.html",
+      "startDate": "2026-10-12T08:00:00Z",
+      "endDate": "2026-10-12T10:00:00Z",
+      "location": "Ortsteilzentrum Lindenberg, Karl-Marx-Straße 20e, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004771",
@@ -870,6 +1026,17 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005011",
+      "title": "Social Media Werkstatt (außerhalb der Ferien)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werkstatt-ausserhalb-der-ferien--900005011-30601.html",
+      "startDate": "2026-10-15T14:00:00Z",
+      "endDate": "2026-10-15T16:00:00Z",
+      "location": "Jugendclub Eiche, Ahrensfelder Chaussee 35, 16356 Ahrensfelde",
+      "description": "Gemeinsam lernen wir soziale Medien sicher zu nutzen und erstellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\nDas Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub Eiche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat, kommt einfach vorbei.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004828",
       "title": "öffentliche Sitzung des Ortsbeirates Blumberg",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-blumberg-900004828-30601.html",
@@ -877,6 +1044,39 @@
       "location": "16356 Ahrensfelde, ehem. Stufensaal, Schloßstraße 7, OT Blumberg",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004975",
+      "title": "Schwarzes Gold",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/schwarzes-gold-900004975-30601.html",
+      "startDate": "2026-10-16T16:00:00Z",
+      "endDate": "2026-10-16T18:00:00Z",
+      "location": "Freiwillige Feuerwehr Mehrow, Mehrower Dorfstraße 6, 16356 Ahrensfelde",
+      "description": "Mit ihrem neuen Werk in Spielfilm-Überlänge begeben sich die Spurensucher Kerstin und Torsten Richter auf interessante Exkursionen zum eher wenig bekannten Thema des Braunkohletiefbaus in unserer Region. Nach einer leichten Einführung ins Thema Braunkohle geht es in die Areale alter Bergwerke, auf die Jagd nach Grenzsteinen der Kohlegruben und es werden die spektakulärsten Bergschäden aus der Umgebung gezeigt. Bewohner dieser Gebiete erzählen ihre Erlebnisse. Und um Ihrer Eisenbahn-Affinität treu zu bleiben, werden vier Kohlebahntrassen vorgestellt. Einen Film dieser Art sieht man nicht alle Tage. \nGezeigt wird er am Freitag, den 16. Oktober 2026 um 18 Uhr im Ortsteilzentrum (Feuerwehr) Mehrow, Krummenseer Weg 1.\nDer Eintritt ist frei.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005018",
+      "title": "Herbstferienprogramm 2026 - Erste Ferienwoche",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/herbstferienprogramm-2026-erste-ferienwoche-900005018-30601.html",
+      "startDate": "2026-10-18T22:00:00Z",
+      "endDate": "2026-10-22T22:00:00Z",
+      "location": "Jugendclub Ahrensfelde, Lindenberger Straße 9, 16356 Ahrensfelde",
+      "description": "Gemeinsam entscheiden wir, worauf wir Lust haben: Kochen, backen, Halloweenbasteleien, Spiele, Mario Kart? Kommt vorbei und gestaltet eure Ferien mit uns.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004999",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004999-30601.html",
+      "startDate": "2026-10-19T08:00:00Z",
+      "endDate": "2026-10-19T10:00:00Z",
+      "location": "Gemeindesaal Blumberg (ehem. Stufensaal), Schloßstraße 7, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004829",
@@ -899,6 +1099,17 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005005",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900005005-30601.html",
+      "startDate": "2026-10-21T08:00:00Z",
+      "endDate": "2026-10-21T10:00:00Z",
+      "location": "Freiwillige Feuerwehr Mehrow, Mehrower Dorfstraße 6, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004830",
       "title": "öffentliche Sitzung des Ortsbeirates Lindenberg",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-lindenberg-900004830-30601.html",
@@ -906,6 +1117,27 @@
       "location": "16356 Ahrensfelde, Ortszentrum, Karl-Marx-Straße 20 E, OT Lindenberg",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005019",
+      "title": "Herbstferienprogramm 2026 - Schwimmbad Schwapp (ab Klasse 5)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/herbstferienprogramm-2026-schwimmbad-schwapp-ab-klasse-5--900005019-30601.html",
+      "startDate": "2026-10-25T23:00:00Z",
+      "location": "Schwapp Erlebnisbad, Große Freizeit 1, 15517 Fürstenwalde/Spree",
+      "description": "Wir starten unsere Herbstferien mit einem actionreichen Tag im SCHWAPP Fürstenwalde. Dort erwarten uns jede Menge Wasser, Spaß und spannende Aktivitäten. Gemeinsam können wir schwimmen, rutschen und einen tollen Ferientag genießen.Mehr Infos: https://www.schwapp.de/spassbad-erlebnisbad\nLiebe Kinder und Jugendliche,\n\nwir treffen uns um 8 Uhr im Jugendclub Ahrensfelde. Gegen 16 Uhr sind wir zurück im Jugendclub.\n\nBitte nehmt folgendes mit:\n-Badesachen/-latschen\n-Handtuch\n-Essen & Trinken\n-Taschengeld\n-falls nicht online bezahlt: Teilnehmerbeitrag\n\nWir freuen uns auf Euch!\n\nEuer Team von der Jugendarbeit Ahrensfelde Antje, Lucas, Celina und Bene",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004989",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004989-30601.html",
+      "startDate": "2026-10-26T09:00:00Z",
+      "endDate": "2026-10-26T11:00:00Z",
+      "location": "Ortsteilzentrum Eiche, Mehrower Weg, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004831",
@@ -917,6 +1149,16 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005020",
+      "title": "Herbstferienprogramm 2026 - FunJump Bernau (ab 4. Klasse)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/herbstferienprogramm-2026-funjump-bernau-ab-4-klasse--900005020-30601.html",
+      "startDate": "2026-10-26T23:00:00Z",
+      "location": "FunJump Sportforum Bernau, An d. Tränke 30, 16321 Bernau bei Berlin",
+      "description": "Am Dienstag geht es hoch hinaus! Im Fun Jump Bernau können wir uns auf den verschiedenen Trampolinen richtig austoben. Springen, balancieren und kleine Herausforderungen sorgen für jede Menge Bewegung, Spaß und gute Laune.Mehr Infos: https://funjump-bernau.de/\nLiebe Kinder und Jugendliche,\n\nwir treffen uns um 9 Uhr im Jugendclub Lindenberg. Gegen 14 Uhr sind wir zurück im Jugendclub.\n\nBitte nehmt folgendes mit:\n-Sportsachen\n-Essen & Trinken\n-Taschengeld\n-Fun Jump Socken, wenn vorhanden\n-falls nicht online bezahlt: Teilnehmerbeitrag\n\nWir freuen uns auf Euch!\n\nEuer Team von der Jugendarbeit Ahrensfelde Antje, Lucas, Celina und Bene",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004870",
       "title": "Seniorentreff für alle Ortsteile - Herbst",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/seniorentreff-fuer-alle-ortsteile-herbst-900004870-30601.html",
@@ -926,6 +1168,38 @@
       "description": "Seniorennachmittag mit individuellem Thema und Kaffee und Kuchen.\n\nEinmal im Monat besteht die Möglichkeit für die Senioren aller Ortsteile bei Kaffee, Kuchen oder Schnittchen zu plaudern, Erfahrungen auszutauschen, Anregungen für die Seniorenarbeit zu geben oder einfach nur zuzuhören.\n\n\nWeitere Termine:\n\nOrt\t Datum\t Thema\t\nOTZ-Ahrensfelde\t 27.01.2026\t Jahresauftakt\t\nOTZ-Lindenberg\t 24.02.2026\t PvO-Patientenverfügung\t\nOTZ-Eiche\t 31.03.2026\t Bingo\t\nStufensaal Blumberg\t 28.04.2026\t Frühling\t\nOTZ-Ahrensfelde\t 26.05.2026\t Erste Hilfe\t\nBackofen Mehrow\t 30.06.2026\t Brot + Kuchen backen\t\nOTZ-Eiche\t 28.07.2026\t Bingo\t\n \t Sommerpause\t  \t\nOTZ-Ahrensfelde\t 29.09.2026\t Kleine Pilzkunde\t\nStufensaal Blumberg\t 27.10.2026\t Herbst\t\nOTZ-Lindenberg\t 24.11.2026\t Advent + Büchertausch",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005021",
+      "title": "Herbstferienprogramm 2026 - Spectrum und Technikmuseum (ab 4. Klasse)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/herbstferienprogramm-2026-spectrum-und-technikmuseum-ab-4-klasse--900005021-30601.html",
+      "startDate": "2026-10-27T23:00:00Z",
+      "location": "Technikmuseum Berlin, Trebbiner Str. 9, 10963 Berlin",
+      "description": "Am Mittwoch wird es spannend und lehrreich. Zuerst besuchen wir das Spectrum und können dort an vielen Experimentierstationen selbst ausprobieren, entdecken und staunen. Anschließend geht es ins Deutsche Technikmuseum, wo wir spannende Technik, historische Fahrzeuge und viele weitere interessante Ausstellungsstücke entdecken können.Mehr Infos: https://technikmuseum.berlin/\nLiebe Kinder und Jugendliche,\n\nwir treffen uns um 8 Uhr im Jugendclub Ahrensfelde. Gegen 15 Uhr sind wir zurück im Jugendclub.\n\nBitte nehmt folgendes mit:\n-Essen & Trinken\n-Taschengeld\n\nWir freuen uns auf Euch!\n\nEuer Team von der Jugendarbeit Ahrensfelde Antje, Lucas, Celina und Bene",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005027",
+      "title": "Herbstferienprogramm 2026 - Eislaufen im Sportforum (ab Klasse 7)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/herbstferienprogramm-2026-eislaufen-im-sportforum-ab-klasse-7--900005027-30601.html",
+      "startDate": "2026-10-29T08:00:00Z",
+      "endDate": "2026-10-29T15:00:00Z",
+      "location": "Sportforum Berlin Hohenschönhausen, Konrad-Wolf-Straße 39, 13055 Berlin",
+      "description": "Am Donnerstag erwartet euch ein abwechslungsreicher Ferientag. Wir starten gemeinsam mit einer Runde Eislaufen und drehen Pirouetten auf dem Eis. Anschließend geht es zurück zum Jugendclub Ahrensfelde, wo wir gemeinsam leckere Burger selbst zubereiten können.Mehr Infos: Öffentliches Eislaufen im Sportforum Berlin (https://www.form-dienstleistungen.de/oeffentliches-eislaufen.html)\nLiebe Jugendliche,\n\nwir treffen uns um 9 Uhr im Jugendclub Ahrensfelde. Gegen 14 Uhr sind wir zurück im Jugendclub und machen gemeinsam Selfmade Burger.\n\nBitte nehmt folgendes mit:\n-warme sportliche Kleidung\n-dicke Socken\n-Essen & Trinken\n-Taschengeld\n-Schlittschuhe, wenn vorhanden\n-falls nicht online bezahlt: Teilnehmerbeitrag\n\nWir freuen uns auf Euch!\n\nEuer Team von der Jugendarbeit Ahrensfelde Antje, Lucas, Celina und Bene\n\nHinweis: Wer keine eigenen Schlittschuhe hat, denkt bitte daran uns mittzuteilen welche Schlittschuhgröße er benötigt. Das Ausleihen der Schlittschuhe kostet 7 €.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004996",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004996-30601.html",
+      "startDate": "2026-11-02T09:00:00Z",
+      "endDate": "2026-11-02T11:00:00Z",
+      "location": "Ortsteilzentrum Ahrensfelde, Lindenberger Straße 1b, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernren Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004772",
@@ -948,6 +1222,17 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005014",
+      "title": "Social Media Werkstatt (außerhalb der Ferien)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werkstatt-ausserhalb-der-ferien--900005014-30601.html",
+      "startDate": "2026-11-05T15:00:00Z",
+      "endDate": "2026-11-05T17:00:00Z",
+      "location": "Jugendclub Eiche, Ahrensfelder Chaussee 35, 16356 Ahrensfelde",
+      "description": "Gemeinsam lernen wir soziale Medien sicher zu nutzen und erstellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\nDas Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub Eiche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat, kommt einfach vorbei.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004773",
       "title": "öffentliche Sitzung des Ausschusses für Finanzen",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-finanzen-900004773-30601.html",
@@ -955,6 +1240,17 @@
       "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004985",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004985-30601.html",
+      "startDate": "2026-11-09T09:00:00Z",
+      "endDate": "2026-11-09T11:00:00Z",
+      "location": "Ortsteilzentrum Lindenberg, Karl-Marx-Straße 20e, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004774",
@@ -986,6 +1282,17 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005015",
+      "title": "Social Media Werkstatt (außerhalb der Ferien)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werkstatt-ausserhalb-der-ferien--900005015-30601.html",
+      "startDate": "2026-11-12T15:00:00Z",
+      "endDate": "2026-11-12T17:00:00Z",
+      "location": "Jugendclub Eiche, Ahrensfelder Chaussee 35, 16356 Ahrensfelde",
+      "description": "Gemeinsam lernen wir soziale Medien sicher zu nutzen und erstellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\nDas Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub Eiche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat, kommt einfach vorbei.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004833",
       "title": "öffentliche Sitzung des Ausschusses für Wirtschaft, Bauwesen, Umwelt und Natur",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-wirtschaft-bauwesen-umwelt-und-natur-900004833-30601.html",
@@ -993,6 +1300,17 @@
       "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005000",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900005000-30601.html",
+      "startDate": "2026-11-16T09:00:00Z",
+      "endDate": "2026-11-16T11:00:00Z",
+      "location": "Gemeindesaal Blumberg (ehem. Stufensaal), Schloßstraße 7, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004834",
@@ -1015,6 +1333,28 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005006",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900005006-30601.html",
+      "startDate": "2026-11-18T09:00:00Z",
+      "endDate": "2026-11-18T11:00:00Z",
+      "location": "Freiwillige Feuerwehr Mehrow, Mehrower Dorfstraße 6, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005016",
+      "title": "Social Media Werkstatt (außerhalb der Ferien)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werkstatt-ausserhalb-der-ferien--900005016-30601.html",
+      "startDate": "2026-11-19T15:00:00Z",
+      "endDate": "2026-11-19T17:00:00Z",
+      "location": "Jugendclub Eiche, Ahrensfelder Chaussee 35, 16356 Ahrensfelde",
+      "description": "Gemeinsam lernen wir soziale Medien sicher zu nutzen und erstellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\nDas Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub Eiche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat, kommt einfach vorbei.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004835",
       "title": "öffentliche Sitzung des Ortsbeirates Blumberg",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-blumberg-900004835-30601.html",
@@ -1022,6 +1362,17 @@
       "location": "16356 Ahrensfelde, ehem. Stufensaal, Schloßstraße 7, OT Blumberg",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004990",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004990-30601.html",
+      "startDate": "2026-11-23T09:00:00Z",
+      "endDate": "2026-11-23T11:00:00Z",
+      "location": "Ortsteilzentrum Eiche, Mehrower Weg, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004836",
@@ -1055,44 +1406,76 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005017",
+      "title": "Social Media Werkstatt (außerhalb der Ferien)",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/social-media-werkstatt-ausserhalb-der-ferien--900005017-30601.html",
+      "startDate": "2026-11-26T15:00:00Z",
+      "endDate": "2026-11-26T17:00:00Z",
+      "location": "Jugendclub Eiche, Ahrensfelder Chaussee 35, 16356 Ahrensfelde",
+      "description": "Gemeinsam lernen wir soziale Medien sicher zu nutzen und erstellen eigene Kurzvideos.\nAlle Fragen hierzu beantwortet Euch Celina.\n\nDas Projekt findet im Rahmen der offenen Treffpunktarbeit im Jugendclub Eiche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat, kommt einfach vorbei.",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004837",
       "title": "öffentliche Sitzung des Ortsbeirates Lindenberg",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-lindenberg-900004837-30601.html?naviID=0",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-lindenberg-900004837-30601.html",
       "startDate": "2026-11-26T18:00:00Z",
       "location": "16356 Ahrensfelde, Ortszentrum, Karl-Marx-Straße 20 E, OT Lindenberg",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
-      "updatedAt": "2026-05-26T08:57:39.891Z"
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005024",
+      "title": "Ausflug Wintergarten Klassenstufe 2",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/ausflug-wintergarten-klassenstufe-2-900005024-30601.html",
+      "startDate": "2026-12-01T10:30:00Z",
+      "endDate": "2026-12-01T15:30:00Z",
+      "location": "Friedrichstadtpalast",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004882",
       "title": "Spielenachmittag der Senioren Ahrensfelde",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/spielenachmittag-der-senioren-ahrensfelde-900004882-30601.html?naviID=0",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/spielenachmittag-der-senioren-ahrensfelde-900004882-30601.html",
       "startDate": "2026-12-01T13:00:00Z",
       "endDate": "2026-12-01T16:00:00Z",
       "location": "Seniorenbegegnungsstätte, Lindenberger Straße 1b,\n16356 Ahrensfelde",
       "description": "Spielenachmittag für die Senioren aus dem Ortsteil Ahrensfelde.\n\nVeranstaltungsplan der AG Senioren OT Ahrensfelde 2026\n\ngestaltet von den Mitarbeitern der AG, Leitung Angelika Klitzsch\nin der Begegnungsstätte des Gemeindezentrums Ahrensfelde\nfür unsere Senioren vom Ortsteil Ahrensfelde.\n\n\nWeitere Termine:\n\n06. Jan. 2026\n03. Feb. 2026\n03. März 2026\n07. Apr. 2026\n05. Mai 2026\n02. Juni 2026\n07. Juli 2026\nSommerpause\n01. Sep. 2026\n06. Okt. 2026\n03. Nov. 2026\n01. Dez. 2026",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
-      "updatedAt": "2026-05-26T08:57:39.891Z"
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004903",
       "title": "Große Senioren Weihnachtsfeier",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/grosse-senioren-weihnachtsfeier-900004903-30601.html?naviID=0",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/grosse-senioren-weihnachtsfeier-900004903-30601.html",
       "startDate": "2026-12-02T13:00:00Z",
       "endDate": "2026-12-02T15:00:00Z",
       "location": "Gemeindesaal Blumberg (ehem. Stufensaal), Schloßstraße 7, 16356 Ahrensfelde",
       "description": "Weihnachtsfeier für Senioren in Blumberg",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
-      "updatedAt": "2026-05-26T08:57:39.891Z"
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004775",
       "title": "öffentliche Sitzung des Ausschusses für Finanzen",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-finanzen-900004775-30601.html?naviID=0",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-finanzen-900004775-30601.html",
       "startDate": "2026-12-03T18:00:00Z",
       "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
-      "updatedAt": "2026-05-26T08:57:39.891Z"
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004986",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004986-30601.html",
+      "startDate": "2026-12-07T09:00:00Z",
+      "endDate": "2026-12-07T11:00:00Z",
+      "location": "Ortsteilzentrum Lindenberg, Karl-Marx-Straße 20e, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004776",
@@ -1124,6 +1507,16 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005023",
+      "title": "Ausflug Friedrichstadtpalast Klassenstufe 4",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/ausflug-friedrichstadtpalast-klassenstufe-4-900005023-30601.html?naviID=0",
+      "startDate": "2026-12-10T11:00:00Z",
+      "endDate": "2026-12-10T16:00:00Z",
+      "location": "Friedrichstadtpalast Berlin",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004839",
       "title": "öffentliche Sitzung des Ausschusses für Wirtschaft, Bauwesen, Umwelt und Natur",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-wirtschaft-bauwesen-umwelt-und-natur-900004839-30601.html?naviID=0",
@@ -1131,6 +1524,17 @@
       "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005001",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900005001-30601.html?naviID=0",
+      "startDate": "2026-12-14T09:00:00Z",
+      "endDate": "2026-12-14T11:00:00Z",
+      "location": "Gemeindesaal Blumberg (ehem. Stufensaal), Schloßstraße 7, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004777",
@@ -1142,6 +1546,16 @@
       "updatedAt": "2026-05-26T08:57:39.891Z"
     },
     {
+      "id": "ahrensfelde-event-900005025",
+      "title": "Weihnachtsmarkt Grundschule und Hort Lindenberg",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/weihnachtsmarkt-grundschule-und-hort-lindenberg-900005025-30601.html?naviID=0",
+      "startDate": "2026-12-17T14:00:00Z",
+      "endDate": "2026-12-17T17:00:00Z",
+      "location": "Grunschule/Hort Lindenberg",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
+    },
+    {
       "id": "ahrensfelde-event-900004840",
       "title": "öffentliche Sitzung des Ortsbeirates Blumberg",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-blumberg-900004840-30601.html?naviID=0",
@@ -1149,6 +1563,17 @@
       "location": "16356 Ahrensfelde, ehem. Stufensaal, Schloßstraße 7, OT Blumberg",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900004991",
+      "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004991-30601.html?naviID=0",
+      "startDate": "2026-12-21T09:00:00Z",
+      "endDate": "2026-12-21T11:00:00Z",
+      "location": "Ortsteilzentrum Eiche, Mehrower Weg, 16356 Ahrensfelde",
+      "description": "Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n- wie Handy, Tablets, Computer usw. vertraut machen,\n- sowie Ihr bereits erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- falls erforderlich werden auch Hausbesuche durchgeführt",
+      "fetchedAt": "2026-09-11T09:52:59.062Z",
+      "updatedAt": "2026-09-11T11:06:19.914Z"
     },
     {
       "id": "ahrensfelde-event-900004841",

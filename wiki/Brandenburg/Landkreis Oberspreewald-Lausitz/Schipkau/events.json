@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T18:42:03.387Z",
+  "updatedAt": "2026-09-11T11:12:36.634Z",
   "items": [
     {
       "id": "schipkau-event-2905379",
@@ -326,6 +326,35 @@
       "updatedAt": "2026-05-31T18:42:03.378Z"
     },
     {
+      "id": "schipkau-event-2959374",
+      "title": "Steel-Dart-Turnier",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2959374/2026/09/26/steel-dart-turnier.html",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "location": "Gasthof Meuro",
+      "description": "Die Stierdarter Niederlausitz und der Gasthof Meuro laden Euch zum ersten Steel-Dart-Turnier in ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2963127",
+      "title": "Mozart in der Ev. Kirche Klettwitz",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2963127/2026/09/27/mozart-in-der-ev.-kirche-klettwitz.html",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "location": "Kirche Klettwitz",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2960262",
+      "title": "Schnupper-Reitcamp",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2960262/2026/10/02/schnupper-reitcamp.html",
+      "startDate": "2026-10-02T00:00:00.000Z",
+      "location": "Villa Birkenhain",
+      "description": "An alle kleiner & größeren Pferdefreunde! Dieses Jahr veranstalten wir zum ersten Mal ein ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
       "id": "schipkau-event-2899714",
       "title": "Grip - Das Motorevent 2026",
       "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2899714/2026/10/04/grip-das-motorevent-2026.html",
@@ -336,14 +365,73 @@
       "updatedAt": "2026-05-31T18:42:03.378Z"
     },
     {
+      "id": "schipkau-event-2948029",
+      "title": "Wasser- und Bodenanalysen",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2948029/2026/10/06/wasser-und-bodenanalysen.html",
+      "startDate": "2026-10-06T00:00:00.000Z",
+      "location": "Kulturhaus Klettwitz",
+      "description": "Am Dienstag, den 06. Oktober 2026 bietet die AfU e.V. die Möglichkeit in der Zeit von ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2944736",
+      "title": "Auf Eispisten in die Sibirsche Arktis - ZIMNIK",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2944736/2026/10/09/auf-eispisten-in-die-sibirsche-arktis-zimnik.html",
+      "startDate": "2026-10-09T00:00:00.000Z",
+      "location": "Bürgerzentrum Schipkau",
+      "description": "Er ist wieder bei uns zu Gast! Der Abenteurer und Weltenradler Richard Löwenherz nimmt uns mit ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2922180",
+      "title": "Erntedankfest",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2922180/2026/10/10/erntedankfest.html",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "location": "Klettwitz",
+      "description": "Kinder- und Familienfest mit vielen Vereinen",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2951677",
+      "title": "PRÄVENTIONSTAG FÜR SENIOREN - Fahrsicherheitstraining",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2951677/2026/10/17/präventionstag-für-senioren-fahrsicherheitstraining.html",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "location": "DEKRA Lausitzring",
+      "description": "Die Mobilität und die sichere Teilnahme älterer Verkehrsteilnehmerinnen und Verkehrsteilnehmer ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
       "id": "schipkau-event-2853313",
       "title": "Herbstcamp",
-      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2853313/2026/10/18/herbstcamp.html",
-      "startDate": "2026-10-18T00:00:00.000Z",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2853313/2026/10/23/herbstcamp.html",
+      "startDate": "2026-10-23T00:00:00.000Z",
       "location": "Gemeinde Schipkau",
       "description": "Actionreiche Herbsttage mit Wald-, Survival- und Kletteraktionen. Für alle von 7-15 Jahren, ...",
       "fetchedAt": "2026-05-31T17:27:31.245Z",
-      "updatedAt": "2026-05-31T18:42:03.378Z"
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2952515",
+      "title": "11. Klöppel- und Kreativausstellung \"Blütenzauber\"",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2952515/2026/10/24/11.-klöppel-und-kreativausstellung-blütenzauber.html",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "location": "Kulturhaus Klettwitz",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2959375",
+      "title": "Traditionelles Schlachtefest",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2959375/2026/10/24/traditionelles-schlachtefest.html",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "location": "Gasthof Meuro",
+      "description": "Am 24. Oktober findet wieder das traditionelle Schlachtefest im Gasthof Meuro – mit ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
     },
     {
       "id": "schipkau-event-2853253",
@@ -365,6 +453,25 @@
       "updatedAt": "2026-05-31T18:42:03.378Z"
     },
     {
+      "id": "schipkau-event-2959376",
+      "title": "Traditionelles Gänsebratenessen (Kirmes)",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2959376/2026/11/15/traditionelles-gänsebratenessen-kirmes.html",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "location": "Gasthof Meuro",
+      "description": "Am 15. November findet wieder das traditionelle Gänsebratenessen (Kirmes) statt.",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2915897",
+      "title": "Lichterfest",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2915897/2026/11/27/lichterfest.html",
+      "startDate": "2026-11-27T00:00:00.000Z",
+      "location": "Seniorenclub Schipkau",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
       "id": "schipkau-event-2853089",
       "title": "Weihnachtsmarkt",
       "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2853089/2026/11/28/weihnachtsmarkt.html",
@@ -373,6 +480,16 @@
       "description": "Stöbern, Leckereien genießen und gemütlich beisammen sein.",
       "fetchedAt": "2026-05-31T17:27:31.245Z",
       "updatedAt": "2026-05-31T18:42:03.378Z"
+    },
+    {
+      "id": "schipkau-event-2962999",
+      "title": "Winterzauber in der Wohnresidenz",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2962999/2026/11/28/winterzauber-in-der-wohnresidenz.html",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "location": "Wohnresidenz Schipkau",
+      "description": "Lassen Sie sich verzaubern vom weihnachtlichen Ambiente auf der Anlage der Wohnresidenz. Für das ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
     },
     {
       "id": "schipkau-event-2822334",
@@ -423,6 +540,16 @@
       "updatedAt": "2026-05-31T18:42:03.378Z"
     },
     {
+      "id": "schipkau-event-2959377",
+      "title": "Traditionelles Weihnachtsessen",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2959377/2026/12/25/traditionelles-weihnachtsessen.html",
+      "startDate": "2026-12-25T00:00:00.000Z",
+      "location": "Gasthof Meuro",
+      "description": "Am 25. Dezember findet wieder das traditionelle Weihnachtsessen im Gasthof Meuro statt. Genießt ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
       "id": "schipkau-event-2830546",
       "title": "Silvester in Hörlitz",
       "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2830546/2026/12/31/silvester-in-hörlitz.html",
@@ -431,6 +558,46 @@
       "description": "Silvester \"Ultra All Inclusive\" VVK am 13.11.2026 18:00 Uhr bis 18:30 Uhr",
       "fetchedAt": "2026-05-31T17:27:31.245Z",
       "updatedAt": "2026-05-31T18:42:03.378Z"
+    },
+    {
+      "id": "schipkau-event-2949571",
+      "title": "Silvesterveranstaltung des Klettwitz Kulturverein e.V.",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2949571/2026/12/31/silvesterveranstaltung-des-klettwitz-kulturverein-e.v.html",
+      "startDate": "2026-12-31T00:00:00.000Z",
+      "location": "Kulturhaus Klettwitz",
+      "description": "Kartenvorbestellungen ab 1.09.2026 unter der Telefonnummer: 035754/1262.",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2959372",
+      "title": "Große Silvesterparty",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2959372/2026/12/31/große-silvesterparty.html",
+      "startDate": "2026-12-31T00:00:00.000Z",
+      "location": "Gasthof Meuro",
+      "description": "Am 31. Dezember findet die große Silvesterparty im Gasthof Meuro statt. Inkl. Buffet, Getränke ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2959368",
+      "title": "Traditioneller Neujahrsfrühschoppen mit Mittagstisch",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2959368/2027/01/01/traditioneller-neujahrsfrühschoppen-mit-mittagstisch.html",
+      "startDate": "2027-01-01T00:00:00.000Z",
+      "location": "Gasthof Meuro",
+      "description": "Am 1. Januar 2027 findet wieder der traditionelle Neujahrsfrühschoppen mit Mittagstisch im ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2965261",
+      "title": "KNEIPENQUIZ",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2965261/2027/01/09/kneipenquiz.html",
+      "startDate": "2027-01-09T00:00:00.000Z",
+      "location": "Gasthof Meuro",
+      "description": "Klugscheißen war noch nie so wertvoll: Bringt eure schlausten Freunde mit zum ersten Kneipenquiz ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-09-11T11:12:36.607Z"
     }
   ]
 }

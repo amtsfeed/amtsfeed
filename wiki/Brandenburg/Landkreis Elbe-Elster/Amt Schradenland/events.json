@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:13:46.931Z",
+  "updatedAt": "2026-09-11T11:07:13.609Z",
   "items": [
     {
       "id": "2891271",
@@ -144,14 +144,6 @@
       "startDate": "2026-06-02T00:00:00.000Z",
       "fetchedAt": "2026-05-08T18:37:40.359Z",
       "updatedAt": "2026-05-08T18:37:40.359Z"
-    },
-    {
-      "id": "2897451",
-      "title": "Krabbelgruppe Kita Gröden",
-      "url": "https://www.amt-schradenland.de/veranstaltungen/2897451/2026/06/04/krabbelgruppe-kita-gröden.html",
-      "startDate": "2026-06-04T00:00:00.000Z",
-      "fetchedAt": "2026-05-08T18:37:40.359Z",
-      "updatedAt": "2026-05-31T13:13:46.923Z"
     },
     {
       "id": "2899376",
@@ -338,6 +330,14 @@
       "updatedAt": "2026-05-08T18:37:40.359Z"
     },
     {
+      "id": "2927801",
+      "title": "openart Lausitz Biennale",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2927801/2026/07/31/openart-lausitz-biennale.html",
+      "startDate": "2026-07-31T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
       "id": "2909827",
       "title": "Jugendkreativsommer - JessyTanzt",
       "url": "https://www.amt-schradenland.de/veranstaltungen/2909827/2026/08/03/jugendkreativsommer-jessytanzt.html",
@@ -434,12 +434,76 @@
       "updatedAt": "2026-05-08T18:37:40.359Z"
     },
     {
+      "id": "2952441",
+      "title": "Last Summer Night",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2952441/2026/09/12/last-summer-night.html",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2953504",
+      "title": "Partywochenende im Kulturhaus Plessa",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953504/2026/09/12/partywochenende-im-kulturhaus-plessa.html",
+      "startDate": "2026-09-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2947172",
+      "title": "Tag des offenen Denkmals im Elbe-Röder-Dreieck",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2947172/2026/09/13/tag-des-offenen-denkmals-im-elbe-röder-dreieck.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2932548",
+      "title": "Seminar &bdquo;Einführung in die Pomologie und praktische Sortenbestimmung&ldquo; im Bauernmuseum Zabeltitz",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2932548/2026/09/13/seminar-einführung-in-die-pomologie-und-praktische-sortenbestimmung-im-bauernmuseum-zabeltitz.html",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2897451",
+      "title": "Krabbelgruppe Kita Gröden",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2897451/2026/09/17/krabbelgruppe-kita-gröden.html",
+      "startDate": "2026-09-17T00:00:00.000Z",
+      "fetchedAt": "2026-05-08T18:37:40.359Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
       "id": "2829847",
-      "title": "Weltkindertag",
-      "url": "https://www.amt-schradenland.de/veranstaltungen/2829847/2026/09/18/weltkindertag.html",
+      "title": "Kinderfest",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2829847/2026/09/18/kinderfest.html",
       "startDate": "2026-09-18T00:00:00.000Z",
       "fetchedAt": "2026-05-08T18:37:40.359Z",
-      "updatedAt": "2026-05-08T18:37:40.359Z"
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2953391",
+      "title": "Gottesdienst",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953391/2026/09/20/gottesdienst.html",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2940150",
+      "title": "Woche der Demenz im Landkreis Elbe-Elster",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2940150/2026/09/21/woche-der-demenz-im-landkreis-elbe-elster.html",
+      "startDate": "2026-09-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2953619",
+      "title": "Seniorennachmittag - GEMEINSAM STATT EINSAM\" in Gröden",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953619/2026/09/23/seniorennachmittag-gemeinsam-statt-einsam-in-gröden.html",
+      "startDate": "2026-09-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
     },
     {
       "id": "2829848",
@@ -450,12 +514,52 @@
       "updatedAt": "2026-05-08T18:37:40.359Z"
     },
     {
+      "id": "2953626",
+      "title": "Seniorennachmittag - GEMEINSAM STATT EINSAM\" in Hirschfeld",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953626/2026/09/24/seniorennachmittag-gemeinsam-statt-einsam-in-hirschfeld.html",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2953633",
+      "title": "Himmlisch kreativ für Kinder",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953633/2026/09/24/himmlisch-kreativ-für-kinder.html",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2953506",
+      "title": "Herbstbasteln",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953506/2026/09/27/herbstbasteln.html",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2953628",
+      "title": "Seniorenveranstaltung \"GEMEINSAM STATT EINSAM\" in Merzdorf",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953628/2026/09/30/seniorenveranstaltung-gemeinsam-statt-einsam-in-merzdorf.html",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
       "id": "2829854",
       "title": "Kindertreff Großthiemig",
       "url": "https://www.amt-schradenland.de/veranstaltungen/2829854/2026/10/02/kindertreff-großthiemig.html",
       "startDate": "2026-10-02T00:00:00.000Z",
       "fetchedAt": "2026-05-08T18:37:40.359Z",
       "updatedAt": "2026-05-08T18:37:40.359Z"
+    },
+    {
+      "id": "2953392",
+      "title": "Annahme Erntedankgaben",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953392/2026/10/03/annahme-erntedankgaben.html",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
     },
     {
       "id": "2829856",
@@ -474,6 +578,30 @@
       "updatedAt": "2026-05-08T18:37:40.359Z"
     },
     {
+      "id": "2953361",
+      "title": "Erntedankgottesdienst",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953361/2026/10/04/erntedankgottesdienst.html",
+      "startDate": "2026-10-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2953399",
+      "title": "Gottesdienst",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953399/2026/10/05/gottesdienst.html",
+      "startDate": "2026-10-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2952576",
+      "title": "Nähen, Stricken , Häkeln",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2952576/2026/10/05/nähen-stricken--häkeln.html",
+      "startDate": "2026-10-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
       "id": "2897508",
       "title": "Babytreff Kita Hirschfeld",
       "url": "https://www.amt-schradenland.de/veranstaltungen/2897508/2026/10/06/babytreff-kita-hirschfeld.html",
@@ -488,6 +616,30 @@
       "startDate": "2026-10-07T00:00:00.000Z",
       "fetchedAt": "2026-05-08T18:37:40.359Z",
       "updatedAt": "2026-05-08T18:37:40.359Z"
+    },
+    {
+      "id": "2953407",
+      "title": "Taize Andacht",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953407/2026/10/09/taize-andacht.html",
+      "startDate": "2026-10-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2964525",
+      "title": "49. Werner - Seelenbinder - Lauf",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2964525/2026/10/18/49.-werner-seelenbinder-lauf.html",
+      "startDate": "2026-10-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2953466",
+      "title": "Gottesdienst",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953466/2026/10/25/gottesdienst.html",
+      "startDate": "2026-10-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
     },
     {
       "id": "2829858",
@@ -578,6 +730,22 @@
       "updatedAt": "2026-05-08T18:37:40.359Z"
     },
     {
+      "id": "2953410",
+      "title": "Martinstag",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953410/2026/11/11/martinstag.html",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2953412",
+      "title": "Lichterklang - Konzert im Kerzenschein",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953412/2026/11/14/lichterklang-konzert-im-kerzenschein.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
       "id": "2829984",
       "title": "Kirmesgottesdienst Gröden",
       "url": "https://www.amt-schradenland.de/veranstaltungen/2829984/2026/11/15/kirmesgottesdienst-gröden.html",
@@ -586,12 +754,36 @@
       "updatedAt": "2026-05-08T18:37:40.359Z"
     },
     {
+      "id": "2953414",
+      "title": "Gottesdienst zum Volkstrauertag",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953414/2026/11/15/gottesdienst-zum-volkstrauertag.html",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
       "id": "2829985",
       "title": "Gottesdienst zum Totensonntag",
       "url": "https://www.amt-schradenland.de/veranstaltungen/2829985/2026/11/22/gottesdienst-zum-totensonntag.html",
       "startDate": "2026-11-22T00:00:00.000Z",
       "fetchedAt": "2026-05-08T18:37:40.359Z",
       "updatedAt": "2026-05-08T18:37:40.359Z"
+    },
+    {
+      "id": "2953415",
+      "title": "Gottesdienst",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953415/2026/11/22/gottesdienst.html",
+      "startDate": "2026-11-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2953425",
+      "title": "Gottesdienst zum Ewigkeitssonntag",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953425/2026/11/22/gottesdienst-zum-ewigkeitssonntag.html",
+      "startDate": "2026-11-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
     },
     {
       "id": "2835515",
@@ -632,6 +824,22 @@
       "startDate": "2026-11-29T00:00:00.000Z",
       "fetchedAt": "2026-05-08T18:37:40.359Z",
       "updatedAt": "2026-05-08T18:37:40.359Z"
+    },
+    {
+      "id": "2953435",
+      "title": "Familiengottesdienst zum 1. Advent",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953435/2026/11/29/familiengottesdienst-zum-1.-advent.html",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2953424",
+      "title": "Gottesdienst",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953424/2026/11/29/gottesdienst.html",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:53:56.772Z",
+      "updatedAt": "2026-09-11T11:07:13.597Z"
     },
     {
       "id": "2897511",

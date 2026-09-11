@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:15:01.629Z",
+  "updatedAt": "2026-09-11T11:11:25.955Z",
   "items": [
     {
       "id": "2897436",
@@ -221,6 +221,16 @@
       "updatedAt": "2026-05-31T13:15:01.620Z"
     },
     {
+      "id": "2928653",
+      "title": "Ausstellung Malerei & Zeichnung",
+      "url": "https://www.amt-fahoe.de/veranstaltungen/2928653/2026/08/30/ausstellung-malerei-zeichnung.html",
+      "startDate": "2026-08-30T00:00:00.000Z",
+      "location": "Cöthener Kirche",
+      "description": "Katharina Manzke-Leubner, Kuratorin Dr. Inge Gellert [mehr]",
+      "fetchedAt": "2026-09-11T09:57:24.812Z",
+      "updatedAt": "2026-09-11T11:11:25.927Z"
+    },
+    {
       "id": "2875276",
       "title": "Sonntag um Drei, Konzert mit JAZZTRAVELER",
       "url": "https://www.amt-fahoe.de/veranstaltungen/2875276/2026/08/30/sonntag-um-drei-konzert-mit-jazztraveler.html",
@@ -264,6 +274,16 @@
       "updatedAt": "2026-05-31T13:15:01.620Z"
     },
     {
+      "id": "2946785",
+      "title": "Herbstfest in der Köhlerei",
+      "url": "https://www.amt-fahoe.de/veranstaltungen/2946785/2026/09/26/herbstfest-in-der-köhlerei.html",
+      "startDate": "2026-09-26T11:00:00.000Z",
+      "location": "Köhlerei in Bad Freienwalde",
+      "description": "Die Stephanus gGmbH, Werkstätten Bad Freienwalde laden herzlich zum Herbstfest ein. [mehr]",
+      "fetchedAt": "2026-09-11T09:57:24.812Z",
+      "updatedAt": "2026-09-11T11:11:25.927Z"
+    },
+    {
       "id": "2875279",
       "title": "Sonntag um Drei, Konzert mit den Rotatonics",
       "url": "https://www.amt-fahoe.de/veranstaltungen/2875279/2026/09/27/sonntag-um-drei-konzert-mit-den-rotatonics.html",
@@ -273,6 +293,28 @@
       "description": "Rotatonics - Chanson, Tango, Musique Cinematique - experimentelles Duo aus Berlin Marie-Elsa Drelon und Cosmo Krause alias Carsten Wegener singen und spielen Piano, Lapsteel, E-Gitarre, Orgel, Harmonika & Singende Säge. Nach dem gelungenen Auftritt ... [mehr]",
       "fetchedAt": "2026-05-05T15:00:50.234Z",
       "updatedAt": "2026-05-26T09:03:17.716Z"
+    },
+    {
+      "id": "2965500",
+      "title": "Trödelmarkt in Dannenberg/Mark",
+      "url": "https://www.amt-fahoe.de/veranstaltungen/2965500/2026/10/04/trödelmarkt-in-dannenberg-mark.html",
+      "startDate": "2026-10-04T10:00:00.000Z",
+      "endDate": "2026-10-04T15:00:00.000Z",
+      "location": "Dorfplatz in Dannenberg/Mark",
+      "description": "Am 04.10.2026 findet der nächste Trödelmarkt auf dem Dorfplatz statt.    Bei Interesse an einem Stand ist eine Anmeldung erforderlich. [mehr]",
+      "fetchedAt": "2026-09-11T09:57:24.812Z",
+      "updatedAt": "2026-09-11T11:11:25.927Z"
+    },
+    {
+      "id": "2954946",
+      "title": "10. Knollenball in Kruge",
+      "url": "https://www.amt-fahoe.de/veranstaltungen/2954946/2026/10/04/10.-knollenball-in-kruge.html",
+      "startDate": "2026-10-04T11:30:00.000Z",
+      "endDate": "2026-10-04T17:00:00.000Z",
+      "location": "Kulturhaus Kruge",
+      "description": "W ir  laden alle Seniorinnen, Senioren, Junggebliebene und andere Interessierte zum   10 .    Knollenball recht herzlich ein.   Freuen Sie sich auf „Die Süße Helga“ und  mit „DJAck“ können Sie bei schöner Musik das Tanzbein ... [mehr]",
+      "fetchedAt": "2026-09-11T09:57:24.812Z",
+      "updatedAt": "2026-09-11T11:11:25.927Z"
     },
     {
       "id": "2875280",
@@ -294,6 +336,17 @@
       "description": "Kleiner Gospelchor Eberswalde [mehr]",
       "fetchedAt": "2026-05-31T13:15:01.620Z",
       "updatedAt": "2026-05-31T13:15:01.620Z"
+    },
+    {
+      "id": "2965504",
+      "title": "11. Regionaler Weihnachtsmarkt in Strausberg: Weihnachten aus der Region &ndash; für die Region",
+      "url": "https://www.amt-fahoe.de/veranstaltungen/2965504/2026/12/04/11.-regionaler-weihnachtsmarkt-in-strausberg-weihnachten-aus-der-region--für-die-region.html",
+      "startDate": "2026-12-04T13:00:00.000Z",
+      "endDate": "2026-12-04T19:00:00.000Z",
+      "location": "STIC-Gelände, Garzauer Chaussee 1a, 15344 Strausberg",
+      "description": "Wenn sich das STIC-Gelände in Strausberg wieder in einen kleinen Weihnachtsmarkt verwandelt, geht es um weit mehr als Glühwein, Lichter und vorweihnachtliche Stimmung.  Zum 11. Mal bringt der Regionale Weihnachtsmarkt Menschen, Unternehmen, ... [mehr]",
+      "fetchedAt": "2026-09-11T11:11:25.927Z",
+      "updatedAt": "2026-09-11T11:11:25.927Z"
     }
   ]
 }

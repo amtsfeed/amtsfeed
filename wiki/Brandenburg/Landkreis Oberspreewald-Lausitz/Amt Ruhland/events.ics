@@ -524,12 +524,52 @@ LOCATION:Vereinsheim des HKC
 END:VEVENT
 BEGIN:VEVENT
 UID:ruhland-event-4939@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20260911T111227Z
 DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260707
-SUMMARY:Sommerfest/Frühschoppen - Hermsdorf
+DTEND;VALUE=DATE:20260706
+SUMMARY:Kinder-/Sommerfest mit Tanzabend + Frühshoppen in Hermsdorf
 URL:https://www.amt-ruhland.de/veranstaltungen/
 DESCRIPTION:Schlagworte: Hermsdorf
+LOCATION:Sportplatz Hermsdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6010@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20260710T143000Z
+DTEND:20260710T183000Z
+SUMMARY:Blutspende
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Ruhland
+LOCATION:Geschwister-Scholle-Oberschule Ruhland
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6109@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20260711T143000Z
+DTEND:20260711T153000Z
+SUMMARY:Turmfest
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Grünewald
+LOCATION:Dorfplatz Sella
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6112@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20260712T100000Z
+DTEND:20260712T140000Z
+SUMMARY:Turmfest
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Grünewald
+LOCATION:Dorfplatz Sella
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6277@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20260715T100000Z
+DTEND:20261030T113000Z
+SUMMARY:Ressourcen sparen in KMU – Informationen zu Fördermöglichkeit
+ en im Land Brandenburg
+URL:https://www.amt-ruhland.de/veranstaltungen/
 END:VEVENT
 BEGIN:VEVENT
 UID:ruhland-event-5191@amtsfeed.de
@@ -579,6 +619,35 @@ DESCRIPTION:Schlagworte: Hohenbocka
 LOCATION:Vereinsheim des HKC
 END:VEVENT
 BEGIN:VEVENT
+UID:ruhland-event-6187@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260818
+SUMMARY:Motorradtreffen
+URL:https://www.amt-ruhland.de/veranstaltungen/
+LOCATION:Schlosspark Lipsa
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6367@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260825
+SUMMARY:2. Musikfestival Südbrandenburg
+URL:https://www.kirche-uckermark.de/pl/termine/detailansicht-termine/term
+ indetails/2-musikfestival-suedbrandenburg
+DESCRIPTION:Schlagworte: Ruhland
+LOCATION:Stadtkirche Ruhland
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6340@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20260829T100000Z
+DTEND:20260829T150000Z
+SUMMARY:Baby- und Kinderflohmarkt
+URL:https://www.amt-ruhland.de/veranstaltungen/
+LOCATION:Parkbühne Arnsdorf
+END:VEVENT
+BEGIN:VEVENT
 UID:ruhland-event-4987@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART:20260902T150000Z
@@ -587,6 +656,44 @@ SUMMARY:Treff der Seniorengruppe des HKC
 URL:https://www.amt-ruhland.de/veranstaltungen/
 DESCRIPTION:Schlagworte: Hohenbocka
 LOCATION:Vereinsheim des HKC
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6553@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20260907T093000Z
+DTEND:20260907T160000Z
+SUMMARY:Zweites Deutsches Safran Symposium
+URL:https://neuwerg.de/angebote/2-safran-symposium/
+LOCATION:Gasthof Schwarze
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6421@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20260912T140000Z
+DTEND:20260912T150000Z
+SUMMARY:Amtsfeuerwehrtag + Nachtpokal Grünewald/Sella
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Grünewald
+LOCATION:Sportplatz Grünewald
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6652@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20260913T120000Z
+DTEND:20260913T180000Z
+SUMMARY:Tag des offenen Denkmals
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Hermsdorf
+LOCATION:Kirche Hermsdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6505@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260922
+SUMMARY:Kreis-Erntefest 2026
+URL:https://kreiserntefest-osl.de/
+LOCATION:Ogrosen
 END:VEVENT
 BEGIN:VEVENT
 UID:ruhland-event-5560@amtsfeed.de
@@ -599,6 +706,26 @@ DESCRIPTION:Schlagworte: Guteborn
 LOCATION:Platz am neuen Feuerwehrgebäude
 END:VEVENT
 BEGIN:VEVENT
+UID:ruhland-event-6658@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20260925T143000Z
+DTEND:20260925T183000Z
+SUMMARY:Blutspende
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Ruhland
+LOCATION:Geschwister-Scholle-Oberschule Ruhland
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6640@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20260926T100000Z
+DTEND:20260926T170000Z
+SUMMARY:Oldtimerschau
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Ruhland
+LOCATION:Auto Schultz
+END:VEVENT
+BEGIN:VEVENT
 UID:ruhland-event-4990@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART:20261007T150000Z
@@ -607,6 +734,14 @@ SUMMARY:Treff der Seniorengruppe des HKC
 URL:https://www.amt-ruhland.de/veranstaltungen/
 DESCRIPTION:Schlagworte: Hohenbocka
 LOCATION:Vereinsheim des HKC
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6631@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+SUMMARY:Günter Grass Kulturtage Altdöbern
+URL:https://www.amt-ruhland.de/veranstaltungen/
 END:VEVENT
 BEGIN:VEVENT
 UID:ruhland-event-5563@amtsfeed.de
@@ -644,6 +779,15 @@ SUMMARY:Treff der Seniorengruppe des HKC
 URL:https://www.amt-ruhland.de/veranstaltungen/
 DESCRIPTION:Schlagworte: Hohenbocka
 LOCATION:Vereinsheim des HKC
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6271@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20261114T181100Z
+DTEND:20261114T235900Z
+SUMMARY:Schlüsselübergabe am Rathaus
+URL:https://www.amt-ruhland.de/veranstaltungen/
+LOCATION:Amtsverwaltung Ruhland
 END:VEVENT
 BEGIN:VEVENT
 UID:ruhland-event-4912@amtsfeed.de
@@ -699,6 +843,24 @@ DTEND:20261205T223000Z
 SUMMARY:Rockkonzert
 URL:https://www.amt-ruhland.de/veranstaltungen/
 DESCRIPTION:Schlagworte: Ruhland
+LOCATION:Schützenhaus Ruhland
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6199@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20261212T180000Z
+DTEND:20261212T203000Z
+SUMMARY:ABBA - ABALANCE The Show Schwarzheide
+URL:https://www.abalance2000.de/
+LOCATION:Kulturhaus der BASF Schwarzheide
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-6037@amtsfeed.de
+DTSTAMP:20260911T111227Z
+DTSTART:20270109T193000Z
+DTEND:20270109T203000Z
+SUMMARY:Kabarettabend mit Uwe Steimle
+URL:https://www.amt-ruhland.de/veranstaltungen/
 LOCATION:Schützenhaus Ruhland
 END:VEVENT
 END:VCALENDAR

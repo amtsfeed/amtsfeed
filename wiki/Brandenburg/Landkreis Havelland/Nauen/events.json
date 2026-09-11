@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T14:14:02.060Z",
+  "updatedAt": "2026-09-11T11:07:42.095Z",
   "items": [
     {
       "id": "nauen-event-14062026-stadtradeln-stadt-nauen-20260528",
@@ -704,6 +704,69 @@
       "updatedAt": "2026-05-31T14:14:02.067Z"
     },
     {
+      "id": "nauen-event-11092026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag-20260911",
+      "title": "Kochgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/11092026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag/",
+      "startDate": "2026-09-11T08:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-11092026-fgz-hausfest-20260911",
+      "title": "FGZ Hausfest",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/11092026-fgz-hausfest/",
+      "startDate": "2026-09-11T12:00:00.000Z",
+      "location": "Familien- und Generationenzentrum FGZ",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-11092026-herbstputz-im-gruenen-eck-20260911",
+      "title": "Herbstputz im „Grünen Eck“",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/11092026-herbstputz-im-gruenen-eck/",
+      "startDate": "2026-09-11T13:00:00.000Z",
+      "location": "Nachbarschaftsgarten \"Grünes Eck\"",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-11092026-tango-clandestino-im-café-mediterrano-jeden-freitag-20260911",
+      "title": "Tango Clandestino im Café Mediterrano",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/11092026-tango-clandestino-im-café-mediterrano-jeden-freitag/",
+      "startDate": "2026-09-11T15:00:00.000Z",
+      "location": "Café Mediterrano",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-12092026-altstadtflohmarkt-20260912",
+      "title": "Altstadtflohmarkt",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/12092026-altstadtflohmarkt/",
+      "startDate": "2026-09-12T08:00:00.000Z",
+      "location": "Martin-Luther-Platz",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-szenische-fuehrung-in-ribbeck-sa-20260912",
+      "title": "Szenische Führung in Ribbeck",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/szenische-fuehrung-in-ribbeck-sa/",
+      "startDate": "2026-09-12T12:00:00.000Z",
+      "location": "Kirche Ribbeck",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-12092026-bluesabend-20260912",
+      "title": "Bluesabend in der Waldsiedlung",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/12092026-bluesabend/",
+      "startDate": "2026-09-12T17:00:00.000Z",
+      "location": "Waldhaus Waldsiedlung (DGH)",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
       "id": "nauen-event-13092026-tag-des-offenen-denkmals-20260913",
       "title": "Tag des offenen Denkmals - NetzWERKE: Denkmale & Infrastruktur",
       "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/13092026-tag-des-offenen-denkmals/",
@@ -711,6 +774,15 @@
       "location": "Richart-Hof",
       "fetchedAt": "2026-05-31T13:47:05.100Z",
       "updatedAt": "2026-05-31T14:14:02.067Z"
+    },
+    {
+      "id": "nauen-event-szenische-fuehrung-in-ribbeck-so-20260913",
+      "title": "Szenische Führung in Ribbeck",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/szenische-fuehrung-in-ribbeck-so/",
+      "startDate": "2026-09-13T12:00:00.000Z",
+      "location": "Kirche Ribbeck",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
     },
     {
       "id": "nauen-event-13092026-konzertlesung-der-alte-klang-das-meer-20260913",
@@ -722,6 +794,258 @@
       "updatedAt": "2026-05-31T14:14:02.067Z"
     },
     {
+      "id": "nauen-event-16102026-ausstellung-nauener-stolpersteine-20260913",
+      "title": "Ausstellung „Nauener Stolpersteine“",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/16102026-ausstellung-nauener-stolpersteine/",
+      "startDate": "2026-09-13T22:00:00.000Z",
+      "location": "Richart-Hof",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-10102026-kreativmarkt-20260914",
+      "title": "KreativMarkt",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/10102026-kreativmarkt/",
+      "startDate": "2026-09-14T09:00:00.000Z",
+      "location": "Mehrzweckhalle Graf von Arco Schule",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-14092026-tête-à-tête-nachbarschaft-im-gespraech-im-nachbarschaftsgarten-gruenen--20260914",
+      "title": "„tête-à-tête - Nachbarschaft im Gespräch“ im Nachbarschaftsgarten „Grünen Eck“",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/14092026-tête-à-tête-nachbarschaft-im-gespraech-im-nachbarschaftsgarten-gruenen-eck/",
+      "startDate": "2026-09-14T12:00:00.000Z",
+      "location": "Nachbarschaftsgarten \"Grünes Eck\"",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-kinder-yoga-gr-1-20260914",
+      "title": "Workshop Kinderyoga 6-9 Jahre",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/kinder-yoga-gr-1/",
+      "startDate": "2026-09-14T13:00:00.000Z",
+      "location": "Familien- und Generationenzentrum FGZ",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-kinder-yoga-gr-2-20260914",
+      "title": "Workshop Kinderyoga 9-12 Jahre",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/kinder-yoga-gr-2/",
+      "startDate": "2026-09-14T14:00:00.000Z",
+      "location": "Familien- und Generationenzentrum FGZ",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-15092026-fit-am-tablet-20260915",
+      "title": "Fit am Tablet",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/15092026-fit-am-tablet/",
+      "startDate": "2026-09-15T08:00:00.000Z",
+      "location": "Familien- und Generationenzentrum FGZ",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-1509092026-sauna-im-stadtbad-nauen-die-fr-20260915",
+      "title": "Sauna im Stadtbad Nauen",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/1509092026-sauna-im-stadtbad-nauen-die-fr/",
+      "startDate": "2026-09-15T12:00:00.000Z",
+      "location": "Stadtbad Nauen",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-160926-sportgruppe-fuer-senioren-jeden-mittwoch-gr-1-20260916",
+      "title": "Sportgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/160926-sportgruppe-fuer-senioren-jeden-mittwoch-gr-1/",
+      "startDate": "2026-09-16T07:30:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-16092026-musik-fuer-babys-930-uhr-20260916",
+      "title": "Musik für Babys",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/16092026-musik-fuer-babys-930-uhr/",
+      "startDate": "2026-09-16T07:30:00.000Z",
+      "location": "Familien- und Generationenzentrum FGZ",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-16092026-musik-fuer-babys-1015-uhr-20260916",
+      "title": "Musik für Babys",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/16092026-musik-fuer-babys-1015-uhr/",
+      "startDate": "2026-09-16T08:15:00.000Z",
+      "location": "Familien- und Generationenzentrum FGZ",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-160926-sportgruppe-fuer-senioren-jeden-mittwoch-gr-2-20260916",
+      "title": "Sportgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/160926-sportgruppe-fuer-senioren-jeden-mittwoch-gr-2/",
+      "startDate": "2026-09-16T09:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-16092026-frauensauna-im-stadtbad-nauen-jeden-mittwoch-20260916",
+      "title": "Frauensauna im Stadtbad Nauen",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/16092026-frauensauna-im-stadtbad-nauen-jeden-mittwoch/",
+      "startDate": "2026-09-16T12:00:00.000Z",
+      "location": "Stadtbad Nauen",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-17092026-frischemarkt-auf-dem-nauener-rathausplatz-20260917",
+      "title": "Frischemarkt auf dem Nauener Rathausplatz",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/17092026-frischemarkt-auf-dem-nauener-rathausplatz/",
+      "startDate": "2026-09-17T06:00:00.000Z",
+      "location": "Rathausplatz",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-17092026-hertefelder-str-stephanus-qi-gong-fuer-anfaenger-20260917",
+      "title": "Qi Gong für Anfänger",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/17092026-hertefelder-str-stephanus-qi-gong-fuer-anfaenger/",
+      "startDate": "2026-09-17T11:00:00.000Z",
+      "location": "Stephanus-Lichtblick gGmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-17092026-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten-donnerstag-im-monat-20260917",
+      "title": "Kaffeeklatsch mit Gerda",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/17092026-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten-donnerstag-im-monat/",
+      "startDate": "2026-09-17T12:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-17092026-kunststunde-20260917",
+      "title": "Kunststunde - alte Schule Ribbeck",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/17092026-kunststunde/",
+      "startDate": "2026-09-17T15:00:00.000Z",
+      "location": "Alte Schule Ribbeck - V.I.F. e.V.",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-18092026-park-ing-day-2026-in-nauen-20260918",
+      "title": "„Park(ing) Day 2026“ in Nauen",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/18092026-park-ing-day-2026-in-nauen/",
+      "startDate": "2026-09-18T13:00:00.000Z",
+      "location": "Karl-Bernau-Ring",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-18092026-tango-clandestino-im-café-mediterrano-jeden-freitag-20260918",
+      "title": "Tango Clandestino im Café Mediterrano",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/18092026-tango-clandestino-im-café-mediterrano-jeden-freitag/",
+      "startDate": "2026-09-18T15:00:00.000Z",
+      "location": "Café Mediterrano",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-19092026-radtour-mit-dem-adfc-allgemeiner-deutscher-fahrrad-club-20260919",
+      "title": "Radtour auf dem „Nauener Dreick“",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/19092026-radtour-mit-dem-adfc-allgemeiner-deutscher-fahrrad-club/",
+      "startDate": "2026-09-19T09:30:00.000Z",
+      "location": "Verschiedene",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-23092026-sportgruppe-fuer-senioren-jeden-mittwoch-gr1-20260923",
+      "title": "Sportgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/23092026-sportgruppe-fuer-senioren-jeden-mittwoch-gr1/",
+      "startDate": "2026-09-23T07:30:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-23092026-musik-fuer-babys-930-uhr-20260923",
+      "title": "Musik für Babys",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/23092026-musik-fuer-babys-930-uhr/",
+      "startDate": "2026-09-23T07:30:00.000Z",
+      "location": "Familien- und Generationenzentrum FGZ",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-23092026-musik-fuer-babys-1015-uhr-20260923",
+      "title": "Musik für Babys",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/23092026-musik-fuer-babys-1015-uhr/",
+      "startDate": "2026-09-23T08:15:00.000Z",
+      "location": "Familien- und Generationenzentrum FGZ",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-23092026-sportgruppe-fuer-senioren-jeden-mittwoch-gr-2-20260923",
+      "title": "Sportgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/23092026-sportgruppe-fuer-senioren-jeden-mittwoch-gr-2/",
+      "startDate": "2026-09-23T09:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-240926-frischemarkt-auf-dem-nauener-rathausplatz-20260924",
+      "title": "Frischemarkt auf dem Nauener Rathausplatz",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/240926-frischemarkt-auf-dem-nauener-rathausplatz/",
+      "startDate": "2026-09-24T06:00:00.000Z",
+      "location": "Rathausplatz",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-24092026-hertefelder-str-stephanus-qi-gong-fuer-anfaenger-20260924",
+      "title": "Qi Gong für Anfänger",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/24092026-hertefelder-str-stephanus-qi-gong-fuer-anfaenger/",
+      "startDate": "2026-09-24T11:00:00.000Z",
+      "location": "Stephanus-Lichtblick gGmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-25092026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag-20260925",
+      "title": "Kochgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/25092026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag/",
+      "startDate": "2026-09-25T08:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-25092026-klangreise-mit-sabine-im-gruenen-eck-20260925",
+      "title": "Klangreise mit Sabine im \"Grünen Eck\"",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/25092026-klangreise-mit-sabine-im-gruenen-eck/",
+      "startDate": "2026-09-25T13:00:00.000Z",
+      "location": "Nachbarschaftsgarten \"Grünes Eck\"",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-25092026-tango-clandestino-im-café-mediterrano-jeden-freitag-20260925",
+      "title": "Tango Clandestino im Café Mediterrano",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/25092026-tango-clandestino-im-café-mediterrano-jeden-freitag/",
+      "startDate": "2026-09-25T15:00:00.000Z",
+      "location": "Café Mediterrano",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
       "id": "nauen-event-26092026tag-der-offenen-tuer-2026-am-leonardo-da-vinci-campus-nauen-20260926",
       "title": "Tag der Offenen Tür 2026 am Leonardo Da Vinci Campus Nauen",
       "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/26092026tag-der-offenen-tuer-2026-am-leonardo-da-vinci-campus-nauen/",
@@ -731,6 +1055,114 @@
       "updatedAt": "2026-05-31T14:14:02.067Z"
     },
     {
+      "id": "nauen-event-27092026-6-nauener-altstadtlauf-20260927",
+      "title": "6. Nauener Altstadtlauf",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/27092026-6-nauener-altstadtlauf/",
+      "startDate": "2026-09-27T10:00:00.000Z",
+      "location": "Goethe-Gymnasium Nauen",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-29092026-spiele-und-basteln-fuer-senioren-jeden-letzten-dienstag-im-monat-20260929",
+      "title": "Spiele und Basteln für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/29092026-spiele-und-basteln-fuer-senioren-jeden-letzten-dienstag-im-monat/",
+      "startDate": "2026-09-29T12:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-29092026-nauener-heimatfreunde-20260929",
+      "title": "Die Heimatfreunde laden ein...",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/29092026-nauener-heimatfreunde/",
+      "startDate": "2026-09-29T16:30:00.000Z",
+      "location": "Richart-Hof",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-30092026-sportgruppe-fuer-senioren-jeden-mittwoch-gr-1-20260930",
+      "title": "Sportgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/30092026-sportgruppe-fuer-senioren-jeden-mittwoch-gr-1/",
+      "startDate": "2026-09-30T07:30:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-30092026-sportgruppe-fuer-senioren-jeden-mittwoch-gr-2-20260930",
+      "title": "Sportgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/30092026-sportgruppe-fuer-senioren-jeden-mittwoch-gr-2/",
+      "startDate": "2026-09-30T09:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-01102026-frischemarkt-auf-dem-nauener-rathausplatz-20261001",
+      "title": "Frischemarkt auf dem Nauener Rathausplatz",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/01102026-frischemarkt-auf-dem-nauener-rathausplatz/",
+      "startDate": "2026-10-01T06:00:00.000Z",
+      "location": "Rathausplatz",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-01102026-hertefelder-str-stephanus-qi-gong-fuer-anfaenger-20261001",
+      "title": "Qi Gong für Anfänger",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/01102026-hertefelder-str-stephanus-qi-gong-fuer-anfaenger/",
+      "startDate": "2026-10-01T11:00:00.000Z",
+      "location": "Stephanus-Lichtblick gGmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-01102026-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten-donnerstag-im-monat-20261001",
+      "title": "Kaffeeklatsch mit Gerda",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/01102026-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten-donnerstag-im-monat/",
+      "startDate": "2026-10-01T12:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-07102026-sportgruppe-fuer-senioren-jeden-mittwoch-gr-1-20261007",
+      "title": "Sportgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/07102026-sportgruppe-fuer-senioren-jeden-mittwoch-gr-1/",
+      "startDate": "2026-10-07T07:30:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-07102026-sportgruppe-fuer-senioren-jeden-mittwoch-gr-2-20261007",
+      "title": "Sportgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/07102026-sportgruppe-fuer-senioren-jeden-mittwoch-gr-2/",
+      "startDate": "2026-10-07T09:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-0810206-frischemarkt-auf-dem-nauener-rathausplatz-20261008",
+      "title": "Frischemarkt auf dem Nauener Rathausplatz",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/0810206-frischemarkt-auf-dem-nauener-rathausplatz/",
+      "startDate": "2026-10-08T06:00:00.000Z",
+      "location": "Rathausplatz",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-08102026-hertefelder-str-stephanus-qi-gong-fuer-anfaenger-20261008",
+      "title": "Qi Gong für Anfänger",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/08102026-hertefelder-str-stephanus-qi-gong-fuer-anfaenger/",
+      "startDate": "2026-10-08T11:00:00.000Z",
+      "location": "Stephanus-Lichtblick gGmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
       "id": "nauen-event-08102026-spielecafé-im-richart-hof-20261008",
       "title": "Spielecafé im Richart-Hof",
       "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/08102026-spielecafé-im-richart-hof/",
@@ -738,6 +1170,15 @@
       "location": "Richart-Hof",
       "fetchedAt": "2026-05-31T13:47:05.100Z",
       "updatedAt": "2026-05-31T14:14:02.067Z"
+    },
+    {
+      "id": "nauen-event-09102026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag-20261009",
+      "title": "Kochgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/09102026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag/",
+      "startDate": "2026-10-09T08:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
     },
     {
       "id": "nauen-event-10102026-kreativmarkt-20261009",
@@ -767,6 +1208,51 @@
       "updatedAt": "2026-05-31T14:14:02.067Z"
     },
     {
+      "id": "nauen-event-15102026-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten-donnerstag-im-monat-20261015",
+      "title": "Kaffeeklatsch mit Gerda",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/15102026-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten-donnerstag-im-monat/",
+      "startDate": "2026-10-15T12:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-27102026-spiele-und-basteln-fuer-senioren-jeden-letzten-dienstag-im-monat-20261027",
+      "title": "Spiele und Basteln für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/27102026-spiele-und-basteln-fuer-senioren-jeden-letzten-dienstag-im-monat/",
+      "startDate": "2026-10-27T13:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-30102026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag-20261030",
+      "title": "Kochgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/30102026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag/",
+      "startDate": "2026-10-30T09:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-31102026-die-wilden-witwer-fraeulein-pardon-20261031",
+      "title": "Die Wilden Witwer \"Fräulein, pardon!\"",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/31102026-die-wilden-witwer-fraeulein-pardon/",
+      "startDate": "2026-10-31T14:00:00.000Z",
+      "location": "Alte Schule Ribbeck - V.I.F. e.V.",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-051126-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten-donnerstag-im-monat-20261105",
+      "title": "Kaffeeklatsch mit Gerda",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/051126-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten-donnerstag-im-monat/",
+      "startDate": "2026-11-05T13:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
       "id": "nauen-event-weihnachten-im-schuhkarton-2026-20261108",
       "title": "Weihnachten im Schuhkarton 2026 - Abgabe bis 23.11.26",
       "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/weihnachten-im-schuhkarton-2026/",
@@ -774,6 +1260,15 @@
       "location": "Richart-Hof",
       "fetchedAt": "2026-05-31T13:47:05.100Z",
       "updatedAt": "2026-05-31T14:14:02.067Z"
+    },
+    {
+      "id": "nauen-event-11112026-maennerfruehstueck-20261111",
+      "title": "Männerfrühstück im \"Richart-Hof\"",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/11112026-maennerfruehstueck/",
+      "startDate": "2026-11-11T08:00:00.000Z",
+      "location": "Richart-Hof",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
     },
     {
       "id": "nauen-event-12112026-spielecafé-im-richart-hof-20261112",
@@ -785,6 +1280,33 @@
       "updatedAt": "2026-05-31T14:14:02.067Z"
     },
     {
+      "id": "nauen-event-13112026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag-20261113",
+      "title": "Kochgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/13112026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag/",
+      "startDate": "2026-11-13T09:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-24112026-spiele-und-basteln-fuer-senioren-jeden-letzten-dienstag-im-monat-20261124",
+      "title": "Spiele und Basteln für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/24112026-spiele-und-basteln-fuer-senioren-jeden-letzten-dienstag-im-monat/",
+      "startDate": "2026-11-24T13:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-27112026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag-20261127",
+      "title": "Kochgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/27112026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag/",
+      "startDate": "2026-11-27T09:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
       "id": "nauen-event-10122026-spielecafé-im-richart-hof-20261210",
       "title": "Spielecafé im Richart-Hof",
       "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/10122026-spielecafé-im-richart-hof/",
@@ -792,6 +1314,15 @@
       "location": "Richart-Hof",
       "fetchedAt": "2026-05-31T13:47:05.100Z",
       "updatedAt": "2026-05-31T14:14:02.067Z"
+    },
+    {
+      "id": "nauen-event-11122026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag-20261211",
+      "title": "Kochgruppe für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/11122026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag/",
+      "startDate": "2026-12-11T09:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
     },
     {
       "id": "nauen-event-12-13122026-hofweihnacht-nauen-20261211",
@@ -810,6 +1341,15 @@
       "location": "Richart-Hof",
       "fetchedAt": "2026-05-31T13:47:05.100Z",
       "updatedAt": "2026-05-31T14:14:02.067Z"
+    },
+    {
+      "id": "nauen-event-29122026-spiele-und-basteln-fuer-senioren-jeden-letzten-dienstag-im-monat-20261229",
+      "title": "Spiele und Basteln für Senioren",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/29122026-spiele-und-basteln-fuer-senioren-jeden-letzten-dienstag-im-monat/",
+      "startDate": "2026-12-29T13:00:00.000Z",
+      "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
+      "fetchedAt": "2026-09-11T09:54:30.436Z",
+      "updatedAt": "2026-09-11T11:07:42.117Z"
     },
     {
       "id": "nauen-event-09012027-nauener-rathausleuchten-im-jahr-2027-20270109",

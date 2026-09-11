@@ -8,13 +8,13 @@ X-WR-CALDESC:Amtliche Veranstaltungen für Landkreis Elbe-Elster
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:lkee-event-4016@amtsfeed.de
-DTSTAMP:20260508T193448Z
+DTSTAMP:20260911T110721Z
 DTSTART;VALUE=DATE:20230620
 DTEND;VALUE=DATE:20271229
 SUMMARY:Vom Feinsten. Preußische Adelsschätze in sächsischen Mauern
 URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Vom-Feinsten-Preu
  %C3%9Fische-Adelssch%C3%A4tze-in-s%C3%A4chsischen-Mauern.php?object=tx\,2
- 112.2.1&ModID=11&FID=2112.4016.1&NavID=2112.265&La=1&kat=2112.71
+ 112.2.1&ModID=11&FID=2112.4016.1&NavID=2112.265&kat=2112.71
 END:VEVENT
 BEGIN:VEVENT
 UID:lkee-event-4779@amtsfeed.de
@@ -141,13 +141,13 @@ URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Verweilen-genie%C
 END:VEVENT
 BEGIN:VEVENT
 UID:lkee-event-4789@amtsfeed.de
-DTSTAMP:20260508T193448Z
+DTSTAMP:20260911T110721Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20261005
 SUMMARY:Schnitte/Cuts - Papierkunst von Asya Kozina (Ukraine)
 URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Schnitte-Cuts-Pap
  ierkunst-von-Asya-Kozina-Ukraine-.php?object=tx\,2112.2.1&ModID=11&FID=21
- 12.4789.1&NavID=2112.265&La=1&kat=2112.71
+ 12.4789.1&NavID=2112.265&kat=2112.71
 END:VEVENT
 BEGIN:VEVENT
 UID:lkee-event-4746@amtsfeed.de
@@ -182,27 +182,27 @@ URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Der-1-Mai-in-Dobe
 END:VEVENT
 BEGIN:VEVENT
 UID:lkee-event-4806@amtsfeed.de
-DTSTAMP:20260526T090158Z
+DTSTAMP:20260911T110721Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20280101
 SUMMARY:Das Finsterwalder Sängerlied
 URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Das-Finsterwalder
  -S%C3%A4ngerlied.php?object=tx\,2112.2.1&ModID=11&FID=2112.4806.1&NavID=2
- 112.265&La=1&kat=2112.71
+ 112.265&kat=2112.71
 END:VEVENT
 BEGIN:VEVENT
 UID:lkee-event-4807@amtsfeed.de
-DTSTAMP:20260526T090158Z
+DTSTAMP:20260911T110721Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20280101
 SUMMARY:Chorwurm - Gemeinsames Singen durch die Jahrhunderte
 URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Chorwurm-Gemeinsa
  mes-Singen-durch-die-Jahrhunderte.php?object=tx\,2112.2.1&ModID=11&FID=21
- 12.4807.1&NavID=2112.265&La=1&kat=2112.71
+ 12.4807.1&NavID=2112.265&kat=2112.71
 END:VEVENT
 BEGIN:VEVENT
 UID:lkee-event-4808@amtsfeed.de
-DTSTAMP:20260526T090158Z
+DTSTAMP:20260911T110721Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20280101
 SUMMARY:"Die Schlacht bei Mühlberg 1547 und ihre Folgen"und "Mühlberg -
@@ -211,38 +211,37 @@ SUMMARY:"Die Schlacht bei Mühlberg 1547 und ihre Folgen"und "Mühlberg -
 URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/-Die-Schlacht-bei
  -M%C3%BChlberg-1547-und-ihre-Folgen-und-M%C3%BChlberg-Doppelstadt-an-der-
  Elbe-sowie-Die-Kriegsgefangenenlager-Stalag-IV-B-und-Speziallager-Nr-1-.p
- hp?object=tx\,2112.2.1&ModID=11&FID=2112.4808.1&NavID=2112.265&La=1&kat=2
- 112.71
+ hp?object=tx\,2112.2.1&ModID=11&FID=2112.4808.1&NavID=2112.265&kat=2112.7
+ 1
 END:VEVENT
 BEGIN:VEVENT
 UID:lkee-event-4803@amtsfeed.de
-DTSTAMP:20260526T090158Z
+DTSTAMP:20260911T110721Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20280101
 SUMMARY:Kaspers Welten
 URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Kaspers-Welten.ph
- p?object=tx\,2112.2.1&ModID=11&FID=2112.4803.1&NavID=2112.265&La=1&kat=21
- 12.71
+ p?object=tx\,2112.2.1&ModID=11&FID=2112.4803.1&NavID=2112.265&kat=2112.71
 END:VEVENT
 BEGIN:VEVENT
 UID:lkee-event-4804@amtsfeed.de
-DTSTAMP:20260526T090158Z
+DTSTAMP:20260911T110721Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20280101
 SUMMARY:Doberlug und das sächsische Brandenburg
 URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Doberlug-und-das-
  s%C3%A4chsische-Brandenburg.php?object=tx\,2112.2.1&ModID=11&FID=2112.480
- 4.1&NavID=2112.265&La=1&kat=2112.71
+ 4.1&NavID=2112.265&kat=2112.71
 END:VEVENT
 BEGIN:VEVENT
 UID:lkee-event-4805@amtsfeed.de
-DTSTAMP:20260526T090158Z
+DTSTAMP:20260911T110721Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20280101
 SUMMARY:Historischer Kolonialwarenladen von G. F. Wittke
 URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Historischer-Kolo
  nialwarenladen-von-G-F-Wittke.php?object=tx\,2112.2.1&ModID=11&FID=2112.4
- 805.1&NavID=2112.265&La=1&kat=2112.71
+ 805.1&NavID=2112.265&kat=2112.71
 END:VEVENT
 BEGIN:VEVENT
 UID:lkee-event-4704@amtsfeed.de
@@ -284,5 +283,77 @@ SUMMARY:Jubiläumsvortrag - 100 Jahre Museum Mühlberg
 URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Jubil%C3%A4umsvor
  trag-100-Jahre-Museum-M%C3%BChlberg.php?object=tx\,2112.2.1&ModID=11&FID=
  2112.4777.1&NavID=2112.265&La=1&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4809@amtsfeed.de
+DTSTAMP:20260911T110721Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20261109
+SUMMARY:Eine Stadt baut. Finsterwalde um 1930
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Eine-Stadt-baut-F
+ insterwalde-um-1930.php?object=tx\,2112.2.1&ModID=11&FID=2112.4809.1&NavI
+ D=2112.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4918@amtsfeed.de
+DTSTAMP:20260911T110721Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Schlössernacht Elbe-Elster: Volles Programm auf Schloss Doberlug
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Schl%C3%B6ssernac
+ ht-Elbe-Elster-Volles-Programm-auf-Schloss-Doberlug.php?object=tx\,2112.2
+ .1&ModID=11&FID=2112.4918.1&NavID=2112.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4919@amtsfeed.de
+DTSTAMP:20260911T110721Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Tag des offenen Wertstoffhofes in Herzberg
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Tag-des-offenen-W
+ ertstoffhofes-in-Herzberg.php?object=tx\,2112.2.1&ModID=11&FID=2112.4919.
+ 1&NavID=2112.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4891@amtsfeed.de
+DTSTAMP:20260911T110721Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Tag des offenen Denkmals in Doberlug-Kirchhain
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Tag-des-offenen-D
+ enkmals-in-Doberlug-Kirchhain.php?object=tx\,2112.2.1&ModID=11&FID=2112.4
+ 891.1&NavID=2112.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4737@amtsfeed.de
+DTSTAMP:20260911T110721Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Musikschulen öffnen Kirchen - Herbstkonzert
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Musikschulen-%C3%
+ B6ffnen-Kirchen-Herbstkonzert.php?object=tx\,2112.2.1&ModID=11&FID=2112.4
+ 737.1&NavID=2112.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4825@amtsfeed.de
+DTSTAMP:20260911T110721Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Musikalische Mittwochsandacht
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Musikalische-Mitt
+ wochsandacht.php?object=tx\,2112.2.1&ModID=11&FID=2112.4825.1&NavID=2112.
+ 265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4754@amtsfeed.de
+DTSTAMP:20260911T110721Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Historische Kostümführung - Mit Kammerjunker Michael und Kammer
+ zofe Annette Adelskultur in Doberlug entdecken
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Historische-Kost%
+ C3%BCmf%C3%BChrung-Mit-Kammerjunker-Michael-und-Kammerzofe-Annette-Adelsk
+ ultur-in-Doberlug-entdecken.php?object=tx\,2112.2.1&ModID=11&FID=2112.475
+ 4.1&NavID=2112.265&kat=2112.71
 END:VEVENT
 END:VCALENDAR

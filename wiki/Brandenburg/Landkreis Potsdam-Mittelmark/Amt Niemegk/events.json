@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:16:52.222Z",
+  "updatedAt": "2026-09-11T11:13:26.069Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -104,6 +104,53 @@
       "endDate": "2026-06-04T15:30:00.000Z",
       "fetchedAt": "2026-05-31T13:16:46.740Z",
       "updatedAt": "2026-05-31T13:16:52.219Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-09-11-2026-09-11",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-09-11",
+      "startDate": "2026-09-11T14:00:00.000Z",
+      "endDate": "2026-09-11T15:30:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:52.200Z",
+      "updatedAt": "2026-09-11T11:13:26.054Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-09-12-2026-09-12",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-09-12",
+      "startDate": "2026-09-12T14:00:00.000Z",
+      "endDate": "2026-09-12T15:30:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:52.200Z",
+      "updatedAt": "2026-09-11T11:13:26.054Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-09-13-2026-09-13",
+      "title": "Tag des Offenen Denkmals 13.09.2026",
+      "url": "https://amt-niemegk.de/events/muehlen-sonntag-offene-muehle-mit-kaffee-564-446-663-158/?occurrence=2026-09-13",
+      "startDate": "2026-09-13T10:00:00.000Z",
+      "endDate": "2026-09-13T18:00:00.000Z",
+      "location": "Turmwindmühle Niemegk",
+      "fetchedAt": "2026-09-11T09:59:52.200Z",
+      "updatedAt": "2026-09-11T11:13:26.054Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-09-14-2026-09-14",
+      "title": "Bibliothek mit Heidi, Mandy und Inga",
+      "url": "https://amt-niemegk.de/events/bibliothek-mit-heidi-und-mandy-539-585-258-411-969-294-833-496-666-910-861-827-728/?occurrence=2026-09-14&#038;time=1789396200",
+      "startDate": "2026-09-14T14:30:00.000Z",
+      "endDate": "2026-09-14T17:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-09-11T09:59:52.200Z",
+      "updatedAt": "2026-09-11T11:13:26.054Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-09-15-2026-09-15",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-09-15",
+      "startDate": "2026-09-15T14:00:00.000Z",
+      "endDate": "2026-09-15T15:30:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:52.200Z",
+      "updatedAt": "2026-09-11T11:13:26.054Z"
     }
   ]
 }

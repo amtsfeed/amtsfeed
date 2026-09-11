@@ -104,8 +104,9 @@ for (let i = 0; i < scrapers.length; i++) {
   const before = counts(dir);
   process.stdout.write(`[${i + 1}/${scrapers.length}] ${rel} ... `);
   const t0 = Date.now();
-  // 120 s reichten für Altlandsberg nicht (rund 160 s, weil pro Termin eine Detailseite geholt
-  // wird); 300 s lassen auch langsame Quellen durchlaufen, ohne einen Hänger ewig offen zu halten.
+  // 120 s reichten für Altlandsberg nicht (rund 170 s: altlandsberg.de braucht pro AJAX-Seite
+  // des Veranstaltungs-Listings 17–30 s und liefert dabei nur 4 Termine); 300 s lassen auch
+  // langsame Quellen durchlaufen, ohne einen Hänger ewig offen zu halten.
   const proc = spawnSync(tsxBin, [scraper], { cwd: ROOT, encoding: "utf-8", timeout: 300_000 });
   const durationMs = Date.now() - t0;
   const ok = proc.status === 0;

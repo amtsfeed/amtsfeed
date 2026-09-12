@@ -11,17 +11,28 @@ import { readFileSync, writeFileSync } from "node:fs";
 
 const ROOT = process.cwd();
 
+// 512 MB statt der Node-Vorgabe von 1 MB: die größten news.json liegen bereits über 1,5 MB, und
+// execSync wirft dann ENOBUFS. Früher landete dieser Fehler im selben catch wie "Datei ist neu",
+// die Datei wurde stillschweigend übersprungen und behielt ihre frischen updatedAt-Werte — jeder
+// Lauf erzeugte so einen Riesendiff ohne inhaltliche Änderung.
+const GIT_MAX_BUFFER = 512 * 1024 * 1024;
+
 function gitHead(path: string): string | null {
   try {
-    return execSync(`git show HEAD:"${path}"`, { encoding: "utf-8", cwd: ROOT, stdio: ["ignore", "pipe", "ignore"] });
-  } catch {
+    return execSync(`git show HEAD:"${path}"`, { encoding: "utf-8", cwd: ROOT, stdio: ["ignore", "pipe", "ignore"], maxBuffer: GIT_MAX_BUFFER });
+  } catch (err) {
+    // Datei existiert in HEAD nicht (neu angelegt) → null ist die richtige Antwort.
+    // Alles andere ist ein echter Fehler und darf nicht stumm verschluckt werden.
+    if ((err as NodeJS.ErrnoException)?.code === "ENOBUFS") {
+      throw new Error(`git show HEAD:"${path}" überschritt maxBuffer (${GIT_MAX_BUFFER} Bytes)`);
+    }
     return null;
   }
 }
 
 function modifiedJsonFiles(): string[] {
   // -uall: untracked Dateien einzeln auflisten (sonst nur Ordner ohne JSON-Pfade)
-  const out = execSync("git status --porcelain -uall -z", { encoding: "utf-8", cwd: ROOT });
+  const out = execSync("git status --porcelain -uall -z", { encoding: "utf-8", cwd: ROOT, maxBuffer: GIT_MAX_BUFFER });
   const entries = out.split("\0").filter(Boolean);
   const files: string[] = [];
   for (const e of entries) {

@@ -18,18 +18,29 @@ const ROOT = process.cwd();
 const KINDS = ["news", "events", "amtsblatt", "notices"] as const;
 type Kind = (typeof KINDS)[number];
 
+// Siehe normalize-updated-at.ts: ohne erhöhten maxBuffer wirft execSync bei Dateien über 1 MB
+// ENOBUFS. Der Fehler landete im selben catch wie "Datei ist neu" — die betroffene Quelle wurde
+// dann komplett als Neuzugang gezählt (z.B. "Heideblick +3898 news", obwohl unverändert).
+const GIT_MAX_BUFFER = 512 * 1024 * 1024;
+
 function gitHeadJson(path: string): unknown | null {
+  let txt: string;
   try {
-    const txt = execSync(`git show HEAD:"${path}"`, { encoding: "utf-8", cwd: ROOT, stdio: ["ignore", "pipe", "ignore"] });
-    return JSON.parse(txt);
-  } catch { return null; }
+    txt = execSync(`git show HEAD:"${path}"`, { encoding: "utf-8", cwd: ROOT, stdio: ["ignore", "pipe", "ignore"], maxBuffer: GIT_MAX_BUFFER });
+  } catch (err) {
+    if ((err as NodeJS.ErrnoException)?.code === "ENOBUFS") {
+      throw new Error(`git show HEAD:"${path}" überschritt maxBuffer (${GIT_MAX_BUFFER} Bytes)`);
+    }
+    return null; // Datei existiert in HEAD nicht → echter Neuzugang
+  }
+  try { return JSON.parse(txt); } catch { return null; }
 }
 
 function modifiedFiles(): string[] {
   // -uall: zeige untracked Dateien einzeln statt nur den Ordner zu listen.
   // Ohne den Flag würden neu angelegte Gemeinde-Ordner als "?? wiki/.../Foo/"
   // erscheinen und die JSON-Dateien darin nicht erkannt werden.
-  const out = execSync("git status --porcelain -uall -z", { encoding: "utf-8", cwd: ROOT });
+  const out = execSync("git status --porcelain -uall -z", { encoding: "utf-8", cwd: ROOT, maxBuffer: GIT_MAX_BUFFER });
   const files: string[] = [];
   for (const e of out.split("\0").filter(Boolean)) {
     const status = e.slice(0, 2);

@@ -77,6 +77,22 @@ function fmtDiff(before: number | null, after: number | null): string {
   return `${before} → ${after} (${sign}${d})`;
 }
 
+/**
+ * Holt die aussagekräftige Zeile aus einem Node-Stacktrace.
+ *
+ * Die letzten Zeilen eines Crashs sind "}" und "Node.js v22.x" — als Fehlermeldung wertlos.
+ * Interessant ist die Zeile mit der eigentlichen Exception (und bei HTTP-Fehlern die URL).
+ */
+function summarizeError(stderr: string, status: number | null): string {
+  const lines = stderr.split("\n").map((l) => l.trim()).filter(Boolean);
+  const errLine = lines.find((l) => /^[A-Za-z]*Error:/.test(l)) ?? lines.find((l) => /^Error\b|HTTP \d{3}/.test(l));
+  const cause = lines.find((l) => /^\[cause\]|cause:|ECONN|ETIMEDOUT|ENOTFOUND|certificate/i.test(l));
+  const parts = [errLine, cause].filter(Boolean) as string[];
+  if (parts.length) return parts.join(" | ").slice(0, 300);
+  // Kein erkennbarer Fehler (z.B. SIGTERM durch Timeout) → letzte Zeilen als Notnagel
+  return (lines.slice(-3).join(" | ") || `exit ${status}`).slice(0, 300);
+}
+
 interface Result {
   path: string;
   ok: boolean;
@@ -112,7 +128,7 @@ for (let i = 0; i < scrapers.length; i++) {
   const ok = proc.status === 0;
   const after = counts(dir);
   const latest = latestFetchedAt(dir);
-  const err = ok ? undefined : (proc.stderr.trim().split("\n").slice(-3).join(" | ") || `exit ${proc.status}`);
+  const err = ok ? undefined : summarizeError(proc.stderr, proc.status);
   results.push({ path: rel, ok, durationMs, before, after, latestFetchedAt: latest, error: err });
   console.log(ok ? `OK (${durationMs}ms)` : `FAILED (${durationMs}ms)`);
   if (!ok) console.log(`   ${err}`);

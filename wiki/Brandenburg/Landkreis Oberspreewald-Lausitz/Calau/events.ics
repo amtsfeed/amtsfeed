@@ -662,20 +662,11 @@ URL:https://www.calau.de/veranstaltungen/2822077/2026/09/13/kirchturmfüh
  rungen-ohne-anmeldung.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2947951@amtsfeed.de
-DTSTAMP:20260911T111229Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:"Tag des offenen Denkmals" im Rittergut Kemmen
-URL:https://www.calau.de/veranstaltungen/2947951/2026/09/13/tag-des-offen
- en-denkmals-im-rittergut-kemmen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2941780@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260912T080558Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-SUMMARY:"Tag des offenen Denkmals" im Schloss Groß Mehßow
+SUMMARY:13.09.2026   "Tag des offenen Denkmals" im Schloss Groß Mehßow
 URL:https://www.calau.de/veranstaltungen/2941780/2026/09/13/tag-des-offen
  en-denkmals-im-schloss-groß-mehßow.html
 END:VEVENT
@@ -690,12 +681,21 @@ URL:https://www.calau.de/veranstaltungen/2948064/2026/09/13/tag-des-offen
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2947241@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260912T080558Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-SUMMARY:"Tag des offenen Denkmals" im Herrenhaus Groß Jehser
+SUMMARY:13.09.2026   "Tag des offenen Denkmals" im Herrenhaus Groß Jehse
+ r
 URL:https://www.calau.de/veranstaltungen/2947241/2026/09/13/tag-des-offen
  en-denkmals-im-herrenhaus-groß-jehser.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2947951@amtsfeed.de
+DTSTAMP:20260912T080558Z
+DTSTART:20260913T100000Z
+SUMMARY:"Tag des offenen Denkmals" im Rittergut Kemmen
+URL:https://www.calau.de/veranstaltungen/2947951/2026/09/13/tag-des-offen
+ en-denkmals-im-rittergut-kemmen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2898939@amtsfeed.de

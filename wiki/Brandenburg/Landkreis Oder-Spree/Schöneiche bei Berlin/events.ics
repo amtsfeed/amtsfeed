@@ -142,4 +142,21 @@ SUMMARY:Tag d. offenen Denkmals
 URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/tag-d-offene
  n-denkmals-3
 END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-kinder-und-familienfest@amtsfeed.de
+DTSTAMP:20260912T080702Z
+DTSTART:20260918T150000Z
+SUMMARY:Kinder- und Familienfest
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/kinder-und-f
+ amilienfest
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-offene-ateliers-in-schoeneiche-und-woltersdorf@amts
+ feed.de
+DTSTAMP:20260912T080702Z
+DTSTART:20260919T110000Z
+SUMMARY:Offene Ateliers in Schöneiche und Woltersdorf
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/offene-ateli
+ ers-in-schoeneiche-und-woltersdorf
+END:VEVENT
 END:VCALENDAR

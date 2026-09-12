@@ -208,42 +208,6 @@ SUMMARY:Rad-Scharmützel 2026
 URL:https://www.scharmuetzelsee.de/event/rad-scharmuetzel-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260911T111244Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
-DTSTAMP:20260911T111244Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Linienfahrten Hauptsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
- ch
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-flammender-scharmuetzelsee-2026@amtsfeed.de
-DTSTAMP:20260911T111244Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260914
-SUMMARY:Flammender Scharmützelsee 2026
-URL:https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20260911T111244Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
  durch-die-ortsgeschichte@amtsfeed.de
 DTSTAMP:20260911T111244Z
@@ -275,6 +239,42 @@ URL:https://www.scharmuetzelsee.de/event/fuehrung-mit-den-gefaehrten-der-
  nacht-in-storkow
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20260912T080634Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
+DTSTAMP:20260912T080634Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Linienfahrten Hauptsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
+ ch
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-flammender-scharmuetzelsee-2026@amtsfeed.de
+DTSTAMP:20260912T080634Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Flammender Scharmützelsee 2026
+URL:https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20260912T080634Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-flammender-scharmuetzelsee@amtsfeed.de
 DTSTAMP:20260911T111244Z
 DTSTART;VALUE=DATE:20260912
@@ -292,6 +292,53 @@ SUMMARY:Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen
  – Ein Rundgang durch die Ortsgeschichte
 URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-
  dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
+ feed.de
+DTSTAMP:20260912T080634Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Stadtführung durch Storkow mit dem grünen Lutz
+URL:https://www.scharmuetzelsee.de/event/stadtfuehrung-durch-storkow-mit-
+ dem-gruenen-lutz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-golf-schnupperkurs@amtsfeed.de
+DTSTAMP:20260912T080634Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Aktiv Wochenplan - Golf-Schnupperkurs
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-golf-schnupperk
+ urs
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-perlen-im-glas-der-feine-unterschied@amtsfeed.de
+DTSTAMP:20260912T080634Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Perlen im Glas - der feine Unterschied
+URL:https://www.scharmuetzelsee.de/event/perlen-im-glas-der-feine-untersc
+ hied
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-flamed-flying-food@amtsfeed.de
+DTSTAMP:20260912T080634Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Flamed Flying Food
+URL:https://www.scharmuetzelsee.de/event/flamed-flying-food
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-lieder-der-romantik-klavierabend-mit-regina-chernychk
+ o-in-kooperation-mit-der-juedischen-gemeinde-kw@amtsfeed.de
+DTSTAMP:20260912T080634Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:„Lieder der Romantik“ – Klavierabend mit Regina Chernychko 
+ in Kooperation mit der jüdischen Gemeinde KW
+URL:https://www.scharmuetzelsee.de/event/lieder-der-romantik-klavierabend
+ -mit-regina-chernychko-in-kooperation-mit-der-juedischen-gemeinde-kw
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de

@@ -1,5 +1,57 @@
 # Updates
 
+## 2026-09-12 08:08
+
+Insgesamt **7247 neu**, **604 aktualisiert**, **1 entfernt** in 45 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Friesack | +1 | — | — | — |
+| Amt Lebus | — | ~3 | — | — |
+| Amt Neuzelle | +1 | +2 | — | — |
+| Amt Niemegk | +1 | — | — | — |
+| Amt Scharmützelsee | — | -1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +5 / ~4 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Freienwalde (Oder) | — | +2 | — | — |
+| Beeskow | — | +84 / ~33 | +1 | — |
+| Bernau bei Berlin | +1 | — | — | — |
+| Calau | — | ~3 | — | — |
+| Doberlug-Kirchhain | +2 | +2 | — | — |
+| Eberswalde | — | +1 | — | — |
+| Eisenhüttenstadt | ~3 | +3 / ~9 | — | — |
+| Falkensee | +2 | +1 | +1 | — |
+| Friedland | — | ~2 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Gransee | — | ~124 | — | — |
+| Groß Kreutz | — | ~31 | — | — |
+| Großräschen | +1 | — | — | — |
+| Heideblick | +3898 | — | — | — |
+| Hohen Neuendorf | +2 | +1 | — | — |
+| Hoppegarten | — | +1 | — | — |
+| Kleinmachnow | — | +3 | — | — |
+| Landkreis Havelland (LK-Ebene) | +1 | — | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | +2893 | — | — | — |
+| Leegebruch | — | +1 / ~1 | — | — |
+| Lübbenau Spreewald | — | +303 / ~13 | — | — |
+| Michendorf | — | ~1 | — | — |
+| Mühlenbecker Land | — | +5 | — | — |
+| Oberkrämer | — | +1 / ~1 | — | — |
+| Oderbruch / Amt Seelow-Land | — | +1 | — | — |
+| Oranienburg | — | +4 | — | — |
+| Premnitz | — | +5 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Schönefeld | ~1 | ~30 | — | — |
+| Schöneiche bei Berlin | — | +2 | — | — |
+| Schönwalde-Glien | — | ~284 | — | — |
+| Schwielowsee | — | +1 | — | — |
+| Senftenberg | +1 / ~1 | +8 | — | — |
+| Storkow (Mark) | — | +1 | — | — |
+| Wandlitz | — | +1 | +1 | — |
+| Werder (Havel) | — | +1 / ~24 | — | — |
+| Wiesenburg-Mark | +1 | ~3 | — | — |
+
 ## 2026-09-11 13:14
 
 Insgesamt **15501 neu**, **1277 aktualisiert**, **123 entfernt** in 129 Quellen.

@@ -917,4 +917,46 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  e.php?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7781.1&amp\;NavID=296
  7.39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7985@amtsfeed.de
+DTSTAMP:20260912T080540Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Edener Apfelfest
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Edener-Apfelfest.php?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.79
+ 85.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7988@amtsfeed.de
+DTSTAMP:20260912T080540Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:20-jähriges Jubiläum BioKräuterei Oberhavel
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/20-j%C3%A4hriges-Jubil%C3%A4um-BioKr%C3%A4uterei-Oberhavel.php?object
+ =tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7988.1&amp\;NavID=2967.39&amp\;sf
+ reg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7953@amtsfeed.de
+DTSTAMP:20260912T080540Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Traumschüff-Theater: &raquo\;Unter Foultieren&laquo\;
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Traumsch%C3%BCff-Theater-Unter-Foultieren-.php?object=tx\,2967.4&amp\
+ ;ModID=11&amp\;FID=2967.7953.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8000@amtsfeed.de
+DTSTAMP:20260912T080540Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Oranienburger Orgelherbst in der Dorfkirche Germendorf
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Oranienburger-Orgelherbst-in-der-Dorfkirche-Germendorf.php?object=tx\
+ ,2967.4&amp\;ModID=11&amp\;FID=2967.8000.1&amp\;NavID=2967.39&amp\;sfreg=
+ 1&amp\;bn=1
+END:VEVENT
 END:VCALENDAR

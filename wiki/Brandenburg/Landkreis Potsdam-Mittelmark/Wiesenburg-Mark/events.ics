@@ -636,33 +636,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2889592/2026/09/06/toma
  tenfestival.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2384489@amtsfeed.de
-DTSTAMP:20260911T111350Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Öffnung des Schenkraums
-URL:https://www.wiesenburgmark.de/veranstaltungen/2384489/2026/09/11/öff
- nung-des-schenkraums.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2860448@amtsfeed.de
-DTSTAMP:20260911T111350Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Yoga für Schwangere
-URL:https://www.wiesenburgmark.de/veranstaltungen/2860448/2026/09/11/yoga
- -für-schwangere.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2384491@amtsfeed.de
-DTSTAMP:20260911T111350Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Zwergenturnen - Bewegung für Kinder zwischen 1 - 3 Jahren
-URL:https://www.wiesenburgmark.de/veranstaltungen/2384491/2026/09/11/zwer
- genturnen-bewegung-für-kinder-zwischen-1-3-jahren.html
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2958254@amtsfeed.de
 DTSTAMP:20260911T111350Z
 DTSTART;VALUE=DATE:20260911
@@ -846,6 +819,33 @@ SUMMARY:Sanftes Hatha-Yoga - Beweglichkeit entspannt erweitern. Einführu
  ng
 URL:https://www.wiesenburgmark.de/veranstaltungen/2931602/2026/09/17/sanf
  tes-hatha-yoga-beweglichkeit-entspannt-erweitern.-einführung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2384489@amtsfeed.de
+DTSTAMP:20260912T080810Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Öffnung des Schenkraums
+URL:https://www.wiesenburgmark.de/veranstaltungen/2384489/2026/09/18/öff
+ nung-des-schenkraums.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2860448@amtsfeed.de
+DTSTAMP:20260912T080810Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Yoga für Schwangere
+URL:https://www.wiesenburgmark.de/veranstaltungen/2860448/2026/09/18/yoga
+ -für-schwangere.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2384491@amtsfeed.de
+DTSTAMP:20260912T080810Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Zwergenturnen - Bewegung für Kinder zwischen 1 - 3 Jahren
+URL:https://www.wiesenburgmark.de/veranstaltungen/2384491/2026/09/18/zwer
+ genturnen-bewegung-für-kinder-zwischen-1-3-jahren.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2964924@amtsfeed.de

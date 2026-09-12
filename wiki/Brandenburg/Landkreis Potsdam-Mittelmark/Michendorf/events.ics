@@ -664,15 +664,6 @@ URL:https://www.michendorf.de/veranstaltungen/2950239/2026/09/10/schmerzl
  inderung-durch-autogenes-training.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959541@amtsfeed.de
-DTSTAMP:20260911T111336Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959541/2026/09/11/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2944577@amtsfeed.de
 DTSTAMP:20260911T111336Z
 DTSTART;VALUE=DATE:20260911
@@ -816,6 +807,15 @@ DTEND;VALUE=DATE:20260918
 SUMMARY:Im Gespräch in Fresdorf
 URL:https://www.michendorf.de/veranstaltungen/2938941/2026/09/17/im-gespr
  äch-in-fresdorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959541@amtsfeed.de
+DTSTAMP:20260912T080741Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959541/2026/09/18/jugendcl
+ ub-micheck-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2854057@amtsfeed.de

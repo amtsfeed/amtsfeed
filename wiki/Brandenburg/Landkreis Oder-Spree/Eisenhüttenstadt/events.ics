@@ -587,19 +587,6 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  La-Vigna-Blockfl%C3%B6te-und-Theorbe-.php?ModID=11&amp\;FID=2852.1955.1
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20260911T111258Z
-DTSTART:20260911T111258Z
-SUMMARY:Veranstaltungen
-URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1
-END:VEVENT
-BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1737-1@amtsfeed.de
 DTSTAMP:20260911T111258Z
 DTSTART;VALUE=DATE:20260912
@@ -668,6 +655,19 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
 LOCATION:Anleger "Bollwerk" im OT Fürstenberg (Oder)
 END:VEVENT
 BEGIN:VEVENT
+UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
+DTSTAMP:20260912T080648Z
+DTSTART:20260912T080648Z
+SUMMARY:Veranstaltungen
+URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1
+END:VEVENT
+BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1958-1@amtsfeed.de
 DTSTAMP:20260911T111258Z
 DTSTART;VALUE=DATE:20260913
@@ -680,15 +680,14 @@ LOCATION:Kunsthof\, Eisenhüttenstadt OT Fürstenberg
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1933-1@amtsfeed.de
-DTSTAMP:20260911T111258Z
+DTSTAMP:20260912T080648Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Sonderfahrt zur Kersdorfer Schleuse
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Sonderfahrt-zur-Kersdo
  rfer-Schleuse.php?ModID=11&amp\;FID=2852.1933.1
-LOCATION:das Zusammenspiel von Wasser\, Technik und Schifffahrt.   Übrig
- ens
+LOCATION:Raddampfer Alexander
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1950-1@amtsfeed.de
@@ -724,23 +723,25 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1934-1@amtsfeed.de
-DTSTAMP:20260911T111258Z
+DTSTAMP:20260912T080648Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:EKO - Tour mit dem Raddampfer "Alexander"
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/EKO-Tour-mit-dem-Radda
  mpfer-Alexander-.php?ModID=11&amp\;FID=2852.1934.1
+LOCATION:Raddampfer Alexander
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1710-1@amtsfeed.de
-DTSTAMP:20260911T111258Z
+DTSTAMP:20260912T080648Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Konzert mit Felix Reuter  Ich steh´ auf Klavier
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Konzert-mit-Felix-Reut
  er-Ich-steh-auf-Klavier.php?ModID=11&amp\;FID=2852.1710.1
+LOCATION:Städtisches Museum
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1793-1@amtsfeed.de
@@ -777,65 +778,58 @@ LOCATION:den Pop-Olymp und war der Grundstein einer einzigartigen\,  bis
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1915-1@amtsfeed.de
-DTSTAMP:20260911T111258Z
+DTSTAMP:20260912T080648Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:"Das Weite suchen" - Die Umbruchjahre im Fokus von Gerd Markert
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-Das-Weite-suchen-Die-
  Umbruchjahre-im-Fokus-von-Gerd-Markert.php?ModID=11&amp\;FID=2852.1915.1
-LOCATION:Eisenhüttenstadt geborene Pressefotograf zeigt und kommentiert 
- Fotos aus Ostbrandenburg. Eine Veranstaltung im Rahmen der Sonderausstell
- ung "Das Weite suchen. Fotografien aus der späten DDR und frühen 1990er
-  Jahre".   Das Weite suchen lädt mit Fotografien von 1983 bis 1995 dazu 
- ein\, sich mit der Transformation Ostdeutschlands auseinanderzusetzen und
-  neue Perspektiven zu entdecken.  In der späten DDR\, in der die Zeit st
- ill zu stehen schien und sich gleichzeitig Aufbrüche abzeichneten\, fand
- en Fotograf
+LOCATION:Museum Utopie und Alltag
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1935-1@amtsfeed.de
-DTSTAMP:20260911T111258Z
+DTSTAMP:20260912T080648Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Schleusen - Tour mit dem Raddampfer "Alexander"
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem
  -Raddampfer-Alexander-.php?ModID=11&amp\;FID=2852.1935.1
-LOCATION:einzigartiger Kulisse.  Anlegestelle
+LOCATION:Raddampfer Alexander
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1936-1@amtsfeed.de
-DTSTAMP:20260911T111258Z
+DTSTAMP:20260912T080648Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Schleusen - Tour mit dem Raddampfer "Alexander"
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem
  -Raddampfer-Alexander-.php?ModID=11&amp\;FID=2852.1936.1
-LOCATION:einzigartiger Kulisse.  Anlegestelle
+LOCATION:Raddampfer Alexander
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1938-1@amtsfeed.de
-DTSTAMP:20260911T111258Z
+DTSTAMP:20260912T080648Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Schleusen - Tour mit dem Raddampfer "Alexander"
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem
  -Raddampfer-Alexander-.php?ModID=11&amp\;FID=2852.1938.1
-LOCATION:einzigartiger Kulisse.  Anlegestelle
+LOCATION:Raddampfer Alexander
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1937-1@amtsfeed.de
-DTSTAMP:20260911T111258Z
+DTSTAMP:20260912T080648Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Schleusen - Tour mit dem Raddampfer "Alexander"
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem
  -Raddampfer-Alexander-.php?ModID=11&amp\;FID=2852.1937.1
-LOCATION:einzigartiger Kulisse.  Anlegestelle
+LOCATION:Raddampfer Alexander
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1890-1@amtsfeed.de
@@ -847,5 +841,39 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/The-ABERLOUR-S.php?Mod
  ID=11&amp\;FID=2852.1890.1
 LOCATION:kleine bühne
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1828-1@amtsfeed.de
+DTSTAMP:20260912T080648Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:PfiFf - Pflege in Familie fördern
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/PfiFf-Pflege-in-Famili
+ e-f%C3%B6rdern.php?ModID=11&amp\;FID=2852.1828.1
+LOCATION:Städtisches Krankenhaus Eisenhüttenstadt GmbH
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1738-1@amtsfeed.de
+DTSTAMP:20260912T080648Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Öffentliche Stadtführung "Planstadt Eisenhüttenstadt"
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/%C3%96ffentliche-Stadt
+ f%C3%BChrung-Planstadt-Eisenh%C3%BCttenstadt-.php?ModID=11&amp\;FID=2852.
+ 1738.1
+LOCATION:Tourismusinformation
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1760-1@amtsfeed.de
+DTSTAMP:20260912T080648Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Lost Places Führung durch das DDR-Hotel LUNIK
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Lost-Places-F%C3%BChru
+ ng-durch-das-DDR-Hotel-LUNIK.php?ModID=11&amp\;FID=2852.1760.1
+LOCATION:Tourismusinformation
 END:VEVENT
 END:VCALENDAR

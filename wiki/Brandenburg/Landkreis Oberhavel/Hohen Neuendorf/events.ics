@@ -208,4 +208,13 @@ SUMMARY:Tag des offenen Denkmals
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  tag-des-offenen-denkmals
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-mach-mit-fit-18@amtsfeed.de
+DTSTAMP:20260912T080523Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Mach-Mit-Fit
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ mach-mit-fit-18
+END:VEVENT
 END:VCALENDAR

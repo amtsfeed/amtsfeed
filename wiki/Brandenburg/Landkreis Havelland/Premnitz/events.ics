@@ -9762,6 +9762,15 @@ URL:https://www.premnitz.de/veranstaltungen/2938647/2026/09/27/ingeborg-b
  achmann--jemand-der-einmal-ich-war.html
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2965771-20260927@amtsfeed.de
+DTSTAMP:20260912T080038Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Pharos
+URL:https://www.premnitz.de/veranstaltungen/2965771/2026/09/27/pharos.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2906476-20260928@amtsfeed.de
 DTSTAMP:20260911T110747Z
 DTSTART;VALUE=DATE:20260928
@@ -11335,5 +11344,42 @@ SUMMARY:Schloss Paretz: Königskinder &ndash\; Wie das Leben im Schloss w
  irklich war
 URL:https://www.premnitz.de/veranstaltungen/2872804/2026/10/11/schloss-pa
  retz-königskinder--wie-das-leben-im-schloss-wirklich-war.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2954323-20261012@amtsfeed.de
+DTSTAMP:20260912T080038Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Mosaik-Workshop
+URL:https://www.premnitz.de/veranstaltungen/2954323/2026/10/12/mosaik-wor
+ kshop.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2861854-20261012@amtsfeed.de
+DTSTAMP:20260912T080038Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Streifzug durch Caputh
+URL:https://www.premnitz.de/veranstaltungen/2861854/2026/10/12/streifzug-
+ durch-caputh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2896428-20261012@amtsfeed.de
+DTSTAMP:20260912T080038Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Tokatha - Mittagsmusiken
+URL:https://www.premnitz.de/veranstaltungen/2896428/2026/10/12/tokatha-mi
+ ttagsmusiken.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2945242-20261012@amtsfeed.de
+DTSTAMP:20260912T080038Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:&bdquo\;Lass uns reden&ldquo\; &ndash\; Bürgergespräche in Prem
+ nitz
+URL:https://www.premnitz.de/veranstaltungen/2945242/2026/10/12/lass-uns-r
+ eden--bürgergespräche-in-premnitz.html
 END:VEVENT
 END:VCALENDAR

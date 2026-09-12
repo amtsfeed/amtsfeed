@@ -782,32 +782,12 @@ DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
 END:VEVENT
 BEGIN:VEVENT
-UID:2464906@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/09/11/selbstver
- teidigung-für-kinder-von-5-13-jahren.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464907@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/09/11/selbstver
- teidigung-für-jugendliche-ab-13-jahren.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2955796@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
+DTSTAMP:20260912T080358Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
 SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/11/hör-mal-
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/12/hör-mal-
  -reiseperle-lebuser-land.html
 DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
@@ -1042,6 +1022,26 @@ DESCRIPTION:Liebe Mallnower\,  in diesem Jahr kommen wir wieder mit den
  e geben uns ein Zeichnen an der Haustür\, Gartentor!!! ( Luftballon\, Wi
  mpelchen\, Tüte. Gerne können Sie Ihre Geben auch ...
 LOCATION:Mallnow
+END:VEVENT
+BEGIN:VEVENT
+UID:2464906@amtsfeed.de
+DTSTAMP:20260912T080358Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/09/18/selbstver
+ teidigung-für-kinder-von-5-13-jahren.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464907@amtsfeed.de
+DTSTAMP:20260912T080358Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/09/18/selbstver
+ teidigung-für-jugendliche-ab-13-jahren.html
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2873353@amtsfeed.de

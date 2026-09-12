@@ -1,19 +1,11 @@
 {
-  "updatedAt": "2026-09-11T11:12:17.580Z",
+  "updatedAt": "2026-09-12T08:05:36.871Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
       "title": "Erste Elternversammlung (Klasse 1-6)",
       "url": "https://www.oberkraemer.de/veranstaltungen/2962211/2026/09/07/erste-elternversammlung-klasse-1-6.html",
       "startDate": "2026-09-07T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-11T11:12:17.608Z"
-    },
-    {
-      "id": "oberkraemer-event-2855745",
-      "title": "Schach",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855745/2026/09/11/schach.html",
-      "startDate": "2026-09-11T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
@@ -152,6 +144,14 @@
       "startDate": "2026-09-17T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2855745",
+      "title": "Schach",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855745/2026/09/18/schach.html",
+      "startDate": "2026-09-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-09-12T08:05:36.884Z"
     },
     {
       "id": "oberkraemer-event-2891489",
@@ -712,6 +712,14 @@
       "startDate": "2026-11-11T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2962222",
+      "title": "Fototermine",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962222/2026/11/12/fototermine.html",
+      "startDate": "2026-11-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-12T08:05:36.884Z",
+      "updatedAt": "2026-09-12T08:05:36.884Z"
     }
   ]
 }

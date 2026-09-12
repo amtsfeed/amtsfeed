@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:12:11.209Z",
+  "updatedAt": "2026-09-12T08:05:27.297Z",
   "items": [
     {
       "id": "leegebruch-event-2892673",
@@ -62,11 +62,11 @@
     },
     {
       "id": "leegebruch-event-2931321",
-      "title": "Lese- und Bastelstunde",
+      "title": "Schließzeiten der in der Trägerschaft der Gemeinde Leegebruch befindlichen Kindertagesstätte",
       "url": "https://www.leegebruch.de/veranstaltungen/2931321/2026/09/24/lese-und-bastelstunde.html",
       "startDate": "2026-09-24T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:26.761Z",
-      "updatedAt": "2026-09-11T11:12:11.208Z"
+      "updatedAt": "2026-09-12T08:05:27.295Z"
     },
     {
       "id": "leegebruch-event-2947252",
@@ -76,6 +76,14 @@
       "location": "Sitzungssaal des Rathauses",
       "fetchedAt": "2026-09-11T09:58:26.761Z",
       "updatedAt": "2026-09-11T11:12:11.208Z"
+    },
+    {
+      "id": "leegebruch-event-2931318",
+      "title": "Lese- und Bastelstunde",
+      "url": "https://www.leegebruch.de/veranstaltungen/2931318/2026/10/08/lese-und-bastelstunde.html",
+      "startDate": "2026-10-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-12T08:05:27.295Z",
+      "updatedAt": "2026-09-12T08:05:27.295Z"
     }
   ]
 }

@@ -78,10 +78,11 @@ URL:https://www.leegebruch.de/veranstaltungen/2931328/2026/09/11/große-a
 END:VEVENT
 BEGIN:VEVENT
 UID:leegebruch-event-2931321@amtsfeed.de
-DTSTAMP:20260911T111211Z
+DTSTAMP:20260912T080527Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:Lese- und Bastelstunde
+SUMMARY:Schließzeiten der in der Trägerschaft der Gemeinde Leegebruch b
+ efindlichen Kindertagesstätte
 URL:https://www.leegebruch.de/veranstaltungen/2931321/2026/09/24/lese-und
  -bastelstunde.html
 END:VEVENT
@@ -94,5 +95,14 @@ SUMMARY:Gemeindevertretung tagt am
 URL:https://www.leegebruch.de/veranstaltungen/2947252/2026/09/24/gemeinde
  vertretung-tagt-am.html
 LOCATION:Sitzungssaal des Rathauses
+END:VEVENT
+BEGIN:VEVENT
+UID:leegebruch-event-2931318@amtsfeed.de
+DTSTAMP:20260912T080527Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Lese- und Bastelstunde
+URL:https://www.leegebruch.de/veranstaltungen/2931318/2026/10/08/lese-und
+ -bastelstunde.html
 END:VEVENT
 END:VCALENDAR

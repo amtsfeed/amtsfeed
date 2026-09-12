@@ -16,15 +16,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2962211/2026/09/07/erste-e
  lternversammlung-klasse-1-6.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855745@amtsfeed.de
-DTSTAMP:20260911T111217Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Schach
-URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/09/11/schach.
- html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2937270@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20260911
@@ -176,6 +167,15 @@ DTEND;VALUE=DATE:20260918
 SUMMARY:Klönkaffee-Nachmittag
 URL:https://www.oberkraemer.de/veranstaltungen/2855863/2026/09/17/klönka
  ffee-nachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855745@amtsfeed.de
+DTSTAMP:20260912T080536Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Schach
+URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/09/18/schach.
+ html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2891489@amtsfeed.de
@@ -809,5 +809,14 @@ DTEND;VALUE=DATE:20261112
 SUMMARY:Sankt Martin\, Wir sind dabei
 URL:https://www.oberkraemer.de/veranstaltungen/2961769/2026/11/11/sankt-m
  artin-wir-sind-dabei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962222@amtsfeed.de
+DTSTAMP:20260912T080536Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Fototermine
+URL:https://www.oberkraemer.de/veranstaltungen/2962222/2026/11/12/fototer
+ mine.html
 END:VEVENT
 END:VCALENDAR

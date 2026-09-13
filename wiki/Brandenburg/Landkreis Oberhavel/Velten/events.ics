@@ -742,4 +742,36 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Freier
  -Chor-Velten-Singen-verbindet-.php?object=tx\,3631.4.1&amp\;ModID=11&amp\
  ;FID=3631.1131.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1078@amtsfeed.de
+DTSTAMP:20260913T082836Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Fit am Rathaus: Pound - Rockout Workout (Wannis Tanzstudio)
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am
+ -Rathaus-Pound-Rockout-Workout-Wannis-Tanzstudio-.php?object=tx\,3631.4.1
+ &amp\;ModID=11&amp\;FID=3631.1078.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;
+ sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1166@amtsfeed.de
+DTSTAMP:20260913T082836Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Bürgerhaushalt 2025: Musikalische Früherziehung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/B%C3%B
+ Crgerhaushalt-2025-Musikalische-Fr%C3%BCherziehung.php?object=tx\,3631.4.
+ 1&amp\;ModID=11&amp\;FID=3631.1166.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\
+ ;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1024@amtsfeed.de
+DTSTAMP:20260913T082836Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1024.1&amp\;Nav
+ ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
 END:VCALENDAR

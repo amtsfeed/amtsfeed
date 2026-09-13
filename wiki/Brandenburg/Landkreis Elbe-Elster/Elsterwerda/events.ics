@@ -893,4 +893,27 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:Weihnachtsmarkt
 URL:https://www.elsterwerda.de/veranstaltung/weihnachtsmarkt/
 END:VEVENT
+BEGIN:VEVENT
+UID:10001051@amtsfeed.de
+DTSTAMP:20260913T082247Z
+DTSTART:20261217T150000Z
+SUMMARY:Trauercafé Elsterwerda
+URL:https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2026-
+ 12-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:23285@amtsfeed.de
+DTSTAMP:20260913T082247Z
+DTSTART:20261217T163000Z
+SUMMARY:Adventsglühen
+URL:https://www.elsterwerda.de/veranstaltung/adventgluehen-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:22552@amtsfeed.de
+DTSTAMP:20260913T082247Z
+DTSTART:20261218T160000Z
+SUMMARY:Adventszauber rund um den Wasserturm
+URL:https://www.elsterwerda.de/veranstaltung/adventszauber-rund-um-den-wa
+ sserturm/
+END:VEVENT
 END:VCALENDAR

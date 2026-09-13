@@ -1,5 +1,61 @@
 # Updates
 
+## 2026-09-13 08:31
+
+Insgesamt **392 neu**, **160 aktualisiert**, **3 entfernt** in 49 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~2 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Märkische Schweiz | +3 | — | — | — |
+| Amt Neuzelle | — | +8 | — | — |
+| Amt Niemegk | — | +1 / ~1 | — | — |
+| Amt Plessa | — | ~1 | — | — |
+| Amt Scharmützelsee | — | -3 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +3 / ~3 | — | — |
+| Amt Schenkenländchen | — | +1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Freienwalde (Oder) | +1 | — | — | — |
+| Brieselang | — | +1 | — | — |
+| Calau | — | ~3 | — | — |
+| Doberlug-Kirchhain | +1 | — | — | — |
+| Eberswalde | — | +3 | — | — |
+| Eisenhüttenstadt | — | +6 / ~1 | — | — |
+| Elsterwerda | — | +3 | — | — |
+| Falkensee | — | +2 | — | — |
+| Friedland | — | ~2 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Fürstenwalde-Spree | — | +1 | — | — |
+| Groß Kreutz | — | ~29 | — | — |
+| Großräschen | — | ~1 | — | — |
+| Hohen Neuendorf | — | +4 | — | — |
+| Kleinmachnow | — | +1 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +2 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +2 | — | — |
+| Löwenberger Land | — | +1 | — | — |
+| Lübbenau Spreewald | — | +282 / ~31 | — | — |
+| Mühlenbecker Land | — | +3 | — | — |
+| Oberkrämer | — | +2 | — | — |
+| Oderbruch / Amt Seelow-Land | +2 | — | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | — | ~5 | — | — |
+| Oranienburg | — | +3 | — | — |
+| Premnitz | — | +2 | — | — |
+| Rietz-Neuendorf | — | ~1 | ~2 | — |
+| Schönefeld | ~1 | ~30 | — | — |
+| Schöneiche bei Berlin | — | +2 | — | — |
+| Senftenberg | — | +9 | — | — |
+| Storkow (Mark) | +1 | — | — | — |
+| Strausberg | — | +1 | — | — |
+| Tauche | — | +1 | — | — |
+| Uebigau-Wahrenbrück | +1 | — | — | — |
+| Velten | — | +3 | — | — |
+| Vetschau Spreewald | — | +35 | — | — |
+| Werder (Havel) | — | ~12 | — | — |
+| Werneuchen | — | +1 | — | — |
+| Wiesenburg-Mark | — | ~1 | — | — |
+
 ## 2026-09-12 08:08
 
 Insgesamt **7247 neu**, **604 aktualisiert**, **1 entfernt** in 45 Quellen.

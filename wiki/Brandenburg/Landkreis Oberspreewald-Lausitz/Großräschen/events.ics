@@ -237,15 +237,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2928303/2026/09/11/jobce
  nter-digital-wie-nutze-ich-online-services.html
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2837702@amtsfeed.de
-DTSTAMP:20260911T111229Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Eltern-Kind-Sport
-URL:https://www.grossraeschen.de/veranstaltungen/2837702/2026/09/12/elter
- n-kind-sport.html
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2958195@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20260912
@@ -505,6 +496,15 @@ DTEND;VALUE=DATE:20261009
 SUMMARY:Musikalische Lesung mit Frank Liebe  - "Thriller meets Hörspiel"
 URL:https://www.grossraeschen.de/veranstaltungen/2961243/2026/10/08/musik
  alische-lesung-mit-frank-liebe-thriller-meets-hörspiel.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2837702@amtsfeed.de
+DTSTAMP:20260913T082855Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.grossraeschen.de/veranstaltungen/2837702/2026/10/10/elter
+ n-kind-sport.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2957427@amtsfeed.de

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:24:39.355Z",
+  "updatedAt": "2026-09-13T08:21:38.379Z",
   "items": [
     {
       "id": "werneuchen-event-900001442",
@@ -32,6 +32,16 @@
       "description": "gemeinsames Kaffeetrinken, plaudern und Spielen für jedermann",
       "fetchedAt": "2026-05-06T13:00:25.145Z",
       "updatedAt": "2026-05-06T20:24:39.365Z"
+    },
+    {
+      "id": "werneuchen-event-900001542",
+      "title": "Eröffnung Radreparaturstation",
+      "url": "https://www.werneuchen-barnim.de/veranstaltungen/veranstaltungen/veranstaltung/900001542-30690.html",
+      "startDate": "2026-09-13T08:00:00Z",
+      "endDate": "2026-09-13T14:00:00Z",
+      "location": "Alte Schmiede Werneuchen, Breite Straße 1, 16356 Werneuchen",
+      "fetchedAt": "2026-09-13T08:21:38.386Z",
+      "updatedAt": "2026-09-13T08:21:38.386Z"
     }
   ]
 }

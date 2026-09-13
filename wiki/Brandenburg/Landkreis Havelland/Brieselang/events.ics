@@ -562,4 +562,16 @@ DESCRIPTION:Die Gemeindebibliothek Brieselang lädt am Samstag\, 24. Apri
  r Gemeindebibliothek sowie der 25. Geburtstag des Fördervereins der Bibl
  iothek Brieselang e. V.
 END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Sommerfest-der-Gemeinde-Brieselang-4-20270611@amtsfe
+ ed.de
+DTSTAMP:20260913T082315Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270613
+SUMMARY:Sommerfest der Gemeinde Brieselang
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Sommerfest-der-Gemeinde-Brieselang-4.html?
+DESCRIPTION:Das Sommerfest der Gemeinde Brieselang wird am Freitag und Sa
+ mstag\, 11. und 12. Juni 2027\, veranstaltet.
+END:VEVENT
 END:VCALENDAR

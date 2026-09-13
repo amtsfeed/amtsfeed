@@ -2,7 +2,7 @@
   {
     "domain": "www.werder-havel.de",
     "baseUrl": "https://www.werder-havel.de",
-    "updatedAt": "2026-09-11T11:01:11.372Z",
+    "updatedAt": "2026-09-13T08:31:14.435Z",
     "content": "User-agent: *\r\nSitemap: https://www.werder-havel.de/sitemap_index.xml\r\n\r\n# disallow all files in these directories\r\nDisallow: /cgi-bin/\r\nDisallow: /wp-admin/\r\nDisallow: /wp-includes/\r\nDisallow: /wp-content/themes/\r\nDisallow: /wp-content/plugins/\r\nDisallow: /trackback/\r\nDisallow: /*?*\r\nDisallow: */trackback/\r\n\r\n# allow certain files\r\nAllow: /wp-includes/*.js\r\nAllow: /wp-content/themes/*.js\r\nAllow: /wp-content/themes/*.css\r\nAllow: /wp-content/themes/*.jpg\r\nAllow: /wp-content/themes/*.png\r\nAllow: /wp-content/plugins/*.js\r\nAllow: /wp-content/plugins/*.css\r\nAllow: /wp-content/plugins/*.jpg\r\nAllow: /wp-content/plugins/*.png\r\nAllow: /wp-content/cache/min/*\r\nAllow: /wp-content/plugins/wp-rocket/min/*\r\n\r\nDisallow: /wp-content/cache/wp-rocket/\r\n"
   }
 ]

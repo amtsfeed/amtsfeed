@@ -148,13 +148,14 @@ URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-09-13-2026-09-13@amtsfeed.de
-DTSTAMP:20260911T111326Z
-DTSTART:20260913T100000Z
-DTEND:20260913T180000Z
-SUMMARY:Tag des Offenen Denkmals 13.09.2026
-URL:https://amt-niemegk.de/events/muehlen-sonntag-offene-muehle-mit-kaffe
- e-564-446-663-158/?occurrence=2026-09-13
-LOCATION:Turmwindmühle Niemegk
+DTSTAMP:20260913T083026Z
+DTSTART:20260913T140000Z
+DTEND:20260913T153000Z
+SUMMARY:Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tor
+ e
+URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
+ in-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?
+ occurrence=2026-09-13
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-09-14-2026-09-14@amtsfeed.de
@@ -177,5 +178,15 @@ SUMMARY:Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tor
 URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
  in-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?
  occurrence=2026-09-15
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-09-16-2026-09-16@amtsfeed.de
+DTSTAMP:20260913T083026Z
+DTSTART:20260916T093000Z
+DTEND:20260916T110000Z
+SUMMARY:Entdeckungsraum mit Anita
+URL:https://amt-niemegk.de/events/entdeckungsraum-mit-anita-606/?occurren
+ ce=2026-09-16&#038\;time=1789551000
+LOCATION:Familienzentrum Niemegk
 END:VEVENT
 END:VCALENDAR

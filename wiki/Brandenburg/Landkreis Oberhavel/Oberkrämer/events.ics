@@ -819,4 +819,22 @@ SUMMARY:Fototermine
 URL:https://www.oberkraemer.de/veranstaltungen/2962222/2026/11/12/fototer
  mine.html
 END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855610@amtsfeed.de
+DTSTAMP:20260913T082830Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Laternenumzug in Bärenklau
+URL:https://www.oberkraemer.de/veranstaltungen/2855610/2026/11/13/laterne
+ numzug-in-bärenklau.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2926852@amtsfeed.de
+DTSTAMP:20260913T082830Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Gong-Nacht
+URL:https://www.oberkraemer.de/veranstaltungen/2926852/2026/11/13/gong-na
+ cht.html
+END:VEVENT
 END:VCALENDAR

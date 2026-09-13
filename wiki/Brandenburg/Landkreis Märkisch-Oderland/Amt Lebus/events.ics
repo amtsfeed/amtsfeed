@@ -782,33 +782,6 @@ DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
 END:VEVENT
 BEGIN:VEVENT
-UID:2955796@amtsfeed.de
-DTSTAMP:20260912T080358Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/12/hör-mal-
- -reiseperle-lebuser-land.html
-DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
- uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
- wir Kinder und Jugendliche ab 10 Jahren\, die Lust haben\, ihren Ort mitz
- ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
-LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
-  Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
-UID:2464910@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Bäckerwagen in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/09/12/bäckerwa
- gen-in-podelzig.html
-DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
-  Dorfteich
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2846432@amtsfeed.de
 DTSTAMP:20260911T111132Z
 DTSTART;VALUE=DATE:20260912
@@ -860,6 +833,21 @@ DESCRIPTION:„Unser Zeschdorf e.V.“ präsentiert:  Unser erstes Open-
  sarschen See zum Kinosaal unter freiem Himmel: Wir zeigen „Dirty Dancin
  g“ – Kultfilm\, See-Atmosphäre und ...
 LOCATION:Alt Zeschdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:2955796@amtsfeed.de
+DTSTAMP:20260913T082657Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/13/hör-mal-
+ -reiseperle-lebuser-land.html
+DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
+ uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
+ wir Kinder und Jugendliche ab 10 Jahren\, die Lust haben\, ihren Ort mitz
+ ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
+LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
+  Schönfließ\, Treplin\, Döbberin\, Petershagen\,
 END:VEVENT
 BEGIN:VEVENT
 UID:2958443@amtsfeed.de
@@ -1041,6 +1029,18 @@ DTEND;VALUE=DATE:20260919
 SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
 URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/09/18/selbstver
  teidigung-für-jugendliche-ab-13-jahren.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464910@amtsfeed.de
+DTSTAMP:20260913T082657Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Bäckerwagen in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/09/19/bäckerwa
+ gen-in-podelzig.html
+DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
+  Dorfteich
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT

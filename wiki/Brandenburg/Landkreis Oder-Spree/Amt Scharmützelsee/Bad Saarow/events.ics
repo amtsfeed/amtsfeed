@@ -82,15 +82,6 @@ SUMMARY:Aktiv Wochenplan - Mini Kneippkur
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
-DTSTAMP:20260531T131612Z
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Ortsführung durch den Kurort Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-kneippsegeln-ab-wendisch-rietz@amtsfeed.de
 DTSTAMP:20260531T131612Z
 DTSTART;VALUE=DATE:20260531
@@ -257,24 +248,6 @@ URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
  ch
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-flammender-scharmuetzelsee-2026@amtsfeed.de
-DTSTAMP:20260912T080634Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260914
-SUMMARY:Flammender Scharmützelsee 2026
-URL:https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20260912T080634Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-flammender-scharmuetzelsee@amtsfeed.de
 DTSTAMP:20260911T111244Z
 DTSTART;VALUE=DATE:20260912
@@ -341,6 +314,33 @@ URL:https://www.scharmuetzelsee.de/event/lieder-der-romantik-klavierabend
  -mit-regina-chernychko-in-kooperation-mit-der-juedischen-gemeinde-kw
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
+DTSTAMP:20260913T082923Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Ortsführung durch den Kurort Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-flammender-scharmuetzelsee-2026@amtsfeed.de
+DTSTAMP:20260913T082923Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Flammender Scharmützelsee 2026
+URL:https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20260913T082923Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de
 DTSTAMP:20260911T111244Z
 DTSTART;VALUE=DATE:20260913
@@ -366,6 +366,33 @@ DTEND;VALUE=DATE:20260914
 SUMMARY:Tag des offenen Denkmals im Scharwenka Kulturforum
 URL:https://www.scharmuetzelsee.de/event/tag-des-offenen-denkmals-im-scha
  rwenka-kulturforum
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
+ d.de
+DTSTAMP:20260913T082923Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
+ harmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-erdappelwochenende-im-irrlandia@amtsfeed.de
+DTSTAMP:20260913T082923Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Erdappelwochenende  im IRRLANDIA
+URL:https://www.scharmuetzelsee.de/event/erdappelwochenende-im-irrlandia
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-ab-wendisch-rietz@amtsfeed.de
+DTSTAMP:20260913T082923Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Mitsegeln mit Skipper ab Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-ab-wendisc
+ h-rietz
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-drachenfest-neu-golm@amtsfeed.de

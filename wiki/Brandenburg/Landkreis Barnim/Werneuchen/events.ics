@@ -42,4 +42,14 @@ DESCRIPTION:gemeinsames Kaffeetrinken\, plaudern und Spielen für jederma
  nn
 LOCATION:Gaststätte Zur Fischerhütte\, Seestraße 11\, 16356 Werneuchen
 END:VEVENT
+BEGIN:VEVENT
+UID:werneuchen-event-900001542@amtsfeed.de
+DTSTAMP:20260913T082138Z
+DTSTART:20260913T080000Z
+DTEND:20260913T140000Z
+SUMMARY:Eröffnung Radreparaturstation
+URL:https://www.werneuchen-barnim.de/veranstaltungen/veranstaltungen/vera
+ nstaltung/900001542-30690.html
+LOCATION:Alte Schmiede Werneuchen\, Breite Straße 1\, 16356 Werneuchen
+END:VEVENT
 END:VCALENDAR

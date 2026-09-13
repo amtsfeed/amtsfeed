@@ -959,4 +959,37 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  ,2967.4&amp\;ModID=11&amp\;FID=2967.8000.1&amp\;NavID=2967.39&amp\;sfreg=
  1&amp\;bn=1
 END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7484@amtsfeed.de
+DTSTAMP:20260913T082833Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Orgelmusik zur Mittagszeit
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Orgelmusik-zur-Mittagszeit.php?object=tx\,2967.4&amp\;ModID=11&amp\;F
+ ID=2967.7484.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8007@amtsfeed.de
+DTSTAMP:20260913T082833Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Info-Abend zu Infrastrukturmaßnahmen am Bahnhof
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Info-Abend-zu-Infrastrukturma%C3%9Fnahmen-am-Bahnhof.php?object=tx\,2
+ 967.4&amp\;ModID=11&amp\;FID=2967.8007.1&amp\;NavID=2967.39&amp\;sfreg=1&
+ amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7987@amtsfeed.de
+DTSTAMP:20260913T082833Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Private Photovoltaikanlagen - Informationsabend und offene Frager
+ unde
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Private-Photovoltaikanlagen-Informationsabend-und-offene-Fragerunde.p
+ hp?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7987.1&amp\;NavID=2967.3
+ 9&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
 END:VCALENDAR

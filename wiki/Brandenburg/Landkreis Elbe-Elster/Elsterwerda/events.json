@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:07:14.696Z",
+  "updatedAt": "2026-09-13T08:22:47.496Z",
   "items": [
     {
       "id": "22492",
@@ -888,6 +888,30 @@
       "startDate": "2026-12-12T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:53:58.434Z",
       "updatedAt": "2026-09-11T11:07:14.696Z"
+    },
+    {
+      "id": "10001051",
+      "title": "Trauercafé Elsterwerda",
+      "url": "https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2026-12-17/",
+      "startDate": "2026-12-17T15:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:22:47.496Z",
+      "updatedAt": "2026-09-13T08:22:47.496Z"
+    },
+    {
+      "id": "23285",
+      "title": "Adventsglühen",
+      "url": "https://www.elsterwerda.de/veranstaltung/adventgluehen-5/",
+      "startDate": "2026-12-17T16:30:00.000Z",
+      "fetchedAt": "2026-09-13T08:22:47.496Z",
+      "updatedAt": "2026-09-13T08:22:47.496Z"
+    },
+    {
+      "id": "22552",
+      "title": "Adventszauber rund um den Wasserturm",
+      "url": "https://www.elsterwerda.de/veranstaltung/adventszauber-rund-um-den-wasserturm/",
+      "startDate": "2026-12-18T16:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:22:47.496Z",
+      "updatedAt": "2026-09-13T08:22:47.496Z"
     }
   ]
 }

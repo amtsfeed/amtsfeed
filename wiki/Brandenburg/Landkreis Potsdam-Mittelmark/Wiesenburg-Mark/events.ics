@@ -647,15 +647,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2958254/2026/09/11/trad
  -rückt-näher.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2810938@amtsfeed.de
-DTSTAMP:20260911T111350Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:KoDorf-Caf&eacute\;
-URL:https://www.wiesenburgmark.de/veranstaltungen/2810938/2026/09/12/kodo
- rf-café.html
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2868235@amtsfeed.de
 DTSTAMP:20260506T202433Z
 DTSTART;VALUE=DATE:20260912
@@ -1030,6 +1021,15 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:24. Seniorenfest der Gemeinde Wiesenburg/Mark
 URL:https://www.wiesenburgmark.de/veranstaltungen/2922660/2026/10/09/24.-
  seniorenfest-der-gemeinde-wiesenburg-mark.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2810938@amtsfeed.de
+DTSTAMP:20260913T083120Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:KoDorf-Caf&eacute\;
+URL:https://www.wiesenburgmark.de/veranstaltungen/2810938/2026/10/10/kodo
+ rf-café.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928859@amtsfeed.de

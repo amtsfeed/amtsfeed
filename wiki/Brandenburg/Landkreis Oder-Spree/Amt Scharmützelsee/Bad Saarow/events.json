@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T08:06:34.401Z",
+  "updatedAt": "2026-09-13T08:29:23.979Z",
   "items": [
     {
       "id": "scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas",
@@ -61,14 +61,6 @@
       "id": "scharmuetzelsee-aktiv-wochenplan-mini-kneippkur",
       "title": "Aktiv Wochenplan - Mini Kneippkur",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur",
-      "startDate": "2026-05-31T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T13:16:12.297Z",
-      "updatedAt": "2026-05-31T13:16:12.297Z"
-    },
-    {
-      "id": "scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow",
-      "title": "Ortsführung durch den Kurort Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-bad-saarow",
       "startDate": "2026-05-31T00:00:00.000Z",
       "fetchedAt": "2026-05-31T13:16:12.297Z",
       "updatedAt": "2026-05-31T13:16:12.297Z"
@@ -221,23 +213,6 @@
       "updatedAt": "2026-09-12T08:06:34.399Z"
     },
     {
-      "id": "scharmuetzelsee-flammender-scharmuetzelsee-2026",
-      "title": "Flammender Scharmützelsee 2026",
-      "url": "https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee-2026",
-      "startDate": "2026-09-12T00:00:00.000Z",
-      "endDate": "2026-09-13T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-12T08:06:34.399Z"
-    },
-    {
-      "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
-      "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "startDate": "2026-09-12T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-12T08:06:34.399Z"
-    },
-    {
       "id": "scharmuetzelsee-flammender-scharmuetzelsee",
       "title": "Flammender Scharmützelsee",
       "url": "https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee",
@@ -294,6 +269,30 @@
       "updatedAt": "2026-09-12T08:06:34.399Z"
     },
     {
+      "id": "scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow",
+      "title": "Ortsführung durch den Kurort Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-bad-saarow",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:12.297Z",
+      "updatedAt": "2026-09-13T08:29:23.977Z"
+    },
+    {
+      "id": "scharmuetzelsee-flammender-scharmuetzelsee-2026",
+      "title": "Flammender Scharmützelsee 2026",
+      "url": "https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee-2026",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-13T08:29:23.977Z"
+    },
+    {
+      "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
+      "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-13T08:29:23.977Z"
+    },
+    {
       "id": "scharmuetzelsee-satamas-aufguss-wm-2026",
       "title": "SATAMAs Aufguss-WM 2026",
       "url": "https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026",
@@ -317,6 +316,30 @@
       "startDate": "2026-09-13T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:59:03.401Z",
       "updatedAt": "2026-09-11T11:12:44.108Z"
+    },
+    {
+      "id": "scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
+      "title": "Mitsegeln mit Skipper auf dem Scharmützelsee",
+      "url": "https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:29:23.977Z",
+      "updatedAt": "2026-09-13T08:29:23.977Z"
+    },
+    {
+      "id": "scharmuetzelsee-erdappelwochenende-im-irrlandia",
+      "title": "Erdappelwochenende  im IRRLANDIA",
+      "url": "https://www.scharmuetzelsee.de/event/erdappelwochenende-im-irrlandia",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:29:23.977Z",
+      "updatedAt": "2026-09-13T08:29:23.977Z"
+    },
+    {
+      "id": "scharmuetzelsee-mitsegeln-mit-skipper-ab-wendisch-rietz",
+      "title": "Mitsegeln mit Skipper ab Wendisch Rietz",
+      "url": "https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-ab-wendisch-rietz",
+      "startDate": "2026-09-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:29:23.977Z",
+      "updatedAt": "2026-09-13T08:29:23.977Z"
     },
     {
       "id": "scharmuetzelsee-drachenfest-neu-golm",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T08:05:34.159Z",
+  "updatedAt": "2026-09-13T08:28:28.099Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -2416,6 +2416,33 @@
       "startDate": "2026-10-03T00:00:00.000Z",
       "fetchedAt": "2026-09-12T08:05:34.159Z",
       "updatedAt": "2026-09-12T08:05:34.159Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58809564",
+      "title": "Bürgerverein: Boule am Teich",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58809564",
+      "startDate": "2026-10-03T14:00:00.000Z",
+      "location": "Bouleplatz, Feldahornstraße, OT Schönfließ",
+      "fetchedAt": "2026-09-13T08:28:28.099Z",
+      "updatedAt": "2026-09-13T08:28:28.099Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58814253",
+      "title": "Baby- und Kinderflohmarkt",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58814253",
+      "startDate": "2026-10-04T09:00:00.000Z",
+      "location": "Bürgersaal Schildow, Franz-Schmidt-Str. 3",
+      "fetchedAt": "2026-09-13T08:28:28.099Z",
+      "updatedAt": "2026-09-13T08:28:28.099Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59007352",
+      "title": "Sonntagscafé in der Mühle",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59007352",
+      "startDate": "2026-10-04T14:00:00.000Z",
+      "location": "16567 Mühlenbecker Land (OT Mühlenbeck), Mönchmühlenallee 3",
+      "fetchedAt": "2026-09-13T08:28:28.099Z",
+      "updatedAt": "2026-09-13T08:28:28.099Z"
     }
   ]
 }

@@ -217,4 +217,41 @@ SUMMARY:Mach-Mit-Fit
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  mach-mit-fit-18
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-cate-evens-eine-hommage-edith-piaf@amtsfeed.de
+DTSTAMP:20260913T082814Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Cate Evens - Eine Hommage an Édith Piaf
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ cate-evens-eine-hommage-edith-piaf
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-hohen-neuendorfer-herbstfest-tag-3@amtsfeed.de
+DTSTAMP:20260913T082814Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Hohen Neuendorfer Herbstfest - Tag 3
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ hohen-neuendorfer-herbstfest-tag-3
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-ausstellung-im-paddenkrug-3@amtsfeed.de
+DTSTAMP:20260913T082814Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Ausstellung im Paddenkrug
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ ausstellung-im-paddenkrug-3
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-gesprachskreis-fur-pflegende-angehorige@amtsfee
+ d.de
+DTSTAMP:20260913T082814Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Gesprächskreis für pflegende Angehörige
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ gesprachskreis-fur-pflegende-angehorige
+END:VEVENT
 END:VCALENDAR

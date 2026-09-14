@@ -1,5 +1,65 @@
 # Updates
 
+## 2026-09-14 09:10
+
+Insgesamt **413 neu**, **309 aktualisiert**, **3 entfernt** in 53 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Britz-Chorin-Oderberg | — | +1 | — | — |
+| Amt Golzow | +2 | — | — | — |
+| Amt Lebus | +1 | ~1 | — | — |
+| Amt Neuzelle | +1 | +2 | — | — |
+| Amt Plessa | — | ~1 | — | — |
+| Amt Scharmützelsee | — | -3 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +11 / ~6 | — | — |
+| Amt Spreenhagen | — | +1 | — | — |
+| Amt Ziesar | +1 | — | — | ~24 |
+| Brieselang | — | +2 | — | — |
+| Calau | +1 | ~6 | — | — |
+| Eberswalde | +2 | +8 | — | — |
+| Eisenhüttenstadt | — | +4 / ~1 | — | — |
+| Elsterwerda | — | +1 | — | — |
+| Falkensee | — | +2 | — | — |
+| Fürstenberg-Havel | +2 / ~1 | — | — | ~2 |
+| Fürstenwalde-Spree | — | +2 | — | — |
+| Groß Kreutz | — | ~28 | — | — |
+| Großräschen | +1 | — | — | — |
+| Grünheide (Mark) | +1 | — | — | +1 / ~159 |
+| Hennigsdorf | +1 | +2 | — | — |
+| Herzberg (Elster) | +3 | — | — | — |
+| Hohen Neuendorf | — | +4 / ~1 | — | — |
+| Hoppegarten | — | +1 | — | — |
+| Ketzin Havel | — | +3 | — | — |
+| Kleinmachnow | — | +2 / ~1 | — | — |
+| Kloster Lehnin | — | +3 / ~1 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +2 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +12 | — | — |
+| Lauchhammer | +2 | +1 | — | — |
+| Lübbenau Spreewald | +1 | +286 / ~23 | — | — |
+| Michendorf | — | +4 / ~1 | — | — |
+| Mühlenbecker Land | ~1 | +2 | — | — |
+| Nuthetal | +1 | — | — | — |
+| Oberkrämer | — | +1 | — | — |
+| Oderbruch / Amt Seelow-Land | +4 / ~1 | +1 | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | — | ~5 | — | — |
+| Oranienburg | ~1 | +4 | — | — |
+| Premnitz | — | +6 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Schönefeld | — | ~30 | — | — |
+| Schöneiche bei Berlin | — | +2 | — | — |
+| Senftenberg | — | +8 | — | — |
+| Sonnewalde | +2 / ~3 | — | — | — |
+| Storkow (Mark) | +1 | — | — | — |
+| Teltow | — | +1 / ~1 | — | — |
+| Velten | — | +4 | — | — |
+| Werder (Havel) | — | ~2 | — | — |
+| Werneuchen | +1 | — | — | — |
+| Wildau | +1 | — | — | — |
+| Zehdenick | ~1 | — | — | — |
+
 ## 2026-09-13 08:31
 
 Insgesamt **392 neu**, **160 aktualisiert**, **3 entfernt** in 49 Quellen.

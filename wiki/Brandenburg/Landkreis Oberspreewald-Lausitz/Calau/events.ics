@@ -635,15 +635,6 @@ URL:https://www.calau.de/veranstaltungen/2858855/2026/09/11/kino-in-calau
  -zeigt-frauen-gestalten-die-zukunft.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20260913T082853Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:13.09.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
-URL:https://www.calau.de/veranstaltungen/2864723/2026/09/13/flugshow-auf-
- dem-adler-und-jagdfalkenhof-werchow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2877060@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART;VALUE=DATE:20260913
@@ -699,46 +690,46 @@ URL:https://www.calau.de/veranstaltungen/2948064/2026/09/13/tag-des-offen
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2898939@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20260914T090727Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-SUMMARY:"Malen für die Seele" - offene Malgruppe
+SUMMARY:14.09.2026   "Malen für die Seele" - offene Malgruppe
 URL:https://www.calau.de/veranstaltungen/2898939/2026/09/14/malen-für-di
  e-seele-offene-malgruppe.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2963483@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260914T090727Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-SUMMARY:Abendspaziergang im Gutspark Saßleben
+SUMMARY:14.09.2026   Abendspaziergang im Gutspark Saßleben
 URL:https://www.calau.de/veranstaltungen/2963483/2026/09/14/abendspazierg
  ang-im-gutspark-saßleben.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260914T090727Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:Calauer Wochenmarkt
+SUMMARY:15.09.2026   Calauer Wochenmarkt
 URL:https://www.calau.de/veranstaltungen/2290342/2026/09/15/calauer-woche
  nmarkt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2962561@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260914T090727Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:Blutspendetermin des DRK
+SUMMARY:15.09.2026   Blutspendetermin des DRK
 URL:https://www.calau.de/veranstaltungen/2962561/2026/09/15/blutspendeter
  min-des-drk.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260914T090727Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-SUMMARY:Calauer Museen öffnen
+SUMMARY:16.09.2026   Calauer Museen öffnen
 URL:https://www.calau.de/veranstaltungen/2315266/2026/09/16/calauer-musee
  n-öffnen.html
 END:VEVENT
@@ -786,6 +777,15 @@ DTEND;VALUE=DATE:20260919
 SUMMARY:Info-Veranstaltung des Weissen Ring e.V.
 URL:https://www.calau.de/veranstaltungen/2952350/2026/09/18/info-veransta
  ltung-des-weissen-ring-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2864723@amtsfeed.de
+DTSTAMP:20260914T090727Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+URL:https://www.calau.de/veranstaltungen/2864723/2026/09/19/flugshow-auf-
+ dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838393@amtsfeed.de

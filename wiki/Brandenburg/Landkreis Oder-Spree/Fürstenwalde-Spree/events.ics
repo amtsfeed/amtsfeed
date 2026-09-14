@@ -5118,6 +5118,18 @@ URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2912934/2026/10/06
 LOCATION:Keramikwerkstatt Fürstenwalde
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2966601-2026-10-06-bilderbuchkino-das-kleine-gespenst
+ -tohuwabohu-auf-burg-eulenstein.html@amtsfeed.de
+DTSTAMP:20260914T090832Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:BilderBuchKino "Das kleine Gespenst - Tohuwabohu auf Burg Eulenst
+ ein"
+URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2966601/2026/10/06
+ /bilderbuchkino-das-kleine-gespenst-tohuwabohu-auf-burg-eulenstein.html
+LOCATION:Stadtbibliothek Fürstenwalde
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2327152-2026-10-07-vorschultreff-für-familien-mit-ki
  ndern-ohne-kitaplatz.html@amtsfeed.de
 DTSTAMP:20260506T202028Z
@@ -13237,5 +13249,15 @@ SUMMARY:Auf ein Wort
 URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2528403/2027/09/13
  /auf-ein-wort.html
 LOCATION:Trebuser Str. 60
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2770055-2027-09-14-frauenfrühstück.html@amtsfeed.de
+DTSTAMP:20260914T090832Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Frauenfrühstück
+URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2770055/2027/09/14
+ /frauenfrühstück.html
+LOCATION:Kulturfabrik Fürstenwalde gGmbH
 END:VEVENT
 END:VCALENDAR

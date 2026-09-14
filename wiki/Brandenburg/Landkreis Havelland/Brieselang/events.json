@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T08:23:15.744Z",
+  "updatedAt": "2026-09-14T09:01:14.411Z",
   "items": [
     {
       "id": "brieselang-event-Flohmarkt-Rilkestrasse-20260531",
@@ -319,6 +319,16 @@
       "updatedAt": "2026-09-11T11:07:30.318Z"
     },
     {
+      "id": "brieselang-event-Tag-der-offenen-Tuer-in-der-ZeeBr-Grundschule-20261103",
+      "title": "Tag der offenen Tür in der ZeeBr@-Grundschule",
+      "url": "https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veranstaltungen/Tag-der-offenen-Tuer-in-der-ZeeBr-Grundschule.html?",
+      "startDate": "2026-11-03T00:00:00.000Z",
+      "location": "Zeebr@Grundschule,",
+      "description": "Liebe Kinder, bald kommt ihr in die Schule – und die Zeebr@-Grundschule und das Hort-Team möchten euch schon jetzt kennenlernen! Kommt gemeinsam mit euren Eltern vorbei und entdeckt, was euch in der Schule erwartet. Die Sechstklässler und Lehrer beantworten eure Fragen, und bei verschiedenen Angeboten könnt ihr spielen, ausprobieren und mitmachen. Die ZeeBr@-Grundschule und das Hort-Team freuen sich auf Euren Besuch.",
+      "fetchedAt": "2026-09-14T09:01:14.421Z",
+      "updatedAt": "2026-09-14T09:01:14.421Z"
+    },
+    {
       "id": "brieselang-event-Pulsnitzer-Pfefferkuchenmarkt-20261107",
       "title": "\"Pulsnitzer Pfefferkuchenmarkt\"",
       "url": "https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veranstaltungen/Pulsnitzer-Pfefferkuchenmarkt.html?",
@@ -394,6 +404,15 @@
       "description": "Das Sommerfest der Gemeinde Brieselang wird am Freitag und Samstag, 11. und 12. Juni 2027, veranstaltet.",
       "fetchedAt": "2026-09-13T08:23:15.753Z",
       "updatedAt": "2026-09-13T08:23:15.753Z"
+    },
+    {
+      "id": "brieselang-event-Nymphensee-Triathlon-2027-20270620",
+      "title": "Nymphensee-Triathlon 2027",
+      "url": "https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veranstaltungen/Nymphensee-Triathlon-2027.html?",
+      "startDate": "2027-06-20T00:00:00.000Z",
+      "description": "Die dritte Ausgabe des Nymphensee-Triathlons findet am Sonntag, 20. Juni 2027, statt.",
+      "fetchedAt": "2026-09-14T09:01:14.421Z",
+      "updatedAt": "2026-09-14T09:01:14.421Z"
     }
   ]
 }

@@ -56,15 +56,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  repair-cafe-5
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-kirchenchorprobe@amtsfeed.de
-DTSTAMP:20260526T090400Z
-DTSTART;VALUE=DATE:20260526
-DTEND;VALUE=DATE:20260527
-SUMMARY:Kirchenchorprobe
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- kirchenchorprobe
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-miteinander-reden-dies-stadt-informiert-zum-kul
  turbahnhof@amtsfeed.de
 DTSTAMP:20260526T090400Z
@@ -253,5 +244,51 @@ DTEND;VALUE=DATE:20260915
 SUMMARY:Gesprächskreis für pflegende Angehörige
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  gesprachskreis-fur-pflegende-angehorige
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-kirchenchorprobe@amtsfeed.de
+DTSTAMP:20260914T090654Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Kirchenchorprobe
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ kirchenchorprobe
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-plauderbank-fur-senioren@amtsfeed.de
+DTSTAMP:20260914T090654Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Plauderbank für Senioren
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ plauderbank-fur-senioren
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-historischer-vortrag@amtsfeed.de
+DTSTAMP:20260914T090654Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Historischer Vortrag
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ historischer-vortrag
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-rotatonics-music-cinematique-chansontango@amtsf
+ eed.de
+DTSTAMP:20260914T090654Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Rotatonics - Music Cinématique\, Chanson&Tango
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ rotatonics-music-cinematique-chansontango
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-krisenfest@amtsfeed.de
+DTSTAMP:20260914T090654Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:KrisenFEST
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ krisenfest
 END:VEVENT
 END:VCALENDAR

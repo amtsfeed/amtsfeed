@@ -973,12 +973,12 @@ URL:https://www.michendorf.de/veranstaltungen/2960881/2026/09/25/eröffnu
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2937568@amtsfeed.de
-DTSTAMP:20260911T111336Z
+DTSTAMP:20260914T090929Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Lesung vom Kulturbund
-URL:https://www.michendorf.de/veranstaltungen/2937568/2026/09/25/lesung-v
- om-kulturbund.html
+SUMMARY:2. Lesung vom Kulturbund
+URL:https://www.michendorf.de/veranstaltungen/2937568/2026/09/25/2.-lesun
+ g-vom-kulturbund.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2938760@amtsfeed.de
@@ -1042,6 +1042,15 @@ DTEND;VALUE=DATE:20261003
 SUMMARY:Der dressierte Mann
 URL:https://www.michendorf.de/veranstaltungen/2938769/2026/10/02/der-dres
  sierte-mann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2966243@amtsfeed.de
+DTSTAMP:20260914T090929Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Trommel-Workshop "Groove Werkstatt"
+URL:https://www.michendorf.de/veranstaltungen/2966243/2026/10/02/trommel-
+ workshop-groove-werkstatt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2938774@amtsfeed.de
@@ -1216,6 +1225,15 @@ URL:https://www.michendorf.de/veranstaltungen/2897217/2026/10/20/weniger-
  stress-beim-umgang-mit-schwierigen-menschen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2966245@amtsfeed.de
+DTSTAMP:20260914T090929Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Ferien-Aktion: Beat it!
+URL:https://www.michendorf.de/veranstaltungen/2966245/2026/10/21/ferien-a
+ ktion-beat-it.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2897216@amtsfeed.de
 DTSTAMP:20260531T131707Z
 DTSTART;VALUE=DATE:20261023
@@ -1232,6 +1250,15 @@ DTEND;VALUE=DATE:20261024
 SUMMARY:Spieletreff
 URL:https://www.michendorf.de/veranstaltungen/2958924/2026/10/23/spieletr
  eff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2966246@amtsfeed.de
+DTSTAMP:20260914T090929Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Ferien-Aktion: Näh-Workshop
+URL:https://www.michendorf.de/veranstaltungen/2966246/2026/10/28/ferien-a
+ ktion-näh-workshop.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2958374@amtsfeed.de
@@ -1268,6 +1295,15 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Im Gespräch in Wilhelmshorst
 URL:https://www.michendorf.de/veranstaltungen/2958377/2026/11/05/im-gespr
  äch-in-wilhelmshorst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2966244@amtsfeed.de
+DTSTAMP:20260914T090929Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Trommel-Workshop "Groove Werkstatt"
+URL:https://www.michendorf.de/veranstaltungen/2966244/2026/11/06/trommel-
+ workshop-groove-werkstatt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2660025@amtsfeed.de

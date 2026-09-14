@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T08:28:14.729Z",
+  "updatedAt": "2026-09-14T09:06:54.688Z",
   "items": [
     {
       "id": "hohen-neuendorf-event-digitale-sprechstunde-umgang-mit-dem-smartphone-0",
@@ -40,14 +40,6 @@
       "startDate": "2026-05-09T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:12:38.750Z",
       "updatedAt": "2026-05-06T20:21:58.193Z"
-    },
-    {
-      "id": "hohen-neuendorf-event-kirchenchorprobe",
-      "title": "Kirchenchorprobe",
-      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/kirchenchorprobe",
-      "startDate": "2026-05-26T00:00:00.000Z",
-      "fetchedAt": "2026-05-26T09:04:00.706Z",
-      "updatedAt": "2026-05-26T09:04:00.706Z"
     },
     {
       "id": "hohen-neuendorf-event-miteinander-reden-dies-stadt-informiert-zum-kulturbahnhof",
@@ -208,6 +200,46 @@
       "startDate": "2026-09-14T00:00:00.000Z",
       "fetchedAt": "2026-09-13T08:28:14.737Z",
       "updatedAt": "2026-09-13T08:28:14.737Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-kirchenchorprobe",
+      "title": "Kirchenchorprobe",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/kirchenchorprobe",
+      "startDate": "2026-09-15T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:00.706Z",
+      "updatedAt": "2026-09-14T09:06:54.697Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-plauderbank-fur-senioren",
+      "title": "Plauderbank für Senioren",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/plauderbank-fur-senioren",
+      "startDate": "2026-09-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-14T09:06:54.697Z",
+      "updatedAt": "2026-09-14T09:06:54.697Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-historischer-vortrag",
+      "title": "Historischer Vortrag",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/historischer-vortrag",
+      "startDate": "2026-09-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-14T09:06:54.697Z",
+      "updatedAt": "2026-09-14T09:06:54.697Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-rotatonics-music-cinematique-chansontango",
+      "title": "Rotatonics - Music Cinématique, Chanson&Tango",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/rotatonics-music-cinematique-chansontango",
+      "startDate": "2026-09-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-14T09:06:54.697Z",
+      "updatedAt": "2026-09-14T09:06:54.697Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-krisenfest",
+      "title": "KrisenFEST",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/krisenfest",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-14T09:06:54.697Z",
+      "updatedAt": "2026-09-14T09:06:54.697Z"
     }
   ]
 }

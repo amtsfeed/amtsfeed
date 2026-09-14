@@ -364,15 +364,6 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  692.2051.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
-UID:kleinmachnow-event-2299@amtsfeed.de
-DTSTAMP:20260531T131705Z
-DTSTART:20260609T160000Z
-SUMMARY:Bilderbuchkino im Juni
-URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
- Bilderbuchkino-im-Juni.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=369
- 2.2299.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
-END:VEVENT
-BEGIN:VEVENT
 UID:kleinmachnow-event-2303@amtsfeed.de
 DTSTAMP:20260531T131705Z
 DTSTART:20260610T190000Z
@@ -793,5 +784,34 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  Einladung-zum-Schach-Caf%C3%A9-in-der-Alten-Schule.php?object=tx\,3692.4.
  1&amp\;ModID=11&amp\;FID=3692.2434.1&amp\;NavID=3692.15&amp\;sfodddrt=1&a
  mp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2299@amtsfeed.de
+DTSTAMP:20260914T090925Z
+DTSTART:20260929T163000Z
+SUMMARY:LEA-Leseklub
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ LEA-Leseklub.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.2299.1&a
+ mp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2415@amtsfeed.de
+DTSTAMP:20260914T090925Z
+DTSTART:20260929T190000Z
+SUMMARY:Menschen aus unserer Region: Lino Friese - Deutschlands jüngster
+  Variet&eacute\;- und Circusdirektor
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Menschen-aus-unserer-Region-Lino-Friese-Deutschlands-j%C3%BCngster-Variet
+ %C3%A9-und-Circusdirektor.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=
+ 3692.2415.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2238@amtsfeed.de
+DTSTAMP:20260914T090925Z
+DTSTART:20261001T150000Z
+SUMMARY:Offenes Caf&eacute\;
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Offenes-Caf%C3%A9.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.223
+ 8.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T08:30:40.530Z",
+  "updatedAt": "2026-09-14T09:09:25.981Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -286,14 +286,6 @@
       "title": "Jazzkollektiv Babelsberg",
       "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Jazzkollektiv-Babelsberg.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2051.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
       "startDate": "2026-06-05T20:00:00.000Z",
-      "fetchedAt": "2026-05-26T09:04:59.234Z",
-      "updatedAt": "2026-05-31T13:17:05.810Z"
-    },
-    {
-      "id": "kleinmachnow-event-2299",
-      "title": "Bilderbuchkino im Juni",
-      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Bilderbuchkino-im-Juni.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2299.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
-      "startDate": "2026-06-09T16:00:00.000Z",
       "fetchedAt": "2026-05-26T09:04:59.234Z",
       "updatedAt": "2026-05-31T13:17:05.810Z"
     },
@@ -640,6 +632,30 @@
       "startDate": "2026-09-28T17:00:00.000Z",
       "fetchedAt": "2026-09-13T08:30:40.529Z",
       "updatedAt": "2026-09-13T08:30:40.529Z"
+    },
+    {
+      "id": "kleinmachnow-event-2299",
+      "title": "LEA-Leseklub",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/LEA-Leseklub.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2299.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-09-29T16:30:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:59.234Z",
+      "updatedAt": "2026-09-14T09:09:25.979Z"
+    },
+    {
+      "id": "kleinmachnow-event-2415",
+      "title": "Menschen aus unserer Region: Lino Friese - Deutschlands jüngster Variet&eacute;- und Circusdirektor",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Menschen-aus-unserer-Region-Lino-Friese-Deutschlands-j%C3%BCngster-Variet%C3%A9-und-Circusdirektor.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2415.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-09-29T19:00:00.000Z",
+      "fetchedAt": "2026-09-14T09:09:25.979Z",
+      "updatedAt": "2026-09-14T09:09:25.979Z"
+    },
+    {
+      "id": "kleinmachnow-event-2238",
+      "title": "Offenes Caf&eacute;",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Offenes-Caf%C3%A9.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2238.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-10-01T15:00:00.000Z",
+      "fetchedAt": "2026-09-14T09:09:25.979Z",
+      "updatedAt": "2026-09-14T09:09:25.979Z"
     }
   ]
 }

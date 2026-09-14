@@ -283,4 +283,26 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Konzert-der-Gef
  ;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&
  amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-758@amtsfeed.de
+DTSTAMP:20260914T090649Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:SAUNA-THEMENTAG 2026
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/SAUNA-THEMENTAG
+ -2026.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.758.1&amp\;NavI
+ D=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;
+ k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-769@amtsfeed.de
+DTSTAMP:20260914T090649Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Familienspieltag | Tierischer Hüpfburgspass 2026
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Familienspielta
+ g-Tierischer-H%C3%BCpfburgspass-2026.php?object=tx\,3590.4.1&amp\;ModID=1
+ 1&amp\;FID=3590.769.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;s
+ tartkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

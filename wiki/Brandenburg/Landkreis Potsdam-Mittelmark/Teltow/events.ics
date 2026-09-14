@@ -1195,12 +1195,12 @@ URL:https://www.teltow.de/veranstaltungen/2963886/2026/09/26/ein-haus-fü
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2928164@amtsfeed.de
-DTSTAMP:20260911T111345Z
+DTSTAMP:20260914T090954Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:80er Jahre Party
-URL:https://www.teltow.de/veranstaltungen/2928164/2026/09/26/80er-jahre-p
- arty.html
+SUMMARY:AUSVERKAUFT! 80er Jahre Party
+URL:https://www.teltow.de/veranstaltungen/2928164/2026/09/26/ausverkauft-
+ 80er-jahre-party.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2928783@amtsfeed.de
@@ -1273,6 +1273,15 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:Sportgruppe
 URL:https://www.teltow.de/veranstaltungen/2924792/2026/09/30/sportgruppe.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2966627@amtsfeed.de
+DTSTAMP:20260914T090954Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Lausitz Jahrmarkt
+URL:https://www.teltow.de/veranstaltungen/2966627/2026/10/01/lausitz-jahr
+ markt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2963942@amtsfeed.de

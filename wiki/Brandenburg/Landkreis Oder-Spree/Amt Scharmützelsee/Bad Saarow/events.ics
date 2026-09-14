@@ -7,16 +7,6 @@ X-WR-CALNAME:Bad Saarow
 X-WR-CALDESC:Amtliche Veranstaltungen für Bad Saarow
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
- eed.de
-DTSTAMP:20260505T155040Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:Aktiv Wochenplan - Morgen-Paddeltour mit der YAAS
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-morgen-paddelto
- ur-mit-der-yaas
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-l
  eben-ein-kessel-buntes@amtsfeed.de
 DTSTAMP:20260505T155040Z
@@ -35,15 +25,6 @@ DTEND;VALUE=DATE:20260507
 SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
  m-morgen
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-hulahoop-im-kurpark@amtsfeed.de
-DTSTAMP:20260526T090412Z
-DTSTART;VALUE=DATE:20260526
-DTEND;VALUE=DATE:20260527
-SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
- park
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-glueckliche-fuesse@amtsfeed.de
@@ -230,24 +211,6 @@ URL:https://www.scharmuetzelsee.de/event/fuehrung-mit-den-gefaehrten-der-
  nacht-in-storkow
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260912T080634Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
-DTSTAMP:20260912T080634Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Linienfahrten Hauptsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
- ch
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-flammender-scharmuetzelsee@amtsfeed.de
 DTSTAMP:20260911T111244Z
 DTSTART;VALUE=DATE:20260912
@@ -331,24 +294,6 @@ SUMMARY:Flammender Scharmützelsee 2026
 URL:https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20260913T082923Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de
-DTSTAMP:20260911T111244Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260921
-SUMMARY:SATAMAs Aufguss-WM 2026
-URL:https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-antik-und-troedelmarkt-in-wendisch-rietz@amtsfeed.de
 DTSTAMP:20260911T111244Z
 DTSTART;VALUE=DATE:20260913
@@ -395,6 +340,61 @@ URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-ab-wendisc
  h-rietz
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Linienfahrten Hauptsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
+ ch
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260921
+SUMMARY:SATAMAs Aufguss-WM 2026
+URL:https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
+ eed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Aktiv Wochenplan - Morgen-Paddeltour mit der YAAS
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-morgen-paddelto
+ ur-mit-der-yaas
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-hulahoop-im-kurpark@amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
+ park
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-drachenfest-neu-golm@amtsfeed.de
 DTSTAMP:20260911T111244Z
 DTSTART;VALUE=DATE:20260919
@@ -410,6 +410,43 @@ DTEND;VALUE=DATE:20260921
 SUMMARY:Deutsche Meisterschaft im Kutterrudern
 URL:https://www.scharmuetzelsee.de/event/deutsche-meisterschaft-im-kutter
  rudern
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-weltkindertagswochenende-im-irrlandia@amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Weltkindertagswochenende im IRRLANDIA
+URL:https://www.scharmuetzelsee.de/event/weltkindertagswochenende-im-irrl
+ andia
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-oktoberfest-im-aldo@amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Oktoberfest im Aldo
+URL:https://www.scharmuetzelsee.de/event/oktoberfest-im-aldo
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-saarower-klavierkonzert-mit-vladimir-valdivia@amtsfee
+ d.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:"Saarower Klavierkonzert" mit Vladimir Valdivia
+URL:https://www.scharmuetzelsee.de/event/saarower-klavierkonzert-mit-vlad
+ imir-valdivia
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-oktoberfest-ennstaler-steirerklang-im-theater-am-see@
+ amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:OKTOBERFEST „Ennstaler Steirerklang“ im Theater am See
+URL:https://www.scharmuetzelsee.de/event/oktoberfest-ennstaler-steirerkla
+ ng-im-theater-am-see
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-naturpark-hoffest-burg-storkow@amtsfeed.de
@@ -429,5 +466,71 @@ SUMMARY:Keramik-Workshop in Bad Saarow mit der Künstlerin Almuth Lohmann
  -Zell
 URL:https://www.scharmuetzelsee.de/event/keramik-workshop-in-bad-saarow-m
  it-der-kuenstlerin-almuth-lohmann-zell
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-kuerbis-und-kastanienfest-im-irrlandia@amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Kürbis- und Kastanienfest im IRRLANDIA
+URL:https://www.scharmuetzelsee.de/event/kuerbis-und-kastanienfest-im-irr
+ landia
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-das-grosse-kartoffelbuddeln-zwischen-philadelphia-und
+ -gross-schauen@amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Das große Kartoffelbuddeln zwischen Philadelphia und Groß Schau
+ en
+URL:https://www.scharmuetzelsee.de/event/das-grosse-kartoffelbuddeln-zwis
+ chen-philadelphia-und-gross-schauen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-hula-hoop-festival@amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Hula-Hoop-Festival
+URL:https://www.scharmuetzelsee.de/event/hula-hoop-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-scharmuntzel-fest-und-tierisch-bunter-flohmarkt@amtsf
+ eed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Scharmuntzel-Fest und tierisch bunter Flohmarkt
+URL:https://www.scharmuetzelsee.de/event/scharmuntzel-fest-und-tierisch-b
+ unter-flohmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-oktoberfest-im-freilich-am-see@amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Oktoberfest im Freilich am See
+URL:https://www.scharmuetzelsee.de/event/oktoberfest-im-freilich-am-see
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz@amtsf
+ eed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Märchenstunde in der Bibliothek Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/maerchenstunde-in-der-bibliothek
+ -wendisch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-lesekreis-in-der-bibliothek-wendisch-rietz@amtsfeed.d
+ e
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Lesekreis in der Bibliothek Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/lesekreis-in-der-bibliothek-wend
+ isch-rietz
 END:VEVENT
 END:VCALENDAR

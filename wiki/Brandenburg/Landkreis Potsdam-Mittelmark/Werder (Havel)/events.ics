@@ -4432,12 +4432,22 @@ LOCATION:Hotel "Zum Rittmeister"
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99207966@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260915T100000Z
+DTSTAMP:20260914T090959Z
+DTSTART:20260914T090959Z
 SUMMARY:Ausflug nach Spandau
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99207966
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99216104@amtsfeed.de
+DTSTAMP:20260914T090959Z
+DTSTART:20260914T090959Z
+SUMMARY:Von Thing-Feiern zu Karl-May-Festspielen: Die Geschichte der Frei
+ lichtbühne
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99216104
+LOCATION:Schützenhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99116133@amtsfeed.de
@@ -4447,16 +4457,6 @@ SUMMARY:Werderaner Gespräch - Geschichte der Freilichtbühne in Werder H
  avel / Vortrag von Dr. W...
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99116133
-LOCATION:Schützenhaus
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99216104@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260915T190000Z
-SUMMARY:Von Thing-Feiern zu Karl-May-Festspielen: Die Geschichte der Frei
- lichtbühne
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99216104
 LOCATION:Schützenhaus
 END:VEVENT
 BEGIN:VEVENT

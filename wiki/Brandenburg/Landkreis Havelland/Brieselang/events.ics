@@ -466,6 +466,24 @@ URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
 LOCATION:Robinson-Grundschule\,
 END:VEVENT
 BEGIN:VEVENT
+UID:brieselang-event-Tag-der-offenen-Tuer-in-der-ZeeBr-Grundschule-202611
+ 03@amtsfeed.de
+DTSTAMP:20260914T090114Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Tag der offenen Tür in der ZeeBr@-Grundschule
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Tag-der-offenen-Tuer-in-der-ZeeBr-Grundschule.html?
+DESCRIPTION:Liebe Kinder\, bald kommt ihr in die Schule – und die Zeebr
+ @-Grundschule und das Hort-Team möchten euch schon jetzt kennenlernen! K
+ ommt gemeinsam mit euren Eltern vorbei und entdeckt\, was euch in der Sch
+ ule erwartet. Die Sechstklässler und Lehrer beantworten eure Fragen\, un
+ d bei verschiedenen Angeboten könnt ihr spielen\, ausprobieren und mitma
+ chen. Die ZeeBr@-Grundschule und das Hort-Team freuen sich auf Euren Besu
+ ch.
+LOCATION:Zeebr@Grundschule\,
+END:VEVENT
+BEGIN:VEVENT
 UID:brieselang-event-Pulsnitzer-Pfefferkuchenmarkt-20261107@amtsfeed.de
 DTSTAMP:20260911T110730Z
 DTSTART;VALUE=DATE:20261107
@@ -573,5 +591,16 @@ URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
  staltungen/Sommerfest-der-Gemeinde-Brieselang-4.html?
 DESCRIPTION:Das Sommerfest der Gemeinde Brieselang wird am Freitag und Sa
  mstag\, 11. und 12. Juni 2027\, veranstaltet.
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Nymphensee-Triathlon-2027-20270620@amtsfeed.de
+DTSTAMP:20260914T090114Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Nymphensee-Triathlon 2027
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Nymphensee-Triathlon-2027.html?
+DESCRIPTION:Die dritte Ausgabe des Nymphensee-Triathlons findet am Sonnta
+ g\, 20. Juni 2027\, statt.
 END:VEVENT
 END:VCALENDAR

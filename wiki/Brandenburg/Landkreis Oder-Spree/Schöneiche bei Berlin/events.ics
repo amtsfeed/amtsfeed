@@ -177,4 +177,21 @@ SUMMARY:Offene Ateliers in Schöneiche und Woltersdorf
 URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/offene-ateli
  ers-in-schoeneiche-und-woltersdorf-2
 END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-udo-juergens-programm@amtsfeed.de
+DTSTAMP:20260914T090837Z
+DTSTART:20260927T170000Z
+SUMMARY:Udo Jürgens Programm  - Alles was ich bin
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/udo-juergens
+ -programm
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-pilzfuehrung-durch-den-kleinen-spreewaldpark@amtsfe
+ ed.de
+DTSTAMP:20260914T090837Z
+DTSTART:20261011T100000Z
+SUMMARY:Pilzführung durch den Kleinen Spreewaldpark
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/pilzfuehrung
+ -durch-den-kleinen-spreewaldpark
+END:VEVENT
 END:VCALENDAR

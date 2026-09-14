@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T08:29:41.492Z",
+  "updatedAt": "2026-09-14T09:08:20.101Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -540,20 +540,20 @@
       "updatedAt": "2026-09-11T11:12:58.030Z"
     },
     {
-      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "title": "Veranstaltungen",
-      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-09-13T08:29:41.484Z",
-      "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-09-13T08:29:41.484Z"
-    },
-    {
       "id": "eisenhuettenstadt-event-2852-1892-1",
       "title": "Wenn Overbeck kommt....",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Wenn-Overbeck-kommt-.php?ModID=11&amp;FID=2852.1892.1",
       "startDate": "2026-09-14T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:59:21.638Z",
       "updatedAt": "2026-09-11T11:12:58.030Z"
+    },
+    {
+      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "title": "Veranstaltungen",
+      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "startDate": "2026-09-14T09:08:20.092Z",
+      "fetchedAt": "2026-05-06T08:35:22.874Z",
+      "updatedAt": "2026-09-14T09:08:20.092Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1934-1",
@@ -725,6 +725,42 @@
       "location": "Tourismusinformation",
       "fetchedAt": "2026-09-13T08:29:41.484Z",
       "updatedAt": "2026-09-13T08:29:41.484Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1761-1",
+      "title": "Lost Places Führung durch das DDR-Hotel LUNIK",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Lost-Places-F%C3%BChrung-durch-das-DDR-Hotel-LUNIK.php?ModID=11&amp;FID=2852.1761.1",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "location": "Tourismusinformation",
+      "fetchedAt": "2026-09-14T09:08:20.092Z",
+      "updatedAt": "2026-09-14T09:08:20.092Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1944-1",
+      "title": "EKO - Tour mit dem Raddampfer \"Alexander\"",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/EKO-Tour-mit-dem-Raddampfer-Alexander-.php?ModID=11&amp;FID=2852.1944.1",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "location": "Raddampfer Alexander",
+      "fetchedAt": "2026-09-14T09:08:20.092Z",
+      "updatedAt": "2026-09-14T09:08:20.092Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1942-1",
+      "title": "Schleusen - Tour mit dem Raddampfer \"Alexander\"",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem-Raddampfer-Alexander-.php?ModID=11&amp;FID=2852.1942.1",
+      "startDate": "2026-10-04T00:00:00.000Z",
+      "location": "Raddampfer Alexander",
+      "fetchedAt": "2026-09-14T09:08:20.092Z",
+      "updatedAt": "2026-09-14T09:08:20.092Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1916-1",
+      "title": "Finissage \"Das Weite suchen. Fotografien der späten DDR und frühen 1990er Jahre\"",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Finissage-Das-Weite-suchen-Fotografien-der-sp%C3%A4ten-DDR-und-fr%C3%BChen-1990er-Jahre-.php?ModID=11&amp;FID=2852.1916.1",
+      "startDate": "2026-10-04T00:00:00.000Z",
+      "location": "der die Zeit still zu stehen schien und sich gleichzeitig Aufbrüche abzeichneten, fanden Fotograf",
+      "fetchedAt": "2026-09-14T09:08:20.092Z",
+      "updatedAt": "2026-09-14T09:08:20.092Z"
     }
   ]
 }

@@ -774,4 +774,45 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
  markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1024.1&amp\;Nav
  ID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-972@amtsfeed.de
+DTSTAMP:20260914T090714Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:&raquo\;Velten läuft ...!&laquo\; 4. Oktober 2026
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/-Velte
+ n-l%C3%A4uft-4-Oktober-2026.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FI
+ D=3631.972.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1167@amtsfeed.de
+DTSTAMP:20260914T090714Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Bürgerhaushalt 2025: Musikalische Früherziehung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/B%C3%B
+ Crgerhaushalt-2025-Musikalische-Fr%C3%BCherziehung.php?object=tx\,3631.4.
+ 1&amp\;ModID=11&amp\;FID=3631.1167.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\
+ ;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1025@amtsfeed.de
+DTSTAMP:20260914T090714Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1025.1&amp\;Nav
+ ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-885@amtsfeed.de
+DTSTAMP:20260914T090714Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:19. Sitzung der Stadtverordnetenversammlung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/19-Sit
+ zung-der-Stadtverordnetenversammlung.php?object=tx\,3631.4.1&amp\;ModID=1
+ 1&amp\;FID=3631.885.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
 END:VCALENDAR

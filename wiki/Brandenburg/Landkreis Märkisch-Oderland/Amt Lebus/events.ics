@@ -846,11 +846,11 @@ LOCATION:Kirche Hohenjesar
 END:VEVENT
 BEGIN:VEVENT
 UID:2955796@amtsfeed.de
-DTSTAMP:20260914T090542Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
+DTSTAMP:20260915T084749Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
 SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/14/hör-mal-
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/15/hör-mal-
  -reiseperle-lebuser-land.html
 DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
@@ -858,39 +858,6 @@ DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
 LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
   Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
-UID:2402834@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:Kreativgruppe in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/09/14/kreativgr
- uppe-in-podelzig.html
-DESCRIPTION:in Gemeindezentrum
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464902@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/09/14/tischtenn
- is.html
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464900@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:Dart für Jedermann
-URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/09/14/dart-für
- -jedermann.html
-DESCRIPTION:Sportlerheim Podelzig
-LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2464901@amtsfeed.de
@@ -1101,6 +1068,39 @@ DESCRIPTION:Der Weltkindertag wird zum 6. Mal als Kinder- und Familienfes
  Dazu laden wir herzlich ein: Sonnabend\, den 20. September von 14.00 -18.
  00 Uhr am Ökospeicher in Wulkow. Gefördert ...
 LOCATION:Speichercafé im Ökospeicher Wulkow
+END:VEVENT
+BEGIN:VEVENT
+UID:2402834@amtsfeed.de
+DTSTAMP:20260915T084749Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Kreativgruppe in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/09/21/kreativgr
+ uppe-in-podelzig.html
+DESCRIPTION:in Gemeindezentrum
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464902@amtsfeed.de
+DTSTAMP:20260915T084749Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/09/21/tischtenn
+ is.html
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464900@amtsfeed.de
+DTSTAMP:20260915T084749Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Dart für Jedermann
+URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/09/21/dart-für
+ -jedermann.html
+DESCRIPTION:Sportlerheim Podelzig
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2964763@amtsfeed.de

@@ -4432,8 +4432,8 @@ LOCATION:Hotel "Zum Rittmeister"
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99207966@amtsfeed.de
-DTSTAMP:20260914T090959Z
-DTSTART:20260914T090959Z
+DTSTAMP:20260915T085131Z
+DTSTART:20260915T085131Z
 SUMMARY:Ausflug nach Spandau
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99207966
@@ -4441,13 +4441,40 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99216104@amtsfeed.de
-DTSTAMP:20260914T090959Z
-DTSTART:20260914T090959Z
+DTSTAMP:20260915T085131Z
+DTSTART:20260915T085131Z
 SUMMARY:Von Thing-Feiern zu Karl-May-Festspielen: Die Geschichte der Frei
  lichtbühne
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99216104
 LOCATION:Schützenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99167733@amtsfeed.de
+DTSTAMP:20260915T085131Z
+DTSTART:20260915T085131Z
+SUMMARY:Rundfahrt nach Potsdam
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167733
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99167912@amtsfeed.de
+DTSTAMP:20260915T085131Z
+DTSTART:20260915T085131Z
+SUMMARY:Kleine Seenrundfahrt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167912
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99168030@amtsfeed.de
+DTSTAMP:20260915T085131Z
+DTSTART:20260915T085131Z
+SUMMARY:Der Sonne hinterher
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99168030
+LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99116133@amtsfeed.de
@@ -4458,33 +4485,6 @@ SUMMARY:Werderaner Gespräch - Geschichte der Freilichtbühne in Werder H
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99116133
 LOCATION:Schützenhaus
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99167733@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260916T103000Z
-SUMMARY:Rundfahrt nach Potsdam
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167733
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99167912@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260916T140000Z
-SUMMARY:Kleine Seenrundfahrt
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167912
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99168030@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260916T160000Z
-SUMMARY:Der Sonne hinterher
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99168030
-LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167734@amtsfeed.de

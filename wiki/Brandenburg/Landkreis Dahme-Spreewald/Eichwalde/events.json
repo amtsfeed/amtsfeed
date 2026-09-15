@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:13:23.968Z",
+  "updatedAt": "2026-09-15T08:43:53.488Z",
   "items": [
     {
       "id": "eichwalde-event-18704",
@@ -182,40 +182,85 @@
       "updatedAt": "2026-05-08T18:54:11.669Z"
     },
     {
+      "id": "eichwalde-event-19208",
+      "title": "Müllsammeltag",
+      "url": "https://www.eichwalde.de/kalender/muellsammeltag/",
+      "startDate": "2026-09-19T10:00:00.000Z",
+      "endDate": "2026-09-19T12:00:00.000Z",
+      "fetchedAt": "2026-09-15T08:43:53.487Z",
+      "updatedAt": "2026-09-15T08:43:53.487Z"
+    },
+    {
       "id": "eichwalde-event-18306",
       "title": "Familienspielenachmittag",
       "url": "https://www.eichwalde.de/kalender/familienspielenachmittag-september2026/",
-      "startDate": "2026-09-21T14:00:00.000Z",
-      "endDate": "2026-09-21T16:00:00.000Z",
+      "startDate": "2026-09-21T16:00:00.000Z",
+      "endDate": "2026-09-21T18:00:00.000Z",
       "fetchedAt": "2026-05-08T18:53:16.538Z",
-      "updatedAt": "2026-05-08T18:54:11.669Z"
+      "updatedAt": "2026-09-15T08:43:53.487Z"
+    },
+    {
+      "id": "eichwalde-event-19342",
+      "title": "GOLDEN – Herbstkonzert mit dem Vokalensemble Wildau",
+      "url": "https://www.eichwalde.de/kalender/golden-herbstkonzerte-mit-dem-vokalensemble-wildau/",
+      "startDate": "2026-09-27T17:00:00.000Z",
+      "endDate": "2026-09-27T18:30:00.000Z",
+      "fetchedAt": "2026-09-15T08:43:53.487Z",
+      "updatedAt": "2026-09-15T08:43:53.487Z"
+    },
+    {
+      "id": "eichwalde-event-19370",
+      "title": "Kammerkonzert: Dreamscapes",
+      "url": "https://www.eichwalde.de/kalender/kammerkonzert-dreamscapes/",
+      "startDate": "2026-10-03T19:00:00.000Z",
+      "endDate": "2026-10-03T20:30:00.000Z",
+      "fetchedAt": "2026-09-15T08:43:53.487Z",
+      "updatedAt": "2026-09-15T08:43:53.487Z"
+    },
+    {
+      "id": "eichwalde-event-19057",
+      "title": "Herbstgestöber auf dem Marktplatz",
+      "url": "https://www.eichwalde.de/kalender/herbstgestoeber-auf-dem-marktplatz/",
+      "startDate": "2026-10-10T11:00:00.000Z",
+      "endDate": "2026-10-10T18:00:00.000Z",
+      "fetchedAt": "2026-09-15T08:43:53.487Z",
+      "updatedAt": "2026-09-15T08:43:53.487Z"
     },
     {
       "id": "eichwalde-event-18308",
       "title": "Familienspielenachmittag",
       "url": "https://www.eichwalde.de/kalender/familienspielenachmittag-oktober2026/",
-      "startDate": "2026-10-19T14:00:00.000Z",
-      "endDate": "2026-10-19T16:00:00.000Z",
+      "startDate": "2026-10-19T16:00:00.000Z",
+      "endDate": "2026-10-19T18:00:00.000Z",
       "fetchedAt": "2026-05-08T18:53:16.538Z",
-      "updatedAt": "2026-05-08T18:54:11.669Z"
+      "updatedAt": "2026-09-15T08:43:53.487Z"
+    },
+    {
+      "id": "eichwalde-event-19276",
+      "title": "Ausstellung „Discedo!“ – Werkschau von Susanne Thäsler",
+      "url": "https://www.eichwalde.de/kalender/ausstellung-discedo-werkschau-von-susanne-thaesler/",
+      "startDate": "2026-11-01T18:00:00.000Z",
+      "endDate": "2026-11-01T18:00:00.000Z",
+      "fetchedAt": "2026-09-15T08:43:53.487Z",
+      "updatedAt": "2026-09-15T08:43:53.487Z"
     },
     {
       "id": "eichwalde-event-18310",
       "title": "Familienspielenachmittag",
       "url": "https://www.eichwalde.de/kalender/familienspielenachmittag-november2026/",
-      "startDate": "2026-11-16T15:00:00.000Z",
-      "endDate": "2026-11-16T17:00:00.000Z",
+      "startDate": "2026-11-16T16:00:00.000Z",
+      "endDate": "2026-11-16T18:00:00.000Z",
       "fetchedAt": "2026-05-08T18:53:16.538Z",
-      "updatedAt": "2026-05-08T18:54:11.669Z"
+      "updatedAt": "2026-09-15T08:43:53.487Z"
     },
     {
       "id": "eichwalde-event-18312",
       "title": "Familienspielenachmittag",
       "url": "https://www.eichwalde.de/kalender/familienspielenachmittag-dezember2026/",
-      "startDate": "2026-12-21T15:00:00.000Z",
-      "endDate": "2026-12-21T17:00:00.000Z",
+      "startDate": "2026-12-21T16:00:00.000Z",
+      "endDate": "2026-12-21T18:00:00.000Z",
       "fetchedAt": "2026-05-08T18:53:16.538Z",
-      "updatedAt": "2026-05-08T18:54:11.669Z"
+      "updatedAt": "2026-09-15T08:43:53.487Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T09:07:09.314Z",
+  "updatedAt": "2026-09-15T08:49:13.908Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -62,14 +62,6 @@
       "title": "Tag des offenen Denkmals - Mathiasberg in Bötzow",
       "url": "https://www.oberkraemer.de/veranstaltungen/2964556/2026/09/13/tag-des-offenen-denkmals-mathiasberg-in-bötzow.html",
       "startDate": "2026-09-13T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-11T11:12:17.608Z"
-    },
-    {
-      "id": "oberkraemer-event-2855689",
-      "title": "Die Montagshelden - Gymnastik & Bewegung",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855689/2026/09/14/die-montagshelden-gymnastik-bewegung.html",
-      "startDate": "2026-09-14T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
@@ -216,6 +208,14 @@
       "startDate": "2026-09-20T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2855689",
+      "title": "Die Montagshelden - Gymnastik & Bewegung",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855689/2026/09/21/die-montagshelden-gymnastik-bewegung.html",
+      "startDate": "2026-09-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-09-15T08:49:13.925Z"
     },
     {
       "id": "oberkraemer-event-2855864",
@@ -744,6 +744,14 @@
       "startDate": "2026-11-14T00:00:00.000Z",
       "fetchedAt": "2026-09-14T09:07:09.330Z",
       "updatedAt": "2026-09-14T09:07:09.330Z"
+    },
+    {
+      "id": "oberkraemer-event-2825872",
+      "title": "Gottesdienst",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2825872/2026/11/15/gottesdienst.html",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-15T08:49:13.925Z",
+      "updatedAt": "2026-09-15T08:49:13.925Z"
     }
   ]
 }

@@ -1090,6 +1090,16 @@ URL:https://www.kremmen.de/veranstaltungen/2907138/2026/12/20/weihnachtsm
 LOCATION:Restaurant Coldehörn
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2967268@amtsfeed.de
+DTSTAMP:20260915T084903Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Thai Cooking
+URL:https://www.kremmen.de/veranstaltungen/2967268/2027/01/07/thai-cookin
+ g.html
+LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2964867@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20270108
@@ -1267,5 +1277,15 @@ SUMMARY:Bundesweiter Warntag
 URL:https://www.kremmen.de/veranstaltungen/2196215/2027/09/09/bundesweite
  r-warntag.html
 LOCATION:Feuerwehr Kremmen
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2967464@amtsfeed.de
+DTSTAMP:20260915T084903Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Krabbelgruppe
+URL:https://www.kremmen.de/veranstaltungen/2967464/2027/09/15/krabbelgrup
+ pe.html
+LOCATION:Gemeindehaus Kremmen\, Kirchplatz 3\, 16766 Kremmen
 END:VEVENT
 END:VCALENDAR

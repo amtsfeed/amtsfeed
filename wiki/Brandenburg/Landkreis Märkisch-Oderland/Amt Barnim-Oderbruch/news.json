@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:11:24.869Z",
+  "updatedAt": "2026-09-15T08:47:39.587Z",
   "items": [
     {
       "id": "neulewiner-oktoberfest",
@@ -11,6 +11,15 @@
       "updatedAt": "2026-09-11T11:11:24.858Z"
     },
     {
+      "id": "vom-meer-vom-moor-und-von-der-heide",
+      "title": "Vom Meer, vom Moor und von der Heide",
+      "url": "https://www.barnim-oderbruch.de/aktuelles/detail/vom-meer-vom-moor-und-von-der-heide",
+      "description": "Eine spannende, literarische Reise!",
+      "fetchedAt": "2026-09-15T08:47:39.579Z",
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-09-15T08:47:39.579Z"
+    },
+    {
       "id": "hoffest-auf-dem-ziegenhof-in-zollbruecke",
       "title": "Hoffest auf dem Ziegenhof in Zollbrücke",
       "url": "https://www.barnim-oderbruch.de/aktuelles/detail/hoffest-auf-dem-ziegenhof-in-zollbruecke",
@@ -18,6 +27,15 @@
       "fetchedAt": "2026-09-11T09:57:22.116Z",
       "publishedAt": "2026-10-03T00:00:00.000Z",
       "updatedAt": "2026-09-11T11:11:24.858Z"
+    },
+    {
+      "id": "benefizabend",
+      "title": "Benefizabend",
+      "url": "https://www.barnim-oderbruch.de/aktuelles/detail/benefizabend",
+      "description": "mit Kristoffer Baumann",
+      "fetchedAt": "2026-09-15T08:47:39.579Z",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T08:47:39.579Z"
     },
     {
       "id": "adfc-fahrradklima-test-2026",

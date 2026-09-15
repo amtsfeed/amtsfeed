@@ -291,4 +291,14 @@ SUMMARY:KrisenFEST
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  krisenfest
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-informationen-zum-krisenstab-der-stadt-hohen-ne
+ uendorf@amtsfeed.de
+DTSTAMP:20260915T084900Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Informationen zum Krisenstab der Stadt Hohen Neuendorf
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ informationen-zum-krisenstab-der-stadt-hohen-neuendorf
+END:VEVENT
 END:VCALENDAR

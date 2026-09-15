@@ -60,4 +60,22 @@ SUMMARY:Trödelmarkt in Altwriezen
 URL:https://www.wriezen.de/veranstaltungen/2842133/2026/05/30/trödelmark
  t-in-altwriezen.html
 END:VEVENT
+BEGIN:VEVENT
+UID:wriezen-2967661@amtsfeed.de
+DTSTAMP:20260915T084838Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:3. Wriezener Unternehmerstammtisch
+URL:https://www.wriezen.de/veranstaltungen/2967661/2026/09/18/3.-wriezene
+ r-unternehmerstammtisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wriezen-2967662@amtsfeed.de
+DTSTAMP:20260915T084838Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Truestory Reunion "Junge Gemeinde"
+URL:https://www.wriezen.de/veranstaltungen/2967662/2026/09/24/truestory-r
+ eunion-junge-gemeinde.html
+END:VEVENT
 END:VCALENDAR

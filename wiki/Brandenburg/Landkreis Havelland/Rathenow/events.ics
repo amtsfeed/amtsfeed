@@ -943,6 +943,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Wanderparkplatz Ferchesarer Weg\, Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1738-20260919@amtsfeed.de
+DTSTAMP:20260915T084602Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:WBC Deutsche Meisterschaft MUAY THAI
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/wbc-deutsche-meisterschaft-muay
+ -thai/
+LOCATION:Boxing Stadium Rathenow Milower Landstraße 7 Rathenow / Steckel
+ sdorf
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1511-20260920@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20260920
@@ -1155,6 +1167,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Theatersaal Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1737-20261017@amtsfeed.de
+DTSTAMP:20260915T084602Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:KÜRBISFEST Göttlin
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/kuerbisfest-goettlin/
+LOCATION:Göttliner Dorfplatz
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-271-20261018@amtsfeed.de
 DTSTAMP:20260911T110748Z
 DTSTART;VALUE=DATE:20261018
@@ -1238,6 +1260,17 @@ SUMMARY:Halloween
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/halloween/
 LOCATION:Rathenow\, Restaurant "Zum Alten Hafen"
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1736-20261031@amtsfeed.de
+DTSTAMP:20260915T084602Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:HALLOWEEN im Launepark Rathenow
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/halloween-im-launepark-rathenow
+ /
+LOCATION:Launepark Rathenow Puschkinstraße 88
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1334-20261106@amtsfeed.de

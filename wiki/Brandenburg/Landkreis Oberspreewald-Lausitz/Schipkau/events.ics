@@ -532,6 +532,30 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2822328/2026/10/30/h
 LOCATION:Drochow
 END:VEVENT
 BEGIN:VEVENT
+UID:schipkau-event-2967420@amtsfeed.de
+DTSTAMP:20260915T084939Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Saisoneröffnung mit Fackelumzug
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2967420/2026/11/11/s
+ aisoneröffnung-mit-fackelumzug.html
+DESCRIPTION:Wie in den vergangenen Jahren beginnt die neue Saison in Anna
+ hütte mit unserem Fackelumzug. Am ...
+LOCATION:Clubhaus Annahütte
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-2967417@amtsfeed.de
+DTSTAMP:20260915T084939Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Heißer Samstag
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2967417/2026/11/14/h
+ eißer-samstag.html
+DESCRIPTION:Mit unserem „Heißen Samstag“ steht die erste Abendverans
+ taltung der 79. Saison auf dem ...
+LOCATION:Clubhaus Annahütte
+END:VEVENT
+BEGIN:VEVENT
 UID:schipkau-event-2959376@amtsfeed.de
 DTSTAMP:20260911T111236Z
 DTSTART;VALUE=DATE:20261115
@@ -704,5 +728,17 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2965261/2027/01/09/k
 DESCRIPTION:Klugscheißen war noch nie so wertvoll: Bringt eure schlauste
  n Freunde mit zum ersten Kneipenquiz ...
 LOCATION:Gasthof Meuro
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-2967413@amtsfeed.de
+DTSTAMP:20260915T084939Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Malle-Party beim KCA 48
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2967413/2027/01/29/m
+ alle-party-beim-kca-48.html
+DESCRIPTION:Wenn der KCA 48 durch 16 Länder reist\, darf natürlich auch
+  das heimliche 17. Bundesland nicht ...
+LOCATION:Clubhaus Annahütte
 END:VEVENT
 END:VCALENDAR

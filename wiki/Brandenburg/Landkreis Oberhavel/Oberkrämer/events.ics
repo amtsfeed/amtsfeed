@@ -79,15 +79,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2964556/2026/09/13/tag-des
  -offenen-denkmals-mathiasberg-in-bötzow.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855689@amtsfeed.de
-DTSTAMP:20260911T111217Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:Die Montagshelden - Gymnastik & Bewegung
-URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/09/14/die-mon
- tagshelden-gymnastik-bewegung.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855861@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20260915
@@ -248,6 +239,15 @@ DTEND;VALUE=DATE:20260921
 SUMMARY:Gemeindeversammlung
 URL:https://www.oberkraemer.de/veranstaltungen/2825870/2026/09/20/gemeind
  eversammlung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855689@amtsfeed.de
+DTSTAMP:20260915T084913Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Die Montagshelden - Gymnastik & Bewegung
+URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/09/21/die-mon
+ tagshelden-gymnastik-bewegung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855864@amtsfeed.de
@@ -846,5 +846,14 @@ SUMMARY:Nähkurs für Fortgeschrittene monatlich\, am 2. Sonnabend eines
  Monats
 URL:https://www.oberkraemer.de/veranstaltungen/2961758/2026/11/14/nähkur
  s-für-fortgeschrittene-monatlich-am-2.-sonnabend-eines-monats.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2825872@amtsfeed.de
+DTSTAMP:20260915T084913Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Gottesdienst
+URL:https://www.oberkraemer.de/veranstaltungen/2825872/2026/11/15/gottesd
+ ienst.html
 END:VEVENT
 END:VCALENDAR

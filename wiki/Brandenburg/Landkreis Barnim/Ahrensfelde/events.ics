@@ -1776,6 +1776,29 @@ LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005029@amtsfeed.de
+DTSTAMP:20260915T084316Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:„Hey\, Alter!“ Humorvolle Buchlesung mit Jürgen Nowak
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/-hey-alter-humorv
+ olle-buchlesung-mit-juergen-nowak-900005029-30601.html
+DESCRIPTION:Was passiert eigentlich\, wenn der Ruhestand plötzlich Reali
+ tät wird? Wenn die nötige Reife zwar vorhanden ist\, sich aber auch Zip
+ perlein\, kleine Ausfälle und die eine oder andere Gedächtnislücke daz
+ ugesellen?\n\nJürgen Nowak kennt sich damit bestens aus\, und macht dara
+ us lieber Humor als ein Drama. Der ehemalige Chefredakteur des Satiremaga
+ zins »Eulenspiegel« blickt mit der ihm eigenen satirischen Sicht auf da
+ s Älterwerden\, auf die Macken und Marotten der Senioren und nicht zulet
+ zt auf sich selbst.\n\nBei seiner Buchlesung aus „Hey\, Alter! Ruhestan
+ d im Selbstversuch“ erwartet die Gäste ein unterhaltsamer Nachmittag v
+ oller pointierter Beobachtungen\, Selbstironie und Geschichten\, in denen
+  sich vermutlich so mancher wiedererkennen wird.\n\nSonnabend\, 7. Novemb
+ er\, 16 Uhr\n\nPfarrstall\, Kirchstraße 2\, 16356 Blumberg\n\nDer Eintri
+ tt ist frei\, eine Spende ist erwünscht.
+LOCATION:Pfarrstall Blumberg\, Kirchstraße 2\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004985@amtsfeed.de
 DTSTAMP:20260911T110619Z
 DTSTART:20261109T090000Z
@@ -1852,6 +1875,23 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  0601.html
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005028@amtsfeed.de
+DTSTAMP:20260915T084316Z
+DTSTART:20261113T170000Z
+DTEND:20261113T200000Z
+SUMMARY:Gemeinsam Singen in Blumberg
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/gemeinsam-singen-
+ in-blumberg-900005028-30601.html
+DESCRIPTION:Du singst gerne unter der Dusche oder im Auto\, hast aber kei
+ ne Lust auf Notenlesen oder Zeit für Chorproben? \nDann bist du beim gem
+ einsamen Karaoke Singen genau richtig!\nWir singen gemeinsam die größte
+ n Evergreens und Pop-Klassiker. Die Texte laufen groß an der Leinwand mi
+ t – \ndu musst einfach nur einstimmen. \nKein Vorsingen\, kein Leistung
+ sdruck und garantiert ohne Vorkenntnisse. \nEinfach vorbeikommen\, Nachba
+ rn treffen und mitmachen!
+LOCATION:Stufensaal Blumberg\, Schloßstraße 17i\, 16356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900005000@amtsfeed.de
@@ -2112,11 +2152,11 @@ LOCATION:Ortsteilzentrum Ahrensfelde\, Lindenberger Straße 1b\, 16356 Ah
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004838@amtsfeed.de
-DTSTAMP:20260526T085739Z
+DTSTAMP:20260915T084316Z
 DTSTART:20261209T180000Z
 SUMMARY:öffentliche Sitzung des Ortsbeirates Eiche
 URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ortsbeirates-eiche-900004838-30601.html?naviID=0
+ ung-des-ortsbeirates-eiche-900004838-30601.html
 LOCATION:16356 Ahrensfelde\, Gemeindezentrum Eiche\, Ahrensfelder Chaus
  see 35\, OT Eiche
 END:VEVENT

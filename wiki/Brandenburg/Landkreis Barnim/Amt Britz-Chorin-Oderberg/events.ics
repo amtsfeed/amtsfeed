@@ -988,11 +988,35 @@ LOCATION:16230 Chorin – Golzow – Sportplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:15331@amtsfeed.de
-DTSTAMP:20260526T084943Z
-DTSTART:20260921T123000Z
-SUMMARY:Weltalzheimertag (Pflege vor Ort)
+DTSTAMP:20260915T084323Z
+DTSTART:20260920T120000Z
+SUMMARY:Tanztee in Oderberg für Seniorinnen und Senioren
 URL:https://britz-chorin-oderberg.de/events#event-15331
 LOCATION:16248 Oderberg – Sporthalle
+END:VEVENT
+BEGIN:VEVENT
+UID:16546@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20260920T120000Z
+SUMMARY:Apfel- und Drachenfest in Oderberg
+URL:https://britz-chorin-oderberg.de/events#event-16546
+LOCATION:16248 Oderberg – Schulgarten der Schule Oderberg
+END:VEVENT
+BEGIN:VEVENT
+UID:16563@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20260922T130000Z
+SUMMARY:Stadtführung Oderberg — Kinder zeigen ihre Stadt
+URL:https://britz-chorin-oderberg.de/events#event-16563
+LOCATION:16248 Oderberg – Jugenclub
+END:VEVENT
+BEGIN:VEVENT
+UID:16557@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20260925T133000Z
+SUMMARY:Kindertanzen in Serwest
+URL:https://britz-chorin-oderberg.de/events#event-16557
+LOCATION:16230 Chorin – Serwest – Dorfgemeinschaftshaus
 END:VEVENT
 BEGIN:VEVENT
 UID:15037@amtsfeed.de
@@ -1035,6 +1059,22 @@ URL:https://britz-chorin-oderberg.de/events#event-16196
 LOCATION:16248 Oderberg – Fliederweg 1
 END:VEVENT
 BEGIN:VEVENT
+UID:16543@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20260930T160000Z
+SUMMARY:Halloween in Parstein
+URL:https://britz-chorin-oderberg.de/events#event-16543
+LOCATION:16248 Parsteinsee – Parstein – Sportplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:16559@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261002T133000Z
+SUMMARY:Kindertanzen in Serwest
+URL:https://britz-chorin-oderberg.de/events#event-16559
+LOCATION:16230 Chorin – Serwest – Dorfgemeinschaftshaus
+END:VEVENT
+BEGIN:VEVENT
 UID:14811@amtsfeed.de
 DTSTAMP:20260526T084943Z
 DTSTART:20261002T220000Z
@@ -1049,6 +1089,14 @@ DTSTART:20261002T220000Z
 SUMMARY:Türen auf mit der Maus
 URL:https://britz-chorin-oderberg.de/events#event-14826
 LOCATION:16248 Niederfinow – Schiffshebewerk
+END:VEVENT
+BEGIN:VEVENT
+UID:16569@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261002T220000Z
+SUMMARY:Kloster Chorin: Kräuter- und Keramiktage
+URL:https://britz-chorin-oderberg.de/events#event-16569
+LOCATION:16230 Chorin – Chorin – Amt 11a\, Kloster Chorin
 END:VEVENT
 BEGIN:VEVENT
 UID:14827@amtsfeed.de
@@ -1075,6 +1123,14 @@ URL:https://britz-chorin-oderberg.de/events#event-15104
 LOCATION:16248 Niederfinow – Infozentrum am Hebewerk
 END:VEVENT
 BEGIN:VEVENT
+UID:16560@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261009T133000Z
+SUMMARY:Kindertanzen in Serwest
+URL:https://britz-chorin-oderberg.de/events#event-16560
+LOCATION:16230 Chorin – Serwest – Dorfgemeinschaftshaus
+END:VEVENT
+BEGIN:VEVENT
 UID:15632@amtsfeed.de
 DTSTAMP:20260526T084943Z
 DTSTART:20261009T163000Z
@@ -1083,12 +1139,52 @@ URL:https://britz-chorin-oderberg.de/events#event-15632
 LOCATION:16248 Oderberg – St. Nikolaikirche
 END:VEVENT
 BEGIN:VEVENT
+UID:16570@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261009T170000Z
+SUMMARY:Stille Stunde
+URL:https://britz-chorin-oderberg.de/events#event-16570
+LOCATION:16230 Chorin – Chorin – Amt 11a\, Kloster Chorin
+END:VEVENT
+BEGIN:VEVENT
+UID:16555@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261009T173000Z
+SUMMARY:Leinwand Oderberg
+URL:https://britz-chorin-oderberg.de/events#event-16555
+LOCATION:16248 Oderberg – Berliner Straße 73\, "Schwarzer Adler"
+END:VEVENT
+BEGIN:VEVENT
+UID:16551@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261010T080000Z
+SUMMARY:MenschBrodowin: Aus Alt mach Neu!
+URL:https://britz-chorin-oderberg.de/events#event-16551
+LOCATION:16230 Chorin – Brodowin – Brodowiner Straße 22
+END:VEVENT
+BEGIN:VEVENT
 UID:15084@amtsfeed.de
 DTSTAMP:20260911T110622Z
 DTSTART:20261010T170000Z
 SUMMARY:Clara Werden auf der RIESA – Der Name ist Programm
 URL:https://britz-chorin-oderberg.de/events#event-15084
 LOCATION:16248 Oderberg – Museumsschiff "Riesa"\, Bugsalon
+END:VEVENT
+BEGIN:VEVENT
+UID:16544@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261010T170000Z
+SUMMARY:Niederfinower Tanzabend
+URL:https://britz-chorin-oderberg.de/events#event-16544
+LOCATION:16248 Niederfinow – Sporthalle
+END:VEVENT
+BEGIN:VEVENT
+UID:16561@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261016T133000Z
+SUMMARY:Kindertanzen in Serwest
+URL:https://britz-chorin-oderberg.de/events#event-16561
+LOCATION:16230 Chorin – Serwest – Dorfgemeinschaftshaus
 END:VEVENT
 BEGIN:VEVENT
 UID:15039@amtsfeed.de
@@ -1107,6 +1203,14 @@ URL:https://britz-chorin-oderberg.de/events#event-15051
 LOCATION:16230 Chorin – Senftenhütte – Gemeinderaum\, Ärmel 14
 END:VEVENT
 BEGIN:VEVENT
+UID:16553@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261017T090000Z
+SUMMARY:MenschBrodowin: Töpfern
+URL:https://britz-chorin-oderberg.de/events#event-16553
+LOCATION:16230 Chorin – Brodowin – Brodowiner Straße 22
+END:VEVENT
+BEGIN:VEVENT
 UID:15053@amtsfeed.de
 DTSTAMP:20260526T084943Z
 DTSTART:20261018T140000Z
@@ -1123,6 +1227,14 @@ URL:https://britz-chorin-oderberg.de/events#event-15085
 LOCATION:16248 Oderberg – Museumsschiff "Riesa"\, Bugsalon
 END:VEVENT
 BEGIN:VEVENT
+UID:16565@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261027T120000Z
+SUMMARY:Stadtführung Oderberg — Kinder zeigen ihre Stadt
+URL:https://britz-chorin-oderberg.de/events#event-16565
+LOCATION:16248 Oderberg – Museumspark
+END:VEVENT
+BEGIN:VEVENT
 UID:15029@amtsfeed.de
 DTSTAMP:20260526T084943Z
 DTSTART:20261029T230000Z
@@ -1137,6 +1249,14 @@ DTSTART:20261030T230000Z
 SUMMARY:Halloween im Krafthaus
 URL:https://britz-chorin-oderberg.de/events#event-14828
 LOCATION:16248 Niederfinow – Infozentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:16571@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261031T093000Z
+SUMMARY:Choriner Morgengebet
+URL:https://britz-chorin-oderberg.de/events#event-16571
+LOCATION:16230 Chorin – Chorin – Kloster Chorin\, Amt 11a
 END:VEVENT
 BEGIN:VEVENT
 UID:15103@amtsfeed.de
@@ -1169,6 +1289,14 @@ DTSTART:20261112T230000Z
 SUMMARY:Martinsfest Chorin
 URL:https://britz-chorin-oderberg.de/events#event-15302
 LOCATION:16230 Chorin – Chorin
+END:VEVENT
+BEGIN:VEVENT
+UID:16566@amtsfeed.de
+DTSTAMP:20260915T084323Z
+DTSTART:20261115T100000Z
+SUMMARY:Stadtführung Oderberg — Kinder zeigen ihre Stadt
+URL:https://britz-chorin-oderberg.de/events#event-16566
+LOCATION:16248 Oderberg – Museumspark
 END:VEVENT
 BEGIN:VEVENT
 UID:15040@amtsfeed.de

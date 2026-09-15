@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:12:36.634Z",
+  "updatedAt": "2026-09-15T08:49:39.857Z",
   "items": [
     {
       "id": "schipkau-event-2905379",
@@ -453,6 +453,26 @@
       "updatedAt": "2026-05-31T18:42:03.378Z"
     },
     {
+      "id": "schipkau-event-2967420",
+      "title": "Saisoneröffnung mit Fackelumzug",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2967420/2026/11/11/saisoneröffnung-mit-fackelumzug.html",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "location": "Clubhaus Annahütte",
+      "description": "Wie in den vergangenen Jahren beginnt die neue Saison in Annahütte mit unserem Fackelumzug. Am ...",
+      "fetchedAt": "2026-09-15T08:49:39.845Z",
+      "updatedAt": "2026-09-15T08:49:39.845Z"
+    },
+    {
+      "id": "schipkau-event-2967417",
+      "title": "Heißer Samstag",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2967417/2026/11/14/heißer-samstag.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "Clubhaus Annahütte",
+      "description": "Mit unserem „Heißen Samstag“ steht die erste Abendveranstaltung der 79. Saison auf dem ...",
+      "fetchedAt": "2026-09-15T08:49:39.845Z",
+      "updatedAt": "2026-09-15T08:49:39.845Z"
+    },
+    {
       "id": "schipkau-event-2959376",
       "title": "Traditionelles Gänsebratenessen (Kirmes)",
       "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2959376/2026/11/15/traditionelles-gänsebratenessen-kirmes.html",
@@ -598,6 +618,16 @@
       "description": "Klugscheißen war noch nie so wertvoll: Bringt eure schlausten Freunde mit zum ersten Kneipenquiz ...",
       "fetchedAt": "2026-09-11T09:58:50.306Z",
       "updatedAt": "2026-09-11T11:12:36.607Z"
+    },
+    {
+      "id": "schipkau-event-2967413",
+      "title": "Malle-Party beim KCA 48",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2967413/2027/01/29/malle-party-beim-kca-48.html",
+      "startDate": "2027-01-29T00:00:00.000Z",
+      "location": "Clubhaus Annahütte",
+      "description": "Wenn der KCA 48 durch 16 Länder reist, darf natürlich auch das heimliche 17. Bundesland nicht ...",
+      "fetchedAt": "2026-09-15T08:49:39.845Z",
+      "updatedAt": "2026-09-15T08:49:39.845Z"
     }
   ]
 }

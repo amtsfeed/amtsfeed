@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:12:10.794Z",
+  "updatedAt": "2026-09-15T08:49:03.134Z",
   "items": [
     {
       "id": "kremmen-event-2897663",
@@ -974,6 +974,15 @@
       "updatedAt": "2026-05-26T09:04:01.433Z"
     },
     {
+      "id": "kremmen-event-2967268",
+      "title": "Thai Cooking",
+      "url": "https://www.kremmen.de/veranstaltungen/2967268/2027/01/07/thai-cooking.html",
+      "startDate": "2027-01-07T00:00:00.000Z",
+      "location": "Restaurant Coldehörn",
+      "fetchedAt": "2026-09-15T08:49:03.121Z",
+      "updatedAt": "2026-09-15T08:49:03.121Z"
+    },
+    {
       "id": "kremmen-event-2964867",
       "title": "Rentner- Weihnachtsfeier / Jahresabschlussfeier",
       "url": "https://www.kremmen.de/veranstaltungen/2964867/2027/01/08/rentner-weihnachtsfeier-jahresabschlussfeier.html",
@@ -1134,6 +1143,15 @@
       "location": "Feuerwehr Kremmen",
       "fetchedAt": "2026-05-06T15:27:28.720Z",
       "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2967464",
+      "title": "Krabbelgruppe",
+      "url": "https://www.kremmen.de/veranstaltungen/2967464/2027/09/15/krabbelgruppe.html",
+      "startDate": "2027-09-15T00:00:00.000Z",
+      "location": "Gemeindehaus Kremmen, Kirchplatz 3, 16766 Kremmen",
+      "fetchedAt": "2026-09-15T08:49:03.121Z",
+      "updatedAt": "2026-09-15T08:49:03.121Z"
     }
   ]
 }

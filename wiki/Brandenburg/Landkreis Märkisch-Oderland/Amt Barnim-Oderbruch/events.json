@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:11:24.869Z",
+  "updatedAt": "2026-09-15T08:47:39.587Z",
   "items": [
     {
       "id": "ausscheid-der-freiwilligen-feuer-und-jugendwehren-des-amtes-barnim-oderbruch",
@@ -92,6 +92,15 @@
       "updatedAt": "2026-05-31T13:15:00.274Z"
     },
     {
+      "id": "benefizabend",
+      "title": "Benefizabend",
+      "url": "https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/benefizabend",
+      "startDate": "2026-09-15T00:00:00.000Z",
+      "description": "mit Kristoffer Baumann",
+      "fetchedAt": "2026-09-15T08:47:39.578Z",
+      "updatedAt": "2026-09-15T08:47:39.578Z"
+    },
+    {
       "id": "hoffest-auf-dem-ziegenhof-in-zollbruecke",
       "title": "Hoffest auf dem Ziegenhof in Zollbrücke",
       "url": "https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/hoffest-auf-dem-ziegenhof-in-zollbruecke",
@@ -99,6 +108,15 @@
       "description": "von 10-16 Uhr",
       "fetchedAt": "2026-09-11T09:57:22.115Z",
       "updatedAt": "2026-09-11T11:11:24.857Z"
+    },
+    {
+      "id": "vom-meer-vom-moor-und-von-der-heide",
+      "title": "Vom Meer, vom Moor und von der Heide",
+      "url": "https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/vom-meer-vom-moor-und-von-der-heide",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "description": "Eine spannende, literarische Reise!",
+      "fetchedAt": "2026-09-15T08:47:39.578Z",
+      "updatedAt": "2026-09-15T08:47:39.578Z"
     },
     {
       "id": "neulewiner-oktoberfest",

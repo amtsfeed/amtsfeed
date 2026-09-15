@@ -1,19 +1,11 @@
 {
-  "updatedAt": "2026-09-14T09:07:58.491Z",
+  "updatedAt": "2026-09-15T08:49:54.791Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
       "title": "UnRuhestand: KULTUR am Nachmittag: Bebbo Küster „Mein Leben – Ein Kessel Buntes“",
       "url": "https://www.scharmuetzelsee.de/event/unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
       "startDate": "2026-05-05T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-05-05T15:50:40.941Z"
-    },
-    {
-      "id": "scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen",
-      "title": "Aktiv Wochenplan - Kneipp-Güsse am Morgen",
-      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-am-morgen",
-      "startDate": "2026-05-06T00:00:00.000Z",
       "fetchedAt": "2026-05-05T15:50:40.941Z",
       "updatedAt": "2026-05-05T15:50:40.941Z"
     },
@@ -296,26 +288,18 @@
       "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
       "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
       "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
-      "startDate": "2026-09-14T00:00:00.000Z",
+      "startDate": "2026-09-15T00:00:00.000Z",
       "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-09-14T09:07:58.489Z"
-    },
-    {
-      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
-      "title": "Linienfahrten Hauptsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
-      "startDate": "2026-09-14T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-09-14T09:07:58.489Z"
+      "updatedAt": "2026-09-15T08:49:54.788Z"
     },
     {
       "id": "scharmuetzelsee-satamas-aufguss-wm-2026",
       "title": "SATAMAs Aufguss-WM 2026",
       "url": "https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026",
-      "startDate": "2026-09-14T00:00:00.000Z",
+      "startDate": "2026-09-15T00:00:00.000Z",
       "endDate": "2026-09-20T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-14T09:07:58.489Z"
+      "updatedAt": "2026-09-15T08:49:54.788Z"
     },
     {
       "id": "scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas",
@@ -334,12 +318,36 @@
       "updatedAt": "2026-09-14T09:07:58.489Z"
     },
     {
+      "id": "scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen",
+      "title": "Aktiv Wochenplan - Kneipp-Güsse am Morgen",
+      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-am-morgen",
+      "startDate": "2026-09-16T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-09-15T08:49:54.788Z"
+    },
+    {
+      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
+      "title": "Linienfahrten Hauptsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
+      "startDate": "2026-09-16T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-09-15T08:49:54.788Z"
+    },
+    {
       "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
       "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
       "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "startDate": "2026-09-15T00:00:00.000Z",
+      "startDate": "2026-09-16T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-14T09:07:58.489Z"
+      "updatedAt": "2026-09-15T08:49:54.788Z"
+    },
+    {
+      "id": "scharmuetzelsee-aktiv-wochenplan-toepfern-schnupperkurs",
+      "title": "Aktiv Wochenplan - Töpfern Schnupperkurs",
+      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnupperkurs",
+      "startDate": "2026-09-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-15T08:49:54.788Z",
+      "updatedAt": "2026-09-15T08:49:54.788Z"
     },
     {
       "id": "scharmuetzelsee-drachenfest-neu-golm",

@@ -108,6 +108,16 @@ URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/125-
 DESCRIPTION:Für das leibliche Wohl ist gesorgt.
 END:VEVENT
 BEGIN:VEVENT
+UID:benefizabend@amtsfeed.de
+DTSTAMP:20260915T084739Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Benefizabend
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/bene
+ fizabend
+DESCRIPTION:mit Kristoffer Baumann
+END:VEVENT
+BEGIN:VEVENT
 UID:hoffest-auf-dem-ziegenhof-in-zollbruecke@amtsfeed.de
 DTSTAMP:20260911T111124Z
 DTSTART;VALUE=DATE:20261003
@@ -116,6 +126,16 @@ SUMMARY:Hoffest auf dem Ziegenhof in Zollbrücke
 URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/hoff
  est-auf-dem-ziegenhof-in-zollbruecke
 DESCRIPTION:von 10-16 Uhr
+END:VEVENT
+BEGIN:VEVENT
+UID:vom-meer-vom-moor-und-von-der-heide@amtsfeed.de
+DTSTAMP:20260915T084739Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Vom Meer\, vom Moor und von der Heide
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/vom-
+ meer-vom-moor-und-von-der-heide
+DESCRIPTION:Eine spannende\, literarische Reise!
 END:VEVENT
 BEGIN:VEVENT
 UID:neulewiner-oktoberfest@amtsfeed.de

@@ -18,15 +18,6 @@ URL:https://www.scharmuetzelsee.de/event/unruhestand-kultur-am-nachmittag
  -bebbo-kuester-mein-leben-ein-kessel-buntes
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
-DTSTAMP:20260505T155040Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
- m-morgen
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-glueckliche-fuesse@amtsfeed.de
 DTSTAMP:20260526T090412Z
 DTSTART;VALUE=DATE:20260526
@@ -341,26 +332,17 @@ URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-ab-wendisc
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260914T090758Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
+DTSTAMP:20260915T084954Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
 SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
 URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
  d-saarow
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
-DTSTAMP:20260914T090758Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:Linienfahrten Hauptsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
- ch
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de
-DTSTAMP:20260914T090758Z
-DTSTART;VALUE=DATE:20260914
+DTSTAMP:20260915T084954Z
+DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260921
 SUMMARY:SATAMAs Aufguss-WM 2026
 URL:https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026
@@ -385,14 +367,41 @@ URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
  park
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
+DTSTAMP:20260915T084954Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
+ m-morgen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
+DTSTAMP:20260915T084954Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Linienfahrten Hauptsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
+ ch
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
  eed.de
-DTSTAMP:20260914T090758Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
+DTSTAMP:20260915T084954Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
 SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
 URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
  die-zeit-laeuft
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-toepfern-schnupperkurs@amtsfeed.de
+DTSTAMP:20260915T084954Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
+ perkurs
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-drachenfest-neu-golm@amtsfeed.de

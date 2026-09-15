@@ -1359,15 +1359,6 @@ URL:https://www.gemeinde-tauche.de/veranstaltungen/2889947/2026/10/21/han
  darbeits-treff-in-mittweide.html
 END:VEVENT
 BEGIN:VEVENT
-UID:veranstaltungen-2892942-2026-10-26-preußencamp.html@amtsfeed.de
-DTSTAMP:20260911T111312Z
-DTSTART:20261026T100000Z
-DTEND:20261027T100000Z
-SUMMARY:Preußencamp
-URL:https://www.gemeinde-tauche.de/veranstaltungen/2892942/2026/10/26/pre
- ußencamp.html
-END:VEVENT
-BEGIN:VEVENT
 UID:veranstaltungen-2930877-2026-10-26-die-welt-der-onleihe--elektronisch
  e-medien-erklärt-und-vorgeführt.html@amtsfeed.de
 DTSTAMP:20260911T111312Z
@@ -1377,6 +1368,15 @@ SUMMARY:Die Welt der Onleihe &ndash\; elektronische Medien erklärt und v
  orgeführt
 URL:https://www.gemeinde-tauche.de/veranstaltungen/2930877/2026/10/26/die
  -welt-der-onleihe--elektronische-medien-erklärt-und-vorgeführt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2892942-2026-10-26-preußencamp.html@amtsfeed.de
+DTSTAMP:20260915T085027Z
+DTSTART:20261026T180000Z
+DTEND:20261027T180000Z
+SUMMARY:Preußencamp
+URL:https://www.gemeinde-tauche.de/veranstaltungen/2892942/2026/10/26/pre
+ ußencamp.html
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2930865-2026-10-27-treff-bibka-spielestündchen.html@
@@ -1617,5 +1617,26 @@ DTEND:20261213T110000Z
 SUMMARY:Eltern-Kind-Turnen 2026
 URL:https://www.gemeinde-tauche.de/veranstaltungen/2872089/2026/12/13/elt
  ern-kind-turnen-2026.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2930852-2026-12-15-stunde-für-kreative-und-buchliebh
+ aber.html@amtsfeed.de
+DTSTAMP:20260915T085027Z
+DTSTART:20261215T095900Z
+DTEND:20261215T112900Z
+SUMMARY:Stunde für Kreative und Buchliebhaber
+URL:https://www.gemeinde-tauche.de/veranstaltungen/2930852/2026/12/15/stu
+ nde-für-kreative-und-buchliebhaber.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2641680-2026-12-15-dorfkino-im-ludwig-leichhardt-muse
+ um-trebatsch.html@amtsfeed.de
+DTSTAMP:20260915T085027Z
+DTSTART:20261215T190000Z
+SUMMARY:Dorfkino im Ludwig-Leichhardt-Museum Trebatsch
+URL:https://www.gemeinde-tauche.de/veranstaltungen/2641680/2026/12/15/dor
+ fkino-im-ludwig-leichhardt-museum-trebatsch.html
+LOCATION:Ludwig-Leichhardt-Museum // Gesellschaft Ludwig Leichhardt e. V.
+  Trebatsch
 END:VEVENT
 END:VCALENDAR

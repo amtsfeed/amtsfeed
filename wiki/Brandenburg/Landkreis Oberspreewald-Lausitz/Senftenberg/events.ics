@@ -783,4 +783,24 @@ URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Die-Nacht-Z%C3
  %A4hneputzen-Pullern-und-ab-ins-Bett.php?object=tx\,2779.4&ModID=11&FID=2
  779.6955.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
 END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-7556@amtsfeed.de
+DTSTAMP:20260915T084943Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Pilzberatung im Kulturschiff
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Pilzberatung-i
+ m-Kulturschiff.php?object=tx\,2779.4&ModID=11&FID=2779.7556.1&NavID=2779.
+ 16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-6003@amtsfeed.de
+DTSTAMP:20260915T084943Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Schnuppertour mit der Seeschlange um den Geierswalder See
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Schnuppertour-
+ mit-der-Seeschlange-um-den-Geierswalder-See.php?object=tx\,2779.4&ModID=1
+ 1&FID=2779.6003.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
 END:VCALENDAR

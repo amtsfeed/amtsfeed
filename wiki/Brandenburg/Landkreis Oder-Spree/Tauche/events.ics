@@ -1359,6 +1359,15 @@ URL:https://www.gemeinde-tauche.de/veranstaltungen/2889947/2026/10/21/han
  darbeits-treff-in-mittweide.html
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2892942-2026-10-26-preußencamp.html@amtsfeed.de
+DTSTAMP:20260916T084543Z
+DTSTART:20261026T060000Z
+DTEND:20261027T060000Z
+SUMMARY:Preußencamp
+URL:https://www.gemeinde-tauche.de/veranstaltungen/2892942/2026/10/26/pre
+ ußencamp.html
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2930877-2026-10-26-die-welt-der-onleihe--elektronisch
  e-medien-erklärt-und-vorgeführt.html@amtsfeed.de
 DTSTAMP:20260911T111312Z
@@ -1368,15 +1377,6 @@ SUMMARY:Die Welt der Onleihe &ndash\; elektronische Medien erklärt und v
  orgeführt
 URL:https://www.gemeinde-tauche.de/veranstaltungen/2930877/2026/10/26/die
  -welt-der-onleihe--elektronische-medien-erklärt-und-vorgeführt.html
-END:VEVENT
-BEGIN:VEVENT
-UID:veranstaltungen-2892942-2026-10-26-preußencamp.html@amtsfeed.de
-DTSTAMP:20260915T085027Z
-DTSTART:20261026T180000Z
-DTEND:20261027T180000Z
-SUMMARY:Preußencamp
-URL:https://www.gemeinde-tauche.de/veranstaltungen/2892942/2026/10/26/pre
- ußencamp.html
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2930865-2026-10-27-treff-bibka-spielestündchen.html@
@@ -1638,5 +1638,15 @@ URL:https://www.gemeinde-tauche.de/veranstaltungen/2641680/2026/12/15/dor
  fkino-im-ludwig-leichhardt-museum-trebatsch.html
 LOCATION:Ludwig-Leichhardt-Museum // Gesellschaft Ludwig Leichhardt e. V.
   Trebatsch
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2889947-2026-12-16-handarbeits-treff-in-mittweide.htm
+ l@amtsfeed.de
+DTSTAMP:20260916T084543Z
+DTSTART:20261216T170000Z
+DTEND:20261216T190000Z
+SUMMARY:Handarbeits-Treff in Mittweide
+URL:https://www.gemeinde-tauche.de/veranstaltungen/2889947/2026/12/16/han
+ darbeits-treff-in-mittweide.html
 END:VEVENT
 END:VCALENDAR

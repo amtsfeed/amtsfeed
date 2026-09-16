@@ -707,15 +707,6 @@ URL:https://www.calau.de/veranstaltungen/2963483/2026/09/14/abendspazierg
  ang-im-gutspark-saßleben.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20260914T090727Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:15.09.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/09/15/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2962561@amtsfeed.de
 DTSTAMP:20260914T090727Z
 DTSTART;VALUE=DATE:20260915
@@ -732,6 +723,15 @@ DTEND;VALUE=DATE:20260917
 SUMMARY:16.09.2026   Calauer Museen öffnen
 URL:https://www.calau.de/veranstaltungen/2315266/2026/09/16/calauer-musee
  n-öffnen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20260916T084433Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:17.09.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/09/17/calauer-woche
+ nmarkt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2885233@amtsfeed.de
@@ -753,19 +753,19 @@ URL:https://www.calau.de/veranstaltungen/2962968/2026/09/17/fit-im-alter.
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2951702@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260916T084433Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:VorLeseKuschelZeit: "Der kleine Rabe Socke"
+SUMMARY:17.09.2026   VorLeseKuschelZeit: "Der kleine Rabe Socke"
 URL:https://www.calau.de/veranstaltungen/2951702/2026/09/17/vorlesekusche
  lzeit-der-kleine-rabe-socke.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2949684@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260916T084433Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:Themenabend: "Zum Glück macht Neues Angst"
+SUMMARY:17.09.2026   Themenabend: "Zum Glück macht Neues Angst"
 URL:https://www.calau.de/veranstaltungen/2949684/2026/09/17/themenabend-z
  um-glück-macht-neues-angst.html
 END:VEVENT

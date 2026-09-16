@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T08:49:03.134Z",
+  "updatedAt": "2026-09-16T08:43:48.798Z",
   "items": [
     {
       "id": "kremmen-event-2897663",
@@ -974,15 +974,6 @@
       "updatedAt": "2026-05-26T09:04:01.433Z"
     },
     {
-      "id": "kremmen-event-2967268",
-      "title": "Thai Cooking",
-      "url": "https://www.kremmen.de/veranstaltungen/2967268/2027/01/07/thai-cooking.html",
-      "startDate": "2027-01-07T00:00:00.000Z",
-      "location": "Restaurant Coldehörn",
-      "fetchedAt": "2026-09-15T08:49:03.121Z",
-      "updatedAt": "2026-09-15T08:49:03.121Z"
-    },
-    {
       "id": "kremmen-event-2964867",
       "title": "Rentner- Weihnachtsfeier / Jahresabschlussfeier",
       "url": "https://www.kremmen.de/veranstaltungen/2964867/2027/01/08/rentner-weihnachtsfeier-jahresabschlussfeier.html",
@@ -990,6 +981,15 @@
       "location": "Flatow",
       "fetchedAt": "2026-09-11T09:58:26.096Z",
       "updatedAt": "2026-09-11T11:12:10.767Z"
+    },
+    {
+      "id": "kremmen-event-2967268",
+      "title": "Thai Cooking",
+      "url": "https://www.kremmen.de/veranstaltungen/2967268/2027/01/14/thai-cooking.html",
+      "startDate": "2027-01-14T00:00:00.000Z",
+      "location": "Restaurant Coldehörn",
+      "fetchedAt": "2026-09-15T08:49:03.121Z",
+      "updatedAt": "2026-09-16T08:43:48.790Z"
     },
     {
       "id": "kremmen-event-2927977",

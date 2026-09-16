@@ -331,23 +331,6 @@ URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-ab-wendisc
  h-rietz
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260915T084954Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de
-DTSTAMP:20260915T084954Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260921
-SUMMARY:SATAMAs Aufguss-WM 2026
-URL:https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
  eed.de
 DTSTAMP:20260914T090758Z
@@ -365,6 +348,23 @@ DTEND;VALUE=DATE:20260916
 SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
  park
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20260916T084508Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de
+DTSTAMP:20260916T084508Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260921
+SUMMARY:SATAMAs Aufguss-WM 2026
+URL:https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
@@ -402,6 +402,52 @@ DTEND;VALUE=DATE:20260917
 SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
  perkurs
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs@amtsfeed.de
+DTSTAMP:20260916T084508Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Aktiv Wochenplan - Wakepark Schnupperkurs
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-wakepark-schnup
+ perkurs
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-bogenschiessen@amtsfeed.de
+DTSTAMP:20260916T084508Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Aktiv Wochenplan - Bogenschießen
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-bogenschiessen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-syl
+ via-musick@amtsfeed.de
+DTSTAMP:20260916T084508Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Ratschen und tratschen - Handarbeitsnachmittage mit Sylvia Musick
+URL:https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbei
+ tsnachmittage-mit-sylvia-musick
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-abend-der-wissenschaft-im-wettermuseum@amtsfeed.de
+DTSTAMP:20260916T084508Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Abend der Wissenschaft im Wettermuseum
+URL:https://www.scharmuetzelsee.de/event/abend-der-wissenschaft-im-wetter
+ museum
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow-am-mittwoch@
+ amtsfeed.de
+DTSTAMP:20260916T084508Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Ortsführung durch den Kurort Bad Saarow am Mittwoch
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
+ d-saarow-am-mittwoch
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-drachenfest-neu-golm@amtsfeed.de

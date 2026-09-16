@@ -2818,6 +2818,19 @@ URL:https://www.wandlitz.de/veranstaltungen/2944726/2026/10/01/die-kultur
 LOCATION:Bibliothek Wandlitz- Zweigstelle Wandlitz -
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2968026-2026-10-01-solarenergieanlagen-in-der-gemeind
+ e-wandlitz-der-bürgermeister-lädt-ein-zum-bürgerdialog.html@amtsfeed.d
+ e
+DTSTAMP:20260916T083812Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Solarenergieanlagen in der Gemeinde Wandlitz? Der Bürgermeister 
+ lädt ein zum Bürgerdialog
+URL:https://www.wandlitz.de/veranstaltungen/2968026/2026/10/01/solarenerg
+ ieanlagen-in-der-gemeinde-wandlitz-der-bürgermeister-lädt-ein-zum-bürg
+ erdialog.html
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2794374-2026-10-02-quatsch-comedy-club.html@amtsfeed.
  de
 DTSTAMP:20260526T084948Z
@@ -3454,6 +3467,16 @@ DTEND;VALUE=DATE:20261101
 SUMMARY:TaW-Komödie: Match me if you can - Lügen haben kurze Beine
 URL:https://www.wandlitz.de/veranstaltungen/2919575/2026/10/31/taw-komöd
  ie-match-me-if-you-can-lügen-haben-kurze-beine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2968184-2026-10-31-halloween-für-kids.html@amtsfeed.
+ de
+DTSTAMP:20260916T083812Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween für Kids
+URL:https://www.wandlitz.de/veranstaltungen/2968184/2026/10/31/halloween-
+ für-kids.html
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2958534-2026-11-02-öffentliches-vorlesen-für-kinder
@@ -4975,6 +4998,18 @@ DTEND;VALUE=DATE:20270910
 SUMMARY:Krabbelgruppe 'Unterm Regenbogen' der ev. Kirchengemeinde Niederb
  arnim
 URL:https://www.wandlitz.de/veranstaltungen/2758751/2027/09/09/krabbelgru
+ ppe-unterm-regenbogen-der-ev.-kirchengemeinde-niederbarnim.html
+LOCATION:Dorfkirche Klosterfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2758751-2027-09-16-krabbelgruppe-unterm-regenbogen-de
+ r-ev.-kirchengemeinde-niederbarnim.html@amtsfeed.de
+DTSTAMP:20260916T083812Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Krabbelgruppe 'Unterm Regenbogen' der ev. Kirchengemeinde Niederb
+ arnim
+URL:https://www.wandlitz.de/veranstaltungen/2758751/2027/09/16/krabbelgru
  ppe-unterm-regenbogen-der-ev.-kirchengemeinde-niederbarnim.html
 LOCATION:Dorfkirche Klosterfelde
 END:VEVENT

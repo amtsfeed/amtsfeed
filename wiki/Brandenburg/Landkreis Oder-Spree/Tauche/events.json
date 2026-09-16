@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T08:50:27.725Z",
+  "updatedAt": "2026-09-16T08:45:43.969Z",
   "items": [
     {
       "id": "veranstaltungen-2930421-2026-02-22-museum-oder-spree-lauschen-und-lärmen.html",
@@ -1198,6 +1198,15 @@
       "updatedAt": "2026-09-11T11:13:12.992Z"
     },
     {
+      "id": "veranstaltungen-2892942-2026-10-26-preußencamp.html",
+      "title": "Preußencamp",
+      "url": "https://www.gemeinde-tauche.de/veranstaltungen/2892942/2026/10/26/preußencamp.html",
+      "startDate": "2026-10-26T06:00:00.000Z",
+      "endDate": "2026-10-26T06:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:42.258Z",
+      "updatedAt": "2026-09-16T08:45:43.959Z"
+    },
+    {
       "id": "veranstaltungen-2930877-2026-10-26-die-welt-der-onleihe--elektronische-medien-erklärt-und-vorgeführt.html",
       "title": "Die Welt der Onleihe &ndash; elektronische Medien erklärt und vorgeführt",
       "url": "https://www.gemeinde-tauche.de/veranstaltungen/2930877/2026/10/26/die-welt-der-onleihe--elektronische-medien-erklärt-und-vorgeführt.html",
@@ -1205,15 +1214,6 @@
       "endDate": "2026-10-26T17:29:00.000Z",
       "fetchedAt": "2026-09-11T09:59:42.258Z",
       "updatedAt": "2026-09-11T11:13:12.992Z"
-    },
-    {
-      "id": "veranstaltungen-2892942-2026-10-26-preußencamp.html",
-      "title": "Preußencamp",
-      "url": "https://www.gemeinde-tauche.de/veranstaltungen/2892942/2026/10/26/preußencamp.html",
-      "startDate": "2026-10-26T18:00:00.000Z",
-      "endDate": "2026-10-26T18:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:42.258Z",
-      "updatedAt": "2026-09-15T08:50:27.709Z"
     },
     {
       "id": "veranstaltungen-2930865-2026-10-27-treff-bibka-spielestündchen.html",
@@ -1447,6 +1447,15 @@
       "location": "Ludwig-Leichhardt-Museum // Gesellschaft Ludwig Leichhardt e. V. Trebatsch",
       "fetchedAt": "2026-09-15T08:50:27.709Z",
       "updatedAt": "2026-09-15T08:50:27.709Z"
+    },
+    {
+      "id": "veranstaltungen-2889947-2026-12-16-handarbeits-treff-in-mittweide.html",
+      "title": "Handarbeits-Treff in Mittweide",
+      "url": "https://www.gemeinde-tauche.de/veranstaltungen/2889947/2026/12/16/handarbeits-treff-in-mittweide.html",
+      "startDate": "2026-12-16T17:00:00.000Z",
+      "endDate": "2026-12-16T19:00:00.000Z",
+      "fetchedAt": "2026-09-16T08:45:43.959Z",
+      "updatedAt": "2026-09-16T08:45:43.959Z"
     }
   ]
 }

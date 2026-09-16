@@ -1090,16 +1090,6 @@ URL:https://www.kremmen.de/veranstaltungen/2907138/2026/12/20/weihnachtsm
 LOCATION:Restaurant Coldehörn
 END:VEVENT
 BEGIN:VEVENT
-UID:kremmen-event-2967268@amtsfeed.de
-DTSTAMP:20260915T084903Z
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
-SUMMARY:Thai Cooking
-URL:https://www.kremmen.de/veranstaltungen/2967268/2027/01/07/thai-cookin
- g.html
-LOCATION:Restaurant Coldehörn
-END:VEVENT
-BEGIN:VEVENT
 UID:kremmen-event-2964867@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20270108
@@ -1108,6 +1098,16 @@ SUMMARY:Rentner- Weihnachtsfeier / Jahresabschlussfeier
 URL:https://www.kremmen.de/veranstaltungen/2964867/2027/01/08/rentner-wei
  hnachtsfeier-jahresabschlussfeier.html
 LOCATION:Flatow
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2967268@amtsfeed.de
+DTSTAMP:20260916T084348Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Thai Cooking
+URL:https://www.kremmen.de/veranstaltungen/2967268/2027/01/14/thai-cookin
+ g.html
+LOCATION:Restaurant Coldehörn
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2927977@amtsfeed.de

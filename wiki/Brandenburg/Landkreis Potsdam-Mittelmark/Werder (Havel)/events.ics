@@ -4450,33 +4450,6 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Schützenhaus
 END:VEVENT
 BEGIN:VEVENT
-UID:werder-havel-event-99167733@amtsfeed.de
-DTSTAMP:20260915T085131Z
-DTSTART:20260915T085131Z
-SUMMARY:Rundfahrt nach Potsdam
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167733
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99167912@amtsfeed.de
-DTSTAMP:20260915T085131Z
-DTSTART:20260915T085131Z
-SUMMARY:Kleine Seenrundfahrt
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167912
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99168030@amtsfeed.de
-DTSTAMP:20260915T085131Z
-DTSTART:20260915T085131Z
-SUMMARY:Der Sonne hinterher
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99168030
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
 UID:werder-havel-event-99116133@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20260915T183000Z
@@ -4487,9 +4460,36 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:Schützenhaus
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99167733@amtsfeed.de
+DTSTAMP:20260916T084648Z
+DTSTART:20260916T084648Z
+SUMMARY:Rundfahrt nach Potsdam
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167733
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99167912@amtsfeed.de
+DTSTAMP:20260916T084648Z
+DTSTART:20260916T084648Z
+SUMMARY:Kleine Seenrundfahrt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167912
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99168030@amtsfeed.de
+DTSTAMP:20260916T084648Z
+DTSTART:20260916T084648Z
+SUMMARY:Der Sonne hinterher
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99168030
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167734@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260917T103000Z
+DTSTAMP:20260916T084648Z
+DTSTART:20260916T084648Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167734
@@ -4497,8 +4497,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99217228@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260917T130000Z
+DTSTAMP:20260916T084648Z
+DTSTART:20260916T084648Z
 SUMMARY:formalästhetisch - Christoph Mertens | Max Stiller
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99217228
@@ -4506,8 +4506,8 @@ LOCATION:Stadtgalerie KUNST-GESCHOSS
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167913@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260917T140000Z
+DTSTAMP:20260916T084648Z
+DTSTART:20260916T084648Z
 SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167913
@@ -4515,8 +4515,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99168031@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260917T160000Z
+DTSTAMP:20260916T084648Z
+DTSTART:20260916T084648Z
 SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99168031
@@ -4524,8 +4524,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99193353@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260917T170000Z
+DTSTAMP:20260916T084648Z
+DTSTART:20260916T084648Z
 SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99193353
@@ -4533,8 +4533,8 @@ LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99210224@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260917T180000Z
+DTSTAMP:20260916T084648Z
+DTSTART:20260916T084648Z
 SUMMARY:Poetry Slam an der Bockwindmühle Werder: Zwischen Zeilen und Zie
  geln
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
@@ -5436,6 +5436,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99222844@amtsfeed.de
+DTSTAMP:20260916T084648Z
+DTSTART:20261010T080000Z
+SUMMARY:Geländetunier auf der Polo- und Reitanlage Phöben
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99222844
+LOCATION:Geländeplatz der Polo- und Reitanlage Phöben
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99221087@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261010T090000Z
@@ -5507,6 +5516,15 @@ SUMMARY:Herbst und Drachenfest in Töplitz
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99128328
 LOCATION:Badestelle Töplitz
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99222068@amtsfeed.de
+DTSTAMP:20260916T084648Z
+DTSTART:20261010T170000Z
+SUMMARY:TÖPLITZ ROCKT!
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99222068
+LOCATION:Töplitz Galerie_Alter Schulhof
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99221088@amtsfeed.de

@@ -703,6 +703,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
  ID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1191@amtsfeed.de
+DTSTAMP:20260916T084410Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Netzwerk Velten: Beratung zur Pflege vor Ort
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Netzwe
+ rk-Velten-Beratung-zur-Pflege-vor-Ort.php?object=tx\,3631.4.1&amp\;ModID=
+ 11&amp\;FID=3631.1191.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-1174@amtsfeed.de
 DTSTAMP:20260911T111218Z
 DTSTART;VALUE=DATE:20260924

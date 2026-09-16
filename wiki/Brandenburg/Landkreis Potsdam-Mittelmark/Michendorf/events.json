@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T09:09:29.784Z",
+  "updatedAt": "2026-09-16T08:46:25.755Z",
   "items": [
     {
       "id": "michendorf-event-2884831",
@@ -658,22 +658,6 @@
       "updatedAt": "2026-09-11T11:13:36.054Z"
     },
     {
-      "id": "michendorf-event-2798286",
-      "title": "Trauercaf&eacute;",
-      "url": "https://www.michendorf.de/veranstaltungen/2798286/2026/09/15/trauercafé.html",
-      "startDate": "2026-09-15T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:01.632Z",
-      "updatedAt": "2026-09-11T11:13:36.054Z"
-    },
-    {
-      "id": "michendorf-event-2959538",
-      "title": "Jugendclub \"MICHECK\" geöffnet",
-      "url": "https://www.michendorf.de/veranstaltungen/2959538/2026/09/15/jugendclub-micheck-geöffnet.html",
-      "startDate": "2026-09-15T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:11.775Z",
-      "updatedAt": "2026-09-11T11:13:36.054Z"
-    },
-    {
       "id": "michendorf-event-2964312",
       "title": "Mädchenfußball in Michendorf",
       "url": "https://www.michendorf.de/veranstaltungen/2964312/2026/09/15/mädchenfußball-in-michendorf.html",
@@ -768,6 +752,14 @@
       "startDate": "2026-09-21T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:11.775Z",
       "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2959538",
+      "title": "Jugendclub \"MICHECK\" geöffnet",
+      "url": "https://www.michendorf.de/veranstaltungen/2959538/2026/09/22/jugendclub-micheck-geöffnet.html",
+      "startDate": "2026-09-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-09-16T08:46:25.748Z"
     },
     {
       "id": "michendorf-event-2954859",
@@ -898,12 +890,28 @@
       "updatedAt": "2026-09-11T11:13:36.054Z"
     },
     {
+      "id": "michendorf-event-2798286",
+      "title": "Trauercaf&eacute;",
+      "url": "https://www.michendorf.de/veranstaltungen/2798286/2026/09/29/trauercafé.html",
+      "startDate": "2026-09-29T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-09-16T08:46:25.748Z"
+    },
+    {
       "id": "michendorf-event-2938926",
       "title": "Rathaus unterwegs in Wilhelmshorst",
       "url": "https://www.michendorf.de/veranstaltungen/2938926/2026/09/29/rathaus-unterwegs-in-wilhelmshorst.html",
       "startDate": "2026-09-29T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:11.775Z",
       "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2967963",
+      "title": "Der letzte Hilfe Kurs - Am Ende wissen wie es geht.",
+      "url": "https://www.michendorf.de/veranstaltungen/2967963/2026/10/01/der-letzte-hilfe-kurs-am-ende-wissen-wie-es-geht.html",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-16T08:46:25.748Z",
+      "updatedAt": "2026-09-16T08:46:25.748Z"
     },
     {
       "id": "michendorf-event-2938769",

@@ -88,15 +88,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855861/2026/09/15/frauenf
  rühstück-in-vehlefanz-notfalltraining.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855686@amtsfeed.de
-DTSTAMP:20260911T111217Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Seniorentanzgruppe "Spätlese"
-URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/09/15/seniore
- ntanzgruppe-spätlese.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855698@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20260916
@@ -257,6 +248,15 @@ DTEND;VALUE=DATE:20260922
 SUMMARY:Romm&eacute\; in Bötzow
 URL:https://www.oberkraemer.de/veranstaltungen/2855864/2026/09/21/rommé-
  in-bötzow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855686@amtsfeed.de
+DTSTAMP:20260916T084403Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Seniorentanzgruppe "Spätlese"
+URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/09/22/seniore
+ ntanzgruppe-spätlese.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855781@amtsfeed.de
@@ -450,12 +450,12 @@ URL:https://www.oberkraemer.de/veranstaltungen/2957551/2026/10/08/seniore
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2959880@amtsfeed.de
-DTSTAMP:20260911T111217Z
+DTSTAMP:20260916T084403Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:Gesundheitstag
+SUMMARY:Gesundheitstag Oberkrämer
 URL:https://www.oberkraemer.de/veranstaltungen/2959880/2026/10/10/gesundh
- eitstag.html
+ eitstag-oberkrämer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962464@amtsfeed.de
@@ -855,5 +855,23 @@ DTEND;VALUE=DATE:20261116
 SUMMARY:Gottesdienst
 URL:https://www.oberkraemer.de/veranstaltungen/2825872/2026/11/15/gottesd
  ienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962223@amtsfeed.de
+DTSTAMP:20260916T084403Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Elterngespräche (Klasse 3-6)
+URL:https://www.oberkraemer.de/veranstaltungen/2962223/2026/11/16/elterng
+ espräche-klasse-3-6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855879@amtsfeed.de
+DTSTAMP:20260916T084403Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Romm&eacute\; in Bötzow
+URL:https://www.oberkraemer.de/veranstaltungen/2855879/2026/11/16/rommé-
+ in-bötzow.html
 END:VEVENT
 END:VCALENDAR

@@ -3009,13 +3009,23 @@ URL:https://www.falkensee.de/veranstaltungen/2966642/2026/10/01/geschwist
  tiger-schulanfängerinnen-und-schulanfänger.html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2968201-20261001@amtsfeed.de
+DTSTAMP:20260916T084009Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Offener MAZ-Stammtisch im Finken-Krug
+URL:https://www.falkensee.de/veranstaltungen/2968201/2026/10/01/offener-m
+ az-stammtisch-im-finken-krug.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2780061-20261002@amtsfeed.de
-DTSTAMP:20260531T141353Z
+DTSTAMP:20260916T084009Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Ausstellung | "Bilderbuch Falkensee"
+SUMMARY:Ausstellungseröffnung der Jubiläumsausstellung "Bilderbuch Falk
+ ensee"
 URL:https://www.falkensee.de/veranstaltungen/2780061/2026/10/02/ausstellu
- ng-bilderbuch-falkensee.html
+ ngseröffnung-der-jubiläumsausstellung-bilderbuch-falkensee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2964641-20261002@amtsfeed.de
@@ -3064,6 +3074,15 @@ SUMMARY:Deutschland singt und klingt. Freiheit\, Einheit\, Hoffnung - die
 URL:https://www.falkensee.de/veranstaltungen/2951878/2026/10/03/deutschla
  nd-singt-und-klingt.-freiheit-einheit-hoffnung-die-musikalische-danke-dem
  o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2968039-20261003@amtsfeed.de
+DTSTAMP:20260916T084009Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Ausstellung "Bilderbuch Falkensee"
+URL:https://www.falkensee.de/veranstaltungen/2968039/2026/10/03/ausstellu
+ ng-bilderbuch-falkensee.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2900966-20261004@amtsfeed.de
@@ -7507,5 +7526,14 @@ DTEND;VALUE=DATE:20270916
 SUMMARY:RepairCaf&eacute\; - Nachhaltig und sozial
 URL:https://www.falkensee.de/veranstaltungen/2520726/2027/09/15/repaircaf
  é-nachhaltig-und-sozial.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-1959129-20270916@amtsfeed.de
+DTSTAMP:20260916T084009Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Psychosoziale Beratung bei häuslicher Gewalt
+URL:https://www.falkensee.de/veranstaltungen/1959129/2027/09/16/psychosoz
+ iale-beratung-bei-häuslicher-gewalt.html
 END:VEVENT
 END:VCALENDAR

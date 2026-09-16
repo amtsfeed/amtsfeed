@@ -845,43 +845,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2958443/2026/09/13/tag-des-o
 LOCATION:Kirche Hohenjesar
 END:VEVENT
 BEGIN:VEVENT
-UID:2955796@amtsfeed.de
-DTSTAMP:20260915T084749Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/15/hör-mal-
- -reiseperle-lebuser-land.html
-DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
- uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
- wir Kinder und Jugendliche ab 10 Jahren\, die Lust haben\, ihren Ort mitz
- ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
-LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
-  Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
-UID:2464901@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Selbstverteidigung für Frauen
-URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/09/15/selbstver
- teidigung-für-frauen.html
-DESCRIPTION:in Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2419554@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Posaunenchor  Probe
-URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/09/15/posaunenc
- hor-probe.html
-DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
-LOCATION:Pfarrkirche Lebus
-END:VEVENT
-BEGIN:VEVENT
 UID:2904729@amtsfeed.de
 DTSTAMP:20260526T090319Z
 DTSTART;VALUE=DATE:20260915
@@ -890,6 +853,21 @@ SUMMARY:Fahrt zur Therme
 URL:https://www.amt-lebus.de/veranstaltungen/2904729/2026/09/15/fahrt-zur
  -therme.html
 LOCATION:Treffpunkt : Postkasten Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2955796@amtsfeed.de
+DTSTAMP:20260916T084215Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/16/hör-mal-
+ -reiseperle-lebuser-land.html
+DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
+ uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
+ wir Kinder und Jugendliche ab 10 Jahren\, die Lust haben\, ihren Ort mitz
+ ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
+LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
+  Schönfließ\, Treplin\, Döbberin\, Petershagen\,
 END:VEVENT
 BEGIN:VEVENT
 UID:2486339@amtsfeed.de
@@ -1101,6 +1079,28 @@ URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/09/21/dart-für
  -jedermann.html
 DESCRIPTION:Sportlerheim Podelzig
 LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464901@amtsfeed.de
+DTSTAMP:20260916T084215Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Selbstverteidigung für Frauen
+URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/09/22/selbstver
+ teidigung-für-frauen.html
+DESCRIPTION:in Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2419554@amtsfeed.de
+DTSTAMP:20260916T084215Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Posaunenchor  Probe
+URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/09/22/posaunenc
+ hor-probe.html
+DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
+LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2964763@amtsfeed.de

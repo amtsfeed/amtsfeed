@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T08:50:41.558Z",
+  "updatedAt": "2026-09-16T08:46:03.137Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -153,13 +153,12 @@
     },
     {
       "id": "amt-niemegk-event-2026-09-16-2026-09-16",
-      "title": "Entdeckungsraum mit Anita",
-      "url": "https://amt-niemegk.de/events/entdeckungsraum-mit-anita-606/?occurrence=2026-09-16&#038;time=1789551000",
-      "startDate": "2026-09-16T09:30:00.000Z",
-      "endDate": "2026-09-16T11:00:00.000Z",
-      "location": "Familienzentrum Niemegk",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-09-16",
+      "startDate": "2026-09-16T14:00:00.000Z",
+      "endDate": "2026-09-16T15:30:00.000Z",
       "fetchedAt": "2026-09-13T08:30:19.244Z",
-      "updatedAt": "2026-09-13T08:30:26.112Z"
+      "updatedAt": "2026-09-16T08:46:03.134Z"
     },
     {
       "id": "amt-niemegk-event-2026-09-17-2026-09-17",
@@ -169,6 +168,25 @@
       "endDate": "2026-09-17T15:30:00.000Z",
       "fetchedAt": "2026-09-15T08:50:35.297Z",
       "updatedAt": "2026-09-15T08:50:41.553Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-09-18-2026-09-18",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-09-18",
+      "startDate": "2026-09-18T14:00:00.000Z",
+      "endDate": "2026-09-18T15:30:00.000Z",
+      "fetchedAt": "2026-09-16T08:45:56.997Z",
+      "updatedAt": "2026-09-16T08:46:03.134Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-09-19-2026-09-19",
+      "title": "Biergarten in der Badeanstalt Niemegk",
+      "url": "https://amt-niemegk.de/events/biergarten-in-der-badeanstalt-niemegk-2/?occurrence=2026-09-19",
+      "startDate": "2026-09-19T13:00:00.000Z",
+      "endDate": "2026-09-19T21:00:00.000Z",
+      "location": "Paul-Temming-Badeanstalt Niemegk",
+      "fetchedAt": "2026-09-16T08:45:56.997Z",
+      "updatedAt": "2026-09-16T08:46:03.134Z"
     }
   ]
 }

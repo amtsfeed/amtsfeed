@@ -994,15 +994,6 @@ URL:https://www.teltow.de/veranstaltungen/2924754/2026/09/14/spielegruppe
  .html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930015@amtsfeed.de
-DTSTAMP:20260911T111345Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen
-URL:https://www.teltow.de/veranstaltungen/2930015/2026/09/15/offener-lern
- raum-lesen-schreiben-rechnen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2924757@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260915
@@ -1127,6 +1118,15 @@ DTEND;VALUE=DATE:20260922
 SUMMARY:Spielegruppe
 URL:https://www.teltow.de/veranstaltungen/2924762/2026/09/21/spielegruppe
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930015@amtsfeed.de
+DTSTAMP:20260916T084642Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen
+URL:https://www.teltow.de/veranstaltungen/2930015/2026/09/22/offener-lern
+ raum-lesen-schreiben-rechnen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2924774@amtsfeed.de

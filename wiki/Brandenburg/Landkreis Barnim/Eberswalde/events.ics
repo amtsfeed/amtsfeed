@@ -417,14 +417,6 @@ URL:https://www.eberswalde.de/termine/tag-des-offenen-denkmals-in-der-alt
  en-tischlerei-blankenburg-2
 END:VEVENT
 BEGIN:VEVENT
-UID:info.php@amtsfeed.de
-DTSTAMP:20260913T082128Z
-DTSTART:20260915T201500Z
-SUMMARY:Ausschuss für Stadtentwicklung\, Wohnen und Umwelt (Fachausschus
- s 3 - F3)
-URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
-END:VEVENT
-BEGIN:VEVENT
 UID:helle-stunde-mit-kultur-13@amtsfeed.de
 DTSTAMP:20260914T085903Z
 DTSTART:20260916T110000Z
@@ -440,6 +432,13 @@ SUMMARY:Helle Stunde mit Kultur - Marie Schmitz “Threading Lightness" (
  Eine artistische Show am Trapez)
 URL:https://www.eberswalde.de/termine/helle-stunde-mit-kultur-marie-schmi
  tz-threading-lightness-eine-artistische-show-am-trapez
+END:VEVENT
+BEGIN:VEVENT
+UID:info.php@amtsfeed.de
+DTSTAMP:20260916T083805Z
+DTSTART:20260916T201500Z
+SUMMARY:Rechnungsprüfungsausschuss
+URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
 END:VEVENT
 BEGIN:VEVENT
 UID:galerie-fenster-42-ausstellung-moritz-goetze-pop-art-malerei-grafik-e
@@ -493,5 +492,12 @@ SUMMARY:Stadtgespräch Eberswalde mit dem Infrastrukturminister Robert Cr
 URL:https://www.eberswalde.de/termine/stadtgespraech-eberswalde-mit-dem-i
  nfrastrukturminister-robert-crumbach-reden-sie-mit-ueber-wohnen-bauen-und
  -mobilitaet
+END:VEVENT
+BEGIN:VEVENT
+UID:oktoberfest-am-flugplatz@amtsfeed.de
+DTSTAMP:20260916T083805Z
+DTSTART:20260919T130000Z
+SUMMARY:Oktoberfest am Flugplatz
+URL:https://www.eberswalde.de/termine/oktoberfest-am-flugplatz
 END:VEVENT
 END:VCALENDAR

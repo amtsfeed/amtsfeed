@@ -1049,4 +1049,37 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7674.1&amp\;NavID=2967.39&a
  mp\;sfreg=1&amp\;bn=1
 END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7817@amtsfeed.de
+DTSTAMP:20260916T084406Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Regionalmarkt im Oranienburger Schlosspark
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Regionalmarkt-im-Oranienburger-Schlosspark.php?object=tx\,2967.4&amp\
+ ;ModID=11&amp\;FID=2967.7817.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7936@amtsfeed.de
+DTSTAMP:20260916T084406Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Tango Argentino Workshop für Einsteiger:innen
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Tango-Argentino-Workshop-f%C3%BCr-Einsteiger-innen.php?object=tx\,296
+ 7.4&amp\;ModID=11&amp\;FID=2967.7936.1&amp\;NavID=2967.39&amp\;sfreg=1&am
+ p\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7782@amtsfeed.de
+DTSTAMP:20260916T084406Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:&raquo\;Fit am Schloss&laquo\; - das kostenlose Sportangebot für
+  die ganze Familie
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/-Fit-am-Schloss-das-kostenlose-Sportangebot-f%C3%BCr-die-ganze-Famili
+ e.php?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7782.1&amp\;NavID=296
+ 7.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
 END:VCALENDAR

@@ -1324,6 +1324,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, im Tivoli\, K.-Gehrmann Str. 43d
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1739-20261126@amtsfeed.de
+DTSTAMP:20260916T084040Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20270111
+SUMMARY:Weihnachtsausstellung 2026/27
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/weihnachtsausstellung-2026-27/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-833-20261127@amtsfeed.de
 DTSTAMP:20260911T110748Z
 DTSTART;VALUE=DATE:20261127

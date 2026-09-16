@@ -301,4 +301,14 @@ SUMMARY:Informationen zum Krisenstab der Stadt Hohen Neuendorf
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  informationen-zum-krisenstab-der-stadt-hohen-neuendorf
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-vortrag-zusammenarbeit-im-katastrophenfall-kris
+ enfest@amtsfeed.de
+DTSTAMP:20260916T084345Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Vortrag: Zusammenarbeit im Katastrophenfall (KrisenFEST)
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ vortrag-zusammenarbeit-im-katastrophenfall-krisenfest
+END:VEVENT
 END:VCALENDAR

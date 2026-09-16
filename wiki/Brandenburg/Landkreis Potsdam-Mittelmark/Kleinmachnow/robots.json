@@ -2,7 +2,7 @@
   {
     "domain": "www.kleinmachnow.de",
     "baseUrl": "https://www.kleinmachnow.de",
-    "updatedAt": "2026-09-14T09:09:24.176Z",
+    "updatedAt": "2026-09-16T08:46:18.337Z",
     "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /suche.phtml\nDisallow: /suchen.phtml\nDisallow: /redirect.phtml\n\nSitemap: https://www.kleinmachnow.de/sitemap.xml"
   }
 ]

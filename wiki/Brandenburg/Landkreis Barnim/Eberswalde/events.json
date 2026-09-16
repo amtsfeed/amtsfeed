@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T08:59:03.278Z",
+  "updatedAt": "2026-09-16T08:38:05.197Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -383,14 +383,6 @@
       "updatedAt": "2026-09-13T08:21:28.808Z"
     },
     {
-      "id": "info.php",
-      "title": "Ausschuss für Stadtentwicklung, Wohnen und Umwelt (Fachausschuss 3 - F3)",
-      "url": "https://sessionnet.eberswalde.de/sessionnet/bi/info.php",
-      "startDate": "2026-09-15T20:15:00.000Z",
-      "fetchedAt": "2026-09-13T08:21:28.808Z",
-      "updatedAt": "2026-09-13T08:21:28.808Z"
-    },
-    {
       "id": "helle-stunde-mit-kultur-13",
       "title": "Helle Stunde mit Kultur",
       "url": "https://www.eberswalde.de/termine/helle-stunde-mit-kultur-13",
@@ -405,6 +397,14 @@
       "startDate": "2026-09-16T11:00:00.000Z",
       "fetchedAt": "2026-09-14T08:59:03.268Z",
       "updatedAt": "2026-09-14T08:59:03.268Z"
+    },
+    {
+      "id": "info.php",
+      "title": "Rechnungsprüfungsausschuss",
+      "url": "https://sessionnet.eberswalde.de/sessionnet/bi/info.php",
+      "startDate": "2026-09-16T20:15:00.000Z",
+      "fetchedAt": "2026-09-13T08:21:28.808Z",
+      "updatedAt": "2026-09-16T08:38:05.190Z"
     },
     {
       "id": "galerie-fenster-42-ausstellung-moritz-goetze-pop-art-malerei-grafik-emaille-15",
@@ -453,6 +453,14 @@
       "startDate": "2026-09-19T10:30:00.000Z",
       "fetchedAt": "2026-09-14T08:59:03.268Z",
       "updatedAt": "2026-09-14T08:59:03.268Z"
+    },
+    {
+      "id": "oktoberfest-am-flugplatz",
+      "title": "Oktoberfest am Flugplatz",
+      "url": "https://www.eberswalde.de/termine/oktoberfest-am-flugplatz",
+      "startDate": "2026-09-19T13:00:00.000Z",
+      "fetchedAt": "2026-09-16T08:38:05.190Z",
+      "updatedAt": "2026-09-16T08:38:05.190Z"
     }
   ]
 }

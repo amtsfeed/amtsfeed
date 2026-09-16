@@ -2115,6 +2115,16 @@ URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
 LOCATION:Groß-Ziethen - Eiszeitmuseum Ziethen
 END:VEVENT
 BEGIN:VEVENT
+UID:99222563@amtsfeed.de
+DTSTAMP:20260916T083810Z
+DTSTART:20260925T190000Z
+SUMMARY:Lesung mit Micha Krämer im historischen Kaiserbahnhof Joachimsth
+ al
+URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
+ =99222563
+LOCATION:Joachimsthal - Historischer Kaiserbahnhof Joachimsthal
+END:VEVENT
+BEGIN:VEVENT
 UID:99214865@amtsfeed.de
 DTSTAMP:20260911T110627Z
 DTSTART:20260925T193000Z
@@ -2258,6 +2268,15 @@ SUMMARY:Wanderaustellung Faszination Pilze im Eiszeitmuseum Ziethen
 URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
  =99214893
 LOCATION:Groß-Ziethen - Eiszeitmuseum Ziethen
+END:VEVENT
+BEGIN:VEVENT
+UID:99222555@amtsfeed.de
+DTSTAMP:20260916T083810Z
+DTSTART:20261003T100000Z
+SUMMARY:Trödel- und Kinderflohmarkt am Speicher in Parlow
+URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
+ =99222555
+LOCATION:Friedrichswalde - Am Speicher Parlow
 END:VEVENT
 BEGIN:VEVENT
 UID:99171452@amtsfeed.de

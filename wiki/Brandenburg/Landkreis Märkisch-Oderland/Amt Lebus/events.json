@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T08:47:49.127Z",
+  "updatedAt": "2026-09-16T08:42:15.553Z",
   "items": [
     {
       "id": "2846347",
@@ -709,36 +709,6 @@
       "updatedAt": "2026-09-11T11:11:32.831Z"
     },
     {
-      "id": "2955796",
-      "title": "Hör mal! &ndash; Reiseperle Lebuser Land",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/15/hör-mal--reiseperle-lebuser-land.html",
-      "startDate": "2026-09-15T00:00:00.000Z",
-      "location": "Lebus, Podelzig , Alt Zeschdorf, Reitwein, Mallnow,Wulkow, Schönfließ, Treplin, Döbberin, Petershagen,",
-      "description": "📣 Liebe Eltern und Familien, für das touristische Audioguide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen wir Kinder und Jugendliche ab 10 Jahren, die Lust haben, ihren Ort mitzugestalten und ihre Stimme einzubringen. 🗣 ️ ...",
-      "fetchedAt": "2026-09-11T09:57:29.696Z",
-      "updatedAt": "2026-09-15T08:47:49.111Z"
-    },
-    {
-      "id": "2464901",
-      "title": "Selbstverteidigung für Frauen",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464901/2026/09/15/selbstverteidigung-für-frauen.html",
-      "startDate": "2026-09-15T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "in Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-09-11T11:11:32.831Z"
-    },
-    {
-      "id": "2419554",
-      "title": "Posaunenchor  Probe",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2419554/2026/09/15/posaunenchor-probe.html",
-      "startDate": "2026-09-15T00:00:00.000Z",
-      "location": "Pfarrkirche Lebus",
-      "description": "Jeden Dienstag um 19.00 Uhr Kirche Lebus",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-09-11T11:11:32.831Z"
-    },
-    {
       "id": "2904729",
       "title": "Fahrt zur Therme",
       "url": "https://www.amt-lebus.de/veranstaltungen/2904729/2026/09/15/fahrt-zur-therme.html",
@@ -746,6 +716,16 @@
       "location": "Treffpunkt : Postkasten Lebus",
       "fetchedAt": "2026-05-26T09:03:19.057Z",
       "updatedAt": "2026-05-26T09:03:19.057Z"
+    },
+    {
+      "id": "2955796",
+      "title": "Hör mal! &ndash; Reiseperle Lebuser Land",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/16/hör-mal--reiseperle-lebuser-land.html",
+      "startDate": "2026-09-16T00:00:00.000Z",
+      "location": "Lebus, Podelzig , Alt Zeschdorf, Reitwein, Mallnow,Wulkow, Schönfließ, Treplin, Döbberin, Petershagen,",
+      "description": "📣 Liebe Eltern und Familien, für das touristische Audioguide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen wir Kinder und Jugendliche ab 10 Jahren, die Lust haben, ihren Ort mitzugestalten und ihre Stimme einzubringen. 🗣 ️ ...",
+      "fetchedAt": "2026-09-11T09:57:29.696Z",
+      "updatedAt": "2026-09-16T08:42:15.543Z"
     },
     {
       "id": "2486339",
@@ -930,6 +910,26 @@
       "description": "Sportlerheim Podelzig",
       "fetchedAt": "2026-05-05T14:58:26.635Z",
       "updatedAt": "2026-09-15T08:47:49.111Z"
+    },
+    {
+      "id": "2464901",
+      "title": "Selbstverteidigung für Frauen",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464901/2026/09/22/selbstverteidigung-für-frauen.html",
+      "startDate": "2026-09-22T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "in Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-09-16T08:42:15.543Z"
+    },
+    {
+      "id": "2419554",
+      "title": "Posaunenchor  Probe",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2419554/2026/09/22/posaunenchor-probe.html",
+      "startDate": "2026-09-22T00:00:00.000Z",
+      "location": "Pfarrkirche Lebus",
+      "description": "Jeden Dienstag um 19.00 Uhr Kirche Lebus",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-09-16T08:42:15.543Z"
     },
     {
       "id": "2964763",

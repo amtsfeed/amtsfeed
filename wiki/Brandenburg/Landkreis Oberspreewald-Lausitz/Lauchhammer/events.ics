@@ -234,15 +234,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2966577/2026/09/14/es-war-
  einmal-.-im-echten-leben.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124475@amtsfeed.de
-DTSTAMP:20260911T111233Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
-URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/09/15/chorpro
- be-mit-dem-stadtchor-lauchhammer.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2558944@amtsfeed.de
 DTSTAMP:20260911T111233Z
 DTSTART;VALUE=DATE:20260916
@@ -304,6 +295,15 @@ DTEND;VALUE=DATE:20260922
 SUMMARY:Treffpunkt Bürgertheater
 URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/09/21/treffpu
  nkt-bürgertheater.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124475@amtsfeed.de
+DTSTAMP:20260916T084438Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
+URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/09/22/chorpro
+ be-mit-dem-stadtchor-lauchhammer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2918359@amtsfeed.de
@@ -434,6 +434,15 @@ DTEND;VALUE=DATE:20261128
 SUMMARY:Wichtelfest
 URL:https://www.lauchhammer.de/veranstaltungen/2873284/2026/11/27/wichtel
  fest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2968413@amtsfeed.de
+DTSTAMP:20260916T084438Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Wiener Operetten Weihnacht
+URL:https://www.lauchhammer.de/veranstaltungen/2968413/2026/12/02/wiener-
+ operetten-weihnacht.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2873286@amtsfeed.de

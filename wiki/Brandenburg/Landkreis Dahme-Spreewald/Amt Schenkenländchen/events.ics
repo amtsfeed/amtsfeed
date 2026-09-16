@@ -1820,6 +1820,17 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/11/
  19/literaturcafé-im-mgh-franz-fühmann.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2967753-20261119@amtsfeed.de
+DTSTAMP:20260916T083828Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Digitale Elternakademie: GAP Year im Ausland- nach der Schule die
+  Welt entdecken
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2967753/2026/11/
+ 19/digitale-elternakademie-gap-year-im-ausland-nach-der-schule-die-welt-e
+ ntdecken.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2627767-20261121@amtsfeed.de
 DTSTAMP:20260508T193631Z
 DTSTART;VALUE=DATE:20261121
@@ -1991,6 +2002,16 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/12/
  10/literaturcafé-im-mgh-franz-fühmann.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2967759-20261210@amtsfeed.de
+DTSTAMP:20260916T083828Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Digitale Elternakademie: Studien- und Berufswahl als Familienthem
+ a
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2967759/2026/12/
+ 10/digitale-elternakademie-studien-und-berufswahl-als-familienthema.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2549386-20261216@amtsfeed.de
 DTSTAMP:20260508T193631Z
 DTSTART;VALUE=DATE:20261216
@@ -2153,6 +2174,16 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2027/01/
  14/literaturcafé-im-mgh-franz-fühmann.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2967767-20270114@amtsfeed.de
+DTSTAMP:20260916T083828Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Digitale Elternakademie: GAP Year in Deutschland- Freiwillige vor
+ !
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2967767/2027/01/
+ 14/digitale-elternakademie-gap-year-in-deutschland-freiwillige-vor.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2954555-20270116@amtsfeed.de
 DTSTAMP:20260911T110633Z
 DTSTART;VALUE=DATE:20270116
@@ -2178,6 +2209,17 @@ DTEND;VALUE=DATE:20270121
 SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2027/01/
  20/krabbelgruppe-im-mgh-franz-fühmann-nach-anmeldung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2967776-20270120@amtsfeed.de
+DTSTAMP:20260916T083828Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Digitale Elternakademie:: Vielfältige Bildungswege- Chancen und 
+ Abschlüsse am OSZ
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2967776/2027/01/
+ 20/digitale-elternakademie-vielfältige-bildungswege-chancen-und-abschlü
+ sse-am-osz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2861706-20270121@amtsfeed.de
@@ -3339,5 +3381,23 @@ DTEND;VALUE=DATE:20270916
 SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2027/09/
  15/krabbelgruppe-im-mgh-franz-fühmann-nach-anmeldung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2861706-20270916@amtsfeed.de
+DTSTAMP:20260916T083828Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Kreativ-Workshop im MGH "Franz Fühmann":
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2861706/2027/09/
+ 16/kreativ-workshop-im-mgh-franz-fühmann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549405-20270916@amtsfeed.de
+DTSTAMP:20260916T083828Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2027/09/
+ 16/literaturcafé-im-mgh-franz-fühmann.html
 END:VEVENT
 END:VCALENDAR

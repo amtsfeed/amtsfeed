@@ -755,24 +755,6 @@ URL:https://www.michendorf.de/veranstaltungen/2955837/2026/09/14/mut-tut-
  gut.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2798286@amtsfeed.de
-DTSTAMP:20260911T111336Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Trauercaf&eacute\;
-URL:https://www.michendorf.de/veranstaltungen/2798286/2026/09/15/trauerca
- fé.html
-END:VEVENT
-BEGIN:VEVENT
-UID:michendorf-event-2959538@amtsfeed.de
-DTSTAMP:20260911T111336Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959538/2026/09/15/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2964312@amtsfeed.de
 DTSTAMP:20260911T111336Z
 DTSTART;VALUE=DATE:20260915
@@ -879,6 +861,15 @@ DTEND;VALUE=DATE:20260922
 SUMMARY:Workshop "Mit Demenz umgehen"
 URL:https://www.michendorf.de/veranstaltungen/2948991/2026/09/21/workshop
  -mit-demenz-umgehen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959538@amtsfeed.de
+DTSTAMP:20260916T084625Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959538/2026/09/22/jugendcl
+ ub-micheck-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2954859@amtsfeed.de
@@ -1026,6 +1017,15 @@ URL:https://www.michendorf.de/veranstaltungen/2938764/2026/09/27/der-dres
  sierte-mann.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2798286@amtsfeed.de
+DTSTAMP:20260916T084625Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Trauercaf&eacute\;
+URL:https://www.michendorf.de/veranstaltungen/2798286/2026/09/29/trauerca
+ fé.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2938926@amtsfeed.de
 DTSTAMP:20260911T111336Z
 DTSTART;VALUE=DATE:20260929
@@ -1033,6 +1033,15 @@ DTEND;VALUE=DATE:20260930
 SUMMARY:Rathaus unterwegs in Wilhelmshorst
 URL:https://www.michendorf.de/veranstaltungen/2938926/2026/09/29/rathaus-
  unterwegs-in-wilhelmshorst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2967963@amtsfeed.de
+DTSTAMP:20260916T084625Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Der letzte Hilfe Kurs - Am Ende wissen wie es geht.
+URL:https://www.michendorf.de/veranstaltungen/2967963/2026/10/01/der-letz
+ te-hilfe-kurs-am-ende-wissen-wie-es-geht.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2938769@amtsfeed.de

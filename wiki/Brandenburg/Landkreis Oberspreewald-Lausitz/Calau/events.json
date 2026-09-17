@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:44:33.434Z",
+  "updatedAt": "2026-09-17T08:52:01.992Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -634,14 +634,6 @@
       "updatedAt": "2026-09-14T09:07:27.275Z"
     },
     {
-      "id": "calau-event-2315266",
-      "title": "16.09.2026   Calauer Museen öffnen",
-      "url": "https://www.calau.de/veranstaltungen/2315266/2026/09/16/calauer-museen-öffnen.html",
-      "startDate": "2026-09-16T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-09-14T09:07:27.275Z"
-    },
-    {
       "id": "calau-event-2290342",
       "title": "17.09.2026   Calauer Wochenmarkt",
       "url": "https://www.calau.de/veranstaltungen/2290342/2026/09/17/calauer-wochenmarkt.html",
@@ -659,11 +651,11 @@
     },
     {
       "id": "calau-event-2962968",
-      "title": "Fit im Alter",
+      "title": "17.09.2026   Fit im Alter",
       "url": "https://www.calau.de/veranstaltungen/2962968/2026/09/17/fit-im-alter.html",
       "startDate": "2026-09-17T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
-      "updatedAt": "2026-09-11T11:12:29.188Z"
+      "updatedAt": "2026-09-17T08:52:01.982Z"
     },
     {
       "id": "calau-event-2951702",
@@ -728,6 +720,14 @@
       "startDate": "2026-09-22T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-09-11T11:12:29.188Z"
+    },
+    {
+      "id": "calau-event-2315266",
+      "title": "Calauer Museen öffnen",
+      "url": "https://www.calau.de/veranstaltungen/2315266/2026/09/23/calauer-museen-öffnen.html",
+      "startDate": "2026-09-23T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-09-17T08:52:01.982Z"
     },
     {
       "id": "calau-event-2838473",

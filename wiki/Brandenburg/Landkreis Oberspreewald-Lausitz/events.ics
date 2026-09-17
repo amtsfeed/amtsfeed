@@ -7587,6 +7587,16 @@ URL:https://www.osl-online.de/veranstaltungen/2941976/2026/11/13/frank-go
 LOCATION:SeeCampus Bibliothek
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2968944-20261113@amtsfeed.de
+DTSTAMP:20260917T085221Z
+DTSTART:20261113T190000Z
+DTEND:20261113T200000Z
+SUMMARY:Konzert Lichterklang
+URL:https://www.osl-online.de/veranstaltungen/2968944/2026/11/13/konzert-
+ lichterklang.html
+LOCATION:Nikolaikirche\, Lauchhammer-Mitte
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2961535-20261114@amtsfeed.de
 DTSTAMP:20260911T111241Z
 DTSTART;VALUE=DATE:20261114
@@ -8460,16 +8470,6 @@ URL:https://www.osl-online.de/veranstaltungen/2744878/2026/12/05/großrä
 LOCATION:Kurmärker Bürgerhaus
 END:VEVENT
 BEGIN:VEVENT
-UID:lk-osl-event-2829709-20261205@amtsfeed.de
-DTSTAMP:20260531T184206Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:Berlin-Brandenburg Cup - Fightclub 193 e. V.
-URL:https://www.osl-online.de/veranstaltungen/2829709/2026/12/05/berlin-b
- randenburg-cup-fightclub-193-e.-v.html
-LOCATION:Fightclub 193 e.V.
-END:VEVENT
-BEGIN:VEVENT
 UID:lk-osl-event-2822336-20261205@amtsfeed.de
 DTSTAMP:20260531T184206Z
 DTSTART;VALUE=DATE:20261205
@@ -8498,6 +8498,15 @@ SUMMARY:3. Hundeweihnachtsmarkt von Für alle FElle
 URL:https://www.osl-online.de/veranstaltungen/2873954/2026/12/05/3.-hunde
  weihnachtsmarkt-von-für-alle-felle.html
 LOCATION:Annahütte
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2829709-20261205@amtsfeed.de
+DTSTAMP:20260917T085221Z
+DTSTART:20261205T160000Z
+SUMMARY:Berlin-Brandenburg Cup - Fightclub 193 e. V.
+URL:https://www.osl-online.de/veranstaltungen/2829709/2026/12/05/berlin-b
+ randenburg-cup-fightclub-193-e.-v.html
+LOCATION:SeeCampus Niederlausitz
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2861294-20261205@amtsfeed.de

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:44:00.263Z",
+  "updatedAt": "2026-09-17T08:51:30.663Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -2176,6 +2176,15 @@
       "updatedAt": "2026-09-11T11:12:16.174Z"
     },
     {
+      "id": "muehlenbecker-land-event-59055473",
+      "title": "Gemeinsamer Sonder-Bau- und Umweltausschuss & Sonder-Infrastrukturausschuss",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59055473",
+      "startDate": "2026-09-24T18:30:00.000Z",
+      "location": "Bürgersaal Schildow, Franz-Schmidt-Str. 3, 16552 OT Schildow",
+      "fetchedAt": "2026-09-17T08:51:29.333Z",
+      "updatedAt": "2026-09-17T08:51:29.333Z"
+    },
+    {
       "id": "muehlenbecker-land-event-58799170",
       "title": "Kurs: Tanzgruppe",
       "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58799170",
@@ -2551,6 +2560,42 @@
       "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
       "fetchedAt": "2026-09-16T08:44:00.263Z",
       "updatedAt": "2026-09-16T08:44:00.263Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58900657",
+      "title": "Wohncafé",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58900657",
+      "startDate": "2026-10-06T15:00:00.000Z",
+      "location": "Mühlenbecker Wohnzimmer / Mönchmühlenallee 3 / 16567 Mühlenbeck",
+      "fetchedAt": "2026-09-17T08:51:30.662Z",
+      "updatedAt": "2026-09-17T08:51:30.662Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58896500",
+      "title": "Ordnungsamt vor Ort in Schildow",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58896500",
+      "startDate": "2026-10-06T16:00:00.000Z",
+      "location": "Gemeindehaus, Schmalfußstr. 6, 16552 Schildow",
+      "fetchedAt": "2026-09-17T08:51:30.662Z",
+      "updatedAt": "2026-09-17T08:51:30.662Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58800991",
+      "title": "\"Tafel\"-Lebensmittelverkauf",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58800991",
+      "startDate": "2026-10-07T09:00:00.000Z",
+      "location": "Mühlentreff, Hauptstraße 7, OT Mühlenbeck",
+      "fetchedAt": "2026-09-17T08:51:30.662Z",
+      "updatedAt": "2026-09-17T08:51:30.662Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59053187",
+      "title": "Sprechstunde der Digital-Paten",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59053187",
+      "startDate": "2026-10-07T10:00:00.000Z",
+      "location": "Glashaus, Dorfstr. 34b, Zühlsdorf",
+      "fetchedAt": "2026-09-17T08:51:30.662Z",
+      "updatedAt": "2026-09-17T08:51:30.662Z"
     }
   ]
 }

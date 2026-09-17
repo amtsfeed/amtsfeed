@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T09:01:22.376Z",
+  "updatedAt": "2026-09-17T08:43:52.403Z",
   "items": [
     {
       "id": "ketzin-havel-event-2822200-20260531",
@@ -1267,11 +1267,11 @@
     },
     {
       "id": "ketzin-havel-event-2823275-20260925",
-      "title": "Havelwies`n",
-      "url": "https://www.ketzin.de/veranstaltungen/2823275/2026/09/25/havelwiesn.html",
+      "title": "Havelwies`n ABGESAGT",
+      "url": "https://www.ketzin.de/veranstaltungen/2823275/2026/09/25/havelwiesn-abgesagt.html",
       "startDate": "2026-09-25T00:00:00.000Z",
       "fetchedAt": "2026-05-31T13:43:16.939Z",
-      "updatedAt": "2026-05-31T14:13:53.733Z"
+      "updatedAt": "2026-09-17T08:43:52.411Z"
     },
     {
       "id": "ketzin-havel-event-2658477-20260925",
@@ -3768,6 +3768,14 @@
       "startDate": "2027-09-14T00:00:00.000Z",
       "fetchedAt": "2026-09-14T09:01:22.385Z",
       "updatedAt": "2026-09-14T09:01:22.385Z"
+    },
+    {
+      "id": "ketzin-havel-event-2658477-20270917",
+      "title": "Jeden Freitag - Senioren-Sportnachmittag",
+      "url": "https://www.ketzin.de/veranstaltungen/2658477/2027/09/17/jeden-freitag-senioren-sportnachmittag.html",
+      "startDate": "2027-09-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:43:52.411Z",
+      "updatedAt": "2026-09-17T08:43:52.411Z"
     }
   ]
 }

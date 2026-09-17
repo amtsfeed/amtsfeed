@@ -88,15 +88,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855861/2026/09/15/frauenf
  rühstück-in-vehlefanz-notfalltraining.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855698@amtsfeed.de
-DTSTAMP:20260911T111217Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Kartenfreunde Schwante
-URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/09/16/kartenf
- reunde-schwante.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2957532@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20260916
@@ -104,15 +95,6 @@ DTEND;VALUE=DATE:20260917
 SUMMARY:Block-Abenteuer in der Bibliothek Bötzow
 URL:https://www.oberkraemer.de/veranstaltungen/2957532/2026/09/16/block-a
  benteuer-in-der-bibliothek-bötzow.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855693@amtsfeed.de
-DTSTAMP:20260911T111217Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Singen mit den Vehlefanzer Amseln
-URL:https://www.oberkraemer.de/veranstaltungen/2855693/2026/09/16/singen-
- mit-den-vehlefanzer-amseln.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855733@amtsfeed.de
@@ -266,6 +248,24 @@ DTEND;VALUE=DATE:20260923
 SUMMARY:Skat in Bötzow
 URL:https://www.oberkraemer.de/veranstaltungen/2855781/2026/09/22/skat-in
  -bötzow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855698@amtsfeed.de
+DTSTAMP:20260917T085133Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Kartenfreunde Schwante
+URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/09/23/kartenf
+ reunde-schwante.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855693@amtsfeed.de
+DTSTAMP:20260917T085133Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Singen mit den Vehlefanzer Amseln
+URL:https://www.oberkraemer.de/veranstaltungen/2855693/2026/09/23/singen-
+ mit-den-vehlefanzer-amseln.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855865@amtsfeed.de
@@ -848,6 +848,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2961758/2026/11/14/nähkur
  s-für-fortgeschrittene-monatlich-am-2.-sonnabend-eines-monats.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2968494@amtsfeed.de
+DTSTAMP:20260917T085133Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:GENO - Erste Hilfe Kurs
+URL:https://www.oberkraemer.de/veranstaltungen/2968494/2026/11/14/geno-er
+ ste-hilfe-kurs.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2825872@amtsfeed.de
 DTSTAMP:20260915T084913Z
 DTSTART;VALUE=DATE:20261115
@@ -873,5 +882,14 @@ DTEND;VALUE=DATE:20261117
 SUMMARY:Romm&eacute\; in Bötzow
 URL:https://www.oberkraemer.de/veranstaltungen/2855879/2026/11/16/rommé-
  in-bötzow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855880@amtsfeed.de
+DTSTAMP:20260917T085133Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Frauenfrühstück in Vehlefanz - Notfalltraining
+URL:https://www.oberkraemer.de/veranstaltungen/2855880/2026/11/17/frauenf
+ rühstück-in-vehlefanz-notfalltraining.html
 END:VEVENT
 END:VCALENDAR

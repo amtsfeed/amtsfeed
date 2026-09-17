@@ -932,6 +932,17 @@ URL:https://www.amt-seelow-land.de/veranstaltungen/2857603/2026/09/19/klo
 LOCATION:Kulturförderverein Altfriedand e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2968571-2026-09-19-neuentempler-dorffest.html@amtsfee
+ d.de
+DTSTAMP:20260917T085034Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Neuentempler Dorffest
+URL:https://www.amt-seelow-land.de/veranstaltungen/2968571/2026/09/19/neu
+ entempler-dorffest.html
+LOCATION:Neuentempel
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2899028-2026-09-20-2-hegeangeln-vom-mol-angler-e.v.ht
  ml@amtsfeed.de
 DTSTAMP:20260911T111144Z
@@ -1055,13 +1066,12 @@ URL:https://www.amt-seelow-land.de/veranstaltungen/2621544/2026/10/18/spi
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2963334-2026-10-23-störbesatz.html@amtsfeed.de
-DTSTAMP:20260911T111144Z
+DTSTAMP:20260917T085034Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Störbesatz
 URL:https://www.amt-seelow-land.de/veranstaltungen/2963334/2026/10/23/st
  örbesatz.html
-LOCATION:Angelsportverein Neuhardenberg e.V.
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2857605-2026-10-24-herbstwanderungen.html@amtsfeed.de

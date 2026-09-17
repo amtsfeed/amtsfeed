@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:44:03.073Z",
+  "updatedAt": "2026-09-17T08:51:33.756Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -74,25 +74,9 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
-      "id": "oberkraemer-event-2855698",
-      "title": "Kartenfreunde Schwante",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855698/2026/09/16/kartenfreunde-schwante.html",
-      "startDate": "2026-09-16T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-11T11:12:17.608Z"
-    },
-    {
       "id": "oberkraemer-event-2957532",
       "title": "Block-Abenteuer in der Bibliothek Bötzow",
       "url": "https://www.oberkraemer.de/veranstaltungen/2957532/2026/09/16/block-abenteuer-in-der-bibliothek-bötzow.html",
-      "startDate": "2026-09-16T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-11T11:12:17.608Z"
-    },
-    {
-      "id": "oberkraemer-event-2855693",
-      "title": "Singen mit den Vehlefanzer Amseln",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855693/2026/09/16/singen-mit-den-vehlefanzer-amseln.html",
       "startDate": "2026-09-16T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
@@ -232,6 +216,22 @@
       "startDate": "2026-09-22T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2855698",
+      "title": "Kartenfreunde Schwante",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855698/2026/09/23/kartenfreunde-schwante.html",
+      "startDate": "2026-09-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-09-17T08:51:33.771Z"
+    },
+    {
+      "id": "oberkraemer-event-2855693",
+      "title": "Singen mit den Vehlefanzer Amseln",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855693/2026/09/23/singen-mit-den-vehlefanzer-amseln.html",
+      "startDate": "2026-09-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-09-17T08:51:33.771Z"
     },
     {
       "id": "oberkraemer-event-2855865",
@@ -746,6 +746,14 @@
       "updatedAt": "2026-09-14T09:07:09.330Z"
     },
     {
+      "id": "oberkraemer-event-2968494",
+      "title": "GENO - Erste Hilfe Kurs",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2968494/2026/11/14/geno-erste-hilfe-kurs.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:51:33.771Z",
+      "updatedAt": "2026-09-17T08:51:33.771Z"
+    },
+    {
       "id": "oberkraemer-event-2825872",
       "title": "Gottesdienst",
       "url": "https://www.oberkraemer.de/veranstaltungen/2825872/2026/11/15/gottesdienst.html",
@@ -768,6 +776,14 @@
       "startDate": "2026-11-16T00:00:00.000Z",
       "fetchedAt": "2026-09-16T08:44:03.083Z",
       "updatedAt": "2026-09-16T08:44:03.083Z"
+    },
+    {
+      "id": "oberkraemer-event-2855880",
+      "title": "Frauenfrühstück in Vehlefanz - Notfalltraining",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855880/2026/11/17/frauenfrühstück-in-vehlefanz-notfalltraining.html",
+      "startDate": "2026-11-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:51:33.771Z",
+      "updatedAt": "2026-09-17T08:51:33.771Z"
     }
   ]
 }

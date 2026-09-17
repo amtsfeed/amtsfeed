@@ -494,10 +494,32 @@ URL:https://www.eberswalde.de/termine/stadtgespraech-eberswalde-mit-dem-i
  -mobilitaet
 END:VEVENT
 BEGIN:VEVENT
+UID:guten-morgen-eberswalde-onewoman-company-die-spieluhr@amtsfeed.de
+DTSTAMP:20260917T084159Z
+DTSTART:20260919T103000Z
+SUMMARY:Guten-Morgen-Eberswalde - OneWoman Company „Die Spieluhr"
+URL:https://www.eberswalde.de/termine/guten-morgen-eberswalde-onewoman-co
+ mpany-die-spieluhr
+END:VEVENT
+BEGIN:VEVENT
 UID:oktoberfest-am-flugplatz@amtsfeed.de
 DTSTAMP:20260916T083805Z
 DTSTART:20260919T130000Z
 SUMMARY:Oktoberfest am Flugplatz
 URL:https://www.eberswalde.de/termine/oktoberfest-am-flugplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:kiezfest-ruhlaer-strasse@amtsfeed.de
+DTSTAMP:20260917T084159Z
+DTSTART:20260919T130000Z
+SUMMARY:Kiezfest Ruhlaer Straße
+URL:https://www.eberswalde.de/termine/kiezfest-ruhlaer-strasse
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-2@amtsfeed.de
+DTSTAMP:20260917T084159Z
+DTSTART:20260919T140000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-2
 END:VEVENT
 END:VCALENDAR

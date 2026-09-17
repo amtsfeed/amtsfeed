@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:44:10.331Z",
+  "updatedAt": "2026-09-17T08:51:39.061Z",
   "items": [
     {
       "id": "velten-event-932",
@@ -651,6 +651,22 @@
       "endDate": "2026-11-13T00:00:00.000Z",
       "fetchedAt": "2026-09-15T08:49:18.949Z",
       "updatedAt": "2026-09-15T08:49:18.949Z"
+    },
+    {
+      "id": "velten-event-1175",
+      "title": "Kürbisfest",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/K%C3%BCrbisfest-.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1175.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:51:39.069Z",
+      "updatedAt": "2026-09-17T08:51:39.069Z"
+    },
+    {
+      "id": "velten-event-1119",
+      "title": "Stadtrundgang \"Veltener Töppertour\" mit Robert Erzig",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Stadtrundgang-Veltener-T%C3%B6ppertour-mit-Robert-Erzig.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1119.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:51:39.069Z",
+      "updatedAt": "2026-09-17T08:51:39.069Z"
     }
   ]
 }

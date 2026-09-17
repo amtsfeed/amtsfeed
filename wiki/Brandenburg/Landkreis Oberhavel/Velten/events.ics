@@ -836,4 +836,25 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ausste
  ;ModID=11&amp\;FID=3631.1153.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort
  =1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1175@amtsfeed.de
+DTSTAMP:20260917T085139Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Kürbisfest
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/K%C3%B
+ Crbisfest-.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1175.1&amp
+ \;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1119@amtsfeed.de
+DTSTAMP:20260917T085139Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Stadtrundgang "Veltener Töppertour" mit Robert Erzig
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Stadtr
+ undgang-Veltener-T%C3%B6ppertour-mit-Robert-Erzig.php?object=tx\,3631.4.1
+ &amp\;ModID=11&amp\;FID=3631.1119.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;
+ sfort=1
+END:VEVENT
 END:VCALENDAR

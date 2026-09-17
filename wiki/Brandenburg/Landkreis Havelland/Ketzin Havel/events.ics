@@ -1431,12 +1431,12 @@ URL:https://www.ketzin.de/veranstaltungen/2825669/2026/09/24/verkehrsteil
 END:VEVENT
 BEGIN:VEVENT
 UID:ketzin-havel-event-2823275-20260925@amtsfeed.de
-DTSTAMP:20260531T141353Z
+DTSTAMP:20260917T084352Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Havelwies`n
-URL:https://www.ketzin.de/veranstaltungen/2823275/2026/09/25/havelwiesn.h
- tml
+SUMMARY:Havelwies`n ABGESAGT
+URL:https://www.ketzin.de/veranstaltungen/2823275/2026/09/25/havelwiesn-a
+ bgesagt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ketzin-havel-event-2658477-20260925@amtsfeed.de
@@ -4250,5 +4250,14 @@ DTEND;VALUE=DATE:20270915
 SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
 URL:https://www.ketzin.de/veranstaltungen/2457429/2027/09/14/seniorengymn
  astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20270917@amtsfeed.de
+DTSTAMP:20260917T084352Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/09/17/jeden-freita
+ g-senioren-sportnachmittag.html
 END:VEVENT
 END:VCALENDAR

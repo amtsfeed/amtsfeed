@@ -855,62 +855,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2904729/2026/09/15/fahrt-zur
 LOCATION:Treffpunkt : Postkasten Lebus
 END:VEVENT
 BEGIN:VEVENT
-UID:2955796@amtsfeed.de
-DTSTAMP:20260916T084215Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/16/hör-mal-
- -reiseperle-lebuser-land.html
-DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
- uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
- wir Kinder und Jugendliche ab 10 Jahren\, die Lust haben\, ihren Ort mitz
- ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
-LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
-  Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
-UID:2486339@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Sport für Senioren in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/09/16/sport-fü
- r-senioren-in-podelzig.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464908@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Fleischerwagen Fleischerei Höhne
-URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/09/16/fleischer
- wagen-fleischerei-höhne.html
-DESCRIPTION:am Dorfteich Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464904@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:&bdquo\;Yoga &ndash\; sanft und entspannend&ldquo\;
-URL:https://www.amt-lebus.de/veranstaltungen/2464904/2026/09/16/yoga--san
- ft-und-entspannend.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2820928@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Yoga - Anfänger & Wiedereinsteiger
-URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/09/16/yoga-anf
- änger-wiedereinsteiger.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2955819@amtsfeed.de
 DTSTAMP:20260911T111132Z
 DTSTART;VALUE=DATE:20260916
@@ -919,6 +863,21 @@ SUMMARY:Mittagstisch für Podelziger Senioren
 URL:https://www.amt-lebus.de/veranstaltungen/2955819/2026/09/16/mittagsti
  sch-für-podelziger-senioren.html
 LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2955796@amtsfeed.de
+DTSTAMP:20260917T085000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/17/hör-mal-
+ -reiseperle-lebuser-land.html
+DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
+ uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
+ wir Kinder und Jugendliche ab 10 Jahren\, die Lust haben\, ihren Ort mitz
+ ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
+LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
+  Schönfließ\, Treplin\, Döbberin\, Petershagen\,
 END:VEVENT
 BEGIN:VEVENT
 UID:2538590@amtsfeed.de
@@ -1101,6 +1060,47 @@ URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/09/22/posaunenc
  hor-probe.html
 DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
 LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2486339@amtsfeed.de
+DTSTAMP:20260917T085000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Sport für Senioren in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/09/23/sport-fü
+ r-senioren-in-podelzig.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464908@amtsfeed.de
+DTSTAMP:20260917T085000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Fleischerwagen Fleischerei Höhne
+URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/09/23/fleischer
+ wagen-fleischerei-höhne.html
+DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464904@amtsfeed.de
+DTSTAMP:20260917T085000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:&bdquo\;Yoga &ndash\; sanft und entspannend&ldquo\;
+URL:https://www.amt-lebus.de/veranstaltungen/2464904/2026/09/23/yoga--san
+ ft-und-entspannend.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2820928@amtsfeed.de
+DTSTAMP:20260917T085000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Yoga - Anfänger & Wiedereinsteiger
+URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/09/23/yoga-anf
+ änger-wiedereinsteiger.html
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2964763@amtsfeed.de

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:45:00.363Z",
+  "updatedAt": "2026-09-17T08:52:21.761Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -7385,6 +7385,16 @@
       "updatedAt": "2026-09-11T11:12:41.342Z"
     },
     {
+      "id": "lk-osl-event-2968944-20261113",
+      "title": "Konzert Lichterklang",
+      "url": "https://www.osl-online.de/veranstaltungen/2968944/2026/11/13/konzert-lichterklang.html",
+      "startDate": "2026-11-13T19:00:00.000Z",
+      "endDate": "2026-11-13T20:00:00.000Z",
+      "location": "Nikolaikirche, Lauchhammer-Mitte",
+      "fetchedAt": "2026-09-17T08:52:21.798Z",
+      "updatedAt": "2026-09-17T08:52:21.798Z"
+    },
+    {
       "id": "lk-osl-event-2961535-20261114",
       "title": "Unsere Veranstaltungen für die kommende Karnevalssession",
       "url": "https://www.osl-online.de/veranstaltungen/2961535/2026/11/14/unsere-veranstaltungen-für-die-kommende-karnevalssession.html",
@@ -8241,15 +8251,6 @@
       "updatedAt": "2026-05-31T18:42:06.173Z"
     },
     {
-      "id": "lk-osl-event-2829709-20261205",
-      "title": "Berlin-Brandenburg Cup - Fightclub 193 e. V.",
-      "url": "https://www.osl-online.de/veranstaltungen/2829709/2026/12/05/berlin-brandenburg-cup-fightclub-193-e.-v.html",
-      "startDate": "2026-12-05T00:00:00.000Z",
-      "location": "Fightclub 193 e.V.",
-      "fetchedAt": "2026-05-31T17:24:18.676Z",
-      "updatedAt": "2026-05-31T18:42:06.173Z"
-    },
-    {
       "id": "lk-osl-event-2822336-20261205",
       "title": "Weihnachtsmarkt",
       "url": "https://www.osl-online.de/veranstaltungen/2822336/2026/12/05/weihnachtsmarkt.html",
@@ -8276,6 +8277,15 @@
       "location": "Annahütte",
       "fetchedAt": "2026-05-31T17:24:18.676Z",
       "updatedAt": "2026-05-31T18:42:06.173Z"
+    },
+    {
+      "id": "lk-osl-event-2829709-20261205",
+      "title": "Berlin-Brandenburg Cup - Fightclub 193 e. V.",
+      "url": "https://www.osl-online.de/veranstaltungen/2829709/2026/12/05/berlin-brandenburg-cup-fightclub-193-e.-v.html",
+      "startDate": "2026-12-05T16:00:00.000Z",
+      "location": "SeeCampus Niederlausitz",
+      "fetchedAt": "2026-05-31T17:24:18.676Z",
+      "updatedAt": "2026-09-17T08:52:21.798Z"
     },
     {
       "id": "lk-osl-event-2861294-20261205",

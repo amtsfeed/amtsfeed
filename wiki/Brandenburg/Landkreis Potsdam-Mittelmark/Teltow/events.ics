@@ -1030,15 +1030,6 @@ URL:https://www.teltow.de/veranstaltungen/2963933/2026/09/16/demensch-wan
  derausstellung.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930017@amtsfeed.de
-DTSTAMP:20260911T111345Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
-URL:https://www.teltow.de/veranstaltungen/2930017/2026/09/16/offener-lern
- raum-lesen-schreiben-rechnen-basis-englisch.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2924758@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260916
@@ -1147,6 +1138,15 @@ SUMMARY:Teltower Salon: Wenn die Gartensaison endet | Wie mache ich meine
 URL:https://www.teltow.de/veranstaltungen/2927850/2026/09/22/teltower-sal
  on-wenn-die-gartensaison-endet-wie-mache-ich-meinen-garten-fit-für-den-w
  inter.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930017@amtsfeed.de
+DTSTAMP:20260917T085409Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
+URL:https://www.teltow.de/veranstaltungen/2930017/2026/09/23/offener-lern
+ raum-lesen-schreiben-rechnen-basis-englisch.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2924782@amtsfeed.de

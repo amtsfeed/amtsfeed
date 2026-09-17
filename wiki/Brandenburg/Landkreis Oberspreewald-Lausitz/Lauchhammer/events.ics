@@ -234,15 +234,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2966577/2026/09/14/es-war-
  einmal-.-im-echten-leben.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2558944@amtsfeed.de
-DTSTAMP:20260911T111233Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Gruppentreffen Selbsthilfegruppe Long - Post - Covid Lauchhammer
-URL:https://www.lauchhammer.de/veranstaltungen/2558944/2026/09/16/gruppen
- treffen-selbsthilfegruppe-long-post-covid-lauchhammer.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124494@amtsfeed.de
 DTSTAMP:20260911T111233Z
 DTSTART;VALUE=DATE:20260917
@@ -371,6 +362,15 @@ URL:https://www.lauchhammer.de/veranstaltungen/2906114/2026/10/17/eisbein
  -essen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:lauchhammer-event-2558944@amtsfeed.de
+DTSTAMP:20260917T085205Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Gruppentreffen Selbsthilfegruppe Long - Post - Covid Lauchhammer
+URL:https://www.lauchhammer.de/veranstaltungen/2558944/2026/10/21/gruppen
+ treffen-selbsthilfegruppe-long-post-covid-lauchhammer.html
+END:VEVENT
+BEGIN:VEVENT
 UID:lauchhammer-event-2873281@amtsfeed.de
 DTSTAMP:20260531T184202Z
 DTSTART;VALUE=DATE:20261105
@@ -398,6 +398,15 @@ SUMMARY:Frank Goldammer liest aus seinem neuen historischen Kriminalroman
 URL:https://www.lauchhammer.de/veranstaltungen/2944155/2026/11/13/frank-g
  oldammer-liest-aus-seinem-neuen-historischen-kriminalroman-die-bestie-von
  -dresden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2968944@amtsfeed.de
+DTSTAMP:20260917T085205Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Konzert Lichterklang
+URL:https://www.lauchhammer.de/veranstaltungen/2968944/2026/11/13/konzert
+ -lichterklang.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2962554@amtsfeed.de

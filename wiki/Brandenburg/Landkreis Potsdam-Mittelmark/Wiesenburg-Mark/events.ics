@@ -692,33 +692,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2939888/2026/09/15/batn
  ight-fledermäusen-auf-der-spur.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2424330@amtsfeed.de
-DTSTAMP:20260916T084652Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Offener Jugendraum "WiBu" - begleitet von Franziska Kottwitz
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/09/16/offe
- ner-jugendraum-wibu-begleitet-von-franziska-kottwitz.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2842616@amtsfeed.de
-DTSTAMP:20260911T111350Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:CODER DOJO - Programmierwerkstatt
-URL:https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/09/16/code
- r-dojo-programmierwerkstatt.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907840@amtsfeed.de
-DTSTAMP:20260911T111350Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/09/16/drk-
- spielrunde-kaffee-und-kartenspiel-für-senior-innen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2424341@amtsfeed.de
 DTSTAMP:20260911T111350Z
 DTSTART;VALUE=DATE:20260917
@@ -884,6 +857,15 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2929247/2026/09/21/soun
  d-bath-tu-dir-etwas-gutes.html
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2424330@amtsfeed.de
+DTSTAMP:20260917T085416Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Offener Jugendraum "WiBu" - begleitet von Franziska Kottwitz
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/09/22/offe
+ ner-jugendraum-wibu-begleitet-von-franziska-kottwitz.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2384481@amtsfeed.de
 DTSTAMP:20260916T084652Z
 DTSTART;VALUE=DATE:20260922
@@ -909,6 +891,24 @@ DTEND;VALUE=DATE:20260923
 SUMMARY:Breakdance-Kurs für Jugendliche (ab 13 J.)
 URL:https://www.wiesenburgmark.de/veranstaltungen/2889798/2026/09/22/brea
  kdance-kurs-für-jugendliche-ab-13-j.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2842616@amtsfeed.de
+DTSTAMP:20260917T085416Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:CODER DOJO - Programmierwerkstatt
+URL:https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/09/23/code
+ r-dojo-programmierwerkstatt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907840@amtsfeed.de
+DTSTAMP:20260917T085416Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/09/23/drk-
+ spielrunde-kaffee-und-kartenspiel-für-senior-innen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2907847@amtsfeed.de

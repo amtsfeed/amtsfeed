@@ -305,4 +305,15 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Familienspielta
  1&amp\;FID=3590.769.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;s
  tartkat=2713.5&amp\;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-855@amtsfeed.de
+DTSTAMP:20260917T085112Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Manege frei! Zirkus- und Jahrmarktabenteuer
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Manege-frei-Zir
+ kus-und-Jahrmarktabenteuer.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID
+ =3590.855.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=27
+ 13.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

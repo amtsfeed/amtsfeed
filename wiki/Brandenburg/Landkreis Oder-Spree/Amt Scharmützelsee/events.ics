@@ -7,26 +7,6 @@ X-WR-CALNAME:Amt Scharmützelsee
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Scharmützelsee
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2852626-2026-09-17-schleusenfahrt-zum-storkower-see@amtsfeed.de
-DTSTAMP:20260506T053110Z
-DTSTART:20260917T120000Z
-SUMMARY:Schleusenfahrt zum Storkower See
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2852626/2026/09/17
- /schleusenfahrt-zum-storkower-see.html
-LOCATION:Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saaro
- w
-END:VEVENT
-BEGIN:VEVENT
-UID:2933676-2026-09-17-lesung-mit-eva-martina-weyer-tabakpech@amtsfeed.de
-DTSTAMP:20260911T111247Z
-DTSTART:20260917T190000Z
-SUMMARY:Lesung mit Eva-Martina Weyer: &bdquo\;Tabakpech&ldquo\;
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2933676/2026/09/17
- /lesung-mit-eva-martina-weyer-tabakpech.html
-LOCATION:Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saar
- ow
-END:VEVENT
-BEGIN:VEVENT
 UID:2952657-2026-09-19-drachenfest-in-neu-golm@amtsfeed.de
 DTSTAMP:20260911T111247Z
 DTSTART;VALUE=DATE:20260919
@@ -184,6 +164,15 @@ URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2934454/2026/10/10
 LOCATION:Brunnen Lebensfreude · Bahnhofsplatz · 15526 Bad Saarow
 END:VEVENT
 BEGIN:VEVENT
+UID:2969669-2026-10-10-salonkonzert-mit-filmmusik@amtsfeed.de
+DTSTAMP:20260918T082530Z
+DTSTART:20261010T180000Z
+SUMMARY:Salonkonzert mit Filmmusik
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2969669/2026/10/10
+ /salonkonzert-mit-filmmusik.html
+LOCATION:Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
 UID:2816076-2026-10-10-frank-sinatra-show--roger-pabst-the-swingin-strang
  ers@amtsfeed.de
 DTSTAMP:20260506T053110Z
@@ -266,6 +255,15 @@ LOCATION:Bibliothek · Haus des Gastes · Kleine Promenade 1 · 15864 Wen
  disch Rietz
 END:VEVENT
 BEGIN:VEVENT
+UID:2969681-2026-10-24-ein-gutes-tier-ist-das-klavier@amtsfeed.de
+DTSTAMP:20260918T082530Z
+DTSTART:20261024T180000Z
+SUMMARY:Ein gutes Tier ist das Klavier
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2969681/2026/10/24
+ /ein-gutes-tier-ist-das-klavier.html
+LOCATION:Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
 UID:2871476-2026-10-25-tanz-brunch-im-oktober@amtsfeed.de
 DTSTAMP:20260506T053110Z
 DTSTART:20261025T110000Z
@@ -283,6 +281,15 @@ SUMMARY:AFTER WORK DANCE in der Lounge im Oktober
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2816078/2026/10/30
  /after-work-dance-in-der-lounge-im-oktober.html
 LOCATION:Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:2969707-2026-10-31-klavierrezital-mit-christian-seibert@amtsfeed.de
+DTSTAMP:20260918T082530Z
+DTSTART:20261031T180000Z
+SUMMARY:Klavierrezital mit Christian Seibert
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2969707/2026/10/31
+ /klavierrezital-mit-christian-seibert.html
+LOCATION:Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:2817408-2026-10-31-ultimate-eagles--die-weltweit-beste-eagles-show@am

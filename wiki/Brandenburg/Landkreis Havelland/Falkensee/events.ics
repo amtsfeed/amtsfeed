@@ -2542,6 +2542,15 @@ URL:https://www.falkensee.de/veranstaltungen/2949068/2026/09/19/19.-stadt
  event-kulturrallye-in-falkensee.html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2969426-20260919@amtsfeed.de
+DTSTAMP:20260918T081924Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Radtour
+URL:https://www.falkensee.de/veranstaltungen/2969426/2026/09/19/radtour.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2900966-20260920@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20260920
@@ -2570,6 +2579,15 @@ SUMMARY:Stadt Falkensee lädt ein zum &bdquo\;Tag des Friedhofs 2026&ldqu
  o\;
 URL:https://www.falkensee.de/veranstaltungen/2967394/2026/09/20/stadt-fal
  kensee-lädt-ein-zum-tag-des-friedhofs-2026.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2969425-20260920@amtsfeed.de
+DTSTAMP:20260918T081924Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Gottesdienst "Kaffee mit Gott"
+URL:https://www.falkensee.de/veranstaltungen/2969425/2026/09/20/gottesdie
+ nst-quotkaffee-mit-gott-quot.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2483646-20260921@amtsfeed.de
@@ -2886,6 +2904,15 @@ URL:https://www.falkensee.de/veranstaltungen/2951781/2026/09/27/kammercho
  efühlen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2969424-20260927@amtsfeed.de
+DTSTAMP:20260918T081924Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:FIT ZIRKEL Outdoor Spezial
+URL:https://www.falkensee.de/veranstaltungen/2969424/2026/09/27/fit-zirke
+ l-outdoor-spezial.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2526982-20260928@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20260928
@@ -3121,6 +3148,15 @@ SUMMARY:Level UP: Keep cool and beYOU! - KinderStarkMach-Training in Falk
 URL:https://www.falkensee.de/veranstaltungen/2948772/2026/10/05/level-up-
  keep-cool-and-beyou-kinderstarkmach-training-in-falkensee-8-bis-12-jahre.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2969431-20261005@amtsfeed.de
+DTSTAMP:20260918T081924Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Elterntreff neurodivergenter Kinder und Jugendlicher
+URL:https://www.falkensee.de/veranstaltungen/2969431/2026/10/05/elterntre
+ ff-neurodivergenter-kinder-und-jugendlicher.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2188424-20261006@amtsfeed.de
@@ -4007,14 +4043,12 @@ URL:https://www.falkensee.de/veranstaltungen/2478387/2026/11/08/regenboge
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2907793-20261108@amtsfeed.de
-DTSTAMP:20260531T141353Z
+DTSTAMP:20260918T081924Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:Kultur und Heilig Geist | Vokalensemble mit Sänger:innen der Dre
- sdener Semperoper
-URL:https://www.falkensee.de/veranstaltungen/2907793/2026/11/08/kultur-un
- d-heilig-geist-vokalensemble-mit-sänger-innen-der-dresdener-semperoper.h
- tml
+SUMMARY:Barocke Klangreise mit Herz und Geist
+URL:https://www.falkensee.de/veranstaltungen/2907793/2026/11/08/barocke-k
+ langreise-mit-herz-und-geist.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2856783-20261108@amtsfeed.de

@@ -424,6 +424,16 @@ URL:https://www.rietz-neuendorf.de/Leben-Freizeit/Veranstaltungen/Sorglos
  freg=1
 END:VEVENT
 BEGIN:VEVENT
+UID:rietz-neuendorf-event-3728-877-1@amtsfeed.de
+DTSTAMP:20260918T082554Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Pflegestützpunkt zu Besuch in Glienicke
+URL:https://www.rietz-neuendorf.de/Leben-Freizeit/Veranstaltungen/Pfleges
+ t%C3%BCtzpunkt-zu-Besuch-in-Glienicke.php?object=tx\,3728.4.1&ModID=11&FI
+ D=3728.877.1&NavID=3728.15&sfreg=1
+END:VEVENT
+BEGIN:VEVENT
 UID:rietz-neuendorf-event-3728-830-1@amtsfeed.de
 DTSTAMP:20260531T131636Z
 DTSTART;VALUE=DATE:20261012

@@ -1039,15 +1039,6 @@ URL:https://www.teltow.de/veranstaltungen/2924758/2026/09/16/sportgruppe.
  html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2699683@amtsfeed.de
-DTSTAMP:20260911T111345Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Repair Caf&eacute\; Teltow
-URL:https://www.teltow.de/veranstaltungen/2699683/2026/09/17/repair-café
- -teltow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2924759@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260917
@@ -1158,6 +1149,15 @@ URL:https://www.teltow.de/veranstaltungen/2924782/2026/09/23/sportgruppe.
  html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2699683@amtsfeed.de
+DTSTAMP:20260918T082657Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Repair Caf&eacute\; Teltow
+URL:https://www.teltow.de/veranstaltungen/2699683/2026/09/24/repair-café
+ -teltow.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2924783@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260924
@@ -1168,12 +1168,12 @@ URL:https://www.teltow.de/veranstaltungen/2924783/2026/09/24/klatschkaffe
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2928813@amtsfeed.de
-DTSTAMP:20260911T111345Z
+DTSTAMP:20260918T082657Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Hot Jazz Friday
-URL:https://www.teltow.de/veranstaltungen/2928813/2026/09/25/hot-jazz-fri
- day.html
+SUMMARY:AUSVERKAUFT! Hot Jazz Friday
+URL:https://www.teltow.de/veranstaltungen/2928813/2026/09/25/ausverkauft-
+ hot-jazz-friday.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2928824@amtsfeed.de

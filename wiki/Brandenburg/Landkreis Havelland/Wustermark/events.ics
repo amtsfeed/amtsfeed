@@ -357,6 +357,16 @@ URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
  sfvort=1&sfort=1&bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:wustermark-event-231@amtsfeed.de
+DTSTAMP:20260918T082021Z
+DTSTART:20260926T170000Z
+DTEND:20260926T235500Z
+SUMMARY:Herbstfest
+URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
+ gen/Herbstfest.php?object=tx\,3847.4.1&ModID=11&FID=3847.231.1&NavID=3847
+ .15&sfvort=1&sfort=1&bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:wustermark-event-220@amtsfeed.de
 DTSTAMP:20260911T110757Z
 DTSTART:20260928T190000Z
@@ -397,6 +407,18 @@ URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
  ,3847.4.1&ModID=11&FID=3847.225.1&NavID=3847.15&sfvort=1&sfort=1&bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:wustermark-event-230@amtsfeed.de
+DTSTAMP:20260918T082021Z
+DTSTART:20261012T170000Z
+DTEND:20261012T200000Z
+SUMMARY:Kostenlose Weiterbildung zur Assistenzkraft in der Eingliederungs
+ hilfe
+URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
+ gen/Kostenlose-Weiterbildung-zur-Assistenzkraft-in-der-Eingliederungshilf
+ e.php?object=tx\,3847.4.1&ModID=11&FID=3847.230.1&NavID=3847.15&sfvort=1&
+ sfort=1&bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:wustermark-event-228@amtsfeed.de
 DTSTAMP:20260916T084046Z
 DTSTART:20261017T110000Z
@@ -415,6 +437,16 @@ SUMMARY:Entspannung
 URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
  gen/Entspannung-.php?object=tx\,3847.4.1&ModID=11&FID=3847.123.1&NavID=38
  47.15&sfvort=1&sfort=1&bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:wustermark-event-206@amtsfeed.de
+DTSTAMP:20260918T082021Z
+DTSTART:20261025T100000Z
+DTEND:20261025T160000Z
+SUMMARY:Wustermark liest
+URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
+ gen/Wustermark-liest.php?object=tx\,3847.4.1&ModID=11&FID=3847.206.1&NavI
+ D=3847.15&sfvort=1&sfort=1&bn=1
 END:VEVENT
 BEGIN:VEVENT
 UID:wustermark-event-226@amtsfeed.de

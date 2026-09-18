@@ -716,15 +716,6 @@ URL:https://www.calau.de/veranstaltungen/2962561/2026/09/15/blutspendeter
  min-des-drk.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20260916T084433Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:17.09.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/09/17/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2885233@amtsfeed.de
 DTSTAMP:20260915T084930Z
 DTSTART;VALUE=DATE:20260917
@@ -762,19 +753,19 @@ URL:https://www.calau.de/veranstaltungen/2949684/2026/09/17/themenabend-z
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2952350@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260918T082507Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-SUMMARY:Info-Veranstaltung des Weissen Ring e.V.
+SUMMARY:18.09.2026   Info-Veranstaltung des Weissen Ring e.V.
 URL:https://www.calau.de/veranstaltungen/2952350/2026/09/18/info-veransta
  ltung-des-weissen-ring-e.v.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20260914T090727Z
+DTSTAMP:20260918T082507Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+SUMMARY:19.09.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
 URL:https://www.calau.de/veranstaltungen/2864723/2026/09/19/flugshow-auf-
  dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
@@ -789,21 +780,30 @@ URL:https://www.calau.de/veranstaltungen/2838393/2026/09/19/frauensportta
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2964647@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260918T082507Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-SUMMARY:Kochzauber für Kids / Alles rund um die Kartoffel
+SUMMARY:19.09.2026   Kochzauber für Kids / Alles rund um die Kartoffel
 URL:https://www.calau.de/veranstaltungen/2964647/2026/09/19/kochzauber-f
  ür-kids-alles-rund-um-die-kartoffel.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2964652@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260918T082507Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:Berufsberatung im Erwerbsleben
+SUMMARY:21.09.2026   Berufsberatung im Erwerbsleben
 URL:https://www.calau.de/veranstaltungen/2964652/2026/09/21/berufsberatun
  g-im-erwerbsleben.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20260918T082507Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/09/22/calauer-woche
+ nmarkt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2947233@amtsfeed.de
@@ -903,6 +903,15 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:Festgottesdienst zur Orgelweihe & Erntedank
 URL:https://www.calau.de/veranstaltungen/2964713/2026/10/04/festgottesdie
  nst-zur-orgelweihe-erntedank.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2969282@amtsfeed.de
+DTSTAMP:20260918T082507Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Fantastische Seifenblasen-Show
+URL:https://www.calau.de/veranstaltungen/2969282/2026/10/04/fantastische-
+ seifenblasen-show.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-1906922@amtsfeed.de

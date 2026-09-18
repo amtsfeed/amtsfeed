@@ -4909,11 +4909,11 @@ LOCATION:Adler- und Jagdfalkenhof "Zur Calauer Schweiz"
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2908861-20260919@amtsfeed.de
-DTSTAMP:20260531T184206Z
+DTSTAMP:20260918T082523Z
 DTSTART:20260919T190000Z
 SUMMARY:Konzert mit "Underwater Fish" aus Wormlage
 URL:https://www.osl-online.de/veranstaltungen/2908861/2026/09/19/konzert-
- mit-quotunderwater-fish-quot-aus-wormlage.html
+ mit-underwater-fish-aus-wormlage.html
 LOCATION:Henriettenkirche Annahütte
 END:VEVENT
 BEGIN:VEVENT
@@ -5727,6 +5727,15 @@ SUMMARY:DDR-Kinderbuchklassikern auf der Spur II
 URL:https://www.osl-online.de/veranstaltungen/2966580/2026/10/04/ddr-kind
  erbuchklassikern-auf-der-spur-ii.html
 LOCATION:Theater Neue Bühne Senftenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2969282-20261004@amtsfeed.de
+DTSTAMP:20260918T082523Z
+DTSTART:20261004T150000Z
+SUMMARY:Fantastische Seifenblasen-Show
+URL:https://www.osl-online.de/veranstaltungen/2969282/2026/10/04/fantasti
+ sche-seifenblasen-show.html
+LOCATION:Stadthalle Calau
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2966589-20261004@amtsfeed.de
@@ -6855,6 +6864,17 @@ URL:https://www.osl-online.de/veranstaltungen/2315266/2026/10/28/calauer-
 LOCATION:Haus der Heimatgeschichte
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2969335-20261028@amtsfeed.de
+DTSTAMP:20260918T082523Z
+DTSTART:20261028T150000Z
+DTEND:20261028T190000Z
+SUMMARY:Halloweenparty in der Bibliothek – magisch\, lustig und ein bis
+ schen gruselig!
+URL:https://www.osl-online.de/veranstaltungen/2969335/2026/10/28/hallowee
+ nparty-in-der-bibliothek--magisch-lustig-und-ein-bisschen-gruselig.html
+LOCATION:SeeCampus Bibliothek
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2966888-20261028@amtsfeed.de
 DTSTAMP:20260915T084948Z
 DTSTART:20261028T183000Z
@@ -6951,6 +6971,26 @@ URL:https://www.osl-online.de/veranstaltungen/2918359/2026/10/30/gruppent
 LOCATION:REKOSI
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2969349-20261030@amtsfeed.de
+DTSTAMP:20260918T082523Z
+DTSTART:20261030T140000Z
+DTEND:20261030T150000Z
+SUMMARY:Zaubertränke brauen in der SeeCampus-Bibliothek
+URL:https://www.osl-online.de/veranstaltungen/2969349/2026/10/30/zaubertr
+ änke-brauen-in-der-seecampus-bibliothek.html
+LOCATION:SeeCampus Bibliothek
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2969356-20261030@amtsfeed.de
+DTSTAMP:20260918T082523Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:Schauriger Halloween-Bastelnachmittag für die ganze Familie
+URL:https://www.osl-online.de/veranstaltungen/2969356/2026/10/30/schaurig
+ er-halloween-bastelnachmittag-für-die-ganze-familie.html
+LOCATION:SeeCampus Bibliothek
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2964571-20261030@amtsfeed.de
 DTSTAMP:20260911T111241Z
 DTSTART:20261030T153000Z
@@ -6958,6 +6998,16 @@ SUMMARY:Kürbisschnitzen für die ganze Familie
 URL:https://www.osl-online.de/veranstaltungen/2964571/2026/10/30/kürbiss
  chnitzen-für-die-ganze-familie.html
 LOCATION:Familienzentrum Kleeblatt
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2969371-20261030@amtsfeed.de
+DTSTAMP:20260918T082523Z
+DTSTART:20261030T170000Z
+DTEND:20261030T183000Z
+SUMMARY:Kuscheltierübernachtung in der SeeCampus-Bibliothek
+URL:https://www.osl-online.de/veranstaltungen/2969371/2026/10/30/kuschelt
+ ierübernachtung-in-der-seecampus-bibliothek.html
+LOCATION:SeeCampus Bibliothek
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2841056-20261030@amtsfeed.de
@@ -7249,6 +7299,18 @@ SUMMARY:Spieleabend
 URL:https://www.osl-online.de/veranstaltungen/2877065/2026/11/06/spieleab
  end.html
 LOCATION:Calau / OT Klein Mehßow
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2969178-20261106@amtsfeed.de
+DTSTAMP:20260918T082523Z
+DTSTART:20261106T190000Z
+DTEND:20261106T210000Z
+SUMMARY:Krimilesung in der SeeCampus Bibliothek: Franziska Steinhauer "Ge
+ witter über dem Spreewald"
+URL:https://www.osl-online.de/veranstaltungen/2969178/2026/11/06/krimiles
+ ung-in-der-seecampus-bibliothek-franziska-steinhauer-gewitter-über-dem-s
+ preewald.html
+LOCATION:SeeCampus Bibliothek
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2791429-20261107@amtsfeed.de

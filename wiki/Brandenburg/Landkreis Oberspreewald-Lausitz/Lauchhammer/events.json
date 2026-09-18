@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T08:52:05.652Z",
+  "updatedAt": "2026-09-18T08:25:10.120Z",
   "items": [
     {
       "id": "lauchhammer-event-2887000",
@@ -202,33 +202,9 @@
       "updatedAt": "2026-09-14T09:07:31.394Z"
     },
     {
-      "id": "lauchhammer-event-2124494",
-      "title": "Behinderten- und Seniorenberatung",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2124494/2026/09/17/behinderten-und-seniorenberatung.html",
-      "startDate": "2026-09-17T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:33.167Z",
-      "updatedAt": "2026-09-11T11:12:33.019Z"
-    },
-    {
-      "id": "lauchhammer-event-2398220",
-      "title": "Außenberatung Senftenberg",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2398220/2026/09/17/außenberatung-senftenberg.html",
-      "startDate": "2026-09-17T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:33.167Z",
-      "updatedAt": "2026-09-11T11:12:33.019Z"
-    },
-    {
       "id": "lauchhammer-event-2958601",
       "title": "Blutspendetermin in der OS \"Am Wehlenteich\"",
       "url": "https://www.lauchhammer.de/veranstaltungen/2958601/2026/09/17/blutspendetermin-in-der-os-am-wehlenteich.html",
-      "startDate": "2026-09-17T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:58:46.810Z",
-      "updatedAt": "2026-09-11T11:12:33.019Z"
-    },
-    {
-      "id": "lauchhammer-event-2918316",
-      "title": "Gruppentreffen Selbsthilfegruppe Depressionen in Lauchhammer",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2918316/2026/09/17/gruppentreffen-selbsthilfegruppe-depressionen-in-lauchhammer.html",
       "startDate": "2026-09-17T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:46.810Z",
       "updatedAt": "2026-09-11T11:12:33.019Z"
@@ -256,6 +232,14 @@
       "startDate": "2026-09-22T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:26:33.167Z",
       "updatedAt": "2026-09-16T08:44:38.932Z"
+    },
+    {
+      "id": "lauchhammer-event-2124494",
+      "title": "Behinderten- und Seniorenberatung",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2124494/2026/09/24/behinderten-und-seniorenberatung.html",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:33.167Z",
+      "updatedAt": "2026-09-18T08:25:10.108Z"
     },
     {
       "id": "lauchhammer-event-2918359",
@@ -288,6 +272,22 @@
       "startDate": "2026-10-02T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:46.810Z",
       "updatedAt": "2026-09-11T11:12:33.019Z"
+    },
+    {
+      "id": "lauchhammer-event-2398220",
+      "title": "Außenberatung Senftenberg",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2398220/2026/10/15/außenberatung-senftenberg.html",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:33.167Z",
+      "updatedAt": "2026-09-18T08:25:10.108Z"
+    },
+    {
+      "id": "lauchhammer-event-2918316",
+      "title": "Gruppentreffen Selbsthilfegruppe Depressionen in Lauchhammer",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2918316/2026/10/15/gruppentreffen-selbsthilfegruppe-depressionen-in-lauchhammer.html",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:46.810Z",
+      "updatedAt": "2026-09-18T08:25:10.108Z"
     },
     {
       "id": "lauchhammer-event-2964390",

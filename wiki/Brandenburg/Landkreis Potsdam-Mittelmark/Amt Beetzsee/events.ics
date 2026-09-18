@@ -462,15 +462,6 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2966817/2026/09/15/ohne-m
  oos-wenig-los-finanzierung-förderung-für-projekte-und-bne-online.html
 END:VEVENT
 BEGIN:VEVENT
-UID:amt-beetzsee-event-2496637@amtsfeed.de
-DTSTAMP:20260911T111317Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Beetzseebücherei
-URL:https://www.amt-beetzsee.de/veranstaltungen/2496637/2026/09/17/beetzs
- eebücherei.html
-END:VEVENT
-BEGIN:VEVENT
 UID:amt-beetzsee-event-2817449@amtsfeed.de
 DTSTAMP:20260506T201614Z
 DTSTART;VALUE=DATE:20260921
@@ -589,6 +580,15 @@ DTEND;VALUE=DATE:20261014
 SUMMARY:"Realutopien" (Online)
 URL:https://www.amt-beetzsee.de/veranstaltungen/2959199/2026/10/13/realut
  opien-online.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2496637@amtsfeed.de
+DTSTAMP:20260918T082608Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Beetzseebücherei
+URL:https://www.amt-beetzsee.de/veranstaltungen/2496637/2026/10/15/beetzs
+ eebücherei.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2783192@amtsfeed.de

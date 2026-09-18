@@ -949,4 +949,12 @@ DTSTART:20261218T163000Z
 SUMMARY:Adventsglühen
 URL:https://www.elsterwerda.de/veranstaltung/adventgluehen-6/
 END:VEVENT
+BEGIN:VEVENT
+UID:23825@amtsfeed.de
+DTSTAMP:20260918T081854Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Weihnachtsmarkt in Kraupa
+URL:https://www.elsterwerda.de/veranstaltung/weihnachtsmarkt-in-kraupa/
+END:VEVENT
 END:VCALENDAR

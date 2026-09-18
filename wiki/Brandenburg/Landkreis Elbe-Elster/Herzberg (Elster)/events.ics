@@ -535,14 +535,6 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2849524/2027/01/01/neu
  jahrskonzert.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2331050@amtsfeed.de
-DTSTAMP:20260911T110717Z
-DTSTART:20270911T063000Z
-SUMMARY:Wochenmarkt
-URL:https://www.herzberg-elster.de/veranstaltungen/2331050/2027/09/11/woc
- henmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2477269@amtsfeed.de
 DTSTAMP:20260915T084439Z
 DTSTART:20270915T100000Z
@@ -564,6 +556,14 @@ DTSTAMP:20260916T083939Z
 DTSTART:20270916T060000Z
 SUMMARY:Wochenmarkt
 URL:https://www.herzberg-elster.de/veranstaltungen/2331049/2027/09/16/woc
+ henmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2331050@amtsfeed.de
+DTSTAMP:20260918T081859Z
+DTSTART:20270918T063000Z
+SUMMARY:Wochenmarkt
+URL:https://www.herzberg-elster.de/veranstaltungen/2331050/2027/09/18/woc
  henmarkt.html
 END:VEVENT
 END:VCALENDAR

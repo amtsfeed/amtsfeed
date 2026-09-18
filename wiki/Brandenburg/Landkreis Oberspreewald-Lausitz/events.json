@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T08:52:21.761Z",
+  "updatedAt": "2026-09-18T08:25:23.320Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -4788,11 +4788,11 @@
     {
       "id": "lk-osl-event-2908861-20260919",
       "title": "Konzert mit \"Underwater Fish\" aus Wormlage",
-      "url": "https://www.osl-online.de/veranstaltungen/2908861/2026/09/19/konzert-mit-quotunderwater-fish-quot-aus-wormlage.html",
+      "url": "https://www.osl-online.de/veranstaltungen/2908861/2026/09/19/konzert-mit-underwater-fish-aus-wormlage.html",
       "startDate": "2026-09-19T19:00:00.000Z",
       "location": "Henriettenkirche Annahütte",
       "fetchedAt": "2026-05-31T17:24:18.676Z",
-      "updatedAt": "2026-05-31T18:42:06.173Z"
+      "updatedAt": "2026-09-18T08:25:23.363Z"
     },
     {
       "id": "lk-osl-event-2962080-20260919",
@@ -5584,6 +5584,15 @@
       "location": "Theater Neue Bühne Senftenberg",
       "fetchedAt": "2026-09-14T09:07:49.475Z",
       "updatedAt": "2026-09-14T09:07:49.475Z"
+    },
+    {
+      "id": "lk-osl-event-2969282-20261004",
+      "title": "Fantastische Seifenblasen-Show",
+      "url": "https://www.osl-online.de/veranstaltungen/2969282/2026/10/04/fantastische-seifenblasen-show.html",
+      "startDate": "2026-10-04T15:00:00.000Z",
+      "location": "Stadthalle Calau",
+      "fetchedAt": "2026-09-18T08:25:23.363Z",
+      "updatedAt": "2026-09-18T08:25:23.363Z"
     },
     {
       "id": "lk-osl-event-2966589-20261004",
@@ -6671,6 +6680,16 @@
       "updatedAt": "2026-05-31T18:42:06.173Z"
     },
     {
+      "id": "lk-osl-event-2969335-20261028",
+      "title": "Halloweenparty in der Bibliothek – magisch, lustig und ein bisschen gruselig!",
+      "url": "https://www.osl-online.de/veranstaltungen/2969335/2026/10/28/halloweenparty-in-der-bibliothek--magisch-lustig-und-ein-bisschen-gruselig.html",
+      "startDate": "2026-10-28T15:00:00.000Z",
+      "endDate": "2026-10-28T19:00:00.000Z",
+      "location": "SeeCampus Bibliothek",
+      "fetchedAt": "2026-09-18T08:25:23.363Z",
+      "updatedAt": "2026-09-18T08:25:23.363Z"
+    },
+    {
       "id": "lk-osl-event-2966888-20261028",
       "title": "FestSpiel &bdquo;Jubiläum&ldquo;",
       "url": "https://www.osl-online.de/veranstaltungen/2966888/2026/10/28/festspiel-jubiläum.html",
@@ -6763,6 +6782,26 @@
       "updatedAt": "2026-09-11T11:12:41.342Z"
     },
     {
+      "id": "lk-osl-event-2969349-20261030",
+      "title": "Zaubertränke brauen in der SeeCampus-Bibliothek",
+      "url": "https://www.osl-online.de/veranstaltungen/2969349/2026/10/30/zaubertränke-brauen-in-der-seecampus-bibliothek.html",
+      "startDate": "2026-10-30T14:00:00.000Z",
+      "endDate": "2026-10-30T15:00:00.000Z",
+      "location": "SeeCampus Bibliothek",
+      "fetchedAt": "2026-09-18T08:25:23.363Z",
+      "updatedAt": "2026-09-18T08:25:23.363Z"
+    },
+    {
+      "id": "lk-osl-event-2969356-20261030",
+      "title": "Schauriger Halloween-Bastelnachmittag für die ganze Familie",
+      "url": "https://www.osl-online.de/veranstaltungen/2969356/2026/10/30/schauriger-halloween-bastelnachmittag-für-die-ganze-familie.html",
+      "startDate": "2026-10-30T15:00:00.000Z",
+      "endDate": "2026-10-30T17:00:00.000Z",
+      "location": "SeeCampus Bibliothek",
+      "fetchedAt": "2026-09-18T08:25:23.363Z",
+      "updatedAt": "2026-09-18T08:25:23.363Z"
+    },
+    {
       "id": "lk-osl-event-2964571-20261030",
       "title": "Kürbisschnitzen für die ganze Familie",
       "url": "https://www.osl-online.de/veranstaltungen/2964571/2026/10/30/kürbisschnitzen-für-die-ganze-familie.html",
@@ -6770,6 +6809,16 @@
       "location": "Familienzentrum Kleeblatt",
       "fetchedAt": "2026-09-11T09:58:58.151Z",
       "updatedAt": "2026-09-11T11:12:41.342Z"
+    },
+    {
+      "id": "lk-osl-event-2969371-20261030",
+      "title": "Kuscheltierübernachtung in der SeeCampus-Bibliothek",
+      "url": "https://www.osl-online.de/veranstaltungen/2969371/2026/10/30/kuscheltierübernachtung-in-der-seecampus-bibliothek.html",
+      "startDate": "2026-10-30T17:00:00.000Z",
+      "endDate": "2026-10-30T18:30:00.000Z",
+      "location": "SeeCampus Bibliothek",
+      "fetchedAt": "2026-09-18T08:25:23.363Z",
+      "updatedAt": "2026-09-18T08:25:23.363Z"
     },
     {
       "id": "lk-osl-event-2841056-20261030",
@@ -7056,6 +7105,16 @@
       "location": "Calau / OT Klein Mehßow",
       "fetchedAt": "2026-05-31T17:24:18.676Z",
       "updatedAt": "2026-05-31T18:42:06.173Z"
+    },
+    {
+      "id": "lk-osl-event-2969178-20261106",
+      "title": "Krimilesung in der SeeCampus Bibliothek: Franziska Steinhauer \"Gewitter über dem Spreewald\"",
+      "url": "https://www.osl-online.de/veranstaltungen/2969178/2026/11/06/krimilesung-in-der-seecampus-bibliothek-franziska-steinhauer-gewitter-über-dem-spreewald.html",
+      "startDate": "2026-11-06T19:00:00.000Z",
+      "endDate": "2026-11-06T21:00:00.000Z",
+      "location": "SeeCampus Bibliothek",
+      "fetchedAt": "2026-09-18T08:25:23.363Z",
+      "updatedAt": "2026-09-18T08:25:23.363Z"
     },
     {
       "id": "lk-osl-event-2791429-20261107",

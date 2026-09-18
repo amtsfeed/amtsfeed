@@ -234,24 +234,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2966577/2026/09/14/es-war-
  einmal-.-im-echten-leben.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124494@amtsfeed.de
-DTSTAMP:20260911T111233Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Behinderten- und Seniorenberatung
-URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/09/17/behinde
- rten-und-seniorenberatung.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2398220@amtsfeed.de
-DTSTAMP:20260911T111233Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Außenberatung Senftenberg
-URL:https://www.lauchhammer.de/veranstaltungen/2398220/2026/09/17/außenb
- eratung-senftenberg.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2958601@amtsfeed.de
 DTSTAMP:20260911T111233Z
 DTSTART;VALUE=DATE:20260917
@@ -259,15 +241,6 @@ DTEND;VALUE=DATE:20260918
 SUMMARY:Blutspendetermin in der OS "Am Wehlenteich"
 URL:https://www.lauchhammer.de/veranstaltungen/2958601/2026/09/17/blutspe
  ndetermin-in-der-os-am-wehlenteich.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2918316@amtsfeed.de
-DTSTAMP:20260911T111233Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Gruppentreffen Selbsthilfegruppe Depressionen in Lauchhammer
-URL:https://www.lauchhammer.de/veranstaltungen/2918316/2026/09/17/gruppen
- treffen-selbsthilfegruppe-depressionen-in-lauchhammer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2124462@amtsfeed.de
@@ -295,6 +268,15 @@ DTEND;VALUE=DATE:20260923
 SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
 URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/09/22/chorpro
  be-mit-dem-stadtchor-lauchhammer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124494@amtsfeed.de
+DTSTAMP:20260918T082510Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/09/24/behinde
+ rten-und-seniorenberatung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2918359@amtsfeed.de
@@ -333,6 +315,24 @@ SUMMARY:Lesung mit Bärbel Strecker „Du bist die beste Medizin" (02.​
 URL:https://www.lauchhammer.de/veranstaltungen/2944153/2026/10/02/lesung-
  mit-bärbel-strecker-du-bist-die-beste-medizin-quot-02.10.2026-19-uhr.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2398220@amtsfeed.de
+DTSTAMP:20260918T082510Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Außenberatung Senftenberg
+URL:https://www.lauchhammer.de/veranstaltungen/2398220/2026/10/15/außenb
+ eratung-senftenberg.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2918316@amtsfeed.de
+DTSTAMP:20260918T082510Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Gruppentreffen Selbsthilfegruppe Depressionen in Lauchhammer
+URL:https://www.lauchhammer.de/veranstaltungen/2918316/2026/10/15/gruppen
+ treffen-selbsthilfegruppe-depressionen-in-lauchhammer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2964390@amtsfeed.de

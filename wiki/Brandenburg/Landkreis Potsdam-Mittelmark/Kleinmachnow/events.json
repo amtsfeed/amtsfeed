@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:46:19.432Z",
+  "updatedAt": "2026-09-18T08:26:32.057Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -688,6 +688,22 @@
       "startDate": "2026-10-01T15:00:00.000Z",
       "fetchedAt": "2026-09-14T09:09:25.979Z",
       "updatedAt": "2026-09-14T09:09:25.979Z"
+    },
+    {
+      "id": "kleinmachnow-event-2148",
+      "title": "Krabbel- und Säuglingsgruppe",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Krabbel-und-S%C3%A4uglingsgruppe-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2148.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-10-02T09:30:00.000Z",
+      "fetchedAt": "2026-09-18T08:26:32.055Z",
+      "updatedAt": "2026-09-18T08:26:32.055Z"
+    },
+    {
+      "id": "kleinmachnow-event-2280",
+      "title": "Senioren- und Seniorinnen-Nachmittag",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Senioren-und-Seniorinnen-Nachmittag-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2280.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-10-02T13:00:00.000Z",
+      "fetchedAt": "2026-09-18T08:26:32.055Z",
+      "updatedAt": "2026-09-18T08:26:32.055Z"
     }
   ]
 }

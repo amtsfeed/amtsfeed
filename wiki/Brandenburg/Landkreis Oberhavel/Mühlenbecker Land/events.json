@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T08:51:30.663Z",
+  "updatedAt": "2026-09-18T08:24:44.898Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -2596,6 +2596,42 @@
       "location": "Glashaus, Dorfstr. 34b, Zühlsdorf",
       "fetchedAt": "2026-09-17T08:51:30.662Z",
       "updatedAt": "2026-09-17T08:51:30.662Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798797",
+      "title": "Bürgerverein Bieselheide: Kreativgruppe",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798797",
+      "startDate": "2026-10-07T10:00:00.000Z",
+      "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
+      "fetchedAt": "2026-09-18T08:24:44.898Z",
+      "updatedAt": "2026-09-18T08:24:44.898Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58809524",
+      "title": "Bürgerverein: Boule am Teich",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58809524",
+      "startDate": "2026-10-07T14:00:00.000Z",
+      "location": "Bouleplatz, Feldahornstraße, OT Schönfließ",
+      "fetchedAt": "2026-09-18T08:24:44.898Z",
+      "updatedAt": "2026-09-18T08:24:44.898Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59053193",
+      "title": "Plauderspaziergang",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59053193",
+      "startDate": "2026-10-07T15:30:00.000Z",
+      "location": "Mehrzweckraum Zühlsdorf, Dorfstr. 35a, 16515 OT Zühlsdorf",
+      "fetchedAt": "2026-09-18T08:24:44.898Z",
+      "updatedAt": "2026-09-18T08:24:44.898Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59053180",
+      "title": "Sprechstunde der Digital-Paten",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59053180",
+      "startDate": "2026-10-07T17:00:00.000Z",
+      "location": "Hauptstraße 9, OT Mühlenbeck",
+      "fetchedAt": "2026-09-18T08:24:44.898Z",
+      "updatedAt": "2026-09-18T08:24:44.898Z"
     }
   ]
 }

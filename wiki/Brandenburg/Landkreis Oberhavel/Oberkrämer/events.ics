@@ -97,15 +97,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2957532/2026/09/16/block-a
  benteuer-in-der-bibliothek-bötzow.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855733@amtsfeed.de
-DTSTAMP:20260911T111217Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Nordic-Walking in Vehlefanz
-URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/09/17/nordic-
- walking-in-vehlefanz.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855564@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20260917
@@ -275,6 +266,15 @@ DTEND;VALUE=DATE:20260924
 SUMMARY:Klön- und Spielenachmittag
 URL:https://www.oberkraemer.de/veranstaltungen/2855865/2026/09/23/klön-u
  nd-spielenachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855733@amtsfeed.de
+DTSTAMP:20260918T082447Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Nordic-Walking in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/09/24/nordic-
+ walking-in-vehlefanz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2959892@amtsfeed.de
@@ -775,6 +775,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2908916/2026/11/07/konzert
  -duo-tintinyana.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2969197@amtsfeed.de
+DTSTAMP:20260918T082447Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Führungen im Schloss
+URL:https://www.oberkraemer.de/veranstaltungen/2969197/2026/11/08/führun
+ gen-im-schloss.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855878@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261110
@@ -891,5 +900,23 @@ DTEND;VALUE=DATE:20261118
 SUMMARY:Frauenfrühstück in Vehlefanz - Notfalltraining
 URL:https://www.oberkraemer.de/veranstaltungen/2855880/2026/11/17/frauenf
  rühstück-in-vehlefanz-notfalltraining.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855881@amtsfeed.de
+DTSTAMP:20260918T082447Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Kaffeenachmittag - Senioren Club Eichstädt
+URL:https://www.oberkraemer.de/veranstaltungen/2855881/2026/11/18/kaffeen
+ achmittag-senioren-club-eichstädt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962391@amtsfeed.de
+DTSTAMP:20260918T082447Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Puppentheater in der Bibliothek Bötzow
+URL:https://www.oberkraemer.de/veranstaltungen/2962391/2026/11/18/puppent
+ heater-in-der-bibliothek-bötzow.html
 END:VEVENT
 END:VCALENDAR

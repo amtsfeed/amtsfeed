@@ -709,19 +709,6 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  hp?ModID=11&amp\;FID=2852.1892.1
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20260917T085245Z
-DTSTART:20260917T085245Z
-SUMMARY:Veranstaltungen
-URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1
-END:VEVENT
-BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1934-1@amtsfeed.de
 DTSTAMP:20260916T084521Z
 DTSTART;VALUE=DATE:20260918
@@ -740,6 +727,19 @@ SUMMARY:Konzert mit Felix Reuter  Ich steh´ auf Klavier
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Konzert-mit-Felix-Reut
  er-Ich-steh-auf-Klavier.php?ModID=11&amp\;FID=2852.1710.1
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
+DTSTAMP:20260918T082542Z
+DTSTART:20260918T082542Z
+SUMMARY:Veranstaltungen
+URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1793-1@amtsfeed.de
@@ -776,21 +776,14 @@ LOCATION:den Pop-Olymp und war der Grundstein einer einzigartigen\,  bis
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1915-1@amtsfeed.de
-DTSTAMP:20260916T084521Z
+DTSTAMP:20260918T082542Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:"Das Weite suchen" - Die Umbruchjahre im Fokus von Gerd Markert
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-Das-Weite-suchen-Die-
  Umbruchjahre-im-Fokus-von-Gerd-Markert.php?ModID=11&amp\;FID=2852.1915.1
-LOCATION:Eisenhüttenstadt geborene Pressefotograf zeigt und kommentiert 
- Fotos aus Ostbrandenburg. Eine Veranstaltung im Rahmen der Sonderausstell
- ung "Das Weite suchen. Fotografien aus der späten DDR und frühen 1990er
-  Jahre".   Das Weite suchen lädt mit Fotografien von 1983 bis 1995 dazu 
- ein\, sich mit der Transformation Ostdeutschlands auseinanderzusetzen und
-  neue Perspektiven zu entdecken.  In der späten DDR\, in der die Zeit st
- ill zu stehen schien und sich gleichzeitig Aufbrüche abzeichneten\, fand
- en Fotograf
+LOCATION:Museum Utopie und Alltag
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1935-1@amtsfeed.de
@@ -983,7 +976,7 @@ LOCATION:Raddampfer Alexander
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1916-1@amtsfeed.de
-DTSTAMP:20260914T090820Z
+DTSTAMP:20260918T082542Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Finissage "Das Weite suchen. Fotografien der späten DDR und frü
@@ -992,8 +985,7 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Finissage-Das-Weite-su
  chen-Fotografien-der-sp%C3%A4ten-DDR-und-fr%C3%BChen-1990er-Jahre-.php?Mo
  dID=11&amp\;FID=2852.1916.1
-LOCATION:der die Zeit still zu stehen schien und sich gleichzeitig Aufbr
- üche abzeichneten\, fanden Fotograf
+LOCATION:Museum Utopie und Alltag
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1943-1@amtsfeed.de

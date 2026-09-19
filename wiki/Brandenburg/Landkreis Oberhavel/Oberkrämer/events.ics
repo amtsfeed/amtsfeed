@@ -124,15 +124,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855863/2026/09/17/klönka
  ffee-nachmittag.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855745@amtsfeed.de
-DTSTAMP:20260912T080536Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:Schach
-URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/09/18/schach.
- html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2891489@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20260918
@@ -275,6 +266,15 @@ DTEND;VALUE=DATE:20260925
 SUMMARY:Nordic-Walking in Vehlefanz
 URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/09/24/nordic-
  walking-in-vehlefanz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855745@amtsfeed.de
+DTSTAMP:20260919T081314Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Schach
+URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/09/25/schach.
+ html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2959892@amtsfeed.de
@@ -918,5 +918,23 @@ DTEND;VALUE=DATE:20261119
 SUMMARY:Puppentheater in der Bibliothek Bötzow
 URL:https://www.oberkraemer.de/veranstaltungen/2962391/2026/11/18/puppent
  heater-in-der-bibliothek-bötzow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855882@amtsfeed.de
+DTSTAMP:20260919T081314Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Klönkaffee-Nachmittag
+URL:https://www.oberkraemer.de/veranstaltungen/2855882/2026/11/19/klönka
+ ffee-nachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2961770@amtsfeed.de
+DTSTAMP:20260919T081314Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Klön-Kaffee-Nachmittag für Jedermann/-frau
+URL:https://www.oberkraemer.de/veranstaltungen/2961770/2026/11/19/klön-k
+ affee-nachmittag-für-jedermann-frau.html
 END:VEVENT
 END:VCALENDAR

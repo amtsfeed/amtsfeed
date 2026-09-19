@@ -957,4 +957,12 @@ DTEND;VALUE=DATE:20261221
 SUMMARY:Weihnachtsmarkt in Kraupa
 URL:https://www.elsterwerda.de/veranstaltung/weihnachtsmarkt-in-kraupa/
 END:VEVENT
+BEGIN:VEVENT
+UID:23827@amtsfeed.de
+DTSTAMP:20260919T080707Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Weihnachtssingen
+URL:https://www.elsterwerda.de/veranstaltung/weihnachtssingen/
+END:VEVENT
 END:VCALENDAR

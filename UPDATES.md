@@ -1,5 +1,68 @@
 # Updates
 
+## 2026-09-19 08:16
+
+Insgesamt **390 neu**, **177 aktualisiert**, **1 entfernt** in 56 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~2 | — | — |
+| Altlandsberg | — | +2 / ~2 | — | — |
+| Amt Brieskow-Finkenheerd | +1 | — | — | ~6 |
+| Amt Britz-Chorin-Oderberg | — | +1 | — | — |
+| Amt Golzow | +1 | — | — | — |
+| Amt Lebus | — | ~3 | — | — |
+| Amt Neuzelle | — | +2 | — | — |
+| Amt Niemegk | — | +2 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +1 / ~1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Beeskow | +1 | — | +1 | — |
+| Bernau bei Berlin | +3 | +10 / ~7 | — | — |
+| Brieselang | +1 | — | — | — |
+| Calau | — | ~1 | — | — |
+| Dallgow-Döberitz | — | ~1 | — | — |
+| Eberswalde | — | +2 | — | — |
+| Eisenhüttenstadt | +1 | +2 / ~13 | — | — |
+| Elsterwerda | — | +1 | — | — |
+| Erkner | +2 | — | — | — |
+| Falkensee | +1 | — | — | — |
+| Fredersdorf-Vogelsdorf | — | ~1 | — | — |
+| Friedland | — | ~2 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Glienicke-Nordbahn | +1 | +2 / ~1 | — | — |
+| Groß Kreutz | — | ~28 | — | — |
+| Großräschen | +1 | — | — | — |
+| Hennigsdorf | — | +1 | — | — |
+| Hohen Neuendorf | +1 | +2 | — | — |
+| Kleinmachnow | — | +3 | — | — |
+| Kremmen | — | +2 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | +1 | +1 | — | — |
+| Lübbenau Spreewald | — | +271 / ~13 | — | — |
+| Michendorf | — | ~1 | — | — |
+| Mühlenbecker Land | — | +4 | — | — |
+| Nauen | +2 | — | — | — |
+| Neuenhagen bei Berlin | +1 / -1 | — | — | — |
+| Nuthetal | +1 | +1 | — | — |
+| Oberkrämer | — | +2 / ~1 | — | — |
+| Oderbruch / Amt Seelow-Land | +1 | +7 | — | — |
+| Oderbruch / Amt Seelow-Land / Friedersdorf | — | +6 | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | — | ~5 | — | — |
+| Oranienburg | ~1 | +1 | — | +2 |
+| Premnitz | — | +3 | — | — |
+| Rathenow | — | +1 | — | +1 |
+| Rietz-Neuendorf | — | +1 | ~1 | — |
+| Schönefeld | +1 | ~30 | — | — |
+| Schorfheide | — | +6 | — | — |
+| Seddiner See | +4 | — | — | — |
+| Senftenberg | — | +5 | — | — |
+| Storkow (Mark) | — | +2 | — | — |
+| Strausberg | +5 | — | — | — |
+| Tauche | — | ~1 | — | — |
+| Werder (Havel) | +1 | ~26 | — | — |
+| Werneuchen | +2 | +1 | +1 | +2 |
+| Wiesenburg-Mark | +1 | ~3 | +1 | +2 / ~1 |
+| Zeuthen | +1 | — | — | — |
+
 ## 2026-09-18 08:27
 
 Insgesamt **580 neu**, **267 aktualisiert**, **16 entfernt** in 73 Quellen.

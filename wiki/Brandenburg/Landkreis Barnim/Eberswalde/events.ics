@@ -539,4 +539,19 @@ DTSTART:20260920T140000Z
 SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-3
 END:VEVENT
+BEGIN:VEVENT
+UID:poetry-slam-zwischen-zeilen-und-ziegeln@amtsfeed.de
+DTSTAMP:20260919T080552Z
+DTSTART:20260920T150000Z
+SUMMARY:Poetry Slam „Zwischen Zeilen und Ziegeln“
+URL:https://www.eberswalde.de/termine/poetry-slam-zwischen-zeilen-und-zie
+ geln
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-4@amtsfeed.de
+DTSTAMP:20260919T080552Z
+DTSTART:20260921T140000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-4
+END:VEVENT
 END:VCALENDAR

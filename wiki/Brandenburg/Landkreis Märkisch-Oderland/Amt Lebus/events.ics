@@ -891,11 +891,11 @@ LOCATION:Mallnow
 END:VEVENT
 BEGIN:VEVENT
 UID:2955796@amtsfeed.de
-DTSTAMP:20260918T082321Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
+DTSTAMP:20260919T081201Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
 SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/18/hör-mal-
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/19/hör-mal-
  -reiseperle-lebuser-land.html
 DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
@@ -903,26 +903,6 @@ DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
 LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
   Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
-UID:2464906@amtsfeed.de
-DTSTAMP:20260912T080358Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/09/18/selbstver
- teidigung-für-kinder-von-5-13-jahren.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464907@amtsfeed.de
-DTSTAMP:20260912T080358Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/09/18/selbstver
- teidigung-für-jugendliche-ab-13-jahren.html
-LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2464910@amtsfeed.de
@@ -1100,6 +1080,26 @@ SUMMARY:Tischtennis
 URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/09/24/tischtenn
  is.html
 DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464906@amtsfeed.de
+DTSTAMP:20260919T081201Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/09/25/selbstver
+ teidigung-für-kinder-von-5-13-jahren.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464907@amtsfeed.de
+DTSTAMP:20260919T081201Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/09/25/selbstver
+ teidigung-für-jugendliche-ab-13-jahren.html
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT

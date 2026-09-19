@@ -11468,6 +11468,15 @@ URL:https://www.premnitz.de/veranstaltungen/2872804/2026/10/11/schloss-pa
  retz-königskinder--wie-das-leben-im-schloss-wirklich-war.html
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2970086-20261011@amtsfeed.de
+DTSTAMP:20260919T080817Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Theaterfrühstück
+URL:https://www.premnitz.de/veranstaltungen/2970086/2026/10/11/theaterfr
+ ühstück.html
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2954323-20261012@amtsfeed.de
 DTSTAMP:20260912T080038Z
 DTSTART;VALUE=DATE:20261012
@@ -12088,5 +12097,23 @@ DTEND;VALUE=DATE:20261019
 SUMMARY:Rob Clamp (UK) Folkmusik vom Feinsten (Live!)
 URL:https://www.premnitz.de/veranstaltungen/2852729/2026/10/18/rob-clamp-
  uk-folkmusik-vom-feinsten-live.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2922991-20261019@amtsfeed.de
+DTSTAMP:20260919T080817Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Herbst Reit - Camp
+URL:https://www.premnitz.de/veranstaltungen/2922991/2026/10/19/herbst-rei
+ t-camp.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2954330-20261019@amtsfeed.de
+DTSTAMP:20260919T080817Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Mosaik-Workshop
+URL:https://www.premnitz.de/veranstaltungen/2954330/2026/10/19/mosaik-wor
+ kshop.html
 END:VEVENT
 END:VCALENDAR

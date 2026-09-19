@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:26:31.005Z",
+  "updatedAt": "2026-09-19T08:15:26.993Z",
   "items": [
     {
       "id": "gross-kreutz-event-227",
@@ -242,70 +242,6 @@
       "updatedAt": "2026-09-14T09:09:23.403Z"
     },
     {
-      "id": "gross-kreutz-event-166",
-      "title": "Götzer Musiksommer",
-      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/166-goetzer-musiksommer-2.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
-      "fetchedAt": "2026-05-06T11:35:17.305Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
-    },
-    {
-      "id": "gross-kreutz-event-205",
-      "title": "Radtour Deetz/Groß Kreutz",
-      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/205-radtour-deetz-gross-kreutz/2026-10-11-09-51.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
-      "fetchedAt": "2026-05-06T11:35:17.305Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
-    },
-    {
-      "id": "gross-kreutz-event-206",
-      "title": "Feuer und Flamme/lange Nacht der Museen",
-      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/206-feuer-und-flamme-lange-nacht-der-museen/2026-10-24-09-52.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
-      "fetchedAt": "2026-05-06T11:35:17.305Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
-    },
-    {
-      "id": "gross-kreutz-event-178",
-      "title": "Halloweenfest",
-      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/178-halloweenfest-2.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
-      "fetchedAt": "2026-05-06T11:35:17.305Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
-    },
-    {
-      "id": "gross-kreutz-event-193",
-      "title": "Willkommenstag",
-      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/193-willkommenstag-2.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
-      "fetchedAt": "2026-05-06T11:35:17.305Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
-    },
-    {
-      "id": "gross-kreutz-event-207",
-      "title": "Adventsmarkt",
-      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/207-adventsmarkt-5/2026-11-28-09-53.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
-      "fetchedAt": "2026-05-06T11:35:17.305Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
-    },
-    {
-      "id": "gross-kreutz-event-167",
-      "title": "12. Götzer Hofadvent",
-      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/167-12-goetzer-hofadvent/2026-11-29-09-56.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
-      "fetchedAt": "2026-05-06T11:35:17.305Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
-    },
-    {
-      "id": "gross-kreutz-event-175",
-      "title": "5. Schenkenberger Weihnachtssingen",
-      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/175-5-schenkenberger-weihnachtssingen/2026-12-05-09-21.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
-      "fetchedAt": "2026-05-06T11:35:17.305Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
-    },
-    {
       "id": "gross-kreutz-event-257",
       "title": "All in",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/257-all-in/2026-09-18-19-00.html",
@@ -322,164 +258,228 @@
       "updatedAt": "2026-09-18T08:26:31.004Z"
     },
     {
+      "id": "gross-kreutz-event-166",
+      "title": "Götzer Musiksommer",
+      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/166-goetzer-musiksommer-2.html",
+      "startDate": "2026-09-19T08:15:26.992Z",
+      "fetchedAt": "2026-05-06T11:35:17.305Z",
+      "updatedAt": "2026-09-19T08:15:26.992Z"
+    },
+    {
+      "id": "gross-kreutz-event-205",
+      "title": "Radtour Deetz/Groß Kreutz",
+      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/205-radtour-deetz-gross-kreutz/2026-10-11-09-51.html",
+      "startDate": "2026-09-19T08:15:26.992Z",
+      "fetchedAt": "2026-05-06T11:35:17.305Z",
+      "updatedAt": "2026-09-19T08:15:26.992Z"
+    },
+    {
+      "id": "gross-kreutz-event-206",
+      "title": "Feuer und Flamme/lange Nacht der Museen",
+      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/206-feuer-und-flamme-lange-nacht-der-museen/2026-10-24-09-52.html",
+      "startDate": "2026-09-19T08:15:26.992Z",
+      "fetchedAt": "2026-05-06T11:35:17.305Z",
+      "updatedAt": "2026-09-19T08:15:26.992Z"
+    },
+    {
+      "id": "gross-kreutz-event-178",
+      "title": "Halloweenfest",
+      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/178-halloweenfest-2.html",
+      "startDate": "2026-09-19T08:15:26.992Z",
+      "fetchedAt": "2026-05-06T11:35:17.305Z",
+      "updatedAt": "2026-09-19T08:15:26.992Z"
+    },
+    {
+      "id": "gross-kreutz-event-193",
+      "title": "Willkommenstag",
+      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/193-willkommenstag-2.html",
+      "startDate": "2026-09-19T08:15:26.992Z",
+      "fetchedAt": "2026-05-06T11:35:17.305Z",
+      "updatedAt": "2026-09-19T08:15:26.992Z"
+    },
+    {
+      "id": "gross-kreutz-event-207",
+      "title": "Adventsmarkt",
+      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/207-adventsmarkt-5/2026-11-28-09-53.html",
+      "startDate": "2026-09-19T08:15:26.992Z",
+      "fetchedAt": "2026-05-06T11:35:17.305Z",
+      "updatedAt": "2026-09-19T08:15:26.992Z"
+    },
+    {
+      "id": "gross-kreutz-event-167",
+      "title": "12. Götzer Hofadvent",
+      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/167-12-goetzer-hofadvent/2026-11-29-09-56.html",
+      "startDate": "2026-09-19T08:15:26.992Z",
+      "fetchedAt": "2026-05-06T11:35:17.305Z",
+      "updatedAt": "2026-09-19T08:15:26.992Z"
+    },
+    {
+      "id": "gross-kreutz-event-175",
+      "title": "5. Schenkenberger Weihnachtssingen",
+      "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/175-5-schenkenberger-weihnachtssingen/2026-12-05-09-21.html",
+      "startDate": "2026-09-19T08:15:26.992Z",
+      "fetchedAt": "2026-05-06T11:35:17.305Z",
+      "updatedAt": "2026-09-19T08:15:26.992Z"
+    },
+    {
       "id": "gross-kreutz-event-256",
       "title": "Kinderkirche mit Olli Schalk",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/256-kinderkirche-mit-olli-schalk/2026-09-19-15-30.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-258",
       "title": "Sehe ich mache alles neu",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/258-sehe-ich-mache-alles-neu/2026-09-19-19-00.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-259",
       "title": "Gottesdienst mit Olli Schalk",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/259-gottesdienst-mit-olli-schalk/2026-09-20-10-30.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-265",
       "title": "Word Cleanup Day/Weltputztag - Gemeinsam reinigen am Bahnhof Groß Kreutz",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/265-word-cleanup-day-weltputztag-gemeinsam-reinigen-am-bahnhof-gross-kreutz.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-250",
       "title": "Sommerkino - Open Air Veranstaltung",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/250-sommerkino-open-air-veranstaltung-8.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-255",
       "title": "1. Motorkettensägecup Bochow",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/255-1-motorkettensaegecup-bochow/2026-09-26-14-00.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-262",
       "title": "Party am Tag der deutschen Einheit",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/262-party-am-tag-der-deutschen-einheit.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-266",
       "title": "Mottoparty",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/266-mottoparty-2/2026-11-07-19-30.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-267",
       "title": "Rentnerkarneval",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/267-rentnerkarneval-3/2026-11-21-15-00.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-260",
       "title": "Rentnerweihnachtsfeier",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/260-rentnerweihnachtsfeier-2/2026-11-29-15-00.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-268",
       "title": "Kartenvorverkauf",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/268-kartenvorverkauf/2027-01-08-19-00.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-269",
       "title": "Karnevalsveranstaltung",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/269-karnevalsveranstaltung-2/2027-01-16-19-19.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-270",
       "title": "Kinderkarnevalsveranstaltung",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/270-kinderkarnevalsveranstaltung/2027-01-17-15-00.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-271",
       "title": "2. Karnevalsveranstaltung",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/271-2-karnevalsveranstaltung/2027-01-22-19-19.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-272",
       "title": "3. Karnevalsveranstaltung",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/272-3-karnevalsveranstaltung/2027-01-23-19-19.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-273",
       "title": "4. Karnevalsveranstaltung",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/273-4-karnevalsveranstaltung/2027-02-06-19-19.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-274",
       "title": "After Saison Party",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/274-after-saison-party-2/2027-02-13-19-30.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-11T10:00:08.384Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-275",
       "title": "Tag der offenen Tür",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/275-tag-der-offenen-tuer-4.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-15T08:50:52.323Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-277",
       "title": "Straßenfest und Martinsumzug",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/277-strassenfest-und-martinsumzug.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-15T08:50:52.323Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     },
     {
       "id": "gross-kreutz-event-276",
       "title": "Laternenumzug anlässlich des Martinsfestes",
       "url": "https://www.gross-kreutz.de/gemeinde/aktuelle-veranstaltungen-termine/276-laternenumzug-anlaesslich-des-martinsfestes.html",
-      "startDate": "2026-09-18T08:26:31.004Z",
+      "startDate": "2026-09-19T08:15:26.992Z",
       "fetchedAt": "2026-09-15T08:50:52.323Z",
-      "updatedAt": "2026-09-18T08:26:31.004Z"
+      "updatedAt": "2026-09-19T08:15:26.992Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T08:53:06.878Z",
+  "updatedAt": "2026-09-19T08:14:54.066Z",
   "items": [
     {
       "id": "veranstaltungen-2780360-2026-05-06-kräuterworkshop-grüne-schätze-der-natur--auf-kräutersuche-mit-allen-sinnen.html",
@@ -1556,6 +1556,15 @@
       "updatedAt": "2026-09-11T11:13:08.358Z"
     },
     {
+      "id": "veranstaltungen-2765131-2026-11-14-storkow-leuchtet-laternenumzug-musik-lasershow-u.v.m.html",
+      "title": "\"Storkow leuchtet\" - Laternenumzug, Musik, Lasershow u.v.m.",
+      "url": "https://www.storkow-mark.de/veranstaltungen/2765131/2026/11/14/storkow-leuchtet-laternenumzug-musik-lasershow-u.v.m.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "Stadt Storkow (Mark)",
+      "fetchedAt": "2026-09-19T08:14:54.053Z",
+      "updatedAt": "2026-09-19T08:14:54.053Z"
+    },
+    {
       "id": "veranstaltungen-2340326-2026-11-15-training-der-burgwache-storkow.html",
       "title": "Training der Burgwache Storkow",
       "url": "https://www.storkow-mark.de/veranstaltungen/2340326/2026/11/15/training-der-burgwache-storkow.html",
@@ -2137,6 +2146,15 @@
       "location": "Burg Storkow",
       "fetchedAt": "2026-09-11T09:59:34.037Z",
       "updatedAt": "2026-09-11T11:13:08.358Z"
+    },
+    {
+      "id": "veranstaltungen-2340326-2027-09-19-training-der-burgwache-storkow.html",
+      "title": "Training der Burgwache Storkow",
+      "url": "https://www.storkow-mark.de/veranstaltungen/2340326/2027/09/19/training-der-burgwache-storkow.html",
+      "startDate": "2027-09-19T00:00:00.000Z",
+      "location": "Burg Storkow",
+      "fetchedAt": "2026-09-19T08:14:54.053Z",
+      "updatedAt": "2026-09-19T08:14:54.053Z"
     }
   ]
 }

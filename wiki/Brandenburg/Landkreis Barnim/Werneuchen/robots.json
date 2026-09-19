@@ -2,7 +2,7 @@
   {
     "domain": "www.werneuchen-barnim.de",
     "baseUrl": "https://www.werneuchen-barnim.de",
-    "updatedAt": "2026-09-14T08:59:20.307Z",
+    "updatedAt": "2026-09-19T08:06:00.077Z",
     "content": "User-agent: *\nDisallow: /barrierefreiheit/barriere_melden.html\nDisallow: /portal/kontakt.html\nDisallow: /portal/suche.html\nDisallow: /portal/suche2.html\nDisallow: /portal/weiterempfehlen.html\nDisallow: /allris/___tmp/\nUser-agent: WebCopier\nDisallow: /\nUser-agent: HTTrack*\nDisallow: /"
   }
 ]

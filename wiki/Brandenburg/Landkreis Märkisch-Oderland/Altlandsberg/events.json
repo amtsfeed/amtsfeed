@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:11:24.294Z",
+  "updatedAt": "2026-09-19T08:11:49.192Z",
   "items": [
     {
       "id": "19",
@@ -212,26 +212,6 @@
       "updatedAt": "2026-09-11T11:08:51.245Z"
     },
     {
-      "id": "9",
-      "title": "Nachtwächter-Rundgang",
-      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/nachtwaechter-rundgang-9/",
-      "startDate": "2026-09-18T00:00:00.000Z",
-      "location": "Schlossgut Altlandsberg",
-      "description": "Hört Ihr Leute lasst euch sagen ... unsere Uhr hat grad geschlagen!Mit diesem oder einem ähnlichen Ruf empfängt Sie der Nachtwächter der Stadt Altlandsberg. Gemeinsam werden Sie auf einem Rundgang die historische Stadt erkunden.Sie hören und erleben Geschichten aus dem Leben des Nachtwächters, von der Stadtmauer,...",
-      "fetchedAt": "2026-05-05T15:11:35.844Z",
-      "updatedAt": "2026-09-11T11:08:51.245Z"
-    },
-    {
-      "id": "4",
-      "title": "Freitag 3nach8",
-      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/freitag-3-nach-8-4/",
-      "startDate": "2026-09-18T00:00:00.000Z",
-      "location": "Bürger- und Kreativhaus Bruchmühle",
-      "description": "Freitag 3nach8  - Kabarett mit Lothar Bölck\"Endspiel mit Verlängerung\"; Eintritt 20,00 €",
-      "fetchedAt": "2026-05-05T15:11:36.665Z",
-      "updatedAt": "2026-09-11T11:08:51.245Z"
-    },
-    {
       "id": "literarisch-musikalische-lesung-satierisches",
       "title": "Literarisch-musikalische Lesung: saTIERisches",
       "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/literarisch-musikalische-lesung-satierisches/",
@@ -240,6 +220,16 @@
       "description": "Das Kalliope-Team präsentiert unterhaltsame und amüsante Geschichten und Gedichte von Dichtern und anderen Berühmtheiten und ihren tierischen Lieblingen, die nicht nur in die Literatur eingegangen sind, sondern auch als Skulptur vom Bildhauer Quirin Roth verewigt wurden. Die musikalische Umrahmung der Erzählungen...",
       "fetchedAt": "2026-09-11T10:01:19.694Z",
       "updatedAt": "2026-09-11T11:08:51.245Z"
+    },
+    {
+      "id": "4",
+      "title": "Handpan Schnupper-Workshop",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/handpan-schnupper-workshop-4/",
+      "startDate": "2026-09-19T00:00:00.000Z",
+      "location": "Katja Baumheier",
+      "description": "Handpan entdecken – Klang erleben – selbst ausprobieren!Du hast die faszinierenden Klänge der Handpan gehört und möchtest das Instrument selbst einmal ausprobieren? Dann ist dieser Schnupperworkshop genau das Richtige für dich!In entspannter Atmosphäre bekommst du die Möglichkeit, die Handpan ganz unverbindlich...",
+      "fetchedAt": "2026-05-05T15:11:36.665Z",
+      "updatedAt": "2026-09-19T08:09:46.203Z"
     },
     {
       "id": "3",
@@ -270,6 +260,16 @@
       "description": "Regionale Vielfalt – Genuss im historischen AmbienteDer Frischemarkt auf dem Schlossgut Altlandsberg lädt regelmäßig dazu ein, frische Lebensmittel und besondere Produkte aus der Region zu entdecken. Auf der Schlossterrasse, mit Blick auf das historische Ensemble, präsentieren lokale Erzeugerinnen und Erzeuger...",
       "fetchedAt": "2026-05-05T15:11:38.817Z",
       "updatedAt": "2026-09-11T11:09:37.124Z"
+    },
+    {
+      "id": "chor-kartu-mutternatur",
+      "title": "Chor Kartu \"Mutternatur\"",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/chor-kartu-mutternatur/",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "location": "Schlosskirche Altlandsberg",
+      "description": "Im Klang - Verbunden, Verwoben: So singen die Sängerinnen des Chors \"Kartu\" am 1. Oktober 2026 um 19:30 Uhr ihr Chorkonzert in der Schlosskirche Altlandsberg. Europäische Chormusik erzählt in Klangbildern von der Schönheit und Rauheit der Natur. Eine hohe Emotionalität der Musik steht für eine andere Seite des...",
+      "fetchedAt": "2026-09-19T08:09:59.031Z",
+      "updatedAt": "2026-09-19T08:09:59.031Z"
     },
     {
       "id": "2",
@@ -352,6 +352,16 @@
       "updatedAt": "2026-09-11T11:10:44.744Z"
     },
     {
+      "id": "9",
+      "title": "Handpan Workshop Intensivkurs",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/handpan-workshop-intensivkurs-9/",
+      "startDate": "2026-10-27T00:00:00.000Z",
+      "location": "Katja Baumheier",
+      "description": "Du möchtest Handpan spielen lernen und suchst einen intensiven Einstieg, der dich in kurzer Zeit wirklich weiterbringt? Dann ist dieser 4-tägige Intensivkurs genau das Richtige für dich. In einer kleinen Gruppe tauchen wir gemeinsam in die faszinierende Welt der Handpan ein. Schritt für Schritt lernst du die...",
+      "fetchedAt": "2026-05-05T15:11:35.844Z",
+      "updatedAt": "2026-09-19T08:11:01.532Z"
+    },
+    {
       "id": "11",
       "title": "Handpan Workshop Intensivkurs",
       "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/handpan-workshop-intensivkurs-11/",
@@ -380,6 +390,16 @@
       "description": "Der Vokalchor der TU Berlin präsentiert anspruchsvolle Chorwerke aller Stilrich­tungen und aus allen Epochen.",
       "fetchedAt": "2026-09-11T10:03:23.129Z",
       "updatedAt": "2026-09-11T11:10:56.594Z"
+    },
+    {
+      "id": "wintertheater-theater89-wind-sand-und-sterne-die-wueste-von-antoine-de-saint-exupery",
+      "title": "Wintertheater: theater89 \"Wind, Sand und Sterne - Die Wüste\" von...",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/wintertheater-theater89-wind-sand-und-sterne-die-wueste-von-antoine-de-saint-exupery/",
+      "startDate": "2026-11-21T00:00:00.000Z",
+      "location": "Stadtkirche Altlandsberg",
+      "description": "In WIND, SAND UND STERNE schildert Antoine de Saint-Exupéry (1900-1944) seine Erlebnisse als Postflieger in den 1920er- und 1930er-Jahren auf gefährlichen Flugrouten über Afrika und Südamerika. Er berichtet von riskanten Flügen, technischen Pannen, einer Notlandung in der Sahara und Begegnungen mit Menschen unter...",
+      "fetchedAt": "2026-09-19T08:11:26.668Z",
+      "updatedAt": "2026-09-19T08:11:26.668Z"
     },
     {
       "id": "29",

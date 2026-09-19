@@ -2047,6 +2047,17 @@ URL:https://www.storkow-mark.de/veranstaltungen/2959527/2026/11/14/dreikl
  ang-konzert-in-der-kirche.html
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2765131-2026-11-14-storkow-leuchtet-laternenumzug-mus
+ ik-lasershow-u.v.m.html@amtsfeed.de
+DTSTAMP:20260919T081454Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:"Storkow leuchtet" - Laternenumzug\, Musik\, Lasershow u.v.m.
+URL:https://www.storkow-mark.de/veranstaltungen/2765131/2026/11/14/storko
+ w-leuchtet-laternenumzug-musik-lasershow-u.v.m.html
+LOCATION:Stadt Storkow (Mark)
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2340326-2026-11-15-training-der-burgwache-storkow.htm
  l@amtsfeed.de
 DTSTAMP:20260506T080930Z
@@ -2768,6 +2779,17 @@ DTEND;VALUE=DATE:20270911
 SUMMARY:Uschi Brüning und Stephan König "Herzenslieder"
 URL:https://www.storkow-mark.de/veranstaltungen/2942586/2027/09/10/uschi-
  brüning-und-stephan-könig-herzenslieder.html
+LOCATION:Burg Storkow
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2340326-2027-09-19-training-der-burgwache-storkow.htm
+ l@amtsfeed.de
+DTSTAMP:20260919T081454Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Training der Burgwache Storkow
+URL:https://www.storkow-mark.de/veranstaltungen/2340326/2027/09/19/traini
+ ng-der-burgwache-storkow.html
 LOCATION:Burg Storkow
 END:VEVENT
 END:VCALENDAR

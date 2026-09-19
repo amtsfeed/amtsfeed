@@ -468,8 +468,8 @@ URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de
-DTSTAMP:20260918T082527Z
-DTSTART;VALUE=DATE:20260918
+DTSTAMP:20260919T081415Z
+DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
 SUMMARY:SATAMAs Aufguss-WM 2026
 URL:https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026
@@ -546,6 +546,17 @@ DTEND;VALUE=DATE:20260920
 SUMMARY:OKTOBERFEST „Ennstaler Steirerklang“ im Theater am See
 URL:https://www.scharmuetzelsee.de/event/oktoberfest-ennstaler-steirerkla
  ng-im-theater-am-see
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
+ enkmal-bunkeranlage-fuchsbau@amtsfeed.de
+DTSTAMP:20260919T081415Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
+ nkeranlage Fuchsbau“
+URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
+ nker-im-technischen-denkmal-bunkeranlage-fuchsbau
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-naturpark-hoffest-burg-storkow@amtsfeed.de

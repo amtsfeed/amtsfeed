@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:24:47.384Z",
+  "updatedAt": "2026-09-19T08:13:14.545Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -104,14 +104,6 @@
       "startDate": "2026-09-17T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
-    },
-    {
-      "id": "oberkraemer-event-2855745",
-      "title": "Schach",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855745/2026/09/18/schach.html",
-      "startDate": "2026-09-18T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-12T08:05:36.884Z"
     },
     {
       "id": "oberkraemer-event-2891489",
@@ -240,6 +232,14 @@
       "startDate": "2026-09-24T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-18T08:24:47.401Z"
+    },
+    {
+      "id": "oberkraemer-event-2855745",
+      "title": "Schach",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855745/2026/09/25/schach.html",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-09-19T08:13:14.561Z"
     },
     {
       "id": "oberkraemer-event-2959892",
@@ -808,6 +808,22 @@
       "startDate": "2026-11-18T00:00:00.000Z",
       "fetchedAt": "2026-09-18T08:24:47.401Z",
       "updatedAt": "2026-09-18T08:24:47.401Z"
+    },
+    {
+      "id": "oberkraemer-event-2855882",
+      "title": "Klönkaffee-Nachmittag",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855882/2026/11/19/klönkaffee-nachmittag.html",
+      "startDate": "2026-11-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-19T08:13:14.561Z",
+      "updatedAt": "2026-09-19T08:13:14.561Z"
+    },
+    {
+      "id": "oberkraemer-event-2961770",
+      "title": "Klön-Kaffee-Nachmittag für Jedermann/-frau",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2961770/2026/11/19/klön-kaffee-nachmittag-für-jedermann-frau.html",
+      "startDate": "2026-11-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-19T08:13:14.561Z",
+      "updatedAt": "2026-09-19T08:13:14.561Z"
     }
   ]
 }

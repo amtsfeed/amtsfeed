@@ -316,4 +316,15 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Manege-frei-Zir
  =3590.855.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=27
  13.5&amp\;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-801@amtsfeed.de
+DTSTAMP:20260919T081255Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Friedenskonzert des Kammerchors "Leo Wistuba" e.V.
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Friedenskonzert
+ -des-Kammerchors-Leo-Wistuba-e-V-.php?object=tx\,3590.4.1&amp\;ModID=11&a
+ mp\;FID=3590.801.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;star
+ tkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

@@ -547,11 +547,21 @@ LOCATION:Mensa
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005877@amtsfeed.de
-DTSTAMP:20260911T111154Z
+DTSTAMP:20260919T081243Z
 DTSTART:20260923T120000Z
-SUMMARY:Es rauscht wiie Freiheit - es riecht wie Welt
+SUMMARY:Es rauscht wie Freiheit - es riecht wie Welt
 URL:https://www.glienicke.eu/veranstaltungen/904005877-22451.html
 LOCATION:Seniorenclub\, Märkische Allee 72\, 16548 Glienicke/Nordbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005884@amtsfeed.de
+DTSTAMP:20260919T081243Z
+DTSTART:20260929T120000Z
+DTEND:20260929T160000Z
+SUMMARY:Tag der offenen Tür im Nachbarschaftstreff
+URL:https://www.glienicke.eu/veranstaltungen/904005884-22451.html
+LOCATION:Nachbarschaftstreff Glienicke\, Eichenallee 10\, 16548 Glienicke
+ -Nordbahn
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005870@amtsfeed.de
@@ -590,6 +600,14 @@ DTSTART:20261006T160000Z
 SUMMARY:1. Sitzung der AG Wahl
 URL:https://www.glienicke.eu/veranstaltungen/904005873-22451.html
 LOCATION:Konferenzraum Neues Rathaus
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005885@amtsfeed.de
+DTSTAMP:20260919T081243Z
+DTSTART:20261007T163000Z
+SUMMARY:17. Sitzung des Hauptausschusses (zweite Fortsetzungssitzung)
+URL:https://www.glienicke.eu/veranstaltungen/904005885-22451.html
+LOCATION:Vereinszimmer Dreifeldhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005669@amtsfeed.de

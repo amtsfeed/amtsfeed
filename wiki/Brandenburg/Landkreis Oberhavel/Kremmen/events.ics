@@ -749,6 +749,16 @@ URL:https://www.kremmen.de/veranstaltungen/2911512/2026/09/25/comedian-fi
 LOCATION:Theater "Tiefste Provinz"
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2970001@amtsfeed.de
+DTSTAMP:20260919T081303Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Mario Born Unplugged
+URL:https://www.kremmen.de/veranstaltungen/2970001/2026/09/25/mario-born-
+ unplugged.html
+LOCATION:Sommerfeld
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2954641@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20260926
@@ -807,6 +817,16 @@ SUMMARY:Frischer Leberkäs in warmer Semmel
 URL:https://www.kremmen.de/veranstaltungen/2948322/2026/10/03/frischer-le
  berkäs-in-warmer-semmel.html
 LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2969997@amtsfeed.de
+DTSTAMP:20260919T081303Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Konzert mit Sabine Brand
+URL:https://www.kremmen.de/veranstaltungen/2969997/2026/10/03/konzert-mit
+ -sabine-brand.html
+LOCATION:Sana Kliniken Sommerfeld
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2941607@amtsfeed.de

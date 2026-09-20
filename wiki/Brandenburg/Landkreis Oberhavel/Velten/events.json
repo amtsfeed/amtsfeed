@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T08:51:39.061Z",
+  "updatedAt": "2026-09-20T08:45:19.676Z",
   "items": [
     {
       "id": "velten-event-932",
@@ -667,6 +667,22 @@
       "startDate": "2026-10-10T00:00:00.000Z",
       "fetchedAt": "2026-09-17T08:51:39.069Z",
       "updatedAt": "2026-09-17T08:51:39.069Z"
+    },
+    {
+      "id": "velten-event-973",
+      "title": "Herbstzauber",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Herbstzauber.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.973.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-20T08:45:19.684Z",
+      "updatedAt": "2026-09-20T08:45:19.684Z"
+    },
+    {
+      "id": "velten-event-1079",
+      "title": "Fit am Rathaus: BodyWork - ganzheitliches Fitness Cardio & Kraft (Körperflair)",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am-Rathaus-BodyWork-ganzheitliches-Fitness-Cardio-Kraft-K%C3%B6rperflair-.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1079.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-10-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-20T08:45:19.684Z",
+      "updatedAt": "2026-09-20T08:45:19.684Z"
     }
   ]
 }

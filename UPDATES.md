@@ -1,5 +1,50 @@
 # Updates
 
+## 2026-09-20 08:48
+
+Insgesamt **328 neu**, **149 aktualisiert**, **3 entfernt** in 38 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~1 | — | — |
+| Altlandsberg | — | ~2 | — | — |
+| Amt Beetzsee | — | +1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~3 | — | — |
+| Amt Neuzelle | — | +4 | — | — |
+| Amt Plessa | — | ~1 | — | — |
+| Amt Scharmützelsee | — | -3 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +1 / ~6 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bernau bei Berlin | — | +18 / ~10 | — | — |
+| Brieselang | — | +2 | — | — |
+| Calau | — | ~3 | — | — |
+| Doberlug-Kirchhain | — | +1 | — | — |
+| Eberswalde | — | +6 | — | — |
+| Eisenhüttenstadt | — | +3 / ~1 | — | — |
+| Elsterwerda | — | +1 | — | — |
+| Falkensee | — | +1 | — | — |
+| Friedland | — | ~2 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Fürstenwalde-Spree | — | +1 | — | — |
+| Groß Kreutz | — | ~25 | — | — |
+| Hennigsdorf | — | +1 | — | — |
+| Hohen Neuendorf | — | +6 | — | — |
+| Kleinmachnow | — | +3 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +5 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +3 | — | — |
+| Löwenberger Land | — | +1 | — | — |
+| Lübbenau Spreewald | — | +253 / ~20 | — | — |
+| Mühlenbecker Land | — | +4 | — | — |
+| Oberkrämer | — | +1 | — | — |
+| Oranienburg | — | +3 | — | — |
+| Premnitz | — | +3 | — | — |
+| Rietz-Neuendorf | — | — | ~2 | — |
+| Schönefeld | ~1 | ~30 | — | — |
+| Senftenberg | — | +4 | — | — |
+| Velten | — | +2 | — | — |
+| Werder (Havel) | — | ~10 | — | — |
+
 ## 2026-09-19 08:16
 
 Insgesamt **390 neu**, **177 aktualisiert**, **1 entfernt** in 56 Quellen.

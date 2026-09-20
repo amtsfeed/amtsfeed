@@ -761,15 +761,6 @@ URL:https://www.calau.de/veranstaltungen/2952350/2026/09/18/info-veransta
  ltung-des-weissen-ring-e.v.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20260918T082507Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:19.09.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
-URL:https://www.calau.de/veranstaltungen/2864723/2026/09/19/flugshow-auf-
- dem-adler-und-jagdfalkenhof-werchow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2838393@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART;VALUE=DATE:20260919
@@ -786,6 +777,15 @@ DTEND;VALUE=DATE:20260920
 SUMMARY:19.09.2026   Kochzauber für Kids / Alles rund um die Kartoffel
 URL:https://www.calau.de/veranstaltungen/2964647/2026/09/19/kochzauber-f
  ür-kids-alles-rund-um-die-kartoffel.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2864723@amtsfeed.de
+DTSTAMP:20260920T084532Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:20.09.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+URL:https://www.calau.de/veranstaltungen/2864723/2026/09/20/flugshow-auf-
+ dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2964652@amtsfeed.de
@@ -807,19 +807,19 @@ URL:https://www.calau.de/veranstaltungen/2290342/2026/09/22/calauer-woche
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2947233@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260920T084532Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:Tanz Dich Frei
+SUMMARY:22.09.2026   Tanz Dich Frei
 URL:https://www.calau.de/veranstaltungen/2947233/2026/09/22/tanz-dich-fre
  i.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20260917T085201Z
+DTSTAMP:20260920T084532Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:Calauer Museen öffnen
+SUMMARY:23.09.2026   Calauer Museen öffnen
 URL:https://www.calau.de/veranstaltungen/2315266/2026/09/23/calauer-musee
  n-öffnen.html
 END:VEVENT

@@ -603,4 +603,32 @@ URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
 DESCRIPTION:Die dritte Ausgabe des Nymphensee-Triathlons findet am Sonnta
  g\, 20. Juni 2027\, statt.
 END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Fete-de-la-Musique-am-Nymphensee-2-20270621@amtsfeed
+ .de
+DTSTAMP:20260920T083959Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Fête de la Musique am Nymphensee
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Fete-de-la-Musique-am-Nymphensee-2.html?
+DESCRIPTION:Am Nymphensee: Wie jedes Jahr findet am 21. Juni die Fête de
+  la Musique statt\, diesmal ein Montag.
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Drachenboot-Schueler-Cup-am-25-Juni-Drachenboot-Cup-
+ 2027-am-26-Juni-20270625@amtsfeed.de
+DTSTAMP:20260920T083959Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270627
+SUMMARY:Drachenboot-Schüler-Cup am 25. Juni - Drachenboot-Cup 2027 am 26
+ . Juni
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Drachenboot-Schueler-Cup-am-25-Juni-Drachenboot-Cup-2027-am-26
+ -Juni.html?
+DESCRIPTION:Paddelfans können sich bereits zwei Termine für den kommend
+ en Sommer vormerken: Der 4. Brieselanger Drachenboot-Cup findet am Samsta
+ g\, 26. Juni 2027\, statt. Bereits am Vortag\, Freitag\, 25. Juni\, soll 
+ erneut der Brieselanger Drachenboot-Schüler-Cup ausgetragen werden.
+END:VEVENT
 END:VCALENDAR

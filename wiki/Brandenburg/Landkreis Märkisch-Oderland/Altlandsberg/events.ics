@@ -328,35 +328,6 @@ DESCRIPTION:Das Kalliope-Team präsentiert unterhaltsame und amüsante Ge
 LOCATION:Stadtkirche Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
-UID:4@amtsfeed.de
-DTSTAMP:20260919T080946Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Handpan Schnupper-Workshop
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/handpan-schnupper-workshop-4/
-DESCRIPTION:Handpan entdecken – Klang erleben – selbst ausprobieren!D
- u hast die faszinierenden Klänge der Handpan gehört und möchtest das I
- nstrument selbst einmal ausprobieren? Dann ist dieser Schnupperworkshop g
- enau das Richtige für dich!In entspannter Atmosphäre bekommst du die M
- öglichkeit\, die Handpan ganz unverbindlich...
-LOCATION:Katja Baumheier
-END:VEVENT
-BEGIN:VEVENT
-UID:3@amtsfeed.de
-DTSTAMP:20260911T110919Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Tag der offenen Tür
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/tag-der-offenen-tuer-3/
-DESCRIPTION:Der Jugend- und Kulturverein Bruchmühle als Träger des Haus
- es öffnet die Türen und lädt ein zum Kennlernen und Mitmachen!Fahrradp
- arcours und Trampolin für Kinder\, Kaffee und Kuchen\, kreatives Gestalt
- en (Wandersteine) u.v.m.
-LOCATION:Bürger- und Kreativhaus Bruchmühle
-END:VEVENT
-BEGIN:VEVENT
 UID:1@amtsfeed.de
 DTSTAMP:20260911T110919Z
 DTSTART;VALUE=DATE:20260925
@@ -417,6 +388,21 @@ DESCRIPTION:Oktoberfest im beheizten Partyzelt an der Feuerwehr Bruchmüh
 LOCATION:Bürger- und Kreativhaus Bruchmühle
 END:VEVENT
 BEGIN:VEVENT
+UID:4@amtsfeed.de
+DTSTAMP:20260920T084211Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Handpan Workshop Intensivkurs
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/handpan-workshop-intensivkurs-4/
+DESCRIPTION:Du möchtest Handpan spielen lernen und suchst einen intensiv
+ en Einstieg\, der dich in kurzer Zeit wirklich weiterbringt? Dann ist die
+ ser 4-tägige Intensivkurs genau das Richtige für dich. In einer kleinen
+  Gruppe tauchen wir gemeinsam in die faszinierende Welt der Handpan ein. 
+ Schritt für Schritt lernst du die...
+LOCATION:Katja Baumheier
+END:VEVENT
+BEGIN:VEVENT
 UID:5@amtsfeed.de
 DTSTAMP:20260911T110937Z
 DTSTART;VALUE=DATE:20261006
@@ -473,6 +459,23 @@ DESCRIPTION:"Orgel meets Jazz" - Ein Programm mit einem ersten "klassisch
  en" Soloteil an der Orgel und einem anschließenden melodisch-swingigen T
  eil mit dem Jazz-Trio am Piano.
 LOCATION:Stadtkirche Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:3@amtsfeed.de
+DTSTAMP:20260920T084217Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Workshop: "Faszination Aquarell" - ein Spiel von Flächen\, Linie
+ n...
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/workshop-faszination-aquarell-ein-spiel-von-flaechen-linien-und-farbe
+ n-mit-frank-toussaint-3/
+DESCRIPTION:Im Gewölbekeller des Schlossgut Altlandsberg findet ein krea
+ tiver Aquarellworkshop mit Künstler Frank Toussaint statt. In entspannte
+ r Atmosphäre besteht die Möglichkeit\, unter professioneller Anleitung 
+ die eigene Aquarelltechnik weiterzuentwickeln und neue gestalterische Imp
+ ulse zu gewinnen. Der Workshop richtet...
+LOCATION:Schlossgut Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
 UID:10@amtsfeed.de

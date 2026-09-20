@@ -762,19 +762,6 @@ LOCATION:den Pop-Olymp und war der Grundstein einer einzigartigen\,  bis
  zu werden
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20260919T081435Z
-DTSTART:20260919T081435Z
-SUMMARY:Veranstaltungen
-URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1
-END:VEVENT
-BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1915-1@amtsfeed.de
 DTSTAMP:20260919T081435Z
 DTSTART;VALUE=DATE:20260920
@@ -802,6 +789,19 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem
  -Raddampfer-Alexander-.php?ModID=11&amp\;FID=2852.1935.1
 LOCATION:einzigartiger Kulisse.  Anlegestelle
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
+DTSTAMP:20260920T084624Z
+DTSTART:20260920T084624Z
+SUMMARY:Veranstaltungen
+URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1936-1@amtsfeed.de
@@ -1031,5 +1031,39 @@ LOCATION:den Titeln "Respect" und "Think"\, aber auch sanft und berühren
   Soulstimme\, die 5 Oktaven umfasst und von tiefer Charakterstärke ausge
  zeichnet ist\, hinterlässt weit mehr als ihre 18 Grammy-Auszeichnungen. 
  Sie ist und bleibt eine der meistverkauften Künstler
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1740-1@amtsfeed.de
+DTSTAMP:20260920T084624Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Öffentliche Stadtführung "Planstadt Eisenhüttenstadt"
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/%C3%96ffentliche-Stadt
+ f%C3%BChrung-Planstadt-Eisenh%C3%BCttenstadt-.php?ModID=11&amp\;FID=2852.
+ 1740.1
+LOCATION:Tourismusinformation
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1762-1@amtsfeed.de
+DTSTAMP:20260920T084624Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Lost Places Führung durch das DDR-Hotel LUNIK
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Lost-Places-F%C3%BChru
+ ng-durch-das-DDR-Hotel-LUNIK.php?ModID=11&amp\;FID=2852.1762.1
+LOCATION:Tourismusinformation
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1961-1@amtsfeed.de
+DTSTAMP:20260920T084624Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:New Way to Escape
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/New-Way-to-Escape.php?
+ ModID=11&amp\;FID=2852.1961.1
+LOCATION:Club Marchwitza
 END:VEVENT
 END:VCALENDAR

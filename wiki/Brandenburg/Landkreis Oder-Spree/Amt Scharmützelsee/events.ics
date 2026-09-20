@@ -7,34 +7,6 @@ X-WR-CALNAME:Amt Scharmützelsee
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Scharmützelsee
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2952657-2026-09-19-drachenfest-in-neu-golm@amtsfeed.de
-DTSTAMP:20260911T111247Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Drachenfest in Neu Golm
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2952657/2026/09/19
- /drachenfest-in-neu-golm.html
-LOCATION:Festwiese Neu Golm
-END:VEVENT
-BEGIN:VEVENT
-UID:2948563-2026-09-19-klavierkonzert-mit-vladimir-valdivia@amtsfeed.de
-DTSTAMP:20260911T111247Z
-DTSTART:20260919T180000Z
-SUMMARY:Klavierkonzert mit Vladimir Valdivia
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2948563/2026/09/19
- /klavierkonzert-mit-vladimir-valdivia.html
-LOCATION:Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:2835533-2026-09-19-oktoberfest-mit-ennstaler-steirerklang@amtsfeed.de
-DTSTAMP:20260506T053110Z
-DTSTART:20260919T190000Z
-SUMMARY:OKTOBERFEST mit &bdquo\;Ennstaler Steirerklang&ldquo\;
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2835533/2026/09/19
- /oktoberfest-mit-ennstaler-steirerklang.html
-LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:2853538-2026-09-20-sonntagsbrunch@amtsfeed.de
 DTSTAMP:20260506T053110Z
 DTSTART:20260920T100000Z

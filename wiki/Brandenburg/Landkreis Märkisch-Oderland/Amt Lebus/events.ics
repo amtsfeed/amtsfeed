@@ -890,33 +890,6 @@ DESCRIPTION:Liebe Mallnower\,  in diesem Jahr kommen wir wieder mit den
 LOCATION:Mallnow
 END:VEVENT
 BEGIN:VEVENT
-UID:2955796@amtsfeed.de
-DTSTAMP:20260919T081201Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/19/hör-mal-
- -reiseperle-lebuser-land.html
-DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
- uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
- wir Kinder und Jugendliche ab 10 Jahren\, die Lust haben\, ihren Ort mitz
- ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
-LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
-  Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
-UID:2464910@amtsfeed.de
-DTSTAMP:20260913T082657Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Bäckerwagen in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/09/19/bäckerwa
- gen-in-podelzig.html
-DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
-  Dorfteich
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2873353@amtsfeed.de
 DTSTAMP:20260911T111132Z
 DTSTART;VALUE=DATE:20260919
@@ -951,15 +924,19 @@ DESCRIPTION:Anmeldungen unter Tel. 0173 174 61 85
 LOCATION:Trepliner See
 END:VEVENT
 BEGIN:VEVENT
-UID:2928789@amtsfeed.de
-DTSTAMP:20260911T111132Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:YouthBase - Dein Treff.Deine Zeit.
-URL:https://www.amt-lebus.de/veranstaltungen/2928789/2026/09/19/youthbase
- -dein-treff.deine-zeit.html
-DESCRIPTION:Offener Jugendtreff Für Teens von 12 - 17 Jahren
-LOCATION:Sportplatz Lebus
+UID:2955796@amtsfeed.de
+DTSTAMP:20260920T084350Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/20/hör-mal-
+ -reiseperle-lebuser-land.html
+DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
+ uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
+ wir Kinder und Jugendliche ab 10 Jahren\, die Lust haben\, ihren Ort mitz
+ ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
+LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
+  Schönfließ\, Treplin\, Döbberin\, Petershagen\,
 END:VEVENT
 BEGIN:VEVENT
 UID:2958664@amtsfeed.de
@@ -1103,6 +1080,18 @@ URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/09/25/selbstver
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
+UID:2464910@amtsfeed.de
+DTSTAMP:20260920T084350Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Bäckerwagen in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/09/26/bäckerwa
+ gen-in-podelzig.html
+DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
+  Dorfteich
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2964763@amtsfeed.de
 DTSTAMP:20260911T111132Z
 DTSTART;VALUE=DATE:20260927
@@ -1111,6 +1100,17 @@ SUMMARY:1. Chortreffen der Döbberiner Sänger Einhundertzehn
 URL:https://www.amt-lebus.de/veranstaltungen/2964763/2026/09/27/1.-chortr
  effen-der-döbberiner-sänger-einhundertzehn.html
 LOCATION:Döbberin
+END:VEVENT
+BEGIN:VEVENT
+UID:2928789@amtsfeed.de
+DTSTAMP:20260920T084350Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:YouthBase - Dein Treff.Deine Zeit.
+URL:https://www.amt-lebus.de/veranstaltungen/2928789/2026/10/03/youthbase
+ -dein-treff.deine-zeit.html
+DESCRIPTION:Offener Jugendtreff Für Teens von 12 - 17 Jahren
+LOCATION:Sportplatz Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2861689@amtsfeed.de

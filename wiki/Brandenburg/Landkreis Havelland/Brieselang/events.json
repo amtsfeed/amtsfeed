@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T09:01:14.411Z",
+  "updatedAt": "2026-09-20T08:39:59.793Z",
   "items": [
     {
       "id": "brieselang-event-Flohmarkt-Rilkestrasse-20260531",
@@ -413,6 +413,25 @@
       "description": "Die dritte Ausgabe des Nymphensee-Triathlons findet am Sonntag, 20. Juni 2027, statt.",
       "fetchedAt": "2026-09-14T09:01:14.421Z",
       "updatedAt": "2026-09-14T09:01:14.421Z"
+    },
+    {
+      "id": "brieselang-event-Fete-de-la-Musique-am-Nymphensee-2-20270621",
+      "title": "Fête de la Musique am Nymphensee",
+      "url": "https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veranstaltungen/Fete-de-la-Musique-am-Nymphensee-2.html?",
+      "startDate": "2027-06-21T00:00:00.000Z",
+      "description": "Am Nymphensee: Wie jedes Jahr findet am 21. Juni die Fête de la Musique statt, diesmal ein Montag.",
+      "fetchedAt": "2026-09-20T08:39:59.802Z",
+      "updatedAt": "2026-09-20T08:39:59.802Z"
+    },
+    {
+      "id": "brieselang-event-Drachenboot-Schueler-Cup-am-25-Juni-Drachenboot-Cup-2027-am-26-Juni-20270625",
+      "title": "Drachenboot-Schüler-Cup am 25. Juni - Drachenboot-Cup 2027 am 26. Juni",
+      "url": "https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veranstaltungen/Drachenboot-Schueler-Cup-am-25-Juni-Drachenboot-Cup-2027-am-26-Juni.html?",
+      "startDate": "2027-06-25T00:00:00.000Z",
+      "endDate": "2027-06-26T00:00:00.000Z",
+      "description": "Paddelfans können sich bereits zwei Termine für den kommenden Sommer vormerken: Der 4. Brieselanger Drachenboot-Cup findet am Samstag, 26. Juni 2027, statt. Bereits am Vortag, Freitag, 25. Juni, soll erneut der Brieselanger Drachenboot-Schüler-Cup ausgetragen werden.",
+      "fetchedAt": "2026-09-20T08:39:59.802Z",
+      "updatedAt": "2026-09-20T08:39:59.802Z"
     }
   ]
 }

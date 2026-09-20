@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T08:13:11.716Z",
+  "updatedAt": "2026-09-20T08:45:10.978Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -2668,6 +2668,42 @@
       "location": "Mühlentreff, Hauptstraße 7, OT Mühlenbeck",
       "fetchedAt": "2026-09-19T08:13:11.716Z",
       "updatedAt": "2026-09-19T08:13:11.716Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798651",
+      "title": "Sitzgymnastik mit anschließender Kaffeerunde",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798651",
+      "startDate": "2026-10-08T15:00:00.000Z",
+      "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
+      "fetchedAt": "2026-09-20T08:45:10.978Z",
+      "updatedAt": "2026-09-20T08:45:10.978Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58799171",
+      "title": "Kurs: Tanzgruppe",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58799171",
+      "startDate": "2026-10-09T09:30:00.000Z",
+      "location": "Bürgersaal, Franz-Schmidt-Str. 3, OT Schildow",
+      "fetchedAt": "2026-09-20T08:45:10.978Z",
+      "updatedAt": "2026-09-20T08:45:10.978Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58770343",
+      "title": "Seniorentreff im Mühlenbecker Wohnzimer",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58770343",
+      "startDate": "2026-10-09T10:00:00.000Z",
+      "location": "Historische Mönchmühle, \"Mühlenbecker Wohnzimmer\"; Mönchmühlenallee 3; 16567 Mühlenbeck",
+      "fetchedAt": "2026-09-20T08:45:10.978Z",
+      "updatedAt": "2026-09-20T08:45:10.978Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798906",
+      "title": "Volkssolidarität: Brett- und Kartenspiele",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798906",
+      "startDate": "2026-10-09T14:00:00.000Z",
+      "location": "Schmalfusstr. 6, OT Schildow",
+      "fetchedAt": "2026-09-20T08:45:10.978Z",
+      "updatedAt": "2026-09-20T08:45:10.978Z"
     }
   ]
 }

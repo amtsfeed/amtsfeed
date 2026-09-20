@@ -965,4 +965,11 @@ DTEND;VALUE=DATE:20261224
 SUMMARY:Weihnachtssingen
 URL:https://www.elsterwerda.de/veranstaltung/weihnachtssingen/
 END:VEVENT
+BEGIN:VEVENT
+UID:23829@amtsfeed.de
+DTSTAMP:20260920T083929Z
+DTSTART:20261224T100000Z
+SUMMARY:„Der Weihnachtsmann kommt"
+URL:https://www.elsterwerda.de/veranstaltung/der-weihnachtsmann-kommt/
+END:VEVENT
 END:VCALENDAR

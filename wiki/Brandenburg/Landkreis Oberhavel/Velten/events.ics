@@ -857,4 +857,26 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Stadtr
  &amp\;ModID=11&amp\;FID=3631.1119.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;
  sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-973@amtsfeed.de
+DTSTAMP:20260920T084519Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Herbstzauber
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Herbst
+ zauber.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.973.1&amp\;Nav
+ ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1079@amtsfeed.de
+DTSTAMP:20260920T084519Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Fit am Rathaus: BodyWork - ganzheitliches Fitness Cardio & Kraft 
+ (Körperflair)
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am
+ -Rathaus-BodyWork-ganzheitliches-Fitness-Cardio-Kraft-K%C3%B6rperflair-.p
+ hp?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1079.1&amp\;NavID=3631
+ .15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
 END:VCALENDAR

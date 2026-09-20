@@ -268,15 +268,6 @@ URL:https://www.scharmuetzelsee.de/event/lieder-der-romantik-klavierabend
  -mit-regina-chernychko-in-kooperation-mit-der-juedischen-gemeinde-kw
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
-DTSTAMP:20260913T082923Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:Ortsführung durch den Kurort Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-flammender-scharmuetzelsee-2026@amtsfeed.de
 DTSTAMP:20260913T082923Z
 DTSTART;VALUE=DATE:20260913
@@ -467,57 +458,12 @@ URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
  d-saarow
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de
-DTSTAMP:20260919T081415Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-SUMMARY:SATAMAs Aufguss-WM 2026
-URL:https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
-DTSTAMP:20260918T082527Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Linienfahrten Hauptsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
- ch
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20260918T082527Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-drachenfest-neu-golm@amtsfeed.de
 DTSTAMP:20260911T111244Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Drachenfest Neu Golm
 URL:https://www.scharmuetzelsee.de/event/drachenfest-neu-golm
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-deutsche-meisterschaft-im-kutterrudern@amtsfeed.de
-DTSTAMP:20260911T111244Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-SUMMARY:Deutsche Meisterschaft im Kutterrudern
-URL:https://www.scharmuetzelsee.de/event/deutsche-meisterschaft-im-kutter
- rudern
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-weltkindertagswochenende-im-irrlandia@amtsfeed.de
-DTSTAMP:20260914T090758Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-SUMMARY:Weltkindertagswochenende im IRRLANDIA
-URL:https://www.scharmuetzelsee.de/event/weltkindertagswochenende-im-irrl
- andia
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-oktoberfest-im-aldo@amtsfeed.de
@@ -559,12 +505,74 @@ URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
  nker-im-technischen-denkmal-bunkeranlage-fuchsbau
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
+DTSTAMP:20260920T084602Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Ortsführung durch den Kurort Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de
+DTSTAMP:20260920T084602Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:SATAMAs Aufguss-WM 2026
+URL:https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
+DTSTAMP:20260920T084602Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Linienfahrten Hauptsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
+ ch
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20260920T084602Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-deutsche-meisterschaft-im-kutterrudern@amtsfeed.de
+DTSTAMP:20260920T084602Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Deutsche Meisterschaft im Kutterrudern
+URL:https://www.scharmuetzelsee.de/event/deutsche-meisterschaft-im-kutter
+ rudern
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-weltkindertagswochenende-im-irrlandia@amtsfeed.de
+DTSTAMP:20260920T084602Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Weltkindertagswochenende im IRRLANDIA
+URL:https://www.scharmuetzelsee.de/event/weltkindertagswochenende-im-irrl
+ andia
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-naturpark-hoffest-burg-storkow@amtsfeed.de
 DTSTAMP:20260505T155040Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Naturpark Hoffest Burg Storkow
 URL:https://www.scharmuetzelsee.de/event/naturpark-hoffest-burg-storkow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sonntagsbrunch@amtsfeed.de
+DTSTAMP:20260920T084602Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Sonntagsbrunch
+URL:https://www.scharmuetzelsee.de/event/sonntagsbrunch
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-al

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T08:14:15.335Z",
+  "updatedAt": "2026-09-20T08:46:02.401Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -229,14 +229,6 @@
       "updatedAt": "2026-09-12T08:06:34.399Z"
     },
     {
-      "id": "scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow",
-      "title": "Ortsführung durch den Kurort Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-bad-saarow",
-      "startDate": "2026-09-13T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T13:16:12.297Z",
-      "updatedAt": "2026-09-13T08:29:23.977Z"
-    },
-    {
       "id": "scharmuetzelsee-flammender-scharmuetzelsee-2026",
       "title": "Flammender Scharmützelsee 2026",
       "url": "https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee-2026",
@@ -405,55 +397,12 @@
       "updatedAt": "2026-09-18T08:25:27.399Z"
     },
     {
-      "id": "scharmuetzelsee-satamas-aufguss-wm-2026",
-      "title": "SATAMAs Aufguss-WM 2026",
-      "url": "https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026",
-      "startDate": "2026-09-19T00:00:00.000Z",
-      "endDate": "2026-09-20T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-19T08:14:15.333Z"
-    },
-    {
-      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
-      "title": "Linienfahrten Hauptsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
-      "startDate": "2026-09-19T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-09-18T08:25:27.399Z"
-    },
-    {
-      "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
-      "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "startDate": "2026-09-19T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-18T08:25:27.399Z"
-    },
-    {
       "id": "scharmuetzelsee-drachenfest-neu-golm",
       "title": "Drachenfest Neu Golm",
       "url": "https://www.scharmuetzelsee.de/event/drachenfest-neu-golm",
       "startDate": "2026-09-19T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:59:03.401Z",
       "updatedAt": "2026-09-11T11:12:44.108Z"
-    },
-    {
-      "id": "scharmuetzelsee-deutsche-meisterschaft-im-kutterrudern",
-      "title": "Deutsche Meisterschaft im Kutterrudern",
-      "url": "https://www.scharmuetzelsee.de/event/deutsche-meisterschaft-im-kutterrudern",
-      "startDate": "2026-09-19T00:00:00.000Z",
-      "endDate": "2026-09-20T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-11T11:12:44.108Z"
-    },
-    {
-      "id": "scharmuetzelsee-weltkindertagswochenende-im-irrlandia",
-      "title": "Weltkindertagswochenende im IRRLANDIA",
-      "url": "https://www.scharmuetzelsee.de/event/weltkindertagswochenende-im-irrlandia",
-      "startDate": "2026-09-19T00:00:00.000Z",
-      "endDate": "2026-09-20T00:00:00.000Z",
-      "fetchedAt": "2026-09-14T09:07:58.489Z",
-      "updatedAt": "2026-09-14T09:07:58.489Z"
     },
     {
       "id": "scharmuetzelsee-oktoberfest-im-aldo",
@@ -488,12 +437,68 @@
       "updatedAt": "2026-09-19T08:14:15.333Z"
     },
     {
+      "id": "scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow",
+      "title": "Ortsführung durch den Kurort Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-bad-saarow",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:12.297Z",
+      "updatedAt": "2026-09-20T08:46:02.399Z"
+    },
+    {
+      "id": "scharmuetzelsee-satamas-aufguss-wm-2026",
+      "title": "SATAMAs Aufguss-WM 2026",
+      "url": "https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-20T08:46:02.399Z"
+    },
+    {
+      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
+      "title": "Linienfahrten Hauptsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-09-20T08:46:02.399Z"
+    },
+    {
+      "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
+      "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-20T08:46:02.399Z"
+    },
+    {
+      "id": "scharmuetzelsee-deutsche-meisterschaft-im-kutterrudern",
+      "title": "Deutsche Meisterschaft im Kutterrudern",
+      "url": "https://www.scharmuetzelsee.de/event/deutsche-meisterschaft-im-kutterrudern",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-20T08:46:02.399Z"
+    },
+    {
+      "id": "scharmuetzelsee-weltkindertagswochenende-im-irrlandia",
+      "title": "Weltkindertagswochenende im IRRLANDIA",
+      "url": "https://www.scharmuetzelsee.de/event/weltkindertagswochenende-im-irrlandia",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-14T09:07:58.489Z",
+      "updatedAt": "2026-09-20T08:46:02.399Z"
+    },
+    {
       "id": "scharmuetzelsee-naturpark-hoffest-burg-storkow",
       "title": "Naturpark Hoffest Burg Storkow",
       "url": "https://www.scharmuetzelsee.de/event/naturpark-hoffest-burg-storkow",
       "startDate": "2026-09-20T00:00:00.000Z",
       "fetchedAt": "2026-05-05T15:50:40.941Z",
       "updatedAt": "2026-05-05T15:50:40.941Z"
+    },
+    {
+      "id": "scharmuetzelsee-sonntagsbrunch",
+      "title": "Sonntagsbrunch",
+      "url": "https://www.scharmuetzelsee.de/event/sonntagsbrunch",
+      "startDate": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-20T08:46:02.399Z",
+      "updatedAt": "2026-09-20T08:46:02.399Z"
     },
     {
       "id": "scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-almuth-lohmann-zell",

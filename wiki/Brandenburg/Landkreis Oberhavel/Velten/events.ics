@@ -879,4 +879,35 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Fit-am
  hp?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1079.1&amp\;NavID=3631
  .15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1176@amtsfeed.de
+DTSTAMP:20260921T090651Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Kürbisfest
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/K%C3%B
+ Crbisfest.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1176.1&amp\
+ ;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1168@amtsfeed.de
+DTSTAMP:20260921T090651Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Bürgerhaushalt 2025: Musikalische Früherziehung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/B%C3%B
+ Crgerhaushalt-2025-Musikalische-Fr%C3%BCherziehung.php?object=tx\,3631.4.
+ 1&amp\;ModID=11&amp\;FID=3631.1168.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\
+ ;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1026@amtsfeed.de
+DTSTAMP:20260921T090651Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1026.1&amp\;Nav
+ ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
 END:VCALENDAR

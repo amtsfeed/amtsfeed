@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:46:24.788Z",
+  "updatedAt": "2026-09-21T09:07:44.449Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -603,9 +603,9 @@
       "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
       "title": "Veranstaltungen",
       "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-09-20T08:46:24.780Z",
+      "startDate": "2026-09-21T09:07:44.439Z",
       "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-09-20T08:46:24.780Z"
+      "updatedAt": "2026-09-21T09:07:44.439Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1936-1",
@@ -809,9 +809,25 @@
       "title": "New Way to Escape",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/New-Way-to-Escape.php?ModID=11&amp;FID=2852.1961.1",
       "startDate": "2026-10-10T00:00:00.000Z",
-      "location": "Club Marchwitza",
+      "location": "einem Lexikon Indie Rock nach, könnte dort als Beispiel gut und gern ein Bild von new way to escape die Seite zieren. 5 junge Erwachsene aus Eisenhüttenstadt machen, worauf sie Bock haben",
       "fetchedAt": "2026-09-20T08:46:24.780Z",
-      "updatedAt": "2026-09-20T08:46:24.780Z"
+      "updatedAt": "2026-09-21T09:07:44.439Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1714-1",
+      "title": "Herbstkonzert",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstkonzert.php?ModID=11&amp;FID=2852.1714.1",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:07:44.439Z",
+      "updatedAt": "2026-09-21T09:07:44.439Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1888-1",
+      "title": "Deutschrock Heroes mit Mazze Wiesner & Band",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Deutschrock-Heroes-mit-Mazze-Wiesner-Band.php?ModID=11&amp;FID=2852.1888.1",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:07:44.439Z",
+      "updatedAt": "2026-09-21T09:07:44.439Z"
     }
   ]
 }

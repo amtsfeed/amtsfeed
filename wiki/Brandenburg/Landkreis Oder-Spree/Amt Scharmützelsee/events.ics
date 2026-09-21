@@ -7,16 +7,6 @@ X-WR-CALNAME:Amt Scharmützelsee
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Scharmützelsee
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2853538-2026-09-20-sonntagsbrunch@amtsfeed.de
-DTSTAMP:20260506T053110Z
-DTSTART:20260920T100000Z
-SUMMARY:Sonntagsbrunch
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2853538/2026/09/20
- /sonntagsbrunch.html
-LOCATION:Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saaro
- w
-END:VEVENT
-BEGIN:VEVENT
 UID:2816070-2026-09-21-roland-jankowsky-lesung-wenn-overbeck-wiederkommt@
  amtsfeed.de
 DTSTAMP:20260506T053110Z
@@ -225,6 +215,17 @@ URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2964845/2026/10/22
  /lesekreis-bibo-wendisch-rietz.html
 LOCATION:Bibliothek · Haus des Gastes · Kleine Promenade 1 · 15864 Wen
  disch Rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:2970522-2026-10-22-ein-abend-mit-eberhard-geiger-eterna-amiga@amtsfee
+ d.de
+DTSTAMP:20260921T090735Z
+DTSTART:20261022T190000Z
+SUMMARY:Ein Abend mit Eberhard Geiger: ETERNA & AMIGA
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2970522/2026/10/22
+ /ein-abend-mit-eberhard-geiger-eterna-amiga.html
+LOCATION:Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saar
+ ow
 END:VEVENT
 BEGIN:VEVENT
 UID:2969681-2026-10-24-ein-gutes-tier-ist-das-klavier@amtsfeed.de

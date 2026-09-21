@@ -1,5 +1,64 @@
 # Updates
 
+## 2026-09-21 09:09
+
+Insgesamt **388 neu**, **561 aktualisiert**, **2 entfernt** in 52 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Amt Brieskow-Finkenheerd | — | +1 | — | ~6 |
+| Amt Friesack | ~1 | — | +1 | — |
+| Amt Lebus | — | ~1 | — | — |
+| Amt Niemegk | — | +1 | — | — |
+| Amt Plessa | — | +2 / ~1 | — | — |
+| Amt Scharmützelsee | — | +1 / -1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +1 / ~6 | — | — |
+| Amt Schlieben | — | — | — | +1 |
+| Amt Spreenhagen | — | +1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Belzig | — | +1 | — | — |
+| Bernau bei Berlin | — | +7 / ~7 | — | ~1 |
+| Calau | — | ~2 | — | — |
+| Eberswalde | +2 | +3 | — | — |
+| Eisenhüttenstadt | ~3 | +2 / ~2 | — | — |
+| Elsterwerda | — | +2 | — | — |
+| Falkensee | +1 | +4 | — | — |
+| Finsterwalde | +1 | — | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Groß Kreutz | — | +1 / ~22 | — | — |
+| Großräschen | +1 | +1 | — | — |
+| Grünheide (Mark) | +2 | — | — | +1 / ~161 |
+| Heideblick | +1 | — | — | — |
+| Hennigsdorf | — | +1 | — | — |
+| Hohen Neuendorf | — | +5 | — | — |
+| Ketzin Havel | — | +4 | — | — |
+| Kleinmachnow | — | +1 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +5 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +4 | — | — |
+| Lauchhammer | +1 | — | — | — |
+| Löwenberger Land | +1 | +2 | — | — |
+| Lübbenau Spreewald | — | +261 / ~10 | — | — |
+| Michendorf | — | +1 | — | — |
+| Mühlenbecker Land | — | +2 | — | — |
+| Müncheberg | — | — | +1 | — |
+| Neuenhagen bei Berlin | +1 / -1 | — | — | — |
+| Oderbruch / Amt Seelow-Land | ~1 | — | — | — |
+| Oranienburg | — | +7 / ~1 | — | — |
+| Premnitz | — | +5 | — | — |
+| Rathenow | +5 | — | — | — |
+| Rietz-Neuendorf | — | — | ~2 | — |
+| Schipkau | — | +1 | — | — |
+| Schönefeld | ~1 | ~30 | — | — |
+| Schulzendorf | — | +1 | — | — |
+| Schwarzheide | — | — | — | +1 / ~271 |
+| Senftenberg | — | +4 | — | — |
+| Stahnsdorf | — | ~1 | — | — |
+| Tauche | — | ~1 | — | — |
+| Teltow | +2 | — | — | — |
+| Velten | — | +3 | — | — |
+| Vetschau Spreewald | — | +30 / ~3 | — | — |
+| Werder (Havel) | — | ~1 | — | — |
+
 ## 2026-09-20 08:48
 
 Insgesamt **328 neu**, **149 aktualisiert**, **3 entfernt** in 38 Quellen.

@@ -795,8 +795,8 @@ UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
  a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
  ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20260920T084624Z
-DTSTART:20260920T084624Z
+DTSTAMP:20260921T090744Z
+DTSTART:20260921T090744Z
 SUMMARY:Veranstaltungen
 URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
@@ -1057,13 +1057,35 @@ LOCATION:Tourismusinformation
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1961-1@amtsfeed.de
-DTSTAMP:20260920T084624Z
+DTSTAMP:20260921T090744Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:New Way to Escape
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/New-Way-to-Escape.php?
  ModID=11&amp\;FID=2852.1961.1
-LOCATION:Club Marchwitza
+LOCATION:einem Lexikon Indie Rock nach\, könnte dort als Beispiel gut un
+ d gern ein Bild von new way to escape die Seite zieren. 5 junge Erwachsen
+ e aus Eisenhüttenstadt machen\, worauf sie Bock haben
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1714-1@amtsfeed.de
+DTSTAMP:20260921T090744Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Herbstkonzert
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstkonzert.php?ModI
+ D=11&amp\;FID=2852.1714.1
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1888-1@amtsfeed.de
+DTSTAMP:20260921T090744Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Deutschrock Heroes mit Mazze Wiesner & Band
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Deutschrock-Heroes-mit
+ -Mazze-Wiesner-Band.php?ModID=11&amp\;FID=2852.1888.1
 END:VEVENT
 END:VCALENDAR

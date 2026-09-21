@@ -995,13 +995,14 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-8014@amtsfeed.de
-DTSTAMP:20260919T081317Z
+DTSTAMP:20260921T090648Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:Feierabendradtour mit dem ADFC
+SUMMARY:Feierabendradtour mit dem ADFC zum Grabowsee
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
- der/Feierabendradtour-mit-dem-ADFC.php?object=tx\,2967.4&amp\;ModID=11&am
- p\;FID=2967.8014.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+ der/Feierabendradtour-mit-dem-ADFC-zum-Grabowsee.php?object=tx\,2967.4&am
+ p\;ModID=11&amp\;FID=2967.8014.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=
+ 1
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-7945@amtsfeed.de
@@ -1126,5 +1127,81 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/-Liebe-Schuld-Das-Weingut-am-Kap-Lesung-mit-W-H-Hartmann.php?object=t
  x\,2967.4&amp\;ModID=11&amp\;FID=2967.7850.1&amp\;NavID=2967.39&amp\;sfre
  g=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7485@amtsfeed.de
+DTSTAMP:20260921T090648Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Orgelmusik zur Mittagszeit
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Orgelmusik-zur-Mittagszeit.php?object=tx\,2967.4&amp\;ModID=11&amp\;F
+ ID=2967.7485.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8004@amtsfeed.de
+DTSTAMP:20260921T090648Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Lehnitzer Energie-Treff: Die eigene Solaranlage
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Lehnitzer-Energie-Treff-Die-eigene-Solaranlage.php?object=tx\,2967.4&
+ amp\;ModID=11&amp\;FID=2967.8004.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;b
+ n=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7990@amtsfeed.de
+DTSTAMP:20260921T090648Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:&raquo\;Verzockt?&laquo\; -Informationsveranstaltung zum Bundeswe
+ iten Aktionstag gegen Glücksspielsucht
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/-Verzockt-Informationsveranstaltung-zum-Bundesweiten-Aktionstag-gegen
+ -Gl%C3%BCcksspielsucht-.php?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967
+ .7990.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7893@amtsfeed.de
+DTSTAMP:20260921T090648Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+SUMMARY:&raquo\;Wundervolle Tiere&laquo\; - Ausstellung in der Blumenhall
+ e
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/-Wundervolle-Tiere-Ausstellung-in-der-Blumenhalle-.php?object=tx\,296
+ 7.4&amp\;ModID=11&amp\;FID=2967.7893.1&amp\;NavID=2967.39&amp\;sfreg=1&am
+ p\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8011@amtsfeed.de
+DTSTAMP:20260921T090648Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261004
+SUMMARY:Der DiskoKlub - Die Party im Oranienwerk
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Der-DiskoKlub-Die-Party-im-Oranienwerk.php?object=tx\,2967.4&amp\;Mod
+ ID=11&amp\;FID=2967.8011.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7435@amtsfeed.de
+DTSTAMP:20260921T090648Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Klaviermusik im Kerzenschein
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Klaviermusik-im-Kerzenschein-.php?object=tx\,2967.4&amp\;ModID=11&amp
+ \;FID=2967.7435.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8013@amtsfeed.de
+DTSTAMP:20260921T090648Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Türöffnertag mit der Maus im ReMO Oberhavel
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/T%C3%BCr%C3%B6ffnertag-mit-der-Maus-im-ReMO-Oberhavel.php?object=tx\,
+ 2967.4&amp\;ModID=11&amp\;FID=2967.8013.1&amp\;NavID=2967.39&amp\;sfreg=1
+ &amp\;bn=1
 END:VEVENT
 END:VCALENDAR

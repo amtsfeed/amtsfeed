@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:45:55.068Z",
+  "updatedAt": "2026-09-21T09:07:23.169Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -5877,6 +5877,16 @@
       "updatedAt": "2026-05-31T18:42:06.173Z"
     },
     {
+      "id": "lk-osl-event-2970670-20261010",
+      "title": "Vogelschau vom Vogelliebhaberclub e.V.",
+      "url": "https://www.osl-online.de/veranstaltungen/2970670/2026/10/10/vogelschau-vom-vogelliebhaberclub-e.v.html",
+      "startDate": "2026-10-10T09:00:00.000Z",
+      "endDate": "2026-10-10T18:00:00.000Z",
+      "location": "Kurmärker Bürgerhaus",
+      "fetchedAt": "2026-09-21T09:07:23.208Z",
+      "updatedAt": "2026-09-21T09:07:23.208Z"
+    },
+    {
       "id": "lk-osl-event-2922180-20261010",
       "title": "Erntedankfest",
       "url": "https://www.osl-online.de/veranstaltungen/2922180/2026/10/10/erntedankfest.html",
@@ -8345,6 +8355,15 @@
       "location": "SeeCampus Niederlausitz",
       "fetchedAt": "2026-05-31T17:24:18.676Z",
       "updatedAt": "2026-09-17T08:52:21.798Z"
+    },
+    {
+      "id": "lk-osl-event-2970738-20261205",
+      "title": "Lichterfahrt",
+      "url": "https://www.osl-online.de/veranstaltungen/2970738/2026/12/05/lichterfahrt.html",
+      "startDate": "2026-12-05T16:00:00.000Z",
+      "location": "Klettwitz",
+      "fetchedAt": "2026-09-21T09:07:23.208Z",
+      "updatedAt": "2026-09-21T09:07:23.208Z"
     },
     {
       "id": "lk-osl-event-2861294-20261205",
@@ -12681,6 +12700,24 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-09-20T08:45:55.103Z",
       "updatedAt": "2026-09-20T08:45:55.103Z"
+    },
+    {
+      "id": "lk-osl-event-2290342-20270921",
+      "title": "Calauer Wochenmarkt",
+      "url": "https://www.osl-online.de/veranstaltungen/2290342/2027/09/21/calauer-wochenmarkt.html",
+      "startDate": "2027-09-21T08:00:00.000Z",
+      "location": "Marktplatz Calau",
+      "fetchedAt": "2026-09-21T09:07:23.208Z",
+      "updatedAt": "2026-09-21T09:07:23.208Z"
+    },
+    {
+      "id": "lk-osl-event-2124475-20270921",
+      "title": "Chorprobe mit dem Stadtchor Lauchhammer",
+      "url": "https://www.osl-online.de/veranstaltungen/2124475/2027/09/21/chorprobe-mit-dem-stadtchor-lauchhammer.html",
+      "startDate": "2027-09-21T19:00:00.000Z",
+      "location": "Aula in der Oberschule \"Am Wehlenteich\"",
+      "fetchedAt": "2026-09-21T09:07:23.208Z",
+      "updatedAt": "2026-09-21T09:07:23.208Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:45:16.543Z",
+  "updatedAt": "2026-09-21T09:06:48.406Z",
   "items": [
     {
       "id": "oranienburg-event-7687",
@@ -732,11 +732,11 @@
     },
     {
       "id": "oranienburg-event-8014",
-      "title": "Feierabendradtour mit dem ADFC",
-      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Feierabendradtour-mit-dem-ADFC.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8014.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "title": "Feierabendradtour mit dem ADFC zum Grabowsee",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Feierabendradtour-mit-dem-ADFC-zum-Grabowsee.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8014.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
       "startDate": "2026-09-23T00:00:00.000Z",
       "fetchedAt": "2026-09-19T08:13:17.699Z",
-      "updatedAt": "2026-09-19T08:13:17.699Z"
+      "updatedAt": "2026-09-21T09:06:48.416Z"
     },
     {
       "id": "oranienburg-event-7945",
@@ -826,6 +826,64 @@
       "startDate": "2026-09-28T00:00:00.000Z",
       "fetchedAt": "2026-09-20T08:45:16.551Z",
       "updatedAt": "2026-09-20T08:45:16.551Z"
+    },
+    {
+      "id": "oranienburg-event-7485",
+      "title": "Orgelmusik zur Mittagszeit",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Orgelmusik-zur-Mittagszeit.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7485.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-09-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:48.416Z",
+      "updatedAt": "2026-09-21T09:06:48.416Z"
+    },
+    {
+      "id": "oranienburg-event-8004",
+      "title": "Lehnitzer Energie-Treff: Die eigene Solaranlage",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Lehnitzer-Energie-Treff-Die-eigene-Solaranlage.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8004.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-09-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:48.416Z",
+      "updatedAt": "2026-09-21T09:06:48.416Z"
+    },
+    {
+      "id": "oranienburg-event-7990",
+      "title": "&raquo;Verzockt?&laquo; -Informationsveranstaltung zum Bundesweiten Aktionstag gegen Glücksspielsucht",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/-Verzockt-Informationsveranstaltung-zum-Bundesweiten-Aktionstag-gegen-Gl%C3%BCcksspielsucht-.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7990.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:48.416Z",
+      "updatedAt": "2026-09-21T09:06:48.416Z"
+    },
+    {
+      "id": "oranienburg-event-7893",
+      "title": "&raquo;Wundervolle Tiere&laquo; - Ausstellung in der Blumenhalle",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/-Wundervolle-Tiere-Ausstellung-in-der-Blumenhalle-.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7893.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-10-02T00:00:00.000Z",
+      "endDate": "2026-10-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:48.416Z",
+      "updatedAt": "2026-09-21T09:06:48.416Z"
+    },
+    {
+      "id": "oranienburg-event-8011",
+      "title": "Der DiskoKlub - Die Party im Oranienwerk",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Der-DiskoKlub-Die-Party-im-Oranienwerk.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8011.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-10-02T00:00:00.000Z",
+      "endDate": "2026-10-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:48.416Z",
+      "updatedAt": "2026-09-21T09:06:48.416Z"
+    },
+    {
+      "id": "oranienburg-event-7435",
+      "title": "Klaviermusik im Kerzenschein",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Klaviermusik-im-Kerzenschein-.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7435.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:48.416Z",
+      "updatedAt": "2026-09-21T09:06:48.416Z"
+    },
+    {
+      "id": "oranienburg-event-8013",
+      "title": "Türöffnertag mit der Maus im ReMO Oberhavel",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/T%C3%BCr%C3%B6ffnertag-mit-der-Maus-im-ReMO-Oberhavel.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8013.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:48.416Z",
+      "updatedAt": "2026-09-21T09:06:48.416Z"
     }
   ]
 }

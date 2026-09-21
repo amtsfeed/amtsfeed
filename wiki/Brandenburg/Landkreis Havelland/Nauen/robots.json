@@ -2,7 +2,7 @@
   {
     "domain": "www.nauen.de",
     "baseUrl": "https://www.nauen.de",
-    "updatedAt": "2026-09-20T08:40:18.198Z",
+    "updatedAt": "2026-09-21T09:01:41.778Z",
     "content": "# SEO Checker for Umbraco \r\nSitemap: http://www.nauen.de/sitemap.xml\r\nUser-Agent: *\r\nAllow: DependencyHandler.axd\r\nDisallow: /aspnet_client/\r\nDisallow: /bin/\r\nDisallow: /config/\r\nDisallow: /data/\r\nDisallow: /macroScripts/\r\nDisallow: /umbraco/\r\nDisallow: /umbraco_client/\r\nDisallow: /usercontrols/\r\nDisallow: /xslt/\r\nDisallow: /*.axd"
   }
 ]

@@ -6030,6 +6030,16 @@ URL:https://www.osl-online.de/veranstaltungen/2837702/2026/10/10/eltern-k
 LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2970670-20261010@amtsfeed.de
+DTSTAMP:20260921T090723Z
+DTSTART:20261010T090000Z
+DTEND:20261010T180000Z
+SUMMARY:Vogelschau vom Vogelliebhaberclub e.V.
+URL:https://www.osl-online.de/veranstaltungen/2970670/2026/10/10/vogelsch
+ au-vom-vogelliebhaberclub-e.v.html
+LOCATION:Kurmärker Bürgerhaus
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2922180-20261010@amtsfeed.de
 DTSTAMP:20260911T111241Z
 DTSTART:20261010T110000Z
@@ -8569,6 +8579,15 @@ SUMMARY:Berlin-Brandenburg Cup - Fightclub 193 e. V.
 URL:https://www.osl-online.de/veranstaltungen/2829709/2026/12/05/berlin-b
  randenburg-cup-fightclub-193-e.-v.html
 LOCATION:SeeCampus Niederlausitz
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2970738-20261205@amtsfeed.de
+DTSTAMP:20260921T090723Z
+DTSTART:20261205T160000Z
+SUMMARY:Lichterfahrt
+URL:https://www.osl-online.de/veranstaltungen/2970738/2026/12/05/lichterf
+ ahrt.html
+LOCATION:Klettwitz
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2861294-20261205@amtsfeed.de
@@ -12971,5 +12990,23 @@ SUMMARY:Treffpunkt Bürgertheater
 URL:https://www.osl-online.de/veranstaltungen/2124466/2027/09/20/treffpun
  kt-bürgertheater.html
 LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2290342-20270921@amtsfeed.de
+DTSTAMP:20260921T090723Z
+DTSTART:20270921T080000Z
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.osl-online.de/veranstaltungen/2290342/2027/09/21/calauer-
+ wochenmarkt.html
+LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2124475-20270921@amtsfeed.de
+DTSTAMP:20260921T090723Z
+DTSTART:20270921T190000Z
+SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
+URL:https://www.osl-online.de/veranstaltungen/2124475/2027/09/21/chorprob
+ e-mit-dem-stadtchor-lauchhammer.html
+LOCATION:Aula in der Oberschule "Am Wehlenteich"
 END:VEVENT
 END:VCALENDAR

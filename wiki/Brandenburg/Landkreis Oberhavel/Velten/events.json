@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:45:19.676Z",
+  "updatedAt": "2026-09-21T09:06:51.210Z",
   "items": [
     {
       "id": "velten-event-932",
@@ -683,6 +683,30 @@
       "startDate": "2026-10-11T00:00:00.000Z",
       "fetchedAt": "2026-09-20T08:45:19.684Z",
       "updatedAt": "2026-09-20T08:45:19.684Z"
+    },
+    {
+      "id": "velten-event-1176",
+      "title": "Kürbisfest",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/K%C3%BCrbisfest.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1176.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-10-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:51.220Z",
+      "updatedAt": "2026-09-21T09:06:51.220Z"
+    },
+    {
+      "id": "velten-event-1168",
+      "title": "Bürgerhaushalt 2025: Musikalische Früherziehung",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/B%C3%BCrgerhaushalt-2025-Musikalische-Fr%C3%BCherziehung.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1168.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-10-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:51.220Z",
+      "updatedAt": "2026-09-21T09:06:51.220Z"
+    },
+    {
+      "id": "velten-event-1026",
+      "title": "Wochenmarkt",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochenmarkt.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1026.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:51.220Z",
+      "updatedAt": "2026-09-21T09:06:51.220Z"
     }
   ]
 }

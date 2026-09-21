@@ -337,4 +337,15 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tanztee-2026.ph
  p?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.742.1&amp\;NavID=2713.9
  &amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-808@amtsfeed.de
+DTSTAMP:20260921T090624Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Erlebnistour "Kinder-Waldrallye"
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Erlebnistour-Ki
+ nder-Waldrallye-.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.808.
+ 1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;
+ max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

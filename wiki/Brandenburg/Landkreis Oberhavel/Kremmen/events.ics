@@ -949,6 +949,16 @@ URL:https://www.kremmen.de/veranstaltungen/2911527/2026/10/31/busse-und-s
 LOCATION:Theaterbistro "Kombüse 11"
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2971180@amtsfeed.de
+DTSTAMP:20260922T084012Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Reformationstag in Kremmen
+URL:https://www.kremmen.de/veranstaltungen/2971180/2026/10/31/reformation
+ stag-in-kremmen.html
+LOCATION:Kirche Kremmen
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2911533@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20261106

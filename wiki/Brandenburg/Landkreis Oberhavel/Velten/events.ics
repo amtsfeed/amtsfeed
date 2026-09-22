@@ -910,4 +910,24 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
  markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1026.1&amp\;Nav
  ID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1027@amtsfeed.de
+DTSTAMP:20260922T084027Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1027.1&amp\;Nav
+ ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1189@amtsfeed.de
+DTSTAMP:20260922T084027Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Ferienprogramm: Perlenlichterketten basteln
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ferien
+ programm-Perlenlichterketten-basteln.php?object=tx\,3631.4.1&amp\;ModID=1
+ 1&amp\;FID=3631.1189.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
 END:VCALENDAR

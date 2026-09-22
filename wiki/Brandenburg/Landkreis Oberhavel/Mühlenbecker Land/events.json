@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T09:06:42.404Z",
+  "updatedAt": "2026-09-22T08:40:19.338Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -2722,6 +2722,51 @@
       "location": "Mühlentreff Mühlenbeck, Hauptstraße 7",
       "fetchedAt": "2026-09-21T09:06:42.404Z",
       "updatedAt": "2026-09-21T09:06:42.404Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59053493",
+      "title": "Herbstfest in der Mönchmühle",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59053493",
+      "startDate": "2026-10-10T13:00:00.000Z",
+      "location": "Historische Mönchmühle Mühlenbeck, Mönchmühlenallee 3",
+      "fetchedAt": "2026-09-22T08:40:19.337Z",
+      "updatedAt": "2026-09-22T08:40:19.337Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58938400",
+      "title": "Führung: FriedWald Mühlenbecker Land",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58938400",
+      "startDate": "2026-10-10T14:00:00.000Z",
+      "location": "FriedWald Mühlenbecker Land, OT Mühlenbeck, Parkplatz Nordufer am Summter See",
+      "fetchedAt": "2026-09-22T08:40:19.337Z",
+      "updatedAt": "2026-09-22T08:40:19.337Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58809565",
+      "title": "Bürgerverein: Boule am Teich",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58809565",
+      "startDate": "2026-10-10T14:00:00.000Z",
+      "location": "Bouleplatz, Feldahornstraße, OT Schönfließ",
+      "fetchedAt": "2026-09-22T08:40:19.337Z",
+      "updatedAt": "2026-09-22T08:40:19.337Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798977",
+      "title": "Volkssolidarität: Gymnastik",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798977",
+      "startDate": "2026-10-12T09:30:00.000Z",
+      "location": "Bürgersaal, Franz-Schmidt-Str. 3, OT Schildow",
+      "fetchedAt": "2026-09-22T08:40:19.337Z",
+      "updatedAt": "2026-09-22T08:40:19.337Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58809486",
+      "title": "Kurs: TaiChi",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58809486",
+      "startDate": "2026-10-12T10:00:00.000Z",
+      "location": "Am oberen Regenrückhaltebecken, Bieselheide, OT Schönfließ",
+      "fetchedAt": "2026-09-22T08:40:19.337Z",
+      "updatedAt": "2026-09-22T08:40:19.337Z"
     }
   ]
 }

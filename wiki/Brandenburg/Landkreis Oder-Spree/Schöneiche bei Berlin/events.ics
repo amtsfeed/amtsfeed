@@ -186,6 +186,14 @@ URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/udo-juergens
  -programm
 END:VEVENT
 BEGIN:VEVENT
+UID:schoeneiche-event-klavierkonzert-mit-minako-tsunuta@amtsfeed.de
+DTSTAMP:20260922T084128Z
+DTSTART:20261003T160000Z
+SUMMARY:Klavierkonzert mit Minako Tsunuta
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/klavierkonze
+ rt-mit-minako-tsunuta
+END:VEVENT
+BEGIN:VEVENT
 UID:schoeneiche-event-pilzfuehrung-durch-den-kleinen-spreewaldpark@amtsfe
  ed.de
 DTSTAMP:20260914T090837Z
@@ -193,5 +201,13 @@ DTSTART:20261011T100000Z
 SUMMARY:Pilzführung durch den Kleinen Spreewaldpark
 URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/pilzfuehrung
  -durch-den-kleinen-spreewaldpark
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-klavierkonzert-mit-yao-yuo@amtsfeed.de
+DTSTAMP:20260922T084128Z
+DTSTART:20261011T160000Z
+SUMMARY:Klavierkonzert mit Yao Yuo
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/klavierkonze
+ rt-mit-yao-yuo
 END:VEVENT
 END:VCALENDAR

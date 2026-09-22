@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T09:06:51.210Z",
+  "updatedAt": "2026-09-22T08:40:27.470Z",
   "items": [
     {
       "id": "velten-event-932",
@@ -707,6 +707,22 @@
       "startDate": "2026-10-14T00:00:00.000Z",
       "fetchedAt": "2026-09-21T09:06:51.220Z",
       "updatedAt": "2026-09-21T09:06:51.220Z"
+    },
+    {
+      "id": "velten-event-1027",
+      "title": "Wochenmarkt",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochenmarkt.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1027.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:27.479Z",
+      "updatedAt": "2026-09-22T08:40:27.479Z"
+    },
+    {
+      "id": "velten-event-1189",
+      "title": "Ferienprogramm: Perlenlichterketten basteln",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ferienprogramm-Perlenlichterketten-basteln.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1189.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-10-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:27.479Z",
+      "updatedAt": "2026-09-22T08:40:27.479Z"
     }
   ]
 }

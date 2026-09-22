@@ -550,4 +550,24 @@ URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/DER-WOLF-UND-DIE-
  SIEBEN-JUNGEN-GEISSLEIN-ab-4-J-.php?object=tx\,2112.2.1&ModID=11&FID=2112
  .4867.1&NavID=2112.265&kat=2112.71
 END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4922@amtsfeed.de
+DTSTAMP:20260922T083655Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20261231
+SUMMARY:Von Meisterwerken inspiriert - Der Kunstmaler Günter Hartung
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Von-Meisterwerken
+ -inspiriert-Der-Kunstmaler-G%C3%BCnter-Hartung.php?object=tx\,2112.2.1&Mo
+ dID=11&FID=2112.4922.1&NavID=2112.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4869@amtsfeed.de
+DTSTAMP:20260922T083655Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:EIN STÜCK WIESE (ab 5 J.)
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/EIN-ST%C3%9CCK-WI
+ ESE-ab-5-J-.php?object=tx\,2112.2.1&ModID=11&FID=2112.4869.1&NavID=2112.2
+ 65&kat=2112.71
+END:VEVENT
 END:VCALENDAR

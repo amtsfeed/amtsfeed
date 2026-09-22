@@ -322,32 +322,6 @@ URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-ab-wendisc
  h-rietz
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
-DTSTAMP:20260915T084954Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
- m-morgen
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs@amtsfeed.de
-DTSTAMP:20260916T084508Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Aktiv Wochenplan - Wakepark Schnupperkurs
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-wakepark-schnup
- perkurs
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-bogenschiessen@amtsfeed.de
-DTSTAMP:20260916T084508Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Aktiv Wochenplan - Bogenschießen
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-bogenschiessen
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-syl
  via-musick@amtsfeed.de
 DTSTAMP:20260916T084508Z
@@ -519,43 +493,6 @@ SUMMARY:Sonntagsbrunch
 URL:https://www.scharmuetzelsee.de/event/sonntagsbrunch
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-toepfern-schnupperkurs@amtsfeed.de
-DTSTAMP:20260921T090733Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
- perkurs
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260921T090733Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
-DTSTAMP:20260921T090733Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Linienfahrten Hauptsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
- ch
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20260921T090733Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-roland-jankowsky-lesung-wenn-overbeck-wiederkommt-im-
  theater-am-see@amtsfeed.de
 DTSTAMP:20260921T090733Z
@@ -565,6 +502,34 @@ SUMMARY:ROLAND JANKOWSKY: LESUNG „Wenn Overbeck (wieder)kommt…“ im
  Theater am See
 URL:https://www.scharmuetzelsee.de/event/roland-jankowsky-lesung-wenn-ove
  rbeck-wiederkommt-im-theater-am-see
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20260922T084100Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
+DTSTAMP:20260922T084100Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Linienfahrten Hauptsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
+ ch
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20260922T084100Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
@@ -584,6 +549,41 @@ DTEND;VALUE=DATE:20260923
 SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
  park
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
+DTSTAMP:20260922T084100Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
+ m-morgen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs@amtsfeed.de
+DTSTAMP:20260922T084100Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Aktiv Wochenplan - Wakepark Schnupperkurs
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-wakepark-schnup
+ perkurs
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-bogenschiessen@amtsfeed.de
+DTSTAMP:20260922T084100Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Aktiv Wochenplan - Bogenschießen
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-bogenschiessen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-toepfern-schnupperkurs@amtsfeed.de
+DTSTAMP:20260922T084100Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
+ perkurs
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-al

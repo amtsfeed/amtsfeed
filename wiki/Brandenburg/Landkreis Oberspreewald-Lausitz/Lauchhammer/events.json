@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:25:10.120Z",
+  "updatedAt": "2026-09-22T08:40:38.295Z",
   "items": [
     {
       "id": "lauchhammer-event-2887000",
@@ -194,36 +194,12 @@
       "updatedAt": "2026-09-11T11:12:33.019Z"
     },
     {
-      "id": "lauchhammer-event-2966577",
-      "title": "Es war einmal ...! im echten Leben!!!",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2966577/2026/09/14/es-war-einmal-.-im-echten-leben.html",
-      "startDate": "2026-09-14T00:00:00.000Z",
-      "fetchedAt": "2026-09-14T09:07:31.394Z",
-      "updatedAt": "2026-09-14T09:07:31.394Z"
-    },
-    {
       "id": "lauchhammer-event-2958601",
       "title": "Blutspendetermin in der OS \"Am Wehlenteich\"",
       "url": "https://www.lauchhammer.de/veranstaltungen/2958601/2026/09/17/blutspendetermin-in-der-os-am-wehlenteich.html",
       "startDate": "2026-09-17T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:46.810Z",
       "updatedAt": "2026-09-11T11:12:33.019Z"
-    },
-    {
-      "id": "lauchhammer-event-2124462",
-      "title": "Treffpunkt Bürgertheater",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2124462/2026/09/21/treffpunkt-bürgertheater.html",
-      "startDate": "2026-09-21T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:33.167Z",
-      "updatedAt": "2026-09-15T08:49:34.845Z"
-    },
-    {
-      "id": "lauchhammer-event-2124466",
-      "title": "Treffpunkt Bürgertheater",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2124466/2026/09/21/treffpunkt-bürgertheater.html",
-      "startDate": "2026-09-21T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:33.167Z",
-      "updatedAt": "2026-09-15T08:49:34.845Z"
     },
     {
       "id": "lauchhammer-event-2124475",
@@ -248,6 +224,22 @@
       "startDate": "2026-09-25T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:46.810Z",
       "updatedAt": "2026-09-11T11:12:33.019Z"
+    },
+    {
+      "id": "lauchhammer-event-2124462",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2124462/2026/09/28/treffpunkt-bürgertheater.html",
+      "startDate": "2026-09-28T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:33.167Z",
+      "updatedAt": "2026-09-22T08:40:38.283Z"
+    },
+    {
+      "id": "lauchhammer-event-2124466",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2124466/2026/09/28/treffpunkt-bürgertheater.html",
+      "startDate": "2026-09-28T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:33.167Z",
+      "updatedAt": "2026-09-22T08:40:38.283Z"
     },
     {
       "id": "lauchhammer-event-2705490",
@@ -298,6 +290,14 @@
       "updatedAt": "2026-09-11T11:12:33.019Z"
     },
     {
+      "id": "lauchhammer-event-2966577",
+      "title": "Es war einmal ...! im echten Leben!!!",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2966577/2026/10/17/es-war-einmal-.-im-echten-leben.html",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-14T09:07:31.394Z",
+      "updatedAt": "2026-09-22T08:40:38.283Z"
+    },
+    {
       "id": "lauchhammer-event-2906109",
       "title": "Kleine Modelle - eine ganz große Augenweide",
       "url": "https://www.lauchhammer.de/veranstaltungen/2906109/2026/10/17/kleine-modelle-eine-ganz-große-augenweide.html",
@@ -314,6 +314,14 @@
       "updatedAt": "2026-05-31T18:42:02.616Z"
     },
     {
+      "id": "lauchhammer-event-2971015",
+      "title": "Es war einmal ...! im echten Leben!!!",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2971015/2026/10/18/es-war-einmal-.-im-echten-leben.html",
+      "startDate": "2026-10-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:38.283Z",
+      "updatedAt": "2026-09-22T08:40:38.283Z"
+    },
+    {
       "id": "lauchhammer-event-2558944",
       "title": "Gruppentreffen Selbsthilfegruppe Long - Post - Covid Lauchhammer",
       "url": "https://www.lauchhammer.de/veranstaltungen/2558944/2026/10/21/gruppentreffen-selbsthilfegruppe-long-post-covid-lauchhammer.html",
@@ -322,12 +330,36 @@
       "updatedAt": "2026-09-17T08:52:05.642Z"
     },
     {
+      "id": "lauchhammer-event-2971014",
+      "title": "Es war einmal ...! im echten Leben!!!",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2971014/2026/10/24/es-war-einmal-.-im-echten-leben.html",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:38.283Z",
+      "updatedAt": "2026-09-22T08:40:38.283Z"
+    },
+    {
+      "id": "lauchhammer-event-2971016",
+      "title": "Es war einmal ...! im echten Leben!!!",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2971016/2026/10/25/es-war-einmal-.-im-echten-leben.html",
+      "startDate": "2026-10-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:38.283Z",
+      "updatedAt": "2026-09-22T08:40:38.283Z"
+    },
+    {
       "id": "lauchhammer-event-2873281",
       "title": "Unser Bambi feiert Geburtstag",
       "url": "https://www.lauchhammer.de/veranstaltungen/2873281/2026/11/05/unser-bambi-feiert-geburtstag.html",
       "startDate": "2026-11-05T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:26:33.167Z",
       "updatedAt": "2026-05-31T18:42:02.616Z"
+    },
+    {
+      "id": "lauchhammer-event-2971004",
+      "title": "Krimilesung in der SeeCampus Bibliothek: Franziska Steinhauer \"Gewitter über dem Spreewald\"",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2971004/2026/11/06/krimilesung-in-der-seecampus-bibliothek-franziska-steinhauer-quotgewitter-über-dem-spreewald-quot.html",
+      "startDate": "2026-11-06T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:38.283Z",
+      "updatedAt": "2026-09-22T08:40:38.283Z"
     },
     {
       "id": "lauchhammer-event-2908922",
@@ -368,6 +400,14 @@
       "startDate": "2026-11-18T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:46.810Z",
       "updatedAt": "2026-09-11T11:12:33.019Z"
+    },
+    {
+      "id": "lauchhammer-event-2971006",
+      "title": "Lesung mit Svenja Beck \"Unglaublich, aber wahr ... auch wir haben häusliche Gewalt erlebt!\"",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2971006/2026/11/18/lesung-mit-svenja-beck-quotunglaublich-aber-wahr-.-auch-wir-haben-häusliche-gewalt-erlebt-quot.html",
+      "startDate": "2026-11-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:38.283Z",
+      "updatedAt": "2026-09-22T08:40:38.283Z"
     },
     {
       "id": "lauchhammer-event-2873282",

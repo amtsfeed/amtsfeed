@@ -196,15 +196,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2825870/2026/09/20/gemeind
  eversammlung.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855689@amtsfeed.de
-DTSTAMP:20260915T084913Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Die Montagshelden - Gymnastik & Bewegung
-URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/09/21/die-mon
- tagshelden-gymnastik-bewegung.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855864@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20260921
@@ -302,6 +293,33 @@ DTEND;VALUE=DATE:20260927
 SUMMARY:Dorffest Schwante
 URL:https://www.oberkraemer.de/veranstaltungen/2957546/2026/09/26/dorffes
  t-schwante.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2971652@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Handarbeitstreff im Wir.Punkt
+URL:https://www.oberkraemer.de/veranstaltungen/2971652/2026/09/26/handarb
+ eitstreff-im-wir.punkt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2971588@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Atemreise
+URL:https://www.oberkraemer.de/veranstaltungen/2971588/2026/09/26/atemrei
+ se.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855689@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Die Montagshelden - Gymnastik & Bewegung
+URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/09/28/die-mon
+ tagshelden-gymnastik-bewegung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962213@amtsfeed.de
@@ -410,15 +428,6 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:Drachenfest - Ein bunter Himmel über Vehlefanz
 URL:https://www.oberkraemer.de/veranstaltungen/2855578/2026/10/04/drachen
  fest-ein-bunter-himmel-über-vehlefanz.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855765@amtsfeed.de
-DTSTAMP:20260911T111217Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:Führungen im Schloss
-URL:https://www.oberkraemer.de/veranstaltungen/2855765/2026/10/04/führun
- gen-im-schloss.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962217@amtsfeed.de
@@ -945,5 +954,564 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Vortrag Heimatgeschichte: Der Flugplatz Oranienburg
 URL:https://www.oberkraemer.de/veranstaltungen/2909885/2026/11/20/vortrag
  -heimatgeschichte-der-flugplatz-oranienburg.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962224@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Weihnachtsprojekttag und -markt
+URL:https://www.oberkraemer.de/veranstaltungen/2962224/2026/11/25/weihnac
+ htsprojekttag-und-markt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855884@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Klön- und Spielenachmittag
+URL:https://www.oberkraemer.de/veranstaltungen/2855884/2026/11/25/klön-u
+ nd-spielenachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855886@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Kirchen-Caf&eacute\;
+URL:https://www.oberkraemer.de/veranstaltungen/2855886/2026/11/25/kirchen
+ -café.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855637@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Wir schmücken den Weihnachtsbaum vor der Schmiede
+URL:https://www.oberkraemer.de/veranstaltungen/2855637/2026/11/28/wir-sch
+ mücken-den-weihnachtsbaum-vor-der-schmiede.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2968499@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:GENO - Erste Hilfe Kurs
+URL:https://www.oberkraemer.de/veranstaltungen/2968499/2026/11/28/geno-er
+ ste-hilfe-kurs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855765@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Führungen im Schloss
+URL:https://www.oberkraemer.de/veranstaltungen/2855765/2026/11/29/führun
+ gen-im-schloss.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855642@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Start in den Advent
+URL:https://www.oberkraemer.de/veranstaltungen/2855642/2026/11/29/start-i
+ n-den-advent.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2825875@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Adventscafe
+URL:https://www.oberkraemer.de/veranstaltungen/2825875/2026/11/29/advents
+ cafe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962225@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Bibliothek Märchen für Klasse 2
+URL:https://www.oberkraemer.de/veranstaltungen/2962225/2026/11/30/bibliot
+ hek-märchen-für-klasse-2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855887@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Männerfrühstück in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2855887/2026/12/01/männer
+ frühstück-in-vehlefanz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2935373@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Gong-Abend
+URL:https://www.oberkraemer.de/veranstaltungen/2935373/2026/12/02/gong-ab
+ end.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855890@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Senioren Neu-Vehlefanz - Weihnachtsfeier
+URL:https://www.oberkraemer.de/veranstaltungen/2855890/2026/12/03/seniore
+ n-neu-vehlefanz-weihnachtsfeier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2909883@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Tafelrunde
+URL:https://www.oberkraemer.de/veranstaltungen/2909883/2026/12/03/tafelru
+ nde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2961772@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Buchlesung mit Stephan Hähnel
+URL:https://www.oberkraemer.de/veranstaltungen/2961772/2026/12/04/buchles
+ ung-mit-stephan-hähnel.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855648@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Bötzower Weihnachtsmarkt
+URL:https://www.oberkraemer.de/veranstaltungen/2855648/2026/12/05/bötzow
+ er-weihnachtsmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2891501@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Die Havelländer Puppenbühne
+URL:https://www.oberkraemer.de/veranstaltungen/2891501/2026/12/05/die-hav
+ elländer-puppenbühne.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855653@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Sofia Talvik - Weihnachtskonzert
+URL:https://www.oberkraemer.de/veranstaltungen/2855653/2026/12/05/sofia-t
+ alvik-weihnachtskonzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855893@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Frauenfrühstück in Vehlefanz - Notfalltraining
+URL:https://www.oberkraemer.de/veranstaltungen/2855893/2026/12/08/frauenf
+ rühstück-in-vehlefanz-notfalltraining.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2968516@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:GENO - Kurs Nachbarschaftshilfe
+URL:https://www.oberkraemer.de/veranstaltungen/2968516/2026/12/10/geno-ku
+ rs-nachbarschaftshilfe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2961774@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Traditionelles Weihnachtslieder Singen beim letzten Klönkaffee i
+ m Jahr.
+URL:https://www.oberkraemer.de/veranstaltungen/2961774/2026/12/10/traditi
+ onelles-weihnachtslieder-singen-beim-letzten-klönkaffee-im-jahr.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855655@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Traditionelles Weihnachtslieder-Singen
+URL:https://www.oberkraemer.de/veranstaltungen/2855655/2026/12/10/traditi
+ onelles-weihnachtslieder-singen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2891499@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Weihnachtssingen mit dem Pop-Chor Oberhavel und Ditha Buß
+URL:https://www.oberkraemer.de/veranstaltungen/2891499/2026/12/11/weihnac
+ htssingen-mit-dem-pop-chor-oberhavel-und-ditha-buß.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855661@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Oberkrämer Weihnachtsmarkt
+URL:https://www.oberkraemer.de/veranstaltungen/2855661/2026/12/12/oberkr
+ ämer-weihnachtsmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2961775@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Oberkrämer Weihnachtsmarkt
+URL:https://www.oberkraemer.de/veranstaltungen/2961775/2026/12/12/oberkr
+ ämer-weihnachtsmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962467@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Waldführung im FriedWald Oberkrämer
+URL:https://www.oberkraemer.de/veranstaltungen/2962467/2026/12/12/waldfü
+ hrung-im-friedwald-oberkrämer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855895@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Klön- und Spielenachmittag
+URL:https://www.oberkraemer.de/veranstaltungen/2855895/2026/12/16/klön-u
+ nd-spielenachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855669@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Adventsfest!
+URL:https://www.oberkraemer.de/veranstaltungen/2855669/2026/12/17/advents
+ fest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962226@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Kinotag in der Grundschule Bötzow
+URL:https://www.oberkraemer.de/veranstaltungen/2962226/2026/12/21/kinotag
+ -in-der-grundschule-bötzow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962227@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Kirchlicher Jahresabschluss
+URL:https://www.oberkraemer.de/veranstaltungen/2962227/2026/12/22/kirchli
+ cher-jahresabschluss.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962228@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:WEIHNACHTSFERIEN
+URL:https://www.oberkraemer.de/veranstaltungen/2962228/2026/12/23/weihnac
+ htsferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2825878@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Gottesdienst
+URL:https://www.oberkraemer.de/veranstaltungen/2825878/2026/12/24/gottesd
+ ienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2825881@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Gottesdienst
+URL:https://www.oberkraemer.de/veranstaltungen/2825881/2026/12/31/gottesd
+ ienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962229@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Ü7 Elterngespräche (Klasse 6)
+URL:https://www.oberkraemer.de/veranstaltungen/2962229/2027/01/04/ü7-elt
+ erngespräche-klasse-6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2935376@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Gong-Abend
+URL:https://www.oberkraemer.de/veranstaltungen/2935376/2027/01/06/gong-ab
+ end.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962230@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Anmeldung zur Einschulung 2027
+URL:https://www.oberkraemer.de/veranstaltungen/2962230/2027/01/12/anmeldu
+ ng-zur-einschulung-2027.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962231@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Bolyai-Wettbewerb (Mathematik)
+URL:https://www.oberkraemer.de/veranstaltungen/2962231/2027/01/19/bolyai-
+ wettbewerb-mathematik.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962232@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Halbjahreszeugnisse und Gundschulgutachten
+URL:https://www.oberkraemer.de/veranstaltungen/2962232/2027/01/29/halbjah
+ reszeugnisse-und-gundschulgutachten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962233@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:WINTERFERIEN
+URL:https://www.oberkraemer.de/veranstaltungen/2962233/2027/02/01/winterf
+ erien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962234@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Fasching
+URL:https://www.oberkraemer.de/veranstaltungen/2962234/2027/02/08/faschin
+ g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962235@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:OSTERFERIEN
+URL:https://www.oberkraemer.de/veranstaltungen/2962235/2027/03/22/osterfe
+ rien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962236@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:Känguru-Wettbewerb (Mathematik)
+URL:https://www.oberkraemer.de/veranstaltungen/2962236/2027/04/08/kängur
+ u-wettbewerb-mathematik.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962237@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Spendenlauf für den Zirkus
+URL:https://www.oberkraemer.de/veranstaltungen/2962237/2027/04/09/spenden
+ lauf-für-den-zirkus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962238@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:VERA 3
+URL:https://www.oberkraemer.de/veranstaltungen/2962238/2027/04/12/vera-3.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962240@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Zweite Schulkonferenz (Zirkusvorbereitung)
+URL:https://www.oberkraemer.de/veranstaltungen/2962240/2027/04/12/zweite-
+ schulkonferenz-zirkusvorbereitung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962241@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Verkehrssicherheitstag (Klasse 3-5)
+URL:https://www.oberkraemer.de/veranstaltungen/2962241/2027/04/13/verkehr
+ ssicherheitstag-klasse-3-5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962242@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Elternkonferenz (Zirkusvorbereitung)
+URL:https://www.oberkraemer.de/veranstaltungen/2962242/2027/04/19/elternk
+ onferenz-zirkusvorbereitung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2969852@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:23. KRÄMERWALDFEST
+URL:https://www.oberkraemer.de/veranstaltungen/2969852/2027/04/24/23.-kr
+ ämerwaldfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962243@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Orientierungsarbeit Deutsch\, Klasse 4
+URL:https://www.oberkraemer.de/veranstaltungen/2962243/2027/05/05/orienti
+ erungsarbeit-deutsch-klasse-4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962244@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Brückentag nach Christi Himmelfahrt
+URL:https://www.oberkraemer.de/veranstaltungen/2962244/2027/05/07/brücke
+ ntag-nach-christi-himmelfahrt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962247@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Orientierungsarbeit Deutsch\, Klasse 2
+URL:https://www.oberkraemer.de/veranstaltungen/2962247/2027/05/11/orienti
+ erungsarbeit-deutsch-klasse-2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962249@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Orientierungsarbeit Mathematik\, Klasse 4
+URL:https://www.oberkraemer.de/veranstaltungen/2962249/2027/05/13/orienti
+ erungsarbeit-mathematik-klasse-4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962250@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:PFINGSTFERIEN
+URL:https://www.oberkraemer.de/veranstaltungen/2962250/2027/05/18/pfingst
+ ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962252@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Klassenfahrt\, Klasse 3
+URL:https://www.oberkraemer.de/veranstaltungen/2962252/2027/05/19/klassen
+ fahrt-klasse-3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962254@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Schulinterner Vorlesewettbewerb
+URL:https://www.oberkraemer.de/veranstaltungen/2962254/2027/05/26/schulin
+ terner-vorlesewettbewerb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962255@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Sportfest
+URL:https://www.oberkraemer.de/veranstaltungen/2962255/2027/06/04/sportfe
+ st.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962256@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Aufbau Zirkuszelt (Eltern)
+URL:https://www.oberkraemer.de/veranstaltungen/2962256/2027/06/06/aufbau-
+ zirkuszelt-eltern.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962257@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Zirkusprojektwoche
+URL:https://www.oberkraemer.de/veranstaltungen/2962257/2027/06/07/zirkusp
+ rojektwoche.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962258@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Zirkusvorstellungen und Abbau (Eltern)
+URL:https://www.oberkraemer.de/veranstaltungen/2962258/2027/06/11/zirkusv
+ orstellungen-und-abbau-eltern.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962259@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:6kUnited (Klasse 5+6)
+URL:https://www.oberkraemer.de/veranstaltungen/2962259/2027/06/23/6kunite
+ d-klasse-56.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2926762@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Vermietung
+URL:https://www.oberkraemer.de/veranstaltungen/2926762/2027/06/26/vermiet
+ ung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962260@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Projekttage
+URL:https://www.oberkraemer.de/veranstaltungen/2962260/2027/06/28/projekt
+ tage.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2962261@amtsfeed.de
+DTSTAMP:20260922T084022Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Zeugnisse und Verabschiedung der Sechstklässler
+URL:https://www.oberkraemer.de/veranstaltungen/2962261/2027/06/30/zeugnis
+ se-und-verabschiedung-der-sechstklässler.html
 END:VEVENT
 END:VCALENDAR

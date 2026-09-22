@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:45:14.060Z",
+  "updatedAt": "2026-09-22T08:40:22.948Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -170,14 +170,6 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
-      "id": "oberkraemer-event-2855689",
-      "title": "Die Montagshelden - Gymnastik & Bewegung",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855689/2026/09/21/die-montagshelden-gymnastik-bewegung.html",
-      "startDate": "2026-09-21T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-15T08:49:13.925Z"
-    },
-    {
       "id": "oberkraemer-event-2855864",
       "title": "Romm&eacute; in Bötzow",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855864/2026/09/21/rommé-in-bötzow.html",
@@ -264,6 +256,30 @@
       "startDate": "2026-09-26T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2971652",
+      "title": "Handarbeitstreff im Wir.Punkt",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2971652/2026/09/26/handarbeitstreff-im-wir.punkt.html",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2971588",
+      "title": "Atemreise",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2971588/2026/09/26/atemreise.html",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855689",
+      "title": "Die Montagshelden - Gymnastik & Bewegung",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855689/2026/09/28/die-montagshelden-gymnastik-bewegung.html",
+      "startDate": "2026-09-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
     },
     {
       "id": "oberkraemer-event-2962213",
@@ -357,14 +373,6 @@
       "id": "oberkraemer-event-2855578",
       "title": "Drachenfest - Ein bunter Himmel über Vehlefanz",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855578/2026/10/04/drachenfest-ein-bunter-himmel-über-vehlefanz.html",
-      "startDate": "2026-10-04T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-11T11:12:17.608Z"
-    },
-    {
-      "id": "oberkraemer-event-2855765",
-      "title": "Führungen im Schloss",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855765/2026/10/04/führungen-im-schloss.html",
       "startDate": "2026-10-04T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
@@ -832,6 +840,502 @@
       "startDate": "2026-11-20T00:00:00.000Z",
       "fetchedAt": "2026-09-20T08:45:14.074Z",
       "updatedAt": "2026-09-20T08:45:14.074Z"
+    },
+    {
+      "id": "oberkraemer-event-2962224",
+      "title": "Weihnachtsprojekttag und -markt",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962224/2026/11/25/weihnachtsprojekttag-und-markt.html",
+      "startDate": "2026-11-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855884",
+      "title": "Klön- und Spielenachmittag",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855884/2026/11/25/klön-und-spielenachmittag.html",
+      "startDate": "2026-11-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855886",
+      "title": "Kirchen-Caf&eacute;",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855886/2026/11/25/kirchen-café.html",
+      "startDate": "2026-11-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855637",
+      "title": "Wir schmücken den Weihnachtsbaum vor der Schmiede",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855637/2026/11/28/wir-schmücken-den-weihnachtsbaum-vor-der-schmiede.html",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2968499",
+      "title": "GENO - Erste Hilfe Kurs",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2968499/2026/11/28/geno-erste-hilfe-kurs.html",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855765",
+      "title": "Führungen im Schloss",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855765/2026/11/29/führungen-im-schloss.html",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855642",
+      "title": "Start in den Advent",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855642/2026/11/29/start-in-den-advent.html",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2825875",
+      "title": "Adventscafe",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2825875/2026/11/29/adventscafe.html",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962225",
+      "title": "Bibliothek Märchen für Klasse 2",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962225/2026/11/30/bibliothek-märchen-für-klasse-2.html",
+      "startDate": "2026-11-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855887",
+      "title": "Männerfrühstück in Vehlefanz",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855887/2026/12/01/männerfrühstück-in-vehlefanz.html",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2935373",
+      "title": "Gong-Abend",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2935373/2026/12/02/gong-abend.html",
+      "startDate": "2026-12-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855890",
+      "title": "Senioren Neu-Vehlefanz - Weihnachtsfeier",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855890/2026/12/03/senioren-neu-vehlefanz-weihnachtsfeier.html",
+      "startDate": "2026-12-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2909883",
+      "title": "Tafelrunde",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2909883/2026/12/03/tafelrunde.html",
+      "startDate": "2026-12-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2961772",
+      "title": "Buchlesung mit Stephan Hähnel",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2961772/2026/12/04/buchlesung-mit-stephan-hähnel.html",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855648",
+      "title": "Bötzower Weihnachtsmarkt",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855648/2026/12/05/bötzower-weihnachtsmarkt.html",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2891501",
+      "title": "Die Havelländer Puppenbühne",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2891501/2026/12/05/die-havelländer-puppenbühne.html",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855653",
+      "title": "Sofia Talvik - Weihnachtskonzert",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855653/2026/12/05/sofia-talvik-weihnachtskonzert.html",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855893",
+      "title": "Frauenfrühstück in Vehlefanz - Notfalltraining",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855893/2026/12/08/frauenfrühstück-in-vehlefanz-notfalltraining.html",
+      "startDate": "2026-12-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2968516",
+      "title": "GENO - Kurs Nachbarschaftshilfe",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2968516/2026/12/10/geno-kurs-nachbarschaftshilfe.html",
+      "startDate": "2026-12-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2961774",
+      "title": "Traditionelles Weihnachtslieder Singen beim letzten Klönkaffee im Jahr.",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2961774/2026/12/10/traditionelles-weihnachtslieder-singen-beim-letzten-klönkaffee-im-jahr.html",
+      "startDate": "2026-12-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855655",
+      "title": "Traditionelles Weihnachtslieder-Singen",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855655/2026/12/10/traditionelles-weihnachtslieder-singen.html",
+      "startDate": "2026-12-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2891499",
+      "title": "Weihnachtssingen mit dem Pop-Chor Oberhavel und Ditha Buß",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2891499/2026/12/11/weihnachtssingen-mit-dem-pop-chor-oberhavel-und-ditha-buß.html",
+      "startDate": "2026-12-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855661",
+      "title": "Oberkrämer Weihnachtsmarkt",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855661/2026/12/12/oberkrämer-weihnachtsmarkt.html",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2961775",
+      "title": "Oberkrämer Weihnachtsmarkt",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2961775/2026/12/12/oberkrämer-weihnachtsmarkt.html",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962467",
+      "title": "Waldführung im FriedWald Oberkrämer",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962467/2026/12/12/waldführung-im-friedwald-oberkrämer.html",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855895",
+      "title": "Klön- und Spielenachmittag",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855895/2026/12/16/klön-und-spielenachmittag.html",
+      "startDate": "2026-12-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2855669",
+      "title": "Adventsfest!",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855669/2026/12/17/adventsfest.html",
+      "startDate": "2026-12-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962226",
+      "title": "Kinotag in der Grundschule Bötzow",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962226/2026/12/21/kinotag-in-der-grundschule-bötzow.html",
+      "startDate": "2026-12-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962227",
+      "title": "Kirchlicher Jahresabschluss",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962227/2026/12/22/kirchlicher-jahresabschluss.html",
+      "startDate": "2026-12-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962228",
+      "title": "WEIHNACHTSFERIEN",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962228/2026/12/23/weihnachtsferien.html",
+      "startDate": "2026-12-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2825878",
+      "title": "Gottesdienst",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2825878/2026/12/24/gottesdienst.html",
+      "startDate": "2026-12-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2825881",
+      "title": "Gottesdienst",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2825881/2026/12/31/gottesdienst.html",
+      "startDate": "2026-12-31T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962229",
+      "title": "Ü7 Elterngespräche (Klasse 6)",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962229/2027/01/04/ü7-elterngespräche-klasse-6.html",
+      "startDate": "2027-01-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2935376",
+      "title": "Gong-Abend",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2935376/2027/01/06/gong-abend.html",
+      "startDate": "2027-01-06T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962230",
+      "title": "Anmeldung zur Einschulung 2027",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962230/2027/01/12/anmeldung-zur-einschulung-2027.html",
+      "startDate": "2027-01-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962231",
+      "title": "Bolyai-Wettbewerb (Mathematik)",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962231/2027/01/19/bolyai-wettbewerb-mathematik.html",
+      "startDate": "2027-01-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962232",
+      "title": "Halbjahreszeugnisse und Gundschulgutachten",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962232/2027/01/29/halbjahreszeugnisse-und-gundschulgutachten.html",
+      "startDate": "2027-01-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962233",
+      "title": "WINTERFERIEN",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962233/2027/02/01/winterferien.html",
+      "startDate": "2027-02-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962234",
+      "title": "Fasching",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962234/2027/02/08/fasching.html",
+      "startDate": "2027-02-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962235",
+      "title": "OSTERFERIEN",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962235/2027/03/22/osterferien.html",
+      "startDate": "2027-03-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962236",
+      "title": "Känguru-Wettbewerb (Mathematik)",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962236/2027/04/08/känguru-wettbewerb-mathematik.html",
+      "startDate": "2027-04-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962237",
+      "title": "Spendenlauf für den Zirkus",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962237/2027/04/09/spendenlauf-für-den-zirkus.html",
+      "startDate": "2027-04-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962238",
+      "title": "VERA 3",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962238/2027/04/12/vera-3.html",
+      "startDate": "2027-04-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962240",
+      "title": "Zweite Schulkonferenz (Zirkusvorbereitung)",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962240/2027/04/12/zweite-schulkonferenz-zirkusvorbereitung.html",
+      "startDate": "2027-04-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962241",
+      "title": "Verkehrssicherheitstag (Klasse 3-5)",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962241/2027/04/13/verkehrssicherheitstag-klasse-3-5.html",
+      "startDate": "2027-04-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962242",
+      "title": "Elternkonferenz (Zirkusvorbereitung)",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962242/2027/04/19/elternkonferenz-zirkusvorbereitung.html",
+      "startDate": "2027-04-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2969852",
+      "title": "23. KRÄMERWALDFEST",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2969852/2027/04/24/23.-krämerwaldfest.html",
+      "startDate": "2027-04-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962243",
+      "title": "Orientierungsarbeit Deutsch, Klasse 4",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962243/2027/05/05/orientierungsarbeit-deutsch-klasse-4.html",
+      "startDate": "2027-05-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962244",
+      "title": "Brückentag nach Christi Himmelfahrt",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962244/2027/05/07/brückentag-nach-christi-himmelfahrt.html",
+      "startDate": "2027-05-07T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962247",
+      "title": "Orientierungsarbeit Deutsch, Klasse 2",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962247/2027/05/11/orientierungsarbeit-deutsch-klasse-2.html",
+      "startDate": "2027-05-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962249",
+      "title": "Orientierungsarbeit Mathematik, Klasse 4",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962249/2027/05/13/orientierungsarbeit-mathematik-klasse-4.html",
+      "startDate": "2027-05-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962250",
+      "title": "PFINGSTFERIEN",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962250/2027/05/18/pfingstferien.html",
+      "startDate": "2027-05-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962252",
+      "title": "Klassenfahrt, Klasse 3",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962252/2027/05/19/klassenfahrt-klasse-3.html",
+      "startDate": "2027-05-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962254",
+      "title": "Schulinterner Vorlesewettbewerb",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962254/2027/05/26/schulinterner-vorlesewettbewerb.html",
+      "startDate": "2027-05-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962255",
+      "title": "Sportfest",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962255/2027/06/04/sportfest.html",
+      "startDate": "2027-06-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962256",
+      "title": "Aufbau Zirkuszelt (Eltern)",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962256/2027/06/06/aufbau-zirkuszelt-eltern.html",
+      "startDate": "2027-06-06T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962257",
+      "title": "Zirkusprojektwoche",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962257/2027/06/07/zirkusprojektwoche.html",
+      "startDate": "2027-06-07T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962258",
+      "title": "Zirkusvorstellungen und Abbau (Eltern)",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962258/2027/06/11/zirkusvorstellungen-und-abbau-eltern.html",
+      "startDate": "2027-06-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962259",
+      "title": "6kUnited (Klasse 5+6)",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962259/2027/06/23/6kunited-klasse-56.html",
+      "startDate": "2027-06-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2926762",
+      "title": "Vermietung",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2926762/2027/06/26/vermietung.html",
+      "startDate": "2027-06-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962260",
+      "title": "Projekttage",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962260/2027/06/28/projekttage.html",
+      "startDate": "2027-06-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2962261",
+      "title": "Zeugnisse und Verabschiedung der Sechstklässler",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2962261/2027/06/30/zeugnisse-und-verabschiedung-der-sechstklässler.html",
+      "startDate": "2027-06-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:40:22.966Z",
+      "updatedAt": "2026-09-22T08:40:22.966Z"
     }
   ]
 }

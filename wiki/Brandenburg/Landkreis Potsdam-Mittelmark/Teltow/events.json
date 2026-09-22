@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:26:57.942Z",
+  "updatedAt": "2026-09-22T08:42:28.510Z",
   "items": [
     {
       "id": "teltow-event-2859714",
@@ -946,14 +946,6 @@
       "updatedAt": "2026-09-11T11:13:45.647Z"
     },
     {
-      "id": "teltow-event-2930009",
-      "title": "Offener Lernraum - Digitales Lernen und Arbeiten am Computer",
-      "url": "https://www.teltow.de/veranstaltungen/2930009/2026/09/21/offener-lernraum-digitales-lernen-und-arbeiten-am-computer.html",
-      "startDate": "2026-09-21T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:36.189Z",
-      "updatedAt": "2026-09-15T08:51:25.080Z"
-    },
-    {
       "id": "teltow-event-2924761",
       "title": "Sitztanz",
       "url": "https://www.teltow.de/veranstaltungen/2924761/2026/09/21/sitztanz.html",
@@ -1074,6 +1066,14 @@
       "updatedAt": "2026-09-11T11:13:45.647Z"
     },
     {
+      "id": "teltow-event-2930009",
+      "title": "Offener Lernraum - Digitales Lernen und Arbeiten am Computer",
+      "url": "https://www.teltow.de/veranstaltungen/2930009/2026/09/28/offener-lernraum-digitales-lernen-und-arbeiten-am-computer.html",
+      "startDate": "2026-09-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:36.189Z",
+      "updatedAt": "2026-09-22T08:42:28.499Z"
+    },
+    {
       "id": "teltow-event-2924784",
       "title": "Sitztanz",
       "url": "https://www.teltow.de/veranstaltungen/2924784/2026/09/28/sitztanz.html",
@@ -1130,6 +1130,30 @@
       "updatedAt": "2026-09-14T09:09:54.248Z"
     },
     {
+      "id": "teltow-event-2971717",
+      "title": "Sitztanz",
+      "url": "https://www.teltow.de/veranstaltungen/2971717/2026/10/05/sitztanz.html",
+      "startDate": "2026-10-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:42:28.499Z",
+      "updatedAt": "2026-09-22T08:42:28.499Z"
+    },
+    {
+      "id": "teltow-event-2971718",
+      "title": "Spielegruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2971718/2026/10/05/spielegruppe.html",
+      "startDate": "2026-10-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:42:28.499Z",
+      "updatedAt": "2026-09-22T08:42:28.499Z"
+    },
+    {
+      "id": "teltow-event-2971722",
+      "title": "Tanz für Senioren",
+      "url": "https://www.teltow.de/veranstaltungen/2971722/2026/10/06/tanz-für-senioren.html",
+      "startDate": "2026-10-06T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:42:28.499Z",
+      "updatedAt": "2026-09-22T08:42:28.499Z"
+    },
+    {
       "id": "teltow-event-2963942",
       "title": "Pflegenetzwerk ZUWA für die Region T-K-S",
       "url": "https://www.teltow.de/veranstaltungen/2963942/2026/10/08/pflegenetzwerk-zuwa-für-die-region-t-k-s.html",
@@ -1138,12 +1162,28 @@
       "updatedAt": "2026-09-11T11:13:45.647Z"
     },
     {
+      "id": "teltow-event-2971724",
+      "title": "Spielnachmittag",
+      "url": "https://www.teltow.de/veranstaltungen/2971724/2026/10/08/spielnachmittag.html",
+      "startDate": "2026-10-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:42:28.499Z",
+      "updatedAt": "2026-09-22T08:42:28.499Z"
+    },
+    {
       "id": "teltow-event-2846385",
       "title": "Gesprächsreihe \"Freitag mit Freymuth\"",
       "url": "https://www.teltow.de/veranstaltungen/2846385/2026/10/09/gesprächsreihe-freitag-mit-freymuth.html",
       "startDate": "2026-10-09T00:00:00.000Z",
       "fetchedAt": "2026-05-06T11:34:49.176Z",
       "updatedAt": "2026-09-11T11:13:45.647Z"
+    },
+    {
+      "id": "teltow-event-2971725",
+      "title": "Sitztanz",
+      "url": "https://www.teltow.de/veranstaltungen/2971725/2026/10/12/sitztanz.html",
+      "startDate": "2026-10-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:42:28.499Z",
+      "updatedAt": "2026-09-22T08:42:28.499Z"
     },
     {
       "id": "teltow-event-2857822",

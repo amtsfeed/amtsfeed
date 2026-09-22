@@ -1075,15 +1075,6 @@ URL:https://www.teltow.de/veranstaltungen/2927073/2026/09/20/das-heimatmu
  seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930009@amtsfeed.de
-DTSTAMP:20260915T085125Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
-URL:https://www.teltow.de/veranstaltungen/2930009/2026/09/21/offener-lern
- raum-digitales-lernen-und-arbeiten-am-computer.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2924761@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260921
@@ -1221,6 +1212,15 @@ URL:https://www.teltow.de/veranstaltungen/2927078/2026/09/27/das-heimatmu
  seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2930009@amtsfeed.de
+DTSTAMP:20260922T084228Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
+URL:https://www.teltow.de/veranstaltungen/2930009/2026/09/28/offener-lern
+ raum-digitales-lernen-und-arbeiten-am-computer.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2924784@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260928
@@ -1284,6 +1284,33 @@ URL:https://www.teltow.de/veranstaltungen/2966627/2026/10/01/lausitz-jahr
  markt.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2971717@amtsfeed.de
+DTSTAMP:20260922T084228Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sitztanz
+URL:https://www.teltow.de/veranstaltungen/2971717/2026/10/05/sitztanz.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2971718@amtsfeed.de
+DTSTAMP:20260922T084228Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Spielegruppe
+URL:https://www.teltow.de/veranstaltungen/2971718/2026/10/05/spielegruppe
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2971722@amtsfeed.de
+DTSTAMP:20260922T084228Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Tanz für Senioren
+URL:https://www.teltow.de/veranstaltungen/2971722/2026/10/06/tanz-für-se
+ nioren.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2963942@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20261008
@@ -1293,6 +1320,15 @@ URL:https://www.teltow.de/veranstaltungen/2963942/2026/10/08/pflegenetzwe
  rk-zuwa-für-die-region-t-k-s.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2971724@amtsfeed.de
+DTSTAMP:20260922T084228Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Spielnachmittag
+URL:https://www.teltow.de/veranstaltungen/2971724/2026/10/08/spielnachmit
+ tag.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2846385@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20261009
@@ -1300,6 +1336,15 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:Gesprächsreihe "Freitag mit Freymuth"
 URL:https://www.teltow.de/veranstaltungen/2846385/2026/10/09/gesprächsre
  ihe-freitag-mit-freymuth.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2971725@amtsfeed.de
+DTSTAMP:20260922T084228Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Sitztanz
+URL:https://www.teltow.de/veranstaltungen/2971725/2026/10/12/sitztanz.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2857822@amtsfeed.de

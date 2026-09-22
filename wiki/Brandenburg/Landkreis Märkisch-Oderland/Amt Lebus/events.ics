@@ -939,11 +939,11 @@ LOCATION:Speichercafé im Ökospeicher Wulkow
 END:VEVENT
 BEGIN:VEVENT
 UID:2955796@amtsfeed.de
-DTSTAMP:20260921T090528Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
+DTSTAMP:20260922T083906Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
 SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/21/hör-mal-
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/22/hör-mal-
  -reiseperle-lebuser-land.html
 DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
@@ -951,39 +951,6 @@ DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
 LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
   Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
-UID:2402834@amtsfeed.de
-DTSTAMP:20260915T084749Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Kreativgruppe in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/09/21/kreativgr
- uppe-in-podelzig.html
-DESCRIPTION:in Gemeindezentrum
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464902@amtsfeed.de
-DTSTAMP:20260915T084749Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/09/21/tischtenn
- is.html
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464900@amtsfeed.de
-DTSTAMP:20260915T084749Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Dart für Jedermann
-URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/09/21/dart-für
- -jedermann.html
-DESCRIPTION:Sportlerheim Podelzig
-LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2464901@amtsfeed.de
@@ -1100,6 +1067,39 @@ SUMMARY:1. Chortreffen der Döbberiner Sänger Einhundertzehn
 URL:https://www.amt-lebus.de/veranstaltungen/2964763/2026/09/27/1.-chortr
  effen-der-döbberiner-sänger-einhundertzehn.html
 LOCATION:Döbberin
+END:VEVENT
+BEGIN:VEVENT
+UID:2402834@amtsfeed.de
+DTSTAMP:20260922T083906Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Kreativgruppe in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/09/28/kreativgr
+ uppe-in-podelzig.html
+DESCRIPTION:in Gemeindezentrum
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464902@amtsfeed.de
+DTSTAMP:20260922T083906Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/09/28/tischtenn
+ is.html
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464900@amtsfeed.de
+DTSTAMP:20260922T083906Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Dart für Jedermann
+URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/09/28/dart-für
+ -jedermann.html
+DESCRIPTION:Sportlerheim Podelzig
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2928789@amtsfeed.de

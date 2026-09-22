@@ -155,6 +155,14 @@ URL:https://www.stadt-sonnewalde.de/veranstaltungen/2934374/2026/09/16/1.
  -seniorentag-im-landkreis-elbe-elster.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2971285@amtsfeed.de
+DTSTAMP:20260922T083649Z
+DTSTART:20260922T090000Z
+SUMMARY:test
+URL:https://www.stadt-sonnewalde.de/veranstaltungen/2971285/2026/09/22/te
+ st.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2889779@amtsfeed.de
 DTSTAMP:20260508T184436Z
 DTSTART;VALUE=DATE:20260926

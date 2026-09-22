@@ -138,6 +138,16 @@ URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/vom-
 DESCRIPTION:Eine spannende\, literarische Reise!
 END:VEVENT
 BEGIN:VEVENT
+UID:woche-der-seelischen-gesundheit@amtsfeed.de
+DTSTAMP:20260922T083855Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Woche der seelischen Gesundheit
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/woch
+ e-der-seelischen-gesundheit
+DESCRIPTION:Kinotage zum Film "Schnupfen im Kopf"
+END:VEVENT
+BEGIN:VEVENT
 UID:neulewiner-oktoberfest@amtsfeed.de
 DTSTAMP:20260911T111124Z
 DTSTART;VALUE=DATE:20261017

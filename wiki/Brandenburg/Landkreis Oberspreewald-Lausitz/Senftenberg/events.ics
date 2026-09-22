@@ -1131,4 +1131,34 @@ URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Die-Nacht-Z%C3
  %A4hneputzen-Pullern-und-ab-ins-Bett.php?object=tx\,2779.4&ModID=11&FID=2
  779.6961.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
 END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-6007@amtsfeed.de
+DTSTAMP:20260922T084048Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Schnuppertour mit der Seeschlange um den Geierswalder See
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Schnuppertour-
+ mit-der-Seeschlange-um-den-Geierswalder-See.php?object=tx\,2779.4&ModID=1
+ 1&FID=2779.6007.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-6745@amtsfeed.de
+DTSTAMP:20260922T084048Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Wenn der Zweck die Form bestimmt - Bäuerliche Gebrauchskeramik
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Wenn-der-Zweck
+ -die-Form-bestimmt-B%C3%A4uerliche-Gebrauchskeramik.php?object=tx\,2779.4
+ &ModID=11&FID=2779.6745.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-6962@amtsfeed.de
+DTSTAMP:20260922T084048Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Die Nacht - Zähneputzen\, Pullern und ab ins Bett
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Die-Nacht-Z%C3
+ %A4hneputzen-Pullern-und-ab-ins-Bett.php?object=tx\,2779.4&ModID=11&FID=2
+ 779.6962.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
 END:VCALENDAR

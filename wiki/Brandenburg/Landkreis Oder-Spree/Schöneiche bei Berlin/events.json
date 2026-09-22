@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T09:08:37.155Z",
+  "updatedAt": "2026-09-22T08:41:28.557Z",
   "items": [
     {
       "id": "schoeneiche-event-schoeneicher-chorgemeinschaft-e-v-2",
@@ -178,12 +178,28 @@
       "updatedAt": "2026-09-14T09:08:37.144Z"
     },
     {
+      "id": "schoeneiche-event-klavierkonzert-mit-minako-tsunuta",
+      "title": "Klavierkonzert mit Minako Tsunuta",
+      "url": "https://www.schoeneiche.de/freizeit/kultur/veranstaltung/klavierkonzert-mit-minako-tsunuta",
+      "startDate": "2026-10-03T16:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:41:28.546Z",
+      "updatedAt": "2026-09-22T08:41:28.546Z"
+    },
+    {
       "id": "schoeneiche-event-pilzfuehrung-durch-den-kleinen-spreewaldpark",
       "title": "Pilzführung durch den Kleinen Spreewaldpark",
       "url": "https://www.schoeneiche.de/freizeit/kultur/veranstaltung/pilzfuehrung-durch-den-kleinen-spreewaldpark",
       "startDate": "2026-10-11T10:00:00.000Z",
       "fetchedAt": "2026-09-14T09:08:37.144Z",
       "updatedAt": "2026-09-14T09:08:37.144Z"
+    },
+    {
+      "id": "schoeneiche-event-klavierkonzert-mit-yao-yuo",
+      "title": "Klavierkonzert mit Yao Yuo",
+      "url": "https://www.schoeneiche.de/freizeit/kultur/veranstaltung/klavierkonzert-mit-yao-yuo",
+      "startDate": "2026-10-11T16:00:00.000Z",
+      "fetchedAt": "2026-09-22T08:41:28.546Z",
+      "updatedAt": "2026-09-22T08:41:28.546Z"
     }
   ]
 }

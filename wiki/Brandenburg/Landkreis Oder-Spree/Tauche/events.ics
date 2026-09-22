@@ -1452,9 +1452,9 @@ URL:https://www.gemeinde-tauche.de/veranstaltungen/2889947/2026/10/21/han
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2892942-2026-10-26-preußencamp.html@amtsfeed.de
-DTSTAMP:20260921T090810Z
-DTSTART:20261026T060000Z
-DTEND:20261027T060000Z
+DTSTAMP:20260922T084134Z
+DTSTART:20261026T060100Z
+DTEND:20261027T060100Z
 SUMMARY:Preußencamp
 URL:https://www.gemeinde-tauche.de/veranstaltungen/2892942/2026/10/26/pre
  ußencamp.html
@@ -1740,5 +1740,15 @@ DTEND:20261216T190000Z
 SUMMARY:Handarbeits-Treff in Mittweide
 URL:https://www.gemeinde-tauche.de/veranstaltungen/2889947/2026/12/16/han
  darbeits-treff-in-mittweide.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2930867-2026-12-22-treff-bibka-spielestündchen.html@
+ amtsfeed.de
+DTSTAMP:20260922T084134Z
+DTSTART:20261222T140000Z
+DTEND:20261222T150000Z
+SUMMARY:Treff BibKa: Spielestündchen
+URL:https://www.gemeinde-tauche.de/veranstaltungen/2930867/2026/12/22/tre
+ ff-bibka-spielestündchen.html
 END:VEVENT
 END:VCALENDAR

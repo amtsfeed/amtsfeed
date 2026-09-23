@@ -1000,6 +1000,16 @@ URL:https://www.kremmen.de/veranstaltungen/2911534/2026/11/07/dominic-mer
 LOCATION:Theaterbistro "Kombüse 11"
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2972024@amtsfeed.de
+DTSTAMP:20260923T084511Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Weihnachtsmenü 2026
+URL:https://www.kremmen.de/veranstaltungen/2972024/2026/11/11/weihnachtsm
+ enü-2026.html
+LOCATION:SeeLodge im Wald- und Seegut Kremmen
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2615527@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20261113
@@ -1130,6 +1140,16 @@ URL:https://www.kremmen.de/veranstaltungen/2907138/2026/12/20/weihnachtsm
 LOCATION:Restaurant Coldehörn
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2972006@amtsfeed.de
+DTSTAMP:20260923T084511Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Weihnachtsmenü 2026
+URL:https://www.kremmen.de/veranstaltungen/2972006/2026/12/20/weihnachtsm
+ enü-2026.html
+LOCATION:SeeLodge im Wald- und Seegut Kremmen
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2964867@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20270108
@@ -1237,6 +1257,16 @@ SUMMARY:Bluesnacht in der Kombüse 11
 URL:https://www.kremmen.de/veranstaltungen/2927993/2027/04/03/bluesnacht-
  in-der-kombüse-11.html
 LOCATION:Theaterbistro "Kombüse 11"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2969061@amtsfeed.de
+DTSTAMP:20260923T084511Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Unser Garten kann Klima!
+URL:https://www.kremmen.de/veranstaltungen/2969061/2027/04/17/unser-garte
+ n-kann-klima.html
+LOCATION:Bockwindmühle Vehlefanz
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2927994@amtsfeed.de

@@ -1102,6 +1102,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1749-20261004@amtsfeed.de
+DTSTAMP:20260923T084033Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:EUROPA-MATINÈE: Im Niemandsland
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/europa-matinee-im-niemandsland/
+LOCATION:Haveltorkino Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1740-20261007@amtsfeed.de
 DTSTAMP:20260918T082004Z
 DTSTART;VALUE=DATE:20261007
@@ -1111,6 +1121,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/ausgezeichnet-die-neue-ausstell
  ung-im-rathaus-rathenow/
 LOCATION:1. und 3. Etage Rathaus Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1748-20261008@amtsfeed.de
+DTSTAMP:20260923T084033Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Spatzenkino im Oktober: Zu Hause im Herbst
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/spatzenkino-im-oktober-zu-hause
+ -im-herbst/
+LOCATION:Haveltorkino Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1603-20261009@amtsfeed.de
@@ -1178,6 +1199,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Sportraum Mühle\, Dachgeschoss
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1747-20261013@amtsfeed.de
+DTSTAMP:20260923T084033Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Gründen aufgefrischt – von Angebot bis Zahlung
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/gruenden-aufgefrischt-von-angeb
+ ot-bis-zahlung/
+LOCATION:Technologie- und Gründerzentrum Brandenburg an der Havel Raum: 
+ 0.19
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1732-20261014@amtsfeed.de
 DTSTAMP:20260911T110748Z
 DTSTART;VALUE=DATE:20261014
@@ -1198,6 +1231,17 @@ SUMMARY:Energieberatungstage 2027
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/energieberatungstage-2027/
 LOCATION:Grundschule am Weinberg
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1746-20261015@amtsfeed.de
+DTSTAMP:20260923T084033Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:E-Rechnung - Empfangen\, Prüfen und Verarbeiten
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/e-rechnung-empfangen-pruefen-un
+ d-verarbeiten/
+LOCATION:HAVELWERK Schleusenstraße 1\, 14712 Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1540-20261017@amtsfeed.de

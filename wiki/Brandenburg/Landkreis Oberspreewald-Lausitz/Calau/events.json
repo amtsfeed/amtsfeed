@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T09:07:04.566Z",
+  "updatedAt": "2026-09-23T08:45:45.254Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -698,14 +698,6 @@
       "updatedAt": "2026-09-18T08:25:07.858Z"
     },
     {
-      "id": "calau-event-2290342",
-      "title": "22.09.2026   Calauer Wochenmarkt",
-      "url": "https://www.calau.de/veranstaltungen/2290342/2026/09/22/calauer-wochenmarkt.html",
-      "startDate": "2026-09-22T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-09-19T08:13:47.980Z"
-    },
-    {
       "id": "calau-event-2947233",
       "title": "22.09.2026   Tanz Dich Frei",
       "url": "https://www.calau.de/veranstaltungen/2947233/2026/09/22/tanz-dich-frei.html",
@@ -730,12 +722,20 @@
       "updatedAt": "2026-09-21T09:07:04.555Z"
     },
     {
+      "id": "calau-event-2290342",
+      "title": "24.09.2026   Calauer Wochenmarkt",
+      "url": "https://www.calau.de/veranstaltungen/2290342/2026/09/24/calauer-wochenmarkt.html",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-09-23T08:45:45.243Z"
+    },
+    {
       "id": "calau-event-2964655",
-      "title": "Beratung Sozialmobil",
+      "title": "24.09.2026   Beratung Sozialmobil",
       "url": "https://www.calau.de/veranstaltungen/2964655/2026/09/24/beratung-sozialmobil.html",
       "startDate": "2026-09-24T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
-      "updatedAt": "2026-09-11T11:12:29.188Z"
+      "updatedAt": "2026-09-23T08:45:45.243Z"
     },
     {
       "id": "calau-event-2964658",
@@ -747,11 +747,11 @@
     },
     {
       "id": "calau-event-2959658",
-      "title": "Vortrag: Nach Berlin! Spreewälder Ammen und Kindermädchen in der Großstadt",
+      "title": "24.09.2026   Vortrag: Nach Berlin! Spreewälder Ammen und Kindermädchen in der Großstadt",
       "url": "https://www.calau.de/veranstaltungen/2959658/2026/09/24/vortrag-nach-berlin-spreewälder-ammen-und-kindermädchen-in-der-großstadt.html",
       "startDate": "2026-09-24T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
-      "updatedAt": "2026-09-11T11:12:29.188Z"
+      "updatedAt": "2026-09-23T08:45:45.243Z"
     },
     {
       "id": "calau-event-2864723",

@@ -939,11 +939,11 @@ LOCATION:Speichercafé im Ökospeicher Wulkow
 END:VEVENT
 BEGIN:VEVENT
 UID:2955796@amtsfeed.de
-DTSTAMP:20260922T083906Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
+DTSTAMP:20260923T084400Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
 SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/22/hör-mal-
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/23/hör-mal-
  -reiseperle-lebuser-land.html
 DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
@@ -951,28 +951,6 @@ DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
 LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
   Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
-UID:2464901@amtsfeed.de
-DTSTAMP:20260916T084215Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Selbstverteidigung für Frauen
-URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/09/22/selbstver
- teidigung-für-frauen.html
-DESCRIPTION:in Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2419554@amtsfeed.de
-DTSTAMP:20260916T084215Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Posaunenchor  Probe
-URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/09/22/posaunenc
- hor-probe.html
-DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
-LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2486339@amtsfeed.de
@@ -1100,6 +1078,28 @@ URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/09/28/dart-für
  -jedermann.html
 DESCRIPTION:Sportlerheim Podelzig
 LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464901@amtsfeed.de
+DTSTAMP:20260923T084400Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Selbstverteidigung für Frauen
+URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/09/29/selbstver
+ teidigung-für-frauen.html
+DESCRIPTION:in Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2419554@amtsfeed.de
+DTSTAMP:20260923T084400Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Posaunenchor  Probe
+URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/09/29/posaunenc
+ hor-probe.html
+DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
+LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2928789@amtsfeed.de

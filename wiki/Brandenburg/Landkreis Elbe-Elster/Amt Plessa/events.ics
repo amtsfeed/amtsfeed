@@ -296,6 +296,15 @@ URL:https://www.plessa.de/veranstaltungen/2962601/2026/09/23/gewölk-gest
  ein-gewässer-gedichtzyklus-in-der-elstermühle-plessa.html
 END:VEVENT
 BEGIN:VEVENT
+UID:plessa-event-2972772-20260926@amtsfeed.de
+DTSTAMP:20260923T083903Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:26.09.2026   Herbstfest | Gemeindezentrum Hohenleipisch
+URL:https://www.plessa.de/veranstaltungen/2972772/2026/09/26/herbstfest-g
+ emeindezentrum-hohenleipisch.html
+END:VEVENT
+BEGIN:VEVENT
 UID:plessa-event-2949462-20260927@amtsfeed.de
 DTSTAMP:20260911T110712Z
 DTSTART;VALUE=DATE:20260927
@@ -356,10 +365,10 @@ URL:https://www.plessa.de/veranstaltungen/2885274/2026/10/10/herbst-und-w
 END:VEVENT
 BEGIN:VEVENT
 UID:plessa-event-2885275-20261013@amtsfeed.de
-DTSTAMP:20260918T081850Z
+DTSTAMP:20260923T083903Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:13.10.2026   Seniorentreff - Bewegung im Alltag mit Linda
+SUMMARY:Seniorentreff - Bewegung im Alltag mit Linda
 URL:https://www.plessa.de/veranstaltungen/2885275/2026/10/13/seniorentref
  f-bewegung-im-alltag-mit-linda.html
 END:VEVENT

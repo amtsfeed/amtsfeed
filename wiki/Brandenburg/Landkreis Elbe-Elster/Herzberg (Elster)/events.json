@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T08:36:46.861Z",
+  "updatedAt": "2026-09-23T08:39:17.103Z",
   "items": [
     {
       "id": "2849506",
@@ -522,14 +522,6 @@
       "updatedAt": "2026-05-08T18:34:29.680Z"
     },
     {
-      "id": "2331049",
-      "title": "Wochenmarkt",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2331049/2027/09/16/wochenmarkt.html",
-      "startDate": "2027-09-16T06:00:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-09-16T08:39:39.981Z"
-    },
-    {
       "id": "2331050",
       "title": "Wochenmarkt",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2331050/2027/09/18/wochenmarkt.html",
@@ -552,6 +544,14 @@
       "startDate": "2027-09-22T16:00:00.000Z",
       "fetchedAt": "2026-05-08T18:34:29.680Z",
       "updatedAt": "2026-09-22T08:36:46.849Z"
+    },
+    {
+      "id": "2331049",
+      "title": "Wochenmarkt",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2331049/2027/09/23/wochenmarkt.html",
+      "startDate": "2027-09-23T06:00:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-09-23T08:39:17.092Z"
     }
   ]
 }

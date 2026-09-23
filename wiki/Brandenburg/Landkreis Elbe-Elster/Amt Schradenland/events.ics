@@ -636,12 +636,39 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829854/2026/10/02/ki
  ndertreff-großthiemig.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2972142@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Kirche Kunterbunt
+URL:https://www.amt-schradenland.de/veranstaltungen/2972142/2026/10/02/ki
+ rche-kunterbunt.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2953392@amtsfeed.de
-DTSTAMP:20260911T110713Z
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Annahme Erntedankgaben Großthiemig
+URL:https://www.amt-schradenland.de/veranstaltungen/2953392/2026/10/03/an
+ nahme-erntedankgaben-großthiemig.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972126@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Annahme Erntedankgaben in Hirschfeld
+URL:https://www.amt-schradenland.de/veranstaltungen/2972126/2026/10/03/an
+ nahme-erntedankgaben-in-hirschfeld.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972135@amtsfeed.de
+DTSTAMP:20260923T083906Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Annahme Erntedankgaben
-URL:https://www.amt-schradenland.de/veranstaltungen/2953392/2026/10/03/an
+URL:https://www.amt-schradenland.de/veranstaltungen/2972135/2026/10/03/an
  nahme-erntedankgaben.html
 END:VEVENT
 BEGIN:VEVENT
@@ -664,21 +691,30 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829855/2026/10/04/er
 END:VEVENT
 BEGIN:VEVENT
 UID:2953361@amtsfeed.de
-DTSTAMP:20260911T110713Z
+DTSTAMP:20260923T083906Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-SUMMARY:Erntedankgottesdienst
-URL:https://www.amt-schradenland.de/veranstaltungen/2953361/2026/10/04/er
- ntedankgottesdienst.html
+SUMMARY:Familiengottesdienst  - Erntedankgottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/2953361/2026/10/04/fa
+ miliengottesdienst-erntedankgottesdienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972112@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Erntedank-Familiengottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/2972112/2026/10/04/er
+ ntedank-familiengottesdienst.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2953399@amtsfeed.de
-DTSTAMP:20260911T110713Z
+DTSTAMP:20260923T083906Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:Gottesdienst
+SUMMARY:Gottesdienst der ev. Schradengrundschule
 URL:https://www.amt-schradenland.de/veranstaltungen/2953399/2026/10/05/go
- ttesdienst.html
+ ttesdienst-der-ev.-schradengrundschule.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2952576@amtsfeed.de
@@ -708,6 +744,24 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829857/2026/10/07/he
  rbst-und-erntefest-seniorenverein-hirschfeld.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2972036@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Kinderchor
+URL:https://www.amt-schradenland.de/veranstaltungen/2972036/2026/10/07/ki
+ nderchor.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972185@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Rehasport in Großthiemig
+URL:https://www.amt-schradenland.de/veranstaltungen/2972185/2026/10/07/re
+ hasport-in-großthiemig.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2953407@amtsfeed.de
 DTSTAMP:20260911T110713Z
 DTSTART;VALUE=DATE:20261009
@@ -715,6 +769,42 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:Taize Andacht
 URL:https://www.amt-schradenland.de/veranstaltungen/2953407/2026/10/09/ta
  ize-andacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972259@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Tag der offenen Tür in der Evangelischen Schraden-Grundschule
+URL:https://www.amt-schradenland.de/veranstaltungen/2972259/2026/10/10/ta
+ g-der-offenen-tür-in-der-evangelischen-schraden-grundschule.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972107@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Gemütlicher Kindernachmittag
+URL:https://www.amt-schradenland.de/veranstaltungen/2972107/2026/10/13/ge
+ mütlicher-kindernachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972004@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Seniorennachmittag - GEMEINSAM STATT EINSAM" in Großthiemig
+URL:https://www.amt-schradenland.de/veranstaltungen/2972004/2026/10/14/se
+ niorennachmittag-gemeinsam-statt-einsam-in-großthiemig.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972026@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Vorlese-Nachmittag
+URL:https://www.amt-schradenland.de/veranstaltungen/2972026/2026/10/14/vo
+ rlese-nachmittag.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2964525@amtsfeed.de
@@ -726,6 +816,24 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2964525/2026/10/18/49
  .-werner-seelenbinder-lauf.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2972138@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Kirche Kunterbunt - ICHTHYS - einem Geheimnis auf der Spurt
+URL:https://www.amt-schradenland.de/veranstaltungen/2972138/2026/10/18/ki
+ rche-kunterbunt-ichthys-einem-geheimnis-auf-der-spurt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972013@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Seniorennachmittag - GEMEINSAM STATT EINSAM" in Merzdorf
+URL:https://www.amt-schradenland.de/veranstaltungen/2972013/2026/10/18/se
+ niorennachmittag-gemeinsam-statt-einsam-in-merzdorf.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2953466@amtsfeed.de
 DTSTAMP:20260911T110713Z
 DTSTART;VALUE=DATE:20261025
@@ -733,6 +841,15 @@ DTEND;VALUE=DATE:20261026
 SUMMARY:Gottesdienst
 URL:https://www.amt-schradenland.de/veranstaltungen/2953466/2026/10/25/go
  ttesdienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2971999@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Seniorennachmittag - GEMEINSAM STATT EINSAM" in Gröden
+URL:https://www.amt-schradenland.de/veranstaltungen/2971999/2026/10/28/se
+ niorennachmittag-gemeinsam-statt-einsam-in-gröden.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829858@amtsfeed.de
@@ -744,6 +861,15 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829858/2026/10/29/mi
  nitreff.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2972010@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Seniorennachmittag - GEMEINSAM STATT EINSAM" in Hirschfeld
+URL:https://www.amt-schradenland.de/veranstaltungen/2972010/2026/10/29/se
+ niorennachmittag-gemeinsam-statt-einsam-in-hirschfeld.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2829859@amtsfeed.de
 DTSTAMP:20260508T183740Z
 DTSTART;VALUE=DATE:20261030
@@ -751,6 +877,15 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Halloween-Kinderfest Großthiemig
 URL:https://www.amt-schradenland.de/veranstaltungen/2829859/2026/10/30/ha
  lloween-kinderfest-großthiemig.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972018@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Halloween Kinderfest im JC Großthiemig
+URL:https://www.amt-schradenland.de/veranstaltungen/2972018/2026/10/30/ha
+ lloween-kinderfest-im-jc-großthiemig.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829962@amtsfeed.de
@@ -781,21 +916,39 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829965/2026/10/31/re
 END:VEVENT
 BEGIN:VEVENT
 UID:2829971@amtsfeed.de
-DTSTAMP:20260508T183740Z
+DTSTAMP:20260923T083906Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:"Starlights Live" die größte Orgelshow
+SUMMARY:"Starlights Live" die größte Orgelshow Deutschlands
 URL:https://www.amt-schradenland.de/veranstaltungen/2829971/2026/10/31/st
- arlights-live-die-größte-orgelshow.html
+ arlights-live-die-größte-orgelshow-deutschlands.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829974@amtsfeed.de
-DTSTAMP:20260508T183740Z
+DTSTAMP:20260923T083906Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:"Starlights Live" die größte Orgelshow
+SUMMARY:"Starlights Live" die größte Orgelshow Deutschlands
 URL:https://www.amt-schradenland.de/veranstaltungen/2829974/2026/10/31/st
- arlights-live-die-größte-orgelshow.html
+ arlights-live-die-größte-orgelshow-deutschlands.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972176@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Gräbersegnung Friedhof Großthiemig
+URL:https://www.amt-schradenland.de/veranstaltungen/2972176/2026/10/31/gr
+ äbersegnung-friedhof-großthiemig.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972017@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween im JC Hirschfeld
+URL:https://www.amt-schradenland.de/veranstaltungen/2972017/2026/10/31/ha
+ lloween-im-jc-hirschfeld.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2897510@amtsfeed.de
@@ -850,6 +1003,15 @@ DTEND;VALUE=DATE:20261115
 SUMMARY:Lichterklang - Konzert im Kerzenschein
 URL:https://www.amt-schradenland.de/veranstaltungen/2953412/2026/11/14/li
  chterklang-konzert-im-kerzenschein.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2972022@amtsfeed.de
+DTSTAMP:20260923T083906Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Licherklang - Konzert im Kerzenschein
+URL:https://www.amt-schradenland.de/veranstaltungen/2972022/2026/11/14/li
+ cherklang-konzert-im-kerzenschein.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829984@amtsfeed.de

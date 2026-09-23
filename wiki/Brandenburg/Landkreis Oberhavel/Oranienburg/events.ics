@@ -1083,6 +1083,26 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  p\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:oranienburg-event-8020@amtsfeed.de
+DTSTAMP:20260923T084527Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Freisingen
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Freisingen.php?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.8020.1&a
+ mp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8019@amtsfeed.de
+DTSTAMP:20260923T084527Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Schlagertraum&NDW
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Schlagertraum-NDW.php?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.8
+ 019.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:oranienburg-event-7782@amtsfeed.de
 DTSTAMP:20260916T084406Z
 DTSTART;VALUE=DATE:20260927
@@ -1192,6 +1212,16 @@ SUMMARY:Klaviermusik im Kerzenschein
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/Klaviermusik-im-Kerzenschein-.php?object=tx\,2967.4&amp\;ModID=11&amp
  \;FID=2967.7435.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8018@amtsfeed.de
+DTSTAMP:20260923T084527Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Kinusaiga  Mosaike aus Stoff
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Kinusaiga-Mosaike-aus-Stoff.php?object=tx\,2967.4&amp\;ModID=11&amp\;
+ FID=2967.8018.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-8013@amtsfeed.de

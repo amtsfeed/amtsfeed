@@ -341,24 +341,6 @@ URL:https://www.scharmuetzelsee.de/event/abend-der-wissenschaft-im-wetter
  museum
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow-am-mittwoch@
- amtsfeed.de
-DTSTAMP:20260916T084508Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Ortsführung durch den Kurort Bad Saarow am Mittwoch
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
- d-saarow-am-mittwoch
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-schleusenfahrt-zum-storkower-see@amtsfeed.de
-DTSTAMP:20260917T085230Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Schleusenfahrt zum Storkower See
-URL:https://www.scharmuetzelsee.de/event/schleusenfahrt-zum-storkower-see
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
  eed.de
 DTSTAMP:20260917T085230Z
@@ -504,34 +486,6 @@ URL:https://www.scharmuetzelsee.de/event/roland-jankowsky-lesung-wenn-ove
  rbeck-wiederkommt-im-theater-am-see
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260922T084100Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
-DTSTAMP:20260922T084100Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Linienfahrten Hauptsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
- ch
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20260922T084100Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
  eed.de
 DTSTAMP:20260921T090733Z
@@ -549,6 +503,25 @@ DTEND;VALUE=DATE:20260923
 SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
  park
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow-am-mittwoch@
+ amtsfeed.de
+DTSTAMP:20260923T084619Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Ortsführung durch den Kurort Bad Saarow am Mittwoch
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
+ d-saarow-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20260923T084619Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
@@ -584,6 +557,42 @@ DTEND;VALUE=DATE:20260924
 SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
  perkurs
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-schleusenfahrt-zum-storkower-see@amtsfeed.de
+DTSTAMP:20260923T084619Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Schleusenfahrt zum Storkower See
+URL:https://www.scharmuetzelsee.de/event/schleusenfahrt-zum-storkower-see
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
+DTSTAMP:20260923T084619Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Linienfahrten Hauptsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
+ ch
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20260923T084619Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-zur-kaffeezeit-im-scharwenka-kulturforum@amtsfeed.de
+DTSTAMP:20260923T084619Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Zur Kaffeezeit im Scharwenka Kulturforum
+URL:https://www.scharmuetzelsee.de/event/zur-kaffeezeit-im-scharwenka-kul
+ turforum
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-al

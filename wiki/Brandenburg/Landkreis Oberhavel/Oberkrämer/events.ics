@@ -205,24 +205,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855864/2026/09/21/rommé-
  in-bötzow.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855686@amtsfeed.de
-DTSTAMP:20260916T084403Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Seniorentanzgruppe "Spätlese"
-URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/09/22/seniore
- ntanzgruppe-spätlese.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855781@amtsfeed.de
-DTSTAMP:20260911T111217Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Skat in Bötzow
-URL:https://www.oberkraemer.de/veranstaltungen/2855781/2026/09/22/skat-in
- -bötzow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855698@amtsfeed.de
 DTSTAMP:20260917T085133Z
 DTSTART;VALUE=DATE:20260923
@@ -338,6 +320,15 @@ DTEND;VALUE=DATE:20260929
 SUMMARY:Erste Elternkonferenz
 URL:https://www.oberkraemer.de/veranstaltungen/2962214/2026/09/28/erste-e
  lternkonferenz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855686@amtsfeed.de
+DTSTAMP:20260923T084524Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Seniorentanzgruppe "Spätlese"
+URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/09/29/seniore
+ ntanzgruppe-spätlese.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962215@amtsfeed.de
@@ -639,6 +630,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2891496/2026/10/23/konzert
  -sixty-beats.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2855781@amtsfeed.de
+DTSTAMP:20260923T084524Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Skat in Bötzow
+URL:https://www.oberkraemer.de/veranstaltungen/2855781/2026/10/27/skat-in
+ -bötzow.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855875@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261028
@@ -854,6 +854,15 @@ DTEND;VALUE=DATE:20261114
 SUMMARY:Gong-Nacht
 URL:https://www.oberkraemer.de/veranstaltungen/2926852/2026/11/13/gong-na
  cht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2615527@amtsfeed.de
+DTSTAMP:20260923T084524Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Weihnachtspostamt Oberkrämer
+URL:https://www.oberkraemer.de/veranstaltungen/2615527/2026/11/13/weihnac
+ htspostamt-oberkrämer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2961758@amtsfeed.de
@@ -1236,6 +1245,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2825878/2026/12/24/gottesd
  ienst.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2972673@amtsfeed.de
+DTSTAMP:20260923T084524Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Winterfeuer in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2972673/2026/12/29/winterf
+ euer-in-vehlefanz.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2825881@amtsfeed.de
 DTSTAMP:20260922T084022Z
 DTSTART;VALUE=DATE:20261231
@@ -1308,6 +1326,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2962234/2027/02/08/faschin
  g.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2972665@amtsfeed.de
+DTSTAMP:20260923T084524Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:FRÜHJAHRSPUTZ in OBERKRÄMER
+URL:https://www.oberkraemer.de/veranstaltungen/2972665/2027/03/20/frühja
+ hrsputz-in-oberkrämer.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2962235@amtsfeed.de
 DTSTAMP:20260922T084022Z
 DTSTART;VALUE=DATE:20270322
@@ -1315,6 +1342,24 @@ DTEND;VALUE=DATE:20270323
 SUMMARY:OSTERFERIEN
 URL:https://www.oberkraemer.de/veranstaltungen/2962235/2027/03/22/osterfe
  rien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2972671@amtsfeed.de
+DTSTAMP:20260923T084524Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Osterfeuer in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2972671/2027/03/25/osterfe
+ uer-in-vehlefanz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2972670@amtsfeed.de
+DTSTAMP:20260923T084524Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Osterfeuer
+URL:https://www.oberkraemer.de/veranstaltungen/2972670/2027/03/27/osterfe
+ uer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962236@amtsfeed.de
@@ -1414,6 +1459,15 @@ DTEND;VALUE=DATE:20270514
 SUMMARY:Orientierungsarbeit Mathematik\, Klasse 4
 URL:https://www.oberkraemer.de/veranstaltungen/2962249/2027/05/13/orienti
  erungsarbeit-mathematik-klasse-4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2972669@amtsfeed.de
+DTSTAMP:20260923T084524Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Deutscher Mühlentag an der Bockwindmühle Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2972669/2027/05/17/deutsch
+ er-mühlentag-an-der-bockwindmühle-vehlefanz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962250@amtsfeed.de

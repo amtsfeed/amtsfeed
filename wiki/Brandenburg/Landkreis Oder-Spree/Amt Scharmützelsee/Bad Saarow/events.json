@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T08:41:00.206Z",
+  "updatedAt": "2026-09-23T08:46:19.771Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -293,22 +293,6 @@
       "updatedAt": "2026-09-16T08:45:08.170Z"
     },
     {
-      "id": "scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow-am-mittwoch",
-      "title": "Ortsführung durch den Kurort Bad Saarow am Mittwoch",
-      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-bad-saarow-am-mittwoch",
-      "startDate": "2026-09-16T00:00:00.000Z",
-      "fetchedAt": "2026-09-16T08:45:08.170Z",
-      "updatedAt": "2026-09-16T08:45:08.170Z"
-    },
-    {
-      "id": "scharmuetzelsee-schleusenfahrt-zum-storkower-see",
-      "title": "Schleusenfahrt zum Storkower See",
-      "url": "https://www.scharmuetzelsee.de/event/schleusenfahrt-zum-storkower-see",
-      "startDate": "2026-09-17T00:00:00.000Z",
-      "fetchedAt": "2026-09-17T08:52:30.326Z",
-      "updatedAt": "2026-09-17T08:52:30.326Z"
-    },
-    {
       "id": "scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow",
       "title": "Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-tour-bad-saarow",
@@ -437,30 +421,6 @@
       "updatedAt": "2026-09-21T09:07:33.483Z"
     },
     {
-      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
-      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
-      "startDate": "2026-09-22T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-09-22T08:41:00.203Z"
-    },
-    {
-      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
-      "title": "Linienfahrten Hauptsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
-      "startDate": "2026-09-22T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-09-22T08:41:00.203Z"
-    },
-    {
-      "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
-      "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "startDate": "2026-09-22T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-22T08:41:00.203Z"
-    },
-    {
       "id": "scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas",
       "title": "Aktiv Wochenplan - Morgen-Paddeltour mit der YAAS",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-morgen-paddeltour-mit-der-yaas",
@@ -475,6 +435,22 @@
       "startDate": "2026-09-22T00:00:00.000Z",
       "fetchedAt": "2026-05-05T15:50:40.941Z",
       "updatedAt": "2026-09-21T09:07:33.483Z"
+    },
+    {
+      "id": "scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow-am-mittwoch",
+      "title": "Ortsführung durch den Kurort Bad Saarow am Mittwoch",
+      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-bad-saarow-am-mittwoch",
+      "startDate": "2026-09-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-16T08:45:08.170Z",
+      "updatedAt": "2026-09-23T08:46:19.768Z"
+    },
+    {
+      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
+      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
+      "startDate": "2026-09-23T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-09-23T08:46:19.768Z"
     },
     {
       "id": "scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen",
@@ -507,6 +483,38 @@
       "startDate": "2026-09-23T00:00:00.000Z",
       "fetchedAt": "2026-09-15T08:49:54.788Z",
       "updatedAt": "2026-09-22T08:41:00.203Z"
+    },
+    {
+      "id": "scharmuetzelsee-schleusenfahrt-zum-storkower-see",
+      "title": "Schleusenfahrt zum Storkower See",
+      "url": "https://www.scharmuetzelsee.de/event/schleusenfahrt-zum-storkower-see",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:52:30.326Z",
+      "updatedAt": "2026-09-23T08:46:19.768Z"
+    },
+    {
+      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
+      "title": "Linienfahrten Hauptsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-09-23T08:46:19.768Z"
+    },
+    {
+      "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
+      "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-23T08:46:19.768Z"
+    },
+    {
+      "id": "scharmuetzelsee-zur-kaffeezeit-im-scharwenka-kulturforum",
+      "title": "Zur Kaffeezeit im Scharwenka Kulturforum",
+      "url": "https://www.scharmuetzelsee.de/event/zur-kaffeezeit-im-scharwenka-kulturforum",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:46:19.768Z",
+      "updatedAt": "2026-09-23T08:46:19.768Z"
     },
     {
       "id": "scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-almuth-lohmann-zell",

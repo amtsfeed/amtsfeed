@@ -434,13 +434,6 @@ URL:https://www.eberswalde.de/termine/helle-stunde-mit-kultur-marie-schmi
  tz-threading-lightness-eine-artistische-show-am-trapez
 END:VEVENT
 BEGIN:VEVENT
-UID:info.php@amtsfeed.de
-DTSTAMP:20260916T083805Z
-DTSTART:20260916T201500Z
-SUMMARY:Rechnungsprüfungsausschuss
-URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
-END:VEVENT
-BEGIN:VEVENT
 UID:galerie-fenster-42-ausstellung-moritz-goetze-pop-art-malerei-grafik-e
  maille-15@amtsfeed.de
 DTSTAMP:20260914T085903Z
@@ -589,8 +582,8 @@ URL:https://www.eberswalde.de/termine/helle-stunde-mit-kultur-pippo-mille
 END:VEVENT
 BEGIN:VEVENT
 UID:faszination-holz-6@amtsfeed.de
-DTSTAMP:20260920T083806Z
-DTSTART:20260923T140000Z
+DTSTAMP:20260923T083750Z
+DTSTART:20260923T150000Z
 SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-6
 END:VEVENT
@@ -618,8 +611,8 @@ URL:https://www.eberswalde.de/termine/studierendenempfang-der-stadt-ebers
 END:VEVENT
 BEGIN:VEVENT
 UID:faszination-holz-7@amtsfeed.de
-DTSTAMP:20260921T085954Z
-DTSTART:20260924T140000Z
+DTSTAMP:20260923T083750Z
+DTSTART:20260924T150000Z
 SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-7
 END:VEVENT
@@ -640,5 +633,20 @@ DTSTART:20260924T163000Z
 SUMMARY:Bilderbuchkino in der Stadtbibliothek Eberswalde
 URL:https://www.eberswalde.de/termine/bilderbuchkino-in-der-stadtbiblioth
  ek-eberswalde-9
+END:VEVENT
+BEGIN:VEVENT
+UID:bilderbuchkino-in-der-stadtbibliothek-16@amtsfeed.de
+DTSTAMP:20260923T083750Z
+DTSTART:20260924T163000Z
+SUMMARY:Bilderbuchkino in der Stadtbibliothek
+URL:https://www.eberswalde.de/termine/bilderbuchkino-in-der-stadtbiblioth
+ ek-16
+END:VEVENT
+BEGIN:VEVENT
+UID:info.php@amtsfeed.de
+DTSTAMP:20260923T083750Z
+DTSTART:20260924T190000Z
+SUMMARY:Stadtverordnetenversammlung
+URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
 END:VEVENT
 END:VCALENDAR

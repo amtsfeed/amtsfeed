@@ -1093,15 +1093,6 @@ URL:https://www.teltow.de/veranstaltungen/2924762/2026/09/21/spielegruppe
  .html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930015@amtsfeed.de
-DTSTAMP:20260916T084642Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen
-URL:https://www.teltow.de/veranstaltungen/2930015/2026/09/22/offener-lern
- raum-lesen-schreiben-rechnen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2924774@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260922
@@ -1248,6 +1239,15 @@ URL:https://www.teltow.de/veranstaltungen/2924786/2026/09/28/skatrunde.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2930015@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen
+URL:https://www.teltow.de/veranstaltungen/2930015/2026/09/29/offener-lern
+ raum-lesen-schreiben-rechnen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2924789@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260929
@@ -1329,6 +1329,15 @@ URL:https://www.teltow.de/veranstaltungen/2971724/2026/10/08/spielnachmit
  tag.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2972033@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Spielnachmittag
+URL:https://www.teltow.de/veranstaltungen/2972033/2026/10/08/spielnachmit
+ tag.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2846385@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20261009
@@ -1356,6 +1365,69 @@ URL:https://www.teltow.de/veranstaltungen/2857822/2026/10/14/teltow-singt
  -das-mitsingkonzert.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2971751@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Sportgruppe
+URL:https://www.teltow.de/veranstaltungen/2971751/2026/10/14/sportgruppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972015@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Musik zur Kaffeestunde
+URL:https://www.teltow.de/veranstaltungen/2972015/2026/10/15/musik-zur-ka
+ ffeestunde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972020@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Sitztanz
+URL:https://www.teltow.de/veranstaltungen/2972020/2026/10/19/sitztanz.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972023@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Spielegruppe
+URL:https://www.teltow.de/veranstaltungen/2972023/2026/10/19/spielegruppe
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972025@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Preisskat
+URL:https://www.teltow.de/veranstaltungen/2972025/2026/10/20/preisskat.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972028@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Sportgruppe
+URL:https://www.teltow.de/veranstaltungen/2972028/2026/10/21/sportgruppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972030@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Singe mit Susi!
+URL:https://www.teltow.de/veranstaltungen/2972030/2026/10/22/singe-mit-su
+ si.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2929921@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20261024
@@ -1364,6 +1436,70 @@ SUMMARY:Aktionstag „Feuer und Flamme für unsere Museen“ im Industrie
  museum
 URL:https://www.teltow.de/veranstaltungen/2929921/2026/10/24/aktionstag-f
  euer-und-flamme-für-unsere-museen-im-industriemuseum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972031@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Sitztanz
+URL:https://www.teltow.de/veranstaltungen/2972031/2026/10/26/sitztanz.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972032@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Spielegruppe
+URL:https://www.teltow.de/veranstaltungen/2972032/2026/10/26/spielegruppe
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972115@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Volkstänze aus aller Welt
+URL:https://www.teltow.de/veranstaltungen/2972115/2026/10/27/volkstänze-
+ aus-aller-welt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972385@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Teltower Salon: : „Historische Zeitreise“ – Wröhbücher de
+ r Ackercommune
+URL:https://www.teltow.de/veranstaltungen/2972385/2026/10/27/teltower-sal
+ on-historische-zeitreise--wröhbücher-der-ackercommune.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972116@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Sportgruppe
+URL:https://www.teltow.de/veranstaltungen/2972116/2026/10/28/sportgruppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972117@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:KlatschKaffee „Von der Blüte ins Honigglas“
+URL:https://www.teltow.de/veranstaltungen/2972117/2026/10/29/klatschkaffe
+ e-von-der-blüte-ins-honigglas.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972120@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Beratung für Senioren
+URL:https://www.teltow.de/veranstaltungen/2972120/2026/10/29/beratung-fü
+ r-senioren.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2859856@amtsfeed.de
@@ -1375,6 +1511,132 @@ URL:https://www.teltow.de/veranstaltungen/2859856/2026/11/02/offene-sprec
  hstunde-pflege-vor-ort.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2972127@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sitztanz
+URL:https://www.teltow.de/veranstaltungen/2972127/2026/11/02/sitztanz.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972129@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Spielegruppe
+URL:https://www.teltow.de/veranstaltungen/2972129/2026/11/02/spielegruppe
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972205@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Tanz für Senioren
+URL:https://www.teltow.de/veranstaltungen/2972205/2026/11/03/tanz-für-se
+ nioren.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972206@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Sportgruppe
+URL:https://www.teltow.de/veranstaltungen/2972206/2026/11/04/sportgruppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972215@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Sitztanz
+URL:https://www.teltow.de/veranstaltungen/2972215/2026/11/09/sitztanz.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972217@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Skatrunde
+URL:https://www.teltow.de/veranstaltungen/2972217/2026/11/09/skatrunde.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972216@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Spielegruppe
+URL:https://www.teltow.de/veranstaltungen/2972216/2026/11/09/spielegruppe
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972219@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Singe mit Susi!
+URL:https://www.teltow.de/veranstaltungen/2972219/2026/11/10/singe-mit-su
+ si.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972226@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Martinsgansessen im Seniorentreff
+URL:https://www.teltow.de/veranstaltungen/2972226/2026/11/11/martinsganse
+ ssen-im-seniorentreff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972232@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Spielnachmittag
+URL:https://www.teltow.de/veranstaltungen/2972232/2026/11/12/spielnachmit
+ tag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972405@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Pflanzung eines neuen Tiny Forrest
+URL:https://www.teltow.de/veranstaltungen/2972405/2026/11/14/pflanzung-ei
+ nes-neuen-tiny-forrest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972236@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Sitztanz
+URL:https://www.teltow.de/veranstaltungen/2972236/2026/11/16/sitztanz.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972237@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Spielegruppe
+URL:https://www.teltow.de/veranstaltungen/2972237/2026/11/16/spielegruppe
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972241@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Preisskat
+URL:https://www.teltow.de/veranstaltungen/2972241/2026/11/17/preisskat.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2857824@amtsfeed.de
 DTSTAMP:20260506T181553Z
 DTSTART;VALUE=DATE:20261118
@@ -1382,6 +1644,24 @@ DTEND;VALUE=DATE:20261119
 SUMMARY:Teltow singt - Das Mitsingkonzert
 URL:https://www.teltow.de/veranstaltungen/2857824/2026/11/18/teltow-singt
  -das-mitsingkonzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972246@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Sportgruppe
+URL:https://www.teltow.de/veranstaltungen/2972246/2026/11/18/sportgruppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972244@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Musik zur Kaffeestunde
+URL:https://www.teltow.de/veranstaltungen/2972244/2026/11/19/musik-zur-ka
+ ffeestunde.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2846390@amtsfeed.de
@@ -1393,6 +1673,204 @@ URL:https://www.teltow.de/veranstaltungen/2846390/2026/11/20/gesprächsre
  ihe-freitag-mit-freymuth.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2972248@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Sitztanz
+URL:https://www.teltow.de/veranstaltungen/2972248/2026/11/23/sitztanz.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972251@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Skatrunde
+URL:https://www.teltow.de/veranstaltungen/2972251/2026/11/23/skatrunde.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972249@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Spielegruppe
+URL:https://www.teltow.de/veranstaltungen/2972249/2026/11/23/spielegruppe
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972254@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Volkstänze aus aller Welt
+URL:https://www.teltow.de/veranstaltungen/2972254/2026/11/24/volkstänze-
+ aus-aller-welt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972392@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Teltower Salon: „Jung & Alt gemeinsam für Teltow“
+URL:https://www.teltow.de/veranstaltungen/2972392/2026/11/24/teltower-sal
+ on-jung-alt-gemeinsam-für-teltow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972255@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Sportgruppe
+URL:https://www.teltow.de/veranstaltungen/2972255/2026/11/25/sportgruppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972285@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Beratung für Senioren
+URL:https://www.teltow.de/veranstaltungen/2972285/2026/11/26/beratung-fü
+ r-senioren.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972258@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Weihnachtliches KlatschKaffee
+URL:https://www.teltow.de/veranstaltungen/2972258/2026/11/26/weihnachtlic
+ hes-klatschkaffee.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972287@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Sitztanz
+URL:https://www.teltow.de/veranstaltungen/2972287/2026/11/30/sitztanz.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972288@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Spielegruppe
+URL:https://www.teltow.de/veranstaltungen/2972288/2026/11/30/spielegruppe
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972290@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Skatrunde
+URL:https://www.teltow.de/veranstaltungen/2972290/2026/11/30/skatrunde.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972338@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Weihnachtsfeier mit Bernd Metzner
+URL:https://www.teltow.de/veranstaltungen/2972338/2026/12/01/weihnachtsfe
+ ier-mit-bernd-metzner.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972339@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Weihnachtsfeier mit Susi
+URL:https://www.teltow.de/veranstaltungen/2972339/2026/12/02/weihnachtsfe
+ ier-mit-susi.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972210@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Der PC-Senior
+URL:https://www.teltow.de/veranstaltungen/2972210/2026/12/03/der-pc-senio
+ r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972340@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Sitztanz
+URL:https://www.teltow.de/veranstaltungen/2972340/2026/12/07/sitztanz.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972341@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Spielegruppe
+URL:https://www.teltow.de/veranstaltungen/2972341/2026/12/07/spielegruppe
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972342@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Sportgruppe
+URL:https://www.teltow.de/veranstaltungen/2972342/2026/12/10/sportgruppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972343@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Spielnachmittag
+URL:https://www.teltow.de/veranstaltungen/2972343/2026/12/10/spielnachmit
+ tag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972346@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Sitztanz
+URL:https://www.teltow.de/veranstaltungen/2972346/2026/12/14/sitztanz.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972348@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Skatrunde
+URL:https://www.teltow.de/veranstaltungen/2972348/2026/12/14/skatrunde.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972347@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Spielegruppe
+URL:https://www.teltow.de/veranstaltungen/2972347/2026/12/14/spielegruppe
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972350@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Preisskat
+URL:https://www.teltow.de/veranstaltungen/2972350/2026/12/15/preisskat.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2857825@amtsfeed.de
 DTSTAMP:20260506T181553Z
 DTSTART;VALUE=DATE:20261216
@@ -1400,5 +1878,14 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Teltow singt - Das Mitsingkonzert
 URL:https://www.teltow.de/veranstaltungen/2857825/2026/12/16/teltow-singt
  -das-mitsingkonzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972351@amtsfeed.de
+DTSTAMP:20260923T084802Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Sportgruppe
+URL:https://www.teltow.de/veranstaltungen/2972351/2026/12/16/sportgruppe.
+ html
 END:VEVENT
 END:VCALENDAR

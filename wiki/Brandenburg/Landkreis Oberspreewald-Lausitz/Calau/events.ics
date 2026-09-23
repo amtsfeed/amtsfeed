@@ -788,15 +788,6 @@ URL:https://www.calau.de/veranstaltungen/2964652/2026/09/21/berufsberatun
  g-im-erwerbsleben.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20260919T081347Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:22.09.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/09/22/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2947233@amtsfeed.de
 DTSTAMP:20260920T084532Z
 DTSTART;VALUE=DATE:20260922
@@ -824,11 +815,20 @@ URL:https://www.calau.de/veranstaltungen/2838473/2026/09/23/klöppeltreff
  .html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2964655@amtsfeed.de
-DTSTAMP:20260911T111229Z
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20260923T084545Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:Beratung Sozialmobil
+SUMMARY:24.09.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/09/24/calauer-woche
+ nmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2964655@amtsfeed.de
+DTSTAMP:20260923T084545Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:24.09.2026   Beratung Sozialmobil
 URL:https://www.calau.de/veranstaltungen/2964655/2026/09/24/beratung-sozi
  almobil.html
 END:VEVENT
@@ -842,11 +842,11 @@ URL:https://www.calau.de/veranstaltungen/2964658/2026/09/24/qigong.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2959658@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260923T084545Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:Vortrag: Nach Berlin! Spreewälder Ammen und Kindermädchen in de
- r Großstadt
+SUMMARY:24.09.2026   Vortrag: Nach Berlin! Spreewälder Ammen und Kinderm
+ ädchen in der Großstadt
 URL:https://www.calau.de/veranstaltungen/2959658/2026/09/24/vortrag-nach-
  berlin-spreewälder-ammen-und-kindermädchen-in-der-großstadt.html
 END:VEVENT

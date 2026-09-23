@@ -291,15 +291,6 @@ URL:https://www.nuthetal.de/veranstaltungen/2812870/2026/09/18/seniorentr
  eff-gedächtnistraining.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nuthetal-event-2718105@amtsfeed.de
-DTSTAMP:20260916T084628Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
-URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/09/22/unterstüt
- ztes-einkaufen-nahkauf-saarmund.html
-END:VEVENT
-BEGIN:VEVENT
 UID:nuthetal-event-2945823@amtsfeed.de
 DTSTAMP:20260911T111338Z
 DTSTART;VALUE=DATE:20260922
@@ -325,6 +316,15 @@ DTEND;VALUE=DATE:20260928
 SUMMARY:Orgelkonzert
 URL:https://www.nuthetal.de/veranstaltungen/2930161/2026/09/27/orgelkonze
  rt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2718105@amtsfeed.de
+DTSTAMP:20260923T084743Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
+URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/09/29/unterstüt
+ ztes-einkaufen-nahkauf-saarmund.html
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2812871@amtsfeed.de

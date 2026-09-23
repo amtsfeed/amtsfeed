@@ -772,6 +772,15 @@ URL:https://www.amt-ruhland.de/veranstaltungen/
 LOCATION:Saal der Gaststätte Guteborn
 END:VEVENT
 BEGIN:VEVENT
+UID:ruhland-event-6736@amtsfeed.de
+DTSTAMP:20260923T084542Z
+DTSTART:20261018T150000Z
+DTEND:20261018T160000Z
+SUMMARY:Wohnzimmerkonzert
+URL:https://www.amt-ruhland.de/veranstaltungen/
+LOCATION:Marienhof Ruhland
+END:VEVENT
+BEGIN:VEVENT
 UID:ruhland-event-4942@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART;VALUE=DATE:20261024

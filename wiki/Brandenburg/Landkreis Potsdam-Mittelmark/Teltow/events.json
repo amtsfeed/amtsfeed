@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T08:42:28.510Z",
+  "updatedAt": "2026-09-23T08:48:02.814Z",
   "items": [
     {
       "id": "teltow-event-2859714",
@@ -962,14 +962,6 @@
       "updatedAt": "2026-09-11T11:13:45.647Z"
     },
     {
-      "id": "teltow-event-2930015",
-      "title": "Offener Lernraum - Lesen, Schreiben, Rechnen",
-      "url": "https://www.teltow.de/veranstaltungen/2930015/2026/09/22/offener-lernraum-lesen-schreiben-rechnen.html",
-      "startDate": "2026-09-22T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:36.189Z",
-      "updatedAt": "2026-09-16T08:46:42.335Z"
-    },
-    {
       "id": "teltow-event-2924774",
       "title": "Tanztheater",
       "url": "https://www.teltow.de/veranstaltungen/2924774/2026/09/22/tanztheater.html",
@@ -1098,6 +1090,14 @@
       "updatedAt": "2026-09-11T11:13:45.647Z"
     },
     {
+      "id": "teltow-event-2930015",
+      "title": "Offener Lernraum - Lesen, Schreiben, Rechnen",
+      "url": "https://www.teltow.de/veranstaltungen/2930015/2026/09/29/offener-lernraum-lesen-schreiben-rechnen.html",
+      "startDate": "2026-09-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:36.189Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
       "id": "teltow-event-2924789",
       "title": "Singe mit Susi!",
       "url": "https://www.teltow.de/veranstaltungen/2924789/2026/09/29/singe-mit-susi.html",
@@ -1170,6 +1170,14 @@
       "updatedAt": "2026-09-22T08:42:28.499Z"
     },
     {
+      "id": "teltow-event-2972033",
+      "title": "Spielnachmittag",
+      "url": "https://www.teltow.de/veranstaltungen/2972033/2026/10/08/spielnachmittag.html",
+      "startDate": "2026-10-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
       "id": "teltow-event-2846385",
       "title": "Gesprächsreihe \"Freitag mit Freymuth\"",
       "url": "https://www.teltow.de/veranstaltungen/2846385/2026/10/09/gesprächsreihe-freitag-mit-freymuth.html",
@@ -1194,12 +1202,124 @@
       "updatedAt": "2026-05-06T18:15:53.268Z"
     },
     {
+      "id": "teltow-event-2971751",
+      "title": "Sportgruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2971751/2026/10/14/sportgruppe.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972015",
+      "title": "Musik zur Kaffeestunde",
+      "url": "https://www.teltow.de/veranstaltungen/2972015/2026/10/15/musik-zur-kaffeestunde.html",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972020",
+      "title": "Sitztanz",
+      "url": "https://www.teltow.de/veranstaltungen/2972020/2026/10/19/sitztanz.html",
+      "startDate": "2026-10-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972023",
+      "title": "Spielegruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972023/2026/10/19/spielegruppe.html",
+      "startDate": "2026-10-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972025",
+      "title": "Preisskat",
+      "url": "https://www.teltow.de/veranstaltungen/2972025/2026/10/20/preisskat.html",
+      "startDate": "2026-10-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972028",
+      "title": "Sportgruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972028/2026/10/21/sportgruppe.html",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972030",
+      "title": "Singe mit Susi!",
+      "url": "https://www.teltow.de/veranstaltungen/2972030/2026/10/22/singe-mit-susi.html",
+      "startDate": "2026-10-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
       "id": "teltow-event-2929921",
       "title": "Aktionstag „Feuer und Flamme für unsere Museen“ im Industriemuseum",
       "url": "https://www.teltow.de/veranstaltungen/2929921/2026/10/24/aktionstag-feuer-und-flamme-für-unsere-museen-im-industriemuseum.html",
       "startDate": "2026-10-24T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:36.189Z",
       "updatedAt": "2026-09-11T11:13:45.647Z"
+    },
+    {
+      "id": "teltow-event-2972031",
+      "title": "Sitztanz",
+      "url": "https://www.teltow.de/veranstaltungen/2972031/2026/10/26/sitztanz.html",
+      "startDate": "2026-10-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972032",
+      "title": "Spielegruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972032/2026/10/26/spielegruppe.html",
+      "startDate": "2026-10-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972115",
+      "title": "Volkstänze aus aller Welt",
+      "url": "https://www.teltow.de/veranstaltungen/2972115/2026/10/27/volkstänze-aus-aller-welt.html",
+      "startDate": "2026-10-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972385",
+      "title": "Teltower Salon: : „Historische Zeitreise“ – Wröhbücher der Ackercommune",
+      "url": "https://www.teltow.de/veranstaltungen/2972385/2026/10/27/teltower-salon-historische-zeitreise--wröhbücher-der-ackercommune.html",
+      "startDate": "2026-10-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972116",
+      "title": "Sportgruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972116/2026/10/28/sportgruppe.html",
+      "startDate": "2026-10-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972117",
+      "title": "KlatschKaffee „Von der Blüte ins Honigglas“",
+      "url": "https://www.teltow.de/veranstaltungen/2972117/2026/10/29/klatschkaffee-von-der-blüte-ins-honigglas.html",
+      "startDate": "2026-10-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972120",
+      "title": "Beratung für Senioren",
+      "url": "https://www.teltow.de/veranstaltungen/2972120/2026/10/29/beratung-für-senioren.html",
+      "startDate": "2026-10-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
     },
     {
       "id": "teltow-event-2859856",
@@ -1210,12 +1330,140 @@
       "updatedAt": "2026-05-06T18:15:53.268Z"
     },
     {
+      "id": "teltow-event-2972127",
+      "title": "Sitztanz",
+      "url": "https://www.teltow.de/veranstaltungen/2972127/2026/11/02/sitztanz.html",
+      "startDate": "2026-11-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972129",
+      "title": "Spielegruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972129/2026/11/02/spielegruppe.html",
+      "startDate": "2026-11-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972205",
+      "title": "Tanz für Senioren",
+      "url": "https://www.teltow.de/veranstaltungen/2972205/2026/11/03/tanz-für-senioren.html",
+      "startDate": "2026-11-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972206",
+      "title": "Sportgruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972206/2026/11/04/sportgruppe.html",
+      "startDate": "2026-11-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972215",
+      "title": "Sitztanz",
+      "url": "https://www.teltow.de/veranstaltungen/2972215/2026/11/09/sitztanz.html",
+      "startDate": "2026-11-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972217",
+      "title": "Skatrunde",
+      "url": "https://www.teltow.de/veranstaltungen/2972217/2026/11/09/skatrunde.html",
+      "startDate": "2026-11-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972216",
+      "title": "Spielegruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972216/2026/11/09/spielegruppe.html",
+      "startDate": "2026-11-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972219",
+      "title": "Singe mit Susi!",
+      "url": "https://www.teltow.de/veranstaltungen/2972219/2026/11/10/singe-mit-susi.html",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972226",
+      "title": "Martinsgansessen im Seniorentreff",
+      "url": "https://www.teltow.de/veranstaltungen/2972226/2026/11/11/martinsgansessen-im-seniorentreff.html",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972232",
+      "title": "Spielnachmittag",
+      "url": "https://www.teltow.de/veranstaltungen/2972232/2026/11/12/spielnachmittag.html",
+      "startDate": "2026-11-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972405",
+      "title": "Pflanzung eines neuen Tiny Forrest",
+      "url": "https://www.teltow.de/veranstaltungen/2972405/2026/11/14/pflanzung-eines-neuen-tiny-forrest.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972236",
+      "title": "Sitztanz",
+      "url": "https://www.teltow.de/veranstaltungen/2972236/2026/11/16/sitztanz.html",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972237",
+      "title": "Spielegruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972237/2026/11/16/spielegruppe.html",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972241",
+      "title": "Preisskat",
+      "url": "https://www.teltow.de/veranstaltungen/2972241/2026/11/17/preisskat.html",
+      "startDate": "2026-11-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
       "id": "teltow-event-2857824",
       "title": "Teltow singt - Das Mitsingkonzert",
       "url": "https://www.teltow.de/veranstaltungen/2857824/2026/11/18/teltow-singt-das-mitsingkonzert.html",
       "startDate": "2026-11-18T00:00:00.000Z",
       "fetchedAt": "2026-05-06T11:34:49.176Z",
       "updatedAt": "2026-05-06T18:15:53.268Z"
+    },
+    {
+      "id": "teltow-event-2972246",
+      "title": "Sportgruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972246/2026/11/18/sportgruppe.html",
+      "startDate": "2026-11-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972244",
+      "title": "Musik zur Kaffeestunde",
+      "url": "https://www.teltow.de/veranstaltungen/2972244/2026/11/19/musik-zur-kaffeestunde.html",
+      "startDate": "2026-11-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
     },
     {
       "id": "teltow-event-2846390",
@@ -1226,12 +1474,196 @@
       "updatedAt": "2026-09-11T11:13:45.647Z"
     },
     {
+      "id": "teltow-event-2972248",
+      "title": "Sitztanz",
+      "url": "https://www.teltow.de/veranstaltungen/2972248/2026/11/23/sitztanz.html",
+      "startDate": "2026-11-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972251",
+      "title": "Skatrunde",
+      "url": "https://www.teltow.de/veranstaltungen/2972251/2026/11/23/skatrunde.html",
+      "startDate": "2026-11-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972249",
+      "title": "Spielegruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972249/2026/11/23/spielegruppe.html",
+      "startDate": "2026-11-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972254",
+      "title": "Volkstänze aus aller Welt",
+      "url": "https://www.teltow.de/veranstaltungen/2972254/2026/11/24/volkstänze-aus-aller-welt.html",
+      "startDate": "2026-11-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972392",
+      "title": "Teltower Salon: „Jung & Alt gemeinsam für Teltow“",
+      "url": "https://www.teltow.de/veranstaltungen/2972392/2026/11/24/teltower-salon-jung-alt-gemeinsam-für-teltow.html",
+      "startDate": "2026-11-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972255",
+      "title": "Sportgruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972255/2026/11/25/sportgruppe.html",
+      "startDate": "2026-11-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972285",
+      "title": "Beratung für Senioren",
+      "url": "https://www.teltow.de/veranstaltungen/2972285/2026/11/26/beratung-für-senioren.html",
+      "startDate": "2026-11-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972258",
+      "title": "Weihnachtliches KlatschKaffee",
+      "url": "https://www.teltow.de/veranstaltungen/2972258/2026/11/26/weihnachtliches-klatschkaffee.html",
+      "startDate": "2026-11-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972287",
+      "title": "Sitztanz",
+      "url": "https://www.teltow.de/veranstaltungen/2972287/2026/11/30/sitztanz.html",
+      "startDate": "2026-11-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972288",
+      "title": "Spielegruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972288/2026/11/30/spielegruppe.html",
+      "startDate": "2026-11-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972290",
+      "title": "Skatrunde",
+      "url": "https://www.teltow.de/veranstaltungen/2972290/2026/11/30/skatrunde.html",
+      "startDate": "2026-11-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972338",
+      "title": "Weihnachtsfeier mit Bernd Metzner",
+      "url": "https://www.teltow.de/veranstaltungen/2972338/2026/12/01/weihnachtsfeier-mit-bernd-metzner.html",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972339",
+      "title": "Weihnachtsfeier mit Susi",
+      "url": "https://www.teltow.de/veranstaltungen/2972339/2026/12/02/weihnachtsfeier-mit-susi.html",
+      "startDate": "2026-12-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972210",
+      "title": "Der PC-Senior",
+      "url": "https://www.teltow.de/veranstaltungen/2972210/2026/12/03/der-pc-senior.html",
+      "startDate": "2026-12-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972340",
+      "title": "Sitztanz",
+      "url": "https://www.teltow.de/veranstaltungen/2972340/2026/12/07/sitztanz.html",
+      "startDate": "2026-12-07T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972341",
+      "title": "Spielegruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972341/2026/12/07/spielegruppe.html",
+      "startDate": "2026-12-07T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972342",
+      "title": "Sportgruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972342/2026/12/10/sportgruppe.html",
+      "startDate": "2026-12-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972343",
+      "title": "Spielnachmittag",
+      "url": "https://www.teltow.de/veranstaltungen/2972343/2026/12/10/spielnachmittag.html",
+      "startDate": "2026-12-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972346",
+      "title": "Sitztanz",
+      "url": "https://www.teltow.de/veranstaltungen/2972346/2026/12/14/sitztanz.html",
+      "startDate": "2026-12-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972348",
+      "title": "Skatrunde",
+      "url": "https://www.teltow.de/veranstaltungen/2972348/2026/12/14/skatrunde.html",
+      "startDate": "2026-12-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972347",
+      "title": "Spielegruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972347/2026/12/14/spielegruppe.html",
+      "startDate": "2026-12-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
+      "id": "teltow-event-2972350",
+      "title": "Preisskat",
+      "url": "https://www.teltow.de/veranstaltungen/2972350/2026/12/15/preisskat.html",
+      "startDate": "2026-12-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
+    },
+    {
       "id": "teltow-event-2857825",
       "title": "Teltow singt - Das Mitsingkonzert",
       "url": "https://www.teltow.de/veranstaltungen/2857825/2026/12/16/teltow-singt-das-mitsingkonzert.html",
       "startDate": "2026-12-16T00:00:00.000Z",
       "fetchedAt": "2026-05-06T11:34:49.176Z",
       "updatedAt": "2026-05-06T18:15:53.268Z"
+    },
+    {
+      "id": "teltow-event-2972351",
+      "title": "Sportgruppe",
+      "url": "https://www.teltow.de/veranstaltungen/2972351/2026/12/16/sportgruppe.html",
+      "startDate": "2026-12-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:48:02.803Z",
+      "updatedAt": "2026-09-23T08:48:02.803Z"
     }
   ]
 }

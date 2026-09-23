@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T08:40:22.948Z",
+  "updatedAt": "2026-09-23T08:45:24.113Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -178,22 +178,6 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
-      "id": "oberkraemer-event-2855686",
-      "title": "Seniorentanzgruppe \"Spätlese\"",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855686/2026/09/22/seniorentanzgruppe-spätlese.html",
-      "startDate": "2026-09-22T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-16T08:44:03.083Z"
-    },
-    {
-      "id": "oberkraemer-event-2855781",
-      "title": "Skat in Bötzow",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855781/2026/09/22/skat-in-bötzow.html",
-      "startDate": "2026-09-22T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-11T11:12:17.608Z"
-    },
-    {
       "id": "oberkraemer-event-2855698",
       "title": "Kartenfreunde Schwante",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855698/2026/09/23/kartenfreunde-schwante.html",
@@ -296,6 +280,14 @@
       "startDate": "2026-09-28T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2855686",
+      "title": "Seniorentanzgruppe \"Spätlese\"",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855686/2026/09/29/seniorentanzgruppe-spätlese.html",
+      "startDate": "2026-09-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-09-23T08:45:24.131Z"
     },
     {
       "id": "oberkraemer-event-2962215",
@@ -562,6 +554,14 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
+      "id": "oberkraemer-event-2855781",
+      "title": "Skat in Bötzow",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855781/2026/10/27/skat-in-bötzow.html",
+      "startDate": "2026-10-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-09-23T08:45:24.131Z"
+    },
+    {
       "id": "oberkraemer-event-2855875",
       "title": "Klön- und Spielenachmittag",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855875/2026/10/28/klön-und-spielenachmittag.html",
@@ -752,6 +752,14 @@
       "startDate": "2026-11-13T00:00:00.000Z",
       "fetchedAt": "2026-09-13T08:28:30.191Z",
       "updatedAt": "2026-09-13T08:28:30.191Z"
+    },
+    {
+      "id": "oberkraemer-event-2615527",
+      "title": "Weihnachtspostamt Oberkrämer",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2615527/2026/11/13/weihnachtspostamt-oberkrämer.html",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:45:24.131Z",
+      "updatedAt": "2026-09-23T08:45:24.131Z"
     },
     {
       "id": "oberkraemer-event-2961758",
@@ -1090,6 +1098,14 @@
       "updatedAt": "2026-09-22T08:40:22.966Z"
     },
     {
+      "id": "oberkraemer-event-2972673",
+      "title": "Winterfeuer in Vehlefanz",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2972673/2026/12/29/winterfeuer-in-vehlefanz.html",
+      "startDate": "2026-12-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:45:24.131Z",
+      "updatedAt": "2026-09-23T08:45:24.131Z"
+    },
+    {
       "id": "oberkraemer-event-2825881",
       "title": "Gottesdienst",
       "url": "https://www.oberkraemer.de/veranstaltungen/2825881/2026/12/31/gottesdienst.html",
@@ -1154,12 +1170,36 @@
       "updatedAt": "2026-09-22T08:40:22.966Z"
     },
     {
+      "id": "oberkraemer-event-2972665",
+      "title": "FRÜHJAHRSPUTZ in OBERKRÄMER",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2972665/2027/03/20/frühjahrsputz-in-oberkrämer.html",
+      "startDate": "2027-03-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:45:24.131Z",
+      "updatedAt": "2026-09-23T08:45:24.131Z"
+    },
+    {
       "id": "oberkraemer-event-2962235",
       "title": "OSTERFERIEN",
       "url": "https://www.oberkraemer.de/veranstaltungen/2962235/2027/03/22/osterferien.html",
       "startDate": "2027-03-22T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:22.966Z",
       "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2972671",
+      "title": "Osterfeuer in Vehlefanz",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2972671/2027/03/25/osterfeuer-in-vehlefanz.html",
+      "startDate": "2027-03-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:45:24.131Z",
+      "updatedAt": "2026-09-23T08:45:24.131Z"
+    },
+    {
+      "id": "oberkraemer-event-2972670",
+      "title": "Osterfeuer",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2972670/2027/03/27/osterfeuer.html",
+      "startDate": "2027-03-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:45:24.131Z",
+      "updatedAt": "2026-09-23T08:45:24.131Z"
     },
     {
       "id": "oberkraemer-event-2962236",
@@ -1248,6 +1288,14 @@
       "startDate": "2027-05-13T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:22.966Z",
       "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2972669",
+      "title": "Deutscher Mühlentag an der Bockwindmühle Vehlefanz",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2972669/2027/05/17/deutscher-mühlentag-an-der-bockwindmühle-vehlefanz.html",
+      "startDate": "2027-05-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:45:24.131Z",
+      "updatedAt": "2026-09-23T08:45:24.131Z"
     },
     {
       "id": "oberkraemer-event-2962250",

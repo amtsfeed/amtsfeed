@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:18:52.269Z",
+  "updatedAt": "2026-09-23T08:39:06.962Z",
   "items": [
     {
       "id": "2891271",
@@ -554,12 +554,36 @@
       "updatedAt": "2026-05-08T18:37:40.359Z"
     },
     {
+      "id": "2972142",
+      "title": "Kirche Kunterbunt",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972142/2026/10/02/kirche-kunterbunt.html",
+      "startDate": "2026-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
       "id": "2953392",
-      "title": "Annahme Erntedankgaben",
-      "url": "https://www.amt-schradenland.de/veranstaltungen/2953392/2026/10/03/annahme-erntedankgaben.html",
+      "title": "Annahme Erntedankgaben Großthiemig",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953392/2026/10/03/annahme-erntedankgaben-großthiemig.html",
       "startDate": "2026-10-03T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:53:56.772Z",
-      "updatedAt": "2026-09-11T11:07:13.597Z"
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
+      "id": "2972126",
+      "title": "Annahme Erntedankgaben in Hirschfeld",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972126/2026/10/03/annahme-erntedankgaben-in-hirschfeld.html",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
+      "id": "2972135",
+      "title": "Annahme Erntedankgaben",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972135/2026/10/03/annahme-erntedankgaben.html",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
     },
     {
       "id": "2829856",
@@ -579,19 +603,27 @@
     },
     {
       "id": "2953361",
-      "title": "Erntedankgottesdienst",
-      "url": "https://www.amt-schradenland.de/veranstaltungen/2953361/2026/10/04/erntedankgottesdienst.html",
+      "title": "Familiengottesdienst  - Erntedankgottesdienst",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953361/2026/10/04/familiengottesdienst-erntedankgottesdienst.html",
       "startDate": "2026-10-04T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:53:56.772Z",
-      "updatedAt": "2026-09-11T11:07:13.597Z"
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
+      "id": "2972112",
+      "title": "Erntedank-Familiengottesdienst",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972112/2026/10/04/erntedank-familiengottesdienst.html",
+      "startDate": "2026-10-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
     },
     {
       "id": "2953399",
-      "title": "Gottesdienst",
-      "url": "https://www.amt-schradenland.de/veranstaltungen/2953399/2026/10/05/gottesdienst.html",
+      "title": "Gottesdienst der ev. Schradengrundschule",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2953399/2026/10/05/gottesdienst-der-ev.-schradengrundschule.html",
       "startDate": "2026-10-05T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:53:56.772Z",
-      "updatedAt": "2026-09-11T11:07:13.597Z"
+      "updatedAt": "2026-09-23T08:39:06.952Z"
     },
     {
       "id": "2952576",
@@ -618,12 +650,60 @@
       "updatedAt": "2026-05-08T18:37:40.359Z"
     },
     {
+      "id": "2972036",
+      "title": "Kinderchor",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972036/2026/10/07/kinderchor.html",
+      "startDate": "2026-10-07T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
+      "id": "2972185",
+      "title": "Rehasport in Großthiemig",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972185/2026/10/07/rehasport-in-großthiemig.html",
+      "startDate": "2026-10-07T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
       "id": "2953407",
       "title": "Taize Andacht",
       "url": "https://www.amt-schradenland.de/veranstaltungen/2953407/2026/10/09/taize-andacht.html",
       "startDate": "2026-10-09T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:53:56.772Z",
       "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2972259",
+      "title": "Tag der offenen Tür in der Evangelischen Schraden-Grundschule",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972259/2026/10/10/tag-der-offenen-tür-in-der-evangelischen-schraden-grundschule.html",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
+      "id": "2972107",
+      "title": "Gemütlicher Kindernachmittag",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972107/2026/10/13/gemütlicher-kindernachmittag.html",
+      "startDate": "2026-10-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
+      "id": "2972004",
+      "title": "Seniorennachmittag - GEMEINSAM STATT EINSAM\" in Großthiemig",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972004/2026/10/14/seniorennachmittag-gemeinsam-statt-einsam-in-großthiemig.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
+      "id": "2972026",
+      "title": "Vorlese-Nachmittag",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972026/2026/10/14/vorlese-nachmittag.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
     },
     {
       "id": "2964525",
@@ -634,12 +714,36 @@
       "updatedAt": "2026-09-11T11:07:13.597Z"
     },
     {
+      "id": "2972138",
+      "title": "Kirche Kunterbunt - ICHTHYS - einem Geheimnis auf der Spurt",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972138/2026/10/18/kirche-kunterbunt-ichthys-einem-geheimnis-auf-der-spurt.html",
+      "startDate": "2026-10-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
+      "id": "2972013",
+      "title": "Seniorennachmittag - GEMEINSAM STATT EINSAM\" in Merzdorf",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972013/2026/10/18/seniorennachmittag-gemeinsam-statt-einsam-in-merzdorf.html",
+      "startDate": "2026-10-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
       "id": "2953466",
       "title": "Gottesdienst",
       "url": "https://www.amt-schradenland.de/veranstaltungen/2953466/2026/10/25/gottesdienst.html",
       "startDate": "2026-10-25T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:53:56.772Z",
       "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2971999",
+      "title": "Seniorennachmittag - GEMEINSAM STATT EINSAM\" in Gröden",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2971999/2026/10/28/seniorennachmittag-gemeinsam-statt-einsam-in-gröden.html",
+      "startDate": "2026-10-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
     },
     {
       "id": "2829858",
@@ -650,12 +754,28 @@
       "updatedAt": "2026-05-08T18:37:40.359Z"
     },
     {
+      "id": "2972010",
+      "title": "Seniorennachmittag - GEMEINSAM STATT EINSAM\" in Hirschfeld",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972010/2026/10/29/seniorennachmittag-gemeinsam-statt-einsam-in-hirschfeld.html",
+      "startDate": "2026-10-29T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
       "id": "2829859",
       "title": "Halloween-Kinderfest Großthiemig",
       "url": "https://www.amt-schradenland.de/veranstaltungen/2829859/2026/10/30/halloween-kinderfest-großthiemig.html",
       "startDate": "2026-10-30T00:00:00.000Z",
       "fetchedAt": "2026-05-08T18:37:40.359Z",
       "updatedAt": "2026-05-08T18:37:40.359Z"
+    },
+    {
+      "id": "2972018",
+      "title": "Halloween Kinderfest im JC Großthiemig",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972018/2026/10/30/halloween-kinderfest-im-jc-großthiemig.html",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
     },
     {
       "id": "2829962",
@@ -683,19 +803,35 @@
     },
     {
       "id": "2829971",
-      "title": "\"Starlights Live\" die größte Orgelshow",
-      "url": "https://www.amt-schradenland.de/veranstaltungen/2829971/2026/10/31/starlights-live-die-größte-orgelshow.html",
+      "title": "\"Starlights Live\" die größte Orgelshow Deutschlands",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2829971/2026/10/31/starlights-live-die-größte-orgelshow-deutschlands.html",
       "startDate": "2026-10-31T00:00:00.000Z",
       "fetchedAt": "2026-05-08T18:37:40.359Z",
-      "updatedAt": "2026-05-08T18:37:40.359Z"
+      "updatedAt": "2026-09-23T08:39:06.952Z"
     },
     {
       "id": "2829974",
-      "title": "\"Starlights Live\" die größte Orgelshow",
-      "url": "https://www.amt-schradenland.de/veranstaltungen/2829974/2026/10/31/starlights-live-die-größte-orgelshow.html",
+      "title": "\"Starlights Live\" die größte Orgelshow Deutschlands",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2829974/2026/10/31/starlights-live-die-größte-orgelshow-deutschlands.html",
       "startDate": "2026-10-31T00:00:00.000Z",
       "fetchedAt": "2026-05-08T18:37:40.359Z",
-      "updatedAt": "2026-05-08T18:37:40.359Z"
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
+      "id": "2972176",
+      "title": "Gräbersegnung Friedhof Großthiemig",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972176/2026/10/31/gräbersegnung-friedhof-großthiemig.html",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
+    },
+    {
+      "id": "2972017",
+      "title": "Halloween im JC Hirschfeld",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972017/2026/10/31/halloween-im-jc-hirschfeld.html",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
     },
     {
       "id": "2897510",
@@ -744,6 +880,14 @@
       "startDate": "2026-11-14T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:53:56.772Z",
       "updatedAt": "2026-09-11T11:07:13.597Z"
+    },
+    {
+      "id": "2972022",
+      "title": "Licherklang - Konzert im Kerzenschein",
+      "url": "https://www.amt-schradenland.de/veranstaltungen/2972022/2026/11/14/licherklang-konzert-im-kerzenschein.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:39:06.952Z",
+      "updatedAt": "2026-09-23T08:39:06.952Z"
     },
     {
       "id": "2829984",

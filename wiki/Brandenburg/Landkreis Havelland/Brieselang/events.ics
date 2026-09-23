@@ -444,6 +444,21 @@ DESCRIPTION:Der Digitale Stammtisch der Gemeinde Brieselang wird in der z
 LOCATION:Gemeinde Brieselang\,
 END:VEVENT
 BEGIN:VEVENT
+UID:brieselang-event-Robinson-Grundschule-laedt-zum-Tag-der-offenen-Tuer-
+ 20261010@amtsfeed.de
+DTSTAMP:20260923T083945Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Robinson-Grundschule lädt zum Tag der offenen Tür
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Robinson-Grundschule-laedt-zum-Tag-der-offenen-Tuer.html?
+DESCRIPTION:Die Robinson-Grundschule lädt am Samstag\, 10. Oktober\, von
+  10 bis 12 Uhr zum Tag der offenen Tür ein. Eltern und Kinder können si
+ ch an diesem Vormittag über die Schule informieren und Einblicke in vers
+ chiedene Lernbereiche erhalten.
+LOCATION:Robinson-Grundschule\,
+END:VEVENT
+BEGIN:VEVENT
 UID:brieselang-event-Bredow-pflanzt-sich-20261017@amtsfeed.de
 DTSTAMP:20260911T110730Z
 DTSTART;VALUE=DATE:20261017
@@ -555,10 +570,10 @@ DESCRIPTION:Weihnachten DAMALS und HEUTE - das ist der Titel für eine we
 END:VEVENT
 BEGIN:VEVENT
 UID:brieselang-event-Weihnachtsfeier-2026-20261218@amtsfeed.de
-DTSTAMP:20260911T110730Z
+DTSTAMP:20260923T083945Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261220
-SUMMARY:Weihnachtsfeier 2026
+SUMMARY:Weihnachtsfeier der Volkssolidarität
 URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
  staltungen/Weihnachtsfeier-2026.html?
 DESCRIPTION:Am Freitag\, den 18. Dezember und Samstag\, den 19. Dezember 

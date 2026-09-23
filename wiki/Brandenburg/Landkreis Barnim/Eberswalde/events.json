@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T08:35:16.821Z",
+  "updatedAt": "2026-09-23T08:37:50.230Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -399,14 +399,6 @@
       "updatedAt": "2026-09-14T08:59:03.268Z"
     },
     {
-      "id": "info.php",
-      "title": "Rechnungsprüfungsausschuss",
-      "url": "https://sessionnet.eberswalde.de/sessionnet/bi/info.php",
-      "startDate": "2026-09-16T20:15:00.000Z",
-      "fetchedAt": "2026-09-13T08:21:28.808Z",
-      "updatedAt": "2026-09-16T08:38:05.190Z"
-    },
-    {
       "id": "galerie-fenster-42-ausstellung-moritz-goetze-pop-art-malerei-grafik-emaille-15",
       "title": "Galerie Fenster - 42. Ausstellung: Moritz Götze Pop Art Malerei - Grafik - Emaille",
       "url": "https://www.eberswalde.de/termine/galerie-fenster-42-ausstellung-moritz-goetze-pop-art-malerei-grafik-emaille-15",
@@ -554,9 +546,9 @@
       "id": "faszination-holz-6",
       "title": "Faszination Holz",
       "url": "https://www.eberswalde.de/termine/faszination-holz-6",
-      "startDate": "2026-09-23T14:00:00.000Z",
+      "startDate": "2026-09-23T15:00:00.000Z",
       "fetchedAt": "2026-09-20T08:38:06.438Z",
-      "updatedAt": "2026-09-20T08:38:06.438Z"
+      "updatedAt": "2026-09-23T08:37:50.219Z"
     },
     {
       "id": "10-jahre-kopfkino-mit-robot-frank",
@@ -586,9 +578,9 @@
       "id": "faszination-holz-7",
       "title": "Faszination Holz",
       "url": "https://www.eberswalde.de/termine/faszination-holz-7",
-      "startDate": "2026-09-24T14:00:00.000Z",
+      "startDate": "2026-09-24T15:00:00.000Z",
       "fetchedAt": "2026-09-21T08:59:54.771Z",
-      "updatedAt": "2026-09-21T08:59:54.771Z"
+      "updatedAt": "2026-09-23T08:37:50.219Z"
     },
     {
       "id": "galerie-fenster-42-ausstellung-moritz-goetze-pop-art-malerei-grafik-emaille-17",
@@ -605,6 +597,22 @@
       "startDate": "2026-09-24T16:30:00.000Z",
       "fetchedAt": "2026-09-22T08:35:16.810Z",
       "updatedAt": "2026-09-22T08:35:16.810Z"
+    },
+    {
+      "id": "bilderbuchkino-in-der-stadtbibliothek-16",
+      "title": "Bilderbuchkino in der Stadtbibliothek",
+      "url": "https://www.eberswalde.de/termine/bilderbuchkino-in-der-stadtbibliothek-16",
+      "startDate": "2026-09-24T16:30:00.000Z",
+      "fetchedAt": "2026-09-23T08:37:50.219Z",
+      "updatedAt": "2026-09-23T08:37:50.219Z"
+    },
+    {
+      "id": "info.php",
+      "title": "Stadtverordnetenversammlung",
+      "url": "https://sessionnet.eberswalde.de/sessionnet/bi/info.php",
+      "startDate": "2026-09-24T19:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:21:28.808Z",
+      "updatedAt": "2026-09-23T08:37:50.219Z"
     }
   ]
 }

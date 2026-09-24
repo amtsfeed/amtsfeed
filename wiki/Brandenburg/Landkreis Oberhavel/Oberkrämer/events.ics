@@ -205,24 +205,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855864/2026/09/21/rommé-
  in-bötzow.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855698@amtsfeed.de
-DTSTAMP:20260917T085133Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Kartenfreunde Schwante
-URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/09/23/kartenf
- reunde-schwante.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855693@amtsfeed.de
-DTSTAMP:20260917T085133Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Singen mit den Vehlefanzer Amseln
-URL:https://www.oberkraemer.de/veranstaltungen/2855693/2026/09/23/singen-
- mit-den-vehlefanzer-amseln.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855865@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20260923
@@ -338,6 +320,24 @@ DTEND;VALUE=DATE:20260930
 SUMMARY:STARS Studie\, Klasse 1b
 URL:https://www.oberkraemer.de/veranstaltungen/2962215/2026/09/29/stars-s
  tudie-klasse-1b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855698@amtsfeed.de
+DTSTAMP:20260924T083717Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Kartenfreunde Schwante
+URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/09/30/kartenf
+ reunde-schwante.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855693@amtsfeed.de
+DTSTAMP:20260924T083717Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Singen mit den Vehlefanzer Amseln
+URL:https://www.oberkraemer.de/veranstaltungen/2855693/2026/09/30/singen-
+ mit-den-vehlefanzer-amseln.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962216@amtsfeed.de

@@ -90,12 +90,28 @@ URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2972685/2026/09/2
  6/figurentheater-cornelia-fritzsche.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2973474@amtsfeed.de
+DTSTAMP:20260924T083126Z
+DTSTART:20261003T150000Z
+SUMMARY:Drachenfest in Marxdorf
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2973474/2026/10/0
+ 3/drachenfest-in-marxdorf.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2952488@amtsfeed.de
 DTSTAMP:20260911T110719Z
 DTSTART:20261003T160000Z
 SUMMARY:Konzert in der Stadtkirche Wahrenbrück
 URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2952488/2026/10/0
  3/konzert-in-der-stadtkirche-wahrenbrück.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2973461@amtsfeed.de
+DTSTAMP:20260924T083126Z
+DTSTART:20261003T190000Z
+SUMMARY:Oktoberfeuer bei der Feuerwehr Prestewitz
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2973461/2026/10/0
+ 3/oktoberfeuer-bei-der-feuerwehr-prestewitz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2972687@amtsfeed.de
@@ -170,5 +186,14 @@ DTSTART:20270220T191100Z
 SUMMARY:Abendveranstaltung
 URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2897714/2027/02/2
  0/abendveranstaltung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2973464@amtsfeed.de
+DTSTAMP:20260924T083126Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:825 Jahre Wahrenbrück
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2973464/2027/08/2
+ 7/825-jahre-wahrenbrück.html
 END:VEVENT
 END:VCALENDAR

@@ -783,33 +783,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2929247/2026/09/21/soun
  d-bath-tu-dir-etwas-gutes.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2424330@amtsfeed.de
-DTSTAMP:20260923T084812Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Offener Jugendraum "WiBu" - begleitet von Franziska Kottwitz
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/09/23/offe
- ner-jugendraum-wibu-begleitet-von-franziska-kottwitz.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2842616@amtsfeed.de
-DTSTAMP:20260917T085416Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:CODER DOJO - Programmierwerkstatt
-URL:https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/09/23/code
- r-dojo-programmierwerkstatt.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907840@amtsfeed.de
-DTSTAMP:20260917T085416Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/09/23/drk-
- spielrunde-kaffee-und-kartenspiel-für-senior-innen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2424341@amtsfeed.de
 DTSTAMP:20260918T082704Z
 DTSTART;VALUE=DATE:20260924
@@ -909,15 +882,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/09/28/drk-
  stuhlgymnastik-2-kurse-a-1-stunde.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2941529@amtsfeed.de
-DTSTAMP:20260922T084237Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Kreativer Wochenstart
-URL:https://www.wiesenburgmark.de/veranstaltungen/2941529/2026/09/28/krea
- tiver-wochenstart.html
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2915098@amtsfeed.de
 DTSTAMP:20260922T084237Z
 DTSTART;VALUE=DATE:20260928
@@ -927,6 +891,15 @@ SUMMARY:Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit
 URL:https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/09/28/krea
  tiver-kindertanz-für-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-th
  eaterpädagogin-nina-stemberger.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2424330@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Offener Jugendraum "WiBu" - begleitet von Franziska Kottwitz
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/09/29/offe
+ ner-jugendraum-wibu-begleitet-von-franziska-kottwitz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2384481@amtsfeed.de
@@ -965,6 +938,24 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2962656/2026/09/29/wür
  devolle-begleitung-am-lebensende.html
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2842616@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:CODER DOJO - Programmierwerkstatt
+URL:https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/09/30/code
+ r-dojo-programmierwerkstatt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907840@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/09/30/drk-
+ spielrunde-kaffee-und-kartenspiel-für-senior-innen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928855@amtsfeed.de
 DTSTAMP:20260911T111350Z
 DTSTART;VALUE=DATE:20260930
@@ -974,6 +965,15 @@ SUMMARY:Seminar " Hilfe beim Helfen" für Angehörige von Menschen mit De
 URL:https://www.wiesenburgmark.de/veranstaltungen/2928855/2026/09/30/semi
  nar-hilfe-beim-helfen-für-angehörige-von-menschen-mit-demenz-wissenswer
  tes-über-demenzerkrankungen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2973363@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Vokü
+URL:https://www.wiesenburgmark.de/veranstaltungen/2973363/2026/10/01/vok
+ ü.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928756@amtsfeed.de
@@ -1029,6 +1029,15 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:5. Gut Schmerwitzer Erntedankfest
 URL:https://www.wiesenburgmark.de/veranstaltungen/2845500/2026/10/04/5.-g
  ut-schmerwitzer-erntedankfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2941529@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Kreativer Wochenstart
+URL:https://www.wiesenburgmark.de/veranstaltungen/2941529/2026/10/05/krea
+ tiver-wochenstart.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2971206@amtsfeed.de
@@ -1107,6 +1116,24 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928859/2026/10/14/semi
  icherung-und-entlastungsangebote-von-menschen-mit-demenz.html
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2973364@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Vokü
+URL:https://www.wiesenburgmark.de/veranstaltungen/2973364/2026/10/15/vok
+ ü.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2973365@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Mantra&Herzenslieder Singen
+URL:https://www.wiesenburgmark.de/veranstaltungen/2973365/2026/10/18/mant
+ ra-herzenslieder-singen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2929248@amtsfeed.de
 DTSTAMP:20260911T111350Z
 DTSTART;VALUE=DATE:20261019
@@ -1138,6 +1165,15 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928862/2026/10/28/semi
  -menschen-mit-demenz.html
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2973355@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Kreativer Wochenstart
+URL:https://www.wiesenburgmark.de/veranstaltungen/2973355/2026/11/02/krea
+ tiver-wochenstart.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928863@amtsfeed.de
 DTSTAMP:20260911T111350Z
 DTSTART;VALUE=DATE:20261104
@@ -1147,6 +1183,15 @@ SUMMARY:Seminar " Hilfe beim Helfen" für Angehörige von Menschen mit De
 URL:https://www.wiesenburgmark.de/veranstaltungen/2928863/2026/11/04/semi
  nar-hilfe-beim-helfen-für-angehörige-von-menschen-mit-demenz-vorsorge-t
  reffen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2973366@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Vokü
+URL:https://www.wiesenburgmark.de/veranstaltungen/2973366/2026/11/05/vok
+ ü.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2930240@amtsfeed.de
@@ -1187,6 +1232,15 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928864/2026/11/11/semi
  -teilen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2973356@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Kreativer Wochenstart
+URL:https://www.wiesenburgmark.de/veranstaltungen/2973356/2026/11/16/krea
+ tiver-wochenstart.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928866@amtsfeed.de
 DTSTAMP:20260911T111350Z
 DTSTART;VALUE=DATE:20261118
@@ -1196,6 +1250,24 @@ SUMMARY:Seminar " Hilfe beim Helfen" für Angehörige von Menschen mit De
 URL:https://www.wiesenburgmark.de/veranstaltungen/2928866/2026/11/18/semi
  nar-hilfe-beim-helfen-für-angehörige-von-menschen-mit-demenz-ein-neues-
  zuhause-finden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2973371@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:"Goldgräberinnen" vom Schätze bergen zum Neuausrichten
+URL:https://www.wiesenburgmark.de/veranstaltungen/2973371/2026/11/18/gold
+ gräberinnen-vom-schätze-bergen-zum-neuausrichten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2973367@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Vokü
+URL:https://www.wiesenburgmark.de/veranstaltungen/2973367/2026/11/19/vok
+ ü.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2929249@amtsfeed.de
@@ -1225,6 +1297,15 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2889579/2026/11/29/adve
  ntsmarkt-in-reetz.html
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2973359@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Kreativer Wochenstart
+URL:https://www.wiesenburgmark.de/veranstaltungen/2973359/2026/11/30/krea
+ tiver-wochenstart.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2889581@amtsfeed.de
 DTSTAMP:20260506T202433Z
 DTSTART;VALUE=DATE:20261204
@@ -1242,6 +1323,15 @@ DTEND;VALUE=DATE:20261205
 SUMMARY:DEFA-Märchenfilmabend
 URL:https://www.wiesenburgmark.de/veranstaltungen/2930018/2026/12/04/defa
  -märchenfilmabend.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2973372@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Reifejahre (20 plus) bis Reife Jahre (50 plus)
+URL:https://www.wiesenburgmark.de/veranstaltungen/2973372/2026/12/04/reif
+ ejahre-20-plus-bis-reife-jahre-50-plus.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928758@amtsfeed.de
@@ -1287,6 +1377,15 @@ DTEND;VALUE=DATE:20261214
 SUMMARY:Sternenstaub und Schneeflockengeflüster
 URL:https://www.wiesenburgmark.de/veranstaltungen/2930022/2026/12/13/ster
  nenstaub-und-schneeflockengeflüster.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2973376@amtsfeed.de
+DTSTAMP:20260924T083925Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Reifejahre (20 plus) bis Reife Jahre (50 plus)
+URL:https://www.wiesenburgmark.de/veranstaltungen/2973376/2026/12/18/reif
+ ejahre-20-plus-bis-reife-jahre-50-plus.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2948598@amtsfeed.de

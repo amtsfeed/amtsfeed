@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T08:46:19.771Z",
+  "updatedAt": "2026-09-24T08:37:51.945Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -149,14 +149,6 @@
       "updatedAt": "2026-05-05T15:50:40.941Z"
     },
     {
-      "id": "scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-durch-die-ortsgeschichte",
-      "title": "Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang durch die Ortsgeschichte",
-      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-durch-die-ortsgeschichte",
-      "startDate": "2026-09-11T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-11T11:12:44.108Z"
-    },
-    {
       "id": "scharmuetzelsee-naturfuehrung-und-lesung-mit-karsten-nitsch",
       "title": "Naturführung und Lesung mit Karsten Nitsch",
       "url": "https://www.scharmuetzelsee.de/event/naturfuehrung-und-lesung-mit-karsten-nitsch",
@@ -293,30 +285,6 @@
       "updatedAt": "2026-09-16T08:45:08.170Z"
     },
     {
-      "id": "scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow",
-      "title": "Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-tour-bad-saarow",
-      "startDate": "2026-09-17T00:00:00.000Z",
-      "fetchedAt": "2026-09-17T08:52:30.326Z",
-      "updatedAt": "2026-09-17T08:52:30.326Z"
-    },
-    {
-      "id": "scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz",
-      "title": "Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz",
-      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz",
-      "startDate": "2026-09-17T00:00:00.000Z",
-      "fetchedAt": "2026-09-17T08:52:30.326Z",
-      "updatedAt": "2026-09-17T08:52:30.326Z"
-    },
-    {
-      "id": "scharmuetzelsee-offener-meditationsabend",
-      "title": "Offener Meditationsabend",
-      "url": "https://www.scharmuetzelsee.de/event/offener-meditationsabend",
-      "startDate": "2026-09-17T00:00:00.000Z",
-      "fetchedAt": "2026-09-17T08:52:30.326Z",
-      "updatedAt": "2026-09-17T08:52:30.326Z"
-    },
-    {
       "id": "scharmuetzelsee-lesung-mit-eva-martina-weyer",
       "title": "Lesung mit Eva-Martina Weyer",
       "url": "https://www.scharmuetzelsee.de/event/lesung-mit-eva-martina-weyer",
@@ -445,14 +413,6 @@
       "updatedAt": "2026-09-23T08:46:19.768Z"
     },
     {
-      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
-      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
-      "startDate": "2026-09-23T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-09-23T08:46:19.768Z"
-    },
-    {
       "id": "scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen",
       "title": "Aktiv Wochenplan - Kneipp-Güsse am Morgen",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-am-morgen",
@@ -485,6 +445,38 @@
       "updatedAt": "2026-09-22T08:41:00.203Z"
     },
     {
+      "id": "scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow",
+      "title": "Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-tour-bad-saarow",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:52:30.326Z",
+      "updatedAt": "2026-09-24T08:37:51.943Z"
+    },
+    {
+      "id": "scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz",
+      "title": "Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz",
+      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:52:30.326Z",
+      "updatedAt": "2026-09-24T08:37:51.943Z"
+    },
+    {
+      "id": "scharmuetzelsee-offener-meditationsabend",
+      "title": "Offener Meditationsabend",
+      "url": "https://www.scharmuetzelsee.de/event/offener-meditationsabend",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:52:30.326Z",
+      "updatedAt": "2026-09-24T08:37:51.943Z"
+    },
+    {
+      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
+      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
+      "startDate": "2026-09-24T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-09-24T08:37:51.943Z"
+    },
+    {
       "id": "scharmuetzelsee-schleusenfahrt-zum-storkower-see",
       "title": "Schleusenfahrt zum Storkower See",
       "url": "https://www.scharmuetzelsee.de/event/schleusenfahrt-zum-storkower-see",
@@ -515,6 +507,14 @@
       "startDate": "2026-09-24T00:00:00.000Z",
       "fetchedAt": "2026-09-23T08:46:19.768Z",
       "updatedAt": "2026-09-23T08:46:19.768Z"
+    },
+    {
+      "id": "scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-durch-die-ortsgeschichte",
+      "title": "Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang durch die Ortsgeschichte",
+      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-durch-die-ortsgeschichte",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-24T08:37:51.943Z"
     },
     {
       "id": "scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-almuth-lohmann-zell",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T08:45:45.254Z",
+  "updatedAt": "2026-09-24T08:37:32.078Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -706,14 +706,6 @@
       "updatedAt": "2026-09-20T08:45:32.731Z"
     },
     {
-      "id": "calau-event-2315266",
-      "title": "23.09.2026   Calauer Museen öffnen",
-      "url": "https://www.calau.de/veranstaltungen/2315266/2026/09/23/calauer-museen-öffnen.html",
-      "startDate": "2026-09-23T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-09-20T08:45:32.731Z"
-    },
-    {
       "id": "calau-event-2838473",
       "title": "23.09.2026   Klöppeltreff",
       "url": "https://www.calau.de/veranstaltungen/2838473/2026/09/23/klöppeltreff.html",
@@ -739,11 +731,11 @@
     },
     {
       "id": "calau-event-2964658",
-      "title": "QiGong",
+      "title": "24.09.2026   QiGong",
       "url": "https://www.calau.de/veranstaltungen/2964658/2026/09/24/qigong.html",
       "startDate": "2026-09-24T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
-      "updatedAt": "2026-09-11T11:12:29.188Z"
+      "updatedAt": "2026-09-24T08:37:32.067Z"
     },
     {
       "id": "calau-event-2959658",
@@ -755,11 +747,11 @@
     },
     {
       "id": "calau-event-2864723",
-      "title": "Flugshow auf dem Adler- und Jagdfalkenhof Werchow",
+      "title": "26.09.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow",
       "url": "https://www.calau.de/veranstaltungen/2864723/2026/09/26/flugshow-auf-dem-adler-und-jagdfalkenhof-werchow.html",
       "startDate": "2026-09-26T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-09-21T09:07:04.555Z"
+      "updatedAt": "2026-09-24T08:37:32.067Z"
     },
     {
       "id": "calau-event-2951948",
@@ -768,6 +760,14 @@
       "startDate": "2026-09-26T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-09-11T11:12:29.188Z"
+    },
+    {
+      "id": "calau-event-2315266",
+      "title": "Calauer Museen öffnen",
+      "url": "https://www.calau.de/veranstaltungen/2315266/2026/09/30/calauer-museen-öffnen.html",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-09-24T08:37:32.067Z"
     },
     {
       "id": "calau-event-2960235",
@@ -848,6 +848,14 @@
       "startDate": "2026-10-11T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
       "updatedAt": "2026-05-31T18:42:01.619Z"
+    },
+    {
+      "id": "calau-event-2973472",
+      "title": "Herbstkonzert",
+      "url": "https://www.calau.de/veranstaltungen/2973472/2026/10/11/herbstkonzert.html",
+      "startDate": "2026-10-11T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:37:32.067Z",
+      "updatedAt": "2026-09-24T08:37:32.067Z"
     },
     {
       "id": "calau-event-2898940",

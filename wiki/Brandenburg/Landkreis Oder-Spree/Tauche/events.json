@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T08:46:59.637Z",
+  "updatedAt": "2026-09-24T08:38:22.614Z",
   "items": [
     {
       "id": "veranstaltungen-2930421-2026-02-22-museum-oder-spree-lauschen-und-lärmen.html",
@@ -1279,15 +1279,6 @@
       "updatedAt": "2026-09-11T11:13:12.992Z"
     },
     {
-      "id": "veranstaltungen-2892942-2026-10-26-preußencamp.html",
-      "title": "Preußencamp",
-      "url": "https://www.gemeinde-tauche.de/veranstaltungen/2892942/2026/10/26/preußencamp.html",
-      "startDate": "2026-10-26T10:00:00.000Z",
-      "endDate": "2026-10-26T10:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:42.258Z",
-      "updatedAt": "2026-09-23T08:46:59.621Z"
-    },
-    {
       "id": "veranstaltungen-2930877-2026-10-26-die-welt-der-onleihe--elektronische-medien-erklärt-und-vorgeführt.html",
       "title": "Die Welt der Onleihe &ndash; elektronische Medien erklärt und vorgeführt",
       "url": "https://www.gemeinde-tauche.de/veranstaltungen/2930877/2026/10/26/die-welt-der-onleihe--elektronische-medien-erklärt-und-vorgeführt.html",
@@ -1295,6 +1286,15 @@
       "endDate": "2026-10-26T17:29:00.000Z",
       "fetchedAt": "2026-09-11T09:59:42.258Z",
       "updatedAt": "2026-09-11T11:13:12.992Z"
+    },
+    {
+      "id": "veranstaltungen-2892942-2026-10-26-preußencamp.html",
+      "title": "Preußencamp",
+      "url": "https://www.gemeinde-tauche.de/veranstaltungen/2892942/2026/10/26/preußencamp.html",
+      "startDate": "2026-10-26T18:00:00.000Z",
+      "endDate": "2026-10-26T18:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:42.258Z",
+      "updatedAt": "2026-09-24T08:38:22.597Z"
     },
     {
       "id": "veranstaltungen-2930865-2026-10-27-treff-bibka-spielestündchen.html",
@@ -1411,6 +1411,15 @@
       "endDate": "2026-11-18T19:00:00.000Z",
       "fetchedAt": "2026-09-11T09:59:42.258Z",
       "updatedAt": "2026-09-11T11:13:12.992Z"
+    },
+    {
+      "id": "veranstaltungen-2973095-2026-11-21-tag-der-offenen-tür-an-der-albert-schweitzer-oberschule.html",
+      "title": "Tag der offenen Tür  an der Albert-Schweitzer Oberschule",
+      "url": "https://www.gemeinde-tauche.de/veranstaltungen/2973095/2026/11/21/tag-der-offenen-tür-an-der-albert-schweitzer-oberschule.html",
+      "startDate": "2026-11-21T09:30:00.000Z",
+      "endDate": "2026-11-21T12:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:38:22.597Z",
+      "updatedAt": "2026-09-24T08:38:22.597Z"
     },
     {
       "id": "veranstaltungen-2930866-2026-11-24-treff-bibka-spielestündchen.html",

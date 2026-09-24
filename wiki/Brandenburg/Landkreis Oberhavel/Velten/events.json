@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T08:40:27.470Z",
+  "updatedAt": "2026-09-24T08:37:21.833Z",
   "items": [
     {
       "id": "velten-event-932",
@@ -723,6 +723,22 @@
       "startDate": "2026-10-22T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:27.479Z",
       "updatedAt": "2026-09-22T08:40:27.479Z"
+    },
+    {
+      "id": "velten-event-983",
+      "title": "Herbstfeuer",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Herbstfeuer.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.983.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:37:21.843Z",
+      "updatedAt": "2026-09-24T08:37:21.843Z"
+    },
+    {
+      "id": "velten-event-1028",
+      "title": "Wochenmarkt",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochenmarkt.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1028.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-10-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:37:21.843Z",
+      "updatedAt": "2026-09-24T08:37:21.843Z"
     }
   ]
 }

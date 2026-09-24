@@ -148,6 +148,16 @@ URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/woch
 DESCRIPTION:Kinotage zum Film "Schnupfen im Kopf"
 END:VEVENT
 BEGIN:VEVENT
+UID:e-schrott-aktionstag@amtsfeed.de
+DTSTAMP:20260924T083543Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:E-Schrott-Aktionstag
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/e-sc
+ hrott-aktionstag
+DESCRIPTION:Jeder Stecker zählt!
+END:VEVENT
+BEGIN:VEVENT
 UID:neulewiner-oktoberfest@amtsfeed.de
 DTSTAMP:20260911T111124Z
 DTSTART;VALUE=DATE:20261017

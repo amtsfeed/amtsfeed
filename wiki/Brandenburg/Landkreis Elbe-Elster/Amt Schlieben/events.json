@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:07:13.160Z",
+  "updatedAt": "2026-09-24T08:31:11.867Z",
   "items": [
     {
       "id": "schlieben-event-20260508-awo-spielenachmittag",
@@ -346,6 +346,14 @@
       "updatedAt": "2026-05-08T18:53:57.356Z"
     },
     {
+      "id": "schlieben-event-20261010-offener-weinberg",
+      "title": "Offener Weinberg",
+      "url": "https://www.amt-schlieben.de/tourismus/kultur/termine/",
+      "startDate": "2026-10-10T15:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:31:11.877Z",
+      "updatedAt": "2026-09-24T08:31:11.877Z"
+    },
+    {
       "id": "schlieben-event-20261018-k-rbisfest",
       "title": "Kürbisfest",
       "url": "https://www.amt-schlieben.de/tourismus/kultur/termine/",
@@ -416,6 +424,14 @@
       "startDate": "2026-11-14T19:00:00.000Z",
       "fetchedAt": "2026-05-08T18:53:57.356Z",
       "updatedAt": "2026-05-08T18:53:57.356Z"
+    },
+    {
+      "id": "schlieben-event-20261121-martinsgans-und-schliebener-wein",
+      "title": "Martinsgans und Schliebener Wein",
+      "url": "https://www.amt-schlieben.de/tourismus/kultur/termine/",
+      "startDate": "2026-11-21T19:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:31:11.877Z",
+      "updatedAt": "2026-09-24T08:31:11.877Z"
     },
     {
       "id": "schlieben-event-20261127-weihnachtsmarkt",

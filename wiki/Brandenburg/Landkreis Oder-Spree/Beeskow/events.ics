@@ -3298,6 +3298,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-70762:0@amtsfeed.de
+DTSTAMP:20260924T083800Z
+DTSTART:20260924T082600Z
+DTEND:20260924T092600Z
+SUMMARY:Musik für St. Marien – CCCXI
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Katholische Pfarrkirche Heilig Geist Beeskow
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99223598@amtsfeed.de
 DTSTAMP:20260922T084111Z
 DTSTART:20260924T100000Z
@@ -5196,6 +5205,15 @@ SUMMARY:Kassandra sieht ein Schlangenei - Werke von Heidrun Hegewald in B
  eeskow
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-70756:0@amtsfeed.de
+DTSTAMP:20260924T083800Z
+DTSTART:20261121T093000Z
+DTEND:20261121T120000Z
+SUMMARY:Tag der offenen Tür  an der Albert-Schweitzer Oberschule
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Albert-Schweitzer Oberschule
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99104575@amtsfeed.de

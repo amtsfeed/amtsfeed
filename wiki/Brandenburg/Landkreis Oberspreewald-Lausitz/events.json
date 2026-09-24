@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T08:46:09.150Z",
+  "updatedAt": "2026-09-24T08:37:47.267Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -5101,6 +5101,16 @@
       "updatedAt": "2026-09-11T11:12:41.342Z"
     },
     {
+      "id": "lk-osl-event-2973407-20260925",
+      "title": "Tag der offenen Kinder- und Jugendarbeit",
+      "url": "https://www.osl-online.de/veranstaltungen/2973407/2026/09/25/tag-der-offenen-kinder-und-jugendarbeit.html",
+      "startDate": "2026-09-25T12:30:00.000Z",
+      "endDate": "2026-09-25T16:30:00.000Z",
+      "location": "Skateranlage/Marktplatz in Schipkau",
+      "fetchedAt": "2026-09-24T08:37:47.309Z",
+      "updatedAt": "2026-09-24T08:37:47.309Z"
+    },
+    {
       "id": "lk-osl-event-2965272-20260925",
       "title": "Buntes Herbstfest",
       "url": "https://www.osl-online.de/veranstaltungen/2965272/2026/09/25/buntes-herbstfest.html",
@@ -6008,6 +6018,15 @@
       "updatedAt": "2026-09-14T09:07:49.475Z"
     },
     {
+      "id": "lk-osl-event-2973472-20261011",
+      "title": "Herbstkonzert",
+      "url": "https://www.osl-online.de/veranstaltungen/2973472/2026/10/11/herbstkonzert.html",
+      "startDate": "2026-10-11T16:00:00.000Z",
+      "location": "Evangl. Stadtkirche Calau",
+      "fetchedAt": "2026-09-24T08:37:47.309Z",
+      "updatedAt": "2026-09-24T08:37:47.309Z"
+    },
+    {
       "id": "lk-osl-event-2963075-20261011",
       "title": "Günter Grass Kulturtage Altdöbern - Kirchenführung",
       "url": "https://www.osl-online.de/veranstaltungen/2963075/2026/10/11/günter-grass-kulturtage-altdöbern-kirchenführung.html",
@@ -6738,6 +6757,16 @@
       "updatedAt": "2026-09-11T11:12:41.342Z"
     },
     {
+      "id": "lk-osl-event-2973479-20261027",
+      "title": "Lego-Bautag 2026",
+      "url": "https://www.osl-online.de/veranstaltungen/2973479/2026/10/27/lego-bautag-2026.html",
+      "startDate": "2026-10-27T10:00:00.000Z",
+      "endDate": "2026-10-27T15:00:00.000Z",
+      "location": "Kulturhaus Klettwitz",
+      "fetchedAt": "2026-09-24T08:37:47.309Z",
+      "updatedAt": "2026-09-24T08:37:47.309Z"
+    },
+    {
       "id": "lk-osl-event-2124475-20261027",
       "title": "Chorprobe mit dem Stadtchor Lauchhammer",
       "url": "https://www.osl-online.de/veranstaltungen/2124475/2026/10/27/chorprobe-mit-dem-stadtchor-lauchhammer.html",
@@ -7221,6 +7250,16 @@
       "location": "SeeCampus Schwarzheide (Aula)",
       "fetchedAt": "2026-09-22T08:40:53.347Z",
       "updatedAt": "2026-09-22T08:40:53.347Z"
+    },
+    {
+      "id": "lk-osl-event-2973382-20261107",
+      "title": "Halloweenkonzert der Musikschule OSL",
+      "url": "https://www.osl-online.de/veranstaltungen/2973382/2026/11/07/halloweenkonzert-der-musikschule-osl.html",
+      "startDate": "2026-11-07T14:00:00.000Z",
+      "endDate": "2026-11-07T21:30:00.000Z",
+      "location": "Bürgerzentrum Schipkau",
+      "fetchedAt": "2026-09-24T08:37:47.309Z",
+      "updatedAt": "2026-09-24T08:37:47.309Z"
     },
     {
       "id": "lk-osl-event-2791429-20261107",
@@ -12933,6 +12972,16 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-09-23T08:46:09.190Z",
       "updatedAt": "2026-09-23T08:46:09.190Z"
+    },
+    {
+      "id": "lk-osl-event-2918359-20270924",
+      "title": "Gruppentreffen Selbsthilfegruppe Multiple Sklerose",
+      "url": "https://www.osl-online.de/veranstaltungen/2918359/2027/09/24/gruppentreffen-selbsthilfegruppe-multiple-sklerose.html",
+      "startDate": "2027-09-24T10:00:00.000Z",
+      "endDate": "2027-09-24T12:00:00.000Z",
+      "location": "REKOSI",
+      "fetchedAt": "2026-09-24T08:37:47.309Z",
+      "updatedAt": "2026-09-24T08:37:47.309Z"
     }
   ]
 }

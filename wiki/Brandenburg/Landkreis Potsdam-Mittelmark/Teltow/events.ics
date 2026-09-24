@@ -1113,15 +1113,6 @@ URL:https://www.teltow.de/veranstaltungen/2927850/2026/09/22/teltower-sal
  inter.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930017@amtsfeed.de
-DTSTAMP:20260917T085409Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
-URL:https://www.teltow.de/veranstaltungen/2930017/2026/09/23/offener-lern
- raum-lesen-schreiben-rechnen-basis-englisch.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2924782@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260923
@@ -1266,6 +1257,15 @@ URL:https://www.teltow.de/veranstaltungen/2928742/2026/09/29/wildtiere-in
  -teltow.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2930017@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
+URL:https://www.teltow.de/veranstaltungen/2930017/2026/09/30/offener-lern
+ raum-lesen-schreiben-rechnen-basis-englisch.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2924792@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260930
@@ -1282,6 +1282,15 @@ DTEND;VALUE=DATE:20261002
 SUMMARY:Lausitz Jahrmarkt
 URL:https://www.teltow.de/veranstaltungen/2966627/2026/10/01/lausitz-jahr
  markt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972959@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
+URL:https://www.teltow.de/veranstaltungen/2972959/2026/10/04/das-heimatmu
+ seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2971717@amtsfeed.de
@@ -1347,6 +1356,33 @@ URL:https://www.teltow.de/veranstaltungen/2846385/2026/10/09/gesprächsre
  ihe-freitag-mit-freymuth.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2973386@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Radwanderung: Löwen-Tour
+URL:https://www.teltow.de/veranstaltungen/2973386/2026/10/10/radwanderung
+ -löwen-tour.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972960@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Altstadtführung des Heimatvereins Teltow
+URL:https://www.teltow.de/veranstaltungen/2972960/2026/10/10/altstadtfüh
+ rung-des-heimatvereins-teltow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972963@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Staudentrödel im Heimatmuseum
+URL:https://www.teltow.de/veranstaltungen/2972963/2026/10/11/staudentröd
+ el-im-heimatmuseum.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2971725@amtsfeed.de
 DTSTAMP:20260922T084228Z
 DTSTART;VALUE=DATE:20261012
@@ -1354,6 +1390,15 @@ DTEND;VALUE=DATE:20261013
 SUMMARY:Sitztanz
 URL:https://www.teltow.de/veranstaltungen/2971725/2026/10/12/sitztanz.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972996@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Die Geschichte der Chemie in Teltow-Seehof
+URL:https://www.teltow.de/veranstaltungen/2972996/2026/10/13/die-geschich
+ te-der-chemie-in-teltow-seehof.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2857822@amtsfeed.de
@@ -1381,6 +1426,26 @@ DTEND;VALUE=DATE:20261016
 SUMMARY:Musik zur Kaffeestunde
 URL:https://www.teltow.de/veranstaltungen/2972015/2026/10/15/musik-zur-ka
  ffeestunde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2973406@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Blick in die Zukunft - Entlang der geplanten S-Bahnstrecke Teltow
+  Stadt nach Stahnsdorf
+URL:https://www.teltow.de/veranstaltungen/2973406/2026/10/17/blick-in-die
+ -zukunft-entlang-der-geplanten-s-bahnstrecke-teltow-stadt-nach-stahnsdorf
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972968@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
+URL:https://www.teltow.de/veranstaltungen/2972968/2026/10/18/das-heimatmu
+ seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972020@amtsfeed.de
@@ -1436,6 +1501,16 @@ SUMMARY:Aktionstag „Feuer und Flamme für unsere Museen“ im Industrie
  museum
 URL:https://www.teltow.de/veranstaltungen/2929921/2026/10/24/aktionstag-f
  euer-und-flamme-für-unsere-museen-im-industriemuseum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972970@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Aktionstag „Feuer und Flamme für unsere Museen“ im Heimatmus
+ eum
+URL:https://www.teltow.de/veranstaltungen/2972970/2026/10/24/aktionstag-f
+ euer-und-flamme-für-unsere-museen-im-heimatmuseum.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972031@amtsfeed.de
@@ -1502,6 +1577,15 @@ URL:https://www.teltow.de/veranstaltungen/2972120/2026/10/29/beratung-fü
  r-senioren.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2972973@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
+URL:https://www.teltow.de/veranstaltungen/2972973/2026/11/01/das-heimatmu
+ seum-im-ältesten-haus-teltows-ist-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2859856@amtsfeed.de
 DTSTAMP:20260506T181553Z
 DTSTART;VALUE=DATE:20261102
@@ -1547,6 +1631,15 @@ URL:https://www.teltow.de/veranstaltungen/2972206/2026/11/04/sportgruppe.
  html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2972976@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
+URL:https://www.teltow.de/veranstaltungen/2972976/2026/11/08/das-heimatmu
+ seum-im-ältesten-haus-teltows-ist-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2972215@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261109
@@ -1583,6 +1676,15 @@ URL:https://www.teltow.de/veranstaltungen/2972219/2026/11/10/singe-mit-su
  si.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2972997@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Glasfasertechnologie
+URL:https://www.teltow.de/veranstaltungen/2972997/2026/11/10/glasfasertec
+ hnologie.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2972226@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261111
@@ -1590,6 +1692,24 @@ DTEND;VALUE=DATE:20261112
 SUMMARY:Martinsgansessen im Seniorentreff
 URL:https://www.teltow.de/veranstaltungen/2972226/2026/11/11/martinsganse
  ssen-im-seniorentreff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2973526@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:TELTOW HELAU!
+URL:https://www.teltow.de/veranstaltungen/2973526/2026/11/11/teltow-helau
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2973525@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Laternenumzug
+URL:https://www.teltow.de/veranstaltungen/2973525/2026/11/11/laternenumzu
+ g.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972232@amtsfeed.de
@@ -1608,6 +1728,15 @@ DTEND;VALUE=DATE:20261115
 SUMMARY:Pflanzung eines neuen Tiny Forrest
 URL:https://www.teltow.de/veranstaltungen/2972405/2026/11/14/pflanzung-ei
  nes-neuen-tiny-forrest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972978@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
+URL:https://www.teltow.de/veranstaltungen/2972978/2026/11/15/das-heimatmu
+ seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972236@amtsfeed.de
@@ -1673,6 +1802,24 @@ URL:https://www.teltow.de/veranstaltungen/2846390/2026/11/20/gesprächsre
  ihe-freitag-mit-freymuth.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2972980@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Spinn-Workshop im Heimatmuseum
+URL:https://www.teltow.de/veranstaltungen/2972980/2026/11/21/spinn-worksh
+ op-im-heimatmuseum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972983@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
+URL:https://www.teltow.de/veranstaltungen/2972983/2026/11/22/das-heimatmu
+ seum-im-ältesten-haus-teltows-ist-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2972248@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261123
@@ -1698,6 +1845,15 @@ DTEND;VALUE=DATE:20261124
 SUMMARY:Spielegruppe
 URL:https://www.teltow.de/veranstaltungen/2972249/2026/11/23/spielegruppe
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2973448@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Weihnachtsshopping in der Tourist Information
+URL:https://www.teltow.de/veranstaltungen/2973448/2026/11/23/weihnachtssh
+ opping-in-der-tourist-information.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972254@amtsfeed.de
@@ -1743,6 +1899,15 @@ DTEND;VALUE=DATE:20261127
 SUMMARY:Weihnachtliches KlatschKaffee
 URL:https://www.teltow.de/veranstaltungen/2972258/2026/11/26/weihnachtlic
  hes-klatschkaffee.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972985@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
+URL:https://www.teltow.de/veranstaltungen/2972985/2026/11/29/das-heimatmu
+ seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972287@amtsfeed.de
@@ -1799,6 +1964,24 @@ URL:https://www.teltow.de/veranstaltungen/2972210/2026/12/03/der-pc-senio
  r.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2973488@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Jugenddisco
+URL:https://www.teltow.de/veranstaltungen/2973488/2026/12/04/jugenddisco.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972986@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
+URL:https://www.teltow.de/veranstaltungen/2972986/2026/12/06/das-heimatmu
+ seum-im-ältesten-haus-teltows-ist-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2972340@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261207
@@ -1817,6 +2000,15 @@ URL:https://www.teltow.de/veranstaltungen/2972341/2026/12/07/spielegruppe
  .html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2973000@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Die Entwicklung der Robotik und die Rolle Chinas
+URL:https://www.teltow.de/veranstaltungen/2973000/2026/12/08/die-entwickl
+ ung-der-robotik-und-die-rolle-chinas.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2972342@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261210
@@ -1833,6 +2025,24 @@ DTEND;VALUE=DATE:20261211
 SUMMARY:Spielnachmittag
 URL:https://www.teltow.de/veranstaltungen/2972343/2026/12/10/spielnachmit
  tag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972988@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
+URL:https://www.teltow.de/veranstaltungen/2972988/2026/12/13/das-heimatmu
+ seum-im-ältesten-haus-teltows-ist-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2973476@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Weihnachtsmarkt & Puppentheater
+URL:https://www.teltow.de/veranstaltungen/2973476/2026/12/13/weihnachtsma
+ rkt-puppentheater.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972346@amtsfeed.de
@@ -1887,5 +2097,14 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Sportgruppe
 URL:https://www.teltow.de/veranstaltungen/2972351/2026/12/16/sportgruppe.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2972989@amtsfeed.de
+DTSTAMP:20260924T083917Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
+URL:https://www.teltow.de/veranstaltungen/2972989/2026/12/20/das-heimatmu
+ seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 END:VCALENDAR

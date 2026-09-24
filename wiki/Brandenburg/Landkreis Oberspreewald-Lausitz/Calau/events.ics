@@ -797,15 +797,6 @@ URL:https://www.calau.de/veranstaltungen/2947233/2026/09/22/tanz-dich-fre
  i.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20260920T084532Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:23.09.2026   Calauer Museen öffnen
-URL:https://www.calau.de/veranstaltungen/2315266/2026/09/23/calauer-musee
- n-öffnen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2838473@amtsfeed.de
 DTSTAMP:20260921T090704Z
 DTSTART;VALUE=DATE:20260923
@@ -834,10 +825,10 @@ URL:https://www.calau.de/veranstaltungen/2964655/2026/09/24/beratung-sozi
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2964658@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260924T083732Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:QiGong
+SUMMARY:24.09.2026   QiGong
 URL:https://www.calau.de/veranstaltungen/2964658/2026/09/24/qigong.html
 END:VEVENT
 BEGIN:VEVENT
@@ -852,10 +843,10 @@ URL:https://www.calau.de/veranstaltungen/2959658/2026/09/24/vortrag-nach-
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20260921T090704Z
+DTSTAMP:20260924T083732Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+SUMMARY:26.09.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
 URL:https://www.calau.de/veranstaltungen/2864723/2026/09/26/flugshow-auf-
  dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
@@ -867,6 +858,15 @@ DTEND;VALUE=DATE:20260927
 SUMMARY:20. Nachtlauf der Jugendfeuerwehr Zinnitz
 URL:https://www.calau.de/veranstaltungen/2951948/2026/09/26/20.-nachtlauf
  -der-jugendfeuerwehr-zinnitz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2315266@amtsfeed.de
+DTSTAMP:20260924T083732Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Calauer Museen öffnen
+URL:https://www.calau.de/veranstaltungen/2315266/2026/09/30/calauer-musee
+ n-öffnen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960235@amtsfeed.de
@@ -959,6 +959,15 @@ DTEND;VALUE=DATE:20261012
 SUMMARY:Kirchturmführungen ohne Anmeldung
 URL:https://www.calau.de/veranstaltungen/2822078/2026/10/11/kirchturmfüh
  rungen-ohne-anmeldung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2973472@amtsfeed.de
+DTSTAMP:20260924T083732Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Herbstkonzert
+URL:https://www.calau.de/veranstaltungen/2973472/2026/10/11/herbstkonzert
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2898940@amtsfeed.de

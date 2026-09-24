@@ -5229,6 +5229,16 @@ URL:https://www.osl-online.de/veranstaltungen/2964708/2026/09/25/krabat.h
 LOCATION:Theater Neue Bühne Senftenberg
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2973407-20260925@amtsfeed.de
+DTSTAMP:20260924T083747Z
+DTSTART:20260925T123000Z
+DTEND:20260925T163000Z
+SUMMARY:Tag der offenen Kinder- und Jugendarbeit
+URL:https://www.osl-online.de/veranstaltungen/2973407/2026/09/25/tag-der-
+ offenen-kinder-und-jugendarbeit.html
+LOCATION:Skateranlage/Marktplatz in Schipkau
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2965272-20260925@amtsfeed.de
 DTSTAMP:20260911T111241Z
 DTSTART:20260925T150000Z
@@ -6165,6 +6175,15 @@ URL:https://www.osl-online.de/veranstaltungen/2966633/2026/10/11/der-drit
 LOCATION:Theater Neue Bühne Senftenberg
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2973472-20261011@amtsfeed.de
+DTSTAMP:20260924T083747Z
+DTSTART:20261011T160000Z
+SUMMARY:Herbstkonzert
+URL:https://www.osl-online.de/veranstaltungen/2973472/2026/10/11/herbstko
+ nzert.html
+LOCATION:Evangl. Stadtkirche Calau
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2963075-20261011@amtsfeed.de
 DTSTAMP:20260911T111241Z
 DTSTART:20261011T170000Z
@@ -6929,6 +6948,16 @@ URL:https://www.osl-online.de/veranstaltungen/2951698/2026/10/27/hallowee
 LOCATION:Stadtbibliothek Calau
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2973479-20261027@amtsfeed.de
+DTSTAMP:20260924T083747Z
+DTSTART:20261027T100000Z
+DTEND:20261027T150000Z
+SUMMARY:Lego-Bautag 2026
+URL:https://www.osl-online.de/veranstaltungen/2973479/2026/10/27/lego-bau
+ tag-2026.html
+LOCATION:Kulturhaus Klettwitz
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2124475-20261027@amtsfeed.de
 DTSTAMP:20260531T184206Z
 DTSTART:20261027T190000Z
@@ -7428,6 +7457,16 @@ URL:https://www.osl-online.de/veranstaltungen/2971004/2026/11/06/krimiles
  ung-in-der-seecampus-bibliothek-franziska-steinhauer-quotgewitter-über-d
  em-spreewald-quot.html
 LOCATION:SeeCampus Schwarzheide (Aula)
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2973382-20261107@amtsfeed.de
+DTSTAMP:20260924T083747Z
+DTSTART:20261107T140000Z
+DTEND:20261107T213000Z
+SUMMARY:Halloweenkonzert der Musikschule OSL
+URL:https://www.osl-online.de/veranstaltungen/2973382/2026/11/07/hallowee
+ nkonzert-der-musikschule-osl.html
+LOCATION:Bürgerzentrum Schipkau
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2791429-20261107@amtsfeed.de
@@ -13245,5 +13284,15 @@ SUMMARY:Behinderten- und Seniorenberatung
 URL:https://www.osl-online.de/veranstaltungen/2124494/2027/09/23/behinder
  ten-und-seniorenberatung.html
 LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2918359-20270924@amtsfeed.de
+DTSTAMP:20260924T083747Z
+DTSTART:20270924T100000Z
+DTEND:20270924T120000Z
+SUMMARY:Gruppentreffen Selbsthilfegruppe Multiple Sklerose
+URL:https://www.osl-online.de/veranstaltungen/2918359/2027/09/24/gruppent
+ reffen-selbsthilfegruppe-multiple-sklerose.html
+LOCATION:REKOSI
 END:VEVENT
 END:VCALENDAR

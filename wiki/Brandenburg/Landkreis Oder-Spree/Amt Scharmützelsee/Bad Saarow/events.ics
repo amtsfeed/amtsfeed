@@ -171,17 +171,6 @@ SUMMARY:Rad-Scharmützel 2026
 URL:https://www.scharmuetzelsee.de/event/rad-scharmuetzel-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
- durch-die-ortsgeschichte@amtsfeed.de
-DTSTAMP:20260911T111244Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang dur
- ch die Ortsgeschichte
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-
- fps-ssp-ein-rundgang-durch-die-ortsgeschichte
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-naturfuehrung-und-lesung-mit-karsten-nitsch@amtsfeed.
  de
 DTSTAMP:20260911T111244Z
@@ -341,34 +330,6 @@ URL:https://www.scharmuetzelsee.de/event/abend-der-wissenschaft-im-wetter
  museum
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
- eed.de
-DTSTAMP:20260917T085230Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
- tour-bad-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz@a
- mtsfeed.de
-DTSTAMP:20260917T085230Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
- tour-wendisch-rietz
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
-DTSTAMP:20260917T085230Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Offener Meditationsabend
-URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-lesung-mit-eva-martina-weyer@amtsfeed.de
 DTSTAMP:20260917T085230Z
 DTSTART;VALUE=DATE:20260917
@@ -515,15 +476,6 @@ URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
  d-saarow-am-mittwoch
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260923T084619Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
 DTSTAMP:20260922T084100Z
 DTSTART;VALUE=DATE:20260923
@@ -557,6 +509,43 @@ DTEND;VALUE=DATE:20260924
 SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
  perkurs
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
+ eed.de
+DTSTAMP:20260924T083751Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
+ tour-bad-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz@a
+ mtsfeed.de
+DTSTAMP:20260924T083751Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
+ tour-wendisch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
+DTSTAMP:20260924T083751Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Offener Meditationsabend
+URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20260924T083751Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-schleusenfahrt-zum-storkower-see@amtsfeed.de
@@ -593,6 +582,17 @@ DTEND;VALUE=DATE:20260925
 SUMMARY:Zur Kaffeezeit im Scharwenka Kulturforum
 URL:https://www.scharmuetzelsee.de/event/zur-kaffeezeit-im-scharwenka-kul
  turforum
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
+ durch-die-ortsgeschichte@amtsfeed.de
+DTSTAMP:20260924T083751Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang dur
+ ch die Ortsgeschichte
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-
+ fps-ssp-ein-rundgang-durch-die-ortsgeschichte
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-al

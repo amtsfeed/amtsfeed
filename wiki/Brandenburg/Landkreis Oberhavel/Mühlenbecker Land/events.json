@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T08:45:20.809Z",
+  "updatedAt": "2026-09-24T08:37:15.517Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -2821,6 +2821,42 @@
       "location": "Mühlenbecker Wohnzimmer / Mönchmühlenallee 3 / 16567 Mühlenbeck",
       "fetchedAt": "2026-09-23T08:45:20.809Z",
       "updatedAt": "2026-09-23T08:45:20.809Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58800992",
+      "title": "\"Tafel\"-Lebensmittelverkauf",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58800992",
+      "startDate": "2026-10-14T09:00:00.000Z",
+      "location": "Mühlentreff, Hauptstraße 7, OT Mühlenbeck",
+      "fetchedAt": "2026-09-24T08:37:15.517Z",
+      "updatedAt": "2026-09-24T08:37:15.517Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798798",
+      "title": "Bürgerverein Bieselheide: Kreativgruppe",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798798",
+      "startDate": "2026-10-14T10:00:00.000Z",
+      "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
+      "fetchedAt": "2026-09-24T08:37:15.517Z",
+      "updatedAt": "2026-09-24T08:37:15.517Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58809525",
+      "title": "Bürgerverein: Boule am Teich",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58809525",
+      "startDate": "2026-10-14T14:00:00.000Z",
+      "location": "Bouleplatz, Feldahornstraße, OT Schönfließ",
+      "fetchedAt": "2026-09-24T08:37:15.517Z",
+      "updatedAt": "2026-09-24T08:37:15.517Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58896484",
+      "title": "Ordnungsamt vor Ort in Mühlenbeck",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58896484",
+      "startDate": "2026-10-14T16:00:00.000Z",
+      "location": "Mühlentreff, Hauptstr. 7, 16567 Mühlenbeck",
+      "fetchedAt": "2026-09-24T08:37:15.517Z",
+      "updatedAt": "2026-09-24T08:37:15.517Z"
     }
   ]
 }

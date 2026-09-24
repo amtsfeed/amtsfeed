@@ -930,4 +930,24 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ferien
  programm-Perlenlichterketten-basteln.php?object=tx\,3631.4.1&amp\;ModID=1
  1&amp\;FID=3631.1189.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-983@amtsfeed.de
+DTSTAMP:20260924T083721Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Herbstfeuer
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Herbst
+ feuer.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.983.1&amp\;NavI
+ D=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1028@amtsfeed.de
+DTSTAMP:20260924T083721Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1028.1&amp\;Nav
+ ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
 END:VCALENDAR

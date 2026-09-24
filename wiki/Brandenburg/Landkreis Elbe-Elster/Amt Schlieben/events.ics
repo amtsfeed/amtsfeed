@@ -336,6 +336,13 @@ SUMMARY:Erntedankfest
 URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
 END:VEVENT
 BEGIN:VEVENT
+UID:schlieben-event-20261010-offener-weinberg@amtsfeed.de
+DTSTAMP:20260924T083111Z
+DTSTART:20261010T150000Z
+SUMMARY:Offener Weinberg
+URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
+END:VEVENT
+BEGIN:VEVENT
 UID:schlieben-event-20261018-k-rbisfest@amtsfeed.de
 DTSTAMP:20260508T185357Z
 DTSTART:20261018T130000Z
@@ -403,6 +410,13 @@ UID:schlieben-event-20261114-martinsgansessen-mit-dem-weinbauverein@amtsf
 DTSTAMP:20260508T185357Z
 DTSTART:20261114T190000Z
 SUMMARY:Martinsgansessen mit dem Weinbauverein
+URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
+END:VEVENT
+BEGIN:VEVENT
+UID:schlieben-event-20261121-martinsgans-und-schliebener-wein@amtsfeed.de
+DTSTAMP:20260924T083111Z
+DTSTART:20261121T190000Z
+SUMMARY:Martinsgans und Schliebener Wein
 URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
 END:VEVENT
 BEGIN:VEVENT

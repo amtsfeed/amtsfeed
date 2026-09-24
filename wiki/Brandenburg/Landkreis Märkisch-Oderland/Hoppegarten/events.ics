@@ -274,6 +274,24 @@ URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2969794/2026/10/0
 LOCATION:Haus der Generationen\, Lindenallee 12\, 15366 Hoppegarten
 END:VEVENT
 BEGIN:VEVENT
+UID:2973001@amtsfeed.de
+DTSTAMP:20260924T083606Z
+DTSTART:20261011T100000Z
+SUMMARY:Tag der Sicherheit
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2973001/2026/10/1
+ 1/tag-der-sicherheit.html
+LOCATION:Ortsteilzentrum Hönow
+END:VEVENT
+BEGIN:VEVENT
+UID:2972975@amtsfeed.de
+DTSTAMP:20260924T083606Z
+DTSTART:20261016T190000Z
+SUMMARY:Jahresversammlung Nabu Hoppegarten e.V.
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2972975/2026/10/1
+ 6/jahresversammlung-nabu-hoppegarten-e.v.html
+LOCATION:Haus der Generationen\, Lindenallee 12\, 15366 Hoppegarten
+END:VEVENT
+BEGIN:VEVENT
 UID:2972401@amtsfeed.de
 DTSTAMP:20260923T084410Z
 DTSTART;VALUE=DATE:20261017
@@ -291,6 +309,16 @@ SUMMARY:CleanUpDay
 URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2846762/2026/10/1
  7/cleanupday.html
 LOCATION:Startpunkt siehe Flyer
+END:VEVENT
+BEGIN:VEVENT
+UID:2972993@amtsfeed.de
+DTSTAMP:20260924T083606Z
+DTSTART:20261018T130000Z
+SUMMARY:Tag der offenen Tür & Flohmarkt für Kinder
+URL:https://www.gemeinde-hoppegarten.de/veranstaltungen/2972993/2026/10/1
+ 8/tag-der-offenen-tür-flohmarkt-für-kinder.html
+LOCATION:Feuerwehrgerätehaus Hönow\, Mühlenfließ 5\, 15366 Hoppegarte
+ n
 END:VEVENT
 BEGIN:VEVENT
 UID:2963492@amtsfeed.de

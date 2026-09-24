@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T08:48:12.433Z",
+  "updatedAt": "2026-09-24T08:39:25.198Z",
   "items": [
     {
       "id": "wiesenburg-mark-event-2895955",
@@ -682,30 +682,6 @@
       "updatedAt": "2026-09-11T11:13:50.457Z"
     },
     {
-      "id": "wiesenburg-mark-event-2424330",
-      "title": "Offener Jugendraum \"WiBu\" - begleitet von Franziska Kottwitz",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/09/23/offener-jugendraum-wibu-begleitet-von-franziska-kottwitz.html",
-      "startDate": "2026-09-23T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-09-23T08:48:12.421Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2842616",
-      "title": "CODER DOJO - Programmierwerkstatt",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/09/23/coder-dojo-programmierwerkstatt.html",
-      "startDate": "2026-09-23T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-09-17T08:54:16.961Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2907840",
-      "title": "DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/09/23/drk-spielrunde-kaffee-und-kartenspiel-für-senior-innen.html",
-      "startDate": "2026-09-23T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T13:17:27.492Z",
-      "updatedAt": "2026-09-17T08:54:16.961Z"
-    },
-    {
       "id": "wiesenburg-mark-event-2424341",
       "title": "Familiensprechzeiten / Elternberatung im Familienzentrum",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/09/24/familiensprechzeiten-elternberatung-im-familienzentrum.html",
@@ -794,20 +770,20 @@
       "updatedAt": "2026-09-22T08:42:37.558Z"
     },
     {
-      "id": "wiesenburg-mark-event-2941529",
-      "title": "Kreativer Wochenstart",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2941529/2026/09/28/kreativer-wochenstart.html",
-      "startDate": "2026-09-28T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:41.385Z",
-      "updatedAt": "2026-09-22T08:42:37.558Z"
-    },
-    {
       "id": "wiesenburg-mark-event-2915098",
       "title": "Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit Tanz- und Theaterpädagogin Nina Stemberger",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/09/28/kreativer-kindertanz-für-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-theaterpädagogin-nina-stemberger.html",
       "startDate": "2026-09-28T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:41.385Z",
       "updatedAt": "2026-09-22T08:42:37.558Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2424330",
+      "title": "Offener Jugendraum \"WiBu\" - begleitet von Franziska Kottwitz",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/09/29/offener-jugendraum-wibu-begleitet-von-franziska-kottwitz.html",
+      "startDate": "2026-09-29T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
     },
     {
       "id": "wiesenburg-mark-event-2384481",
@@ -842,12 +818,36 @@
       "updatedAt": "2026-09-11T11:13:50.457Z"
     },
     {
+      "id": "wiesenburg-mark-event-2842616",
+      "title": "CODER DOJO - Programmierwerkstatt",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/09/30/coder-dojo-programmierwerkstatt.html",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2907840",
+      "title": "DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/09/30/drk-spielrunde-kaffee-und-kartenspiel-für-senior-innen.html",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:27.492Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
+    },
+    {
       "id": "wiesenburg-mark-event-2928855",
       "title": "Seminar \" Hilfe beim Helfen\" für Angehörige von Menschen mit Demenz - Wissenswertes über Demenzerkrankungen",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2928855/2026/09/30/seminar-hilfe-beim-helfen-für-angehörige-von-menschen-mit-demenz-wissenswertes-über-demenzerkrankungen.html",
       "startDate": "2026-09-30T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:41.385Z",
       "updatedAt": "2026-09-11T11:13:50.457Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2973363",
+      "title": "Vokü",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2973363/2026/10/01/vokü.html",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:25.184Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
     },
     {
       "id": "wiesenburg-mark-event-2928756",
@@ -896,6 +896,14 @@
       "startDate": "2026-10-04T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:11.191Z",
       "updatedAt": "2026-05-06T20:24:33.427Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2941529",
+      "title": "Kreativer Wochenstart",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2941529/2026/10/05/kreativer-wochenstart.html",
+      "startDate": "2026-10-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:41.385Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
     },
     {
       "id": "wiesenburg-mark-event-2971206",
@@ -962,6 +970,22 @@
       "updatedAt": "2026-09-11T11:13:50.457Z"
     },
     {
+      "id": "wiesenburg-mark-event-2973364",
+      "title": "Vokü",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2973364/2026/10/15/vokü.html",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:25.184Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2973365",
+      "title": "Mantra&Herzenslieder Singen",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2973365/2026/10/18/mantra-herzenslieder-singen.html",
+      "startDate": "2026-10-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:25.184Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
+    },
+    {
       "id": "wiesenburg-mark-event-2929248",
       "title": "Sound Bath - Tu dir etwas gutes",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2929248/2026/10/19/sound-bath-tu-dir-etwas-gutes.html",
@@ -986,12 +1010,28 @@
       "updatedAt": "2026-09-11T11:13:50.457Z"
     },
     {
+      "id": "wiesenburg-mark-event-2973355",
+      "title": "Kreativer Wochenstart",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2973355/2026/11/02/kreativer-wochenstart.html",
+      "startDate": "2026-11-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:25.184Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
+    },
+    {
       "id": "wiesenburg-mark-event-2928863",
       "title": "Seminar \" Hilfe beim Helfen\" für Angehörige von Menschen mit Demenz - Vorsorge treffen",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2928863/2026/11/04/seminar-hilfe-beim-helfen-für-angehörige-von-menschen-mit-demenz-vorsorge-treffen.html",
       "startDate": "2026-11-04T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:41.385Z",
       "updatedAt": "2026-09-11T11:13:50.457Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2973366",
+      "title": "Vokü",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2973366/2026/11/05/vokü.html",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:25.184Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
     },
     {
       "id": "wiesenburg-mark-event-2930240",
@@ -1026,12 +1066,36 @@
       "updatedAt": "2026-09-11T11:13:50.457Z"
     },
     {
+      "id": "wiesenburg-mark-event-2973356",
+      "title": "Kreativer Wochenstart",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2973356/2026/11/16/kreativer-wochenstart.html",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:25.184Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
+    },
+    {
       "id": "wiesenburg-mark-event-2928866",
       "title": "Seminar \" Hilfe beim Helfen\" für Angehörige von Menschen mit Demenz - Ein neues Zuhause finden",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2928866/2026/11/18/seminar-hilfe-beim-helfen-für-angehörige-von-menschen-mit-demenz-ein-neues-zuhause-finden.html",
       "startDate": "2026-11-18T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:41.385Z",
       "updatedAt": "2026-09-11T11:13:50.457Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2973371",
+      "title": "\"Goldgräberinnen\" vom Schätze bergen zum Neuausrichten",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2973371/2026/11/18/goldgräberinnen-vom-schätze-bergen-zum-neuausrichten.html",
+      "startDate": "2026-11-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:25.184Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2973367",
+      "title": "Vokü",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2973367/2026/11/19/vokü.html",
+      "startDate": "2026-11-19T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:25.184Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
     },
     {
       "id": "wiesenburg-mark-event-2929249",
@@ -1058,6 +1122,14 @@
       "updatedAt": "2026-05-06T20:24:33.427Z"
     },
     {
+      "id": "wiesenburg-mark-event-2973359",
+      "title": "Kreativer Wochenstart",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2973359/2026/11/30/kreativer-wochenstart.html",
+      "startDate": "2026-11-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:25.184Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
+    },
+    {
       "id": "wiesenburg-mark-event-2889581",
       "title": "Weihnachtsmarkt mit anschließendem DEFA-Märchenfilm in der Kunsthalle",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2889581/2026/12/04/weihnachtsmarkt-mit-anschließendem-defa-märchenfilm-in-der-kunsthalle.html",
@@ -1072,6 +1144,14 @@
       "startDate": "2026-12-04T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:41.385Z",
       "updatedAt": "2026-09-11T11:13:50.457Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2973372",
+      "title": "Reifejahre (20 plus) bis Reife Jahre (50 plus)",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2973372/2026/12/04/reifejahre-20-plus-bis-reife-jahre-50-plus.html",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:25.184Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
     },
     {
       "id": "wiesenburg-mark-event-2928758",
@@ -1112,6 +1192,14 @@
       "startDate": "2026-12-13T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:41.385Z",
       "updatedAt": "2026-09-11T11:13:50.457Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2973376",
+      "title": "Reifejahre (20 plus) bis Reife Jahre (50 plus)",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2973376/2026/12/18/reifejahre-20-plus-bis-reife-jahre-50-plus.html",
+      "startDate": "2026-12-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:25.184Z",
+      "updatedAt": "2026-09-24T08:39:25.184Z"
     },
     {
       "id": "wiesenburg-mark-event-2948598",

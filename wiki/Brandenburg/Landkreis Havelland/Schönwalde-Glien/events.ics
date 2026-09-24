@@ -1268,15 +1268,6 @@ URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 LOCATION:Gemeindesaal Schönwalde-Siedlung
 END:VEVENT
 BEGIN:VEVENT
-UID:schoenwalde-glien-event-39784-0@amtsfeed.de
-DTSTAMP:20260912T080047Z
-DTSTART:20251031T150000Z
-DTEND:20251031T190000Z
-SUMMARY:Blutspendetermin Spandau Havelklinik Berlin Gatow
-URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
-LOCATION:Spandau Havelklinik Berlin Gatow
-END:VEVENT
-BEGIN:VEVENT
 UID:schoenwalde-glien-event-48871-0@amtsfeed.de
 DTSTAMP:20260912T080047Z
 DTSTART:20251101T160000Z
@@ -1980,15 +1971,6 @@ URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 LOCATION:Gemeindesaal Schönwalde-Siedlung
 END:VEVENT
 BEGIN:VEVENT
-UID:schoenwalde-glien-event-48589-0@amtsfeed.de
-DTSTAMP:20260912T080047Z
-DTSTART:20260310T150000Z
-DTEND:20260310T190000Z
-SUMMARY:Blutspende Bildungszentrum Elstal
-URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
-LOCATION:Bildungszentrum Elstal
-END:VEVENT
-BEGIN:VEVENT
 UID:schoenwalde-glien-event-49354-0@amtsfeed.de
 DTSTAMP:20260912T080047Z
 DTSTART:20260314T140000Z
@@ -2473,15 +2455,6 @@ DTEND:20260526T193000Z
 SUMMARY:Tag der offenen Tür Kita Sonnenschein
 URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 LOCATION:Kita Sonnenschein
-END:VEVENT
-BEGIN:VEVENT
-UID:schoenwalde-glien-event-29413-0@amtsfeed.de
-DTSTAMP:20260912T080047Z
-DTSTART:20260529T150000Z
-DTEND:20260529T190000Z
-SUMMARY:Blutspende Marie-Curie-Gymnasium
-URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
-LOCATION:Marie-Curie-Gymnasium
 END:VEVENT
 BEGIN:VEVENT
 UID:schoenwalde-glien-event-50362-0@amtsfeed.de
@@ -3049,15 +3022,6 @@ URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 LOCATION:kreativ e.V.
 END:VEVENT
 BEGIN:VEVENT
-UID:schoenwalde-glien-event-29401-0@amtsfeed.de
-DTSTAMP:20260912T080047Z
-DTSTART:20260902T143000Z
-DTEND:20260902T193000Z
-SUMMARY:Blutspende Gemeindesaal Schönwalde
-URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
-LOCATION:Gemeindesaal Schönwalde-Siedlung
-END:VEVENT
-BEGIN:VEVENT
 UID:schoenwalde-glien-event-39775-0@amtsfeed.de
 DTSTAMP:20260912T080047Z
 DTSTART:20260905T100000Z
@@ -3084,15 +3048,6 @@ DTEND:20260906T180000Z
 SUMMARY:Krimilesung „Mörderischer Sonntag am  Schwanenweiher“
 URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 LOCATION:Wiese Schwanenweiher
-END:VEVENT
-BEGIN:VEVENT
-UID:schoenwalde-glien-event-36523-0@amtsfeed.de
-DTSTAMP:20260912T080047Z
-DTSTART:20260908T150000Z
-DTEND:20260908T190000Z
-SUMMARY:Blutspende Europaschule Ketzin
-URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
-LOCATION:Europaschule Ketzin
 END:VEVENT
 BEGIN:VEVENT
 UID:schoenwalde-glien-event-36517-0@amtsfeed.de
@@ -3211,15 +3166,6 @@ SUMMARY:Bürgermeisterwahl in allen Ortsteilen
 URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 END:VEVENT
 BEGIN:VEVENT
-UID:schoenwalde-glien-event-36955-0@amtsfeed.de
-DTSTAMP:20260912T080047Z
-DTSTART:20260922T160000Z
-DTEND:20260922T194500Z
-SUMMARY:Blutspende Ev. Waldkrankenhaus
-URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
-LOCATION:Ev. Waldkrankenhaus
-END:VEVENT
-BEGIN:VEVENT
 UID:schoenwalde-glien-event-54364-0@amtsfeed.de
 DTSTAMP:20260912T080047Z
 DTSTART:20260924T110000Z
@@ -3336,6 +3282,15 @@ URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 LOCATION:Sportplatz der SG Paaren
 END:VEVENT
 BEGIN:VEVENT
+UID:schoenwalde-glien-event-54481-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Martinsfest mit Lampionumzug
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Dorfkirche Schönwalde
+END:VEVENT
+BEGIN:VEVENT
 UID:schoenwalde-glien-event-50119-0@amtsfeed.de
 DTSTAMP:20260912T080047Z
 DTSTART:20261012T150000Z
@@ -3373,6 +3328,69 @@ URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 LOCATION:Bürgerhaus "Alte Feuerwache"
 END:VEVENT
 BEGIN:VEVENT
+UID:schoenwalde-glien-event-54415-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261024T190000Z
+DTEND:20261024T220000Z
+SUMMARY:Ausstellungseröffnung mit Bildern von  Wolfgang Sterrer
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:kreativ e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-54460-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261025T100000Z
+DTEND:20261025T140000Z
+SUMMARY:Schnauff-Lauf
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Feuerwehrdepot Wansdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-39784-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261030T143000Z
+DTEND:20261030T183000Z
+SUMMARY:Blutspendetermin Spandau Havelklinik Berlin Gatow
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Spandau Havelklinik Berlin Gatow
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-54466-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261031T150000Z
+DTEND:20261031T180000Z
+SUMMARY:„Karl May im Kreuz-Feuer“
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Dorfkirche Schönwalde
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-54469-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261031T160000Z
+DTEND:20261031T200000Z
+SUMMARY:Halloween-Party
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Festwiese Schönwalde-Dorf
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-54475-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261107T120000Z
+DTEND:20261108T180000Z
+SUMMARY:„Weihnachtszauber zum Martinstag“
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Waldschule
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-54472-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261107T160000Z
+DTEND:20261107T190000Z
+SUMMARY:Hubertusgottesdienst mit anschließender  Tiersegnung
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Evangelische Kirche Pausin
+END:VEVENT
+BEGIN:VEVENT
 UID:schoenwalde-glien-event-51514-0@amtsfeed.de
 DTSTAMP:20260912T080047Z
 DTSTART:20261107T193000Z
@@ -3382,6 +3400,33 @@ URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 LOCATION:Stadtklubhaus Hennigsdorf
 END:VEVENT
 BEGIN:VEVENT
+UID:schoenwalde-glien-event-36523-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261110T150000Z
+DTEND:20261110T190000Z
+SUMMARY:Blutspende Europaschule Ketzin
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Europaschule Ketzin
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-48589-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261113T150000Z
+DTEND:20261113T190000Z
+SUMMARY:Blutspende Bildungszentrum Elstal
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Bildungszentrum Elstal
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-54484-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261114T170000Z
+DTEND:20261114T210000Z
+SUMMARY:Martinsfeuer
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Kienberger Weg 56
+END:VEVENT
+BEGIN:VEVENT
 UID:schoenwalde-glien-event-50122-0@amtsfeed.de
 DTSTAMP:20260912T080047Z
 DTSTART:20261116T150000Z
@@ -3389,5 +3434,32 @@ DTEND:20261116T180000Z
 SUMMARY:Beratungsangebot der Deutschen Rentenversicherung
 URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 LOCATION:Gemeindesaal Schönwalde-Siedlung
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-29401-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261118T143000Z
+DTEND:20261118T190000Z
+SUMMARY:Blutspende Gemeindesaal Schönwalde
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Gemeindesaal Schönwalde-Siedlung
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-36955-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261119T140000Z
+DTEND:20261119T183000Z
+SUMMARY:Blutspende Ev. Waldkrankenhaus
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Ev. Waldkrankenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-29413-0@amtsfeed.de
+DTSTAMP:20260924T083229Z
+DTSTART:20261120T160000Z
+DTEND:20261120T194500Z
+SUMMARY:Blutspende Marie-Curie-Gymnasium
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Marie-Curie-Gymnasium
 END:VEVENT
 END:VCALENDAR

@@ -311,6 +311,14 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2811932/2026/10/15
  /spielenachmittag.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2973727@amtsfeed.de
+DTSTAMP:20260925T085313Z
+DTSTART:20261018T170000Z
+SUMMARY:Aufwind - Jiddische Lieder & Klezmer
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2973727/2026/10/18
+ /aufwind-jiddische-lieder-klezmer.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2812234@amtsfeed.de
 DTSTAMP:20260508T183812Z
 DTSTART;VALUE=DATE:20261024
@@ -448,9 +456,8 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2812048/2026/12/24
 END:VEVENT
 BEGIN:VEVENT
 UID:2811943@amtsfeed.de
-DTSTAMP:20260508T183812Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
+DTSTAMP:20260925T085313Z
+DTSTART:20261231T190000Z
 SUMMARY:Silvesterfeier
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2811943/2026/12/31
  /silvesterfeier.html
@@ -549,6 +556,30 @@ DTSTAMP:20260916T083941Z
 DTSTART:20270415T153000Z
 SUMMARY:Spielenachmittag
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2968097/2027/04/15
+ /spielenachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2974231@amtsfeed.de
+DTSTAMP:20260925T085313Z
+DTSTART:20270511T153000Z
+SUMMARY:Lesecaf&eacute\;
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2974231/2027/05/11
+ /lesecafé.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2974232@amtsfeed.de
+DTSTAMP:20260925T085313Z
+DTSTART:20270518T153000Z
+SUMMARY:Kreativer Nachmittag
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2974232/2027/05/18
+ /kreativer-nachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2974233@amtsfeed.de
+DTSTAMP:20260925T085313Z
+DTSTART:20270520T153000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2974233/2027/05/20
  /spielenachmittag.html
 END:VEVENT
 END:VCALENDAR

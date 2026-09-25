@@ -214,15 +214,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855865/2026/09/23/klön-u
  nd-spielenachmittag.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855733@amtsfeed.de
-DTSTAMP:20260918T082447Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Nordic-Walking in Vehlefanz
-URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/09/24/nordic-
- walking-in-vehlefanz.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855745@amtsfeed.de
 DTSTAMP:20260919T081314Z
 DTSTART;VALUE=DATE:20260925
@@ -275,6 +266,15 @@ DTEND;VALUE=DATE:20260927
 SUMMARY:Atemreise
 URL:https://www.oberkraemer.de/veranstaltungen/2971588/2026/09/26/atemrei
  se.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2974118@amtsfeed.de
+DTSTAMP:20260925T085822Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Vinyasa Yoga mit Paulina Wiegand
+URL:https://www.oberkraemer.de/veranstaltungen/2974118/2026/09/27/vinyasa
+ -yoga-mit-paulina-wiegand.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855689@amtsfeed.de
@@ -365,6 +365,15 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:Gong-Abend
 URL:https://www.oberkraemer.de/veranstaltungen/2935367/2026/09/30/gong-ab
  end.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855733@amtsfeed.de
+DTSTAMP:20260925T085822Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Nordic-Walking in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/10/01/nordic-
+ walking-in-vehlefanz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855707@amtsfeed.de

@@ -199,17 +199,6 @@ SUMMARY:Flammender Scharmützelsee
 URL:https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650ja
- ehrigen-ein-rundgang-durch-die-ortsgeschichte@amtsfeed.de
-DTSTAMP:20260911T111244Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen 
- – Ein Rundgang durch die Ortsgeschichte
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-
- dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
  feed.de
 DTSTAMP:20260912T080634Z
@@ -539,40 +528,12 @@ SUMMARY:Offener Meditationsabend
 URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260924T083751Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-schleusenfahrt-zum-storkower-see@amtsfeed.de
 DTSTAMP:20260923T084619Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Schleusenfahrt zum Storkower See
 URL:https://www.scharmuetzelsee.de/event/schleusenfahrt-zum-storkower-see
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
-DTSTAMP:20260923T084619Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Linienfahrten Hauptsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
- ch
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20260923T084619Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-zur-kaffeezeit-im-scharwenka-kulturforum@amtsfeed.de
@@ -584,6 +545,34 @@ URL:https://www.scharmuetzelsee.de/event/zur-kaffeezeit-im-scharwenka-kul
  turforum
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20260925T085908Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
+DTSTAMP:20260925T085908Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Linienfahrten Hauptsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
+ ch
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20260925T085908Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
  durch-die-ortsgeschichte@amtsfeed.de
 DTSTAMP:20260924T083751Z
@@ -593,6 +582,38 @@ SUMMARY:Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang dur
  ch die Ortsgeschichte
 URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-
  fps-ssp-ein-rundgang-durch-die-ortsgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-live-multivision-mit-kai-uwe-kuechler-cornwall-und-de
+ r-sueden-englands@amtsfeed.de
+DTSTAMP:20260925T085908Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Live-Multivision mit Kai-Uwe Küchler "Cornwall und der Süden En
+ glands"
+URL:https://www.scharmuetzelsee.de/event/live-multivision-mit-kai-uwe-kue
+ chler-cornwall-und-der-sueden-englands
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ein-abend-mit-henry-huebchen-im-theater-am-see@amtsfe
+ ed.de
+DTSTAMP:20260925T085908Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Ein Abend mit HENRY HÜBCHEN im Theater am See
+URL:https://www.scharmuetzelsee.de/event/ein-abend-mit-henry-huebchen-im-
+ theater-am-see
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650ja
+ ehrigen-ein-rundgang-durch-die-ortsgeschichte@amtsfeed.de
+DTSTAMP:20260925T085908Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen 
+ – Ein Rundgang durch die Ortsgeschichte
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-
+ dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-al

@@ -946,19 +946,6 @@ DESCRIPTION:Das 19. Oldtimertreffen in Alt Tucheband findet vom 28. bis 3
 LOCATION:Alt Tucheband
 END:VEVENT
 BEGIN:VEVENT
-UID:2637282@amtsfeed.de
-DTSTAMP:20260911T111130Z
-DTSTART:20270828T113000Z
-DTEND:20270828T130000Z
-SUMMARY:Führung Altstadt & Festung Küstrin: Fontanes Katte-Tragödie
-URL:https://www.amt-golzow.de/veranstaltungen/2637282/2027/08/28/führung
- -altstadt-festung-küstrin-fontanes-katte-tragödie.html
-DESCRIPTION:Führung in der Festung & Altstadt von Küstrin: Die Katte-Tr
- agödie ansprechend und unterhaltsam in Szene gesetzt. Entdecken und erle
- ben Sie den historischen Ort\, wie einst Theodor Fontane. [mehr]
-LOCATION:Altstadt & Festung Küstrin
-END:VEVENT
-BEGIN:VEVENT
 UID:2704723@amtsfeed.de
 DTSTAMP:20260911T111130Z
 DTSTART:20270904T113000Z
@@ -983,6 +970,19 @@ DESCRIPTION:Schlachtfeldführung im Oderbruch: Exkursion zu authentischen
   Orten der Schlacht um die Seelower Höhen 1945. Die Durchbruchsschlacht 
  zum Ende des Zweiten Weltkrieges: Von der Festung Küstrin bis Seelow. [m
  ehr]
+LOCATION:Altstadt & Festung Küstrin
+END:VEVENT
+BEGIN:VEVENT
+UID:2637282@amtsfeed.de
+DTSTAMP:20260925T085704Z
+DTSTART:20270925T113000Z
+DTEND:20270925T130000Z
+SUMMARY:Führung Altstadt & Festung Küstrin: Fontanes Katte-Tragödie
+URL:https://www.amt-golzow.de/veranstaltungen/2637282/2027/09/25/führung
+ -altstadt-festung-küstrin-fontanes-katte-tragödie.html
+DESCRIPTION:Führung in der Festung & Altstadt von Küstrin: Die Katte-Tr
+ agödie ansprechend und unterhaltsam in Szene gesetzt. Entdecken und erle
+ ben Sie den historischen Ort\, wie einst Theodor Fontane. [mehr]
 LOCATION:Altstadt & Festung Küstrin
 END:VEVENT
 END:VCALENDAR

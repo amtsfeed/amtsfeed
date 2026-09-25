@@ -1043,6 +1043,14 @@ URL:https://britz-chorin-oderberg.de/events#event-15050
 LOCATION:16230 Chorin – Senftenhütte – Choriner Ende 5
 END:VEVENT
 BEGIN:VEVENT
+UID:16660@amtsfeed.de
+DTSTAMP:20260925T085153Z
+DTSTART:20260925T220000Z
+SUMMARY:Spenden-Hofflohmarkt
+URL:https://britz-chorin-oderberg.de/events#event-16660
+LOCATION:16248 Hohenfinow – Gersdorfer Straße 27
+END:VEVENT
+BEGIN:VEVENT
 UID:16189@amtsfeed.de
 DTSTAMP:20260911T110622Z
 DTSTART:20260926T083000Z
@@ -1089,6 +1097,15 @@ DTSTART:20261002T133000Z
 SUMMARY:Kindertanzen in Serwest
 URL:https://britz-chorin-oderberg.de/events#event-16559
 LOCATION:16230 Chorin – Serwest – Dorfgemeinschaftshaus
+END:VEVENT
+BEGIN:VEVENT
+UID:16662@amtsfeed.de
+DTSTAMP:20260925T085153Z
+DTSTART:20261002T171500Z
+SUMMARY:Oktoberfeuer in Sandkrug
+URL:https://britz-chorin-oderberg.de/events#event-16662
+LOCATION:16230 Chorin – Sandkrug – Gemeindehaus\, Angermünder Straß
+ e 36
 END:VEVENT
 BEGIN:VEVENT
 UID:14811@amtsfeed.de
@@ -1153,6 +1170,15 @@ DTSTART:20261009T163000Z
 SUMMARY:Klassik bei Kerzenlicht
 URL:https://britz-chorin-oderberg.de/events#event-15632
 LOCATION:16248 Oderberg – St. Nikolaikirche
+END:VEVENT
+BEGIN:VEVENT
+UID:16658@amtsfeed.de
+DTSTAMP:20260925T085153Z
+DTSTART:20261009T163000Z
+SUMMARY:Stolzenhagen: 25 Jahre Geologischer Garten
+URL:https://britz-chorin-oderberg.de/events#event-16658
+LOCATION:16248 Lunow-Stolzenhagen – Stolzenhagen – Feuerwehrgebäude 
+ Elsengrund
 END:VEVENT
 BEGIN:VEVENT
 UID:16570@amtsfeed.de

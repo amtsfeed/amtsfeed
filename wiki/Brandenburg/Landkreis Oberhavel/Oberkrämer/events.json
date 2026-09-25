@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:37:17.508Z",
+  "updatedAt": "2026-09-25T08:58:22.976Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -186,14 +186,6 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
-      "id": "oberkraemer-event-2855733",
-      "title": "Nordic-Walking in Vehlefanz",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855733/2026/09/24/nordic-walking-in-vehlefanz.html",
-      "startDate": "2026-09-24T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-18T08:24:47.401Z"
-    },
-    {
       "id": "oberkraemer-event-2855745",
       "title": "Schach",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855745/2026/09/25/schach.html",
@@ -240,6 +232,14 @@
       "startDate": "2026-09-26T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:22.966Z",
       "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2974118",
+      "title": "Vinyasa Yoga mit Paulina Wiegand",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2974118/2026/09/27/vinyasa-yoga-mit-paulina-wiegand.html",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-25T08:58:22.994Z",
+      "updatedAt": "2026-09-25T08:58:22.994Z"
     },
     {
       "id": "oberkraemer-event-2855689",
@@ -320,6 +320,14 @@
       "startDate": "2026-09-30T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2855733",
+      "title": "Nordic-Walking in Vehlefanz",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855733/2026/10/01/nordic-walking-in-vehlefanz.html",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-09-25T08:58:22.994Z"
     },
     {
       "id": "oberkraemer-event-2855707",

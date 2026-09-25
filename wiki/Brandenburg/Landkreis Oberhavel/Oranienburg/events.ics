@@ -1245,4 +1245,25 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  amp\;ModID=11&amp\;FID=2967.8009.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;b
  n=1
 END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7962@amtsfeed.de
+DTSTAMP:20260925T085825Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:&raquo\;Zur Party? Zur Party!&laquo\; im Oranienwerk ...
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/-Zur-Party-Zur-Party-im-Oranienwerk-.php?object=tx\,2967.4&amp\;ModID
+ =11&amp\;FID=2967.7962.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8016@amtsfeed.de
+DTSTAMP:20260925T085825Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:di.day - digitale Unabhängigkeit in Oranienburg!
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/di-day-digitale-Unabh%C3%A4ngigkeit-in-Oranienburg-.php?object=tx\,29
+ 67.4&amp\;ModID=11&amp\;FID=2967.8016.1&amp\;NavID=2967.39&amp\;sfreg=1&a
+ mp\;bn=1
+END:VEVENT
 END:VCALENDAR

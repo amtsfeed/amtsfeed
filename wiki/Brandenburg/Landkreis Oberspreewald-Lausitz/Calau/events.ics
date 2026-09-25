@@ -806,15 +806,6 @@ URL:https://www.calau.de/veranstaltungen/2838473/2026/09/23/klöppeltreff
  .html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20260923T084545Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:24.09.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/09/24/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2964655@amtsfeed.de
 DTSTAMP:20260923T084545Z
 DTSTART;VALUE=DATE:20260924
@@ -852,19 +843,28 @@ URL:https://www.calau.de/veranstaltungen/2864723/2026/09/26/flugshow-auf-
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2951948@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260925T085845Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:20. Nachtlauf der Jugendfeuerwehr Zinnitz
+SUMMARY:26.09.2026   20. Nachtlauf der Jugendfeuerwehr Zinnitz
 URL:https://www.calau.de/veranstaltungen/2951948/2026/09/26/20.-nachtlauf
  -der-jugendfeuerwehr-zinnitz.html
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20260925T085845Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:29.09.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/09/29/calauer-woche
+ nmarkt.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20260924T083732Z
+DTSTAMP:20260925T085845Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:Calauer Museen öffnen
+SUMMARY:30.09.2026   Calauer Museen öffnen
 URL:https://www.calau.de/veranstaltungen/2315266/2026/09/30/calauer-musee
  n-öffnen.html
 END:VEVENT

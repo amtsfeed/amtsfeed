@@ -824,19 +824,6 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
 LOCATION:einzigartiger Kulisse.  Anlegestelle
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20260924T083802Z
-DTSTART:20260924T083802Z
-SUMMARY:Veranstaltungen
-URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1
-END:VEVENT
-BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1890-1@amtsfeed.de
 DTSTAMP:20260911T111258Z
 DTSTART;VALUE=DATE:20260925
@@ -846,6 +833,19 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/The-ABERLOUR-S.php?Mod
  ID=11&amp\;FID=2852.1890.1
 LOCATION:kleine bühne
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
+DTSTAMP:20260925T085923Z
+DTSTART:20260925T085923Z
+SUMMARY:Veranstaltungen
+URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1828-1@amtsfeed.de
@@ -902,6 +902,17 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem
  -Raddampfer-Alexander-.php?ModID=11&amp\;FID=2852.1939.1
 LOCATION:Raddampfer Alexander
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1969-1@amtsfeed.de
+DTSTAMP:20260925T085923Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Aktionstag zur interkulturellen Woche 2026
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Aktionstag-zur-interku
+ lturellen-Woche-2026.php?ModID=11&amp\;FID=2852.1969.1
+LOCATION:Museum Utopie und Alltag
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1940-1@amtsfeed.de
@@ -1065,6 +1076,39 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/New-Way-to-Escape.php?
  ModID=11&amp\;FID=2852.1961.1
 LOCATION:Club Marchwitza
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1972-1@amtsfeed.de
+DTSTAMP:20260925T085923Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Sonderausstellung "Handwerk - Werke der Hand"
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Sonderausstellung-Hand
+ werk-Werke-der-Hand-.php?ModID=11&amp\;FID=2852.1972.1
+LOCATION:Städtisches Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1973-1@amtsfeed.de
+DTSTAMP:20260925T085923Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Jubiläumsausstellung des Fotografen Bernd Geller
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Jubil%C3%A4umsausstell
+ ung-des-Fotografen-Bernd-Geller.php?ModID=11&amp\;FID=2852.1973.1
+LOCATION:Städtisches Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1971-1@amtsfeed.de
+DTSTAMP:20260925T085923Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:56. Dixieland - Konzert mit den Dixie Brothers
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/56-Dixieland-Konzert-m
+ it-den-Dixie-Brothers.php?ModID=11&amp\;FID=2852.1971.1
+LOCATION:town
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1714-1@amtsfeed.de

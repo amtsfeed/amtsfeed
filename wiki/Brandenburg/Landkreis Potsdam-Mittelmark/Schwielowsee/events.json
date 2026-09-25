@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T08:42:14.952Z",
+  "updatedAt": "2026-09-25T09:00:21.157Z",
   "items": [
     {
       "id": "schwielowsee-event-99127087",
@@ -11342,6 +11342,24 @@
       "updatedAt": "2026-05-06T20:22:21.246Z"
     },
     {
+      "id": "schwielowsee-event-99224075",
+      "title": "Silvesterkonzert Petzow - QUARTETTO TONALE",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224075",
+      "startDate": "2026-12-31T16:00:00.000Z",
+      "location": "Petzow - Die Schinkelkirche Petzow",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
+      "id": "schwielowsee-event-99224076",
+      "title": "Silvesterkonzert Petzow - QUARTETTO TONALE",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224076",
+      "startDate": "2026-12-31T18:30:00.000Z",
+      "location": "Petzow - Die Schinkelkirche Petzow",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
       "id": "schwielowsee-event-99147652",
       "title": "Künstlerkolonie Heikendorf zu Gast in Ferch",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99147652",
@@ -11349,6 +11367,15 @@
       "location": "Ferch - Museum Havelländische Malerkolonie",
       "fetchedAt": "2026-05-06T19:35:01.097Z",
       "updatedAt": "2026-05-06T20:22:21.246Z"
+    },
+    {
+      "id": "schwielowsee-event-99224119",
+      "title": "Knutfest in Ferch",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224119",
+      "startDate": "2027-01-02T16:00:00.000Z",
+      "location": "Ferch - Feuerwehr Ferch",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
     },
     {
       "id": "schwielowsee-event-99147653",
@@ -11477,6 +11504,15 @@
       "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
+      "id": "schwielowsee-event-99224149",
+      "title": "148. Baumblütenfest in Werder (Havel)",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224149",
+      "startDate": "2027-04-24T11:00:00.000Z",
+      "location": "Werder (Havel) - Höfe und Gärten (durchgehend) + Innenstadt Werder H. (2. Wochenende)",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
       "id": "schwielowsee-event-99206378",
       "title": "Jazz Kollektiv",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206378",
@@ -11484,6 +11520,87 @@
       "location": "Caputh - Festsaal Schloss Caputh",
       "fetchedAt": "2026-09-11T10:00:19.700Z",
       "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99224128",
+      "title": "30. Baumblütenlauf zum 148. Baumblütenfest in Werder (Havel)",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224128",
+      "startDate": "2027-04-25T10:00:00.000Z",
+      "location": "Werder (Havel) - Stadtwald Werder (Havel)",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
+      "id": "schwielowsee-event-99224150",
+      "title": "148. Baumblütenfest in Werder (Havel)",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224150",
+      "startDate": "2027-04-25T11:00:00.000Z",
+      "location": "Werder (Havel) - Höfe und Gärten (durchgehend) + Innenstadt Werder H. (2. Wochenende)",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
+      "id": "schwielowsee-event-99224151",
+      "title": "148. Baumblütenfest in Werder (Havel)",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224151",
+      "startDate": "2027-04-26T11:00:00.000Z",
+      "location": "Werder (Havel) - Höfe und Gärten (durchgehend) + Innenstadt Werder H. (2. Wochenende)",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
+      "id": "schwielowsee-event-99224152",
+      "title": "148. Baumblütenfest in Werder (Havel)",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224152",
+      "startDate": "2027-04-27T11:00:00.000Z",
+      "location": "Werder (Havel) - Höfe und Gärten (durchgehend) + Innenstadt Werder H. (2. Wochenende)",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
+      "id": "schwielowsee-event-99224141",
+      "title": "148. Baumblütenfest in Werder (Havel)",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224141",
+      "startDate": "2027-04-28T11:00:00.000Z",
+      "location": "Werder (Havel) - Höfe und Gärten (durchgehend) + Innenstadt Werder H. (2. Wochenende)",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
+      "id": "schwielowsee-event-99224142",
+      "title": "148. Baumblütenfest in Werder (Havel)",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224142",
+      "startDate": "2027-04-29T11:00:00.000Z",
+      "location": "Werder (Havel) - Höfe und Gärten (durchgehend) + Innenstadt Werder H. (2. Wochenende)",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
+      "id": "schwielowsee-event-99224120",
+      "title": "Baumblütenumzug zum 148. Baumblütenfest in Werder (Havel)",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224120",
+      "startDate": "2027-05-01T11:00:00.000Z",
+      "location": "Werder (Havel) - Innenstadt Werder (Havel)",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
+      "id": "schwielowsee-event-99224131",
+      "title": "148. Baumblütenfest in Werder (Havel)",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224131",
+      "startDate": "2027-05-02T11:00:00.000Z",
+      "location": "Werder (Havel) - Höfe und Gärten (durchgehend) + Innenstadt Werder H. (2. Wochenende)",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
+      "id": "schwielowsee-event-99224122",
+      "title": "Maifest in Ferch",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224122",
+      "startDate": "2027-05-08T12:00:00.000Z",
+      "location": "Ferch - Feuerwehr Ferch",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
     },
     {
       "id": "schwielowsee-event-99207043",
@@ -11511,6 +11628,15 @@
       "location": "Caputh - Garten des Einsteinhauses",
       "fetchedAt": "2026-09-11T10:00:19.700Z",
       "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99224124",
+      "title": "Kinderfest in Ferch",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224124",
+      "startDate": "2027-06-05T12:00:00.000Z",
+      "location": "Ferch - Feuerwehr Ferch",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
     },
     {
       "id": "schwielowsee-event-99209644",
@@ -11558,6 +11684,15 @@
       "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
+      "id": "schwielowsee-event-99224126",
+      "title": "Sommerfest an der Seewiese",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224126",
+      "startDate": "2027-07-31T14:00:00.000Z",
+      "location": "Ferch - Feuerwehr Ferch",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
       "id": "schwielowsee-event-99206394",
       "title": "Picknickkonzert",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206394",
@@ -11585,6 +11720,15 @@
       "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
+      "id": "schwielowsee-event-99224127",
+      "title": "Halloweenfest",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224127",
+      "startDate": "2027-10-30T14:00:00.000Z",
+      "location": "Ferch - Feuerwehr Ferch",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
       "id": "schwielowsee-event-99206397",
       "title": "I sogni",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99206397",
@@ -11594,6 +11738,24 @@
       "updatedAt": "2026-09-11T11:13:43.579Z"
     },
     {
+      "id": "schwielowsee-event-99224132",
+      "title": "Fercher Weihnachtsmarkt",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224132",
+      "startDate": "2027-11-26T16:00:00.000Z",
+      "location": "Ferch - Altes Schulhaus Ferch",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
+      "id": "schwielowsee-event-99224133",
+      "title": "Fercher Weihnachtsmarkt",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224133",
+      "startDate": "2027-11-27T15:00:00.000Z",
+      "location": "Ferch - Altes Schulhaus Ferch",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
       "id": "schwielowsee-event-99207054",
       "title": "Weihnachtsmarkt in Wildpark West",
       "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99207054",
@@ -11601,6 +11763,24 @@
       "location": "Geltow - Marktplatz Wildpark West",
       "fetchedAt": "2026-09-11T10:00:19.700Z",
       "updatedAt": "2026-09-11T11:13:43.579Z"
+    },
+    {
+      "id": "schwielowsee-event-99224134",
+      "title": "Fercher Weihnachtsmarkt",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224134",
+      "startDate": "2027-11-28T15:00:00.000Z",
+      "location": "Ferch - Altes Schulhaus Ferch",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
+    },
+    {
+      "id": "schwielowsee-event-99224136",
+      "title": "Schmaus an der Wache",
+      "url": "https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsinformationen.html?se=99224136",
+      "startDate": "2027-12-18T12:00:00.000Z",
+      "location": "Ferch - Feuerwehr Ferch",
+      "fetchedAt": "2026-09-25T09:00:21.153Z",
+      "updatedAt": "2026-09-25T09:00:21.153Z"
     }
   ]
 }

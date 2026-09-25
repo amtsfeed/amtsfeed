@@ -855,9 +855,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863670-2026-09-28-lesung-mit-roland-lampe-ein-ringel
  natz-programm-mit-kinovorführung.html@amtsfeed.de
-DTSTAMP:20260919T081225Z
+DTSTAMP:20260925T085728Z
 DTSTART:20260928T190000Z
-DTEND:20260929T140000Z
+DTEND:20260929T180000Z
 SUMMARY:Lesung mit Roland Lampe "Ein Ringelnatz-Programm" mit Kinovorfüh
  rung
 URL:https://www.seelow.de/veranstaltungen/2863670/2026/09/28/lesung-mit-r
@@ -989,9 +989,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863697-2026-10-31-halloweenfeuer-und-party-in-werbig
  .html@amtsfeed.de
-DTSTAMP:20260919T081225Z
+DTSTAMP:20260925T085728Z
 DTSTART:20261031T170000Z
-DTEND:20261101T140000Z
+DTEND:20261031T180000Z
 SUMMARY:Halloweenfeuer- und party in Werbig
 URL:https://www.seelow.de/veranstaltungen/2863697/2026/10/31/halloweenfeu
  er-und-party-in-werbig.html
@@ -1161,6 +1161,17 @@ URL:https://www.seelow.de/veranstaltungen/2865383/2026/11/22/vortrag-hans
 LOCATION:Gedenkstätte/ Museum Seelower Höhen
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2973555-2026-11-22-hans-im-krieg-eine-spurensuche-vor
+ trag.html@amtsfeed.de
+DTSTAMP:20260925T085729Z
+DTSTART:20261122T140000Z
+DTEND:20261122T153000Z
+SUMMARY:"Hans im Krieg" - Eine Spurensuche (Vortrag)
+URL:https://www.seelow.de/veranstaltungen/2973555/2026/11/22/hans-im-krie
+ g-eine-spurensuche-vortrag.html
+LOCATION:Gedenkstätte/ Museum Seelower Höhen
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2867004-2026-11-26-kaffeeklatsch-für-senioren.html@a
  mtsfeed.de
 DTSTAMP:20260505T215639Z
@@ -1214,9 +1225,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865426-2026-11-29-keramikausstellung-zum-1.-advent.h
  tml@amtsfeed.de
-DTSTAMP:20260919T081225Z
+DTSTAMP:20260925T085729Z
 DTSTART:20261129T150000Z
-DTEND:20261130T140000Z
+DTEND:20261129T180000Z
 SUMMARY:Keramikausstellung zum 1. Advent
 URL:https://www.seelow.de/veranstaltungen/2865426/2026/11/29/keramikausst
  ellung-zum-1.-advent.html
@@ -1293,9 +1304,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865430-2026-12-14-weihnachtskino-mit-buchbasar.html@
  amtsfeed.de
-DTSTAMP:20260919T081226Z
+DTSTAMP:20260925T085729Z
 DTSTART:20261214T190000Z
-DTEND:20261215T140000Z
+DTEND:20261215T180000Z
 SUMMARY:Weihnachtskino mit Buchbasar
 URL:https://www.seelow.de/veranstaltungen/2865430/2026/12/14/weihnachtski
  no-mit-buchbasar.html
@@ -1313,9 +1324,9 @@ LOCATION:Kulturhaus Seelow
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865433-2027-01-16-neujahrsfeuer.html@amtsfeed.de
-DTSTAMP:20260919T081226Z
+DTSTAMP:20260925T085730Z
 DTSTART:20270116T160000Z
-DTEND:20270117T140000Z
+DTEND:20270116T180000Z
 SUMMARY:Neujahrsfeuer
 URL:https://www.seelow.de/veranstaltungen/2865433/2027/01/16/neujahrsfeue
  r.html

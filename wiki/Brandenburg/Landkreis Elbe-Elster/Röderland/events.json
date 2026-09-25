@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:31:23.822Z",
+  "updatedAt": "2026-09-25T08:53:13.652Z",
   "items": [
     {
       "id": "2873839",
@@ -290,6 +290,14 @@
       "updatedAt": "2026-05-08T18:38:12.855Z"
     },
     {
+      "id": "2973727",
+      "title": "Aufwind - Jiddische Lieder & Klezmer",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2973727/2026/10/18/aufwind-jiddische-lieder-klezmer.html",
+      "startDate": "2026-10-18T17:00:00.000Z",
+      "fetchedAt": "2026-09-25T08:53:13.641Z",
+      "updatedAt": "2026-09-25T08:53:13.641Z"
+    },
+    {
       "id": "2812234",
       "title": "2. Oktoberfest",
       "url": "https://www.gemeinde-roederland.de/veranstaltungen/2812234/2026/10/24/2.-oktoberfest.html",
@@ -421,9 +429,9 @@
       "id": "2811943",
       "title": "Silvesterfeier",
       "url": "https://www.gemeinde-roederland.de/veranstaltungen/2811943/2026/12/31/silvesterfeier.html",
-      "startDate": "2026-12-31T00:00:00.000Z",
+      "startDate": "2026-12-31T19:00:00.000Z",
       "fetchedAt": "2026-05-08T18:38:12.855Z",
-      "updatedAt": "2026-05-08T18:38:12.855Z"
+      "updatedAt": "2026-09-25T08:53:13.641Z"
     },
     {
       "id": "2968071",
@@ -520,6 +528,30 @@
       "startDate": "2027-04-15T15:30:00.000Z",
       "fetchedAt": "2026-09-16T08:39:41.853Z",
       "updatedAt": "2026-09-16T08:39:41.853Z"
+    },
+    {
+      "id": "2974231",
+      "title": "Lesecaf&eacute;",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2974231/2027/05/11/lesecafé.html",
+      "startDate": "2027-05-11T15:30:00.000Z",
+      "fetchedAt": "2026-09-25T08:53:13.641Z",
+      "updatedAt": "2026-09-25T08:53:13.641Z"
+    },
+    {
+      "id": "2974232",
+      "title": "Kreativer Nachmittag",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2974232/2027/05/18/kreativer-nachmittag.html",
+      "startDate": "2027-05-18T15:30:00.000Z",
+      "fetchedAt": "2026-09-25T08:53:13.641Z",
+      "updatedAt": "2026-09-25T08:53:13.641Z"
+    },
+    {
+      "id": "2974233",
+      "title": "Spielenachmittag",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2974233/2027/05/20/spielenachmittag.html",
+      "startDate": "2027-05-20T15:30:00.000Z",
+      "fetchedAt": "2026-09-25T08:53:13.641Z",
+      "updatedAt": "2026-09-25T08:53:13.641Z"
     }
   ]
 }

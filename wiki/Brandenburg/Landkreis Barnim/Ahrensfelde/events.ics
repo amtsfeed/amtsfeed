@@ -1305,6 +1305,17 @@ LOCATION:Seniorenbegegnungsstätte\, Lindenberger Straße 1b\, 16356 Ahre
  nsfelde
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900004769@amtsfeed.de
+DTSTAMP:20260925T085149Z
+DTSTART:20260930T220000Z
+SUMMARY:Ausfall der öffentlichen Sitzung des Ausschusses für Finanzen
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/ausfall-der-oeffe
+ ntlichen-sitzung-des-ausschusses-fuer-finanzen-900004769-30601.html
+DESCRIPTION:Zur Tagesordnung
+LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
+ enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900005009@amtsfeed.de
 DTSTAMP:20260911T110619Z
 DTSTART:20261001T140000Z
@@ -1318,16 +1329,6 @@ DESCRIPTION:Gemeinsam lernen wir soziale Medien sicher zu nutzen und erst
  iche statt. Ohne Anmeldung - ohne Verpflichtung! Wer Lust hat\, kommt ein
  fach vorbei.
 LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900004769@amtsfeed.de
-DTSTAMP:20260526T085739Z
-DTSTART:20261001T170000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Finanzen
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-finanzen-900004769-30601.html
-LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
- enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900005032@amtsfeed.de

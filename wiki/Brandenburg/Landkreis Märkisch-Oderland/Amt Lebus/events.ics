@@ -939,11 +939,11 @@ LOCATION:Speichercafé im Ökospeicher Wulkow
 END:VEVENT
 BEGIN:VEVENT
 UID:2955796@amtsfeed.de
-DTSTAMP:20260924T083554Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
+DTSTAMP:20260925T085705Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
 SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/24/hör-mal-
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/25/hör-mal-
  -reiseperle-lebuser-land.html
 DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
@@ -951,17 +951,6 @@ DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
 LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
   Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
-UID:2538590@amtsfeed.de
-DTSTAMP:20260918T082321Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/09/24/tischtenn
- is.html
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2464906@amtsfeed.de
@@ -1102,6 +1091,17 @@ URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/09/30/yoga-anf
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
+UID:2538590@amtsfeed.de
+DTSTAMP:20260925T085705Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/10/01/tischtenn
+ is.html
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2928789@amtsfeed.de
 DTSTAMP:20260920T084350Z
 DTSTART;VALUE=DATE:20261003
@@ -1181,6 +1181,26 @@ SUMMARY:Fahrt zur Therme
 URL:https://www.amt-lebus.de/veranstaltungen/2904732/2026/10/13/fahrt-zur
  -therme.html
 LOCATION:Treffpunkt : Postkasten Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2973745@amtsfeed.de
+DTSTAMP:20260925T085705Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Benefizkonzert des Landespolizeiorchestes Brandenburg
+URL:https://www.amt-lebus.de/veranstaltungen/2973745/2026/10/14/benefizko
+ nzert-des-landespolizeiorchestes-brandenburg.html
+LOCATION:Bürgerhaus Neuenhagen\, Hauptstrasse2 15366 Neuenhagen
+END:VEVENT
+BEGIN:VEVENT
+UID:2973746@amtsfeed.de
+DTSTAMP:20260925T085705Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Benefizkonzert des Landespolizeiorchestes Brandenburg
+URL:https://www.amt-lebus.de/veranstaltungen/2973746/2026/10/14/benefizko
+ nzert-des-landespolizeiorchestes-brandenburg.html
+LOCATION:Bürgerhaus Neuenhagen\, Hauptstrasse2 15366 Neuenhagen
 END:VEVENT
 BEGIN:VEVENT
 UID:2964722@amtsfeed.de

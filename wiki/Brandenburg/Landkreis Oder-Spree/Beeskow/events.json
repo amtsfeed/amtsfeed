@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:38:00.772Z",
+  "updatedAt": "2026-09-25T08:59:21.676Z",
   "items": [
     {
       "id": "beeskow-event-28414:0",
@@ -3640,16 +3640,6 @@
       "updatedAt": "2026-09-11T11:12:57.565Z"
     },
     {
-      "id": "beeskow-event-70762:0",
-      "title": "Musik für St. Marien – CCCXI",
-      "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
-      "startDate": "2026-09-24T08:26:00.000Z",
-      "endDate": "2026-09-24T09:26:00.000Z",
-      "location": "Katholische Pfarrkirche Heilig Geist Beeskow",
-      "fetchedAt": "2026-09-24T08:38:00.760Z",
-      "updatedAt": "2026-09-24T08:38:00.760Z"
-    },
-    {
       "id": "beeskow-event-99223598",
       "title": "Stadtblicke",
       "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
@@ -4408,6 +4398,16 @@
       "location": "Burg Beeskow",
       "fetchedAt": "2026-09-11T09:59:20.919Z",
       "updatedAt": "2026-09-12T08:06:47.112Z"
+    },
+    {
+      "id": "beeskow-event-70762:0",
+      "title": "Musik für St. Marien – CCCXI",
+      "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
+      "startDate": "2026-10-10T17:00:00.000Z",
+      "endDate": "2026-10-10T18:00:00.000Z",
+      "location": "Katholische Pfarrkirche Heilig Geist Beeskow",
+      "fetchedAt": "2026-09-24T08:38:00.760Z",
+      "updatedAt": "2026-09-25T08:59:21.659Z"
     },
     {
       "id": "beeskow-event-68539:0",

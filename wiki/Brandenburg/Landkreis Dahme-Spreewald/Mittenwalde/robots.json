@@ -2,7 +2,7 @@
   {
     "domain": "www.mittenwalde.de",
     "baseUrl": "https://www.mittenwalde.de",
-    "updatedAt": "2026-09-23T08:38:33.874Z",
+    "updatedAt": "2026-09-25T08:52:35.447Z",
     "content": "User-Agent: *\n\nAllow: /\nDisallow: /fileadmin/\nDisallow: /typo3/\nDisallow: /typo3conf/\nDisallow: /typo3temp/\n\nSitemap: http://www.mittenwalde.de/sitemap.xml\n"
   }
 ]

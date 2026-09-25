@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:35:54.349Z",
+  "updatedAt": "2026-09-25T08:57:05.908Z",
   "items": [
     {
       "id": "2846347",
@@ -789,22 +789,12 @@
     {
       "id": "2955796",
       "title": "Hör mal! &ndash; Reiseperle Lebuser Land",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/24/hör-mal--reiseperle-lebuser-land.html",
-      "startDate": "2026-09-24T00:00:00.000Z",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/25/hör-mal--reiseperle-lebuser-land.html",
+      "startDate": "2026-09-25T00:00:00.000Z",
       "location": "Lebus, Podelzig , Alt Zeschdorf, Reitwein, Mallnow,Wulkow, Schönfließ, Treplin, Döbberin, Petershagen,",
       "description": "📣 Liebe Eltern und Familien, für das touristische Audioguide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen wir Kinder und Jugendliche ab 10 Jahren, die Lust haben, ihren Ort mitzugestalten und ihre Stimme einzubringen. 🗣 ️ ...",
       "fetchedAt": "2026-09-11T09:57:29.696Z",
-      "updatedAt": "2026-09-24T08:35:54.334Z"
-    },
-    {
-      "id": "2538590",
-      "title": "Tischtennis",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/09/24/tischtennis.html",
-      "startDate": "2026-09-24T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-09-18T08:23:21.302Z"
+      "updatedAt": "2026-09-25T08:57:05.892Z"
     },
     {
       "id": "2464906",
@@ -931,6 +921,16 @@
       "updatedAt": "2026-09-24T08:35:54.334Z"
     },
     {
+      "id": "2538590",
+      "title": "Tischtennis",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/10/01/tischtennis.html",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-09-25T08:57:05.892Z"
+    },
+    {
       "id": "2928789",
       "title": "YouthBase - Dein Treff.Deine Zeit.",
       "url": "https://www.amt-lebus.de/veranstaltungen/2928789/2026/10/03/youthbase-dein-treff.deine-zeit.html",
@@ -998,6 +998,24 @@
       "location": "Treffpunkt : Postkasten Lebus",
       "fetchedAt": "2026-05-26T09:03:19.057Z",
       "updatedAt": "2026-05-26T09:03:19.057Z"
+    },
+    {
+      "id": "2973745",
+      "title": "Benefizkonzert des Landespolizeiorchestes Brandenburg",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2973745/2026/10/14/benefizkonzert-des-landespolizeiorchestes-brandenburg.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "location": "Bürgerhaus Neuenhagen, Hauptstrasse2 15366 Neuenhagen",
+      "fetchedAt": "2026-09-25T08:57:05.892Z",
+      "updatedAt": "2026-09-25T08:57:05.892Z"
+    },
+    {
+      "id": "2973746",
+      "title": "Benefizkonzert des Landespolizeiorchestes Brandenburg",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2973746/2026/10/14/benefizkonzert-des-landespolizeiorchestes-brandenburg.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "location": "Bürgerhaus Neuenhagen, Hauptstrasse2 15366 Neuenhagen",
+      "fetchedAt": "2026-09-25T08:57:05.892Z",
+      "updatedAt": "2026-09-25T08:57:05.892Z"
     },
     {
       "id": "2964722",

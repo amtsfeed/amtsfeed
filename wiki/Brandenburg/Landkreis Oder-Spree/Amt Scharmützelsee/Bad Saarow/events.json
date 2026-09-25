@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:37:51.945Z",
+  "updatedAt": "2026-09-25T08:59:08.353Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -168,14 +168,6 @@
       "id": "scharmuetzelsee-flammender-scharmuetzelsee",
       "title": "Flammender Scharmützelsee",
       "url": "https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee",
-      "startDate": "2026-09-12T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-11T11:12:44.108Z"
-    },
-    {
-      "id": "scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte",
-      "title": "Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen – Ein Rundgang durch die Ortsgeschichte",
-      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte",
       "startDate": "2026-09-12T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:59:03.401Z",
       "updatedAt": "2026-09-11T11:12:44.108Z"
@@ -469,35 +461,11 @@
       "updatedAt": "2026-09-24T08:37:51.943Z"
     },
     {
-      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
-      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
-      "startDate": "2026-09-24T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-09-24T08:37:51.943Z"
-    },
-    {
       "id": "scharmuetzelsee-schleusenfahrt-zum-storkower-see",
       "title": "Schleusenfahrt zum Storkower See",
       "url": "https://www.scharmuetzelsee.de/event/schleusenfahrt-zum-storkower-see",
       "startDate": "2026-09-24T00:00:00.000Z",
       "fetchedAt": "2026-09-17T08:52:30.326Z",
-      "updatedAt": "2026-09-23T08:46:19.768Z"
-    },
-    {
-      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
-      "title": "Linienfahrten Hauptsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
-      "startDate": "2026-09-24T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-09-23T08:46:19.768Z"
-    },
-    {
-      "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
-      "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "startDate": "2026-09-24T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:03.401Z",
       "updatedAt": "2026-09-23T08:46:19.768Z"
     },
     {
@@ -509,12 +477,60 @@
       "updatedAt": "2026-09-23T08:46:19.768Z"
     },
     {
+      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
+      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-09-25T08:59:08.350Z"
+    },
+    {
+      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
+      "title": "Linienfahrten Hauptsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-09-25T08:59:08.350Z"
+    },
+    {
+      "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
+      "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-25T08:59:08.350Z"
+    },
+    {
       "id": "scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-durch-die-ortsgeschichte",
       "title": "Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang durch die Ortsgeschichte",
       "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-durch-die-ortsgeschichte",
       "startDate": "2026-09-25T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:59:03.401Z",
       "updatedAt": "2026-09-24T08:37:51.943Z"
+    },
+    {
+      "id": "scharmuetzelsee-live-multivision-mit-kai-uwe-kuechler-cornwall-und-der-sueden-englands",
+      "title": "Live-Multivision mit Kai-Uwe Küchler \"Cornwall und der Süden Englands\"",
+      "url": "https://www.scharmuetzelsee.de/event/live-multivision-mit-kai-uwe-kuechler-cornwall-und-der-sueden-englands",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-25T08:59:08.350Z",
+      "updatedAt": "2026-09-25T08:59:08.350Z"
+    },
+    {
+      "id": "scharmuetzelsee-ein-abend-mit-henry-huebchen-im-theater-am-see",
+      "title": "Ein Abend mit HENRY HÜBCHEN im Theater am See",
+      "url": "https://www.scharmuetzelsee.de/event/ein-abend-mit-henry-huebchen-im-theater-am-see",
+      "startDate": "2026-09-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-25T08:59:08.350Z",
+      "updatedAt": "2026-09-25T08:59:08.350Z"
+    },
+    {
+      "id": "scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte",
+      "title": "Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen – Ein Rundgang durch die Ortsgeschichte",
+      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte",
+      "startDate": "2026-09-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-25T08:59:08.350Z"
     },
     {
       "id": "scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-almuth-lohmann-zell",

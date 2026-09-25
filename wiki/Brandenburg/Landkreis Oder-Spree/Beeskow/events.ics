@@ -3298,15 +3298,6 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
 END:VEVENT
 BEGIN:VEVENT
-UID:beeskow-event-70762:0@amtsfeed.de
-DTSTAMP:20260924T083800Z
-DTSTART:20260924T082600Z
-DTEND:20260924T092600Z
-SUMMARY:Musik für St. Marien – CCCXI
-URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
-LOCATION:Katholische Pfarrkirche Heilig Geist Beeskow
-END:VEVENT
-BEGIN:VEVENT
 UID:beeskow-event-99223598@amtsfeed.de
 DTSTAMP:20260922T084111Z
 DTSTART:20260924T100000Z
@@ -4004,6 +3995,15 @@ DTEND:20261010T170000Z
 SUMMARY:Sicht[ART]en
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-70762:0@amtsfeed.de
+DTSTAMP:20260925T085921Z
+DTSTART:20261010T170000Z
+DTEND:20261010T180000Z
+SUMMARY:Musik für St. Marien – CCCXI
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Katholische Pfarrkirche Heilig Geist Beeskow
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-68539:0@amtsfeed.de

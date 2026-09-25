@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:38:02.124Z",
+  "updatedAt": "2026-09-25T08:59:23.098Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -627,14 +627,6 @@
       "updatedAt": "2026-09-19T08:14:35.191Z"
     },
     {
-      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "title": "Veranstaltungen",
-      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-09-24T08:38:02.114Z",
-      "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-09-24T08:38:02.114Z"
-    },
-    {
       "id": "eisenhuettenstadt-event-2852-1890-1",
       "title": "The ABERLOUR'S",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/The-ABERLOUR-S.php?ModID=11&amp;FID=2852.1890.1",
@@ -642,6 +634,14 @@
       "location": "kleine bühne",
       "fetchedAt": "2026-09-11T09:59:21.638Z",
       "updatedAt": "2026-09-11T11:12:58.030Z"
+    },
+    {
+      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "title": "Veranstaltungen",
+      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "startDate": "2026-09-25T08:59:23.089Z",
+      "fetchedAt": "2026-05-06T08:35:22.874Z",
+      "updatedAt": "2026-09-25T08:59:23.089Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1828-1",
@@ -687,6 +687,15 @@
       "location": "Raddampfer Alexander",
       "fetchedAt": "2026-09-13T08:29:41.484Z",
       "updatedAt": "2026-09-24T08:38:02.114Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1969-1",
+      "title": "Aktionstag zur interkulturellen Woche 2026",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Aktionstag-zur-interkulturellen-Woche-2026.php?ModID=11&amp;FID=2852.1969.1",
+      "startDate": "2026-09-29T00:00:00.000Z",
+      "location": "Museum Utopie und Alltag",
+      "fetchedAt": "2026-09-25T08:59:23.089Z",
+      "updatedAt": "2026-09-25T08:59:23.089Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1940-1",
@@ -813,6 +822,33 @@
       "location": "Club Marchwitza",
       "fetchedAt": "2026-09-20T08:46:24.780Z",
       "updatedAt": "2026-09-24T08:38:02.114Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1972-1",
+      "title": "Sonderausstellung \"Handwerk - Werke der Hand\"",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Sonderausstellung-Handwerk-Werke-der-Hand-.php?ModID=11&amp;FID=2852.1972.1",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "location": "Städtisches Museum",
+      "fetchedAt": "2026-09-25T08:59:23.089Z",
+      "updatedAt": "2026-09-25T08:59:23.089Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1973-1",
+      "title": "Jubiläumsausstellung des Fotografen Bernd Geller",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Jubil%C3%A4umsausstellung-des-Fotografen-Bernd-Geller.php?ModID=11&amp;FID=2852.1973.1",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "location": "Städtisches Museum",
+      "fetchedAt": "2026-09-25T08:59:23.089Z",
+      "updatedAt": "2026-09-25T08:59:23.089Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1971-1",
+      "title": "56. Dixieland - Konzert mit den Dixie Brothers",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/56-Dixieland-Konzert-mit-den-Dixie-Brothers.php?ModID=11&amp;FID=2852.1971.1",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "location": "town",
+      "fetchedAt": "2026-09-25T08:59:23.089Z",
+      "updatedAt": "2026-09-25T08:59:23.089Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1714-1",

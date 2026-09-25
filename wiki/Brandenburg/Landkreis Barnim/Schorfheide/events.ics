@@ -2935,6 +2935,15 @@ URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
 LOCATION:Joachimsthal - Ringhotel Schorfheide & Jagdschloss Hubertusstock
 END:VEVENT
 BEGIN:VEVENT
+UID:99224148@amtsfeed.de
+DTSTAMP:20260925T085203Z
+DTSTART:20261124T150000Z
+SUMMARY:Weihnachtsbastel in der Schorfheide-Info
+URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
+ =99224148
+LOCATION:Joachimsthal - Schorfheide-Info in Joachimsthal
+END:VEVENT
+BEGIN:VEVENT
 UID:99130428@amtsfeed.de
 DTSTAMP:20260526T084948Z
 DTSTART:20261128T110000Z
@@ -2997,6 +3006,15 @@ SUMMARY:Brunchbuffet im Jagdschloss Hubertusstock
 URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
  =99938763
 LOCATION:Joachimsthal - Ringhotel Schorfheide & Jagdschloss Hubertusstock
+END:VEVENT
+BEGIN:VEVENT
+UID:99224095@amtsfeed.de
+DTSTAMP:20260925T085203Z
+DTSTART:20261206T130000Z
+SUMMARY:Joachimsthaler Weihnachtsmarkt
+URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
+ =99224095
+LOCATION:Joachimsthal - Joachimsplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:99125169@amtsfeed.de

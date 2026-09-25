@@ -98,11 +98,31 @@ LOCATION:Sitzungssaal des Rathauses
 END:VEVENT
 BEGIN:VEVENT
 UID:leegebruch-event-2931318@amtsfeed.de
-DTSTAMP:20260912T080527Z
+DTSTAMP:20260925T085812Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:Lese- und Bastelstunde
+SUMMARY:Schließzeiten der in der Trägerschaft der Gemeinde Leegebruch b
+ efindlichen Kindertagesstätte
 URL:https://www.leegebruch.de/veranstaltungen/2931318/2026/10/08/lese-und
  -bastelstunde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:leegebruch-event-2931314@amtsfeed.de
+DTSTAMP:20260925T085812Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Stöbern &bull\; Staunen &bull\; Wissen &bull\; Experimentierwoch
+ e
+URL:https://www.leegebruch.de/veranstaltungen/2931314/2026/10/19/stöbern
+ --staunen--wissen--experimentierwoche.html
+END:VEVENT
+BEGIN:VEVENT
+UID:leegebruch-event-2931311@amtsfeed.de
+DTSTAMP:20260925T085812Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Lesecaf&eacute\;
+URL:https://www.leegebruch.de/veranstaltungen/2931311/2026/10/30/lesecaf
+ é.html
 END:VEVENT
 END:VCALENDAR

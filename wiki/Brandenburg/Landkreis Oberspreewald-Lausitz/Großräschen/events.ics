@@ -363,15 +363,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2963514/2026/09/24/digit
  al-dabei-mit-internet-und-smartphone.html
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2790788@amtsfeed.de
-DTSTAMP:20260911T111229Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Sprechtag der EMB
-URL:https://www.grossraeschen.de/veranstaltungen/2790788/2026/09/24/sprec
- htag-der-emb.html
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2965272@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20260925
@@ -631,6 +622,15 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Legobautag 2026
 URL:https://www.grossraeschen.de/veranstaltungen/2625562/2026/10/28/legob
  autag-2026.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2790788@amtsfeed.de
+DTSTAMP:20260925T085846Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Sprechtag der EMB
+URL:https://www.grossraeschen.de/veranstaltungen/2790788/2026/10/29/sprec
+ htag-der-emb.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2967820@amtsfeed.de

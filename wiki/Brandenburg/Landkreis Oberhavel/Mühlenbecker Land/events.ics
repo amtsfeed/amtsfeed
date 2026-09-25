@@ -2408,6 +2408,16 @@ URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
 LOCATION:Mühlentreff\, OT Mühlenbeck\, Hauptstraße 7
 END:VEVENT
 BEGIN:VEVENT
+UID:muehlenbecker-land-event-59055964@amtsfeed.de
+DTSTAMP:20260925T085818Z
+DTSTART:20260928T190000Z
+SUMMARY:Gaming\, Social Media und Co - Kinder kompetent durch die Digital
+ e Welt begleiten
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59055964
+LOCATION:Bürgersaal\, Franz-Schmidt-Str. 3\, Schildow
+END:VEVENT
+BEGIN:VEVENT
 UID:muehlenbecker-land-event-58797980@amtsfeed.de
 DTSTAMP:20260911T111216Z
 DTSTART:20260929T090000Z
@@ -3010,5 +3020,43 @@ SUMMARY:Ordnungsamt vor Ort in Mühlenbeck
 URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
  .php?id=58896484
 LOCATION:Mühlentreff\, Hauptstr. 7\, 16567 Mühlenbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-59004046@amtsfeed.de
+DTSTAMP:20260925T085820Z
+DTSTART:20261015T100000Z
+SUMMARY:Volkssolidarität: Tanzgruppe Mühlentänzer
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59004046
+LOCATION:Mühlentreff\, Hauptstraße 7\, OT Mühlenbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58798143@amtsfeed.de
+DTSTAMP:20260925T085820Z
+DTSTART:20261015T120000Z
+SUMMARY:Volkssolidarität: Gedächtnistraining
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58798143
+LOCATION:Mühlentreff\, Hauptstraße 7\, OT Mühlenbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58798748@amtsfeed.de
+DTSTAMP:20260925T085820Z
+DTSTART:20261015T140000Z
+SUMMARY:Bürgerverein Bieselheide: Singen mit Lilo
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58798748
+LOCATION:Bürgertreff Bieselheide\, Traubeneichenstraße 66\, OT Schönfl
+ ieß
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58798652@amtsfeed.de
+DTSTAMP:20260925T085820Z
+DTSTART:20261015T150000Z
+SUMMARY:Sitzgymnastik mit anschließender Kaffeerunde
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58798652
+LOCATION:Bürgertreff Bieselheide\, Traubeneichenstraße 66\, OT Schönfl
+ ieß
 END:VEVENT
 END:VCALENDAR

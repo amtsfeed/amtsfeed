@@ -224,12 +224,37 @@ SUMMARY:Kammerkonzert: Dreamscapes
 URL:https://www.eichwalde.de/kalender/kammerkonzert-dreamscapes/
 END:VEVENT
 BEGIN:VEVENT
+UID:eichwalde-event-19430@amtsfeed.de
+DTSTAMP:20260925T085223Z
+DTSTART:20261007T140000Z
+DTEND:20261007T190000Z
+SUMMARY:Blutspenden in Eichwalde
+URL:https://www.eichwalde.de/kalender/blutspenden-in-eichwalde-4/
+END:VEVENT
+BEGIN:VEVENT
 UID:eichwalde-event-19057@amtsfeed.de
 DTSTAMP:20260915T084353Z
 DTSTART:20261010T110000Z
 DTEND:20261010T180000Z
 SUMMARY:Herbstgestöber auf dem Marktplatz
 URL:https://www.eichwalde.de/kalender/herbstgestoeber-auf-dem-marktplatz/
+END:VEVENT
+BEGIN:VEVENT
+UID:eichwalde-event-19422@amtsfeed.de
+DTSTAMP:20260925T085223Z
+DTSTART:20261010T180000Z
+DTEND:20261010T193000Z
+SUMMARY:Autorenlesung von Walter Plathe
+URL:https://www.eichwalde.de/kalender/autorenlesung-von-walter-plathe/
+END:VEVENT
+BEGIN:VEVENT
+UID:eichwalde-event-19425@amtsfeed.de
+DTSTAMP:20260925T085223Z
+DTSTART:20261015T140000Z
+DTEND:20261015T160000Z
+SUMMARY:Gesprächsrunde: Betreutes Leben in Gastfamilien
+URL:https://www.eichwalde.de/kalender/gespraechsrunde-betreutes-leben-in-
+ gastfamilien/
 END:VEVENT
 BEGIN:VEVENT
 UID:eichwalde-event-18308@amtsfeed.de

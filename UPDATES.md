@@ -1,5 +1,72 @@
 # Updates
 
+## 2026-09-26 08:46
+
+Insgesamt **346 neu**, **171 aktualisiert**, **3 entfernt** in 60 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~1 | — | — |
+| Altlandsberg | — | ~1 | — | — |
+| Amt Barnim-Oderbruch | +2 | +1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~3 | — | — |
+| Amt Märkische Schweiz | +1 | — | — | — |
+| Amt Neuzelle | — | +2 | — | — |
+| Amt Scharmützelsee | — | -3 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | ~6 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Beeskow | — | — | +1 | — |
+| Bernau bei Berlin | +3 | +11 / ~9 | — | — |
+| Birkenwerder | — | — | — | +1 |
+| Brieselang | +1 | +2 | — | — |
+| Doberlug-Kirchhain | — | +1 / ~1 | — | — |
+| Eberswalde | — | +3 | — | — |
+| Eichwalde | +1 | — | — | — |
+| Eisenhüttenstadt | ~3 | ~13 | — | — |
+| Finsterwalde | +2 | — | — | — |
+| Fredersdorf-Vogelsdorf | — | ~2 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Glienicke-Nordbahn | +2 | — | — | — |
+| Groß Kreutz | — | +2 / ~23 | — | — |
+| Heidesee | +1 | — | — | — |
+| Hohen Neuendorf | +1 | +2 | — | — |
+| Kleinmachnow | — | +2 | — | — |
+| Kloster Lehnin | — | +5 / ~1 | — | +2 |
+| Kremmen | +1 | — | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +3 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | +1 | — | — | — |
+| Lauchhammer | — | ~1 | — | — |
+| Lübbenau Spreewald | — | +245 / ~10 | — | +2 |
+| Luckau | +1 | — | — | ~1 |
+| Michendorf | — | ~1 | — | — |
+| Mühlenbecker Land | ~1 | +9 | — | — |
+| Müncheberg | +1 / ~1 | — | — | — |
+| Oberkrämer | +1 | +1 / ~1 | — | — |
+| Oderbruch / Amt Seelow-Land | — | +1 | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | — | +1 | — | — |
+| Oranienburg | +1 | +2 | — | — |
+| Premnitz | — | +2 | — | — |
+| Rathenow | +1 | — | — | +1 |
+| Rietz-Neuendorf | — | — | ~2 | — |
+| Schönefeld | +1 / ~1 | ~30 | — | — |
+| Schöneiche bei Berlin | — | — | +1 | — |
+| Schorfheide | — | +1 | — | — |
+| Schulzendorf | — | — | +1 | +1 |
+| Schwielowsee | — | +2 | — | — |
+| Senftenberg | — | +4 | — | — |
+| Storkow (Mark) | +2 | — | — | — |
+| Tauche | — | ~1 | — | — |
+| Teltow | +1 | — | — | — |
+| Uebigau-Wahrenbrück | +1 | — | — | — |
+| Velten | — | +1 | — | — |
+| Verbandsgemeinde Bad Liebenwerda | +1 | — | — | — |
+| Wandlitz | +1 | — | — | — |
+| Werder (Havel) | — | ~23 | — | — |
+| Werneuchen | — | +4 | — | — |
+| Wiesenburg-Mark | — | ~3 | — | — |
+| Zehdenick | — | — | +1 | — |
+
 ## 2026-09-25 09:00
 
 Insgesamt **536 neu**, **191 aktualisiert**, **2 entfernt** in 85 Quellen.

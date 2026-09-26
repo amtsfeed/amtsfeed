@@ -234,15 +234,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2958601/2026/09/17/blutspe
  ndetermin-in-der-os-am-wehlenteich.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2918359@amtsfeed.de
-DTSTAMP:20260911T111233Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Gruppentreffen Selbsthilfegruppe Multiple Sklerose
-URL:https://www.lauchhammer.de/veranstaltungen/2918359/2026/09/25/gruppen
- treffen-selbsthilfegruppe-multiple-sklerose.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124462@amtsfeed.de
 DTSTAMP:20260922T084038Z
 DTSTART;VALUE=DATE:20260928
@@ -396,6 +387,15 @@ DTEND;VALUE=DATE:20261026
 SUMMARY:Es war einmal ...! im echten Leben!!!
 URL:https://www.lauchhammer.de/veranstaltungen/2971016/2026/10/25/es-war-
  einmal-.-im-echten-leben.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2918359@amtsfeed.de
+DTSTAMP:20260926T084450Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Gruppentreffen Selbsthilfegruppe Multiple Sklerose
+URL:https://www.lauchhammer.de/veranstaltungen/2918359/2026/10/30/gruppen
+ treffen-selbsthilfegruppe-multiple-sklerose.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2873281@amtsfeed.de

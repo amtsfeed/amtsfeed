@@ -1674,12 +1674,13 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2952776/2026/09/25/vom-b
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2783034@amtsfeed.de
-DTSTAMP:20260506T201826Z
+DTSTAMP:20260926T084618Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:Absegeln (14.00 Uhr Eröffnung auf dem Segelplatz)
+SUMMARY:Absegeln (13.30 Uhr Eröffnung auf dem Segelplatz / 14.00 Ausfahr
+ t)
 URL:https://www.klosterlehnin.de/veranstaltungen/2783034/2026/09/26/abseg
- eln-14.00-uhr-eröffnung-auf-dem-segelplatz.html
+ eln-13.30-uhr-eröffnung-auf-dem-segelplatz-14.00-ausfahrt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2864178@amtsfeed.de
@@ -1734,6 +1735,15 @@ DTEND;VALUE=DATE:20260928
 SUMMARY:Theater: Flügel unter der Haut
 URL:https://www.klosterlehnin.de/veranstaltungen/2918691/2026/09/27/theat
  er-flügel-unter-der-haut.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2974616@amtsfeed.de
+DTSTAMP:20260926T084618Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Vorbereitung der Trailer zum Aufslippen (17.00)
+URL:https://www.klosterlehnin.de/veranstaltungen/2974616/2026/09/28/vorbe
+ reitung-der-trailer-zum-aufslippen-17.00.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2884251@amtsfeed.de
@@ -2153,6 +2163,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2964738/2026/11/20/schö
  ne-bescherung-von-0-auf-24.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2974609@amtsfeed.de
+DTSTAMP:20260926T084618Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Bilderabend (19.00 Uhr im Klubraum)
+URL:https://www.klosterlehnin.de/veranstaltungen/2974609/2026/11/20/bilde
+ rabend-19.00-uhr-im-klubraum.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2856215@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261121
@@ -2299,6 +2318,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2915346/2026/12/11/mit-g
  espitzten-ohren-vorlesezeit-in-der-bibliothek.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2974611@amtsfeed.de
+DTSTAMP:20260926T084618Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Weihnachtsfeier ... für Alt & Jung (16.00 Uhr im Klubraum)
+URL:https://www.klosterlehnin.de/veranstaltungen/2974611/2026/12/12/weihn
+ achtsfeier-.-für-alt-jung-16.00-uhr-im-klubraum.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2884265@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261213
@@ -2389,6 +2417,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2899453/2027/04/24/sport
  abzeichentag-2027-in-lehnin-avisierter-termin.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2974614@amtsfeed.de
+DTSTAMP:20260926T084618Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Freundschaftsregatta 2027 - SVKL/Segeln am 22./23. Mai 2027
+URL:https://www.klosterlehnin.de/veranstaltungen/2974614/2027/05/22/freun
+ dschaftsregatta-2027-svkl-segeln-am-22.-23.-mai-2027.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2927939@amtsfeed.de
 DTSTAMP:20260911T111334Z
 DTSTART;VALUE=DATE:20270523
@@ -2414,6 +2451,15 @@ DTEND;VALUE=DATE:20270612
 SUMMARY:25 Jahre Gemeinde Kloster Lehnin - Festwochenende
 URL:https://www.klosterlehnin.de/veranstaltungen/2930168/2027/06/11/25-ja
  hre-gemeinde-kloster-lehnin-festwochenende.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2974615@amtsfeed.de
+DTSTAMP:20260926T084618Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Volleyballmeeting auf dem Segelplatz (31.07.2027)
+URL:https://www.klosterlehnin.de/veranstaltungen/2974615/2027/07/31/volle
+ yballmeeting-auf-dem-segelplatz-31.07.2027.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2958253@amtsfeed.de

@@ -199,25 +199,6 @@ SUMMARY:Flammender Scharmützelsee
 URL:https://www.scharmuetzelsee.de/event/flammender-scharmuetzelsee
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
- feed.de
-DTSTAMP:20260912T080634Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Stadtführung durch Storkow mit dem grünen Lutz
-URL:https://www.scharmuetzelsee.de/event/stadtfuehrung-durch-storkow-mit-
- dem-gruenen-lutz
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-golf-schnupperkurs@amtsfeed.de
-DTSTAMP:20260912T080634Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Aktiv Wochenplan - Golf-Schnupperkurs
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-golf-schnupperk
- urs
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-perlen-im-glas-der-feine-unterschied@amtsfeed.de
 DTSTAMP:20260912T080634Z
 DTSTART;VALUE=DATE:20260912
@@ -361,17 +342,6 @@ DTEND;VALUE=DATE:20260920
 SUMMARY:OKTOBERFEST „Ennstaler Steirerklang“ im Theater am See
 URL:https://www.scharmuetzelsee.de/event/oktoberfest-ennstaler-steirerkla
  ng-im-theater-am-see
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
- enkmal-bunkeranlage-fuchsbau@amtsfeed.de
-DTSTAMP:20260919T081415Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
- nkeranlage Fuchsbau“
-URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
- nker-im-technischen-denkmal-bunkeranlage-fuchsbau
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
@@ -545,34 +515,6 @@ URL:https://www.scharmuetzelsee.de/event/zur-kaffeezeit-im-scharwenka-kul
  turforum
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260925T085908Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
-DTSTAMP:20260925T085908Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Linienfahrten Hauptsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
- ch
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20260925T085908Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
  durch-die-ortsgeschichte@amtsfeed.de
 DTSTAMP:20260924T083751Z
@@ -603,6 +545,64 @@ DTEND;VALUE=DATE:20260926
 SUMMARY:Ein Abend mit HENRY HÜBCHEN im Theater am See
 URL:https://www.scharmuetzelsee.de/event/ein-abend-mit-henry-huebchen-im-
  theater-am-see
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
+ feed.de
+DTSTAMP:20260926T084513Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Stadtführung durch Storkow mit dem grünen Lutz
+URL:https://www.scharmuetzelsee.de/event/stadtfuehrung-durch-storkow-mit-
+ dem-gruenen-lutz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-golf-schnupperkurs@amtsfeed.de
+DTSTAMP:20260926T084513Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Aktiv Wochenplan - Golf-Schnupperkurs
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-golf-schnupperk
+ urs
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
+ enkmal-bunkeranlage-fuchsbau@amtsfeed.de
+DTSTAMP:20260926T084513Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
+ nkeranlage Fuchsbau“
+URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
+ nker-im-technischen-denkmal-bunkeranlage-fuchsbau
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20260926T084513Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
+DTSTAMP:20260926T084513Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Linienfahrten Hauptsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
+ ch
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20260926T084513Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650ja

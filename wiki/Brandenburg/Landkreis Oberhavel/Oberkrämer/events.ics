@@ -214,15 +214,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855865/2026/09/23/klön-u
  nd-spielenachmittag.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855745@amtsfeed.de
-DTSTAMP:20260919T081314Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Schach
-URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/09/25/schach.
- html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2959892@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20260926
@@ -403,6 +394,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2909881/2026/10/01/tafelru
  nde.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2855745@amtsfeed.de
+DTSTAMP:20260926T084425Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Schach
+URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/02/schach.
+ html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855754@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261003
@@ -474,6 +474,15 @@ DTEND;VALUE=DATE:20261011
 SUMMARY:Waldführung im FriedWald Oberkrämer
 URL:https://www.oberkraemer.de/veranstaltungen/2962464/2026/10/10/waldfü
  hrung-im-friedwald-oberkrämer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2974428@amtsfeed.de
+DTSTAMP:20260926T084425Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Erntedankfest am Holzbackofen
+URL:https://www.oberkraemer.de/veranstaltungen/2974428/2026/10/10/ernteda
+ nkfest-am-holzbackofen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855583@amtsfeed.de

@@ -945,15 +945,6 @@ URL:https://www.michendorf.de/veranstaltungen/2968984/2026/09/24/mädchen
  fußball-in-michendorf.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959541@amtsfeed.de
-DTSTAMP:20260919T081533Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959541/2026/09/25/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2960881@amtsfeed.de
 DTSTAMP:20260911T111336Z
 DTSTART;VALUE=DATE:20260925
@@ -1078,6 +1069,15 @@ DTEND;VALUE=DATE:20261002
 SUMMARY:Der letzte Hilfe Kurs - Am Ende wissen wie es geht.
 URL:https://www.michendorf.de/veranstaltungen/2967963/2026/10/01/der-letz
  te-hilfe-kurs-am-ende-wissen-wie-es-geht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959541@amtsfeed.de
+DTSTAMP:20260926T084621Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959541/2026/10/02/jugendcl
+ ub-micheck-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2938769@amtsfeed.de

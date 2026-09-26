@@ -158,6 +158,16 @@ URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/e-sc
 DESCRIPTION:Jeder Stecker zählt!
 END:VEVENT
 BEGIN:VEVENT
+UID:benefizkonzert-herbstfeuer@amtsfeed.de
+DTSTAMP:20260926T084257Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Benefizkonzert - Herbstfeuer
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/bene
+ fizkonzert-herbstfeuer
+DESCRIPTION:Landespolizeiorchester Brandenburg
+END:VEVENT
+BEGIN:VEVENT
 UID:neulewiner-oktoberfest@amtsfeed.de
 DTSTAMP:20260911T111124Z
 DTSTART;VALUE=DATE:20261017

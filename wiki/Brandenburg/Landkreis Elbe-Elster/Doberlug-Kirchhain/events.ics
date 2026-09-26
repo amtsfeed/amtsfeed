@@ -705,11 +705,12 @@ URL:https://www.doberlug-kirchhain.de/veranstaltungen/2971761/2026/09/26/
 END:VEVENT
 BEGIN:VEVENT
 UID:2804639@amtsfeed.de
-DTSTAMP:20260508T183813Z
+DTSTAMP:20260926T083948Z
 DTSTART:20260926T190000Z
-SUMMARY:Prof. Dr. Krone Schmalz Vortrag "Russland und wie weiter"
+SUMMARY:***ABGESAGT*** Prof. Dr. Krone Schmalz Vortrag "Russland und wie 
+ weiter"
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2804639/2026/09/26/
- prof.-dr.-krone-schmalz-vortrag-russland-und-wie-weiter.html
+ abgesagt-prof.-dr.-krone-schmalz-vortrag-russland-und-wie-weiter.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2938745@amtsfeed.de
@@ -1177,6 +1178,15 @@ DTEND;VALUE=DATE:20270715
 SUMMARY:Führung mit Kammerjunker Volkmar
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2960867/2027/07/14/
  führung-mit-kammerjunker-volkmar.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2974352@amtsfeed.de
+DTSTAMP:20260926T083948Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Rallye Monte Lugau 2027
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2974352/2027/08/07/
+ rallye-monte-lugau-2027.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2960869@amtsfeed.de

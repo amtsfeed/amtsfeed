@@ -474,4 +474,23 @@ SUMMARY:Mach-Mit-Fit
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  mach-mit-fit-20
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-familie-neubert-ein-crossoverkonzert@amtsfeed.d
+ e
+DTSTAMP:20260926T084412Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Familie Neubert - ein Crossoverkonzert
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ familie-neubert-ein-crossoverkonzert
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-hilfe-fur-handy-und-pc@amtsfeed.de
+DTSTAMP:20260926T084412Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Hilfe für Handy und PC
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ hilfe-fur-handy-und-pc
+END:VEVENT
 END:VCALENDAR

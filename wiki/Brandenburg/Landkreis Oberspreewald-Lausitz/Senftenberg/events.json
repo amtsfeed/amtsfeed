@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:58:56.123Z",
+  "updatedAt": "2026-09-26T08:45:00.573Z",
   "items": [
     {
       "id": "senftenberg-event-7189",
@@ -1040,6 +1040,38 @@
       "startDate": "2026-09-30T00:00:00.000Z",
       "fetchedAt": "2026-09-25T08:58:56.132Z",
       "updatedAt": "2026-09-25T08:58:56.132Z"
+    },
+    {
+      "id": "senftenberg-event-6332",
+      "title": "Altstadtführung Senftenberg",
+      "url": "https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Altstadtf%C3%BChrung-Senftenberg.php?object=tx,2779.4&ModID=11&FID=2779.6332.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-26T08:45:00.583Z",
+      "updatedAt": "2026-09-26T08:45:00.583Z"
+    },
+    {
+      "id": "senftenberg-event-6965",
+      "title": "Die Nacht - Zähneputzen, Pullern und ab ins Bett",
+      "url": "https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Die-Nacht-Z%C3%A4hneputzen-Pullern-und-ab-ins-Bett.php?object=tx,2779.4&ModID=11&FID=2779.6965.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-26T08:45:00.583Z",
+      "updatedAt": "2026-09-26T08:45:00.583Z"
+    },
+    {
+      "id": "senftenberg-event-7370",
+      "title": "Bewegungsmix und Powerflow",
+      "url": "https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Bewegungsmix-und-Powerflow.php?object=tx,2779.4&ModID=11&FID=2779.7370.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-26T08:45:00.583Z",
+      "updatedAt": "2026-09-26T08:45:00.583Z"
+    },
+    {
+      "id": "senftenberg-event-7371",
+      "title": "Waldbaden",
+      "url": "https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Waldbaden.php?object=tx,2779.4&ModID=11&FID=2779.7371.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-26T08:45:00.583Z",
+      "updatedAt": "2026-09-26T08:45:00.583Z"
     }
   ]
 }

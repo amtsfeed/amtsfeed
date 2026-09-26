@@ -328,21 +328,6 @@ DESCRIPTION:Das Kalliope-Team präsentiert unterhaltsame und amüsante Ge
 LOCATION:Stadtkirche Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
-UID:1@amtsfeed.de
-DTSTAMP:20260911T110919Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Handpan Schnupper-Workshop Anfänger
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/handpan-schnupper-workshop-anfaenger-1/
-DESCRIPTION:Handpan entdecken – Klang erleben – selbst ausprobieren!D
- u hast die faszinierenden Klänge der Handpan gehört und möchtest das I
- nstrument selbst einmal ausprobieren? Dann ist dieser Schnupperworkshop g
- enau das Richtige für dich!In entspannter Atmosphäre bekommst du die M
- öglichkeit\, die Handpan ganz unverbindlich...
-LOCATION:Katja Baumheier
-END:VEVENT
-BEGIN:VEVENT
 UID:27@amtsfeed.de
 DTSTAMP:20260911T110937Z
 DTSTART;VALUE=DATE:20260926
@@ -565,6 +550,23 @@ URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
 DESCRIPTION:Im Hof des Marktquartiers in Altlandsberg sind an Halloween a
  lle Kinder herzlich willkommen.
 LOCATION:Marktquartier Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:1@amtsfeed.de
+DTSTAMP:20260926T084234Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Workshop: "Stich für Stich" - Kreativ Reparieren von Textilien m
+ it...
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/workshop-stich-fuer-stich-kreativ-reparieren-von-textilien-mit-birgit
+ -paschke-1/
+DESCRIPTION:Im Workshop „Stich für Stich“ steht das kreative Reparie
+ ren von Textilien im Mittelpunkt. Ganz im Sinne der japanischen Mottainai
+ -Philosophie\, die dazu ermutigt\, nichts zu verschwenden\, wird gezeigt\
+ , wie zerschlissene Kleidung – etwa eine abgetragene Jeans oder ein lie
+ bgewonnenes T-Shirt – mit Nadel und Faden...
+LOCATION:Schlossgut Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
 UID:vokalkolleg-berlin-in-der-stadtkirche@amtsfeed.de

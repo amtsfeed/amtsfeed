@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:59:23.098Z",
+  "updatedAt": "2026-09-26T08:45:26.517Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -636,14 +636,6 @@
       "updatedAt": "2026-09-11T11:12:58.030Z"
     },
     {
-      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "title": "Veranstaltungen",
-      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-09-25T08:59:23.089Z",
-      "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-09-25T08:59:23.089Z"
-    },
-    {
       "id": "eisenhuettenstadt-event-2852-1828-1",
       "title": "PfiFf - Pflege in Familie fördern",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/PfiFf-Pflege-in-Familie-f%C3%B6rdern.php?ModID=11&amp;FID=2852.1828.1",
@@ -680,31 +672,38 @@
       "updatedAt": "2026-09-13T08:29:41.484Z"
     },
     {
+      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "title": "Veranstaltungen",
+      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "startDate": "2026-09-26T08:45:26.508Z",
+      "fetchedAt": "2026-05-06T08:35:22.874Z",
+      "updatedAt": "2026-09-26T08:45:26.508Z"
+    },
+    {
       "id": "eisenhuettenstadt-event-2852-1939-1",
       "title": "Schleusen - Tour mit dem Raddampfer \"Alexander\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem-Raddampfer-Alexander-.php?ModID=11&amp;FID=2852.1939.1",
       "startDate": "2026-09-27T00:00:00.000Z",
-      "location": "Raddampfer Alexander",
+      "location": "einzigartiger Kulisse.  Anlegestelle",
       "fetchedAt": "2026-09-13T08:29:41.484Z",
-      "updatedAt": "2026-09-24T08:38:02.114Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1969-1",
       "title": "Aktionstag zur interkulturellen Woche 2026",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Aktionstag-zur-interkulturellen-Woche-2026.php?ModID=11&amp;FID=2852.1969.1",
       "startDate": "2026-09-29T00:00:00.000Z",
-      "location": "Museum Utopie und Alltag",
       "fetchedAt": "2026-09-25T08:59:23.089Z",
-      "updatedAt": "2026-09-25T08:59:23.089Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1940-1",
       "title": "Schleusen - Tour mit dem Raddampfer \"Alexander\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem-Raddampfer-Alexander-.php?ModID=11&amp;FID=2852.1940.1",
       "startDate": "2026-10-02T00:00:00.000Z",
-      "location": "Raddampfer Alexander",
+      "location": "einzigartiger Kulisse.  Anlegestelle",
       "fetchedAt": "2026-09-13T08:29:41.484Z",
-      "updatedAt": "2026-09-24T08:38:02.114Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1965-1",
@@ -720,9 +719,9 @@
       "title": "Schleusen - Tour mit dem Raddampfer \"Alexander\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem-Raddampfer-Alexander-.php?ModID=11&amp;FID=2852.1941.1",
       "startDate": "2026-10-03T00:00:00.000Z",
-      "location": "Raddampfer Alexander",
+      "location": "einzigartiger Kulisse.  Anlegestelle",
       "fetchedAt": "2026-09-13T08:29:41.484Z",
-      "updatedAt": "2026-09-24T08:38:02.114Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1739-1",
@@ -747,45 +746,44 @@
       "title": "EKO - Tour mit dem Raddampfer \"Alexander\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/EKO-Tour-mit-dem-Raddampfer-Alexander-.php?ModID=11&amp;FID=2852.1944.1",
       "startDate": "2026-10-03T00:00:00.000Z",
-      "location": "Raddampfer Alexander",
+      "location": "einzigartiger Kulisse.  Anlegestelle",
       "fetchedAt": "2026-09-14T09:08:20.092Z",
-      "updatedAt": "2026-09-24T08:38:02.114Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1942-1",
       "title": "Schleusen - Tour mit dem Raddampfer \"Alexander\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem-Raddampfer-Alexander-.php?ModID=11&amp;FID=2852.1942.1",
       "startDate": "2026-10-04T00:00:00.000Z",
-      "location": "Raddampfer Alexander",
+      "location": "einzigartiger Kulisse.  Anlegestelle",
       "fetchedAt": "2026-09-14T09:08:20.092Z",
-      "updatedAt": "2026-09-24T08:38:02.114Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1916-1",
       "title": "Finissage \"Das Weite suchen. Fotografien der späten DDR und frühen 1990er Jahre\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Finissage-Das-Weite-suchen-Fotografien-der-sp%C3%A4ten-DDR-und-fr%C3%BChen-1990er-Jahre-.php?ModID=11&amp;FID=2852.1916.1",
       "startDate": "2026-10-04T00:00:00.000Z",
-      "location": "Museum Utopie und Alltag",
+      "location": "der die Zeit still zu stehen schien und sich gleichzeitig Aufbrüche abzeichneten, fanden Fotograf",
       "fetchedAt": "2026-09-14T09:08:20.092Z",
-      "updatedAt": "2026-09-24T08:38:02.114Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1943-1",
       "title": "Schleusen - Tour mit dem Raddampfer \"Alexander\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem-Raddampfer-Alexander-.php?ModID=11&amp;FID=2852.1943.1",
       "startDate": "2026-10-08T00:00:00.000Z",
-      "location": "Raddampfer Alexander",
+      "location": "einzigartiger Kulisse.  Anlegestelle",
       "fetchedAt": "2026-09-15T08:50:07.306Z",
-      "updatedAt": "2026-09-24T08:38:02.114Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1956-1",
       "title": "»Kleine Abendmusik« »Trompete, Sopran und Orgel«",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-Kleine-Abendmusik-Trompete-Sopran-und-Orgel-.php?ModID=11&amp;FID=2852.1956.1",
       "startDate": "2026-10-09T00:00:00.000Z",
-      "location": "Nikolaikirche",
       "fetchedAt": "2026-09-19T08:14:35.191Z",
-      "updatedAt": "2026-09-24T08:38:02.114Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1889-1",
@@ -819,27 +817,25 @@
       "title": "New Way to Escape",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/New-Way-to-Escape.php?ModID=11&amp;FID=2852.1961.1",
       "startDate": "2026-10-10T00:00:00.000Z",
-      "location": "Club Marchwitza",
+      "location": "einem Lexikon Indie Rock nach, könnte dort als Beispiel gut und gern ein Bild von new way to escape die Seite zieren. 5 junge Erwachsene aus Eisenhüttenstadt machen, worauf sie Bock haben",
       "fetchedAt": "2026-09-20T08:46:24.780Z",
-      "updatedAt": "2026-09-24T08:38:02.114Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1972-1",
       "title": "Sonderausstellung \"Handwerk - Werke der Hand\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Sonderausstellung-Handwerk-Werke-der-Hand-.php?ModID=11&amp;FID=2852.1972.1",
       "startDate": "2026-10-10T00:00:00.000Z",
-      "location": "Städtisches Museum",
       "fetchedAt": "2026-09-25T08:59:23.089Z",
-      "updatedAt": "2026-09-25T08:59:23.089Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1973-1",
       "title": "Jubiläumsausstellung des Fotografen Bernd Geller",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Jubil%C3%A4umsausstellung-des-Fotografen-Bernd-Geller.php?ModID=11&amp;FID=2852.1973.1",
       "startDate": "2026-10-10T00:00:00.000Z",
-      "location": "Städtisches Museum",
       "fetchedAt": "2026-09-25T08:59:23.089Z",
-      "updatedAt": "2026-09-25T08:59:23.089Z"
+      "updatedAt": "2026-09-26T08:45:26.508Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1971-1",

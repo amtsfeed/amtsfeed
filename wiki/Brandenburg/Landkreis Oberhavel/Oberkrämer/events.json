@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:58:22.976Z",
+  "updatedAt": "2026-09-26T08:44:25.758Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -186,14 +186,6 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
-      "id": "oberkraemer-event-2855745",
-      "title": "Schach",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855745/2026/09/25/schach.html",
-      "startDate": "2026-09-25T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-19T08:13:14.561Z"
-    },
-    {
       "id": "oberkraemer-event-2959892",
       "title": "Bötzower Familienfest",
       "url": "https://www.oberkraemer.de/veranstaltungen/2959892/2026/09/26/bötzower-familienfest.html",
@@ -354,6 +346,14 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
+      "id": "oberkraemer-event-2855745",
+      "title": "Schach",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/02/schach.html",
+      "startDate": "2026-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-09-26T08:44:25.775Z"
+    },
+    {
       "id": "oberkraemer-event-2855754",
       "title": "ReTrO - ReparaturTreff Oberkrämer",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855754/2026/10/03/retro-reparaturtreff-oberkrämer.html",
@@ -416,6 +416,14 @@
       "startDate": "2026-10-10T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2974428",
+      "title": "Erntedankfest am Holzbackofen",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2974428/2026/10/10/erntedankfest-am-holzbackofen.html",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-26T08:44:25.775Z",
+      "updatedAt": "2026-09-26T08:44:25.775Z"
     },
     {
       "id": "oberkraemer-event-2855583",

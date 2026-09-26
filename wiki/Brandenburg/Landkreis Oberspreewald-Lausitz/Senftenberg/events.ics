@@ -1347,4 +1347,44 @@ URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Danny-Linwerk-
  Zeitgeister.php?object=tx\,2779.4&ModID=11&FID=2779.7471.1&NavID=2779.16&
  sfort=1&sfvort=1&sfreg=1&dv0=1
 END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-6332@amtsfeed.de
+DTSTAMP:20260926T084500Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Altstadtführung Senftenberg
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Altstadtf%C3%B
+ Chrung-Senftenberg.php?object=tx\,2779.4&ModID=11&FID=2779.6332.1&NavID=2
+ 779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-6965@amtsfeed.de
+DTSTAMP:20260926T084500Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Die Nacht - Zähneputzen\, Pullern und ab ins Bett
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Die-Nacht-Z%C3
+ %A4hneputzen-Pullern-und-ab-ins-Bett.php?object=tx\,2779.4&ModID=11&FID=2
+ 779.6965.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-7370@amtsfeed.de
+DTSTAMP:20260926T084500Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Bewegungsmix und Powerflow
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Bewegungsmix-u
+ nd-Powerflow.php?object=tx\,2779.4&ModID=11&FID=2779.7370.1&NavID=2779.16
+ &sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-7371@amtsfeed.de
+DTSTAMP:20260926T084500Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Waldbaden
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Waldbaden.php?
+ object=tx\,2779.4&ModID=11&FID=2779.7371.1&NavID=2779.16&sfort=1&sfvort=1
+ &sfreg=1&dv0=1
+END:VEVENT
 END:VCALENDAR

@@ -733,4 +733,25 @@ DTSTART:20260927T140000Z
 SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-10
 END:VEVENT
+BEGIN:VEVENT
+UID:seniorenbeirat@amtsfeed.de
+DTSTAMP:20260926T083843Z
+DTSTART:20260928T120000Z
+SUMMARY:Seniorenbeirat
+URL:https://www.eberswalde.de/termine/seniorenbeirat
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-11@amtsfeed.de
+DTSTAMP:20260926T083843Z
+DTSTART:20260928T150000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-11
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-12@amtsfeed.de
+DTSTAMP:20260926T083843Z
+DTSTART:20260929T100000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-12
+END:VEVENT
 END:VCALENDAR

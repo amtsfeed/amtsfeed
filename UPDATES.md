@@ -1,5 +1,51 @@
 # Updates
 
+## 2026-09-27 09:27
+
+Insgesamt **274 neu**, **172 aktualisiert**, **1 entfernt** in 39 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~2 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Neuzelle | — | +2 | — | — |
+| Amt Plessa | — | ~1 | — | — |
+| Amt Scharmützelsee | — | -1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | ~6 | — | — |
+| Amt Schenkenländchen | — | +1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bernau bei Berlin | — | +5 / ~21 | — | — |
+| Calau | — | ~2 | — | — |
+| Eberswalde | — | +3 | — | — |
+| Eisenhüttenstadt | — | +3 / ~1 | — | — |
+| Elsterwerda | — | +2 | — | — |
+| Falkensee | — | +2 | — | — |
+| Friedland | — | ~2 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Fürstenwalde-Spree | — | +1 | — | — |
+| Groß Kreutz | — | ~24 | — | — |
+| Großräschen | — | ~1 | — | — |
+| Hennigsdorf | — | +3 | — | — |
+| Hohen Neuendorf | — | +2 / ~1 | — | — |
+| Kleinmachnow | — | +2 | — | — |
+| Kremmen | — | +2 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +5 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +2 | — | — |
+| Löwenberger Land | — | +1 | — | — |
+| Lübbenau Spreewald | — | +221 / ~26 | — | — |
+| Mühlenbecker Land | — | +4 | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | +1 | ~5 | — | — |
+| Oranienburg | — | +4 | — | — |
+| Premnitz | — | +2 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schorfheide | — | ~1 | — | — |
+| Senftenberg | — | +4 | — | — |
+| Tauche | — | ~1 | — | — |
+| Velten | — | +2 | — | — |
+| Werder (Havel) | — | ~11 | — | — |
+
 ## 2026-09-26 08:46
 
 Insgesamt **346 neu**, **171 aktualisiert**, **3 entfernt** in 60 Quellen.

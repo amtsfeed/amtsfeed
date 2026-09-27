@@ -348,4 +348,37 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Erlebnistour-Ki
  1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;
  max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-893@amtsfeed.de
+DTSTAMP:20260927T092408Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Konzert | Duo ZIA - Die Bergpredigt Jesu
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Konzert-Duo-ZIA
+ -Die-Bergpredigt-Jesu.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590
+ .893.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&
+ amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-832@amtsfeed.de
+DTSTAMP:20260927T092408Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:"Witz und Donner" Kabarett\, Lieder\, Show mit Lina Lärche
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/-Witz-und-Donne
+ r-Kabarett-Lieder-Show-mit-Lina-L%C3%A4rche.php?object=tx\,3590.4.1&amp\;
+ ModID=11&amp\;FID=3590.832.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5
+ &amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-845@amtsfeed.de
+DTSTAMP:20260927T092408Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Bilderbuchkino für Familien
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Bilderbuchkino-
+ f%C3%BCr-Familien-.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.84
+ 5.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp
+ \;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

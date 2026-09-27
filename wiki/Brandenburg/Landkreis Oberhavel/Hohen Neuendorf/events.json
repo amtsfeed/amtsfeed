@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:44:12.715Z",
+  "updatedAt": "2026-09-27T09:24:12.870Z",
   "items": [
     {
       "id": "hohen-neuendorf-event-digitale-sprechstunde-umgang-mit-dem-smartphone-0",
@@ -202,14 +202,6 @@
       "updatedAt": "2026-09-13T08:28:14.737Z"
     },
     {
-      "id": "hohen-neuendorf-event-kirchenchorprobe",
-      "title": "Kirchenchorprobe",
-      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/kirchenchorprobe",
-      "startDate": "2026-09-15T00:00:00.000Z",
-      "fetchedAt": "2026-05-26T09:04:00.706Z",
-      "updatedAt": "2026-09-14T09:06:54.697Z"
-    },
-    {
       "id": "hohen-neuendorf-event-plauderbank-fur-senioren",
       "title": "Plauderbank für Senioren",
       "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/plauderbank-fur-senioren",
@@ -408,6 +400,30 @@
       "startDate": "2026-09-28T00:00:00.000Z",
       "fetchedAt": "2026-09-26T08:44:12.725Z",
       "updatedAt": "2026-09-26T08:44:12.725Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-kirchenchorprobe",
+      "title": "Kirchenchorprobe",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/kirchenchorprobe",
+      "startDate": "2026-09-29T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:00.706Z",
+      "updatedAt": "2026-09-27T09:24:12.879Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-miteinander-reden",
+      "title": "Miteinander reden",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/miteinander-reden",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-27T09:24:12.879Z",
+      "updatedAt": "2026-09-27T09:24:12.879Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-einladung-zum-sprachcafe",
+      "title": "Einladung zum Sprachcafé",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/einladung-zum-sprachcafe",
+      "startDate": "2026-09-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-27T09:24:12.879Z",
+      "updatedAt": "2026-09-27T09:24:12.879Z"
     }
   ]
 }

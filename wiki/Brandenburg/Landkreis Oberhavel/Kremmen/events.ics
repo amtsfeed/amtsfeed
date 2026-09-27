@@ -849,6 +849,16 @@ URL:https://www.kremmen.de/veranstaltungen/2941607/2026/10/04/erntedank-i
 LOCATION:Kirche Kremmen
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2974764@amtsfeed.de
+DTSTAMP:20260927T092415Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Coldehörn Sonntagsbraten
+URL:https://www.kremmen.de/veranstaltungen/2974764/2026/10/04/coldehörn-
+ sonntagsbraten.html
+LOCATION:Restaurant Coldehörn
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2911519@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20261009
@@ -1058,6 +1068,16 @@ SUMMARY:3 Tage Bell\, Book & Candle
 URL:https://www.kremmen.de/veranstaltungen/2911539/2026/11/19/3-tage-bell
  -book-candle.html
 LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2974763@amtsfeed.de
+DTSTAMP:20260927T092415Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Weihnachts-Keramik-Ausstellung
+URL:https://www.kremmen.de/veranstaltungen/2974763/2026/11/21/weihnachts-
+ keramik-ausstellung.html
+LOCATION:Restaurant Coldehörn
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2846348@amtsfeed.de

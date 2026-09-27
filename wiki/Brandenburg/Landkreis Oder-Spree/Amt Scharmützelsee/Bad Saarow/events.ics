@@ -344,15 +344,6 @@ URL:https://www.scharmuetzelsee.de/event/oktoberfest-ennstaler-steirerkla
  ng-im-theater-am-see
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
-DTSTAMP:20260920T084602Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:Ortsführung durch den Kurort Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-satamas-aufguss-wm-2026@amtsfeed.de
 DTSTAMP:20260920T084602Z
 DTSTART;VALUE=DATE:20260920
@@ -586,25 +577,6 @@ URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
  d-saarow
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
-DTSTAMP:20260926T084513Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Linienfahrten Hauptsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
- ch
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20260926T084513Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650ja
  ehrigen-ein-rundgang-durch-die-ortsgeschichte@amtsfeed.de
 DTSTAMP:20260925T085908Z
@@ -616,10 +588,46 @@ URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-
  dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-hula-hoop-festival@amtsfeed.de
+DTSTAMP:20260914T090758Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Hula-Hoop-Festival
+URL:https://www.scharmuetzelsee.de/event/hula-hoop-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
+DTSTAMP:20260927T092519Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Ortsführung durch den Kurort Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
+DTSTAMP:20260927T092519Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Linienfahrten Hauptsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
+ ch
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20260927T092519Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-al
  muth-lohmann-zell@amtsfeed.de
-DTSTAMP:20260911T111244Z
-DTSTART;VALUE=DATE:20260926
+DTSTAMP:20260927T092519Z
+DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Keramik-Workshop in Bad Saarow mit der Künstlerin Almuth Lohmann
  -Zell
@@ -628,8 +636,8 @@ URL:https://www.scharmuetzelsee.de/event/keramik-workshop-in-bad-saarow-m
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-kuerbis-und-kastanienfest-im-irrlandia@amtsfeed.de
-DTSTAMP:20260914T090758Z
-DTSTART;VALUE=DATE:20260926
+DTSTAMP:20260927T092519Z
+DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Kürbis- und Kastanienfest im IRRLANDIA
 URL:https://www.scharmuetzelsee.de/event/kuerbis-und-kastanienfest-im-irr
@@ -638,21 +646,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-das-grosse-kartoffelbuddeln-zwischen-philadelphia-und
  -gross-schauen@amtsfeed.de
-DTSTAMP:20260914T090758Z
-DTSTART;VALUE=DATE:20260926
+DTSTAMP:20260927T092519Z
+DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Das große Kartoffelbuddeln zwischen Philadelphia und Groß Schau
  en
 URL:https://www.scharmuetzelsee.de/event/das-grosse-kartoffelbuddeln-zwis
  chen-philadelphia-und-gross-schauen
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-hula-hoop-festival@amtsfeed.de
-DTSTAMP:20260914T090758Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Hula-Hoop-Festival
-URL:https://www.scharmuetzelsee.de/event/hula-hoop-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-scharmuntzel-fest-und-tierisch-bunter-flohmarkt@amtsf

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:46:16.389Z",
+  "updatedAt": "2026-09-27T09:26:24.317Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -816,6 +816,22 @@
       "startDate": "2026-10-13T18:30:00.000Z",
       "fetchedAt": "2026-09-26T08:46:16.387Z",
       "updatedAt": "2026-09-26T08:46:16.387Z"
+    },
+    {
+      "id": "kleinmachnow-event-2240",
+      "title": "Offenes Caf&eacute;",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Offenes-Caf%C3%A9.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2240.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-10-15T15:00:00.000Z",
+      "fetchedAt": "2026-09-27T09:26:24.315Z",
+      "updatedAt": "2026-09-27T09:26:24.315Z"
+    },
+    {
+      "id": "kleinmachnow-event-2150",
+      "title": "Krabbel- und Säuglingsgruppe",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Krabbel-und-S%C3%A4uglingsgruppe-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2150.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-10-16T09:30:00.000Z",
+      "fetchedAt": "2026-09-27T09:26:24.315Z",
+      "updatedAt": "2026-09-27T09:26:24.315Z"
     }
   ]
 }

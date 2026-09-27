@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:45:26.517Z",
+  "updatedAt": "2026-09-27T09:25:33.546Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -672,14 +672,6 @@
       "updatedAt": "2026-09-13T08:29:41.484Z"
     },
     {
-      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "title": "Veranstaltungen",
-      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-09-26T08:45:26.508Z",
-      "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-09-26T08:45:26.508Z"
-    },
-    {
       "id": "eisenhuettenstadt-event-2852-1939-1",
       "title": "Schleusen - Tour mit dem Raddampfer \"Alexander\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem-Raddampfer-Alexander-.php?ModID=11&amp;FID=2852.1939.1",
@@ -687,6 +679,14 @@
       "location": "einzigartiger Kulisse.  Anlegestelle",
       "fetchedAt": "2026-09-13T08:29:41.484Z",
       "updatedAt": "2026-09-26T08:45:26.508Z"
+    },
+    {
+      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "title": "Veranstaltungen",
+      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "startDate": "2026-09-27T09:25:33.537Z",
+      "fetchedAt": "2026-05-06T08:35:22.874Z",
+      "updatedAt": "2026-09-27T09:25:33.537Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1969-1",
@@ -870,6 +870,33 @@
       "location": "Tourismusinformation",
       "fetchedAt": "2026-09-24T08:38:02.114Z",
       "updatedAt": "2026-09-24T08:38:02.114Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1794-1",
+      "title": "öffentliche Stadtführung mit Martin Maleschka",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/%C3%B6ffentliche-Stadtf%C3%BChrung-mit-Martin-Maleschka.php?ModID=11&amp;FID=2852.1794.1",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "location": "Eisenhüttenstadt und führt durch das Zentrum zu den Wohnkomplexen I bis IV.  Online Buchungen notwendig",
+      "fetchedAt": "2026-09-27T09:25:33.537Z",
+      "updatedAt": "2026-09-27T09:25:33.537Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1763-1",
+      "title": "Lost Places Führung durch das DDR-Hotel LUNIK",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Lost-Places-F%C3%BChrung-durch-das-DDR-Hotel-LUNIK.php?ModID=11&amp;FID=2852.1763.1",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "location": "Tourismusinformation",
+      "fetchedAt": "2026-09-27T09:25:33.537Z",
+      "updatedAt": "2026-09-27T09:25:33.537Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1953-1",
+      "title": "\"Sagen Sie nie \"Mir passiert das nicht\"!",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-Sagen-Sie-nie-Mir-passiert-das-nicht-.php?ModID=11&amp;FID=2852.1953.1",
+      "startDate": "2026-10-29T00:00:00.000Z",
+      "location": "kleine bühne",
+      "fetchedAt": "2026-09-27T09:25:33.537Z",
+      "updatedAt": "2026-09-27T09:25:33.537Z"
     }
   ]
 }

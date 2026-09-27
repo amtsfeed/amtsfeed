@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:45:13.827Z",
+  "updatedAt": "2026-09-27T09:25:19.294Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -301,14 +301,6 @@
       "updatedAt": "2026-09-14T09:07:58.489Z"
     },
     {
-      "id": "scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow",
-      "title": "Ortsführung durch den Kurort Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-bad-saarow",
-      "startDate": "2026-09-20T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T13:16:12.297Z",
-      "updatedAt": "2026-09-20T08:46:02.399Z"
-    },
-    {
       "id": "scharmuetzelsee-satamas-aufguss-wm-2026",
       "title": "SATAMAs Aufguss-WM 2026",
       "url": "https://www.scharmuetzelsee.de/event/satamas-aufguss-wm-2026",
@@ -509,22 +501,6 @@
       "updatedAt": "2026-09-26T08:45:13.824Z"
     },
     {
-      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
-      "title": "Linienfahrten Hauptsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
-      "startDate": "2026-09-26T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-09-26T08:45:13.824Z"
-    },
-    {
-      "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
-      "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "startDate": "2026-09-26T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-26T08:45:13.824Z"
-    },
-    {
       "id": "scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte",
       "title": "Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen – Ein Rundgang durch die Ortsgeschichte",
       "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte",
@@ -533,39 +509,60 @@
       "updatedAt": "2026-09-25T08:59:08.350Z"
     },
     {
-      "id": "scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-almuth-lohmann-zell",
-      "title": "Keramik-Workshop in Bad Saarow mit der Künstlerin Almuth Lohmann-Zell",
-      "url": "https://www.scharmuetzelsee.de/event/keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-almuth-lohmann-zell",
-      "startDate": "2026-09-26T00:00:00.000Z",
-      "endDate": "2026-09-27T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-09-11T11:12:44.108Z"
-    },
-    {
-      "id": "scharmuetzelsee-kuerbis-und-kastanienfest-im-irrlandia",
-      "title": "Kürbis- und Kastanienfest im IRRLANDIA",
-      "url": "https://www.scharmuetzelsee.de/event/kuerbis-und-kastanienfest-im-irrlandia",
-      "startDate": "2026-09-26T00:00:00.000Z",
-      "endDate": "2026-09-27T00:00:00.000Z",
-      "fetchedAt": "2026-09-14T09:07:58.489Z",
-      "updatedAt": "2026-09-14T09:07:58.489Z"
-    },
-    {
-      "id": "scharmuetzelsee-das-grosse-kartoffelbuddeln-zwischen-philadelphia-und-gross-schauen",
-      "title": "Das große Kartoffelbuddeln zwischen Philadelphia und Groß Schauen",
-      "url": "https://www.scharmuetzelsee.de/event/das-grosse-kartoffelbuddeln-zwischen-philadelphia-und-gross-schauen",
-      "startDate": "2026-09-26T00:00:00.000Z",
-      "endDate": "2026-09-27T00:00:00.000Z",
-      "fetchedAt": "2026-09-14T09:07:58.489Z",
-      "updatedAt": "2026-09-14T09:07:58.489Z"
-    },
-    {
       "id": "scharmuetzelsee-hula-hoop-festival",
       "title": "Hula-Hoop-Festival",
       "url": "https://www.scharmuetzelsee.de/event/hula-hoop-festival",
       "startDate": "2026-09-26T00:00:00.000Z",
       "fetchedAt": "2026-09-14T09:07:58.489Z",
       "updatedAt": "2026-09-14T09:07:58.489Z"
+    },
+    {
+      "id": "scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow",
+      "title": "Ortsführung durch den Kurort Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-bad-saarow",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:12.297Z",
+      "updatedAt": "2026-09-27T09:25:19.292Z"
+    },
+    {
+      "id": "scharmuetzelsee-linienfahrten-hauptsaison-taeglich",
+      "title": "Linienfahrten Hauptsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taeglich",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-09-27T09:25:19.292Z"
+    },
+    {
+      "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
+      "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-27T09:25:19.292Z"
+    },
+    {
+      "id": "scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-almuth-lohmann-zell",
+      "title": "Keramik-Workshop in Bad Saarow mit der Künstlerin Almuth Lohmann-Zell",
+      "url": "https://www.scharmuetzelsee.de/event/keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-almuth-lohmann-zell",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:59:03.401Z",
+      "updatedAt": "2026-09-27T09:25:19.292Z"
+    },
+    {
+      "id": "scharmuetzelsee-kuerbis-und-kastanienfest-im-irrlandia",
+      "title": "Kürbis- und Kastanienfest im IRRLANDIA",
+      "url": "https://www.scharmuetzelsee.de/event/kuerbis-und-kastanienfest-im-irrlandia",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-14T09:07:58.489Z",
+      "updatedAt": "2026-09-27T09:25:19.292Z"
+    },
+    {
+      "id": "scharmuetzelsee-das-grosse-kartoffelbuddeln-zwischen-philadelphia-und-gross-schauen",
+      "title": "Das große Kartoffelbuddeln zwischen Philadelphia und Groß Schauen",
+      "url": "https://www.scharmuetzelsee.de/event/das-grosse-kartoffelbuddeln-zwischen-philadelphia-und-gross-schauen",
+      "startDate": "2026-09-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-14T09:07:58.489Z",
+      "updatedAt": "2026-09-27T09:25:19.292Z"
     },
     {
       "id": "scharmuetzelsee-scharmuntzel-fest-und-tierisch-bunter-flohmarkt",

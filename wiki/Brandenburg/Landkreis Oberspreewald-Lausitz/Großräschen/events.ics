@@ -372,15 +372,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2965272/2026/09/25/bunte
  s-herbstfest.html
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2852270@amtsfeed.de
-DTSTAMP:20260911T111229Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Eltern-Kind-Sport
-URL:https://www.grossraeschen.de/veranstaltungen/2852270/2026/09/26/elter
- n-kind-sport.html
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2965442@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20260926
@@ -785,6 +776,15 @@ DTEND;VALUE=DATE:20261125
 SUMMARY:Weihnachtskonzert mit Rudy Giovannini
 URL:https://www.grossraeschen.de/veranstaltungen/2953693/2026/11/24/weihn
  achtskonzert-mit-rudy-giovannini.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2852270@amtsfeed.de
+DTSTAMP:20260927T092452Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.grossraeschen.de/veranstaltungen/2852270/2026/11/28/elter
+ n-kind-sport.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2789702@amtsfeed.de

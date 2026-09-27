@@ -246,15 +246,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  gesprachskreis-fur-pflegende-angehorige
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-kirchenchorprobe@amtsfeed.de
-DTSTAMP:20260914T090654Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Kirchenchorprobe
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- kirchenchorprobe
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-plauderbank-fur-senioren@amtsfeed.de
 DTSTAMP:20260914T090654Z
 DTSTART;VALUE=DATE:20260916
@@ -492,5 +483,32 @@ DTEND;VALUE=DATE:20260929
 SUMMARY:Hilfe für Handy und PC
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  hilfe-fur-handy-und-pc
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-kirchenchorprobe@amtsfeed.de
+DTSTAMP:20260927T092412Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Kirchenchorprobe
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ kirchenchorprobe
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-miteinander-reden@amtsfeed.de
+DTSTAMP:20260927T092412Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Miteinander reden
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ miteinander-reden
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-einladung-zum-sprachcafe@amtsfeed.de
+DTSTAMP:20260927T092412Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Einladung zum Sprachcafé
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ einladung-zum-sprachcafe
 END:VEVENT
 END:VCALENDAR

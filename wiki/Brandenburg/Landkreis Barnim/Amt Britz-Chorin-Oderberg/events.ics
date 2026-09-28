@@ -1083,14 +1083,6 @@ URL:https://britz-chorin-oderberg.de/events#event-16196
 LOCATION:16248 Oderberg – Fliederweg 1
 END:VEVENT
 BEGIN:VEVENT
-UID:16543@amtsfeed.de
-DTSTAMP:20260915T084323Z
-DTSTART:20260930T160000Z
-SUMMARY:Halloween in Parstein
-URL:https://britz-chorin-oderberg.de/events#event-16543
-LOCATION:16248 Parsteinsee – Parstein – Sportplatz
-END:VEVENT
-BEGIN:VEVENT
 UID:16559@amtsfeed.de
 DTSTAMP:20260915T084323Z
 DTSTART:20261002T133000Z
@@ -1245,6 +1237,14 @@ URL:https://britz-chorin-oderberg.de/events#event-15051
 LOCATION:16230 Chorin – Senftenhütte – Gemeinderaum\, Ärmel 14
 END:VEVENT
 BEGIN:VEVENT
+UID:16683@amtsfeed.de
+DTSTAMP:20260928T095030Z
+DTSTART:20261016T220000Z
+SUMMARY:Oktoberfest in Lunow
+URL:https://britz-chorin-oderberg.de/events#event-16683
+LOCATION:16248 Lunow-Stolzenhagen – Lunow – Begegnungszentrum
+END:VEVENT
+BEGIN:VEVENT
 UID:16553@amtsfeed.de
 DTSTAMP:20260915T084323Z
 DTSTART:20261017T090000Z
@@ -1283,6 +1283,22 @@ DTSTART:20261029T230000Z
 SUMMARY:Halloween in Liepe
 URL:https://britz-chorin-oderberg.de/events#event-15029
 LOCATION:16248 Liepe – An der Feuerwehr
+END:VEVENT
+BEGIN:VEVENT
+UID:16543@amtsfeed.de
+DTSTAMP:20260928T095030Z
+DTSTART:20261030T170000Z
+SUMMARY:Halloween in Parstein
+URL:https://britz-chorin-oderberg.de/events#event-16543
+LOCATION:16248 Parsteinsee – Parstein – Sportplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:16681@amtsfeed.de
+DTSTAMP:20260928T095030Z
+DTSTART:20261030T170000Z
+SUMMARY:Halloween in Liepe
+URL:https://britz-chorin-oderberg.de/events#event-16681
+LOCATION:16248 Liepe – Landhof Liepe
 END:VEVENT
 BEGIN:VEVENT
 UID:14828@amtsfeed.de

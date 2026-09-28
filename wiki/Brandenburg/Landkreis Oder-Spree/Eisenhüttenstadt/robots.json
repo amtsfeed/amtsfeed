@@ -2,7 +2,7 @@
   {
     "domain": "www.eisenhuettenstadt.de",
     "baseUrl": "https://www.eisenhuettenstadt.de",
-    "updatedAt": "2026-09-27T09:25:32.944Z",
+    "updatedAt": "2026-09-28T09:59:05.493Z",
     "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /suche.phtml\nDisallow: /suchen.phtml\nDisallow: /redirect.phtml\n\nSitemap: https://www.eisenhuettenstadt.de/sitemap.xml"
   }
 ]

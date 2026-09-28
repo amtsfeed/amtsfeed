@@ -938,21 +938,6 @@ DESCRIPTION:Der Weltkindertag wird zum 6. Mal als Kinder- und Familienfes
 LOCATION:Speichercafé im Ökospeicher Wulkow
 END:VEVENT
 BEGIN:VEVENT
-UID:2955796@amtsfeed.de
-DTSTAMP:20260927T092306Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/27/hör-mal-
- -reiseperle-lebuser-land.html
-DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
- uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
- wir Kinder und Jugendliche ab 10 Jahren\, die Lust haben\, ihren Ort mitz
- ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
-LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
-  Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
 UID:2964763@amtsfeed.de
 DTSTAMP:20260911T111132Z
 DTSTART;VALUE=DATE:20260927
@@ -961,6 +946,21 @@ SUMMARY:1. Chortreffen der Döbberiner Sänger Einhundertzehn
 URL:https://www.amt-lebus.de/veranstaltungen/2964763/2026/09/27/1.-chortr
  effen-der-döbberiner-sänger-einhundertzehn.html
 LOCATION:Döbberin
+END:VEVENT
+BEGIN:VEVENT
+UID:2955796@amtsfeed.de
+DTSTAMP:20260928T095637Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/28/hör-mal-
+ -reiseperle-lebuser-land.html
+DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
+ uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
+ wir Kinder und Jugendliche ab 10 Jahren\, die Lust haben\, ihren Ort mitz
+ ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
+LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
+  Schönfließ\, Treplin\, Döbberin\, Petershagen\,
 END:VEVENT
 BEGIN:VEVENT
 UID:2402834@amtsfeed.de

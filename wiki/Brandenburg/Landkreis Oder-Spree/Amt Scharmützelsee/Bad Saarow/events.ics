@@ -397,25 +397,6 @@ URL:https://www.scharmuetzelsee.de/event/roland-jankowsky-lesung-wenn-ove
  rbeck-wiederkommt-im-theater-am-see
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
- eed.de
-DTSTAMP:20260921T090733Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Aktiv Wochenplan - Morgen-Paddeltour mit der YAAS
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-morgen-paddelto
- ur-mit-der-yaas
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-hulahoop-im-kurpark@amtsfeed.de
-DTSTAMP:20260921T090733Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
- park
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow-am-mittwoch@
  amtsfeed.de
 DTSTAMP:20260923T084619Z
@@ -450,15 +431,6 @@ DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Aktiv Wochenplan - Bogenschießen
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-bogenschiessen
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-toepfern-schnupperkurs@amtsfeed.de
-DTSTAMP:20260922T084100Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
- perkurs
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
@@ -568,15 +540,6 @@ URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
  nker-im-technischen-denkmal-bunkeranlage-fuchsbau
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260926T084513Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650ja
  ehrigen-ein-rundgang-durch-die-ortsgeschichte@amtsfeed.de
 DTSTAMP:20260925T085908Z
@@ -612,16 +575,6 @@ DTEND;VALUE=DATE:20260928
 SUMMARY:Linienfahrten Hauptsaison (täglich)
 URL:https://www.scharmuetzelsee.de/event/linienfahrten-hauptsaison-taegli
  ch
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20260927T092519Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-keramik-workshop-in-bad-saarow-mit-der-kuenstlerin-al
@@ -663,6 +616,73 @@ DTEND;VALUE=DATE:20260928
 SUMMARY:Scharmuntzel-Fest und tierisch bunter Flohmarkt
 URL:https://www.scharmuetzelsee.de/event/scharmuntzel-fest-und-tierisch-b
  unter-flohmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-toepfern-schnupperkurs@amtsfeed.de
+DTSTAMP:20260928T095855Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
+ perkurs
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20260928T095855Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20260928T095855Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20260928T095855Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
+ eed.de
+DTSTAMP:20260928T095855Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Aktiv Wochenplan - Morgen-Paddeltour mit der YAAS
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-morgen-paddelto
+ ur-mit-der-yaas
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-hulahoop-im-kurpark@amtsfeed.de
+DTSTAMP:20260928T095855Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
+ park
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-bauen-in-bad-saarow-zwischen-reet-rosenthal-und-revis
+ ion@amtsfeed.de
+DTSTAMP:20260928T095855Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Bauen in Bad Saarow - zwischen Reet\, Rosenthal und Revision
+URL:https://www.scharmuetzelsee.de/event/bauen-in-bad-saarow-zwischen-ree
+ t-rosenthal-und-revision
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-oktoberfest-im-freilich-am-see@amtsfeed.de

@@ -1464,6 +1464,36 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, Märkischer Platz
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1751-20261128@amtsfeed.de
+DTSTAMP:20260928T095320Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Karnevalistischer Festumzug
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/karnevalistischer-festumzug/
+LOCATION:Rathenow Innenstadt
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1752-20261128@amtsfeed.de
+DTSTAMP:20260928T095320Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Fremdensitzung
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/fremdensitzung/
+LOCATION:Havellandhalle Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1753-20261129@amtsfeed.de
+DTSTAMP:20260928T095320Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Familiensitzung
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/familiensitzung/
+LOCATION:Havellandhalle Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1572-20261203@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261203
@@ -1502,6 +1532,17 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Theos Abenteuerreise zum Mond
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/theos-abenteuerreise-zum-mond/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1754-20261213@amtsfeed.de
+DTSTAMP:20260928T095320Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Adventsnachmittage im Theatersaal: „Der Hase und der Igel“
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/adventsnachmittage-im-theatersa
+ al-der-hase-und-der-igel/
 LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT

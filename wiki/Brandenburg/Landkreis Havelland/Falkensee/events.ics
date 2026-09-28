@@ -3273,6 +3273,16 @@ URL:https://www.falkensee.de/veranstaltungen/2962584/2026/10/09/poesieher
  bst-2026-falkensees-wohnzimmer-lesungen-spiele-musik-gespräche.html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2975080-20261009@amtsfeed.de
+DTSTAMP:20260928T095249Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Klavierkabarett & Songcomedy mit Caroline Bungeroth: &bdquo\;Muta
+ usbruch&ldquo\;
+URL:https://www.falkensee.de/veranstaltungen/2975080/2026/10/09/klavierka
+ barett-songcomedy-mit-caroline-bungeroth-mutausbruch.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2900963-20261010@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261010
@@ -7767,5 +7777,14 @@ DTEND;VALUE=DATE:20270928
 SUMMARY:Strick- und Häkeltreff
 URL:https://www.falkensee.de/veranstaltungen/2715010/2027/09/27/strick-un
  d-häkeltreff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2188424-20270928@amtsfeed.de
+DTSTAMP:20260928T095249Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+SUMMARY:Seniorenskat - für Freunde des Kartenspiels
+URL:https://www.falkensee.de/veranstaltungen/2188424/2027/09/28/seniorens
+ kat-für-freunde-des-kartenspiels.html
 END:VEVENT
 END:VCALENDAR

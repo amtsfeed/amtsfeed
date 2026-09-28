@@ -2397,6 +2397,15 @@ URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
 LOCATION:Altenhof - Fontane Hotel & Restaurant
 END:VEVENT
 BEGIN:VEVENT
+UID:99223207@amtsfeed.de
+DTSTAMP:20260928T095042Z
+DTSTART:20261011T090000Z
+SUMMARY:28. Hirschfest im Wildpark Schorfheide
+URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
+ =99223207
+LOCATION:Groß Schönebeck - Wildpark Schorfheide
+END:VEVENT
+BEGIN:VEVENT
 UID:99214899@amtsfeed.de
 DTSTAMP:20260911T110627Z
 DTSTART:20261011T100000Z
@@ -2752,6 +2761,15 @@ URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
 LOCATION:Joachimsthal - seezeit-resort am Werbellinsee
 END:VEVENT
 BEGIN:VEVENT
+UID:99225659@amtsfeed.de
+DTSTAMP:20260928T095042Z
+DTSTART:20261030T173000Z
+SUMMARY:Halloweenfeuer
+URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
+ =99225659
+LOCATION:Marienwerder - Gemeindevereinshaus Sophienstädt
+END:VEVENT
+BEGIN:VEVENT
 UID:99215504@amtsfeed.de
 DTSTAMP:20260911T110627Z
 DTSTART:20261030T193000Z
@@ -2996,6 +3014,15 @@ SUMMARY:Weihnachtsmarkt Althüttendorf
 URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
  =99171050
 LOCATION:Joachimsthal - Areal hinter der Kirche Althüttendorf
+END:VEVENT
+BEGIN:VEVENT
+UID:99225660@amtsfeed.de
+DTSTAMP:20260928T095042Z
+DTSTART:20261129T150000Z
+SUMMARY:Weihnachtsmarkt an der Kirche Marienwerder
+URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
+ =99225660
+LOCATION:Marienwerder - Kirche Marienwerder
 END:VEVENT
 BEGIN:VEVENT
 UID:99118663@amtsfeed.de

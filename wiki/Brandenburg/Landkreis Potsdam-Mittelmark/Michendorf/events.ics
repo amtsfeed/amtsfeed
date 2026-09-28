@@ -1008,15 +1008,6 @@ URL:https://www.michendorf.de/veranstaltungen/2971165/2026/09/26/26.-lang
  erwischer-drachenfest.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2646897@amtsfeed.de
-DTSTAMP:20260911T111336Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:Sonntags-Frühstück
-URL:https://www.michendorf.de/veranstaltungen/2646897/2026/09/27/sonntags
- -frühstück.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2938764@amtsfeed.de
 DTSTAMP:20260911T111336Z
 DTSTART;VALUE=DATE:20260927
@@ -1341,6 +1332,15 @@ DTEND;VALUE=DATE:20261024
 SUMMARY:Spieletreff
 URL:https://www.michendorf.de/veranstaltungen/2958924/2026/10/23/spieletr
  eff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2646897@amtsfeed.de
+DTSTAMP:20260928T100012Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Sonntags-Frühstück
+URL:https://www.michendorf.de/veranstaltungen/2646897/2026/10/25/sonntags
+ -frühstück.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2966246@amtsfeed.de

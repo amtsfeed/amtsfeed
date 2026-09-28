@@ -1,5 +1,77 @@
 # Updates
 
+## 2026-09-28 10:01
+
+Insgesamt **160 neu**, **140 aktualisiert**, **1 entfernt** in 65 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Amt Altdöbern | — | +4 / ~1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Britz-Chorin-Oderberg | — | +2 / ~1 | — | — |
+| Amt Friesack | ~1 | — | — | — |
+| Amt Golzow | — | — | +1 | — |
+| Amt Lebus | — | ~1 | — | — |
+| Amt Nennhausen | +1 | — | — | — |
+| Amt Niemegk | — | +1 | — | — |
+| Amt Plessa | — | ~1 | — | — |
+| Amt Ruhland | — | +1 | — | — |
+| Amt Scharmützelsee | — | +1 / -1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +2 / ~5 | — | — |
+| Amt Spreenhagen | — | +1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bernau bei Berlin | +1 | +1 / ~15 | +1 | — |
+| Birkenwerder | +1 | — | — | — |
+| Calau | +1 | +2 / ~3 | — | — |
+| Dallgow-Döberitz | — | +1 | — | — |
+| Doberlug-Kirchhain | +1 | +1 | — | — |
+| Eberswalde | — | +4 | — | — |
+| Eisenhüttenstadt | ~3 | +1 / ~8 | — | — |
+| Elsterwerda | — | +1 | — | — |
+| Falkensee | — | +2 | — | — |
+| Fredersdorf-Vogelsdorf | — | ~1 | — | — |
+| Friedland | — | ~2 | — | — |
+| Fürstenberg-Havel | +2 | — | — | ~2 |
+| Fürstenwalde-Spree | +1 | — | — | — |
+| Glienicke-Nordbahn | +1 | — | — | — |
+| Groß Kreutz | — | +3 / ~23 | — | — |
+| Großräschen | +1 / ~1 | +1 | — | — |
+| Grünheide (Mark) | +1 | +1 | — | — |
+| Heideblick | — | +2 | — | — |
+| Hennigsdorf | ~1 | +1 | — | — |
+| Herzberg (Elster) | +1 | +1 | — | — |
+| Hohen Neuendorf | +2 | +2 | +1 | — |
+| Ketzin Havel | +1 | +3 | — | — |
+| Kleinmachnow | +1 | +3 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | +1 | +3 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +10 / ~1 | — | — |
+| Luckau | +1 | — | — | +2 |
+| Michendorf | — | ~1 | — | — |
+| Mühlenbecker Land | — | +1 | — | — |
+| Oberkrämer | +1 | — | — | — |
+| Oranienburg | +1 | +5 | — | — |
+| Premnitz | — | +5 | — | — |
+| Rathenow | — | +4 | — | — |
+| Rietz-Neuendorf | +1 | — | ~1 | — |
+| Schönefeld | +1 / ~2 | ~30 | — | — |
+| Schöneiche bei Berlin | — | +1 | — | — |
+| Schönwalde-Glien | +1 | — | +1 | +4 / ~1 |
+| Schorfheide | — | +3 | — | — |
+| Schulzendorf | — | +1 | — | — |
+| Senftenberg | +1 | +4 | — | — |
+| Storkow (Mark) | +1 / ~1 | +2 | — | — |
+| Tauche | — | +1 / ~1 | — | — |
+| Teltow | +1 | — | — | — |
+| Treuenbrietzen | — | — | +1 | — |
+| Uebigau-Wahrenbrück | — | +2 | — | — |
+| Velten | +1 | +1 | — | — |
+| Verbandsgemeinde Bad Liebenwerda | — | +2 | — | — |
+| Vetschau Spreewald | — | +30 | — | — |
+| Wandlitz | — | +1 | — | — |
+| Werder (Havel) | — | ~2 | — | — |
+| Werneuchen | +3 | — | — | +1 |
+| Wildau | ~1 | — | — | — |
+
 ## 2026-09-27 09:27
 
 Insgesamt **274 neu**, **172 aktualisiert**, **1 entfernt** in 39 Quellen.

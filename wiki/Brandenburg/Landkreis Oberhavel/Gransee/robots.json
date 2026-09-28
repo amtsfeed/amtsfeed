@@ -2,7 +2,7 @@
   {
     "domain": "www.gransee.de",
     "baseUrl": "https://www.gransee.de",
-    "updatedAt": "2026-09-27T09:24:01.684Z",
+    "updatedAt": "2026-09-28T09:57:33.227Z",
     "content": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://www.gransee.de/wp-sitemap.xml\n"
   }
 ]

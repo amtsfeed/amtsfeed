@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:32:22.601Z",
+  "updatedAt": "2026-09-28T09:53:20.103Z",
   "items": [
     {
       "id": "rathenow-event-1476-20260101",
@@ -1261,6 +1261,33 @@
       "updatedAt": "2026-09-11T11:07:48.648Z"
     },
     {
+      "id": "rathenow-event-1751-20261128",
+      "title": "Karnevalistischer Festumzug",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/karnevalistischer-festumzug/",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "location": "Rathenow Innenstadt",
+      "fetchedAt": "2026-09-28T09:53:20.111Z",
+      "updatedAt": "2026-09-28T09:53:20.111Z"
+    },
+    {
+      "id": "rathenow-event-1752-20261128",
+      "title": "Fremdensitzung",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/fremdensitzung/",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "location": "Havellandhalle Rathenow",
+      "fetchedAt": "2026-09-28T09:53:20.111Z",
+      "updatedAt": "2026-09-28T09:53:20.111Z"
+    },
+    {
+      "id": "rathenow-event-1753-20261129",
+      "title": "Familiensitzung",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/familiensitzung/",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "location": "Havellandhalle Rathenow",
+      "fetchedAt": "2026-09-28T09:53:20.111Z",
+      "updatedAt": "2026-09-28T09:53:20.111Z"
+    },
+    {
       "id": "rathenow-event-1572-20261203",
       "title": "Inklusiver Lichterpaarlauf",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/inklusiver-lichterpaarlauf/",
@@ -1295,6 +1322,15 @@
       "location": "Kulturzentrum Rathenow",
       "fetchedAt": "2026-09-11T09:54:39.415Z",
       "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1754-20261213",
+      "title": "Adventsnachmittage im Theatersaal: „Der Hase und der Igel“",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/adventsnachmittage-im-theatersaal-der-hase-und-der-igel/",
+      "startDate": "2026-12-13T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-09-28T09:53:20.111Z",
+      "updatedAt": "2026-09-28T09:53:20.111Z"
     },
     {
       "id": "rathenow-event-199-20261217",

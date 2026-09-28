@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:51:53.457Z",
+  "updatedAt": "2026-09-28T09:50:30.041Z",
   "items": [
     {
       "id": "15493",
@@ -1208,15 +1208,6 @@
       "updatedAt": "2026-09-11T11:06:22.513Z"
     },
     {
-      "id": "16543",
-      "title": "Halloween in Parstein",
-      "url": "https://britz-chorin-oderberg.de/events#event-16543",
-      "startDate": "2026-09-30T16:00:00.000Z",
-      "location": "16248 Parsteinsee – Parstein – Sportplatz",
-      "fetchedAt": "2026-09-15T08:43:23.060Z",
-      "updatedAt": "2026-09-15T08:43:23.060Z"
-    },
-    {
       "id": "16559",
       "title": "Kindertanzen in Serwest",
       "url": "https://britz-chorin-oderberg.de/events#event-16559",
@@ -1388,6 +1379,15 @@
       "updatedAt": "2026-05-26T08:49:43.841Z"
     },
     {
+      "id": "16683",
+      "title": "Oktoberfest in Lunow",
+      "url": "https://britz-chorin-oderberg.de/events#event-16683",
+      "startDate": "2026-10-16T22:00:00.000Z",
+      "location": "16248 Lunow-Stolzenhagen – Lunow – Begegnungszentrum",
+      "fetchedAt": "2026-09-28T09:50:30.031Z",
+      "updatedAt": "2026-09-28T09:50:30.031Z"
+    },
+    {
       "id": "16553",
       "title": "MenschBrodowin: Töpfern",
       "url": "https://britz-chorin-oderberg.de/events#event-16553",
@@ -1431,6 +1431,24 @@
       "location": "16248 Liepe – An der Feuerwehr",
       "fetchedAt": "2026-05-05T17:20:57.837Z",
       "updatedAt": "2026-05-26T08:49:43.841Z"
+    },
+    {
+      "id": "16543",
+      "title": "Halloween in Parstein",
+      "url": "https://britz-chorin-oderberg.de/events#event-16543",
+      "startDate": "2026-10-30T17:00:00.000Z",
+      "location": "16248 Parsteinsee – Parstein – Sportplatz",
+      "fetchedAt": "2026-09-15T08:43:23.060Z",
+      "updatedAt": "2026-09-28T09:50:30.031Z"
+    },
+    {
+      "id": "16681",
+      "title": "Halloween in Liepe",
+      "url": "https://britz-chorin-oderberg.de/events#event-16681",
+      "startDate": "2026-10-30T17:00:00.000Z",
+      "location": "16248 Liepe – Landhof Liepe",
+      "fetchedAt": "2026-09-28T09:50:30.031Z",
+      "updatedAt": "2026-09-28T09:50:30.031Z"
     },
     {
       "id": "14828",

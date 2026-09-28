@@ -511,4 +511,23 @@ SUMMARY:Einladung zum Sprachcafé
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  einladung-zum-sprachcafe
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-frohnauer-diskurse-russland-eine-deutsche-erfin
+ dung@amtsfeed.de
+DTSTAMP:20260928T095747Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Frohnauer Diskurse: Russland - eine deutsche Erfindung?
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ frohnauer-diskurse-russland-eine-deutsche-erfindung
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-konzert-im-paddenkrug-0@amtsfeed.de
+DTSTAMP:20260928T095747Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Konzert im Paddenkrug
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ konzert-im-paddenkrug-0
+END:VEVENT
 END:VCALENDAR

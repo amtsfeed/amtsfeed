@@ -1001,6 +1001,16 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  p\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:kleinmachnow-event-2444@amtsfeed.de
+DTSTAMP:20260928T100005Z
+DTSTART:20261013T160000Z
+SUMMARY:Die Geschichte der Chemie in Teltow - Seehof
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Die-Geschichte-der-Chemie-in-Teltow-Seehof.php?object=tx\,3692.4.1&amp\;M
+ odID=11&amp\;FID=3692.2444.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfor
+ t=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:kleinmachnow-event-2405@amtsfeed.de
 DTSTAMP:20260926T084616Z
 DTSTART:20261013T183000Z
@@ -1029,5 +1039,26 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  Krabbel-und-S%C3%A4uglingsgruppe-.php?object=tx\,3692.4.1&amp\;ModID=11&a
  mp\;FID=3692.2150.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;
  bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2282@amtsfeed.de
+DTSTAMP:20260928T100005Z
+DTSTART:20261016T130000Z
+SUMMARY:Senioren- und Seniorinnen-Nachmittag
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Senioren-und-Seniorinnen-Nachmittag-.php?object=tx\,3692.4.1&amp\;ModID=1
+ 1&amp\;FID=3692.2282.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&am
+ p\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-967@amtsfeed.de
+DTSTAMP:20260928T100005Z
+DTSTART:20261016T200000Z
+SUMMARY:Allotria Jazzband | The Fine Notes Of Classic Jazz | Nachgeholtes
+  Konzert aus 2025
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Allotria-Jazzband-The-Fine-Notes-Of-Classic-Jazz-Nachgeholtes-Konzert-aus
+ -2025.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.967.1&amp\;NavI
+ D=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

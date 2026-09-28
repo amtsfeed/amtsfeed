@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T09:18:11.032Z",
+  "updatedAt": "2026-09-28T09:50:37.243Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -741,6 +741,39 @@
       "startDate": "2026-10-01T16:00:00.000Z",
       "fetchedAt": "2026-09-27T09:18:11.021Z",
       "updatedAt": "2026-09-27T09:18:11.021Z"
+    },
+    {
+      "id": "faszination-holz-15",
+      "title": "Faszination Holz",
+      "url": "https://www.eberswalde.de/termine/faszination-holz-15",
+      "startDate": "2026-10-02T14:00:00.000Z",
+      "fetchedAt": "2026-09-28T09:50:37.232Z",
+      "updatedAt": "2026-09-28T09:50:37.232Z"
+    },
+    {
+      "id": "guten-morgen-eberswalde-theater-kranewit-die-drei-kleinen-schweinchen",
+      "title": "Guten-Morgen-Eberswalde - Theater Kranewit „Die drei kleinen Schweinchen\"",
+      "url": "https://www.eberswalde.de/termine/guten-morgen-eberswalde-theater-kranewit-die-drei-kleinen-schweinchen",
+      "startDate": "2026-10-03T10:30:00.000Z",
+      "fetchedAt": "2026-09-28T09:50:37.232Z",
+      "updatedAt": "2026-09-28T09:50:37.232Z"
+    },
+    {
+      "id": "faszination-holz-16",
+      "title": "Faszination Holz",
+      "url": "https://www.eberswalde.de/termine/faszination-holz-16",
+      "startDate": "2026-10-03T14:00:00.000Z",
+      "fetchedAt": "2026-09-28T09:50:37.232Z",
+      "updatedAt": "2026-09-28T09:50:37.232Z"
+    },
+    {
+      "id": "oktoberfest",
+      "title": "Oktoberfest",
+      "url": "https://www.eberswalde.de/termine/oktoberfest",
+      "startDate": "2026-10-03T18:00:00.000Z",
+      "endDate": "2026-10-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-28T09:50:37.232Z",
+      "updatedAt": "2026-09-28T09:50:37.232Z"
     }
   ]
 }

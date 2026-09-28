@@ -319,6 +319,16 @@ URL:https://www.heideblick.de/veranstaltungen/2922032/2026/09/30/infocaf
 LOCATION:Gemeinde Heideblick
 END:VEVENT
 BEGIN:VEVENT
+UID:heideblick-event-2975239-20261009@amtsfeed.de
+DTSTAMP:20260928T095108Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Burgerday + Cocktails
+URL:https://www.heideblick.de/veranstaltungen/2975239/2026/10/09/burgerda
+ y--cocktails.html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+BEGIN:VEVENT
 UID:heideblick-event-2965448-20261011@amtsfeed.de
 DTSTAMP:20260911T110642Z
 DTSTART;VALUE=DATE:20261011
@@ -327,6 +337,16 @@ SUMMARY:Hoftrödel
 URL:https://www.heideblick.de/veranstaltungen/2965448/2026/10/11/hoftröd
  el.html
 LOCATION:Langengrassau
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2975240-20261017@amtsfeed.de
+DTSTAMP:20260928T095108Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Oktobertanz Ü50
+URL:https://www.heideblick.de/veranstaltungen/2975240/2026/10/17/oktobert
+ anz-ü50.html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
 END:VEVENT
 BEGIN:VEVENT
 UID:heideblick-event-2865953-20261107@amtsfeed.de

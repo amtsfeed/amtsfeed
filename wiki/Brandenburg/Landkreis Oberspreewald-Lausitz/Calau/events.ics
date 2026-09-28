@@ -842,15 +842,6 @@ URL:https://www.calau.de/veranstaltungen/2951948/2026/09/26/20.-nachtlauf
  -der-jugendfeuerwehr-zinnitz.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20260927T092451Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:27.09.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
-URL:https://www.calau.de/veranstaltungen/2864723/2026/09/27/flugshow-auf-
- dem-adler-und-jagdfalkenhof-werchow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2290342@amtsfeed.de
 DTSTAMP:20260925T085845Z
 DTSTART;VALUE=DATE:20260929
@@ -870,10 +861,10 @@ URL:https://www.calau.de/veranstaltungen/2315266/2026/09/30/calauer-musee
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960235@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260928T095824Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:Krabbelgruppe in der Kita Kunterbunt
+SUMMARY:01.10.2026   Krabbelgruppe in der Kita Kunterbunt
 URL:https://www.calau.de/veranstaltungen/2960235/2026/10/01/krabbelgruppe
  -in-der-kita-kunterbunt.html
 END:VEVENT
@@ -888,12 +879,22 @@ URL:https://www.calau.de/veranstaltungen/2919004/2026/10/01/netzwerktreff
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2606463@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20260928T095824Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau
+SUMMARY:02.10.2026   Barrierefreie Bürgersprechstunde des Einwohnermelde
+ amtes Calau
 URL:https://www.calau.de/veranstaltungen/2606463/2026/10/02/barrierefreie
  -bürgersprechstunde-des-einwohnermeldeamtes-calau.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2864723@amtsfeed.de
+DTSTAMP:20260928T095824Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+URL:https://www.calau.de/veranstaltungen/2864723/2026/10/03/flugshow-auf-
+ dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2964713@amtsfeed.de
@@ -950,6 +951,15 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:SpieleABEND
 URL:https://www.calau.de/veranstaltungen/2858227/2026/10/09/spieleabend.h
  tml
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2975109@amtsfeed.de
+DTSTAMP:20260928T095824Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Lesung in der Gutskapelle Reuden
+URL:https://www.calau.de/veranstaltungen/2975109/2026/10/10/lesung-in-der
+ -gutskapelle-reuden.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2822078@amtsfeed.de
@@ -1033,6 +1043,15 @@ DTEND;VALUE=DATE:20261018
 SUMMARY:Die Oberkrainer kommen!
 URL:https://www.calau.de/veranstaltungen/2836131/2026/10/17/die-oberkrain
  er-kommen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2975111@amtsfeed.de
+DTSTAMP:20260928T095824Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Saisonabschluss in der Gutskapelle Reuden
+URL:https://www.calau.de/veranstaltungen/2975111/2026/10/17/saisonabschlu
+ ss-in-der-gutskapelle-reuden.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838476@amtsfeed.de

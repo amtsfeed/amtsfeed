@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:52:17.676Z",
+  "updatedAt": "2026-09-29T09:54:18.301Z",
   "items": [
     {
       "id": "2849506",
@@ -466,6 +466,14 @@
       "updatedAt": "2026-09-11T11:07:17.417Z"
     },
     {
+      "id": "2975386",
+      "title": "Reparaturcaf&eacute; - Gemeinsam reparieren",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2975386/2026/11/07/reparaturcafé-gemeinsam-reparieren.html",
+      "startDate": "2026-11-07T14:00:00.000Z",
+      "fetchedAt": "2026-09-29T09:54:18.290Z",
+      "updatedAt": "2026-09-29T09:54:18.290Z"
+    },
+    {
       "id": "2849518",
       "title": "Klänge aus der Puszta",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2849518/2026/11/08/klänge-aus-der-puszta.html",
@@ -496,6 +504,14 @@
       "startDate": "2026-12-06T16:00:00.000Z",
       "fetchedAt": "2026-05-08T18:34:29.680Z",
       "updatedAt": "2026-05-08T18:34:29.680Z"
+    },
+    {
+      "id": "2975403",
+      "title": "Reparaturcaf&eacute; - Gemeinsam reparieren",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2975403/2026/12/12/reparaturcafé-gemeinsam-reparieren.html",
+      "startDate": "2026-12-12T14:00:00.000Z",
+      "fetchedAt": "2026-09-29T09:54:18.290Z",
+      "updatedAt": "2026-09-29T09:54:18.290Z"
     },
     {
       "id": "2849521",
@@ -530,22 +546,6 @@
       "updatedAt": "2026-05-08T18:34:29.680Z"
     },
     {
-      "id": "2477269",
-      "title": "Seniorencaf&egrave;",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2477269/2027/09/22/seniorencafè.html",
-      "startDate": "2027-09-22T10:00:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-09-22T08:36:46.849Z"
-    },
-    {
-      "id": "2439631",
-      "title": "Sprach-Caf&egrave;",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2439631/2027/09/22/sprach-cafè.html",
-      "startDate": "2027-09-22T16:00:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-09-22T08:36:46.849Z"
-    },
-    {
       "id": "2331049",
       "title": "Wochenmarkt",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2331049/2027/09/23/wochenmarkt.html",
@@ -560,6 +560,22 @@
       "startDate": "2027-09-25T06:30:00.000Z",
       "fetchedAt": "2026-05-08T18:34:29.680Z",
       "updatedAt": "2026-09-25T08:53:12.351Z"
+    },
+    {
+      "id": "2477269",
+      "title": "Seniorencaf&egrave;",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2477269/2027/09/29/seniorencafè.html",
+      "startDate": "2027-09-29T10:00:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-09-29T09:54:18.290Z"
+    },
+    {
+      "id": "2439631",
+      "title": "Sprach-Caf&egrave;",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2439631/2027/09/29/sprach-cafè.html",
+      "startDate": "2027-09-29T16:00:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-09-29T09:54:18.290Z"
     }
   ]
 }

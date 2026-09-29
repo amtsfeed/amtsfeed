@@ -1485,6 +1485,15 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2878378/2026/10/
  03/freilichtmuseum-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2975494-20261003@amtsfeed.de
+DTSTAMP:20260929T095307Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Werkschau Gerhard Mauermann
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2975494/2026/10/
+ 03/werkschau-gerhard-mauermann.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2878379-20261004@amtsfeed.de
 DTSTAMP:20260508T193631Z
 DTSTART;VALUE=DATE:20261004
@@ -1555,6 +1564,15 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:Berufetag Jahrgangsstufe 9
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2946745/2026/10/
  09/berufetag-jahrgangsstufe-9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2975496-20261009@amtsfeed.de
+DTSTAMP:20260929T095307Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Pilzexkursion - von Symbionten und Parasiten
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2975496/2026/10/
+ 09/pilzexkursion-von-symbionten-und-parasiten.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2969665-20261010@amtsfeed.de
@@ -1701,6 +1719,15 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/10/
  29/literaturcafé-im-mgh-franz-fühmann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2975497-20261031@amtsfeed.de
+DTSTAMP:20260929T095307Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Kürbisse schnitzen und Herbstdeko basteln
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2975497/2026/10/
+ 31/kürbisse-schnitzen-und-herbstdeko-basteln.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2964381-20261102@amtsfeed.de
@@ -3453,5 +3480,14 @@ DTEND;VALUE=DATE:20270928
 SUMMARY:MGH "Franz Fühmann": Frühstückstreff
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2668097/2027/09/
  27/mgh-franz-fühmann-frühstückstreff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549386-20270929@amtsfeed.de
+DTSTAMP:20260929T095307Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2027/09/
+ 29/krabbelgruppe-im-mgh-franz-fühmann-nach-anmeldung.html
 END:VEVENT
 END:VCALENDAR

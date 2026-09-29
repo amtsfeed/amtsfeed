@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:59:43.685Z",
+  "updatedAt": "2026-09-29T10:00:57.293Z",
   "items": [
     {
       "id": "woltersdorf-event-2891242",
@@ -501,9 +501,9 @@
       "title": "Stammtisch Bündnis90/Die Grünen",
       "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2966673/2026/09/30/stammtisch-bündnis90-die-grünen.html",
       "startDate": "2026-09-30T20:00:00.000Z",
-      "location": "24 Rudolf-Breitscheid-Str, 15569 Woltersdorf",
+      "location": "Taverna Achillion",
       "fetchedAt": "2026-09-15T08:50:29.130Z",
-      "updatedAt": "2026-09-15T08:50:29.130Z"
+      "updatedAt": "2026-09-29T10:00:57.283Z"
     },
     {
       "id": "woltersdorf-event-2949200",
@@ -551,6 +551,15 @@
       "updatedAt": "2026-09-15T08:50:29.130Z"
     },
     {
+      "id": "woltersdorf-event-2975741",
+      "title": "Finissage Anke Becker &amp; Stephane Leonard",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2975741/2026/10/17/finissage-anke-becker-amp-stephane-leonard.html",
+      "startDate": "2026-10-17T14:00:00.000Z",
+      "location": "STUDIO II - Raum für zeitgenössische Kunst an der Schleuse",
+      "fetchedAt": "2026-09-29T10:00:57.283Z",
+      "updatedAt": "2026-09-29T10:00:57.283Z"
+    },
+    {
       "id": "woltersdorf-event-2972009",
       "title": "Orgelkonzert: Bach, Mozart, Haydn",
       "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2972009/2026/10/24/orgelkonzert-bach-mozart-haydn.html",
@@ -558,6 +567,33 @@
       "location": "St.-Michael-Kirche",
       "fetchedAt": "2026-09-23T08:47:02.577Z",
       "updatedAt": "2026-09-23T08:47:02.577Z"
+    },
+    {
+      "id": "woltersdorf-event-2975738",
+      "title": "Ausstellung: Julia Kissina",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2975738/2026/10/24/ausstellung-julia-kissina.html",
+      "startDate": "2026-10-24T18:00:00.000Z",
+      "location": "STUDIO II - Raum für zeitgenössische Kunst direkt an der Schleuse",
+      "fetchedAt": "2026-09-29T10:00:57.283Z",
+      "updatedAt": "2026-09-29T10:00:57.283Z"
+    },
+    {
+      "id": "woltersdorf-event-2975739",
+      "title": "Ausstellung: Drawing Radio",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2975739/2026/10/24/ausstellung-drawing-radio.html",
+      "startDate": "2026-10-24T18:00:00.000Z",
+      "location": "STRG - Studio für Radio & Grafik an der Schleuse",
+      "fetchedAt": "2026-09-29T10:00:57.283Z",
+      "updatedAt": "2026-09-29T10:00:57.283Z"
+    },
+    {
+      "id": "woltersdorf-event-2975740",
+      "title": "Ausstellung: Meg Stuart",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2975740/2026/11/20/ausstellung-meg-stuart.html",
+      "startDate": "2026-11-20T18:00:00.000Z",
+      "location": "STUDIO II - Raum für zeitgenössische Kunst",
+      "fetchedAt": "2026-09-29T10:00:57.283Z",
+      "updatedAt": "2026-09-29T10:00:57.283Z"
     },
     {
       "id": "woltersdorf-event-2940038",

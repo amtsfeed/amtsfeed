@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:50:37.243Z",
+  "updatedAt": "2026-09-29T09:52:51.514Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -774,6 +774,22 @@
       "endDate": "2026-10-04T00:00:00.000Z",
       "fetchedAt": "2026-09-28T09:50:37.232Z",
       "updatedAt": "2026-09-28T09:50:37.232Z"
+    },
+    {
+      "id": "erntedankmarkt",
+      "title": "ERNTEDANKMARKT",
+      "url": "https://www.eberswalde.de/termine/erntedankmarkt",
+      "startDate": "2026-10-04T10:00:00.000Z",
+      "fetchedAt": "2026-09-29T09:52:51.504Z",
+      "updatedAt": "2026-09-29T09:52:51.504Z"
+    },
+    {
+      "id": "faszination-holz-17",
+      "title": "Faszination Holz",
+      "url": "https://www.eberswalde.de/termine/faszination-holz-17",
+      "startDate": "2026-10-04T11:00:00.000Z",
+      "fetchedAt": "2026-09-29T09:52:51.504Z",
+      "updatedAt": "2026-09-29T09:52:51.504Z"
     }
   ]
 }

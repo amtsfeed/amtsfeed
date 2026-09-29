@@ -515,12 +515,12 @@ LOCATION:St.-Michael-Kirche
 END:VEVENT
 BEGIN:VEVENT
 UID:woltersdorf-event-2966673@amtsfeed.de
-DTSTAMP:20260915T085029Z
+DTSTAMP:20260929T100057Z
 DTSTART:20260930T200000Z
 SUMMARY:Stammtisch Bündnis90/Die Grünen
 URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2966673/2026/09/3
  0/stammtisch-bündnis90-die-grünen.html
-LOCATION:24 Rudolf-Breitscheid-Str\, 15569 Woltersdorf
+LOCATION:Taverna Achillion
 END:VEVENT
 BEGIN:VEVENT
 UID:woltersdorf-event-2949200@amtsfeed.de
@@ -568,6 +568,15 @@ URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2967567/2026/10/1
 LOCATION:Woltersdorf
 END:VEVENT
 BEGIN:VEVENT
+UID:woltersdorf-event-2975741@amtsfeed.de
+DTSTAMP:20260929T100057Z
+DTSTART:20261017T140000Z
+SUMMARY:Finissage Anke Becker &amp\; Stephane Leonard
+URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2975741/2026/10/1
+ 7/finissage-anke-becker-amp-stephane-leonard.html
+LOCATION:STUDIO II - Raum für zeitgenössische Kunst an der Schleuse
+END:VEVENT
+BEGIN:VEVENT
 UID:woltersdorf-event-2972009@amtsfeed.de
 DTSTAMP:20260923T084702Z
 DTSTART:20261024T180000Z
@@ -575,6 +584,34 @@ SUMMARY:Orgelkonzert: Bach\, Mozart\, Haydn
 URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2972009/2026/10/2
  4/orgelkonzert-bach-mozart-haydn.html
 LOCATION:St.-Michael-Kirche
+END:VEVENT
+BEGIN:VEVENT
+UID:woltersdorf-event-2975738@amtsfeed.de
+DTSTAMP:20260929T100057Z
+DTSTART:20261024T180000Z
+SUMMARY:Ausstellung: Julia Kissina
+URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2975738/2026/10/2
+ 4/ausstellung-julia-kissina.html
+LOCATION:STUDIO II - Raum für zeitgenössische Kunst direkt an der Schle
+ use
+END:VEVENT
+BEGIN:VEVENT
+UID:woltersdorf-event-2975739@amtsfeed.de
+DTSTAMP:20260929T100057Z
+DTSTART:20261024T180000Z
+SUMMARY:Ausstellung: Drawing Radio
+URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2975739/2026/10/2
+ 4/ausstellung-drawing-radio.html
+LOCATION:STRG - Studio für Radio & Grafik an der Schleuse
+END:VEVENT
+BEGIN:VEVENT
+UID:woltersdorf-event-2975740@amtsfeed.de
+DTSTAMP:20260929T100057Z
+DTSTART:20261120T180000Z
+SUMMARY:Ausstellung: Meg Stuart
+URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2975740/2026/11/2
+ 0/ausstellung-meg-stuart.html
+LOCATION:STUDIO II - Raum für zeitgenössische Kunst
 END:VEVENT
 BEGIN:VEVENT
 UID:woltersdorf-event-2940038@amtsfeed.de

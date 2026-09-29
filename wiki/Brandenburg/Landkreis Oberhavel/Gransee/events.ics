@@ -5250,4 +5250,21 @@ SUMMARY:Silvesterparty
 URL:https://www.gransee.de/event/silvesterparty-4/
 LOCATION:Stechlinsee-Center\, Stechlin OT Neuglobsow
 END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26544@amtsfeed.de
+DTSTAMP:20260929T095846Z
+DTSTART:20270424T190000Z
+SUMMARY:Reiterball
+URL:https://www.gransee.de/event/reiterball-4/
+LOCATION:Reitplatz Kraatz\, Kraatz
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26549@amtsfeed.de
+DTSTAMP:20260929T095846Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Reitturnier
+URL:https://www.gransee.de/event/reitturnier-7/
+LOCATION:Reitplatz Kraatz\, Kraatz
+END:VEVENT
 END:VCALENDAR

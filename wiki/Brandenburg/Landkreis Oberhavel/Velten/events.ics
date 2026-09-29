@@ -1002,4 +1002,15 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/B%C3%B
  1&amp\;ModID=11&amp\;FID=3631.1170.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\
  ;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-884@amtsfeed.de
+DTSTAMP:20260929T095926Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:16. Sitzung des Ausschusses für Bau und Stadtentwicklung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/16-Sit
+ zung-des-Ausschusses-f%C3%BCr-Bau-und-Stadtentwicklung.php?object=tx\,363
+ 1.4.1&amp\;ModID=11&amp\;FID=3631.884.1&amp\;NavID=3631.15&amp\;sfreg=1&a
+ mp\;sfort=1
+END:VEVENT
 END:VCALENDAR

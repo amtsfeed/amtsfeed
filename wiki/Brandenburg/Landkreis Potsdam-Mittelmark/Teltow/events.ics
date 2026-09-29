@@ -1185,15 +1185,6 @@ URL:https://www.teltow.de/veranstaltungen/2927078/2026/09/27/das-heimatmu
  seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930009@amtsfeed.de
-DTSTAMP:20260922T084228Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
-URL:https://www.teltow.de/veranstaltungen/2930009/2026/09/28/offener-lern
- raum-digitales-lernen-und-arbeiten-am-computer.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2924784@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260928
@@ -1291,6 +1282,15 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
 URL:https://www.teltow.de/veranstaltungen/2972959/2026/10/04/das-heimatmu
  seum-im-ältesten-haus-teltows-ist-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930009@amtsfeed.de
+DTSTAMP:20260929T100145Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
+URL:https://www.teltow.de/veranstaltungen/2930009/2026/10/05/offener-lern
+ raum-digitales-lernen-und-arbeiten-am-computer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2971717@amtsfeed.de
@@ -1550,11 +1550,11 @@ URL:https://www.teltow.de/veranstaltungen/2972115/2026/10/27/volkstänze-
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972385@amtsfeed.de
-DTSTAMP:20260923T084802Z
+DTSTAMP:20260929T100145Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:Teltower Salon: : „Historische Zeitreise“ – Wröhbücher de
- r Ackercommune
+SUMMARY:Teltower Salon: „Historische Zeitreise“ – Wröhbücher der 
+ Ackercommune
 URL:https://www.teltow.de/veranstaltungen/2972385/2026/10/27/teltower-sal
  on-historische-zeitreise--wröhbücher-der-ackercommune.html
 END:VEVENT

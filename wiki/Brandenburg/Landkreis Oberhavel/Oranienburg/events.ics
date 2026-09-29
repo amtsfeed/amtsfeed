@@ -1384,4 +1384,24 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  bject=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7548.1&amp\;NavID=2967.39&am
  p\;sfreg=1&amp\;bn=1
 END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7487@amtsfeed.de
+DTSTAMP:20260929T095924Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Orgelmusik zur Mittagszeit
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Orgelmusik-zur-Mittagszeit.php?object=tx\,2967.4&amp\;ModID=11&amp\;F
+ ID=2967.7487.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7437@amtsfeed.de
+DTSTAMP:20260929T095924Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Klaviermusik im Kerzenschein
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Klaviermusik-im-Kerzenschein-.php?object=tx\,2967.4&amp\;ModID=11&amp
+ \;FID=2967.7437.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
 END:VCALENDAR

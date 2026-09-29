@@ -2987,6 +2987,15 @@ URL:https://www.falkensee.de/veranstaltungen/2958625/2026/09/29/offene-sp
  rechstunde.html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2975771-20260929@amtsfeed.de
+DTSTAMP:20260929T095449Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Bürgerdialog
+URL:https://www.falkensee.de/veranstaltungen/2975771/2026/09/29/bürgerdi
+ alog.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2321277-20260930@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20260930
@@ -3344,6 +3353,15 @@ URL:https://www.falkensee.de/veranstaltungen/2972398/2026/10/10/partnersc
  haft-für-demokratie-falkensee-entwickelt-ein-schutzkonzept.html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2975773-20261010@amtsfeed.de
+DTSTAMP:20260929T095449Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Die Kirche putzt sich raus
+URL:https://www.falkensee.de/veranstaltungen/2975773/2026/10/10/die-kirch
+ e-putzt-sich-raus.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2900966-20261011@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261011
@@ -3526,6 +3544,15 @@ DTEND;VALUE=DATE:20261019
 SUMMARY:SH K Eltern-Kind Musikgruppe Falkensee
 URL:https://www.falkensee.de/veranstaltungen/2900966/2026/10/18/sh-k-elte
  rn-kind-musikgruppe-falkensee.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2975772-20261018@amtsfeed.de
+DTSTAMP:20260929T095449Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Konzert-Harry's Freilach: Klezmer tov!
+URL:https://www.falkensee.de/veranstaltungen/2975772/2026/10/18/konzert-h
+ arry-s-freilach-klezmer-tov.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2483646-20261019@amtsfeed.de
@@ -3770,6 +3797,15 @@ SUMMARY:POESIEHERBST 2026 | &bdquo\;Mylord&rsquo\;s Fingerfood&ldquo\; &n
 URL:https://www.falkensee.de/veranstaltungen/2953238/2026/10/24/poesieher
  bst-2026-mylords-fingerfood--krimi-lesung-und-musik-mit-dr.-frank-dittmer
  -und-johannes-gahl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2975769-20261024@amtsfeed.de
+DTSTAMP:20260929T095449Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Outdoor-Tag
+URL:https://www.falkensee.de/veranstaltungen/2975769/2026/10/24/outdoor-t
+ ag.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2900966-20261025@amtsfeed.de
@@ -7786,5 +7822,14 @@ DTEND;VALUE=DATE:20270929
 SUMMARY:Seniorenskat - für Freunde des Kartenspiels
 URL:https://www.falkensee.de/veranstaltungen/2188424/2027/09/28/seniorens
  kat-für-freunde-des-kartenspiels.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2321277-20270929@amtsfeed.de
+DTSTAMP:20260929T095449Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:Elternfrühstück im Weltladen
+URL:https://www.falkensee.de/veranstaltungen/2321277/2027/09/29/elternfr
+ ühstück-im-weltladen.html
 END:VEVENT
 END:VCALENDAR

@@ -109,15 +109,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2894930/2026/06/13/verei
  nsturnier-sportfest-des-sv-großräschen-e.v.-mit-ifa-treffen.html
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2721706@amtsfeed.de
-DTSTAMP:20260531T184202Z
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260621
-SUMMARY:Dorffest Saalhausen
-URL:https://www.grossraeschen.de/veranstaltungen/2721706/2026/06/20/dorff
- est-saalhausen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2799785@amtsfeed.de
 DTSTAMP:20260531T184202Z
 DTSTART;VALUE=DATE:20260621
@@ -922,6 +913,105 @@ URL:https://www.grossraeschen.de/veranstaltungen/2799803/2027/01/02/neuja
  hrsdorfdisco-saalhausen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2975895@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Freaky Friday
+URL:https://www.grossraeschen.de/veranstaltungen/2975895/2027/01/22/freak
+ y-friday.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975890@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Kinderfasching
+URL:https://www.grossraeschen.de/veranstaltungen/2975890/2027/01/31/kinde
+ rfasching.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975891@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Weiberfastnacht
+URL:https://www.grossraeschen.de/veranstaltungen/2975891/2027/02/04/weibe
+ rfastnacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975892@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Prunksitzung
+URL:https://www.grossraeschen.de/veranstaltungen/2975892/2027/02/06/prunk
+ sitzung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975893@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Rosenmontag
+URL:https://www.grossraeschen.de/veranstaltungen/2975893/2027/02/08/rosen
+ montag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2799797@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Dorfdisco Saalhausen
+URL:https://www.grossraeschen.de/veranstaltungen/2799797/2027/03/13/dorfd
+ isco-saalhausen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2799801@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Osterfeuer
+URL:https://www.grossraeschen.de/veranstaltungen/2799801/2027/03/27/oster
+ feuer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975914@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Chorkonzert in Freienhufen
+URL:https://www.grossraeschen.de/veranstaltungen/2975914/2027/04/18/chork
+ onzert-in-freienhufen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2799800@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Maibaumstellen
+URL:https://www.grossraeschen.de/veranstaltungen/2799800/2027/04/30/maiba
+ umstellen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975963@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Maibaumstellen
+URL:https://www.grossraeschen.de/veranstaltungen/2975963/2027/04/30/maiba
+ umstellen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975886@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Judo Turnier
+URL:https://www.grossraeschen.de/veranstaltungen/2975886/2027/05/01/judo-
+ turnier.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2877611@amtsfeed.de
 DTSTAMP:20260531T184202Z
 DTSTART;VALUE=DATE:20270521
@@ -929,5 +1019,59 @@ DTEND;VALUE=DATE:20270522
 SUMMARY:Großräschener Seefest
 URL:https://www.grossraeschen.de/veranstaltungen/2877611/2027/05/21/groß
  räschener-seefest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975888@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Sumo-Turnier
+URL:https://www.grossraeschen.de/veranstaltungen/2975888/2027/06/05/sumo-
+ turnier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975918@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Lesung und Musik
+URL:https://www.grossraeschen.de/veranstaltungen/2975918/2027/06/06/lesun
+ g-und-musik.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2721706@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Dorffest Saalhausen
+URL:https://www.grossraeschen.de/veranstaltungen/2721706/2027/06/19/dorff
+ est-saalhausen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975969@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Orgelkonzert
+URL:https://www.grossraeschen.de/veranstaltungen/2975969/2027/07/09/orgel
+ konzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975909@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Sommer-Open Air Freienhufen
+URL:https://www.grossraeschen.de/veranstaltungen/2975909/2027/08/07/somme
+ r-open-air-freienhufen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2506780@amtsfeed.de
+DTSTAMP:20260929T095942Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Dorfdisco Saalhausen
+URL:https://www.grossraeschen.de/veranstaltungen/2506780/2027/09/25/dorfd
+ isco-saalhausen.html
 END:VEVENT
 END:VCALENDAR

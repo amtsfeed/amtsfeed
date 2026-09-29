@@ -407,32 +407,6 @@ URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
  d-saarow-am-mittwoch
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
-DTSTAMP:20260922T084100Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
- m-morgen
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs@amtsfeed.de
-DTSTAMP:20260922T084100Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Aktiv Wochenplan - Wakepark Schnupperkurs
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-wakepark-schnup
- perkurs
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-bogenschiessen@amtsfeed.de
-DTSTAMP:20260922T084100Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Aktiv Wochenplan - Bogenschießen
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-bogenschiessen
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
  eed.de
 DTSTAMP:20260924T083751Z
@@ -618,19 +592,10 @@ URL:https://www.scharmuetzelsee.de/event/scharmuntzel-fest-und-tierisch-b
  unter-flohmarkt
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-toepfern-schnupperkurs@amtsfeed.de
-DTSTAMP:20260928T095855Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
- perkurs
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260928T095855Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
+DTSTAMP:20260929T100010Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
 SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
 URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
  d-saarow
@@ -638,9 +603,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
  eed.de
-DTSTAMP:20260928T095855Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
+DTSTAMP:20260929T100010Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
 SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
 URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
  die-zeit-laeuft
@@ -648,9 +613,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
  de
-DTSTAMP:20260928T095855Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
+DTSTAMP:20260929T100010Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
 SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
 URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
  on-taeglich
@@ -673,6 +638,41 @@ DTEND;VALUE=DATE:20260930
 SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
  park
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
+DTSTAMP:20260929T100010Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
+ m-morgen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs@amtsfeed.de
+DTSTAMP:20260929T100010Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Aktiv Wochenplan - Wakepark Schnupperkurs
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-wakepark-schnup
+ perkurs
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-bogenschiessen@amtsfeed.de
+DTSTAMP:20260929T100010Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Aktiv Wochenplan - Bogenschießen
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-bogenschiessen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-toepfern-schnupperkurs@amtsfeed.de
+DTSTAMP:20260929T100010Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
+ perkurs
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-bauen-in-bad-saarow-zwischen-reet-rosenthal-und-revis

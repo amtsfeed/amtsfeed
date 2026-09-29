@@ -810,4 +810,18 @@ DTEND:20261004T000000Z
 SUMMARY:Oktoberfest
 URL:https://www.eberswalde.de/termine/oktoberfest
 END:VEVENT
+BEGIN:VEVENT
+UID:erntedankmarkt@amtsfeed.de
+DTSTAMP:20260929T095251Z
+DTSTART:20261004T100000Z
+SUMMARY:ERNTEDANKMARKT
+URL:https://www.eberswalde.de/termine/erntedankmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-17@amtsfeed.de
+DTSTAMP:20260929T095251Z
+DTSTART:20261004T110000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-17
+END:VEVENT
 END:VCALENDAR

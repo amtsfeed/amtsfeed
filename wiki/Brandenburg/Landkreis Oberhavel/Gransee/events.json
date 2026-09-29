@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:24:31.354Z",
+  "updatedAt": "2026-09-29T09:58:52.463Z",
   "items": [
     {
       "id": "gransee-event-25497",
@@ -5211,6 +5211,24 @@
       "location": "Stechlinsee-Center, Stechlin OT Neuglobsow",
       "fetchedAt": "2026-05-06T15:28:12.520Z",
       "updatedAt": "2026-09-12T08:05:03.027Z"
+    },
+    {
+      "id": "gransee-event-26544",
+      "title": "Reiterball",
+      "url": "https://www.gransee.de/event/reiterball-4/",
+      "startDate": "2027-04-24T19:00:00.000Z",
+      "location": "Reitplatz Kraatz, Kraatz",
+      "fetchedAt": "2026-09-29T09:58:46.465Z",
+      "updatedAt": "2026-09-29T09:58:46.465Z"
+    },
+    {
+      "id": "gransee-event-26549",
+      "title": "Reitturnier",
+      "url": "https://www.gransee.de/event/reitturnier-7/",
+      "startDate": "2027-04-25T00:00:00.000Z",
+      "location": "Reitplatz Kraatz, Kraatz",
+      "fetchedAt": "2026-09-29T09:58:46.465Z",
+      "updatedAt": "2026-09-29T09:58:46.465Z"
     }
   ]
 }

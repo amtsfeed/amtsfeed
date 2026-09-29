@@ -479,6 +479,14 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2924100/2026/10/28/auf
  suchende-sozialberatung-des-sovd-sozialmobils.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2975386@amtsfeed.de
+DTSTAMP:20260929T095418Z
+DTSTART:20261107T140000Z
+SUMMARY:Reparaturcaf&eacute\; - Gemeinsam reparieren
+URL:https://www.herzberg-elster.de/veranstaltungen/2975386/2026/11/07/rep
+ araturcafé-gemeinsam-reparieren.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2849518@amtsfeed.de
 DTSTAMP:20260508T183429Z
 DTSTART:20261108T160000Z
@@ -509,6 +517,14 @@ DTSTART:20261206T160000Z
 SUMMARY:Adventssingen
 URL:https://www.herzberg-elster.de/veranstaltungen/2849520/2026/12/06/adv
  entssingen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2975403@amtsfeed.de
+DTSTAMP:20260929T095418Z
+DTSTART:20261212T140000Z
+SUMMARY:Reparaturcaf&eacute\; - Gemeinsam reparieren
+URL:https://www.herzberg-elster.de/veranstaltungen/2975403/2026/12/12/rep
+ araturcafé-gemeinsam-reparieren.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2849521@amtsfeed.de
@@ -543,22 +559,6 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2849524/2027/01/01/neu
  jahrskonzert.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2477269@amtsfeed.de
-DTSTAMP:20260922T083646Z
-DTSTART:20270922T100000Z
-SUMMARY:Seniorencaf&egrave\;
-URL:https://www.herzberg-elster.de/veranstaltungen/2477269/2027/09/22/sen
- iorencafè.html
-END:VEVENT
-BEGIN:VEVENT
-UID:2439631@amtsfeed.de
-DTSTAMP:20260922T083646Z
-DTSTART:20270922T160000Z
-SUMMARY:Sprach-Caf&egrave\;
-URL:https://www.herzberg-elster.de/veranstaltungen/2439631/2027/09/22/spr
- ach-cafè.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2331049@amtsfeed.de
 DTSTAMP:20260923T083917Z
 DTSTART:20270923T060000Z
@@ -573,5 +573,21 @@ DTSTART:20270925T063000Z
 SUMMARY:Wochenmarkt
 URL:https://www.herzberg-elster.de/veranstaltungen/2331050/2027/09/25/woc
  henmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2477269@amtsfeed.de
+DTSTAMP:20260929T095418Z
+DTSTART:20270929T100000Z
+SUMMARY:Seniorencaf&egrave\;
+URL:https://www.herzberg-elster.de/veranstaltungen/2477269/2027/09/29/sen
+ iorencafè.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2439631@amtsfeed.de
+DTSTAMP:20260929T095418Z
+DTSTART:20270929T160000Z
+SUMMARY:Sprach-Caf&egrave\;
+URL:https://www.herzberg-elster.de/veranstaltungen/2439631/2027/09/29/spr
+ ach-cafè.html
 END:VEVENT
 END:VCALENDAR

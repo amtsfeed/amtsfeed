@@ -949,11 +949,11 @@ LOCATION:Döbberin
 END:VEVENT
 BEGIN:VEVENT
 UID:2955796@amtsfeed.de
-DTSTAMP:20260928T095637Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
+DTSTAMP:20260929T095755Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
 SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/28/hör-mal-
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/29/hör-mal-
  -reiseperle-lebuser-land.html
 DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
@@ -961,39 +961,6 @@ DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
 LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
   Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
-UID:2402834@amtsfeed.de
-DTSTAMP:20260922T083906Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Kreativgruppe in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/09/28/kreativgr
- uppe-in-podelzig.html
-DESCRIPTION:in Gemeindezentrum
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464902@amtsfeed.de
-DTSTAMP:20260922T083906Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/09/28/tischtenn
- is.html
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464900@amtsfeed.de
-DTSTAMP:20260922T083906Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Dart für Jedermann
-URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/09/28/dart-für
- -jedermann.html
-DESCRIPTION:Sportlerheim Podelzig
-LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2464901@amtsfeed.de
@@ -1147,6 +1114,39 @@ URL:https://www.amt-lebus.de/veranstaltungen/2956130/2026/10/04/trödelma
  rkt-am-trepliner-see.html
 DESCRIPTION:Anmeldungen unter Tel. 0173 174 61 85
 LOCATION:Trepliner See
+END:VEVENT
+BEGIN:VEVENT
+UID:2402834@amtsfeed.de
+DTSTAMP:20260929T095755Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Kreativgruppe in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/10/05/kreativgr
+ uppe-in-podelzig.html
+DESCRIPTION:in Gemeindezentrum
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464902@amtsfeed.de
+DTSTAMP:20260929T095755Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/10/05/tischtenn
+ is.html
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464900@amtsfeed.de
+DTSTAMP:20260929T095755Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Dart für Jedermann
+URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/10/05/dart-für
+ -jedermann.html
+DESCRIPTION:Sportlerheim Podelzig
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2846364@amtsfeed.de

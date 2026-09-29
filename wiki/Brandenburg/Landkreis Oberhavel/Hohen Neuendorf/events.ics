@@ -530,4 +530,13 @@ SUMMARY:Konzert im Paddenkrug
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  konzert-im-paddenkrug-0
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-mach-mit-fit-21@amtsfeed.de
+DTSTAMP:20260929T095901Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Mach-Mit-Fit
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ mach-mit-fit-21
+END:VEVENT
 END:VCALENDAR

@@ -268,15 +268,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2974118/2026/09/27/vinyasa
  -yoga-mit-paulina-wiegand.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855689@amtsfeed.de
-DTSTAMP:20260922T084022Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Die Montagshelden - Gymnastik & Bewegung
-URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/09/28/die-mon
- tagshelden-gymnastik-bewegung.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2962213@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20260928
@@ -428,6 +419,15 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:Drachenfest - Ein bunter Himmel über Vehlefanz
 URL:https://www.oberkraemer.de/veranstaltungen/2855578/2026/10/04/drachen
  fest-ein-bunter-himmel-über-vehlefanz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855689@amtsfeed.de
+DTSTAMP:20260929T095920Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Die Montagshelden - Gymnastik & Bewegung
+URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/10/05/die-mon
+ tagshelden-gymnastik-bewegung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962217@amtsfeed.de

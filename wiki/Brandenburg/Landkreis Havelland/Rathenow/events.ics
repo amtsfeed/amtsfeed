@@ -1103,6 +1103,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, Optikpark
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1755-20261003@amtsfeed.de
+DTSTAMP:20260929T095519Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Familiensportfest in Rathenow
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/familiensportfest/
+LOCATION:Rideplatz am Körgraben in Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1554-20261004@amtsfeed.de
 DTSTAMP:20260911T110748Z
 DTSTART;VALUE=DATE:20261004
@@ -1236,10 +1246,10 @@ LOCATION:Gaststätte Schwedendamm Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1744-20261014@amtsfeed.de
-DTSTAMP:20260922T083750Z
+DTSTAMP:20260929T095519Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261016
-SUMMARY:Energieberatungstage 2027
+SUMMARY:Energieberatungstage 2026
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/energieberatungstage-2027/
 LOCATION:Grundschule am Weinberg

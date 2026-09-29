@@ -1296,6 +1296,16 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/011
 LOCATION:Ambulantes Pflegeteam Denny Schulz GmbH
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-02102026-kochen-und-kultur-mit-dem-café-mediterrano-past
+ a-workshop-20261002@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20261002T130000Z
+SUMMARY:Kochen und Kultur mit dem Café Mediterrano - Pasta Workshop
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/021
+ 02026-kochen-und-kultur-mit-dem-café-mediterrano-pasta-workshop/
+LOCATION:Café Mediterrano
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-04102026-sonntags-brunch-im-schloss-ribbeck-20261004@amts
  feed.de
 DTSTAMP:20260917T084421Z
@@ -1355,6 +1365,16 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/081
 LOCATION:Richart-Hof
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-08102026-diy-holzschmuck-werkstatt-mit-anna-liisa-im-nach
+ barschaftstreff-20261008@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20261008T130000Z
+SUMMARY:DIY-Holzschmuck-Werkstatt mit Anna-Liisa im Nachbarschaftstreff
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/081
+ 02026-diy-holzschmuck-werkstatt-mit-anna-liisa-im-nachbarschaftstreff/
+LOCATION:Mikado Treff
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-09102026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzt
  en-freitag-20261009@amtsfeed.de
 DTSTAMP:20260911T110742Z
@@ -1404,6 +1424,39 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/101
 LOCATION:Schloss Ribbeck
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-16102026-nauen-putzt-sich-gemeinsam-fuer-eine-saubere-sta
+ dt-20261011@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20261011T220000Z
+SUMMARY:„Nauen putzt sich“ – Gemeinsam für eine saubere Stadt
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/161
+ 02026-nauen-putzt-sich-gemeinsam-fuer-eine-saubere-stadt/
+LOCATION:Rathausplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-12102026-tête-à-tête-nachbarschaft-im-gespraech-im-sta
+ dtbadcafé-20261012@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20261012T120000Z
+SUMMARY:„tête-à-tête - Nachbarschaft im Gespräch“ im Stadtbadcaf
+ é
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/121
+ 02026-tête-à-tête-nachbarschaft-im-gespraech-im-stadtbadcafé/
+LOCATION:Stadtbad Nauen
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-12102026-let-s-talk-about-schwaechen-abendreihe-fuer-fami
+ lien-vom-leonardo-da-vi-20261012@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20261012T160000Z
+SUMMARY:„Let’s talk about Schwächen!“ – Abendreihe für Familien
+  vom Leonardo da Vinci Campus Nauen
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/121
+ 02026-let-s-talk-about-schwaechen-abendreihe-fuer-familien-vom-leonardo-d
+ a-vinci-campus-nauen/
+LOCATION:Leonardo Da Vinci Campus Nauen
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-13102026-berliner-luft-20261013@amtsfeed.de
 DTSTAMP:20260531T141402Z
 DTSTART:20261013T130000Z
@@ -1422,6 +1475,26 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/151
  02026-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten-donnerstag-im-mona
  t/
 LOCATION:Ambulantes Pflegeteam Denny Schulz GmbH
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-15102026-halloween-kuerbis-schnitzen-im-gruenen-eck-20261
+ 015@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20261015T130000Z
+SUMMARY:Halloween-Kürbis schnitzen im "Grünen Eck"
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/151
+ 02026-halloween-kuerbis-schnitzen-im-gruenen-eck/
+LOCATION:Nachbarschaftsgarten "Grünes Eck"
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-17102026-nauen-putzt-sich-gemeinsam-fuer-eine-saubere-sta
+ dt-20261017@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20261017T120000Z
+SUMMARY:„Nauen putzt sich“ – Gemeinsam für eine saubere Stadt
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/171
+ 02026-nauen-putzt-sich-gemeinsam-fuer-eine-saubere-stadt/
+LOCATION:Rathausplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-27102026-spiele-und-basteln-fuer-senioren-jeden-letzten-d
@@ -1444,6 +1517,16 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/301
 LOCATION:Ambulantes Pflegeteam Denny Schulz GmbH
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-30102026-kleidertausch-und-verschenkmarkt-im-stadtbad-caf
+ é-20261030@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20261030T150000Z
+SUMMARY:Kleidertausch- und Verschenkmarkt im Stadtbad Café
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/301
+ 02026-kleidertausch-und-verschenkmarkt-im-stadtbad-café/
+LOCATION:Stadtbad Nauen
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-31102026-die-wilden-witwer-fraeulein-pardon-20261031@amts
  feed.de
 DTSTAMP:20260911T110742Z
@@ -1462,6 +1545,16 @@ SUMMARY:Kaffeeklatsch mit Gerda
 URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/051
  126-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten-donnerstag-im-monat/
 LOCATION:Ambulantes Pflegeteam Denny Schulz GmbH
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-05112026-infoabende-2026-lernen-sie-unseren-campus-kennen
+ -20261105@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20261105T153000Z
+SUMMARY:Infoabende 2026: Lernen Sie unseren Campus kennen!
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/051
+ 12026-infoabende-2026-lernen-sie-unseren-campus-kennen/
+LOCATION:Leonardo Da Vinci Campus Nauen
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-07112026-frischemarkt-auf-dem-martin-luther-platz-2026110
@@ -1550,6 +1643,18 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/051
 LOCATION:Martin-Luther-Platz
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-07122026-let-s-talk-about-lernen-eine-abendreihe-fuer-fam
+ ilien-des-leonardo-da-v-20261207@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20261207T170000Z
+SUMMARY:„Let’s talk about Lernen!“ – eine Abendreihe für Familie
+ n des Leonardo da Vinci Campus Nauen
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/071
+ 22026-let-s-talk-about-lernen-eine-abendreihe-fuer-familien-des-leonardo-
+ da-vinci-campus-nauen/
+LOCATION:Leonardo Da Vinci Campus Nauen\, Theatersaal (Haus 13)
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-10122026-spielecafé-im-richart-hof-20261210@amtsfeed.de
 DTSTAMP:20260531T141402Z
 DTSTART:20261210T130000Z
@@ -1606,6 +1711,52 @@ SUMMARY:Nauener Rathausleuchten im Jahr 2027
 URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/090
  12027-nauener-rathausleuchten-im-jahr-2027/
 LOCATION:Rathaus Nauen
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-22022027-let-s-talk-about-mobbing-eine-abendreihe-fuer-fa
+ milien-des-leonardo-da--20270222@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20270222T170000Z
+SUMMARY:„Let’s talk about Mobbing!“ – eine Abendreihe für Famili
+ en des Leonardo da Vinci Campus Nauen
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/220
+ 22027-let-s-talk-about-mobbing-eine-abendreihe-fuer-familien-des-leonardo
+ -da-vinci-campus-nauen/
+LOCATION:Leonardo Da Vinci Campus Nauen\, Theatersaal (Haus 13)
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-05042027-let-s-talk-about-drogen-eine-abendreihe-fuer-fam
+ ilien-des-leonardo-da-v-20270405@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20270405T160000Z
+SUMMARY:„Let’s talk about Drogen!“ – eine Abendreihe für Familie
+ n des Leonardo da Vinci Campus Nauen
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/050
+ 42027-let-s-talk-about-drogen-eine-abendreihe-fuer-familien-des-leonardo-
+ da-vinci-campus-nauen/
+LOCATION:Leonardo Da Vinci Campus Nauen\, Theatersaal (Haus 13)
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-11052027-infoabende-2027-lernen-sie-unseren-campus-kennen
+ -20270510@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20270510T220000Z
+SUMMARY:Infoabende 2027: Lernen Sie unseren Campus kennen!
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/110
+ 52027-infoabende-2027-lernen-sie-unseren-campus-kennen/
+LOCATION:Leonardo Da Vinci Campus Nauen
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-31052027-let-s-talk-about-einnaessen-eine-abendreihe-fuer
+ -familien-des-leonardo--20270531@amtsfeed.de
+DTSTAMP:20260929T095509Z
+DTSTART:20270531T160000Z
+SUMMARY:„Let’s talk about Einnässen!“ – eine Abendreihe für Fam
+ ilien des Leonardo da Vinci Campus Nauen
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/310
+ 52027-let-s-talk-about-einnaessen-eine-abendreihe-fuer-familien-des-leona
+ rdo-da-vinci-campus-nauen/
+LOCATION:Leonardo Da Vinci Campus Nauen\, Theatersaal (Haus 13)
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-27062027-olaf-schubert-und-seine-freunde-jetzt-oder-now-2

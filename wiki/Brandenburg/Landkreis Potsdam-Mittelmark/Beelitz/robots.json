@@ -2,7 +2,7 @@
   {
     "domain": "beelitz.de",
     "baseUrl": "https://beelitz.de",
-    "updatedAt": "2026-09-28T09:59:59.331Z",
+    "updatedAt": "2026-09-29T10:01:23.115Z",
     "content": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://beelitz.de/sitemap_index.xml\n"
   }
 ]

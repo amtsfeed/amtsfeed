@@ -234,24 +234,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2958601/2026/09/17/blutspe
  ndetermin-in-der-os-am-wehlenteich.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124462@amtsfeed.de
-DTSTAMP:20260922T084038Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/09/28/treffpu
- nkt-bürgertheater.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2124466@amtsfeed.de
-DTSTAMP:20260922T084038Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/09/28/treffpu
- nkt-bürgertheater.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124475@amtsfeed.de
 DTSTAMP:20260923T084549Z
 DTSTART;VALUE=DATE:20260929
@@ -297,6 +279,24 @@ SUMMARY:Lesung mit Bärbel Strecker „Du bist die beste Medizin" (02.​
 URL:https://www.lauchhammer.de/veranstaltungen/2944153/2026/10/02/lesung-
  mit-bärbel-strecker-du-bist-die-beste-medizin-quot-02.10.2026-19-uhr.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124462@amtsfeed.de
+DTSTAMP:20260929T095944Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/10/05/treffpu
+ nkt-bürgertheater.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124466@amtsfeed.de
+DTSTAMP:20260929T095944Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/05/treffpu
+ nkt-bürgertheater.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2398220@amtsfeed.de

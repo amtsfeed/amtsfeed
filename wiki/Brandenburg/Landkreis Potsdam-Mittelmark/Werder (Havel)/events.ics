@@ -5119,8 +5119,8 @@ LOCATION:Heilig-Geist-Kirche
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99168046@amtsfeed.de
-DTSTAMP:20260928T100046Z
-DTSTART:20260928T100046Z
+DTSTAMP:20260929T100151Z
+DTSTART:20260929T100151Z
 SUMMARY:14-Seen-Schiffsfahrt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99168046
@@ -5128,8 +5128,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99223166@amtsfeed.de
-DTSTAMP:20260928T100046Z
-DTSTART:20260928T100046Z
+DTSTAMP:20260929T100151Z
+DTSTART:20260929T100151Z
 SUMMARY:Hautgesundheit nach dem Sommer
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99223166
@@ -5137,8 +5137,8 @@ LOCATION:GaheJuwele
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167743@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260930T103000Z
+DTSTAMP:20260929T100151Z
+DTSTART:20260929T100151Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167743
@@ -5146,8 +5146,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167922@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260930T140000Z
+DTSTAMP:20260929T100151Z
+DTSTART:20260929T100151Z
 SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167922
@@ -5155,8 +5155,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99168040@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20260930T160000Z
+DTSTAMP:20260929T100151Z
+DTSTART:20260929T100151Z
 SUMMARY:Der Sonne hinterher
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99168040
@@ -5681,6 +5681,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99225975@amtsfeed.de
+DTSTAMP:20260929T100151Z
+DTSTART:20261017T100000Z
+SUMMARY:Schlachtefest auf dem Frischemarkt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99225975
+LOCATION:Frischemarkt am Werderpark
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167756@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261017T103000Z
@@ -5927,6 +5936,16 @@ SUMMARY:„UND WEIL DER MENSCH EIN MENSCH IST...“
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99128745
 LOCATION:Kulturkirche Petzow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99225686@amtsfeed.de
+DTSTAMP:20260929T100151Z
+DTSTART:20261024T110000Z
+SUMMARY:Saisonabschlussführung der Gilde der Stadtführer Werder (Havel)
+  e.V.
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99225686
+LOCATION:Insel Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99125706@amtsfeed.de

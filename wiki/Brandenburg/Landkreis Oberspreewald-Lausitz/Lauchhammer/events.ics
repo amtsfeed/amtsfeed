@@ -234,15 +234,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2958601/2026/09/17/blutspe
  ndetermin-in-der-os-am-wehlenteich.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124475@amtsfeed.de
-DTSTAMP:20260923T084549Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
-URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/09/29/chorpro
- be-mit-dem-stadtchor-lauchhammer.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124494@amtsfeed.de
 DTSTAMP:20260925T085847Z
 DTSTART;VALUE=DATE:20261001
@@ -297,6 +288,15 @@ DTEND;VALUE=DATE:20261006
 SUMMARY:Treffpunkt Bürgertheater
 URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/05/treffpu
  nkt-bürgertheater.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124475@amtsfeed.de
+DTSTAMP:20260930T095213Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
+URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/10/06/chorpro
+ be-mit-dem-stadtchor-lauchhammer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2398220@amtsfeed.de

@@ -1395,6 +1395,18 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  ID=2967.7487.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:oranienburg-event-8025@amtsfeed.de
+DTSTAMP:20260930T095152Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20270225
+SUMMARY:Foto-Ausstellung: &raquo\;Schlösser & Herrenhäuser in Brandenbu
+ rg&laquo\;
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Foto-Ausstellung-Schl%C3%B6sser-Herrenh%C3%A4user-in-Brandenburg-.php
+ ?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.8025.1&amp\;NavID=2967.39&
+ amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:oranienburg-event-7437@amtsfeed.de
 DTSTAMP:20260929T095924Z
 DTSTART;VALUE=DATE:20261016
@@ -1403,5 +1415,17 @@ SUMMARY:Klaviermusik im Kerzenschein
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/Klaviermusik-im-Kerzenschein-.php?object=tx\,2967.4&amp\;ModID=11&amp
  \;FID=2967.7437.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7677@amtsfeed.de
+DTSTAMP:20260930T095152Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:&raquo\;Hansi's&laquo\; Flohmarkt: Antik-\, Floh- und Trödelmark
+ t mit Babybasar
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/-Hansi-s-Flohmarkt-Antik-Floh-und-Tr%C3%B6delmarkt-mit-Babybasar.php?
+ object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7677.1&amp\;NavID=2967.39&a
+ mp\;sfreg=1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

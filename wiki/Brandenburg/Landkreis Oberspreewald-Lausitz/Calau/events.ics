@@ -842,15 +842,6 @@ URL:https://www.calau.de/veranstaltungen/2951948/2026/09/26/20.-nachtlauf
  -der-jugendfeuerwehr-zinnitz.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20260925T085845Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:29.09.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/09/29/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
 DTSTAMP:20260925T085845Z
 DTSTART;VALUE=DATE:20260930
@@ -858,6 +849,15 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:30.09.2026   Calauer Museen öffnen
 URL:https://www.calau.de/veranstaltungen/2315266/2026/09/30/calauer-musee
  n-öffnen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20260930T095210Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:01.10.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/10/01/calauer-woche
+ nmarkt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960235@amtsfeed.de
@@ -889,10 +889,10 @@ URL:https://www.calau.de/veranstaltungen/2606463/2026/10/02/barrierefreie
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20260928T095824Z
+DTSTAMP:20260930T095210Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+SUMMARY:03.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
 URL:https://www.calau.de/veranstaltungen/2864723/2026/10/03/flugshow-auf-
  dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
@@ -1079,6 +1079,15 @@ DTEND;VALUE=DATE:20261019
 SUMMARY:Herbstwanderung mit dem NABU und Heimatverein Calau
 URL:https://www.calau.de/veranstaltungen/2975879/2026/10/18/herbstwanderu
  ng-mit-dem-nabu-und-heimatverein-calau.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2976039@amtsfeed.de
+DTSTAMP:20260930T095210Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Abradeln mit dem RSV Calau
+URL:https://www.calau.de/veranstaltungen/2976039/2026/10/18/abradeln-mit-
+ dem-rsv-calau.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838476@amtsfeed.de
@@ -1306,6 +1315,15 @@ URL:https://www.calau.de/veranstaltungen/2838463/2026/11/20/jahresausklan
  g.html
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2976565@amtsfeed.de
+DTSTAMP:20260930T095210Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Blutspendetermin des DRK
+URL:https://www.calau.de/veranstaltungen/2976565/2026/11/24/blutspendeter
+ min-des-drk.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2877138@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART;VALUE=DATE:20261126
@@ -1376,6 +1394,15 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Aktionstag "Kalauer statt Knöllchen"
 URL:https://www.calau.de/veranstaltungen/2964848/2026/12/01/aktionstag-ka
  lauer-statt-knöllchen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2976567@amtsfeed.de
+DTSTAMP:20260930T095210Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Blutspendetermin des DRK
+URL:https://www.calau.de/veranstaltungen/2976567/2026/12/01/blutspendeter
+ min-des-drk.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960239@amtsfeed.de

@@ -1145,6 +1145,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:1. und 3. Etage Rathaus Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1759-20261007@amtsfeed.de
+DTSTAMP:20260930T094732Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:AGIL - Aktiv ins Alter: Mensch ärgere dich nicht! Jetzt anmelden
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/agil-aktiv-ins-alter-mensch-aer
+ gere-dich-nicht-jetzt-anmelden/
+LOCATION:Berliner Straße 83 in Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1748-20261008@amtsfeed.de
 DTSTAMP:20260923T084033Z
 DTSTART;VALUE=DATE:20261008
@@ -1188,11 +1199,22 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, Optikpark
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1756-20261010@amtsfeed.de
+DTSTAMP:20260930T094732Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Abschlusskonzert des Rathenower Gospelworkshops
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/abschlusskonzert-des-rathenower
+ -gospelworkshops/
+LOCATION:St. Marien-Andreaskirche Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1410-20261011@amtsfeed.de
-DTSTAMP:20260911T110748Z
+DTSTAMP:20260930T094732Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-SUMMARY:Herbstfest mit Saisonabschluss 2026
+SUMMARY:Herbstfest zum Saisonabschluss 2026 im OPTIKPARK Rathenow
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/herbstfest-mit-saisonabschluss-
  2026/
@@ -1307,6 +1329,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Schwedendamm 7 Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1761-20261019@amtsfeed.de
+DTSTAMP:20260930T094732Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:AGIL - Aktiv ins Alter: 1000 Schritte! Jetzt anmelden.
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/agil-aktiv-ins-alter-1000-schri
+ tte-jetzt-anmelden/
+LOCATION:Berliner Straße 83 in Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1712-20261020@amtsfeed.de
 DTSTAMP:20260911T110748Z
 DTSTART;VALUE=DATE:20261020
@@ -1316,6 +1349,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/herbstferien-im-optik-industrie
  -museum-rathenow/
 LOCATION:Optik Industrie Museum Rathenow/ Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1762-20261020@amtsfeed.de
+DTSTAMP:20260930T094732Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:AGIL - Aktiv ins Alter: Kreative Bastelstunde! Jetzt anmelden.
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/agil-aktiv-ins-alter-kreative-b
+ astelstunde-jetzt-anmelden/
+LOCATION:Berliner Straße 83 in Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1727-20261021@amtsfeed.de
@@ -1370,6 +1414,40 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/cafe-paris-die-aera-der-goldene
  n-kaffeehausjahre-im-schloss-ribbeck-2/
 LOCATION:Schloss Ribbeck Nauen OT Ribbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1758-20261026@amtsfeed.de
+DTSTAMP:20260930T094732Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:AGIL - Aktiv ins Alter: Männerfrühstück! Jetzt anmelden.
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/agil-aktiv-ins-alter-maennerfru
+ ehstueck-jetzt-anmelden/
+LOCATION:Berliner Straße 83 in Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1757-20261027@amtsfeed.de
+DTSTAMP:20260930T094732Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:AGIL - Aktiv ins Alter: Drums Alive! Jetzt anmelden.
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/agil-aktiv-ins-alter-drums-aliv
+ e-jetzt-anmelden/
+LOCATION:AGIL Sportraum Steinstraße 40 in Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1760-20261028@amtsfeed.de
+DTSTAMP:20260930T094732Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:AGIL - Aktiv ins Alter: Singegruppe "Silberkehlchen" mit Martin M
+ ärz! Jetzt anmelden.
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/agil-aktiv-ins-alter-singegrupp
+ e-silberkehlchen-mit-martin-maerz-jetzt-anmelden/
+LOCATION:Berliner Straße 83 in Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1506-20261031@amtsfeed.de

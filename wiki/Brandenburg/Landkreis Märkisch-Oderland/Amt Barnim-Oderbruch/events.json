@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:42:57.344Z",
+  "updatedAt": "2026-09-30T09:50:19.319Z",
   "items": [
     {
       "id": "ausscheid-der-freiwilligen-feuer-und-jugendwehren-des-amtes-barnim-oderbruch",
@@ -153,6 +153,15 @@
       "description": "ab 19 Uhr in der Sporthalle",
       "fetchedAt": "2026-09-11T09:57:22.115Z",
       "updatedAt": "2026-09-11T11:11:24.857Z"
+    },
+    {
+      "id": "karneval-neulewin",
+      "title": "Karneval Neulewin",
+      "url": "https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/karneval-neulewin",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "description": "13. und 14. November",
+      "fetchedAt": "2026-09-30T09:50:19.309Z",
+      "updatedAt": "2026-09-30T09:50:19.309Z"
     }
   ]
 }

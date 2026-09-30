@@ -318,15 +318,6 @@ URL:https://www.nuthetal.de/veranstaltungen/2930161/2026/09/27/orgelkonze
  rt.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nuthetal-event-2718105@amtsfeed.de
-DTSTAMP:20260923T084743Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
-URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/09/29/unterstüt
- ztes-einkaufen-nahkauf-saarmund.html
-END:VEVENT
-BEGIN:VEVENT
 UID:nuthetal-event-2812871@amtsfeed.de
 DTSTAMP:20260506T123724Z
 DTSTART;VALUE=DATE:20261002
@@ -352,6 +343,15 @@ DTEND;VALUE=DATE:20261006
 SUMMARY:26. Gesundheitswochen Nuthetal
 URL:https://www.nuthetal.de/veranstaltungen/2963628/2026/10/05/26.-gesund
  heitswochen-nuthetal.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2718105@amtsfeed.de
+DTSTAMP:20260930T095356Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
+URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/10/06/unterstüt
+ ztes-einkaufen-nahkauf-saarmund.html
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2945825@amtsfeed.de
@@ -481,6 +481,15 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Lesung mit Sophie Sumburrane
 URL:https://www.nuthetal.de/veranstaltungen/2947242/2026/10/29/lesung-mit
  -sophie-sumburrane.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2976779@amtsfeed.de
+DTSTAMP:20260930T095356Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Das Kaninchen bin ich
+URL:https://www.nuthetal.de/veranstaltungen/2976779/2026/10/30/das-kaninc
+ hen-bin-ich.html
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2945865@amtsfeed.de

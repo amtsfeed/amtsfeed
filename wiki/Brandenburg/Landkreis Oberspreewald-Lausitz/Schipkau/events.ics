@@ -429,6 +429,16 @@ DESCRIPTION:An alle kleiner & größeren Pferdefreunde! Dieses Jahr veran
 LOCATION:Villa Birkenhain
 END:VEVENT
 BEGIN:VEVENT
+UID:schipkau-event-2976143@amtsfeed.de
+DTSTAMP:20260930T095219Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Fahrzeugweihe und Oktoberfest in Schipkau
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2976143/2026/10/03/f
+ ahrzeugweihe-und-oktoberfest-in-schipkau.html
+LOCATION:Gemeinde Schipkau
+END:VEVENT
+BEGIN:VEVENT
 UID:schipkau-event-2899714@amtsfeed.de
 DTSTAMP:20260531T184203Z
 DTSTART;VALUE=DATE:20261004
@@ -568,6 +578,16 @@ DESCRIPTION:🎃 Halloweenkonzert der Musikschule OSL 🎶 Freuen Sie sic
 LOCATION:Bürgerzentrum Schipkau
 END:VEVENT
 BEGIN:VEVENT
+UID:schipkau-event-2976545@amtsfeed.de
+DTSTAMP:20260930T095219Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Gruselpfad 2026
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2976545/2026/11/07/g
+ ruselpfad-2026.html
+LOCATION:Hörlitz
+END:VEVENT
+BEGIN:VEVENT
 UID:schipkau-event-2967420@amtsfeed.de
 DTSTAMP:20260915T084939Z
 DTSTART;VALUE=DATE:20261111
@@ -590,6 +610,16 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2967417/2026/11/14/h
 DESCRIPTION:Mit unserem „Heißen Samstag“ steht die erste Abendverans
  taltung der 79. Saison auf dem ...
 LOCATION:Clubhaus Annahütte
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-2976168@amtsfeed.de
+DTSTAMP:20260930T095219Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:"Heißer Samstag" mit dem KCA
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2976168/2026/11/14/h
+ eißer-samstag-mit-dem-kca.html
+LOCATION:Gemeinde Schipkau
 END:VEVENT
 BEGIN:VEVENT
 UID:schipkau-event-2959376@amtsfeed.de
@@ -788,5 +818,35 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2967413/2027/01/29/m
 DESCRIPTION:Wenn der KCA 48 durch 16 Länder reist\, darf natürlich auch
   das heimliche 17. Bundesland nicht ...
 LOCATION:Clubhaus Annahütte
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-2976174@amtsfeed.de
+DTSTAMP:20260930T095219Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Party mit dem KCA
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2976174/2027/01/29/p
+ arty-mit-dem-kca.html
+LOCATION:Klettwitz
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-2976175@amtsfeed.de
+DTSTAMP:20260930T095219Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Umzug durch Annahütte / Seniorenkarneval
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2976175/2027/01/30/u
+ mzug-durch-annahütte-seniorenkarneval.html
+LOCATION:Klettwitz
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-2976177@amtsfeed.de
+DTSTAMP:20260930T095219Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Brigardekarneval
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2976177/2027/02/05/b
+ rigardekarneval.html
+LOCATION:Klettwitz
 END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,97 @@
 # Updates
 
+## 2026-09-30 09:54
+
+Insgesamt **270 neu**, **445 aktualisiert**, **1 entfernt** in 85 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | +5 / ~1 | — | — |
+| Altlandsberg | +1 | — | — | — |
+| Amt Altdöbern | — | — | +1 | — |
+| Amt Barnim-Oderbruch | +1 | +1 | — | — |
+| Amt Beetzsee | +1 | — | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Britz-Chorin-Oderberg | — | +4 | — | — |
+| Amt Friesack | +1 | — | — | — |
+| Amt Kleine Elster (Niederlausitz) | — | — | +1 | — |
+| Amt Lebus | — | ~3 | — | — |
+| Amt Nennhausen | +1 | +1 | — | — |
+| Amt Neuzelle | +2 | +2 | — | — |
+| Amt Niemegk | — | +2 / ~1 | — | — |
+| Amt Rhinow | +1 | +8 | — | — |
+| Amt Ruhland | — | +1 | — | — |
+| Amt Scharmützelsee | — | -1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +1 / ~4 | — | — |
+| Amt Schenkenländchen | — | +2 | — | — |
+| Amt Schlaubetal | ~1 | — | — | — |
+| Amt Schradenland | +1 | — | — | — |
+| Amt Spreenhagen | — | +2 | — | — |
+| Amt Wusterwitz | — | — | — | +2 |
+| Amt Ziesar | +2 | — | — | ~24 |
+| Bad Belzig | +3 | — | — | — |
+| Bad Freienwalde (Oder) | +1 | ~2 | — | — |
+| Bernau bei Berlin | — | +4 / ~25 | — | — |
+| Brieselang | +5 | ~1 | — | — |
+| Calau | — | +3 / ~2 | — | — |
+| Dallgow-Döberitz | — | +2 | — | — |
+| Doberlug-Kirchhain | — | +4 | — | — |
+| Eberswalde | +3 | +1 | — | — |
+| Eichwalde | — | +1 | — | — |
+| Eisenhüttenstadt | — | +1 / ~8 | — | — |
+| Elsterwerda | ~2 | +2 | — | — |
+| Erkner | +2 | — | — | — |
+| Falkensee | +1 | +1 | — | — |
+| Friedland | — | ~2 | +1 | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Fürstenwalde-Spree | +2 / ~1 | +3 | — | — |
+| Groß Kreutz | — | ~26 | — | — |
+| Großräschen | +1 | +1 | — | — |
+| Heideblick | — | — | — | +3 |
+| Hennigsdorf | +2 | — | — | — |
+| Herzberg (Elster) | — | ~1 | — | — |
+| Hohen Neuendorf | +3 | ~1 | — | — |
+| Hoppegarten | — | +1 | — | — |
+| Ketzin Havel | +1 | — | — | — |
+| Kleinmachnow | — | +1 | — | — |
+| Kremmen | — | +3 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | +3 | ~1 | +1 | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | +1 | +13 | — | — |
+| Lauchhammer | +1 | ~1 | — | — |
+| Löwenberger Land | +3 | — | — | — |
+| Luckau | +1 | — | — | — |
+| Michendorf | — | +2 / ~2 | — | — |
+| Mittenwalde | +2 | — | — | — |
+| Mühlenbecker Land | ~1 | +5 | — | — |
+| Nauen | — | +10 | — | — |
+| Nuthetal | — | +1 / ~1 | — | — |
+| Oberkrämer | — | +6 / ~1 | — | ~1 |
+| Oderbruch / Amt Seelow-Land | +4 | +1 | +1 | — |
+| Oderbruch / Amt Seelow-Land / Friedersdorf | — | +1 | — | — |
+| Oranienburg | +1 | +2 | — | +1 |
+| Premnitz | +1 | +32 | — | — |
+| Rathenow | +5 | +7 / ~1 | — | +1 |
+| Schipkau | +1 | +6 | — | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schönwalde-Glien | +1 | — | — | — |
+| Schulzendorf | — | +1 | — | — |
+| Schwarzheide | — | — | — | +1 / ~272 |
+| Schwielowsee | — | +6 | +1 | +2 / ~2 |
+| Seddiner See | +2 | — | — | — |
+| Senftenberg | — | +6 | — | — |
+| Sonnewalde | ~4 | — | — | — |
+| Strausberg | +1 | — | — | — |
+| Tauche | — | +1 | — | — |
+| Teltow | — | +8 / ~1 | — | — |
+| Velten | +2 | +1 | — | — |
+| Verbandsgemeinde Bad Liebenwerda | +1 | +11 | — | +1 |
+| Wandlitz | — | +1 | — | — |
+| Werder (Havel) | +1 | +6 / ~8 | — | — |
+| Werneuchen | — | +1 | — | — |
+| Wiesenburg-Mark | — | ~4 | — | — |
+| Wildau | +1 | — | — | — |
+| Wustermark | +1 | — | — | — |
+
 ## 2026-09-29 10:02
 
 Insgesamt **480 neu**, **163 aktualisiert**, **0 entfernt** in 69 Quellen.

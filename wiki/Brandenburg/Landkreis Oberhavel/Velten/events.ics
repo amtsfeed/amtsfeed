@@ -868,6 +868,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Herbst
  ID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1194@amtsfeed.de
+DTSTAMP:20260930T095155Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Benefizkonzert mit DREGEV
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Benefi
+ zkonzert-mit-DREGEV.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1
+ 194.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-1079@amtsfeed.de
 DTSTAMP:20260920T084519Z
 DTSTART;VALUE=DATE:20261011

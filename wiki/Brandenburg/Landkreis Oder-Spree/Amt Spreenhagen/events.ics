@@ -862,6 +862,17 @@ URL:https://www.amt-spreenhagen.de/veranstaltungen/2888707/2026/11/19/let
 LOCATION:Gemeinde Spreenhagen
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2976101-2026-11-21-backen-basteln-so-duftet-weihnacht
+ en.html@amtsfeed.de
+DTSTAMP:20260930T095245Z
+DTSTART:20261121T130000Z
+DTEND:20261121T170000Z
+SUMMARY:Backen & Basteln\, so duftet Weihnachten
+URL:https://www.amt-spreenhagen.de/veranstaltungen/2976101/2026/11/21/bac
+ ken-basteln-so-duftet-weihnachten.html
+LOCATION:Gemeinde Spreenhagen
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2888711-2026-11-24-kreativ-werkstatt-zeit-für-deine-
  ideen.html@amtsfeed.de
 DTSTAMP:20260506T081811Z
@@ -1843,6 +1854,16 @@ DTEND:20270928T200000Z
 SUMMARY:Kreativ Werkstatt - Zeit für Deine Ideen
 URL:https://www.amt-spreenhagen.de/veranstaltungen/2888711/2027/09/28/kre
  ativ-werkstatt-zeit-für-deine-ideen.html
+LOCATION:Gemeinde Spreenhagen
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2888707-2027-09-30-let-s-linedance.html@amtsfeed.de
+DTSTAMP:20260930T095245Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Let's Linedance!
+URL:https://www.amt-spreenhagen.de/veranstaltungen/2888707/2027/09/30/let
+ -s-linedance.html
 LOCATION:Gemeinde Spreenhagen
 END:VEVENT
 END:VCALENDAR

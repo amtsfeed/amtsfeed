@@ -932,6 +932,14 @@ URL:https://www.doberlug-kirchhain.de/veranstaltungen/2875628/2026/11/03/
  hubertusandacht-für-liebhaber-von-wald-jagd-musik.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2976111@amtsfeed.de
+DTSTAMP:20260930T094625Z
+DTSTART:20261110T170000Z
+SUMMARY:Martinsfest in Kirchhain
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2976111/2026/11/10/
+ martinsfest-in-kirchhain.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2893357@amtsfeed.de
 DTSTAMP:20260911T110714Z
 DTSTART:20261112T190000Z
@@ -1002,6 +1010,22 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Werenzhainer Weihnachtsbasar
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2830657/2026/11/28/
  werenzhainer-weihnachtsbasar.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2976113@amtsfeed.de
+DTSTAMP:20260930T094625Z
+DTSTART:20261128T160000Z
+SUMMARY:Adventskonzert am Vorabend zum 1. Advent
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2976113/2026/11/28/
+ adventskonzert-am-vorabend-zum-1.-advent.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2976109@amtsfeed.de
+DTSTAMP:20260930T094625Z
+DTSTART:20261129T170000Z
+SUMMARY:Adventsbläserkonzert mit Andacht zum 1. Advent
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2976109/2026/11/29/
+ adventsbläserkonzert-mit-andacht-zum-1.-advent.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2964967@amtsfeed.de
@@ -1250,6 +1274,15 @@ DTEND;VALUE=DATE:20270828
 SUMMARY:"100 Jahre Bad Erna- Gemeinsam" Festwochenende im Waldbad Erna
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2959935/2027/08/27/
  100-jahre-bad-erna-gemeinsam-festwochenende-im-waldbad-erna.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2976115@amtsfeed.de
+DTSTAMP:20260930T094625Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Naturparkfest in Werenzhain
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2976115/2027/09/02/
+ naturparkfest-in-werenzhain.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2960874@amtsfeed.de

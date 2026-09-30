@@ -839,6 +839,16 @@ URL:https://www.kremmen.de/veranstaltungen/2969997/2026/10/03/konzert-mit
 LOCATION:Sana Kliniken Sommerfeld
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2976765@amtsfeed.de
+DTSTAMP:20260930T095137Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Frühstück in Sommerfeld im Caf&eacute\; am Bahnhof
+URL:https://www.kremmen.de/veranstaltungen/2976765/2026/10/03/frühstück
+ -in-sommerfeld-im-café-am-bahnhof.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2941607@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20261004
@@ -877,6 +887,16 @@ SUMMARY:Erntedankfest in Beetz
 URL:https://www.kremmen.de/veranstaltungen/2968873/2026/10/11/erntedankfe
  st-in-beetz.html
 LOCATION:Kirche Beetz
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2976768@amtsfeed.de
+DTSTAMP:20260930T095137Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Frühstück am Bahnhof in Sommerfeld
+URL:https://www.kremmen.de/veranstaltungen/2976768/2026/10/11/frühstück
+ -am-bahnhof-in-sommerfeld.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2911520@amtsfeed.de
@@ -936,6 +956,16 @@ DTEND;VALUE=DATE:20261018
 SUMMARY:Waffelwochenende
 URL:https://www.kremmen.de/veranstaltungen/2954040/2026/10/17/waffelwoche
  nende.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2976770@amtsfeed.de
+DTSTAMP:20260930T095137Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Frühstücken in Sommerfeld
+URL:https://www.kremmen.de/veranstaltungen/2976770/2026/10/17/frühstück
+ en-in-sommerfeld.html
 LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
 END:VEVENT
 BEGIN:VEVENT

@@ -1017,24 +1017,6 @@ URL:https://www.michendorf.de/veranstaltungen/2938764/2026/09/27/der-dres
  sierte-mann.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959538@amtsfeed.de
-DTSTAMP:20260923T084740Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959538/2026/09/29/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
-UID:michendorf-event-2798286@amtsfeed.de
-DTSTAMP:20260916T084625Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Trauercaf&eacute\;
-URL:https://www.michendorf.de/veranstaltungen/2798286/2026/09/29/trauerca
- fé.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2938926@amtsfeed.de
 DTSTAMP:20260911T111336Z
 DTSTART;VALUE=DATE:20260929
@@ -1114,6 +1096,15 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:Benefizkonzert für Celloquartett und Sopran
 URL:https://www.michendorf.de/veranstaltungen/2961738/2026/10/04/benefizk
  onzert-für-celloquartett-und-sopran.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959538@amtsfeed.de
+DTSTAMP:20260930T095353Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959538/2026/10/06/jugendcl
+ ub-micheck-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2960790@amtsfeed.de
@@ -1222,6 +1213,15 @@ DTEND;VALUE=DATE:20261013
 SUMMARY:Lymphdrainage &amp\; AtemAchtsamkeit
 URL:https://www.michendorf.de/veranstaltungen/2961734/2026/10/12/lymphdra
  inage-amp-atemachtsamkeit.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2798286@amtsfeed.de
+DTSTAMP:20260930T095353Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Trauercaf&eacute\;
+URL:https://www.michendorf.de/veranstaltungen/2798286/2026/10/13/trauerca
+ fé.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2923241@amtsfeed.de
@@ -1452,6 +1452,15 @@ URL:https://www.michendorf.de/veranstaltungen/2884834/2026/11/19/offener-
  bürgerdialog.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2976342@amtsfeed.de
+DTSTAMP:20260930T095353Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Internationaler Tag zur Beseitigung der Gewalt gegen Frauen
+URL:https://www.michendorf.de/veranstaltungen/2976342/2026/11/25/internat
+ ionaler-tag-zur-beseitigung-der-gewalt-gegen-frauen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2785539@amtsfeed.de
 DTSTAMP:20260506T123001Z
 DTSTART;VALUE=DATE:20261126
@@ -1495,6 +1504,15 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Nikolauslauf
 URL:https://www.michendorf.de/veranstaltungen/2785927/2026/12/06/nikolaus
  lauf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2976778@amtsfeed.de
+DTSTAMP:20260930T095353Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Kinderfilmfest 2026
+URL:https://www.michendorf.de/veranstaltungen/2976778/2026/12/14/kinderfi
+ lmfest-2026.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2959134@amtsfeed.de

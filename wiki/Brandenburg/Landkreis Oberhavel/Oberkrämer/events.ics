@@ -286,15 +286,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2962214/2026/09/28/erste-e
  lternkonferenz.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855686@amtsfeed.de
-DTSTAMP:20260923T084524Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Seniorentanzgruppe "Spätlese"
-URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/09/29/seniore
- ntanzgruppe-spätlese.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2962215@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20260929
@@ -349,6 +340,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2935367/2026/09/30/gong-ab
  end.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2976142@amtsfeed.de
+DTSTAMP:20260930T095150Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Singen mit den Vehlefanzer Amseln
+URL:https://www.oberkraemer.de/veranstaltungen/2976142/2026/09/30/singen-
+ mit-den-vehlefanzer-amseln.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855733@amtsfeed.de
 DTSTAMP:20260925T085822Z
 DTSTART;VALUE=DATE:20261001
@@ -383,6 +383,24 @@ DTEND;VALUE=DATE:20261002
 SUMMARY:Tafelrunde
 URL:https://www.oberkraemer.de/veranstaltungen/2909881/2026/10/01/tafelru
  nde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2976147@amtsfeed.de
+DTSTAMP:20260930T095150Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Nordic-Walking
+URL:https://www.oberkraemer.de/veranstaltungen/2976147/2026/10/01/nordic-
+ walking.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2976151@amtsfeed.de
+DTSTAMP:20260930T095150Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Fotogruppe Blende 7
+URL:https://www.oberkraemer.de/veranstaltungen/2976151/2026/10/01/fotogru
+ ppe-blende-7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855745@amtsfeed.de
@@ -437,6 +455,33 @@ DTEND;VALUE=DATE:20261006
 SUMMARY:Elterngespräche\, Klasse 1
 URL:https://www.oberkraemer.de/veranstaltungen/2962217/2026/10/05/elterng
  espräche-klasse-1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2976120@amtsfeed.de
+DTSTAMP:20260930T095150Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:"Die Montagshelden" Gymnastik & Bewegung
+URL:https://www.oberkraemer.de/veranstaltungen/2976120/2026/10/05/die-mon
+ tagshelden-gymnastik-bewegung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2976135@amtsfeed.de
+DTSTAMP:20260930T095150Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Kartenspielen - Romm&eacute\;
+URL:https://www.oberkraemer.de/veranstaltungen/2976135/2026/10/05/kartens
+ pielen-rommé.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855686@amtsfeed.de
+DTSTAMP:20260930T095150Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Seniorentanzgruppe "Spätlese"
+URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/06/seniore
+ ntanzgruppe-spätlese.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2935369@amtsfeed.de
@@ -637,6 +682,15 @@ DTEND;VALUE=DATE:20261021
 SUMMARY:Frauenfrühstück in Vehlefanz - Notfalltraining
 URL:https://www.oberkraemer.de/veranstaltungen/2855874/2026/10/20/frauenf
  rühstück-in-vehlefanz-notfalltraining.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2976137@amtsfeed.de
+DTSTAMP:20260930T095150Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Fotogruppe Blende 7
+URL:https://www.oberkraemer.de/veranstaltungen/2976137/2026/10/20/fotogru
+ ppe-blende-7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2891496@amtsfeed.de

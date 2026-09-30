@@ -1306,6 +1306,25 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/021
 LOCATION:Café Mediterrano
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-02102026-tango-clandestino-im-café-mediterrano-jeden-fre
+ itag-20261002@amtsfeed.de
+DTSTAMP:20260930T094720Z
+DTSTART:20261002T150000Z
+SUMMARY:Tango Clandestino im Café Mediterrano
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/021
+ 02026-tango-clandestino-im-café-mediterrano-jeden-freitag/
+LOCATION:Café Mediterrano
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-szenische-fuehrung-in-ribbeck-sa-20261003@amtsfeed.de
+DTSTAMP:20260930T094720Z
+DTSTART:20261003T120000Z
+SUMMARY:Szenische Führung in Ribbeck
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/sze
+ nische-fuehrung-in-ribbeck-sa/
+LOCATION:Kirche Ribbeck
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-04102026-sonntags-brunch-im-schloss-ribbeck-20261004@amts
  feed.de
 DTSTAMP:20260917T084421Z
@@ -1314,6 +1333,33 @@ SUMMARY:Sonntags-Brunch im Schloss Ribbeck
 URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/041
  02026-sonntags-brunch-im-schloss-ribbeck/
 LOCATION:Schloss Ribbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-szenische-fuehrung-in-ribbeck-so-20261004@amtsfeed.de
+DTSTAMP:20260930T094720Z
+DTSTART:20261004T120000Z
+SUMMARY:Szenische Führung in Ribbeck
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/sze
+ nische-fuehrung-in-ribbeck-so/
+LOCATION:Kirche Ribbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-kinder-yoga-gr-1-20261005@amtsfeed.de
+DTSTAMP:20260930T094720Z
+DTSTART:20261005T130000Z
+SUMMARY:Workshop Kinderyoga 6-9 Jahre
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/kin
+ der-yoga-gr-1/
+LOCATION:Familien- und Generationenzentrum FGZ
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-kinder-yoga-gr-2-20261005@amtsfeed.de
+DTSTAMP:20260930T094720Z
+DTSTART:20261005T140000Z
+SUMMARY:Workshop Kinderyoga 9-12 Jahre
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/kin
+ der-yoga-gr-2/
+LOCATION:Familien- und Generationenzentrum FGZ
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-07102026-sportgruppe-fuer-senioren-jeden-mittwoch-gr-1-20
@@ -1394,6 +1440,16 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/091
 LOCATION:Sägewerksplatz
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-09102026-tango-clandestino-im-café-mediterrano-jeden-fre
+ itag-20261009@amtsfeed.de
+DTSTAMP:20260930T094720Z
+DTSTART:20261009T150000Z
+SUMMARY:Tango Clandestino im Café Mediterrano
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/091
+ 02026-tango-clandestino-im-café-mediterrano-jeden-freitag/
+LOCATION:Café Mediterrano
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-10102026-kreativmarkt-20261009@amtsfeed.de
 DTSTAMP:20260531T141402Z
 DTSTART:20261009T220000Z
@@ -1466,6 +1522,16 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/131
 LOCATION:Schlossgarten Ribbeck
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-15102026-frischemarkt-auf-dem-nauener-rathausplatz-202610
+ 15@amtsfeed.de
+DTSTAMP:20260930T094720Z
+DTSTART:20261015T060000Z
+SUMMARY:Frischemarkt auf dem Nauener Rathausplatz
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/151
+ 02026-frischemarkt-auf-dem-nauener-rathausplatz/
+LOCATION:Rathausplatz
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-15102026-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten
  -donnerstag-im-monat-20261015@amtsfeed.de
 DTSTAMP:20260911T110742Z
@@ -1487,6 +1553,16 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/151
 LOCATION:Nachbarschaftsgarten "Grünes Eck"
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-16102026-tango-clandestino-im-café-mediterrano-jeden-fre
+ itag-20261016@amtsfeed.de
+DTSTAMP:20260930T094720Z
+DTSTART:20261016T150000Z
+SUMMARY:Tango Clandestino im Café Mediterrano
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/161
+ 02026-tango-clandestino-im-café-mediterrano-jeden-freitag/
+LOCATION:Café Mediterrano
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-17102026-nauen-putzt-sich-gemeinsam-fuer-eine-saubere-sta
  dt-20261017@amtsfeed.de
 DTSTAMP:20260929T095509Z
@@ -1495,6 +1571,26 @@ SUMMARY:„Nauen putzt sich“ – Gemeinsam für eine saubere Stadt
 URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/171
  02026-nauen-putzt-sich-gemeinsam-fuer-eine-saubere-stadt/
 LOCATION:Rathausplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-221026-frischemarkt-auf-dem-nauener-rathausplatz-20261022
+ @amtsfeed.de
+DTSTAMP:20260930T094720Z
+DTSTART:20261022T060000Z
+SUMMARY:Frischemarkt auf dem Nauener Rathausplatz
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/221
+ 026-frischemarkt-auf-dem-nauener-rathausplatz/
+LOCATION:Rathausplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-23102026-tango-clandestino-im-café-mediterrano-jeden-fre
+ itag-20261023@amtsfeed.de
+DTSTAMP:20260930T094720Z
+DTSTART:20261023T150000Z
+SUMMARY:Tango Clandestino im Café Mediterrano
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/231
+ 02026-tango-clandestino-im-café-mediterrano-jeden-freitag/
+LOCATION:Café Mediterrano
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-27102026-spiele-und-basteln-fuer-senioren-jeden-letzten-d

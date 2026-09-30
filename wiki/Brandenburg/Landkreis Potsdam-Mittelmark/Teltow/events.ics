@@ -1212,15 +1212,6 @@ URL:https://www.teltow.de/veranstaltungen/2924786/2026/09/28/skatrunde.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930015@amtsfeed.de
-DTSTAMP:20260923T084802Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen
-URL:https://www.teltow.de/veranstaltungen/2930015/2026/09/29/offener-lern
- raum-lesen-schreiben-rechnen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2924789@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260929
@@ -1309,6 +1300,15 @@ DTEND;VALUE=DATE:20261006
 SUMMARY:Spielegruppe
 URL:https://www.teltow.de/veranstaltungen/2971718/2026/10/05/spielegruppe
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930015@amtsfeed.de
+DTSTAMP:20260930T095404Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen
+URL:https://www.teltow.de/veranstaltungen/2930015/2026/10/06/offener-lern
+ raum-lesen-schreiben-rechnen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2971722@amtsfeed.de
@@ -1568,6 +1568,15 @@ URL:https://www.teltow.de/veranstaltungen/2972116/2026/10/28/sportgruppe.
  html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2976238@amtsfeed.de
+DTSTAMP:20260930T095404Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Jeder Tropfen zählt!
+URL:https://www.teltow.de/veranstaltungen/2976238/2026/10/28/jeder-tropfe
+ n-zählt.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2972117@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261029
@@ -1739,6 +1748,15 @@ URL:https://www.teltow.de/veranstaltungen/2972232/2026/11/12/spielnachmit
  tag.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2976260@amtsfeed.de
+DTSTAMP:20260930T095404Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Die Goldenen 20er
+URL:https://www.teltow.de/veranstaltungen/2976260/2026/11/13/die-goldenen
+ -20er.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2972405@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261114
@@ -1746,6 +1764,15 @@ DTEND;VALUE=DATE:20261115
 SUMMARY:Pflanzung eines neuen Tiny Forrest
 URL:https://www.teltow.de/veranstaltungen/2972405/2026/11/14/pflanzung-ei
  nes-neuen-tiny-forrest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2976308@amtsfeed.de
+DTSTAMP:20260930T095404Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Die Goldenen 20er
+URL:https://www.teltow.de/veranstaltungen/2976308/2026/11/14/die-goldenen
+ -20er.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972978@amtsfeed.de
@@ -2142,5 +2169,50 @@ DTEND;VALUE=DATE:20261221
 SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
 URL:https://www.teltow.de/veranstaltungen/2972989/2026/12/20/das-heimatmu
  seum-im-ältesten-haus-teltows-ist-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2976312@amtsfeed.de
+DTSTAMP:20260930T095404Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Die Goldenen 20er
+URL:https://www.teltow.de/veranstaltungen/2976312/2027/01/30/die-goldenen
+ -20er.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2976315@amtsfeed.de
+DTSTAMP:20260930T095404Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Die Goldenen 20er
+URL:https://www.teltow.de/veranstaltungen/2976315/2027/01/31/die-goldenen
+ -20er.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2976317@amtsfeed.de
+DTSTAMP:20260930T095404Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Die Goldenen 20er
+URL:https://www.teltow.de/veranstaltungen/2976317/2027/02/05/die-goldenen
+ -20er.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2976318@amtsfeed.de
+DTSTAMP:20260930T095404Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Die Goldenen 20er
+URL:https://www.teltow.de/veranstaltungen/2976318/2027/02/06/die-goldenen
+ -20er.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2976320@amtsfeed.de
+DTSTAMP:20260930T095404Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Die Goldenen 20er
+URL:https://www.teltow.de/veranstaltungen/2976320/2027/02/08/die-goldenen
+ -20er.html
 END:VEVENT
 END:VCALENDAR

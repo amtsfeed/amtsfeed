@@ -485,15 +485,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  hilfe-fur-handy-und-pc
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-kirchenchorprobe@amtsfeed.de
-DTSTAMP:20260927T092412Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Kirchenchorprobe
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- kirchenchorprobe
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-miteinander-reden@amtsfeed.de
 DTSTAMP:20260927T092412Z
 DTSTART;VALUE=DATE:20260930
@@ -538,5 +529,14 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:Mach-Mit-Fit
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  mach-mit-fit-21
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-kirchenchorprobe@amtsfeed.de
+DTSTAMP:20260930T095135Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Kirchenchorprobe
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ kirchenchorprobe
 END:VEVENT
 END:VCALENDAR

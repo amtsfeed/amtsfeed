@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T09:59:40.844Z",
+  "updatedAt": "2026-09-30T09:52:10.015Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -746,20 +746,20 @@
       "updatedAt": "2026-09-25T08:58:45.166Z"
     },
     {
-      "id": "calau-event-2290342",
-      "title": "29.09.2026   Calauer Wochenmarkt",
-      "url": "https://www.calau.de/veranstaltungen/2290342/2026/09/29/calauer-wochenmarkt.html",
-      "startDate": "2026-09-29T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-09-25T08:58:45.166Z"
-    },
-    {
       "id": "calau-event-2315266",
       "title": "30.09.2026   Calauer Museen öffnen",
       "url": "https://www.calau.de/veranstaltungen/2315266/2026/09/30/calauer-museen-öffnen.html",
       "startDate": "2026-09-30T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
       "updatedAt": "2026-09-25T08:58:45.166Z"
+    },
+    {
+      "id": "calau-event-2290342",
+      "title": "01.10.2026   Calauer Wochenmarkt",
+      "url": "https://www.calau.de/veranstaltungen/2290342/2026/10/01/calauer-wochenmarkt.html",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-09-30T09:52:10.003Z"
     },
     {
       "id": "calau-event-2960235",
@@ -787,11 +787,11 @@
     },
     {
       "id": "calau-event-2864723",
-      "title": "Flugshow auf dem Adler- und Jagdfalkenhof Werchow",
+      "title": "03.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow",
       "url": "https://www.calau.de/veranstaltungen/2864723/2026/10/03/flugshow-auf-dem-adler-und-jagdfalkenhof-werchow.html",
       "startDate": "2026-10-03T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-09-28T09:58:24.866Z"
+      "updatedAt": "2026-09-30T09:52:10.003Z"
     },
     {
       "id": "calau-event-2975412",
@@ -952,6 +952,14 @@
       "startDate": "2026-10-18T00:00:00.000Z",
       "fetchedAt": "2026-09-29T09:59:40.834Z",
       "updatedAt": "2026-09-29T09:59:40.834Z"
+    },
+    {
+      "id": "calau-event-2976039",
+      "title": "Abradeln mit dem RSV Calau",
+      "url": "https://www.calau.de/veranstaltungen/2976039/2026/10/18/abradeln-mit-dem-rsv-calau.html",
+      "startDate": "2026-10-18T00:00:00.000Z",
+      "fetchedAt": "2026-09-30T09:52:10.003Z",
+      "updatedAt": "2026-09-30T09:52:10.003Z"
     },
     {
       "id": "calau-event-2838476",
@@ -1154,6 +1162,14 @@
       "updatedAt": "2026-09-11T11:12:29.188Z"
     },
     {
+      "id": "calau-event-2976565",
+      "title": "Blutspendetermin des DRK",
+      "url": "https://www.calau.de/veranstaltungen/2976565/2026/11/24/blutspendetermin-des-drk.html",
+      "startDate": "2026-11-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-30T09:52:10.003Z",
+      "updatedAt": "2026-09-30T09:52:10.003Z"
+    },
+    {
       "id": "calau-event-2877138",
       "title": "Adventsbasteln",
       "url": "https://www.calau.de/veranstaltungen/2877138/2026/11/26/adventsbasteln.html",
@@ -1216,6 +1232,14 @@
       "startDate": "2026-12-01T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-09-11T11:12:29.188Z"
+    },
+    {
+      "id": "calau-event-2976567",
+      "title": "Blutspendetermin des DRK",
+      "url": "https://www.calau.de/veranstaltungen/2976567/2026/12/01/blutspendetermin-des-drk.html",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-30T09:52:10.003Z",
+      "updatedAt": "2026-09-30T09:52:10.003Z"
     },
     {
       "id": "calau-event-2960239",

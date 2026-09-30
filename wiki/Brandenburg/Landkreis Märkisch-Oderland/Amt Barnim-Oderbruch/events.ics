@@ -177,4 +177,14 @@ URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/neul
  ewiner-oktoberfest
 DESCRIPTION:ab 19 Uhr in der Sporthalle
 END:VEVENT
+BEGIN:VEVENT
+UID:karneval-neulewin@amtsfeed.de
+DTSTAMP:20260930T095019Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Karneval Neulewin
+URL:https://www.barnim-oderbruch.de/aktuelles/veranstaltungen/detail/karn
+ eval-neulewin
+DESCRIPTION:13. und 14. November
+END:VEVENT
 END:VCALENDAR

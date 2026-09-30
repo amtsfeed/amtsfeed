@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:59:00.719Z",
+  "updatedAt": "2026-09-30T09:52:45.734Z",
   "items": [
     {
       "id": "veranstaltungen-2798415-2025-11-26-termine-fahrbibliothek-2026-hartmannsdorf.html",
@@ -762,6 +762,16 @@
       "location": "Gemeinde Spreenhagen",
       "fetchedAt": "2026-05-06T08:18:11.581Z",
       "updatedAt": "2026-05-06T08:18:11.581Z"
+    },
+    {
+      "id": "veranstaltungen-2976101-2026-11-21-backen-basteln-so-duftet-weihnachten.html",
+      "title": "Backen & Basteln, so duftet Weihnachten",
+      "url": "https://www.amt-spreenhagen.de/veranstaltungen/2976101/2026/11/21/backen-basteln-so-duftet-weihnachten.html",
+      "startDate": "2026-11-21T13:00:00.000Z",
+      "endDate": "2026-11-21T17:00:00.000Z",
+      "location": "Gemeinde Spreenhagen",
+      "fetchedAt": "2026-09-30T09:52:45.727Z",
+      "updatedAt": "2026-09-30T09:52:45.727Z"
     },
     {
       "id": "veranstaltungen-2888711-2026-11-24-kreativ-werkstatt-zeit-für-deine-ideen.html",
@@ -1650,6 +1660,15 @@
       "location": "Gemeinde Spreenhagen",
       "fetchedAt": "2026-09-28T09:59:00.712Z",
       "updatedAt": "2026-09-28T09:59:00.712Z"
+    },
+    {
+      "id": "veranstaltungen-2888707-2027-09-30-let-s-linedance.html",
+      "title": "Let's Linedance!",
+      "url": "https://www.amt-spreenhagen.de/veranstaltungen/2888707/2027/09/30/let-s-linedance.html",
+      "startDate": "2027-09-30T00:00:00.000Z",
+      "location": "Gemeinde Spreenhagen",
+      "fetchedAt": "2026-09-30T09:52:45.727Z",
+      "updatedAt": "2026-09-30T09:52:45.727Z"
     }
   ]
 }

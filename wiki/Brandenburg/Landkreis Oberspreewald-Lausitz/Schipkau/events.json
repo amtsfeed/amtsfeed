@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:37:40.026Z",
+  "updatedAt": "2026-09-30T09:52:19.472Z",
   "items": [
     {
       "id": "schipkau-event-2905379",
@@ -365,6 +365,15 @@
       "updatedAt": "2026-09-11T11:12:36.607Z"
     },
     {
+      "id": "schipkau-event-2976143",
+      "title": "Fahrzeugweihe und Oktoberfest in Schipkau",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2976143/2026/10/03/fahrzeugweihe-und-oktoberfest-in-schipkau.html",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "location": "Gemeinde Schipkau",
+      "fetchedAt": "2026-09-30T09:52:19.459Z",
+      "updatedAt": "2026-09-30T09:52:19.459Z"
+    },
+    {
       "id": "schipkau-event-2899714",
       "title": "Grip - Das Motorevent 2026",
       "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2899714/2026/10/04/grip-das-motorevent-2026.html",
@@ -483,6 +492,15 @@
       "updatedAt": "2026-09-24T08:37:40.014Z"
     },
     {
+      "id": "schipkau-event-2976545",
+      "title": "Gruselpfad 2026",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2976545/2026/11/07/gruselpfad-2026.html",
+      "startDate": "2026-11-07T00:00:00.000Z",
+      "location": "Hörlitz",
+      "fetchedAt": "2026-09-30T09:52:19.459Z",
+      "updatedAt": "2026-09-30T09:52:19.459Z"
+    },
+    {
       "id": "schipkau-event-2967420",
       "title": "Saisoneröffnung mit Fackelumzug",
       "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2967420/2026/11/11/saisoneröffnung-mit-fackelumzug.html",
@@ -501,6 +519,15 @@
       "description": "Mit unserem „Heißen Samstag“ steht die erste Abendveranstaltung der 79. Saison auf dem ...",
       "fetchedAt": "2026-09-15T08:49:39.845Z",
       "updatedAt": "2026-09-15T08:49:39.845Z"
+    },
+    {
+      "id": "schipkau-event-2976168",
+      "title": "\"Heißer Samstag\" mit dem KCA",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2976168/2026/11/14/heißer-samstag-mit-dem-kca.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "Gemeinde Schipkau",
+      "fetchedAt": "2026-09-30T09:52:19.459Z",
+      "updatedAt": "2026-09-30T09:52:19.459Z"
     },
     {
       "id": "schipkau-event-2959376",
@@ -668,6 +695,33 @@
       "description": "Wenn der KCA 48 durch 16 Länder reist, darf natürlich auch das heimliche 17. Bundesland nicht ...",
       "fetchedAt": "2026-09-15T08:49:39.845Z",
       "updatedAt": "2026-09-15T08:49:39.845Z"
+    },
+    {
+      "id": "schipkau-event-2976174",
+      "title": "Party mit dem KCA",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2976174/2027/01/29/party-mit-dem-kca.html",
+      "startDate": "2027-01-29T00:00:00.000Z",
+      "location": "Klettwitz",
+      "fetchedAt": "2026-09-30T09:52:19.459Z",
+      "updatedAt": "2026-09-30T09:52:19.459Z"
+    },
+    {
+      "id": "schipkau-event-2976175",
+      "title": "Umzug durch Annahütte / Seniorenkarneval",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2976175/2027/01/30/umzug-durch-annahütte-seniorenkarneval.html",
+      "startDate": "2027-01-30T00:00:00.000Z",
+      "location": "Klettwitz",
+      "fetchedAt": "2026-09-30T09:52:19.459Z",
+      "updatedAt": "2026-09-30T09:52:19.459Z"
+    },
+    {
+      "id": "schipkau-event-2976177",
+      "title": "Brigardekarneval",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2976177/2027/02/05/brigardekarneval.html",
+      "startDate": "2027-02-05T00:00:00.000Z",
+      "location": "Klettwitz",
+      "fetchedAt": "2026-09-30T09:52:19.459Z",
+      "updatedAt": "2026-09-30T09:52:19.459Z"
     }
   ]
 }

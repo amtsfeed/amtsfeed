@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:58:21.402Z",
+  "updatedAt": "2026-09-30T09:52:07.888Z",
   "items": [
     {
       "id": "ruhland-event-5053",
@@ -995,6 +995,17 @@
       "location": "Schützenhaus Ruhland",
       "fetchedAt": "2026-09-11T09:58:43.635Z",
       "updatedAt": "2026-09-11T11:12:27.893Z"
+    },
+    {
+      "id": "ruhland-event-6847",
+      "title": "Konzert mit der Band \"Engerling\"",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2027-03-06T20:00:00.000Z",
+      "endDate": "2027-03-06T23:59:00.000Z",
+      "location": "Schützenhaus Ruhland",
+      "description": "Schlagworte: Ruhland",
+      "fetchedAt": "2026-09-30T09:52:07.878Z",
+      "updatedAt": "2026-09-30T09:52:07.878Z"
     }
   ]
 }

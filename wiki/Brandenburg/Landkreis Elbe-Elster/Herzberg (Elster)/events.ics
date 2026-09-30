@@ -559,14 +559,6 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2849524/2027/01/01/neu
  jahrskonzert.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2331049@amtsfeed.de
-DTSTAMP:20260923T083917Z
-DTSTART:20270923T060000Z
-SUMMARY:Wochenmarkt
-URL:https://www.herzberg-elster.de/veranstaltungen/2331049/2027/09/23/woc
- henmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2331050@amtsfeed.de
 DTSTAMP:20260925T085312Z
 DTSTART:20270925T063000Z
@@ -589,5 +581,13 @@ DTSTART:20270929T160000Z
 SUMMARY:Sprach-Caf&egrave\;
 URL:https://www.herzberg-elster.de/veranstaltungen/2439631/2027/09/29/spr
  ach-cafè.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2331049@amtsfeed.de
+DTSTAMP:20260930T094631Z
+DTSTART:20270930T060000Z
+SUMMARY:Wochenmarkt
+URL:https://www.herzberg-elster.de/veranstaltungen/2331049/2027/09/30/woc
+ henmarkt.html
 END:VEVENT
 END:VCALENDAR

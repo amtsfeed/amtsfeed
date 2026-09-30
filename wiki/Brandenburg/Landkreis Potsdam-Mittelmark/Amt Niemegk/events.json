@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T10:01:13.484Z",
+  "updatedAt": "2026-09-30T09:53:34.186Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -283,13 +283,12 @@
     },
     {
       "id": "amt-niemegk-event-2026-09-30-2026-09-30",
-      "title": "Willkommen- Baby- Frühstück",
-      "url": "https://amt-niemegk.de/events/willkommen-baby-fruehstueck-3-911-925-786-401-808-698-320-746-273/?occurrence=2026-09-30&#038;time=1790760600",
-      "startDate": "2026-09-30T09:30:00.000Z",
-      "endDate": "2026-09-30T11:00:00.000Z",
-      "location": "Familienzentrum Niemegk",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-09-30",
+      "startDate": "2026-09-30T14:00:00.000Z",
+      "endDate": "2026-09-30T15:30:00.000Z",
       "fetchedAt": "2026-09-25T08:59:50.918Z",
-      "updatedAt": "2026-09-25T08:59:58.136Z"
+      "updatedAt": "2026-09-30T09:53:34.181Z"
     },
     {
       "id": "amt-niemegk-event-2026-10-01-2026-10-01",
@@ -308,6 +307,25 @@
       "endDate": "2026-10-02T15:30:00.000Z",
       "fetchedAt": "2026-09-29T10:01:05.531Z",
       "updatedAt": "2026-09-29T10:01:13.479Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-10-03-2026-10-03",
+      "title": "2. Schlalacher Dorf – Flohmarkt",
+      "url": "https://amt-niemegk.de/events/2-schlalacher-dorf-flohmarkt/?occurrence=2026-10-03",
+      "startDate": "2026-10-03T10:00:00.000Z",
+      "endDate": "2026-10-03T16:00:00.000Z",
+      "location": "Schlalach",
+      "fetchedAt": "2026-09-30T09:53:28.157Z",
+      "updatedAt": "2026-09-30T09:53:34.181Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-10-04-2026-10-04",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-10-04",
+      "startDate": "2026-10-04T14:00:00.000Z",
+      "endDate": "2026-10-04T15:30:00.000Z",
+      "fetchedAt": "2026-09-30T09:53:28.157Z",
+      "updatedAt": "2026-09-30T09:53:34.181Z"
     }
   ]
 }

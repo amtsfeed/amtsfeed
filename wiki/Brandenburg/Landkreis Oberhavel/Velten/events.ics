@@ -878,6 +878,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Benefi
  194.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1195@amtsfeed.de
+DTSTAMP:20261001T101939Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Let's glow crazy
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Let-s-
+ glow-crazy.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1195.1&amp
+ \;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-1079@amtsfeed.de
 DTSTAMP:20260920T084519Z
 DTSTART;VALUE=DATE:20261011

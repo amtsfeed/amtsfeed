@@ -949,11 +949,11 @@ LOCATION:Döbberin
 END:VEVENT
 BEGIN:VEVENT
 UID:2955796@amtsfeed.de
-DTSTAMP:20260930T095028Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
+DTSTAMP:20261001T101756Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
 SUMMARY:Hör mal! &ndash\; Reiseperle Lebuser Land
-URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/09/30/hör-mal-
+URL:https://www.amt-lebus.de/veranstaltungen/2955796/2026/10/01/hör-mal-
  -reiseperle-lebuser-land.html
 DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  uide-Projekt  🎧 „Hör mal! – Reiseperle Lebuser Land“  suchen 
@@ -961,47 +961,6 @@ DESCRIPTION:📣 Liebe Eltern und Familien\, für das touristische Audiog
  ugestalten und ihre Stimme einzubringen. 🗣 ️ ...
 LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
   Schönfließ\, Treplin\, Döbberin\, Petershagen\,
-END:VEVENT
-BEGIN:VEVENT
-UID:2486339@amtsfeed.de
-DTSTAMP:20260924T083554Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Sport für Senioren in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/09/30/sport-fü
- r-senioren-in-podelzig.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464908@amtsfeed.de
-DTSTAMP:20260924T083554Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Fleischerwagen Fleischerei Höhne
-URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/09/30/fleischer
- wagen-fleischerei-höhne.html
-DESCRIPTION:am Dorfteich Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464904@amtsfeed.de
-DTSTAMP:20260924T083554Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:&bdquo\;Yoga &ndash\; sanft und entspannend&ldquo\;
-URL:https://www.amt-lebus.de/veranstaltungen/2464904/2026/09/30/yoga--san
- ft-und-entspannend.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2820928@amtsfeed.de
-DTSTAMP:20260924T083554Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Yoga - Anfänger & Wiedereinsteiger
-URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/09/30/yoga-anf
- änger-wiedereinsteiger.html
-LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2538590@amtsfeed.de
@@ -1147,6 +1106,47 @@ URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/10/06/posaunenc
  hor-probe.html
 DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
 LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2486339@amtsfeed.de
+DTSTAMP:20261001T101756Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Sport für Senioren in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/07/sport-fü
+ r-senioren-in-podelzig.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464908@amtsfeed.de
+DTSTAMP:20261001T101756Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Fleischerwagen Fleischerei Höhne
+URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/07/fleischer
+ wagen-fleischerei-höhne.html
+DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464904@amtsfeed.de
+DTSTAMP:20261001T101756Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:&bdquo\;Yoga &ndash\; sanft und entspannend&ldquo\;
+URL:https://www.amt-lebus.de/veranstaltungen/2464904/2026/10/07/yoga--san
+ ft-und-entspannend.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2820928@amtsfeed.de
+DTSTAMP:20261001T101756Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Yoga - Anfänger & Wiedereinsteiger
+URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/10/07/yoga-anf
+ änger-wiedereinsteiger.html
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2846364@amtsfeed.de
@@ -1307,6 +1307,29 @@ SUMMARY:Martinsumzug und Andacht
 URL:https://www.amt-lebus.de/veranstaltungen/2957503/2026/11/11/martinsum
  zug-und-andacht.html
 LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2976848@amtsfeed.de
+DTSTAMP:20261001T101756Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Rathaussturm mit LCC
+URL:https://www.amt-lebus.de/veranstaltungen/2976848/2026/11/11/rathausst
+ urm-mit-lcc.html
+DESCRIPTION:mit vielen Überraschungen
+LOCATION:auf dem Platz Amtsverwaltung Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2976844@amtsfeed.de
+DTSTAMP:20261001T101756Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Der Lebuser Carneval Club lädt ein!!!
+URL:https://www.amt-lebus.de/veranstaltungen/2976844/2026/11/14/der-lebus
+ er-carneval-club-lädt-ein.html
+DESCRIPTION:Die 58 Saison unter dem Motto: " Der LCC mit Gegensätzen\, d
+ as Böse will sich mit dem Guten fetzen"
+LOCATION:Kulturhaus Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2873363@amtsfeed.de

@@ -1188,6 +1188,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:St. Marien-Andreaskirche Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1763-20261009@amtsfeed.de
+DTSTAMP:20261001T101427Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Noche Latina - Tanz- und Übungsabend im Havelsalon
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/noche-latina-tanz-und-uebungsab
+ end/
+LOCATION:Havelsalon\, Milower Landstraße 7\, 14712 Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1410-20261010@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261010

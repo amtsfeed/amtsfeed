@@ -5836,6 +5836,16 @@ URL:https://www.osl-online.de/veranstaltungen/2967819/2026/10/05/herzlich
 LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2977492-20261005@amtsfeed.de
+DTSTAMP:20261001T102028Z
+DTSTART:20261005T150000Z
+DTEND:20261005T170000Z
+SUMMARY:Nachbarschaftshilfecaf&eacute\; im Quartierstreff
+URL:https://www.osl-online.de/veranstaltungen/2977492/2026/10/05/nachbars
+ chaftshilfecafé-im-quartierstreff.html
+LOCATION:Quartierstreff
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2124462-20261005@amtsfeed.de
 DTSTAMP:20260531T184206Z
 DTSTART:20261005T153000Z
@@ -6061,6 +6071,16 @@ URL:https://www.osl-online.de/veranstaltungen/2963056/2026/10/09/günter-
 LOCATION:Grass-Haus\, Bahnhofstraße 9
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2977306-20261009@amtsfeed.de
+DTSTAMP:20261001T102028Z
+DTSTART:20261009T090000Z
+DTEND:20261009T103000Z
+SUMMARY:Vortrag zur Nachbarschaftshilfe
+URL:https://www.osl-online.de/veranstaltungen/2977306/2026/10/09/vortrag-
+ zur-nachbarschaftshilfe.html
+LOCATION:Familienzentrum Kleeblatt
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2947753-20261009@amtsfeed.de
 DTSTAMP:20260911T111241Z
 DTSTART:20261009T133000Z
@@ -6126,6 +6146,16 @@ DTEND:20261010T180000Z
 SUMMARY:Vogelschau vom Vogelliebhaberclub e.V.
 URL:https://www.osl-online.de/veranstaltungen/2970670/2026/10/10/vogelsch
  au-vom-vogelliebhaberclub-e.v.html
+LOCATION:Kurmärker Bürgerhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2977310-20261010@amtsfeed.de
+DTSTAMP:20261001T102028Z
+DTSTART:20261010T090000Z
+DTEND:20261010T180000Z
+SUMMARY:Vogelschau
+URL:https://www.osl-online.de/veranstaltungen/2977310/2026/10/10/vogelsch
+ au.html
 LOCATION:Kurmärker Bürgerhaus
 END:VEVENT
 BEGIN:VEVENT
@@ -8972,6 +9002,16 @@ SUMMARY:3. Hundeweihnachtsmarkt von Für alle FElle
 URL:https://www.osl-online.de/veranstaltungen/2873954/2026/12/05/3.-hunde
  weihnachtsmarkt-von-für-alle-felle.html
 LOCATION:Annahütte
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2977311-20261205@amtsfeed.de
+DTSTAMP:20261001T102028Z
+DTSTART:20261205T100000Z
+DTEND:20261205T150000Z
+SUMMARY:Exoticbörse
+URL:https://www.osl-online.de/veranstaltungen/2977311/2026/12/05/exoticb
+ örse.html
+LOCATION:Haus der Jugend
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2829709-20261205@amtsfeed.de
@@ -13812,5 +13852,15 @@ SUMMARY:Behinderten- und Seniorenberatung
 URL:https://www.osl-online.de/veranstaltungen/2124494/2027/09/30/behinder
  ten-und-seniorenberatung.html
 LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2606463-20271001@amtsfeed.de
+DTSTAMP:20261001T102028Z
+DTSTART:20271001T090000Z
+DTEND:20271001T120000Z
+SUMMARY:Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau
+URL:https://www.osl-online.de/veranstaltungen/2606463/2027/10/01/barriere
+ freie-bürgersprechstunde-des-einwohnermeldeamtes-calau.html
+LOCATION:Familienzentrum Kleeblatt
 END:VEVENT
 END:VCALENDAR

@@ -842,15 +842,6 @@ URL:https://www.calau.de/veranstaltungen/2951948/2026/09/26/20.-nachtlauf
  -der-jugendfeuerwehr-zinnitz.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20260925T085845Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:30.09.2026   Calauer Museen öffnen
-URL:https://www.calau.de/veranstaltungen/2315266/2026/09/30/calauer-musee
- n-öffnen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2290342@amtsfeed.de
 DTSTAMP:20260930T095210Z
 DTSTART;VALUE=DATE:20261001
@@ -898,10 +889,10 @@ URL:https://www.calau.de/veranstaltungen/2864723/2026/10/03/flugshow-auf-
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2975412@amtsfeed.de
-DTSTAMP:20260929T095940Z
+DTSTAMP:20261001T101957Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-SUMMARY:Dorftrödel in Mlode
+SUMMARY:03.10.2026   Dorftrödel in Mlode
 URL:https://www.calau.de/veranstaltungen/2975412/2026/10/03/dorftrödel-i
  n-mlode.html
 END:VEVENT
@@ -944,6 +935,15 @@ URL:https://www.calau.de/veranstaltungen/2962562/2026/10/06/blutspendeter
  min-des-drk.html
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2315266@amtsfeed.de
+DTSTAMP:20261001T101957Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Calauer Museen öffnen
+URL:https://www.calau.de/veranstaltungen/2315266/2026/10/07/calauer-musee
+ n-öffnen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2885234@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART;VALUE=DATE:20261008
@@ -960,6 +960,15 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:SpieleABEND
 URL:https://www.calau.de/veranstaltungen/2858227/2026/10/09/spieleabend.h
  tml
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2977306@amtsfeed.de
+DTSTAMP:20261001T101957Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Vortrag zur Nachbarschaftshilfe
+URL:https://www.calau.de/veranstaltungen/2977306/2026/10/09/vortrag-zur-n
+ achbarschaftshilfe.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2975109@amtsfeed.de

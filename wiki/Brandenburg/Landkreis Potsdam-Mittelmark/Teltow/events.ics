@@ -1230,15 +1230,6 @@ URL:https://www.teltow.de/veranstaltungen/2928742/2026/09/29/wildtiere-in
  -teltow.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930017@amtsfeed.de
-DTSTAMP:20260924T083917Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
-URL:https://www.teltow.de/veranstaltungen/2930017/2026/09/30/offener-lern
- raum-lesen-schreiben-rechnen-basis-englisch.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2924792@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20260930
@@ -1327,6 +1318,15 @@ DTEND;VALUE=DATE:20261007
 SUMMARY:"Die Olchis aus Schmuddelfing"
 URL:https://www.teltow.de/veranstaltungen/2973543/2026/10/06/die-olchis-a
  us-schmuddelfing.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930017@amtsfeed.de
+DTSTAMP:20261001T102235Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
+URL:https://www.teltow.de/veranstaltungen/2930017/2026/10/07/offener-lern
+ raum-lesen-schreiben-rechnen-basis-englisch.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2963942@amtsfeed.de

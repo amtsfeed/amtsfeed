@@ -869,6 +869,16 @@ URL:https://www.kremmen.de/veranstaltungen/2974764/2026/10/04/coldehörn-
 LOCATION:Restaurant Coldehörn
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2976800@amtsfeed.de
+DTSTAMP:20261001T101917Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:LATERNEN BASTELN
+URL:https://www.kremmen.de/veranstaltungen/2976800/2026/10/07/laternen-ba
+ steln.html
+LOCATION:Spargelscheune
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2911519@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20261009
@@ -1148,6 +1158,16 @@ SUMMARY:KI sucht WG
 URL:https://www.kremmen.de/veranstaltungen/2927971/2026/12/05/ki-sucht-wg
  .html
 LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2976787@amtsfeed.de
+DTSTAMP:20261001T101917Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Weihnachtsfeier der Seniorinnen und Senioren in Kremmen
+URL:https://www.kremmen.de/veranstaltungen/2976787/2026/12/09/weihnachtsf
+ eier-der-seniorinnen-und-senioren-in-kremmen.html
+LOCATION:Vereinsgaststätte des 1. FC Kremmen 1920 e.V.\, Im Park 1
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2941320@amtsfeed.de

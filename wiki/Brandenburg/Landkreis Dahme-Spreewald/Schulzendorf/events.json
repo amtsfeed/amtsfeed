@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T09:46:03.987Z",
+  "updatedAt": "2026-10-01T10:12:33.690Z",
   "items": [
     {
       "id": "schulzendorf-event-2774656-20260509",
@@ -245,6 +245,14 @@
       "updatedAt": "2026-05-26T09:01:37.361Z"
     },
     {
+      "id": "schulzendorf-event-2977383-20261023",
+      "title": "Frauenrunde in der Butze",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2977383/2026/10/23/frauenrunde-in-der-butze.html",
+      "startDate": "2026-10-23T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:12:33.677Z",
+      "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
       "id": "schulzendorf-event-2775131-20261031",
       "title": "Gottesdienst zum Reformationstag und zum 160. Jahrestag der Kirchweihe der Patronatskirche",
       "url": "https://www.schulzendorf.de/veranstaltungen/2775131/2026/10/31/gottesdienst-zum-reformationstag-und-zum-160.-jahrestag-der-kirchweihe-der-patronatskirche.html",
@@ -347,6 +355,70 @@
       "startDate": "2026-12-10T00:00:00.000Z",
       "fetchedAt": "2026-05-26T09:01:37.361Z",
       "updatedAt": "2026-05-26T09:01:37.361Z"
+    },
+    {
+      "id": "schulzendorf-event-2977362-20270121",
+      "title": "ZWISCHENDURCH-ORCHESTER (Schulzendorfer Kulturreihe)",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2977362/2027/01/21/zwischendurch-orchester-schulzendorfer-kulturreihe.html",
+      "startDate": "2027-01-21T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:12:33.677Z",
+      "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
+      "id": "schulzendorf-event-2977363-20270218",
+      "title": "CHRISTOPHE BOURDOISEAU (Schulzendorfer Kulturreihe)",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2977363/2027/02/18/christophe-bourdoiseau-schulzendorfer-kulturreihe.html",
+      "startDate": "2027-02-18T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:12:33.677Z",
+      "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
+      "id": "schulzendorf-event-2977365-20270318",
+      "title": "Ludwig van Beethoven &ndash; Sonaten (Schulzendorfer Kulturreihe)",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2977365/2027/03/18/ludwig-van-beethoven--sonaten-schulzendorfer-kulturreihe.html",
+      "startDate": "2027-03-18T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:12:33.677Z",
+      "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
+      "id": "schulzendorf-event-2977366-20270422",
+      "title": "FELIX HAHNSCH im Konzert (Schulzendorfer Kulturreihe)",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2977366/2027/04/22/felix-hahnsch-im-konzert-schulzendorfer-kulturreihe.html",
+      "startDate": "2027-04-22T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:12:33.677Z",
+      "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
+      "id": "schulzendorf-event-2977367-20270520",
+      "title": "GERLINT BÖTTCHER -  Orchestrale Klangfülle und feine Miniaturen (Schulzendorfer Kulturreihe)",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2977367/2027/05/20/gerlint-böttcher-orchestrale-klangfülle-und-feine-miniaturen-schulzendorfer-kulturreihe.html",
+      "startDate": "2027-05-20T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:12:33.677Z",
+      "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
+      "id": "schulzendorf-event-2977368-20270610",
+      "title": "RIVER BLUES BAND (Schulzendorfer Kulturreihe)",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2977368/2027/06/10/river-blues-band-schulzendorfer-kulturreihe.html",
+      "startDate": "2027-06-10T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:12:33.677Z",
+      "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
+      "id": "schulzendorf-event-2977377-20270826",
+      "title": "THE GREAT AMERICAN SONGBOOK (Schulzendorfer Kulturreihe)",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2977377/2027/08/26/the-great-american-songbook-schulzendorfer-kulturreihe.html",
+      "startDate": "2027-08-26T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:12:33.677Z",
+      "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
+      "id": "schulzendorf-event-2977379-20270923",
+      "title": "VIAGGIO IN PARADISO (Schulzendorfer Kulturreihe)",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2977379/2027/09/23/viaggio-in-paradiso-schulzendorfer-kulturreihe.html",
+      "startDate": "2027-09-23T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:12:33.677Z",
+      "updatedAt": "2026-10-01T10:12:33.677Z"
     }
   ]
 }

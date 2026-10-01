@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T09:52:37.208Z",
+  "updatedAt": "2026-10-01T10:20:46.152Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -349,30 +349,6 @@
       "updatedAt": "2026-09-21T09:07:33.483Z"
     },
     {
-      "id": "scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow",
-      "title": "Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-tour-bad-saarow",
-      "startDate": "2026-09-24T00:00:00.000Z",
-      "fetchedAt": "2026-09-17T08:52:30.326Z",
-      "updatedAt": "2026-09-24T08:37:51.943Z"
-    },
-    {
-      "id": "scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz",
-      "title": "Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz",
-      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz",
-      "startDate": "2026-09-24T00:00:00.000Z",
-      "fetchedAt": "2026-09-17T08:52:30.326Z",
-      "updatedAt": "2026-09-24T08:37:51.943Z"
-    },
-    {
-      "id": "scharmuetzelsee-offener-meditationsabend",
-      "title": "Offener Meditationsabend",
-      "url": "https://www.scharmuetzelsee.de/event/offener-meditationsabend",
-      "startDate": "2026-09-24T00:00:00.000Z",
-      "fetchedAt": "2026-09-17T08:52:30.326Z",
-      "updatedAt": "2026-09-24T08:37:51.943Z"
-    },
-    {
       "id": "scharmuetzelsee-schleusenfahrt-zum-storkower-see",
       "title": "Schleusenfahrt zum Storkower See",
       "url": "https://www.scharmuetzelsee.de/event/schleusenfahrt-zum-storkower-see",
@@ -525,22 +501,6 @@
       "updatedAt": "2026-09-30T09:52:37.205Z"
     },
     {
-      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
-      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
-      "startDate": "2026-09-30T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-09-30T09:52:37.205Z"
-    },
-    {
-      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
-      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
-      "startDate": "2026-09-30T00:00:00.000Z",
-      "fetchedAt": "2026-09-28T09:58:55.325Z",
-      "updatedAt": "2026-09-30T09:52:37.205Z"
-    },
-    {
       "id": "scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen",
       "title": "Aktiv Wochenplan - Kneipp-Güsse am Morgen",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-am-morgen",
@@ -573,6 +533,46 @@
       "updatedAt": "2026-09-29T10:00:10.864Z"
     },
     {
+      "id": "scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow",
+      "title": "Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-tour-bad-saarow",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:52:30.326Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz",
+      "title": "Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz",
+      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:52:30.326Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-offener-meditationsabend",
+      "title": "Offener Meditationsabend",
+      "url": "https://www.scharmuetzelsee.de/event/offener-meditationsabend",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:52:30.326Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
+      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
+      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-28T09:58:55.325Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
       "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
       "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
       "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
@@ -597,12 +597,60 @@
       "updatedAt": "2026-09-30T09:52:37.205Z"
     },
     {
+      "id": "scharmuetzelsee-feuerfest-mit-hexen-und-erschreckern-im-irrlandia",
+      "title": "Feuerfest mit Hexen und Erschreckern im IRRLANDIA",
+      "url": "https://www.scharmuetzelsee.de/event/feuerfest-mit-hexen-und-erschreckern-im-irrlandia",
+      "startDate": "2026-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-abbiken-mit-live-musik-station4-im-aldo-wendisch-rietz",
+      "title": "Abbiken mit Live-Musik \"Station4\" im Aldo Wendisch Rietz",
+      "url": "https://www.scharmuetzelsee.de/event/abbiken-mit-live-musik-station4-im-aldo-wendisch-rietz",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-oktoberfest-im-heimathafen-bei-uwe",
+      "title": "Oktoberfest im Heimathafen bei Uwe",
+      "url": "https://www.scharmuetzelsee.de/event/oktoberfest-im-heimathafen-bei-uwe",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-feiertags-special-im-altstadtcafe-domichowski",
+      "title": "Feiertags-Special im Altstadtcafé Domichowski",
+      "url": "https://www.scharmuetzelsee.de/event/feiertags-special-im-altstadtcafe-domichowski",
+      "startDate": "2026-10-03T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-saisonabschluss-im-irrlandia",
+      "title": "Saisonabschluss im IRRLANDIA",
+      "url": "https://www.scharmuetzelsee.de/event/saisonabschluss-im-irrlandia",
+      "startDate": "2026-10-04T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
       "id": "scharmuetzelsee-oktoberfest-im-freilich-am-see",
       "title": "Oktoberfest im Freilich am See",
       "url": "https://www.scharmuetzelsee.de/event/oktoberfest-im-freilich-am-see",
       "startDate": "2026-10-09T00:00:00.000Z",
       "fetchedAt": "2026-09-14T09:07:58.489Z",
       "updatedAt": "2026-09-14T09:07:58.489Z"
+    },
+    {
+      "id": "scharmuetzelsee-soundtracks-im-scharwenka-kulturforum",
+      "title": "SOUNDtracks im Scharwenka Kulturforum",
+      "url": "https://www.scharmuetzelsee.de/event/soundtracks-im-scharwenka-kulturforum",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
     },
     {
       "id": "scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz",
@@ -619,6 +667,56 @@
       "startDate": "2026-10-22T00:00:00.000Z",
       "fetchedAt": "2026-09-14T09:07:58.489Z",
       "updatedAt": "2026-09-14T09:07:58.489Z"
+    },
+    {
+      "id": "scharmuetzelsee-satamas-giess-meinen-guss",
+      "title": "SATAMAs \"Gieß meinen Guss\"",
+      "url": "https://www.scharmuetzelsee.de/event/satamas-giess-meinen-guss",
+      "startDate": "2026-10-23T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-sternstunden-in-der-saarowtherme",
+      "title": "Sternstunden in der SaarowTherme",
+      "url": "https://www.scharmuetzelsee.de/event/sternstunden-in-der-saarowtherme",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "endDate": "2027-01-30T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-saisonabschluss-und-halloween-im-altstadtcafe-domichowski",
+      "title": "Saisonabschluss und Halloween im Altstadtcafé Domichowski",
+      "url": "https://www.scharmuetzelsee.de/event/saisonabschluss-und-halloween-im-altstadtcafe-domichowski",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-halloween-in-der-alten-schulscheune",
+      "title": "Halloween in der Alten Schulscheune",
+      "url": "https://www.scharmuetzelsee.de/event/halloween-in-der-alten-schulscheune",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-die-nacht-des-grauens-im-fischhaus-wendisch-rietz-1",
+      "title": "\"Die Nacht des Grauens\" im Fischhaus Wendisch Rietz",
+      "url": "https://www.scharmuetzelsee.de/event/die-nacht-des-grauens-im-fischhaus-wendisch-rietz-1",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
+    },
+    {
+      "id": "scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alten-schulscheune",
+      "title": "Novemberbasar - Kunstausstellung mit Verkauf in der Alten Schulscheune",
+      "url": "https://www.scharmuetzelsee.de/event/novemberbasar-kunstausstellung-mit-verkauf-in-der-alten-schulscheune",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "endDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-01T10:20:46.149Z"
     }
   ]
 }

@@ -1755,6 +1755,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2884251/2026/09/30/kaffe
  enachmittag-im-gemeindezentrum-göhlsdorf.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2977154@amtsfeed.de
+DTSTAMP:20261001T102211Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Erweiterter Vorstand SVKL (01.10.2026 ab 19.00 Uhr)
+URL:https://www.klosterlehnin.de/veranstaltungen/2977154/2026/10/01/erwei
+ terter-vorstand-svkl-01.10.2026-ab-19.00-uhr.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2898176@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261003
@@ -2127,6 +2136,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2884256/2026/11/11/marti
  nstag-in-der-feuerwehr.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2977184@amtsfeed.de
+DTSTAMP:20261001T102211Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Eröffnung 57. Session
+URL:https://www.klosterlehnin.de/veranstaltungen/2977184/2026/11/11/eröf
+ fnung-57.-session.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2785048@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261113
@@ -2143,6 +2161,15 @@ DTEND;VALUE=DATE:20261114
 SUMMARY:„Mit gespitzten Ohren“- Vorlesezeit in der Bibliothek
 URL:https://www.klosterlehnin.de/veranstaltungen/2915344/2026/11/13/mit-g
  espitzten-ohren-vorlesezeit-in-der-bibliothek.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2977185@amtsfeed.de
+DTSTAMP:20261001T102211Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Kartenvorverkauf
+URL:https://www.klosterlehnin.de/veranstaltungen/2977185/2026/11/15/karte
+ nvorverkauf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2884257@amtsfeed.de
@@ -2397,6 +2424,78 @@ DTEND;VALUE=DATE:20261228
 SUMMARY:Matthias Peter – Percussion und Electronics
 URL:https://www.klosterlehnin.de/veranstaltungen/2945112/2026/12/27/matth
  ias-peter--percussion-und-electronics.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2977186@amtsfeed.de
+DTSTAMP:20261001T102211Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Prunk- und Kostümsitzung
+URL:https://www.klosterlehnin.de/veranstaltungen/2977186/2027/01/16/prunk
+ -und-kostümsitzung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2977189@amtsfeed.de
+DTSTAMP:20261001T102211Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Karneval in Gold
+URL:https://www.klosterlehnin.de/veranstaltungen/2977189/2027/01/23/karne
+ val-in-gold.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2977190@amtsfeed.de
+DTSTAMP:20261001T102211Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Kinderkarnevalsparade
+URL:https://www.klosterlehnin.de/veranstaltungen/2977190/2027/01/24/kinde
+ rkarnevalsparade.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2977191@amtsfeed.de
+DTSTAMP:20261001T102211Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Kinderkarneval
+URL:https://www.klosterlehnin.de/veranstaltungen/2977191/2027/01/24/kinde
+ rkarneval.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2977187@amtsfeed.de
+DTSTAMP:20261001T102211Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Prunk- und Kostümsitzung
+URL:https://www.klosterlehnin.de/veranstaltungen/2977187/2027/01/30/prunk
+ -und-kostümsitzung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2977188@amtsfeed.de
+DTSTAMP:20261001T102211Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Prunk- und Kostümsitzung
+URL:https://www.klosterlehnin.de/veranstaltungen/2977188/2027/02/06/prunk
+ -und-kostümsitzung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2977192@amtsfeed.de
+DTSTAMP:20261001T102211Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Frühschoppen
+URL:https://www.klosterlehnin.de/veranstaltungen/2977192/2027/02/07/früh
+ schoppen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2977193@amtsfeed.de
+DTSTAMP:20261001T102211Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:After-Session Party
+URL:https://www.klosterlehnin.de/veranstaltungen/2977193/2027/02/13/after
+ -session-party.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2899393@amtsfeed.de

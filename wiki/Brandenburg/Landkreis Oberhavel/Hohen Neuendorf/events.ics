@@ -539,4 +539,23 @@ SUMMARY:Kirchenchorprobe
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  kirchenchorprobe
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-katastrophenschutz-information-und-vernetzung-e
+ hrenamtlicher@amtsfeed.de
+DTSTAMP:20261001T101912Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Katastrophenschutz: Information und Vernetzung Ehrenamtlicher
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ katastrophenschutz-information-und-vernetzung-ehrenamtlicher
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-schadstoffmobil-hohen-neuendorf@amtsfeed.de
+DTSTAMP:20261001T101912Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Schadstoffmobil in Hohen Neuendorf
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ schadstoffmobil-hohen-neuendorf
+END:VEVENT
 END:VCALENDAR

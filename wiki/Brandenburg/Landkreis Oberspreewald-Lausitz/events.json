@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T09:52:30.069Z",
+  "updatedAt": "2026-10-01T10:20:28.364Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -5691,6 +5691,16 @@
       "updatedAt": "2026-09-16T08:45:00.407Z"
     },
     {
+      "id": "lk-osl-event-2977492-20261005",
+      "title": "Nachbarschaftshilfecaf&eacute; im Quartierstreff",
+      "url": "https://www.osl-online.de/veranstaltungen/2977492/2026/10/05/nachbarschaftshilfecafé-im-quartierstreff.html",
+      "startDate": "2026-10-05T15:00:00.000Z",
+      "endDate": "2026-10-05T17:00:00.000Z",
+      "location": "Quartierstreff",
+      "fetchedAt": "2026-10-01T10:20:28.405Z",
+      "updatedAt": "2026-10-01T10:20:28.405Z"
+    },
+    {
       "id": "lk-osl-event-2124462-20261005",
       "title": "Treffpunkt Bürgertheater",
       "url": "https://www.osl-online.de/veranstaltungen/2124462/2026/10/05/treffpunkt-bürgertheater.html",
@@ -5908,6 +5918,16 @@
       "updatedAt": "2026-09-11T11:12:41.342Z"
     },
     {
+      "id": "lk-osl-event-2977306-20261009",
+      "title": "Vortrag zur Nachbarschaftshilfe",
+      "url": "https://www.osl-online.de/veranstaltungen/2977306/2026/10/09/vortrag-zur-nachbarschaftshilfe.html",
+      "startDate": "2026-10-09T09:00:00.000Z",
+      "endDate": "2026-10-09T10:30:00.000Z",
+      "location": "Familienzentrum Kleeblatt",
+      "fetchedAt": "2026-10-01T10:20:28.405Z",
+      "updatedAt": "2026-10-01T10:20:28.405Z"
+    },
+    {
       "id": "lk-osl-event-2947753-20261009",
       "title": "Herbstfest",
       "url": "https://www.osl-online.de/veranstaltungen/2947753/2026/10/09/herbstfest.html",
@@ -5971,6 +5991,16 @@
       "location": "Kurmärker Bürgerhaus",
       "fetchedAt": "2026-09-21T09:07:23.208Z",
       "updatedAt": "2026-09-21T09:07:23.208Z"
+    },
+    {
+      "id": "lk-osl-event-2977310-20261010",
+      "title": "Vogelschau",
+      "url": "https://www.osl-online.de/veranstaltungen/2977310/2026/10/10/vogelschau.html",
+      "startDate": "2026-10-10T09:00:00.000Z",
+      "endDate": "2026-10-10T18:00:00.000Z",
+      "location": "Kurmärker Bürgerhaus",
+      "fetchedAt": "2026-10-01T10:20:28.405Z",
+      "updatedAt": "2026-10-01T10:20:28.405Z"
     },
     {
       "id": "lk-osl-event-2975865-20261010",
@@ -8727,6 +8757,16 @@
       "location": "Annahütte",
       "fetchedAt": "2026-05-31T17:24:18.676Z",
       "updatedAt": "2026-05-31T18:42:06.173Z"
+    },
+    {
+      "id": "lk-osl-event-2977311-20261205",
+      "title": "Exoticbörse",
+      "url": "https://www.osl-online.de/veranstaltungen/2977311/2026/12/05/exoticbörse.html",
+      "startDate": "2026-12-05T10:00:00.000Z",
+      "endDate": "2026-12-05T15:00:00.000Z",
+      "location": "Haus der Jugend",
+      "fetchedAt": "2026-10-01T10:20:28.405Z",
+      "updatedAt": "2026-10-01T10:20:28.405Z"
     },
     {
       "id": "lk-osl-event-2829709-20261205",
@@ -13482,6 +13522,16 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-09-30T09:52:30.112Z",
       "updatedAt": "2026-09-30T09:52:30.112Z"
+    },
+    {
+      "id": "lk-osl-event-2606463-20271001",
+      "title": "Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau",
+      "url": "https://www.osl-online.de/veranstaltungen/2606463/2027/10/01/barrierefreie-bürgersprechstunde-des-einwohnermeldeamtes-calau.html",
+      "startDate": "2027-10-01T09:00:00.000Z",
+      "endDate": "2027-10-01T12:00:00.000Z",
+      "location": "Familienzentrum Kleeblatt",
+      "fetchedAt": "2026-10-01T10:20:28.405Z",
+      "updatedAt": "2026-10-01T10:20:28.405Z"
     }
   ]
 }

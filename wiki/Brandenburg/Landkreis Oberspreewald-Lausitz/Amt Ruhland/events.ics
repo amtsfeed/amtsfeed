@@ -735,6 +735,16 @@ DESCRIPTION:Schlagworte: Ruhland
 LOCATION:Auto Schultz
 END:VEVENT
 BEGIN:VEVENT
+UID:ruhland-event-7084@amtsfeed.de
+DTSTAMP:20261001T101954Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261011
+SUMMARY:Start der Woche "Gesundheit und Pflege"
+URL:https://www.osl-online.de/news/1/1291901/nachrichten/woche-der-gesund
+ heit-und-pflege-startet-am-5.-oktober-in-osl-einladung-zur-kreislichen-er
+ %C3%B6ffnungsfeier.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ruhland-event-4990@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART:20261007T150000Z

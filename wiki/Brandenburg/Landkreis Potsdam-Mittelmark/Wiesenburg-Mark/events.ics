@@ -828,33 +828,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2975774/2026/09/29/erst
  e-hilfe-auffrischungskurs-für-senioren-jeden-alters.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2424330@amtsfeed.de
-DTSTAMP:20260930T095412Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Offener Jugendraum "WiBu" - begleitet von Franziska Kottwitz
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/09/30/offe
- ner-jugendraum-wibu-begleitet-von-franziska-kottwitz.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2842616@amtsfeed.de
-DTSTAMP:20260924T083925Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:CODER DOJO - Programmierwerkstatt
-URL:https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/09/30/code
- r-dojo-programmierwerkstatt.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907840@amtsfeed.de
-DTSTAMP:20260924T083925Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/09/30/drk-
- spielrunde-kaffee-und-kartenspiel-für-senior-innen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928855@amtsfeed.de
 DTSTAMP:20260911T111350Z
 DTSTART;VALUE=DATE:20260930
@@ -1004,6 +977,15 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2941529/2026/10/05/krea
  tiver-wochenstart.html
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2424330@amtsfeed.de
+DTSTAMP:20261001T102245Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Offener Jugendraum "WiBu" - begleitet von Franziska Kottwitz
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/10/06/offe
+ ner-jugendraum-wibu-begleitet-von-franziska-kottwitz.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2384481@amtsfeed.de
 DTSTAMP:20260930T095412Z
 DTSTART;VALUE=DATE:20261006
@@ -1038,6 +1020,24 @@ DTEND;VALUE=DATE:20261007
 SUMMARY:Die Tagespflege Ziesar stellt sich vor
 URL:https://www.wiesenburgmark.de/veranstaltungen/2971206/2026/10/06/die-
  tagespflege-ziesar-stellt-sich-vor.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2842616@amtsfeed.de
+DTSTAMP:20261001T102245Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:CODER DOJO - Programmierwerkstatt
+URL:https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/10/07/code
+ r-dojo-programmierwerkstatt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907840@amtsfeed.de
+DTSTAMP:20261001T102245Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/10/07/drk-
+ spielrunde-kaffee-und-kartenspiel-für-senior-innen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928856@amtsfeed.de
@@ -1190,6 +1190,24 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Familiencaf&eacute\; mit Spaß\, Kreativität  Bewegung
 URL:https://www.wiesenburgmark.de/veranstaltungen/2890181/2026/10/29/fami
  liencafé-mit-spaß-kreativität-bewegung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2977333@amtsfeed.de
+DTSTAMP:20261001T102245Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Vernissage
+URL:https://www.wiesenburgmark.de/veranstaltungen/2977333/2026/10/31/vern
+ issage.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2977335@amtsfeed.de
+DTSTAMP:20261001T102245Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Vernissage
+URL:https://www.wiesenburgmark.de/veranstaltungen/2977335/2026/10/31/vern
+ issage.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973355@amtsfeed.de

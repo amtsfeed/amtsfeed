@@ -5164,8 +5164,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167744@amtsfeed.de
-DTSTAMP:20260930T095410Z
-DTSTART:20260930T095410Z
+DTSTAMP:20261001T102242Z
+DTSTART:20261001T102242Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167744
@@ -5173,8 +5173,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99217234@amtsfeed.de
-DTSTAMP:20260930T095410Z
-DTSTART:20260930T095410Z
+DTSTAMP:20261001T102242Z
+DTSTART:20261001T102242Z
 SUMMARY:formalästhetisch - Christoph Mertens | Max Stiller
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99217234
@@ -5182,8 +5182,8 @@ LOCATION:Stadtgalerie KUNST-GESCHOSS
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167923@amtsfeed.de
-DTSTAMP:20260930T095410Z
-DTSTART:20260930T095410Z
+DTSTAMP:20261001T102242Z
+DTSTART:20261001T102242Z
 SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167923
@@ -5191,8 +5191,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99193335@amtsfeed.de
-DTSTAMP:20260930T095410Z
-DTSTART:20260930T095410Z
+DTSTAMP:20261001T102242Z
+DTSTART:20261001T102242Z
 SUMMARY:Flower Hour: dein eigener Strauß\, frisch vom Feld
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99193335
@@ -5200,8 +5200,8 @@ LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99193355@amtsfeed.de
-DTSTAMP:20260930T095410Z
-DTSTART:20260930T095410Z
+DTSTAMP:20261001T102242Z
+DTSTART:20261001T102242Z
 SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99193355
@@ -5209,8 +5209,8 @@ LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167745@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261002T103000Z
+DTSTAMP:20261001T102242Z
+DTSTART:20261001T102242Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167745
@@ -5218,12 +5218,22 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167924@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261002T140000Z
+DTSTAMP:20261001T102242Z
+DTSTART:20261001T102242Z
 SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167924
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99212079@amtsfeed.de
+DTSTAMP:20261001T102242Z
+DTSTART:20261001T102242Z
+SUMMARY:Ökofilmgespräch - "Wie geht Natur?!" Von deutsch-deutscher Natu
+ rschutz-Revolution bis N...
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99212079
+LOCATION:Uferhaus im Uferwerk
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99139360@amtsfeed.de
@@ -5241,16 +5251,6 @@ DTSTART:20261002T183000Z
 SUMMARY:Ökofilmgespräch: Wie geht Natur?!
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99206292
-LOCATION:Uferhaus im Uferwerk
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99212079@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261002T183000Z
-SUMMARY:Ökofilmgespräch - "Wie geht Natur?!" Von deutsch-deutscher Natu
- rschutz-Revolution bis N...
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99212079
 LOCATION:Uferhaus im Uferwerk
 END:VEVENT
 BEGIN:VEVENT
@@ -5948,6 +5948,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Festsaal Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99226395@amtsfeed.de
+DTSTAMP:20261001T102242Z
+DTSTART:20261024T100000Z
+SUMMARY:Feuer und Flamme für unsere Museen - Heimatmuseum Glindow
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99226395
+LOCATION:Heimatmuseum Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167761@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261024T103000Z
@@ -5974,6 +5983,16 @@ SUMMARY:Saisonabschlussführung der Gilde der Stadtführer Werder (Havel)
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99225686
 LOCATION:Insel Werder (Havel)
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99226398@amtsfeed.de
+DTSTAMP:20261001T102242Z
+DTSTART:20261024T110000Z
+SUMMARY:Feuer und Flamme für unsere Museen - Märkisches Ziegeleimuseum 
+ Glindow
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99226398
+LOCATION:Märkisches Ziegeleimuseum Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99125706@amtsfeed.de
@@ -6011,6 +6030,15 @@ SUMMARY:Feuer und Flamme für unsere Museen | Werderaner Bockwindmühle
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99226013
 LOCATION:Bockwindmühle Werder (Havel)
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99226385@amtsfeed.de
+DTSTAMP:20261001T102242Z
+DTSTART:20261024T130000Z
+SUMMARY:Feuer und Flamme für unsere Museen - Waschhaus am Haussee Petzow
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99226385
+LOCATION:Waschhaus am Haussee Petzow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167940@amtsfeed.de

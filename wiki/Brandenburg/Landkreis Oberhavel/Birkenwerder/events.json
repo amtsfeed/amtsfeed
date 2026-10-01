@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:24:08.739Z",
+  "updatedAt": "2026-10-01T10:18:50.374Z",
   "items": [
     {
       "id": "birkenwerder-event-offene-atelier-in-oberhavel-am-02-und-3-mai-2026",
@@ -405,6 +405,96 @@
       "location": "Auf dem Gelände der  Evangelischen Kirche Birkenwerder,  Hauptstr. 52",
       "fetchedAt": "2026-09-11T09:58:01.961Z",
       "updatedAt": "2026-09-11T11:11:52.941Z"
+    },
+    {
+      "id": "birkenwerder-event-das-offene-ohr-wir-hoeren-ihnen-zu-8",
+      "title": "Das offene Ohr - wir hören Ihnen zu",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/das-offene-ohr-wir-hoeren-ihnen-zu-8",
+      "startDate": "2026-10-05T00:00:00.000Z",
+      "location": "Gemeindehaus der evangelischen Kirche, Hauptstrasse 52, Birkenwerder",
+      "fetchedAt": "2026-10-01T10:18:50.372Z",
+      "updatedAt": "2026-10-01T10:18:50.372Z"
+    },
+    {
+      "id": "birkenwerder-event-sprechstunde-schiedsstelle-86",
+      "title": "Sprechstunde Schiedsstelle",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/sprechstunde-schiedsstelle-86",
+      "startDate": "2026-10-06T00:00:00.000Z",
+      "location": "Rathaus Birkenwerder, Büro 2.04 im OG",
+      "fetchedAt": "2026-10-01T10:18:50.372Z",
+      "updatedAt": "2026-10-01T10:18:50.372Z"
+    },
+    {
+      "id": "birkenwerder-event-repair-cafe-33",
+      "title": "Repair-Café",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/repair-cafe-33",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "location": "Kinder- und Jugendfreizeithaus CORN, Hauptstraße 112, 16547 Birkenwerder",
+      "fetchedAt": "2026-10-01T10:18:50.372Z",
+      "updatedAt": "2026-10-01T10:18:50.372Z"
+    },
+    {
+      "id": "birkenwerder-event-muellsammelaktion",
+      "title": "Müllsammelaktion",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/muellsammelaktion",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "location": "Treffpunkt Ortsausgangsschild von Birkenwerder Richtung Bergfelde",
+      "fetchedAt": "2026-10-01T10:18:50.372Z",
+      "updatedAt": "2026-10-01T10:18:50.372Z"
+    },
+    {
+      "id": "birkenwerder-event-spielenachmittag-6",
+      "title": "Spielenachmittag",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/spielenachmittag-6",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "location": "Gemeindehaus",
+      "fetchedAt": "2026-10-01T10:18:50.372Z",
+      "updatedAt": "2026-10-01T10:18:50.372Z"
+    },
+    {
+      "id": "birkenwerder-event-salonkonzert-die-couchies-4",
+      "title": "SALONKONZERT: DIE COUCHIES",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/salonkonzert-die-couchies-4",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "location": "Villa Weigert",
+      "fetchedAt": "2026-10-01T10:18:50.372Z",
+      "updatedAt": "2026-10-01T10:18:50.372Z"
+    },
+    {
+      "id": "birkenwerder-event-aktionswoche-zum-quottag-der-bibliotheken-2026-quot",
+      "title": "Aktionswoche zum Tag der Bibliotheken 2026",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/aktionswoche-zum-quottag-der-bibliotheken-2026-quot",
+      "startDate": "2026-10-19T00:00:00.000Z",
+      "location": "Gemeindebibliothek Birkenwerder, Summter Str. 04, Eingang über Hirschfährte",
+      "fetchedAt": "2026-10-01T10:18:50.372Z",
+      "updatedAt": "2026-10-01T10:18:50.372Z"
+    },
+    {
+      "id": "birkenwerder-event-spielenachmittag-3",
+      "title": "Spielenachmittag",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/spielenachmittag-3",
+      "startDate": "2026-10-23T00:00:00.000Z",
+      "location": "Gemeindehaus Hauptstraße 54",
+      "fetchedAt": "2026-10-01T10:18:50.372Z",
+      "updatedAt": "2026-10-01T10:18:50.372Z"
+    },
+    {
+      "id": "birkenwerder-event-kaffeeklatsch-des-seniorenbeirates-6",
+      "title": "Kaffeeklatsch des Seniorenbeirates",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/kaffeeklatsch-des-seniorenbeirates-6",
+      "startDate": "2026-10-26T00:00:00.000Z",
+      "location": "Evangelisches Gemeindehaus, Hauptstraße 52, 16547 Birkenwerder",
+      "fetchedAt": "2026-10-01T10:18:50.372Z",
+      "updatedAt": "2026-10-01T10:18:50.372Z"
+    },
+    {
+      "id": "birkenwerder-event-abkneippen-an-der-wassertretanlage-birkenwerder",
+      "title": "Abkneippen an der Wassertretanlage Birkenwerder",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/abkneippen-an-der-wassertretanlage-birkenwerder",
+      "startDate": "2026-10-29T00:00:00.000Z",
+      "location": "Wassertretanlage Birkenwerder",
+      "fetchedAt": "2026-10-01T10:18:50.372Z",
+      "updatedAt": "2026-10-01T10:18:50.372Z"
     }
   ]
 }

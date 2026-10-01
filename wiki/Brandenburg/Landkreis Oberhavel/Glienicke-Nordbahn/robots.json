@@ -2,7 +2,7 @@
   {
     "domain": "www.glienicke.eu",
     "baseUrl": "https://www.glienicke.eu",
-    "updatedAt": "2026-09-29T09:58:44.110Z",
+    "updatedAt": "2026-10-01T10:18:54.259Z",
     "content": "User-agent: *\nDisallow: /barrierefreiheit/barriere_melden.html\nDisallow: /portal/kontakt.html\nDisallow: /portal/suche.html\nDisallow: /portal/suche2.html\nDisallow: /portal/weiterempfehlen.html\nDisallow: /allris/___tmp/\nUser-agent: WebCopier\nDisallow: /\nUser-agent: HTTrack*\nDisallow: /"
   }
 ]

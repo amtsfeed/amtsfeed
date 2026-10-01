@@ -397,34 +397,6 @@ URL:https://www.scharmuetzelsee.de/event/roland-jankowsky-lesung-wenn-ove
  rbeck-wiederkommt-im-theater-am-see
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
- eed.de
-DTSTAMP:20260924T083751Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
- tour-bad-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz@a
- mtsfeed.de
-DTSTAMP:20260924T083751Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
- tour-wendisch-rietz
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
-DTSTAMP:20260924T083751Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Offener Meditationsabend
-URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-schleusenfahrt-zum-storkower-see@amtsfeed.de
 DTSTAMP:20260923T084619Z
 DTSTART;VALUE=DATE:20260924
@@ -611,25 +583,6 @@ URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
  d-saarow-am-mittwoch
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20260930T095237Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20260930T095237Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
 DTSTAMP:20260929T100010Z
 DTSTART;VALUE=DATE:20260930
@@ -665,6 +618,53 @@ URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
  perkurs
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
+ eed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
+ tour-bad-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz@a
+ mtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
+ tour-wendisch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Offener Meditationsabend
+URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
  eed.de
 DTSTAMP:20260930T095237Z
@@ -693,12 +693,68 @@ SUMMARY:Yoga Retreat im Hotel Esplanade
 URL:https://www.scharmuetzelsee.de/event/yoga-retreat-im-hotel-esplanade
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-feuerfest-mit-hexen-und-erschreckern-im-irrlandia@amt
+ sfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Feuerfest mit Hexen und Erschreckern im IRRLANDIA
+URL:https://www.scharmuetzelsee.de/event/feuerfest-mit-hexen-und-erschrec
+ kern-im-irrlandia
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-abbiken-mit-live-musik-station4-im-aldo-wendisch-riet
+ z@amtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Abbiken mit Live-Musik "Station4" im Aldo Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/abbiken-mit-live-musik-station4-
+ im-aldo-wendisch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-oktoberfest-im-heimathafen-bei-uwe@amtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Oktoberfest im Heimathafen bei Uwe
+URL:https://www.scharmuetzelsee.de/event/oktoberfest-im-heimathafen-bei-u
+ we
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-feiertags-special-im-altstadtcafe-domichowski@amtsfee
+ d.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Feiertags-Special im Altstadtcafé Domichowski
+URL:https://www.scharmuetzelsee.de/event/feiertags-special-im-altstadtcaf
+ e-domichowski
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-saisonabschluss-im-irrlandia@amtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Saisonabschluss im IRRLANDIA
+URL:https://www.scharmuetzelsee.de/event/saisonabschluss-im-irrlandia
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-oktoberfest-im-freilich-am-see@amtsfeed.de
 DTSTAMP:20260914T090758Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Oktoberfest im Freilich am See
 URL:https://www.scharmuetzelsee.de/event/oktoberfest-im-freilich-am-see
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-soundtracks-im-scharwenka-kulturforum@amtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:SOUNDtracks im Scharwenka Kulturforum
+URL:https://www.scharmuetzelsee.de/event/soundtracks-im-scharwenka-kultur
+ forum
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz@amtsf
@@ -719,5 +775,61 @@ DTEND;VALUE=DATE:20261023
 SUMMARY:Lesekreis in der Bibliothek Wendisch Rietz
 URL:https://www.scharmuetzelsee.de/event/lesekreis-in-der-bibliothek-wend
  isch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-satamas-giess-meinen-guss@amtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:SATAMAs "Gieß meinen Guss"
+URL:https://www.scharmuetzelsee.de/event/satamas-giess-meinen-guss
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20270131
+SUMMARY:Sternstunden in der SaarowTherme
+URL:https://www.scharmuetzelsee.de/event/sternstunden-in-der-saarowtherme
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-saisonabschluss-und-halloween-im-altstadtcafe-domicho
+ wski@amtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Saisonabschluss und Halloween im Altstadtcafé Domichowski
+URL:https://www.scharmuetzelsee.de/event/saisonabschluss-und-halloween-im
+ -altstadtcafe-domichowski
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-halloween-in-der-alten-schulscheune@amtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween in der Alten Schulscheune
+URL:https://www.scharmuetzelsee.de/event/halloween-in-der-alten-schulsche
+ une
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-die-nacht-des-grauens-im-fischhaus-wendisch-rietz-1@a
+ mtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:"Die Nacht des Grauens" im Fischhaus Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/die-nacht-des-grauens-im-fischha
+ us-wendisch-rietz-1
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alt
+ en-schulscheune@amtsfeed.de
+DTSTAMP:20261001T102046Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Novemberbasar - Kunstausstellung mit Verkauf in der Alten Schulsc
+ heune
+URL:https://www.scharmuetzelsee.de/event/novemberbasar-kunstausstellung-m
+ it-verkauf-in-der-alten-schulscheune
 END:VEVENT
 END:VCALENDAR

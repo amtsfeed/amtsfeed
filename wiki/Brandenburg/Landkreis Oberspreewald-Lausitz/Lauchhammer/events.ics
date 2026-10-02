@@ -234,33 +234,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2958601/2026/09/17/blutspe
  ndetermin-in-der-os-am-wehlenteich.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124494@amtsfeed.de
-DTSTAMP:20260925T085847Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Behinderten- und Seniorenberatung
-URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/10/01/behinde
- rten-und-seniorenberatung.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2705490@amtsfeed.de
-DTSTAMP:20260911T111233Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Simone's Gesprächsrunde
-URL:https://www.lauchhammer.de/veranstaltungen/2705490/2026/10/01/simone-
- s-gesprächsrunde.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2918357@amtsfeed.de
-DTSTAMP:20260911T111233Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Gruppentreffen Selbsthilfegruppe Diabetes Lauchhammer
-URL:https://www.lauchhammer.de/veranstaltungen/2918357/2026/10/01/gruppen
- treffen-selbsthilfegruppe-diabetes-lauchhammer.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2944153@amtsfeed.de
 DTSTAMP:20260911T111233Z
 DTSTART;VALUE=DATE:20261002
@@ -297,6 +270,15 @@ DTEND;VALUE=DATE:20261007
 SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
 URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/10/06/chorpro
  be-mit-dem-stadtchor-lauchhammer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124494@amtsfeed.de
+DTSTAMP:20261002T095532Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/10/08/behinde
+ rten-und-seniorenberatung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2398220@amtsfeed.de
@@ -396,6 +378,24 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Gruppentreffen Selbsthilfegruppe Multiple Sklerose
 URL:https://www.lauchhammer.de/veranstaltungen/2918359/2026/10/30/gruppen
  treffen-selbsthilfegruppe-multiple-sklerose.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2705490@amtsfeed.de
+DTSTAMP:20261002T095532Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Simone's Gesprächsrunde
+URL:https://www.lauchhammer.de/veranstaltungen/2705490/2026/11/05/simone-
+ s-gesprächsrunde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2918357@amtsfeed.de
+DTSTAMP:20261002T095532Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Gruppentreffen Selbsthilfegruppe Diabetes Lauchhammer
+URL:https://www.lauchhammer.de/veranstaltungen/2918357/2026/11/05/gruppen
+ treffen-selbsthilfegruppe-diabetes-lauchhammer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2873281@amtsfeed.de

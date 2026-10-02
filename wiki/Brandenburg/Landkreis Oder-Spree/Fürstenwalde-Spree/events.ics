@@ -5447,6 +5447,17 @@ URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2912934/2026/10/13
 LOCATION:Keramikwerkstatt Fürstenwalde
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2977929-2026-10-13-präventionsveranstaltung.html@amt
+ sfeed.de
+DTSTAMP:20261002T095624Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Präventionsveranstaltung
+URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2977929/2026/10/13
+ /präventionsveranstaltung.html
+LOCATION:Spreecampus Grund- und Oberschule
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2327152-2026-10-14-vorschultreff-für-familien-mit-ki
  ndern-ohne-kitaplatz.html@amtsfeed.de
 DTSTAMP:20260506T202028Z
@@ -5641,6 +5652,16 @@ SUMMARY:Offene Keramikwerkstatt am Freitag
 URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2912923/2026/10/16
  /offene-keramikwerkstatt-am-freitag.html
 LOCATION:Keramikwerkstatt Fürstenwalde
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2977940-2026-10-16-herbstprojekttag.html@amtsfeed.de
+DTSTAMP:20261002T095624Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Herbstprojekttag
+URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2977940/2026/10/16
+ /herbstprojekttag.html
+LOCATION:Spreecampus Grund- und Oberschule
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2650506-2026-10-17-vorlesen-in-der-bibliothek.html@am
@@ -7042,6 +7063,17 @@ URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2912923/2026/11/20
 LOCATION:Keramikwerkstatt Fürstenwalde
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2977995-2026-11-20-bundesweiter-vorlesetag.html@amtsf
+ eed.de
+DTSTAMP:20261002T095624Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Bundesweiter Vorlesetag
+URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2977995/2026/11/20
+ /bundesweiter-vorlesetag.html
+LOCATION:Spreecampus Grund- und Oberschule
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2650506-2026-11-21-vorlesen-in-der-bibliothek.html@am
  tsfeed.de
 DTSTAMP:20260506T202028Z
@@ -7116,6 +7148,17 @@ SUMMARY:Offene Keramikwerkstatt am Dienstag
 URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2912934/2026/11/24
  /offene-keramikwerkstatt-am-dienstag.html
 LOCATION:Keramikwerkstatt Fürstenwalde
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2978005-2026-11-24-zentraler-wandertag.html@amtsfeed.
+ de
+DTSTAMP:20261002T095624Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Zentraler Wandertag
+URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2978005/2026/11/24
+ /zentraler-wandertag.html
+LOCATION:Spreecampus Grund- und Oberschule
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2327152-2026-11-25-vorschultreff-für-familien-mit-ki

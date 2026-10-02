@@ -11499,6 +11499,15 @@ URL:https://www.premnitz.de/veranstaltungen/2976442/2026/10/10/herbstbast
  eln.html
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2977942-20261010@amtsfeed.de
+DTSTAMP:20261002T095130Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Orgelwinter in Geltow: 1. William-Konzert
+URL:https://www.premnitz.de/veranstaltungen/2977942/2026/10/10/orgelwinte
+ r-in-geltow-1.-william-konzert.html
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2882657-20261011@amtsfeed.de
 DTSTAMP:20260911T110747Z
 DTSTART;VALUE=DATE:20261011
@@ -13636,6 +13645,16 @@ URL:https://www.premnitz.de/veranstaltungen/2921904/2026/10/25/grusel-nä
  chte-2026-in-karls-erlebnis-dorf-elstal.html
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2977943-20261025@amtsfeed.de
+DTSTAMP:20261002T095130Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Saisonabschlussführung der Gilde der Stadtführer Werder (Havel)
+  e.V.
+URL:https://www.premnitz.de/veranstaltungen/2977943/2026/10/25/saisonabsc
+ hlussführung-der-gilde-der-stadtführer-werder-havel-e.v.html
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2922996-20261026@amtsfeed.de
 DTSTAMP:20260926T084056Z
 DTSTART;VALUE=DATE:20261026
@@ -14255,5 +14274,14 @@ DTEND;VALUE=DATE:20261102
 SUMMARY:Lebensansichten eines Huhns
 URL:https://www.premnitz.de/veranstaltungen/2975690/2026/11/01/lebensansi
  chten-eines-huhns.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2961084-20261102@amtsfeed.de
+DTSTAMP:20261002T095130Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Mosaik-Workshop
+URL:https://www.premnitz.de/veranstaltungen/2961084/2026/11/02/mosaik-wor
+ kshop.html
 END:VEVENT
 END:VCALENDAR

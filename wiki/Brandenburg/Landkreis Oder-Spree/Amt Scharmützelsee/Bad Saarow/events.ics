@@ -646,35 +646,6 @@ SUMMARY:Offener Meditationsabend
 URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261001T102046Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261001T102046Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20260930T095237Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-bauen-in-bad-saarow-zwischen-reet-rosenthal-und-revis
  ion@amtsfeed.de
 DTSTAMP:20260928T095855Z
@@ -685,10 +656,29 @@ URL:https://www.scharmuetzelsee.de/event/bauen-in-bad-saarow-zwischen-ree
  t-rosenthal-und-revision
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261002T095555Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261002T095555Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-yoga-retreat-im-hotel-esplanade@amtsfeed.de
-DTSTAMP:20260930T095237Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
+DTSTAMP:20261002T095555Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
 SUMMARY:Yoga Retreat im Hotel Esplanade
 URL:https://www.scharmuetzelsee.de/event/yoga-retreat-im-hotel-esplanade
 END:VEVENT
@@ -701,6 +691,34 @@ DTEND;VALUE=DATE:20261003
 SUMMARY:Feuerfest mit Hexen und Erschreckern im IRRLANDIA
 URL:https://www.scharmuetzelsee.de/event/feuerfest-mit-hexen-und-erschrec
  kern-im-irrlandia
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-wendisch-rietzer-kneipp-kids@amtsfeed.de
+DTSTAMP:20261002T095555Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Wendisch Rietzer Kneipp-Kids
+URL:https://www.scharmuetzelsee.de/event/wendisch-rietzer-kneipp-kids
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-kaffeeverkostung-von-der-plantage-in-die-tasse@amtsfe
+ ed.de
+DTSTAMP:20261002T095555Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Kaffeeverkostung von der Plantage in die Tasse
+URL:https://www.scharmuetzelsee.de/event/kaffeeverkostung-von-der-plantag
+ e-in-die-tasse
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20261002T095555Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-abbiken-mit-live-musik-station4-im-aldo-wendisch-riet
@@ -730,6 +748,14 @@ DTEND;VALUE=DATE:20261004
 SUMMARY:Feiertags-Special im Altstadtcafé Domichowski
 URL:https://www.scharmuetzelsee.de/event/feiertags-special-im-altstadtcaf
  e-domichowski
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-storkower-troedelmarkt@amtsfeed.de
+DTSTAMP:20261002T095555Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Storkower Trödelmarkt
+URL:https://www.scharmuetzelsee.de/event/storkower-troedelmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-saisonabschluss-im-irrlandia@amtsfeed.de
@@ -820,6 +846,16 @@ DTEND;VALUE=DATE:20261101
 SUMMARY:"Die Nacht des Grauens" im Fischhaus Wendisch Rietz
 URL:https://www.scharmuetzelsee.de/event/die-nacht-des-grauens-im-fischha
  us-wendisch-rietz-1
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-die-nacht-des-grauens-im-fischhaus-wendisch-rietz@amt
+ sfeed.de
+DTSTAMP:20261002T095555Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:"Die Nacht des Grauens" im Fischhaus Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/die-nacht-des-grauens-im-fischha
+ us-wendisch-rietz
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alt

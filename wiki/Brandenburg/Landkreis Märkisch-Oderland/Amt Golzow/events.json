@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:57:04.049Z",
+  "updatedAt": "2026-10-02T09:54:10.259Z",
   "items": [
     {
       "id": "2886766",
@@ -602,6 +602,26 @@
       "updatedAt": "2026-09-11T11:11:30.421Z"
     },
     {
+      "id": "2977628",
+      "title": "Jetzt wird's wild!",
+      "url": "https://www.amt-golzow.de/veranstaltungen/2977628/2026/10/22/jetzt-wird-s-wild.html",
+      "startDate": "2026-10-22T17:30:00.000Z",
+      "location": "Oderbruch-Halle Golzow",
+      "description": "Es wird wild, bunt und voller Energie: Der Tanzkreis Fürstenwalde präsentiert seine neue große Tanzshow „JETZT WIRD’S WILD!“. Am 22. und 23. Oktober 2026 verwandelt sich die Oderbruch-Halle in Golzow in eine tierisch aufregende Tanzwelt. [mehr]",
+      "fetchedAt": "2026-10-02T09:54:10.246Z",
+      "updatedAt": "2026-10-02T09:54:10.246Z"
+    },
+    {
+      "id": "2977630",
+      "title": "Jetzt wird's wild!",
+      "url": "https://www.amt-golzow.de/veranstaltungen/2977630/2026/10/23/jetzt-wird-s-wild.html",
+      "startDate": "2026-10-23T17:30:00.000Z",
+      "location": "Oderbruch-Halle Golzow",
+      "description": "Es wird wild, bunt und voller Energie: Der Tanzkreis Fürstenwalde präsentiert seine neue große Tanzshow „JETZT WIRD’S WILD!“. Am 22. und 23. Oktober 2026 verwandelt sich die Oderbruch-Halle in Golzow in eine tierisch aufregende Tanzwelt. [mehr]",
+      "fetchedAt": "2026-10-02T09:54:10.246Z",
+      "updatedAt": "2026-10-02T09:54:10.246Z"
+    },
+    {
       "id": "2952770",
       "title": "Tanzabend für Jung & Alt",
       "url": "https://www.amt-golzow.de/veranstaltungen/2952770/2026/10/24/tanzabend-für-jung-alt.html",
@@ -758,17 +778,6 @@
       "updatedAt": "2026-09-11T11:11:30.421Z"
     },
     {
-      "id": "2704723",
-      "title": "Führung Altstadt & Festung Küstrin: Fontanes Katte-Tragödie",
-      "url": "https://www.amt-golzow.de/veranstaltungen/2704723/2027/09/04/führung-altstadt-festung-küstrin-fontanes-katte-tragödie.html",
-      "startDate": "2027-09-04T11:30:00.000Z",
-      "endDate": "2027-09-04T13:00:00.000Z",
-      "location": "Altstadt & Festung Küstrin",
-      "description": "Führung in der Festung & Altstadt von Küstrin: Die Katte-Tragödie ansprechend und unterhaltsam in Szene gesetzt. Entdecken und erleben Sie den historischen Ort, wie einst Theodor Fontane. [mehr]",
-      "fetchedAt": "2026-05-05T14:54:22.818Z",
-      "updatedAt": "2026-09-11T11:11:30.421Z"
-    },
-    {
       "id": "2326188",
       "title": "Führung und Exkursion zur Schlacht um die Seelower Höhen 1945",
       "url": "https://www.amt-golzow.de/veranstaltungen/2326188/2027/09/11/führung-und-exkursion-zur-schlacht-um-die-seelower-höhen-1945.html",
@@ -789,6 +798,17 @@
       "description": "Führung in der Festung & Altstadt von Küstrin: Die Katte-Tragödie ansprechend und unterhaltsam in Szene gesetzt. Entdecken und erleben Sie den historischen Ort, wie einst Theodor Fontane. [mehr]",
       "fetchedAt": "2026-05-05T14:54:22.818Z",
       "updatedAt": "2026-09-25T08:57:04.037Z"
+    },
+    {
+      "id": "2704723",
+      "title": "Führung Altstadt & Festung Küstrin: Fontanes Katte-Tragödie",
+      "url": "https://www.amt-golzow.de/veranstaltungen/2704723/2027/10/02/führung-altstadt-festung-küstrin-fontanes-katte-tragödie.html",
+      "startDate": "2027-10-02T11:30:00.000Z",
+      "endDate": "2027-10-02T13:00:00.000Z",
+      "location": "Altstadt & Festung Küstrin",
+      "description": "Führung in der Festung & Altstadt von Küstrin: Die Katte-Tragödie ansprechend und unterhaltsam in Szene gesetzt. Entdecken und erleben Sie den historischen Ort, wie einst Theodor Fontane. [mehr]",
+      "fetchedAt": "2026-05-05T14:54:22.818Z",
+      "updatedAt": "2026-10-02T09:54:10.246Z"
     }
   ]
 }

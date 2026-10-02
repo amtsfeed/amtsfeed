@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:19:32.677Z",
+  "updatedAt": "2026-10-02T09:55:16.274Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -282,22 +282,6 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
-      "id": "oberkraemer-event-2855733",
-      "title": "Nordic-Walking in Vehlefanz",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855733/2026/10/01/nordic-walking-in-vehlefanz.html",
-      "startDate": "2026-10-01T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-25T08:58:22.994Z"
-    },
-    {
-      "id": "oberkraemer-event-2855707",
-      "title": "Die Eichstädter Tafelrunde",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855707/2026/10/01/die-eichstädter-tafelrunde.html",
-      "startDate": "2026-10-01T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-11T11:12:17.608Z"
-    },
-    {
       "id": "oberkraemer-event-2855867",
       "title": "Senioren Neu-Vehlefanz - Oktoberfest",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855867/2026/10/01/senioren-neu-vehlefanz-oktoberfest.html",
@@ -314,28 +298,20 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
-      "id": "oberkraemer-event-2976147",
-      "title": "Nordic-Walking",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2976147/2026/10/01/nordic-walking.html",
-      "startDate": "2026-10-01T00:00:00.000Z",
-      "fetchedAt": "2026-09-30T09:51:50.456Z",
-      "updatedAt": "2026-09-30T09:51:50.456Z"
-    },
-    {
-      "id": "oberkraemer-event-2976151",
-      "title": "Fotogruppe Blende 7",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2976151/2026/10/01/fotogruppe-blende-7.html",
-      "startDate": "2026-10-01T00:00:00.000Z",
-      "fetchedAt": "2026-09-30T09:51:50.456Z",
-      "updatedAt": "2026-09-30T09:51:50.456Z"
-    },
-    {
       "id": "oberkraemer-event-2855745",
       "title": "Schach",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/02/schach.html",
       "startDate": "2026-10-02T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-26T08:44:25.775Z"
+    },
+    {
+      "id": "oberkraemer-event-2977665",
+      "title": "SC Oberkrämer Schachclub",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2977665/2026/10/02/sc-oberkrämer-schachclub.html",
+      "startDate": "2026-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:16.291Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
     },
     {
       "id": "oberkraemer-event-2855754",
@@ -360,6 +336,14 @@
       "startDate": "2026-10-04T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2977670",
+      "title": "Großes Drachenfest geplant",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2977670/2026/10/04/großes-drachenfest-geplant.html",
+      "startDate": "2026-10-04T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:16.291Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
     },
     {
       "id": "oberkraemer-event-2855689",
@@ -432,6 +416,22 @@
       "startDate": "2026-10-07T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2855733",
+      "title": "Nordic-Walking in Vehlefanz",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855733/2026/10/08/nordic-walking-in-vehlefanz.html",
+      "startDate": "2026-10-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
+    },
+    {
+      "id": "oberkraemer-event-2976147",
+      "title": "Nordic-Walking",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2976147/2026/10/08/nordic-walking.html",
+      "startDate": "2026-10-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-30T09:51:50.456Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
     },
     {
       "id": "oberkraemer-event-2957551",
@@ -546,6 +546,22 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
+      "id": "oberkraemer-event-2977672",
+      "title": "Klön-Kaffee-Nachmittag für Jedermann/-frau",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2977672/2026/10/15/klön-kaffee-nachmittag-für-jedermann-frau.html",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:16.291Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
+    },
+    {
+      "id": "oberkraemer-event-2977664",
+      "title": "Klönkaffee-Nachmittage fürJedermann/-frau",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2977664/2026/10/15/klönkaffee-nachmittage-fürjedermann-frau.html",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:16.291Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
+    },
+    {
       "id": "oberkraemer-event-2855589",
       "title": "Herbst-Buchlesung",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855589/2026/10/16/herbst-buchlesung.html",
@@ -576,6 +592,22 @@
       "startDate": "2026-10-17T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2977673",
+      "title": "Historisches Herbstfest geplant",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2977673/2026/10/17/historisches-herbstfest-geplant.html",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:16.291Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
+    },
+    {
+      "id": "oberkraemer-event-2977667",
+      "title": "Nähclub im Heimatverein fürJedermann/-frau",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2977667/2026/10/17/nähclub-im-heimatverein-fürjedermann-frau.html",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:16.291Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
     },
     {
       "id": "oberkraemer-event-2962219",
@@ -698,6 +730,22 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
+      "id": "oberkraemer-event-2855707",
+      "title": "Die Eichstädter Tafelrunde",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855707/2026/11/05/die-eichstädter-tafelrunde.html",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
+    },
+    {
+      "id": "oberkraemer-event-2976151",
+      "title": "Fotogruppe Blende 7",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2976151/2026/11/05/fotogruppe-blende-7.html",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-30T09:51:50.456Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
+    },
+    {
       "id": "oberkraemer-event-2855877",
       "title": "Senioren Neu-Vehlefanz - Weihnachtsessen",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855877/2026/11/05/senioren-neu-vehlefanz-weihnachtsessen.html",
@@ -792,6 +840,14 @@
       "startDate": "2026-11-11T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
+    },
+    {
+      "id": "oberkraemer-event-2977675",
+      "title": "Sankt Martin, Wir sind dabei",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2977675/2026/11/11/sankt-martin-wir-sind-dabei.html",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:16.291Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
     },
     {
       "id": "oberkraemer-event-2962222",
@@ -904,6 +960,14 @@
       "startDate": "2026-11-19T00:00:00.000Z",
       "fetchedAt": "2026-09-19T08:13:14.561Z",
       "updatedAt": "2026-09-19T08:13:14.561Z"
+    },
+    {
+      "id": "oberkraemer-event-2977676",
+      "title": "Klön-Kaffee-Nachmittag für Jedermann/-frau",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2977676/2026/11/19/klön-kaffee-nachmittag-für-jedermann-frau.html",
+      "startDate": "2026-11-19T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:16.291Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
     },
     {
       "id": "oberkraemer-event-2909885",
@@ -1026,6 +1090,14 @@
       "updatedAt": "2026-09-22T08:40:22.966Z"
     },
     {
+      "id": "oberkraemer-event-2977677",
+      "title": "Buchlesung mit Stephan Hähnel",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2977677/2026/12/04/buchlesung-mit-stephan-hähnel.html",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:16.291Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
+    },
+    {
       "id": "oberkraemer-event-2855648",
       "title": "Bötzower Weihnachtsmarkt",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855648/2026/12/05/bötzower-weihnachtsmarkt.html",
@@ -1082,6 +1154,14 @@
       "updatedAt": "2026-09-22T08:40:22.966Z"
     },
     {
+      "id": "oberkraemer-event-2977679",
+      "title": "Traditionelles Weihnachtslieder Singen beim letzten Klönkaffee im Jahr.",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2977679/2026/12/10/traditionelles-weihnachtslieder-singen-beim-letzten-klönkaffee-im-jahr.html",
+      "startDate": "2026-12-10T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:16.291Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
+    },
+    {
       "id": "oberkraemer-event-2891499",
       "title": "Weihnachtssingen mit dem Pop-Chor Oberhavel und Ditha Buß",
       "url": "https://www.oberkraemer.de/veranstaltungen/2891499/2026/12/11/weihnachtssingen-mit-dem-pop-chor-oberhavel-und-ditha-buß.html",
@@ -1112,6 +1192,14 @@
       "startDate": "2026-12-12T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:22.966Z",
       "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2977681",
+      "title": "Oberkrämer Weihnachtsmarkt",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2977681/2026/12/12/oberkrämer-weihnachtsmarkt.html",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:16.291Z",
+      "updatedAt": "2026-10-02T09:55:16.291Z"
     },
     {
       "id": "oberkraemer-event-2855895",

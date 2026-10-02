@@ -7,17 +7,6 @@ X-WR-CALNAME:Amt Scharmützelsee
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Scharmützelsee
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2964404-2026-10-01-zwischen-reet-rosenthal-und-revision--bauen-in-bad
- -saarow@amtsfeed.de
-DTSTAMP:20260911T111247Z
-DTSTART:20261001T190000Z
-SUMMARY:Zwischen Reet\, Rosenthal und Revision &ndash\; Bauen in Bad Saar
- ow
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2964404/2026/10/01
- /zwischen-reet-rosenthal-und-revision--bauen-in-bad-saarow.html
-LOCATION:Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:2897537-2026-10-03-quatsch-comedy-club--die-live-show-zu-gast-in-bad-
  saarow@amtsfeed.de
 DTSTAMP:20260506T053110Z
@@ -344,6 +333,15 @@ SUMMARY:Weihnachtskonzert Ronny Heinrich & Orchester
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2835260/2026/12/20
  /weihnachtskonzert-ronny-heinrich-orchester.html
 LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:2977914-2026-12-20-adventskonzert-in-wendisch-rietz@amtsfeed.de
+DTSTAMP:20261002T095559Z
+DTSTART:20261220T160000Z
+SUMMARY:Adventskonzert in Wendisch Rietz
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2977914/2026/12/20
+ /adventskonzert-in-wendisch-rietz.html
+LOCATION:Haus des Gastes · Kleine Promenade 1 · 15864 Wendisch Rietz
 END:VEVENT
 BEGIN:VEVENT
 UID:2847501-2026-12-21-kleinkunst-in-der-theaterlounge-im-dezember@amtsfe

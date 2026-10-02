@@ -842,15 +842,6 @@ URL:https://www.calau.de/veranstaltungen/2951948/2026/09/26/20.-nachtlauf
  -der-jugendfeuerwehr-zinnitz.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20260930T095210Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:01.10.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/10/01/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2960235@amtsfeed.de
 DTSTAMP:20260928T095824Z
 DTSTART;VALUE=DATE:20261001
@@ -898,10 +889,10 @@ URL:https://www.calau.de/veranstaltungen/2975412/2026/10/03/dorftrödel-i
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2964713@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261002T095528Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-SUMMARY:Festgottesdienst zur Orgelweihe & Erntedank
+SUMMARY:04.10.2026   Festgottesdienst zur Orgelweihe & Erntedank
 URL:https://www.calau.de/veranstaltungen/2964713/2026/10/04/festgottesdie
  nst-zur-orgelweihe-erntedank.html
 END:VEVENT
@@ -913,6 +904,15 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:Fantastische Seifenblasen-Show
 URL:https://www.calau.de/veranstaltungen/2969282/2026/10/04/fantastische-
  seifenblasen-show.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261002T095528Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/10/06/calauer-woche
+ nmarkt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-1906922@amtsfeed.de

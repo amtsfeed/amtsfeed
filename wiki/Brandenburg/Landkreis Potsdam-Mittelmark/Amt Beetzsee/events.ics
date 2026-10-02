@@ -499,15 +499,6 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2902623/2026/09/28/politi
  sche-kompetenzen-in-der-bne-modul-1-bildungsurlaub.html
 END:VEVENT
 BEGIN:VEVENT
-UID:amt-beetzsee-event-2645431@amtsfeed.de
-DTSTAMP:20260911T111317Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Beetzseebücherei
-URL:https://www.amt-beetzsee.de/veranstaltungen/2645431/2026/10/01/beetzs
- eebücherei.html
-END:VEVENT
-BEGIN:VEVENT
 UID:amt-beetzsee-event-2833416@amtsfeed.de
 DTSTAMP:20260506T201614Z
 DTSTART;VALUE=DATE:20261003
@@ -637,6 +628,15 @@ DTEND;VALUE=DATE:20261104
 SUMMARY:"Klima & KI" (Online)
 URL:https://www.amt-beetzsee.de/veranstaltungen/2959201/2026/11/03/klima-
  ki-online.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2645431@amtsfeed.de
+DTSTAMP:20261002T095650Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Beetzseebücherei
+URL:https://www.amt-beetzsee.de/veranstaltungen/2645431/2026/11/05/beetzs
+ eebücherei.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2833419@amtsfeed.de

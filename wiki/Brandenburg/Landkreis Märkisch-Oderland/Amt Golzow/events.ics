@@ -758,6 +758,32 @@ DESCRIPTION:Am Sonntag\, den 18. Oktober 2026\, spielt die The Old Fashio
 LOCATION:Kirche Manschnow
 END:VEVENT
 BEGIN:VEVENT
+UID:2977628@amtsfeed.de
+DTSTAMP:20261002T095410Z
+DTSTART:20261022T173000Z
+SUMMARY:Jetzt wird's wild!
+URL:https://www.amt-golzow.de/veranstaltungen/2977628/2026/10/22/jetzt-wi
+ rd-s-wild.html
+DESCRIPTION:Es wird wild\, bunt und voller Energie: Der Tanzkreis Fürste
+ nwalde präsentiert seine neue große Tanzshow „JETZT WIRD’S WILD!“
+ . Am 22. und 23. Oktober 2026 verwandelt sich die Oderbruch-Halle in Golz
+ ow in eine tierisch aufregende Tanzwelt. [mehr]
+LOCATION:Oderbruch-Halle Golzow
+END:VEVENT
+BEGIN:VEVENT
+UID:2977630@amtsfeed.de
+DTSTAMP:20261002T095410Z
+DTSTART:20261023T173000Z
+SUMMARY:Jetzt wird's wild!
+URL:https://www.amt-golzow.de/veranstaltungen/2977630/2026/10/23/jetzt-wi
+ rd-s-wild.html
+DESCRIPTION:Es wird wild\, bunt und voller Energie: Der Tanzkreis Fürste
+ nwalde präsentiert seine neue große Tanzshow „JETZT WIRD’S WILD!“
+ . Am 22. und 23. Oktober 2026 verwandelt sich die Oderbruch-Halle in Golz
+ ow in eine tierisch aufregende Tanzwelt. [mehr]
+LOCATION:Oderbruch-Halle Golzow
+END:VEVENT
+BEGIN:VEVENT
 UID:2952770@amtsfeed.de
 DTSTAMP:20260911T111130Z
 DTSTART:20261024T200000Z
@@ -946,19 +972,6 @@ DESCRIPTION:Das 19. Oldtimertreffen in Alt Tucheband findet vom 28. bis 3
 LOCATION:Alt Tucheband
 END:VEVENT
 BEGIN:VEVENT
-UID:2704723@amtsfeed.de
-DTSTAMP:20260911T111130Z
-DTSTART:20270904T113000Z
-DTEND:20270904T130000Z
-SUMMARY:Führung Altstadt & Festung Küstrin: Fontanes Katte-Tragödie
-URL:https://www.amt-golzow.de/veranstaltungen/2704723/2027/09/04/führung
- -altstadt-festung-küstrin-fontanes-katte-tragödie.html
-DESCRIPTION:Führung in der Festung & Altstadt von Küstrin: Die Katte-Tr
- agödie ansprechend und unterhaltsam in Szene gesetzt. Entdecken und erle
- ben Sie den historischen Ort\, wie einst Theodor Fontane. [mehr]
-LOCATION:Altstadt & Festung Küstrin
-END:VEVENT
-BEGIN:VEVENT
 UID:2326188@amtsfeed.de
 DTSTAMP:20260911T111130Z
 DTSTART:20270911T100000Z
@@ -979,6 +992,19 @@ DTSTART:20270925T113000Z
 DTEND:20270925T130000Z
 SUMMARY:Führung Altstadt & Festung Küstrin: Fontanes Katte-Tragödie
 URL:https://www.amt-golzow.de/veranstaltungen/2637282/2027/09/25/führung
+ -altstadt-festung-küstrin-fontanes-katte-tragödie.html
+DESCRIPTION:Führung in der Festung & Altstadt von Küstrin: Die Katte-Tr
+ agödie ansprechend und unterhaltsam in Szene gesetzt. Entdecken und erle
+ ben Sie den historischen Ort\, wie einst Theodor Fontane. [mehr]
+LOCATION:Altstadt & Festung Küstrin
+END:VEVENT
+BEGIN:VEVENT
+UID:2704723@amtsfeed.de
+DTSTAMP:20261002T095410Z
+DTSTART:20271002T113000Z
+DTEND:20271002T130000Z
+SUMMARY:Führung Altstadt & Festung Küstrin: Fontanes Katte-Tragödie
+URL:https://www.amt-golzow.de/veranstaltungen/2704723/2027/10/02/führung
  -altstadt-festung-küstrin-fontanes-katte-tragödie.html
 DESCRIPTION:Führung in der Festung & Altstadt von Küstrin: Die Katte-Tr
  agödie ansprechend und unterhaltsam in Szene gesetzt. Entdecken und erle

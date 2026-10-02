@@ -963,17 +963,6 @@ LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
   Schönfließ\, Treplin\, Döbberin\, Petershagen\,
 END:VEVENT
 BEGIN:VEVENT
-UID:2538590@amtsfeed.de
-DTSTAMP:20260925T085705Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/10/01/tischtenn
- is.html
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464906@amtsfeed.de
 DTSTAMP:20260926T084310Z
 DTSTART;VALUE=DATE:20261002
@@ -1159,6 +1148,17 @@ URL:https://www.amt-lebus.de/veranstaltungen/2846364/2026/10/07/bowling-f
 DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
  4 5535 g.e.garschhammer(at)gmail.com
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
+END:VEVENT
+BEGIN:VEVENT
+UID:2538590@amtsfeed.de
+DTSTAMP:20261002T095413Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/10/08/tischtenn
+ is.html
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2955770@amtsfeed.de

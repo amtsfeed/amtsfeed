@@ -322,24 +322,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2935367/2026/09/30/gong-ab
  end.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855733@amtsfeed.de
-DTSTAMP:20260925T085822Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Nordic-Walking in Vehlefanz
-URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/10/01/nordic-
- walking-in-vehlefanz.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855707@amtsfeed.de
-DTSTAMP:20260911T111217Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Die Eichstädter Tafelrunde
-URL:https://www.oberkraemer.de/veranstaltungen/2855707/2026/10/01/die-eic
- hstädter-tafelrunde.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855867@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261001
@@ -358,24 +340,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2909881/2026/10/01/tafelru
  nde.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2976147@amtsfeed.de
-DTSTAMP:20260930T095150Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Nordic-Walking
-URL:https://www.oberkraemer.de/veranstaltungen/2976147/2026/10/01/nordic-
- walking.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2976151@amtsfeed.de
-DTSTAMP:20260930T095150Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Fotogruppe Blende 7
-URL:https://www.oberkraemer.de/veranstaltungen/2976151/2026/10/01/fotogru
- ppe-blende-7.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855745@amtsfeed.de
 DTSTAMP:20260926T084425Z
 DTSTART;VALUE=DATE:20261002
@@ -383,6 +347,15 @@ DTEND;VALUE=DATE:20261003
 SUMMARY:Schach
 URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/02/schach.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2977665@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:SC Oberkrämer Schachclub
+URL:https://www.oberkraemer.de/veranstaltungen/2977665/2026/10/02/sc-ober
+ krämer-schachclub.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855754@amtsfeed.de
@@ -410,6 +383,15 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:Drachenfest - Ein bunter Himmel über Vehlefanz
 URL:https://www.oberkraemer.de/veranstaltungen/2855578/2026/10/04/drachen
  fest-ein-bunter-himmel-über-vehlefanz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2977670@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Großes Drachenfest geplant
+URL:https://www.oberkraemer.de/veranstaltungen/2977670/2026/10/04/großes
+ -drachenfest-geplant.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855689@amtsfeed.de
@@ -491,6 +473,24 @@ DTEND;VALUE=DATE:20261008
 SUMMARY:Gong-Abend
 URL:https://www.oberkraemer.de/veranstaltungen/2935369/2026/10/07/gong-ab
  end.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855733@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Nordic-Walking in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/10/08/nordic-
+ walking-in-vehlefanz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2976147@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Nordic-Walking
+URL:https://www.oberkraemer.de/veranstaltungen/2976147/2026/10/08/nordic-
+ walking.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2957551@amtsfeed.de
@@ -621,6 +621,24 @@ URL:https://www.oberkraemer.de/veranstaltungen/2961767/2026/10/15/klön-k
  affee-nachmittag-für-jedermann-frau.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2977672@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Klön-Kaffee-Nachmittag für Jedermann/-frau
+URL:https://www.oberkraemer.de/veranstaltungen/2977672/2026/10/15/klön-k
+ affee-nachmittag-für-jedermann-frau.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2977664@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Klönkaffee-Nachmittage fürJedermann/-frau
+URL:https://www.oberkraemer.de/veranstaltungen/2977664/2026/10/15/klönka
+ ffee-nachmittage-fürjedermann-frau.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855589@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261016
@@ -655,6 +673,24 @@ DTEND;VALUE=DATE:20261018
 SUMMARY:Trio Laccasax - Jazz\, Klezmer\, Tango ...
 URL:https://www.oberkraemer.de/veranstaltungen/2855591/2026/10/17/trio-la
  ccasax-jazz-klezmer-tango-.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2977673@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Historisches Herbstfest geplant
+URL:https://www.oberkraemer.de/veranstaltungen/2977673/2026/10/17/histori
+ sches-herbstfest-geplant.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2977667@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Nähclub im Heimatverein fürJedermann/-frau
+URL:https://www.oberkraemer.de/veranstaltungen/2977667/2026/10/17/nähclu
+ b-im-heimatverein-fürjedermann-frau.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962219@amtsfeed.de
@@ -793,6 +829,24 @@ URL:https://www.oberkraemer.de/veranstaltungen/2935370/2026/11/04/gong-ab
  end.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2855707@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Die Eichstädter Tafelrunde
+URL:https://www.oberkraemer.de/veranstaltungen/2855707/2026/11/05/die-eic
+ hstädter-tafelrunde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2976151@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Fotogruppe Blende 7
+URL:https://www.oberkraemer.de/veranstaltungen/2976151/2026/11/05/fotogru
+ ppe-blende-7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855877@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261105
@@ -898,6 +952,15 @@ DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Sankt Martin\, Wir sind dabei
 URL:https://www.oberkraemer.de/veranstaltungen/2961769/2026/11/11/sankt-m
+ artin-wir-sind-dabei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2977675@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Sankt Martin\, Wir sind dabei
+URL:https://www.oberkraemer.de/veranstaltungen/2977675/2026/11/11/sankt-m
  artin-wir-sind-dabei.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1025,6 +1088,15 @@ DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Klön-Kaffee-Nachmittag für Jedermann/-frau
 URL:https://www.oberkraemer.de/veranstaltungen/2961770/2026/11/19/klön-k
+ affee-nachmittag-für-jedermann-frau.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2977676@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Klön-Kaffee-Nachmittag für Jedermann/-frau
+URL:https://www.oberkraemer.de/veranstaltungen/2977676/2026/11/19/klön-k
  affee-nachmittag-für-jedermann-frau.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1163,6 +1235,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2961772/2026/12/04/buchles
  ung-mit-stephan-hähnel.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2977677@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Buchlesung mit Stephan Hähnel
+URL:https://www.oberkraemer.de/veranstaltungen/2977677/2026/12/04/buchles
+ ung-mit-stephan-hähnel.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855648@amtsfeed.de
 DTSTAMP:20260922T084022Z
 DTSTART;VALUE=DATE:20261205
@@ -1227,6 +1308,16 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855655/2026/12/10/traditi
  onelles-weihnachtslieder-singen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2977679@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Traditionelles Weihnachtslieder Singen beim letzten Klönkaffee i
+ m Jahr.
+URL:https://www.oberkraemer.de/veranstaltungen/2977679/2026/12/10/traditi
+ onelles-weihnachtslieder-singen-beim-letzten-klönkaffee-im-jahr.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2891499@amtsfeed.de
 DTSTAMP:20260922T084022Z
 DTSTART;VALUE=DATE:20261211
@@ -1261,6 +1352,15 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:Waldführung im FriedWald Oberkrämer
 URL:https://www.oberkraemer.de/veranstaltungen/2962467/2026/12/12/waldfü
  hrung-im-friedwald-oberkrämer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2977681@amtsfeed.de
+DTSTAMP:20261002T095516Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Oberkrämer Weihnachtsmarkt
+URL:https://www.oberkraemer.de/veranstaltungen/2977681/2026/12/12/oberkr
+ ämer-weihnachtsmarkt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855895@amtsfeed.de

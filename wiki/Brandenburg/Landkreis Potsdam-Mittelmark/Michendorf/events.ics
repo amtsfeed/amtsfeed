@@ -1026,15 +1026,6 @@ URL:https://www.michendorf.de/veranstaltungen/2938926/2026/09/29/rathaus-
  unterwegs-in-wilhelmshorst.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959533@amtsfeed.de
-DTSTAMP:20260925T090014Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959533/2026/10/01/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2967963@amtsfeed.de
 DTSTAMP:20260916T084625Z
 DTSTART;VALUE=DATE:20261001
@@ -1104,6 +1095,15 @@ DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Jugendclub "MICHECK" geöffnet
 URL:https://www.michendorf.de/veranstaltungen/2959538/2026/10/06/jugendcl
+ ub-micheck-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959533@amtsfeed.de
+DTSTAMP:20261002T095719Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959533/2026/10/08/jugendcl
  ub-micheck-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1352,6 +1352,15 @@ URL:https://www.michendorf.de/veranstaltungen/2646897/2026/10/25/sonntags
  -frühstück.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2978425@amtsfeed.de
+DTSTAMP:20261002T095719Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Infonachmittag "Meine Rente"
+URL:https://www.michendorf.de/veranstaltungen/2978425/2026/10/27/infonach
+ mittag-meine-rente.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2966246@amtsfeed.de
 DTSTAMP:20260914T090929Z
 DTSTART;VALUE=DATE:20261028
@@ -1377,6 +1386,24 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Lesung vom Kulturbund
 URL:https://www.michendorf.de/veranstaltungen/2937569/2026/10/30/lesung-v
  om-kulturbund.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2978133@amtsfeed.de
+DTSTAMP:20261002T095719Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Vernissage „Überall Bilder“ im Rathaus
+URL:https://www.michendorf.de/veranstaltungen/2978133/2026/11/03/vernissa
+ ge-überall-bilder-im-rathaus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2978131@amtsfeed.de
+DTSTAMP:20261002T095719Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Vernissage „Überall Bilder“ im Rathaus
+URL:https://www.michendorf.de/veranstaltungen/2978131/2026/11/03/vernissa
+ ge-überall-bilder-im-rathaus.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2965475@amtsfeed.de
@@ -1450,6 +1477,24 @@ DTEND;VALUE=DATE:20261115
 SUMMARY:Mit Klangschalen entspannt in die Herbst- und Adventszeit
 URL:https://www.michendorf.de/veranstaltungen/2950245/2026/11/14/mit-klan
  gschalen-entspannt-in-die-herbst-und-adventszeit.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2978101@amtsfeed.de
+DTSTAMP:20261002T095719Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:St. Martin Laternenumzug
+URL:https://www.michendorf.de/veranstaltungen/2978101/2026/11/14/st.-mart
+ in-laternenumzug.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2978100@amtsfeed.de
+DTSTAMP:20261002T095719Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Wer schaffen will\, muss fröhlich sein!
+URL:https://www.michendorf.de/veranstaltungen/2978100/2026/11/15/wer-scha
+ ffen-will-muss-fröhlich-sein.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2884834@amtsfeed.de

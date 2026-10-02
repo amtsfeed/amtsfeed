@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:22:14.696Z",
+  "updatedAt": "2026-10-02T09:57:19.728Z",
   "items": [
     {
       "id": "michendorf-event-2884831",
@@ -898,14 +898,6 @@
       "updatedAt": "2026-09-11T11:13:36.054Z"
     },
     {
-      "id": "michendorf-event-2959533",
-      "title": "Jugendclub \"MICHECK\" geöffnet",
-      "url": "https://www.michendorf.de/veranstaltungen/2959533/2026/10/01/jugendclub-micheck-geöffnet.html",
-      "startDate": "2026-10-01T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:11.775Z",
-      "updatedAt": "2026-09-25T09:00:14.720Z"
-    },
-    {
       "id": "michendorf-event-2967963",
       "title": "Der letzte Hilfe Kurs - Am Ende wissen wie es geht.",
       "url": "https://www.michendorf.de/veranstaltungen/2967963/2026/10/01/der-letzte-hilfe-kurs-am-ende-wissen-wie-es-geht.html",
@@ -968,6 +960,14 @@
       "startDate": "2026-10-06T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:11.775Z",
       "updatedAt": "2026-09-30T09:53:53.714Z"
+    },
+    {
+      "id": "michendorf-event-2959533",
+      "title": "Jugendclub \"MICHECK\" geöffnet",
+      "url": "https://www.michendorf.de/veranstaltungen/2959533/2026/10/08/jugendclub-micheck-geöffnet.html",
+      "startDate": "2026-10-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-10-02T09:57:19.718Z"
     },
     {
       "id": "michendorf-event-2960790",
@@ -1186,6 +1186,14 @@
       "updatedAt": "2026-09-28T10:00:12.267Z"
     },
     {
+      "id": "michendorf-event-2978425",
+      "title": "Infonachmittag \"Meine Rente\"",
+      "url": "https://www.michendorf.de/veranstaltungen/2978425/2026/10/27/infonachmittag-meine-rente.html",
+      "startDate": "2026-10-27T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:57:19.718Z",
+      "updatedAt": "2026-10-02T09:57:19.718Z"
+    },
+    {
       "id": "michendorf-event-2966246",
       "title": "Ferien-Aktion: Näh-Workshop",
       "url": "https://www.michendorf.de/veranstaltungen/2966246/2026/10/28/ferien-aktion-näh-workshop.html",
@@ -1208,6 +1216,22 @@
       "startDate": "2026-10-30T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:11.775Z",
       "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2978133",
+      "title": "Vernissage „Überall Bilder“ im Rathaus",
+      "url": "https://www.michendorf.de/veranstaltungen/2978133/2026/11/03/vernissage-überall-bilder-im-rathaus.html",
+      "startDate": "2026-11-03T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:57:19.718Z",
+      "updatedAt": "2026-10-02T09:57:19.718Z"
+    },
+    {
+      "id": "michendorf-event-2978131",
+      "title": "Vernissage „Überall Bilder“ im Rathaus",
+      "url": "https://www.michendorf.de/veranstaltungen/2978131/2026/11/03/vernissage-überall-bilder-im-rathaus.html",
+      "startDate": "2026-11-03T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:57:19.718Z",
+      "updatedAt": "2026-10-02T09:57:19.718Z"
     },
     {
       "id": "michendorf-event-2965475",
@@ -1272,6 +1296,22 @@
       "startDate": "2026-11-14T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:11.775Z",
       "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2978101",
+      "title": "St. Martin Laternenumzug",
+      "url": "https://www.michendorf.de/veranstaltungen/2978101/2026/11/14/st.-martin-laternenumzug.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:57:19.718Z",
+      "updatedAt": "2026-10-02T09:57:19.718Z"
+    },
+    {
+      "id": "michendorf-event-2978100",
+      "title": "Wer schaffen will, muss fröhlich sein!",
+      "url": "https://www.michendorf.de/veranstaltungen/2978100/2026/11/15/wer-schaffen-will-muss-fröhlich-sein.html",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:57:19.718Z",
+      "updatedAt": "2026-10-02T09:57:19.718Z"
     },
     {
       "id": "michendorf-event-2884834",

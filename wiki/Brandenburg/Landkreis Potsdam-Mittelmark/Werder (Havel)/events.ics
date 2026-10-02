@@ -5209,8 +5209,8 @@ LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167745@amtsfeed.de
-DTSTAMP:20261001T102242Z
-DTSTART:20261001T102242Z
+DTSTAMP:20261002T095742Z
+DTSTART:20261002T095742Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167745
@@ -5218,8 +5218,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167924@amtsfeed.de
-DTSTAMP:20261001T102242Z
-DTSTART:20261001T102242Z
+DTSTAMP:20261002T095742Z
+DTSTART:20261002T095742Z
 SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167924
@@ -5227,13 +5227,59 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99212079@amtsfeed.de
-DTSTAMP:20261001T102242Z
-DTSTART:20261001T102242Z
+DTSTAMP:20261002T095742Z
+DTSTART:20261002T095742Z
 SUMMARY:Ökofilmgespräch - "Wie geht Natur?!" Von deutsch-deutscher Natu
  rschutz-Revolution bis N...
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99212079
 LOCATION:Uferhaus im Uferwerk
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99167746@amtsfeed.de
+DTSTAMP:20261002T095742Z
+DTSTART:20261002T095742Z
+SUMMARY:Rundfahrt nach Potsdam
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167746
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99135627@amtsfeed.de
+DTSTAMP:20261002T095742Z
+DTSTART:20261002T095742Z
+SUMMARY:Sonderausstellung „Prof. Franz Ackermann\, Kollegen und Meister
+ schüler“
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99135627
+LOCATION:Christian-Morgenstern Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99217235@amtsfeed.de
+DTSTAMP:20261002T095742Z
+DTSTART:20261002T095742Z
+SUMMARY:formalästhetisch - Christoph Mertens | Max Stiller
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99217235
+LOCATION:Stadtgalerie KUNST-GESCHOSS
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99167925@amtsfeed.de
+DTSTAMP:20261002T095742Z
+DTSTART:20261002T095742Z
+SUMMARY:Kleine Seenrundfahrt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167925
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99113835@amtsfeed.de
+DTSTAMP:20261002T095742Z
+DTSTART:20261002T095742Z
+SUMMARY:Nachtwächterrundgang
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99113835
+LOCATION:Insel Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99139360@amtsfeed.de
@@ -5252,52 +5298,6 @@ SUMMARY:Ökofilmgespräch: Wie geht Natur?!
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99206292
 LOCATION:Uferhaus im Uferwerk
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99167746@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261003T103000Z
-SUMMARY:Rundfahrt nach Potsdam
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167746
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99135627@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261003T130000Z
-SUMMARY:Sonderausstellung „Prof. Franz Ackermann\, Kollegen und Meister
- schüler“
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99135627
-LOCATION:Christian-Morgenstern Museum
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99217235@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261003T130000Z
-SUMMARY:formalästhetisch - Christoph Mertens | Max Stiller
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99217235
-LOCATION:Stadtgalerie KUNST-GESCHOSS
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99167925@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261003T140000Z
-SUMMARY:Kleine Seenrundfahrt
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167925
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99113835@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261003T190000Z
-SUMMARY:Nachtwächterrundgang
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99113835
-LOCATION:Insel Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167747@amtsfeed.de
@@ -6093,6 +6093,16 @@ SUMMARY:„UND WEIL DER MENSCH EIN MENSCH IST...“
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99128746
 LOCATION:Kulturkirche Petzow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99226904@amtsfeed.de
+DTSTAMP:20261002T095742Z
+DTSTART:20261025T110000Z
+SUMMARY:Saisonabschlussführung der Gilde der Stadtführer Werder (Havel)
+  e.V.
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99226904
+LOCATION:Insel Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99116400@amtsfeed.de

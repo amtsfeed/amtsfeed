@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T10:00:42.106Z",
+  "updatedAt": "2026-10-02T09:56:26.379Z",
   "items": [
     {
       "id": "veranstaltungen-2814562-2026-05-06-digitaltreff-die-technik-von-heute-verstehen.html",
@@ -6670,6 +6670,14 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2977698-2026-10-16-mit-der-guten-stube-auf-zeitreise-busfahrt-nach-berlin.html",
+      "title": "Mit der Guten Stube auf Zeitreise - BUSFAHRT nach Berlin",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2977698/2026/10/16/mit-der-guten-stube-auf-zeitreise-busfahrt-nach-berlin.html",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:56:26.358Z",
+      "updatedAt": "2026-10-02T09:56:26.358Z"
+    },
+    {
       "id": "veranstaltungen-2825271-2026-10-16-sprechstunde-für-familien.html",
       "title": "Sprechstunde für Familien",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2825271/2026/10/16/sprechstunde-für-familien.html",
@@ -6854,6 +6862,15 @@
       "endDate": "2026-10-21T12:00:00.000Z",
       "fetchedAt": "2026-09-22T08:41:25.316Z",
       "updatedAt": "2026-09-22T08:41:25.316Z"
+    },
+    {
+      "id": "veranstaltungen-2977699-2026-10-21-vortrag-auf-zeitreise-mit-der-guten-stube.html",
+      "title": "VORTRAG: Auf Zeitreise mit der Guten Stube.",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2977699/2026/10/21/vortrag-auf-zeitreise-mit-der-guten-stube.html",
+      "startDate": "2026-10-21T14:30:00.000Z",
+      "location": "Die Gute Stube",
+      "fetchedAt": "2026-10-02T09:56:26.358Z",
+      "updatedAt": "2026-10-02T09:56:26.358Z"
     },
     {
       "id": "veranstaltungen-2825188-2026-10-21-familienkaffee.html",
@@ -7054,6 +7071,15 @@
       "updatedAt": "2026-05-06T20:21:23.625Z"
     },
     {
+      "id": "veranstaltungen-2977700-2026-10-27-der-filmclub.html",
+      "title": "Der Filmclub",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2977700/2026/10/27/der-filmclub.html",
+      "startDate": "2026-10-27T10:00:00.000Z",
+      "location": "Die Gute Stube",
+      "fetchedAt": "2026-10-02T09:56:26.358Z",
+      "updatedAt": "2026-10-02T09:56:26.358Z"
+    },
+    {
       "id": "veranstaltungen-2814561-2026-10-27-sanft-bewegt.html",
       "title": "Sanft bewegt",
       "url": "https://www.gruenheide-mark.de/veranstaltungen/2814561/2026/10/27/sanft-bewegt.html",
@@ -7099,6 +7125,15 @@
       "location": "Die Gute Stube",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-06T20:21:23.625Z"
+    },
+    {
+      "id": "veranstaltungen-2977702-2026-10-28-herbstbastelei-für-die-gute-stube-und-für-zuhause.html",
+      "title": "HERBSTBASTELEI - für die Gute Stube und für Zuhause",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2977702/2026/10/28/herbstbastelei-für-die-gute-stube-und-für-zuhause.html",
+      "startDate": "2026-10-28T14:30:00.000Z",
+      "location": "Die Gute Stube",
+      "fetchedAt": "2026-10-02T09:56:26.358Z",
+      "updatedAt": "2026-10-02T09:56:26.358Z"
     },
     {
       "id": "veranstaltungen-2825188-2026-10-28-familienkaffee.html",
@@ -7737,6 +7772,26 @@
       "location": "Eltern-Kind-Zentrum Grünheide (Mark)",
       "fetchedAt": "2026-05-06T08:09:31.104Z",
       "updatedAt": "2026-05-26T09:04:36.284Z"
+    },
+    {
+      "id": "veranstaltungen-2978074-2026-11-14-nähen-für-familien-mit-herzkranken-kindern.html",
+      "title": "Nähen für Familien mit herzkranken Kindern",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2978074/2026/11/14/nähen-für-familien-mit-herzkranken-kindern.html",
+      "startDate": "2026-11-14T10:00:00.000Z",
+      "endDate": "2026-11-14T18:00:00.000Z",
+      "location": "Bürgerhaus Hangelsberg",
+      "fetchedAt": "2026-10-02T09:56:26.358Z",
+      "updatedAt": "2026-10-02T09:56:26.358Z"
+    },
+    {
+      "id": "veranstaltungen-2978076-2026-11-15-nähen-für-familien-mit-herzkranken-kindern.html",
+      "title": "Nähen für Familien mit herzkranken Kindern",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2978076/2026/11/15/nähen-für-familien-mit-herzkranken-kindern.html",
+      "startDate": "2026-11-15T10:00:00.000Z",
+      "endDate": "2026-11-15T14:00:00.000Z",
+      "location": "Bürgerhaus Hangelsberg",
+      "fetchedAt": "2026-10-02T09:56:26.358Z",
+      "updatedAt": "2026-10-02T09:56:26.358Z"
     },
     {
       "id": "veranstaltungen-2868024-2026-11-15-piano-live-concert.html",
@@ -8944,6 +8999,16 @@
       "endDate": "2026-12-16T12:00:00.000Z",
       "fetchedAt": "2026-09-22T08:41:25.316Z",
       "updatedAt": "2026-09-22T08:41:25.316Z"
+    },
+    {
+      "id": "veranstaltungen-2978032-2026-12-16-seniorenweihnachtsfeier-grünheide.html",
+      "title": "Seniorenweihnachtsfeier Grünheide",
+      "url": "https://www.gruenheide-mark.de/veranstaltungen/2978032/2026/12/16/seniorenweihnachtsfeier-grünheide.html",
+      "startDate": "2026-12-16T14:00:00.000Z",
+      "endDate": "2026-12-16T18:00:00.000Z",
+      "location": "Wirtshaus \"Heidereuter am Peetzsee\"",
+      "fetchedAt": "2026-10-02T09:56:26.358Z",
+      "updatedAt": "2026-10-02T09:56:26.358Z"
     },
     {
       "id": "veranstaltungen-2825188-2026-12-16-familienkaffee.html",

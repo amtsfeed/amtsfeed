@@ -1265,6 +1265,16 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/300
 LOCATION:Ambulantes Pflegeteam Denny Schulz GmbH
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-16102026-ausstellung-nauener-stolpersteine-20260930@amtsf
+ eed.de
+DTSTAMP:20261002T095128Z
+DTSTART:20260930T220000Z
+SUMMARY:Ausstellung „Nauener Stolpersteine“
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/161
+ 02026-ausstellung-nauener-stolpersteine/
+LOCATION:Richart-Hof
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-01102026-frischemarkt-auf-dem-nauener-rathausplatz-202610
  01@amtsfeed.de
 DTSTAMP:20260911T110742Z
@@ -1382,6 +1392,15 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/071
 LOCATION:Ambulantes Pflegeteam Denny Schulz GmbH
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-07102026-seniorenessen-20261007@amtsfeed.de
+DTSTAMP:20261002T095128Z
+DTSTART:20261007T093000Z
+SUMMARY:Seniorenessen
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/071
+ 02026-seniorenessen/
+LOCATION:Restaurant "Nauener Hof"
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-0810206-frischemarkt-auf-dem-nauener-rathausplatz-2026100
  8@amtsfeed.de
 DTSTAMP:20260911T110742Z
@@ -1469,6 +1488,15 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/101
 LOCATION:Martin-Luther-Platz
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-10102026-kreativmarkt-20261010@amtsfeed.de
+DTSTAMP:20261002T095128Z
+DTSTART:20261010T090000Z
+SUMMARY:KreativMarkt
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/101
+ 02026-kreativmarkt/
+LOCATION:Mehrzweckhalle Graf von Arco Schule
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-10102026-gratis-kinder-kino-im-stadtbadcafé-20261010@amt
  sfeed.de
 DTSTAMP:20261001T101416Z
@@ -1521,6 +1549,17 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/121
  02026-let-s-talk-about-schwaechen-abendreihe-fuer-familien-vom-leonardo-d
  a-vinci-campus-nauen/
 LOCATION:Leonardo Da Vinci Campus Nauen
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-13102026-17-europaeisches-filmfestival-der-generationen-2
+ 0261013@amtsfeed.de
+DTSTAMP:20261002T095128Z
+DTSTART:20261013T120000Z
+SUMMARY:17. Europäisches Filmfestival der Generationen / Filmvorführung
+  im Richart-Hof
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/131
+ 02026-17-europaeisches-filmfestival-der-generationen/
+LOCATION:Richart-Hof
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-13102026-berliner-luft-20261013@amtsfeed.de
@@ -1583,6 +1622,15 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/171
 LOCATION:Rathausplatz
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-21102026-seniorenessen-20261021@amtsfeed.de
+DTSTAMP:20261002T095128Z
+DTSTART:20261021T100000Z
+SUMMARY:Seniorenessen
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/211
+ 02026-seniorenessen/
+LOCATION:Stadtbad Nauen
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-221026-frischemarkt-auf-dem-nauener-rathausplatz-20261022
  @amtsfeed.de
 DTSTAMP:20260930T094720Z
@@ -1591,6 +1639,15 @@ SUMMARY:Frischemarkt auf dem Nauener Rathausplatz
 URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/221
  026-frischemarkt-auf-dem-nauener-rathausplatz/
 LOCATION:Rathausplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-22102026-kommunalcafé-20261022@amtsfeed.de
+DTSTAMP:20261002T095128Z
+DTSTART:20261022T140000Z
+SUMMARY:Kommunalcafé in Ribbeck
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/221
+ 02026-kommunalcafé/
+LOCATION:Dorfgemeinschaftshaus Ribbeck
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-23102026-tango-clandestino-im-café-mediterrano-jeden-fre

@@ -1239,15 +1239,6 @@ URL:https://www.teltow.de/veranstaltungen/2924792/2026/09/30/sportgruppe.
  html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2699683@amtsfeed.de
-DTSTAMP:20260925T090028Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Repair Caf&eacute\; Teltow
-URL:https://www.teltow.de/veranstaltungen/2699683/2026/10/01/repair-café
- -teltow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2966627@amtsfeed.de
 DTSTAMP:20260914T090954Z
 DTSTART;VALUE=DATE:20261001
@@ -1327,6 +1318,15 @@ DTEND;VALUE=DATE:20261008
 SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
 URL:https://www.teltow.de/veranstaltungen/2930017/2026/10/07/offener-lern
  raum-lesen-schreiben-rechnen-basis-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2699683@amtsfeed.de
+DTSTAMP:20261002T095738Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Repair Caf&eacute\; Teltow
+URL:https://www.teltow.de/veranstaltungen/2699683/2026/10/08/repair-café
+ -teltow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2963942@amtsfeed.de
@@ -1928,6 +1928,15 @@ URL:https://www.teltow.de/veranstaltungen/2972392/2026/11/24/teltower-sal
  on-jung-alt-gemeinsam-für-teltow.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2978092@amtsfeed.de
+DTSTAMP:20261002T095738Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Wie heizen wir in Zukunft?
+URL:https://www.teltow.de/veranstaltungen/2978092/2026/11/24/wie-heizen-w
+ ir-in-zukunft.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2972255@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261125
@@ -2007,6 +2016,15 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:"Henri Haselmaus und die leckersten Plätzchen der Welt"
 URL:https://www.teltow.de/veranstaltungen/2973546/2026/12/01/henri-haselm
  aus-und-die-leckersten-plätzchen-der-welt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2978172@amtsfeed.de
+DTSTAMP:20261002T095738Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Weihnachtssingen
+URL:https://www.teltow.de/veranstaltungen/2978172/2026/12/01/weihnachtssi
+ ngen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972339@amtsfeed.de

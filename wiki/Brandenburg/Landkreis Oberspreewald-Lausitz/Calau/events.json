@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:19:57.944Z",
+  "updatedAt": "2026-10-02T09:55:28.421Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -746,14 +746,6 @@
       "updatedAt": "2026-09-25T08:58:45.166Z"
     },
     {
-      "id": "calau-event-2290342",
-      "title": "01.10.2026   Calauer Wochenmarkt",
-      "url": "https://www.calau.de/veranstaltungen/2290342/2026/10/01/calauer-wochenmarkt.html",
-      "startDate": "2026-10-01T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-09-30T09:52:10.003Z"
-    },
-    {
       "id": "calau-event-2960235",
       "title": "01.10.2026   Krabbelgruppe in der Kita Kunterbunt",
       "url": "https://www.calau.de/veranstaltungen/2960235/2026/10/01/krabbelgruppe-in-der-kita-kunterbunt.html",
@@ -795,11 +787,11 @@
     },
     {
       "id": "calau-event-2964713",
-      "title": "Festgottesdienst zur Orgelweihe & Erntedank",
+      "title": "04.10.2026   Festgottesdienst zur Orgelweihe & Erntedank",
       "url": "https://www.calau.de/veranstaltungen/2964713/2026/10/04/festgottesdienst-zur-orgelweihe-erntedank.html",
       "startDate": "2026-10-04T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
-      "updatedAt": "2026-09-11T11:12:29.188Z"
+      "updatedAt": "2026-10-02T09:55:28.410Z"
     },
     {
       "id": "calau-event-2969282",
@@ -808,6 +800,14 @@
       "startDate": "2026-10-04T00:00:00.000Z",
       "fetchedAt": "2026-09-18T08:25:07.858Z",
       "updatedAt": "2026-09-18T08:25:07.858Z"
+    },
+    {
+      "id": "calau-event-2290342",
+      "title": "Calauer Wochenmarkt",
+      "url": "https://www.calau.de/veranstaltungen/2290342/2026/10/06/calauer-wochenmarkt.html",
+      "startDate": "2026-10-06T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-10-02T09:55:28.410Z"
     },
     {
       "id": "calau-event-1906922",

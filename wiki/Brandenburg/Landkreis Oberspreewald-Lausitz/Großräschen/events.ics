@@ -399,15 +399,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2799794/2026/09/29/reise
  vortrag-zu-st.-michaelis.html
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2957487@amtsfeed.de
-DTSTAMP:20260911T111229Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Tanzcaf&eacute\; mit dem Team Tanzwünsche
-URL:https://www.grossraeschen.de/veranstaltungen/2957487/2026/10/01/tanzc
- afé-mit-dem-team-tanzwünsche.html
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2957508@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261002
@@ -442,6 +433,15 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:Mühlenherbstfest
 URL:https://www.grossraeschen.de/veranstaltungen/2975103/2026/10/04/mühl
  enherbstfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2952471@amtsfeed.de
+DTSTAMP:20261002T095529Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Erntedankfest in Wormlage
+URL:https://www.grossraeschen.de/veranstaltungen/2952471/2026/10/04/ernte
+ dankfest-in-wormlage.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2791037@amtsfeed.de
@@ -660,6 +660,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2967820/2026/11/02/herzl
  iche-einladung-zum-mitbring-frühstück.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2957487@amtsfeed.de
+DTSTAMP:20261002T095529Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Tanzcaf&eacute\; mit dem Team Tanzwünsche
+URL:https://www.grossraeschen.de/veranstaltungen/2957487/2026/11/05/tanzc
+ afé-mit-dem-team-tanzwünsche.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2957428@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261108
@@ -685,6 +694,15 @@ DTEND;VALUE=DATE:20261109
 SUMMARY:Gottesdienst in Allmosen
 URL:https://www.grossraeschen.de/veranstaltungen/2957424/2026/11/08/gotte
  sdienst-in-allmosen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2619797@amtsfeed.de
+DTSTAMP:20261002T095529Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Ritter-Wormlitz-Lauf
+URL:https://www.grossraeschen.de/veranstaltungen/2619797/2026/11/08/ritte
+ r-wormlitz-lauf.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2957434@amtsfeed.de
@@ -721,6 +739,15 @@ DTEND;VALUE=DATE:20261112
 SUMMARY:Karneval des GCC - Start der 48 Session
 URL:https://www.grossraeschen.de/veranstaltungen/2735547/2026/11/11/karne
  val-des-gcc-start-der-48-session.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2796271@amtsfeed.de
+DTSTAMP:20261002T095529Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Martinsumzug
+URL:https://www.grossraeschen.de/veranstaltungen/2796271/2026/11/11/marti
+ nsumzug.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2961249@amtsfeed.de
@@ -949,6 +976,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2799803/2027/01/02/neuja
  hrsdorfdisco-saalhausen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2377757@amtsfeed.de
+DTSTAMP:20261002T095529Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Weihnachtsbaumbrennen
+URL:https://www.grossraeschen.de/veranstaltungen/2377757/2027/01/09/weihn
+ achtsbaumbrennen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2975895@amtsfeed.de
 DTSTAMP:20260929T095942Z
 DTSTART;VALUE=DATE:20270122
@@ -1012,6 +1048,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2799801/2027/03/27/oster
  feuer.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2376275@amtsfeed.de
+DTSTAMP:20261002T095529Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Osterfeuer
+URL:https://www.grossraeschen.de/veranstaltungen/2376275/2027/03/27/oster
+ feuer.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2975914@amtsfeed.de
 DTSTAMP:20260929T095942Z
 DTSTART;VALUE=DATE:20270418
@@ -1037,6 +1082,15 @@ DTEND;VALUE=DATE:20270501
 SUMMARY:Maibaumstellen
 URL:https://www.grossraeschen.de/veranstaltungen/2975963/2027/04/30/maiba
  umstellen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2376277@amtsfeed.de
+DTSTAMP:20261002T095529Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Maibaum aufstellen
+URL:https://www.grossraeschen.de/veranstaltungen/2376277/2027/04/30/maiba
+ um-aufstellen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2975886@amtsfeed.de
@@ -1082,6 +1136,15 @@ DTEND;VALUE=DATE:20270620
 SUMMARY:Dorffest Saalhausen
 URL:https://www.grossraeschen.de/veranstaltungen/2721706/2027/06/19/dorff
  est-saalhausen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2376278@amtsfeed.de
+DTSTAMP:20261002T095529Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:12. Kutschentreffen
+URL:https://www.grossraeschen.de/veranstaltungen/2376278/2027/07/03/12.-k
+ utschentreffen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2975969@amtsfeed.de

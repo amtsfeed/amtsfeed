@@ -839,24 +839,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928855/2026/09/30/semi
  tes-über-demenzerkrankungen.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2424341@amtsfeed.de
-DTSTAMP:20260925T090036Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/10/01/fami
- liensprechzeiten-elternberatung-im-familienzentrum.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907844@amtsfeed.de
-DTSTAMP:20260925T090036Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Migrationsberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/10/01/migr
- ationsberatung-im-familienzentrum.html
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973363@amtsfeed.de
 DTSTAMP:20260924T083925Z
 DTSTART;VALUE=DATE:20261001
@@ -1051,6 +1033,24 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928856/2026/10/07/semi
  it-demenz-verstehen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2424341@amtsfeed.de
+DTSTAMP:20261002T095747Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/10/08/fami
+ liensprechzeiten-elternberatung-im-familienzentrum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907844@amtsfeed.de
+DTSTAMP:20261002T095747Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Migrationsberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/10/08/migr
+ ationsberatung-im-familienzentrum.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2907847@amtsfeed.de
 DTSTAMP:20260925T090036Z
 DTSTART;VALUE=DATE:20261008
@@ -1172,6 +1172,16 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2973856/2026/10/24/akti
  onstag-feuer-und-flamme-für-unsere-museen-in-görzke.html
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2978323@amtsfeed.de
+DTSTAMP:20261002T095747Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:MIT VOLLDAMPF INS MUSEUM! Aktionstag „Feuer und Flamme für uns
+ ere Museen“
+URL:https://www.wiesenburgmark.de/veranstaltungen/2978323/2026/10/24/mit-
+ volldampf-ins-museum-aktionstag-feuer-und-flamme-für-unsere-museen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928862@amtsfeed.de
 DTSTAMP:20260911T111350Z
 DTSTART;VALUE=DATE:20261028
@@ -1208,6 +1218,17 @@ DTEND;VALUE=DATE:20261101
 SUMMARY:Vernissage
 URL:https://www.wiesenburgmark.de/veranstaltungen/2977335/2026/10/31/vern
  issage.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2978155@amtsfeed.de
+DTSTAMP:20261002T095747Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Tag der Offenen Höfe am 1. November – zwei neue Mitglieder ste
+ llen sich vor
+URL:https://www.wiesenburgmark.de/veranstaltungen/2978155/2026/11/01/tag-
+ der-offenen-höfe-am-1.-november--zwei-neue-mitglieder-stellen-sich-vor.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973355@amtsfeed.de

@@ -618,15 +618,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2953628/2026/09/30/se
  niorenveranstaltung-gemeinsam-statt-einsam-in-merzdorf.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2897451@amtsfeed.de
-DTSTAMP:20260925T085303Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Krabbelgruppe Kita Gröden
-URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/10/01/kr
- abbelgruppe-kita-gröden.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2829854@amtsfeed.de
 DTSTAMP:20260508T183740Z
 DTSTART;VALUE=DATE:20261002
@@ -760,6 +751,15 @@ DTEND;VALUE=DATE:20261008
 SUMMARY:Rehasport in Großthiemig
 URL:https://www.amt-schradenland.de/veranstaltungen/2972185/2026/10/07/re
  hasport-in-großthiemig.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2897451@amtsfeed.de
+DTSTAMP:20261002T095027Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Krabbelgruppe Kita Gröden
+URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/10/08/kr
+ abbelgruppe-kita-gröden.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2953407@amtsfeed.de

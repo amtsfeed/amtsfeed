@@ -3148,6 +3148,15 @@ URL:https://www.falkensee.de/veranstaltungen/2958631/2026/10/04/erntedank
  -in-der-finkenkruger-kirche.html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2977919-20261004@amtsfeed.de
+DTSTAMP:20261002T095101Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Offener Garten und Galerie
+URL:https://www.falkensee.de/veranstaltungen/2977919/2026/10/04/offener-g
+ arten-und-galerie.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2835029-20261005@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261005
@@ -3573,6 +3582,15 @@ SUMMARY:DMSG-Selbsthilfegrupppe Falkensee für Betroffene\, Angehörige u
 URL:https://www.falkensee.de/veranstaltungen/2483646/2026/10/19/dmsg-selb
  sthilfegrupppe-falkensee-für-betroffene-angehörige-und-interessierte.ht
  ml
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2978047-20261019@amtsfeed.de
+DTSTAMP:20261002T095101Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Ehrenamtsstammtisch
+URL:https://www.falkensee.de/veranstaltungen/2978047/2026/10/19/ehrenamts
+ stammtisch.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2188424-20261020@amtsfeed.de
@@ -4319,6 +4337,15 @@ DTEND;VALUE=DATE:20261112
 SUMMARY:Selbsthilfegruppe Krebs
 URL:https://www.falkensee.de/veranstaltungen/2421154/2026/11/11/selbsthil
  fegruppe-krebs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2978068-20261112@amtsfeed.de
+DTSTAMP:20261002T095101Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:89. Falkenseer Frauenstammtisch
+URL:https://www.falkensee.de/veranstaltungen/2978068/2026/11/12/89.-falke
+ nseer-frauenstammtisch.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2900963-20261114@amtsfeed.de
@@ -5268,6 +5295,15 @@ URL:https://www.falkensee.de/veranstaltungen/2405552/2026/12/30/singkreis
  .html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2978067-20261231@amtsfeed.de
+DTSTAMP:20261002T095101Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Silvesterkonzert der Berliner Philharmoniker live im Kino
+URL:https://www.falkensee.de/veranstaltungen/2978067/2026/12/31/silvester
+ konzert-der-berliner-philharmoniker-live-im-kino.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2583778-20270102@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20270102
@@ -5942,6 +5978,15 @@ DTEND;VALUE=DATE:20270311
 SUMMARY:Singkreis
 URL:https://www.falkensee.de/veranstaltungen/2405552/2027/03/10/singkreis
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2977889-20270313@amtsfeed.de
+DTSTAMP:20261002T095101Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Umwelttag 2027 lädt zum Frühjahrsputz im Stadtgebiet ein
+URL:https://www.falkensee.de/veranstaltungen/2977889/2027/03/13/umwelttag
+ -2027-lädt-zum-frühjahrsputz-im-stadtgebiet-ein.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2478387-20270314@amtsfeed.de
@@ -7840,5 +7885,14 @@ DTEND;VALUE=DATE:20270930
 SUMMARY:Elternfrühstück im Weltladen
 URL:https://www.falkensee.de/veranstaltungen/2321277/2027/09/29/elternfr
  ühstück-im-weltladen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2583778-20271002@amtsfeed.de
+DTSTAMP:20261002T095101Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:Stammtisch "Triff uns im Havelland"
+URL:https://www.falkensee.de/veranstaltungen/2583778/2027/10/02/stammtisc
+ h-triff-uns-im-havelland.html
 END:VEVENT
 END:VCALENDAR

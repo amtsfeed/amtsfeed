@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T09:49:15.951Z",
+  "updatedAt": "2026-10-03T09:11:57.813Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -822,6 +822,23 @@
       "startDate": "2026-10-04T15:00:00.000Z",
       "fetchedAt": "2026-10-02T09:49:15.940Z",
       "updatedAt": "2026-10-02T09:49:15.940Z"
+    },
+    {
+      "id": "wein-weib-und-gesang",
+      "title": "Wein, Weib und Gesang",
+      "url": "https://www.eberswalde.de/termine/wein-weib-und-gesang",
+      "startDate": "2026-10-04T16:00:00.000Z",
+      "fetchedAt": "2026-10-03T09:11:57.806Z",
+      "updatedAt": "2026-10-03T09:11:57.806Z"
+    },
+    {
+      "id": "das-schoene-leben",
+      "title": "Das schöne Leben",
+      "url": "https://www.eberswalde.de/termine/das-schoene-leben",
+      "startDate": "2026-10-05T10:00:00.000Z",
+      "endDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-10-03T09:11:57.806Z",
+      "updatedAt": "2026-10-03T09:11:57.806Z"
     }
   ]
 }

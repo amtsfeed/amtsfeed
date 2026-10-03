@@ -1,5 +1,67 @@
 # Updates
 
+## 2026-10-03 09:21
+
+Insgesamt **400 neu**, **213 aktualisiert**, **0 entfernt** in 55 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Golzow | — | ~1 | — | — |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Niemegk | +1 | +1 / ~1 | — | — |
+| Amt Ortrand | — | — | +1 | — |
+| Amt Plessa | — | ~1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | ~1 | — | — |
+| Amt Schlaubetal | — | — | +1 | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Belzig | — | +1 | — | — |
+| Beeskow | — | — | +1 | — |
+| Bernau bei Berlin | +1 | +8 / ~8 | — | — |
+| Brieselang | +1 | — | — | — |
+| Calau | +1 | ~2 | — | — |
+| Doberlug-Kirchhain | — | +1 | — | — |
+| Eberswalde | — | +2 | — | — |
+| Eichwalde | — | +2 | — | — |
+| Eisenhüttenstadt | ~2 | +1 / ~1 | — | — |
+| Erkner | +3 / ~1 | — | — | — |
+| Falkensee | +3 | ~1 | — | — |
+| Fredersdorf-Vogelsdorf | — | +38 | — | — |
+| Friedland | — | ~2 | — | — |
+| Fürstenberg-Havel | +1 | — | — | ~2 |
+| Fürstenwalde-Spree | +1 | +3 | — | — |
+| Glienicke-Nordbahn | — | ~1 | — | — |
+| Groß Kreutz | — | ~25 | — | — |
+| Großräschen | — | +1 | — | — |
+| Ketzin Havel | +1 | — | — | — |
+| Kleinmachnow | — | +2 | — | — |
+| Kremmen | +1 | — | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +1 | — | — |
+| Lübbenau Spreewald | — | +191 / ~71 | — | — |
+| Luckau | +1 | — | — | — |
+| Michendorf | — | ~1 | — | — |
+| Mühlenbecker Land | — | +3 | — | — |
+| Oberkrämer | +2 | ~1 | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | — | +1 / ~4 | — | — |
+| Oranienburg | +1 | +2 | — | +2 |
+| Premnitz | +1 | +18 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schorfheide | — | +3 | — | — |
+| Schwielowsee | — | +10 | — | — |
+| Senftenberg | — | +6 | — | — |
+| Storkow (Mark) | +2 | +1 | — | — |
+| Strausberg | +5 | +35 | — | — |
+| Tauche | — | ~1 | — | — |
+| Teltow | — | ~1 | — | — |
+| Treuenbrietzen | +1 | — | — | — |
+| Velten | +1 | ~1 | — | — |
+| Vetschau Spreewald | — | +25 / ~3 | — | — |
+| Werder (Havel) | — | +10 / ~11 | — | — |
+| Werneuchen | — | +1 | — | — |
+| Wiesenburg-Mark | — | ~4 | — | — |
+
 ## 2026-10-02 09:57
 
 Insgesamt **211 neu**, **133 aktualisiert**, **1 entfernt** in 74 Quellen.

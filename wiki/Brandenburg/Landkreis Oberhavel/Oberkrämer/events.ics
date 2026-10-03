@@ -340,15 +340,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2909881/2026/10/01/tafelru
  nde.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855745@amtsfeed.de
-DTSTAMP:20260926T084425Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Schach
-URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/02/schach.
- html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2977665@amtsfeed.de
 DTSTAMP:20261002T095516Z
 DTSTART;VALUE=DATE:20261002
@@ -501,6 +492,15 @@ SUMMARY:Seniorenveranstaltung - Busfahrt - Böhmische Blasmusik im Rosenw
  irt
 URL:https://www.oberkraemer.de/veranstaltungen/2957551/2026/10/08/seniore
  nveranstaltung-busfahrt-böhmische-blasmusik-im-rosenwirt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855745@amtsfeed.de
+DTSTAMP:20261003T091827Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Schach
+URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/09/schach.
+ html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2959880@amtsfeed.de

@@ -925,6 +925,16 @@ URL:https://www.seelow.de/veranstaltungen/2954565/2026/10/11/theater-herb
 LOCATION:Kulturhaus Seelow
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2978433-2026-10-14-benefizkonzert-des-landespolizeior
+ chester-brandenburg.html@amtsfeed.de
+DTSTAMP:20261003T091728Z
+DTSTART:20261014T183000Z
+SUMMARY:Benefizkonzert des Landespolizeiorchester Brandenburg
+URL:https://www.seelow.de/veranstaltungen/2978433/2026/10/14/benefizkonze
+ rt-des-landespolizeiorchester-brandenburg.html
+LOCATION:Bürgerhaus Neuenhagen
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2960912-2026-10-15-lesungen-mit-autorin-lotte-schweiz
  er-für-die-1.-bis-4.-klassen.html@amtsfeed.de
 DTSTAMP:20260911T111142Z
@@ -1013,9 +1023,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863697-2026-10-31-halloweenfeuer-und-party-in-werbig
  .html@amtsfeed.de
-DTSTAMP:20260929T095819Z
+DTSTAMP:20261003T091728Z
 DTSTART:20261031T170000Z
-DTEND:20261101T150000Z
+DTEND:20261101T100000Z
 SUMMARY:Halloweenfeuer- und party in Werbig
 URL:https://www.seelow.de/veranstaltungen/2863697/2026/10/31/halloweenfeu
  er-und-party-in-werbig.html
@@ -1249,9 +1259,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865426-2026-11-29-keramikausstellung-zum-1.-advent.h
  tml@amtsfeed.de
-DTSTAMP:20260929T095819Z
+DTSTAMP:20261003T091729Z
 DTSTART:20261129T150000Z
-DTEND:20261130T150000Z
+DTEND:20261130T100000Z
 SUMMARY:Keramikausstellung zum 1. Advent
 URL:https://www.seelow.de/veranstaltungen/2865426/2026/11/29/keramikausst
  ellung-zum-1.-advent.html
@@ -1328,9 +1338,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865430-2026-12-14-weihnachtskino-mit-buchbasar.html@
  amtsfeed.de
-DTSTAMP:20260929T095820Z
+DTSTAMP:20261003T091729Z
 DTSTART:20261214T190000Z
-DTEND:20261215T150000Z
+DTEND:20261215T100000Z
 SUMMARY:Weihnachtskino mit Buchbasar
 URL:https://www.seelow.de/veranstaltungen/2865430/2026/12/14/weihnachtski
  no-mit-buchbasar.html
@@ -1348,9 +1358,9 @@ LOCATION:Kulturhaus Seelow
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865433-2027-01-16-neujahrsfeuer.html@amtsfeed.de
-DTSTAMP:20260929T095820Z
+DTSTAMP:20261003T091730Z
 DTSTART:20270116T160000Z
-DTEND:20270117T150000Z
+DTEND:20270117T100000Z
 SUMMARY:Neujahrsfeuer
 URL:https://www.seelow.de/veranstaltungen/2865433/2027/01/16/neujahrsfeue
  r.html

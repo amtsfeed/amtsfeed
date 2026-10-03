@@ -2598,6 +2598,16 @@ URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
 LOCATION:Groß Schönebeck - Wildpark Schorfheide
 END:VEVENT
 BEGIN:VEVENT
+UID:99227020@amtsfeed.de
+DTSTAMP:20261003T091201Z
+DTSTART:20261021T110000Z
+SUMMARY:Steinzeitbasteln im Eiszeitmuseum Ziethen - Herbstferien im Museu
+ m
+URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
+ =99227020
+LOCATION:Groß-Ziethen - Eiszeitmuseum Ziethen
+END:VEVENT
+BEGIN:VEVENT
 UID:99215603@amtsfeed.de
 DTSTAMP:20260911T110627Z
 DTSTART:20261021T180000Z
@@ -2813,6 +2823,15 @@ SUMMARY:Halloweenfest an der Liegewiese Althüttendorf
 URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
  =99170676
 LOCATION:Joachimsthal - Liegewiese Althüttendorf
+END:VEVENT
+BEGIN:VEVENT
+UID:99227845@amtsfeed.de
+DTSTAMP:20261003T091201Z
+DTSTART:20261031T190000Z
+SUMMARY:Offene Bühne-Musiktalente gesucht!
+URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
+ =99227845
+LOCATION:Joachimsthal - Kulturhaus Heidekrug in Joachimsthal
 END:VEVENT
 BEGIN:VEVENT
 UID:99138565@amtsfeed.de
@@ -3098,6 +3117,15 @@ SUMMARY:Wolfsfrühstück im Wildpark Schorfheide
 URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
  =99172393
 LOCATION:Groß Schönebeck - Wildpark Schorfheide
+END:VEVENT
+BEGIN:VEVENT
+UID:99227844@amtsfeed.de
+DTSTAMP:20261003T091201Z
+DTSTART:20261220T160000Z
+SUMMARY:Weihnachtskonzert mit dem Brandenburgischen Konzertorchester
+URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
+ =99227844
+LOCATION:Joachimsthal - Kulturhaus Heidekrug in Joachimsthal
 END:VEVENT
 BEGIN:VEVENT
 UID:99938814@amtsfeed.de

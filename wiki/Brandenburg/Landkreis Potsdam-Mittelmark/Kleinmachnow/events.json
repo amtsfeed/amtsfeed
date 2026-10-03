@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T09:57:13.462Z",
+  "updatedAt": "2026-10-03T09:20:34.668Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -888,6 +888,22 @@
       "startDate": "2026-10-20T16:00:00.000Z",
       "fetchedAt": "2026-10-02T09:57:13.461Z",
       "updatedAt": "2026-10-02T09:57:13.461Z"
+    },
+    {
+      "id": "kleinmachnow-event-2324",
+      "title": "Tanz im Oktober",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Tanz-im-Oktober.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2324.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-10-21T15:00:00.000Z",
+      "fetchedAt": "2026-10-03T09:20:34.667Z",
+      "updatedAt": "2026-10-03T09:20:34.667Z"
+    },
+    {
+      "id": "kleinmachnow-event-2241",
+      "title": "Offenes Caf&eacute;",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Offenes-Caf%C3%A9.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2241.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-10-22T15:00:00.000Z",
+      "fetchedAt": "2026-10-03T09:20:34.667Z",
+      "updatedAt": "2026-10-03T09:20:34.667Z"
     }
   ]
 }

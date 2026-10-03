@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T09:56:16.611Z",
+  "updatedAt": "2026-10-03T09:19:32.620Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -707,14 +707,6 @@
       "updatedAt": "2026-09-13T08:29:41.484Z"
     },
     {
-      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "title": "Veranstaltungen",
-      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-10-02T09:56:16.601Z",
-      "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-10-02T09:56:16.601Z"
-    },
-    {
       "id": "eisenhuettenstadt-event-2852-1941-1",
       "title": "Schleusen - Tour mit dem Raddampfer \"Alexander\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem-Raddampfer-Alexander-.php?ModID=11&amp;FID=2852.1941.1",
@@ -749,6 +741,14 @@
       "location": "einzigartiger Kulisse.  Anlegestelle",
       "fetchedAt": "2026-09-14T09:08:20.092Z",
       "updatedAt": "2026-10-02T09:56:16.601Z"
+    },
+    {
+      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "title": "Veranstaltungen",
+      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "startDate": "2026-10-03T09:19:32.613Z",
+      "fetchedAt": "2026-05-06T08:35:22.874Z",
+      "updatedAt": "2026-10-03T09:19:32.613Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1942-1",
@@ -923,6 +923,15 @@
       "location": "Irish Pub Eisenhüttenstadt, Oberschleuse 1 15890 Eisenhüttenstadt",
       "fetchedAt": "2026-09-30T09:52:51.493Z",
       "updatedAt": "2026-09-30T09:52:51.493Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1742-1",
+      "title": "Öffentliche Stadtführung \"Planstadt Eisenhüttenstadt\"",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/%C3%96ffentliche-Stadtf%C3%BChrung-Planstadt-Eisenh%C3%BCttenstadt-.php?ModID=11&amp;FID=2852.1742.1",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "location": "Tourismusinformation",
+      "fetchedAt": "2026-10-03T09:19:32.613Z",
+      "updatedAt": "2026-10-03T09:19:32.613Z"
     }
   ]
 }

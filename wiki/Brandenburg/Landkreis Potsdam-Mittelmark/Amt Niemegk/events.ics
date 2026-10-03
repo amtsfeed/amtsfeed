@@ -366,13 +366,14 @@ URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-03-2026-10-03@amtsfeed.de
-DTSTAMP:20260930T095334Z
-DTSTART:20261003T100000Z
-DTEND:20261003T160000Z
-SUMMARY:2. Schlalacher Dorf – Flohmarkt
-URL:https://amt-niemegk.de/events/2-schlalacher-dorf-flohmarkt/?occurrenc
- e=2026-10-03
-LOCATION:Schlalach
+DTSTAMP:20261003T092018Z
+DTSTART:20261003T140000Z
+DTEND:20261003T153000Z
+SUMMARY:Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tor
+ e
+URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
+ in-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?
+ occurrence=2026-10-03
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-04-2026-10-04@amtsfeed.de
@@ -406,5 +407,15 @@ SUMMARY:Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tor
 URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
  in-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?
  occurrence=2026-10-06
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-07-2026-10-07@amtsfeed.de
+DTSTAMP:20261003T092018Z
+DTSTART:20261007T093000Z
+DTEND:20261007T110000Z
+SUMMARY:Willkommen- Baby- Frühstück
+URL:https://amt-niemegk.de/events/willkommen-baby-fruehstueck-3-911-925-7
+ 86-401-808-698-320-746-273/?occurrence=2026-10-07&#038\;time=1791365400
+LOCATION:Familienzentrum Niemegk
 END:VEVENT
 END:VCALENDAR

@@ -665,16 +665,6 @@ URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
  d-saarow
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261002T095555Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-yoga-retreat-im-hotel-esplanade@amtsfeed.de
 DTSTAMP:20261002T095555Z
 DTSTART;VALUE=DATE:20261002
@@ -709,6 +699,16 @@ DTEND;VALUE=DATE:20261003
 SUMMARY:Kaffeeverkostung von der Plantage in die Tasse
 URL:https://www.scharmuetzelsee.de/event/kaffeeverkostung-von-der-plantag
  e-in-die-tasse
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261003T091920Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf

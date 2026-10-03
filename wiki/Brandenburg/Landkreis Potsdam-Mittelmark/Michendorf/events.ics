@@ -1035,15 +1035,6 @@ URL:https://www.michendorf.de/veranstaltungen/2967963/2026/10/01/der-letz
  te-hilfe-kurs-am-ende-wissen-wie-es-geht.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959541@amtsfeed.de
-DTSTAMP:20260926T084621Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959541/2026/10/02/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2938769@amtsfeed.de
 DTSTAMP:20260911T111336Z
 DTSTART;VALUE=DATE:20261002
@@ -1114,6 +1105,15 @@ DTEND;VALUE=DATE:20261009
 SUMMARY:Herbstfest AWO Ortsverein Michendorf e.V.
 URL:https://www.michendorf.de/veranstaltungen/2960790/2026/10/08/herbstfe
  st-awo-ortsverein-michendorf-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959541@amtsfeed.de
+DTSTAMP:20261003T092040Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959541/2026/10/09/jugendcl
+ ub-micheck-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2958923@amtsfeed.de

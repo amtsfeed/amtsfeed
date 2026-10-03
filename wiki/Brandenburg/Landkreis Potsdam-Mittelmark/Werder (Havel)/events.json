@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T09:57:42.678Z",
+  "updatedAt": "2026-10-03T09:21:12.915Z",
   "items": [
     {
       "id": "werder-havel-event-99127087",
@@ -5204,51 +5204,6 @@
       "updatedAt": "2026-10-02T09:57:42.691Z"
     },
     {
-      "id": "werder-havel-event-99167746",
-      "title": "Rundfahrt nach Potsdam",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99167746",
-      "startDate": "2026-10-02T09:57:42.691Z",
-      "location": "MS Bismarckhöhe",
-      "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-10-02T09:57:42.691Z"
-    },
-    {
-      "id": "werder-havel-event-99135627",
-      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99135627",
-      "startDate": "2026-10-02T09:57:42.691Z",
-      "location": "Christian-Morgenstern Museum",
-      "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-10-02T09:57:42.691Z"
-    },
-    {
-      "id": "werder-havel-event-99217235",
-      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99217235",
-      "startDate": "2026-10-02T09:57:42.691Z",
-      "location": "Stadtgalerie KUNST-GESCHOSS",
-      "fetchedAt": "2026-09-11T11:01:13.754Z",
-      "updatedAt": "2026-10-02T09:57:42.691Z"
-    },
-    {
-      "id": "werder-havel-event-99167925",
-      "title": "Kleine Seenrundfahrt",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99167925",
-      "startDate": "2026-10-02T09:57:42.691Z",
-      "location": "MS Bismarckhöhe",
-      "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-10-02T09:57:42.691Z"
-    },
-    {
-      "id": "werder-havel-event-99113835",
-      "title": "Nachtwächterrundgang",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99113835",
-      "startDate": "2026-10-02T09:57:42.691Z",
-      "location": "Insel Werder (Havel)",
-      "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-10-02T09:57:42.691Z"
-    },
-    {
       "id": "werder-havel-event-99139360",
       "title": "Petzow Village Club",
       "url": "https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungskalender.html?eventid=99139360",
@@ -5267,58 +5222,103 @@
       "updatedAt": "2026-09-11T11:13:48.343Z"
     },
     {
+      "id": "werder-havel-event-99167746",
+      "title": "Rundfahrt nach Potsdam",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99167746",
+      "startDate": "2026-10-03T09:21:12.924Z",
+      "location": "MS Bismarckhöhe",
+      "fetchedAt": "2026-05-06T12:42:21.268Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
+    },
+    {
+      "id": "werder-havel-event-99135627",
+      "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99135627",
+      "startDate": "2026-10-03T09:21:12.924Z",
+      "location": "Christian-Morgenstern Museum",
+      "fetchedAt": "2026-05-06T12:42:21.268Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
+    },
+    {
+      "id": "werder-havel-event-99217235",
+      "title": "formalästhetisch - Christoph Mertens | Max Stiller",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99217235",
+      "startDate": "2026-10-03T09:21:12.924Z",
+      "location": "Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-09-11T11:01:13.754Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
+    },
+    {
+      "id": "werder-havel-event-99167925",
+      "title": "Kleine Seenrundfahrt",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99167925",
+      "startDate": "2026-10-03T09:21:12.924Z",
+      "location": "MS Bismarckhöhe",
+      "fetchedAt": "2026-05-06T12:42:21.268Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
+    },
+    {
+      "id": "werder-havel-event-99113835",
+      "title": "Nachtwächterrundgang",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99113835",
+      "startDate": "2026-10-03T09:21:12.924Z",
+      "location": "Insel Werder (Havel)",
+      "fetchedAt": "2026-05-06T12:42:21.268Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
+    },
+    {
       "id": "werder-havel-event-99167747",
       "title": "Rundfahrt nach Potsdam",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99167747",
-      "startDate": "2026-10-04T10:30:00.000Z",
+      "startDate": "2026-10-03T09:21:12.924Z",
       "location": "MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-09-11T11:13:48.343Z"
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99128740",
       "title": "„UND WEIL DER MENSCH EIN MENSCH IST...“",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99128740",
-      "startDate": "2026-10-04T11:00:00.000Z",
+      "startDate": "2026-10-03T09:21:12.924Z",
       "location": "Kulturkirche Petzow",
       "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-09-11T11:13:48.343Z"
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99135628",
       "title": "Sonderausstellung „Prof. Franz Ackermann, Kollegen und Meisterschüler“",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99135628",
-      "startDate": "2026-10-04T13:00:00.000Z",
+      "startDate": "2026-10-03T09:21:12.924Z",
       "location": "Christian-Morgenstern Museum",
       "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-09-11T11:13:48.343Z"
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99217236",
       "title": "formalästhetisch - Christoph Mertens | Max Stiller",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99217236",
-      "startDate": "2026-10-04T13:00:00.000Z",
+      "startDate": "2026-10-03T09:21:12.924Z",
       "location": "Stadtgalerie KUNST-GESCHOSS",
       "fetchedAt": "2026-09-11T11:01:13.754Z",
-      "updatedAt": "2026-09-11T11:13:48.343Z"
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99171434",
       "title": "Lustwandeln",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99171434",
-      "startDate": "2026-10-04T13:30:00.000Z",
+      "startDate": "2026-10-03T09:21:12.924Z",
       "location": "Schlossgarten Petzow",
       "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-09-11T11:13:48.343Z"
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99167926",
       "title": "Kleine Seenrundfahrt",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99167926",
-      "startDate": "2026-10-04T14:00:00.000Z",
+      "startDate": "2026-10-03T09:21:12.924Z",
       "location": "MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-09-11T11:13:48.343Z"
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99127092",
@@ -5420,6 +5420,15 @@
       "updatedAt": "2026-09-11T11:13:48.343Z"
     },
     {
+      "id": "werder-havel-event-99227720",
+      "title": "Werderaner Herbstzirkus",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99227720",
+      "startDate": "2026-10-09T16:30:00.000Z",
+      "location": "Event-Zelt neben der Havel-Therme",
+      "fetchedAt": "2026-10-03T09:21:12.924Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
+    },
+    {
       "id": "werder-havel-event-99222844",
       "title": "Geländetunier auf der Polo- und Reitanlage Phöben",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99222844",
@@ -5501,6 +5510,15 @@
       "updatedAt": "2026-09-11T11:13:48.343Z"
     },
     {
+      "id": "werder-havel-event-99227721",
+      "title": "Werderaner Herbstzirkus",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99227721",
+      "startDate": "2026-10-10T15:00:00.000Z",
+      "location": "Event-Zelt neben der Havel-Therme",
+      "fetchedAt": "2026-10-03T09:21:12.924Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
+    },
+    {
       "id": "werder-havel-event-99222068",
       "title": "TÖPLITZ ROCKT!",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99222068",
@@ -5562,6 +5580,15 @@
       "location": "MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T12:42:21.268Z",
       "updatedAt": "2026-09-11T11:13:48.343Z"
+    },
+    {
+      "id": "werder-havel-event-99227722",
+      "title": "Werderaner Herbstzirkus",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99227722",
+      "startDate": "2026-10-11T15:00:00.000Z",
+      "location": "Event-Zelt neben der Havel-Therme",
+      "fetchedAt": "2026-10-03T09:21:12.924Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99226025",
@@ -5663,6 +5690,15 @@
       "updatedAt": "2026-09-11T11:13:48.343Z"
     },
     {
+      "id": "werder-havel-event-99227723",
+      "title": "Werderaner Herbstzirkus",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99227723",
+      "startDate": "2026-10-16T16:30:00.000Z",
+      "location": "Event-Zelt neben der Havel-Therme",
+      "fetchedAt": "2026-10-03T09:21:12.924Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
+    },
+    {
       "id": "werder-havel-event-99225975",
       "title": "Schlachtefest auf dem Frischemarkt",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99225975",
@@ -5724,6 +5760,15 @@
       "location": "TREFFPUNKT Werder",
       "fetchedAt": "2026-09-30T09:54:10.811Z",
       "updatedAt": "2026-09-30T09:54:10.811Z"
+    },
+    {
+      "id": "werder-havel-event-99227724",
+      "title": "Werderaner Herbstzirkus",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99227724",
+      "startDate": "2026-10-17T15:00:00.000Z",
+      "location": "Event-Zelt neben der Havel-Therme",
+      "fetchedAt": "2026-10-03T09:21:12.924Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99113836",
@@ -5796,6 +5841,15 @@
       "location": "Kulturkirche Petzow",
       "fetchedAt": "2026-05-06T12:42:21.268Z",
       "updatedAt": "2026-09-11T11:13:48.343Z"
+    },
+    {
+      "id": "werder-havel-event-99227725",
+      "title": "Werderaner Herbstzirkus",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99227725",
+      "startDate": "2026-10-18T15:00:00.000Z",
+      "location": "Event-Zelt neben der Havel-Therme",
+      "fetchedAt": "2026-10-03T09:21:12.924Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99116255",
@@ -5886,6 +5940,15 @@
       "location": "MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T12:42:21.268Z",
       "updatedAt": "2026-09-11T11:13:48.343Z"
+    },
+    {
+      "id": "werder-havel-event-99227726",
+      "title": "Werderaner Herbstzirkus",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99227726",
+      "startDate": "2026-10-23T16:30:00.000Z",
+      "location": "Event-Zelt neben der Havel-Therme",
+      "fetchedAt": "2026-10-03T09:21:12.924Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99141677",
@@ -6005,6 +6068,15 @@
       "updatedAt": "2026-09-11T11:13:48.343Z"
     },
     {
+      "id": "werder-havel-event-99227727",
+      "title": "Werderaner Herbstzirkus",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99227727",
+      "startDate": "2026-10-24T15:00:00.000Z",
+      "location": "Event-Zelt neben der Havel-Therme",
+      "fetchedAt": "2026-10-03T09:21:12.924Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
+    },
+    {
       "id": "werder-havel-event-99135642",
       "title": "Vortrag von Jürgen Raßbach: \"Mein Morgenstern\"",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99135642",
@@ -6093,6 +6165,15 @@
       "location": "MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T12:42:21.268Z",
       "updatedAt": "2026-09-11T11:13:48.343Z"
+    },
+    {
+      "id": "werder-havel-event-99227728",
+      "title": "Werderaner Herbstzirkus",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99227728",
+      "startDate": "2026-10-25T15:00:00.000Z",
+      "location": "Event-Zelt neben der Havel-Therme",
+      "fetchedAt": "2026-10-03T09:21:12.924Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99167763",
@@ -6228,6 +6309,15 @@
       "location": "Cafe des Edeka Marktes",
       "fetchedAt": "2026-05-06T12:42:21.268Z",
       "updatedAt": "2026-09-11T11:13:48.343Z"
+    },
+    {
+      "id": "werder-havel-event-99227718",
+      "title": "Concert Crossover",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99227718",
+      "startDate": "2026-11-05T19:00:00.000Z",
+      "location": "Kaffee Kontor Werder",
+      "fetchedAt": "2026-10-03T09:21:12.924Z",
+      "updatedAt": "2026-10-03T09:21:12.924Z"
     },
     {
       "id": "werder-havel-event-99141586",

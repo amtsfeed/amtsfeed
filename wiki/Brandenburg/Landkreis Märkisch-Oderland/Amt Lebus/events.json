@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T09:17:03.593Z",
+  "updatedAt": "2026-10-04T09:56:33.390Z",
   "items": [
     {
       "id": "2846347",
@@ -806,26 +806,6 @@
       "updatedAt": "2026-10-01T10:17:56.353Z"
     },
     {
-      "id": "2464910",
-      "title": "Bäckerwagen in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/03/bäckerwagen-in-podelzig.html",
-      "startDate": "2026-10-03T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Bäckerwagen, im Unterdorf, am Neubau, Wuhdener Weg nur am Dorfteich",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-09-27T09:23:06.331Z"
-    },
-    {
-      "id": "2928789",
-      "title": "YouthBase - Dein Treff.Deine Zeit.",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2928789/2026/10/03/youthbase-dein-treff.deine-zeit.html",
-      "startDate": "2026-10-03T00:00:00.000Z",
-      "location": "Sportplatz Lebus",
-      "description": "Offener Jugendtreff Für Teens von 12 - 17 Jahren",
-      "fetchedAt": "2026-09-11T09:57:29.696Z",
-      "updatedAt": "2026-09-20T08:43:50.267Z"
-    },
-    {
       "id": "2861689",
       "title": "Bodenleben. Bodenlos. Das Bodenfestival.",
       "url": "https://www.amt-lebus.de/veranstaltungen/2861689/2026/10/03/bodenleben.-bodenlos.-das-bodenfestival.html",
@@ -981,6 +961,16 @@
       "updatedAt": "2026-10-03T09:17:03.583Z"
     },
     {
+      "id": "2464910",
+      "title": "Bäckerwagen in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/10/bäckerwagen-in-podelzig.html",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Bäckerwagen, im Unterdorf, am Neubau, Wuhdener Weg nur am Dorfteich",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-04T09:56:33.374Z"
+    },
+    {
       "id": "2955770",
       "title": "Rock am Kreisel in Lebus",
       "url": "https://www.amt-lebus.de/veranstaltungen/2955770/2026/10/10/rock-am-kreisel-in-lebus.html",
@@ -1016,6 +1006,16 @@
       "location": "Bürgerhaus Neuenhagen, Hauptstrasse2 15366 Neuenhagen",
       "fetchedAt": "2026-09-25T08:57:05.892Z",
       "updatedAt": "2026-09-25T08:57:05.892Z"
+    },
+    {
+      "id": "2928789",
+      "title": "YouthBase - Dein Treff.Deine Zeit.",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2928789/2026/10/17/youthbase-dein-treff.deine-zeit.html",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "location": "Sportplatz Lebus",
+      "description": "Offener Jugendtreff Für Teens von 12 - 17 Jahren",
+      "fetchedAt": "2026-09-11T09:57:29.696Z",
+      "updatedAt": "2026-10-04T09:56:33.374Z"
     },
     {
       "id": "2964722",

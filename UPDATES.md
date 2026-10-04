@@ -1,5 +1,48 @@
 # Updates
 
+## 2026-10-04 10:01
+
+Insgesamt **247 neu**, **186 aktualisiert**, **2 entfernt** in 36 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Altlandsberg | — | ~1 | — | — |
+| Amt Beetzsee | — | +1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Neuzelle | — | +4 | — | — |
+| Amt Scharmützelsee | — | -1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bernau bei Berlin | — | +1 / ~16 | — | — |
+| Calau | — | ~3 | — | — |
+| Eberswalde | — | +2 | — | — |
+| Eisenhüttenstadt | — | +4 / ~1 | — | — |
+| Friedland | — | ~2 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Fürstenwalde-Spree | — | +1 | — | — |
+| Groß Kreutz | — | ~23 | — | — |
+| Hennigsdorf | — | +1 | — | — |
+| Hohen Neuendorf | — | +1 | — | — |
+| Hoppegarten | +1 / -1 | — | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +1 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +2 | — | — |
+| Löwenberger Land | — | +1 | — | — |
+| Lübbenau Spreewald | — | +206 / ~58 | — | — |
+| Michendorf | — | — | +1 | — |
+| Mühlenbecker Land | — | +3 | — | — |
+| Oberkrämer | — | ~1 | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | — | ~4 | — | — |
+| Oranienburg | — | +3 | — | — |
+| Premnitz | — | +6 | — | — |
+| Rietz-Neuendorf | — | — | ~2 | — |
+| Schönefeld | — | ~30 | — | — |
+| Schöneiche bei Berlin | — | +2 | — | — |
+| Schorfheide | — | +1 | — | — |
+| Senftenberg | — | +4 | — | — |
+| Stahnsdorf | — | +1 / ~4 | — | — |
+| Tauche | — | ~1 | — | — |
+| Werder (Havel) | — | ~6 | — | — |
+
 ## 2026-10-03 09:21
 
 Insgesamt **400 neu**, **213 aktualisiert**, **0 entfernt** in 55 Quellen.

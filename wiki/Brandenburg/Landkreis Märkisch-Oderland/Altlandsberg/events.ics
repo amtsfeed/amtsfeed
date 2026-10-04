@@ -358,21 +358,6 @@ DESCRIPTION:Im Klang - Verbunden\, Verwoben: So singen die Sängerinnen d
 LOCATION:Schlosskirche Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
-UID:2@amtsfeed.de
-DTSTAMP:20260911T110937Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Oktoberfest in Bruchmühle
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/oktoberfest-in-bruchmuehle-2/
-DESCRIPTION:Oktoberfest im beheizten Partyzelt an der Feuerwehr Bruchmüh
- le.Einlass 19:00 Uhr19:30 Uhr: BierfassanstichMit DJ Mathias und der Live
-  Band "Rostfrei" Kartenvorverkauf ab 07.09.2026 im Bürgerhaus Bruchmühl
- e.Tickets: 25\,00 €\, Kinder bis 6 Jahre frei\, Kinder 7-13 Jahre 15\,0
- 0 €
-LOCATION:Bürger- und Kreativhaus Bruchmühle
-END:VEVENT
-BEGIN:VEVENT
 UID:4@amtsfeed.de
 DTSTAMP:20260920T084211Z
 DTSTART;VALUE=DATE:20261005
@@ -430,6 +415,21 @@ DESCRIPTION:Du möchtest Handpan spielen lernen und suchst einen intensiv
  ser 4-tägige Intensivkurs genau das Richtige für dich. In einer kleinen
   Gruppe tauchen wir gemeinsam in die faszinierende Welt der Handpan ein. 
  Schritt für Schritt lernst du die...
+LOCATION:Katja Baumheier
+END:VEVENT
+BEGIN:VEVENT
+UID:2@amtsfeed.de
+DTSTAMP:20261004T095459Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Handpan Schnupper-Workshop Anfänger
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/handpan-schnupper-workshop-anfaenger-2/
+DESCRIPTION:Handpan entdecken – Klang erleben – selbst ausprobieren!D
+ u hast die faszinierenden Klänge der Handpan gehört und möchtest das I
+ nstrument selbst einmal ausprobieren? Dann ist dieser Schnupperworkshop g
+ enau das Richtige für dich!In entspannter Atmosphäre bekommst du die M
+ öglichkeit\, die Handpan ganz unverbindlich...
 LOCATION:Katja Baumheier
 END:VEVENT
 BEGIN:VEVENT

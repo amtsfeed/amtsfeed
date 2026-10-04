@@ -1779,4 +1779,46 @@ URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Danny-Linwerk-
  Zeitgeister.php?object=tx\,2779.4&ModID=11&FID=2779.7478.1&NavID=2779.16&
  sfort=1&sfvort=1&sfreg=1&dv0=1
 END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-7376@amtsfeed.de
+DTSTAMP:20261004T095845Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Stretch & Relax
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Stretch-Relax.
+ php?object=tx\,2779.4&ModID=11&FID=2779.7376.1&NavID=2779.16&sfort=1&sfvo
+ rt=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-6158@amtsfeed.de
+DTSTAMP:20261004T095845Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Offener Spieletreff
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Offener-Spiele
+ treff.php?object=tx\,2779.4&ModID=11&FID=2779.6158.1&NavID=2779.16&sfort=
+ 1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-7209@amtsfeed.de
+DTSTAMP:20261004T095845Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Ausstellung von Wilfried Schneiders "Strichkompositionen" und Han
+ s-Jürgen Schöbels "Dynamik in Farben und Bewegung"
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Ausstellung-vo
+ n-Wilfried-Schneiders-Strichkompositionen-und-Hans-J%C3%BCrgen-Sch%C3%B6b
+ els-Dynamik-in-Farben-und-Bewegung-.php?object=tx\,2779.4&ModID=11&FID=27
+ 79.7209.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-6016@amtsfeed.de
+DTSTAMP:20261004T095845Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Schnuppertour mit der Seeschlange um den Geierswalder See
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Schnuppertour-
+ mit-der-Seeschlange-um-den-Geierswalder-See.php?object=tx\,2779.4&ModID=1
+ 1&FID=2779.6016.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T09:19:32.620Z",
+  "updatedAt": "2026-10-04T09:59:25.334Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -743,14 +743,6 @@
       "updatedAt": "2026-10-02T09:56:16.601Z"
     },
     {
-      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "title": "Veranstaltungen",
-      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-10-03T09:19:32.613Z",
-      "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-10-03T09:19:32.613Z"
-    },
-    {
       "id": "eisenhuettenstadt-event-2852-1942-1",
       "title": "Schleusen - Tour mit dem Raddampfer \"Alexander\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Schleusen-Tour-mit-dem-Raddampfer-Alexander-.php?ModID=11&amp;FID=2852.1942.1",
@@ -767,6 +759,14 @@
       "location": "der die Zeit still zu stehen schien und sich gleichzeitig Aufbrüche abzeichneten, fanden Fotograf",
       "fetchedAt": "2026-09-14T09:08:20.092Z",
       "updatedAt": "2026-10-02T09:56:16.601Z"
+    },
+    {
+      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "title": "Veranstaltungen",
+      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "startDate": "2026-10-04T09:59:25.325Z",
+      "fetchedAt": "2026-05-06T08:35:22.874Z",
+      "updatedAt": "2026-10-04T09:59:25.325Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1943-1",
@@ -932,6 +932,42 @@
       "location": "Tourismusinformation",
       "fetchedAt": "2026-10-03T09:19:32.613Z",
       "updatedAt": "2026-10-03T09:19:32.613Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1764-1",
+      "title": "Lost Places Führung durch das DDR-Hotel LUNIK",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Lost-Places-F%C3%BChrung-durch-das-DDR-Hotel-LUNIK.php?ModID=11&amp;FID=2852.1764.1",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "location": "Tourismusinformation",
+      "fetchedAt": "2026-10-04T09:59:25.325Z",
+      "updatedAt": "2026-10-04T09:59:25.325Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1813-1",
+      "title": "Kindershow Tom-Tom",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Kindershow-Tom-Tom.php?ModID=11&amp;FID=2852.1813.1",
+      "startDate": "2026-11-01T00:00:00.000Z",
+      "location": "Kleine Bühne",
+      "fetchedAt": "2026-10-04T09:59:25.325Z",
+      "updatedAt": "2026-10-04T09:59:25.325Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1886-1",
+      "title": "Kindershow TomTom",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Kindershow-TomTom.php?ModID=11&amp;FID=2852.1886.1",
+      "startDate": "2026-11-01T00:00:00.000Z",
+      "location": "kleine bühne",
+      "fetchedAt": "2026-10-04T09:59:25.325Z",
+      "updatedAt": "2026-10-04T09:59:25.325Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1970-1",
+      "title": "Unternehmensveranstaltung zur Cyberkriminalität Die dunkle Seite des Internets, Cybercrime erkennen und Unternehmen schützen",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Unternehmensveranstaltung-zur-Cyberkriminalit%C3%A4t-Die-dunkle-Seite-des-Internets-Cybercrime-erkennen-und-Unternehmen-sch%C3%BCtzen.php?ModID=11&amp;FID=2852.1970.1",
+      "startDate": "2026-11-04T00:00:00.000Z",
+      "location": "kleine bühne, Eingang neben dem Theater",
+      "fetchedAt": "2026-10-04T09:59:25.325Z",
+      "updatedAt": "2026-10-04T09:59:25.325Z"
     }
   ]
 }

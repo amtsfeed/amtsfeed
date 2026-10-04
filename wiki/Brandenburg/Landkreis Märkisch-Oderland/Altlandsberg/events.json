@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:42:55.782Z",
+  "updatedAt": "2026-10-04T09:56:19.622Z",
   "items": [
     {
       "id": "19",
@@ -242,16 +242,6 @@
       "updatedAt": "2026-09-19T08:09:59.031Z"
     },
     {
-      "id": "2",
-      "title": "Oktoberfest in Bruchmühle",
-      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/oktoberfest-in-bruchmuehle-2/",
-      "startDate": "2026-10-03T00:00:00.000Z",
-      "location": "Bürger- und Kreativhaus Bruchmühle",
-      "description": "Oktoberfest im beheizten Partyzelt an der Feuerwehr Bruchmühle.Einlass 19:00 Uhr19:30 Uhr: BierfassanstichMit DJ Mathias und der Live Band \"Rostfrei\" Kartenvorverkauf ab 07.09.2026 im Bürgerhaus Bruchmühle.Tickets: 25,00 €, Kinder bis 6 Jahre frei, Kinder 7-13 Jahre 15,00 €",
-      "fetchedAt": "2026-05-05T15:11:35.434Z",
-      "updatedAt": "2026-09-11T11:09:37.124Z"
-    },
-    {
       "id": "4",
       "title": "Handpan Workshop Intensivkurs",
       "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/handpan-workshop-intensivkurs-4/",
@@ -290,6 +280,16 @@
       "description": "Du möchtest Handpan spielen lernen und suchst einen intensiven Einstieg, der dich in kurzer Zeit wirklich weiterbringt? Dann ist dieser 4-tägige Intensivkurs genau das Richtige für dich. In einer kleinen Gruppe tauchen wir gemeinsam in die faszinierende Welt der Handpan ein. Schritt für Schritt lernst du die...",
       "fetchedAt": "2026-05-05T15:11:38.444Z",
       "updatedAt": "2026-09-11T11:09:55.855Z"
+    },
+    {
+      "id": "2",
+      "title": "Handpan Schnupper-Workshop Anfänger",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/handpan-schnupper-workshop-anfaenger-2/",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "location": "Katja Baumheier",
+      "description": "Handpan entdecken – Klang erleben – selbst ausprobieren!Du hast die faszinierenden Klänge der Handpan gehört und möchtest das Instrument selbst einmal ausprobieren? Dann ist dieser Schnupperworkshop genau das Richtige für dich!In entspannter Atmosphäre bekommst du die Möglichkeit, die Handpan ganz unverbindlich...",
+      "fetchedAt": "2026-05-05T15:11:35.434Z",
+      "updatedAt": "2026-10-04T09:54:59.990Z"
     },
     {
       "id": "konzert-in-der-stadtkirche-altlandsberg",

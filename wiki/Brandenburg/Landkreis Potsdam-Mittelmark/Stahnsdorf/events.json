@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:39:15.567Z",
+  "updatedAt": "2026-10-04T10:00:49.861Z",
   "items": [
     {
       "id": "stahnsdorf-event-69e207aa",
@@ -322,14 +322,6 @@
       "updatedAt": "2026-09-11T11:13:45.247Z"
     },
     {
-      "id": "stahnsdorf-event-6a50e122",
-      "title": "Weiterdenken ─ Jugendgruppe Denksport",
-      "url": "http://www.denksport-verein.de/",
-      "startDate": "2026-09-07T16:30:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:35.563Z",
-      "updatedAt": "2026-09-11T11:13:45.247Z"
-    },
-    {
       "id": "stahnsdorf-event-6a61de64",
       "title": "Stahnsdorfer Gartenfestival: Offener bunter Naturgarten",
       "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
@@ -386,14 +378,6 @@
       "updatedAt": "2026-09-21T09:09:05.943Z"
     },
     {
-      "id": "stahnsdorf-event-6a2689f9",
-      "title": "Geschichten aus der Sofa-Ecke",
-      "url": "https://stahnsdorf.de/../../stahnsdorf-umgebung/kommunale-einrichtungen/bibliothek/veranstaltungen.html",
-      "startDate": "2026-09-24T18:15:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:35.563Z",
-      "updatedAt": "2026-09-11T11:13:45.247Z"
-    },
-    {
       "id": "stahnsdorf-event-6a9ea62f",
       "title": "Vernissage der Künstlergruppe \"moosgArten\" ─ Ausstellung bis Jahresende 2026",
       "url": "https://stahnsdorf.de/../../images/pictures/veranstaltungen/kunst/moosgarten_ausstellung2026.jpg",
@@ -410,12 +394,12 @@
       "updatedAt": "2026-09-11T11:13:45.247Z"
     },
     {
-      "id": "stahnsdorf-event-6ab3a16f",
-      "title": "Denksport-Nachmittag",
-      "url": "https://stahnsdorf.de/../../images/pictures/veranstaltungen/buergerhaeuser/20260923-denksportnachmittage_q426.png",
-      "startDate": "2026-09-26T14:00:00.000Z",
-      "fetchedAt": "2026-09-24T08:39:15.557Z",
-      "updatedAt": "2026-09-24T08:39:15.557Z"
+      "id": "stahnsdorf-event-6a50e122",
+      "title": "Weiterdenken ─ Jugendgruppe Denksport",
+      "url": "http://www.denksport-verein.de/",
+      "startDate": "2026-10-05T16:30:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:35.563Z",
+      "updatedAt": "2026-10-04T10:00:49.852Z"
     },
     {
       "id": "stahnsdorf-event-6a033acb",
@@ -434,6 +418,14 @@
       "updatedAt": "2026-09-11T11:13:45.247Z"
     },
     {
+      "id": "stahnsdorf-event-6a2689f9",
+      "title": "Geschichten aus der Sofa-Ecke",
+      "url": "https://stahnsdorf.de/../../stahnsdorf-umgebung/kommunale-einrichtungen/bibliothek/veranstaltungen.html",
+      "startDate": "2026-10-22T18:15:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:35.563Z",
+      "updatedAt": "2026-10-04T10:00:49.852Z"
+    },
+    {
       "id": "stahnsdorf-event-6a900a27",
       "title": "Feuer und Flamme für unsere Museen",
       "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
@@ -442,12 +434,20 @@
       "updatedAt": "2026-09-11T11:13:45.247Z"
     },
     {
+      "id": "stahnsdorf-event-6abe8045",
+      "title": "Stahnsdorfer Gartenfestival: Vortrag \"Natur im Garten\"",
+      "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
+      "startDate": "2026-10-30T18:00:00.000Z",
+      "fetchedAt": "2026-10-04T10:00:49.852Z",
+      "updatedAt": "2026-10-04T10:00:49.852Z"
+    },
+    {
       "id": "stahnsdorf-event-69a71248",
       "title": "Halloween im Rathaus",
-      "url": "https://stahnsdorf.de/../../images/pictures/veranstaltungen/halloween/halloween_rathaus_311022_a.jpg",
+      "url": "https://stahnsdorf.de/../../assets/downloads/veranstaltungen/flyer_halloween_2026_web.pdf",
       "startDate": "2026-10-31T17:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:35.563Z",
-      "updatedAt": "2026-09-11T11:13:45.247Z"
+      "updatedAt": "2026-10-04T10:00:49.852Z"
     },
     {
       "id": "stahnsdorf-event-6a9594d4",
@@ -464,6 +464,14 @@
       "startDate": "2026-11-10T16:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:35.563Z",
       "updatedAt": "2026-09-11T11:13:45.247Z"
+    },
+    {
+      "id": "stahnsdorf-event-6ab3a16f",
+      "title": "Denksport-Nachmittag",
+      "url": "https://stahnsdorf.de/../../images/pictures/veranstaltungen/buergerhaeuser/20260923-denksportnachmittage_q426.png",
+      "startDate": "2026-11-28T14:00:00.000Z",
+      "fetchedAt": "2026-09-24T08:39:15.557Z",
+      "updatedAt": "2026-10-04T10:00:49.852Z"
     },
     {
       "id": "stahnsdorf-event-69a71226",

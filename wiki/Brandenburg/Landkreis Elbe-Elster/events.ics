@@ -820,4 +820,14 @@ URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Together-in-One.p
  hp?object=tx\,2112.2.1&ModID=11&FID=2112.4689.1&NavID=2112.265&kat=2112.7
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4829@amtsfeed.de
+DTSTAMP:20261004T095313Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Musikalische Mittwochsandacht
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Musikalische-Mitt
+ wochsandacht.php?object=tx\,2112.2.1&ModID=11&FID=2112.4829.1&NavID=2112.
+ 265&kat=2112.71
+END:VEVENT
 END:VCALENDAR

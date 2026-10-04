@@ -2,7 +2,7 @@
   {
     "domain": "velten.de",
     "baseUrl": "https://velten.de",
-    "updatedAt": "2026-10-03T09:18:31.542Z",
+    "updatedAt": "2026-10-04T09:58:11.082Z",
     "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /suche.phtml\nDisallow: /suchen.phtml\nDisallow: /redirect.phtml\n\nSitemap: https://velten.de/sitemap.xml"
   }
 ]

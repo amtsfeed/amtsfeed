@@ -219,4 +219,20 @@ SUMMARY:Duo con emozione\, Erich Kästner\, die 13 Monate
 URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/duo-con-emoz
  ione-erich-kaestner-die-13-monate
 END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-konzert-trio-dreifarbenblau-dresden@amtsfeed.de
+DTSTAMP:20261004T095942Z
+DTSTART:20261023T180000Z
+SUMMARY:Konzert Trio dreifarbenblau Dresden
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/konzert-trio
+ -dreifarbenblau-dresden
+END:VEVENT
+BEGIN:VEVENT
+UID:schoeneiche-event-alltagspoeten-aus-berlin@amtsfeed.de
+DTSTAMP:20261004T095942Z
+DTSTART:20261025T160000Z
+SUMMARY:Alltagspoeten aus Berlin
+URL:https://www.schoeneiche.de/freizeit/kultur/veranstaltung/alltagspoete
+ n-aus-berlin
+END:VEVENT
 END:VCALENDAR

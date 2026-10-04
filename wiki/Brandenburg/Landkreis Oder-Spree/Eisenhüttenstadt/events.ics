@@ -968,19 +968,6 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
 LOCATION:einzigartiger Kulisse.  Anlegestelle
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261003T091932Z
-DTSTART:20261003T091932Z
-SUMMARY:Veranstaltungen
-URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1
-END:VEVENT
-BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1942-1@amtsfeed.de
 DTSTAMP:20261002T095616Z
 DTSTART;VALUE=DATE:20261004
@@ -1004,6 +991,19 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  dID=11&amp\;FID=2852.1916.1
 LOCATION:der die Zeit still zu stehen schien und sich gleichzeitig Aufbr
  üche abzeichneten\, fanden Fotograf
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
+DTSTAMP:20261004T095925Z
+DTSTART:20261004T095925Z
+SUMMARY:Veranstaltungen
+URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1943-1@amtsfeed.de
@@ -1219,5 +1219,51 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  f%C3%BChrung-Planstadt-Eisenh%C3%BCttenstadt-.php?ModID=11&amp\;FID=2852.
  1742.1
 LOCATION:Tourismusinformation
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1764-1@amtsfeed.de
+DTSTAMP:20261004T095925Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Lost Places Führung durch das DDR-Hotel LUNIK
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Lost-Places-F%C3%BChru
+ ng-durch-das-DDR-Hotel-LUNIK.php?ModID=11&amp\;FID=2852.1764.1
+LOCATION:Tourismusinformation
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1813-1@amtsfeed.de
+DTSTAMP:20261004T095925Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Kindershow Tom-Tom
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Kindershow-Tom-Tom.php
+ ?ModID=11&amp\;FID=2852.1813.1
+LOCATION:Kleine Bühne
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1886-1@amtsfeed.de
+DTSTAMP:20261004T095925Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Kindershow TomTom
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Kindershow-TomTom.php?
+ ModID=11&amp\;FID=2852.1886.1
+LOCATION:kleine bühne
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1970-1@amtsfeed.de
+DTSTAMP:20261004T095925Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Unternehmensveranstaltung zur Cyberkriminalität Die dunkle Seite
+  des Internets\, Cybercrime erkennen und Unternehmen schützen
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Unternehmensveranstalt
+ ung-zur-Cyberkriminalit%C3%A4t-Die-dunkle-Seite-des-Internets-Cybercrime-
+ erkennen-und-Unternehmen-sch%C3%BCtzen.php?ModID=11&amp\;FID=2852.1970.1
+LOCATION:kleine bühne\, Eingang neben dem Theater
 END:VEVENT
 END:VCALENDAR

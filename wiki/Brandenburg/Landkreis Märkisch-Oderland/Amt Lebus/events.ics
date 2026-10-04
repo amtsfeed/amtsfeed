@@ -963,29 +963,6 @@ LOCATION:Lebus\, Podelzig \, Alt Zeschdorf\, Reitwein\, Mallnow\,Wulkow\,
   Schönfließ\, Treplin\, Döbberin\, Petershagen\,
 END:VEVENT
 BEGIN:VEVENT
-UID:2464910@amtsfeed.de
-DTSTAMP:20260927T092306Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Bäckerwagen in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/03/bäckerwa
- gen-in-podelzig.html
-DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
-  Dorfteich
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2928789@amtsfeed.de
-DTSTAMP:20260920T084350Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:YouthBase - Dein Treff.Deine Zeit.
-URL:https://www.amt-lebus.de/veranstaltungen/2928789/2026/10/03/youthbase
- -dein-treff.deine-zeit.html
-DESCRIPTION:Offener Jugendtreff Für Teens von 12 - 17 Jahren
-LOCATION:Sportplatz Lebus
-END:VEVENT
-BEGIN:VEVENT
 UID:2861689@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20261003
@@ -1161,6 +1138,18 @@ URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/10/09/selbstver
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
+UID:2464910@amtsfeed.de
+DTSTAMP:20261004T095633Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Bäckerwagen in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/10/bäckerwa
+ gen-in-podelzig.html
+DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
+  Dorfteich
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2955770@amtsfeed.de
 DTSTAMP:20260911T111132Z
 DTSTART;VALUE=DATE:20261010
@@ -1201,6 +1190,17 @@ SUMMARY:Benefizkonzert des Landespolizeiorchestes Brandenburg
 URL:https://www.amt-lebus.de/veranstaltungen/2973746/2026/10/14/benefizko
  nzert-des-landespolizeiorchestes-brandenburg.html
 LOCATION:Bürgerhaus Neuenhagen\, Hauptstrasse2 15366 Neuenhagen
+END:VEVENT
+BEGIN:VEVENT
+UID:2928789@amtsfeed.de
+DTSTAMP:20261004T095633Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:YouthBase - Dein Treff.Deine Zeit.
+URL:https://www.amt-lebus.de/veranstaltungen/2928789/2026/10/17/youthbase
+ -dein-treff.deine-zeit.html
+DESCRIPTION:Offener Jugendtreff Für Teens von 12 - 17 Jahren
+LOCATION:Sportplatz Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2964722@amtsfeed.de

@@ -336,13 +336,6 @@ URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:stahnsdorf-event-6a50e122@amtsfeed.de
-DTSTAMP:20260911T111345Z
-DTSTART:20260907T163000Z
-SUMMARY:Weiterdenken ─ Jugendgruppe Denksport
-URL:http://www.denksport-verein.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:stahnsdorf-event-6a61de64@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART:20260912T100000Z
@@ -399,14 +392,6 @@ URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:stahnsdorf-event-6a2689f9@amtsfeed.de
-DTSTAMP:20260911T111345Z
-DTSTART:20260924T181500Z
-SUMMARY:Geschichten aus der Sofa-Ecke
-URL:https://stahnsdorf.de/../../stahnsdorf-umgebung/kommunale-einrichtung
- en/bibliothek/veranstaltungen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:stahnsdorf-event-6a9ea62f@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART:20260925T180000Z
@@ -424,12 +409,11 @@ URL:https://stahnsdorf.de/../../images/pictures/veranstaltungen/buergerha
  euser/denksportnachmittage_flyer-bis-sep-2026.png
 END:VEVENT
 BEGIN:VEVENT
-UID:stahnsdorf-event-6ab3a16f@amtsfeed.de
-DTSTAMP:20260924T083915Z
-DTSTART:20260926T140000Z
-SUMMARY:Denksport-Nachmittag
-URL:https://stahnsdorf.de/../../images/pictures/veranstaltungen/buergerha
- euser/20260923-denksportnachmittage_q426.png
+UID:stahnsdorf-event-6a50e122@amtsfeed.de
+DTSTAMP:20261004T100049Z
+DTSTART:20261005T163000Z
+SUMMARY:Weiterdenken ─ Jugendgruppe Denksport
+URL:http://www.denksport-verein.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:stahnsdorf-event-6a033acb@amtsfeed.de
@@ -448,6 +432,14 @@ URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:stahnsdorf-event-6a2689f9@amtsfeed.de
+DTSTAMP:20261004T100049Z
+DTSTART:20261022T181500Z
+SUMMARY:Geschichten aus der Sofa-Ecke
+URL:https://stahnsdorf.de/../../stahnsdorf-umgebung/kommunale-einrichtung
+ en/bibliothek/veranstaltungen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:stahnsdorf-event-6a900a27@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART:20261024T130000Z
@@ -456,12 +448,20 @@ URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:stahnsdorf-event-6abe8045@amtsfeed.de
+DTSTAMP:20261004T100049Z
+DTSTART:20261030T180000Z
+SUMMARY:Stahnsdorfer Gartenfestival: Vortrag "Natur im Garten"
+URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
+ gskalender/
+END:VEVENT
+BEGIN:VEVENT
 UID:stahnsdorf-event-69a71248@amtsfeed.de
-DTSTAMP:20260911T111345Z
+DTSTAMP:20261004T100049Z
 DTSTART:20261031T170000Z
 SUMMARY:Halloween im Rathaus
-URL:https://stahnsdorf.de/../../images/pictures/veranstaltungen/halloween
- /halloween_rathaus_311022_a.jpg
+URL:https://stahnsdorf.de/../../assets/downloads/veranstaltungen/flyer_ha
+ lloween_2026_web.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:stahnsdorf-event-6a9594d4@amtsfeed.de
@@ -478,6 +478,14 @@ DTSTART:20261110T160000Z
 SUMMARY:Vortrag: Glasfasertechnologie – wichtig für die Zukunft
 URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6ab3a16f@amtsfeed.de
+DTSTAMP:20261004T100049Z
+DTSTART:20261128T140000Z
+SUMMARY:Denksport-Nachmittag
+URL:https://stahnsdorf.de/../../images/pictures/veranstaltungen/buergerha
+ euser/20260923-denksportnachmittage_q426.png
 END:VEVENT
 BEGIN:VEVENT
 UID:stahnsdorf-event-69a71226@amtsfeed.de

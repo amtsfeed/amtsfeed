@@ -1575,6 +1575,16 @@ URL:https://www.ketzin.de/veranstaltungen/2867090/2026/10/06/reparaturcaf
  é-und-kleidertausch-in-der-paretzer-scheune.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ketzin-havel-event-2979128-20261007@amtsfeed.de
+DTSTAMP:20261005T103227Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Lesung mit Gerhard Hübener &ndash\; &bdquo\;Den Tanker umsteuern
+ &ldquo\;
+URL:https://www.ketzin.de/veranstaltungen/2979128/2026/10/07/lesung-mit-g
+ erhard-hübener--den-tanker-umsteuern.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ketzin-havel-event-2663053-20261008@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261008
@@ -4340,5 +4350,41 @@ DTEND;VALUE=DATE:20271002
 SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
 URL:https://www.ketzin.de/veranstaltungen/2658477/2027/10/01/jeden-freita
  g-senioren-sportnachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20271005@amtsfeed.de
+DTSTAMP:20261005T103227Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/10/05/für-seniore
+ n-zeit-für-englisch.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20271005@amtsfeed.de
+DTSTAMP:20261005T103227Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/10/05/super-suppe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2657370-20271005@amtsfeed.de
+DTSTAMP:20261005T103227Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Plauderstunde mit dem Seniorenrat
+URL:https://www.ketzin.de/veranstaltungen/2657370/2027/10/05/plauderstund
+ e-mit-dem-seniorenrat.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20271005@amtsfeed.de
+DTSTAMP:20261005T103227Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/10/05/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v.html
 END:VEVENT
 END:VCALENDAR

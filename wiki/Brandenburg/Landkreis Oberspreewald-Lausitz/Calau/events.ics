@@ -869,15 +869,6 @@ URL:https://www.calau.de/veranstaltungen/2975412/2026/10/03/dorftrödel-i
  n-mlode.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20261004T095828Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:04.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
-URL:https://www.calau.de/veranstaltungen/2864723/2026/10/04/flugshow-auf-
- dem-adler-und-jagdfalkenhof-werchow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2964713@amtsfeed.de
 DTSTAMP:20261002T095528Z
 DTSTART;VALUE=DATE:20261004
@@ -917,19 +908,19 @@ URL:https://www.calau.de/veranstaltungen/1906922/2026/10/06/großmarkt-au
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2962562@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261005T103749Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:Blutspendetermin des DRK
+SUMMARY:06.10.2026   Blutspendetermin des DRK
 URL:https://www.calau.de/veranstaltungen/2962562/2026/10/06/blutspendeter
  min-des-drk.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20261001T101957Z
+DTSTAMP:20261005T103749Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:Calauer Museen öffnen
+SUMMARY:07.10.2026   Calauer Museen öffnen
 URL:https://www.calau.de/veranstaltungen/2315266/2026/10/07/calauer-musee
  n-öffnen.html
 END:VEVENT
@@ -959,6 +950,15 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:Vortrag zur Nachbarschaftshilfe
 URL:https://www.calau.de/veranstaltungen/2977306/2026/10/09/vortrag-zur-n
  achbarschaftshilfe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2864723@amtsfeed.de
+DTSTAMP:20261005T103749Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+URL:https://www.calau.de/veranstaltungen/2864723/2026/10/10/flugshow-auf-
+ dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2975109@amtsfeed.de

@@ -3399,6 +3399,15 @@ URL:https://www.falkensee.de/veranstaltungen/2908011/2026/10/11/kultur-un
  d-heilig-geist-liederabend-unter-dem-motto-wir-singen-hand-in-hand.html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2979414-20261011@amtsfeed.de
+DTSTAMP:20261005T103225Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Sigrid Grajek singt Claire Waldoff
+URL:https://www.falkensee.de/veranstaltungen/2979414/2026/10/11/sigrid-gr
+ ajek-singt-claire-waldoff.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2146623-20261012@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261012
@@ -3552,6 +3561,25 @@ DTEND;VALUE=DATE:20261018
 SUMMARY:3. Dialog der Dialogreihe der Brücke Frauen Falkensee
 URL:https://www.falkensee.de/veranstaltungen/2976573/2026/10/17/3.-dialog
  -der-dialogreihe-der-brücke-frauen-falkensee.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2979409-20261017@amtsfeed.de
+DTSTAMP:20261005T103225Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Stadtspaziergang in der Falkenhagener Straße
+URL:https://www.falkensee.de/veranstaltungen/2979409/2026/10/17/stadtspaz
+ iergang-in-der-falkenhagener-straße.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2979399-20261017@amtsfeed.de
+DTSTAMP:20261005T103225Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Informations- und Beratungstag für Menschen mit Sehbeeinträchti
+ gungen
+URL:https://www.falkensee.de/veranstaltungen/2979399/2026/10/17/informati
+ ons-und-beratungstag-fürmenschen-mit-sehbeeinträchtigungen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2900966-20261018@amtsfeed.de
@@ -4161,6 +4189,15 @@ DTEND;VALUE=DATE:20261108
 SUMMARY:Andreas Diehlmann Band in Brück
 URL:https://www.falkensee.de/veranstaltungen/2856782/2026/11/07/andreas-d
  iehlmann-band-in-brück.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2979416-20261107@amtsfeed.de
+DTSTAMP:20261005T103225Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Frauenfrühschoppen mit Elske Hildebrandt
+URL:https://www.falkensee.de/veranstaltungen/2979416/2026/11/07/frauenfr
+ ühschoppen-mit-elske-hildebrandt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2900966-20261108@amtsfeed.de
@@ -7893,5 +7930,14 @@ DTEND;VALUE=DATE:20271003
 SUMMARY:Stammtisch "Triff uns im Havelland"
 URL:https://www.falkensee.de/veranstaltungen/2583778/2027/10/02/stammtisc
  h-triff-uns-im-havelland.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2188424-20271005@amtsfeed.de
+DTSTAMP:20261005T103225Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Seniorenskat - für Freunde des Kartenspiels
+URL:https://www.falkensee.de/veranstaltungen/2188424/2027/10/05/seniorens
+ kat-für-freunde-des-kartenspiels.html
 END:VEVENT
 END:VCALENDAR

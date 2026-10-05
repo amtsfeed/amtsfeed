@@ -1,5 +1,72 @@
 # Updates
 
+## 2026-10-05 10:40
+
+Insgesamt **130 neu**, **133 aktualisiert**, **2 entfernt** in 60 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | +1 | — | — | — |
+| Amt Brieskow-Finkenheerd | +1 | — | — | ~6 |
+| Amt Golzow | +1 | ~1 | — | — |
+| Amt Lebus | — | — | — | +2 |
+| Amt Plessa | — | ~1 | — | — |
+| Amt Rhinow | +1 | — | — | — |
+| Amt Scharmützelsee | — | -1 | +1 | — |
+| Amt Scharmützelsee / Bad Saarow | — | +2 / ~6 | — | — |
+| Amt Schenkenländchen | — | +1 | — | — |
+| Amt Spreenhagen | — | +1 | — | — |
+| Amt Wusterwitz | — | — | +2 | — |
+| Amt Ziesar | +1 | — | +1 | ~24 |
+| Bernau bei Berlin | — | +5 / ~18 | — | — |
+| Bestensee | — | — | +1 | — |
+| Birkenwerder | — | ~1 | — | — |
+| Calau | +1 | ~3 | — | — |
+| Eberswalde | — | +7 | — | — |
+| Eisenhüttenstadt | ~3 | +2 / ~5 | — | — |
+| Elsterwerda | — | +3 | — | — |
+| Erkner | +1 | — | — | — |
+| Falkensee | +1 | +5 | — | — |
+| Fredersdorf-Vogelsdorf | +1 | +1 | — | — |
+| Fürstenberg-Havel | +1 | — | +1 | ~2 |
+| Fürstenwalde-Spree | +1 | — | — | — |
+| Glienicke-Nordbahn | +1 | — | — | — |
+| Gransee | — | +1 | — | — |
+| Groß Kreutz | — | ~23 | — | — |
+| Heideblick | +2 | — | — | — |
+| Hennigsdorf | +1 | +1 | — | — |
+| Herzberg (Elster) | — | +5 | — | — |
+| Hohen Neuendorf | — | +1 | — | — |
+| Hoppegarten | +1 / -1 | — | — | — |
+| Ketzin Havel | — | +5 | — | — |
+| Kleinmachnow | — | +1 | — | — |
+| Kremmen | — | +2 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +6 | — | — |
+| Lauchhammer | +2 | +1 | — | — |
+| Löwenberger Land | — | +1 | — | +1 |
+| Lübben (Spreewald) | +1 | — | — | — |
+| Michendorf | — | +1 | — | — |
+| Mühlenbecker Land | — | +4 | — | — |
+| Müncheberg | +2 / ~1 | — | — | — |
+| Oberkrämer | — | +1 / ~1 | — | ~1 |
+| Oderbruch / Amt Seelow-Land | ~1 | — | — | — |
+| Oranienburg | — | +4 / ~1 | — | — |
+| Premnitz | +1 | +4 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Röderland | +1 | — | — | — |
+| Schönefeld | +1 / ~3 | ~30 | — | — |
+| Schulzendorf | — | — | — | +1 |
+| Schwarzheide | — | +1 | — | — |
+| Schwielowsee | ~1 | — | — | — |
+| Seddiner See | +1 | — | — | — |
+| Senftenberg | — | +5 | — | — |
+| Teltow | +1 | — | — | — |
+| Verbandsgemeinde Bad Liebenwerda | +2 | — | — | — |
+| Wandlitz | — | +5 | — | — |
+| Werder (Havel) | +1 | — | — | — |
+| Woltersdorf | — | +3 | — | — |
+| Wustermark | — | +12 | — | — |
+
 ## 2026-10-04 10:01
 
 Insgesamt **247 neu**, **186 aktualisiert**, **2 entfernt** in 36 Quellen.

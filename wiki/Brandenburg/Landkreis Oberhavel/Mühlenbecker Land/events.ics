@@ -2824,6 +2824,15 @@ URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
 LOCATION:Mehrzweckraum Zühlsdorf\, Dorfstr. 35a\, 16515 OT Zühlsdorf
 END:VEVENT
 BEGIN:VEVENT
+UID:muehlenbecker-land-event-59056824@amtsfeed.de
+DTSTAMP:20261005T103722Z
+DTSTART:20261007T153000Z
+SUMMARY:Plauderspaziergang
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59056824
+LOCATION:Mehrzweckraum Zühlsdorf\, Dorfstr. 35a\, 16515 OT Zühlsdorf
+END:VEVENT
+BEGIN:VEVENT
 UID:muehlenbecker-land-event-59053180@amtsfeed.de
 DTSTAMP:20260918T082444Z
 DTSTART:20261007T170000Z
@@ -3395,5 +3404,33 @@ SUMMARY:Offener Nähclub "Quilt-Cats"
 URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
  .php?id=58987151
 LOCATION:Mühlentreff Mühlenbeck\, Hauptstraße 7
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58938401@amtsfeed.de
+DTSTAMP:20261005T103724Z
+DTSTART:20261024T140000Z
+SUMMARY:Führung: FriedWald Mühlenbecker Land
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58938401
+LOCATION:FriedWald Mühlenbecker Land\, OT Mühlenbeck\, Parkplatz Norduf
+ er am Summter See
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58809567@amtsfeed.de
+DTSTAMP:20261005T103724Z
+DTSTART:20261024T140000Z
+SUMMARY:Bürgerverein: Boule am Teich
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58809567
+LOCATION:Bouleplatz\, Feldahornstraße\, OT Schönfließ
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58798975@amtsfeed.de
+DTSTAMP:20261005T103724Z
+DTSTART:20261026T093000Z
+SUMMARY:Volkssolidarität: Gymnastik
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58798975
+LOCATION:Bürgersaal\, Franz-Schmidt-Str. 3\, OT Schildow
 END:VEVENT
 END:VCALENDAR

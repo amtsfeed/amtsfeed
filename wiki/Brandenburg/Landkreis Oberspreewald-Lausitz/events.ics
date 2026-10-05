@@ -7773,6 +7773,16 @@ URL:https://www.osl-online.de/veranstaltungen/2024997/2026/11/10/ihk-spre
 LOCATION:Calauer Info - Punkt
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2979268-20261110@amtsfeed.de
+DTSTAMP:20261005T103812Z
+DTSTART:20261110T160000Z
+DTEND:20261110T173000Z
+SUMMARY:Und der Haifisch... (Gastspiel Theater Neue Bühne)
+URL:https://www.osl-online.de/veranstaltungen/2979268/2026/11/10/und-der-
+ haifisch.-gastspiel-theater-neue-bühne.html
+LOCATION:Bürgerhaus Schwarzheide
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2124475-20261110@amtsfeed.de
 DTSTAMP:20260531T184206Z
 DTSTART:20261110T190000Z
@@ -13538,6 +13548,16 @@ URL:https://www.osl-online.de/veranstaltungen/2606463/2027/09/03/barriere
 LOCATION:Familienzentrum Kleeblatt
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2979282-20270904@amtsfeed.de
+DTSTAMP:20261005T103812Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:25 Jahre Stützpunktfeuerwehr
+URL:https://www.osl-online.de/veranstaltungen/2979282/2027/09/04/25-jahre
+ -stützpunktfeuerwehr.html
+LOCATION:Naundorfer Straße 26 in Lauchhammer-Mitte
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2124462-20270906@amtsfeed.de
 DTSTAMP:20260911T111241Z
 DTSTART:20270906T153000Z
@@ -13911,5 +13931,45 @@ SUMMARY:Treffpunkt Bürgertheater
 URL:https://www.osl-online.de/veranstaltungen/2124466/2027/10/04/treffpun
  kt-bürgertheater.html
 LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-1906922-20271005@amtsfeed.de
+DTSTAMP:20261005T103812Z
+DTSTART:20271005T080000Z
+SUMMARY:Großmarkt auf dem Marktplatz "In Calau clever kaufen" bei den Ca
+ lauer Innenstadthändlern
+URL:https://www.osl-online.de/veranstaltungen/1906922/2027/10/05/großmar
+ kt-auf-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadth
+ ändlern.html
+LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2290342-20271005@amtsfeed.de
+DTSTAMP:20261005T103812Z
+DTSTART:20271005T080000Z
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.osl-online.de/veranstaltungen/2290342/2027/10/05/calauer-
+ wochenmarkt.html
+LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-1958298-20271005@amtsfeed.de
+DTSTAMP:20261005T103812Z
+DTSTART:20271005T170000Z
+SUMMARY:&bdquo\;Väter unter sich&ldquo\; – Ein Treff für werdende Pap
+ as sowie Vätern von Babys und Kleinkindern
+URL:https://www.osl-online.de/veranstaltungen/1958298/2027/10/05/väter-u
+ nter-sich--ein-treff-für-werdende-papas-sowie-vätern-von-babys-und-klei
+ nkindern.html
+LOCATION:Regine-Hildebrandt-Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2124475-20271005@amtsfeed.de
+DTSTAMP:20261005T103812Z
+DTSTART:20271005T190000Z
+SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
+URL:https://www.osl-online.de/veranstaltungen/2124475/2027/10/05/chorprob
+ e-mit-dem-stadtchor-lauchhammer.html
+LOCATION:Aula in der Oberschule "Am Wehlenteich"
 END:VEVENT
 END:VCALENDAR

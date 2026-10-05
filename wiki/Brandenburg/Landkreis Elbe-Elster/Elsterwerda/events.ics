@@ -787,6 +787,14 @@ SUMMARY:Halloween-Kinderparty
 URL:https://www.elsterwerda.de/veranstaltung/halloween-kinderparty/
 END:VEVENT
 BEGIN:VEVENT
+UID:24148@amtsfeed.de
+DTSTAMP:20261005T103149Z
+DTSTART:20261102T150000Z
+SUMMARY:Wasser- und Bodenanalysen AfU e.V.
+URL:https://www.elsterwerda.de/veranstaltung/wasser-und-bodenanalysen-afu
+ -e-v/
+END:VEVENT
+BEGIN:VEVENT
 UID:24109@amtsfeed.de
 DTSTAMP:20260930T094626Z
 DTSTART:20261103T190000Z
@@ -1044,5 +1052,21 @@ DTSTART:20270520T150000Z
 SUMMARY:Trauercafé Elsterwerda
 URL:https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2027-
  05-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:10001057@amtsfeed.de
+DTSTAMP:20261005T103149Z
+DTSTART:20270617T150000Z
+SUMMARY:Trauercafé Elsterwerda
+URL:https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2027-
+ 06-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:10001058@amtsfeed.de
+DTSTAMP:20261005T103149Z
+DTSTART:20270715T150000Z
+SUMMARY:Trauercafé Elsterwerda
+URL:https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2027-
+ 07-15/
 END:VEVENT
 END:VCALENDAR

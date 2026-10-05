@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T09:58:09.795Z",
+  "updatedAt": "2026-10-05T10:37:30.518Z",
   "items": [
     {
       "id": "oranienburg-event-7687",
@@ -953,11 +953,11 @@
     },
     {
       "id": "oranienburg-event-7486",
-      "title": "Orgelmusik zur Mittagszeit",
-      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Orgelmusik-zur-Mittagszeit.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7486.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "title": "Orgelmusik zur Mittagszeit - lorian Wilkes spielt Bachs Deutsche Orgelmesse",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Orgelmusik-zur-Mittagszeit-lorian-Wilkes-spielt-Bachs-Deutsche-Orgelmesse.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7486.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
       "startDate": "2026-10-06T00:00:00.000Z",
       "fetchedAt": "2026-09-27T09:24:30.444Z",
-      "updatedAt": "2026-09-27T09:24:30.444Z"
+      "updatedAt": "2026-10-05T10:37:30.528Z"
     },
     {
       "id": "oranienburg-event-7975",
@@ -1024,12 +1024,29 @@
       "updatedAt": "2026-09-28T09:58:08.474Z"
     },
     {
+      "id": "oranienburg-event-8039",
+      "title": "&raquo;Bookdate&laquo; in der Stadtbibliothek",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/-Bookdate-in-der-Stadtbibliothek.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8039.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-10-12T00:00:00.000Z",
+      "endDate": "2026-12-14T00:00:00.000Z",
+      "fetchedAt": "2026-10-05T10:37:30.528Z",
+      "updatedAt": "2026-10-05T10:37:30.528Z"
+    },
+    {
       "id": "oranienburg-event-7487",
       "title": "Orgelmusik zur Mittagszeit",
       "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Orgelmusik-zur-Mittagszeit.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7487.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
       "startDate": "2026-10-13T00:00:00.000Z",
       "fetchedAt": "2026-09-29T09:59:24.277Z",
       "updatedAt": "2026-09-29T09:59:24.277Z"
+    },
+    {
+      "id": "oranienburg-event-8045",
+      "title": "Lehnitzer Enerige-Treff: Welche Wärmepumpe passt zu mir?",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Lehnitzer-Enerige-Treff-Welche-W%C3%A4rmepumpe-passt-zu-mir-.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8045.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-10-13T00:00:00.000Z",
+      "fetchedAt": "2026-10-05T10:37:30.528Z",
+      "updatedAt": "2026-10-05T10:37:30.528Z"
     },
     {
       "id": "oranienburg-event-8025",
@@ -1090,6 +1107,14 @@
       "updatedAt": "2026-10-04T09:58:09.805Z"
     },
     {
+      "id": "oranienburg-event-8043",
+      "title": "&raquo;Treffpunkt Brunnen&laquo; - Das neue Adonia-Musical",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/-Treffpunkt-Brunnen-Das-neue-Adonia-Musical.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8043.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "fetchedAt": "2026-10-05T10:37:30.528Z",
+      "updatedAt": "2026-10-05T10:37:30.528Z"
+    },
+    {
       "id": "oranienburg-event-7438",
       "title": "Klaviermusik im Kerzenschein",
       "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Klaviermusik-im-Kerzenschein-.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7438.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
@@ -1104,6 +1129,14 @@
       "startDate": "2026-10-24T00:00:00.000Z",
       "fetchedAt": "2026-10-04T09:58:09.805Z",
       "updatedAt": "2026-10-04T09:58:09.805Z"
+    },
+    {
+      "id": "oranienburg-event-8044",
+      "title": "ADFC-Radtour: Wasserstraßen in und nahe Oranienburg",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/ADFC-Radtour-Wasserstra%C3%9Fen-in-und-nahe-Oranienburg.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8044.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "fetchedAt": "2026-10-05T10:37:30.528Z",
+      "updatedAt": "2026-10-05T10:37:30.528Z"
     }
   ]
 }

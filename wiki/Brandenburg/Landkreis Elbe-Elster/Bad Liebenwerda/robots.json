@@ -2,7 +2,7 @@
   {
     "domain": "www.bad-liebenwerda.de",
     "baseUrl": "https://www.bad-liebenwerda.de",
-    "updatedAt": "2026-10-04T09:52:52.395Z",
+    "updatedAt": "2026-10-05T10:31:46.666Z",
     "content": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php"
   }
 ]

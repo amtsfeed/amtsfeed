@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T09:46:26.123Z",
+  "updatedAt": "2026-10-05T10:31:49.746Z",
   "items": [
     {
       "id": "22492",
@@ -778,6 +778,14 @@
       "updatedAt": "2026-05-26T09:01:53.568Z"
     },
     {
+      "id": "24148",
+      "title": "Wasser- und Bodenanalysen AfU e.V.",
+      "url": "https://www.elsterwerda.de/veranstaltung/wasser-und-bodenanalysen-afu-e-v/",
+      "startDate": "2026-11-02T15:00:00.000Z",
+      "fetchedAt": "2026-10-05T10:31:49.746Z",
+      "updatedAt": "2026-10-05T10:31:49.746Z"
+    },
+    {
       "id": "24109",
       "title": "„Vom Butterwasser zum Bosporus\" Live Reportage mit Michi Münzberg",
       "url": "https://www.elsterwerda.de/veranstaltung/vom-butterwasser-zum-bosporus-live-reportage-mit-michi-muenzberg/",
@@ -1040,6 +1048,22 @@
       "startDate": "2027-05-20T15:00:00.000Z",
       "fetchedAt": "2026-09-28T09:52:11.481Z",
       "updatedAt": "2026-09-28T09:52:11.481Z"
+    },
+    {
+      "id": "10001057",
+      "title": "Trauercafé Elsterwerda",
+      "url": "https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2027-06-17/",
+      "startDate": "2027-06-17T15:00:00.000Z",
+      "fetchedAt": "2026-10-05T10:31:49.746Z",
+      "updatedAt": "2026-10-05T10:31:49.746Z"
+    },
+    {
+      "id": "10001058",
+      "title": "Trauercafé Elsterwerda",
+      "url": "https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2027-07-15/",
+      "startDate": "2027-07-15T15:00:00.000Z",
+      "fetchedAt": "2026-10-05T10:31:49.746Z",
+      "updatedAt": "2026-10-05T10:31:49.746Z"
     }
   ]
 }

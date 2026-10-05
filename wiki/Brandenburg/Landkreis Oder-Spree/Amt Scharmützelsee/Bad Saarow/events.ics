@@ -254,16 +254,6 @@ URL:https://www.scharmuetzelsee.de/event/tag-des-offenen-denkmals-im-scha
  rwenka-kulturforum
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
- d.de
-DTSTAMP:20260913T082923Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
-URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
- harmuetzelsee
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-erdappelwochenende-im-irrlandia@amtsfeed.de
 DTSTAMP:20260913T082923Z
 DTSTART;VALUE=DATE:20260913
@@ -554,25 +544,6 @@ URL:https://www.scharmuetzelsee.de/event/scharmuntzel-fest-und-tierisch-b
  unter-flohmarkt
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
- eed.de
-DTSTAMP:20260928T095855Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Aktiv Wochenplan - Morgen-Paddeltour mit der YAAS
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-morgen-paddelto
- ur-mit-der-yaas
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-hulahoop-im-kurpark@amtsfeed.de
-DTSTAMP:20260928T095855Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
- park
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow-am-mittwoch@
  amtsfeed.de
 DTSTAMP:20260930T095237Z
@@ -656,15 +627,6 @@ URL:https://www.scharmuetzelsee.de/event/bauen-in-bad-saarow-zwischen-ree
  t-rosenthal-und-revision
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261002T095555Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-yoga-retreat-im-hotel-esplanade@amtsfeed.de
 DTSTAMP:20261002T095555Z
 DTSTART;VALUE=DATE:20261002
@@ -699,26 +661,6 @@ DTEND;VALUE=DATE:20261003
 SUMMARY:Kaffeeverkostung von der Plantage in die Tasse
 URL:https://www.scharmuetzelsee.de/event/kaffeeverkostung-von-der-plantag
  e-in-die-tasse
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261003T091920Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20261002T095555Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-abbiken-mit-live-musik-station4-im-aldo-wendisch-riet
@@ -764,6 +706,82 @@ DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Saisonabschluss im IRRLANDIA
 URL:https://www.scharmuetzelsee.de/event/saisonabschluss-im-irrlandia
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
+ d.de
+DTSTAMP:20261005T103819Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
+ harmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261005T103819Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261005T103819Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-seniorenkino-im-cinema-bad-saarow@amtsfeed.de
+DTSTAMP:20261005T103819Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Seniorenkino im Cinema Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/seniorenkino-im-cinema-bad-saaro
+ w
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-alpaka-spaziergang-ferienprogramm@amtsfeed.de
+DTSTAMP:20261005T103819Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Alpaka Spaziergang - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/alpaka-spaziergang-ferienprogram
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
+ eed.de
+DTSTAMP:20261005T103819Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Aktiv Wochenplan - Morgen-Paddeltour mit der YAAS
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-morgen-paddelto
+ ur-mit-der-yaas
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-hulahoop-im-kurpark@amtsfeed.de
+DTSTAMP:20261005T103819Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
+ park
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20261005T103819Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-oktoberfest-im-freilich-am-see@amtsfeed.de

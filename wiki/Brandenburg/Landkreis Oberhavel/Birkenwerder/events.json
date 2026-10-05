@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:18:50.374Z",
+  "updatedAt": "2026-10-05T10:36:53.272Z",
   "items": [
     {
       "id": "birkenwerder-event-offene-atelier-in-oberhavel-am-02-und-3-mai-2026",
@@ -425,6 +425,15 @@
       "updatedAt": "2026-10-01T10:18:50.372Z"
     },
     {
+      "id": "birkenwerder-event-spielenachmittag-6",
+      "title": "Spielenachmittag",
+      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/spielenachmittag-6",
+      "startDate": "2026-10-09T00:00:00.000Z",
+      "location": "Gemeindehaus",
+      "fetchedAt": "2026-10-01T10:18:50.372Z",
+      "updatedAt": "2026-10-05T10:36:53.270Z"
+    },
+    {
       "id": "birkenwerder-event-repair-cafe-33",
       "title": "Repair-Café",
       "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/repair-cafe-33",
@@ -439,15 +448,6 @@
       "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/muellsammelaktion",
       "startDate": "2026-10-10T00:00:00.000Z",
       "location": "Treffpunkt Ortsausgangsschild von Birkenwerder Richtung Bergfelde",
-      "fetchedAt": "2026-10-01T10:18:50.372Z",
-      "updatedAt": "2026-10-01T10:18:50.372Z"
-    },
-    {
-      "id": "birkenwerder-event-spielenachmittag-6",
-      "title": "Spielenachmittag",
-      "url": "https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen/details/spielenachmittag-6",
-      "startDate": "2026-10-10T00:00:00.000Z",
-      "location": "Gemeindehaus",
       "fetchedAt": "2026-10-01T10:18:50.372Z",
       "updatedAt": "2026-10-01T10:18:50.372Z"
     },

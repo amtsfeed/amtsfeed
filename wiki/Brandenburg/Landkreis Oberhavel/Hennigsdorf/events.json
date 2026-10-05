@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T09:57:41.074Z",
+  "updatedAt": "2026-10-05T10:37:06.755Z",
   "items": [
     {
       "id": "hennigsdorf-event-820",
@@ -293,6 +293,15 @@
       "startDate": "2026-10-15T00:00:00.000Z",
       "fetchedAt": "2026-10-04T09:57:41.084Z",
       "updatedAt": "2026-10-04T09:57:41.084Z"
+    },
+    {
+      "id": "hennigsdorf-event-815",
+      "title": "Dinner for fun",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Dinner-for-fun.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.815.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "endDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-10-05T10:37:06.764Z",
+      "updatedAt": "2026-10-05T10:37:06.764Z"
     }
   ]
 }

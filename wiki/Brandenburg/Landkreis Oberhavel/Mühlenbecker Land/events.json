@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T09:58:02.563Z",
+  "updatedAt": "2026-10-05T10:37:24.847Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -2679,6 +2679,15 @@
       "updatedAt": "2026-09-18T08:24:44.898Z"
     },
     {
+      "id": "muehlenbecker-land-event-59056824",
+      "title": "Plauderspaziergang",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59056824",
+      "startDate": "2026-10-07T15:30:00.000Z",
+      "location": "Mehrzweckraum Zühlsdorf, Dorfstr. 35a, 16515 OT Zühlsdorf",
+      "fetchedAt": "2026-10-05T10:37:22.111Z",
+      "updatedAt": "2026-10-05T10:37:22.111Z"
+    },
+    {
       "id": "muehlenbecker-land-event-59053180",
       "title": "Sprechstunde der Digital-Paten",
       "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59053180",
@@ -3226,6 +3235,33 @@
       "location": "Mühlentreff Mühlenbeck, Hauptstraße 7",
       "fetchedAt": "2026-10-04T09:58:02.563Z",
       "updatedAt": "2026-10-04T09:58:02.563Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58938401",
+      "title": "Führung: FriedWald Mühlenbecker Land",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58938401",
+      "startDate": "2026-10-24T14:00:00.000Z",
+      "location": "FriedWald Mühlenbecker Land, OT Mühlenbeck, Parkplatz Nordufer am Summter See",
+      "fetchedAt": "2026-10-05T10:37:24.847Z",
+      "updatedAt": "2026-10-05T10:37:24.847Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58809567",
+      "title": "Bürgerverein: Boule am Teich",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58809567",
+      "startDate": "2026-10-24T14:00:00.000Z",
+      "location": "Bouleplatz, Feldahornstraße, OT Schönfließ",
+      "fetchedAt": "2026-10-05T10:37:24.847Z",
+      "updatedAt": "2026-10-05T10:37:24.847Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798975",
+      "title": "Volkssolidarität: Gymnastik",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798975",
+      "startDate": "2026-10-26T09:30:00.000Z",
+      "location": "Bürgersaal, Franz-Schmidt-Str. 3, OT Schildow",
+      "fetchedAt": "2026-10-05T10:37:24.847Z",
+      "updatedAt": "2026-10-05T10:37:24.847Z"
     }
   ]
 }

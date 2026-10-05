@@ -909,6 +909,16 @@ URL:https://www.kremmen.de/veranstaltungen/2976768/2026/10/11/frühstück
 LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2979301@amtsfeed.de
+DTSTAMP:20261005T103714Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:von Angesicht zu Angesicht
+URL:https://www.kremmen.de/veranstaltungen/2979301/2026/10/14/von-angesic
+ ht-zu-angesicht.html
+LOCATION:Kultur & Beeren UG
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2911520@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20261015
@@ -1207,6 +1217,16 @@ SUMMARY:Weihnachtsliedersingen
 URL:https://www.kremmen.de/veranstaltungen/2927974/2026/12/19/weihnachtsl
  iedersingen.html
 LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2979312@amtsfeed.de
+DTSTAMP:20261005T103714Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Abschiedskonzert des Chor Harmonie e.V.
+URL:https://www.kremmen.de/veranstaltungen/2979312/2026/12/19/abschiedsko
+ nzert-des-chor-harmonie-e.v.html
+LOCATION:Kirche Sommerfeld
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2871170@amtsfeed.de

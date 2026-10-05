@@ -1290,13 +1290,15 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-7486@amtsfeed.de
-DTSTAMP:20260927T092430Z
+DTSTAMP:20261005T103730Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:Orgelmusik zur Mittagszeit
+SUMMARY:Orgelmusik zur Mittagszeit - lorian Wilkes spielt Bachs Deutsche 
+ Orgelmesse
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
- der/Orgelmusik-zur-Mittagszeit.php?object=tx\,2967.4&amp\;ModID=11&amp\;F
- ID=2967.7486.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+ der/Orgelmusik-zur-Mittagszeit-lorian-Wilkes-spielt-Bachs-Deutsche-Orgelm
+ esse.php?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7486.1&amp\;NavID=
+ 2967.39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-7975@amtsfeed.de
@@ -1385,6 +1387,16 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  p\;sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:oranienburg-event-8039@amtsfeed.de
+DTSTAMP:20261005T103730Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261215
+SUMMARY:&raquo\;Bookdate&laquo\; in der Stadtbibliothek
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/-Bookdate-in-der-Stadtbibliothek.php?object=tx\,2967.4&amp\;ModID=11&
+ amp\;FID=2967.8039.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:oranienburg-event-7487@amtsfeed.de
 DTSTAMP:20260929T095924Z
 DTSTART;VALUE=DATE:20261013
@@ -1393,6 +1405,17 @@ SUMMARY:Orgelmusik zur Mittagszeit
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/Orgelmusik-zur-Mittagszeit.php?object=tx\,2967.4&amp\;ModID=11&amp\;F
  ID=2967.7487.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8045@amtsfeed.de
+DTSTAMP:20261005T103730Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Lehnitzer Enerige-Treff: Welche Wärmepumpe passt zu mir?
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Lehnitzer-Enerige-Treff-Welche-W%C3%A4rmepumpe-passt-zu-mir-.php?obje
+ ct=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.8045.1&amp\;NavID=2967.39&amp\;
+ sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-8025@amtsfeed.de
@@ -1472,6 +1495,16 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  ID=2967.7488.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:oranienburg-event-8043@amtsfeed.de
+DTSTAMP:20261005T103730Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:&raquo\;Treffpunkt Brunnen&laquo\; - Das neue Adonia-Musical
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/-Treffpunkt-Brunnen-Das-neue-Adonia-Musical.php?object=tx\,2967.4&amp
+ \;ModID=11&amp\;FID=2967.8043.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:oranienburg-event-7438@amtsfeed.de
 DTSTAMP:20261004T095809Z
 DTSTART;VALUE=DATE:20261023
@@ -1492,5 +1525,16 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/-Hansi-s-Flohmarkt-Antik-Floh-und-Tr%C3%B6delmarkt-mit-Babybasar.php?
  object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7678.1&amp\;NavID=2967.39&a
  mp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8044@amtsfeed.de
+DTSTAMP:20261005T103730Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:ADFC-Radtour: Wasserstraßen in und nahe Oranienburg
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/ADFC-Radtour-Wasserstra%C3%9Fen-in-und-nahe-Oranienburg.php?object=tx
+ \,2967.4&amp\;ModID=11&amp\;FID=2967.8044.1&amp\;NavID=2967.39&amp\;sfreg
+ =1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

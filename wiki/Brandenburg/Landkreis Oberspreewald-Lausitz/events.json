@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T09:58:51.172Z",
+  "updatedAt": "2026-10-05T10:38:12.170Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -7562,6 +7562,16 @@
       "updatedAt": "2026-05-31T18:42:06.173Z"
     },
     {
+      "id": "lk-osl-event-2979268-20261110",
+      "title": "Und der Haifisch... (Gastspiel Theater Neue Bühne)",
+      "url": "https://www.osl-online.de/veranstaltungen/2979268/2026/11/10/und-der-haifisch.-gastspiel-theater-neue-bühne.html",
+      "startDate": "2026-11-10T16:00:00.000Z",
+      "endDate": "2026-11-10T17:30:00.000Z",
+      "location": "Bürgerhaus Schwarzheide",
+      "fetchedAt": "2026-10-05T10:38:12.210Z",
+      "updatedAt": "2026-10-05T10:38:12.210Z"
+    },
+    {
       "id": "lk-osl-event-2124475-20261110",
       "title": "Chorprobe mit dem Stadtchor Lauchhammer",
       "url": "https://www.osl-online.de/veranstaltungen/2124475/2026/11/10/chorprobe-mit-dem-stadtchor-lauchhammer.html",
@@ -13211,6 +13221,15 @@
       "updatedAt": "2026-09-11T11:12:41.342Z"
     },
     {
+      "id": "lk-osl-event-2979282-20270904",
+      "title": "25 Jahre Stützpunktfeuerwehr",
+      "url": "https://www.osl-online.de/veranstaltungen/2979282/2027/09/04/25-jahre-stützpunktfeuerwehr.html",
+      "startDate": "2027-09-04T00:00:00.000Z",
+      "location": "Naundorfer Straße 26 in Lauchhammer-Mitte",
+      "fetchedAt": "2026-10-05T10:38:12.210Z",
+      "updatedAt": "2026-10-05T10:38:12.210Z"
+    },
+    {
       "id": "lk-osl-event-2124462-20270906",
       "title": "Treffpunkt Bürgertheater",
       "url": "https://www.osl-online.de/veranstaltungen/2124462/2027/09/06/treffpunkt-bürgertheater.html",
@@ -13579,6 +13598,42 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-10-04T09:58:51.214Z",
       "updatedAt": "2026-10-04T09:58:51.214Z"
+    },
+    {
+      "id": "lk-osl-event-1906922-20271005",
+      "title": "Großmarkt auf dem Marktplatz \"In Calau clever kaufen\" bei den Calauer Innenstadthändlern",
+      "url": "https://www.osl-online.de/veranstaltungen/1906922/2027/10/05/großmarkt-auf-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthändlern.html",
+      "startDate": "2027-10-05T08:00:00.000Z",
+      "location": "Marktplatz Calau",
+      "fetchedAt": "2026-10-05T10:38:12.210Z",
+      "updatedAt": "2026-10-05T10:38:12.210Z"
+    },
+    {
+      "id": "lk-osl-event-2290342-20271005",
+      "title": "Calauer Wochenmarkt",
+      "url": "https://www.osl-online.de/veranstaltungen/2290342/2027/10/05/calauer-wochenmarkt.html",
+      "startDate": "2027-10-05T08:00:00.000Z",
+      "location": "Marktplatz Calau",
+      "fetchedAt": "2026-10-05T10:38:12.210Z",
+      "updatedAt": "2026-10-05T10:38:12.210Z"
+    },
+    {
+      "id": "lk-osl-event-1958298-20271005",
+      "title": "&bdquo;Väter unter sich&ldquo; – Ein Treff für werdende Papas sowie Vätern von Babys und Kleinkindern",
+      "url": "https://www.osl-online.de/veranstaltungen/1958298/2027/10/05/väter-unter-sich--ein-treff-für-werdende-papas-sowie-vätern-von-babys-und-kleinkindern.html",
+      "startDate": "2027-10-05T17:00:00.000Z",
+      "location": "Regine-Hildebrandt-Haus",
+      "fetchedAt": "2026-10-05T10:38:12.210Z",
+      "updatedAt": "2026-10-05T10:38:12.210Z"
+    },
+    {
+      "id": "lk-osl-event-2124475-20271005",
+      "title": "Chorprobe mit dem Stadtchor Lauchhammer",
+      "url": "https://www.osl-online.de/veranstaltungen/2124475/2027/10/05/chorprobe-mit-dem-stadtchor-lauchhammer.html",
+      "startDate": "2027-10-05T19:00:00.000Z",
+      "location": "Aula in der Oberschule \"Am Wehlenteich\"",
+      "fetchedAt": "2026-10-05T10:38:12.210Z",
+      "updatedAt": "2026-10-05T10:38:12.210Z"
     }
   ]
 }

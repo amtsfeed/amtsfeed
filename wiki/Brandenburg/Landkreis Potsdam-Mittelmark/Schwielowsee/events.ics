@@ -10195,13 +10195,13 @@ LOCATION:Caputh - Atelier Christine Lindemann
 END:VEVENT
 BEGIN:VEVENT
 UID:schwielowsee-event-99226904@amtsfeed.de
-DTSTAMP:20261002T095724Z
+DTSTAMP:20261006T102957Z
 DTSTART:20261025T110000Z
 SUMMARY:Saisonabschlussführung der Gilde der Stadtführer Werder (Havel)
-  e.V.
+  e.V. | Spurensuche in der Vorstadt
 URL:https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsi
  nformationen.html?se=99226904
-LOCATION:Werder (Havel) - Insel Werder (Havel)
+LOCATION:Werder (Havel) - Werderaner Altstadt
 END:VEVENT
 BEGIN:VEVENT
 UID:schwielowsee-event-99116055@amtsfeed.de
@@ -10692,6 +10692,15 @@ SUMMARY:Künstlerkolonie Heikendorf zu Gast in Ferch
 URL:https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsi
  nformationen.html?se=99147636
 LOCATION:Ferch - Museum Havelländische Malerkolonie
+END:VEVENT
+BEGIN:VEVENT
+UID:schwielowsee-event-99227915@amtsfeed.de
+DTSTAMP:20261006T102957Z
+DTSTART:20261107T140000Z
+SUMMARY:50. Jähriges Jubiläum - Gemischter Chor Glindow e.V.
+URL:https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsi
+ nformationen.html?se=99227915
+LOCATION:Werder (Havel) - Werderaner Tannenhof
 END:VEVENT
 BEGIN:VEVENT
 UID:schwielowsee-event-99137031@amtsfeed.de
@@ -11502,6 +11511,15 @@ SUMMARY:"Weihnachten auf hoher See" mit dem Shantychor der Wasserschutzpo
 URL:https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsi
  nformationen.html?se=99128763
 LOCATION:Petzow - Kulturkirche Petzow
+END:VEVENT
+BEGIN:VEVENT
+UID:schwielowsee-event-99227916@amtsfeed.de
+DTSTAMP:20261006T102957Z
+DTSTART:20261206T150000Z
+SUMMARY:Weihnachtskonzert Werder (Havel) - Gemischter Chor Glindow e.V.
+URL:https://www.schwielowsee-tourismus.de/veranstaltungen/veranstaltungsi
+ nformationen.html?se=99227916
+LOCATION:Werder (Havel) - Katholische Kirche Maria Meeresstern
 END:VEVENT
 BEGIN:VEVENT
 UID:schwielowsee-event-99127114@amtsfeed.de

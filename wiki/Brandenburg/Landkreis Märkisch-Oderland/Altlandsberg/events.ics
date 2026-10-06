@@ -358,21 +358,6 @@ DESCRIPTION:Im Klang - Verbunden\, Verwoben: So singen die Sängerinnen d
 LOCATION:Schlosskirche Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
-UID:4@amtsfeed.de
-DTSTAMP:20260920T084211Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Handpan Workshop Intensivkurs
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/handpan-workshop-intensivkurs-4/
-DESCRIPTION:Du möchtest Handpan spielen lernen und suchst einen intensiv
- en Einstieg\, der dich in kurzer Zeit wirklich weiterbringt? Dann ist die
- ser 4-tägige Intensivkurs genau das Richtige für dich. In einer kleinen
-  Gruppe tauchen wir gemeinsam in die faszinierende Welt der Handpan ein. 
- Schritt für Schritt lernst du die...
-LOCATION:Katja Baumheier
-END:VEVENT
-BEGIN:VEVENT
 UID:5@amtsfeed.de
 DTSTAMP:20260911T110937Z
 DTSTART;VALUE=DATE:20261006
@@ -579,6 +564,21 @@ URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
 DESCRIPTION:Der Vokalchor der TU Berlin präsentiert anspruchsvolle Chorw
  erke aller Stilrich­tungen und aus allen Epochen.
 LOCATION:Stadtkirche Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:4@amtsfeed.de
+DTSTAMP:20261006T102606Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Workshop: "Sumi-e" Japanische Tuschemalerei mit Uta Wilczok
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/workshop-sumi-e-japanische-tuschemalerei-mit-uta-wilczok-4/
+DESCRIPTION:Sumi-e bedeutet übersetzt Schwarze-Tusche-Bild oder –Maler
+ ei. Es ist eine seit Jahrhunderten in Japan ausgeübte Kunst\, in ihrer E
+ infachheit und ihrem Ausdruck des Wesentlichen in den Zen-Klöstern zur M
+ eisterschaft gebracht. Der Workshop gibt eine Idee vom „Weg der schwarz
+ en Tusche“\, der spontan ist\, meditativ\, auf...
+LOCATION:Schlossgut Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
 UID:wintertheater-theater89-wind-sand-und-sterne-die-wueste-von-antoine-d

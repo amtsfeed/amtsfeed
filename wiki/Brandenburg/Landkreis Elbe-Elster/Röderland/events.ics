@@ -463,6 +463,14 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2811943/2026/12/31
  /silvesterfeier.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2979449@amtsfeed.de
+DTSTAMP:20261006T102305Z
+DTSTART:20261231T190000Z
+SUMMARY:silvesterfeier
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2979449/2026/12/31
+ /silvesterfeier.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2968071@amtsfeed.de
 DTSTAMP:20260916T083941Z
 DTSTART:20270112T153000Z
@@ -535,6 +543,24 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2968096/2027/03/18
  /spielenachmittag.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2979431@amtsfeed.de
+DTSTAMP:20261006T102305Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Skatturnier
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2979431/2027/03/26
+ /skatturnier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2979433@amtsfeed.de
+DTSTAMP:20261006T102305Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Osterfeuer und Osterhase
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2979433/2027/03/27
+ /osterfeuer-und-osterhase.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2968074@amtsfeed.de
 DTSTAMP:20260916T083941Z
 DTSTART:20270406T153000Z
@@ -581,5 +607,32 @@ DTSTART:20270520T153000Z
 SUMMARY:Spielenachmittag
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2974233/2027/05/20
  /spielenachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2979434@amtsfeed.de
+DTSTAMP:20261006T102305Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Badewannenrennen
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2979434/2027/07/10
+ /badewannenrennen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2979437@amtsfeed.de
+DTSTAMP:20261006T102305Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Sportfest
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2979437/2027/07/30
+ /sportfest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2979440@amtsfeed.de
+DTSTAMP:20261006T102305Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:Herbstfeuer
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2979440/2027/10/02
+ /herbstfeuer.html
 END:VEVENT
 END:VCALENDAR

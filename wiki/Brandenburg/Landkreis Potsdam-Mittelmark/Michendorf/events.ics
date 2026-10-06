@@ -1135,12 +1135,12 @@ URL:https://www.michendorf.de/veranstaltungen/2938778/2026/10/09/der-dres
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2968978@amtsfeed.de
-DTSTAMP:20260917T085346Z
+DTSTAMP:20261006T102948Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Kaffeeklatsch Perspektiventreff im "Alten Rathaus"
+SUMMARY:Kaffeeklatsch Perspektiventreff im Alten Rathaus
 URL:https://www.michendorf.de/veranstaltungen/2968978/2026/10/09/kaffeekl
- atsch-perspektiventreff-im-quotalten-rathaus-quot.html
+ atsch-perspektiventreff-im-alten-rathaus.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2970751@amtsfeed.de
@@ -1207,12 +1207,12 @@ URL:https://www.michendorf.de/veranstaltungen/2938784/2026/10/11/der-dres
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2961734@amtsfeed.de
-DTSTAMP:20260911T111336Z
+DTSTAMP:20261006T102948Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:Lymphdrainage &amp\; AtemAchtsamkeit
+SUMMARY:Lymphdrainage und AtemAchtsamkeit
 URL:https://www.michendorf.de/veranstaltungen/2961734/2026/10/12/lymphdra
- inage-amp-atemachtsamkeit.html
+ inage-und-atemachtsamkeit.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2798286@amtsfeed.de
@@ -1585,5 +1585,14 @@ DTEND;VALUE=DATE:20261218
 SUMMARY:Im Gespräch in Michendorf
 URL:https://www.michendorf.de/veranstaltungen/2959134/2026/12/17/im-gespr
  äch-in-michendorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2979856@amtsfeed.de
+DTSTAMP:20261006T102948Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Tag der Offenen Türen aller Vereine und Initiativen
+URL:https://www.michendorf.de/veranstaltungen/2979856/2027/04/24/tag-der-
+ offenen-türen-aller-vereine-und-initiativen.html
 END:VEVENT
 END:VCALENDAR

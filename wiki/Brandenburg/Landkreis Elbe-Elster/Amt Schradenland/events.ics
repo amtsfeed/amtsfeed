@@ -708,15 +708,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2953399/2026/10/05/go
  ttesdienst-der-ev.-schradengrundschule.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2952576@amtsfeed.de
-DTSTAMP:20260911T110713Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Nähen\, Stricken \, Häkeln
-URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/10/05/n
- ähen-stricken--häkeln.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2897508@amtsfeed.de
 DTSTAMP:20260508T183740Z
 DTSTART;VALUE=DATE:20261006
@@ -778,6 +769,15 @@ DTEND;VALUE=DATE:20261011
 SUMMARY:Tag der offenen Tür in der Evangelischen Schraden-Grundschule
 URL:https://www.amt-schradenland.de/veranstaltungen/2972259/2026/10/10/ta
  g-der-offenen-tür-in-der-evangelischen-schraden-grundschule.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2952576@amtsfeed.de
+DTSTAMP:20261006T102257Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Nähen\, Stricken \, Häkeln
+URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/10/12/n
+ ähen-stricken--häkeln.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2972107@amtsfeed.de

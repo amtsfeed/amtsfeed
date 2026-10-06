@@ -1257,15 +1257,6 @@ URL:https://www.teltow.de/veranstaltungen/2972959/2026/10/04/das-heimatmu
  seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930009@amtsfeed.de
-DTSTAMP:20260929T100145Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
-URL:https://www.teltow.de/veranstaltungen/2930009/2026/10/05/offener-lern
- raum-digitales-lernen-und-arbeiten-am-computer.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2971717@amtsfeed.de
 DTSTAMP:20260922T084228Z
 DTSTART;VALUE=DATE:20261005
@@ -1390,6 +1381,15 @@ DTEND;VALUE=DATE:20261012
 SUMMARY:Staudentrödel im Heimatmuseum
 URL:https://www.teltow.de/veranstaltungen/2972963/2026/10/11/staudentröd
  el-im-heimatmuseum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930009@amtsfeed.de
+DTSTAMP:20261006T103010Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
+URL:https://www.teltow.de/veranstaltungen/2930009/2026/10/12/offener-lern
+ raum-digitales-lernen-und-arbeiten-am-computer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2971725@amtsfeed.de

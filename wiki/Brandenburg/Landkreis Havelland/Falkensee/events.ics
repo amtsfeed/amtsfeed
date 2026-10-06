@@ -3371,6 +3371,15 @@ URL:https://www.falkensee.de/veranstaltungen/2975773/2026/10/10/die-kirch
  e-putzt-sich-raus.html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2980052-20261010@amtsfeed.de
+DTSTAMP:20261006T102328Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Abhockeln: Ende der Feldsaison auf dem Kant-Sportplatz
+URL:https://www.falkensee.de/veranstaltungen/2980052/2026/10/10/abhockeln
+ -ende-der-feldsaison-auf-dem-kant-sportplatz.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2900966-20261011@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261011
@@ -7939,5 +7948,23 @@ DTEND;VALUE=DATE:20271006
 SUMMARY:Seniorenskat - für Freunde des Kartenspiels
 URL:https://www.falkensee.de/veranstaltungen/2188424/2027/10/05/seniorens
  kat-für-freunde-des-kartenspiels.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2321277-20271006@amtsfeed.de
+DTSTAMP:20261006T102328Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+SUMMARY:Elternfrühstück im Weltladen
+URL:https://www.falkensee.de/veranstaltungen/2321277/2027/10/06/elternfr
+ ühstück-im-weltladen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2405552-20271006@amtsfeed.de
+DTSTAMP:20261006T102328Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+SUMMARY:Singkreis
+URL:https://www.falkensee.de/veranstaltungen/2405552/2027/10/06/singkreis
+ .html
 END:VEVENT
 END:VCALENDAR

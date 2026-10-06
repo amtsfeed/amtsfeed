@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T10:30:27.457Z",
+  "updatedAt": "2026-10-06T10:22:03.139Z",
   "items": [
     {
       "id": "artikel-elternseminar_trotzende_kleinkinder_sind_wie_kleine_neandertaler",
@@ -1143,24 +1143,6 @@
       "updatedAt": "2026-09-28T09:50:33.085Z"
     },
     {
-      "id": "artikel-kostenlose_eltern-sprechstunde_bei_einer_erfahrenen_kinderaerztin",
-      "title": "Kostenlose Eltern-Sprechstunde bei einer erfahrenen Kinderärztin",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-kostenlose_eltern-sprechstunde_bei_einer_erfahrenen_kinderaerztin-2026-09-28.html",
-      "startDate": "2026-09-28T19:30:00.000Z",
-      "location": "Online-Zoom-Seminar",
-      "fetchedAt": "2026-09-28T09:50:33.085Z",
-      "updatedAt": "2026-09-28T09:50:33.085Z"
-    },
-    {
-      "id": "artikel-nordic_walking_in_der_probstheide",
-      "title": "Nordic Walking in der Probstheide",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-nordic_walking_in_der_probstheide-2026-09-29.html",
-      "startDate": "2026-09-29T08:30:00.000Z",
-      "location": "Probstheide",
-      "fetchedAt": "2026-05-31T13:13:08.445Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
       "id": "artikel-museum_im_steintor",
       "title": "Museum im Steintor",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-museum_im_steintor-2026-09-29.html",
@@ -1179,109 +1161,10 @@
       "updatedAt": "2026-09-29T09:52:47.891Z"
     },
     {
-      "id": "artikel-gemeinsamzeit",
-      "title": "„Gemeinsamzeit\"",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gemeinsamzeit-2026-09-29.html",
-      "startDate": "2026-09-29T13:30:00.000Z",
-      "location": "Aufwind - Begegnung und Beratung",
-      "fetchedAt": "2026-05-26T08:49:44.727Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
-      "id": "artikel-theaterkurs_geschichten_erzaehlen_neues_entdecken_buehne_erleben_5-teiliger_kurs",
-      "title": "Theaterkurs – Geschichten erzählen. Neues entdecken. Bühne erleben. (5-teiliger Kurs)",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-theaterkurs_geschichten_erzaehlen_neues_entdecken_buehne_erleben_5-teiliger_kurs-2026-09-29.html",
-      "startDate": "2026-09-29T13:30:00.000Z",
-      "location": "Treff 23",
-      "fetchedAt": "2026-09-22T08:35:14.261Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
-      "id": "artikel-lerntreff_lesen_und_schreiben_fuer_erwachsene",
-      "title": "LernTreff: Lesen und Schreiben für Erwachsene",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-lerntreff_lesen_und_schreiben_fuer_erwachsene-2026-09-29.html",
-      "startDate": "2026-09-29T14:00:00.000Z",
-      "location": "Grundbildungszentrum Barnim",
-      "fetchedAt": "2026-05-26T08:49:44.727Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
       "id": "artikel-frakimas_findhorntanz",
       "title": "FRAKIMAs Findhorntanz",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_findhorntanz-2026-09-29.html",
       "startDate": "2026-09-29T14:00:00.000Z",
-      "location": "Frakima Werkstatt",
-      "fetchedAt": "2026-09-22T08:35:14.261Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
-      "id": "artikel-frakimas_plastik-_und_keramik_am_dienstagnachmittag_fuer_erwachsene",
-      "title": "FRAKIMAs Plastik- und Keramik | am Dienstagnachmittag für Erwachsene",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_plastik-_und_keramik_am_dienstagnachmittag_fuer_erwachsene-2026-09-29.html",
-      "startDate": "2026-09-29T14:00:00.000Z",
-      "location": "Frakima Werkstatt",
-      "fetchedAt": "2026-09-22T08:35:14.261Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
-      "id": "artikel-frakimas_plastik-_und_keramik_am_dienstagnachmittag_fuer_kinder_und_jugendliche",
-      "title": "FRAKIMAs Plastik- und Keramik | am Dienstagnachmittag für Kinder und Jugendliche",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_plastik-_und_keramik_am_dienstagnachmittag_fuer_kinder_und_jugendliche-2026-09-29.html",
-      "startDate": "2026-09-29T16:00:00.000Z",
-      "location": "Frakima Werkstatt",
-      "fetchedAt": "2026-09-22T08:35:14.261Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
-      "id": "artikel-solo-tanzzeit_fuer_frauen",
-      "title": "Solo-Tanzzeit für Frauen",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-solo-tanzzeit_fuer_frauen-2026-09-29.html",
-      "startDate": "2026-09-29T17:00:00.000Z",
-      "location": "Tanzclub Bernau am Ofenhaus",
-      "fetchedAt": "2026-09-22T08:35:14.261Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
-      "id": "artikel-sanfte_water_class",
-      "title": "Sanfte Water Class",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-sanfte_water_class-2026-09-29.html",
-      "startDate": "2026-09-29T17:30:00.000Z",
-      "location": "Wohlklang Zentrum Bernau",
-      "fetchedAt": "2026-05-26T08:49:44.727Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
-      "id": "artikel-yoga_fuer_die_weibliche_mitte",
-      "title": "Yoga für die weibliche Mitte",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-yoga_fuer_die_weibliche_mitte-2026-09-29.html",
-      "startDate": "2026-09-29T17:30:00.000Z",
-      "location": "Praxis Wohlklang",
-      "fetchedAt": "2026-05-26T08:49:44.727Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
-      "id": "artikel-salsa_cubana_fuer_fortgeschrittene",
-      "title": "Salsa Cubana für Fortgeschrittene",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-salsa_cubana_fuer_fortgeschrittene-2026-09-29.html",
-      "startDate": "2026-09-29T18:00:00.000Z",
-      "location": "Klub am Steintor",
-      "fetchedAt": "2026-05-26T08:49:44.727Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
-      "id": "artikel-selbsthilfegruppe_zwischenhalt_offener_treff_fuer_junge_menschen_mit_psychischen_problemen",
-      "title": "Selbsthilfegruppe Zwischenhalt – offener Treff für junge Menschen mit psychischen Problemen",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-selbsthilfegruppe_zwischenhalt_offener_treff_fuer_junge_menschen_mit_psychischen_problemen-2026-09-29.html",
-      "startDate": "2026-09-29T18:00:00.000Z",
-      "location": "Stadtmauertreff",
-      "fetchedAt": "2026-05-26T08:49:44.727Z",
-      "updatedAt": "2026-09-29T09:52:47.891Z"
-    },
-    {
-      "id": "artikel-frakimas_plastik-_und_keramik_am_dienstagabend_fuer_erwachsene",
-      "title": "FRAKIMAs Plastik- und Keramik | am Dienstagabend für Erwachsene",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_plastik-_und_keramik_am_dienstagabend_fuer_erwachsene-2026-09-29.html",
-      "startDate": "2026-09-29T18:00:00.000Z",
       "location": "Frakima Werkstatt",
       "fetchedAt": "2026-09-22T08:35:14.261Z",
       "updatedAt": "2026-09-29T09:52:47.891Z"
@@ -1422,15 +1305,6 @@
       "updatedAt": "2026-09-30T09:45:10.685Z"
     },
     {
-      "id": "artikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischluft",
-      "title": "Gitarrenkurse für Kinder und Jugendliche im Jugendzentrum Frischluft",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischluft-2026-09-30.html",
-      "startDate": "2026-09-30T15:00:00.000Z",
-      "location": "Jugend- und Stadtteilzentrum Frischluft",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-09-30T09:45:10.685Z"
-    },
-    {
       "id": "artikel-seniorentanznachmittag",
       "title": "Seniorentanznachmittag",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-seniorentanznachmittag-2026-09-30.html",
@@ -1500,15 +1374,6 @@
       "startDate": "2026-09-30T16:45:00.000Z",
       "location": "Frakima Werkstatt",
       "fetchedAt": "2026-09-23T08:37:46.640Z",
-      "updatedAt": "2026-09-30T09:45:10.685Z"
-    },
-    {
-      "id": "artikel-gitarrenkurse_in_der_grundschule_schoenow",
-      "title": "Gitarrenkurse in der Grundschule Schönow",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gitarrenkurse_in_der_grundschule_schoenow-2026-09-30.html",
-      "startDate": "2026-09-30T17:00:00.000Z",
-      "location": "Grundschule Schönow",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
       "updatedAt": "2026-09-30T09:45:10.685Z"
     },
     {
@@ -1589,15 +1454,6 @@
       "startDate": "2026-10-01T10:00:00.000Z",
       "location": "Frakima Werkstatt",
       "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-10-01T10:11:36.663Z"
-    },
-    {
-      "id": "artikel-offene_sprechstunde_schuldner-_und_insolvenzberatungsstelle",
-      "title": "Offene Sprechstunde: Schuldner- und Insolvenzberatungsstelle",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-offene_sprechstunde_schuldner-_und_insolvenzberatungsstelle-2026-10-01.html",
-      "startDate": "2026-10-01T10:00:00.000Z",
-      "location": "AWO Quartier „Am Weinberg\"",
-      "fetchedAt": "2026-05-06T20:21:02.587Z",
       "updatedAt": "2026-10-01T10:11:36.663Z"
     },
     {
@@ -2248,6 +2104,24 @@
       "updatedAt": "2026-10-05T10:30:27.454Z"
     },
     {
+      "id": "artikel-nordic_walking_in_der_probstheide",
+      "title": "Nordic Walking in der Probstheide",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-nordic_walking_in_der_probstheide-2026-10-06.html",
+      "startDate": "2026-10-06T08:30:00.000Z",
+      "location": "Probstheide",
+      "fetchedAt": "2026-05-31T13:13:08.445Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-kostenlose_eltern-sprechstunde_bei_einer_erfahrenen_kinderaerztin",
+      "title": "Kostenlose Eltern-Sprechstunde bei einer erfahrenen Kinderärztin",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-kostenlose_eltern-sprechstunde_bei_einer_erfahrenen_kinderaerztin-2026-10-06.html",
+      "startDate": "2026-10-06T09:00:00.000Z",
+      "location": "Online-Zoom-Seminar",
+      "fetchedAt": "2026-09-28T09:50:33.085Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
       "id": "artikel-museum_im_henkerhaus",
       "title": "Museum im Henkerhaus",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-museum_im_henkerhaus-2026-10-06.html",
@@ -2255,6 +2129,15 @@
       "location": "Museum im Henkerhaus",
       "fetchedAt": "2026-05-05T17:21:19.746Z",
       "updatedAt": "2026-10-05T10:30:27.454Z"
+    },
+    {
+      "id": "artikel-offene_sprechstunde_schuldner-_und_insolvenzberatungsstelle",
+      "title": "Offene Sprechstunde: Schuldner- und Insolvenzberatungsstelle",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-offene_sprechstunde_schuldner-_und_insolvenzberatungsstelle-2026-10-06.html",
+      "startDate": "2026-10-06T10:00:00.000Z",
+      "location": "AWO Quartier „Am Weinberg\"",
+      "fetchedAt": "2026-05-06T20:21:02.587Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
     },
     {
       "id": "artikel-elternzeitcaf",
@@ -2293,6 +2176,51 @@
       "updatedAt": "2026-10-05T10:30:27.454Z"
     },
     {
+      "id": "artikel-spielenachmittag_der_volkssolidaritaet",
+      "title": "Spielenachmittag der Volkssolidarität",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-spielenachmittag_der_volkssolidaritaet-2026-10-06.html",
+      "startDate": "2026-10-06T13:00:00.000Z",
+      "location": "Begegnungszentrum Bernau – Einrichtung des Landesverbandes der Volkssolidarität e.V.",
+      "fetchedAt": "2026-10-06T10:22:03.136Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-gemeinsamzeit",
+      "title": "„Gemeinsamzeit\"",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gemeinsamzeit-2026-10-06.html",
+      "startDate": "2026-10-06T13:30:00.000Z",
+      "location": "Aufwind - Begegnung und Beratung",
+      "fetchedAt": "2026-05-26T08:49:44.727Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-theaterkurs_geschichten_erzaehlen_neues_entdecken_buehne_erleben_5-teiliger_kurs",
+      "title": "Theaterkurs – Geschichten erzählen. Neues entdecken. Bühne erleben. (5-teiliger Kurs)",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-theaterkurs_geschichten_erzaehlen_neues_entdecken_buehne_erleben_5-teiliger_kurs-2026-10-06.html",
+      "startDate": "2026-10-06T13:30:00.000Z",
+      "location": "Treff 23",
+      "fetchedAt": "2026-09-22T08:35:14.261Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-lerntreff_lesen_und_schreiben_fuer_erwachsene",
+      "title": "LernTreff: Lesen und Schreiben für Erwachsene",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-lerntreff_lesen_und_schreiben_fuer_erwachsene-2026-10-06.html",
+      "startDate": "2026-10-06T14:00:00.000Z",
+      "location": "Grundbildungszentrum Barnim",
+      "fetchedAt": "2026-05-26T08:49:44.727Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-frakimas_plastik-_und_keramik_am_dienstagnachmittag_fuer_erwachsene",
+      "title": "FRAKIMAs Plastik- und Keramik | am Dienstagnachmittag für Erwachsene",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_plastik-_und_keramik_am_dienstagnachmittag_fuer_erwachsene-2026-10-06.html",
+      "startDate": "2026-10-06T14:00:00.000Z",
+      "location": "Frakima Werkstatt",
+      "fetchedAt": "2026-09-22T08:35:14.261Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
       "id": "artikel-familientag_im_yellow",
       "title": "Familientag im Yellow",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-familientag_im_yellow-2026-10-06.html",
@@ -2311,6 +2239,24 @@
       "updatedAt": "2026-10-05T10:30:27.454Z"
     },
     {
+      "id": "artikel-sozial-_und_rechtsberatung_in_der_volkssolidaritaet",
+      "title": "Sozial- und Rechtsberatung in der Volkssolidarität",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-sozial-_und_rechtsberatung_in_der_volkssolidaritaet-2026-10-06.html",
+      "startDate": "2026-10-06T14:00:00.000Z",
+      "location": "Begegnungszentrum Bernau der Volkssolidarität",
+      "fetchedAt": "2026-10-06T10:22:03.136Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischluft",
+      "title": "Gitarrenkurse für Kinder und Jugendliche im Jugendzentrum Frischluft",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischluft-2026-10-06.html",
+      "startDate": "2026-10-06T15:00:00.000Z",
+      "location": "Jugend- und Stadtteilzentrum Frischluft",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
       "id": "artikel-gespraechs-_spiel-_und_basteltreff_spaetlese",
       "title": "Gesprächs-, Spiel- und Basteltreff „Spätlese“",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gespraechs-_spiel-_und_basteltreff_spaetlese-2026-10-06.html",
@@ -2318,6 +2264,33 @@
       "location": "Kneipp-Zentrum Bernau",
       "fetchedAt": "2026-09-22T08:35:14.261Z",
       "updatedAt": "2026-10-05T10:30:27.454Z"
+    },
+    {
+      "id": "artikel-frakimas_plastik-_und_keramik_am_dienstagnachmittag_fuer_kinder_und_jugendliche",
+      "title": "FRAKIMAs Plastik- und Keramik | am Dienstagnachmittag für Kinder und Jugendliche",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_plastik-_und_keramik_am_dienstagnachmittag_fuer_kinder_und_jugendliche-2026-10-06.html",
+      "startDate": "2026-10-06T16:00:00.000Z",
+      "location": "Frakima Werkstatt",
+      "fetchedAt": "2026-09-22T08:35:14.261Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-solo-tanzzeit_fuer_frauen",
+      "title": "Solo-Tanzzeit für Frauen",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-solo-tanzzeit_fuer_frauen-2026-10-06.html",
+      "startDate": "2026-10-06T17:00:00.000Z",
+      "location": "Tanzclub Bernau am Ofenhaus",
+      "fetchedAt": "2026-09-22T08:35:14.261Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-gitarrenkurse_in_der_grundschule_schoenow",
+      "title": "Gitarrenkurse in der Grundschule Schönow",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gitarrenkurse_in_der_grundschule_schoenow-2026-10-06.html",
+      "startDate": "2026-10-06T17:00:00.000Z",
+      "location": "Grundschule Schönow",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
     },
     {
       "id": "artikel-heiter_bis_wolkig_-_hiltrud_kuhlmann_liest_literarische_fundstuecke",
@@ -2336,6 +2309,60 @@
       "location": "Schule im Nibelungenviertel",
       "fetchedAt": "2026-10-05T10:30:27.454Z",
       "updatedAt": "2026-10-05T10:30:27.454Z"
+    },
+    {
+      "id": "artikel-sanfte_water_class",
+      "title": "Sanfte Water Class",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-sanfte_water_class-2026-10-06.html",
+      "startDate": "2026-10-06T17:30:00.000Z",
+      "location": "Wohlklang Zentrum Bernau",
+      "fetchedAt": "2026-05-26T08:49:44.727Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-yoga_fuer_die_weibliche_mitte",
+      "title": "Yoga für die weibliche Mitte",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-yoga_fuer_die_weibliche_mitte-2026-10-06.html",
+      "startDate": "2026-10-06T17:30:00.000Z",
+      "location": "Praxis Wohlklang",
+      "fetchedAt": "2026-05-26T08:49:44.727Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-salsa_cubana_fuer_fortgeschrittene",
+      "title": "Salsa Cubana für Fortgeschrittene",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-salsa_cubana_fuer_fortgeschrittene-2026-10-06.html",
+      "startDate": "2026-10-06T18:00:00.000Z",
+      "location": "Klub am Steintor",
+      "fetchedAt": "2026-05-26T08:49:44.727Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-selbsthilfegruppe_zwischenhalt_offener_treff_fuer_junge_menschen_mit_psychischen_problemen",
+      "title": "Selbsthilfegruppe Zwischenhalt – offener Treff für junge Menschen mit psychischen Problemen",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-selbsthilfegruppe_zwischenhalt_offener_treff_fuer_junge_menschen_mit_psychischen_problemen-2026-10-06.html",
+      "startDate": "2026-10-06T18:00:00.000Z",
+      "location": "Stadtmauertreff",
+      "fetchedAt": "2026-05-26T08:49:44.727Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-frakimas_plastik-_und_keramik_am_dienstagabend_fuer_erwachsene",
+      "title": "FRAKIMAs Plastik- und Keramik | am Dienstagabend für Erwachsene",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_plastik-_und_keramik_am_dienstagabend_fuer_erwachsene-2026-10-06.html",
+      "startDate": "2026-10-06T18:00:00.000Z",
+      "location": "Frakima Werkstatt",
+      "fetchedAt": "2026-09-22T08:35:14.261Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
+    },
+    {
+      "id": "artikel-wellness_fuer_koerper_geist_und_seele",
+      "title": "Wellness für Körper, Geist und Seele",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-wellness_fuer_koerper_geist_und_seele-2026-10-06.html",
+      "startDate": "2026-10-06T18:00:00.000Z",
+      "location": "Stadtmauertreff — 2. Raum (Eingang gegenüber der Stadtmauer)",
+      "fetchedAt": "2026-10-06T10:22:03.136Z",
+      "updatedAt": "2026-10-06T10:22:03.136Z"
     },
     {
       "id": "artikel-sitzung_des_ortsbeirates_waldfrieden",

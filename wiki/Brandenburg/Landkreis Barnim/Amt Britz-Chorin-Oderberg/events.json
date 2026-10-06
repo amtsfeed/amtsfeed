@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:11:33.980Z",
+  "updatedAt": "2026-10-06T10:22:01.152Z",
   "items": [
     {
       "id": "15493",
@@ -1361,6 +1361,15 @@
       "updatedAt": "2026-09-15T08:43:23.060Z"
     },
     {
+      "id": "16720",
+      "title": "Flohmarkt in Parstein",
+      "url": "https://britz-chorin-oderberg.de/events#event-16720",
+      "startDate": "2026-10-10T07:00:00.000Z",
+      "location": "16248 Parsteinsee – Parstein – Sportplatz",
+      "fetchedAt": "2026-10-06T10:22:01.140Z",
+      "updatedAt": "2026-10-06T10:22:01.140Z"
+    },
+    {
       "id": "16551",
       "title": "MenschBrodowin: Aus Alt mach Neu!",
       "url": "https://britz-chorin-oderberg.de/events#event-16551",
@@ -1377,6 +1386,15 @@
       "location": "16230 Chorin – Chorin – Gemeindehaus Chorin",
       "fetchedAt": "2026-10-01T10:11:33.969Z",
       "updatedAt": "2026-10-01T10:11:33.969Z"
+    },
+    {
+      "id": "16717",
+      "title": "Kinderdisco in Brodowin",
+      "url": "https://britz-chorin-oderberg.de/events#event-16717",
+      "startDate": "2026-10-10T13:00:00.000Z",
+      "location": "16230 Chorin – Brodowin – Dorfgemeinschaftshaus, Brodowiner Dorfstraße 61",
+      "fetchedAt": "2026-10-06T10:22:01.140Z",
+      "updatedAt": "2026-10-06T10:22:01.140Z"
     },
     {
       "id": "15084",
@@ -1569,12 +1587,12 @@
     },
     {
       "id": "15302",
-      "title": "Martinsfest Chorin",
+      "title": "Martinsfest in Chorin",
       "url": "https://britz-chorin-oderberg.de/events#event-15302",
-      "startDate": "2026-11-12T23:00:00.000Z",
-      "location": "16230 Chorin – Chorin",
+      "startDate": "2026-11-13T15:30:00.000Z",
+      "location": "16230 Chorin – Chorin – Kirche",
       "fetchedAt": "2026-05-05T17:20:57.837Z",
-      "updatedAt": "2026-05-26T08:49:43.841Z"
+      "updatedAt": "2026-10-06T10:22:01.140Z"
     },
     {
       "id": "16566",
@@ -1701,6 +1719,15 @@
       "location": "16248 Lunow-Stolzenhagen – Lunow",
       "fetchedAt": "2026-05-05T17:20:57.837Z",
       "updatedAt": "2026-05-26T08:49:43.841Z"
+    },
+    {
+      "id": "16715",
+      "title": "Weihnachtsmarkt Brodowin",
+      "url": "https://britz-chorin-oderberg.de/events#event-16715",
+      "startDate": "2026-12-12T14:00:00.000Z",
+      "location": "16230 Chorin – Brodowin – Sportplatz",
+      "fetchedAt": "2026-10-06T10:22:01.140Z",
+      "updatedAt": "2026-10-06T10:22:01.140Z"
     },
     {
       "id": "15388",

@@ -5994,6 +5994,16 @@ URL:https://www.osl-online.de/veranstaltungen/2967733/2026/10/07/4.-dorfs
 LOCATION:Hauptamt stärkt Ehrenamt
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2830505-20261007@amtsfeed.de
+DTSTAMP:20261006T102834Z
+DTSTART:20261007T163000Z
+DTEND:20261007T180000Z
+SUMMARY:Orientalischer Kochkurs
+URL:https://www.osl-online.de/veranstaltungen/2830505/2026/10/07/oriental
+ ischer-kochkurs.html
+LOCATION:Quartierstreff
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2834594-20261008@amtsfeed.de
 DTSTAMP:20260531T184206Z
 DTSTART;VALUE=DATE:20261008
@@ -6553,6 +6563,16 @@ URL:https://www.osl-online.de/veranstaltungen/2963080/2026/10/15/günter-
  grass-kulturtage-konzert-geburtstag-bei-grass-konzert.-ein-weites-feld.ht
  ml
 LOCATION:Lutherhaus\, Ev. Kirche Altdöbern
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2979934-20261016@amtsfeed.de
+DTSTAMP:20261006T102834Z
+DTSTART:20261016T130000Z
+DTEND:20261016T160000Z
+SUMMARY:Tag der Wiederbelebung
+URL:https://www.osl-online.de/veranstaltungen/2979934/2026/10/16/tag-der-
+ wiederbelebung.html
+LOCATION:Rewe am IFA Park
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2790921-20261016@amtsfeed.de
@@ -7490,6 +7510,16 @@ SUMMARY:Calauer Museen öffnen
 URL:https://www.osl-online.de/veranstaltungen/2315266/2026/11/04/calauer-
  museen-öffnen.html
 LOCATION:Haus der Heimatgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2830505-20261104@amtsfeed.de
+DTSTAMP:20261006T102834Z
+DTSTART:20261104T163000Z
+DTEND:20261104T180000Z
+SUMMARY:Orientalischer Kochkurs
+URL:https://www.osl-online.de/veranstaltungen/2830505/2026/11/04/oriental
+ ischer-kochkurs.html
+LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2290342-20261105@amtsfeed.de
@@ -8895,6 +8925,16 @@ SUMMARY:Wiener Operetten Weihnacht
 URL:https://www.osl-online.de/veranstaltungen/2968413/2026/12/02/wiener-o
  peretten-weihnacht.html
 LOCATION:Kulturweberei (Stadthalle) Finsterwalde
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2830505-20261202@amtsfeed.de
+DTSTAMP:20261006T102834Z
+DTSTART:20261202T163000Z
+DTEND:20261202T180000Z
+SUMMARY:Orientalischer Kochkurs
+URL:https://www.osl-online.de/veranstaltungen/2830505/2026/12/02/oriental
+ ischer-kochkurs.html
+LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2960844-20261202@amtsfeed.de
@@ -13971,5 +14011,15 @@ SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
 URL:https://www.osl-online.de/veranstaltungen/2124475/2027/10/05/chorprob
  e-mit-dem-stadtchor-lauchhammer.html
 LOCATION:Aula in der Oberschule "Am Wehlenteich"
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2315266-20271006@amtsfeed.de
+DTSTAMP:20261006T102834Z
+DTSTART:20271006T100000Z
+DTEND:20271006T120000Z
+SUMMARY:Calauer Museen öffnen
+URL:https://www.osl-online.de/veranstaltungen/2315266/2027/10/06/calauer-
+ museen-öffnen.html
+LOCATION:Haus der Heimatgeschichte
 END:VEVENT
 END:VCALENDAR

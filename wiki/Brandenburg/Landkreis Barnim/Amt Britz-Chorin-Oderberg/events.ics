@@ -1221,6 +1221,14 @@ URL:https://britz-chorin-oderberg.de/events#event-16555
 LOCATION:16248 Oderberg – Berliner Straße 73\, "Schwarzer Adler"
 END:VEVENT
 BEGIN:VEVENT
+UID:16720@amtsfeed.de
+DTSTAMP:20261006T102201Z
+DTSTART:20261010T070000Z
+SUMMARY:Flohmarkt in Parstein
+URL:https://britz-chorin-oderberg.de/events#event-16720
+LOCATION:16248 Parsteinsee – Parstein – Sportplatz
+END:VEVENT
+BEGIN:VEVENT
 UID:16551@amtsfeed.de
 DTSTAMP:20260915T084323Z
 DTSTART:20261010T080000Z
@@ -1235,6 +1243,15 @@ DTSTART:20261010T110000Z
 SUMMARY:Kunstworkshop für Kinder und Jugendliche
 URL:https://britz-chorin-oderberg.de/events#event-16700
 LOCATION:16230 Chorin – Chorin – Gemeindehaus Chorin
+END:VEVENT
+BEGIN:VEVENT
+UID:16717@amtsfeed.de
+DTSTAMP:20261006T102201Z
+DTSTART:20261010T130000Z
+SUMMARY:Kinderdisco in Brodowin
+URL:https://britz-chorin-oderberg.de/events#event-16717
+LOCATION:16230 Chorin – Brodowin – Dorfgemeinschaftshaus\, Brodowiner
+  Dorfstraße 61
 END:VEVENT
 BEGIN:VEVENT
 UID:15084@amtsfeed.de
@@ -1406,11 +1423,11 @@ LOCATION:16248 Niederfinow – Schiffshebewerk
 END:VEVENT
 BEGIN:VEVENT
 UID:15302@amtsfeed.de
-DTSTAMP:20260526T084943Z
-DTSTART:20261112T230000Z
-SUMMARY:Martinsfest Chorin
+DTSTAMP:20261006T102201Z
+DTSTART:20261113T153000Z
+SUMMARY:Martinsfest in Chorin
 URL:https://britz-chorin-oderberg.de/events#event-15302
-LOCATION:16230 Chorin – Chorin
+LOCATION:16230 Chorin – Chorin – Kirche
 END:VEVENT
 BEGIN:VEVENT
 UID:16566@amtsfeed.de
@@ -1523,6 +1540,14 @@ DTSTART:20261212T140000Z
 SUMMARY:Weihnachtsfeier Lunower Heimat- und Museumsverein
 URL:https://britz-chorin-oderberg.de/events#event-15192
 LOCATION:16248 Lunow-Stolzenhagen – Lunow
+END:VEVENT
+BEGIN:VEVENT
+UID:16715@amtsfeed.de
+DTSTAMP:20261006T102201Z
+DTSTART:20261212T140000Z
+SUMMARY:Weihnachtsmarkt Brodowin
+URL:https://britz-chorin-oderberg.de/events#event-16715
+LOCATION:16230 Chorin – Brodowin – Sportplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:15388@amtsfeed.de

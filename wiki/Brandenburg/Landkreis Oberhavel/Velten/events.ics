@@ -1033,4 +1033,14 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/16-Sit
  1.4.1&amp\;ModID=11&amp\;FID=3631.884.1&amp\;NavID=3631.15&amp\;sfreg=1&a
  mp\;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1030@amtsfeed.de
+DTSTAMP:20261006T102758Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1030.1&amp\;Nav
+ ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
 END:VCALENDAR

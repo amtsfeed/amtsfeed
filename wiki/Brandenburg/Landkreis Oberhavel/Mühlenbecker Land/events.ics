@@ -2879,6 +2879,16 @@ URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
 LOCATION:Mühlentreff\, Hauptstraße 7\, OT Mühlenbeck
 END:VEVENT
 BEGIN:VEVENT
+UID:muehlenbecker-land-event-59056827@amtsfeed.de
+DTSTAMP:20261006T102749Z
+DTSTART:20261008T143000Z
+SUMMARY:Das Schadstoffmobil kommt
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59056827
+LOCATION:Liebenwalder Str. 1 / Parkplatz der Gemeindeverwaltung\, 16567 M
+ ühlenbeck
+END:VEVENT
+BEGIN:VEVENT
 UID:muehlenbecker-land-event-58798651@amtsfeed.de
 DTSTAMP:20260920T084510Z
 DTSTART:20261008T150000Z
@@ -3432,5 +3442,42 @@ SUMMARY:Volkssolidarität: Gymnastik
 URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
  .php?id=58798975
 LOCATION:Bürgersaal\, Franz-Schmidt-Str. 3\, OT Schildow
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58809488@amtsfeed.de
+DTSTAMP:20261006T102752Z
+DTSTART:20261026T100000Z
+SUMMARY:Kurs: TaiChi
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58809488
+LOCATION:Am oberen Regenrückhaltebecken\, Bieselheide\, OT Schönfließ
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-59007401@amtsfeed.de
+DTSTAMP:20261006T102752Z
+DTSTART:20261026T120000Z
+SUMMARY:Sprechstunde: Sozialpsychiatrische Beratung
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59007401
+LOCATION:Mühlentreff\, OT Mühlenbeck\, Hauptstraße 7
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58797984@amtsfeed.de
+DTSTAMP:20261006T102752Z
+DTSTART:20261027T090000Z
+SUMMARY:Volkssolidarität: Gymnastik für Senioren
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58797984
+LOCATION:Mühlentreff\, Hauptstraße 7\, OT Mühlenbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58798274@amtsfeed.de
+DTSTAMP:20261006T102752Z
+DTSTART:20261027T100000Z
+SUMMARY:Kurs: Nordic Walking
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58798274
+LOCATION:Treffpunkt am Bürgertreff Bieselheide\, Traubeneichenstraße 66
+ \, OT Schönfließ
 END:VEVENT
 END:VCALENDAR

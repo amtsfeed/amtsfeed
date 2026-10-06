@@ -245,24 +245,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2944153/2026/10/02/lesung-
  l
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124462@amtsfeed.de
-DTSTAMP:20260929T095944Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/10/05/treffpu
- nkt-bürgertheater.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2124466@amtsfeed.de
-DTSTAMP:20260929T095944Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/05/treffpu
- nkt-bürgertheater.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124475@amtsfeed.de
 DTSTAMP:20260930T095213Z
 DTSTART;VALUE=DATE:20261006
@@ -279,6 +261,24 @@ DTEND;VALUE=DATE:20261009
 SUMMARY:Behinderten- und Seniorenberatung
 URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/10/08/behinde
  rten-und-seniorenberatung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124462@amtsfeed.de
+DTSTAMP:20261006T102813Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/10/12/treffpu
+ nkt-bürgertheater.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124466@amtsfeed.de
+DTSTAMP:20261006T102813Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/12/treffpu
+ nkt-bürgertheater.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2398220@amtsfeed.de

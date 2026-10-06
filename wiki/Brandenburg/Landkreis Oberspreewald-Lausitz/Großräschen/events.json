@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T09:18:53.767Z",
+  "updatedAt": "2026-10-06T10:28:10.654Z",
   "items": [
     {
       "id": "grossraeschen-event-2791019",
@@ -290,14 +290,6 @@
       "updatedAt": "2026-09-11T11:12:29.600Z"
     },
     {
-      "id": "grossraeschen-event-2830505",
-      "title": "Orientalischer Kochkurs",
-      "url": "https://www.grossraeschen.de/veranstaltungen/2830505/2026/09/23/orientalischer-kochkurs.html",
-      "startDate": "2026-09-23T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:58:45.258Z",
-      "updatedAt": "2026-09-11T11:12:29.600Z"
-    },
-    {
       "id": "grossraeschen-event-2963514",
       "title": "Digital dabei - Mit Internet und Smartphone",
       "url": "https://www.grossraeschen.de/veranstaltungen/2963514/2026/09/24/digital-dabei-mit-internet-und-smartphone.html",
@@ -386,14 +378,6 @@
       "updatedAt": "2026-10-02T09:55:29.697Z"
     },
     {
-      "id": "grossraeschen-event-2791037",
-      "title": "Sprachtraining für Erwachsene",
-      "url": "https://www.grossraeschen.de/veranstaltungen/2791037/2026/10/05/sprachtraining-für-erwachsene.html",
-      "startDate": "2026-10-05T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:32.585Z",
-      "updatedAt": "2026-09-11T11:12:29.600Z"
-    },
-    {
       "id": "grossraeschen-event-2967819",
       "title": "Herzliche Einladung zum Mitbring-Frühstück",
       "url": "https://www.grossraeschen.de/veranstaltungen/2967819/2026/10/05/herzliche-einladung-zum-mitbring-frühstück.html",
@@ -416,6 +400,14 @@
       "startDate": "2026-10-06T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:26:32.585Z",
       "updatedAt": "2026-09-11T11:12:29.600Z"
+    },
+    {
+      "id": "grossraeschen-event-2830505",
+      "title": "Orientalischer Kochkurs",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2830505/2026/10/07/orientalischer-kochkurs.html",
+      "startDate": "2026-10-07T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:45.258Z",
+      "updatedAt": "2026-10-06T10:28:10.642Z"
     },
     {
       "id": "grossraeschen-event-2961243",
@@ -506,6 +498,14 @@
       "updatedAt": "2026-10-03T09:18:53.759Z"
     },
     {
+      "id": "grossraeschen-event-2979934",
+      "title": "Tag der Wiederbelebung",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2979934/2026/10/16/tag-der-wiederbelebung.html",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "fetchedAt": "2026-10-06T10:28:10.642Z",
+      "updatedAt": "2026-10-06T10:28:10.642Z"
+    },
+    {
       "id": "grossraeschen-event-2927390",
       "title": "Kevin Dardis – Irish Songs &   Stories",
       "url": "https://www.grossraeschen.de/veranstaltungen/2927390/2026/10/17/kevin-dardis--irish-songs-stories.html",
@@ -576,6 +576,14 @@
       "startDate": "2026-10-29T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:26:32.585Z",
       "updatedAt": "2026-09-25T08:58:46.520Z"
+    },
+    {
+      "id": "grossraeschen-event-2791037",
+      "title": "Sprachtraining für Erwachsene",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2791037/2026/11/02/sprachtraining-für-erwachsene.html",
+      "startDate": "2026-11-02T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:32.585Z",
+      "updatedAt": "2026-10-06T10:28:10.642Z"
     },
     {
       "id": "grossraeschen-event-2967820",
@@ -818,6 +826,14 @@
       "updatedAt": "2026-09-11T11:12:29.600Z"
     },
     {
+      "id": "grossraeschen-event-2980027",
+      "title": "Weihnachtskonzert",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2980027/2026/12/16/weihnachtskonzert.html",
+      "startDate": "2026-12-16T00:00:00.000Z",
+      "fetchedAt": "2026-10-06T10:28:10.642Z",
+      "updatedAt": "2026-10-06T10:28:10.642Z"
+    },
+    {
       "id": "grossraeschen-event-2790790",
       "title": "Sprechtag der EMB",
       "url": "https://www.grossraeschen.de/veranstaltungen/2790790/2026/12/17/sprechtag-der-emb.html",
@@ -856,6 +872,14 @@
       "startDate": "2026-12-28T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:26:32.585Z",
       "updatedAt": "2026-05-31T18:42:02.082Z"
+    },
+    {
+      "id": "grossraeschen-event-2980034",
+      "title": "Sanko Ogon",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2980034/2026/12/29/sanko-ogon.html",
+      "startDate": "2026-12-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-06T10:28:10.642Z",
+      "updatedAt": "2026-10-06T10:28:10.642Z"
     },
     {
       "id": "grossraeschen-event-2799803",

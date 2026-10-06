@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T10:38:19.506Z",
+  "updatedAt": "2026-10-06T10:28:40.466Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -477,14 +477,6 @@
       "updatedAt": "2026-09-30T09:52:37.205Z"
     },
     {
-      "id": "scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen",
-      "title": "Aktiv Wochenplan - Kneipp-Güsse am Morgen",
-      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-am-morgen",
-      "startDate": "2026-09-30T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-09-29T10:00:10.864Z"
-    },
-    {
       "id": "scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs",
       "title": "Aktiv Wochenplan - Wakepark Schnupperkurs",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-wakepark-schnupperkurs",
@@ -613,30 +605,6 @@
       "updatedAt": "2026-10-01T10:20:46.149Z"
     },
     {
-      "id": "scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
-      "title": "Mitsegeln mit Skipper auf dem Scharmützelsee",
-      "url": "https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
-      "startDate": "2026-10-05T00:00:00.000Z",
-      "fetchedAt": "2026-09-13T08:29:23.977Z",
-      "updatedAt": "2026-10-05T10:38:19.503Z"
-    },
-    {
-      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
-      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
-      "startDate": "2026-10-05T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-10-05T10:38:19.503Z"
-    },
-    {
-      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
-      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
-      "startDate": "2026-10-05T00:00:00.000Z",
-      "fetchedAt": "2026-09-28T09:58:55.325Z",
-      "updatedAt": "2026-10-05T10:38:19.503Z"
-    },
-    {
       "id": "scharmuetzelsee-seniorenkino-im-cinema-bad-saarow",
       "title": "Seniorenkino im Cinema Bad Saarow",
       "url": "https://www.scharmuetzelsee.de/event/seniorenkino-im-cinema-bad-saarow",
@@ -651,6 +619,30 @@
       "startDate": "2026-10-05T00:00:00.000Z",
       "fetchedAt": "2026-10-05T10:38:19.503Z",
       "updatedAt": "2026-10-05T10:38:19.503Z"
+    },
+    {
+      "id": "scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
+      "title": "Mitsegeln mit Skipper auf dem Scharmützelsee",
+      "url": "https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
+      "startDate": "2026-10-06T00:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:29:23.977Z",
+      "updatedAt": "2026-10-06T10:28:40.464Z"
+    },
+    {
+      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
+      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
+      "startDate": "2026-10-06T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-10-06T10:28:40.464Z"
+    },
+    {
+      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
+      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
+      "startDate": "2026-10-06T00:00:00.000Z",
+      "fetchedAt": "2026-09-28T09:58:55.325Z",
+      "updatedAt": "2026-10-06T10:28:40.464Z"
     },
     {
       "id": "scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas",
@@ -669,12 +661,36 @@
       "updatedAt": "2026-10-05T10:38:19.503Z"
     },
     {
+      "id": "scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen",
+      "title": "Aktiv Wochenplan - Kneipp-Güsse am Morgen",
+      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-am-morgen",
+      "startDate": "2026-10-07T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-10-06T10:28:40.464Z"
+    },
+    {
       "id": "scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft",
       "title": "Escape Game - Mission Klimaschutz - Die Zeit läuft!",
       "url": "https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-die-zeit-laeuft",
-      "startDate": "2026-10-06T00:00:00.000Z",
+      "startDate": "2026-10-07T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:59:03.401Z",
-      "updatedAt": "2026-10-05T10:38:19.503Z"
+      "updatedAt": "2026-10-06T10:28:40.464Z"
+    },
+    {
+      "id": "scharmuetzelsee-11-storkower-herbstpoesie-schulveranstaltung-lesung-hier-kommt-die-koerperpolizei-mit-dr-sibylle-mottl-link",
+      "title": "11. Storkower Herbstpoesie - Schulveranstaltung Lesung - „Hier kommt die Körperpolizei“ mit Dr. Sibylle Mottl-Link",
+      "url": "https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-schulveranstaltung-lesung-hier-kommt-die-koerperpolizei-mit-dr-sibylle-mottl-link",
+      "startDate": "2026-10-07T00:00:00.000Z",
+      "fetchedAt": "2026-10-06T10:28:40.464Z",
+      "updatedAt": "2026-10-06T10:28:40.464Z"
+    },
+    {
+      "id": "scharmuetzelsee-11-storkower-herbstpoesie-schulveranstaltung-lesung-hilfe-zu-viele-vampire-mit-mars-leo-frei",
+      "title": "11. Storkower Herbstpoesie - Schulveranstaltung - Lesung „Hilfe zu viele Vampire“ mit Mars-Leo Frei",
+      "url": "https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-schulveranstaltung-lesung-hilfe-zu-viele-vampire-mit-mars-leo-frei",
+      "startDate": "2026-10-07T00:00:00.000Z",
+      "fetchedAt": "2026-10-06T10:28:40.464Z",
+      "updatedAt": "2026-10-06T10:28:40.464Z"
     },
     {
       "id": "scharmuetzelsee-oktoberfest-im-freilich-am-see",

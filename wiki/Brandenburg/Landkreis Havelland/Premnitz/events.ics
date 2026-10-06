@@ -12740,6 +12740,16 @@ URL:https://www.premnitz.de/veranstaltungen/2973991/2026/10/20/ausstellun
  g-die-besten-wege-sind-aus-holz-werke-von-gisela-und-siegmund-rus.html
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2979670-20261020@amtsfeed.de
+DTSTAMP:20261006T102401Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Rinde\, Schilf\, Naturfaser - Eine organische Führung durch die 
+ Jahrtausende
+URL:https://www.premnitz.de/veranstaltungen/2979670/2026/10/20/rinde-schi
+ lf-naturfaser-eine-organische-führung-durch-die-jahrtausende.html
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2922993-20261021@amtsfeed.de
 DTSTAMP:20260921T090200Z
 DTSTART;VALUE=DATE:20261021
@@ -13754,13 +13764,14 @@ URL:https://www.premnitz.de/veranstaltungen/2921904/2026/10/25/grusel-nä
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2977943-20261025@amtsfeed.de
-DTSTAMP:20261002T095130Z
+DTSTAMP:20261006T102401Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Saisonabschlussführung der Gilde der Stadtführer Werder (Havel)
-  e.V.
+  e.V. | Spurensuche in der Vorstadt
 URL:https://www.premnitz.de/veranstaltungen/2977943/2026/10/25/saisonabsc
- hlussführung-der-gilde-der-stadtführer-werder-havel-e.v.html
+ hlussführung-der-gilde-der-stadtführer-werder-havel-e.v.-spurensuche-in
+ -der-vorstadt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2978683-20261025@amtsfeed.de
@@ -14538,5 +14549,41 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Concert Crossover
 URL:https://www.premnitz.de/veranstaltungen/2978686/2026/11/05/concert-cr
  ossover.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2961088-20261106@amtsfeed.de
+DTSTAMP:20261006T102401Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Mosaik-Workshop
+URL:https://www.premnitz.de/veranstaltungen/2961088/2026/11/06/mosaik-wor
+ kshop.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2843210-20261106@amtsfeed.de
+DTSTAMP:20261006T102401Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Geniesse die Freude am Tango
+URL:https://www.premnitz.de/veranstaltungen/2843210/2026/11/06/geniesse-d
+ ie-freude-am-tango.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2272404-20261106@amtsfeed.de
+DTSTAMP:20261006T102401Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Einladung - Suchtselbsthilfegruppe
+URL:https://www.premnitz.de/veranstaltungen/2272404/2026/11/06/einladung-
+ suchtselbsthilfegruppe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2930716-20261106@amtsfeed.de
+DTSTAMP:20261006T102401Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Kriminal Dinner - Kreuzfahrt ins Grab
+URL:https://www.premnitz.de/veranstaltungen/2930716/2026/11/06/kriminal-d
+ inner-kreuzfahrt-ins-grab.html
 END:VEVENT
 END:VCALENDAR

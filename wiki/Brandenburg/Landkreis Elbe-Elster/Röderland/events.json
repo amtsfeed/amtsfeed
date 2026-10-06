@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:53:13.652Z",
+  "updatedAt": "2026-10-06T10:23:05.612Z",
   "items": [
     {
       "id": "2873839",
@@ -434,6 +434,14 @@
       "updatedAt": "2026-09-25T08:53:13.641Z"
     },
     {
+      "id": "2979449",
+      "title": "silvesterfeier",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2979449/2026/12/31/silvesterfeier.html",
+      "startDate": "2026-12-31T19:00:00.000Z",
+      "fetchedAt": "2026-10-06T10:23:05.601Z",
+      "updatedAt": "2026-10-06T10:23:05.601Z"
+    },
+    {
       "id": "2968071",
       "title": "Lesecaf&eacute;",
       "url": "https://www.gemeinde-roederland.de/veranstaltungen/2968071/2027/01/12/lesecafé.html",
@@ -506,6 +514,22 @@
       "updatedAt": "2026-09-16T08:39:41.853Z"
     },
     {
+      "id": "2979431",
+      "title": "Skatturnier",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2979431/2027/03/26/skatturnier.html",
+      "startDate": "2027-03-26T00:00:00.000Z",
+      "fetchedAt": "2026-10-06T10:23:05.601Z",
+      "updatedAt": "2026-10-06T10:23:05.601Z"
+    },
+    {
+      "id": "2979433",
+      "title": "Osterfeuer und Osterhase",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2979433/2027/03/27/osterfeuer-und-osterhase.html",
+      "startDate": "2027-03-27T00:00:00.000Z",
+      "fetchedAt": "2026-10-06T10:23:05.601Z",
+      "updatedAt": "2026-10-06T10:23:05.601Z"
+    },
+    {
       "id": "2968074",
       "title": "Lesecaf&eacute;",
       "url": "https://www.gemeinde-roederland.de/veranstaltungen/2968074/2027/04/06/lesecafé.html",
@@ -552,6 +576,30 @@
       "startDate": "2027-05-20T15:30:00.000Z",
       "fetchedAt": "2026-09-25T08:53:13.641Z",
       "updatedAt": "2026-09-25T08:53:13.641Z"
+    },
+    {
+      "id": "2979434",
+      "title": "Badewannenrennen",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2979434/2027/07/10/badewannenrennen.html",
+      "startDate": "2027-07-10T00:00:00.000Z",
+      "fetchedAt": "2026-10-06T10:23:05.601Z",
+      "updatedAt": "2026-10-06T10:23:05.601Z"
+    },
+    {
+      "id": "2979437",
+      "title": "Sportfest",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2979437/2027/07/30/sportfest.html",
+      "startDate": "2027-07-30T00:00:00.000Z",
+      "fetchedAt": "2026-10-06T10:23:05.601Z",
+      "updatedAt": "2026-10-06T10:23:05.601Z"
+    },
+    {
+      "id": "2979440",
+      "title": "Herbstfeuer",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2979440/2027/10/02/herbstfeuer.html",
+      "startDate": "2027-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-10-06T10:23:05.601Z",
+      "updatedAt": "2026-10-06T10:23:05.601Z"
     }
   ]
 }

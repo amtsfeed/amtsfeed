@@ -6136,6 +6136,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99227918@amtsfeed.de
+DTSTAMP:20261006T102850Z
+DTSTART:20261219T160000Z
+DTEND:20261219T171500Z
+SUMMARY:"In Bewegung“ – Kurzfilmprogramm
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Burg Beeskow\, Konzertsaal
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104600@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261220T110000Z
@@ -7198,6 +7207,15 @@ DTEND:20270219T170000Z
 SUMMARY:Am Anfang war … Matchbox Ausstellungseröffnung
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99227919@amtsfeed.de
+DTSTAMP:20261006T102850Z
+DTSTART:20270219T190000Z
+DTEND:20270219T204500Z
+SUMMARY:"In Bewegung“ – Kurzfilmprogramm
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Burg Beeskow\, Konzertsaal
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99223138@amtsfeed.de

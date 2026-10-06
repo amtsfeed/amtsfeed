@@ -1232,6 +1232,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, Optikpark
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1764-20261011@amtsfeed.de
+DTSTAMP:20261006T102404Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:KEIN ORT – MEIN ORT. Jetzt Plätze reservieren!
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/kein-ort-mein-ort-jetzt-plaetze
+ -reservieren/
+LOCATION:Im Zelt\, Jugendhaus Oase\, Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1564-20261012@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261012

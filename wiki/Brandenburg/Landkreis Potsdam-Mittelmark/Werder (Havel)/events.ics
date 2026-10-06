@@ -5356,8 +5356,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99127092@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261007T090000Z
+DTSTAMP:20261006T103015Z
+DTSTART:20261006T103015Z
 SUMMARY:Erzählfrühstück für Seniorinnen und Senioren
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99127092
@@ -5365,8 +5365,8 @@ LOCATION:Cafe des Edeka Marktes
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167748@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261007T103000Z
+DTSTAMP:20261006T103015Z
+DTSTART:20261006T103015Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167748
@@ -5374,8 +5374,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99103622@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261007T130000Z
+DTSTAMP:20261006T103015Z
+DTSTART:20261006T103015Z
 SUMMARY:Wanderung um und durch die Glindower Alpen
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99103622
@@ -5383,8 +5383,8 @@ LOCATION:Parkplatz Grellebucht
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167927@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261007T140000Z
+DTSTAMP:20261006T103015Z
+DTSTART:20261006T103015Z
 SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167927
@@ -5537,12 +5537,12 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99128328@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261010T150000Z
+DTSTAMP:20261006T103015Z
+DTSTART:20261010T140000Z
 SUMMARY:Herbst und Drachenfest in Töplitz
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99128328
-LOCATION:Badestelle Töplitz
+LOCATION:Drachenwiese Töplitz
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99227721@amtsfeed.de
@@ -6168,13 +6168,13 @@ LOCATION:Kulturkirche Petzow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99226904@amtsfeed.de
-DTSTAMP:20261002T095742Z
+DTSTAMP:20261006T103015Z
 DTSTART:20261025T110000Z
 SUMMARY:Saisonabschlussführung der Gilde der Stadtführer Werder (Havel)
-  e.V.
+  e.V. | Spurensuche in d...
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99226904
-LOCATION:Insel Werder (Havel)
+LOCATION:Werderaner Altstadt
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99116400@amtsfeed.de
@@ -6410,6 +6410,15 @@ SUMMARY:Apfeltage auf dem Obsthof Lindicke
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99221090
 LOCATION:Obsthof Lindicke
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99227915@amtsfeed.de
+DTSTAMP:20261006T103015Z
+DTSTART:20261107T140000Z
+SUMMARY:50. Jähriges Jubiläum - Gemischter Chor Glindow e.V.
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99227915
+LOCATION:Werderaner Tannenhof
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99148961@amtsfeed.de
@@ -6694,6 +6703,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Kulturkirche Petzow
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99227916@amtsfeed.de
+DTSTAMP:20261006T103015Z
+DTSTART:20261206T150000Z
+SUMMARY:Weihnachtskonzert Werder (Havel) - Gemischter Chor Glindow e.V.
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99227916
+LOCATION:Katholische Kirche Maria Meeresstern
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99127114@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261209T093000Z
@@ -6728,6 +6746,15 @@ SUMMARY:Winzerglühwein und Traubenpunsch auf dem Weinberg
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99127917
 LOCATION:Werderaner Wachtelberg
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99227917@amtsfeed.de
+DTSTAMP:20261006T103015Z
+DTSTART:20261213T150000Z
+SUMMARY:Weihnachtskonzert Glindow - Gemischter Chor Glindow e.V.
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99227917
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99221846@amtsfeed.de

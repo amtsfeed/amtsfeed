@@ -643,13 +643,6 @@ URL:https://www.eberswalde.de/termine/bilderbuchkino-in-der-stadtbiblioth
  ek-16
 END:VEVENT
 BEGIN:VEVENT
-UID:info.php@amtsfeed.de
-DTSTAMP:20260923T083750Z
-DTSTART:20260924T190000Z
-SUMMARY:Stadtverordnetenversammlung
-URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
-END:VEVENT
-BEGIN:VEVENT
 UID:rangertour-finowkanalgefluester-paddelnd-ins-biosphaerenrerservat-2@a
  mtsfeed.de
 DTSTAMP:20260924T083016Z
@@ -942,5 +935,44 @@ DTSTART:20261006T140000Z
 SUMMARY:Das schöne Leben: Offener Spieltreff
 URL:https://www.eberswalde.de/termine/das-schoene-leben-offener-spieltref
  f
+END:VEVENT
+BEGIN:VEVENT
+UID:das-schoene-leben-private-altersvorsorge-fuer-frauen@amtsfeed.de
+DTSTAMP:20261006T102205Z
+DTSTART:20261006T180000Z
+SUMMARY:Das schöne Leben: Private Altersvorsorge für Frauen
+URL:https://www.eberswalde.de/termine/das-schoene-leben-private-altersvor
+ sorge-fuer-frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:biene-weg-regal-leer-welche-rolle-spielt-biodiversitaet-in-unserem-al
+ ltag@amtsfeed.de
+DTSTAMP:20261006T102205Z
+DTSTART:20261006T190000Z
+SUMMARY:„Können wir uns Urlaub in Zukunft überhaupt noch leisten?"
+URL:https://www.eberswalde.de/termine/biene-weg-regal-leer-welche-rolle-s
+ pielt-biodiversitaet-in-unserem-alltag
+END:VEVENT
+BEGIN:VEVENT
+UID:das-schoene-leben-ueber-uns-von-uns@amtsfeed.de
+DTSTAMP:20261006T102205Z
+DTSTART:20261006T190000Z
+SUMMARY:Das schöne Leben: "Über uns von uns"
+URL:https://www.eberswalde.de/termine/das-schoene-leben-ueber-uns-von-uns
+END:VEVENT
+BEGIN:VEVENT
+UID:info.php@amtsfeed.de
+DTSTAMP:20261006T102205Z
+DTSTART:20261006T201500Z
+SUMMARY:Ausschuss für Wirtschaft\, Finanzen und Bürgerdienste (Fachauss
+ chuss 1 - F1)
+URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-20@amtsfeed.de
+DTSTAMP:20261006T102205Z
+DTSTART:20261007T150000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-20
 END:VEVENT
 END:VCALENDAR

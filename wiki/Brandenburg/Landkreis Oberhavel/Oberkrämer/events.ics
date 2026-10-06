@@ -376,15 +376,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2977670/2026/10/04/großes
  -drachenfest-geplant.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855689@amtsfeed.de
-DTSTAMP:20260929T095920Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Die Montagshelden - Gymnastik & Bewegung
-URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/10/05/die-mon
- tagshelden-gymnastik-bewegung.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2962217@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261005
@@ -392,24 +383,6 @@ DTEND;VALUE=DATE:20261006
 SUMMARY:Elterngespräche\, Klasse 1
 URL:https://www.oberkraemer.de/veranstaltungen/2962217/2026/10/05/elterng
  espräche-klasse-1.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2976120@amtsfeed.de
-DTSTAMP:20260930T095150Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:"Die Montagshelden" Gymnastik & Bewegung
-URL:https://www.oberkraemer.de/veranstaltungen/2976120/2026/10/05/die-mon
- tagshelden-gymnastik-bewegung.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2976135@amtsfeed.de
-DTSTAMP:20260930T095150Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Kartenspielen - Romm&eacute\;
-URL:https://www.oberkraemer.de/veranstaltungen/2976135/2026/10/05/kartens
- pielen-rommé.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855686@amtsfeed.de
@@ -537,6 +510,33 @@ DTEND;VALUE=DATE:20261012
 SUMMARY:Drachenfest in Bärenklau
 URL:https://www.oberkraemer.de/veranstaltungen/2855583/2026/10/11/drachen
  fest-in-bärenklau.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855689@amtsfeed.de
+DTSTAMP:20261006T102754Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Die Montagshelden - Gymnastik & Bewegung
+URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/10/12/die-mon
+ tagshelden-gymnastik-bewegung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2976120@amtsfeed.de
+DTSTAMP:20261006T102754Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:"Die Montagshelden" Gymnastik & Bewegung
+URL:https://www.oberkraemer.de/veranstaltungen/2976120/2026/10/12/die-mon
+ tagshelden-gymnastik-bewegung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2976135@amtsfeed.de
+DTSTAMP:20261006T102754Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Kartenspielen - Romm&eacute\;
+URL:https://www.oberkraemer.de/veranstaltungen/2976135/2026/10/12/kartens
+ pielen-rommé.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962218@amtsfeed.de
@@ -818,6 +818,24 @@ DTEND;VALUE=DATE:20261102
 SUMMARY:Gottesdienst
 URL:https://www.oberkraemer.de/veranstaltungen/2825871/2026/11/01/gottesd
  ienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2979523@amtsfeed.de
+DTSTAMP:20261006T102754Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Zaubershow zur Wiedereröffnung der Bibliothek Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2979523/2026/11/02/zaubers
+ how-zur-wiedereröffnung-der-bibliothek-vehlefanz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2979521@amtsfeed.de
+DTSTAMP:20261006T102754Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Wiedereröffnung Bibliothek Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2979521/2026/11/03/wiedere
+ röffnung-bibliothek-vehlefanz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2935370@amtsfeed.de
@@ -1161,6 +1179,15 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:GENO - Erste Hilfe Kurs
 URL:https://www.oberkraemer.de/veranstaltungen/2968499/2026/11/28/geno-er
  ste-hilfe-kurs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2979525@amtsfeed.de
+DTSTAMP:20261006T102754Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Kirche mit Kindern - Adventstreffen mit Kinder
+URL:https://www.oberkraemer.de/veranstaltungen/2979525/2026/11/28/kirche-
+ mit-kindern-adventstreffen-mit-kinder.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855765@amtsfeed.de

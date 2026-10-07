@@ -3842,6 +3842,18 @@ URL:https://www.wandlitz.de/veranstaltungen/2945745/2026/11/05/die-kultur
 LOCATION:Bibliothek Wandlitz- Zweigstelle Wandlitz -
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2980112-2026-11-05-naturparkgespräch-weidelandschaft
+ en--landschaftspflege-mit-biss.html@amtsfeed.de
+DTSTAMP:20261007T101910Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Naturparkgespräch: Weidelandschaften – Landschaftspflege mit B
+ iss
+URL:https://www.wandlitz.de/veranstaltungen/2980112/2026/11/05/naturparkg
+ espräch-weidelandschaften--landschaftspflege-mit-biss.html
+LOCATION:BARNIM PANORAMANaturparkzentrum · Agrarmuseum Wandlitz
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2969737-2026-11-06-aber-bitte-mit-udo.html@amtsfeed.d
  e
 DTSTAMP:20260918T081739Z
@@ -3964,6 +3976,16 @@ SUMMARY:Der Leseschnabi - Öffentliches Vorlesen für Kinder
 URL:https://www.wandlitz.de/veranstaltungen/2919652/2026/11/10/der-lesesc
  hnabi-öffentliches-vorlesen-für-kinder.html
 LOCATION:Bibliothek Wandlitz - Zweigstelle Basdorf -
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2980202-2026-11-11-rumpelstolz-lädt-ein.html@amtsfee
+ d.de
+DTSTAMP:20261007T101910Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Rumpelstolz lädt ein
+URL:https://www.wandlitz.de/veranstaltungen/2980202/2026/11/11/rumpelstol
+ z-lädt-ein.html
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2758751-2026-11-12-krabbelgruppe-unterm-regenbogen-de
@@ -5683,5 +5705,17 @@ SUMMARY:„Atempause“ für Sorgende\, pflegende Angehörige & Interessi
 URL:https://www.wandlitz.de/veranstaltungen/2667597/2027/10/05/atempause-
  für-sorgende-pflegende-angehörige-interessierte.html
 LOCATION:Kontaktladen "THEO"
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2758751-2027-10-07-krabbelgruppe-unterm-regenbogen-de
+ r-ev.-kirchengemeinde-niederbarnim.html@amtsfeed.de
+DTSTAMP:20261007T101910Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:Krabbelgruppe 'Unterm Regenbogen' der ev. Kirchengemeinde Niederb
+ arnim
+URL:https://www.wandlitz.de/veranstaltungen/2758751/2027/10/07/krabbelgru
+ ppe-unterm-regenbogen-der-ev.-kirchengemeinde-niederbarnim.html
+LOCATION:Dorfkirche Klosterfelde
 END:VEVENT
 END:VCALENDAR

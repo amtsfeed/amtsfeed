@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T10:39:02.617Z",
+  "updatedAt": "2026-10-07T10:28:46.824Z",
   "items": [
     {
       "id": "woltersdorf-event-2891242",
@@ -621,6 +621,33 @@
       "location": "Marktplatz",
       "fetchedAt": "2026-10-05T10:39:02.605Z",
       "updatedAt": "2026-10-05T10:39:02.605Z"
+    },
+    {
+      "id": "woltersdorf-event-2980547",
+      "title": "Adventskonzert",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2980547/2026/12/05/adventskonzert.html",
+      "startDate": "2026-12-05T17:00:00.000Z",
+      "location": "St.-Michael-Kirche",
+      "fetchedAt": "2026-10-07T10:28:46.812Z",
+      "updatedAt": "2026-10-07T10:28:46.812Z"
+    },
+    {
+      "id": "woltersdorf-event-2980548",
+      "title": "Best of Weihnachtsoratorium",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2980548/2026/12/12/best-of-weihnachtsoratorium.html",
+      "startDate": "2026-12-12T16:00:00.000Z",
+      "location": "St.-Michael-Kirche",
+      "fetchedAt": "2026-10-07T10:28:46.812Z",
+      "updatedAt": "2026-10-07T10:28:46.812Z"
+    },
+    {
+      "id": "woltersdorf-event-2980550",
+      "title": "Weihnachtskonzert Klangvokal Kinder- und Jugendchöre",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2980550/2026/12/13/weihnachtskonzert-klangvokal-kinder-und-jugendchöre.html",
+      "startDate": "2026-12-13T16:30:00.000Z",
+      "location": "St.-Michael-Kirche",
+      "fetchedAt": "2026-10-07T10:28:46.812Z",
+      "updatedAt": "2026-10-07T10:28:46.812Z"
     },
     {
       "id": "woltersdorf-event-2940038",

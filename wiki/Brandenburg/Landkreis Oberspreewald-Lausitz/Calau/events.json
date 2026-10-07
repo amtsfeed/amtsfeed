@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T10:37:49.356Z",
+  "updatedAt": "2026-10-07T10:27:12.544Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -786,22 +786,6 @@
       "updatedAt": "2026-10-03T09:18:52.125Z"
     },
     {
-      "id": "calau-event-2290342",
-      "title": "06.10.2026   Calauer Wochenmarkt",
-      "url": "https://www.calau.de/veranstaltungen/2290342/2026/10/06/calauer-wochenmarkt.html",
-      "startDate": "2026-10-06T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-04T09:58:28.758Z"
-    },
-    {
-      "id": "calau-event-1906922",
-      "title": "06.10.2026   Großmarkt auf dem Marktplatz \"In Calau clever kaufen\" bei den Calauer Innenstadthändlern",
-      "url": "https://www.calau.de/veranstaltungen/1906922/2026/10/06/großmarkt-auf-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthändlern.html",
-      "startDate": "2026-10-06T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-04T09:58:28.758Z"
-    },
-    {
       "id": "calau-event-2962562",
       "title": "06.10.2026   Blutspendetermin des DRK",
       "url": "https://www.calau.de/veranstaltungen/2962562/2026/10/06/blutspendetermin-des-drk.html",
@@ -818,6 +802,14 @@
       "updatedAt": "2026-10-05T10:37:49.345Z"
     },
     {
+      "id": "calau-event-2290342",
+      "title": "08.10.2026   Calauer Wochenmarkt",
+      "url": "https://www.calau.de/veranstaltungen/2290342/2026/10/08/calauer-wochenmarkt.html",
+      "startDate": "2026-10-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-10-07T10:27:12.532Z"
+    },
+    {
       "id": "calau-event-2885234",
       "title": "Krabbelgruppe in der Kita Kunterbunt",
       "url": "https://www.calau.de/veranstaltungen/2885234/2026/10/08/krabbelgruppe-in-der-kita-kunterbunt.html",
@@ -827,27 +819,27 @@
     },
     {
       "id": "calau-event-2858227",
-      "title": "SpieleABEND",
+      "title": "09.10.2026   SpieleABEND",
       "url": "https://www.calau.de/veranstaltungen/2858227/2026/10/09/spieleabend.html",
       "startDate": "2026-10-09T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-05-31T18:42:01.619Z"
+      "updatedAt": "2026-10-07T10:27:12.532Z"
     },
     {
       "id": "calau-event-2977306",
-      "title": "Vortrag zur Nachbarschaftshilfe",
+      "title": "09.10.2026   Vortrag zur Nachbarschaftshilfe",
       "url": "https://www.calau.de/veranstaltungen/2977306/2026/10/09/vortrag-zur-nachbarschaftshilfe.html",
       "startDate": "2026-10-09T00:00:00.000Z",
       "fetchedAt": "2026-10-01T10:19:57.933Z",
-      "updatedAt": "2026-10-01T10:19:57.933Z"
+      "updatedAt": "2026-10-07T10:27:12.532Z"
     },
     {
       "id": "calau-event-2864723",
-      "title": "Flugshow auf dem Adler- und Jagdfalkenhof Werchow",
+      "title": "10.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow",
       "url": "https://www.calau.de/veranstaltungen/2864723/2026/10/10/flugshow-auf-dem-adler-und-jagdfalkenhof-werchow.html",
       "startDate": "2026-10-10T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-05T10:37:49.345Z"
+      "updatedAt": "2026-10-07T10:27:12.532Z"
     },
     {
       "id": "calau-event-2975109",
@@ -1024,6 +1016,14 @@
       "startDate": "2026-10-31T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
       "updatedAt": "2026-05-31T18:42:01.619Z"
+    },
+    {
+      "id": "calau-event-1906922",
+      "title": "Großmarkt auf dem Marktplatz \"In Calau clever kaufen\" bei den Calauer Innenstadthändlern",
+      "url": "https://www.calau.de/veranstaltungen/1906922/2026/11/03/großmarkt-auf-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthändlern.html",
+      "startDate": "2026-11-03T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-10-07T10:27:12.532Z"
     },
     {
       "id": "calau-event-2960237",

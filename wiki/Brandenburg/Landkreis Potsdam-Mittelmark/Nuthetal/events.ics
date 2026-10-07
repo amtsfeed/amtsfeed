@@ -345,15 +345,6 @@ URL:https://www.nuthetal.de/veranstaltungen/2963628/2026/10/05/26.-gesund
  heitswochen-nuthetal.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nuthetal-event-2718105@amtsfeed.de
-DTSTAMP:20260930T095356Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
-URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/10/06/unterstüt
- ztes-einkaufen-nahkauf-saarmund.html
-END:VEVENT
-BEGIN:VEVENT
 UID:nuthetal-event-2945825@amtsfeed.de
 DTSTAMP:20260911T111338Z
 DTSTART;VALUE=DATE:20261006
@@ -426,6 +417,15 @@ DTEND;VALUE=DATE:20261013
 SUMMARY:Angebote am DIfE anlässlich der Nuthetal Gesundheitswochen
 URL:https://www.nuthetal.de/veranstaltungen/2969781/2026/10/12/angebote-a
  m-dife-anlässlich-der-nuthetal-gesundheitswochen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2718105@amtsfeed.de
+DTSTAMP:20261007T102937Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
+URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/10/13/unterstüt
+ ztes-einkaufen-nahkauf-saarmund.html
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2812876@amtsfeed.de

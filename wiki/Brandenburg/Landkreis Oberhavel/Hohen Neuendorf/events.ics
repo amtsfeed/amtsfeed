@@ -390,15 +390,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  infoabend-zum-thema-fruehkindliche-reflexe
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-seniorenlotse-hohen-neuendorf@amtsfeed.de
-DTSTAMP:20260921T090629Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Seniorenlotse Hohen Neuendorf
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- seniorenlotse-hohen-neuendorf
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-action-auf-dem-rathi-jugendarbeit-mobil@amtsfee
  d.de
 DTSTAMP:20260921T090629Z
@@ -548,6 +539,15 @@ DTEND;VALUE=DATE:20261008
 SUMMARY:Katastrophenschutz: Information und Vernetzung Ehrenamtlicher
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  katastrophenschutz-information-und-vernetzung-ehrenamtlicher
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-seniorenlotse-hohen-neuendorf@amtsfeed.de
+DTSTAMP:20261007T102617Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Seniorenlotse Hohen Neuendorf
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ seniorenlotse-hohen-neuendorf
 END:VEVENT
 BEGIN:VEVENT
 UID:hohen-neuendorf-event-schadstoffmobil-hohen-neuendorf@amtsfeed.de

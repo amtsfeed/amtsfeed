@@ -1080,15 +1080,6 @@ URL:https://www.michendorf.de/veranstaltungen/2961738/2026/10/04/benefizk
  onzert-für-celloquartett-und-sopran.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959538@amtsfeed.de
-DTSTAMP:20260930T095353Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959538/2026/10/06/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2959533@amtsfeed.de
 DTSTAMP:20261002T095719Z
 DTSTART;VALUE=DATE:20261008
@@ -1105,6 +1096,15 @@ DTEND;VALUE=DATE:20261009
 SUMMARY:Herbstfest AWO Ortsverein Michendorf e.V.
 URL:https://www.michendorf.de/veranstaltungen/2960790/2026/10/08/herbstfe
  st-awo-ortsverein-michendorf-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2980544@amtsfeed.de
+DTSTAMP:20261007T102934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Infos der Polizei "Prävention Taschendiebstahl"
+URL:https://www.michendorf.de/veranstaltungen/2980544/2026/10/08/infos-de
+ r-polizei-prävention-taschendiebstahl.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2959541@amtsfeed.de
@@ -1215,6 +1215,15 @@ URL:https://www.michendorf.de/veranstaltungen/2961734/2026/10/12/lymphdra
  inage-und-atemachtsamkeit.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2959538@amtsfeed.de
+DTSTAMP:20261007T102934Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959538/2026/10/13/jugendcl
+ ub-micheck-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2798286@amtsfeed.de
 DTSTAMP:20260930T095353Z
 DTSTART;VALUE=DATE:20261013
@@ -1222,6 +1231,15 @@ DTEND;VALUE=DATE:20261014
 SUMMARY:Trauercaf&eacute\;
 URL:https://www.michendorf.de/veranstaltungen/2798286/2026/10/13/trauerca
  fé.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2980537@amtsfeed.de
+DTSTAMP:20261007T102934Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Infoveranstaltung Patientenverfügung
+URL:https://www.michendorf.de/veranstaltungen/2980537/2026/10/13/infovera
+ nstaltung-patientenverfügung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2923241@amtsfeed.de

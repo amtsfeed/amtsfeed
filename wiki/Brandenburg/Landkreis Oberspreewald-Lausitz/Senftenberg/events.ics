@@ -1881,4 +1881,36 @@ URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Danny-Linwerk-
  Zeitgeister.php?object=tx\,2779.4&ModID=11&FID=2779.7480.1&NavID=2779.16&
  sfort=1&sfvort=1&sfreg=1&dv0=1
 END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-7564@amtsfeed.de
+DTSTAMP:20261007T102735Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Rathaus-Disco - Senftenberger KulturTage
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Rathaus-Disco-
+ Senftenberger-KulturTage.php?object=tx\,2779.4&ModID=11&FID=2779.7564.1&N
+ avID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-7565@amtsfeed.de
+DTSTAMP:20261007T102735Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Senftenberg entdecken - Geschichte und Geschichten - Senftenberge
+ r KulturTage
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Senftenberg-en
+ tdecken-Geschichte-und-Geschichten-Senftenberger-KulturTage.php?object=tx
+ \,2779.4&ModID=11&FID=2779.7565.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&
+ dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-6975@amtsfeed.de
+DTSTAMP:20261007T102735Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Die Nacht - Zähneputzen\, Pullern und ab ins Bett
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Die-Nacht-Z%C3
+ %A4hneputzen-Pullern-und-ab-ins-Bett.php?object=tx\,2779.4&ModID=11&FID=2
+ 779.6975.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
 END:VCALENDAR

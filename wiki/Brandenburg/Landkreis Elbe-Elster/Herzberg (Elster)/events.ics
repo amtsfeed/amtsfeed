@@ -487,6 +487,14 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2979115/2026/10/21/rei
  se-durch-das-sonnensystem.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2980590@amtsfeed.de
+DTSTAMP:20261007T102039Z
+DTSTART:20261021T180000Z
+SUMMARY:Pop Bubble Kunstworkshop
+URL:https://www.herzberg-elster.de/veranstaltungen/2980590/2026/10/21/pop
+ -bubble-kunstworkshop.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2979118@amtsfeed.de
 DTSTAMP:20261005T103156Z
 DTSTART:20261023T103000Z
@@ -599,14 +607,6 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2849524/2027/01/01/neu
  jahrskonzert.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2331049@amtsfeed.de
-DTSTAMP:20260930T094631Z
-DTSTART:20270930T060000Z
-SUMMARY:Wochenmarkt
-URL:https://www.herzberg-elster.de/veranstaltungen/2331049/2027/09/30/woc
- henmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2331050@amtsfeed.de
 DTSTAMP:20261002T095034Z
 DTSTART:20271002T063000Z
@@ -629,5 +629,13 @@ DTSTART:20271006T160000Z
 SUMMARY:Sprach-Caf&egrave\;
 URL:https://www.herzberg-elster.de/veranstaltungen/2439631/2027/10/06/spr
  ach-cafè.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2331049@amtsfeed.de
+DTSTAMP:20261007T102039Z
+DTSTART:20271007T060000Z
+SUMMARY:Wochenmarkt
+URL:https://www.herzberg-elster.de/veranstaltungen/2331049/2027/10/07/woc
+ henmarkt.html
 END:VEVENT
 END:VCALENDAR

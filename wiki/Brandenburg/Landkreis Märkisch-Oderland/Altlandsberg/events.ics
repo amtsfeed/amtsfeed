@@ -358,21 +358,6 @@ DESCRIPTION:Im Klang - Verbunden\, Verwoben: So singen die Sängerinnen d
 LOCATION:Schlosskirche Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
-UID:5@amtsfeed.de
-DTSTAMP:20260911T110937Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Handpan Workshop Intensivkurs
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/handpan-workshop-intensivkurs-5/
-DESCRIPTION:Du möchtest Handpan spielen lernen und suchst einen intensiv
- en Einstieg\, der dich in kurzer Zeit wirklich weiterbringt? Dann ist die
- ser 4-tägige Intensivkurs genau das Richtige für dich. In einer kleinen
-  Gruppe tauchen wir gemeinsam in die faszinierende Welt der Handpan ein. 
- Schritt für Schritt lernst du die...
-LOCATION:Katja Baumheier
-END:VEVENT
-BEGIN:VEVENT
 UID:6@amtsfeed.de
 DTSTAMP:20260911T110955Z
 DTSTART;VALUE=DATE:20261007
@@ -463,6 +448,21 @@ DESCRIPTION:Hört Ihr Leute lasst euch sagen ... unsere Uhr hat grad gesc
  storische Stadt erkunden.Sie hören und erleben Geschichten aus dem Leben
   des Nachtwächters\, von der Stadtmauer\,...
 LOCATION:Schlossgut Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:5@amtsfeed.de
+DTSTAMP:20261007T102332Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Handpan Schnupper-Workshop
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/handpan-schnupper-workshop-5/
+DESCRIPTION:Handpan entdecken – Klang erleben – selbst ausprobieren!D
+ u hast die faszinierenden Klänge der Handpan gehört und möchtest das I
+ nstrument selbst einmal ausprobieren? Dann ist dieser Schnupperworkshop g
+ enau das Richtige für dich!In entspannter Atmosphäre bekommst du die M
+ öglichkeit\, die Handpan ganz unverbindlich...
+LOCATION:Katja Baumheier
 END:VEVENT
 BEGIN:VEVENT
 UID:28@amtsfeed.de

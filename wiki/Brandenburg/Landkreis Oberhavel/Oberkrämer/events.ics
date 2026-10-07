@@ -385,15 +385,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2962217/2026/10/05/elterng
  espräche-klasse-1.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855686@amtsfeed.de
-DTSTAMP:20260930T095150Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Seniorentanzgruppe "Spätlese"
-URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/06/seniore
- ntanzgruppe-spätlese.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2979122@amtsfeed.de
 DTSTAMP:20261005T103727Z
 DTSTART;VALUE=DATE:20261006
@@ -555,6 +546,15 @@ DTEND;VALUE=DATE:20261013
 SUMMARY:Bötzower Frühstückstreff für unsere Seniorinnen
 URL:https://www.oberkraemer.de/veranstaltungen/2855868/2026/10/12/bötzow
  er-frühstückstreff-für-unsere-seniorinnen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855686@amtsfeed.de
+DTSTAMP:20261007T102637Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Seniorentanzgruppe "Spätlese"
+URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/13/seniore
+ ntanzgruppe-spätlese.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855870@amtsfeed.de
@@ -766,12 +766,13 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855876/2026/10/28/kirchen
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2935421@amtsfeed.de
-DTSTAMP:20260911T111217Z
+DTSTAMP:20261007T102637Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Vortrag - „Die Apotheke der Natur: Fünf Heilpflanzen im Fokus"
+SUMMARY:Vortrag - „Heilpflanzen ganz nah - Entdecken\, anwenden und ver
+ arbeiten"
 URL:https://www.oberkraemer.de/veranstaltungen/2935421/2026/10/28/vortrag
- -die-apotheke-der-natur-fünf-heilpflanzen-im-fokus.html
+ -heilpflanzen-ganz-nah-entdecken-anwenden-und-verarbeiten.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2957576@amtsfeed.de

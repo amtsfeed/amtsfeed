@@ -3508,6 +3508,15 @@ URL:https://www.falkensee.de/veranstaltungen/2421154/2026/10/14/selbsthil
  fegruppe-krebs.html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2980154-20261014@amtsfeed.de
+DTSTAMP:20261007T102116Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Treffen der Arbeitsgruppe Falkensee des NABU RV Osthavelland
+URL:https://www.falkensee.de/veranstaltungen/2980154/2026/10/14/treffen-d
+ er-arbeitsgruppe-falkensee-des-nabu-rv-osthavelland.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-1959129-20261015@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261015
@@ -3869,6 +3878,15 @@ DTEND;VALUE=DATE:20261025
 SUMMARY:Outdoor-Tag
 URL:https://www.falkensee.de/veranstaltungen/2975769/2026/10/24/outdoor-t
  ag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2980494-20261024@amtsfeed.de
+DTSTAMP:20261007T102116Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Kochen-Workshop für Kinder
+URL:https://www.falkensee.de/veranstaltungen/2980494/2026/10/24/kochen-wo
+ rkshop-für-kinder.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2900966-20261025@amtsfeed.de
@@ -7966,5 +7984,14 @@ DTEND;VALUE=DATE:20271007
 SUMMARY:Singkreis
 URL:https://www.falkensee.de/veranstaltungen/2405552/2027/10/06/singkreis
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-1959131-20271007@amtsfeed.de
+DTSTAMP:20261007T102116Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:Psychosoziale Beratung bei häuslicher Gewalt
+URL:https://www.falkensee.de/veranstaltungen/1959131/2027/10/07/psychosoz
+ iale-beratung-bei-häuslicher-gewalt.html
 END:VEVENT
 END:VCALENDAR

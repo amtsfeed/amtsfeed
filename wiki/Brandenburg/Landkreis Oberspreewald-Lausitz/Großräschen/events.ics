@@ -453,15 +453,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2977492/2026/10/05/nachb
  arschaftshilfecafé-im-quartierstreff.html
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2791032@amtsfeed.de
-DTSTAMP:20260911T111229Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Kulturcaf&eacute\; im Quartierstreff
-URL:https://www.grossraeschen.de/veranstaltungen/2791032/2026/10/06/kultu
- rcafé-im-quartierstreff.html
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2830505@amtsfeed.de
 DTSTAMP:20261006T102810Z
 DTSTART;VALUE=DATE:20261007
@@ -676,6 +667,15 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Herzliche Einladung zum Mitbring-Frühstück
 URL:https://www.grossraeschen.de/veranstaltungen/2967820/2026/11/02/herzl
  iche-einladung-zum-mitbring-frühstück.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2791032@amtsfeed.de
+DTSTAMP:20261007T102714Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Kulturcaf&eacute\; im Quartierstreff
+URL:https://www.grossraeschen.de/veranstaltungen/2791032/2026/11/03/kultu
+ rcafé-im-quartierstreff.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2957487@amtsfeed.de

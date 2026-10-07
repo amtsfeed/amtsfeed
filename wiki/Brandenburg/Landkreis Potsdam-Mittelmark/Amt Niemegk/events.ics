@@ -410,13 +410,14 @@ URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-07-2026-10-07@amtsfeed.de
-DTSTAMP:20261003T092018Z
-DTSTART:20261007T093000Z
-DTEND:20261007T110000Z
-SUMMARY:Willkommen- Baby- Frühstück
-URL:https://amt-niemegk.de/events/willkommen-baby-fruehstueck-3-911-925-7
- 86-401-808-698-320-746-273/?occurrence=2026-10-07&#038\;time=1791365400
-LOCATION:Familienzentrum Niemegk
+DTSTAMP:20261007T102907Z
+DTSTART:20261007T140000Z
+DTEND:20261007T153000Z
+SUMMARY:Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tor
+ e
+URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
+ in-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?
+ occurrence=2026-10-07
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-08-2026-10-08@amtsfeed.de
@@ -427,5 +428,27 @@ SUMMARY:Bewegter Morgen
 URL:https://amt-niemegk.de/events/bewegter-morgen/?occurrence=2026-10-08&
  #038\;time=1791450000
 LOCATION:Familienzentrum Niemegk
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-09-2026-10-09@amtsfeed.de
+DTSTAMP:20261007T102907Z
+DTSTART:20261009T140000Z
+DTEND:20261009T153000Z
+SUMMARY:Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tor
+ e
+URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
+ in-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?
+ occurrence=2026-10-09
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-10-2026-10-10@amtsfeed.de
+DTSTAMP:20261007T102907Z
+DTSTART:20261010T140000Z
+DTEND:20261010T153000Z
+SUMMARY:Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tor
+ e
+URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
+ in-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?
+ occurrence=2026-10-10
 END:VEVENT
 END:VCALENDAR

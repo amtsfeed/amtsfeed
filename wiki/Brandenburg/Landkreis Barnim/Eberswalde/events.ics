@@ -961,18 +961,76 @@ SUMMARY:Das schöne Leben: "Über uns von uns"
 URL:https://www.eberswalde.de/termine/das-schoene-leben-ueber-uns-von-uns
 END:VEVENT
 BEGIN:VEVENT
-UID:info.php@amtsfeed.de
-DTSTAMP:20261006T102205Z
-DTSTART:20261006T201500Z
-SUMMARY:Ausschuss für Wirtschaft\, Finanzen und Bürgerdienste (Fachauss
- chuss 1 - F1)
-URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
-END:VEVENT
-BEGIN:VEVENT
 UID:faszination-holz-20@amtsfeed.de
 DTSTAMP:20261006T102205Z
 DTSTART:20261007T150000Z
 SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-20
+END:VEVENT
+BEGIN:VEVENT
+UID:das-schoene-leben-lesung-fuer-kinder-lian-die-tierdetektivin@amtsfeed
+ .de
+DTSTAMP:20261007T101903Z
+DTSTART:20261007T160000Z
+SUMMARY:Das schöne Leben: Lesung für Kinder "Lian\, die Tierdetektivin"
+URL:https://www.eberswalde.de/termine/das-schoene-leben-lesung-fuer-kinde
+ r-lian-die-tierdetektivin
+END:VEVENT
+BEGIN:VEVENT
+UID:das-schoene-leben-hula-hoop-performance-und-mitmachkurs@amtsfeed.de
+DTSTAMP:20261007T101903Z
+DTSTART:20261007T170000Z
+SUMMARY:Das schöne Leben: Hula Hoop - Performance und Mitmachkurs
+URL:https://www.eberswalde.de/termine/das-schoene-leben-hula-hoop-perform
+ ance-und-mitmachkurs
+END:VEVENT
+BEGIN:VEVENT
+UID:das-schoene-leben-swing-tanzabend@amtsfeed.de
+DTSTAMP:20261007T101903Z
+DTSTART:20261007T190000Z
+SUMMARY:Das schöne Leben: Swing-Tanzabend
+URL:https://www.eberswalde.de/termine/das-schoene-leben-swing-tanzabend
+END:VEVENT
+BEGIN:VEVENT
+UID:das-schoene-leben-lesung-mit-katharina-peters-kaltes-versprechen@amts
+ feed.de
+DTSTAMP:20261007T101903Z
+DTSTART:20261007T190000Z
+SUMMARY:ENTFÄLLT: Das schöne Leben: Lesung mit Katharina Peters "Kaltes
+  Versprechen"
+URL:https://www.eberswalde.de/termine/das-schoene-leben-lesung-mit-kathar
+ ina-peters-kaltes-versprechen
+END:VEVENT
+BEGIN:VEVENT
+UID:info.php@amtsfeed.de
+DTSTAMP:20261007T101903Z
+DTSTART:20261007T201500Z
+SUMMARY:Ausschuss für Soziales\, Bildung\, Ordnung und Kultur (Fachaussc
+ huss 2 - F2)
+URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
+END:VEVENT
+BEGIN:VEVENT
+UID:das-schoene-leben-maerchen-und-wahrheiten-zu-lebensmitteln@amtsfeed.d
+ e
+DTSTAMP:20261007T101903Z
+DTSTART:20261008T140000Z
+SUMMARY:Das schöne Leben: Märchen und Wahrheiten zu Lebensmitteln
+URL:https://www.eberswalde.de/termine/das-schoene-leben-maerchen-und-wahr
+ heiten-zu-lebensmitteln
+END:VEVENT
+BEGIN:VEVENT
+UID:das-schoene-leben-comicfiguren-zeichnen@amtsfeed.de
+DTSTAMP:20261007T101903Z
+DTSTART:20261008T143000Z
+SUMMARY:Das schöne Leben: Comicfiguren zeichnen
+URL:https://www.eberswalde.de/termine/das-schoene-leben-comicfiguren-zeic
+ hnen
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-21@amtsfeed.de
+DTSTAMP:20261007T101903Z
+DTSTART:20261008T150000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-21
 END:VEVENT
 END:VCALENDAR

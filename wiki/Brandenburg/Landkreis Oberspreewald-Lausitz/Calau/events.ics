@@ -887,26 +887,6 @@ URL:https://www.calau.de/veranstaltungen/2969282/2026/10/04/fantastische-
  seifenblasen-show.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261004T095828Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:06.10.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/10/06/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
-UID:calau-event-1906922@amtsfeed.de
-DTSTAMP:20261004T095828Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:06.10.2026   Großmarkt auf dem Marktplatz "In Calau clever kaufe
- n" bei den Calauer Innenstadthändlern
-URL:https://www.calau.de/veranstaltungen/1906922/2026/10/06/großmarkt-au
- f-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthändle
- rn.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2962562@amtsfeed.de
 DTSTAMP:20261005T103749Z
 DTSTART;VALUE=DATE:20261006
@@ -925,6 +905,15 @@ URL:https://www.calau.de/veranstaltungen/2315266/2026/10/07/calauer-musee
  n-öffnen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261007T102712Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:08.10.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/10/08/calauer-woche
+ nmarkt.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2885234@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART;VALUE=DATE:20261008
@@ -935,28 +924,28 @@ URL:https://www.calau.de/veranstaltungen/2885234/2026/10/08/krabbelgruppe
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2858227@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261007T102712Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:SpieleABEND
+SUMMARY:09.10.2026   SpieleABEND
 URL:https://www.calau.de/veranstaltungen/2858227/2026/10/09/spieleabend.h
  tml
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2977306@amtsfeed.de
-DTSTAMP:20261001T101957Z
+DTSTAMP:20261007T102712Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Vortrag zur Nachbarschaftshilfe
+SUMMARY:09.10.2026   Vortrag zur Nachbarschaftshilfe
 URL:https://www.calau.de/veranstaltungen/2977306/2026/10/09/vortrag-zur-n
  achbarschaftshilfe.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20261005T103749Z
+DTSTAMP:20261007T102712Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+SUMMARY:10.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
 URL:https://www.calau.de/veranstaltungen/2864723/2026/10/10/flugshow-auf-
  dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
@@ -1159,6 +1148,17 @@ DTEND;VALUE=DATE:20261101
 SUMMARY:Halloweenumzug
 URL:https://www.calau.de/veranstaltungen/2877063/2026/10/31/halloweenumzu
  g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-1906922@amtsfeed.de
+DTSTAMP:20261007T102712Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Großmarkt auf dem Marktplatz "In Calau clever kaufen" bei den Ca
+ lauer Innenstadthändlern
+URL:https://www.calau.de/veranstaltungen/1906922/2026/11/03/großmarkt-au
+ f-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthändle
+ rn.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960237@amtsfeed.de

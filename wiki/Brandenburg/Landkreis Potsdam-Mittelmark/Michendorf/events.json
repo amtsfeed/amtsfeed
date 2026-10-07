@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T10:29:48.517Z",
+  "updatedAt": "2026-10-07T10:29:34.311Z",
   "items": [
     {
       "id": "michendorf-event-2884831",
@@ -946,14 +946,6 @@
       "updatedAt": "2026-09-29T10:01:33.774Z"
     },
     {
-      "id": "michendorf-event-2959538",
-      "title": "Jugendclub \"MICHECK\" geöffnet",
-      "url": "https://www.michendorf.de/veranstaltungen/2959538/2026/10/06/jugendclub-micheck-geöffnet.html",
-      "startDate": "2026-10-06T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:11.775Z",
-      "updatedAt": "2026-09-30T09:53:53.714Z"
-    },
-    {
       "id": "michendorf-event-2959533",
       "title": "Jugendclub \"MICHECK\" geöffnet",
       "url": "https://www.michendorf.de/veranstaltungen/2959533/2026/10/08/jugendclub-micheck-geöffnet.html",
@@ -968,6 +960,14 @@
       "startDate": "2026-10-08T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:11.775Z",
       "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2980544",
+      "title": "Infos der Polizei \"Prävention Taschendiebstahl\"",
+      "url": "https://www.michendorf.de/veranstaltungen/2980544/2026/10/08/infos-der-polizei-prävention-taschendiebstahl.html",
+      "startDate": "2026-10-08T00:00:00.000Z",
+      "fetchedAt": "2026-10-07T10:29:34.301Z",
+      "updatedAt": "2026-10-07T10:29:34.301Z"
     },
     {
       "id": "michendorf-event-2959541",
@@ -1066,12 +1066,28 @@
       "updatedAt": "2026-10-06T10:29:48.507Z"
     },
     {
+      "id": "michendorf-event-2959538",
+      "title": "Jugendclub \"MICHECK\" geöffnet",
+      "url": "https://www.michendorf.de/veranstaltungen/2959538/2026/10/13/jugendclub-micheck-geöffnet.html",
+      "startDate": "2026-10-13T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-10-07T10:29:34.301Z"
+    },
+    {
       "id": "michendorf-event-2798286",
       "title": "Trauercaf&eacute;",
       "url": "https://www.michendorf.de/veranstaltungen/2798286/2026/10/13/trauercafé.html",
       "startDate": "2026-10-13T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-09-30T09:53:53.714Z"
+    },
+    {
+      "id": "michendorf-event-2980537",
+      "title": "Infoveranstaltung Patientenverfügung",
+      "url": "https://www.michendorf.de/veranstaltungen/2980537/2026/10/13/infoveranstaltung-patientenverfügung.html",
+      "startDate": "2026-10-13T00:00:00.000Z",
+      "fetchedAt": "2026-10-07T10:29:34.301Z",
+      "updatedAt": "2026-10-07T10:29:34.301Z"
     },
     {
       "id": "michendorf-event-2923241",

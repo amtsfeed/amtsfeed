@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T10:29:30.382Z",
+  "updatedAt": "2026-10-07T10:29:07.491Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -347,13 +347,12 @@
     },
     {
       "id": "amt-niemegk-event-2026-10-07-2026-10-07",
-      "title": "Willkommen- Baby- Frühstück",
-      "url": "https://amt-niemegk.de/events/willkommen-baby-fruehstueck-3-911-925-786-401-808-698-320-746-273/?occurrence=2026-10-07&#038;time=1791365400",
-      "startDate": "2026-10-07T09:30:00.000Z",
-      "endDate": "2026-10-07T11:00:00.000Z",
-      "location": "Familienzentrum Niemegk",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-10-07",
+      "startDate": "2026-10-07T14:00:00.000Z",
+      "endDate": "2026-10-07T15:30:00.000Z",
       "fetchedAt": "2026-10-03T09:20:12.280Z",
-      "updatedAt": "2026-10-03T09:20:18.581Z"
+      "updatedAt": "2026-10-07T10:29:07.486Z"
     },
     {
       "id": "amt-niemegk-event-2026-10-08-2026-10-08",
@@ -364,6 +363,24 @@
       "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-10-06T10:29:24.406Z",
       "updatedAt": "2026-10-06T10:29:30.377Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-10-09-2026-10-09",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-10-09",
+      "startDate": "2026-10-09T14:00:00.000Z",
+      "endDate": "2026-10-09T15:30:00.000Z",
+      "fetchedAt": "2026-10-07T10:28:58.415Z",
+      "updatedAt": "2026-10-07T10:29:07.486Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-10-10-2026-10-10",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-10-10",
+      "startDate": "2026-10-10T14:00:00.000Z",
+      "endDate": "2026-10-10T15:30:00.000Z",
+      "fetchedAt": "2026-10-07T10:28:58.415Z",
+      "updatedAt": "2026-10-07T10:29:07.486Z"
     }
   ]
 }

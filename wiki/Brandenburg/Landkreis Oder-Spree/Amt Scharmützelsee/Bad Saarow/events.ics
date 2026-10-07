@@ -271,16 +271,6 @@ URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-ab-wendisc
  h-rietz
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-syl
- via-musick@amtsfeed.de
-DTSTAMP:20260916T084508Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Ratschen und tratschen - Handarbeitsnachmittage mit Sylvia Musick
-URL:https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbei
- tsnachmittage-mit-sylvia-musick
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-abend-der-wissenschaft-im-wettermuseum@amtsfeed.de
 DTSTAMP:20260916T084508Z
 DTSTART;VALUE=DATE:20260916
@@ -554,32 +544,6 @@ URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
  d-saarow-am-mittwoch
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs@amtsfeed.de
-DTSTAMP:20260929T100010Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Aktiv Wochenplan - Wakepark Schnupperkurs
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-wakepark-schnup
- perkurs
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-bogenschiessen@amtsfeed.de
-DTSTAMP:20260929T100010Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Aktiv Wochenplan - Bogenschießen
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-bogenschiessen
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-toepfern-schnupperkurs@amtsfeed.de
-DTSTAMP:20260929T100010Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
- perkurs
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
  eed.de
 DTSTAMP:20261001T102046Z
@@ -717,35 +681,6 @@ URL:https://www.scharmuetzelsee.de/event/alpaka-spaziergang-ferienprogram
  m
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
- d.de
-DTSTAMP:20261006T102840Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
-URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
- harmuetzelsee
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261006T102840Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261006T102840Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
  eed.de
 DTSTAMP:20261005T103819Z
@@ -763,6 +698,71 @@ DTEND;VALUE=DATE:20261007
 SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
  park
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-syl
+ via-musick@amtsfeed.de
+DTSTAMP:20261007T102753Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Ratschen und tratschen - Handarbeitsnachmittage mit Sylvia Musick
+URL:https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbei
+ tsnachmittage-mit-sylvia-musick
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs@amtsfeed.de
+DTSTAMP:20261007T102753Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Aktiv Wochenplan - Wakepark Schnupperkurs
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-wakepark-schnup
+ perkurs
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-bogenschiessen@amtsfeed.de
+DTSTAMP:20261007T102753Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Aktiv Wochenplan - Bogenschießen
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-bogenschiessen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-toepfern-schnupperkurs@amtsfeed.de
+DTSTAMP:20261007T102753Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
+ perkurs
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
+ d.de
+DTSTAMP:20261007T102753Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
+ harmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261007T102753Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261007T102753Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
@@ -805,6 +805,37 @@ SUMMARY:11. Storkower Herbstpoesie - Schulveranstaltung - Lesung „Hilfe
   zu viele Vampire“ mit Mars-Leo Frei
 URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-schulv
  eranstaltung-lesung-hilfe-zu-viele-vampire-mit-mars-leo-frei
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-drachen-basteln-ferienprogramm@amtsfeed.de
+DTSTAMP:20261007T102753Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Drachen basteln - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/drachen-basteln-ferienprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-11-storkower-herbstpoesie-schulveranstaltung-interakt
+ ive-lesung-kleines-abc-gegen-schul-stress-mit-dr-sibylle-mottl-link@amtsf
+ eed.de
+DTSTAMP:20261007T102753Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:11. Storkower Herbstpoesie - Schulveranstaltung Interaktive Lesun
+ g „Kleines ABC gegen (Schul-)Stress“ mit Dr. Sibylle Mottl-Link
+URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-schulv
+ eranstaltung-interaktive-lesung-kleines-abc-gegen-schul-stress-mit-dr-sib
+ ylle-mottl-link
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-kuschelstunde-mit-unseren-zwergschafen-ferienprogramm
+ @amtsfeed.de
+DTSTAMP:20261007T102753Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Kuschelstunde mit unseren Zwergschafen - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/kuschelstunde-mit-unseren-zwergs
+ chafen-ferienprogramm
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-oktoberfest-im-freilich-am-see@amtsfeed.de

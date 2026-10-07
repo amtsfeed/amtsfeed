@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T10:28:34.023Z",
+  "updatedAt": "2026-10-07T10:27:43.867Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -13684,6 +13684,44 @@
       "location": "Haus der Heimatgeschichte",
       "fetchedAt": "2026-10-06T10:28:34.067Z",
       "updatedAt": "2026-10-06T10:28:34.067Z"
+    },
+    {
+      "id": "lk-osl-event-2290342-20271007",
+      "title": "Calauer Wochenmarkt",
+      "url": "https://www.osl-online.de/veranstaltungen/2290342/2027/10/07/calauer-wochenmarkt.html",
+      "startDate": "2027-10-07T08:00:00.000Z",
+      "location": "Marktplatz Calau",
+      "fetchedAt": "2026-10-07T10:27:43.908Z",
+      "updatedAt": "2026-10-07T10:27:43.908Z"
+    },
+    {
+      "id": "lk-osl-event-2124494-20271007",
+      "title": "Behinderten- und Seniorenberatung",
+      "url": "https://www.osl-online.de/veranstaltungen/2124494/2027/10/07/behinderten-und-seniorenberatung.html",
+      "startDate": "2027-10-07T10:00:00.000Z",
+      "location": "Mehrgenerationenhaus",
+      "fetchedAt": "2026-10-07T10:27:43.908Z",
+      "updatedAt": "2026-10-07T10:27:43.908Z"
+    },
+    {
+      "id": "lk-osl-event-2705490-20271007",
+      "title": "Simone's Gesprächsrunde",
+      "url": "https://www.osl-online.de/veranstaltungen/2705490/2027/10/07/simone-s-gesprächsrunde.html",
+      "startDate": "2027-10-07T15:00:00.000Z",
+      "endDate": "2027-10-07T17:00:00.000Z",
+      "location": "Großräschen",
+      "fetchedAt": "2026-10-07T10:27:43.908Z",
+      "updatedAt": "2026-10-07T10:27:43.908Z"
+    },
+    {
+      "id": "lk-osl-event-2918357-20271007",
+      "title": "Gruppentreffen Selbsthilfegruppe Diabetes Lauchhammer",
+      "url": "https://www.osl-online.de/veranstaltungen/2918357/2027/10/07/gruppentreffen-selbsthilfegruppe-diabetes-lauchhammer.html",
+      "startDate": "2027-10-07T15:00:00.000Z",
+      "endDate": "2027-10-07T17:00:00.000Z",
+      "location": "REKOSI",
+      "fetchedAt": "2026-10-07T10:27:43.908Z",
+      "updatedAt": "2026-10-07T10:27:43.908Z"
     }
   ]
 }

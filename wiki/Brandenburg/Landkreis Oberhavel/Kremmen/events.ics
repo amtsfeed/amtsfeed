@@ -989,6 +989,16 @@ URL:https://www.kremmen.de/veranstaltungen/2976770/2026/10/17/frühstück
 LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2980602@amtsfeed.de
+DTSTAMP:20261007T102621Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Mirror Image - Der arabische Spiegel
+URL:https://www.kremmen.de/veranstaltungen/2980602/2026/10/17/mirror-imag
+ e-der-arabische-spiegel.html
+LOCATION:Kultur & Beeren UG
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2911521@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20261023
@@ -1009,6 +1019,16 @@ URL:https://www.kremmen.de/veranstaltungen/2911524/2026/10/24/busse-und-s
 LOCATION:Theaterbistro "Kombüse 11"
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2980639@amtsfeed.de
+DTSTAMP:20261007T102621Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Sommerfeld Frühstück
+URL:https://www.kremmen.de/veranstaltungen/2980639/2026/10/24/sommerfeld-
+ frühstück.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2911527@amtsfeed.de
 DTSTAMP:20260911T111210Z
 DTSTART;VALUE=DATE:20261031
@@ -1027,6 +1047,16 @@ SUMMARY:Reformationstag in Kremmen
 URL:https://www.kremmen.de/veranstaltungen/2971180/2026/10/31/reformation
  stag-in-kremmen.html
 LOCATION:Kirche Kremmen
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2980644@amtsfeed.de
+DTSTAMP:20261007T102621Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Frühstück am Bahnhof in Sommerfeld
+URL:https://www.kremmen.de/veranstaltungen/2980644/2026/10/31/frühstück
+ -am-bahnhof-in-sommerfeld.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2911533@amtsfeed.de

@@ -519,15 +519,6 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2936123/2026/10/05/lebens
  ildungsurlaub.html
 END:VEVENT
 BEGIN:VEVENT
-UID:amt-beetzsee-event-2202003@amtsfeed.de
-DTSTAMP:20260911T111317Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Dorfstammtisch Butzow
-URL:https://www.amt-beetzsee.de/veranstaltungen/2202003/2026/10/06/dorfst
- ammtisch-butzow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:amt-beetzsee-event-2959162@amtsfeed.de
 DTSTAMP:20260911T111317Z
 DTSTART;VALUE=DATE:20261006
@@ -619,6 +610,15 @@ SUMMARY:Licht aus! 5 Tage rund um Dunkelheit\, Licht(verschmutzung) und S
 URL:https://www.amt-beetzsee.de/veranstaltungen/2747610/2026/11/02/licht-
  aus-5-tage-rund-um-dunkelheit-lichtverschmutzung-und-sterne-bildungsurlau
  b-warteliste.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2202003@amtsfeed.de
+DTSTAMP:20261007T102851Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Dorfstammtisch Butzow
+URL:https://www.amt-beetzsee.de/veranstaltungen/2202003/2026/11/03/dorfst
+ ammtisch-butzow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2959201@amtsfeed.de

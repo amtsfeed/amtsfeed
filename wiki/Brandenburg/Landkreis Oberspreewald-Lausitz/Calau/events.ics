@@ -896,15 +896,6 @@ URL:https://www.calau.de/veranstaltungen/2962562/2026/10/06/blutspendeter
  min-des-drk.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20261005T103749Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:07.10.2026   Calauer Museen öffnen
-URL:https://www.calau.de/veranstaltungen/2315266/2026/10/07/calauer-musee
- n-öffnen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2290342@amtsfeed.de
 DTSTAMP:20261007T102712Z
 DTSTART;VALUE=DATE:20261008
@@ -951,10 +942,10 @@ URL:https://www.calau.de/veranstaltungen/2864723/2026/10/10/flugshow-auf-
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2975109@amtsfeed.de
-DTSTAMP:20260928T095824Z
+DTSTAMP:20261008T104538Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:Lesung in der Gutskapelle Reuden
+SUMMARY:10.10.2026   Lesung in der Gutskapelle Reuden
 URL:https://www.calau.de/veranstaltungen/2975109/2026/10/10/lesung-in-der
  -gutskapelle-reuden.html
 END:VEVENT
@@ -1004,6 +995,15 @@ URL:https://www.calau.de/veranstaltungen/2024997/2026/10/13/ihk-sprechtag
  -in-calau.html
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2315266@amtsfeed.de
+DTSTAMP:20261008T104538Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Calauer Museen öffnen
+URL:https://www.calau.de/veranstaltungen/2315266/2026/10/14/calauer-musee
+ n-öffnen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2947234@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261014
@@ -1011,6 +1011,15 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:Tanz Dich Frei
 URL:https://www.calau.de/veranstaltungen/2947234/2026/10/14/tanz-dich-fre
  i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2980721@amtsfeed.de
+DTSTAMP:20261008T104538Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Kochzauber
+URL:https://www.calau.de/veranstaltungen/2980721/2026/10/14/kochzauber.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960236@amtsfeed.de
@@ -1029,6 +1038,15 @@ DTEND;VALUE=DATE:20261016
 SUMMARY:VorLeseKuschelZeit: "Für Hund und Katz ist auch noch Platz"
 URL:https://www.calau.de/veranstaltungen/2951704/2026/10/15/vorlesekusche
  lzeit-für-hund-und-katz-ist-auch-noch-platz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2980725@amtsfeed.de
+DTSTAMP:20261008T104538Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Fit im Alter
+URL:https://www.calau.de/veranstaltungen/2980725/2026/10/15/fit-im-alter.
+ html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2858856@amtsfeed.de
@@ -1096,6 +1114,32 @@ URL:https://www.calau.de/veranstaltungen/2909035/2026/10/22/auf-ins-welta
  ll-die-abenteuer-der-katzen-mimi-und-comic-cat.html
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2980728@amtsfeed.de
+DTSTAMP:20261008T104538Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Beratung Sozialmobil
+URL:https://www.calau.de/veranstaltungen/2980728/2026/10/22/beratung-sozi
+ almobil.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2980730@amtsfeed.de
+DTSTAMP:20261008T104538Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:QiGong
+URL:https://www.calau.de/veranstaltungen/2980730/2026/10/22/qigong.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2980732@amtsfeed.de
+DTSTAMP:20261008T104538Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Handarbeitsgruppe "Wollwunder"
+URL:https://www.calau.de/veranstaltungen/2980732/2026/10/23/handarbeitsgr
+ uppe-wollwunder.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2921824@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261024
@@ -1112,6 +1156,15 @@ DTEND;VALUE=DATE:20261028
 SUMMARY:Halloween-Basteln
 URL:https://www.calau.de/veranstaltungen/2951698/2026/10/27/halloween-bas
  teln.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2980734@amtsfeed.de
+DTSTAMP:20261008T104538Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Fit im Alter
+URL:https://www.calau.de/veranstaltungen/2980734/2026/10/29/fit-im-alter.
+ html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2851855@amtsfeed.de
@@ -1141,6 +1194,15 @@ URL:https://www.calau.de/veranstaltungen/2964571/2026/10/30/kürbisschnit
  zen-für-die-ganze-familie.html
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2980735@amtsfeed.de
+DTSTAMP:20261008T104538Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:"Gemeinsam statt einsam" Mittagessen kochen für Senioren
+URL:https://www.calau.de/veranstaltungen/2980735/2026/10/30/gemeinsam-sta
+ tt-einsam-mittagessen-kochen-für-senioren.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2877063@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART;VALUE=DATE:20261031
@@ -1168,6 +1230,16 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Krabbelgruppe in der Kita Kunterbunt
 URL:https://www.calau.de/veranstaltungen/2960237/2026/11/05/krabbelgruppe
  -in-der-kita-kunterbunt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2980738@amtsfeed.de
+DTSTAMP:20261008T104538Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Workshop für Mamas: "Zurück in Deine Kraft - Nervensystem regul
+ ieren"
+URL:https://www.calau.de/veranstaltungen/2980738/2026/11/05/workshop-für
+ -mamas-zurück-in-deine-kraft-nervensystem-regulieren.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2606463@amtsfeed.de

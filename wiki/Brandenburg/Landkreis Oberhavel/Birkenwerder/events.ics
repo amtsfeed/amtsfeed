@@ -570,6 +570,16 @@ URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
 LOCATION:Villa Weigert
 END:VEVENT
 BEGIN:VEVENT
+UID:birkenwerder-event-salonkonzert-mit-den-couchies-1@amtsfeed.de
+DTSTAMP:20261008T104438Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Salonkonzert mit den Couchies
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/salonkonzert-mit-den-couchies-1
+LOCATION:Salon der Villa Weigert
+END:VEVENT
+BEGIN:VEVENT
 UID:birkenwerder-event-aktionswoche-zum-quottag-der-bibliotheken-2026-quo
  t@amtsfeed.de
 DTSTAMP:20261001T101850Z

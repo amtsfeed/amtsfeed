@@ -1293,15 +1293,6 @@ URL:https://www.teltow.de/veranstaltungen/2973543/2026/10/06/die-olchis-a
  us-schmuddelfing.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930017@amtsfeed.de
-DTSTAMP:20261001T102235Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
-URL:https://www.teltow.de/veranstaltungen/2930017/2026/10/07/offener-lern
- raum-lesen-schreiben-rechnen-basis-englisch.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2699683@amtsfeed.de
 DTSTAMP:20261002T095738Z
 DTSTART;VALUE=DATE:20261008
@@ -1410,6 +1401,15 @@ URL:https://www.teltow.de/veranstaltungen/2972996/2026/10/13/die-geschich
  te-der-chemie-in-teltow-seehof.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2930017@amtsfeed.de
+DTSTAMP:20261008T104805Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
+URL:https://www.teltow.de/veranstaltungen/2930017/2026/10/14/offener-lern
+ raum-lesen-schreiben-rechnen-basis-englisch.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2857822@amtsfeed.de
 DTSTAMP:20260506T181553Z
 DTSTART;VALUE=DATE:20261014
@@ -1435,6 +1435,15 @@ DTEND;VALUE=DATE:20261016
 SUMMARY:Musik zur Kaffeestunde
 URL:https://www.teltow.de/veranstaltungen/2972015/2026/10/15/musik-zur-ka
  ffeestunde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2981272@amtsfeed.de
+DTSTAMP:20261008T104805Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Bürgermeisterfragestunde & Jugenddisco
+URL:https://www.teltow.de/veranstaltungen/2981272/2026/10/16/bürgermeist
+ erfragestunde-jugenddisco.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2973406@amtsfeed.de

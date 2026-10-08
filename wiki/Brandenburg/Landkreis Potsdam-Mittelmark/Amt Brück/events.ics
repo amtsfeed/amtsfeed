@@ -448,6 +448,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/2962750/2026/10/02/theater-
  guten-morgen-du-fremde.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-2981191@amtsfeed.de
+DTSTAMP:20261008T104713Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:AWO Herbstfest
+URL:https://www.amt-brueck.de/veranstaltungen/2981191/2026/10/16/awo-herb
+ stfest.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2861460@amtsfeed.de
 DTSTAMP:20260506T123009Z
 DTSTART;VALUE=DATE:20261017
@@ -484,6 +493,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/2963494/2026/10/24/7.-bears
  -trophy-bogensportturnier.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-2819561@amtsfeed.de
+DTSTAMP:20261008T104713Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Feuer und Flamme für unsere Museen
+URL:https://www.amt-brueck.de/veranstaltungen/2819561/2026/10/24/feuer-un
+ d-flamme-für-unsere-museen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2819560@amtsfeed.de
 DTSTAMP:20260506T123009Z
 DTSTART;VALUE=DATE:20261025
@@ -509,15 +527,6 @@ DTEND;VALUE=DATE:20261101
 SUMMARY:Halloween auf der Zickenwiese
 URL:https://www.amt-brueck.de/veranstaltungen/2861463/2026/10/31/hallowee
  n-auf-der-zickenwiese.html
-END:VEVENT
-BEGIN:VEVENT
-UID:amt-brueck-event-2819561@amtsfeed.de
-DTSTAMP:20260506T123009Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Feuer und Flamme
-URL:https://www.amt-brueck.de/veranstaltungen/2819561/2026/10/31/feuer-un
- d-flamme.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2819562@amtsfeed.de

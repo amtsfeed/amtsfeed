@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T10:27:14.687Z",
+  "updatedAt": "2026-10-08T10:45:40.676Z",
   "items": [
     {
       "id": "grossraeschen-event-2791019",
@@ -394,14 +394,6 @@
       "updatedAt": "2026-10-01T10:20:00.382Z"
     },
     {
-      "id": "grossraeschen-event-2830505",
-      "title": "Orientalischer Kochkurs",
-      "url": "https://www.grossraeschen.de/veranstaltungen/2830505/2026/10/07/orientalischer-kochkurs.html",
-      "startDate": "2026-10-07T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:58:45.258Z",
-      "updatedAt": "2026-10-06T10:28:10.642Z"
-    },
-    {
       "id": "grossraeschen-event-2961243",
       "title": "Musikalische Lesung mit Frank Liebe  - \"Thriller meets Hörspiel\"",
       "url": "https://www.grossraeschen.de/veranstaltungen/2961243/2026/10/08/musikalische-lesung-mit-frank-liebe-thriller-meets-hörspiel.html",
@@ -498,6 +490,14 @@
       "updatedAt": "2026-10-06T10:28:10.642Z"
     },
     {
+      "id": "grossraeschen-event-2981019",
+      "title": "Club-Konzert mit Robin Kap",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981019/2026/10/16/club-konzert-mit-robin-kap.html",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
       "id": "grossraeschen-event-2927390",
       "title": "Kevin Dardis – Irish Songs &   Stories",
       "url": "https://www.grossraeschen.de/veranstaltungen/2927390/2026/10/17/kevin-dardis--irish-songs-stories.html",
@@ -546,6 +546,14 @@
       "updatedAt": "2026-09-16T08:44:35.137Z"
     },
     {
+      "id": "grossraeschen-event-2981020",
+      "title": "Bob Bales Whiskey-Tasting mit Musik",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981020/2026/10/24/bob-bales-whiskey-tasting-mit-musik.html",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
       "id": "grossraeschen-event-2957425",
       "title": "Gottesdienst in Freienhufen",
       "url": "https://www.grossraeschen.de/veranstaltungen/2957425/2026/10/25/gottesdienst-in-freienhufen.html",
@@ -568,6 +576,22 @@
       "startDate": "2026-10-29T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:26:32.585Z",
       "updatedAt": "2026-09-25T08:58:46.520Z"
+    },
+    {
+      "id": "grossraeschen-event-2981021",
+      "title": "Die Stand Up-Zaubershow Verblüffend zweihändig",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981021/2026/10/29/die-stand-up-zaubershow-verblüffend-zweihändig.html",
+      "startDate": "2026-10-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
+      "id": "grossraeschen-event-2981022",
+      "title": "Die Helga Hahnemann Retro Show Made in GDR",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981022/2026/10/30/die-helga-hahnemann-retro-show-made-in-gdr.html",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
     },
     {
       "id": "grossraeschen-event-2791037",
@@ -594,12 +618,44 @@
       "updatedAt": "2026-10-07T10:27:14.675Z"
     },
     {
+      "id": "grossraeschen-event-2830505",
+      "title": "Orientalischer Kochkurs",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2830505/2026/11/04/orientalischer-kochkurs.html",
+      "startDate": "2026-11-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:45.258Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
       "id": "grossraeschen-event-2957487",
       "title": "Tanzcaf&eacute; mit dem Team Tanzwünsche",
       "url": "https://www.grossraeschen.de/veranstaltungen/2957487/2026/11/05/tanzcafé-mit-dem-team-tanzwünsche.html",
       "startDate": "2026-11-05T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:45.258Z",
       "updatedAt": "2026-10-02T09:55:29.697Z"
+    },
+    {
+      "id": "grossraeschen-event-2981023",
+      "title": "Weiberabend... Ziemliche beste Freundinnen",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981023/2026/11/05/weiberabend.-ziemliche-beste-freundinnen.html",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
+      "id": "grossraeschen-event-2981024",
+      "title": "Die Pension zur schwäbischen Jungfrau",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981024/2026/11/06/die-pension-zur-schwäbischen-jungfrau.html",
+      "startDate": "2026-11-06T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
+      "id": "grossraeschen-event-2981025",
+      "title": "Es kommt immer anders, wenn man denkt!",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981025/2026/11/07/es-kommt-immer-anders-wenn-man-denkt.html",
+      "startDate": "2026-11-07T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
     },
     {
       "id": "grossraeschen-event-2957428",
@@ -674,12 +730,36 @@
       "updatedAt": "2026-10-02T09:55:29.697Z"
     },
     {
+      "id": "grossraeschen-event-2981026",
+      "title": "Sex, Suff und andere Schadensfälle",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981026/2026/11/12/sex-suff-und-andere-schadensfälle.html",
+      "startDate": "2026-11-12T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
       "id": "grossraeschen-event-2961249",
       "title": "\"Sehnsucht nach Licht - Alles kommt vom Bergwerk her\", Autorin Kati Naumann",
       "url": "https://www.grossraeschen.de/veranstaltungen/2961249/2026/11/13/sehnsucht-nach-licht-alles-kommt-vom-bergwerk-her--autorin-kati-naumann.html",
       "startDate": "2026-11-13T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:45.258Z",
       "updatedAt": "2026-09-11T11:12:29.600Z"
+    },
+    {
+      "id": "grossraeschen-event-2981027",
+      "title": "Starke Weiber dürfen mehr!",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981027/2026/11/13/starke-weiber-dürfen-mehr.html",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
+      "id": "grossraeschen-event-2981111",
+      "title": "Das Räubermahl",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981111/2026/11/14/das-räubermahl.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
     },
     {
       "id": "grossraeschen-event-2957439",
@@ -698,6 +778,22 @@
       "updatedAt": "2026-05-31T18:42:02.082Z"
     },
     {
+      "id": "grossraeschen-event-2981029",
+      "title": "Das Räubermahl",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981029/2026/11/19/das-räubermahl.html",
+      "startDate": "2026-11-19T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
+      "id": "grossraeschen-event-2981030",
+      "title": "Die Helga Hahnemann Retro Show Made in GDR",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981030/2026/11/20/die-helga-hahnemann-retro-show-made-in-gdr.html",
+      "startDate": "2026-11-20T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
       "id": "grossraeschen-event-2843809",
       "title": "Weihnachtsmarkt in der Töpferei Wienicke",
       "url": "https://www.grossraeschen.de/veranstaltungen/2843809/2026/11/21/weihnachtsmarkt-in-der-töpferei-wienicke.html",
@@ -712,6 +808,14 @@
       "startDate": "2026-11-21T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:26:32.585Z",
       "updatedAt": "2026-05-31T18:42:02.082Z"
+    },
+    {
+      "id": "grossraeschen-event-2981031",
+      "title": "Du willst es doch auch",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981031/2026/11/21/du-willst-es-doch-auch.html",
+      "startDate": "2026-11-21T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
     },
     {
       "id": "grossraeschen-event-2957444",
@@ -746,6 +850,14 @@
       "updatedAt": "2026-09-11T11:12:29.600Z"
     },
     {
+      "id": "grossraeschen-event-2981032",
+      "title": "Alleinerziehend mit Ehemann",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981032/2026/11/26/alleinerziehend-mit-ehemann.html",
+      "startDate": "2026-11-26T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
       "id": "grossraeschen-event-2852270",
       "title": "Eltern-Kind-Sport",
       "url": "https://www.grossraeschen.de/veranstaltungen/2852270/2026/11/28/eltern-kind-sport.html",
@@ -770,12 +882,36 @@
       "updatedAt": "2026-09-11T11:12:29.600Z"
     },
     {
+      "id": "grossraeschen-event-2981033",
+      "title": "Starke Weiber dürfen mehr!",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981033/2026/11/28/starke-weiber-dürfen-mehr.html",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
       "id": "grossraeschen-event-2957496",
       "title": "Tanzcaf&eacute; mit dem Team Tanzwünsche",
       "url": "https://www.grossraeschen.de/veranstaltungen/2957496/2026/12/03/tanzcafé-mit-dem-team-tanzwünsche.html",
       "startDate": "2026-12-03T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:45.258Z",
       "updatedAt": "2026-09-11T11:12:29.600Z"
+    },
+    {
+      "id": "grossraeschen-event-2981035",
+      "title": "Alleinerziehend mit Ehemann",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981035/2026/12/03/alleinerziehend-mit-ehemann.html",
+      "startDate": "2026-12-03T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
+      "id": "grossraeschen-event-2981036",
+      "title": "Club-Konzert mit Robin Kap",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981036/2026/12/04/club-konzert-mit-robin-kap.html",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
     },
     {
       "id": "grossraeschen-event-2744878",
@@ -818,6 +954,22 @@
       "updatedAt": "2026-09-11T11:12:29.600Z"
     },
     {
+      "id": "grossraeschen-event-2981038",
+      "title": "Immer auf die Glocken 2.0 Comedy-Weihnachtsprogramm",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981038/2026/12/11/immer-auf-die-glocken-2.0-comedy-weihnachtsprogramm.html",
+      "startDate": "2026-12-11T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
+      "id": "grossraeschen-event-2981040",
+      "title": "Immer auf die Glocken 2.0 Comedy-Weihnachtsprogramm",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981040/2026/12/12/immer-auf-die-glocken-2.0-comedy-weihnachtsprogramm.html",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
       "id": "grossraeschen-event-2957483",
       "title": "Sternenfest",
       "url": "https://www.grossraeschen.de/veranstaltungen/2957483/2026/12/13/sternenfest.html",
@@ -850,12 +1002,36 @@
       "updatedAt": "2026-09-11T11:12:29.600Z"
     },
     {
+      "id": "grossraeschen-event-2981042",
+      "title": "Die Weihnachtszauberei Verblüffend zweihändig",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981042/2026/12/17/die-weihnachtszauberei-verblüffend-zweihändig.html",
+      "startDate": "2026-12-17T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
+      "id": "grossraeschen-event-2981043",
+      "title": "Irish Christmas",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981043/2026/12/19/irish-christmas.html",
+      "startDate": "2026-12-19T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
+    },
+    {
       "id": "grossraeschen-event-2621030",
       "title": "Adventssingen unter dem Tannenbaum",
       "url": "https://www.grossraeschen.de/veranstaltungen/2621030/2026/12/20/adventssingen-unter-dem-tannenbaum.html",
       "startDate": "2026-12-20T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:45.258Z",
       "updatedAt": "2026-09-11T11:12:29.600Z"
+    },
+    {
+      "id": "grossraeschen-event-2981045",
+      "title": "Irish Christmas",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2981045/2026/12/20/irish-christmas.html",
+      "startDate": "2026-12-20T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:40.664Z",
+      "updatedAt": "2026-10-08T10:45:40.664Z"
     },
     {
       "id": "grossraeschen-event-2799783",

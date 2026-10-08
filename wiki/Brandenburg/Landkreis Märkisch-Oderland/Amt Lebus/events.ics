@@ -999,47 +999,6 @@ DESCRIPTION:Anmeldungen unter Tel. 0173 174 61 85
 LOCATION:Trepliner See
 END:VEVENT
 BEGIN:VEVENT
-UID:2486339@amtsfeed.de
-DTSTAMP:20261001T101756Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Sport für Senioren in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/07/sport-fü
- r-senioren-in-podelzig.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464908@amtsfeed.de
-DTSTAMP:20261001T101756Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Fleischerwagen Fleischerei Höhne
-URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/07/fleischer
- wagen-fleischerei-höhne.html
-DESCRIPTION:am Dorfteich Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464904@amtsfeed.de
-DTSTAMP:20261001T101756Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:&bdquo\;Yoga &ndash\; sanft und entspannend&ldquo\;
-URL:https://www.amt-lebus.de/veranstaltungen/2464904/2026/10/07/yoga--san
- ft-und-entspannend.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2820928@amtsfeed.de
-DTSTAMP:20261001T101756Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Yoga - Anfänger & Wiedereinsteiger
-URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/10/07/yoga-anf
- änger-wiedereinsteiger.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2846364@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20261007
@@ -1117,6 +1076,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2979984/2026/10/10/einladung
 LOCATION:Aula der Burgschule Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2980737@amtsfeed.de
+DTSTAMP:20261008T104348Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:1.Podelziger Friedenslauf
+URL:https://www.amt-lebus.de/veranstaltungen/2980737/2026/10/11/1.podelzi
+ ger-friedenslauf.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2402834@amtsfeed.de
 DTSTAMP:20261006T102642Z
 DTSTART;VALUE=DATE:20261012
@@ -1180,6 +1149,47 @@ SUMMARY:Fahrt zur Therme
 URL:https://www.amt-lebus.de/veranstaltungen/2904732/2026/10/13/fahrt-zur
  -therme.html
 LOCATION:Treffpunkt : Postkasten Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2486339@amtsfeed.de
+DTSTAMP:20261008T104348Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Sport für Senioren in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/14/sport-fü
+ r-senioren-in-podelzig.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464908@amtsfeed.de
+DTSTAMP:20261008T104348Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Fleischerwagen Fleischerei Höhne
+URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/14/fleischer
+ wagen-fleischerei-höhne.html
+DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464904@amtsfeed.de
+DTSTAMP:20261008T104348Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:&bdquo\;Yoga &ndash\; sanft und entspannend&ldquo\;
+URL:https://www.amt-lebus.de/veranstaltungen/2464904/2026/10/14/yoga--san
+ ft-und-entspannend.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2820928@amtsfeed.de
+DTSTAMP:20261008T104348Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Yoga - Anfänger & Wiedereinsteiger
+URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/10/14/yoga-anf
+ änger-wiedereinsteiger.html
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2973745@amtsfeed.de
@@ -1276,6 +1286,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2846367/2026/11/04/bowling-f
 DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
  4 5535 g.e.garschhammer(at)gmail.com
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
+END:VEVENT
+BEGIN:VEVENT
+UID:2980741@amtsfeed.de
+DTSTAMP:20261008T104348Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Stark werden - gemeinsam wachsen!
+URL:https://www.amt-lebus.de/veranstaltungen/2980741/2026/11/05/stark-wer
+ den-gemeinsam-wachsen.html
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2846436@amtsfeed.de

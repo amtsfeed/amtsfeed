@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T10:30:11.964Z",
+  "updatedAt": "2026-10-08T10:48:15.181Z",
   "items": [
     {
       "id": "wiesenburg-mark-event-2895955",
@@ -794,36 +794,20 @@
       "updatedAt": "2026-09-22T08:42:37.558Z"
     },
     {
-      "id": "wiesenburg-mark-event-2424330",
-      "title": "Offener Jugendraum \"WiBu\" - begleitet von Franziska Kottwitz",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/10/07/offener-jugendraum-wibu-begleitet-von-franziska-kottwitz.html",
-      "startDate": "2026-10-07T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-10-07T10:30:11.951Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2842616",
-      "title": "CODER DOJO - Programmierwerkstatt",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/10/07/coder-dojo-programmierwerkstatt.html",
-      "startDate": "2026-10-07T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-10-01T10:22:45.562Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2907840",
-      "title": "DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/10/07/drk-spielrunde-kaffee-und-kartenspiel-für-senior-innen.html",
-      "startDate": "2026-10-07T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T13:17:27.492Z",
-      "updatedAt": "2026-10-01T10:22:45.562Z"
-    },
-    {
       "id": "wiesenburg-mark-event-2928856",
       "title": "Seminar \" Hilfe beim Helfen\" für Angehörige von Menschen mit Demenz - Menschen mit Demenz verstehen",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2928856/2026/10/07/seminar-hilfe-beim-helfen-für-angehörige-von-menschen-mit-demenz-menschen-mit-demenz-verstehen.html",
       "startDate": "2026-10-07T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:41.385Z",
       "updatedAt": "2026-09-11T11:13:50.457Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2980792",
+      "title": "Jetzt! Spielen, staunen, selbstregulieren",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2980792/2026/10/07/jetzt-spielen-staunen-selbstregulieren.html",
+      "startDate": "2026-10-07T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:48:15.167Z",
+      "updatedAt": "2026-10-08T10:48:15.167Z"
     },
     {
       "id": "wiesenburg-mark-event-2424341",
@@ -922,6 +906,14 @@
       "updatedAt": "2026-09-22T08:42:37.558Z"
     },
     {
+      "id": "wiesenburg-mark-event-2980791",
+      "title": "Fahrt zur Süßen Tour 2026 im Museumsbahnhof Magdeburgerforth",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2980791/2026/10/10/fahrt-zur-süßen-tour-2026-im-museumsbahnhof-magdeburgerforth.html",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:48:15.167Z",
+      "updatedAt": "2026-10-08T10:48:15.167Z"
+    },
+    {
       "id": "wiesenburg-mark-event-2384478",
       "title": "DRK - Stuhlgymnastik (2 Kurse a&acute; 1 Stunde)",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/10/12/drk-stuhlgymnastik-2-kurse-a-1-stunde.html",
@@ -936,6 +928,14 @@
       "startDate": "2026-10-12T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:41.385Z",
       "updatedAt": "2026-10-06T10:30:17.858Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2424330",
+      "title": "Offener Jugendraum \"WiBu\" - begleitet von Franziska Kottwitz",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/10/13/offener-jugendraum-wibu-begleitet-von-franziska-kottwitz.html",
+      "startDate": "2026-10-13T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-10-08T10:48:15.167Z"
     },
     {
       "id": "wiesenburg-mark-event-2384481",
@@ -960,6 +960,22 @@
       "startDate": "2026-10-13T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:11.191Z",
       "updatedAt": "2026-10-07T10:30:11.951Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2842616",
+      "title": "CODER DOJO - Programmierwerkstatt",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/10/14/coder-dojo-programmierwerkstatt.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-10-08T10:48:15.167Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2907840",
+      "title": "DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/10/14/drk-spielrunde-kaffee-und-kartenspiel-für-senior-innen.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:27.492Z",
+      "updatedAt": "2026-10-08T10:48:15.167Z"
     },
     {
       "id": "wiesenburg-mark-event-2928859",

@@ -544,34 +544,6 @@ URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
  d-saarow-am-mittwoch
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
- eed.de
-DTSTAMP:20261001T102046Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
- tour-bad-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz@a
- mtsfeed.de
-DTSTAMP:20261001T102046Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
- tour-wendisch-rietz
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
-DTSTAMP:20261001T102046Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Offener Meditationsabend
-URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-bauen-in-bad-saarow-zwischen-reet-rosenthal-und-revis
  ion@amtsfeed.de
 DTSTAMP:20260928T095855Z
@@ -736,35 +708,6 @@ URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
  perkurs
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
- d.de
-DTSTAMP:20261007T102753Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
-URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
- harmuetzelsee
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261007T102753Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261007T102753Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
 DTSTAMP:20261006T102840Z
 DTSTART;VALUE=DATE:20261007
@@ -772,16 +715,6 @@ DTEND;VALUE=DATE:20261008
 SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
  m-morgen
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20261006T102840Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-11-storkower-herbstpoesie-schulveranstaltung-lesung-h
@@ -838,12 +771,117 @@ URL:https://www.scharmuetzelsee.de/event/kuschelstunde-mit-unseren-zwergs
  chafen-ferienprogramm
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
+ eed.de
+DTSTAMP:20261008T104608Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
+ tour-bad-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz@a
+ mtsfeed.de
+DTSTAMP:20261008T104608Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
+ tour-wendisch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
+DTSTAMP:20261008T104608Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Offener Meditationsabend
+URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
+ d.de
+DTSTAMP:20261008T104608Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
+ harmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261008T104608Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261008T104608Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20261008T104608Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-koerbe-flechten-ferienprogramm@amtsfeed.de
+DTSTAMP:20261008T104608Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Körbe flechten - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/koerbe-flechten-ferienprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-bingo-ferienprogramm@amtsfeed.de
+DTSTAMP:20261008T104608Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Bingo - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/bingo-ferienprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-11-storkower-herbstpoesie-familienlesung-nightmore-da
+ s-gruseligste-internat-der-welt-mit-vanessa-walder@amtsfeed.de
+DTSTAMP:20261008T104608Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:11. Storkower Herbstpoesie - Familienlesung - „Nightmore. Das g
+ ruseligste Internat der Welt“ mit Vanessa Walder
+URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-famili
+ enlesung-nightmore-das-gruseligste-internat-der-welt-mit-vanessa-walder
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-oktoberfest-im-freilich-am-see@amtsfeed.de
 DTSTAMP:20260914T090758Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Oktoberfest im Freilich am See
 URL:https://www.scharmuetzelsee.de/event/oktoberfest-im-freilich-am-see
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-11-storkower-herbstpoesie-schulveranstaltung-musikali
+ sche-lesung-ritter-rost-mit-patricia-parwit@amtsfeed.de
+DTSTAMP:20261008T104608Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:11. Storkower Herbstpoesie: Schulveranstaltung Musikalische Lesun
+ g - „Ritter Rost“ mit Patricia Parwit
+URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-schulv
+ eranstaltung-musikalische-lesung-ritter-rost-mit-patricia-parwit
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-soundtracks-im-scharwenka-kulturforum@amtsfeed.de

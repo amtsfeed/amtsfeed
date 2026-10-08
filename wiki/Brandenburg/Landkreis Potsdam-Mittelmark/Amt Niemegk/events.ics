@@ -421,13 +421,14 @@ URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-08-2026-10-08@amtsfeed.de
-DTSTAMP:20261006T102930Z
-DTSTART:20261008T090000Z
-DTEND:20261008T103000Z
-SUMMARY:Bewegter Morgen
-URL:https://amt-niemegk.de/events/bewegter-morgen/?occurrence=2026-10-08&
- #038\;time=1791450000
-LOCATION:Familienzentrum Niemegk
+DTSTAMP:20261008T104720Z
+DTSTART:20261008T140000Z
+DTEND:20261008T153000Z
+SUMMARY:Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tor
+ e
+URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
+ in-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?
+ occurrence=2026-10-08
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-09-2026-10-09@amtsfeed.de
@@ -450,5 +451,28 @@ SUMMARY:Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tor
 URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
  in-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?
  occurrence=2026-10-10
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-11-2026-10-11@amtsfeed.de
+DTSTAMP:20261008T104720Z
+DTSTART:20261011T120000Z
+DTEND:20261012T000000Z
+SUMMARY:Musikalische Burgführung
+URL:https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-4
+ 52-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-75
+ 7-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-10-11&#038\;ti
+ me=1791720000
+LOCATION:Burg Rabenstein in Raben
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-12-2026-10-12@amtsfeed.de
+DTSTAMP:20261008T104720Z
+DTSTART:20261012T143000Z
+DTEND:20261012T170000Z
+SUMMARY:Bibliothek mit Heidi\, Mandy und Inga
+URL:https://amt-niemegk.de/events/bibliothek-mit-heidi-und-mandy-539-585-
+ 258-411-969-294-833-496-666-910-861-827-728/?occurrence=2026-10-12&#038\;
+ time=1791815400
+LOCATION:Familienzentrum Niemegk
 END:VEVENT
 END:VCALENDAR

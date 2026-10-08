@@ -453,15 +453,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2977492/2026/10/05/nachb
  arschaftshilfecafé-im-quartierstreff.html
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2830505@amtsfeed.de
-DTSTAMP:20261006T102810Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Orientalischer Kochkurs
-URL:https://www.grossraeschen.de/veranstaltungen/2830505/2026/10/07/orien
- talischer-kochkurs.html
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2961243@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261008
@@ -570,6 +561,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2979934/2026/10/16/tag-d
  er-wiederbelebung.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2981019@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Club-Konzert mit Robin Kap
+URL:https://www.grossraeschen.de/veranstaltungen/2981019/2026/10/16/club-
+ konzert-mit-robin-kap.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2927390@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261017
@@ -624,6 +624,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2967818/2026/10/24/herbs
  trallye-mit-dem-eltern-kind-sport.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2981020@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Bob Bales Whiskey-Tasting mit Musik
+URL:https://www.grossraeschen.de/veranstaltungen/2981020/2026/10/24/bob-b
+ ales-whiskey-tasting-mit-musik.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2957425@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261025
@@ -649,6 +658,24 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Sprechtag der EMB
 URL:https://www.grossraeschen.de/veranstaltungen/2790788/2026/10/29/sprec
  htag-der-emb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981021@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Die Stand Up-Zaubershow Verblüffend zweihändig
+URL:https://www.grossraeschen.de/veranstaltungen/2981021/2026/10/29/die-s
+ tand-up-zaubershow-verblüffend-zweihändig.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981022@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Die Helga Hahnemann Retro Show Made in GDR
+URL:https://www.grossraeschen.de/veranstaltungen/2981022/2026/10/30/die-h
+ elga-hahnemann-retro-show-made-in-gdr.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2791037@amtsfeed.de
@@ -678,6 +705,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2791032/2026/11/03/kultu
  rcafé-im-quartierstreff.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2830505@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Orientalischer Kochkurs
+URL:https://www.grossraeschen.de/veranstaltungen/2830505/2026/11/04/orien
+ talischer-kochkurs.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2957487@amtsfeed.de
 DTSTAMP:20261002T095529Z
 DTSTART;VALUE=DATE:20261105
@@ -685,6 +721,33 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Tanzcaf&eacute\; mit dem Team Tanzwünsche
 URL:https://www.grossraeschen.de/veranstaltungen/2957487/2026/11/05/tanzc
  afé-mit-dem-team-tanzwünsche.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981023@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Weiberabend... Ziemliche beste Freundinnen
+URL:https://www.grossraeschen.de/veranstaltungen/2981023/2026/11/05/weibe
+ rabend.-ziemliche-beste-freundinnen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981024@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Die Pension zur schwäbischen Jungfrau
+URL:https://www.grossraeschen.de/veranstaltungen/2981024/2026/11/06/die-p
+ ension-zur-schwäbischen-jungfrau.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981025@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Es kommt immer anders\, wenn man denkt!
+URL:https://www.grossraeschen.de/veranstaltungen/2981025/2026/11/07/es-ko
+ mmt-immer-anders-wenn-man-denkt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2957428@amtsfeed.de
@@ -768,6 +831,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2796271/2026/11/11/marti
  nsumzug.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2981026@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Sex\, Suff und andere Schadensfälle
+URL:https://www.grossraeschen.de/veranstaltungen/2981026/2026/11/12/sex-s
+ uff-und-andere-schadensfälle.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2961249@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261113
@@ -776,6 +848,24 @@ SUMMARY:"Sehnsucht nach Licht - Alles kommt vom Bergwerk her"\, Autorin K
  ati Naumann
 URL:https://www.grossraeschen.de/veranstaltungen/2961249/2026/11/13/sehns
  ucht-nach-licht-alles-kommt-vom-bergwerk-her--autorin-kati-naumann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981027@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Starke Weiber dürfen mehr!
+URL:https://www.grossraeschen.de/veranstaltungen/2981027/2026/11/13/stark
+ e-weiber-dürfen-mehr.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981111@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Das Räubermahl
+URL:https://www.grossraeschen.de/veranstaltungen/2981111/2026/11/14/das-r
+ äubermahl.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2957439@amtsfeed.de
@@ -796,6 +886,24 @@ URL:https://www.grossraeschen.de/veranstaltungen/2885564/2026/11/18/spiel
  kreis.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2981029@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Das Räubermahl
+URL:https://www.grossraeschen.de/veranstaltungen/2981029/2026/11/19/das-r
+ äubermahl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981030@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Die Helga Hahnemann Retro Show Made in GDR
+URL:https://www.grossraeschen.de/veranstaltungen/2981030/2026/11/20/die-h
+ elga-hahnemann-retro-show-made-in-gdr.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2843809@amtsfeed.de
 DTSTAMP:20260531T184202Z
 DTSTART;VALUE=DATE:20261121
@@ -812,6 +920,15 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:Weihnachtsmarkt in der Töpferei Wienicke
 URL:https://www.grossraeschen.de/veranstaltungen/2843814/2026/11/21/weihn
  achtsmarkt-in-der-töpferei-wienicke.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981031@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Du willst es doch auch
+URL:https://www.grossraeschen.de/veranstaltungen/2981031/2026/11/21/du-wi
+ llst-es-doch-auch.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2957444@amtsfeed.de
@@ -850,6 +967,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2953693/2026/11/24/weihn
  achtskonzert-mit-rudy-giovannini.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2981032@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Alleinerziehend mit Ehemann
+URL:https://www.grossraeschen.de/veranstaltungen/2981032/2026/11/26/allei
+ nerziehend-mit-ehemann.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2852270@amtsfeed.de
 DTSTAMP:20260927T092452Z
 DTSTART;VALUE=DATE:20261128
@@ -877,6 +1003,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2918146/2026/11/28/festt
  agsglocken-der-operette.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2981033@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Starke Weiber dürfen mehr!
+URL:https://www.grossraeschen.de/veranstaltungen/2981033/2026/11/28/stark
+ e-weiber-dürfen-mehr.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2957496@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261203
@@ -884,6 +1019,24 @@ DTEND;VALUE=DATE:20261204
 SUMMARY:Tanzcaf&eacute\; mit dem Team Tanzwünsche
 URL:https://www.grossraeschen.de/veranstaltungen/2957496/2026/12/03/tanzc
  afé-mit-dem-team-tanzwünsche.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981035@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Alleinerziehend mit Ehemann
+URL:https://www.grossraeschen.de/veranstaltungen/2981035/2026/12/03/allei
+ nerziehend-mit-ehemann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981036@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Club-Konzert mit Robin Kap
+URL:https://www.grossraeschen.de/veranstaltungen/2981036/2026/12/04/club-
+ konzert-mit-robin-kap.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2744878@amtsfeed.de
@@ -931,6 +1084,24 @@ URL:https://www.grossraeschen.de/veranstaltungen/2932459/2026/12/09/sovd-
  sozialmobil.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2981038@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Immer auf die Glocken 2.0 Comedy-Weihnachtsprogramm
+URL:https://www.grossraeschen.de/veranstaltungen/2981038/2026/12/11/immer
+ -auf-die-glocken-2.0-comedy-weihnachtsprogramm.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981040@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Immer auf die Glocken 2.0 Comedy-Weihnachtsprogramm
+URL:https://www.grossraeschen.de/veranstaltungen/2981040/2026/12/12/immer
+ -auf-die-glocken-2.0-comedy-weihnachtsprogramm.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2957483@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261213
@@ -967,6 +1138,24 @@ URL:https://www.grossraeschen.de/veranstaltungen/2903701/2026/12/17/kabar
  ett-mit-fkk-programm-alles-für-die-tanne.html
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2981042@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Die Weihnachtszauberei Verblüffend zweihändig
+URL:https://www.grossraeschen.de/veranstaltungen/2981042/2026/12/17/die-w
+ eihnachtszauberei-verblüffend-zweihändig.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981043@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Irish Christmas
+URL:https://www.grossraeschen.de/veranstaltungen/2981043/2026/12/19/irish
+ -christmas.html
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2621030@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261220
@@ -974,6 +1163,15 @@ DTEND;VALUE=DATE:20261221
 SUMMARY:Adventssingen unter dem Tannenbaum
 URL:https://www.grossraeschen.de/veranstaltungen/2621030/2026/12/20/adven
  tssingen-unter-dem-tannenbaum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2981045@amtsfeed.de
+DTSTAMP:20261008T104540Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Irish Christmas
+URL:https://www.grossraeschen.de/veranstaltungen/2981045/2026/12/20/irish
+ -christmas.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2799783@amtsfeed.de

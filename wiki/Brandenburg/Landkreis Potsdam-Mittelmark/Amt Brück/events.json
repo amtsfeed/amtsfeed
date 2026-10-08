@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T10:28:55.204Z",
+  "updatedAt": "2026-10-08T10:47:13.046Z",
   "items": [
     {
       "id": "amt-brueck-event-2861447",
@@ -394,6 +394,14 @@
       "updatedAt": "2026-09-11T11:13:18.995Z"
     },
     {
+      "id": "amt-brueck-event-2981191",
+      "title": "AWO Herbstfest",
+      "url": "https://www.amt-brueck.de/veranstaltungen/2981191/2026/10/16/awo-herbstfest.html",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:47:13.035Z",
+      "updatedAt": "2026-10-08T10:47:13.035Z"
+    },
+    {
       "id": "amt-brueck-event-2861460",
       "title": "Gömnigker Oktoberfest",
       "url": "https://www.amt-brueck.de/veranstaltungen/2861460/2026/10/17/gömnigker-oktoberfest.html",
@@ -426,6 +434,14 @@
       "updatedAt": "2026-09-11T11:13:18.995Z"
     },
     {
+      "id": "amt-brueck-event-2819561",
+      "title": "Feuer und Flamme für unsere Museen",
+      "url": "https://www.amt-brueck.de/veranstaltungen/2819561/2026/10/24/feuer-und-flamme-für-unsere-museen.html",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:09.252Z",
+      "updatedAt": "2026-10-08T10:47:13.035Z"
+    },
+    {
       "id": "amt-brueck-event-2819560",
       "title": "Herbstfest Freienthal",
       "url": "https://www.amt-brueck.de/veranstaltungen/2819560/2026/10/25/herbstfest-freienthal.html",
@@ -445,14 +461,6 @@
       "id": "amt-brueck-event-2861463",
       "title": "Halloween auf der Zickenwiese",
       "url": "https://www.amt-brueck.de/veranstaltungen/2861463/2026/10/31/halloween-auf-der-zickenwiese.html",
-      "startDate": "2026-10-31T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:09.252Z",
-      "updatedAt": "2026-05-06T12:30:09.252Z"
-    },
-    {
-      "id": "amt-brueck-event-2819561",
-      "title": "Feuer und Flamme",
-      "url": "https://www.amt-brueck.de/veranstaltungen/2819561/2026/10/31/feuer-und-flamme.html",
       "startDate": "2026-10-31T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:09.252Z",
       "updatedAt": "2026-05-06T12:30:09.252Z"

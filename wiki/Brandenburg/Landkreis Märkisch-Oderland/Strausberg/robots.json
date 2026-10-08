@@ -2,7 +2,7 @@
   {
     "domain": "www.stadt-strausberg.de",
     "baseUrl": "https://www.stadt-strausberg.de",
-    "updatedAt": "2026-10-07T10:25:36.013Z",
+    "updatedAt": "2026-10-08T10:44:23.823Z",
     "content": "User-agent: *\r\nDisallow: /cgi-bin/\r\nDisallow: /wp-admin/\r\nDisallow: /trackback/\r\nDisallow: /feed/\r\nDisallow: /comments/\r\nDisallow: */trackback/\r\nDisallow: */feed/\r\nDisallow: */comments/\r\nDisallow: /e-au/\r\nDisallow: /e-au\r\nAllow: /wp-admin/admin-ajax.php\r\n \r\nSitemap: https://www.stadt-strausberg.de/sitemap/"
   }
 ]

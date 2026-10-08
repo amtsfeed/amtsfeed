@@ -910,6 +910,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/K%C3%B
  ;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1215@amtsfeed.de
+DTSTAMP:20261008T104522Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:TonEntdecker-Werkstatt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/TonEnt
+ decker-Werkstatt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1215
+ .1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-1168@amtsfeed.de
 DTSTAMP:20260921T090651Z
 DTSTART;VALUE=DATE:20261012
@@ -919,6 +929,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/B%C3%B
  Crgerhaushalt-2025-Musikalische-Fr%C3%BCherziehung.php?object=tx\,3631.4.
  1&amp\;ModID=11&amp\;FID=3631.1168.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\
  ;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1204@amtsfeed.de
+DTSTAMP:20261008T104522Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Kochmaschine in der Plessa-Stube
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Kochma
+ schine-in-der-Plessa-Stube.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID
+ =3631.1204.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
 UID:velten-event-1026@amtsfeed.de
@@ -931,6 +951,46 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
  ID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1205@amtsfeed.de
+DTSTAMP:20261008T104522Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Kochmaschine in der Plessa-Stube
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Kochma
+ schine-in-der-Plessa-Stube.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID
+ =3631.1205.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1210@amtsfeed.de
+DTSTAMP:20261008T104522Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Feierabendführung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Feiera
+ bendf%C3%BChrung.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1210
+ .1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1211@amtsfeed.de
+DTSTAMP:20261008T104522Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Feierabendführung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Feiera
+ bendf%C3%BChrung.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1211
+ .1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1206@amtsfeed.de
+DTSTAMP:20261008T104522Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Kochmaschine in der Plessa-Stube
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Kochma
+ schine-in-der-Plessa-Stube.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID
+ =3631.1206.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-1027@amtsfeed.de
 DTSTAMP:20260922T084027Z
 DTSTART;VALUE=DATE:20261021
@@ -941,6 +1001,26 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
  ID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1207@amtsfeed.de
+DTSTAMP:20261008T104522Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Kochmaschine in der Plessa-Stube
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Kochma
+ schine-in-der-Plessa-Stube.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID
+ =3631.1207.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1212@amtsfeed.de
+DTSTAMP:20261008T104522Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:TonEntdecker-Werkstatt - Herbstferien 2026
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/TonEnt
+ decker-Werkstatt-Herbstferien-2026.php?object=tx\,3631.4.1&amp\;ModID=11&
+ amp\;FID=3631.1212.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-1189@amtsfeed.de
 DTSTAMP:20260922T084027Z
 DTSTART;VALUE=DATE:20261022
@@ -949,6 +1029,26 @@ SUMMARY:Ferienprogramm: Perlenlichterketten basteln
 URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ferien
  programm-Perlenlichterketten-basteln.php?object=tx\,3631.4.1&amp\;ModID=1
  1&amp\;FID=3631.1189.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1208@amtsfeed.de
+DTSTAMP:20261008T104522Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Kochmaschine in der Plessa-Stube
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Kochma
+ schine-in-der-Plessa-Stube.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID
+ =3631.1208.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1209@amtsfeed.de
+DTSTAMP:20261008T104522Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Kochmaschine in der Plessa-Stube
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Kochma
+ schine-in-der-Plessa-Stube.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID
+ =3631.1209.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
 UID:velten-event-983@amtsfeed.de

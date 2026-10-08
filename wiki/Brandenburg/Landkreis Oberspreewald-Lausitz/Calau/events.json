@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T10:27:12.544Z",
+  "updatedAt": "2026-10-08T10:45:38.976Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -794,14 +794,6 @@
       "updatedAt": "2026-10-05T10:37:49.345Z"
     },
     {
-      "id": "calau-event-2315266",
-      "title": "07.10.2026   Calauer Museen öffnen",
-      "url": "https://www.calau.de/veranstaltungen/2315266/2026/10/07/calauer-museen-öffnen.html",
-      "startDate": "2026-10-07T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-05T10:37:49.345Z"
-    },
-    {
       "id": "calau-event-2290342",
       "title": "08.10.2026   Calauer Wochenmarkt",
       "url": "https://www.calau.de/veranstaltungen/2290342/2026/10/08/calauer-wochenmarkt.html",
@@ -843,11 +835,11 @@
     },
     {
       "id": "calau-event-2975109",
-      "title": "Lesung in der Gutskapelle Reuden",
+      "title": "10.10.2026   Lesung in der Gutskapelle Reuden",
       "url": "https://www.calau.de/veranstaltungen/2975109/2026/10/10/lesung-in-der-gutskapelle-reuden.html",
       "startDate": "2026-10-10T00:00:00.000Z",
       "fetchedAt": "2026-09-28T09:58:24.866Z",
-      "updatedAt": "2026-09-28T09:58:24.866Z"
+      "updatedAt": "2026-10-08T10:45:38.964Z"
     },
     {
       "id": "calau-event-2975865",
@@ -890,12 +882,28 @@
       "updatedAt": "2026-09-11T11:12:29.188Z"
     },
     {
+      "id": "calau-event-2315266",
+      "title": "Calauer Museen öffnen",
+      "url": "https://www.calau.de/veranstaltungen/2315266/2026/10/14/calauer-museen-öffnen.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-10-08T10:45:38.964Z"
+    },
+    {
       "id": "calau-event-2947234",
       "title": "Tanz Dich Frei",
       "url": "https://www.calau.de/veranstaltungen/2947234/2026/10/14/tanz-dich-frei.html",
       "startDate": "2026-10-14T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-09-11T11:12:29.188Z"
+    },
+    {
+      "id": "calau-event-2980721",
+      "title": "Kochzauber",
+      "url": "https://www.calau.de/veranstaltungen/2980721/2026/10/14/kochzauber.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:38.964Z",
+      "updatedAt": "2026-10-08T10:45:38.964Z"
     },
     {
       "id": "calau-event-2960236",
@@ -912,6 +920,14 @@
       "startDate": "2026-10-15T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-09-11T11:12:29.188Z"
+    },
+    {
+      "id": "calau-event-2980725",
+      "title": "Fit im Alter",
+      "url": "https://www.calau.de/veranstaltungen/2980725/2026/10/15/fit-im-alter.html",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:38.964Z",
+      "updatedAt": "2026-10-08T10:45:38.964Z"
     },
     {
       "id": "calau-event-2858856",
@@ -970,6 +986,30 @@
       "updatedAt": "2026-05-31T18:42:01.619Z"
     },
     {
+      "id": "calau-event-2980728",
+      "title": "Beratung Sozialmobil",
+      "url": "https://www.calau.de/veranstaltungen/2980728/2026/10/22/beratung-sozialmobil.html",
+      "startDate": "2026-10-22T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:38.964Z",
+      "updatedAt": "2026-10-08T10:45:38.964Z"
+    },
+    {
+      "id": "calau-event-2980730",
+      "title": "QiGong",
+      "url": "https://www.calau.de/veranstaltungen/2980730/2026/10/22/qigong.html",
+      "startDate": "2026-10-22T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:38.964Z",
+      "updatedAt": "2026-10-08T10:45:38.964Z"
+    },
+    {
+      "id": "calau-event-2980732",
+      "title": "Handarbeitsgruppe \"Wollwunder\"",
+      "url": "https://www.calau.de/veranstaltungen/2980732/2026/10/23/handarbeitsgruppe-wollwunder.html",
+      "startDate": "2026-10-23T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:38.964Z",
+      "updatedAt": "2026-10-08T10:45:38.964Z"
+    },
+    {
       "id": "calau-event-2921824",
       "title": "Flohmarkt für Baby- und Kindersachen",
       "url": "https://www.calau.de/veranstaltungen/2921824/2026/10/24/flohmarkt-für-baby-und-kindersachen.html",
@@ -984,6 +1024,14 @@
       "startDate": "2026-10-27T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-09-11T11:12:29.188Z"
+    },
+    {
+      "id": "calau-event-2980734",
+      "title": "Fit im Alter",
+      "url": "https://www.calau.de/veranstaltungen/2980734/2026/10/29/fit-im-alter.html",
+      "startDate": "2026-10-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:38.964Z",
+      "updatedAt": "2026-10-08T10:45:38.964Z"
     },
     {
       "id": "calau-event-2851855",
@@ -1010,6 +1058,14 @@
       "updatedAt": "2026-09-11T11:12:29.188Z"
     },
     {
+      "id": "calau-event-2980735",
+      "title": "\"Gemeinsam statt einsam\" Mittagessen kochen für Senioren",
+      "url": "https://www.calau.de/veranstaltungen/2980735/2026/10/30/gemeinsam-statt-einsam-mittagessen-kochen-für-senioren.html",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:38.964Z",
+      "updatedAt": "2026-10-08T10:45:38.964Z"
+    },
+    {
       "id": "calau-event-2877063",
       "title": "Halloweenumzug",
       "url": "https://www.calau.de/veranstaltungen/2877063/2026/10/31/halloweenumzug.html",
@@ -1032,6 +1088,14 @@
       "startDate": "2026-11-05T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-09-11T11:12:29.188Z"
+    },
+    {
+      "id": "calau-event-2980738",
+      "title": "Workshop für Mamas: \"Zurück in Deine Kraft - Nervensystem regulieren\"",
+      "url": "https://www.calau.de/veranstaltungen/2980738/2026/11/05/workshop-für-mamas-zurück-in-deine-kraft-nervensystem-regulieren.html",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:45:38.964Z",
+      "updatedAt": "2026-10-08T10:45:38.964Z"
     },
     {
       "id": "calau-event-2606463",

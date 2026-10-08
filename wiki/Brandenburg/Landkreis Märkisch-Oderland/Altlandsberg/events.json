@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T10:24:45.574Z",
+  "updatedAt": "2026-10-08T10:43:36.450Z",
   "items": [
     {
       "id": "19",
@@ -242,16 +242,6 @@
       "updatedAt": "2026-09-19T08:09:59.031Z"
     },
     {
-      "id": "6",
-      "title": "Handpan Workshop Intensivkurs",
-      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/handpan-workshop-intensivkurs-6/",
-      "startDate": "2026-10-07T00:00:00.000Z",
-      "location": "Katja Baumheier",
-      "description": "Du möchtest Handpan spielen lernen und suchst einen intensiven Einstieg, der dich in kurzer Zeit wirklich weiterbringt? Dann ist dieser 4-tägige Intensivkurs genau das Richtige für dich. In einer kleinen Gruppe tauchen wir gemeinsam in die faszinierende Welt der Handpan ein. Schritt für Schritt lernst du die...",
-      "fetchedAt": "2026-05-05T15:11:38.078Z",
-      "updatedAt": "2026-09-11T11:09:55.855Z"
-    },
-    {
       "id": "7",
       "title": "Handpan Workshop Intensivkurs",
       "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/handpan-workshop-intensivkurs-7/",
@@ -360,6 +350,16 @@
       "description": "Im Hof des Marktquartiers in Altlandsberg sind an Halloween alle Kinder herzlich willkommen.",
       "fetchedAt": "2026-09-11T10:03:23.129Z",
       "updatedAt": "2026-09-11T11:10:56.594Z"
+    },
+    {
+      "id": "6",
+      "title": "Handpan Schnupper-Workshop",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/handpan-schnupper-workshop-6/",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "Katja Baumheier",
+      "description": "Handpan entdecken – Klang erleben – selbst ausprobieren!Du hast die faszinierenden Klänge der Handpan gehört und möchtest das Instrument selbst einmal ausprobieren? Dann ist dieser Schnupperworkshop genau das Richtige für dich!In entspannter Atmosphäre bekommst du die Möglichkeit, die Handpan ganz unverbindlich...",
+      "fetchedAt": "2026-05-05T15:11:38.078Z",
+      "updatedAt": "2026-10-08T10:43:10.389Z"
     },
     {
       "id": "1",

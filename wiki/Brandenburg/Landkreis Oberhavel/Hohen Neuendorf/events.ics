@@ -577,4 +577,14 @@ SUMMARY:Repair-Café
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  repair-cafe-10
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-jazz-im-rathaus-torsten-zwingenberger-berlin-21
+ -streetworkers@amtsfeed.de
+DTSTAMP:20261008T104459Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Jazz im Rathaus : Torsten Zwingenberger & Berlin 21 Streetworkers
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ jazz-im-rathaus-torsten-zwingenberger-berlin-21-streetworkers
+END:VEVENT
 END:VCALENDAR

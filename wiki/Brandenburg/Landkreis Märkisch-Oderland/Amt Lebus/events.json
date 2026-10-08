@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T10:24:57.602Z",
+  "updatedAt": "2026-10-08T10:43:48.763Z",
   "items": [
     {
       "id": "2846347",
@@ -836,43 +836,6 @@
       "updatedAt": "2026-09-11T11:11:32.831Z"
     },
     {
-      "id": "2486339",
-      "title": "Sport für Senioren in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/07/sport-für-senioren-in-podelzig.html",
-      "startDate": "2026-10-07T00:00:00.000Z",
-      "location": "Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-01T10:17:56.353Z"
-    },
-    {
-      "id": "2464908",
-      "title": "Fleischerwagen Fleischerei Höhne",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/07/fleischerwagen-fleischerei-höhne.html",
-      "startDate": "2026-10-07T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "am Dorfteich Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-01T10:17:56.353Z"
-    },
-    {
-      "id": "2464904",
-      "title": "&bdquo;Yoga &ndash; sanft und entspannend&ldquo;",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464904/2026/10/07/yoga--sanft-und-entspannend.html",
-      "startDate": "2026-10-07T00:00:00.000Z",
-      "location": "Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-01T10:17:56.353Z"
-    },
-    {
-      "id": "2820928",
-      "title": "Yoga - Anfänger & Wiedereinsteiger",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2820928/2026/10/07/yoga-anfänger-wiedereinsteiger.html",
-      "startDate": "2026-10-07T00:00:00.000Z",
-      "location": "Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-01T10:17:56.353Z"
-    },
-    {
       "id": "2846364",
       "title": "Bowling für Senioren",
       "url": "https://www.amt-lebus.de/veranstaltungen/2846364/2026/10/07/bowling-für-senioren.html",
@@ -940,6 +903,15 @@
       "updatedAt": "2026-10-06T10:26:42.716Z"
     },
     {
+      "id": "2980737",
+      "title": "1.Podelziger Friedenslauf",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2980737/2026/10/11/1.podelziger-friedenslauf.html",
+      "startDate": "2026-10-11T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-10-08T10:43:48.747Z",
+      "updatedAt": "2026-10-08T10:43:48.747Z"
+    },
+    {
       "id": "2402834",
       "title": "Kreativgruppe in Podelzig",
       "url": "https://www.amt-lebus.de/veranstaltungen/2402834/2026/10/12/kreativgruppe-in-podelzig.html",
@@ -997,6 +969,43 @@
       "location": "Treffpunkt : Postkasten Lebus",
       "fetchedAt": "2026-05-26T09:03:19.057Z",
       "updatedAt": "2026-05-26T09:03:19.057Z"
+    },
+    {
+      "id": "2486339",
+      "title": "Sport für Senioren in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/14/sport-für-senioren-in-podelzig.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-08T10:43:48.747Z"
+    },
+    {
+      "id": "2464908",
+      "title": "Fleischerwagen Fleischerei Höhne",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/14/fleischerwagen-fleischerei-höhne.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "am Dorfteich Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-08T10:43:48.747Z"
+    },
+    {
+      "id": "2464904",
+      "title": "&bdquo;Yoga &ndash; sanft und entspannend&ldquo;",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464904/2026/10/14/yoga--sanft-und-entspannend.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-08T10:43:48.747Z"
+    },
+    {
+      "id": "2820928",
+      "title": "Yoga - Anfänger & Wiedereinsteiger",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2820928/2026/10/14/yoga-anfänger-wiedereinsteiger.html",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-08T10:43:48.747Z"
     },
     {
       "id": "2973745",
@@ -1083,6 +1092,15 @@
       "description": "Ansprechpartner    Frau Gudrun Garschhammer    Tel. 033604 5535 g.e.garschhammer(at)gmail.com",
       "fetchedAt": "2026-05-05T14:58:26.635Z",
       "updatedAt": "2026-05-06T20:20:27.585Z"
+    },
+    {
+      "id": "2980741",
+      "title": "Stark werden - gemeinsam wachsen!",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2980741/2026/11/05/stark-werden-gemeinsam-wachsen.html",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-10-08T10:43:48.747Z",
+      "updatedAt": "2026-10-08T10:43:48.747Z"
     },
     {
       "id": "2846436",

@@ -349,6 +349,16 @@ URL:https://www.heideblick.de/veranstaltungen/2975240/2026/10/17/oktobert
 LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
 END:VEVENT
 BEGIN:VEVENT
+UID:heideblick-event-2981431-20261027@amtsfeed.de
+DTSTAMP:20261009T103757Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Preisskat
+URL:https://www.heideblick.de/veranstaltungen/2981431/2026/10/27/preisska
+ t.html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+BEGIN:VEVENT
 UID:heideblick-event-2865953-20261107@amtsfeed.de
 DTSTAMP:20260508T175922Z
 DTSTART;VALUE=DATE:20261107
@@ -367,6 +377,26 @@ SUMMARY:Krimidinner
 URL:https://www.heideblick.de/veranstaltungen/2958785/2026/11/13/krimidin
  ner.html
 LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2981442-20261125@amtsfeed.de
+DTSTAMP:20261009T103757Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Adventsnachmittag für Senioren
+URL:https://www.heideblick.de/veranstaltungen/2981442/2026/11/25/adventsn
+ achmittag-für-senioren.html
+LOCATION:Gaststätte Raunigk   "Zum Lindenkrug"
+END:VEVENT
+BEGIN:VEVENT
+UID:heideblick-event-2981691-20261128@amtsfeed.de
+DTSTAMP:20261009T103757Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Advenstmarkt im Schulmuseum
+URL:https://www.heideblick.de/veranstaltungen/2981691/2026/11/28/advenstm
+ arkt-im-schulmuseum.html
+LOCATION:Schulmuseum Schwarzenburg
 END:VEVENT
 BEGIN:VEVENT
 UID:heideblick-event-2958786-20270108@amtsfeed.de

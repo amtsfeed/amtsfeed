@@ -896,15 +896,6 @@ URL:https://www.calau.de/veranstaltungen/2962562/2026/10/06/blutspendeter
  min-des-drk.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261007T102712Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:08.10.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/10/08/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2885234@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART;VALUE=DATE:20261008
@@ -951,10 +942,10 @@ URL:https://www.calau.de/veranstaltungen/2975109/2026/10/10/lesung-in-der
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2975865@amtsfeed.de
-DTSTAMP:20260929T095940Z
+DTSTAMP:20261009T104311Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:Puppen-Mitmach-Show
+SUMMARY:10.10.2026   Puppen-Mitmach-Show
 URL:https://www.calau.de/veranstaltungen/2975865/2026/10/10/puppen-mitmac
  h-show.html
 END:VEVENT
@@ -984,6 +975,15 @@ DTEND;VALUE=DATE:20261013
 SUMMARY:"Malen für die Seele" - offene Malgruppe
 URL:https://www.calau.de/veranstaltungen/2898940/2026/10/12/malen-für-di
  e-seele-offene-malgruppe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261009T104311Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/10/13/calauer-woche
+ nmarkt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2024997@amtsfeed.de
@@ -1094,6 +1094,15 @@ DTEND;VALUE=DATE:20261019
 SUMMARY:Abradeln mit dem RSV Calau
 URL:https://www.calau.de/veranstaltungen/2976039/2026/10/18/abradeln-mit-
  dem-rsv-calau.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2981514@amtsfeed.de
+DTSTAMP:20261009T104311Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Wanderung durch die Calauer Schweiz
+URL:https://www.calau.de/veranstaltungen/2981514/2026/10/18/wanderung-dur
+ ch-die-calauer-schweiz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838476@amtsfeed.de

@@ -181,16 +181,6 @@ URL:https://www.scharmuetzelsee.de/event/naturfuehrung-und-lesung-mit-kar
  sten-nitsch
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-fuehrung-mit-den-gefaehrten-der-nacht-in-storkow@amts
- feed.de
-DTSTAMP:20260911T111244Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Führung mit den Gefährten der Nacht in Storkow
-URL:https://www.scharmuetzelsee.de/event/fuehrung-mit-den-gefaehrten-der-
- nacht-in-storkow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-flammender-scharmuetzelsee@amtsfeed.de
 DTSTAMP:20260911T111244Z
 DTSTART;VALUE=DATE:20260912
@@ -394,17 +384,6 @@ URL:https://www.scharmuetzelsee.de/event/zur-kaffeezeit-im-scharwenka-kul
  turforum
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
- durch-die-ortsgeschichte@amtsfeed.de
-DTSTAMP:20260924T083751Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang dur
- ch die Ortsgeschichte
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-
- fps-ssp-ein-rundgang-durch-die-ortsgeschichte
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-live-multivision-mit-kai-uwe-kuechler-cornwall-und-de
  r-sueden-englands@amtsfeed.de
 DTSTAMP:20260925T085908Z
@@ -454,17 +433,6 @@ SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
  nkeranlage Fuchsbau“
 URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
  nker-im-technischen-denkmal-bunkeranlage-fuchsbau
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650ja
- ehrigen-ein-rundgang-durch-die-ortsgeschichte@amtsfeed.de
-DTSTAMP:20260925T085908Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen 
- – Ein Rundgang durch die Ortsgeschichte
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-
- dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-hula-hoop-festival@amtsfeed.de
@@ -828,16 +796,6 @@ URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
  on-taeglich
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20261008T104608Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-koerbe-flechten-ferienprogramm@amtsfeed.de
 DTSTAMP:20261008T104608Z
 DTSTART;VALUE=DATE:20261008
@@ -865,6 +823,27 @@ URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-famili
  enlesung-nightmore-das-gruseligste-internat-der-welt-mit-vanessa-walder
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrung-mit-den-gefaehrten-der-nacht-in-storkow@amts
+ feed.de
+DTSTAMP:20261009T104340Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Führung mit den Gefährten der Nacht in Storkow
+URL:https://www.scharmuetzelsee.de/event/fuehrung-mit-den-gefaehrten-der-
+ nacht-in-storkow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
+ durch-die-ortsgeschichte@amtsfeed.de
+DTSTAMP:20261009T104340Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang dur
+ ch die Ortsgeschichte
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-
+ fps-ssp-ein-rundgang-durch-die-ortsgeschichte
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-oktoberfest-im-freilich-am-see@amtsfeed.de
 DTSTAMP:20260914T090758Z
 DTSTART;VALUE=DATE:20261009
@@ -882,6 +861,47 @@ SUMMARY:11. Storkower Herbstpoesie: Schulveranstaltung Musikalische Lesun
  g - „Ritter Rost“ mit Patricia Parwit
 URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-schulv
  eranstaltung-musikalische-lesung-ritter-rost-mit-patricia-parwit
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-laternenumzug-lichterfest-ferienprogramm@amtsfeed.de
+DTSTAMP:20261009T104340Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Laternenumzug & Lichterfest - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/laternenumzug-lichterfest-ferien
+ programm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-11-storkower-herbstpoesie-theater-volksbuehne-kaulenb
+ erg-julius-caesar-ueberall-mit-jonas-schuette@amtsfeed.de
+DTSTAMP:20261009T104340Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:11. Storkower Herbstpoesie: Theater Volksbühne Kaulenberg „Jul
+ ius Cäsar überall“ mit Jonas Schütte
+URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-theate
+ r-volksbuehne-kaulenberg-julius-caesar-ueberall-mit-jonas-schuette
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650ja
+ ehrigen-ein-rundgang-durch-die-ortsgeschichte@amtsfeed.de
+DTSTAMP:20261009T104340Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen 
+ – Ein Rundgang durch die Ortsgeschichte
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-
+ dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20261009T104340Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-soundtracks-im-scharwenka-kulturforum@amtsfeed.de

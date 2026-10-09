@@ -1293,15 +1293,6 @@ URL:https://www.teltow.de/veranstaltungen/2973543/2026/10/06/die-olchis-a
  us-schmuddelfing.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2699683@amtsfeed.de
-DTSTAMP:20261002T095738Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Repair Caf&eacute\; Teltow
-URL:https://www.teltow.de/veranstaltungen/2699683/2026/10/08/repair-café
- -teltow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2963942@amtsfeed.de
 DTSTAMP:20260911T111345Z
 DTSTART;VALUE=DATE:20261008
@@ -1426,6 +1417,15 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:Sportgruppe
 URL:https://www.teltow.de/veranstaltungen/2971751/2026/10/14/sportgruppe.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2699683@amtsfeed.de
+DTSTAMP:20261009T104529Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Repair Caf&eacute\; Teltow
+URL:https://www.teltow.de/veranstaltungen/2699683/2026/10/15/repair-café
+ -teltow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972015@amtsfeed.de

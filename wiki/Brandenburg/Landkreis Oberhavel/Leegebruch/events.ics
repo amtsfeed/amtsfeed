@@ -108,11 +108,11 @@ URL:https://www.leegebruch.de/veranstaltungen/2931318/2026/10/08/lese-und
 END:VEVENT
 BEGIN:VEVENT
 UID:leegebruch-event-2931314@amtsfeed.de
-DTSTAMP:20260925T085812Z
+DTSTAMP:20261009T104248Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-SUMMARY:Stöbern &bull\; Staunen &bull\; Wissen &bull\; Experimentierwoch
- e
+SUMMARY:Schließzeiten der in der Trägerschaft der Gemeinde Leegebruch b
+ efindlichen Kindertagesstätte
 URL:https://www.leegebruch.de/veranstaltungen/2931314/2026/10/19/stöbern
  --staunen--wissen--experimentierwoche.html
 END:VEVENT
@@ -124,5 +124,15 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Lesecaf&eacute\;
 URL:https://www.leegebruch.de/veranstaltungen/2931311/2026/10/30/lesecaf
  é.html
+END:VEVENT
+BEGIN:VEVENT
+UID:leegebruch-event-2969885@amtsfeed.de
+DTSTAMP:20261009T104248Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Bauausschuss tagt am
+URL:https://www.leegebruch.de/veranstaltungen/2969885/2026/11/04/bauaussc
+ huss-tagt-am.html
+LOCATION:Sitzungssaal des Rathauses
 END:VEVENT
 END:VCALENDAR

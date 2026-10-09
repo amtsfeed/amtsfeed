@@ -1034,9 +1034,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863697-2026-10-31-halloweenfeuer-und-party-in-werbig
  .html@amtsfeed.de
-DTSTAMP:20261004T095701Z
+DTSTAMP:20261009T104206Z
 DTSTART:20261031T170000Z
-DTEND:20261031T190000Z
+DTEND:20261101T120000Z
 SUMMARY:Halloweenfeuer- und party in Werbig
 URL:https://www.seelow.de/veranstaltungen/2863697/2026/10/31/halloweenfeu
  er-und-party-in-werbig.html
@@ -1270,9 +1270,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865426-2026-11-29-keramikausstellung-zum-1.-advent.h
  tml@amtsfeed.de
-DTSTAMP:20261004T095701Z
+DTSTAMP:20261009T104206Z
 DTSTART:20261129T150000Z
-DTEND:20261129T190000Z
+DTEND:20261130T120000Z
 SUMMARY:Keramikausstellung zum 1. Advent
 URL:https://www.seelow.de/veranstaltungen/2865426/2026/11/29/keramikausst
  ellung-zum-1.-advent.html
@@ -1347,11 +1347,21 @@ URL:https://www.seelow.de/veranstaltungen/2865429/2026/12/11/symphonic-po
 LOCATION:Kulturhaus Seelow
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2981807-2026-12-13-schulband-live-bei-der-seelower-we
+ ihnacht.html@amtsfeed.de
+DTSTAMP:20261009T104207Z
+DTSTART:20261213T150000Z
+SUMMARY:Schulband Live bei der Seelower Weihnacht
+URL:https://www.seelow.de/veranstaltungen/2981807/2026/12/13/schulband-li
+ ve-bei-der-seelower-weihnacht.html
+LOCATION:Grundschule Seelow
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2865430-2026-12-14-weihnachtskino-mit-buchbasar.html@
  amtsfeed.de
-DTSTAMP:20261004T095702Z
+DTSTAMP:20261009T104207Z
 DTSTART:20261214T190000Z
-DTEND:20261215T190000Z
+DTEND:20261215T120000Z
 SUMMARY:Weihnachtskino mit Buchbasar
 URL:https://www.seelow.de/veranstaltungen/2865430/2026/12/14/weihnachtski
  no-mit-buchbasar.html
@@ -1369,9 +1379,9 @@ LOCATION:Kulturhaus Seelow
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865433-2027-01-16-neujahrsfeuer.html@amtsfeed.de
-DTSTAMP:20261004T095702Z
+DTSTAMP:20261009T104207Z
 DTSTART:20270116T160000Z
-DTEND:20270116T190000Z
+DTEND:20270117T120000Z
 SUMMARY:Neujahrsfeuer
 URL:https://www.seelow.de/veranstaltungen/2865433/2027/01/16/neujahrsfeue
  r.html

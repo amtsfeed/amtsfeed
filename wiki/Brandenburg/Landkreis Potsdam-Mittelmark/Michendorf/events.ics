@@ -1080,15 +1080,6 @@ URL:https://www.michendorf.de/veranstaltungen/2961738/2026/10/04/benefizk
  onzert-für-celloquartett-und-sopran.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959533@amtsfeed.de
-DTSTAMP:20261002T095719Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959533/2026/10/08/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2960790@amtsfeed.de
 DTSTAMP:20260911T111336Z
 DTSTART;VALUE=DATE:20261008
@@ -1268,6 +1259,15 @@ SUMMARY:Filmclub: Adam und Evelyn - eine nicht ganz paradiesische Wendeko
  mödie
 URL:https://www.michendorf.de/veranstaltungen/2968980/2026/10/14/filmclub
  -adam-und-evelyn-eine-nicht-ganz-paradiesische-wendekomödie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959533@amtsfeed.de
+DTSTAMP:20261009T104504Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959533/2026/10/15/jugendcl
+ ub-micheck-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2965556@amtsfeed.de

@@ -1011,17 +1011,6 @@ DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
 END:VEVENT
 BEGIN:VEVENT
-UID:2538590@amtsfeed.de
-DTSTAMP:20261002T095413Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/10/08/tischtenn
- is.html
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464906@amtsfeed.de
 DTSTAMP:20261003T091703Z
 DTSTART;VALUE=DATE:20261009
@@ -1210,6 +1199,17 @@ SUMMARY:Benefizkonzert des Landespolizeiorchestes Brandenburg
 URL:https://www.amt-lebus.de/veranstaltungen/2973746/2026/10/14/benefizko
  nzert-des-landespolizeiorchestes-brandenburg.html
 LOCATION:Bürgerhaus Neuenhagen\, Hauptstrasse2 15366 Neuenhagen
+END:VEVENT
+BEGIN:VEVENT
+UID:2538590@amtsfeed.de
+DTSTAMP:20261009T104145Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/10/15/tischtenn
+ is.html
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2928789@amtsfeed.de

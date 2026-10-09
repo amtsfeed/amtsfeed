@@ -415,4 +415,16 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Dinner-for-fun.
  .9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-705@amtsfeed.de
+DTSTAMP:20261009T104240Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261024
+SUMMARY:fUNI - die Ferienuni 2026
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/fUNI-die-Ferien
+ uni-2026.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.705.1&amp\;N
+ avID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&am
+ p\;k_sub=1
+LOCATION:Havelgrundschule Oranienburg
+END:VEVENT
 END:VCALENDAR

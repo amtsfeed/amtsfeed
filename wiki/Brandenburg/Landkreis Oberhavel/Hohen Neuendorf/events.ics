@@ -236,16 +236,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  ausstellung-im-paddenkrug-3
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-gesprachskreis-fur-pflegende-angehorige@amtsfee
- d.de
-DTSTAMP:20260913T082814Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:Gesprächskreis für pflegende Angehörige
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- gesprachskreis-fur-pflegende-angehorige
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-plauderbank-fur-senioren@amtsfeed.de
 DTSTAMP:20260914T090654Z
 DTSTART;VALUE=DATE:20260916
@@ -586,5 +576,34 @@ DTEND;VALUE=DATE:20261011
 SUMMARY:Jazz im Rathaus : Torsten Zwingenberger & Berlin 21 Streetworkers
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  jazz-im-rathaus-torsten-zwingenberger-berlin-21-streetworkers
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-salonkonzert-die-couchies@amtsfeed.de
+DTSTAMP:20261009T104244Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Salonkonzert: Die Couchies
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ salonkonzert-die-couchies
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-kreativer-familiensonntag-theater-origami-werks
+ tatt@amtsfeed.de
+DTSTAMP:20261009T104244Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Kreativer Familiensonntag: Theater & Origami‑Werkstatt
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ kreativer-familiensonntag-theater-origami-werkstatt
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-gesprachskreis-fur-pflegende-angehorige@amtsfee
+ d.de
+DTSTAMP:20261009T104244Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Gesprächskreis für pflegende Angehörige
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ gesprachskreis-fur-pflegende-angehorige
 END:VEVENT
 END:VCALENDAR

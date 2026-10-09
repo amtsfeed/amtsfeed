@@ -932,33 +932,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2980792/2026/10/07/jetz
  t-spielen-staunen-selbstregulieren.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2424341@amtsfeed.de
-DTSTAMP:20261002T095747Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/10/08/fami
- liensprechzeiten-elternberatung-im-familienzentrum.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907844@amtsfeed.de
-DTSTAMP:20261002T095747Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Migrationsberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/10/08/migr
- ationsberatung-im-familienzentrum.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907847@amtsfeed.de
-DTSTAMP:20260925T090036Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Spielrunde & Mittagessen für Senior:innen
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907847/2026/10/08/spie
- lrunde-mittagessen-für-senior-innen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2384489@amtsfeed.de
 DTSTAMP:20261003T092115Z
 DTSTART;VALUE=DATE:20261009
@@ -1134,6 +1107,24 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928859/2026/10/14/semi
  icherung-und-entlastungsangebote-von-menschen-mit-demenz.html
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2424341@amtsfeed.de
+DTSTAMP:20261009T104536Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/10/15/fami
+ liensprechzeiten-elternberatung-im-familienzentrum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907844@amtsfeed.de
+DTSTAMP:20261009T104536Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Migrationsberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/10/15/migr
+ ationsberatung-im-familienzentrum.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973364@amtsfeed.de
 DTSTAMP:20260924T083925Z
 DTSTART;VALUE=DATE:20261015
@@ -1170,6 +1161,15 @@ SUMMARY:Seminar " Hilfe beim Helfen" für Angehörige von Menschen mit De
 URL:https://www.wiesenburgmark.de/veranstaltungen/2928860/2026/10/21/semi
  nar-hilfe-beim-helfen-für-angehörige-von-menschen-mit-demenz-den-alltag
  -leben-ein-neues-miteinander-finden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907847@amtsfeed.de
+DTSTAMP:20261009T104536Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Spielrunde & Mittagessen für Senior:innen
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907847/2026/10/22/spie
+ lrunde-mittagessen-für-senior-innen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973856@amtsfeed.de

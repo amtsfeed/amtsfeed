@@ -1004,19 +1004,6 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
 LOCATION:einzigartiger Kulisse.  Anlegestelle
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261008T104638Z
-DTSTART:20261008T104638Z
-SUMMARY:Veranstaltungen
-URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1
-END:VEVENT
-BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1956-1@amtsfeed.de
 DTSTAMP:20261002T095616Z
 DTSTART;VALUE=DATE:20261009
@@ -1041,6 +1028,19 @@ LOCATION:den Titeln "Respect" und "Think"\, aber auch sanft und berühren
   Soulstimme\, die 5 Oktaven umfasst und von tiefer Charakterstärke ausge
  zeichnet ist\, hinterlässt weit mehr als ihre 18 Grammy-Auszeichnungen. 
  Sie ist und bleibt eine der meistverkauften Künstler
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
+DTSTAMP:20261009T104359Z
+DTSTART:20261009T104359Z
+SUMMARY:Veranstaltungen
+URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1740-1@amtsfeed.de
@@ -1141,6 +1141,26 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  -Mazze-Wiesner-Band.php?ModID=11&amp\;FID=2852.1888.1
 END:VEVENT
 BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1989-1@amtsfeed.de
+DTSTAMP:20261009T104359Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Herbstferien im Jubs
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstferien-im-Jubs.p
+ hp?ModID=11&amp\;FID=2852.1989.1
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1986-1@amtsfeed.de
+DTSTAMP:20261009T104359Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Herbstferien
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstferien.php?ModID
+ =11&amp\;FID=2852.1986.1
+END:VEVENT
+BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1741-1@amtsfeed.de
 DTSTAMP:20260924T083802Z
 DTSTART;VALUE=DATE:20261024
@@ -1176,6 +1196,26 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
 LOCATION:Tourismusinformation
 END:VEVENT
 BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1982-1@amtsfeed.de
+DTSTAMP:20261009T104359Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Herbstferien
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstferien.php?ModID
+ =11&amp\;FID=2852.1982.1
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1987-1@amtsfeed.de
+DTSTAMP:20261009T104359Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Ausflug in den Herbstferien
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Ausflug-in-den-Herbstf
+ erien.php?ModID=11&amp\;FID=2852.1987.1
+END:VEVENT
+BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1953-1@amtsfeed.de
 DTSTAMP:20260927T092533Z
 DTSTART;VALUE=DATE:20261029
@@ -1207,6 +1247,17 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  odID=11&amp\;FID=2852.1977.1
 LOCATION:Irish Pub Eisenhüttenstadt\, Oberschleuse 1 15890 Eisenhüttens
  tadt
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1988-1@amtsfeed.de
+DTSTAMP:20261009T104359Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Halloween Party
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Halloween-Party.php?Mo
+ dID=11&amp\;FID=2852.1988.1
+LOCATION:Jugendbegegnungsstätte Jubs
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1742-1@amtsfeed.de

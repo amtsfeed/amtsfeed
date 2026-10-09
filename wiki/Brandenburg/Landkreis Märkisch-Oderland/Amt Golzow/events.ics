@@ -964,20 +964,6 @@ DESCRIPTION:Das 19. Oldtimertreffen in Alt Tucheband findet vom 28. bis 3
 LOCATION:Alt Tucheband
 END:VEVENT
 BEGIN:VEVENT
-UID:2326188@amtsfeed.de
-DTSTAMP:20260911T111130Z
-DTSTART:20270911T100000Z
-DTEND:20270911T143000Z
-SUMMARY:Führung und Exkursion zur Schlacht um die Seelower Höhen 1945
-URL:https://www.amt-golzow.de/veranstaltungen/2326188/2027/09/11/führung
- -und-exkursion-zur-schlacht-um-die-seelower-höhen-1945.html
-DESCRIPTION:Schlachtfeldführung im Oderbruch: Exkursion zu authentischen
-  Orten der Schlacht um die Seelower Höhen 1945. Die Durchbruchsschlacht 
- zum Ende des Zweiten Weltkrieges: Von der Festung Küstrin bis Seelow. [m
- ehr]
-LOCATION:Altstadt & Festung Küstrin
-END:VEVENT
-BEGIN:VEVENT
 UID:2637282@amtsfeed.de
 DTSTAMP:20260925T085704Z
 DTSTART:20270925T113000Z
@@ -1013,6 +999,20 @@ URL:https://www.amt-golzow.de/veranstaltungen/2330013/2027/10/03/führung
 DESCRIPTION:Führung in der Festung & Altstadt von Küstrin: Die Katte-Tr
  agödie ansprechend und unterhaltsam in Szene gesetzt. Entdecken und erle
  ben Sie den historischen Ort\, wie einst Theodor Fontane. [mehr]
+LOCATION:Altstadt & Festung Küstrin
+END:VEVENT
+BEGIN:VEVENT
+UID:2326188@amtsfeed.de
+DTSTAMP:20261009T104142Z
+DTSTART:20271009T100000Z
+DTEND:20271009T143000Z
+SUMMARY:Führung und Exkursion zur Schlacht um die Seelower Höhen 1945
+URL:https://www.amt-golzow.de/veranstaltungen/2326188/2027/10/09/führung
+ -und-exkursion-zur-schlacht-um-die-seelower-höhen-1945.html
+DESCRIPTION:Schlachtfeldführung im Oderbruch: Exkursion zu authentischen
+  Orten der Schlacht um die Seelower Höhen 1945. Die Durchbruchsschlacht 
+ zum Ende des Zweiten Weltkrieges: Von der Festung Küstrin bis Seelow. [m
+ ehr]
 LOCATION:Altstadt & Festung Küstrin
 END:VEVENT
 END:VCALENDAR

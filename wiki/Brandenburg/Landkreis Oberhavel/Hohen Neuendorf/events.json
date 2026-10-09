@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T10:44:59.917Z",
+  "updatedAt": "2026-10-09T10:42:44.148Z",
   "items": [
     {
       "id": "hohen-neuendorf-event-digitale-sprechstunde-umgang-mit-dem-smartphone-0",
@@ -190,14 +190,6 @@
       "title": "Ausstellung im Paddenkrug",
       "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/ausstellung-im-paddenkrug-3",
       "startDate": "2026-09-13T00:00:00.000Z",
-      "fetchedAt": "2026-09-13T08:28:14.737Z",
-      "updatedAt": "2026-09-13T08:28:14.737Z"
-    },
-    {
-      "id": "hohen-neuendorf-event-gesprachskreis-fur-pflegende-angehorige",
-      "title": "Gesprächskreis für pflegende Angehörige",
-      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/gesprachskreis-fur-pflegende-angehorige",
-      "startDate": "2026-09-14T00:00:00.000Z",
       "fetchedAt": "2026-09-13T08:28:14.737Z",
       "updatedAt": "2026-09-13T08:28:14.737Z"
     },
@@ -488,6 +480,30 @@
       "startDate": "2026-10-10T00:00:00.000Z",
       "fetchedAt": "2026-10-08T10:44:59.927Z",
       "updatedAt": "2026-10-08T10:44:59.927Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-salonkonzert-die-couchies",
+      "title": "Salonkonzert: Die Couchies",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/salonkonzert-die-couchies",
+      "startDate": "2026-10-10T00:00:00.000Z",
+      "fetchedAt": "2026-10-09T10:42:44.155Z",
+      "updatedAt": "2026-10-09T10:42:44.155Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-kreativer-familiensonntag-theater-origami-werkstatt",
+      "title": "Kreativer Familiensonntag: Theater & Origami‑Werkstatt",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/kreativer-familiensonntag-theater-origami-werkstatt",
+      "startDate": "2026-10-11T00:00:00.000Z",
+      "fetchedAt": "2026-10-09T10:42:44.155Z",
+      "updatedAt": "2026-10-09T10:42:44.155Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-gesprachskreis-fur-pflegende-angehorige",
+      "title": "Gesprächskreis für pflegende Angehörige",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/gesprachskreis-fur-pflegende-angehorige",
+      "startDate": "2026-10-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:28:14.737Z",
+      "updatedAt": "2026-10-09T10:42:44.155Z"
     }
   ]
 }

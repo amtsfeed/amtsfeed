@@ -744,15 +744,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2972185/2026/10/07/re
  hasport-in-großthiemig.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2897451@amtsfeed.de
-DTSTAMP:20261002T095027Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Krabbelgruppe Kita Gröden
-URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/10/08/kr
- abbelgruppe-kita-gröden.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2953407@amtsfeed.de
 DTSTAMP:20260911T110713Z
 DTSTART;VALUE=DATE:20261009
@@ -805,6 +796,15 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:Vorlese-Nachmittag
 URL:https://www.amt-schradenland.de/veranstaltungen/2972026/2026/10/14/vo
  rlese-nachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2897451@amtsfeed.de
+DTSTAMP:20261009T103838Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Krabbelgruppe Kita Gröden
+URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/10/15/kr
+ abbelgruppe-kita-gröden.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2964525@amtsfeed.de

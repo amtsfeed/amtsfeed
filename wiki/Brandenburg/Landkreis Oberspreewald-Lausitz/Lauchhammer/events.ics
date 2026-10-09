@@ -245,15 +245,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2944153/2026/10/02/lesung-
  l
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124494@amtsfeed.de
-DTSTAMP:20261002T095532Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Behinderten- und Seniorenberatung
-URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/10/08/behinde
- rten-und-seniorenberatung.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124462@amtsfeed.de
 DTSTAMP:20261006T102813Z
 DTSTART;VALUE=DATE:20261012
@@ -279,6 +270,15 @@ DTEND;VALUE=DATE:20261014
 SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
 URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/10/13/chorpro
  be-mit-dem-stadtchor-lauchhammer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124494@amtsfeed.de
+DTSTAMP:20261009T104315Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/10/15/behinde
+ rten-und-seniorenberatung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2398220@amtsfeed.de

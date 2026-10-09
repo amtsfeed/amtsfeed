@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T10:43:46.874Z",
+  "updatedAt": "2026-10-09T10:41:42.401Z",
   "items": [
     {
       "id": "2886766",
@@ -769,17 +769,6 @@
       "updatedAt": "2026-09-11T11:11:30.421Z"
     },
     {
-      "id": "2326188",
-      "title": "Führung und Exkursion zur Schlacht um die Seelower Höhen 1945",
-      "url": "https://www.amt-golzow.de/veranstaltungen/2326188/2027/09/11/führung-und-exkursion-zur-schlacht-um-die-seelower-höhen-1945.html",
-      "startDate": "2027-09-11T10:00:00.000Z",
-      "endDate": "2027-09-11T14:30:00.000Z",
-      "location": "Altstadt & Festung Küstrin",
-      "description": "Schlachtfeldführung im Oderbruch: Exkursion zu authentischen Orten der Schlacht um die Seelower Höhen 1945. Die Durchbruchsschlacht zum Ende des Zweiten Weltkrieges: Von der Festung Küstrin bis Seelow. [mehr]",
-      "fetchedAt": "2026-05-05T14:54:22.818Z",
-      "updatedAt": "2026-09-11T11:11:30.421Z"
-    },
-    {
       "id": "2637282",
       "title": "Führung Altstadt & Festung Küstrin: Fontanes Katte-Tragödie",
       "url": "https://www.amt-golzow.de/veranstaltungen/2637282/2027/09/25/führung-altstadt-festung-küstrin-fontanes-katte-tragödie.html",
@@ -810,6 +799,17 @@
       "description": "Führung in der Festung & Altstadt von Küstrin: Die Katte-Tragödie ansprechend und unterhaltsam in Szene gesetzt. Entdecken und erleben Sie den historischen Ort, wie einst Theodor Fontane. [mehr]",
       "fetchedAt": "2026-05-05T14:54:22.818Z",
       "updatedAt": "2026-10-03T09:17:00.766Z"
+    },
+    {
+      "id": "2326188",
+      "title": "Führung und Exkursion zur Schlacht um die Seelower Höhen 1945",
+      "url": "https://www.amt-golzow.de/veranstaltungen/2326188/2027/10/09/führung-und-exkursion-zur-schlacht-um-die-seelower-höhen-1945.html",
+      "startDate": "2027-10-09T10:00:00.000Z",
+      "endDate": "2027-10-09T14:30:00.000Z",
+      "location": "Altstadt & Festung Küstrin",
+      "description": "Schlachtfeldführung im Oderbruch: Exkursion zu authentischen Orten der Schlacht um die Seelower Höhen 1945. Die Durchbruchsschlacht zum Ende des Zweiten Weltkrieges: Von der Festung Küstrin bis Seelow. [mehr]",
+      "fetchedAt": "2026-05-05T14:54:22.818Z",
+      "updatedAt": "2026-10-09T10:41:42.392Z"
     }
   ]
 }

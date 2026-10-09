@@ -580,6 +580,16 @@ URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
 LOCATION:Salon der Villa Weigert
 END:VEVENT
 BEGIN:VEVENT
+UID:birkenwerder-event-open-vernissage@amtsfeed.de
+DTSTAMP:20261009T104228Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Open Vernissage
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/open-vernissage
+LOCATION:Rathausvorplatz Birkenwerder
+END:VEVENT
+BEGIN:VEVENT
 UID:birkenwerder-event-aktionswoche-zum-quottag-der-bibliotheken-2026-quo
  t@amtsfeed.de
 DTSTAMP:20261001T101850Z

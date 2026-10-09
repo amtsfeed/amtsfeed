@@ -1199,6 +1199,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Havelsalon\, Milower Landstraße 7\, 14712 Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1767-20261009@amtsfeed.de
+DTSTAMP:20261009T103946Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Stadtgespräch im Förderverein Heimatmuseum
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/stadtgespraech-im-foerderverein
+ -heimatmuseum/
+LOCATION:Geschäftsstelle der Rathenower Wohnungsbaugenossenschaft (RWG)\
+ ,Baustraße 3i Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1410-20261010@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261010
@@ -1328,6 +1340,28 @@ SUMMARY:KÜRBISFEST Göttlin
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/kuerbisfest-goettlin/
 LOCATION:Göttliner Dorfplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1200-20261017@amtsfeed.de
+DTSTAMP:20261009T103946Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Kulturgärtnern
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/kulturgaertnern/
+LOCATION:Rathenow\, Treffpunkt am Torhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1650-20261017@amtsfeed.de
+DTSTAMP:20261009T103946Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Öffentliche Führung über den historischen Friedhof mit Christi
+ na Otto
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/oeffentliche-fuehrung-ueber-den
+ -historischen-friedhof-mit-christina-otto-1/
+LOCATION:Treffpunkt ist am Torhaus Weinbergfriedhof
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-271-20261018@amtsfeed.de
@@ -1554,6 +1588,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, im Tivoli\, K.-Gehrmann Str. 43d
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1649-20261121@amtsfeed.de
+DTSTAMP:20261009T103946Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Öffentliche Führung über den historischen Friedhof mit Christi
+ na Otto
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/oeffentliche-fuehrung-ueber-den
+ -historischen-friedhof-mit-christina-otto/
+LOCATION:Treffpunkt ist am Torhaus Historischen Weinbergfriedhof
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1739-20261126@amtsfeed.de
 DTSTAMP:20260916T084040Z
 DTSTART;VALUE=DATE:20261126
@@ -1602,6 +1648,17 @@ SUMMARY:Familiensitzung
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/familiensitzung/
 LOCATION:Havellandhalle Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1766-20261129@amtsfeed.de
+DTSTAMP:20261009T103946Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Premierenlesung "Salbeirauch" von Britta Orlowski
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/premierenlesung-salbeirauch-von
+ -britta-orlowski/
+LOCATION:Havel Salon\, Milower Landstraße 7 Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1572-20261203@amtsfeed.de
@@ -1695,6 +1752,17 @@ SUMMARY:Neujahrskonzerte 2027
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/neujahrskonzerte-2027/
 LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1765-20270123@amtsfeed.de
+DTSTAMP:20261009T103946Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Drachenboot-Indoor-Cup Rathenow 2027
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/drachenboot-indoor-cup-rathenow
+ -2027/
+LOCATION:Schwimmhalle Rathenow\, Bruno-Baum-Ring 106 \, 14712 Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1688-20270206@amtsfeed.de

@@ -11854,6 +11854,15 @@ URL:https://www.premnitz.de/veranstaltungen/2980936/2026/10/11/grusel-okt
  ober-bei-karls-wo-die-erdbeerspinnen-tanzen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2981618-20261011@amtsfeed.de
+DTSTAMP:20261009T103940Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Performance &bdquo\;KEIN ORT &ndash\; MEIN ORT&ldquo\;
+URL:https://www.premnitz.de/veranstaltungen/2981618/2026/10/11/performanc
+ e-kein-ort--mein-ort.html
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2954323-20261012@amtsfeed.de
 DTSTAMP:20260912T080038Z
 DTSTART;VALUE=DATE:20261012
@@ -15223,5 +15232,25 @@ DTEND;VALUE=DATE:20261109
 SUMMARY:Sean Taylor (UK) - fantastic Blues from England (Live!)
 URL:https://www.premnitz.de/veranstaltungen/2852730/2026/11/08/sean-taylo
  r-uk-fantastic-blues-from-england-live.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2981619-20261108@amtsfeed.de
+DTSTAMP:20261009T103940Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Grape\, Kirchhof\, Adelsmann - Eine inklusive Führung durch das 
+ deutsche Mittelalter
+URL:https://www.premnitz.de/veranstaltungen/2981619/2026/11/08/grape-kirc
+ hhof-adelsmann-eine-inklusive-führung-durch-das-deutsche-mittelalter.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2961091-20261109@amtsfeed.de
+DTSTAMP:20261009T103940Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Mosaik-Workshop
+URL:https://www.premnitz.de/veranstaltungen/2961091/2026/11/09/mosaik-wor
+ kshop.html
 END:VEVENT
 END:VCALENDAR

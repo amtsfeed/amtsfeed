@@ -1418,6 +1418,17 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:oranienburg-event-8056@amtsfeed.de
+DTSTAMP:20261009T104257Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:ADFC-Radtour: Feierabenradeln in die Umgebung
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/ADFC-Radtour-Feierabenradeln-in-die-Umgebung.php?object=tx\,2967.4&am
+ p\;ModID=11&amp\;FID=2967.8056.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=
+ 1
+END:VEVENT
+BEGIN:VEVENT
 UID:oranienburg-event-8025@amtsfeed.de
 DTSTAMP:20260930T095152Z
 DTSTART;VALUE=DATE:20261015
@@ -1428,6 +1439,16 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/Foto-Ausstellung-Schl%C3%B6sser-Herrenh%C3%A4user-in-Brandenburg-.php
  ?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.8025.1&amp\;NavID=2967.39&
  amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8049@amtsfeed.de
+DTSTAMP:20261009T104257Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:&raquo\;Bike The Line&laquo\; - 80 Jahre danach
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/-Bike-The-Line-80-Jahre-danach.php?object=tx\,2967.4&amp\;ModID=11&am
+ p\;FID=2967.8049.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-7437@amtsfeed.de
@@ -1453,12 +1474,12 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-7982@amtsfeed.de
-DTSTAMP:20261001T101936Z
+DTSTAMP:20261009T104257Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-SUMMARY:12. Brandenburgischer Hospiztag Trauer als Teil des Lebens
+SUMMARY:Trauer als Teil des Lebens - 12. Brandenburgischer Hospiztag
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
- der/12-Brandenburgischer-Hospiztag-Trauer-als-Teil-des-Lebens.php?object=
+ der/Trauer-als-Teil-des-Lebens-12-Brandenburgischer-Hospiztag.php?object=
  tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7982.1&amp\;NavID=2967.39&amp\;sfr
  eg=1&amp\;bn=1
 END:VEVENT

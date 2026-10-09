@@ -1630,6 +1630,16 @@ URL:https://www.ketzin.de/veranstaltungen/2811971/2026/10/11/königskinde
  r-wie-das-leben-im-schloss-wirklich-war.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ketzin-havel-event-2980814-20261011@amtsfeed.de
+DTSTAMP:20261009T103908Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Ungeheuer trifft Papagei --- Kolloquium zur Präsentation im Schl
+ oss Paretz
+URL:https://www.ketzin.de/veranstaltungen/2980814/2026/10/11/ungeheuer-tr
+ ifft-papagei-kolloquium-zur-präsentation-im-schloss-paretz.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ketzin-havel-event-2842560-20261012@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261012
@@ -1703,14 +1713,22 @@ URL:https://www.ketzin.de/veranstaltungen/2836480/2026/10/16/kochkurs-asi
 END:VEVENT
 BEGIN:VEVENT
 UID:ketzin-havel-event-2778078-20261018@amtsfeed.de
-DTSTAMP:20260531T141353Z
+DTSTAMP:20261009T103908Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-SUMMARY:Kultur- und Geschichtssonntag 2026: 25 Jahre Wiedereröffnung Sch
- loss Paretz und 250 Jahre Königin Luise
+SUMMARY:Kultur- und Geschichtssonntag 2026: Blick zurück - nach vorn! 75
+  Jahre Matthias Marr
 URL:https://www.ketzin.de/veranstaltungen/2778078/2026/10/18/kultur-und-g
- eschichtssonntag-2026-25-jahre-wiedereröffnung-schloss-paretz-und-250-ja
- hre-königin-luise.html
+ eschichtssonntag-2026-blick-zurück-nach-vorn-75-jahre-matthias-marr.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2981405-20261018@amtsfeed.de
+DTSTAMP:20261009T103908Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Konzert für Flöte\, Horn und Orgel
+URL:https://www.ketzin.de/veranstaltungen/2981405/2026/10/18/konzert-für
+ -flöte-horn-und-orgel.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ketzin-havel-event-2842560-20261019@amtsfeed.de
@@ -1909,6 +1927,15 @@ DTEND;VALUE=DATE:20261104
 SUMMARY:Reparaturcaf&eacute\; und Kleidertausch in der Paretzer Scheune
 URL:https://www.ketzin.de/veranstaltungen/2867091/2026/11/03/reparaturcaf
  é-und-kleidertausch-in-der-paretzer-scheune.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2981670-20261103@amtsfeed.de
+DTSTAMP:20261009T103908Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Plauderstunde mit dem Seniorenrat
+URL:https://www.ketzin.de/veranstaltungen/2981670/2026/11/03/plauderstund
+ e-mit-dem-seniorenrat.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ketzin-havel-event-2658477-20261106@amtsfeed.de
@@ -4386,5 +4413,14 @@ DTEND;VALUE=DATE:20271006
 SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
 URL:https://www.ketzin.de/veranstaltungen/2457429/2027/10/05/seniorengymn
  astik-mit-dem-seniorenverein-falkenrehde-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20271008@amtsfeed.de
+DTSTAMP:20261009T103908Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/10/08/jeden-freita
+ g-senioren-sportnachmittag.html
 END:VEVENT
 END:VCALENDAR

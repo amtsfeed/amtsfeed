@@ -1,5 +1,89 @@
 # Updates
 
+## 2026-10-09 10:45
+
+Insgesamt **201 neu**, **271 aktualisiert**, **0 entfernt** in 77 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~1 | — | — |
+| Altlandsberg | — | ~1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Britz-Chorin-Oderberg | — | +7 | — | — |
+| Amt Brück | — | +1 | +1 | — |
+| Amt Golzow | +2 | ~1 | — | — |
+| Amt Lebus | +1 | ~1 | — | — |
+| Amt Nennhausen | +1 | — | — | — |
+| Amt Neuzelle | +1 | +2 | — | — |
+| Amt Niemegk | — | +1 | +1 | — |
+| Amt Scharmützelsee / Bad Saarow | — | +2 / ~4 | — | — |
+| Amt Schenkenländchen | — | +18 | — | — |
+| Amt Schlieben | — | — | — | +1 |
+| Amt Schradenland | — | ~1 | — | — |
+| Amt Ziesar | +2 | — | — | ~24 |
+| Bad Freienwalde (Oder) | +1 | — | — | — |
+| Beeskow | +1 | — | — | — |
+| Bernau bei Berlin | +1 | +11 / ~9 | — | +3 |
+| Birkenwerder | +1 | +1 | — | — |
+| Brieselang | +2 | — | — | — |
+| Calau | +1 | +1 / ~2 | +2 | — |
+| Eberswalde | +1 | +7 | — | +1 |
+| Eisenhüttenstadt | +2 | +5 / ~1 | — | — |
+| Elsterwerda | +1 | +1 | — | — |
+| Falkensee | +1 | — | — | — |
+| Fredersdorf-Vogelsdorf | +3 | +1 | — | — |
+| Friedland | — | — | — | +1 / ~1 |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Glienicke-Nordbahn | +1 | — | — | — |
+| Gransee | — | ~24 | — | — |
+| Groß Kreutz | — | ~26 | — | — |
+| Heideblick | +1 | +3 | — | — |
+| Hennigsdorf | +1 | +1 | — | — |
+| Herzberg (Elster) | — | ~1 | — | — |
+| Hohen Neuendorf | — | +2 / ~1 | — | — |
+| Hoppegarten | — | ~1 | — | — |
+| Ketzin Havel | ~2 | +4 / ~1 | — | — |
+| Kleinmachnow | — | +2 | — | — |
+| Kremmen | +1 | +2 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +2 | — | — |
+| Landkreis Havelland (LK-Ebene) | +2 | — | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | +2 | +1 | — | — |
+| Lauchhammer | ~1 | ~1 | — | — |
+| Leegebruch | — | +1 / ~1 | — | — |
+| Löwenberger Land | +4 | — | — | — |
+| Lübben (Spreewald) | +1 | — | — | — |
+| Lübbenau Spreewald | — | ~93 | — | +1 |
+| Luckau | +1 | — | — | — |
+| Märkische Heide | +1 | — | — | — |
+| Michendorf | — | ~1 | — | — |
+| Mühlenbecker Land | ~1 | +6 | — | — |
+| Müncheberg | +2 | — | — | — |
+| Nauen | — | +2 | — | — |
+| Neuenhagen bei Berlin | — | — | +1 | — |
+| Oberkrämer | +1 | ~2 | — | ~1 |
+| Oderbruch / Amt Seelow-Land | +3 | — | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | — | +1 / ~4 | — | — |
+| Oranienburg | +1 | +2 / ~1 | — | — |
+| Panketal | — | — | — | +2 |
+| Premnitz | — | +3 | — | — |
+| Rathenow | — | +6 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Röderland | — | +2 | — | — |
+| Schipkau | +1 | — | +1 | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schulzendorf | — | — | — | +2 |
+| Senftenberg | — | +5 | — | — |
+| Storkow (Mark) | +2 | +2 | — | — |
+| Tauche | — | ~1 | — | — |
+| Teltow | +1 | ~1 | — | — |
+| Velten | +2 | +1 | — | — |
+| Verbandsgemeinde Bad Liebenwerda | — | +3 | — | — |
+| Vetschau Spreewald | — | +23 / ~3 | — | — |
+| Wandlitz | — | +1 | — | — |
+| Werder (Havel) | — | ~14 | — | — |
+| Wiesenburg-Mark | — | ~3 | — | — |
+| Wildau | +1 | — | — | — |
+
 ## 2026-10-08 10:48
 
 Insgesamt **476 neu**, **240 aktualisiert**, **0 entfernt** in 72 Quellen.

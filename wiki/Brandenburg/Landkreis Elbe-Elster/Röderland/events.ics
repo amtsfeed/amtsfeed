@@ -609,6 +609,15 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2974233/2027/05/20
  /spielenachmittag.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2981357@amtsfeed.de
+DTSTAMP:20261009T103847Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Sport- und Sommerfest
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2981357/2027/06/25
+ /sport-und-sommerfest.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2979434@amtsfeed.de
 DTSTAMP:20261006T102305Z
 DTSTART;VALUE=DATE:20270710
@@ -634,5 +643,14 @@ DTEND;VALUE=DATE:20271003
 SUMMARY:Herbstfeuer
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2979440/2027/10/02
  /herbstfeuer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2979442@amtsfeed.de
+DTSTAMP:20261009T103847Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:Wainsdorfer Oktoberfest
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2979442/2027/10/09
+ /wainsdorfer-oktoberfest.html
 END:VEVENT
 END:VCALENDAR

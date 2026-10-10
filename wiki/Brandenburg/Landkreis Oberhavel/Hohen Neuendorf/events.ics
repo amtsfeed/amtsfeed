@@ -606,4 +606,13 @@ SUMMARY:Gesprächskreis für pflegende Angehörige
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  gesprachskreis-fur-pflegende-angehorige
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-sprachcafe-0@amtsfeed.de
+DTSTAMP:20261010T095958Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Sprachcafé
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ sprachcafe-0
+END:VEVENT
 END:VCALENDAR

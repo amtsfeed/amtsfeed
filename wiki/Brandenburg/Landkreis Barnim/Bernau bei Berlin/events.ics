@@ -1165,15 +1165,6 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
 LOCATION:Filmpalast Bernau
 END:VEVENT
 BEGIN:VEVENT
-UID:artikel-stricken_fuer_junge_eltern@amtsfeed.de
-DTSTAMP:20260927T091807Z
-DTSTART:20260928T180000Z
-SUMMARY:Stricken für junge Eltern
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-stricken_fuer_junge_eltern-2026-09-28.html
-LOCATION:Kneipp-Zentrum Bernau
-END:VEVENT
-BEGIN:VEVENT
 UID:artikel-gefuehrte_meditationsreisen_vom_aussen_ins_innen@amtsfeed.de
 DTSTAMP:20260928T095033Z
 DTSTART:20260928T193000Z
@@ -1534,24 +1525,6 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
 LOCATION:Zentrum Wohlklang
 END:VEVENT
 BEGIN:VEVENT
-UID:artikel-biblischer_vortrag@amtsfeed.de
-DTSTAMP:20261003T091154Z
-DTSTART:20261004T100000Z
-SUMMARY:Biblischer Vortrag
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-biblischer_vortrag-2026-10-04.html
-LOCATION:Königreichssaal Jehovas Zeugen
-END:VEVENT
-BEGIN:VEVENT
-UID:artikel-gottesdienst@amtsfeed.de
-DTSTAMP:20261003T091154Z
-DTSTART:20261004T101500Z
-SUMMARY:Gottesdienst
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-gottesdienst-2026-10-04.html
-LOCATION:St. Marien Kirche
-END:VEVENT
-BEGIN:VEVENT
 UID:artikel-workshop_ein_baer_fuers_leben@amtsfeed.de
 DTSTAMP:20261003T091154Z
 DTSTART:20261004T110000Z
@@ -1572,15 +1545,6 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
  esser-2026-10-04.html
 LOCATION:Skulpturensammlung der Waldsiedlung Bernau im Kunstraum Innensta
  dt
-END:VEVENT
-BEGIN:VEVENT
-UID:artikel-tanzen_lernen_standard_latein@amtsfeed.de
-DTSTAMP:20261003T091154Z
-DTSTART:20261004T140000Z
-SUMMARY:Tanzen lernen Standard / Latein
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-tanzen_lernen_standard_latein-2026-10-04.html
-LOCATION:Tanzclub Bernau am Ofenhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:artikel-puppentheater_on_tour_daeumelinchen@amtsfeed.de
@@ -1663,15 +1627,6 @@ DTSTART:20261005T140000Z
 SUMMARY:Töpfern im Yellow
 URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
  tikel-toepfern_im_yellow-2026-10-05.html
-LOCATION:Freizeithaus Yellow des HVD Nordbrandenburg KdöR
-END:VEVENT
-BEGIN:VEVENT
-UID:artikel-ideenwerkerei_im_yellow@amtsfeed.de
-DTSTAMP:20261003T091154Z
-DTSTART:20261005T140000Z
-SUMMARY:„Ideenwerkerei" im Yellow
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-ideenwerkerei_im_yellow-2026-10-05.html
 LOCATION:Freizeithaus Yellow des HVD Nordbrandenburg KdöR
 END:VEVENT
 BEGIN:VEVENT
@@ -1886,15 +1841,6 @@ SUMMARY:ElternZeitCafè
 URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
  tikel-elternzeitcaf-2026-10-06.html
 LOCATION:Netzwerk Gesunde Kinder Barnim Süd
-END:VEVENT
-BEGIN:VEVENT
-UID:artikel-wirbelsaeulengymnastik_nach_pilates@amtsfeed.de
-DTSTAMP:20261005T103027Z
-DTSTART:20261006T100000Z
-SUMMARY:Wirbelsäulengymnastik nach Pilates
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-wirbelsaeulengymnastik_nach_pilates-2026-10-06.html
-LOCATION:Kneipp-Zentrum Bernau
 END:VEVENT
 BEGIN:VEVENT
 UID:artikel-sitzung_des_seniorenbeirats@amtsfeed.de
@@ -2550,16 +2496,6 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
 LOCATION:AWO-Treff
 END:VEVENT
 BEGIN:VEVENT
-UID:artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum@amtsfeed.d
- e
-DTSTAMP:20261009T103730Z
-DTSTART:20261009T150000Z
-SUMMARY:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-10-09.html
-LOCATION:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
-END:VEVENT
-BEGIN:VEVENT
 UID:artikel-die_welt_der_pilze_-_vortrag_und_wanderung@amtsfeed.de
 DTSTAMP:20261008T103831Z
 DTSTART:20261009T150000Z
@@ -2740,6 +2676,16 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
 LOCATION:Bushaltestelle „Ladeburg\, Kirche“
 END:VEVENT
 BEGIN:VEVENT
+UID:artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum@amtsfeed.d
+ e
+DTSTAMP:20261010T095346Z
+DTSTART:20261010T150000Z
+SUMMARY:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-10-10.html
+LOCATION:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
+END:VEVENT
+BEGIN:VEVENT
 UID:artikel-brunft_in_der_schoenower_heide@amtsfeed.de
 DTSTAMP:20261009T103730Z
 DTSTART:20261010T150000Z
@@ -2767,6 +2713,24 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
 LOCATION:Gut Leben Landresort
 END:VEVENT
 BEGIN:VEVENT
+UID:artikel-biblischer_vortrag@amtsfeed.de
+DTSTAMP:20261010T095346Z
+DTSTART:20261011T100000Z
+SUMMARY:Biblischer Vortrag
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-biblischer_vortrag-2026-10-11.html
+LOCATION:Königreichssaal Jehovas Zeugen
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-gottesdienst@amtsfeed.de
+DTSTAMP:20261010T095346Z
+DTSTART:20261011T101500Z
+SUMMARY:Gottesdienst
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-gottesdienst-2026-10-11.html
+LOCATION:St. Marien Kirche
+END:VEVENT
+BEGIN:VEVENT
 UID:artikel-puppentheater_on_tour_die_nachtigall@amtsfeed.de
 DTSTAMP:20261009T103730Z
 DTSTART:20261011T110000Z
@@ -2774,5 +2738,71 @@ SUMMARY:Puppentheater on Tour: „Die Nachtigall“
 URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
  tikel-puppentheater_on_tour_die_nachtigall-2026-10-11.html
 LOCATION:Galerie Bernau
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-kuerbisfest_regionalmarkt_der_bernauer_braugenossenschaft_in_
+ boernicke@amtsfeed.de
+DTSTAMP:20261010T095346Z
+DTSTART:20261011T120000Z
+SUMMARY:Kürbisfest & Regionalmarkt der Bernauer Braugenossenschaft in B
+ örnicke
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-kuerbisfest_regionalmarkt_der_bernauer_braugenossenschaft_in_boerni
+ cke-2026-10-11.html
+LOCATION:Erste Bernauer Braugenossenschaft e. G.
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-tanzen_lernen_standard_latein@amtsfeed.de
+DTSTAMP:20261010T095346Z
+DTSTART:20261011T140000Z
+SUMMARY:Tanzen lernen Standard / Latein
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-tanzen_lernen_standard_latein-2026-10-11.html
+LOCATION:Tanzclub Bernau am Ofenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-konzert_fuer_floete_marimba@amtsfeed.de
+DTSTAMP:20261010T095346Z
+DTSTART:20261011T170000Z
+SUMMARY:Konzert für Flöte & Marimba
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-konzert_fuer_floete_marimba-2026-10-11.html
+LOCATION:St. Marienkirche
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-die_restaurierung_des_beling-epitaphs@amtsfeed.de
+DTSTAMP:20261010T095346Z
+DTSTART:20261011T190000Z
+SUMMARY:Die Restaurierung des Beling-Epitaphs
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-die_restaurierung_des_beling-epitaphs-2026-10-11.html
+LOCATION:Gemeindezentrum der Ev. Kirchengemeinde Bernau
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-ideenwerkerei_im_yellow@amtsfeed.de
+DTSTAMP:20261010T095346Z
+DTSTART:20261012T140000Z
+SUMMARY:„Ideenwerkerei" im Yellow
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-ideenwerkerei_im_yellow-2026-10-12.html
+LOCATION:Freizeithaus Yellow des HVD Nordbrandenburg KdöR
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-wirbelsaeulengymnastik_nach_pilates@amtsfeed.de
+DTSTAMP:20261010T095346Z
+DTSTART:20261012T160000Z
+SUMMARY:Wirbelsäulengymnastik nach Pilates
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-wirbelsaeulengymnastik_nach_pilates-2026-10-12.html
+LOCATION:Kneipp-Zentrum Bernau
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-stricken_fuer_junge_eltern@amtsfeed.de
+DTSTAMP:20261010T095346Z
+DTSTART:20261012T180000Z
+SUMMARY:Stricken für junge Eltern
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-stricken_fuer_junge_eltern-2026-10-12.html
+LOCATION:Kneipp-Zentrum Bernau
 END:VEVENT
 END:VCALENDAR

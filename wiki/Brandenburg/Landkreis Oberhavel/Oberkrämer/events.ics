@@ -413,15 +413,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2957551/2026/10/08/seniore
  nveranstaltung-busfahrt-böhmische-blasmusik-im-rosenwirt.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855745@amtsfeed.de
-DTSTAMP:20261003T091827Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Schach
-URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/09/schach.
- html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2959880@amtsfeed.de
 DTSTAMP:20260916T084403Z
 DTSTART;VALUE=DATE:20261010
@@ -648,6 +639,15 @@ DTEND;VALUE=DATE:20261016
 SUMMARY:Klönkaffee-Nachmittage fürJedermann/-frau
 URL:https://www.oberkraemer.de/veranstaltungen/2977664/2026/10/15/klönka
  ffee-nachmittage-fürjedermann-frau.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855745@amtsfeed.de
+DTSTAMP:20261010T100018Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Schach
+URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/16/schach.
+ html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855589@amtsfeed.de

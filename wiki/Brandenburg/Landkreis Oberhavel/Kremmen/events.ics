@@ -919,6 +919,16 @@ URL:https://www.kremmen.de/veranstaltungen/2981895/2026/10/11/eines-morge
 LOCATION:Sana Kliniken Sommerfeld
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2981984@amtsfeed.de
+DTSTAMP:20261010T100003Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Pilzausstellung
+URL:https://www.kremmen.de/veranstaltungen/2981984/2026/10/11/pilzausstel
+ lung.html
+LOCATION:Sana Kliniken Sommerfeld
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2979301@amtsfeed.de
 DTSTAMP:20261005T103714Z
 DTSTART;VALUE=DATE:20261014
@@ -1218,6 +1228,16 @@ SUMMARY:KI sucht WG
 URL:https://www.kremmen.de/veranstaltungen/2927971/2026/12/05/ki-sucht-wg
  .html
 LOCATION:Theater "Tiefste Provinz"
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2982015@amtsfeed.de
+DTSTAMP:20261010T100003Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:"WENN DER NIKOLAUS ZWEIMAL KLINGELT..."
+URL:https://www.kremmen.de/veranstaltungen/2982015/2026/12/05/wenn-der-ni
+ kolaus-zweimal-klingelt.html
+LOCATION:LandpARTy
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2977480@amtsfeed.de

@@ -13306,6 +13306,15 @@ URL:https://www.premnitz.de/veranstaltungen/2980950/2026/10/23/grusel-okt
  ober-bei-karls-wo-die-erdbeerspinnen-tanzen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2982208-20261023@amtsfeed.de
+DTSTAMP:20261010T095621Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Wir bauen ökologische Nistkästen
+URL:https://www.premnitz.de/veranstaltungen/2982208/2026/10/23/wir-bauen-
+ ökologische-nistkästen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2965128-20261024@amtsfeed.de
 DTSTAMP:20260924T083220Z
 DTSTART;VALUE=DATE:20261024
@@ -15252,5 +15261,34 @@ DTEND;VALUE=DATE:20261110
 SUMMARY:Mosaik-Workshop
 URL:https://www.premnitz.de/veranstaltungen/2961091/2026/11/09/mosaik-wor
  kshop.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2961092-20261110@amtsfeed.de
+DTSTAMP:20261010T095621Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Mosaik-Workshop
+URL:https://www.premnitz.de/veranstaltungen/2961092/2026/11/10/mosaik-wor
+ kshop.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2855077-20261110@amtsfeed.de
+DTSTAMP:20261010T095621Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Ausschusses für Wirtschaft und Stadtentwicklung
+URL:https://www.premnitz.de/veranstaltungen/2855077/2026/11/10/ausschusse
+ s-für-wirtschaft-und-stadtentwicklung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2830410-20261110@amtsfeed.de
+DTSTAMP:20261010T095621Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Werderaner Gespräch - Der Weinbauverein Werder (Havel) stellt si
+ ch vor / Vortrag von Kerstin Otto
+URL:https://www.premnitz.de/veranstaltungen/2830410/2026/11/10/werderaner
+ -gespräch-der-weinbauverein-werder-havel-stellt-sich-vor-vortrag-von-ker
+ stin-otto.html
 END:VEVENT
 END:VCALENDAR

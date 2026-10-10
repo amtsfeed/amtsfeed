@@ -1350,11 +1350,11 @@ URL:https://britz-chorin-oderberg.de/events#event-15029
 LOCATION:16248 Liepe – An der Feuerwehr
 END:VEVENT
 BEGIN:VEVENT
-UID:16912@amtsfeed.de
-DTSTAMP:20261009T103728Z
+UID:16915@amtsfeed.de
+DTSTAMP:20261010T095343Z
 DTSTART:20261030T150000Z
 SUMMARY:Kino in Chorin — „Hände weg von Mississippi“
-URL:https://britz-chorin-oderberg.de/events#event-16912
+URL:https://britz-chorin-oderberg.de/events#event-16915
 LOCATION:16230 Chorin – Chorin – Kirche
 END:VEVENT
 BEGIN:VEVENT
@@ -1499,6 +1499,14 @@ DTSTAMP:20261009T103728Z
 DTSTART:20261120T150000Z
 SUMMARY:Kino in Chorin — „Paddington“
 URL:https://britz-chorin-oderberg.de/events#event-16914
+LOCATION:16230 Chorin – Chorin – Kirche
+END:VEVENT
+BEGIN:VEVENT
+UID:16912@amtsfeed.de
+DTSTAMP:20261010T095343Z
+DTSTART:20261120T180000Z
+SUMMARY:Kino in Chorin — „Lang lebe Ned Devine“
+URL:https://britz-chorin-oderberg.de/events#event-16912
 LOCATION:16230 Chorin – Chorin – Kirche
 END:VEVENT
 BEGIN:VEVENT

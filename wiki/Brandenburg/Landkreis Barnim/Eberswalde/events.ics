@@ -541,14 +541,6 @@ URL:https://www.eberswalde.de/termine/poetry-slam-zwischen-zeilen-und-zie
  geln
 END:VEVENT
 BEGIN:VEVENT
-UID:beirat-fuer-menschen-mit-behinderungen@amtsfeed.de
-DTSTAMP:20260920T083806Z
-DTSTART:20260921T120000Z
-SUMMARY:Beirat für Menschen mit Behinderungen
-URL:https://www.eberswalde.de/termine/beirat-fuer-menschen-mit-behinderun
- gen
-END:VEVENT
-BEGIN:VEVENT
 UID:faszination-holz-4@amtsfeed.de
 DTSTAMP:20260919T080552Z
 DTSTART:20260921T140000Z
@@ -1138,5 +1130,43 @@ DTSTAMP:20261009T103733Z
 DTSTART:20261010T150000Z
 SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-23
+END:VEVENT
+BEGIN:VEVENT
+UID:23-provinziale---filmfest-eberswalde@amtsfeed.de
+DTSTAMP:20261010T095350Z
+DTSTART:20261010T180000Z
+DTEND:20261017T000000Z
+SUMMARY:23. Provinziale – Filmfest Eberswalde
+URL:https://www.eberswalde.de/termine/23-provinziale---filmfest-eberswald
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-24@amtsfeed.de
+DTSTAMP:20261010T095350Z
+DTSTART:20261011T140000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-24
+END:VEVENT
+BEGIN:VEVENT
+UID:beirat-fuer-menschen-mit-behinderungen@amtsfeed.de
+DTSTAMP:20261010T095350Z
+DTSTART:20261012T120000Z
+SUMMARY:Beirat für Menschen mit Behinderungen
+URL:https://www.eberswalde.de/termine/beirat-fuer-menschen-mit-behinderun
+ gen
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-25@amtsfeed.de
+DTSTAMP:20261010T095350Z
+DTSTART:20261012T150000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-25
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-26@amtsfeed.de
+DTSTAMP:20261010T095350Z
+DTSTART:20261013T100000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-26
 END:VEVENT
 END:VCALENDAR

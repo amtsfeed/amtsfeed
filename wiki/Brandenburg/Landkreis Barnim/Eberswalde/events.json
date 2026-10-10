@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:37:33.409Z",
+  "updatedAt": "2026-10-10T09:53:50.148Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -501,14 +501,6 @@
       "startDate": "2026-09-20T15:00:00.000Z",
       "fetchedAt": "2026-09-19T08:05:52.742Z",
       "updatedAt": "2026-09-19T08:05:52.742Z"
-    },
-    {
-      "id": "beirat-fuer-menschen-mit-behinderungen",
-      "title": "Beirat für Menschen mit Behinderungen",
-      "url": "https://www.eberswalde.de/termine/beirat-fuer-menschen-mit-behinderungen",
-      "startDate": "2026-09-21T12:00:00.000Z",
-      "fetchedAt": "2026-09-20T08:38:06.438Z",
-      "updatedAt": "2026-09-20T08:38:06.438Z"
     },
     {
       "id": "faszination-holz-4",
@@ -1103,6 +1095,47 @@
       "startDate": "2026-10-10T15:00:00.000Z",
       "fetchedAt": "2026-10-09T10:37:33.401Z",
       "updatedAt": "2026-10-09T10:37:33.401Z"
+    },
+    {
+      "id": "23-provinziale---filmfest-eberswalde",
+      "title": "23. Provinziale – Filmfest Eberswalde",
+      "url": "https://www.eberswalde.de/termine/23-provinziale---filmfest-eberswalde",
+      "startDate": "2026-10-10T18:00:00.000Z",
+      "endDate": "2026-10-17T00:00:00.000Z",
+      "fetchedAt": "2026-10-10T09:53:50.139Z",
+      "updatedAt": "2026-10-10T09:53:50.139Z"
+    },
+    {
+      "id": "faszination-holz-24",
+      "title": "Faszination Holz",
+      "url": "https://www.eberswalde.de/termine/faszination-holz-24",
+      "startDate": "2026-10-11T14:00:00.000Z",
+      "fetchedAt": "2026-10-10T09:53:50.139Z",
+      "updatedAt": "2026-10-10T09:53:50.139Z"
+    },
+    {
+      "id": "beirat-fuer-menschen-mit-behinderungen",
+      "title": "Beirat für Menschen mit Behinderungen",
+      "url": "https://www.eberswalde.de/termine/beirat-fuer-menschen-mit-behinderungen",
+      "startDate": "2026-10-12T12:00:00.000Z",
+      "fetchedAt": "2026-09-20T08:38:06.438Z",
+      "updatedAt": "2026-10-10T09:53:50.139Z"
+    },
+    {
+      "id": "faszination-holz-25",
+      "title": "Faszination Holz",
+      "url": "https://www.eberswalde.de/termine/faszination-holz-25",
+      "startDate": "2026-10-12T15:00:00.000Z",
+      "fetchedAt": "2026-10-10T09:53:50.139Z",
+      "updatedAt": "2026-10-10T09:53:50.139Z"
+    },
+    {
+      "id": "faszination-holz-26",
+      "title": "Faszination Holz",
+      "url": "https://www.eberswalde.de/termine/faszination-holz-26",
+      "startDate": "2026-10-13T10:00:00.000Z",
+      "fetchedAt": "2026-10-10T09:53:50.139Z",
+      "updatedAt": "2026-10-10T09:53:50.139Z"
     }
   ]
 }

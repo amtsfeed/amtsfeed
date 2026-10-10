@@ -1,5 +1,57 @@
 # Updates
 
+## 2026-10-10 10:03
+
+Insgesamt **338 neu**, **178 aktualisiert**, **0 entfernt** in 45 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~1 | — | — |
+| Altlandsberg | — | +12 | — | — |
+| Amt Brieskow-Finkenheerd | +1 | — | — | ~6 |
+| Amt Britz-Chorin-Oderberg | — | +1 / ~1 | — | — |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Neuzelle | — | +56 | — | — |
+| Amt Wusterwitz | — | +3 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Freienwalde (Oder) | +1 | — | — | — |
+| Bernau bei Berlin | +1 | +3 / ~7 | — | — |
+| Brieselang | — | +1 | — | — |
+| Calau | — | ~1 | — | — |
+| Doberlug-Kirchhain | — | +3 | — | — |
+| Eberswalde | +2 | +4 / ~1 | — | — |
+| Eisenhüttenstadt | — | ~1 | — | — |
+| Elsterwerda | +1 | — | — | — |
+| Falkensee | +2 | +3 | — | — |
+| Friedland | — | ~2 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Groß Kreutz | — | ~26 | — | — |
+| Hohen Neuendorf | — | +1 | — | — |
+| Hoppegarten | — | +1 | — | — |
+| Kleinmachnow | — | +3 | — | — |
+| Kremmen | — | +2 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | +1 | — | — | — |
+| Lübben (Spreewald) | +1 | — | — | — |
+| Lübbenau Spreewald | — | +201 / ~44 | — | — |
+| Michendorf | — | +1 / ~1 | — | — |
+| Milower Land | +2 | — | — | — |
+| Mühlenbecker Land | — | +5 | — | — |
+| Nuthetal | — | — | +1 | — |
+| Oberkrämer | — | ~1 | — | ~1 |
+| Oranienburg | ~1 | +2 / ~1 | — | — |
+| Premnitz | — | +4 | — | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schöneiche bei Berlin | — | +1 | +1 | — |
+| Schwielowsee | — | +5 | — | — |
+| Senftenberg | — | +5 | — | — |
+| Tauche | — | ~1 | — | — |
+| Teltow | +1 | +1 | — | — |
+| Velten | — | +1 | — | — |
+| Wandlitz | — | — | +1 | — |
+| Werder (Havel) | +1 | ~19 | — | — |
+| Werneuchen | — | +2 | — | — |
+| Wiesenburg-Mark | — | ~3 | — | — |
+
 ## 2026-10-09 10:45
 
 Insgesamt **201 neu**, **271 aktualisiert**, **0 entfernt** in 77 Quellen.

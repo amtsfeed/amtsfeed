@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:44:58.995Z",
+  "updatedAt": "2026-10-10T10:02:38.020Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -960,6 +960,30 @@
       "startDate": "2026-10-30T13:00:00.000Z",
       "fetchedAt": "2026-10-09T10:44:58.994Z",
       "updatedAt": "2026-10-09T10:44:58.994Z"
+    },
+    {
+      "id": "kleinmachnow-event-2071",
+      "title": "Sprechstunde \"Pflege vor Ort\"",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Sprechstunde-Pflege-vor-Ort-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2071.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-03T10:00:00.000Z",
+      "fetchedAt": "2026-10-10T10:02:38.019Z",
+      "updatedAt": "2026-10-10T10:02:38.019Z"
+    },
+    {
+      "id": "kleinmachnow-event-2419",
+      "title": "Bilderbuchkino im November",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Bilderbuchkino-im-November.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2419.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-03T16:00:00.000Z",
+      "fetchedAt": "2026-10-10T10:02:38.019Z",
+      "updatedAt": "2026-10-10T10:02:38.019Z"
+    },
+    {
+      "id": "kleinmachnow-event-2410",
+      "title": "Vorsorge im Krisenfall (neuer Termin!)",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Vorsorge-im-Krisenfall-neuer-Termin-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2410.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-05T15:00:00.000Z",
+      "fetchedAt": "2026-10-10T10:02:38.019Z",
+      "updatedAt": "2026-10-10T10:02:38.019Z"
     }
   ]
 }

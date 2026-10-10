@@ -4053,6 +4053,15 @@ URL:https://www.falkensee.de/veranstaltungen/2960755/2026/10/30/stammtisc
  h-queer-beer.html
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2981973-20261030@amtsfeed.de
+DTSTAMP:20261010T095551Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Halloween Kinderdisco
+URL:https://www.falkensee.de/veranstaltungen/2981973/2026/10/30/halloween
+ -kinderdisco.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2900963-20261031@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261031
@@ -4656,6 +4665,17 @@ DTEND;VALUE=DATE:20261119
 SUMMARY:Geschichts-Salon Falkensee: Domänendorf und Adelsgut
 URL:https://www.falkensee.de/veranstaltungen/2951597/2026/11/18/geschicht
  s-salon-falkensee-domänendorf-und-adelsgut.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2981977-20261118@amtsfeed.de
+DTSTAMP:20261010T095551Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Tag der Begegnung | Mit Demenz Zuhause - wie kann ich in meinen v
+ ier Wänden bleiben?
+URL:https://www.falkensee.de/veranstaltungen/2981977/2026/11/18/tag-der-b
+ egegnung-mit-demenz-zuhause-wie-kann-ich-in-meinen-vier-wänden-bleiben.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-1959129-20261119@amtsfeed.de
@@ -8021,5 +8041,14 @@ DTEND;VALUE=DATE:20271008
 SUMMARY:Psychosoziale Beratung bei häuslicher Gewalt
 URL:https://www.falkensee.de/veranstaltungen/1959131/2027/10/07/psychosoz
  iale-beratung-bei-häuslicher-gewalt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2478387-20271010@amtsfeed.de
+DTSTAMP:20261010T095551Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Regenbogencaf&eacute\; lädt ein
+URL:https://www.falkensee.de/veranstaltungen/2478387/2027/10/10/regenboge
+ ncafé-lädt-ein.html
 END:VEVENT
 END:VCALENDAR

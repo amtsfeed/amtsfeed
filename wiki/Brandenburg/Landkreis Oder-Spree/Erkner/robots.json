@@ -2,7 +2,7 @@
   {
     "domain": "www.erkner.de",
     "baseUrl": "https://www.erkner.de",
-    "updatedAt": "2026-10-08T10:46:39.020Z",
+    "updatedAt": "2026-10-10T10:01:39.758Z",
     "content": "User-agent: Googlebot\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: Bingbot\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: Slurp\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: DuckDuckBot\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: YandexBot\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: Baiduspider\nDisallow: /veranstaltungen-sitemap.xml\n \nUser-agent: *\nAllow: /\n"
   }
 ]

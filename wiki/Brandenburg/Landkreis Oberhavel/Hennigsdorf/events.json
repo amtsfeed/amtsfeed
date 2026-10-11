@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:42:40.325Z",
+  "updatedAt": "2026-10-11T10:09:50.912Z",
   "items": [
     {
       "id": "hennigsdorf-event-820",
@@ -312,6 +312,32 @@
       "location": "Havelgrundschule Oranienburg",
       "fetchedAt": "2026-10-09T10:42:40.333Z",
       "updatedAt": "2026-10-09T10:42:40.333Z"
+    },
+    {
+      "id": "hennigsdorf-event-862",
+      "title": "Ausstellung \"Der Eigene Blick - Impressionen aus Natur und Umwelt\"",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Ausstellung-Der-Eigene-Blick-Impressionen-aus-Natur-und-Umwelt-.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.862.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-10-22T00:00:00.000Z",
+      "endDate": "2026-12-03T00:00:00.000Z",
+      "fetchedAt": "2026-10-11T10:09:50.921Z",
+      "updatedAt": "2026-10-11T10:09:50.921Z"
+    },
+    {
+      "id": "hennigsdorf-event-831",
+      "title": "30 Jahre Tausch- und Sammlerbörse mit Andreas Skala",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/30-Jahre-Tausch-und-Sammlerb%C3%B6rse-mit-Andreas-Skala.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.831.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-10-25T00:00:00.000Z",
+      "fetchedAt": "2026-10-11T10:09:50.921Z",
+      "updatedAt": "2026-10-11T10:09:50.921Z"
+    },
+    {
+      "id": "hennigsdorf-event-864",
+      "title": "80/90er Party XXL",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/80-90er-Party-XXL.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.864.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "endDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-10-11T10:09:50.921Z",
+      "updatedAt": "2026-10-11T10:09:50.921Z"
     }
   ]
 }

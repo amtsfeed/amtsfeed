@@ -427,4 +427,38 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/fUNI-die-Ferien
  p\;k_sub=1
 LOCATION:Havelgrundschule Oranienburg
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-862@amtsfeed.de
+DTSTAMP:20261011T100950Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261204
+SUMMARY:Ausstellung "Der Eigene Blick - Impressionen aus Natur und Umwelt
+ "
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Ausstellung-Der
+ -Eigene-Blick-Impressionen-aus-Natur-und-Umwelt-.php?object=tx\,3590.4.1&
+ amp\;ModID=11&amp\;FID=3590.862.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2
+ 713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-831@amtsfeed.de
+DTSTAMP:20261011T100950Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:30 Jahre Tausch- und Sammlerbörse mit Andreas Skala
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/30-Jahre-Tausch
+ -und-Sammlerb%C3%B6rse-mit-Andreas-Skala.php?object=tx\,3590.4.1&amp\;Mod
+ ID=11&amp\;FID=3590.831.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&am
+ p\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-864@amtsfeed.de
+DTSTAMP:20261011T100950Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:80/90er Party XXL
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/80-90er-Party-X
+ XL.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.864.1&amp\;NavID=2
+ 713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_s
+ ub=1
+END:VEVENT
 END:VCALENDAR

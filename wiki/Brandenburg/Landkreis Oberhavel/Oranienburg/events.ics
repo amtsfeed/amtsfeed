@@ -1591,4 +1591,25 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  4&amp\;ModID=11&amp\;FID=2967.7819.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\
  ;bn=1
 END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7489@amtsfeed.de
+DTSTAMP:20261011T101018Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Orgelmusik zur Mittagszeit
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Orgelmusik-zur-Mittagszeit.php?object=tx\,2967.4&amp\;ModID=11&amp\;F
+ ID=2967.7489.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8038@amtsfeed.de
+DTSTAMP:20261011T101018Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Gaming Event EA FC 27 für 10- bis 16-Jährige
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Gaming-Event-EA-FC-27-f%C3%BCr-10-bis-16-J%C3%A4hrige.php?object=tx\,
+ 2967.4&amp\;ModID=11&amp\;FID=2967.8038.1&amp\;NavID=2967.39&amp\;sfreg=1
+ &amp\;bn=1
+END:VEVENT
 END:VCALENDAR

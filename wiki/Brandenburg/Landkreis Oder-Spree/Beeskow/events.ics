@@ -4679,6 +4679,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99228953@amtsfeed.de
+DTSTAMP:20261011T101141Z
+DTSTART:20261028T100000Z
+DTEND:20261028T130000Z
+SUMMARY:Workshop „Ich sehe was\, was du nicht siehst!“
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Museum Utopie und Alltag
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104554@amtsfeed.de
 DTSTAMP:20260506T083709Z
 DTSTART:20261028T110000Z
@@ -6975,6 +6984,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99228954@amtsfeed.de
+DTSTAMP:20261011T101141Z
+DTSTART:20270203T100000Z
+DTEND:20270203T130000Z
+SUMMARY:„Ich sehe was\, was du nicht siehst!“
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Museum Utopie und Alltag
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99222156@amtsfeed.de
 DTSTAMP:20260917T085243Z
 DTSTART:20270203T110000Z
@@ -7299,6 +7317,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99228955@amtsfeed.de
+DTSTAMP:20261011T101141Z
+DTSTART:20270324T100000Z
+DTEND:20270324T130000Z
+SUMMARY:„Ich sehe was\, was du nicht siehst!“
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Museum Utopie und Alltag
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99223588@amtsfeed.de
 DTSTAMP:20260922T084111Z
 DTSTART:20270406T100000Z
@@ -7324,5 +7351,14 @@ DTEND;VALUE=DATE:20270608
 SUMMARY:145 Jahre Feuerwehr Beeskow – Jubiläum am 05.06.2027
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Feuerwehr Beeskow
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99228956@amtsfeed.de
+DTSTAMP:20261011T101141Z
+DTSTART:20270702T100000Z
+DTEND:20270702T130000Z
+SUMMARY:„Ich sehe was\, was du nicht siehst!“
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Museum Utopie und Alltag
 END:VEVENT
 END:VCALENDAR

@@ -17,16 +17,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  digitale-sprechstunde-umgang-mit-dem-smartphone-0
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-beratungsangebot-der-volkssolidaritaet@amtsfeed
- .de
-DTSTAMP:20260506T202158Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Beratungsangebot in der Volkssolidarität
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- beratungsangebot-der-volkssolidaritaet
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-buchzeit-wache-geister-heinrich-heine@amtsfeed.
  de
 DTSTAMP:20260506T202158Z
@@ -614,5 +604,35 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:Sprachcafé
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  sprachcafe-0
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-65-jahre-mauerbau-die-abriegelung-buchvorstellu
+ ng-im-gesprach@amtsfeed.de
+DTSTAMP:20261011T100956Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:65 Jahre Mauerbau: DIE ABRIEGELUNG - Buchvorstellung im Gespräch
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ 65-jahre-mauerbau-die-abriegelung-buchvorstellung-im-gesprach
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-rendez-vous-au-cb-mit-ulli-zelle-und-helene-koh
+ l@amtsfeed.de
+DTSTAMP:20261011T100956Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Rendez-vous au CB: mit Ulli Zelle und Hélène Kohl
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ rendez-vous-au-cb-mit-ulli-zelle-und-helene-kohl
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-beratungsangebot-der-volkssolidaritaet@amtsfeed
+ .de
+DTSTAMP:20261011T100956Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Beratungsangebot in der Volkssolidarität
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ beratungsangebot-der-volkssolidaritaet
 END:VEVENT
 END:VCALENDAR

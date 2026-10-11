@@ -1,19 +1,11 @@
 {
-  "updatedAt": "2026-10-10T09:59:58.913Z",
+  "updatedAt": "2026-10-11T10:09:56.734Z",
   "items": [
     {
       "id": "hohen-neuendorf-event-digitale-sprechstunde-umgang-mit-dem-smartphone-0",
       "title": "Digitale Sprechstunde: Umgang mit dem Smartphone",
       "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/digitale-sprechstunde-umgang-mit-dem-smartphone-0",
       "startDate": "2026-05-06T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T18:12:38.750Z",
-      "updatedAt": "2026-05-06T20:21:58.193Z"
-    },
-    {
-      "id": "hohen-neuendorf-event-beratungsangebot-der-volkssolidaritaet",
-      "title": "Beratungsangebot in der Volkssolidarität",
-      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/beratungsangebot-der-volkssolidaritaet",
-      "startDate": "2026-05-08T00:00:00.000Z",
       "fetchedAt": "2026-05-06T18:12:38.750Z",
       "updatedAt": "2026-05-06T20:21:58.193Z"
     },
@@ -512,6 +504,30 @@
       "startDate": "2026-10-14T00:00:00.000Z",
       "fetchedAt": "2026-10-10T09:59:58.922Z",
       "updatedAt": "2026-10-10T09:59:58.922Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-65-jahre-mauerbau-die-abriegelung-buchvorstellung-im-gesprach",
+      "title": "65 Jahre Mauerbau: DIE ABRIEGELUNG - Buchvorstellung im Gespräch",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/65-jahre-mauerbau-die-abriegelung-buchvorstellung-im-gesprach",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-10-11T10:09:56.743Z",
+      "updatedAt": "2026-10-11T10:09:56.743Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-rendez-vous-au-cb-mit-ulli-zelle-und-helene-kohl",
+      "title": "Rendez-vous au CB: mit Ulli Zelle und Hélène Kohl",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/rendez-vous-au-cb-mit-ulli-zelle-und-helene-kohl",
+      "startDate": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-10-11T10:09:56.743Z",
+      "updatedAt": "2026-10-11T10:09:56.743Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-beratungsangebot-der-volkssolidaritaet",
+      "title": "Beratungsangebot in der Volkssolidarität",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/beratungsangebot-der-volkssolidaritaet",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T18:12:38.750Z",
+      "updatedAt": "2026-10-11T10:09:56.743Z"
     }
   ]
 }

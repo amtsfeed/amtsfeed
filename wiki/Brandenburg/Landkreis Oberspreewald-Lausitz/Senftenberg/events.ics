@@ -2111,4 +2111,37 @@ URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/F%C3%B6rster-S
  prechstunde-f%C3%BCr-Jung-und-Alt.php?object=tx\,2779.4&ModID=11&FID=2779
  .7568.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
 END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-7417@amtsfeed.de
+DTSTAMP:20261011T101059Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Krimilesung mit Sia Piontek
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Krimilesung-mi
+ t-Sia-Piontek.php?object=tx\,2779.4&ModID=11&FID=2779.7417.1&NavID=2779.1
+ 6&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-7569@amtsfeed.de
+DTSTAMP:20261011T101059Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Krimiabend: &raquo\;Blutroter Sommer&laquo\; mit Sia Piontek - Se
+ nftenberger KulturTage
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Krimiabend-Blu
+ troter-Sommer-mit-Sia-Piontek-Senftenberger-KulturTage.php?object=tx\,277
+ 9.4&ModID=11&FID=2779.7569.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
+BEGIN:VEVENT
+UID:senftenberg-event-7212@amtsfeed.de
+DTSTAMP:20261011T101059Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Ausstellung von Wilfried Schneiders "Strichkompositionen" und Han
+ s-Jürgen Schöbels "Dynamik in Farben und Bewegung"
+URL:https://www.senftenberg.de/B%C3%BCrger/Veranstaltungen/Ausstellung-vo
+ n-Wilfried-Schneiders-Strichkompositionen-und-Hans-J%C3%BCrgen-Sch%C3%B6b
+ els-Dynamik-in-Farben-und-Bewegung-.php?object=tx\,2779.4&ModID=11&FID=27
+ 79.7212.1&NavID=2779.16&sfort=1&sfvort=1&sfreg=1&dv0=1
+END:VEVENT
 END:VCALENDAR

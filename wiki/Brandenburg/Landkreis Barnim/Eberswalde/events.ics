@@ -994,14 +994,6 @@ URL:https://www.eberswalde.de/termine/das-schoene-leben-lesung-mit-kathar
  ina-peters-kaltes-versprechen
 END:VEVENT
 BEGIN:VEVENT
-UID:info.php@amtsfeed.de
-DTSTAMP:20261007T101903Z
-DTSTART:20261007T201500Z
-SUMMARY:Ausschuss für Soziales\, Bildung\, Ordnung und Kultur (Fachaussc
- huss 2 - F2)
-URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
-END:VEVENT
-BEGIN:VEVENT
 UID:das-schoene-leben-maerchen-und-wahrheiten-zu-lebensmitteln@amtsfeed.d
  e
 DTSTAMP:20261007T101903Z
@@ -1168,5 +1160,43 @@ DTSTAMP:20261010T095350Z
 DTSTART:20261013T100000Z
 SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-26
+END:VEVENT
+BEGIN:VEVENT
+UID:info.php@amtsfeed.de
+DTSTAMP:20261011T100329Z
+DTSTART:20261013T201500Z
+SUMMARY:Ausschuss für Stadtentwicklung\, Wohnen und Umwelt (Fachausschus
+ s 3 - F3)
+URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-27@amtsfeed.de
+DTSTAMP:20261011T100329Z
+DTSTART:20261014T150000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-27
+END:VEVENT
+BEGIN:VEVENT
+UID:buchflohmarkt-in-der-stadtbibliothek@amtsfeed.de
+DTSTAMP:20261011T100329Z
+DTSTART:20261015T100000Z
+SUMMARY:Buchflohmarkt in der Stadtbibliothek
+URL:https://www.eberswalde.de/termine/buchflohmarkt-in-der-stadtbibliothe
+ k
+END:VEVENT
+BEGIN:VEVENT
+UID:6-netzwerktreffen-brandenburger-spielorte@amtsfeed.de
+DTSTAMP:20261011T100329Z
+DTSTART:20261015T100000Z
+SUMMARY:6. Netzwerktreffen „Brandenburger Spielorte“
+URL:https://www.eberswalde.de/termine/6-netzwerktreffen-brandenburger-spi
+ elorte
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-28@amtsfeed.de
+DTSTAMP:20261011T100329Z
+DTSTART:20261015T150000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-28
 END:VEVENT
 END:VCALENDAR

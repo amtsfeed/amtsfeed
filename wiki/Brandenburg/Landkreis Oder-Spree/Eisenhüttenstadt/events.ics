@@ -1090,8 +1090,8 @@ UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
  a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
  ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261010T100138Z
-DTSTART:20261010T100138Z
+DTSTAMP:20261011T101143Z
+DTSTART:20261011T101143Z
 SUMMARY:Veranstaltungen
 URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
@@ -1303,6 +1303,16 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Kindershow-TomTom.php?
  ModID=11&amp\;FID=2852.1886.1
 LOCATION:kleine bühne
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1984-1@amtsfeed.de
+DTSTAMP:20261011T101143Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Halloween-Herbstfest im Tiergehege Eisenhüttenstadt
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Halloween-Herbstfest-i
+ m-Tiergehege-Eisenh%C3%BCttenstadt-.php?ModID=11&amp\;FID=2852.1984.1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1970-1@amtsfeed.de

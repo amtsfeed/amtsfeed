@@ -1011,18 +1011,6 @@ DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
 END:VEVENT
 BEGIN:VEVENT
-UID:2464910@amtsfeed.de
-DTSTAMP:20261004T095633Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Bäckerwagen in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/10/bäckerwa
- gen-in-podelzig.html
-DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
-  Dorfteich
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2955770@amtsfeed.de
 DTSTAMP:20260911T111132Z
 DTSTART;VALUE=DATE:20261010
@@ -1209,6 +1197,18 @@ DTEND;VALUE=DATE:20261017
 SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
 URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/10/16/selbstver
  teidigung-für-jugendliche-ab-13-jahren.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464910@amtsfeed.de
+DTSTAMP:20261011T100841Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Bäckerwagen in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/17/bäckerwa
+ gen-in-podelzig.html
+DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
+  Dorfteich
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT

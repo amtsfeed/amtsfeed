@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:53:50.148Z",
+  "updatedAt": "2026-10-11T10:03:29.604Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -961,14 +961,6 @@
       "updatedAt": "2026-10-07T10:19:03.395Z"
     },
     {
-      "id": "info.php",
-      "title": "Ausschuss für Soziales, Bildung, Ordnung und Kultur (Fachausschuss 2 - F2)",
-      "url": "https://sessionnet.eberswalde.de/sessionnet/bi/info.php",
-      "startDate": "2026-10-07T20:15:00.000Z",
-      "fetchedAt": "2026-09-13T08:21:28.808Z",
-      "updatedAt": "2026-10-07T10:19:03.395Z"
-    },
-    {
       "id": "das-schoene-leben-maerchen-und-wahrheiten-zu-lebensmitteln",
       "title": "Das schöne Leben: Märchen und Wahrheiten zu Lebensmitteln",
       "url": "https://www.eberswalde.de/termine/das-schoene-leben-maerchen-und-wahrheiten-zu-lebensmitteln",
@@ -1136,6 +1128,46 @@
       "startDate": "2026-10-13T10:00:00.000Z",
       "fetchedAt": "2026-10-10T09:53:50.139Z",
       "updatedAt": "2026-10-10T09:53:50.139Z"
+    },
+    {
+      "id": "info.php",
+      "title": "Ausschuss für Stadtentwicklung, Wohnen und Umwelt (Fachausschuss 3 - F3)",
+      "url": "https://sessionnet.eberswalde.de/sessionnet/bi/info.php",
+      "startDate": "2026-10-13T20:15:00.000Z",
+      "fetchedAt": "2026-09-13T08:21:28.808Z",
+      "updatedAt": "2026-10-11T10:03:29.593Z"
+    },
+    {
+      "id": "faszination-holz-27",
+      "title": "Faszination Holz",
+      "url": "https://www.eberswalde.de/termine/faszination-holz-27",
+      "startDate": "2026-10-14T15:00:00.000Z",
+      "fetchedAt": "2026-10-11T10:03:29.593Z",
+      "updatedAt": "2026-10-11T10:03:29.593Z"
+    },
+    {
+      "id": "buchflohmarkt-in-der-stadtbibliothek",
+      "title": "Buchflohmarkt in der Stadtbibliothek",
+      "url": "https://www.eberswalde.de/termine/buchflohmarkt-in-der-stadtbibliothek",
+      "startDate": "2026-10-15T10:00:00.000Z",
+      "fetchedAt": "2026-10-11T10:03:29.593Z",
+      "updatedAt": "2026-10-11T10:03:29.593Z"
+    },
+    {
+      "id": "6-netzwerktreffen-brandenburger-spielorte",
+      "title": "6. Netzwerktreffen „Brandenburger Spielorte“",
+      "url": "https://www.eberswalde.de/termine/6-netzwerktreffen-brandenburger-spielorte",
+      "startDate": "2026-10-15T10:00:00.000Z",
+      "fetchedAt": "2026-10-11T10:03:29.593Z",
+      "updatedAt": "2026-10-11T10:03:29.593Z"
+    },
+    {
+      "id": "faszination-holz-28",
+      "title": "Faszination Holz",
+      "url": "https://www.eberswalde.de/termine/faszination-holz-28",
+      "startDate": "2026-10-15T15:00:00.000Z",
+      "fetchedAt": "2026-10-11T10:03:29.593Z",
+      "updatedAt": "2026-10-11T10:03:29.593Z"
     }
   ]
 }

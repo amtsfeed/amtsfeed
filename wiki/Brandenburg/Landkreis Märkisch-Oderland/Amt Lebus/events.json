@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:58:50.739Z",
+  "updatedAt": "2026-10-11T10:08:41.767Z",
   "items": [
     {
       "id": "2846347",
@@ -846,16 +846,6 @@
       "updatedAt": "2026-05-06T20:20:27.585Z"
     },
     {
-      "id": "2464910",
-      "title": "Bäckerwagen in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/10/bäckerwagen-in-podelzig.html",
-      "startDate": "2026-10-10T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Bäckerwagen, im Unterdorf, am Neubau, Wuhdener Weg nur am Dorfteich",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-04T09:56:33.374Z"
-    },
-    {
       "id": "2955770",
       "title": "Rock am Kreisel in Lebus",
       "url": "https://www.amt-lebus.de/veranstaltungen/2955770/2026/10/10/rock-am-kreisel-in-lebus.html",
@@ -1024,6 +1014,16 @@
       "location": "Podelzig",
       "fetchedAt": "2026-05-05T14:58:26.635Z",
       "updatedAt": "2026-10-10T09:58:50.726Z"
+    },
+    {
+      "id": "2464910",
+      "title": "Bäckerwagen in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/17/bäckerwagen-in-podelzig.html",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Bäckerwagen, im Unterdorf, am Neubau, Wuhdener Weg nur am Dorfteich",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-11T10:08:41.751Z"
     },
     {
       "id": "2928789",

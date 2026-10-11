@@ -968,15 +968,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2975748/2026/10/09/flak
  upa-2026-zusammen-ist-ein-ort.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2810938@amtsfeed.de
-DTSTAMP:20260913T083120Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:KoDorf-Caf&eacute\;
-URL:https://www.wiesenburgmark.de/veranstaltungen/2810938/2026/10/10/kodo
- rf-café.html
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2971207@amtsfeed.de
 DTSTAMP:20260922T084237Z
 DTSTART;VALUE=DATE:20261010
@@ -1314,6 +1305,15 @@ SUMMARY:Seminar " Hilfe beim Helfen" für Angehörige von Menschen mit De
 URL:https://www.wiesenburgmark.de/veranstaltungen/2928864/2026/11/11/semi
  nar-hilfe-beim-helfen-für-angehörige-von-menschen-mit-demenz-die-lasten
  -teilen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2810938@amtsfeed.de
+DTSTAMP:20261011T101328Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:KoDorf-Caf&eacute\;
+URL:https://www.wiesenburgmark.de/veranstaltungen/2810938/2026/11/14/kodo
+ rf-café.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973356@amtsfeed.de

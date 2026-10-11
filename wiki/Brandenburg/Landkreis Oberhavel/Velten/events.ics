@@ -1101,6 +1101,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Netzwe
  11&amp\;FID=3631.1192.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1214@amtsfeed.de
+DTSTAMP:20261011T101021Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:TonEntdecker-Werkstatt - Herbstferien 2026
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/TonEnt
+ decker-Werkstatt-Herbstferien-2026.php?object=tx\,3631.4.1&amp\;ModID=11&
+ amp\;FID=3631.1214.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-1190@amtsfeed.de
 DTSTAMP:20260926T084429Z
 DTSTART;VALUE=DATE:20261029

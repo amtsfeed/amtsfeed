@@ -400,6 +400,17 @@ DESCRIPTION:Stöbern\, entdecken und vielleicht das eine oder andere beso
 LOCATION:Campingplatz Zeestow\,
 END:VEVENT
 BEGIN:VEVENT
+UID:brieselang-event-Laternenumzug-in-Brieselang-20261001@amtsfeed.de
+DTSTAMP:20261011T100548Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Laternenumzug in Brieselang
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Laternenumzug-in-Brieselang.html?
+DESCRIPTION:Am Freitag\, 1. Oktober 2027\, findet wieder der beliebte Lat
+ ernenumzug statt. Nähere Infos folgen...
+END:VEVENT
+BEGIN:VEVENT
 UID:brieselang-event-Grosser-Laternenumzug-in-Brieselang-20261002@amtsfee
  d.de
 DTSTAMP:20260911T110730Z
@@ -623,6 +634,21 @@ UID:brieselang-event-Brieselanger-Kirmes-findet-als-Oktoberfest-statt-202
  61010@amtsfeed.de
 DTSTAMP:20261010T095547Z
 DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Brieselanger Kirmes findet als Oktoberfest statt
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Brieselanger-Kirmes-findet-als-Oktoberfest-statt.html?
+DESCRIPTION:Die traditionelle Brieselanger Kirmes wird in diesem Jahr zum
+  Oktoberfest: Von Freitag\, 9. Oktober\, bis Sonntag\, 11. Oktober 2026\,
+  laden Fahrgeschäfte\, Karussells\, Spielangebote und ein Bühnenprogram
+ m auf den Parkplatz am Nymphensee ein. Das Fest beginnt am Freitag um 14 
+ Uhr\, am Sonnabend und Sonntag jeweils um 12 Uhr.
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Brieselanger-Kirmes-findet-als-Oktoberfest-statt-202
+ 61011@amtsfeed.de
+DTSTAMP:20261011T100548Z
+DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Brieselanger Kirmes findet als Oktoberfest statt
 URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran

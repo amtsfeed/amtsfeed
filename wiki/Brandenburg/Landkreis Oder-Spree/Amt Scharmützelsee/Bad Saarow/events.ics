@@ -443,15 +443,6 @@ SUMMARY:Hula-Hoop-Festival
 URL:https://www.scharmuetzelsee.de/event/hula-hoop-festival
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
-DTSTAMP:20260927T092519Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:Ortsführung durch den Kurort Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-linienfahrten-hauptsaison-taeglich@amtsfeed.de
 DTSTAMP:20260927T092519Z
 DTSTART;VALUE=DATE:20260927
@@ -767,35 +758,6 @@ SUMMARY:Offener Meditationsabend
 URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
- d.de
-DTSTAMP:20261008T104608Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
-URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
- harmuetzelsee
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261008T104608Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261008T104608Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-koerbe-flechten-ferienprogramm@amtsfeed.de
 DTSTAMP:20261008T104608Z
 DTSTART;VALUE=DATE:20261008
@@ -911,6 +873,64 @@ DTEND;VALUE=DATE:20261011
 SUMMARY:SOUNDtracks im Scharwenka Kulturforum
 URL:https://www.scharmuetzelsee.de/event/soundtracks-im-scharwenka-kultur
  forum
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
+DTSTAMP:20261011T101115Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Ortsführung durch den Kurort Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
+ d.de
+DTSTAMP:20261011T101115Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
+ harmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261011T101115Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261011T101115Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-genusswerkstatt-im-hotel-esplanade@amtsfeed.de
+DTSTAMP:20261011T101115Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Genusswerkstatt im Hotel Esplanade
+URL:https://www.scharmuetzelsee.de/event/genusswerkstatt-im-hotel-esplana
+ de
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-11-storkower-herbstpoesie-musikalische-lesung-eine-mu
+ tter-kaempft-gegen-hitler-mit-patricia-litten@amtsfeed.de
+DTSTAMP:20261011T101115Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:11. Storkower Herbstpoesie: Musikalische Lesung „Eine Mutter k
+ ämpft gegen Hitler“ mit Patricia Litten
+URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-musika
+ lische-lesung-eine-mutter-kaempft-gegen-hitler-mit-patricia-litten
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz@amtsf

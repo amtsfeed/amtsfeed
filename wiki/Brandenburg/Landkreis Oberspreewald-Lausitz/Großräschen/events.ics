@@ -462,15 +462,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2961243/2026/10/08/musik
  alische-lesung-mit-frank-liebe-thriller-meets-hörspiel.html
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2837702@amtsfeed.de
-DTSTAMP:20260913T082855Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Eltern-Kind-Sport
-URL:https://www.grossraeschen.de/veranstaltungen/2837702/2026/10/10/elter
- n-kind-sport.html
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2970670@amtsfeed.de
 DTSTAMP:20260921T090705Z
 DTSTART;VALUE=DATE:20261010
@@ -857,6 +848,15 @@ DTEND;VALUE=DATE:20261114
 SUMMARY:Starke Weiber dürfen mehr!
 URL:https://www.grossraeschen.de/veranstaltungen/2981027/2026/11/13/stark
  e-weiber-dürfen-mehr.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2837702@amtsfeed.de
+DTSTAMP:20261011T101044Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Eltern-Kind-Sport
+URL:https://www.grossraeschen.de/veranstaltungen/2837702/2026/11/14/elter
+ n-kind-sport.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2981111@amtsfeed.de

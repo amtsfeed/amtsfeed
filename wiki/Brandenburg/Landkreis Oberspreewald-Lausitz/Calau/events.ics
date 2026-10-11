@@ -923,15 +923,6 @@ URL:https://www.calau.de/veranstaltungen/2977306/2026/10/09/vortrag-zur-n
  achbarschaftshilfe.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20261007T102712Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:10.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
-URL:https://www.calau.de/veranstaltungen/2864723/2026/10/10/flugshow-auf-
- dem-adler-und-jagdfalkenhof-werchow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2975109@amtsfeed.de
 DTSTAMP:20261008T104538Z
 DTSTART;VALUE=DATE:20261010
@@ -950,6 +941,15 @@ URL:https://www.calau.de/veranstaltungen/2975865/2026/10/10/puppen-mitmac
  h-show.html
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2864723@amtsfeed.de
+DTSTAMP:20261011T101042Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:11.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+URL:https://www.calau.de/veranstaltungen/2864723/2026/10/11/flugshow-auf-
+ dem-adler-und-jagdfalkenhof-werchow.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2822078@amtsfeed.de
 DTSTAMP:20261010T100042Z
 DTSTART;VALUE=DATE:20261011
@@ -960,19 +960,19 @@ URL:https://www.calau.de/veranstaltungen/2822078/2026/10/11/kirchturmfüh
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2973472@amtsfeed.de
-DTSTAMP:20260924T083732Z
+DTSTAMP:20261011T101042Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-SUMMARY:Herbstkonzert
+SUMMARY:11.10.2026   Herbstkonzert
 URL:https://www.calau.de/veranstaltungen/2973472/2026/10/11/herbstkonzert
  .html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2898940@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261011T101042Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:"Malen für die Seele" - offene Malgruppe
+SUMMARY:12.10.2026   "Malen für die Seele" - offene Malgruppe
 URL:https://www.calau.de/veranstaltungen/2898940/2026/10/12/malen-für-di
  e-seele-offene-malgruppe.html
 END:VEVENT
@@ -987,10 +987,10 @@ URL:https://www.calau.de/veranstaltungen/2290342/2026/10/13/calauer-woche
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2024997@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261011T101042Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:IHK-Sprechtag in Calau
+SUMMARY:13.10.2026   IHK-Sprechtag in Calau
 URL:https://www.calau.de/veranstaltungen/2024997/2026/10/13/ihk-sprechtag
  -in-calau.html
 END:VEVENT

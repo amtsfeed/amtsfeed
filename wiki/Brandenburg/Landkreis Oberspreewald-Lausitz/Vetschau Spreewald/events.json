@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:43:29.127Z",
+  "updatedAt": "2026-10-11T10:11:02.275Z",
   "items": [
     {
       "id": "vetschau-spreewald-event-20260528-1",
@@ -1226,13 +1226,23 @@
     },
     {
       "id": "vetschau-spreewald-event-20261014-3",
+      "title": "Kinder Afrikas – mit Michael Rischer",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-10-14T10:00:00.000Z",
+      "endDate": "2026-10-14T11:00:00.000Z",
+      "location": "Vetschau (Bibliothek)",
+      "fetchedAt": "2026-10-09T10:43:29.134Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20261014-2",
       "title": "Bücherwurm Fridolin - mit dem Musiker Frank Fröhlich",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
       "startDate": "2026-10-14T10:00:00.000Z",
       "endDate": "2026-10-14T11:00:00.000Z",
       "location": "Bibliothek Lübbenau",
-      "fetchedAt": "2026-10-09T10:43:29.134Z",
-      "updatedAt": "2026-10-09T10:43:29.134Z"
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     },
     {
       "id": "vetschau-spreewald-event-20261015-52",
@@ -1343,6 +1353,16 @@
       "location": "Vetschau/Spreewald",
       "fetchedAt": "2026-10-09T10:43:29.134Z",
       "updatedAt": "2026-10-09T10:43:29.134Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20261015-4",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-10-15T08:00:00.000Z",
+      "endDate": "2026-10-15T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     },
     {
       "id": "vetschau-spreewald-event-20261016-53",
@@ -1486,13 +1506,23 @@
     },
     {
       "id": "vetschau-spreewald-event-20261016-6",
+      "title": "Märchenhafter Oman – mit Michael Rischer",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-10-16T18:00:00.000Z",
+      "endDate": "2026-10-16T19:30:00.000Z",
+      "location": "Vetschau (Bibliothek)",
+      "fetchedAt": "2026-10-09T10:43:29.134Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20261016-5",
       "title": "Märchenhaftes Marokko - mit dem VW-Bus durch das Königreich",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
       "startDate": "2026-10-16T18:00:00.000Z",
       "endDate": "2026-10-16T19:30:00.000Z",
       "location": "Bibliothek Lübbenau",
-      "fetchedAt": "2026-10-09T10:43:29.134Z",
-      "updatedAt": "2026-10-09T10:43:29.134Z"
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     },
     {
       "id": "vetschau-spreewald-event-20261022-55",
@@ -1605,6 +1635,16 @@
       "updatedAt": "2026-10-09T10:43:29.134Z"
     },
     {
+      "id": "vetschau-spreewald-event-20261022-7",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-10-22T08:00:00.000Z",
+      "endDate": "2026-10-22T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
       "id": "vetschau-spreewald-event-20261029-56",
       "title": "Wochenmarkt Vetschau",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
@@ -1713,6 +1753,16 @@
       "location": "Vetschau/Spreewald",
       "fetchedAt": "2026-10-09T10:43:29.134Z",
       "updatedAt": "2026-10-09T10:43:29.134Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20261029-8",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-10-29T08:00:00.000Z",
+      "endDate": "2026-10-29T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     },
     {
       "id": "vetschau-spreewald-event-20261105-57",
@@ -1825,6 +1875,16 @@
       "updatedAt": "2026-10-09T10:43:29.134Z"
     },
     {
+      "id": "vetschau-spreewald-event-20261105-9",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-11-05T08:00:00.000Z",
+      "endDate": "2026-11-05T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
       "id": "vetschau-spreewald-event-20261110-22",
       "title": "inspiring universe & WALDgefühl",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
@@ -1923,6 +1983,16 @@
       "location": "Missen",
       "fetchedAt": "2026-10-09T10:43:29.134Z",
       "updatedAt": "2026-10-09T10:43:29.134Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20261110-10",
+      "title": "inspiring universe & WALDgefühl",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-11-10T17:00:00.000Z",
+      "endDate": "2026-11-10T22:00:00.000Z",
+      "location": "Missen",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     },
     {
       "id": "vetschau-spreewald-event-20261112-58",
@@ -2035,6 +2105,16 @@
       "updatedAt": "2026-10-09T10:43:29.134Z"
     },
     {
+      "id": "vetschau-spreewald-event-20261112-11",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-11-12T08:00:00.000Z",
+      "endDate": "2026-11-12T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
       "id": "vetschau-spreewald-event-20261119-59",
       "title": "Wochenmarkt Vetschau",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
@@ -2143,6 +2223,16 @@
       "location": "Vetschau/Spreewald",
       "fetchedAt": "2026-10-09T10:43:29.134Z",
       "updatedAt": "2026-10-09T10:43:29.134Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20261119-12",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-11-19T08:00:00.000Z",
+      "endDate": "2026-11-19T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     },
     {
       "id": "vetschau-spreewald-event-20261126-60",
@@ -2255,6 +2345,16 @@
       "updatedAt": "2026-10-09T10:43:29.134Z"
     },
     {
+      "id": "vetschau-spreewald-event-20261126-13",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-11-26T08:00:00.000Z",
+      "endDate": "2026-11-26T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
       "id": "vetschau-spreewald-event-20261128-61",
       "title": "Schlossweihnacht Vetschau am 1. Advent",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
@@ -2285,14 +2385,24 @@
       "updatedAt": "2026-09-25T08:58:57.826Z"
     },
     {
-      "id": "vetschau-spreewald-event-20261128-15",
+      "id": "vetschau-spreewald-event-20261128-14",
       "title": "Schlossweihnacht Vetschau am 1. Advent",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
       "startDate": "2026-11-28T12:00:00.000Z",
       "endDate": "2026-11-28T18:00:00.000Z",
       "location": "Vetschau (Stadtschloss)",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20261128-15",
+      "title": "Weihnachtspuppenbühne für Kinder",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-11-28T15:00:00.000Z",
+      "endDate": "2026-11-28T16:00:00.000Z",
+      "location": "Vetschau (Wendisch-Deutsche Doppelkirche)",
       "fetchedAt": "2026-10-09T10:43:29.134Z",
-      "updatedAt": "2026-10-09T10:43:29.134Z"
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     },
     {
       "id": "vetschau-spreewald-event-20261128-16",
@@ -2515,6 +2625,16 @@
       "updatedAt": "2026-10-09T10:43:29.134Z"
     },
     {
+      "id": "vetschau-spreewald-event-20261203-16",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-12-03T08:00:00.000Z",
+      "endDate": "2026-12-03T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
       "id": "vetschau-spreewald-event-20261205-64",
       "title": "Weihnachten in Missen",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
@@ -2635,6 +2755,16 @@
       "updatedAt": "2026-10-09T10:43:29.134Z"
     },
     {
+      "id": "vetschau-spreewald-event-20261205-17",
+      "title": "Weihnachten in Missen",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-12-05T10:00:00.000Z",
+      "endDate": "2026-12-05T18:00:00.000Z",
+      "location": "Missen",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
       "id": "vetschau-spreewald-event-20261210-66",
       "title": "Wochenmarkt Vetschau",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
@@ -2743,6 +2873,16 @@
       "location": "Vetschau/Spreewald",
       "fetchedAt": "2026-10-09T10:43:29.134Z",
       "updatedAt": "2026-10-09T10:43:29.134Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20261210-18",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-12-10T08:00:00.000Z",
+      "endDate": "2026-12-10T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     },
     {
       "id": "vetschau-spreewald-event-20261212-67",
@@ -2855,6 +2995,16 @@
       "updatedAt": "2026-10-09T10:43:29.134Z"
     },
     {
+      "id": "vetschau-spreewald-event-20261212-19",
+      "title": "Weihnachten in Missen",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-12-12T10:00:00.000Z",
+      "endDate": "2026-12-12T18:00:00.000Z",
+      "location": "Missen",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
       "id": "vetschau-spreewald-event-20261217-68",
       "title": "Wochenmarkt Vetschau",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
@@ -2963,6 +3113,16 @@
       "location": "Vetschau/Spreewald",
       "fetchedAt": "2026-10-09T10:43:29.134Z",
       "updatedAt": "2026-10-09T10:43:29.134Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20261217-20",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-12-17T08:00:00.000Z",
+      "endDate": "2026-12-17T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     },
     {
       "id": "vetschau-spreewald-event-20261224-69",
@@ -3075,6 +3235,16 @@
       "updatedAt": "2026-10-09T10:43:29.134Z"
     },
     {
+      "id": "vetschau-spreewald-event-20261224-21",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-12-24T08:00:00.000Z",
+      "endDate": "2026-12-24T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
       "id": "vetschau-spreewald-event-20261231-70",
       "title": "Wochenmarkt Vetschau",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
@@ -3183,6 +3353,16 @@
       "location": "Vetschau/Spreewald",
       "fetchedAt": "2026-10-09T10:43:29.134Z",
       "updatedAt": "2026-10-09T10:43:29.134Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20261231-22",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-12-31T08:00:00.000Z",
+      "endDate": "2026-12-31T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     },
     {
       "id": "vetschau-spreewald-event-20270107-71",
@@ -3295,6 +3475,16 @@
       "updatedAt": "2026-10-09T10:43:29.134Z"
     },
     {
+      "id": "vetschau-spreewald-event-20270107-23",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2027-01-07T08:00:00.000Z",
+      "endDate": "2027-01-07T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
       "id": "vetschau-spreewald-event-20270114-72",
       "title": "Wochenmarkt Vetschau",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
@@ -3403,6 +3593,16 @@
       "location": "Vetschau/Spreewald",
       "fetchedAt": "2026-10-09T10:43:29.134Z",
       "updatedAt": "2026-10-09T10:43:29.134Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20270114-24",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2027-01-14T08:00:00.000Z",
+      "endDate": "2027-01-14T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     },
     {
       "id": "vetschau-spreewald-event-20270121-73",
@@ -3515,6 +3715,16 @@
       "updatedAt": "2026-10-09T10:43:29.134Z"
     },
     {
+      "id": "vetschau-spreewald-event-20270121-25",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2027-01-21T08:00:00.000Z",
+      "endDate": "2027-01-21T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
+    },
+    {
       "id": "vetschau-spreewald-event-20270128-74",
       "title": "Wochenmarkt Vetschau",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
@@ -3623,6 +3833,16 @@
       "location": "Vetschau/Spreewald",
       "fetchedAt": "2026-10-09T10:43:29.134Z",
       "updatedAt": "2026-10-09T10:43:29.134Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20270128-26",
+      "title": "Wochenmarkt Vetschau",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2027-01-28T08:00:00.000Z",
+      "endDate": "2027-01-28T13:00:00.000Z",
+      "location": "Vetschau/Spreewald",
+      "fetchedAt": "2026-10-11T10:11:02.285Z",
+      "updatedAt": "2026-10-11T10:11:02.285Z"
     }
   ]
 }

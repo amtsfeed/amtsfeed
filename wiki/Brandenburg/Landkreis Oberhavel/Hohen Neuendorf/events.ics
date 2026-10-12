@@ -635,4 +635,13 @@ SUMMARY:Beratungsangebot in der Volkssolidarität
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  beratungsangebot-der-volkssolidaritaet
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-stolpe-ein-dorf-brandenburg@amtsfeed.de
+DTSTAMP:20261012T110603Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Stolpe - ein Dorf in Brandenburg
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ stolpe-ein-dorf-brandenburg
+END:VEVENT
 END:VCALENDAR

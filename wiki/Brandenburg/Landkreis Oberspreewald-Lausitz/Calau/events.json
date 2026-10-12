@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T10:10:42.067Z",
+  "updatedAt": "2026-10-12T11:06:40.363Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -834,14 +834,6 @@
       "updatedAt": "2026-10-09T10:43:11.678Z"
     },
     {
-      "id": "calau-event-2864723",
-      "title": "11.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow",
-      "url": "https://www.calau.de/veranstaltungen/2864723/2026/10/11/flugshow-auf-dem-adler-und-jagdfalkenhof-werchow.html",
-      "startDate": "2026-10-11T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-11T10:10:42.056Z"
-    },
-    {
       "id": "calau-event-2822078",
       "title": "11.10.2026   Kirchturmführungen ohne Anmeldung",
       "url": "https://www.calau.de/veranstaltungen/2822078/2026/10/11/kirchturmführungen-ohne-anmeldung.html",
@@ -867,11 +859,11 @@
     },
     {
       "id": "calau-event-2290342",
-      "title": "Calauer Wochenmarkt",
+      "title": "13.10.2026   Calauer Wochenmarkt",
       "url": "https://www.calau.de/veranstaltungen/2290342/2026/10/13/calauer-wochenmarkt.html",
       "startDate": "2026-10-13T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-09T10:43:11.678Z"
+      "updatedAt": "2026-10-12T11:06:40.351Z"
     },
     {
       "id": "calau-event-2024997",
@@ -883,19 +875,19 @@
     },
     {
       "id": "calau-event-2315266",
-      "title": "Calauer Museen öffnen",
+      "title": "14.10.2026   Calauer Museen öffnen",
       "url": "https://www.calau.de/veranstaltungen/2315266/2026/10/14/calauer-museen-öffnen.html",
       "startDate": "2026-10-14T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-08T10:45:38.964Z"
+      "updatedAt": "2026-10-12T11:06:40.351Z"
     },
     {
       "id": "calau-event-2947234",
-      "title": "Tanz Dich Frei",
+      "title": "14.10.2026   Tanz Dich Frei",
       "url": "https://www.calau.de/veranstaltungen/2947234/2026/10/14/tanz-dich-frei.html",
       "startDate": "2026-10-14T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
-      "updatedAt": "2026-09-11T11:12:29.188Z"
+      "updatedAt": "2026-10-12T11:06:40.351Z"
     },
     {
       "id": "calau-event-2980721",
@@ -936,6 +928,14 @@
       "startDate": "2026-10-16T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
       "updatedAt": "2026-05-31T18:42:01.619Z"
+    },
+    {
+      "id": "calau-event-2864723",
+      "title": "Flugshow auf dem Adler- und Jagdfalkenhof Werchow",
+      "url": "https://www.calau.de/veranstaltungen/2864723/2026/10/17/flugshow-auf-dem-adler-und-jagdfalkenhof-werchow.html",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-10-12T11:06:40.351Z"
     },
     {
       "id": "calau-event-2836131",
@@ -1282,6 +1282,14 @@
       "updatedAt": "2026-05-31T18:42:01.619Z"
     },
     {
+      "id": "calau-event-2982866",
+      "title": "Das Amateurtheater \"Die Calauer\" präsentiert \"Das tapfere Schneiderlein\"",
+      "url": "https://www.calau.de/veranstaltungen/2982866/2026/11/28/das-amateurtheater-die-calauer-präsentiert-das-tapfere-schneiderlein.html",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-10-12T11:06:40.351Z",
+      "updatedAt": "2026-10-12T11:06:40.351Z"
+    },
+    {
       "id": "calau-event-2851867",
       "title": "Advents-Weihnachtsmarkt: Ein Fest für die Sinne",
       "url": "https://www.calau.de/veranstaltungen/2851867/2026/11/29/advents-weihnachtsmarkt-ein-fest-für-die-sinne.html",
@@ -1296,6 +1304,14 @@
       "startDate": "2026-11-29T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
       "updatedAt": "2026-05-31T18:42:01.619Z"
+    },
+    {
+      "id": "calau-event-2982871",
+      "title": "Das Amateurtheater \"Die Calauer\" präsentiert \"Das tapfere Schneiderlein\"",
+      "url": "https://www.calau.de/veranstaltungen/2982871/2026/11/29/das-amateurtheater-die-calauer-präsentiert-das-tapfere-schneiderlein.html",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-12T11:06:40.351Z",
+      "updatedAt": "2026-10-12T11:06:40.351Z"
     },
     {
       "id": "calau-event-2877141",
@@ -1336,6 +1352,14 @@
       "startDate": "2026-12-05T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-09-11T11:12:29.188Z"
+    },
+    {
+      "id": "calau-event-2982872",
+      "title": "Das Amateurtheater \"Die Calauer\" präsentiert \"Das tapfere Schneiderlein\"",
+      "url": "https://www.calau.de/veranstaltungen/2982872/2026/12/06/das-amateurtheater-die-calauer-präsentiert-das-tapfere-schneiderlein.html",
+      "startDate": "2026-12-06T00:00:00.000Z",
+      "fetchedAt": "2026-10-12T11:06:40.351Z",
+      "updatedAt": "2026-10-12T11:06:40.351Z"
     },
     {
       "id": "calau-event-2898942",
@@ -1392,6 +1416,14 @@
       "startDate": "2026-12-17T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-09-11T11:12:29.188Z"
+    },
+    {
+      "id": "calau-event-2982873",
+      "title": "Das Amateurtheater \"Die Calauer\" präsentiert \"Das tapfere Schneiderlein\"",
+      "url": "https://www.calau.de/veranstaltungen/2982873/2026/12/20/das-amateurtheater-die-calauer-präsentiert-das-tapfere-schneiderlein.html",
+      "startDate": "2026-12-20T00:00:00.000Z",
+      "fetchedAt": "2026-10-12T11:06:40.351Z",
+      "updatedAt": "2026-10-12T11:06:40.351Z"
     },
     {
       "id": "calau-event-2851882",

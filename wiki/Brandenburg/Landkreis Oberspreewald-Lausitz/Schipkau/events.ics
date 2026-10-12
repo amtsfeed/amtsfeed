@@ -508,6 +508,18 @@ DESCRIPTION:Die Mobilität und die sichere Teilnahme älterer Verkehrstei
 LOCATION:DEKRA Lausitzring
 END:VEVENT
 BEGIN:VEVENT
+UID:schipkau-event-2983267@amtsfeed.de
+DTSTAMP:20261012T110650Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Bürgergespräche im Ortsteil Meuro
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2983267/2026/10/20/b
+ ürgergespräche-im-ortsteil-meuro.html
+DESCRIPTION:Bürgernähe ist mir wichtig – deshalb möchte ich in allen
+  unseren Ortsteilen persönlich vor ...
+LOCATION:Ortsfeuerwehr Meuro
+END:VEVENT
+BEGIN:VEVENT
 UID:schipkau-event-2853313@amtsfeed.de
 DTSTAMP:20260911T111236Z
 DTSTART;VALUE=DATE:20261023
@@ -576,6 +588,18 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2822328/2026/10/30/h
 LOCATION:Drochow
 END:VEVENT
 BEGIN:VEVENT
+UID:schipkau-event-2983274@amtsfeed.de
+DTSTAMP:20261012T110650Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Bürgergespräche im Ortsteil Schipkau
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2983274/2026/11/03/b
+ ürgergespräche-im-ortsteil-schipkau.html
+DESCRIPTION:Bürgernähe ist mir wichtig – deshalb möchte ich in allen
+  unseren Ortsteilen persönlich vor ...
+LOCATION:Ortsfeuerwehr Schipkau
+END:VEVENT
+BEGIN:VEVENT
 UID:schipkau-event-2973382@amtsfeed.de
 DTSTAMP:20260924T083740Z
 DTSTART;VALUE=DATE:20261107
@@ -608,6 +632,18 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2967420/2026/11/11/s
 DESCRIPTION:Wie in den vergangenen Jahren beginnt die neue Saison in Anna
  hütte mit unserem Fackelumzug. Am ...
 LOCATION:Clubhaus Annahütte
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-2983272@amtsfeed.de
+DTSTAMP:20261012T110650Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Bürgergespräche im Ortsteil Klettwitz
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2983272/2026/11/12/b
+ ürgergespräche-im-ortsteil-klettwitz.html
+DESCRIPTION:Bürgernähe ist mir wichtig – deshalb möchte ich in allen
+  unseren Ortsteilen persönlich vor ...
+LOCATION:Kulturhaus Klettwitz
 END:VEVENT
 BEGIN:VEVENT
 UID:schipkau-event-2967417@amtsfeed.de
@@ -688,6 +724,18 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2822334/2026/11/29/s
 LOCATION:Drochow
 END:VEVENT
 BEGIN:VEVENT
+UID:schipkau-event-2983271@amtsfeed.de
+DTSTAMP:20261012T110650Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Bürgergespräche im Ortsteil Hörlitz
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2983271/2026/12/03/b
+ ürgergespräche-im-ortsteil-hörlitz.html
+DESCRIPTION:Bürgernähe ist mir wichtig – deshalb möchte ich in allen
+  unseren Ortsteilen persönlich vor ...
+LOCATION:Ortsfeuerwehr Hörlitz
+END:VEVENT
+BEGIN:VEVENT
 UID:schipkau-event-2822336@amtsfeed.de
 DTSTAMP:20260531T184203Z
 DTSTART;VALUE=DATE:20261205
@@ -744,6 +792,16 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2853242/2026/12/11/a
 DESCRIPTION:Gemeinsam den Advent erleben: draußen spielen\, drinnen wär
  men und richtig viel Spaß haben. Alle ...
 LOCATION:Gemeinde Schipkau
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-2982986@amtsfeed.de
+DTSTAMP:20261012T110650Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Weihnachtstreiben Annahütte
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2982986/2026/12/12/w
+ eihnachtstreiben-annahütte.html
+LOCATION:Annahütte
 END:VEVENT
 BEGIN:VEVENT
 UID:schipkau-event-2959377@amtsfeed.de
@@ -857,6 +915,18 @@ DTEND;VALUE=DATE:20270206
 SUMMARY:Brigardekarneval
 URL:https://www.gemeinde-schipkau.de/veranstaltungen/2976177/2027/02/05/b
  rigardekarneval.html
+LOCATION:Klettwitz
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-2983063@amtsfeed.de
+DTSTAMP:20261012T110650Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Ostfahrzeugtreffen Klettwitz
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2983063/2027/06/05/o
+ stfahrzeugtreffen-klettwitz.html
+DESCRIPTION:Ausstellung verschiedener Ostfahrzeuge mit Benzingesprächen 
+ und Versorgung.
 LOCATION:Klettwitz
 END:VEVENT
 END:VCALENDAR

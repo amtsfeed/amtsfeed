@@ -2,7 +2,7 @@
   {
     "domain": "britz-chorin-oderberg.de",
     "baseUrl": "https://britz-chorin-oderberg.de",
-    "updatedAt": "2026-10-11T10:03:20.709Z",
+    "updatedAt": "2026-10-12T10:54:33.205Z",
     "content": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://britz-chorin-oderberg.de/wp-sitemap.xml\n"
   }
 ]

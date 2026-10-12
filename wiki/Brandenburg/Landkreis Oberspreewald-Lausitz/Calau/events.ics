@@ -941,15 +941,6 @@ URL:https://www.calau.de/veranstaltungen/2975865/2026/10/10/puppen-mitmac
  h-show.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20261011T101042Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:11.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
-URL:https://www.calau.de/veranstaltungen/2864723/2026/10/11/flugshow-auf-
- dem-adler-und-jagdfalkenhof-werchow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2822078@amtsfeed.de
 DTSTAMP:20261010T100042Z
 DTSTART;VALUE=DATE:20261011
@@ -978,10 +969,10 @@ URL:https://www.calau.de/veranstaltungen/2898940/2026/10/12/malen-für-di
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261009T104311Z
+DTSTAMP:20261012T110640Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:Calauer Wochenmarkt
+SUMMARY:13.10.2026   Calauer Wochenmarkt
 URL:https://www.calau.de/veranstaltungen/2290342/2026/10/13/calauer-woche
  nmarkt.html
 END:VEVENT
@@ -996,19 +987,19 @@ URL:https://www.calau.de/veranstaltungen/2024997/2026/10/13/ihk-sprechtag
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20261008T104538Z
+DTSTAMP:20261012T110640Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:Calauer Museen öffnen
+SUMMARY:14.10.2026   Calauer Museen öffnen
 URL:https://www.calau.de/veranstaltungen/2315266/2026/10/14/calauer-musee
  n-öffnen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2947234@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261012T110640Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:Tanz Dich Frei
+SUMMARY:14.10.2026   Tanz Dich Frei
 URL:https://www.calau.de/veranstaltungen/2947234/2026/10/14/tanz-dich-fre
  i.html
 END:VEVENT
@@ -1058,6 +1049,15 @@ SUMMARY:Kino in Calau zeigt: "Namaste - mit dem Fahrrad durch Nepal" mit
 URL:https://www.calau.de/veranstaltungen/2858856/2026/10/16/kino-in-calau
  -zeigt-namaste-mit-dem-fahrrad-durch-nepal-mit-simone-brüggemann-riemer.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2864723@amtsfeed.de
+DTSTAMP:20261012T110640Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+URL:https://www.calau.de/veranstaltungen/2864723/2026/10/17/flugshow-auf-
+ dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2836131@amtsfeed.de
@@ -1449,6 +1449,16 @@ URL:https://www.calau.de/veranstaltungen/2877139/2026/11/28/lichtfest-mit
  -baum-aufstellen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2982866@amtsfeed.de
+DTSTAMP:20261012T110640Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Das Amateurtheater "Die Calauer" präsentiert "Das tapfere Schnei
+ derlein"
+URL:https://www.calau.de/veranstaltungen/2982866/2026/11/28/das-amateurth
+ eater-die-calauer-präsentiert-das-tapfere-schneiderlein.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2851867@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART;VALUE=DATE:20261129
@@ -1465,6 +1475,16 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Weihnachten mit Michael Hirte
 URL:https://www.calau.de/veranstaltungen/2852542/2026/11/29/weihnachten-m
  it-michael-hirte.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2982871@amtsfeed.de
+DTSTAMP:20261012T110640Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Das Amateurtheater "Die Calauer" präsentiert "Das tapfere Schnei
+ derlein"
+URL:https://www.calau.de/veranstaltungen/2982871/2026/11/29/das-amateurth
+ eater-die-calauer-präsentiert-das-tapfere-schneiderlein.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877141@amtsfeed.de
@@ -1510,6 +1530,16 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Weihnachtsmarkt Calau 2026
 URL:https://www.calau.de/veranstaltungen/2948040/2026/12/05/weihnachtsmar
  kt-calau-2026.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2982872@amtsfeed.de
+DTSTAMP:20261012T110640Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Das Amateurtheater "Die Calauer" präsentiert "Das tapfere Schnei
+ derlein"
+URL:https://www.calau.de/veranstaltungen/2982872/2026/12/06/das-amateurth
+ eater-die-calauer-präsentiert-das-tapfere-schneiderlein.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2898942@amtsfeed.de
@@ -1573,6 +1603,16 @@ DTEND;VALUE=DATE:20261218
 SUMMARY:Krabbelgruppe in der Kita Kunterbunt
 URL:https://www.calau.de/veranstaltungen/2960240/2026/12/17/krabbelgruppe
  -in-der-kita-kunterbunt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2982873@amtsfeed.de
+DTSTAMP:20261012T110640Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Das Amateurtheater "Die Calauer" präsentiert "Das tapfere Schnei
+ derlein"
+URL:https://www.calau.de/veranstaltungen/2982873/2026/12/20/das-amateurth
+ eater-die-calauer-präsentiert-das-tapfere-schneiderlein.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2851882@amtsfeed.de

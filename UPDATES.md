@@ -1,5 +1,67 @@
 # Updates
 
+## 2026-10-12 11:09
+
+Insgesamt **328 neu**, **160 aktualisiert**, **0 entfernt** in 55 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | +3 | +1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Brück | +2 | ~1 | — | — |
+| Amt Friesack | — | +2 | — | — |
+| Amt Golzow | +1 | — | — | — |
+| Amt Lebus | — | — | — | +2 |
+| Amt Nennhausen | — | +1 | — | — |
+| Amt Niemegk | — | +1 | — | — |
+| Amt Scharmützelsee | — | — | +1 | — |
+| Amt Scharmützelsee / Bad Saarow | — | +2 / ~7 | — | — |
+| Amt Schenkenländchen | — | +1 | — | — |
+| Amt Spreenhagen | +1 | +1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bernau bei Berlin | +1 | +2 / ~18 | — | — |
+| Birkenwerder | +1 | — | — | — |
+| Calau | +1 | +4 / ~4 | — | — |
+| Dallgow-Döberitz | — | +2 | — | +2 |
+| Doberlug-Kirchhain | +1 | — | — | — |
+| Eichwalde | +1 | — | — | — |
+| Eisenhüttenstadt | — | ~1 | — | — |
+| Elsterwerda | — | +1 | — | — |
+| Falkensee | +1 / ~1 | +2 | — | — |
+| Fredersdorf-Vogelsdorf | +1 | — | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Fürstenwalde-Spree | — | +1 | — | — |
+| Glienicke-Nordbahn | +2 | — | — | — |
+| Groß Kreutz | — | ~24 | — | — |
+| Heideblick | +2 | — | — | — |
+| Hennigsdorf | +2 | — | — | — |
+| Hohen Neuendorf | — | +1 | — | — |
+| Ketzin Havel | +1 | +3 | — | — |
+| Kleinmachnow | +1 | +1 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +1 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +13 | — | — |
+| Löwenberger Land | — | +3 | — | — |
+| Lübbenau Spreewald | ~1 | +213 / ~33 | — | +1 |
+| Oderbruch / Amt Seelow-Land / Seelow | — | ~4 | — | — |
+| Oranienburg | +2 / ~1 | — | — | — |
+| Premnitz | — | +7 | — | — |
+| Rathenow | — | +7 | — | — |
+| Röderland | — | +1 | — | — |
+| Schipkau | +1 | +6 | — | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schöneiche bei Berlin | — | +1 | — | — |
+| Senftenberg | — | +5 | — | — |
+| Storkow (Mark) | — | +1 | — | — |
+| Tauche | — | ~1 | — | — |
+| Teltow | +1 | — | — | — |
+| Uebigau-Wahrenbrück | — | +2 | — | — |
+| Velten | +1 | — | — | — |
+| Verbandsgemeinde Bad Liebenwerda | — | +2 | — | — |
+| Wandlitz | — | +3 | — | — |
+| Werneuchen | — | — | — | +1 |
+| Wustermark | — | +1 | — | — |
+| Zeuthen | +1 | — | +1 | — |
+
 ## 2026-10-11 10:13
 
 Insgesamt **297 neu**, **137 aktualisiert**, **3 entfernt** in 40 Quellen.

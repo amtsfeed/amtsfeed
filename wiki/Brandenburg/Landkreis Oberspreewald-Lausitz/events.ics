@@ -9393,6 +9393,16 @@ URL:https://www.osl-online.de/veranstaltungen/2977311/2026/12/05/exoticb
 LOCATION:Haus der Jugend
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2983674-20261205@amtsfeed.de
+DTSTAMP:20261013T104558Z
+DTSTART:20261205T143000Z
+DTEND:20261205T220000Z
+SUMMARY:4. Dolsthaidaer Glühweinfest
+URL:https://www.osl-online.de/veranstaltungen/2983674/2026/12/05/4.-dolst
+ haidaer-glühweinfest.html
+LOCATION:Vereinsheim KTZV Alte Dorfstraße (Kita Sonnenschein)
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2829709-20261205@amtsfeed.de
 DTSTAMP:20260917T085221Z
 DTSTART:20261205T160000Z
@@ -14492,5 +14502,15 @@ SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
 URL:https://www.osl-online.de/veranstaltungen/2124475/2027/10/12/chorprob
  e-mit-dem-stadtchor-lauchhammer.html
 LOCATION:Aula in der Oberschule "Am Wehlenteich"
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2315266-20271013@amtsfeed.de
+DTSTAMP:20261013T104558Z
+DTSTART:20271013T100000Z
+DTEND:20271013T120000Z
+SUMMARY:Calauer Museen öffnen
+URL:https://www.osl-online.de/veranstaltungen/2315266/2027/10/13/calauer-
+ museen-öffnen.html
+LOCATION:Haus der Heimatgeschichte
 END:VEVENT
 END:VCALENDAR

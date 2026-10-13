@@ -819,6 +819,25 @@ DESCRIPTION:Schlagworte: Hohenbocka
 LOCATION:Vereinsheim des HKC
 END:VEVENT
 BEGIN:VEVENT
+UID:ruhland-event-7273@amtsfeed.de
+DTSTAMP:20261013T104538Z
+DTSTART:20261107T120000Z
+DTEND:20261107T180000Z
+SUMMARY:Geflügelausstellung in Guteborn
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Guteborn
+LOCATION:Ehem. Kuhstall
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-7276@amtsfeed.de
+DTSTAMP:20261013T104538Z
+DTSTART:20261108T120000Z
+DTEND:20261108T160000Z
+SUMMARY:Geflügelausstellung in Guteborn
+URL:https://www.amt-ruhland.de/veranstaltungen/
+LOCATION:Ehem. Kuhstall
+END:VEVENT
+BEGIN:VEVENT
 UID:ruhland-event-6727@amtsfeed.de
 DTSTAMP:20260922T084033Z
 DTSTART:20261108T160000Z

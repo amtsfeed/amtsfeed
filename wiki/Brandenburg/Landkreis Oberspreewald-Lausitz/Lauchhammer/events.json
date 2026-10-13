@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:43:15.252Z",
+  "updatedAt": "2026-10-13T10:45:42.600Z",
   "items": [
     {
       "id": "lauchhammer-event-2887000",
@@ -210,22 +210,6 @@
       "updatedAt": "2026-09-11T11:12:33.019Z"
     },
     {
-      "id": "lauchhammer-event-2124462",
-      "title": "Treffpunkt Bürgertheater",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2124462/2026/10/12/treffpunkt-bürgertheater.html",
-      "startDate": "2026-10-12T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:33.167Z",
-      "updatedAt": "2026-10-06T10:28:13.320Z"
-    },
-    {
-      "id": "lauchhammer-event-2124466",
-      "title": "Treffpunkt Bürgertheater",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/12/treffpunkt-bürgertheater.html",
-      "startDate": "2026-10-12T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:33.167Z",
-      "updatedAt": "2026-10-06T10:28:13.320Z"
-    },
-    {
       "id": "lauchhammer-event-2124475",
       "title": "Chorprobe mit dem Stadtchor Lauchhammer",
       "url": "https://www.lauchhammer.de/veranstaltungen/2124475/2026/10/13/chorprobe-mit-dem-stadtchor-lauchhammer.html",
@@ -304,6 +288,22 @@
       "startDate": "2026-10-18T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:38.283Z",
       "updatedAt": "2026-09-22T08:40:38.283Z"
+    },
+    {
+      "id": "lauchhammer-event-2124462",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2124462/2026/10/19/treffpunkt-bürgertheater.html",
+      "startDate": "2026-10-19T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:33.167Z",
+      "updatedAt": "2026-10-13T10:45:42.593Z"
+    },
+    {
+      "id": "lauchhammer-event-2124466",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/19/treffpunkt-bürgertheater.html",
+      "startDate": "2026-10-19T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:33.167Z",
+      "updatedAt": "2026-10-13T10:45:42.593Z"
     },
     {
       "id": "lauchhammer-event-2558944",
@@ -448,6 +448,14 @@
       "startDate": "2026-12-02T00:00:00.000Z",
       "fetchedAt": "2026-09-16T08:44:38.932Z",
       "updatedAt": "2026-09-16T08:44:38.932Z"
+    },
+    {
+      "id": "lauchhammer-event-2983674",
+      "title": "4. Dolsthaidaer Glühweinfest",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2983674/2026/12/05/4.-dolsthaidaer-glühweinfest.html",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "fetchedAt": "2026-10-13T10:45:42.593Z",
+      "updatedAt": "2026-10-13T10:45:42.593Z"
     },
     {
       "id": "lauchhammer-event-2873286",

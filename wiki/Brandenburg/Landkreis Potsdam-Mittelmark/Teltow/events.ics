@@ -1356,15 +1356,6 @@ URL:https://www.teltow.de/veranstaltungen/2972963/2026/10/11/staudentröd
  el-im-heimatmuseum.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930009@amtsfeed.de
-DTSTAMP:20261006T103010Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
-URL:https://www.teltow.de/veranstaltungen/2930009/2026/10/12/offener-lern
- raum-digitales-lernen-und-arbeiten-am-computer.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2971725@amtsfeed.de
 DTSTAMP:20260922T084228Z
 DTSTART;VALUE=DATE:20261012
@@ -1622,6 +1613,15 @@ URL:https://www.teltow.de/veranstaltungen/2972973/2026/11/01/das-heimatmu
  seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2930009@amtsfeed.de
+DTSTAMP:20261013T104740Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
+URL:https://www.teltow.de/veranstaltungen/2930009/2026/11/02/offener-lern
+ raum-digitales-lernen-und-arbeiten-am-computer.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2859856@amtsfeed.de
 DTSTAMP:20260506T181553Z
 DTSTART;VALUE=DATE:20261102
@@ -1674,6 +1674,17 @@ DTEND;VALUE=DATE:20261105
 SUMMARY:Sportgruppe
 URL:https://www.teltow.de/veranstaltungen/2972206/2026/11/04/sportgruppe.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2983317@amtsfeed.de
+DTSTAMP:20261013T104740Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Teltower Geschichten bei einer Tasse Kaffee – neues Samstagsang
+ ebot im Heimatmuseum
+URL:https://www.teltow.de/veranstaltungen/2983317/2026/11/07/teltower-ges
+ chichten-bei-einer-tasse-kaffee--neues-samstagsangebot-im-heimatmuseum.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972976@amtsfeed.de
@@ -1791,6 +1802,17 @@ DTEND;VALUE=DATE:20261115
 SUMMARY:Die Goldenen 20er
 URL:https://www.teltow.de/veranstaltungen/2976308/2026/11/14/die-goldenen
  -20er.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2983320@amtsfeed.de
+DTSTAMP:20261013T104740Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Teltower Geschichten bei einer Tasse Kaffee – neues Samstagsang
+ ebot im Heimatmuseum
+URL:https://www.teltow.de/veranstaltungen/2983320/2026/11/14/teltower-ges
+ chichten-bei-einer-tasse-kaffee--neues-samstagsangebot-im-heimatmuseum.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972978@amtsfeed.de
@@ -1982,6 +2004,26 @@ URL:https://www.teltow.de/veranstaltungen/2972258/2026/11/26/weihnachtlic
  hes-klatschkaffee.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2983333@amtsfeed.de
+DTSTAMP:20261013T104740Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Spielenachmittag
+URL:https://www.teltow.de/veranstaltungen/2983333/2026/11/28/spielenachmi
+ ttag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2983321@amtsfeed.de
+DTSTAMP:20261013T104740Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Teltower Geschichten bei einer Tasse Kaffee – neues Samstagsang
+ ebot im Heimatmuseum
+URL:https://www.teltow.de/veranstaltungen/2983321/2026/11/28/teltower-ges
+ chichten-bei-einer-tasse-kaffee--neues-samstagsangebot-im-heimatmuseum.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2972985@amtsfeed.de
 DTSTAMP:20260924T083917Z
 DTSTART;VALUE=DATE:20261129
@@ -2045,6 +2087,15 @@ URL:https://www.teltow.de/veranstaltungen/2978172/2026/12/01/weihnachtssi
  ngen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2983330@amtsfeed.de
+DTSTAMP:20261013T104740Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Weihnachtsfeier
+URL:https://www.teltow.de/veranstaltungen/2983330/2026/12/01/weihnachtsfe
+ ier.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2972339@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261202
@@ -2070,6 +2121,17 @@ DTEND;VALUE=DATE:20261205
 SUMMARY:Jugenddisco
 URL:https://www.teltow.de/veranstaltungen/2973488/2026/12/04/jugenddisco.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2983322@amtsfeed.de
+DTSTAMP:20261013T104740Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Teltower Geschichten bei einer Tasse Kaffee – neues Samstagsang
+ ebot im Heimatmuseum
+URL:https://www.teltow.de/veranstaltungen/2983322/2026/12/05/teltower-ges
+ chichten-bei-einer-tasse-kaffee--neues-samstagsangebot-im-heimatmuseum.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972986@amtsfeed.de
@@ -2124,6 +2186,17 @@ DTEND;VALUE=DATE:20261211
 SUMMARY:Spielnachmittag
 URL:https://www.teltow.de/veranstaltungen/2972343/2026/12/10/spielnachmit
  tag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2983323@amtsfeed.de
+DTSTAMP:20261013T104740Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Teltower Geschichten bei einer Tasse Kaffee – neues Samstagsang
+ ebot im Heimatmuseum
+URL:https://www.teltow.de/veranstaltungen/2983323/2026/12/12/teltower-ges
+ chichten-bei-einer-tasse-kaffee--neues-samstagsangebot-im-heimatmuseum.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972988@amtsfeed.de
@@ -2196,6 +2269,17 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Sportgruppe
 URL:https://www.teltow.de/veranstaltungen/2972351/2026/12/16/sportgruppe.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2983325@amtsfeed.de
+DTSTAMP:20261013T104740Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Teltower Geschichten bei einer Tasse Kaffee – neues Samstagsang
+ ebot im Heimatmuseum
+URL:https://www.teltow.de/veranstaltungen/2983325/2026/12/19/teltower-ges
+ chichten-bei-einer-tasse-kaffee--neues-samstagsangebot-im-heimatmuseum.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972989@amtsfeed.de

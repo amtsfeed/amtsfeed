@@ -1213,6 +1213,17 @@ URL:https://www.amt-seelow-land.de/veranstaltungen/2965628/2026/10/17/liv
  e-in-reitwein-132-luke-winslow-king--muddy-what.html
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2983329-2026-10-17-kulturabend-in-falkenhagen-mark.ht
+ ml@amtsfeed.de
+DTSTAMP:20261013T104434Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Kulturabend in Falkenhagen (Mark)
+URL:https://www.amt-seelow-land.de/veranstaltungen/2983329/2026/10/17/kul
+ turabend-in-falkenhagen-mark.html
+LOCATION:Art & Wiese e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2621544-2026-10-18-spinnangeln.html@amtsfeed.de
 DTSTAMP:20260505T221430Z
 DTSTART;VALUE=DATE:20261018
@@ -1531,6 +1542,17 @@ DTEND;VALUE=DATE:20261212
 SUMMARY:Symphonic Pop orchestra
 URL:https://www.amt-seelow-land.de/veranstaltungen/2865429/2026/12/11/sym
  phonic-pop-orchestra.html
+LOCATION:Kulturhaus Seelow
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2865429-2026-12-11-radio-glanzlichter-das-symphonic-p
+ op-orchestra.html@amtsfeed.de
+DTSTAMP:20261013T104434Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Radio Glanzlichter- das Symphonic Pop Orchestra
+URL:https://www.amt-seelow-land.de/veranstaltungen/2865429/2026/12/11/rad
+ io-glanzlichter-das-symphonic-pop-orchestra.html
 LOCATION:Kulturhaus Seelow
 END:VEVENT
 BEGIN:VEVENT

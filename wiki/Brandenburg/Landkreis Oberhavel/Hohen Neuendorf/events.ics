@@ -644,4 +644,14 @@ SUMMARY:Stolpe - ein Dorf in Brandenburg
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  stolpe-ein-dorf-brandenburg
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-sonja-walter-berliner-musike-und-seemannslieder
+ @amtsfeed.de
+DTSTAMP:20261013T104509Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Sonja Walter: Berliner Musike und Seemannslieder
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ sonja-walter-berliner-musike-und-seemannslieder
+END:VEVENT
 END:VCALENDAR

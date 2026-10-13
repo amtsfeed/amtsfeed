@@ -245,24 +245,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2944153/2026/10/02/lesung-
  l
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124462@amtsfeed.de
-DTSTAMP:20261006T102813Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/10/12/treffpu
- nkt-bürgertheater.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2124466@amtsfeed.de
-DTSTAMP:20261006T102813Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/12/treffpu
- nkt-bürgertheater.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124475@amtsfeed.de
 DTSTAMP:20261007T102716Z
 DTSTART;VALUE=DATE:20261013
@@ -351,6 +333,24 @@ DTEND;VALUE=DATE:20261019
 SUMMARY:Es war einmal ...! im echten Leben!!!
 URL:https://www.lauchhammer.de/veranstaltungen/2971015/2026/10/18/es-war-
  einmal-.-im-echten-leben.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124462@amtsfeed.de
+DTSTAMP:20261013T104542Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/10/19/treffpu
+ nkt-bürgertheater.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124466@amtsfeed.de
+DTSTAMP:20261013T104542Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/19/treffpu
+ nkt-bürgertheater.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2558944@amtsfeed.de
@@ -519,6 +519,15 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Wiener Operetten Weihnacht
 URL:https://www.lauchhammer.de/veranstaltungen/2968413/2026/12/02/wiener-
  operetten-weihnacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2983674@amtsfeed.de
+DTSTAMP:20261013T104542Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:4. Dolsthaidaer Glühweinfest
+URL:https://www.lauchhammer.de/veranstaltungen/2983674/2026/12/05/4.-dols
+ thaidaer-glühweinfest.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2873286@amtsfeed.de

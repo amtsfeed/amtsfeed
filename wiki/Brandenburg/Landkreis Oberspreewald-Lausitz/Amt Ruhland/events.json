@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:19:54.356Z",
+  "updatedAt": "2026-10-13T10:45:38.552Z",
   "items": [
     {
       "id": "ruhland-event-5053",
@@ -889,6 +889,27 @@
       "description": "Schlagworte: Hohenbocka",
       "fetchedAt": "2026-05-31T17:27:51.299Z",
       "updatedAt": "2026-05-31T18:42:01.007Z"
+    },
+    {
+      "id": "ruhland-event-7273",
+      "title": "Geflügelausstellung in Guteborn",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-11-07T12:00:00.000Z",
+      "endDate": "2026-11-07T18:00:00.000Z",
+      "location": "Ehem. Kuhstall",
+      "description": "Schlagworte: Guteborn",
+      "fetchedAt": "2026-10-13T10:45:38.546Z",
+      "updatedAt": "2026-10-13T10:45:38.546Z"
+    },
+    {
+      "id": "ruhland-event-7276",
+      "title": "Geflügelausstellung in Guteborn",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-11-08T12:00:00.000Z",
+      "endDate": "2026-11-08T16:00:00.000Z",
+      "location": "Ehem. Kuhstall",
+      "fetchedAt": "2026-10-13T10:45:38.546Z",
+      "updatedAt": "2026-10-13T10:45:38.546Z"
     },
     {
       "id": "ruhland-event-6727",

@@ -496,4 +496,27 @@ URL:https://amt-niemegk.de/events/entdeckungsraum-mit-anita-606/?occurren
  ce=2026-10-14&#038\;time=1791970200
 LOCATION:Familienzentrum Niemegk
 END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-15-2026-10-15@amtsfeed.de
+DTSTAMP:20261013T104703Z
+DTSTART:20261015T140000Z
+DTEND:20261015T153000Z
+SUMMARY:Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tor
+ e
+URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
+ in-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?
+ occurrence=2026-10-15
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-17-2026-10-17@amtsfeed.de
+DTSTAMP:20261013T104703Z
+DTSTART:20261017T120000Z
+DTEND:20261018T000000Z
+SUMMARY:Musikalische Burgführung
+URL:https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-4
+ 52-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-75
+ 7-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-10-17&#038\;ti
+ me=1792238400
+LOCATION:Burg Rabenstein in Raben
+END:VEVENT
 END:VCALENDAR

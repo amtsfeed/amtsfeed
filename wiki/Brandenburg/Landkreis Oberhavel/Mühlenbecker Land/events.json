@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T10:10:11.468Z",
+  "updatedAt": "2026-10-13T10:45:21.436Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -3559,6 +3559,33 @@
       "location": "Mühlentreff, Hauptstraße 7, OT Mühlenbeck",
       "fetchedAt": "2026-10-11T10:10:11.467Z",
       "updatedAt": "2026-10-11T10:10:11.467Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798275",
+      "title": "Kurs: Nordic Walking",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798275",
+      "startDate": "2026-11-03T10:00:00.000Z",
+      "location": "Treffpunkt am Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
+      "fetchedAt": "2026-10-13T10:45:21.436Z",
+      "updatedAt": "2026-10-13T10:45:21.436Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798223",
+      "title": "Spiele-Nachmittag: \"Brett und Karte\"",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798223",
+      "startDate": "2026-11-03T14:00:00.000Z",
+      "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
+      "fetchedAt": "2026-10-13T10:45:21.436Z",
+      "updatedAt": "2026-10-13T10:45:21.436Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798507",
+      "title": "Vereinsnachmittag und Bücherausleihe",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798507",
+      "startDate": "2026-11-03T15:00:00.000Z",
+      "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
+      "fetchedAt": "2026-10-13T10:45:21.436Z",
+      "updatedAt": "2026-10-13T10:45:21.436Z"
     }
   ]
 }

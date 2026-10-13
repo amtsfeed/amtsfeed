@@ -986,26 +986,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2980791/2026/10/10/fahr
  t-zur-süßen-tour-2026-im-museumsbahnhof-magdeburgerforth.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2384478@amtsfeed.de
-DTSTAMP:20261006T103017Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:DRK - Stuhlgymnastik (2 Kurse a&acute\; 1 Stunde)
-URL:https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/10/12/drk-
- stuhlgymnastik-2-kurse-a-1-stunde.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2915098@amtsfeed.de
-DTSTAMP:20261006T103017Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit
-  Tanz- und Theaterpädagogin Nina Stemberger
-URL:https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/10/12/krea
- tiver-kindertanz-für-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-th
- eaterpädagogin-nina-stemberger.html
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2424330@amtsfeed.de
 DTSTAMP:20261008T104815Z
 DTSTART;VALUE=DATE:20261013
@@ -1134,6 +1114,26 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2973365/2026/10/18/mant
  ra-herzenslieder-singen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2384478@amtsfeed.de
+DTSTAMP:20261013T104747Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:DRK - Stuhlgymnastik (2 Kurse a&acute\; 1 Stunde)
+URL:https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/10/19/drk-
+ stuhlgymnastik-2-kurse-a-1-stunde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2915098@amtsfeed.de
+DTSTAMP:20261013T104747Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit
+  Tanz- und Theaterpädagogin Nina Stemberger
+URL:https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/10/19/krea
+ tiver-kindertanz-für-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-th
+ eaterpädagogin-nina-stemberger.html
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2929248@amtsfeed.de
 DTSTAMP:20260911T111350Z
 DTSTART;VALUE=DATE:20261019
@@ -1200,6 +1200,15 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Familiencaf&eacute\; mit Spaß\, Kreativität  Bewegung
 URL:https://www.wiesenburgmark.de/veranstaltungen/2890181/2026/10/29/fami
  liencafé-mit-spaß-kreativität-bewegung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2983698@amtsfeed.de
+DTSTAMP:20261013T104747Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Welle tanzen
+URL:https://www.wiesenburgmark.de/veranstaltungen/2983698/2026/10/30/well
+ e-tanzen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2977333@amtsfeed.de

@@ -639,15 +639,6 @@ URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
  perkurs
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
-DTSTAMP:20261006T102840Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
- m-morgen
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-11-storkower-herbstpoesie-schulveranstaltung-lesung-h
  ier-kommt-die-koerperpolizei-mit-dr-sibylle-mottl-link@amtsfeed.de
 DTSTAMP:20261006T102840Z
@@ -877,9 +868,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
  eed.de
-DTSTAMP:20261012T110715Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
+DTSTAMP:20261013T104602Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
 URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
  die-zeit-laeuft
@@ -887,18 +878,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
  d.de
-DTSTAMP:20261012T110715Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
+DTSTAMP:20261013T104602Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
 URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
  harmuetzelsee
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261012T110715Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
+DTSTAMP:20261013T104602Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
 URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
  d-saarow
@@ -906,9 +897,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
  de
-DTSTAMP:20261012T110715Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
+DTSTAMP:20261013T104602Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
 URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
  on-taeglich
@@ -916,9 +907,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-herbstferien-familienspezial-im-wettermuseum@amtsfeed
  .de
-DTSTAMP:20261012T110715Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
+DTSTAMP:20261013T104602Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:Herbstferien Familienspezial im Wettermuseum
 URL:https://www.scharmuetzelsee.de/event/herbstferien-familienspezial-im-
  wettermuseum
@@ -949,6 +940,24 @@ DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Tier Talk - Ferienprogramm
 URL:https://www.scharmuetzelsee.de/event/tier-talk-ferienprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-entdeckertour-in-der-natur-ferienprogramm@amtsfeed.de
+DTSTAMP:20261013T104602Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Entdeckertour in der Natur - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/entdeckertour-in-der-natur-ferie
+ nprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
+DTSTAMP:20261013T104602Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
+ m-morgen
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz@amtsf

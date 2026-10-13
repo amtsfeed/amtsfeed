@@ -4707,6 +4707,14 @@ URL:https://www.gransee.de/event/tanz-mit-der-kometendisco-2/
 LOCATION:Dorfkrug Meseberg\, Gransee\, OT Meseberg
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26645@amtsfeed.de
+DTSTAMP:20261013T104456Z
+DTSTART:20261017T080000Z
+DTEND:20261017T170000Z
+SUMMARY:Granseer-Fahrsportfestival
+URL:https://www.gransee.de/event/granseer-fahrsportfestival/
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-24816@amtsfeed.de
 DTSTAMP:20260912T080503Z
 DTSTART:20261017T100000Z
@@ -4732,6 +4740,14 @@ SUMMARY:Autorenlesung: ‚Nie wieder Opfer: Totgesagt‘
 URL:https://www.gransee.de/event/autorenlesung-nie-wieder-opfer-totgesagt
  /
 LOCATION:Stechlinsee-Center\, Stechlin OT Neuglobsow
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26647@amtsfeed.de
+DTSTAMP:20261013T104456Z
+DTSTART:20261018T083000Z
+DTEND:20261018T160000Z
+SUMMARY:Granseer-Fahrsportfestival
+URL:https://www.gransee.de/event/granseer-fahrsportfestival-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:gransee-event-26111@amtsfeed.de

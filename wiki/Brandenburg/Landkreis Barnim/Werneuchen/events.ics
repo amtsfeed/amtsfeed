@@ -249,4 +249,14 @@ DESCRIPTION:Alle 14 Tage\, am Samstag in den ungeraden Kalenderwochen\, t
  illkommen!
 LOCATION:Am Haussee in Krummensee\, Am Haussee\,
 END:VEVENT
+BEGIN:VEVENT
+UID:werneuchen-event-900001393@amtsfeed.de
+DTSTAMP:20261013T103941Z
+DTSTART:20261013T123000Z
+SUMMARY:Kaffeenachmittag
+URL:https://www.werneuchen-barnim.de/veranstaltungen/veranstaltungen/vera
+ nstaltung/900001393-30690.html
+LOCATION:Vereinsgelände Verein der Siedler Amselhain e.V.\, Lindenstraß
+ e 36\,
+END:VEVENT
 END:VCALENDAR

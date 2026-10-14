@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:45:26.843Z",
+  "updatedAt": "2026-10-14T08:52:33.325Z",
   "items": [
     {
       "id": "oranienburg-event-7687",
@@ -1209,6 +1209,31 @@
       "startDate": "2026-10-30T00:00:00.000Z",
       "fetchedAt": "2026-10-13T10:45:26.850Z",
       "updatedAt": "2026-10-13T10:45:26.850Z"
+    },
+    {
+      "id": "oranienburg-event-7439",
+      "title": "Klaviermusik im Kerzenschein",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Klaviermusik-im-Kerzenschein-.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7439.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:52:33.331Z",
+      "updatedAt": "2026-10-14T08:52:33.331Z"
+    },
+    {
+      "id": "oranienburg-event-8017",
+      "title": "Nachtwandel - Musik bei Kerzenschein",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Nachtwandel-Musik-bei-Kerzenschein.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8017.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:52:33.331Z",
+      "updatedAt": "2026-10-14T08:52:33.331Z"
+    },
+    {
+      "id": "oranienburg-event-8010",
+      "title": "&raquo;Halloween Nightmare Party&laquo; im Oranienwerk",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/-Halloween-Nightmare-Party-im-Oranienwerk.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8010.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "endDate": "2026-11-01T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:52:33.331Z",
+      "updatedAt": "2026-10-14T08:52:33.331Z"
     }
   ]
 }

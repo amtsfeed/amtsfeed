@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:40:42.622Z",
+  "updatedAt": "2026-10-14T08:47:37.253Z",
   "items": [
     {
       "id": "22492",
@@ -754,6 +754,14 @@
       "updatedAt": "2026-09-11T11:07:14.696Z"
     },
     {
+      "id": "24253",
+      "title": "Gottesdienst in Elsterwerda",
+      "url": "https://www.elsterwerda.de/veranstaltung/gottesdienst-in-elsterwerda/",
+      "startDate": "2026-10-18T09:30:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:37.253Z",
+      "updatedAt": "2026-10-14T08:47:37.253Z"
+    },
+    {
       "id": "23859",
       "title": "Rechtsberatung zu mietrechtlichen Angelegenheiten des Mietervereins Finsterwalde und Umgebung e.V.",
       "url": "https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtlichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-9/",
@@ -778,12 +786,36 @@
       "updatedAt": "2026-10-07T10:20:32.043Z"
     },
     {
+      "id": "24250",
+      "title": "Orgelkonzert zu Stummfilmen von Charlie Chaplin",
+      "url": "https://www.elsterwerda.de/veranstaltung/orgelkonzert-zu-stummfilmen-von-charlie-chaplin/",
+      "startDate": "2026-10-23T17:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:37.253Z",
+      "updatedAt": "2026-10-14T08:47:37.253Z"
+    },
+    {
       "id": "23861",
       "title": "Rechtsberatung zu mietrechtlichen Angelegenheiten des Mietervereins Finsterwalde und Umgebung e.V.",
       "url": "https://www.elsterwerda.de/veranstaltung/rechtsberatung-zu-mietrechtlichen-angelegenheiten-des-mietervereins-finsterwalde-und-umgebung-e-v-10/",
       "startDate": "2026-10-27T14:00:00.000Z",
       "fetchedAt": "2026-09-11T09:53:58.434Z",
       "updatedAt": "2026-09-11T11:07:14.696Z"
+    },
+    {
+      "id": "24256",
+      "title": "Orgelmusik am Abend in Elsterwerda",
+      "url": "https://www.elsterwerda.de/veranstaltung/orgelmusik-am-abend-in-elsterwerda/",
+      "startDate": "2026-10-27T18:30:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:37.253Z",
+      "updatedAt": "2026-10-14T08:47:37.253Z"
+    },
+    {
+      "id": "24244",
+      "title": "Krippenspielprobe",
+      "url": "https://www.elsterwerda.de/veranstaltung/krippenspielprobe/",
+      "startDate": "2026-10-28T17:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:37.253Z",
+      "updatedAt": "2026-10-14T08:47:37.253Z"
     },
     {
       "id": "23272",
@@ -794,12 +826,28 @@
       "updatedAt": "2026-09-11T11:07:14.696Z"
     },
     {
+      "id": "24258",
+      "title": "Regional-Gottesdienst in Elsterwerda mit Vorstellung der Konfirmanden",
+      "url": "https://www.elsterwerda.de/veranstaltung/regional-gottesdienst-in-elsterwerda-mit-vorstellung-der-konfirmanden/",
+      "startDate": "2026-10-31T10:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:37.253Z",
+      "updatedAt": "2026-10-14T08:47:37.253Z"
+    },
+    {
       "id": "21589",
       "title": "Halloween-Kinderparty",
       "url": "https://www.elsterwerda.de/veranstaltung/halloween-kinderparty/",
       "startDate": "2026-10-31T15:00:00.000Z",
       "fetchedAt": "2026-05-26T09:01:53.568Z",
       "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "24260",
+      "title": "Gottesdienst in Dreska",
+      "url": "https://www.elsterwerda.de/veranstaltung/gottesdienst-in-dreska/",
+      "startDate": "2026-11-01T11:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:37.253Z",
+      "updatedAt": "2026-10-14T08:47:37.253Z"
     },
     {
       "id": "24148",
@@ -818,6 +866,14 @@
       "updatedAt": "2026-09-30T09:46:26.123Z"
     },
     {
+      "id": "24262",
+      "title": "Seniorenkreis Elsterwerda",
+      "url": "https://www.elsterwerda.de/veranstaltung/seniorenkreis-elsterwerda/",
+      "startDate": "2026-11-04T14:30:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:37.253Z",
+      "updatedAt": "2026-10-14T08:47:37.253Z"
+    },
+    {
       "id": "22521",
       "title": "Familienkirche Martinstag",
       "url": "https://www.elsterwerda.de/veranstaltung/familienkirche-martinstag/",
@@ -832,6 +888,14 @@
       "startDate": "2026-11-10T17:00:00.000Z",
       "fetchedAt": "2026-05-26T09:01:53.568Z",
       "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "24237",
+      "title": "LICHTERKLANG – Konzert im Kerzenschein",
+      "url": "https://www.elsterwerda.de/veranstaltung/lichterklang-konzert-im-kerzenschein/",
+      "startDate": "2026-11-13T19:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:37.253Z",
+      "updatedAt": "2026-10-14T08:47:37.253Z"
     },
     {
       "id": "10001931",
@@ -864,6 +928,14 @@
       "startDate": "2026-11-19T15:00:00.000Z",
       "fetchedAt": "2026-05-26T09:01:53.568Z",
       "updatedAt": "2026-05-26T09:01:53.568Z"
+    },
+    {
+      "id": "24247",
+      "title": "Krippenspielprobe",
+      "url": "https://www.elsterwerda.de/veranstaltung/krippenspielprobe-2/",
+      "startDate": "2026-11-19T17:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:37.253Z",
+      "updatedAt": "2026-10-14T08:47:37.253Z"
     },
     {
       "id": "23808",

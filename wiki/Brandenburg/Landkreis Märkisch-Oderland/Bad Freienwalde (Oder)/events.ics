@@ -726,6 +726,15 @@ URL:https://stadt.bad-freienwalde.de/veranstaltungen/2972458/2027/01/22/d
  sc-12-13-in-schmeidefeld.html
 END:VEVENT
 BEGIN:VEVENT
+UID:bad-freienwalde-event-2984130-20270124@amtsfeed.de
+DTSTAMP:20261014T085118Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:M&auml\;rkischer Wintersporttag
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2984130/2027/01/24/m
+ ärkischer-wintersporttag.html
+END:VEVENT
+BEGIN:VEVENT
 UID:bad-freienwalde-event-2939922-20270128@amtsfeed.de
 DTSTAMP:20260911T111134Z
 DTSTART;VALUE=DATE:20270128
@@ -942,5 +951,23 @@ SUMMARY:Deutsche Jugendmeisterschaft TEAM und Finale Deutshclandpokal Jun
 URL:https://stadt.bad-freienwalde.de/veranstaltungen/2972496/2027/03/19/d
  eutsche-jugendmeisterschaft-team-und-finale-deutshclandpokal-junioren-sen
  ioren.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2984134-20270802@amtsfeed.de
+DTSTAMP:20261014T085118Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Sommer-Trainingslager geplant
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2984134/2027/08/02/s
+ ommer-trainingslager-geplant.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-freienwalde-event-2984132-20270918@amtsfeed.de
+DTSTAMP:20261014T085118Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:DSV NORDCUP geplanter Termin
+URL:https://stadt.bad-freienwalde.de/veranstaltungen/2984132/2027/09/18/d
+ sv-nordcup-geplanter-termin.html
 END:VEVENT
 END:VCALENDAR

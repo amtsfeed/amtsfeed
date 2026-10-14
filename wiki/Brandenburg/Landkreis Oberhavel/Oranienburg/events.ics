@@ -1635,4 +1635,34 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  php?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.8055.1&amp\;NavID=2967.
  39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7439@amtsfeed.de
+DTSTAMP:20261014T085233Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Klaviermusik im Kerzenschein
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Klaviermusik-im-Kerzenschein-.php?object=tx\,2967.4&amp\;ModID=11&amp
+ \;FID=2967.7439.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8017@amtsfeed.de
+DTSTAMP:20261014T085233Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Nachtwandel - Musik bei Kerzenschein
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Nachtwandel-Musik-bei-Kerzenschein.php?object=tx\,2967.4&amp\;ModID=1
+ 1&amp\;FID=2967.8017.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8010@amtsfeed.de
+DTSTAMP:20261014T085233Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:&raquo\;Halloween Nightmare Party&laquo\; im Oranienwerk
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/-Halloween-Nightmare-Party-im-Oranienwerk.php?object=tx\,2967.4&amp\;
+ ModID=11&amp\;FID=2967.8010.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
 END:VCALENDAR

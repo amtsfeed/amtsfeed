@@ -419,15 +419,6 @@ URL:https://www.nuthetal.de/veranstaltungen/2969781/2026/10/12/angebote-a
  m-dife-anlässlich-der-nuthetal-gesundheitswochen.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nuthetal-event-2718105@amtsfeed.de
-DTSTAMP:20261007T102937Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
-URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/10/13/unterstüt
- ztes-einkaufen-nahkauf-saarmund.html
-END:VEVENT
-BEGIN:VEVENT
 UID:nuthetal-event-2812876@amtsfeed.de
 DTSTAMP:20260917T085349Z
 DTSTART;VALUE=DATE:20261013
@@ -462,6 +453,15 @@ DTEND;VALUE=DATE:20261017
 SUMMARY:Modenschau und Verkauf bei BOUTIQUE DIE ZWEI
 URL:https://www.nuthetal.de/veranstaltungen/2950423/2026/10/16/modenschau
  -und-verkauf-bei-boutique-die-zwei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2718105@amtsfeed.de
+DTSTAMP:20261014T085505Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
+URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/10/20/unterstüt
+ ztes-einkaufen-nahkauf-saarmund.html
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2945855@amtsfeed.de

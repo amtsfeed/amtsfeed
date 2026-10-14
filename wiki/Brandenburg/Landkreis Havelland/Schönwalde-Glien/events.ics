@@ -2637,15 +2637,6 @@ URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 LOCATION:kreativ e.V.
 END:VEVENT
 BEGIN:VEVENT
-UID:schoenwalde-glien-event-37951-0@amtsfeed.de
-DTSTAMP:20260912T080047Z
-DTSTART:20260630T150000Z
-DTEND:20260630T190000Z
-SUMMARY:Blutspende Europaschule Ketzin
-URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
-LOCATION:Europaschule Ketzin
-END:VEVENT
-BEGIN:VEVENT
 UID:schoenwalde-glien-event-51295-0@amtsfeed.de
 DTSTAMP:20260912T080047Z
 DTSTART;VALUE=DATE:20260704
@@ -3398,6 +3389,15 @@ DTEND:20261107T213000Z
 SUMMARY:Es war die Nachtigall - Theater
 URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
 LOCATION:Stadtklubhaus Hennigsdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:schoenwalde-glien-event-37951-0@amtsfeed.de
+DTSTAMP:20261014T084850Z
+DTSTART:20261110T150000Z
+DTEND:20261110T190000Z
+SUMMARY:Blutspende Europaschule Ketzin
+URL:https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/
+LOCATION:Europaschule Ketzin
 END:VEVENT
 BEGIN:VEVENT
 UID:schoenwalde-glien-event-36523-0@amtsfeed.de

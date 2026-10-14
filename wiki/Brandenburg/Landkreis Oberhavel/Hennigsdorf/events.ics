@@ -461,4 +461,15 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/80-90er-Party-X
  713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_s
  ub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-759@amtsfeed.de
+DTSTAMP:20261014T085212Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:SAUNA-THEMENTAG 2026
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/SAUNA-THEMENTAG
+ -2026.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.759.1&amp\;NavI
+ D=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;
+ k_sub=1
+END:VEVENT
 END:VCALENDAR

@@ -1043,28 +1043,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2980737/2026/10/11/1.podelzi
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
-UID:2464901@amtsfeed.de
-DTSTAMP:20261007T102457Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Selbstverteidigung für Frauen
-URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/10/13/selbstver
- teidigung-für-frauen.html
-DESCRIPTION:in Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2419554@amtsfeed.de
-DTSTAMP:20261007T102457Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Posaunenchor  Probe
-URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/10/13/posaunenc
- hor-probe.html
-DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
-LOCATION:Pfarrkirche Lebus
-END:VEVENT
-BEGIN:VEVENT
 UID:2904732@amtsfeed.de
 DTSTAMP:20260526T090319Z
 DTSTART;VALUE=DATE:20261013
@@ -1243,6 +1221,28 @@ URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/10/19/dart-für
  -jedermann.html
 DESCRIPTION:Sportlerheim Podelzig
 LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464901@amtsfeed.de
+DTSTAMP:20261014T085114Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Selbstverteidigung für Frauen
+URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/10/20/selbstver
+ teidigung-für-frauen.html
+DESCRIPTION:in Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2419554@amtsfeed.de
+DTSTAMP:20261014T085114Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Posaunenchor  Probe
+URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/10/20/posaunenc
+ hor-probe.html
+DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
+LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2904739@amtsfeed.de

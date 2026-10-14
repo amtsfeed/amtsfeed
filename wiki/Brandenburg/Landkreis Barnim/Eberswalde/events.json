@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:39:35.681Z",
+  "updatedAt": "2026-10-14T08:46:12.284Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -1130,14 +1130,6 @@
       "updatedAt": "2026-10-10T09:53:50.139Z"
     },
     {
-      "id": "info.php",
-      "title": "Ausschuss für Stadtentwicklung, Wohnen und Umwelt (Fachausschuss 3 - F3)",
-      "url": "https://sessionnet.eberswalde.de/sessionnet/bi/info.php",
-      "startDate": "2026-10-13T20:15:00.000Z",
-      "fetchedAt": "2026-09-13T08:21:28.808Z",
-      "updatedAt": "2026-10-11T10:03:29.593Z"
-    },
-    {
       "id": "faszination-holz-27",
       "title": "Faszination Holz",
       "url": "https://www.eberswalde.de/termine/faszination-holz-27",
@@ -1170,6 +1162,14 @@
       "updatedAt": "2026-10-11T10:03:29.593Z"
     },
     {
+      "id": "info.php",
+      "title": "Stadtverordnetenversammlung",
+      "url": "https://sessionnet.eberswalde.de/sessionnet/bi/info.php",
+      "startDate": "2026-10-15T20:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:21:28.808Z",
+      "updatedAt": "2026-10-14T08:46:12.277Z"
+    },
+    {
       "id": "faszination-holz-29",
       "title": "Faszination Holz",
       "url": "https://www.eberswalde.de/termine/faszination-holz-29",
@@ -1184,6 +1184,22 @@
       "startDate": "2026-10-16T18:00:00.000Z",
       "fetchedAt": "2026-10-13T10:39:35.674Z",
       "updatedAt": "2026-10-13T10:39:35.674Z"
+    },
+    {
+      "id": "faszination-holz-30",
+      "title": "Faszination Holz",
+      "url": "https://www.eberswalde.de/termine/faszination-holz-30",
+      "startDate": "2026-10-17T14:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:46:12.277Z",
+      "updatedAt": "2026-10-14T08:46:12.277Z"
+    },
+    {
+      "id": "faszination-holz-31",
+      "title": "Faszination Holz",
+      "url": "https://www.eberswalde.de/termine/faszination-holz-31",
+      "startDate": "2026-10-18T14:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:46:12.277Z",
+      "updatedAt": "2026-10-14T08:46:12.277Z"
     }
   ]
 }

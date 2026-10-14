@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T09:50:31.756Z",
+  "updatedAt": "2026-10-14T08:51:18.567Z",
   "items": [
     {
       "id": "bad-freienwalde-event-2860263-20260225",
@@ -626,6 +626,14 @@
       "updatedAt": "2026-09-23T08:44:05.466Z"
     },
     {
+      "id": "bad-freienwalde-event-2984130-20270124",
+      "title": "M&auml;rkischer Wintersporttag",
+      "url": "https://stadt.bad-freienwalde.de/veranstaltungen/2984130/2027/01/24/märkischer-wintersporttag.html",
+      "startDate": "2027-01-24T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:51:18.561Z",
+      "updatedAt": "2026-10-14T08:51:18.561Z"
+    },
+    {
       "id": "bad-freienwalde-event-2939922-20270128",
       "title": "COC in ITA/SUI",
       "url": "https://stadt.bad-freienwalde.de/veranstaltungen/2939922/2027/01/28/coc-in-ita-sui.html",
@@ -816,6 +824,22 @@
       "startDate": "2027-03-19T00:00:00.000Z",
       "fetchedAt": "2026-09-23T08:44:05.466Z",
       "updatedAt": "2026-09-23T08:44:05.466Z"
+    },
+    {
+      "id": "bad-freienwalde-event-2984134-20270802",
+      "title": "Sommer-Trainingslager geplant",
+      "url": "https://stadt.bad-freienwalde.de/veranstaltungen/2984134/2027/08/02/sommer-trainingslager-geplant.html",
+      "startDate": "2027-08-02T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:51:18.561Z",
+      "updatedAt": "2026-10-14T08:51:18.561Z"
+    },
+    {
+      "id": "bad-freienwalde-event-2984132-20270918",
+      "title": "DSV NORDCUP geplanter Termin",
+      "url": "https://stadt.bad-freienwalde.de/veranstaltungen/2984132/2027/09/18/dsv-nordcup-geplanter-termin.html",
+      "startDate": "2027-09-18T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:51:18.561Z",
+      "updatedAt": "2026-10-14T08:51:18.561Z"
     }
   ]
 }

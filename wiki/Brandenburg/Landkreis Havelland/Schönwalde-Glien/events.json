@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:32:29.629Z",
+  "updatedAt": "2026-10-14T08:48:50.972Z",
   "items": [
     {
       "id": "schoenwalde-glien-event-46912-0",
@@ -2916,16 +2916,6 @@
       "updatedAt": "2026-09-12T08:00:47.517Z"
     },
     {
-      "id": "schoenwalde-glien-event-37951-0",
-      "title": "Blutspende Europaschule Ketzin",
-      "url": "https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/",
-      "startDate": "2026-06-30T15:00:00.000Z",
-      "endDate": "2026-06-30T19:00:00.000Z",
-      "location": "Europaschule Ketzin",
-      "fetchedAt": "2026-05-31T13:50:37.153Z",
-      "updatedAt": "2026-09-12T08:00:47.517Z"
-    },
-    {
       "id": "schoenwalde-glien-event-51295-0",
       "title": "Grundlagenkurs Esel- und Mulihaltung",
       "url": "https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/",
@@ -3759,6 +3749,16 @@
       "location": "Stadtklubhaus Hennigsdorf",
       "fetchedAt": "2026-09-11T09:54:45.959Z",
       "updatedAt": "2026-09-12T08:00:47.517Z"
+    },
+    {
+      "id": "schoenwalde-glien-event-37951-0",
+      "title": "Blutspende Europaschule Ketzin",
+      "url": "https://www.schoenwalde-glien.de/de/kultur-tourismus/veranstaltungen/",
+      "startDate": "2026-11-10T15:00:00.000Z",
+      "endDate": "2026-11-10T19:00:00.000Z",
+      "location": "Europaschule Ketzin",
+      "fetchedAt": "2026-05-31T13:50:37.153Z",
+      "updatedAt": "2026-10-14T08:48:50.979Z"
     },
     {
       "id": "schoenwalde-glien-event-36523-0",

@@ -8319,12 +8319,12 @@ LOCATION:Kultur- und Freizeitzeitrum Neupetershain Spremberger Straße
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2976168-20261114@amtsfeed.de
-DTSTAMP:20260930T095230Z
+DTSTAMP:20261014T085312Z
 DTSTART:20261114T191100Z
 SUMMARY:"Heißer Samstag" mit dem KCA
 URL:https://www.osl-online.de/veranstaltungen/2976168/2026/11/14/heißer-
  samstag-mit-dem-kca.html
-LOCATION:Gemeinde Schipkau
+LOCATION:Clubhaus Annahütte
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2967417-20261114@amtsfeed.de
@@ -14512,5 +14512,23 @@ SUMMARY:Calauer Museen öffnen
 URL:https://www.osl-online.de/veranstaltungen/2315266/2027/10/13/calauer-
  museen-öffnen.html
 LOCATION:Haus der Heimatgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2290342-20271014@amtsfeed.de
+DTSTAMP:20261014T085312Z
+DTSTART:20271014T080000Z
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.osl-online.de/veranstaltungen/2290342/2027/10/14/calauer-
+ wochenmarkt.html
+LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2124494-20271014@amtsfeed.de
+DTSTAMP:20261014T085312Z
+DTSTART:20271014T100000Z
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.osl-online.de/veranstaltungen/2124494/2027/10/14/behinder
+ ten-und-seniorenberatung.html
+LOCATION:Mehrgenerationenhaus
 END:VEVENT
 END:VCALENDAR

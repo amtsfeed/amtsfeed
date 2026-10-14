@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:47:03.318Z",
+  "updatedAt": "2026-10-14T08:54:42.568Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -412,13 +412,12 @@
     },
     {
       "id": "amt-niemegk-event-2026-10-14-2026-10-14",
-      "title": "Entdeckungsraum mit Anita",
-      "url": "https://amt-niemegk.de/events/entdeckungsraum-mit-anita-606/?occurrence=2026-10-14&#038;time=1791970200",
-      "startDate": "2026-10-14T09:30:00.000Z",
-      "endDate": "2026-10-14T11:00:00.000Z",
-      "location": "Familienzentrum Niemegk",
+      "title": "Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tore",
+      "url": "https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenstein-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?occurrence=2026-10-14",
+      "startDate": "2026-10-14T14:00:00.000Z",
+      "endDate": "2026-10-14T15:30:00.000Z",
       "fetchedAt": "2026-10-12T11:08:24.248Z",
-      "updatedAt": "2026-10-12T11:08:33.032Z"
+      "updatedAt": "2026-10-14T08:54:42.563Z"
     },
     {
       "id": "amt-niemegk-event-2026-10-15-2026-10-15",
@@ -438,6 +437,26 @@
       "location": "Burg Rabenstein in Raben",
       "fetchedAt": "2026-10-13T10:46:50.110Z",
       "updatedAt": "2026-10-13T10:47:03.314Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-10-18-2026-10-18",
+      "title": "Musikalische Burgführung",
+      "url": "https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-452-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-757-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-10-18&#038;time=1792324800",
+      "startDate": "2026-10-18T12:00:00.000Z",
+      "endDate": "2026-10-18T00:00:00.000Z",
+      "location": "Burg Rabenstein in Raben",
+      "fetchedAt": "2026-10-14T08:54:30.691Z",
+      "updatedAt": "2026-10-14T08:54:42.563Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-10-19-2026-10-19",
+      "title": "Herbstfußballcamp im Niemegker Waldstadion",
+      "url": "https://amt-niemegk.de/events/herbstfussballcamp-im-niemegker-waldstadion-312/?occurrence=2026-10-19",
+      "startDate": "2026-10-19T09:30:00.000Z",
+      "endDate": "2026-10-22T15:30:00.000Z",
+      "location": "Waldstadion Niemegk",
+      "fetchedAt": "2026-10-14T08:54:30.691Z",
+      "updatedAt": "2026-10-14T08:54:42.563Z"
     }
   ]
 }

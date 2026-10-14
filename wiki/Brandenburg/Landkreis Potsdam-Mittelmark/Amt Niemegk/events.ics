@@ -488,13 +488,14 @@ URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-14-2026-10-14@amtsfeed.de
-DTSTAMP:20261012T110833Z
-DTSTART:20261014T093000Z
-DTEND:20261014T110000Z
-SUMMARY:Entdeckungsraum mit Anita
-URL:https://amt-niemegk.de/events/entdeckungsraum-mit-anita-606/?occurren
- ce=2026-10-14&#038\;time=1791970200
-LOCATION:Familienzentrum Niemegk
+DTSTAMP:20261014T085442Z
+DTSTART:20261014T140000Z
+DTEND:20261014T153000Z
+SUMMARY:Fläming-Falknerei an der Burg Rabenstein öffnet wieder ihre Tor
+ e
+URL:https://amt-niemegk.de/events/flaeming-falknerei-an-der-burg-rabenste
+ in-oeffnet-am-1-april-2026-wieder-ihre-tore-443-470-437-530-203-485-255/?
+ occurrence=2026-10-14
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-15-2026-10-15@amtsfeed.de
@@ -518,5 +519,27 @@ URL:https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-4
  7-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-10-17&#038\;ti
  me=1792238400
 LOCATION:Burg Rabenstein in Raben
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-18-2026-10-18@amtsfeed.de
+DTSTAMP:20261014T085442Z
+DTSTART:20261018T120000Z
+DTEND:20261019T000000Z
+SUMMARY:Musikalische Burgführung
+URL:https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-4
+ 52-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-75
+ 7-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-10-18&#038\;ti
+ me=1792324800
+LOCATION:Burg Rabenstein in Raben
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-19-2026-10-19@amtsfeed.de
+DTSTAMP:20261014T085442Z
+DTSTART:20261019T093000Z
+DTEND:20261022T153000Z
+SUMMARY:Herbstfußballcamp im Niemegker Waldstadion
+URL:https://amt-niemegk.de/events/herbstfussballcamp-im-niemegker-waldsta
+ dion-312/?occurrence=2026-10-19
+LOCATION:Waldstadion Niemegk
 END:VEVENT
 END:VCALENDAR

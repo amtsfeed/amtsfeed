@@ -987,39 +987,12 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2980791/2026/10/10/fahr
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2424330@amtsfeed.de
-DTSTAMP:20261008T104815Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
+DTSTAMP:20261014T085537Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
 SUMMARY:Offener Jugendraum "WiBu" - begleitet von Franziska Kottwitz
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/10/13/offe
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/10/14/offe
  ner-jugendraum-wibu-begleitet-von-franziska-kottwitz.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2384481@amtsfeed.de
-DTSTAMP:20261007T103011Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Krabbelgruppe - für Eltern mit Babys ab 3 Monaten
-URL:https://www.wiesenburgmark.de/veranstaltungen/2384481/2026/10/13/krab
- belgruppe-für-eltern-mit-babys-ab-3-monaten.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2889794@amtsfeed.de
-DTSTAMP:20261007T103011Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Breakdance-Kurs für Kids (7 - 12 J.)
-URL:https://www.wiesenburgmark.de/veranstaltungen/2889794/2026/10/13/brea
- kdance-kurs-für-kids-7-12-j.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2889798@amtsfeed.de
-DTSTAMP:20261007T103011Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Breakdance-Kurs für Jugendliche (ab 13 J.)
-URL:https://www.wiesenburgmark.de/veranstaltungen/2889798/2026/10/13/brea
- kdance-kurs-für-jugendliche-ab-13-j.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2842616@amtsfeed.de
@@ -1141,6 +1114,33 @@ DTEND;VALUE=DATE:20261020
 SUMMARY:Sound Bath - Tu dir etwas gutes
 URL:https://www.wiesenburgmark.de/veranstaltungen/2929248/2026/10/19/soun
  d-bath-tu-dir-etwas-gutes.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2384481@amtsfeed.de
+DTSTAMP:20261014T085537Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Krabbelgruppe - für Eltern mit Babys ab 3 Monaten
+URL:https://www.wiesenburgmark.de/veranstaltungen/2384481/2026/10/20/krab
+ belgruppe-für-eltern-mit-babys-ab-3-monaten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2889794@amtsfeed.de
+DTSTAMP:20261014T085537Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Breakdance-Kurs für Kids (7 - 12 J.)
+URL:https://www.wiesenburgmark.de/veranstaltungen/2889794/2026/10/20/brea
+ kdance-kurs-für-kids-7-12-j.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2889798@amtsfeed.de
+DTSTAMP:20261014T085537Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Breakdance-Kurs für Jugendliche (ab 13 J.)
+URL:https://www.wiesenburgmark.de/veranstaltungen/2889798/2026/10/20/brea
+ kdance-kurs-für-jugendliche-ab-13-j.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928860@amtsfeed.de

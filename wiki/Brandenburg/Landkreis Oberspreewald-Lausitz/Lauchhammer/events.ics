@@ -245,15 +245,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2944153/2026/10/02/lesung-
  l
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124475@amtsfeed.de
-DTSTAMP:20261007T102716Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
-URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/10/13/chorpro
- be-mit-dem-stadtchor-lauchhammer.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124494@amtsfeed.de
 DTSTAMP:20261009T104315Z
 DTSTART;VALUE=DATE:20261015
@@ -351,6 +342,15 @@ DTEND;VALUE=DATE:20261020
 SUMMARY:Treffpunkt Bürgertheater
 URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/19/treffpu
  nkt-bürgertheater.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124475@amtsfeed.de
+DTSTAMP:20261014T085254Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
+URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/10/20/chorpro
+ be-mit-dem-stadtchor-lauchhammer.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2558944@amtsfeed.de

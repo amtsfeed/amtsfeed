@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:53:43.755Z",
+  "updatedAt": "2026-10-14T08:46:06.074Z",
   "items": [
     {
       "id": "15493",
@@ -1631,6 +1631,15 @@
       "updatedAt": "2026-09-19T08:05:46.794Z"
     },
     {
+      "id": "17022",
+      "title": "GLG Medizinischer Dienstag",
+      "url": "https://britz-chorin-oderberg.de/events#event-17022",
+      "startDate": "2026-11-10T16:00:00.000Z",
+      "location": "16225 Eberswalde – Paul-Wunderlich-Haus, Am Markt 1",
+      "fetchedAt": "2026-10-14T08:46:06.067Z",
+      "updatedAt": "2026-10-14T08:46:06.067Z"
+    },
+    {
       "id": "14829",
       "title": "Martinstag in Niederfinow",
       "url": "https://britz-chorin-oderberg.de/events#event-14829",
@@ -1872,6 +1881,15 @@
       "location": "16248 Oderberg – Sporthalle",
       "fetchedAt": "2026-05-05T17:20:57.837Z",
       "updatedAt": "2026-05-26T08:49:43.841Z"
+    },
+    {
+      "id": "17042",
+      "title": "Neujahrskonzert in Britz",
+      "url": "https://britz-chorin-oderberg.de/events#event-17042",
+      "startDate": "2027-01-31T15:00:00.000Z",
+      "location": "16230 Britz – Rathaus, Eisenwerkstraße 11",
+      "fetchedAt": "2026-10-14T08:46:06.067Z",
+      "updatedAt": "2026-10-14T08:46:06.067Z"
     }
   ]
 }

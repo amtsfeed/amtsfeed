@@ -968,24 +968,6 @@ URL:https://www.calau.de/veranstaltungen/2898940/2026/10/12/malen-für-di
  e-seele-offene-malgruppe.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261012T110640Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:13.10.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/10/13/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
-UID:calau-event-2024997@amtsfeed.de
-DTSTAMP:20261011T101042Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:13.10.2026   IHK-Sprechtag in Calau
-URL:https://www.calau.de/veranstaltungen/2024997/2026/10/13/ihk-sprechtag
- -in-calau.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
 DTSTAMP:20261012T110640Z
 DTSTART;VALUE=DATE:20261014
@@ -1013,6 +995,15 @@ URL:https://www.calau.de/veranstaltungen/2980721/2026/10/14/kochzauber.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261014T085249Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:15.10.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/10/15/calauer-woche
+ nmarkt.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2960236@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261015
@@ -1023,10 +1014,11 @@ URL:https://www.calau.de/veranstaltungen/2960236/2026/10/15/krabbelgruppe
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2951704@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261014T085249Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:VorLeseKuschelZeit: "Für Hund und Katz ist auch noch Platz"
+SUMMARY:15.10.2026   VorLeseKuschelZeit: "Für Hund und Katz ist auch noc
+ h Platz"
 URL:https://www.calau.de/veranstaltungen/2951704/2026/10/15/vorlesekusche
  lzeit-für-hund-und-katz-ist-auch-noch-platz.html
 END:VEVENT
@@ -1276,6 +1268,15 @@ DTEND;VALUE=DATE:20261110
 SUMMARY:"Malen für die Seele" - offene Malgruppe
 URL:https://www.calau.de/veranstaltungen/2898941/2026/11/09/malen-für-di
  e-seele-offene-malgruppe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2024997@amtsfeed.de
+DTSTAMP:20261014T085249Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:IHK-Sprechtag in Calau
+URL:https://www.calau.de/veranstaltungen/2024997/2026/11/10/ihk-sprechtag
+ -in-calau.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2947235@amtsfeed.de

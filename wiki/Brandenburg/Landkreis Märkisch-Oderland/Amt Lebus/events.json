@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:44:11.045Z",
+  "updatedAt": "2026-10-14T08:51:14.416Z",
   "items": [
     {
       "id": "2846347",
@@ -874,26 +874,6 @@
       "updatedAt": "2026-10-08T10:43:48.747Z"
     },
     {
-      "id": "2464901",
-      "title": "Selbstverteidigung für Frauen",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464901/2026/10/13/selbstverteidigung-für-frauen.html",
-      "startDate": "2026-10-13T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "in Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-07T10:24:57.586Z"
-    },
-    {
-      "id": "2419554",
-      "title": "Posaunenchor  Probe",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2419554/2026/10/13/posaunenchor-probe.html",
-      "startDate": "2026-10-13T00:00:00.000Z",
-      "location": "Pfarrkirche Lebus",
-      "description": "Jeden Dienstag um 19.00 Uhr Kirche Lebus",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-07T10:24:57.586Z"
-    },
-    {
       "id": "2904732",
       "title": "Fahrt zur Therme",
       "url": "https://www.amt-lebus.de/veranstaltungen/2904732/2026/10/13/fahrt-zur-therme.html",
@@ -1054,6 +1034,26 @@
       "description": "Sportlerheim Podelzig",
       "fetchedAt": "2026-05-05T14:58:26.635Z",
       "updatedAt": "2026-10-13T10:44:11.036Z"
+    },
+    {
+      "id": "2464901",
+      "title": "Selbstverteidigung für Frauen",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464901/2026/10/20/selbstverteidigung-für-frauen.html",
+      "startDate": "2026-10-20T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "in Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-14T08:51:14.407Z"
+    },
+    {
+      "id": "2419554",
+      "title": "Posaunenchor  Probe",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2419554/2026/10/20/posaunenchor-probe.html",
+      "startDate": "2026-10-20T00:00:00.000Z",
+      "location": "Pfarrkirche Lebus",
+      "description": "Jeden Dienstag um 19.00 Uhr Kirche Lebus",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-14T08:51:14.407Z"
     },
     {
       "id": "2904739",

@@ -654,4 +654,14 @@ SUMMARY:Sonja Walter: Berliner Musike und Seemannslieder
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  sonja-walter-berliner-musike-und-seemannslieder
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-open-vernissage-skulpturen-boulevard@amtsfeed.d
+ e
+DTSTAMP:20261014T085217Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Open Vernissage (Skulpturen Boulevard)
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ open-vernissage-skulpturen-boulevard
+END:VEVENT
 END:VCALENDAR

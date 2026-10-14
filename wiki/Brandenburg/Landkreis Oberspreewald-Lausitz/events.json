@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:45:58.733Z",
+  "updatedAt": "2026-10-14T08:53:12.917Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -8098,9 +8098,9 @@
       "title": "\"Heißer Samstag\" mit dem KCA",
       "url": "https://www.osl-online.de/veranstaltungen/2976168/2026/11/14/heißer-samstag-mit-dem-kca.html",
       "startDate": "2026-11-14T19:11:00.000Z",
-      "location": "Gemeinde Schipkau",
+      "location": "Clubhaus Annahütte",
       "fetchedAt": "2026-09-30T09:52:30.112Z",
-      "updatedAt": "2026-09-30T09:52:30.112Z"
+      "updatedAt": "2026-10-14T08:53:12.941Z"
     },
     {
       "id": "lk-osl-event-2967417-20261114",
@@ -14170,6 +14170,24 @@
       "location": "Haus der Heimatgeschichte",
       "fetchedAt": "2026-10-13T10:45:58.760Z",
       "updatedAt": "2026-10-13T10:45:58.760Z"
+    },
+    {
+      "id": "lk-osl-event-2290342-20271014",
+      "title": "Calauer Wochenmarkt",
+      "url": "https://www.osl-online.de/veranstaltungen/2290342/2027/10/14/calauer-wochenmarkt.html",
+      "startDate": "2027-10-14T08:00:00.000Z",
+      "location": "Marktplatz Calau",
+      "fetchedAt": "2026-10-14T08:53:12.941Z",
+      "updatedAt": "2026-10-14T08:53:12.941Z"
+    },
+    {
+      "id": "lk-osl-event-2124494-20271014",
+      "title": "Behinderten- und Seniorenberatung",
+      "url": "https://www.osl-online.de/veranstaltungen/2124494/2027/10/14/behinderten-und-seniorenberatung.html",
+      "startDate": "2027-10-14T10:00:00.000Z",
+      "location": "Mehrgenerationenhaus",
+      "fetchedAt": "2026-10-14T08:53:12.941Z",
+      "updatedAt": "2026-10-14T08:53:12.941Z"
     }
   ]
 }

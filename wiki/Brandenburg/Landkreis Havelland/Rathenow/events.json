@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T11:02:17.865Z",
+  "updatedAt": "2026-10-14T08:48:45.158Z",
   "items": [
     {
       "id": "rathenow-event-1476-20260101",
@@ -1131,6 +1131,15 @@
       "updatedAt": "2026-09-23T08:40:33.567Z"
     },
     {
+      "id": "rathenow-event-1778-20261015",
+      "title": "Unsere After Work-Lounge...",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/unsere-after-work-lounge/",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-10-14T08:48:45.163Z",
+      "updatedAt": "2026-10-14T08:48:45.163Z"
+    },
+    {
       "id": "rathenow-event-1540-20261017",
       "title": "Die Welt der Filmmusik",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/die-welt-der-filmmusik/",
@@ -1165,6 +1174,16 @@
       "location": "Treffpunkt ist am Torhaus Weinbergfriedhof",
       "fetchedAt": "2026-10-09T10:39:46.680Z",
       "updatedAt": "2026-10-09T10:39:46.680Z"
+    },
+    {
+      "id": "rathenow-event-1776-20261017",
+      "title": "23. Töpfermarkt Tangermünde",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/23-toepfermarkt-tangermuende/",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "endDate": "2026-10-18T00:00:00.000Z",
+      "location": "Hafenpromenade Tangermünde",
+      "fetchedAt": "2026-10-14T08:48:45.163Z",
+      "updatedAt": "2026-10-14T08:48:45.163Z"
     },
     {
       "id": "rathenow-event-271-20261018",
@@ -1513,6 +1532,16 @@
       "updatedAt": "2026-09-11T11:07:48.648Z"
     },
     {
+      "id": "rathenow-event-1775-20261212",
+      "title": "JA sie findet statt: Die Waldweihnacht Rathenow 2026",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/ja-es-findet-statt-die-waldweihnacht-rathenow-2026/",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "endDate": "2026-12-13T00:00:00.000Z",
+      "location": "Forsthaus Ferchesarer Weg 14712 Rathenow",
+      "fetchedAt": "2026-10-14T08:48:45.163Z",
+      "updatedAt": "2026-10-14T08:48:45.163Z"
+    },
+    {
       "id": "rathenow-event-1754-20261213",
       "title": "Adventsnachmittage im Theatersaal: „Der Hase und der Igel“",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/adventsnachmittage-im-theatersaal-der-hase-und-der-igel/",
@@ -1611,6 +1640,15 @@
       "location": "Kulturzentrum Rathenow",
       "fetchedAt": "2026-09-11T09:54:39.415Z",
       "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1777-20270430",
+      "title": "OSTROCK KLASSIK deluxe",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/ostrock-klassik-deluxe/",
+      "startDate": "2027-04-30T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-10-14T08:48:45.163Z",
+      "updatedAt": "2026-10-14T08:48:45.163Z"
     }
   ]
 }

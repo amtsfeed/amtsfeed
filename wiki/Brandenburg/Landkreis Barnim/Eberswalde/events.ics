@@ -1162,14 +1162,6 @@ SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-26
 END:VEVENT
 BEGIN:VEVENT
-UID:info.php@amtsfeed.de
-DTSTAMP:20261011T100329Z
-DTSTART:20261013T201500Z
-SUMMARY:Ausschuss für Stadtentwicklung\, Wohnen und Umwelt (Fachausschus
- s 3 - F3)
-URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
-END:VEVENT
-BEGIN:VEVENT
 UID:faszination-holz-27@amtsfeed.de
 DTSTAMP:20261011T100329Z
 DTSTART:20261014T150000Z
@@ -1200,6 +1192,13 @@ SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-28
 END:VEVENT
 BEGIN:VEVENT
+UID:info.php@amtsfeed.de
+DTSTAMP:20261014T084612Z
+DTSTART:20261015T200000Z
+SUMMARY:Stadtverordnetenversammlung
+URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
+END:VEVENT
+BEGIN:VEVENT
 UID:faszination-holz-29@amtsfeed.de
 DTSTAMP:20261013T103935Z
 DTSTART:20261016T140000Z
@@ -1215,5 +1214,19 @@ SUMMARY:Eröffnung der „23. Kreisfotoschau" in der Kleinen Galerie der
  Stadt Eberswalde
 URL:https://www.eberswalde.de/termine/eroeffnung-der-23-kreisfotoschau-in
  -der-kleinen-galerie-der-stadt-eberswalde
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-30@amtsfeed.de
+DTSTAMP:20261014T084612Z
+DTSTART:20261017T140000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-30
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-31@amtsfeed.de
+DTSTAMP:20261014T084612Z
+DTSTART:20261018T140000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-31
 END:VEVENT
 END:VCALENDAR

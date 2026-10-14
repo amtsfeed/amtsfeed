@@ -1041,6 +1041,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Kochma
  =3631.1208.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1217@amtsfeed.de
+DTSTAMP:20261014T085237Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:20. Sitzung der Stadtverordnetenversammlung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/20-Sit
+ zung-der-Stadtverordnetenversammlung.php?object=tx\,3631.4.1&amp\;ModID=1
+ 1&amp\;FID=3631.1217.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-1209@amtsfeed.de
 DTSTAMP:20261008T104522Z
 DTSTART;VALUE=DATE:20261023

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:12:33.690Z",
+  "updatedAt": "2026-10-14T08:47:07.882Z",
   "items": [
     {
       "id": "schulzendorf-event-2774656-20260509",
@@ -365,12 +365,28 @@
       "updatedAt": "2026-10-01T10:12:33.677Z"
     },
     {
+      "id": "schulzendorf-event-2983987-20270123",
+      "title": "Neujahrskonzert",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2983987/2027/01/23/neujahrskonzert.html",
+      "startDate": "2027-01-23T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
       "id": "schulzendorf-event-2977363-20270218",
       "title": "CHRISTOPHE BOURDOISEAU (Schulzendorfer Kulturreihe)",
       "url": "https://www.schulzendorf.de/veranstaltungen/2977363/2027/02/18/christophe-bourdoiseau-schulzendorfer-kulturreihe.html",
       "startDate": "2027-02-18T00:00:00.000Z",
       "fetchedAt": "2026-10-01T10:12:33.677Z",
       "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
+      "id": "schulzendorf-event-2983988-20270313",
+      "title": "Konzert GosPop",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2983988/2027/03/13/konzert-gospop.html",
+      "startDate": "2027-03-13T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
     },
     {
       "id": "schulzendorf-event-2977365-20270318",
@@ -381,12 +397,44 @@
       "updatedAt": "2026-10-01T10:12:33.677Z"
     },
     {
+      "id": "schulzendorf-event-2983989-20270319",
+      "title": "Kabarett mit Jess Jochimsen",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2983989/2027/03/19/kabarett-mit-jess-jochimsen.html",
+      "startDate": "2027-03-19T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
+      "id": "schulzendorf-event-2983990-20270320",
+      "title": "Ostermarkt",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2983990/2027/03/20/ostermarkt.html",
+      "startDate": "2027-03-20T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
+      "id": "schulzendorf-event-2983992-20270411",
+      "title": "Klavierabend mit RICHARD FISCHER",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2983992/2027/04/11/klavierabend-mit-richard-fischer.html",
+      "startDate": "2027-04-11T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
       "id": "schulzendorf-event-2977366-20270422",
       "title": "FELIX HAHNSCH im Konzert (Schulzendorfer Kulturreihe)",
       "url": "https://www.schulzendorf.de/veranstaltungen/2977366/2027/04/22/felix-hahnsch-im-konzert-schulzendorfer-kulturreihe.html",
       "startDate": "2027-04-22T00:00:00.000Z",
       "fetchedAt": "2026-10-01T10:12:33.677Z",
       "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
+      "id": "schulzendorf-event-2983993-20270425",
+      "title": "10 Jahre Podium junger Künstler",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2983993/2027/04/25/10-jahre-podium-junger-künstler.html",
+      "startDate": "2027-04-25T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
     },
     {
       "id": "schulzendorf-event-2977367-20270520",
@@ -397,12 +445,60 @@
       "updatedAt": "2026-10-01T10:12:33.677Z"
     },
     {
+      "id": "schulzendorf-event-2983995-20270529",
+      "title": "Frühlingskonzert des gemischten Chors der Chorgemeinschaft Eichwalde e.V.",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2983995/2027/05/29/frühlingskonzert-des-gemischten-chors-der-chorgemeinschaft-eichwalde-e.v.html",
+      "startDate": "2027-05-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
+      "id": "schulzendorf-event-2983996-20270530",
+      "title": "Konzert der Vocalinos Eichwalde",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2983996/2027/05/30/konzert-der-vocalinos-eichwalde.html",
+      "startDate": "2027-05-30T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
       "id": "schulzendorf-event-2977368-20270610",
       "title": "RIVER BLUES BAND (Schulzendorfer Kulturreihe)",
       "url": "https://www.schulzendorf.de/veranstaltungen/2977368/2027/06/10/river-blues-band-schulzendorfer-kulturreihe.html",
       "startDate": "2027-06-10T00:00:00.000Z",
       "fetchedAt": "2026-10-01T10:12:33.677Z",
       "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
+      "id": "schulzendorf-event-2983997-20270626",
+      "title": "19. Schulzendorfer Jazzsommer 2027",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2983997/2027/06/26/19.-schulzendorfer-jazzsommer-2027.html",
+      "startDate": "2027-06-26T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
+      "id": "schulzendorf-event-2983998-20270703",
+      "title": "19. Schulzendorfer Jazzsommer 2027",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2983998/2027/07/03/19.-schulzendorfer-jazzsommer-2027.html",
+      "startDate": "2027-07-03T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
+      "id": "schulzendorf-event-2983999-20270710",
+      "title": "19. Schulzendorfer Jazzsommer 2027",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2983999/2027/07/10/19.-schulzendorfer-jazzsommer-2027.html",
+      "startDate": "2027-07-10T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
+      "id": "schulzendorf-event-2984001-20270717",
+      "title": "19. Schulzendorfer Jazzsommer 2027",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2984001/2027/07/17/19.-schulzendorfer-jazzsommer-2027.html",
+      "startDate": "2027-07-17T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
     },
     {
       "id": "schulzendorf-event-2977377-20270826",
@@ -413,12 +509,52 @@
       "updatedAt": "2026-10-01T10:12:33.677Z"
     },
     {
+      "id": "schulzendorf-event-2984003-20270828",
+      "title": "23. Landpartie per Fahrrad",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2984003/2027/08/28/23.-landpartie-per-fahrrad.html",
+      "startDate": "2027-08-28T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
+      "id": "schulzendorf-event-2984004-20270829",
+      "title": "Kaffee- und Kuchenkonzert",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2984004/2027/08/29/kaffee-und-kuchenkonzert.html",
+      "startDate": "2027-08-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
+      "id": "schulzendorf-event-2984005-20270911",
+      "title": "Orgelkonzert in der Kreuzkirche Schulzendorf",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2984005/2027/09/11/orgelkonzert-in-der-kreuzkirche-schulzendorf.html",
+      "startDate": "2027-09-11T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
+      "id": "schulzendorf-event-2984006-20270912",
+      "title": "Tag des offenen Denkmals",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2984006/2027/09/12/tag-des-offenen-denkmals.html",
+      "startDate": "2027-09-12T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
+    },
+    {
       "id": "schulzendorf-event-2977379-20270923",
       "title": "VIAGGIO IN PARADISO (Schulzendorfer Kulturreihe)",
       "url": "https://www.schulzendorf.de/veranstaltungen/2977379/2027/09/23/viaggio-in-paradiso-schulzendorfer-kulturreihe.html",
       "startDate": "2027-09-23T00:00:00.000Z",
       "fetchedAt": "2026-10-01T10:12:33.677Z",
       "updatedAt": "2026-10-01T10:12:33.677Z"
+    },
+    {
+      "id": "schulzendorf-event-2984007-20271009",
+      "title": "Kabarett in der Patronatskirche",
+      "url": "https://www.schulzendorf.de/veranstaltungen/2984007/2027/10/09/kabarett-in-der-patronatskirche.html",
+      "startDate": "2027-10-09T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:47:07.874Z",
+      "updatedAt": "2026-10-14T08:47:07.874Z"
     }
   ]
 }

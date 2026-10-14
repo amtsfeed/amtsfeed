@@ -478,15 +478,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855868/2026/10/13/bötzow
  er-frühstückstreff-für-unsere-seniorinnen.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855686@amtsfeed.de
-DTSTAMP:20261007T102637Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Seniorentanzgruppe "Spätlese"
-URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/13/seniore
- ntanzgruppe-spätlese.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855870@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261013
@@ -494,15 +485,6 @@ DTEND;VALUE=DATE:20261014
 SUMMARY:Männerfrühstück in Vehlefanz
 URL:https://www.oberkraemer.de/veranstaltungen/2855870/2026/10/13/männer
  frühstück-in-vehlefanz.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855780@amtsfeed.de
-DTSTAMP:20260911T111217Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Skat in Bötzow
-URL:https://www.oberkraemer.de/veranstaltungen/2855780/2026/10/13/skat-in
- -bötzow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855698@amtsfeed.de
@@ -738,6 +720,15 @@ DTEND;VALUE=DATE:20261020
 SUMMARY:Romm&eacute\; in Bötzow
 URL:https://www.oberkraemer.de/veranstaltungen/2855873/2026/10/19/rommé-
  in-bötzow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855686@amtsfeed.de
+DTSTAMP:20261014T085230Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Seniorentanzgruppe "Spätlese"
+URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/20/seniore
+ ntanzgruppe-spätlese.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855874@amtsfeed.de
@@ -976,6 +967,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2969197/2026/11/08/führun
  gen-im-schloss.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2855780@amtsfeed.de
+DTSTAMP:20261014T085230Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Skat in Bötzow
+URL:https://www.oberkraemer.de/veranstaltungen/2855780/2026/11/10/skat-in
+ -bötzow.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855878@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261110
@@ -1191,6 +1191,15 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Vortrag Heimatgeschichte: Der Flugplatz Oranienburg
 URL:https://www.oberkraemer.de/veranstaltungen/2909885/2026/11/20/vortrag
  -heimatgeschichte-der-flugplatz-oranienburg.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2984136@amtsfeed.de
+DTSTAMP:20261014T085230Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Zentraler Vorlesetag
+URL:https://www.oberkraemer.de/veranstaltungen/2984136/2026/11/20/zentral
+ er-vorlesetag.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962224@amtsfeed.de
@@ -1672,6 +1681,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2962240/2027/04/12/zweite-
  schulkonferenz-zirkusvorbereitung.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2984137@amtsfeed.de
+DTSTAMP:20261014T085230Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Elternkonferenz
+URL:https://www.oberkraemer.de/veranstaltungen/2984137/2027/04/12/elternk
+ onferenz.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2962241@amtsfeed.de
 DTSTAMP:20260922T084022Z
 DTSTART;VALUE=DATE:20270413
@@ -1688,6 +1706,15 @@ DTEND;VALUE=DATE:20270420
 SUMMARY:Elternkonferenz (Zirkusvorbereitung)
 URL:https://www.oberkraemer.de/veranstaltungen/2962242/2027/04/19/elternk
  onferenz-zirkusvorbereitung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2984138@amtsfeed.de
+DTSTAMP:20261014T085230Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Schulkonferenz
+URL:https://www.oberkraemer.de/veranstaltungen/2984138/2027/04/19/schulko
+ nferenz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2969852@amtsfeed.de

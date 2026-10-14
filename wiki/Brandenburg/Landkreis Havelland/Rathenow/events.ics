@@ -1322,6 +1322,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:HAVELWERK Schleusenstraße 1\, 14712 Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1778-20261015@amtsfeed.de
+DTSTAMP:20261014T084845Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Unsere After Work-Lounge...
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/unsere-after-work-lounge/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1540-20261017@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261017
@@ -1362,6 +1372,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/oeffentliche-fuehrung-ueber-den
  -historischen-friedhof-mit-christina-otto-1/
 LOCATION:Treffpunkt ist am Torhaus Weinbergfriedhof
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1776-20261017@amtsfeed.de
+DTSTAMP:20261014T084845Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:23. Töpfermarkt Tangermünde
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/23-toepfermarkt-tangermuende/
+LOCATION:Hafenpromenade Tangermünde
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-271-20261018@amtsfeed.de
@@ -1768,6 +1788,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1775-20261212@amtsfeed.de
+DTSTAMP:20261014T084845Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:JA sie findet statt: Die Waldweihnacht Rathenow 2026
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/ja-es-findet-statt-die-waldweih
+ nacht-rathenow-2026/
+LOCATION:Forsthaus Ferchesarer Weg 14712 Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1754-20261213@amtsfeed.de
 DTSTAMP:20260928T095320Z
 DTSTART;VALUE=DATE:20261213
@@ -1879,6 +1910,16 @@ DTEND;VALUE=DATE:20270410
 SUMMARY:TARZAN – Das Musical
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/tarzan-das-musical/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1777-20270430@amtsfeed.de
+DTSTAMP:20261014T084845Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:OSTROCK KLASSIK deluxe
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/ostrock-klassik-deluxe/
 LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 END:VCALENDAR

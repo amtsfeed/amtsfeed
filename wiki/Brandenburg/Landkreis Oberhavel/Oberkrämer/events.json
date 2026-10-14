@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:45:24.829Z",
+  "updatedAt": "2026-10-14T08:52:30.057Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -418,25 +418,9 @@
       "updatedAt": "2026-10-08T10:45:16.346Z"
     },
     {
-      "id": "oberkraemer-event-2855686",
-      "title": "Seniorentanzgruppe \"Spätlese\"",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/13/seniorentanzgruppe-spätlese.html",
-      "startDate": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-10-07T10:26:37.099Z"
-    },
-    {
       "id": "oberkraemer-event-2855870",
       "title": "Männerfrühstück in Vehlefanz",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855870/2026/10/13/männerfrühstück-in-vehlefanz.html",
-      "startDate": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-11T11:12:17.608Z"
-    },
-    {
-      "id": "oberkraemer-event-2855780",
-      "title": "Skat in Bötzow",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855780/2026/10/13/skat-in-bötzow.html",
       "startDate": "2026-10-13T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-09-11T11:12:17.608Z"
@@ -650,6 +634,14 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
+      "id": "oberkraemer-event-2855686",
+      "title": "Seniorentanzgruppe \"Spätlese\"",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/20/seniorentanzgruppe-spätlese.html",
+      "startDate": "2026-10-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-10-14T08:52:30.066Z"
+    },
+    {
       "id": "oberkraemer-event-2855874",
       "title": "Frauenfrühstück in Vehlefanz",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855874/2026/10/20/frauenfrühstück-in-vehlefanz.html",
@@ -858,6 +850,14 @@
       "updatedAt": "2026-09-18T08:24:47.401Z"
     },
     {
+      "id": "oberkraemer-event-2855780",
+      "title": "Skat in Bötzow",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855780/2026/11/10/skat-in-bötzow.html",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-10-14T08:52:30.066Z"
+    },
+    {
       "id": "oberkraemer-event-2855878",
       "title": "Männerfrühstück in Vehlefanz",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855878/2026/11/10/männerfrühstück-in-vehlefanz.html",
@@ -1048,6 +1048,14 @@
       "startDate": "2026-11-20T00:00:00.000Z",
       "fetchedAt": "2026-09-20T08:45:14.074Z",
       "updatedAt": "2026-09-20T08:45:14.074Z"
+    },
+    {
+      "id": "oberkraemer-event-2984136",
+      "title": "Zentraler Vorlesetag",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2984136/2026/11/20/zentraler-vorlesetag.html",
+      "startDate": "2026-11-20T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:52:30.066Z",
+      "updatedAt": "2026-10-14T08:52:30.066Z"
     },
     {
       "id": "oberkraemer-event-2962224",
@@ -1474,6 +1482,14 @@
       "updatedAt": "2026-09-22T08:40:22.966Z"
     },
     {
+      "id": "oberkraemer-event-2984137",
+      "title": "Elternkonferenz",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2984137/2027/04/12/elternkonferenz.html",
+      "startDate": "2027-04-12T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:52:30.066Z",
+      "updatedAt": "2026-10-14T08:52:30.066Z"
+    },
+    {
       "id": "oberkraemer-event-2962241",
       "title": "Verkehrssicherheitstag (Klasse 3-5)",
       "url": "https://www.oberkraemer.de/veranstaltungen/2962241/2027/04/13/verkehrssicherheitstag-klasse-3-5.html",
@@ -1488,6 +1504,14 @@
       "startDate": "2027-04-19T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:22.966Z",
       "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2984138",
+      "title": "Schulkonferenz",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2984138/2027/04/19/schulkonferenz.html",
+      "startDate": "2027-04-19T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T08:52:30.066Z",
+      "updatedAt": "2026-10-14T08:52:30.066Z"
     },
     {
       "id": "oberkraemer-event-2969852",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:45:40.060Z",
+  "updatedAt": "2026-10-14T08:52:49.852Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -858,22 +858,6 @@
       "updatedAt": "2026-10-11T10:10:42.056Z"
     },
     {
-      "id": "calau-event-2290342",
-      "title": "13.10.2026   Calauer Wochenmarkt",
-      "url": "https://www.calau.de/veranstaltungen/2290342/2026/10/13/calauer-wochenmarkt.html",
-      "startDate": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-12T11:06:40.351Z"
-    },
-    {
-      "id": "calau-event-2024997",
-      "title": "13.10.2026   IHK-Sprechtag in Calau",
-      "url": "https://www.calau.de/veranstaltungen/2024997/2026/10/13/ihk-sprechtag-in-calau.html",
-      "startDate": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-11T10:10:42.056Z"
-    },
-    {
       "id": "calau-event-2315266",
       "title": "14.10.2026   Calauer Museen öffnen",
       "url": "https://www.calau.de/veranstaltungen/2315266/2026/10/14/calauer-museen-öffnen.html",
@@ -898,6 +882,14 @@
       "updatedAt": "2026-10-13T10:45:40.053Z"
     },
     {
+      "id": "calau-event-2290342",
+      "title": "15.10.2026   Calauer Wochenmarkt",
+      "url": "https://www.calau.de/veranstaltungen/2290342/2026/10/15/calauer-wochenmarkt.html",
+      "startDate": "2026-10-15T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-10-14T08:52:49.845Z"
+    },
+    {
       "id": "calau-event-2960236",
       "title": "Krabbelgruppe in der Kita Kunterbunt",
       "url": "https://www.calau.de/veranstaltungen/2960236/2026/10/15/krabbelgruppe-in-der-kita-kunterbunt.html",
@@ -907,11 +899,11 @@
     },
     {
       "id": "calau-event-2951704",
-      "title": "VorLeseKuschelZeit: \"Für Hund und Katz ist auch noch Platz\"",
+      "title": "15.10.2026   VorLeseKuschelZeit: \"Für Hund und Katz ist auch noch Platz\"",
       "url": "https://www.calau.de/veranstaltungen/2951704/2026/10/15/vorlesekuschelzeit-für-hund-und-katz-ist-auch-noch-platz.html",
       "startDate": "2026-10-15T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
-      "updatedAt": "2026-09-11T11:12:29.188Z"
+      "updatedAt": "2026-10-14T08:52:49.845Z"
     },
     {
       "id": "calau-event-2980725",
@@ -1128,6 +1120,14 @@
       "startDate": "2026-11-09T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
       "updatedAt": "2026-05-31T18:42:01.619Z"
+    },
+    {
+      "id": "calau-event-2024997",
+      "title": "IHK-Sprechtag in Calau",
+      "url": "https://www.calau.de/veranstaltungen/2024997/2026/11/10/ihk-sprechtag-in-calau.html",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-10-14T08:52:49.845Z"
     },
     {
       "id": "calau-event-2947235",

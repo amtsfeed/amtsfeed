@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:56:19.006Z",
+  "updatedAt": "2026-10-15T08:22:11.657Z",
   "items": [
     {
       "id": "lkee-event-4016",
@@ -694,6 +694,30 @@
       "startDate": "2026-10-18T00:00:00.000Z",
       "fetchedAt": "2026-10-12T10:56:19.015Z",
       "updatedAt": "2026-10-12T10:56:19.015Z"
+    },
+    {
+      "id": "lkee-event-4929",
+      "title": "Einsteigerkurs Astronomie",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Einsteigerkurs-Astronomie.php?object=tx,2112.2.1&ModID=11&FID=2112.4929.1&NavID=2112.265&kat=2112.71",
+      "startDate": "2026-10-18T00:00:00.000Z",
+      "fetchedAt": "2026-10-15T08:22:11.667Z",
+      "updatedAt": "2026-10-15T08:22:11.667Z"
+    },
+    {
+      "id": "lkee-event-4925",
+      "title": "Familientag: Tierisch tolle Jobs",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Familientag-Tierisch-tolle-Jobs.php?object=tx,2112.2.1&ModID=11&FID=2112.4925.1&NavID=2112.265&kat=2112.71",
+      "startDate": "2026-10-20T00:00:00.000Z",
+      "fetchedAt": "2026-10-15T08:22:11.667Z",
+      "updatedAt": "2026-10-15T08:22:11.667Z"
+    },
+    {
+      "id": "lkee-event-4926",
+      "title": "Familientag: Tierisch tolle Jobs",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Familientag-Tierisch-tolle-Jobs.php?object=tx,2112.2.1&ModID=11&FID=2112.4926.1&NavID=2112.265&kat=2112.71",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "fetchedAt": "2026-10-15T08:22:11.667Z",
+      "updatedAt": "2026-10-15T08:22:11.667Z"
     }
   ]
 }

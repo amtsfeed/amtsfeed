@@ -667,34 +667,6 @@ URL:https://www.scharmuetzelsee.de/event/kuschelstunde-mit-unseren-zwergs
  chafen-ferienprogramm
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
- eed.de
-DTSTAMP:20261008T104608Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
- tour-bad-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz@a
- mtsfeed.de
-DTSTAMP:20261008T104608Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
- tour-wendisch-rietz
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
-DTSTAMP:20261008T104608Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Offener Meditationsabend
-URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-koerbe-flechten-ferienprogramm@amtsfeed.de
 DTSTAMP:20261008T104608Z
 DTSTART;VALUE=DATE:20261008
@@ -932,25 +904,6 @@ URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
  die-zeit-laeuft
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261014T085319Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261014T085319Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
 DTSTAMP:20261013T104602Z
 DTSTART;VALUE=DATE:20261014
@@ -958,6 +911,53 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
  m-morgen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-bad-saarow@amtsf
+ eed.de
+DTSTAMP:20261015T082732Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
+ tour-bad-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-mikro-trekking-tour-wendisch-rietz@a
+ mtsfeed.de
+DTSTAMP:20261015T082732Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Aktiv Wochenplan - Mikro-Trekking-Tour Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
+ tour-wendisch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
+DTSTAMP:20261015T082732Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Offener Meditationsabend
+URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261015T082732Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261015T082732Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz@amtsf

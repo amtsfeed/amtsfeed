@@ -1,5 +1,83 @@
 # Updates
 
+## 2026-10-15 08:30
+
+Insgesamt **187 neu**, **155 aktualisiert**, **4 entfernt** in 71 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | +1 | — | — | +1 |
+| Altlandsberg | +2 | +2 / ~1 | — | — |
+| Amt Beetzsee | +1 | — | — | — |
+| Amt Brieskow-Finkenheerd | — | +1 | — | ~6 |
+| Amt Brück | +2 | — | — | — |
+| Amt Falkenberg-Höhe | +1 | — | — | — |
+| Amt Friesack | — | +1 | — | — |
+| Amt Golzow | — | +1 | — | — |
+| Amt Lebus | — | +6 / ~4 | — | — |
+| Amt Neuzelle | +2 | — | — | — |
+| Amt Niemegk | +1 | +1 | — | — |
+| Amt Plessa | +1 | — | — | — |
+| Amt Ruhland | +1 | — | — | — |
+| Amt Scharmützelsee | — | +5 / ~1 / -4 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | ~5 | — | — |
+| Amt Ziesar | +1 | — | — | ~24 |
+| Bernau bei Berlin | +3 | +1 / ~29 | — | — |
+| Brieselang | +3 | — | — | — |
+| Calau | — | ~4 | — | — |
+| Dallgow-Döberitz | — | +1 | — | +1 |
+| Doberlug-Kirchhain | — | +3 | — | — |
+| Eberswalde | +2 | +1 | — | — |
+| Eisenhüttenstadt | — | ~1 | — | — |
+| Falkensee | +3 | +2 | — | — |
+| Finsterwalde | +1 | — | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Groß Kreutz | — | ~24 | — | — |
+| Großräschen | +1 | — | — | — |
+| Grünheide (Mark) | +1 | — | — | — |
+| Hennigsdorf | +1 / ~1 | +1 | +1 | — |
+| Hohen Neuendorf | +10 | +2 | — | — |
+| Ketzin Havel | — | +1 | — | +1 |
+| Kloster Lehnin | — | +1 | — | — |
+| Kremmen | +1 | +2 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | +2 | +3 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +1 | — | — |
+| Lauchhammer | +2 | +1 | — | — |
+| Löwenberger Land | +1 | — | — | — |
+| Lübben (Spreewald) | +3 | — | — | — |
+| Luckau | — | — | — | +1 |
+| Michendorf | — | +2 | — | — |
+| Mühlenbecker Land | — | +4 | — | — |
+| Müncheberg | +1 | — | — | — |
+| Nauen | — | +4 | — | — |
+| Nuthetal | +1 | — | — | — |
+| Oberkrämer | — | ~3 | — | — |
+| Oderbruch / Amt Seelow-Land | +3 | +1 | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | — | ~4 | — | — |
+| Oranienburg | +2 | +1 | — | — |
+| Panketal | — | — | — | +1 |
+| Premnitz | +2 | +10 | — | +1 |
+| Rathenow | +1 | +6 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Schönefeld | — | ~30 | — | — |
+| Schorfheide | — | +4 | — | — |
+| Schulzendorf | +1 | — | — | — |
+| Schwielowsee | +1 | — | — | — |
+| Senftenberg | +1 | +10 | — | +1 |
+| Sonnewalde | +1 / ~1 | — | — | — |
+| Storkow (Mark) | +2 | — | — | — |
+| Strausberg | +4 | — | — | — |
+| Teltow | +1 | +3 / ~1 | — | — |
+| Velten | — | +2 | — | — |
+| Vetschau Spreewald | — | +19 | — | — |
+| Wandlitz | +1 | — | — | — |
+| Werder (Havel) | +1 | ~8 | — | — |
+| Wiesenburg-Mark | +1 | +2 / ~3 | — | — |
+| Wildau | +1 | — | — | — |
+| Woltersdorf | — | +2 | — | — |
+| Wustermark | — | — | — | ~1 |
+| Zehdenick | ~1 | — | — | — |
+
 ## 2026-10-14 08:55
 
 Insgesamt **256 neu**, **169 aktualisiert**, **2 entfernt** in 75 Quellen.

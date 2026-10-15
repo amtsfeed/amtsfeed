@@ -1619,6 +1619,16 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/131
 LOCATION:Schlossgarten Ribbeck
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-16102026-ausstellung-nauener-stolpersteine-20261014@amtsf
+ eed.de
+DTSTAMP:20261015T082255Z
+DTSTART:20261014T220000Z
+SUMMARY:Ausstellung „Nauener Stolpersteine“
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/161
+ 02026-ausstellung-nauener-stolpersteine/
+LOCATION:Richart-Hof
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-15102026-frischemarkt-auf-dem-nauener-rathausplatz-202610
  15@amtsfeed.de
 DTSTAMP:20260930T094720Z
@@ -1678,6 +1688,24 @@ SUMMARY:„Nauen putzt sich“ – Gemeinsam für eine saubere Stadt
 URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/171
  02026-nauen-putzt-sich-gemeinsam-fuer-eine-saubere-stadt/
 LOCATION:Rathausplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-szenische-fuehrung-in-ribbeck-sa-20261017@amtsfeed.de
+DTSTAMP:20261015T082255Z
+DTSTART:20261017T120000Z
+SUMMARY:Szenische Führung in Ribbeck
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/sze
+ nische-fuehrung-in-ribbeck-sa/
+LOCATION:Kirche Ribbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-szenische-fuehrung-in-ribbeck-so-20261018@amtsfeed.de
+DTSTAMP:20261015T082255Z
+DTSTART:20261018T120000Z
+SUMMARY:Szenische Führung in Ribbeck
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/sze
+ nische-fuehrung-in-ribbeck-so/
+LOCATION:Kirche Ribbeck
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-21102026-seniorenessen-20261021@amtsfeed.de
@@ -1902,6 +1930,16 @@ SUMMARY:Kochgruppe für Senioren
 URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/131
  12026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag/
 LOCATION:Ambulantes Pflegeteam Denny Schulz GmbH
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-hochzeits-hausmesse-im-gutshaus-lietzow-20261114@amtsfeed
+ .de
+DTSTAMP:20261015T082255Z
+DTSTART:20261114T090000Z
+SUMMARY:Hochzeits-Hausmesse im Gutshaus Lietzow
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/hoc
+ hzeits-hausmesse-im-gutshaus-lietzow/
+LOCATION:Gutshaus Lietzow
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-15112026-die-feuerzangenbowle-20261115@amtsfeed.de

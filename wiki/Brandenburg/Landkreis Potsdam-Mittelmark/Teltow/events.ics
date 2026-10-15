@@ -1374,15 +1374,6 @@ URL:https://www.teltow.de/veranstaltungen/2972996/2026/10/13/die-geschich
  te-der-chemie-in-teltow-seehof.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930017@amtsfeed.de
-DTSTAMP:20261008T104805Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
-URL:https://www.teltow.de/veranstaltungen/2930017/2026/10/14/offener-lern
- raum-lesen-schreiben-rechnen-basis-englisch.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2857822@amtsfeed.de
 DTSTAMP:20260506T181553Z
 DTSTART;VALUE=DATE:20261014
@@ -1491,6 +1482,15 @@ DTEND;VALUE=DATE:20261021
 SUMMARY:Preisskat
 URL:https://www.teltow.de/veranstaltungen/2972025/2026/10/20/preisskat.ht
  ml
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930017@amtsfeed.de
+DTSTAMP:20261015T082948Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
+URL:https://www.teltow.de/veranstaltungen/2930017/2026/10/21/offener-lern
+ raum-lesen-schreiben-rechnen-basis-englisch.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972028@amtsfeed.de
@@ -1775,6 +1775,15 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Spielnachmittag
 URL:https://www.teltow.de/veranstaltungen/2972232/2026/11/12/spielnachmit
  tag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2984369@amtsfeed.de
+DTSTAMP:20261015T082948Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Lichterlauf des Fördervereins
+URL:https://www.teltow.de/veranstaltungen/2984369/2026/11/12/lichterlauf-
+ des-fördervereins.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2976260@amtsfeed.de
@@ -2291,6 +2300,15 @@ URL:https://www.teltow.de/veranstaltungen/2972989/2026/12/20/das-heimatmu
  seum-im-ältesten-haus-teltows-ist-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2984384@amtsfeed.de
+DTSTAMP:20261015T082948Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Einschulungsanmeldung
+URL:https://www.teltow.de/veranstaltungen/2984384/2027/01/05/einschulungs
+ anmeldung.html
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2976312@amtsfeed.de
 DTSTAMP:20260930T095404Z
 DTSTART;VALUE=DATE:20270130
@@ -2334,5 +2352,14 @@ DTEND;VALUE=DATE:20270209
 SUMMARY:Die Goldenen 20er
 URL:https://www.teltow.de/veranstaltungen/2976320/2027/02/08/die-goldenen
  -20er.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2984525@amtsfeed.de
+DTSTAMP:20261015T082948Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Letzter Schultag vor den Osterferien
+URL:https://www.teltow.de/veranstaltungen/2984525/2027/03/19/letzter-schu
+ ltag-vor-den-osterferien.html
 END:VEVENT
 END:VCALENDAR

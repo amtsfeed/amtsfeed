@@ -968,15 +968,6 @@ URL:https://www.calau.de/veranstaltungen/2898940/2026/10/12/malen-für-di
  e-seele-offene-malgruppe.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20261012T110640Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:14.10.2026   Calauer Museen öffnen
-URL:https://www.calau.de/veranstaltungen/2315266/2026/10/14/calauer-musee
- n-öffnen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2947234@amtsfeed.de
 DTSTAMP:20261012T110640Z
 DTSTART;VALUE=DATE:20261014
@@ -1005,10 +996,10 @@ URL:https://www.calau.de/veranstaltungen/2290342/2026/10/15/calauer-woche
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960236@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261015T082705Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:Krabbelgruppe in der Kita Kunterbunt
+SUMMARY:15.10.2026   Krabbelgruppe in der Kita Kunterbunt
 URL:https://www.calau.de/veranstaltungen/2960236/2026/10/15/krabbelgruppe
  -in-der-kita-kunterbunt.html
 END:VEVENT
@@ -1024,20 +1015,20 @@ URL:https://www.calau.de/veranstaltungen/2951704/2026/10/15/vorlesekusche
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2980725@amtsfeed.de
-DTSTAMP:20261008T104538Z
+DTSTAMP:20261015T082705Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:Fit im Alter
+SUMMARY:15.10.2026   Fit im Alter
 URL:https://www.calau.de/veranstaltungen/2980725/2026/10/15/fit-im-alter.
  html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2858856@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261015T082705Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Kino in Calau zeigt: "Namaste - mit dem Fahrrad durch Nepal" mit 
- Simone Brüggemann-Riemer
+SUMMARY:16.10.2026   Kino in Calau zeigt: "Namaste - mit dem Fahrrad durc
+ h Nepal" mit Simone Brüggemann-Riemer
 URL:https://www.calau.de/veranstaltungen/2858856/2026/10/16/kino-in-calau
  -zeigt-namaste-mit-dem-fahrrad-durch-nepal-mit-simone-brüggemann-riemer.
  html
@@ -1095,6 +1086,15 @@ DTEND;VALUE=DATE:20261019
 SUMMARY:Wanderung durch die Calauer Schweiz
 URL:https://www.calau.de/veranstaltungen/2981514/2026/10/18/wanderung-dur
  ch-die-calauer-schweiz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2315266@amtsfeed.de
+DTSTAMP:20261015T082705Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Calauer Museen öffnen
+URL:https://www.calau.de/veranstaltungen/2315266/2026/10/21/calauer-musee
+ n-öffnen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838476@amtsfeed.de

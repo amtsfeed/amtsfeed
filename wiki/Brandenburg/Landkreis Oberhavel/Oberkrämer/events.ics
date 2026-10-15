@@ -487,24 +487,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855870/2026/10/13/männer
  frühstück-in-vehlefanz.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855698@amtsfeed.de
-DTSTAMP:20261008T104516Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Kartenfreunde Schwante
-URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/10/14/kartenf
- reunde-schwante.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855693@amtsfeed.de
-DTSTAMP:20261008T104516Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Singen mit den Vehlefanzer Amseln
-URL:https://www.oberkraemer.de/veranstaltungen/2855693/2026/10/14/singen-
- mit-den-vehlefanzer-amseln.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2976142@amtsfeed.de
 DTSTAMP:20261008T104516Z
 DTSTART;VALUE=DATE:20261014
@@ -512,15 +494,6 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:Singen mit den Vehlefanzer Amseln
 URL:https://www.oberkraemer.de/veranstaltungen/2976142/2026/10/14/singen-
  mit-den-vehlefanzer-amseln.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855795@amtsfeed.de
-DTSTAMP:20260911T111217Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Kaffeenachmittag - Senioren Club Eichstädt
-URL:https://www.oberkraemer.de/veranstaltungen/2855795/2026/10/14/kaffeen
- achmittag-senioren-club-eichstädt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2957556@amtsfeed.de
@@ -747,6 +720,24 @@ DTEND;VALUE=DATE:20261021
 SUMMARY:Fotogruppe Blende 7
 URL:https://www.oberkraemer.de/veranstaltungen/2976137/2026/10/20/fotogru
  ppe-blende-7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855698@amtsfeed.de
+DTSTAMP:20261015T082646Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Kartenfreunde Schwante
+URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/10/21/kartenf
+ reunde-schwante.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855693@amtsfeed.de
+DTSTAMP:20261015T082646Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Singen mit den Vehlefanzer Amseln
+URL:https://www.oberkraemer.de/veranstaltungen/2855693/2026/10/21/singen-
+ mit-den-vehlefanzer-amseln.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2891496@amtsfeed.de
@@ -1389,6 +1380,15 @@ DTEND;VALUE=DATE:20261209
 SUMMARY:Frauenfrühstück in Vehlefanz
 URL:https://www.oberkraemer.de/veranstaltungen/2855893/2026/12/08/frauenf
  rühstück-in-vehlefanz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855795@amtsfeed.de
+DTSTAMP:20261015T082646Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Kaffeenachmittag - Senioren Club Eichstädt
+URL:https://www.oberkraemer.de/veranstaltungen/2855795/2026/12/09/kaffeen
+ achmittag-senioren-club-eichstädt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2968516@amtsfeed.de

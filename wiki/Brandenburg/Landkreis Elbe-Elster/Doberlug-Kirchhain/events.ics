@@ -996,6 +996,22 @@ URL:https://www.doberlug-kirchhain.de/veranstaltungen/2983495/2026/11/03/
  musikalische-hubertusandacht.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2984847@amtsfeed.de
+DTSTAMP:20261015T082200Z
+DTSTART:20261105T170000Z
+SUMMARY:Laternenlicht & Schlossgeheimnisse
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2984847/2026/11/05/
+ laternenlicht-schlossgeheimnisse.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2984853@amtsfeed.de
+DTSTAMP:20261015T082200Z
+DTSTART:20261106T170000Z
+SUMMARY:Laternenlicht & Schlossgeheimnisse
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2984853/2026/11/06/
+ laternenlicht-schlossgeheimnisse.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2976111@amtsfeed.de
 DTSTAMP:20260930T094625Z
 DTSTART:20261110T170000Z
@@ -1125,6 +1141,15 @@ DTSTART:20261202T180000Z
 SUMMARY:Kleine Adventsmusik Werenzhain
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2943386/2026/12/02/
  kleine-adventsmusik-werenzhain.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2984866@amtsfeed.de
+DTSTAMP:20261015T082200Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Weihnachtsmarkt
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2984866/2026/12/05/
+ weihnachtsmarkt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2876370@amtsfeed.de

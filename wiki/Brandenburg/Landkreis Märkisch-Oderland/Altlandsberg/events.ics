@@ -587,14 +587,16 @@ LOCATION:Schlossgut Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
 UID:vokalkolleg-berlin-in-der-stadtkirche@amtsfeed.de
-DTSTAMP:20260911T111056Z
+DTSTAMP:20261015T082426Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Vokalkolleg Berlin in der Stadtkirche
+SUMMARY:2. Konzert der Winterkonzertreihe: Vokalkolleg Berlin
 URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
  gen/vokalkolleg-berlin-in-der-stadtkirche/
-DESCRIPTION:Der Vokalchor der TU Berlin präsentiert anspruchsvolle Chorw
- erke aller Stilrich­tungen und aus allen Epochen.
+DESCRIPTION:Der Freundeskreis Stadtkirche Altlandsberg veranstaltet auch 
+ in der kalten Jahreszeit eine Winterkonzertreihe in der Stadtkirche.Am 14
+ .11.2026 präsentiert der Vokalchor der TU Berlin anspruchsvolle Chorwerk
+ e aller Stilrich­tungen und aus allen Epochen.
 LOCATION:Stadtkirche Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
@@ -628,6 +630,19 @@ DESCRIPTION:Charlie Chaplin gehört zu den unvergesslichen Ikonen der Fil
  konzert Charlie Chaplin Comedies erleben Sie ausgewählte Filme des groß
  en Komikers in einer besonderen Form: mit...
 LOCATION:Schlosskirche Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:freitag-3-nach-8-vernissage@amtsfeed.de
+DTSTAMP:20261015T082434Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Freitag 3 nach 8: Vernissage
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/freitag-3-nach-8-vernissage/
+DESCRIPTION:Freitag 3nach8: Vernissage mit Bildern von Heidi Lorenz und V
+ erkauf von hochwertiger Adventsfloristik\, musikalische Begleitung Carste
+ n Paschwitz
+LOCATION:Bürger- und Kreativhaus Bruchmühle
 END:VEVENT
 BEGIN:VEVENT
 UID:4@amtsfeed.de
@@ -676,6 +691,21 @@ DESCRIPTION:Regionale Vielfalt – Genuss im historischen AmbienteDer Fri
  uf der Schlossterrasse\, mit Blick auf das historische Ensemble\, präsen
  tieren lokale Erzeugerinnen und Erzeuger...
 LOCATION:Schlossgut Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:freitag-3-nach-8-live-american-country-music@amtsfeed.de
+DTSTAMP:20261015T082456Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Freitag 3 nach 8: Live American Country Music
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/freitag-3-nach-8-live-american-country-music/
+DESCRIPTION:"Freitag 3 nach 8" - Live American Country Musik mit der Band
+  2U&MiIm Modern Country vereinen sich viele Musikstile\, ob traditionelle
+  Hillbilly Music\, Western Swing\, Folk\, Southern Rock\, Pop\, Soul\, R&
+ B .... der gemeinsame Nenner ist und bleibt jedoch noch immer die menschl
+ iche Stimme. Kartenvorverkauf im Bürgerhaus...
+LOCATION:Bürger- und Kreativhaus Bruchmühle
 END:VEVENT
 BEGIN:VEVENT
 UID:7@amtsfeed.de

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T08:51:14.416Z",
+  "updatedAt": "2026-10-15T08:25:31.438Z",
   "items": [
     {
       "id": "2846347",
@@ -883,43 +883,6 @@
       "updatedAt": "2026-05-26T09:03:19.057Z"
     },
     {
-      "id": "2486339",
-      "title": "Sport für Senioren in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/14/sport-für-senioren-in-podelzig.html",
-      "startDate": "2026-10-14T00:00:00.000Z",
-      "location": "Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-08T10:43:48.747Z"
-    },
-    {
-      "id": "2464908",
-      "title": "Fleischerwagen Fleischerei Höhne",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/14/fleischerwagen-fleischerei-höhne.html",
-      "startDate": "2026-10-14T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "am Dorfteich Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-08T10:43:48.747Z"
-    },
-    {
-      "id": "2464904",
-      "title": "&bdquo;Yoga &ndash; sanft und entspannend&ldquo;",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464904/2026/10/14/yoga--sanft-und-entspannend.html",
-      "startDate": "2026-10-14T00:00:00.000Z",
-      "location": "Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-08T10:43:48.747Z"
-    },
-    {
-      "id": "2820928",
-      "title": "Yoga - Anfänger & Wiedereinsteiger",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2820928/2026/10/14/yoga-anfänger-wiedereinsteiger.html",
-      "startDate": "2026-10-14T00:00:00.000Z",
-      "location": "Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-08T10:43:48.747Z"
-    },
-    {
       "id": "2973745",
       "title": "Benefizkonzert des Landespolizeiorchestes Brandenburg",
       "url": "https://www.amt-lebus.de/veranstaltungen/2973745/2026/10/14/benefizkonzert-des-landespolizeiorchestes-brandenburg.html",
@@ -966,6 +929,15 @@
       "updatedAt": "2026-10-10T09:58:50.726Z"
     },
     {
+      "id": "2984498",
+      "title": "Einladung zur Einbettung gefallener Soldaten",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2984498/2026/10/16/einladung-zur-einbettung-gefallener-soldaten.html",
+      "startDate": "2026-10-16T00:00:00.000Z",
+      "location": "Wuhdener Friedhof",
+      "fetchedAt": "2026-10-15T08:25:31.421Z",
+      "updatedAt": "2026-10-15T08:25:31.421Z"
+    },
+    {
       "id": "2464910",
       "title": "Bäckerwagen in Podelzig",
       "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/17/bäckerwagen-in-podelzig.html",
@@ -1004,6 +976,15 @@
       "description": "Anmeldungen unter Tel. 0173 174 61 85",
       "fetchedAt": "2026-09-11T09:57:29.696Z",
       "updatedAt": "2026-09-11T11:11:32.831Z"
+    },
+    {
+      "id": "2984493",
+      "title": "Drachenfest in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2984493/2026/10/18/drachenfest-in-podelzig.html",
+      "startDate": "2026-10-18T00:00:00.000Z",
+      "location": "auf der Sportanlage des BSV Blau Wess",
+      "fetchedAt": "2026-10-15T08:25:31.421Z",
+      "updatedAt": "2026-10-15T08:25:31.421Z"
     },
     {
       "id": "2402834",
@@ -1065,6 +1046,43 @@
       "updatedAt": "2026-09-11T11:11:32.831Z"
     },
     {
+      "id": "2486339",
+      "title": "Sport für Senioren in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/21/sport-für-senioren-in-podelzig.html",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-15T08:25:31.421Z"
+    },
+    {
+      "id": "2464908",
+      "title": "Fleischerwagen Fleischerei Höhne",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/21/fleischerwagen-fleischerei-höhne.html",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "am Dorfteich Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-15T08:25:31.421Z"
+    },
+    {
+      "id": "2464904",
+      "title": "&bdquo;Yoga &ndash; sanft und entspannend&ldquo;",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464904/2026/10/21/yoga--sanft-und-entspannend.html",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-15T08:25:31.421Z"
+    },
+    {
+      "id": "2820928",
+      "title": "Yoga - Anfänger & Wiedereinsteiger",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2820928/2026/10/21/yoga-anfänger-wiedereinsteiger.html",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-15T08:25:31.421Z"
+    },
+    {
       "id": "2957498",
       "title": "Luck & Strauch - Lieder vom Lieben",
       "url": "https://www.amt-lebus.de/veranstaltungen/2957498/2026/10/30/luck-strauch-lieder-vom-lieben.html",
@@ -1072,6 +1090,15 @@
       "location": "Pfarrkirche Lebus",
       "fetchedAt": "2026-09-11T09:57:29.696Z",
       "updatedAt": "2026-09-11T11:11:32.831Z"
+    },
+    {
+      "id": "2984503",
+      "title": "Halloween in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2984503/2026/10/30/halloween-in-podelzig.html",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-10-15T08:25:31.421Z",
+      "updatedAt": "2026-10-15T08:25:31.421Z"
     },
     {
       "id": "2964743",
@@ -1082,6 +1109,15 @@
       "description": "unterhalb des Birkenhofs (Pferdehof)",
       "fetchedAt": "2026-09-11T09:57:29.696Z",
       "updatedAt": "2026-09-11T11:11:32.831Z"
+    },
+    {
+      "id": "2984490",
+      "title": "Zeschdorf lädt ein: Gruselspaß und Party!",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2984490/2026/10/31/zeschdorf-lädt-ein-gruselspaß-und-party.html",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "location": "Kulturhaus Alt Zeschdorf",
+      "fetchedAt": "2026-10-15T08:25:31.421Z",
+      "updatedAt": "2026-10-15T08:25:31.421Z"
     },
     {
       "id": "2846367",
@@ -1160,6 +1196,15 @@
       "updatedAt": "2026-10-01T10:17:56.353Z"
     },
     {
+      "id": "2984515",
+      "title": "4. Pokemon Tauschtag",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2984515/2026/11/14/4.-pokemon-tauschtag.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-10-15T08:25:31.421Z",
+      "updatedAt": "2026-10-15T08:25:31.421Z"
+    },
+    {
       "id": "2873363",
       "title": "Gedenk Andacht in Mallnow",
       "url": "https://www.amt-lebus.de/veranstaltungen/2873363/2026/11/21/gedenk-andacht-in-mallnow.html",
@@ -1167,6 +1212,16 @@
       "location": "Mallnow",
       "fetchedAt": "2026-05-05T14:58:26.635Z",
       "updatedAt": "2026-05-06T20:20:27.585Z"
+    },
+    {
+      "id": "2984489",
+      "title": "Von der Angst zur Intuition ein Weg zu mehr innerer Ruhe und Klarheit",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2984489/2026/11/25/von-der-angst-zur-intuition-ein-weg-zu-mehr-innerer-ruhe-und-klarheit.html",
+      "startDate": "2026-11-25T00:00:00.000Z",
+      "location": "Bibliothek Zeschdorf",
+      "description": "Vortrag mit Dr. med. Ute Krüger",
+      "fetchedAt": "2026-10-15T08:25:31.421Z",
+      "updatedAt": "2026-10-15T08:25:31.421Z"
     },
     {
       "id": "2904743",

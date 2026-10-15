@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T08:48:36.100Z",
+  "updatedAt": "2026-10-15T08:22:55.689Z",
   "items": [
     {
       "id": "nauen-event-14062026-stadtradeln-stadt-nauen-20260528",
@@ -1496,6 +1496,15 @@
       "updatedAt": "2026-05-31T14:14:02.067Z"
     },
     {
+      "id": "nauen-event-16102026-ausstellung-nauener-stolpersteine-20261014",
+      "title": "Ausstellung „Nauener Stolpersteine“",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/16102026-ausstellung-nauener-stolpersteine/",
+      "startDate": "2026-10-14T22:00:00.000Z",
+      "location": "Richart-Hof",
+      "fetchedAt": "2026-10-15T08:22:55.698Z",
+      "updatedAt": "2026-10-15T08:22:55.698Z"
+    },
+    {
       "id": "nauen-event-15102026-frischemarkt-auf-dem-nauener-rathausplatz-20261015",
       "title": "Frischemarkt auf dem Nauener Rathausplatz",
       "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/15102026-frischemarkt-auf-dem-nauener-rathausplatz/",
@@ -1548,6 +1557,24 @@
       "location": "Rathausplatz",
       "fetchedAt": "2026-09-29T09:55:09.927Z",
       "updatedAt": "2026-09-29T09:55:09.927Z"
+    },
+    {
+      "id": "nauen-event-szenische-fuehrung-in-ribbeck-sa-20261017",
+      "title": "Szenische Führung in Ribbeck",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/szenische-fuehrung-in-ribbeck-sa/",
+      "startDate": "2026-10-17T12:00:00.000Z",
+      "location": "Kirche Ribbeck",
+      "fetchedAt": "2026-10-15T08:22:55.698Z",
+      "updatedAt": "2026-10-15T08:22:55.698Z"
+    },
+    {
+      "id": "nauen-event-szenische-fuehrung-in-ribbeck-so-20261018",
+      "title": "Szenische Führung in Ribbeck",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/szenische-fuehrung-in-ribbeck-so/",
+      "startDate": "2026-10-18T12:00:00.000Z",
+      "location": "Kirche Ribbeck",
+      "fetchedAt": "2026-10-15T08:22:55.698Z",
+      "updatedAt": "2026-10-15T08:22:55.698Z"
     },
     {
       "id": "nauen-event-21102026-seniorenessen-20261021",
@@ -1755,6 +1782,15 @@
       "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
       "fetchedAt": "2026-09-11T09:54:30.436Z",
       "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-hochzeits-hausmesse-im-gutshaus-lietzow-20261114",
+      "title": "Hochzeits-Hausmesse im Gutshaus Lietzow",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/hochzeits-hausmesse-im-gutshaus-lietzow/",
+      "startDate": "2026-11-14T09:00:00.000Z",
+      "location": "Gutshaus Lietzow",
+      "fetchedAt": "2026-10-15T08:22:55.698Z",
+      "updatedAt": "2026-10-15T08:22:55.698Z"
     },
     {
       "id": "nauen-event-15112026-die-feuerzangenbowle-20261115",

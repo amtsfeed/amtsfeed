@@ -1546,6 +1546,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:AGIL Sportraum Steinstraße 40 in Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1781-20261027@amtsfeed.de
+DTSTAMP:20261015T082301Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Europabürgerdialog: Erstarkter Rechtsextremismus in Deutschland 
+ – Gefahr für die EU
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/europabuergerdialog-erstarkter-
+ rechtsextremismus-in-deutschland-gefahr-fuer-die-eu/
+LOCATION:Stadtbibliothek Schleusenplatz 4
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1760-20261028@amtsfeed.de
 DTSTAMP:20260930T094732Z
 DTSTART;VALUE=DATE:20261028
@@ -1862,6 +1874,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1780-20270122@amtsfeed.de
+DTSTAMP:20261015T082301Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+SUMMARY:2027 Regionalwettbewerb Brandenburg West "Jugend musiziert"
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/2027-regionalwettbewerb-branden
+ burg-west-jugend-musiziert/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1765-20270123@amtsfeed.de
 DTSTAMP:20261009T103946Z
 DTSTART;VALUE=DATE:20270123
@@ -1880,6 +1903,18 @@ DTEND;VALUE=DATE:20270207
 SUMMARY:Moving Shadows
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/moving-shadows/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1779-20270227@amtsfeed.de
+DTSTAMP:20261015T082301Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:„This is a man´s world” mit Alexandra Kamp / Achtung: neuer 
+ Termin!
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/this-is-a-mans-world-mit-alexan
+ dra-kamp-achtung-neuer-termin/
 LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
@@ -1921,5 +1956,37 @@ SUMMARY:OSTROCK KLASSIK deluxe
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/ostrock-klassik-deluxe/
 LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1782-20270701@amtsfeed.de
+DTSTAMP:20261015T082301Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Traumschüff: Offene Bühne
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/traumschueff-offene-buehne/
+LOCATION:Alter Hafen Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1783-20270703@amtsfeed.de
+DTSTAMP:20261015T082301Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Traumschüff: Theatervorstellung
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/traumschueff-theatervorstellung
+ /
+LOCATION:Alter Hafen Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1784-20270704@amtsfeed.de
+DTSTAMP:20261015T082301Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Traumschüff: weitere Theatervorstellung bei hoher Nachfrage
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/traumschueff-weitere-theatervor
+ stellung-bei-hoher-nachfrage/
+LOCATION:Alter Hafen Rathenow
 END:VEVENT
 END:VCALENDAR

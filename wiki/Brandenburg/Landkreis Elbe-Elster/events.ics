@@ -873,4 +873,34 @@ SUMMARY:Erde 2.0
 URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Erde-2-0.php?obje
  ct=tx\,2112.2.1&ModID=11&FID=2112.4927.1&NavID=2112.265&kat=2112.71
 END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4929@amtsfeed.de
+DTSTAMP:20261015T082211Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Einsteigerkurs Astronomie
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Einsteigerkurs-As
+ tronomie.php?object=tx\,2112.2.1&ModID=11&FID=2112.4929.1&NavID=2112.265&
+ kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4925@amtsfeed.de
+DTSTAMP:20261015T082211Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Familientag: Tierisch tolle Jobs
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Familientag-Tieri
+ sch-tolle-Jobs.php?object=tx\,2112.2.1&ModID=11&FID=2112.4925.1&NavID=211
+ 2.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4926@amtsfeed.de
+DTSTAMP:20261015T082211Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Familientag: Tierisch tolle Jobs
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Familientag-Tieri
+ sch-tolle-Jobs.php?object=tx\,2112.2.1&ModID=11&FID=2112.4926.1&NavID=211
+ 2.265&kat=2112.71
+END:VEVENT
 END:VCALENDAR

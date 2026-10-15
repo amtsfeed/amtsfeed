@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T08:52:30.057Z",
+  "updatedAt": "2026-10-15T08:26:46.548Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -426,36 +426,12 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
-      "id": "oberkraemer-event-2855698",
-      "title": "Kartenfreunde Schwante",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855698/2026/10/14/kartenfreunde-schwante.html",
-      "startDate": "2026-10-14T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-10-08T10:45:16.346Z"
-    },
-    {
-      "id": "oberkraemer-event-2855693",
-      "title": "Singen mit den Vehlefanzer Amseln",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855693/2026/10/14/singen-mit-den-vehlefanzer-amseln.html",
-      "startDate": "2026-10-14T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-10-08T10:45:16.346Z"
-    },
-    {
       "id": "oberkraemer-event-2976142",
       "title": "Singen mit den Vehlefanzer Amseln",
       "url": "https://www.oberkraemer.de/veranstaltungen/2976142/2026/10/14/singen-mit-den-vehlefanzer-amseln.html",
       "startDate": "2026-10-14T00:00:00.000Z",
       "fetchedAt": "2026-09-30T09:51:50.456Z",
       "updatedAt": "2026-10-08T10:45:16.346Z"
-    },
-    {
-      "id": "oberkraemer-event-2855795",
-      "title": "Kaffeenachmittag - Senioren Club Eichstädt",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855795/2026/10/14/kaffeenachmittag-senioren-club-eichstädt.html",
-      "startDate": "2026-10-14T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
       "id": "oberkraemer-event-2957556",
@@ -656,6 +632,22 @@
       "startDate": "2026-10-20T00:00:00.000Z",
       "fetchedAt": "2026-09-30T09:51:50.456Z",
       "updatedAt": "2026-09-30T09:51:50.456Z"
+    },
+    {
+      "id": "oberkraemer-event-2855698",
+      "title": "Kartenfreunde Schwante",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855698/2026/10/21/kartenfreunde-schwante.html",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-10-15T08:26:46.565Z"
+    },
+    {
+      "id": "oberkraemer-event-2855693",
+      "title": "Singen mit den Vehlefanzer Amseln",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855693/2026/10/21/singen-mit-den-vehlefanzer-amseln.html",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-10-15T08:26:46.565Z"
     },
     {
       "id": "oberkraemer-event-2891496",
@@ -1224,6 +1216,14 @@
       "startDate": "2026-12-08T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:22.966Z",
       "updatedAt": "2026-10-13T10:45:24.841Z"
+    },
+    {
+      "id": "oberkraemer-event-2855795",
+      "title": "Kaffeenachmittag - Senioren Club Eichstädt",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855795/2026/12/09/kaffeenachmittag-senioren-club-eichstädt.html",
+      "startDate": "2026-12-09T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-10-15T08:26:46.565Z"
     },
     {
       "id": "oberkraemer-event-2968516",

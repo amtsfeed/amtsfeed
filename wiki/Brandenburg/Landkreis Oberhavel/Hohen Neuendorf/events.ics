@@ -664,4 +664,23 @@ SUMMARY:Open Vernissage (Skulpturen Boulevard)
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  open-vernissage-skulpturen-boulevard
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-mathias-richling-enttarnt-persoenliche-ermittlu
+ ngen@amtsfeed.de
+DTSTAMP:20261015T082633Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Mathias Richling: "Enttarnt!“ persönliche Ermittlungen
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ mathias-richling-enttarnt-persoenliche-ermittlungen
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-sprachcafe-1@amtsfeed.de
+DTSTAMP:20261015T082633Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Sprachcafé
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ sprachcafe-1
+END:VEVENT
 END:VCALENDAR

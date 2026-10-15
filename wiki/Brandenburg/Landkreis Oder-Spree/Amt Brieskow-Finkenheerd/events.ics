@@ -147,6 +147,16 @@ URL:https://www.amt-b-f.de/veranstaltungen/2807999/2026/10/10/drachenfest
 LOCATION:Gemeinde Brieskow-Finkenheerd
 END:VEVENT
 BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2984822@amtsfeed.de
+DTSTAMP:20261015T082729Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Amtserstürmung
+URL:https://www.amt-b-f.de/veranstaltungen/2984822/2026/11/14/amtserstür
+ mung.html
+LOCATION:Amtserstürmung
+END:VEVENT
+BEGIN:VEVENT
 UID:brieskow-finkenheerd-event-2856049@amtsfeed.de
 DTSTAMP:20260506T202031Z
 DTSTART;VALUE=DATE:20261206

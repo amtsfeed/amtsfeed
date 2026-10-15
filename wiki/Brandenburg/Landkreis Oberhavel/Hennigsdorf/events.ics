@@ -472,4 +472,15 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/SAUNA-THEMENTAG
  D=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;
  k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-770@amtsfeed.de
+DTSTAMP:20261015T082630Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Familienspieltag | Tierischer Hüpfburgspass 2026
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Familienspielta
+ g-Tierischer-H%C3%BCpfburgspass-2026.php?object=tx\,3590.4.1&amp\;ModID=1
+ 1&amp\;FID=3590.770.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;s
+ tartkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

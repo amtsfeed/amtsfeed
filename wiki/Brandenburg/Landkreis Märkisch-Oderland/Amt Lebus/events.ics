@@ -1053,47 +1053,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2904732/2026/10/13/fahrt-zur
 LOCATION:Treffpunkt : Postkasten Lebus
 END:VEVENT
 BEGIN:VEVENT
-UID:2486339@amtsfeed.de
-DTSTAMP:20261008T104348Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Sport für Senioren in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/14/sport-fü
- r-senioren-in-podelzig.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464908@amtsfeed.de
-DTSTAMP:20261008T104348Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Fleischerwagen Fleischerei Höhne
-URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/14/fleischer
- wagen-fleischerei-höhne.html
-DESCRIPTION:am Dorfteich Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464904@amtsfeed.de
-DTSTAMP:20261008T104348Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:&bdquo\;Yoga &ndash\; sanft und entspannend&ldquo\;
-URL:https://www.amt-lebus.de/veranstaltungen/2464904/2026/10/14/yoga--san
- ft-und-entspannend.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2820928@amtsfeed.de
-DTSTAMP:20261008T104348Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Yoga - Anfänger & Wiedereinsteiger
-URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/10/14/yoga-anf
- änger-wiedereinsteiger.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2973745@amtsfeed.de
 DTSTAMP:20260925T085705Z
 DTSTART;VALUE=DATE:20261014
@@ -1145,6 +1104,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/10/16/selbstver
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
+UID:2984498@amtsfeed.de
+DTSTAMP:20261015T082531Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Einladung zur Einbettung gefallener Soldaten
+URL:https://www.amt-lebus.de/veranstaltungen/2984498/2026/10/16/einladung
+ -zur-einbettung-gefallener-soldaten.html
+LOCATION:Wuhdener Friedhof
+END:VEVENT
+BEGIN:VEVENT
 UID:2464910@amtsfeed.de
 DTSTAMP:20261011T100841Z
 DTSTART;VALUE=DATE:20261017
@@ -1188,6 +1157,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2956131/2026/10/18/trödelma
  rkt-am-trepliner-see.html
 DESCRIPTION:Anmeldungen unter Tel. 0173 174 61 85
 LOCATION:Trepliner See
+END:VEVENT
+BEGIN:VEVENT
+UID:2984493@amtsfeed.de
+DTSTAMP:20261015T082531Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Drachenfest in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2984493/2026/10/18/drachenfe
+ st-in-podelzig.html
+LOCATION:auf der Sportanlage des BSV Blau Wess
 END:VEVENT
 BEGIN:VEVENT
 UID:2402834@amtsfeed.de
@@ -1255,6 +1234,47 @@ URL:https://www.amt-lebus.de/veranstaltungen/2904739/2026/10/20/jahresgeb
 LOCATION:Kulturhaus Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2486339@amtsfeed.de
+DTSTAMP:20261015T082531Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Sport für Senioren in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/21/sport-fü
+ r-senioren-in-podelzig.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464908@amtsfeed.de
+DTSTAMP:20261015T082531Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Fleischerwagen Fleischerei Höhne
+URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/21/fleischer
+ wagen-fleischerei-höhne.html
+DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464904@amtsfeed.de
+DTSTAMP:20261015T082531Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:&bdquo\;Yoga &ndash\; sanft und entspannend&ldquo\;
+URL:https://www.amt-lebus.de/veranstaltungen/2464904/2026/10/21/yoga--san
+ ft-und-entspannend.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2820928@amtsfeed.de
+DTSTAMP:20261015T082531Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Yoga - Anfänger & Wiedereinsteiger
+URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/10/21/yoga-anf
+ änger-wiedereinsteiger.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2957498@amtsfeed.de
 DTSTAMP:20260911T111132Z
 DTSTART;VALUE=DATE:20261030
@@ -1263,6 +1283,16 @@ SUMMARY:Luck & Strauch - Lieder vom Lieben
 URL:https://www.amt-lebus.de/veranstaltungen/2957498/2026/10/30/luck-stra
  uch-lieder-vom-lieben.html
 LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2984503@amtsfeed.de
+DTSTAMP:20261015T082531Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Halloween in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2984503/2026/10/30/halloween
+ -in-podelzig.html
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2964743@amtsfeed.de
@@ -1274,6 +1304,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2964743/2026/10/31/arbeitsei
  nsatz-adonisröschen.html
 DESCRIPTION:unterhalb des Birkenhofs (Pferdehof)
 LOCATION:Oderberge Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2984490@amtsfeed.de
+DTSTAMP:20261015T082531Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Zeschdorf lädt ein: Gruselspaß und Party!
+URL:https://www.amt-lebus.de/veranstaltungen/2984490/2026/10/31/zeschdorf
+ -lädt-ein-gruselspaß-und-party.html
+LOCATION:Kulturhaus Alt Zeschdorf
 END:VEVENT
 BEGIN:VEVENT
 UID:2846367@amtsfeed.de
@@ -1362,6 +1402,16 @@ DESCRIPTION:Die 58 Saison unter dem Motto: " Der LCC mit Gegensätzen\, d
 LOCATION:Kulturhaus Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2984515@amtsfeed.de
+DTSTAMP:20261015T082531Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:4. Pokemon Tauschtag
+URL:https://www.amt-lebus.de/veranstaltungen/2984515/2026/11/14/4.-pokemo
+ n-tauschtag.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2873363@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20261121
@@ -1370,6 +1420,18 @@ SUMMARY:Gedenk Andacht in Mallnow
 URL:https://www.amt-lebus.de/veranstaltungen/2873363/2026/11/21/gedenk-an
  dacht-in-mallnow.html
 LOCATION:Mallnow
+END:VEVENT
+BEGIN:VEVENT
+UID:2984489@amtsfeed.de
+DTSTAMP:20261015T082531Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Von der Angst zur Intuition ein Weg zu mehr innerer Ruhe und Klar
+ heit
+URL:https://www.amt-lebus.de/veranstaltungen/2984489/2026/11/25/von-der-a
+ ngst-zur-intuition-ein-weg-zu-mehr-innerer-ruhe-und-klarheit.html
+DESCRIPTION:Vortrag mit Dr. med. Ute Krüger
+LOCATION:Bibliothek Zeschdorf
 END:VEVENT
 BEGIN:VEVENT
 UID:2904743@amtsfeed.de

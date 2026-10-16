@@ -483,4 +483,25 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Familienspielta
  1&amp\;FID=3590.770.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;s
  tartkat=2713.5&amp\;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-880@amtsfeed.de
+DTSTAMP:20261016T081930Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Hubertusmesse | Brauchtum
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Hubertusmesse-B
+ rauchtum.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.880.1&amp\;N
+ avID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&am
+ p\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-743@amtsfeed.de
+DTSTAMP:20261016T081930Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Tanztee 2026
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tanztee-2026.ph
+ p?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.743.1&amp\;NavID=2713.9
+ &amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

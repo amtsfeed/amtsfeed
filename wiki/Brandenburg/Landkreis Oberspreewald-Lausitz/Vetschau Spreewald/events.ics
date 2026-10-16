@@ -1244,6 +1244,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261015-1@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261015T080000Z
+DTEND:20261015T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261016-53@amtsfeed.de
 DTSTAMP:20260531T184205Z
 DTSTART:20261016T180000Z
@@ -1389,12 +1398,12 @@ LOCATION:Bibliothek Lübbenau
 END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261016-3@amtsfeed.de
-DTSTAMP:20261015T082721Z
+DTSTAMP:20261016T082027Z
 DTSTART:20261016T180000Z
 DTEND:20261016T193000Z
-SUMMARY:Märchenhaftes Marokko - mit dem VW-Bus durch das Königreich
+SUMMARY:Märchenhafter Oman – mit Michael Rischer
 URL:https://stadt.vetschau.de/startseite/veranstaltungen/
-LOCATION:Bibliothek Lübbenau
+LOCATION:Vetschau (Bibliothek)
 END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261016-4@amtsfeed.de
@@ -1404,6 +1413,15 @@ DTEND:20261016T193000Z
 SUMMARY:Märchenhafter Oman – mit Michael Rischer
 URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau (Bibliothek)
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261016-2@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261016T180000Z
+DTEND:20261016T193000Z
+SUMMARY:Märchenhaftes Marokko - mit dem VW-Bus durch das Königreich
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Bibliothek Lübbenau
 END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261022-55@amtsfeed.de
@@ -1516,6 +1534,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261022-5@amtsfeed.de
 DTSTAMP:20261015T082721Z
+DTSTART:20261022T080000Z
+DTEND:20261022T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261022-4@amtsfeed.de
+DTSTAMP:20261016T082027Z
 DTSTART:20261022T080000Z
 DTEND:20261022T130000Z
 SUMMARY:Wochenmarkt Vetschau
@@ -1640,6 +1667,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261029-5@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261029T080000Z
+DTEND:20261029T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261105-57@amtsfeed.de
 DTSTAMP:20260531T184205Z
 DTSTART:20261105T080000Z
@@ -1757,6 +1793,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261105-6@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261105T080000Z
+DTEND:20261105T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261110-22@amtsfeed.de
 DTSTAMP:20260911T111238Z
 DTSTART:20261110T170000Z
@@ -1858,6 +1903,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261110-8@amtsfeed.de
 DTSTAMP:20261015T082721Z
+DTSTART:20261110T170000Z
+DTEND:20261110T220000Z
+SUMMARY:inspiring universe & WALDgefühl
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Missen
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261110-7@amtsfeed.de
+DTSTAMP:20261016T082027Z
 DTSTART:20261110T170000Z
 DTEND:20261110T220000Z
 SUMMARY:inspiring universe & WALDgefühl
@@ -1982,6 +2036,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261112-8@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261112T080000Z
+DTEND:20261112T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261119-59@amtsfeed.de
 DTSTAMP:20260531T184205Z
 DTSTART:20261119T080000Z
@@ -2092,6 +2155,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261119-10@amtsfeed.de
 DTSTAMP:20261015T082721Z
+DTSTART:20261119T080000Z
+DTEND:20261119T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261119-9@amtsfeed.de
+DTSTAMP:20261016T082027Z
 DTSTART:20261119T080000Z
 DTEND:20261119T130000Z
 SUMMARY:Wochenmarkt Vetschau
@@ -2216,6 +2288,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261126-10@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261126T080000Z
+DTEND:20261126T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261128-61@amtsfeed.de
 DTSTAMP:20260531T184205Z
 DTSTART:20261128T120000Z
@@ -2252,13 +2333,22 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau (Stadtschloss)
 END:VEVENT
 BEGIN:VEVENT
-UID:vetschau-spreewald-event-20261128-12@amtsfeed.de
-DTSTAMP:20261015T082721Z
+UID:vetschau-spreewald-event-20261128-11@amtsfeed.de
+DTSTAMP:20261016T082027Z
 DTSTART:20261128T120000Z
 DTEND:20261128T180000Z
 SUMMARY:Schlossweihnacht Vetschau am 1. Advent
 URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau (Stadtschloss)
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261128-12@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261128T150000Z
+DTEND:20261128T160000Z
+SUMMARY:Weihnachtspuppenbühne für Kinder
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau (Wendisch-Deutsche Doppelkirche)
 END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261128-15@amtsfeed.de
@@ -2387,6 +2477,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Laasow
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261129-13@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261129T110000Z
+DTEND:20261129T180000Z
+SUMMARY:Advent im Kunsthaus Laasow
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Laasow
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261203-63@amtsfeed.de
 DTSTAMP:20260531T184205Z
 DTSTART:20261203T080000Z
@@ -2497,6 +2596,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261203-15@amtsfeed.de
 DTSTAMP:20261015T082721Z
+DTSTART:20261203T080000Z
+DTEND:20261203T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261203-14@amtsfeed.de
+DTSTAMP:20261016T082027Z
 DTSTART:20261203T080000Z
 DTEND:20261203T130000Z
 SUMMARY:Wochenmarkt Vetschau
@@ -2630,6 +2738,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Missen
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261205-15@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261205T100000Z
+DTEND:20261205T180000Z
+SUMMARY:Weihnachten in Missen
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Missen
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261210-66@amtsfeed.de
 DTSTAMP:20260531T184205Z
 DTSTART:20261210T080000Z
@@ -2740,6 +2857,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261210-17@amtsfeed.de
 DTSTAMP:20261015T082721Z
+DTSTART:20261210T080000Z
+DTEND:20261210T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261210-16@amtsfeed.de
+DTSTAMP:20261016T082027Z
 DTSTART:20261210T080000Z
 DTEND:20261210T130000Z
 SUMMARY:Wochenmarkt Vetschau
@@ -2864,6 +2990,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Missen
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261212-17@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261212T100000Z
+DTEND:20261212T180000Z
+SUMMARY:Weihnachten in Missen
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Missen
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261217-68@amtsfeed.de
 DTSTAMP:20260531T184205Z
 DTSTART:20261217T080000Z
@@ -2981,8 +3116,26 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261217-18@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261217T080000Z
+DTEND:20261217T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261220-20@amtsfeed.de
 DTSTAMP:20261015T082721Z
+DTSTART:20261220T130000Z
+DTEND:20261220T170000Z
+SUMMARY:Engelswerkstatt im Kunsthaus Laasow
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Laasow
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261220-19@amtsfeed.de
+DTSTAMP:20261016T082027Z
 DTSTART:20261220T130000Z
 DTEND:20261220T170000Z
 SUMMARY:Engelswerkstatt im Kunsthaus Laasow
@@ -3098,6 +3251,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261224-20@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20261224T080000Z
+DTEND:20261224T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261231-70@amtsfeed.de
 DTSTAMP:20260531T184205Z
 DTSTART:20261231T080000Z
@@ -3199,6 +3361,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261231-22@amtsfeed.de
 DTSTAMP:20261011T101102Z
+DTSTART:20261231T080000Z
+DTEND:20261231T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261231-21@amtsfeed.de
+DTSTAMP:20261016T082027Z
 DTSTART:20261231T080000Z
 DTEND:20261231T130000Z
 SUMMARY:Wochenmarkt Vetschau
@@ -3314,6 +3485,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20270107-22@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20270107T080000Z
+DTEND:20270107T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20270114-72@amtsfeed.de
 DTSTAMP:20260531T184205Z
 DTSTART:20270114T080000Z
@@ -3415,6 +3595,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20270114-24@amtsfeed.de
 DTSTAMP:20261011T101102Z
+DTSTART:20270114T080000Z
+DTEND:20270114T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20270114-23@amtsfeed.de
+DTSTAMP:20261016T082027Z
 DTSTART:20270114T080000Z
 DTEND:20270114T130000Z
 SUMMARY:Wochenmarkt Vetschau
@@ -3530,6 +3719,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20270121-24@amtsfeed.de
+DTSTAMP:20261016T082027Z
+DTSTART:20270121T080000Z
+DTEND:20270121T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20270128-74@amtsfeed.de
 DTSTAMP:20260531T184205Z
 DTSTART:20270128T080000Z
@@ -3631,6 +3829,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20270128-26@amtsfeed.de
 DTSTAMP:20261011T101102Z
+DTSTART:20270128T080000Z
+DTEND:20270128T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20270128-25@amtsfeed.de
+DTSTAMP:20261016T082027Z
 DTSTART:20270128T080000Z
 DTEND:20270128T130000Z
 SUMMARY:Wochenmarkt Vetschau

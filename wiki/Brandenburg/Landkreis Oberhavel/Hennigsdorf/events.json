@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T08:26:30.235Z",
+  "updatedAt": "2026-10-16T08:19:30.729Z",
   "items": [
     {
       "id": "hennigsdorf-event-820",
@@ -354,6 +354,22 @@
       "startDate": "2026-10-31T00:00:00.000Z",
       "fetchedAt": "2026-10-15T08:26:30.244Z",
       "updatedAt": "2026-10-15T08:26:30.244Z"
+    },
+    {
+      "id": "hennigsdorf-event-880",
+      "title": "Hubertusmesse | Brauchtum",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Hubertusmesse-Brauchtum.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.880.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-11-01T00:00:00.000Z",
+      "fetchedAt": "2026-10-16T08:19:30.738Z",
+      "updatedAt": "2026-10-16T08:19:30.738Z"
+    },
+    {
+      "id": "hennigsdorf-event-743",
+      "title": "Tanztee 2026",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tanztee-2026.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.743.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-10-16T08:19:30.738Z",
+      "updatedAt": "2026-10-16T08:19:30.738Z"
     }
   ]
 }

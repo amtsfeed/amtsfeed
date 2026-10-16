@@ -424,17 +424,6 @@ URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-golf-schnupperk
  urs
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
- enkmal-bunkeranlage-fuchsbau@amtsfeed.de
-DTSTAMP:20260926T084513Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
- nkeranlage Fuchsbau“
-URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
- nker-im-technischen-denkmal-bunkeranlage-fuchsbau
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-hula-hoop-festival@amtsfeed.de
 DTSTAMP:20260914T090758Z
 DTSTART;VALUE=DATE:20260926
@@ -734,15 +723,6 @@ URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-schulv
  eranstaltung-musikalische-lesung-ritter-rost-mit-patricia-parwit
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-laternenumzug-lichterfest-ferienprogramm@amtsfeed.de
-DTSTAMP:20261009T104340Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Laternenumzug & Lichterfest - Ferienprogramm
-URL:https://www.scharmuetzelsee.de/event/laternenumzug-lichterfest-ferien
- programm
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-11-storkower-herbstpoesie-theater-volksbuehne-kaulenb
  erg-julius-caesar-ueberall-mit-jonas-schuette@amtsfeed.de
 DTSTAMP:20261009T104340Z
@@ -810,16 +790,6 @@ DTEND;VALUE=DATE:20261013
 SUMMARY:Alpaka Spaziergang - Ferienprogramm
 URL:https://www.scharmuetzelsee.de/event/alpaka-spaziergang-ferienprogram
  m
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
- d.de
-DTSTAMP:20261013T104602Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
-URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
- harmuetzelsee
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-herbstferien-familienspezial-im-wettermuseum@amtsfeed
@@ -894,16 +864,6 @@ URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
  perkurs
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
- eed.de
-DTSTAMP:20261014T085319Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
-URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
- die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
 DTSTAMP:20261013T104602Z
 DTSTART;VALUE=DATE:20261014
@@ -941,10 +901,29 @@ SUMMARY:Offener Meditationsabend
 URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-laternenumzug-lichterfest-ferienprogramm@amtsfeed.de
+DTSTAMP:20261016T082039Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Laternenumzug & Lichterfest - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/laternenumzug-lichterfest-ferien
+ programm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
+ d.de
+DTSTAMP:20261016T082039Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
+ harmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261015T082732Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
+DTSTAMP:20261016T082039Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
 SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
 URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
  d-saarow
@@ -952,12 +931,68 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
  de
-DTSTAMP:20261015T082732Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
+DTSTAMP:20261016T082039Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
 SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
 URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
  on-taeglich
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-wir-basteln-unsere-coolste-laterne-ferienprogramm@amt
+ sfeed.de
+DTSTAMP:20261016T082039Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Wir basteln unsere coolste Laterne - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/wir-basteln-unsere-coolste-later
+ ne-ferienprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-11-storkower-herbstpoesie-lesung-die-geheimnisse-mein
+ er-frau-mit-hellmuth-henneberg@amtsfeed.de
+DTSTAMP:20261016T082039Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:11. Storkower Herbstpoesie: Lesung „Die Geheimnisse meiner Frau
+ “ mit Hellmuth Henneberg
+URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-lesung
+ -die-geheimnisse-meiner-frau-mit-hellmuth-henneberg
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-11-storkower-herbstpoesie-lesung-liebe-ein-aufruf-ein
+ -aufruf-zu-aktivem-widerstand-gegen-die-kultur-des-hasses-mit-daniel-schr
+ eiber@amtsfeed.de
+DTSTAMP:20261016T082039Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:11. Storkower Herbstpoesie: Lesung „Liebe! Ein Aufruf.“ Ein A
+ ufruf zu aktivem Widerstand gegen die Kultur des Hasses mit Daniel Schrei
+ ber
+URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-lesung
+ -liebe-ein-aufruf-ein-aufruf-zu-aktivem-widerstand-gegen-die-kultur-des-h
+ asses-mit-daniel-schreiber
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
+ enkmal-bunkeranlage-fuchsbau@amtsfeed.de
+DTSTAMP:20261016T082039Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
+ nkeranlage Fuchsbau“
+URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
+ nker-im-technischen-denkmal-bunkeranlage-fuchsbau
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
+ eed.de
+DTSTAMP:20261016T082039Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
+URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
+ die-zeit-laeuft
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz@amtsf

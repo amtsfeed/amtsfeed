@@ -1234,15 +1234,6 @@ URL:https://www.michendorf.de/veranstaltungen/2968980/2026/10/14/filmclub
  -adam-und-evelyn-eine-nicht-ganz-paradiesische-wendekomödie.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959533@amtsfeed.de
-DTSTAMP:20261009T104504Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959533/2026/10/15/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2965556@amtsfeed.de
 DTSTAMP:20260911T111336Z
 DTSTART;VALUE=DATE:20261015
@@ -1352,6 +1343,15 @@ URL:https://www.michendorf.de/veranstaltungen/2966245/2026/10/21/ferien-a
  ktion-beat-it.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2959533@amtsfeed.de
+DTSTAMP:20261016T082220Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959533/2026/10/22/jugendcl
+ ub-micheck-geöffnet.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2897216@amtsfeed.de
 DTSTAMP:20260531T131707Z
 DTSTART;VALUE=DATE:20261023
@@ -1386,6 +1386,15 @@ DTEND;VALUE=DATE:20261026
 SUMMARY:Sonntags-Frühstück
 URL:https://www.michendorf.de/veranstaltungen/2646897/2026/10/25/sonntags
  -frühstück.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2985088@amtsfeed.de
+DTSTAMP:20261016T082220Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Monster Bastel-Nachmittag im Familienzentrum
+URL:https://www.michendorf.de/veranstaltungen/2985088/2026/10/26/monster-
+ bastel-nachmittag-im-familienzentrum.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2798286@amtsfeed.de
@@ -1431,6 +1440,15 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Digitaler Themenabend "Mein sicheres Zuhause"
 URL:https://www.michendorf.de/veranstaltungen/2984000/2026/10/29/digitale
  r-themenabend-mein-sicheres-zuhause.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2985091@amtsfeed.de
+DTSTAMP:20261016T082220Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Monster Bastel-Nachmittag im Familienzentrum
+URL:https://www.michendorf.de/veranstaltungen/2985091/2026/10/29/monster-
+ bastel-nachmittag-im-familienzentrum.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2937569@amtsfeed.de
@@ -1585,6 +1603,15 @@ DTEND;VALUE=DATE:20261127
 SUMMARY:Tag der offenen Tür im Rathaus mit Weihnachtsleuchten
 URL:https://www.michendorf.de/veranstaltungen/2785539/2026/11/26/tag-der-
  offenen-tür-im-rathaus-mit-weihnachtsleuchten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2984984@amtsfeed.de
+DTSTAMP:20261016T082220Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Weihnachtssingen des Seniorenbeirats
+URL:https://www.michendorf.de/veranstaltungen/2984984/2026/11/26/weihnach
+ tssingen-des-seniorenbeirats.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2937570@amtsfeed.de

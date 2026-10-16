@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T08:47:43.108Z",
+  "updatedAt": "2026-10-16T08:15:10.678Z",
   "items": [
     {
       "id": "2849506",
@@ -602,14 +602,6 @@
       "updatedAt": "2026-05-08T18:34:29.680Z"
     },
     {
-      "id": "2331050",
-      "title": "Wochenmarkt",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2331050/2027/10/09/wochenmarkt.html",
-      "startDate": "2027-10-09T06:30:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-10-09T10:38:45.995Z"
-    },
-    {
       "id": "2477269",
       "title": "Seniorencaf&egrave;",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2477269/2027/10/13/seniorencafè.html",
@@ -632,6 +624,14 @@
       "startDate": "2027-10-14T06:00:00.000Z",
       "fetchedAt": "2026-05-08T18:34:29.680Z",
       "updatedAt": "2026-10-14T08:47:43.101Z"
+    },
+    {
+      "id": "2331050",
+      "title": "Wochenmarkt",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2331050/2027/10/16/wochenmarkt.html",
+      "startDate": "2027-10-16T06:30:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-10-16T08:15:10.667Z"
     }
   ]
 }

@@ -1392,15 +1392,6 @@ URL:https://www.teltow.de/veranstaltungen/2971751/2026/10/14/sportgruppe.
  html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2699683@amtsfeed.de
-DTSTAMP:20261009T104529Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Repair Caf&eacute\; Teltow
-URL:https://www.teltow.de/veranstaltungen/2699683/2026/10/15/repair-café
- -teltow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2972015@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261015
@@ -1500,6 +1491,15 @@ DTEND;VALUE=DATE:20261022
 SUMMARY:Sportgruppe
 URL:https://www.teltow.de/veranstaltungen/2972028/2026/10/21/sportgruppe.
  html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2699683@amtsfeed.de
+DTSTAMP:20261016T082241Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Repair Caf&eacute\; Teltow
+URL:https://www.teltow.de/veranstaltungen/2699683/2026/10/22/repair-café
+ -teltow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972030@amtsfeed.de
@@ -1957,6 +1957,15 @@ DTEND;VALUE=DATE:20261124
 SUMMARY:Weihnachtsshopping in der Tourist Information
 URL:https://www.teltow.de/veranstaltungen/2973448/2026/11/23/weihnachtssh
  opping-in-der-tourist-information.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2985080@amtsfeed.de
+DTSTAMP:20261016T082241Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Workshop „Frauen in die Kommunalpolitik – Mehr ist fair!“
+URL:https://www.teltow.de/veranstaltungen/2985080/2026/11/23/workshop-fra
+ uen-in-die-kommunalpolitik--mehr-ist-fair.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972254@amtsfeed.de

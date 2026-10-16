@@ -1097,19 +1097,6 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
 LOCATION:ihr reifen\, die mit Risiken verbunden ist
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261015T082821Z
-DTSTART:20261015T082821Z
-SUMMARY:Veranstaltungen
-URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1
-END:VEVENT
-BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1971-1@amtsfeed.de
 DTSTAMP:20260925T085923Z
 DTSTART;VALUE=DATE:20261016
@@ -1119,6 +1106,19 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/56-Dixieland-Konzert-m
  it-den-Dixie-Brothers.php?ModID=11&amp\;FID=2852.1971.1
 LOCATION:town
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
+DTSTAMP:20261016T082102Z
+DTSTART:20261016T082102Z
+SUMMARY:Veranstaltungen
+URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1714-1@amtsfeed.de
@@ -1141,6 +1141,18 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  -Mazze-Wiesner-Band.php?ModID=11&amp\;FID=2852.1888.1
 END:VEVENT
 BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1993-1@amtsfeed.de
+DTSTAMP:20261016T082102Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Zwei Sonderausstellungen im Städtischen Museum Eisenhüttenstadt
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Zwei-Sonderausstellung
+ en-im-St%C3%A4dtischen-Museum-Eisenh%C3%BCttenstadt.php?ModID=11&amp\;FID
+ =2852.1993.1
+LOCATION:Städtisches Museum
+END:VEVENT
+BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1989-1@amtsfeed.de
 DTSTAMP:20261009T104359Z
 DTSTART;VALUE=DATE:20261019
@@ -1152,13 +1164,14 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1986-1@amtsfeed.de
-DTSTAMP:20261014T085348Z
+DTSTAMP:20261016T082102Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Herbstferien
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstferien.php?ModID
  =11&amp\;FID=2852.1986.1
+LOCATION:Club Marchwitza
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1741-1@amtsfeed.de
@@ -1196,24 +1209,38 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
 LOCATION:Tourismusinformation
 END:VEVENT
 BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1991-1@amtsfeed.de
+DTSTAMP:20261016T082102Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Spielt mit! Werke der Spielmittelgestalterin Ursula Wünsch
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Spielt-mit-Werke-der-S
+ pielmittelgestalterin-Ursula-W%C3%BCnsch.php?ModID=11&amp\;FID=2852.1991.
+ 1
+LOCATION:das Museum Utopie und Alltag ein. Denn Spielen macht Spaß
+END:VEVENT
+BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1982-1@amtsfeed.de
-DTSTAMP:20261014T085348Z
+DTSTAMP:20261016T082102Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Herbstferien
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstferien.php?ModID
  =11&amp\;FID=2852.1982.1
+LOCATION:Club Marchwitza
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1987-1@amtsfeed.de
-DTSTAMP:20261014T085348Z
+DTSTAMP:20261016T082102Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Ausflug in den Herbstferien
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Ausflug-in-den-Herbstf
  erien.php?ModID=11&amp\;FID=2852.1987.1
+LOCATION:Club Marchwitza
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1953-1@amtsfeed.de
@@ -1306,13 +1333,14 @@ LOCATION:kleine bühne
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1984-1@amtsfeed.de
-DTSTAMP:20261014T085348Z
+DTSTAMP:20261016T082102Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Halloween-Herbstfest im Tiergehege Eisenhüttenstadt
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Halloween-Herbstfest-i
  m-Tiergehege-Eisenh%C3%BCttenstadt-.php?ModID=11&amp\;FID=2852.1984.1
+LOCATION:Tiergehege Eisenhüttenstadt
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1970-1@amtsfeed.de
@@ -1347,5 +1375,31 @@ SUMMARY:"4. Eisenhüttenstädter Schäferstündchen"
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-4-Eisenh%C3%BCttenst%
  C3%A4dter-Sch%C3%A4ferst%C3%BCndchen-.php?ModID=11&amp\;FID=2852.1974.1
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1718-1@amtsfeed.de
+DTSTAMP:20261016T082102Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:4. Eisenhüttenstädter Schäferstündchen mit Petra Blossey
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/4-Eisenh%C3%BCttenst%C
+ 3%A4dter-Sch%C3%A4ferst%C3%BCndchen-mit-Petra-Blossey.php?ModID=11&amp\;F
+ ID=2852.1718.1
+LOCATION:Berlin folgte ein Engagement als Tänzerin am Metropol-Theater B
+ erlin. Ziemlich schnell erkannte man dort auch ihr schauspielerisches Tal
+ ent und so absolvierte sie ein Schauspielstudium an der Filmhochschule Po
+ tsdam-Babelsberg. Noch während des Studiums trat sie am Deutschen Theate
+ r in der Rolle der Bianca in dem Stück Die weiße Ehe auf. Es folgten En
+ gagements u. a. am Staatstheater Cottbus und im Kabarett Obelisk in Potsd
+ am. Nebenher spielte sie auch regelmäßig in diversen Film- und Fernsehp
+ roduktionen der DDR mit. So u. a. in dem Fernsehfilm Bin ich Moses?\, dem
+  Straßenfeger-Mehrteiler Front ohne Gnade oder für die DEFA in dem Film
+  Die Stunde der Töchter. Nach der Wende ging sie erst einmal mit dem Mus
+ ical Cabaret auf Deutschlandtour\, bevor Petra Blossey 1994 in die RTL-Da
+ ily-Soap Unter Uns wechselte. Über ihr Unter uns- Comeback\, ihren Weg v
+ on der Tänzerin zur Schauspielerin\, über die Unterschiede der Dreharbe
+ iten in Ost und West und über vieles mehr wird Alexander G. Schäfer mit
+  ihr reden.  Infos und Karten unter
 END:VEVENT
 END:VCALENDAR

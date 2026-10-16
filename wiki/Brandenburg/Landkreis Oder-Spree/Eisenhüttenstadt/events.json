@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T08:28:21.473Z",
+  "updatedAt": "2026-10-16T08:21:02.118Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -839,14 +839,6 @@
       "updatedAt": "2026-10-14T08:53:48.835Z"
     },
     {
-      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "title": "Veranstaltungen",
-      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-10-15T08:28:21.463Z",
-      "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-10-15T08:28:21.463Z"
-    },
-    {
       "id": "eisenhuettenstadt-event-2852-1971-1",
       "title": "56. Dixieland - Konzert mit den Dixie Brothers",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/56-Dixieland-Konzert-mit-den-Dixie-Brothers.php?ModID=11&amp;FID=2852.1971.1",
@@ -854,6 +846,14 @@
       "location": "town",
       "fetchedAt": "2026-09-25T08:59:23.089Z",
       "updatedAt": "2026-09-25T08:59:23.089Z"
+    },
+    {
+      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "title": "Veranstaltungen",
+      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "startDate": "2026-10-16T08:21:02.109Z",
+      "fetchedAt": "2026-05-06T08:35:22.874Z",
+      "updatedAt": "2026-10-16T08:21:02.109Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1714-1",
@@ -872,6 +872,15 @@
       "updatedAt": "2026-09-21T09:07:44.439Z"
     },
     {
+      "id": "eisenhuettenstadt-event-2852-1993-1",
+      "title": "Zwei Sonderausstellungen im Städtischen Museum Eisenhüttenstadt",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Zwei-Sonderausstellungen-im-St%C3%A4dtischen-Museum-Eisenh%C3%BCttenstadt.php?ModID=11&amp;FID=2852.1993.1",
+      "startDate": "2026-10-17T00:00:00.000Z",
+      "location": "Städtisches Museum",
+      "fetchedAt": "2026-10-16T08:21:02.109Z",
+      "updatedAt": "2026-10-16T08:21:02.109Z"
+    },
+    {
       "id": "eisenhuettenstadt-event-2852-1989-1",
       "title": "Herbstferien im Jubs",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstferien-im-Jubs.php?ModID=11&amp;FID=2852.1989.1",
@@ -884,8 +893,9 @@
       "title": "Herbstferien",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstferien.php?ModID=11&amp;FID=2852.1986.1",
       "startDate": "2026-10-20T00:00:00.000Z",
+      "location": "Club Marchwitza",
       "fetchedAt": "2026-10-09T10:43:59.832Z",
-      "updatedAt": "2026-10-14T08:53:48.835Z"
+      "updatedAt": "2026-10-16T08:21:02.109Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1741-1",
@@ -915,20 +925,31 @@
       "updatedAt": "2026-09-27T09:25:33.537Z"
     },
     {
+      "id": "eisenhuettenstadt-event-2852-1991-1",
+      "title": "Spielt mit! Werke der Spielmittelgestalterin Ursula Wünsch",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Spielt-mit-Werke-der-Spielmittelgestalterin-Ursula-W%C3%BCnsch.php?ModID=11&amp;FID=2852.1991.1",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "location": "das Museum Utopie und Alltag ein. Denn Spielen macht Spaß",
+      "fetchedAt": "2026-10-16T08:21:02.109Z",
+      "updatedAt": "2026-10-16T08:21:02.109Z"
+    },
+    {
       "id": "eisenhuettenstadt-event-2852-1982-1",
       "title": "Herbstferien",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstferien.php?ModID=11&amp;FID=2852.1982.1",
       "startDate": "2026-10-26T00:00:00.000Z",
+      "location": "Club Marchwitza",
       "fetchedAt": "2026-10-09T10:43:59.832Z",
-      "updatedAt": "2026-10-14T08:53:48.835Z"
+      "updatedAt": "2026-10-16T08:21:02.109Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1987-1",
       "title": "Ausflug in den Herbstferien",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Ausflug-in-den-Herbstferien.php?ModID=11&amp;FID=2852.1987.1",
       "startDate": "2026-10-26T00:00:00.000Z",
+      "location": "Club Marchwitza",
       "fetchedAt": "2026-10-09T10:43:59.832Z",
-      "updatedAt": "2026-10-14T08:53:48.835Z"
+      "updatedAt": "2026-10-16T08:21:02.109Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1953-1",
@@ -1006,8 +1027,9 @@
       "title": "Halloween-Herbstfest im Tiergehege Eisenhüttenstadt",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Halloween-Herbstfest-im-Tiergehege-Eisenh%C3%BCttenstadt-.php?ModID=11&amp;FID=2852.1984.1",
       "startDate": "2026-11-01T00:00:00.000Z",
+      "location": "Tiergehege Eisenhüttenstadt",
       "fetchedAt": "2026-10-11T10:11:43.988Z",
-      "updatedAt": "2026-10-14T08:53:48.835Z"
+      "updatedAt": "2026-10-16T08:21:02.109Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1970-1",
@@ -1034,6 +1056,15 @@
       "startDate": "2026-11-06T00:00:00.000Z",
       "fetchedAt": "2026-10-05T10:38:31.313Z",
       "updatedAt": "2026-10-06T10:28:51.653Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1718-1",
+      "title": "4. Eisenhüttenstädter Schäferstündchen mit Petra Blossey",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/4-Eisenh%C3%BCttenst%C3%A4dter-Sch%C3%A4ferst%C3%BCndchen-mit-Petra-Blossey.php?ModID=11&amp;FID=2852.1718.1",
+      "startDate": "2026-11-06T00:00:00.000Z",
+      "location": "Berlin folgte ein Engagement als Tänzerin am Metropol-Theater Berlin. Ziemlich schnell erkannte man dort auch ihr schauspielerisches Talent und so absolvierte sie ein Schauspielstudium an der Filmhochschule Potsdam-Babelsberg. Noch während des Studiums trat sie am Deutschen Theater in der Rolle der Bianca in dem Stück Die weiße Ehe auf. Es folgten Engagements u. a. am Staatstheater Cottbus und im Kabarett Obelisk in Potsdam. Nebenher spielte sie auch regelmäßig in diversen Film- und Fernsehproduktionen der DDR mit. So u. a. in dem Fernsehfilm Bin ich Moses?, dem Straßenfeger-Mehrteiler Front ohne Gnade oder für die DEFA in dem Film Die Stunde der Töchter. Nach der Wende ging sie erst einmal mit dem Musical Cabaret auf Deutschlandtour, bevor Petra Blossey 1994 in die RTL-Daily-Soap Unter Uns wechselte. Über ihr Unter uns- Comeback, ihren Weg von der Tänzerin zur Schauspielerin, über die Unterschiede der Dreharbeiten in Ost und West und über vieles mehr wird Alexander G. Schäfer mit ihr reden.  Infos und Karten unter",
+      "fetchedAt": "2026-10-16T08:21:02.109Z",
+      "updatedAt": "2026-10-16T08:21:02.109Z"
     }
   ]
 }

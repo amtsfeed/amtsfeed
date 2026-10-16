@@ -1131,6 +1131,17 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ferien
  ID=3631.1190.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1219@amtsfeed.de
+DTSTAMP:20261016T081956Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
+SUMMARY:Aktionsmonat November: "Gemeinsam in der Bibliothek"
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Aktion
+ smonat-November-Gemeinsam-in-der-Bibliothek-.php?object=tx\,3631.4.1&amp\
+ ;ModID=11&amp\;FID=3631.1219.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort
+ =1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-1169@amtsfeed.de
 DTSTAMP:20260927T092432Z
 DTSTART;VALUE=DATE:20261102
@@ -1150,6 +1161,16 @@ SUMMARY:Wochenmarkt
 URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
  markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1029.1&amp\;Nav
  ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1218@amtsfeed.de
+DTSTAMP:20261016T081956Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Bilderbuchkino: "Ella\, die schlaue Kuh"
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Bilder
+ buchkino-Ella-die-schlaue-Kuh-.php?object=tx\,3631.4.1&amp\;ModID=11&amp\
+ ;FID=3631.1218.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
 UID:velten-event-1170@amtsfeed.de

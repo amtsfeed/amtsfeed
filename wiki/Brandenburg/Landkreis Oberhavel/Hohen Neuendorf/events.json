@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T08:26:33.790Z",
+  "updatedAt": "2026-10-17T07:55:06.342Z",
   "items": [
     {
       "id": "hohen-neuendorf-event-digitale-sprechstunde-umgang-mit-dem-smartphone-0",
@@ -434,14 +434,6 @@
       "updatedAt": "2026-10-01T10:19:12.871Z"
     },
     {
-      "id": "hohen-neuendorf-event-seniorenlotse-hohen-neuendorf",
-      "title": "Seniorenlotse Hohen Neuendorf",
-      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/seniorenlotse-hohen-neuendorf",
-      "startDate": "2026-10-08T00:00:00.000Z",
-      "fetchedAt": "2026-09-21T09:06:29.411Z",
-      "updatedAt": "2026-10-07T10:26:17.888Z"
-    },
-    {
       "id": "hohen-neuendorf-event-schadstoffmobil-hohen-neuendorf",
       "title": "Schadstoffmobil in Hohen Neuendorf",
       "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/schadstoffmobil-hohen-neuendorf",
@@ -522,14 +514,6 @@
       "updatedAt": "2026-10-11T10:09:56.743Z"
     },
     {
-      "id": "hohen-neuendorf-event-beratungsangebot-der-volkssolidaritaet",
-      "title": "Beratungsangebot in der Volkssolidarität",
-      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/beratungsangebot-der-volkssolidaritaet",
-      "startDate": "2026-10-16T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T18:12:38.750Z",
-      "updatedAt": "2026-10-11T10:09:56.743Z"
-    },
-    {
       "id": "hohen-neuendorf-event-stolpe-ein-dorf-brandenburg",
       "title": "Stolpe - ein Dorf in Brandenburg",
       "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/stolpe-ein-dorf-brandenburg",
@@ -568,6 +552,38 @@
       "startDate": "2026-10-21T00:00:00.000Z",
       "fetchedAt": "2026-10-15T08:26:33.800Z",
       "updatedAt": "2026-10-15T08:26:33.800Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-mittwochs-die-villa-0",
+      "title": "Mittwochs in die Villa!",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/mittwochs-die-villa-0",
+      "startDate": "2026-10-21T00:00:00.000Z",
+      "fetchedAt": "2026-10-17T07:55:06.353Z",
+      "updatedAt": "2026-10-17T07:55:06.353Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-seniorenlotse-hohen-neuendorf",
+      "title": "Seniorenlotse Hohen Neuendorf",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/seniorenlotse-hohen-neuendorf",
+      "startDate": "2026-10-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:29.411Z",
+      "updatedAt": "2026-10-17T07:55:06.353Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-beratungsangebot-der-volkssolidaritaet",
+      "title": "Beratungsangebot in der Volkssolidarität",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/beratungsangebot-der-volkssolidaritaet",
+      "startDate": "2026-10-23T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T18:12:38.750Z",
+      "updatedAt": "2026-10-17T07:55:06.353Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-emaillier-workshop-1",
+      "title": "Emaillier WorkShop",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/emaillier-workshop-1",
+      "startDate": "2026-10-23T00:00:00.000Z",
+      "fetchedAt": "2026-10-17T07:55:06.353Z",
+      "updatedAt": "2026-10-17T07:55:06.353Z"
     }
   ]
 }

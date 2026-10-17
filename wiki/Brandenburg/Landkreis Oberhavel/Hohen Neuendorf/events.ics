@@ -521,15 +521,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  katastrophenschutz-information-und-vernetzung-ehrenamtlicher
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-seniorenlotse-hohen-neuendorf@amtsfeed.de
-DTSTAMP:20261007T102617Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Seniorenlotse Hohen Neuendorf
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- seniorenlotse-hohen-neuendorf
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-schadstoffmobil-hohen-neuendorf@amtsfeed.de
 DTSTAMP:20261001T101912Z
 DTSTART;VALUE=DATE:20261008
@@ -626,16 +617,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  rendez-vous-au-cb-mit-ulli-zelle-und-helene-kohl
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-beratungsangebot-der-volkssolidaritaet@amtsfeed
- .de
-DTSTAMP:20261011T100956Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Beratungsangebot in der Volkssolidarität
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- beratungsangebot-der-volkssolidaritaet
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-stolpe-ein-dorf-brandenburg@amtsfeed.de
 DTSTAMP:20261012T110603Z
 DTSTART;VALUE=DATE:20261016
@@ -682,5 +663,42 @@ DTEND;VALUE=DATE:20261022
 SUMMARY:Sprachcafé
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  sprachcafe-1
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-mittwochs-die-villa-0@amtsfeed.de
+DTSTAMP:20261017T075506Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Mittwochs in die Villa!
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ mittwochs-die-villa-0
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-seniorenlotse-hohen-neuendorf@amtsfeed.de
+DTSTAMP:20261017T075506Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Seniorenlotse Hohen Neuendorf
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ seniorenlotse-hohen-neuendorf
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-beratungsangebot-der-volkssolidaritaet@amtsfeed
+ .de
+DTSTAMP:20261017T075506Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Beratungsangebot in der Volkssolidarität
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ beratungsangebot-der-volkssolidaritaet
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-emaillier-workshop-1@amtsfeed.de
+DTSTAMP:20261017T075506Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Emaillier WorkShop
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ emaillier-workshop-1
 END:VEVENT
 END:VCALENDAR

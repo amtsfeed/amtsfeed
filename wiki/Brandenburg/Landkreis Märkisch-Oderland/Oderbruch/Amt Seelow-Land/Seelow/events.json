@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:18:55.675Z",
+  "updatedAt": "2026-10-17T07:54:37.246Z",
   "items": [
     {
       "id": "veranstaltungen-2862121-2026-05-06-dr.-arnold-pistiak-liest-neue-texte.html",
@@ -921,10 +921,19 @@
       "title": "Halloweenfeuer- und party in Werbig",
       "url": "https://www.seelow.de/veranstaltungen/2863697/2026/10/31/halloweenfeuer-und-party-in-werbig.html",
       "startDate": "2026-10-31T17:00:00.000Z",
-      "endDate": "2026-10-31T11:00:00.000Z",
       "location": "Werbig auf dem Anger",
       "fetchedAt": "2026-05-05T13:34:28.590Z",
-      "updatedAt": "2026-10-16T08:18:54.076Z"
+      "updatedAt": "2026-10-17T07:54:35.542Z"
+    },
+    {
+      "id": "veranstaltungen-2985850-2026-10-31-panik-in-seelow-filmvorführung.html",
+      "title": "\"Panik in Seelow\" - Filmvorführung",
+      "url": "https://www.seelow.de/veranstaltungen/2985850/2026/10/31/panik-in-seelow-filmvorführung.html",
+      "startDate": "2026-10-31T17:00:00.000Z",
+      "endDate": "2026-10-31T11:00:00.000Z",
+      "location": "Grundschule Seelow",
+      "fetchedAt": "2026-10-17T07:54:35.542Z",
+      "updatedAt": "2026-10-17T07:54:35.542Z"
     },
     {
       "id": "veranstaltungen-2865253-2026-11-02-beginn-der-woche-des-jüdischen-lebens-beim-schweizerhaus.html",
@@ -1159,6 +1168,16 @@
       "updatedAt": "2026-09-11T11:11:43.136Z"
     },
     {
+      "id": "veranstaltungen-2985821-2026-12-01-infotag-depressionen-im-alter.html",
+      "title": "Infotag Depressionen im Alter",
+      "url": "https://www.seelow.de/veranstaltungen/2985821/2026/12/01/infotag-depressionen-im-alter.html",
+      "startDate": "2026-12-01T09:00:00.000Z",
+      "endDate": "2026-12-01T16:00:00.000Z",
+      "location": "Pflegekoordination/Pflegeberatung Ernst-Thälmann-Str. 1a",
+      "fetchedAt": "2026-10-17T07:54:36.447Z",
+      "updatedAt": "2026-10-17T07:54:36.447Z"
+    },
+    {
       "id": "veranstaltungen-2960916-2026-12-02-traditioneller-theaterbesuch-für-unsere-1.-und-2.-klassen-in-der-vorweihnachtszeit.html",
       "title": "Traditioneller Theaterbesuch für unsere 1. und 2. Klassen in der Vorweihnachtszeit",
       "url": "https://www.seelow.de/veranstaltungen/2960916/2026/12/02/traditioneller-theaterbesuch-für-unsere-1.-und-2.-klassen-in-der-vorweihnachtszeit.html",
@@ -1245,10 +1264,19 @@
       "title": "Neujahrsfeuer",
       "url": "https://www.seelow.de/veranstaltungen/2865433/2027/01/16/neujahrsfeuer.html",
       "startDate": "2027-01-16T16:00:00.000Z",
-      "endDate": "2027-01-16T11:00:00.000Z",
       "location": "Heimatverein \"Schweizerhaus Seelow\" e.V.",
       "fetchedAt": "2026-05-05T13:34:29.884Z",
-      "updatedAt": "2026-10-16T08:18:55.205Z"
+      "updatedAt": "2026-10-17T07:54:36.897Z"
+    },
+    {
+      "id": "veranstaltungen-2985825-2027-01-19-infotag-quotaus-lebenserfahrung-wird-engagement-quot.html",
+      "title": "Infotag \"Aus Lebenserfahrung wird Engagement\"",
+      "url": "https://www.seelow.de/veranstaltungen/2985825/2027/01/19/infotag-quotaus-lebenserfahrung-wird-engagement-quot.html",
+      "startDate": "2027-01-19T09:00:00.000Z",
+      "endDate": "2027-01-19T16:00:00.000Z",
+      "location": "Ernst-Thälmann-Str. 1a",
+      "fetchedAt": "2026-10-17T07:54:36.897Z",
+      "updatedAt": "2026-10-17T07:54:36.897Z"
     }
   ]
 }

@@ -299,12 +299,29 @@ SUMMARY:Halloween-Rallye
 URL:https://www.eichwalde.de/kalender/halloween-rallye/
 END:VEVENT
 BEGIN:VEVENT
+UID:eichwalde-event-19553@amtsfeed.de
+DTSTAMP:20261017T075035Z
+DTSTART:20261031T150000Z
+DTEND:20261031T200000Z
+SUMMARY:Halloween-Party an der Badewiese
+URL:https://www.eichwalde.de/kalender/halloween-party-an-der-boje-4/
+END:VEVENT
+BEGIN:VEVENT
 UID:eichwalde-event-19450@amtsfeed.de
 DTSTAMP:20261002T094953Z
 DTSTART:20261107T160000Z
 DTEND:20261107T200000Z
 SUMMARY:Martinsfest der Feuerwehr
 URL:https://www.eichwalde.de/kalender/martinsfest-der-feuerwehr/
+END:VEVENT
+BEGIN:VEVENT
+UID:eichwalde-event-19551@amtsfeed.de
+DTSTAMP:20261017T075035Z
+DTSTART:20261107T190000Z
+DTEND:20261107T203000Z
+SUMMARY:Klavierkonzert: Sonaten von Franz Schubert
+URL:https://www.eichwalde.de/kalender/klavierkonzert-sonaten-von-franz-sc
+ hubert/
 END:VEVENT
 BEGIN:VEVENT
 UID:eichwalde-event-19496@amtsfeed.de

@@ -560,15 +560,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2977664/2026/10/15/klönka
  ffee-nachmittage-fürjedermann-frau.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855745@amtsfeed.de
-DTSTAMP:20261010T100018Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Schach
-URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/16/schach.
- html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855589@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261016
@@ -738,6 +729,15 @@ DTEND;VALUE=DATE:20261023
 SUMMARY:Nordic-Walking in Vehlefanz
 URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/10/22/nordic-
  walking-in-vehlefanz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855745@amtsfeed.de
+DTSTAMP:20261017T075520Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Schach
+URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/23/schach.
+ html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2891496@amtsfeed.de

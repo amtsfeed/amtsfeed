@@ -14687,12 +14687,12 @@ URL:https://www.premnitz.de/veranstaltungen/2976459/2026/10/31/nachtwäch
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2949334-20261031@amtsfeed.de
-DTSTAMP:20261001T101423Z
+DTSTAMP:20261017T075209Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:Gitarre Plus mit Julia Trintschuk und Pietro Roffi
+SUMMARY:Gitarre Plus mit Julia Trintschuk und Claudio Huerta Honores
 URL:https://www.premnitz.de/veranstaltungen/2949334/2026/10/31/gitarre-pl
- us-mit-julia-trintschuk-und-pietro-roffi.html
+ us-mit-julia-trintschuk-und-claudio-huerta-honores.html
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2974009-20261031@amtsfeed.de
@@ -15292,6 +15292,15 @@ SUMMARY:"Viel Schießen und Scharmützel..." 30jähriger Krieg an Havel u
  nd Elbe
 URL:https://www.premnitz.de/veranstaltungen/2985370/2026/11/07/viel-schie
  ßen-und-scharmützel.-30jähriger-krieg-an-havel-und-elbe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2985955-20261107@amtsfeed.de
+DTSTAMP:20261017T075209Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Tag der Offenen Tür im TANZWERK Werder
+URL:https://www.premnitz.de/veranstaltungen/2985955/2026/11/07/tag-der-of
+ fenen-tür-im-tanzwerk-werder.html
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2961090-20261108@amtsfeed.de
@@ -15908,5 +15917,24 @@ DTEND;VALUE=DATE:20261117
 SUMMARY:Ortsbeirat Döberitz
 URL:https://www.premnitz.de/veranstaltungen/2855012/2026/11/16/ortsbeirat
  -döberitz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2985378-20261117@amtsfeed.de
+DTSTAMP:20261017T075209Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:"Viel Schießen und Scharmützel..." 30jähriger Krieg an Havel u
+ nd Elbe
+URL:https://www.premnitz.de/veranstaltungen/2985378/2026/11/17/viel-schie
+ ßen-und-scharmützel.-30jähriger-krieg-an-havel-und-elbe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2961099-20261117@amtsfeed.de
+DTSTAMP:20261017T075209Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Mosaik-Workshop
+URL:https://www.premnitz.de/veranstaltungen/2961099/2026/11/17/mosaik-wor
+ kshop.html
 END:VEVENT
 END:VCALENDAR

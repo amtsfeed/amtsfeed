@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:21:02.118Z",
+  "updatedAt": "2026-10-17T07:56:12.461Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -848,14 +848,6 @@
       "updatedAt": "2026-09-25T08:59:23.089Z"
     },
     {
-      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "title": "Veranstaltungen",
-      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-10-16T08:21:02.109Z",
-      "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-10-16T08:21:02.109Z"
-    },
-    {
       "id": "eisenhuettenstadt-event-2852-1714-1",
       "title": "Herbstkonzert",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstkonzert.php?ModID=11&amp;FID=2852.1714.1",
@@ -868,17 +860,26 @@
       "title": "Deutschrock Heroes mit Mazze Wiesner & Band",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Deutschrock-Heroes-mit-Mazze-Wiesner-Band.php?ModID=11&amp;FID=2852.1888.1",
       "startDate": "2026-10-17T00:00:00.000Z",
+      "location": "einem neuen Gewand daher, ohne ihre musikalische DNA zu verändern.  Verpass nicht die Chance, Mazze mit seiner grandiosen Band live zu erleben - er ist ein Musiker, den du einfach gesehen haben musst!  Tickets",
       "fetchedAt": "2026-09-21T09:07:44.439Z",
-      "updatedAt": "2026-09-21T09:07:44.439Z"
+      "updatedAt": "2026-10-17T07:56:12.451Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1993-1",
       "title": "Zwei Sonderausstellungen im Städtischen Museum Eisenhüttenstadt",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Zwei-Sonderausstellungen-im-St%C3%A4dtischen-Museum-Eisenh%C3%BCttenstadt.php?ModID=11&amp;FID=2852.1993.1",
       "startDate": "2026-10-17T00:00:00.000Z",
-      "location": "Städtisches Museum",
+      "location": "der Galerie des Städtischen Museums.  Zeitreise  Vom analogen Bild zur digitalen Datei Seit sechs Jahrzehnten dokumentiert Bernd Geller seine Heimatstadt Eisenhüttenstadt mit der Kamera. Seine Ausstellung zeichnet die Entwicklung der Stadt von den 1970er-Jahren bis heute nach. Die Fotografien erzählen vom Leben, Arbeiten und Zusammenleben in unterschiedlichen Epochen  von Aufbruch und Veränderung, von verwirklichten und verworfenen Vorstellungen, aber auch von Lebensfreude und dem Stolz auf das Erreichte. Die Ausstellung ist in vier thematische und zeitliche Bereiche gegliedert. Eine besondere Rolle spielt das EKO, das heutige ArcelorMittal Eisenhüttenstadt",
       "fetchedAt": "2026-10-16T08:21:02.109Z",
-      "updatedAt": "2026-10-16T08:21:02.109Z"
+      "updatedAt": "2026-10-17T07:56:12.451Z"
+    },
+    {
+      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "title": "Veranstaltungen",
+      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "startDate": "2026-10-17T07:56:12.451Z",
+      "fetchedAt": "2026-05-06T08:35:22.874Z",
+      "updatedAt": "2026-10-17T07:56:12.451Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1989-1",
@@ -1054,8 +1055,9 @@
       "title": "\"4. Eisenhüttenstädter Schäferstündchen\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-4-Eisenh%C3%BCttenst%C3%A4dter-Sch%C3%A4ferst%C3%BCndchen-.php?ModID=11&amp;FID=2852.1974.1",
       "startDate": "2026-11-06T00:00:00.000Z",
+      "location": "Städtisches Museum",
       "fetchedAt": "2026-10-05T10:38:31.313Z",
-      "updatedAt": "2026-10-06T10:28:51.653Z"
+      "updatedAt": "2026-10-17T07:56:12.451Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1718-1",

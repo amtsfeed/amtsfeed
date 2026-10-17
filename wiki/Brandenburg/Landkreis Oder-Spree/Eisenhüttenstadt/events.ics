@@ -1108,19 +1108,6 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
 LOCATION:town
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261016T082102Z
-DTSTART:20261016T082102Z
-SUMMARY:Veranstaltungen
-URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1
-END:VEVENT
-BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1714-1@amtsfeed.de
 DTSTAMP:20260921T090744Z
 DTSTART;VALUE=DATE:20261017
@@ -1132,17 +1119,21 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1888-1@amtsfeed.de
-DTSTAMP:20260921T090744Z
+DTSTAMP:20261017T075612Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Deutschrock Heroes mit Mazze Wiesner & Band
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Deutschrock-Heroes-mit
  -Mazze-Wiesner-Band.php?ModID=11&amp\;FID=2852.1888.1
+LOCATION:einem neuen Gewand daher\, ohne ihre musikalische DNA zu veränd
+ ern.  Verpass nicht die Chance\, Mazze mit seiner grandiosen Band live zu
+  erleben - er ist ein Musiker\, den du einfach gesehen haben musst!  Tick
+ ets
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1993-1@amtsfeed.de
-DTSTAMP:20261016T082102Z
+DTSTAMP:20261017T075612Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Zwei Sonderausstellungen im Städtischen Museum Eisenhüttenstadt
@@ -1150,7 +1141,29 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Zwei-Sonderausstellung
  en-im-St%C3%A4dtischen-Museum-Eisenh%C3%BCttenstadt.php?ModID=11&amp\;FID
  =2852.1993.1
-LOCATION:Städtisches Museum
+LOCATION:der Galerie des Städtischen Museums.  Zeitreise  Vom analogen B
+ ild zur digitalen Datei Seit sechs Jahrzehnten dokumentiert Bernd Geller 
+ seine Heimatstadt Eisenhüttenstadt mit der Kamera. Seine Ausstellung zei
+ chnet die Entwicklung der Stadt von den 1970er-Jahren bis heute nach. Die
+  Fotografien erzählen vom Leben\, Arbeiten und Zusammenleben in untersch
+ iedlichen Epochen  von Aufbruch und Veränderung\, von verwirklichten und
+  verworfenen Vorstellungen\, aber auch von Lebensfreude und dem Stolz auf
+  das Erreichte. Die Ausstellung ist in vier thematische und zeitliche Ber
+ eiche gegliedert. Eine besondere Rolle spielt das EKO\, das heutige Arcel
+ orMittal Eisenhüttenstadt
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
+DTSTAMP:20261017T075612Z
+DTSTART:20261017T075612Z
+SUMMARY:Veranstaltungen
+URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1989-1@amtsfeed.de
@@ -1368,13 +1381,14 @@ LOCATION:kleine bühne
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1974-1@amtsfeed.de
-DTSTAMP:20261006T102851Z
+DTSTAMP:20261017T075612Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:"4. Eisenhüttenstädter Schäferstündchen"
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-4-Eisenh%C3%BCttenst%
  C3%A4dter-Sch%C3%A4ferst%C3%BCndchen-.php?ModID=11&amp\;FID=2852.1974.1
+LOCATION:Städtisches Museum
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1718-1@amtsfeed.de

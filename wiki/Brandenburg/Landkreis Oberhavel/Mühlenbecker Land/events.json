@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:19:48.679Z",
+  "updatedAt": "2026-10-17T07:55:19.174Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -3703,6 +3703,42 @@
       "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
       "fetchedAt": "2026-10-16T08:19:48.679Z",
       "updatedAt": "2026-10-16T08:19:48.679Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58813459",
+      "title": "Ortsbeirat Mühlenbeck",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58813459",
+      "startDate": "2026-11-05T19:00:00.000Z",
+      "location": "Mühlentreff, Hauptstraße 7, OT Mühlenbeck",
+      "fetchedAt": "2026-10-17T07:55:19.174Z",
+      "updatedAt": "2026-10-17T07:55:19.174Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58799175",
+      "title": "Kurs: Tanzgruppe",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58799175",
+      "startDate": "2026-11-06T09:30:00.000Z",
+      "location": "Bürgersaal, Franz-Schmidt-Str. 3, OT Schildow",
+      "fetchedAt": "2026-10-17T07:55:19.174Z",
+      "updatedAt": "2026-10-17T07:55:19.174Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58770347",
+      "title": "Seniorentreff im Mühlenbecker Wohnzimer",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58770347",
+      "startDate": "2026-11-06T10:00:00.000Z",
+      "location": "Historische Mönchmühle, \"Mühlenbecker Wohnzimmer\"; Mönchmühlenallee 3; 16567 Mühlenbeck",
+      "fetchedAt": "2026-10-17T07:55:19.174Z",
+      "updatedAt": "2026-10-17T07:55:19.174Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798910",
+      "title": "Volkssolidarität: Brett- und Kartenspiele",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798910",
+      "startDate": "2026-11-06T14:00:00.000Z",
+      "location": "Schmalfusstr. 6, OT Schildow",
+      "fetchedAt": "2026-10-17T07:55:19.174Z",
+      "updatedAt": "2026-10-17T07:55:19.174Z"
     }
   ]
 }

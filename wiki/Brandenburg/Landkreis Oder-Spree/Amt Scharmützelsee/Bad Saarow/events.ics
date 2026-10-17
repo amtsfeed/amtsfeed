@@ -1070,6 +1070,17 @@ URL:https://www.scharmuetzelsee.de/event/die-nacht-des-grauens-im-fischha
  us-wendisch-rietz
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-unruhestand-kabarett-am-nachmittag-dumm-gelaufen-sati
+ re-fuer-politisch-inkorrekte-zeiten@amtsfeed.de
+DTSTAMP:20261017T075557Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:UnRuhestand: KABARETT am Nachmittag: „Dumm gelaufen. Satire fü
+ r politisch inkorrekte Zeiten“
+URL:https://www.scharmuetzelsee.de/event/unruhestand-kabarett-am-nachmitt
+ ag-dumm-gelaufen-satire-fuer-politisch-inkorrekte-zeiten
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alt
  en-schulscheune@amtsfeed.de
 DTSTAMP:20261001T102046Z
@@ -1079,5 +1090,13 @@ SUMMARY:Novemberbasar - Kunstausstellung mit Verkauf in der Alten Schulsc
  heune
 URL:https://www.scharmuetzelsee.de/event/novemberbasar-kunstausstellung-m
  it-verkauf-in-der-alten-schulscheune
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-movie-night-im-spa@amtsfeed.de
+DTSTAMP:20261017T075557Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Movie-Night im Spa
+URL:https://www.scharmuetzelsee.de/event/movie-night-im-spa
 END:VEVENT
 END:VCALENDAR

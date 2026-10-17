@@ -1,5 +1,66 @@
 # Updates
 
+## 2026-10-17 07:57
+
+Insgesamt **132 neu**, **358 aktualisiert**, **0 entfernt** in 54 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Altlandsberg | +1 | — | — | — |
+| Amt Beetzsee | ~1 | — | — | — |
+| Amt Brieskow-Finkenheerd | — | — | +1 | ~6 |
+| Amt Britz-Chorin-Oderberg | — | +7 | — | — |
+| Amt Friesack | +1 / ~1 | — | — | — |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Neuzelle | — | ~130 | — | — |
+| Amt Niemegk | +1 | — | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +2 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Belzig | — | — | — | +1 / ~81 |
+| Bernau bei Berlin | +2 | +6 / ~8 | — | +2 |
+| Birkenwerder | +1 | +1 | — | — |
+| Calau | — | ~1 | — | — |
+| Doberlug-Kirchhain | — | +3 | — | — |
+| Eberswalde | — | +2 | — | — |
+| Eichwalde | +1 | +2 | — | — |
+| Eisenhüttenstadt | — | ~4 | — | — |
+| Falkensee | ~1 | +2 | — | — |
+| Finsterwalde | +1 | — | — | — |
+| Fredersdorf-Vogelsdorf | — | +1 | — | — |
+| Fürstenberg-Havel | +1 | — | — | ~2 |
+| Glienicke-Nordbahn | — | +1 | — | — |
+| Groß Kreutz | — | ~24 | — | — |
+| Heidesee | +1 | — | — | — |
+| Hohen Neuendorf | +1 | +2 / ~2 | — | — |
+| Hoppegarten | — | +1 | — | — |
+| Ketzin Havel | — | — | +1 | — |
+| Kleinmachnow | +1 | +3 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | +3 | — | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | +1 | +1 | — | — |
+| Michendorf | — | ~1 | — | — |
+| Mühlenbecker Land | ~1 | +4 | — | — |
+| Oberkrämer | — | ~1 | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | — | +3 / ~2 | — | — |
+| Oranienburg | — | +1 | — | — |
+| Premnitz | — | +3 / ~1 | — | — |
+| Rathenow | — | +2 | — | — |
+| Rietz-Neuendorf | +1 | +1 | ~2 | — |
+| Schipkau | — | +1 | — | — |
+| Schönefeld | ~4 | ~30 | — | — |
+| Schöneiche bei Berlin | — | +1 | — | — |
+| Schwarzheide | +1 | — | — | — |
+| Schwielowsee | +1 | +1 | — | — |
+| Senftenberg | — | +6 | — | — |
+| Sonnewalde | +2 / ~2 | — | — | — |
+| Storkow (Mark) | +4 | +8 | — | — |
+| Strausberg | +1 | — | — | ~6 |
+| Vetschau Spreewald | — | +22 | — | — |
+| Werder (Havel) | +1 | +1 / ~18 | — | +6 |
+| Werneuchen | +2 | +1 | — | — |
+| Wiesenburg-Mark | — | ~3 | — | — |
+| Zehdenick | +1 | — | — | — |
+| Zeuthen | +2 | — | — | — |
+
 ## 2026-10-16 08:23
 
 Insgesamt **189 neu**, **883 aktualisiert**, **2 entfernt** in 76 Quellen.

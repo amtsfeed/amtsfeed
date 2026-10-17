@@ -1034,13 +1034,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863697-2026-10-31-halloweenfeuer-und-party-in-werbig
  .html@amtsfeed.de
-DTSTAMP:20261016T081854Z
+DTSTAMP:20261017T075435Z
 DTSTART:20261031T170000Z
-DTEND:20261101T110000Z
 SUMMARY:Halloweenfeuer- und party in Werbig
 URL:https://www.seelow.de/veranstaltungen/2863697/2026/10/31/halloweenfeu
  er-und-party-in-werbig.html
 LOCATION:Werbig auf dem Anger
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2985850-2026-10-31-panik-in-seelow-filmvorführung.ht
+ ml@amtsfeed.de
+DTSTAMP:20261017T075435Z
+DTSTART:20261031T170000Z
+DTEND:20261101T110000Z
+SUMMARY:"Panik in Seelow" - Filmvorführung
+URL:https://www.seelow.de/veranstaltungen/2985850/2026/10/31/panik-in-see
+ low-filmvorführung.html
+LOCATION:Grundschule Seelow
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865253-2026-11-02-beginn-der-woche-des-jüdischen-le
@@ -1302,6 +1312,17 @@ URL:https://www.seelow.de/veranstaltungen/2960914/2026/12/01/start-des-sc
 LOCATION:Grundschule Seelow
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2985821-2026-12-01-infotag-depressionen-im-alter.html
+ @amtsfeed.de
+DTSTAMP:20261017T075436Z
+DTSTART:20261201T090000Z
+DTEND:20261201T160000Z
+SUMMARY:Infotag Depressionen im Alter
+URL:https://www.seelow.de/veranstaltungen/2985821/2026/12/01/infotag-depr
+ essionen-im-alter.html
+LOCATION:Pflegekoordination/Pflegeberatung Ernst-Thälmann-Str. 1a
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2960916-2026-12-02-traditioneller-theaterbesuch-für-
  unsere-1.-und-2.-klassen-in-der-vorweihnachtszeit.html@amtsfeed.de
 DTSTAMP:20260911T111143Z
@@ -1399,12 +1420,22 @@ LOCATION:Kulturhaus Seelow
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865433-2027-01-16-neujahrsfeuer.html@amtsfeed.de
-DTSTAMP:20261016T081855Z
+DTSTAMP:20261017T075436Z
 DTSTART:20270116T160000Z
-DTEND:20270117T110000Z
 SUMMARY:Neujahrsfeuer
 URL:https://www.seelow.de/veranstaltungen/2865433/2027/01/16/neujahrsfeue
  r.html
 LOCATION:Heimatverein "Schweizerhaus Seelow" e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2985825-2027-01-19-infotag-quotaus-lebenserfahrung-wi
+ rd-engagement-quot.html@amtsfeed.de
+DTSTAMP:20261017T075436Z
+DTSTART:20270119T090000Z
+DTEND:20270119T160000Z
+SUMMARY:Infotag "Aus Lebenserfahrung wird Engagement"
+URL:https://www.seelow.de/veranstaltungen/2985825/2027/01/19/infotag-quot
+ aus-lebenserfahrung-wird-engagement-quot.html
+LOCATION:Ernst-Thälmann-Str. 1a
 END:VEVENT
 END:VCALENDAR

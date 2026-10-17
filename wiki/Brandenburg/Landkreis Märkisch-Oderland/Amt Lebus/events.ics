@@ -1073,26 +1073,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2973746/2026/10/14/benefizko
 LOCATION:Bürgerhaus Neuenhagen\, Hauptstrasse2 15366 Neuenhagen
 END:VEVENT
 BEGIN:VEVENT
-UID:2464906@amtsfeed.de
-DTSTAMP:20261010T095850Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/10/16/selbstver
- teidigung-für-kinder-von-5-13-jahren.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464907@amtsfeed.de
-DTSTAMP:20261010T095850Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/10/16/selbstver
- teidigung-für-jugendliche-ab-13-jahren.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2984498@amtsfeed.de
 DTSTAMP:20261015T082531Z
 DTSTART;VALUE=DATE:20261016
@@ -1272,6 +1252,26 @@ SUMMARY:Tischtennis
 URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/10/22/tischtenn
  is.html
 DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464906@amtsfeed.de
+DTSTAMP:20261017T075416Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/10/23/selbstver
+ teidigung-für-kinder-von-5-13-jahren.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464907@amtsfeed.de
+DTSTAMP:20261017T075416Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/10/23/selbstver
+ teidigung-für-jugendliche-ab-13-jahren.html
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT

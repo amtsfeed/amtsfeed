@@ -1558,6 +1558,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Stadtbibliothek Schleusenplatz 4
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1786-20261027@amtsfeed.de
+DTSTAMP:20261017T075211Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Ferien im OIMR: Museumsbesuch mit Mitmachaktion
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/ferien-im-oimr-museumsbesuch-mi
+ t-mitmachaktion/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1760-20261028@amtsfeed.de
 DTSTAMP:20260930T094732Z
 DTSTART;VALUE=DATE:20261028
@@ -1568,6 +1579,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/agil-aktiv-ins-alter-singegrupp
  e-silberkehlchen-mit-martin-maerz-jetzt-anmelden/
 LOCATION:Berliner Straße 83 in Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1785-20261028@amtsfeed.de
+DTSTAMP:20261017T075211Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Ferien im OIMR: Führung und Buntlichter
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/ferien-im-oimr-fuehrung-und-bun
+ tlichter/
+LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1506-20261031@amtsfeed.de

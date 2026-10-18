@@ -2,7 +2,7 @@
   {
     "domain": "amt-ortrand.de",
     "baseUrl": "https://amt-ortrand.de",
-    "updatedAt": "2026-10-16T08:20:03.563Z",
+    "updatedAt": "2026-10-18T08:11:54.167Z",
     "content": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://amt-ortrand.de/wp-sitemap.xml\n"
   }
 ]

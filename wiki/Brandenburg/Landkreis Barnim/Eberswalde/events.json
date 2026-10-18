@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:50:11.128Z",
+  "updatedAt": "2026-10-18T08:04:39.356Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -1256,6 +1256,22 @@
       "startDate": "2026-10-23T15:00:00.000Z",
       "fetchedAt": "2026-10-17T07:50:11.117Z",
       "updatedAt": "2026-10-17T07:50:11.117Z"
+    },
+    {
+      "id": "musical-night-in-concert",
+      "title": "Musical Night in Concert",
+      "url": "https://www.eberswalde.de/termine/musical-night-in-concert",
+      "startDate": "2026-10-23T19:30:00.000Z",
+      "fetchedAt": "2026-10-18T08:04:39.345Z",
+      "updatedAt": "2026-10-18T08:04:39.345Z"
+    },
+    {
+      "id": "stand-up-comedy-show",
+      "title": "STAND-UP COMEDY SHOW",
+      "url": "https://www.eberswalde.de/termine/stand-up-comedy-show",
+      "startDate": "2026-10-23T20:00:00.000Z",
+      "fetchedAt": "2026-10-18T08:04:39.345Z",
+      "updatedAt": "2026-10-18T08:04:39.345Z"
     }
   ]
 }

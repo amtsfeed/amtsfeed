@@ -373,23 +373,6 @@ DESCRIPTION:Der Freundeskreis Stadtkirche Altlandsberg veranstaltet auch
 LOCATION:Stadtkirche Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
-UID:3@amtsfeed.de
-DTSTAMP:20260920T084217Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Workshop: "Faszination Aquarell" - ein Spiel von Flächen\, Linie
- n...
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/workshop-faszination-aquarell-ein-spiel-von-flaechen-linien-und-farbe
- n-mit-frank-toussaint-3/
-DESCRIPTION:Im Gewölbekeller des Schlossgut Altlandsberg findet ein krea
- tiver Aquarellworkshop mit Künstler Frank Toussaint statt. In entspannte
- r Atmosphäre besteht die Möglichkeit\, unter professioneller Anleitung 
- die eigene Aquarelltechnik weiterzuentwickeln und neue gestalterische Imp
- ulse zu gewinnen. Der Workshop richtet...
-LOCATION:Schlossgut Altlandsberg
-END:VEVENT
-BEGIN:VEVENT
 UID:jugend-kammermusik-berlin-brandenburg@amtsfeed.de
 DTSTAMP:20261010T095710Z
 DTSTART;VALUE=DATE:20261018
@@ -642,6 +625,18 @@ URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
 DESCRIPTION:Freitag 3nach8: Vernissage mit Bildern von Heidi Lorenz und V
  erkauf von hochwertiger Adventsfloristik\, musikalische Begleitung Carste
  n Paschwitz
+LOCATION:Bürger- und Kreativhaus Bruchmühle
+END:VEVENT
+BEGIN:VEVENT
+UID:3@amtsfeed.de
+DTSTAMP:20261018T080915Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Brettspielkönig für die ganze Familie
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/brettspielkoenig-fuer-die-ganze-familie-3/
+DESCRIPTION:"Mensch langweile dich nicht" Für Interessierte\, Könner un
+ d Anfänger. Kommt vorbei und spielt mit uns in gemütlicher Atmosphäre.
 LOCATION:Bürger- und Kreativhaus Bruchmühle
 END:VEVENT
 BEGIN:VEVENT

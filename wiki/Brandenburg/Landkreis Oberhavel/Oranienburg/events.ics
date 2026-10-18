@@ -1699,4 +1699,45 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  mp\;ModID=11&amp\;FID=2967.7851.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn
  =1
 END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7490@amtsfeed.de
+DTSTAMP:20261018T081142Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Orgelmusik zur Mittagszeit
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Orgelmusik-zur-Mittagszeit.php?object=tx\,2967.4&amp\;ModID=11&amp\;F
+ ID=2967.7490.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7524@amtsfeed.de
+DTSTAMP:20261018T081142Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Benefizkonzert des Heeresmusikkorps der Bundeswehr Neubrandenburg
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Benefizkonzert-des-Heeresmusikkorps-der-Bundeswehr-Neubrandenburg.php
+ ?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7524.1&amp\;NavID=2967.39&
+ amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7991@amtsfeed.de
+DTSTAMP:20261018T081142Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Mein Kind konsumiert nicht ... Oder doch?
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Mein-Kind-konsumiert-nicht-Oder-doch-.php?object=tx\,2967.4&amp\;ModI
+ D=11&amp\;FID=2967.7991.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7997@amtsfeed.de
+DTSTAMP:20261018T081142Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Karsten-Troyke-Trio: &raquo\;Singarella\, Singarella&laquo\;
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Karsten-Troyke-Trio-Singarella-Singarella-.php?object=tx\,2967.4&amp\
+ ;ModID=11&amp\;FID=2967.7997.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
 END:VCALENDAR

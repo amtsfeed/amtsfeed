@@ -1284,4 +1284,18 @@ DTSTART:20261023T150000Z
 SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-36
 END:VEVENT
+BEGIN:VEVENT
+UID:musical-night-in-concert@amtsfeed.de
+DTSTAMP:20261018T080439Z
+DTSTART:20261023T193000Z
+SUMMARY:Musical Night in Concert
+URL:https://www.eberswalde.de/termine/musical-night-in-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:stand-up-comedy-show@amtsfeed.de
+DTSTAMP:20261018T080439Z
+DTSTART:20261023T200000Z
+SUMMARY:STAND-UP COMEDY SHOW
+URL:https://www.eberswalde.de/termine/stand-up-comedy-show
+END:VEVENT
 END:VCALENDAR

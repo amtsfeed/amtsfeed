@@ -1025,15 +1025,6 @@ URL:https://www.calau.de/veranstaltungen/2858856/2026/10/16/kino-in-calau
  html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20261016T082010Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:17.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
-URL:https://www.calau.de/veranstaltungen/2864723/2026/10/17/flugshow-auf-
- dem-adler-und-jagdfalkenhof-werchow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2836131@amtsfeed.de
 DTSTAMP:20261016T082010Z
 DTSTART;VALUE=DATE:20261017
@@ -1052,6 +1043,15 @@ URL:https://www.calau.de/veranstaltungen/2975111/2026/10/17/saisonabschlu
  ss-in-der-gutskapelle-reuden.html
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2864723@amtsfeed.de
+DTSTAMP:20261018T081209Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:18.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+URL:https://www.calau.de/veranstaltungen/2864723/2026/10/18/flugshow-auf-
+ dem-adler-und-jagdfalkenhof-werchow.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2975879@amtsfeed.de
 DTSTAMP:20261017T075537Z
 DTSTART;VALUE=DATE:20261018
@@ -1062,28 +1062,28 @@ URL:https://www.calau.de/veranstaltungen/2975879/2026/10/18/herbstwanderu
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2976039@amtsfeed.de
-DTSTAMP:20260930T095210Z
+DTSTAMP:20261018T081209Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-SUMMARY:Abradeln mit dem RSV Calau
+SUMMARY:18.10.2026   Abradeln mit dem RSV Calau
 URL:https://www.calau.de/veranstaltungen/2976039/2026/10/18/abradeln-mit-
  dem-rsv-calau.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2981514@amtsfeed.de
-DTSTAMP:20261009T104311Z
+DTSTAMP:20261018T081209Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-SUMMARY:Wanderung durch die Calauer Schweiz
+SUMMARY:18.10.2026   Wanderung durch die Calauer Schweiz
 URL:https://www.calau.de/veranstaltungen/2981514/2026/10/18/wanderung-dur
  ch-die-calauer-schweiz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261016T082010Z
+DTSTAMP:20261018T081209Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:Calauer Wochenmarkt
+SUMMARY:20.10.2026   Calauer Wochenmarkt
 URL:https://www.calau.de/veranstaltungen/2290342/2026/10/20/calauer-woche
  nmarkt.html
 END:VEVENT

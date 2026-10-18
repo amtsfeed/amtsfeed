@@ -431,23 +431,59 @@ URL:https://www.plessa.de/veranstaltungen/2968438/2026/11/11/ab-ins-museu
 END:VEVENT
 BEGIN:VEVENT
 UID:plessa-event-2968402-20261114@amtsfeed.de
-DTSTAMP:20261011T100506Z
+DTSTAMP:20261018T080549Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:14.11.2026    bis 07.12.2026   Stiefelzauber Plessa am 06.12.2026
-  - Pension Plessa | Stiefelannahme ab 14.11.2026
+SUMMARY:Stiefelzauber Plessa am 06.12.2026 - Pension Plessa | Stiefelanna
+ hme ab 14.11.2026
 URL:https://www.plessa.de/veranstaltungen/2968402/2026/11/14/stiefelzaube
  r-plessa-am-06.12.2026-pension-plessa-stiefelannahme-ab-14.11.2026.html
 END:VEVENT
 BEGIN:VEVENT
 UID:plessa-event-2968441-20261114@amtsfeed.de
-DTSTAMP:20261014T084730Z
+DTSTAMP:20261018T080549Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:14.11.2026   Abendveranstaltung getreu dem Motto &bdquo\;Die Vern
- issage&ldquo\; | Plessaer Carnevals-Club e.V
+SUMMARY:Abendveranstaltung getreu dem Motto &bdquo\;Die Vernissage&ldquo\
+ ; | Plessaer Carnevals-Club e.V
 URL:https://www.plessa.de/veranstaltungen/2968441/2026/11/14/abendveranst
  altung-getreu-dem-motto-die-vernissage-plessaer-carnevals-club-e.v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plessa-event-2986155-20261117@amtsfeed.de
+DTSTAMP:20261018T080549Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Seniorentreff -herbstlicher Kaffeenachmittag-
+URL:https://www.plessa.de/veranstaltungen/2986155/2026/11/17/seniorentref
+ f-herbstlicher-kaffeenachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plessa-event-2986156-20261121@amtsfeed.de
+DTSTAMP:20261018T080549Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Eisbeinessen im DGH
+URL:https://www.plessa.de/veranstaltungen/2986156/2026/11/21/eisbeinessen
+ -im-dgh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plessa-event-2986157-20261128@amtsfeed.de
+DTSTAMP:20261018T080549Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Seniorenweihnachtsfeier
+URL:https://www.plessa.de/veranstaltungen/2986157/2026/11/28/seniorenweih
+ nachtsfeier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plessa-event-2986159-20261129@amtsfeed.de
+DTSTAMP:20261018T080549Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Adventsnachmittag der Vereine
+URL:https://www.plessa.de/veranstaltungen/2986159/2026/11/29/adventsnachm
+ ittag-der-vereine.html
 END:VEVENT
 BEGIN:VEVENT
 UID:plessa-event-2958142-20261203@amtsfeed.de
@@ -469,6 +505,24 @@ URL:https://www.plessa.de/veranstaltungen/2971023/2026/12/04/seniorenweih
  nachtsfeier-der-gemeinde-plessa-kleiner-saal-im-kulturhaus-plessa.html
 END:VEVENT
 BEGIN:VEVENT
+UID:plessa-event-2986158-20261205@amtsfeed.de
+DTSTAMP:20261018T080549Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Busfahrt zum Weihnachtsmarkt nach Breslau
+URL:https://www.plessa.de/veranstaltungen/2986158/2026/12/05/busfahrt-zum
+ -weihnachtsmarkt-nach-breslau.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plessa-event-2986160-20261206@amtsfeed.de
+DTSTAMP:20261018T080549Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Adventsnachmittag der Vereine
+URL:https://www.plessa.de/veranstaltungen/2986160/2026/12/06/adventsnachm
+ ittag-der-vereine.html
+END:VEVENT
+BEGIN:VEVENT
 UID:plessa-event-2925541-20261212@amtsfeed.de
 DTSTAMP:20260911T110712Z
 DTSTART;VALUE=DATE:20261212
@@ -476,6 +530,24 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:ABBA - ABALANCE The Show
 URL:https://www.plessa.de/veranstaltungen/2925541/2026/12/12/abba-abalanc
  e-the-show.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plessa-event-2986162-20261213@amtsfeed.de
+DTSTAMP:20261018T080549Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Adventsnachmittag der Vereine
+URL:https://www.plessa.de/veranstaltungen/2986162/2026/12/13/adventsnachm
+ ittag-der-vereine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plessa-event-2986161-20261213@amtsfeed.de
+DTSTAMP:20261018T080549Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Adventsnachmittag der Vereine
+URL:https://www.plessa.de/veranstaltungen/2986161/2026/12/13/adventsnachm
+ ittag-der-vereine.html
 END:VEVENT
 BEGIN:VEVENT
 UID:plessa-event-2797110-20261219@amtsfeed.de
@@ -512,5 +584,14 @@ DTEND;VALUE=DATE:20261225
 SUMMARY:Betriebsruhe 2026
 URL:https://www.plessa.de/veranstaltungen/2815065/2026/12/24/betriebsruhe
  -2026.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plessa-event-2986164-20261231@amtsfeed.de
+DTSTAMP:20261018T080549Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Ü40 Silvesterparty im DGH
+URL:https://www.plessa.de/veranstaltungen/2986164/2026/12/31/ü40-silvest
+ erparty-im-dgh.html
 END:VEVENT
 END:VCALENDAR

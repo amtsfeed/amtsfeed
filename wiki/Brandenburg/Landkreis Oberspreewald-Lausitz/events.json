@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:55:53.967Z",
+  "updatedAt": "2026-10-18T08:12:35.258Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -14208,6 +14208,34 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-10-14T08:53:12.941Z",
       "updatedAt": "2026-10-14T08:53:12.941Z"
+    },
+    {
+      "id": "lk-osl-event-2124462-20271018",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.osl-online.de/veranstaltungen/2124462/2027/10/18/treffpunkt-bürgertheater.html",
+      "startDate": "2027-10-18T15:30:00.000Z",
+      "location": "Mehrgenerationenhaus",
+      "fetchedAt": "2026-10-18T08:12:35.300Z",
+      "updatedAt": "2026-10-18T08:12:35.300Z"
+    },
+    {
+      "id": "lk-osl-event-2811973-20271018",
+      "title": "Demokratiecaf&eacute;",
+      "url": "https://www.osl-online.de/veranstaltungen/2811973/2027/10/18/demokratiecafé.html",
+      "startDate": "2027-10-18T17:00:00.000Z",
+      "endDate": "2027-10-18T18:30:00.000Z",
+      "location": "Quartierstreff",
+      "fetchedAt": "2026-10-18T08:12:35.300Z",
+      "updatedAt": "2026-10-18T08:12:35.300Z"
+    },
+    {
+      "id": "lk-osl-event-2124466-20271018",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.osl-online.de/veranstaltungen/2124466/2027/10/18/treffpunkt-bürgertheater.html",
+      "startDate": "2027-10-18T17:00:00.000Z",
+      "location": "Mehrgenerationenhaus",
+      "fetchedAt": "2026-10-18T08:12:35.300Z",
+      "updatedAt": "2026-10-18T08:12:35.300Z"
     }
   ]
 }

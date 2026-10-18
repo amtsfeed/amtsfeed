@@ -273,6 +273,15 @@ URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
 LOCATION:Zepernick - Mensa am Schulstandort Zepernick
 END:VEVENT
 BEGIN:VEVENT
+UID:99230308@amtsfeed.de
+DTSTAMP:20261018T080441Z
+DTSTART:20261113T150000Z
+SUMMARY:Tag der offenen Tür am Gymnasium Panketal
+URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
+ e=99230308
+LOCATION:Zepernick - Gymnasium Panketal
+END:VEVENT
+BEGIN:VEVENT
 UID:99217406@amtsfeed.de
 DTSTAMP:20260918T081736Z
 DTSTART:20261120T190000Z
@@ -290,5 +299,14 @@ SUMMARY:Naturparktour - Spuren der früheren Landbewirtschaftung im Hobre
 URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
  e=99224210
 LOCATION:Zepernick - Speicher Hobrechtsfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:99230309@amtsfeed.de
+DTSTAMP:20261018T080441Z
+DTSTART:20270115T150000Z
+SUMMARY:Tag der offenen Tür am Gymnasium Panketal
+URL:https://panketal.de/freizeit/veranstaltungen/eventdetail-laden.html?s
+ e=99230309
+LOCATION:Zepernick - Gymnasium Panketal
 END:VEVENT
 END:VCALENDAR

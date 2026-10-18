@@ -1,5 +1,43 @@
 # Updates
 
+## 2026-10-18 08:15
+
+Insgesamt **48 neu**, **140 aktualisiert**, **3 entfernt** in 31 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Altlandsberg | — | ~1 | — | — |
+| Amt Beetzsee | — | +1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Neuzelle | — | +2 | — | — |
+| Amt Niemegk | — | +1 | — | — |
+| Amt Plessa | — | +9 / ~2 | — | — |
+| Amt Scharmützelsee | — | -3 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bernau bei Berlin | — | +4 / ~22 | — | — |
+| Calau | — | ~4 | — | — |
+| Doberlug-Kirchhain | — | +1 | — | — |
+| Eberswalde | — | +2 | — | — |
+| Eisenhüttenstadt | — | +2 / ~6 | — | — |
+| Falkensee | — | +1 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Fürstenwalde-Spree | — | +1 | — | — |
+| Groß Kreutz | — | ~24 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +3 | — | — |
+| Löwenberger Land | — | +1 | — | — |
+| Mühlenbecker Land | — | +2 | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | — | ~3 | — | — |
+| Oranienburg | — | +4 | — | — |
+| Panketal | — | +2 | — | — |
+| Premnitz | — | +4 | — | — |
+| Rietz-Neuendorf | — | — | ~2 | — |
+| Schönefeld | ~4 | ~30 | — | — |
+| Senftenberg | — | +5 | — | — |
+| Storkow (Mark) | +2 | — | — | — |
+| Strausberg | — | +1 | — | — |
+| Werder (Havel) | — | ~8 | — | — |
+
 ## 2026-10-17 07:57
 
 Insgesamt **132 neu**, **358 aktualisiert**, **0 entfernt** in 54 Quellen.

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:54:16.673Z",
+  "updatedAt": "2026-10-18T08:10:06.128Z",
   "items": [
     {
       "id": "2846347",
@@ -910,26 +910,6 @@
       "updatedAt": "2026-10-15T08:25:31.421Z"
     },
     {
-      "id": "2464910",
-      "title": "Bäckerwagen in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/17/bäckerwagen-in-podelzig.html",
-      "startDate": "2026-10-17T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Bäckerwagen, im Unterdorf, am Neubau, Wuhdener Weg nur am Dorfteich",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-11T10:08:41.751Z"
-    },
-    {
-      "id": "2928789",
-      "title": "YouthBase - Dein Treff.Deine Zeit.",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2928789/2026/10/17/youthbase-dein-treff.deine-zeit.html",
-      "startDate": "2026-10-17T00:00:00.000Z",
-      "location": "Sportplatz Lebus",
-      "description": "Offener Jugendtreff Für Teens von 12 - 17 Jahren",
-      "fetchedAt": "2026-09-11T09:57:29.696Z",
-      "updatedAt": "2026-10-04T09:56:33.374Z"
-    },
-    {
       "id": "2964722",
       "title": "Arbeitseinsatz Adonisröschen",
       "url": "https://www.amt-lebus.de/veranstaltungen/2964722/2026/10/17/arbeitseinsatz-adonisröschen.html",
@@ -1083,6 +1063,16 @@
       "updatedAt": "2026-10-17T07:54:16.659Z"
     },
     {
+      "id": "2464910",
+      "title": "Bäckerwagen in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/24/bäckerwagen-in-podelzig.html",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Bäckerwagen, im Unterdorf, am Neubau, Wuhdener Weg nur am Dorfteich",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-18T08:10:06.114Z"
+    },
+    {
       "id": "2957498",
       "title": "Luck & Strauch - Lieder vom Lieben",
       "url": "https://www.amt-lebus.de/veranstaltungen/2957498/2026/10/30/luck-strauch-lieder-vom-lieben.html",
@@ -1108,6 +1098,16 @@
       "location": "Kulturhaus Lebus",
       "fetchedAt": "2026-10-16T08:18:31.068Z",
       "updatedAt": "2026-10-16T08:18:31.068Z"
+    },
+    {
+      "id": "2928789",
+      "title": "YouthBase - Dein Treff.Deine Zeit.",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2928789/2026/10/31/youthbase-dein-treff.deine-zeit.html",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "location": "Sportplatz Lebus",
+      "description": "Offener Jugendtreff Für Teens von 12 - 17 Jahren",
+      "fetchedAt": "2026-09-11T09:57:29.696Z",
+      "updatedAt": "2026-10-18T08:10:06.114Z"
     },
     {
       "id": "2964743",

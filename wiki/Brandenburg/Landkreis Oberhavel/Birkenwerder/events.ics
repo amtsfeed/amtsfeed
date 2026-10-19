@@ -623,6 +623,17 @@ URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
 LOCATION:Kulturbahnhof in Hohen Neuendorf\, Schönfließer Str. 48 A
 END:VEVENT
 BEGIN:VEVENT
+UID:birkenwerder-event-konzertante-lesung-im-salon-du-grosser-stern-1@amt
+ sfeed.de
+DTSTAMP:20261019T090242Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Konzertante Lesung im Salon: „Du großer Stern“
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/konzertante-lesung-im-salon-du-grosser-stern-1
+LOCATION:Villa Weigert
+END:VEVENT
+BEGIN:VEVENT
 UID:birkenwerder-event-kaffeeklatsch-des-seniorenbeirates-6@amtsfeed.de
 DTSTAMP:20261001T101850Z
 DTSTART;VALUE=DATE:20261026
@@ -632,6 +643,16 @@ URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
  /details/kaffeeklatsch-des-seniorenbeirates-6
 LOCATION:Evangelisches Gemeindehaus\, Hauptstraße 52\, 16547 Birkenwerde
  r
+END:VEVENT
+BEGIN:VEVENT
+UID:birkenwerder-event-mittwochs-in-die-villa-1@amtsfeed.de
+DTSTAMP:20261019T090242Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Mittwochs in die Villa!
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/mittwochs-in-die-villa-1
+LOCATION:Villa Weigert
 END:VEVENT
 BEGIN:VEVENT
 UID:birkenwerder-event-abkneippen-an-der-wassertretanlage-birkenwerder@am

@@ -9604,6 +9604,16 @@ URL:https://www.osl-online.de/veranstaltungen/2972550/2026/12/10/besuch-d
 LOCATION:Grundschule Guteborn
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2986625-20261210@amtsfeed.de
+DTSTAMP:20261019T090350Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Gemeindevertretersitzung
+URL:https://www.osl-online.de/veranstaltungen/2986625/2026/12/10/gemeinde
+ vertretersitzung.html
+LOCATION:Gemeinde Schipkau
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2290342-20261210@amtsfeed.de
 DTSTAMP:20260531T184206Z
 DTSTART:20261210T080000Z
@@ -14578,5 +14588,14 @@ SUMMARY:Treffpunkt Bürgertheater
 URL:https://www.osl-online.de/veranstaltungen/2124466/2027/10/18/treffpun
  kt-bürgertheater.html
 LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2290342-20271019@amtsfeed.de
+DTSTAMP:20261019T090350Z
+DTSTART:20271019T080000Z
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.osl-online.de/veranstaltungen/2290342/2027/10/19/calauer-
+ wochenmarkt.html
+LOCATION:Marktplatz Calau
 END:VEVENT
 END:VCALENDAR

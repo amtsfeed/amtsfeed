@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T08:14:00.858Z",
+  "updatedAt": "2026-10-19T09:05:11.839Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -450,13 +450,13 @@
     },
     {
       "id": "amt-niemegk-event-2026-10-19-2026-10-19",
-      "title": "Herbstfußballcamp im Niemegker Waldstadion",
-      "url": "https://amt-niemegk.de/events/herbstfussballcamp-im-niemegker-waldstadion-312/?occurrence=2026-10-19",
-      "startDate": "2026-10-19T09:30:00.000Z",
-      "endDate": "2026-10-22T15:30:00.000Z",
-      "location": "Waldstadion Niemegk",
+      "title": "Seniorencafé",
+      "url": "https://amt-niemegk.de/events/seniorencafe-329/?occurrence=2026-10-19&#038;time=1792418400",
+      "startDate": "2026-10-19T14:00:00.000Z",
+      "endDate": "2026-10-19T16:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-10-14T08:54:30.691Z",
-      "updatedAt": "2026-10-14T08:54:42.563Z"
+      "updatedAt": "2026-10-19T09:05:11.833Z"
     },
     {
       "id": "amt-niemegk-event-2026-10-21-2026-10-21",
@@ -487,6 +487,16 @@
       "location": "Burg Rabenstein in Raben",
       "fetchedAt": "2026-10-18T08:13:47.488Z",
       "updatedAt": "2026-10-18T08:14:00.852Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-10-25-2026-10-25",
+      "title": "Musikalische Burgführung",
+      "url": "https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-452-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-757-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-10-25&#038;time=1792929600",
+      "startDate": "2026-10-25T12:00:00.000Z",
+      "endDate": "2026-10-25T00:00:00.000Z",
+      "location": "Burg Rabenstein in Raben",
+      "fetchedAt": "2026-10-19T09:04:58.461Z",
+      "updatedAt": "2026-10-19T09:05:11.833Z"
     }
   ]
 }

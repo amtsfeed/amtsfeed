@@ -701,4 +701,13 @@ SUMMARY:Emaillier WorkShop
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  emaillier-workshop-1
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-lueuel-zwischen-den-welten@amtsfeed.de
+DTSTAMP:20261019T090259Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Lüül - Zwischen den Welten
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ lueuel-zwischen-den-welten
+END:VEVENT
 END:VCALENDAR

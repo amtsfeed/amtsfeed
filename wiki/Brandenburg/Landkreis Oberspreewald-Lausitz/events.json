@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T08:12:35.258Z",
+  "updatedAt": "2026-10-19T09:03:50.680Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -9352,6 +9352,15 @@
       "updatedAt": "2026-09-23T08:46:09.190Z"
     },
     {
+      "id": "lk-osl-event-2986625-20261210",
+      "title": "Gemeindevertretersitzung",
+      "url": "https://www.osl-online.de/veranstaltungen/2986625/2026/12/10/gemeindevertretersitzung.html",
+      "startDate": "2026-12-10T00:00:00.000Z",
+      "location": "Gemeinde Schipkau",
+      "fetchedAt": "2026-10-19T09:03:50.727Z",
+      "updatedAt": "2026-10-19T09:03:50.727Z"
+    },
+    {
       "id": "lk-osl-event-2290342-20261210",
       "title": "Calauer Wochenmarkt",
       "url": "https://www.osl-online.de/veranstaltungen/2290342/2026/12/10/calauer-wochenmarkt.html",
@@ -14236,6 +14245,15 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-10-18T08:12:35.300Z",
       "updatedAt": "2026-10-18T08:12:35.300Z"
+    },
+    {
+      "id": "lk-osl-event-2290342-20271019",
+      "title": "Calauer Wochenmarkt",
+      "url": "https://www.osl-online.de/veranstaltungen/2290342/2027/10/19/calauer-wochenmarkt.html",
+      "startDate": "2027-10-19T08:00:00.000Z",
+      "location": "Marktplatz Calau",
+      "fetchedAt": "2026-10-19T09:03:50.727Z",
+      "updatedAt": "2026-10-19T09:03:50.727Z"
     }
   ]
 }

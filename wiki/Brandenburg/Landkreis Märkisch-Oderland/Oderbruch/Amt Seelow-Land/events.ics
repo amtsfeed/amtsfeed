@@ -1310,6 +1310,15 @@ URL:https://www.amt-seelow-land.de/veranstaltungen/2857605/2026/10/24/nat
 LOCATION:Verein Langes Haus e.V.
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2986619-2026-10-24-tanzabend.html@amtsfeed.de
+DTSTAMP:20261019T090220Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Tanzabend
+URL:https://www.amt-seelow-land.de/veranstaltungen/2986619/2026/10/24/tan
+ zabend.html
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2972566-2026-10-25-naturspektakel-kranichzug-gänsezu
  g-im-europäischen-vogelschutzgebiet.html@amtsfeed.de
 DTSTAMP:20260923T084429Z
@@ -1331,6 +1340,16 @@ SUMMARY:FILMCLUB - KINO IM GUTSHAUS
 URL:https://www.amt-seelow-land.de/veranstaltungen/2858581/2026/10/30/fil
  mclub-kino-im-gutshaus.html
 LOCATION:Gutshaus der Zukunft Altfriedland gGmbH
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2986621-2026-10-30-halloween-party.html@amtsfeed.de
+DTSTAMP:20261019T090220Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Halloween Party
+URL:https://www.amt-seelow-land.de/veranstaltungen/2986621/2026/10/30/hal
+ loween-party.html
+LOCATION:Freiwillige Feuerwehr Falkenhagen (Mark)
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2857606-2026-10-31-halloween-an-der-feuerwehr.html@am
@@ -1449,6 +1468,17 @@ URL:https://www.amt-seelow-land.de/veranstaltungen/2808328/2026/11/21/arb
  eitseinsatz.html
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2986640-2026-11-21-überblick-tanzabende.html@amtsfee
+ d.de
+DTSTAMP:20261019T090220Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Überblick Tanzabende
+URL:https://www.amt-seelow-land.de/veranstaltungen/2986640/2026/11/21/üb
+ erblick-tanzabende.html
+LOCATION:Schweizerhaus Falkenhagen
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2865383-2026-11-22-vortrag-hans-im-krieg-auf-den-spur
  en-meines-vaters.html@amtsfeed.de
 DTSTAMP:20260505T221430Z
@@ -1490,6 +1520,17 @@ SUMMARY:Weihnachtsgala
 URL:https://www.amt-seelow-land.de/veranstaltungen/2865393/2026/11/28/wei
  hnachtsgala.html
 LOCATION:Kulturhaus Seelow
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2986634-2026-11-28-weihnachtsbaum-aufstellen.html@amt
+ sfeed.de
+DTSTAMP:20261019T090220Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Weihnachtsbaum aufstellen
+URL:https://www.amt-seelow-land.de/veranstaltungen/2986634/2026/11/28/wei
+ hnachtsbaum-aufstellen.html
+LOCATION:Heimatverein Falkenhagen e.V.
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865427-2026-12-02-stadtseniorenweihnachtsfeier.html@

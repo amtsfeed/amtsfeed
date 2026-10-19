@@ -1,5 +1,56 @@
 # Updates
 
+## 2026-10-19 09:06
+
+Insgesamt **92 neu**, **314 aktualisiert**, **3 entfernt** in 44 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Amt Brieskow-Finkenheerd | — | +1 | — | ~6 |
+| Amt Friesack | ~1 | — | — | — |
+| Amt Golzow | — | +1 | — | — |
+| Amt Niemegk | +1 | +1 / ~1 | — | — |
+| Amt Scharmützelsee | — | -1 | — | — |
+| Amt Spreenhagen | ~1 | +1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Freienwalde (Oder) | +1 | — | — | — |
+| Bernau bei Berlin | — | +1 / ~7 | — | — |
+| Birkenwerder | +2 | +2 | — | — |
+| Calau | — | ~4 | — | — |
+| Eberswalde | — | +2 | — | — |
+| Eisenhüttenstadt | — | ~8 | — | — |
+| Falkensee | — | +14 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Groß Kreutz | — | ~24 | — | — |
+| Grünheide (Mark) | ~1 | — | — | — |
+| Hohen Neuendorf | — | +1 | — | — |
+| Hoppegarten | — | +1 | — | — |
+| Ketzin Havel | — | +4 | — | — |
+| Kloster Lehnin | — | +1 | — | — |
+| Kremmen | — | +4 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | ~1 | +3 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | +1 | +2 | — | +1 |
+| Löwenberger Land | — | +1 | — | — |
+| Mittenwalde | +2 | — | — | — |
+| Mühlenbecker Land | — | +1 | — | — |
+| Neuenhagen bei Berlin | +2 / -2 | — | — | — |
+| Oberkrämer | — | +4 | — | — |
+| Oderbruch / Amt Seelow-Land | +1 | +4 | — | — |
+| Premnitz | — | +5 | — | — |
+| Rathenow | — | +1 | — | — |
+| Rietz-Neuendorf | +2 | — | ~2 | — |
+| Röderland | — | +1 | — | — |
+| Schipkau | — | +1 | — | — |
+| Schönefeld | +1 / ~1 | ~30 | — | — |
+| Senftenberg | — | +3 | — | — |
+| Storkow (Mark) | +1 | +1 | — | — |
+| Tauche | +2 | +5 | — | +1 |
+| Teltow | +2 | — | — | — |
+| Uebigau-Wahrenbrück | — | +1 | — | — |
+| Verbandsgemeinde Bad Liebenwerda | — | +2 | — | — |
+| Werder (Havel) | — | ~1 | — | — |
+| Woltersdorf | — | — | — | +3 / ~200 |
+
 ## 2026-10-18 08:15
 
 Insgesamt **48 neu**, **140 aktualisiert**, **3 entfernt** in 31 Quellen.

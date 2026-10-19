@@ -1043,15 +1043,6 @@ URL:https://www.calau.de/veranstaltungen/2975111/2026/10/17/saisonabschlu
  ss-in-der-gutskapelle-reuden.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20261018T081209Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:18.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
-URL:https://www.calau.de/veranstaltungen/2864723/2026/10/18/flugshow-auf-
- dem-adler-und-jagdfalkenhof-werchow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2975879@amtsfeed.de
 DTSTAMP:20261017T075537Z
 DTSTART;VALUE=DATE:20261018
@@ -1089,28 +1080,29 @@ URL:https://www.calau.de/veranstaltungen/2290342/2026/10/20/calauer-woche
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20261015T082705Z
+DTSTAMP:20261019T090330Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:Calauer Museen öffnen
+SUMMARY:21.10.2026   Calauer Museen öffnen
 URL:https://www.calau.de/veranstaltungen/2315266/2026/10/21/calauer-musee
  n-öffnen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838476@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261019T090330Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:Klöppeltreff
+SUMMARY:21.10.2026   Klöppeltreff
 URL:https://www.calau.de/veranstaltungen/2838476/2026/10/21/klöppeltreff
  .html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2909035@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261019T090330Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:"Auf ins Weltall!" Die Abenteuer der Katzen Mimi und Comic Cat
+SUMMARY:22.10.2026   "Auf ins Weltall!" Die Abenteuer der Katzen Mimi und
+  Comic Cat
 URL:https://www.calau.de/veranstaltungen/2909035/2026/10/22/auf-ins-welta
  ll-die-abenteuer-der-katzen-mimi-und-comic-cat.html
 END:VEVENT
@@ -1139,6 +1131,15 @@ DTEND;VALUE=DATE:20261024
 SUMMARY:Handarbeitsgruppe "Wollwunder"
 URL:https://www.calau.de/veranstaltungen/2980732/2026/10/23/handarbeitsgr
  uppe-wollwunder.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2864723@amtsfeed.de
+DTSTAMP:20261019T090330Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+URL:https://www.calau.de/veranstaltungen/2864723/2026/10/24/flugshow-auf-
+ dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2921824@amtsfeed.de

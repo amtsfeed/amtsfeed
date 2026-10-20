@@ -602,6 +602,17 @@ LOCATION:Gemeindebibliothek Birkenwerder\, Summter Str. 04\, Eingang übe
  r Hirschfährte
 END:VEVENT
 BEGIN:VEVENT
+UID:birkenwerder-event-mittwochs-in-die-villa-somewhere-over-the-rainbow@
+ amtsfeed.de
+DTSTAMP:20261020T084033Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Mittwochs in die Villa! - „Somewhere over the Rainbow“
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/mittwochs-in-die-villa-somewhere-over-the-rainbow
+LOCATION:Villa Weigert\, Birkenwerder
+END:VEVENT
+BEGIN:VEVENT
 UID:birkenwerder-event-spielenachmittag-3@amtsfeed.de
 DTSTAMP:20261001T101850Z
 DTSTART;VALUE=DATE:20261023

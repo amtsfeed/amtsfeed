@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:15:10.678Z",
+  "updatedAt": "2026-10-20T08:36:46.878Z",
   "items": [
     {
       "id": "2849506",
@@ -538,6 +538,14 @@
       "updatedAt": "2026-05-08T18:34:29.680Z"
     },
     {
+      "id": "2987022",
+      "title": "Werkstattmarkt ELSTERWERK",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2987022/2026/11/13/werkstattmarkt-elsterwerk.html",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "fetchedAt": "2026-10-20T08:36:46.870Z",
+      "updatedAt": "2026-10-20T08:36:46.870Z"
+    },
+    {
       "id": "2924111",
       "title": "Aufsuchende Sozialberatung des SoVD-Sozialmobils",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2924111/2026/11/25/aufsuchende-sozialberatung-des-sovd-sozialmobils.html",
@@ -602,22 +610,6 @@
       "updatedAt": "2026-05-08T18:34:29.680Z"
     },
     {
-      "id": "2477269",
-      "title": "Seniorencaf&egrave;",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2477269/2027/10/13/seniorencafè.html",
-      "startDate": "2027-10-13T10:00:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-10-13T10:40:47.328Z"
-    },
-    {
-      "id": "2439631",
-      "title": "Sprach-Caf&egrave;",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2439631/2027/10/13/sprach-cafè.html",
-      "startDate": "2027-10-13T16:00:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-10-13T10:40:47.328Z"
-    },
-    {
       "id": "2331049",
       "title": "Wochenmarkt",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2331049/2027/10/14/wochenmarkt.html",
@@ -632,6 +624,22 @@
       "startDate": "2027-10-16T06:30:00.000Z",
       "fetchedAt": "2026-05-08T18:34:29.680Z",
       "updatedAt": "2026-10-16T08:15:10.667Z"
+    },
+    {
+      "id": "2477269",
+      "title": "Seniorencaf&egrave;",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2477269/2027/10/20/seniorencafè.html",
+      "startDate": "2027-10-20T10:00:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-10-20T08:36:46.870Z"
+    },
+    {
+      "id": "2439631",
+      "title": "Sprach-Caf&egrave;",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2439631/2027/10/20/sprach-cafè.html",
+      "startDate": "2027-10-20T16:00:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-10-20T08:36:46.870Z"
     }
   ]
 }

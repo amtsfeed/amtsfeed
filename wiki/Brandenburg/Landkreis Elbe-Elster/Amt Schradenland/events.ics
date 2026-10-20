@@ -816,15 +816,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2972013/2026/10/18/se
  niorennachmittag-gemeinsam-statt-einsam-in-merzdorf.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2952576@amtsfeed.de
-DTSTAMP:20261013T104040Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Nähen\, Stricken \, Häkeln
-URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/10/19/n
- ähen-stricken--häkeln.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2897451@amtsfeed.de
 DTSTAMP:20261016T081502Z
 DTSTART;VALUE=DATE:20261022
@@ -841,6 +832,15 @@ DTEND;VALUE=DATE:20261026
 SUMMARY:Gottesdienst
 URL:https://www.amt-schradenland.de/veranstaltungen/2953466/2026/10/25/go
  ttesdienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2952576@amtsfeed.de
+DTSTAMP:20261020T083639Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Nähen\, Stricken \, Häkeln
+URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/10/26/n
+ ähen-stricken--häkeln.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2971999@amtsfeed.de

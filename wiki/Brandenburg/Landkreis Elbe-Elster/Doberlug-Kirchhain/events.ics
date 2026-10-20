@@ -955,6 +955,14 @@ URL:https://www.doberlug-kirchhain.de/veranstaltungen/2814978/2026/10/24/
  stadtführung-mit-genuss-im-stadtteil-kirchhain.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2986689@amtsfeed.de
+DTSTAMP:20261020T083641Z
+DTSTART:20261024T160000Z
+SUMMARY:Organist der Kreuzkirche Dresden zu Gast in Doberlug-Kirchhain
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2986689/2026/10/24/
+ organist-der-kreuzkirche-dresden-zu-gast-in-doberlug-kirchhain.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2986147@amtsfeed.de
 DTSTAMP:20261018T080557Z
 DTSTART:20261024T183000Z
@@ -1497,5 +1505,14 @@ DTEND;VALUE=DATE:20271004
 SUMMARY:Weinfest 2027
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2962018/2027/10/03/
  weinfest-2027.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2962022@amtsfeed.de
+DTSTAMP:20261020T083641Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:Lesung zur Sagenwelt In Elbe-Elster
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2962022/2027/10/20/
+ lesung-zur-sagenwelt-in-elbe-elster.html
 END:VEVENT
 END:VCALENDAR

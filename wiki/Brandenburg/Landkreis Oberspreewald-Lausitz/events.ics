@@ -7016,14 +7016,24 @@ URL:https://www.osl-online.de/veranstaltungen/2966884/2026/10/22/festspie
 LOCATION:Theater Neue Bühne Senftenberg
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2986727-20261022@amtsfeed.de
+DTSTAMP:20261020T084134Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Die AfD lädt zum Bürgerdialog ein
+URL:https://www.osl-online.de/veranstaltungen/2986727/2026/10/22/die-afd-
+ lädt-zum-bürgerdialog-ein.html
+LOCATION:Kulturhaus Klettwitz
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2853313-20261023@amtsfeed.de
-DTSTAMP:20260911T111241Z
+DTSTAMP:20261020T084134Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Herbstcamp
 URL:https://www.osl-online.de/veranstaltungen/2853313/2026/10/23/herbstca
  mp.html
-LOCATION:Gemeinde Schipkau
+LOCATION:Max Erlebnispädagogik gGmbH
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2966885-20261023@amtsfeed.de
@@ -14597,5 +14607,25 @@ SUMMARY:Calauer Wochenmarkt
 URL:https://www.osl-online.de/veranstaltungen/2290342/2027/10/19/calauer-
  wochenmarkt.html
 LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2315266-20271020@amtsfeed.de
+DTSTAMP:20261020T084134Z
+DTSTART:20271020T100000Z
+DTEND:20271020T120000Z
+SUMMARY:Calauer Museen öffnen
+URL:https://www.osl-online.de/veranstaltungen/2315266/2027/10/20/calauer-
+ museen-öffnen.html
+LOCATION:Haus der Heimatgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2558944-20271020@amtsfeed.de
+DTSTAMP:20261020T084134Z
+DTSTART:20271020T170000Z
+DTEND:20271020T190000Z
+SUMMARY:Gruppentreffen Selbsthilfegruppe Long - Post - Covid Lauchhammer
+URL:https://www.osl-online.de/veranstaltungen/2558944/2027/10/20/gruppent
+ reffen-selbsthilfegruppe-long-post-covid-lauchhammer.html
+LOCATION:REKOSI
 END:VEVENT
 END:VCALENDAR

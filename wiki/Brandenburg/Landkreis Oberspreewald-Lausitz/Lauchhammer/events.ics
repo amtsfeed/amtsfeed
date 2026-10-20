@@ -299,24 +299,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2971015/2026/10/18/es-war-
  einmal-.-im-echten-leben.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124462@amtsfeed.de
-DTSTAMP:20261013T104542Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/10/19/treffpu
- nkt-bürgertheater.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2124466@amtsfeed.de
-DTSTAMP:20261013T104542Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/19/treffpu
- nkt-bürgertheater.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124475@amtsfeed.de
 DTSTAMP:20261014T085254Z
 DTSTART;VALUE=DATE:20261020
@@ -360,6 +342,24 @@ DTEND;VALUE=DATE:20261026
 SUMMARY:Es war einmal ...! im echten Leben!!!
 URL:https://www.lauchhammer.de/veranstaltungen/2971016/2026/10/25/es-war-
  einmal-.-im-echten-leben.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124462@amtsfeed.de
+DTSTAMP:20261020T084121Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/10/26/treffpu
+ nkt-bürgertheater.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124466@amtsfeed.de
+DTSTAMP:20261020T084121Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/26/treffpu
+ nkt-bürgertheater.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2918359@amtsfeed.de

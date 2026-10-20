@@ -4291,6 +4291,15 @@ URL:https://www.falkensee.de/veranstaltungen/2943815/2026/11/06/kostenfre
  tml
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2986936-20261106@amtsfeed.de
+DTSTAMP:20261020T083713Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Hommage an Margot Friedländer
+URL:https://www.falkensee.de/veranstaltungen/2986936/2026/11/06/hommage-a
+ n-margot-friedländer.html
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2900963-20261107@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261107
@@ -5084,6 +5093,17 @@ SUMMARY:&bdquo\;Der Stern von Bethlehem&ldquo\; Soli Deo Gloria &ndash\;
  Allein Gott sei die Ehre!
 URL:https://www.falkensee.de/veranstaltungen/2966652/2026/12/05/der-stern
  -von-bethlehem-soli-deo-gloria--allein-gott-sei-die-ehre.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2986902-20261205@amtsfeed.de
+DTSTAMP:20261020T083713Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Magische Momente\, Gänsehaut und sportliche Höchstleistungen: D
+ ie TSV Weihnachtsgala 2026 wirft ihre Schatten voraus!
+URL:https://www.falkensee.de/veranstaltungen/2986902/2026/12/05/magische-
+ momente-gänsehaut-und-sportliche-höchstleistungen-die-tsv-weihnachtsgal
+ a-2026-wirft-ihre-schatten-voraus.html
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2900966-20261206@amtsfeed.de
@@ -8612,5 +8632,52 @@ DTEND;VALUE=DATE:20271020
 SUMMARY:Plenum/Offenes Treffen der Willkommensinitiative in der B89
 URL:https://www.falkensee.de/veranstaltungen/2440163/2027/10/19/plenum-of
  fenes-treffen-der-willkommensinitiative-in-der-b89.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2217406-20271020@amtsfeed.de
+DTSTAMP:20261020T083713Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:Beratertag Lotsendienst
+URL:https://www.falkensee.de/veranstaltungen/2217406/2027/10/20/beraterta
+ g-lotsendienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2221593-20271020@amtsfeed.de
+DTSTAMP:20261020T083713Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:Beratungstag der Industrie- und Handelskammer (IHK) Potsdam und d
+ er Investitionsbank des Landes Brandenburg (ILB)
+URL:https://www.falkensee.de/veranstaltungen/2221593/2027/10/20/beratungs
+ tag-der-industrie-und-handelskammer-ihk-potsdam-und-der-investitionsbank-
+ des-landes-brandenburg-ilb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2321277-20271020@amtsfeed.de
+DTSTAMP:20261020T083713Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:Elternfrühstück im Weltladen
+URL:https://www.falkensee.de/veranstaltungen/2321277/2027/10/20/elternfr
+ ühstück-im-weltladen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2520726-20271020@amtsfeed.de
+DTSTAMP:20261020T083713Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:RepairCaf&eacute\; - Nachhaltig und sozial
+URL:https://www.falkensee.de/veranstaltungen/2520726/2027/10/20/repaircaf
+ é-nachhaltig-und-sozial.html
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2405552-20271020@amtsfeed.de
+DTSTAMP:20261020T083713Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:Singkreis
+URL:https://www.falkensee.de/veranstaltungen/2405552/2027/10/20/singkreis
+ .html
 END:VEVENT
 END:VCALENDAR

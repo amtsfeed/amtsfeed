@@ -5922,12 +5922,30 @@ LOCATION:Insel Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99223653@amtsfeed.de
-DTSTAMP:20261019T090612Z
-DTSTART:20261019T090612Z
+DTSTAMP:20261020T084330Z
+DTSTART:20261020T084330Z
 SUMMARY:Werderaner Gespräch: Geschichten aus der Muckerstube
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99223653
 LOCATION:Schützenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99167758@amtsfeed.de
+DTSTAMP:20261020T084330Z
+DTSTART:20261020T084330Z
+SUMMARY:Rundfahrt nach Potsdam
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167758
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99167937@amtsfeed.de
+DTSTAMP:20261020T084330Z
+DTSTART:20261020T084330Z
+SUMMARY:Kleine Seenrundfahrt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167937
+LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99116255@amtsfeed.de
@@ -5938,24 +5956,6 @@ SUMMARY:Werderaner Gespräch - Geschichten aus der Muckerstube! / erzähl
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99116255
 LOCATION:Schützenhaus
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99167758@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261021T103000Z
-SUMMARY:Rundfahrt nach Potsdam
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167758
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99167937@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261021T140000Z
-SUMMARY:Kleine Seenrundfahrt
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167937
-LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167759@amtsfeed.de
@@ -6747,6 +6747,15 @@ SUMMARY:Charles Dickens' Weihnachtsgeschichte
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99228352
 LOCATION:Theater Comedie Soleil
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99230317@amtsfeed.de
+DTSTAMP:20261020T084330Z
+DTSTART:20261129T160000Z
+SUMMARY:Adventskonzert des Stabsmusikkorps der Bundeswehr
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99230317
+LOCATION:Katholische Kirche Maria Meeresstern
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99127094@amtsfeed.de

@@ -1115,39 +1115,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2984493/2026/10/18/drachenfe
 LOCATION:auf der Sportanlage des BSV Blau Wess
 END:VEVENT
 BEGIN:VEVENT
-UID:2402834@amtsfeed.de
-DTSTAMP:20261013T104411Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Kreativgruppe in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/10/19/kreativgr
- uppe-in-podelzig.html
-DESCRIPTION:in Gemeindezentrum
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464902@amtsfeed.de
-DTSTAMP:20261013T104411Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/10/19/tischtenn
- is.html
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464900@amtsfeed.de
-DTSTAMP:20261013T104411Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Dart für Jedermann
-URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/10/19/dart-für
- -jedermann.html
-DESCRIPTION:Sportlerheim Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464901@amtsfeed.de
 DTSTAMP:20261014T085114Z
 DTSTART;VALUE=DATE:20261020
@@ -1261,6 +1228,39 @@ URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/24/bäckerwa
  gen-in-podelzig.html
 DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
   Dorfteich
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2402834@amtsfeed.de
+DTSTAMP:20261020T083949Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Kreativgruppe in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/10/26/kreativgr
+ uppe-in-podelzig.html
+DESCRIPTION:in Gemeindezentrum
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464902@amtsfeed.de
+DTSTAMP:20261020T083949Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/10/26/tischtenn
+ is.html
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464900@amtsfeed.de
+DTSTAMP:20261020T083949Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Dart für Jedermann
+URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/10/26/dart-für
+ -jedermann.html
+DESCRIPTION:Sportlerheim Podelzig
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT

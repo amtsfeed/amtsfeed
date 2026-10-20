@@ -554,15 +554,27 @@ LOCATION:Familienzentrum Niemegk
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-22-2026-10-22@amtsfeed.de
-DTSTAMP:20261016T082156Z
-DTSTART:20261022T110000Z
-DTEND:20261023T000000Z
-SUMMARY:Musikalische Ferienburgführung
-URL:https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-4
- 52-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-75
- 7-365-151-130-780-200-950-660-840-948-216-854/?occurrence=2026-10-22&#038
- \;time=1792666800
-LOCATION:Burg Rabenstein in Raben
+DTSTAMP:20261020T084236Z
+DTSTART:20261022T100000Z
+DTEND:20261022T120000Z
+SUMMARY:Arbeitseinsätze auf dem Niemegker Friedhof – Bepflanzung des H
+ aupteingangs
+URL:https://amt-niemegk.de/events/arbeitseinsaetze-auf-dem-niemegker-frie
+ dhof-bepflanzung-des-haupteingangs/?occurrence=2026-10-22&#038\;time=1792
+ 663200
+LOCATION:Friedhof Niemegk
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-23-2026-10-23@amtsfeed.de
+DTSTAMP:20261020T084236Z
+DTSTART:20261023T163000Z
+DTEND:20261023T173000Z
+SUMMARY:Arbeitseinsätze auf dem Niemegker Friedhof – Bepflanzung des H
+ aupteingangs
+URL:https://amt-niemegk.de/events/arbeitseinsaetze-auf-dem-niemegker-frie
+ dhof-bepflanzung-des-haupteingangs/?occurrence=2026-10-23&#038\;time=1792
+ 773000
+LOCATION:Friedhof Niemegk
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-24-2026-10-24@amtsfeed.de

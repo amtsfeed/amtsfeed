@@ -951,4 +951,24 @@ URL:https://www.amt-ruhland.de/veranstaltungen/
 DESCRIPTION:Schlagworte: Ruhland
 LOCATION:Schützenhaus Ruhland
 END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-7324@amtsfeed.de
+DTSTAMP:20261020T084116Z
+DTSTART:20270430T180000Z
+DTEND:20270430T190000Z
+SUMMARY:Maibaumstellen in Hermsdorf
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Hermsdorf
+LOCATION:Sportplatz Hermsdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-7327@amtsfeed.de
+DTSTAMP:20261020T084116Z
+DTSTART:20270626T150000Z
+DTEND:20270627T150000Z
+SUMMARY:Sommerfest in Hermsdorf
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Hermsdorf
+LOCATION:Sportplatz in Hermsdorf
+END:VEVENT
 END:VCALENDAR

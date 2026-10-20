@@ -579,15 +579,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2957431/2026/10/18/gotte
  sdienst-der-st.-magdalena-kirche.html
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2811973@amtsfeed.de
-DTSTAMP:20260922T084036Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Demokratiecaf&eacute\;
-URL:https://www.grossraeschen.de/veranstaltungen/2811973/2026/10/19/demok
- ratiecafé.html
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2947296@amtsfeed.de
 DTSTAMP:20260911T111229Z
 DTSTART;VALUE=DATE:20261021
@@ -875,6 +866,15 @@ DTEND;VALUE=DATE:20261116
 SUMMARY:Gottesdienst der St. Magdalena-Kirche
 URL:https://www.grossraeschen.de/veranstaltungen/2957439/2026/11/15/gotte
  sdienst-der-st.-magdalena-kirche.html
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2811973@amtsfeed.de
+DTSTAMP:20261020T084119Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Demokratiecaf&eacute\;
+URL:https://www.grossraeschen.de/veranstaltungen/2811973/2026/11/16/demok
+ ratiecafé.html
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2885564@amtsfeed.de

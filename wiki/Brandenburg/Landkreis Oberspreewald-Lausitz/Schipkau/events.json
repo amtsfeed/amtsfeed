@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T09:03:39.732Z",
+  "updatedAt": "2026-10-20T08:41:25.234Z",
   "items": [
     {
       "id": "schipkau-event-2905379",
@@ -443,14 +443,24 @@
       "updatedAt": "2026-10-12T11:06:50.064Z"
     },
     {
+      "id": "schipkau-event-2986727",
+      "title": "Die AfD lädt zum Bürgerdialog ein",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2986727/2026/10/22/die-afd-lädt-zum-bürgerdialog-ein.html",
+      "startDate": "2026-10-22T00:00:00.000Z",
+      "location": "Kulturhaus Klettwitz",
+      "description": "Was bewegt die Menschen vor Ort? Welche Themen beschäftigen euch und wo gibt es Handlungsbedarf? ...",
+      "fetchedAt": "2026-10-20T08:41:25.225Z",
+      "updatedAt": "2026-10-20T08:41:25.225Z"
+    },
+    {
       "id": "schipkau-event-2853313",
       "title": "Herbstcamp",
       "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2853313/2026/10/23/herbstcamp.html",
       "startDate": "2026-10-23T00:00:00.000Z",
-      "location": "Gemeinde Schipkau",
+      "location": "Max Erlebnispädagogik gGmbH",
       "description": "Actionreiche Herbsttage mit Wald-, Survival- und Kletteraktionen. Für alle von 7-15 Jahren, ...",
       "fetchedAt": "2026-05-31T17:27:31.245Z",
-      "updatedAt": "2026-09-11T11:12:36.607Z"
+      "updatedAt": "2026-10-20T08:41:25.225Z"
     },
     {
       "id": "schipkau-event-2952515",
@@ -528,6 +538,15 @@
       "location": "Hörlitz",
       "fetchedAt": "2026-09-30T09:52:19.459Z",
       "updatedAt": "2026-09-30T09:52:19.459Z"
+    },
+    {
+      "id": "schipkau-event-2986741",
+      "title": "Pflegeaktion Friedhof Schipkau",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2986741/2026/11/07/pflegeaktion-friedhof-schipkau.html",
+      "startDate": "2026-11-07T00:00:00.000Z",
+      "location": "Friedhof Schipkau",
+      "fetchedAt": "2026-10-20T08:41:25.225Z",
+      "updatedAt": "2026-10-20T08:41:25.225Z"
     },
     {
       "id": "schipkau-event-2967420",

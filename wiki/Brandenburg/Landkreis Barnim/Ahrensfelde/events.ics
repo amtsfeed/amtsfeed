@@ -1754,6 +1754,17 @@ LOCATION:Schwapp Erlebnisbad\, Große Freizeit 1\, 15517 Fürstenwalde/Sp
  ree
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900004831@amtsfeed.de
+DTSTAMP:20261020T083526Z
+DTSTART:20261025T230000Z
+SUMMARY:Ausfall der öffentlichen Sitzung des Ortsbeirates Ahrensfelde
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/ausfall-der-oeffe
+ ntlichen-sitzung-des-ortsbeirates-ahrensfelde-900004831-30601.html
+DESCRIPTION:Zur Tagesordnung
+LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
+ enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004989@amtsfeed.de
 DTSTAMP:20260911T110619Z
 DTSTART:20261026T090000Z
@@ -1766,16 +1777,6 @@ DESCRIPTION:Wir wollen Sie mit dem sicheren Umgang mit modernen Medien\n-
  ts erworbenes Wissen vertiefen\n- und Ihre Fragen dazu beantworten\n- fal
  ls erforderlich werden auch Hausbesuche durchgeführt
 LOCATION:Ortsteilzentrum Eiche\, Mehrower Weg\, 16356 Ahrensfelde
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900004831@amtsfeed.de
-DTSTAMP:20260526T085739Z
-DTSTART:20261026T180000Z
-SUMMARY:öffentliche Sitzung des Ortsbeirates Ahrensfelde
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ortsbeirates-ahrensfelde-900004831-30601.html
-LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
- enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900005020@amtsfeed.de

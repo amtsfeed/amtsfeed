@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T09:03:50.680Z",
+  "updatedAt": "2026-10-20T08:41:34.140Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -6830,13 +6830,23 @@
       "updatedAt": "2026-09-15T08:49:48.932Z"
     },
     {
+      "id": "lk-osl-event-2986727-20261022",
+      "title": "Die AfD lädt zum Bürgerdialog ein",
+      "url": "https://www.osl-online.de/veranstaltungen/2986727/2026/10/22/die-afd-lädt-zum-bürgerdialog-ein.html",
+      "startDate": "2026-10-22T19:00:00.000Z",
+      "endDate": "2026-10-22T21:00:00.000Z",
+      "location": "Kulturhaus Klettwitz",
+      "fetchedAt": "2026-10-20T08:41:34.170Z",
+      "updatedAt": "2026-10-20T08:41:34.170Z"
+    },
+    {
       "id": "lk-osl-event-2853313-20261023",
       "title": "Herbstcamp",
       "url": "https://www.osl-online.de/veranstaltungen/2853313/2026/10/23/herbstcamp.html",
       "startDate": "2026-10-23T00:00:00.000Z",
-      "location": "Gemeinde Schipkau",
+      "location": "Max Erlebnispädagogik gGmbH",
       "fetchedAt": "2026-09-11T09:58:58.151Z",
-      "updatedAt": "2026-09-11T11:12:41.342Z"
+      "updatedAt": "2026-10-20T08:41:34.170Z"
     },
     {
       "id": "lk-osl-event-2966885-20261023",
@@ -14254,6 +14264,26 @@
       "location": "Marktplatz Calau",
       "fetchedAt": "2026-10-19T09:03:50.727Z",
       "updatedAt": "2026-10-19T09:03:50.727Z"
+    },
+    {
+      "id": "lk-osl-event-2315266-20271020",
+      "title": "Calauer Museen öffnen",
+      "url": "https://www.osl-online.de/veranstaltungen/2315266/2027/10/20/calauer-museen-öffnen.html",
+      "startDate": "2027-10-20T10:00:00.000Z",
+      "endDate": "2027-10-20T12:00:00.000Z",
+      "location": "Haus der Heimatgeschichte",
+      "fetchedAt": "2026-10-20T08:41:34.170Z",
+      "updatedAt": "2026-10-20T08:41:34.170Z"
+    },
+    {
+      "id": "lk-osl-event-2558944-20271020",
+      "title": "Gruppentreffen Selbsthilfegruppe Long - Post - Covid Lauchhammer",
+      "url": "https://www.osl-online.de/veranstaltungen/2558944/2027/10/20/gruppentreffen-selbsthilfegruppe-long-post-covid-lauchhammer.html",
+      "startDate": "2027-10-20T17:00:00.000Z",
+      "endDate": "2027-10-20T19:00:00.000Z",
+      "location": "REKOSI",
+      "fetchedAt": "2026-10-20T08:41:34.170Z",
+      "updatedAt": "2026-10-20T08:41:34.170Z"
     }
   ]
 }

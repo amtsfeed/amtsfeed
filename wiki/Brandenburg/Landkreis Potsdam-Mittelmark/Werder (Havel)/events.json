@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T09:06:12.547Z",
+  "updatedAt": "2026-10-20T08:43:30.771Z",
   "items": [
     {
       "id": "werder-havel-event-99127087",
@@ -5882,10 +5882,28 @@
       "id": "werder-havel-event-99223653",
       "title": "Werderaner Gespräch: Geschichten aus der Muckerstube",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99223653",
-      "startDate": "2026-10-19T09:06:12.560Z",
+      "startDate": "2026-10-20T08:43:30.783Z",
       "location": "Schützenhaus",
       "fetchedAt": "2026-09-22T08:42:34.172Z",
-      "updatedAt": "2026-10-19T09:06:12.560Z"
+      "updatedAt": "2026-10-20T08:43:30.783Z"
+    },
+    {
+      "id": "werder-havel-event-99167758",
+      "title": "Rundfahrt nach Potsdam",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99167758",
+      "startDate": "2026-10-20T08:43:30.783Z",
+      "location": "MS Bismarckhöhe",
+      "fetchedAt": "2026-05-06T12:42:21.268Z",
+      "updatedAt": "2026-10-20T08:43:30.783Z"
+    },
+    {
+      "id": "werder-havel-event-99167937",
+      "title": "Kleine Seenrundfahrt",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99167937",
+      "startDate": "2026-10-20T08:43:30.783Z",
+      "location": "MS Bismarckhöhe",
+      "fetchedAt": "2026-05-06T12:42:21.268Z",
+      "updatedAt": "2026-10-20T08:43:30.783Z"
     },
     {
       "id": "werder-havel-event-99116255",
@@ -5893,24 +5911,6 @@
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99116255",
       "startDate": "2026-10-20T18:30:00.000Z",
       "location": "Schützenhaus",
-      "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-09-11T11:13:48.343Z"
-    },
-    {
-      "id": "werder-havel-event-99167758",
-      "title": "Rundfahrt nach Potsdam",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99167758",
-      "startDate": "2026-10-21T10:30:00.000Z",
-      "location": "MS Bismarckhöhe",
-      "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-09-11T11:13:48.343Z"
-    },
-    {
-      "id": "werder-havel-event-99167937",
-      "title": "Kleine Seenrundfahrt",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99167937",
-      "startDate": "2026-10-21T14:00:00.000Z",
-      "location": "MS Bismarckhöhe",
       "fetchedAt": "2026-05-06T12:42:21.268Z",
       "updatedAt": "2026-09-11T11:13:48.343Z"
     },
@@ -6696,6 +6696,15 @@
       "location": "Theater Comedie Soleil",
       "fetchedAt": "2026-10-07T10:30:09.481Z",
       "updatedAt": "2026-10-07T10:30:09.481Z"
+    },
+    {
+      "id": "werder-havel-event-99230317",
+      "title": "Adventskonzert des Stabsmusikkorps der Bundeswehr",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99230317",
+      "startDate": "2026-11-29T16:00:00.000Z",
+      "location": "Katholische Kirche Maria Meeresstern",
+      "fetchedAt": "2026-10-20T08:43:30.783Z",
+      "updatedAt": "2026-10-20T08:43:30.783Z"
     },
     {
       "id": "werder-havel-event-99127094",

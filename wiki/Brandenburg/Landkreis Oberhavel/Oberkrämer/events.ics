@@ -632,15 +632,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2983627/2026/10/18/den-eig
  enen-baum-im-friedwald-oberkrämer-finden.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855689@amtsfeed.de
-DTSTAMP:20261013T104524Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Die Montagshelden - Gymnastik & Bewegung
-URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/10/19/die-mon
- tagshelden-gymnastik-bewegung.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2976120@amtsfeed.de
 DTSTAMP:20261013T104524Z
 DTSTART;VALUE=DATE:20261019
@@ -747,6 +738,15 @@ DTEND;VALUE=DATE:20261024
 SUMMARY:Konzert - Sixty Beats
 URL:https://www.oberkraemer.de/veranstaltungen/2891496/2026/10/23/konzert
  -sixty-beats.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855689@amtsfeed.de
+DTSTAMP:20261020T084103Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Die Montagshelden - Gymnastik & Bewegung
+URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/10/26/die-mon
+ tagshelden-gymnastik-bewegung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855781@amtsfeed.de
@@ -1209,6 +1209,15 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Zentraler Vorlesetag
 URL:https://www.oberkraemer.de/veranstaltungen/2984136/2026/11/20/zentral
  er-vorlesetag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2986779@amtsfeed.de
+DTSTAMP:20261020T084103Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Offenes-Haus
+URL:https://www.oberkraemer.de/veranstaltungen/2986779/2026/11/22/offenes
+ -haus.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962224@amtsfeed.de

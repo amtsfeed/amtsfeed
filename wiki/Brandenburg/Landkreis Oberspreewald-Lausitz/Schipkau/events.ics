@@ -520,8 +520,20 @@ DESCRIPTION:Bürgernähe ist mir wichtig – deshalb möchte ich in allen
 LOCATION:Ortsfeuerwehr Meuro
 END:VEVENT
 BEGIN:VEVENT
+UID:schipkau-event-2986727@amtsfeed.de
+DTSTAMP:20261020T084125Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Die AfD lädt zum Bürgerdialog ein
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2986727/2026/10/22/d
+ ie-afd-lädt-zum-bürgerdialog-ein.html
+DESCRIPTION:Was bewegt die Menschen vor Ort? Welche Themen beschäftigen 
+ euch und wo gibt es Handlungsbedarf? ...
+LOCATION:Kulturhaus Klettwitz
+END:VEVENT
+BEGIN:VEVENT
 UID:schipkau-event-2853313@amtsfeed.de
-DTSTAMP:20260911T111236Z
+DTSTAMP:20261020T084125Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Herbstcamp
@@ -529,7 +541,7 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2853313/2026/10/23/h
  erbstcamp.html
 DESCRIPTION:Actionreiche Herbsttage mit Wald-\, Survival- und Kletterakti
  onen. Für alle von 7-15 Jahren\, ...
-LOCATION:Gemeinde Schipkau
+LOCATION:Max Erlebnispädagogik gGmbH
 END:VEVENT
 BEGIN:VEVENT
 UID:schipkau-event-2952515@amtsfeed.de
@@ -620,6 +632,16 @@ SUMMARY:Gruselpfad 2026
 URL:https://www.gemeinde-schipkau.de/veranstaltungen/2976545/2026/11/07/g
  ruselpfad-2026.html
 LOCATION:Hörlitz
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-2986741@amtsfeed.de
+DTSTAMP:20261020T084125Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Pflegeaktion Friedhof Schipkau
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2986741/2026/11/07/p
+ flegeaktion-friedhof-schipkau.html
+LOCATION:Friedhof Schipkau
 END:VEVENT
 BEGIN:VEVENT
 UID:schipkau-event-2967420@amtsfeed.de

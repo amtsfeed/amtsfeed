@@ -1070,15 +1070,6 @@ URL:https://www.calau.de/veranstaltungen/2981514/2026/10/18/wanderung-dur
  ch-die-calauer-schweiz.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261018T081209Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:20.10.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/10/20/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
 DTSTAMP:20261019T090330Z
 DTSTART;VALUE=DATE:20261021
@@ -1097,6 +1088,15 @@ URL:https://www.calau.de/veranstaltungen/2838476/2026/10/21/klöppeltreff
  .html
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261021T084653Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:22.10.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/10/22/calauer-woche
+ nmarkt.html
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2909035@amtsfeed.de
 DTSTAMP:20261019T090330Z
 DTSTART;VALUE=DATE:20261022
@@ -1108,10 +1108,10 @@ URL:https://www.calau.de/veranstaltungen/2909035/2026/10/22/auf-ins-welta
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2980728@amtsfeed.de
-DTSTAMP:20261008T104538Z
+DTSTAMP:20261021T084653Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:Beratung Sozialmobil
+SUMMARY:22.10.2026   Beratung Sozialmobil
 URL:https://www.calau.de/veranstaltungen/2980728/2026/10/22/beratung-sozi
  almobil.html
 END:VEVENT

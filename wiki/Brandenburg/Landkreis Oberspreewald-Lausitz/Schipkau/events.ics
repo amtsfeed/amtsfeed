@@ -712,16 +712,6 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2985930/2026/11/21/k
 LOCATION:Vereinsheim Schipkau
 END:VEVENT
 BEGIN:VEVENT
-UID:schipkau-event-2915897@amtsfeed.de
-DTSTAMP:20260911T111236Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Lichterfest
-URL:https://www.gemeinde-schipkau.de/veranstaltungen/2915897/2026/11/27/l
- ichterfest.html
-LOCATION:Seniorenclub Schipkau
-END:VEVENT
-BEGIN:VEVENT
 UID:schipkau-event-2853089@amtsfeed.de
 DTSTAMP:20260531T184203Z
 DTSTART;VALUE=DATE:20261128
@@ -766,6 +756,18 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2983271/2026/12/03/b
 DESCRIPTION:Bürgernähe ist mir wichtig – deshalb möchte ich in allen
   unseren Ortsteilen persönlich vor ...
 LOCATION:Ortsfeuerwehr Hörlitz
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-2915897@amtsfeed.de
+DTSTAMP:20261021T084705Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Lichterfest
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2915897/2026/12/05/l
+ ichterfest.html
+DESCRIPTION:Der Kulturverein Schipkau e.V. lädt Sie und Euch herzlich zu
+  unserem diesjährigen Lichterfest ...
+LOCATION:Seniorenclub Schipkau
 END:VEVENT
 BEGIN:VEVENT
 UID:schipkau-event-2822336@amtsfeed.de

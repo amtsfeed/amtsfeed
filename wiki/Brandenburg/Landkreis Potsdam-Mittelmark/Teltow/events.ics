@@ -1457,15 +1457,6 @@ URL:https://www.teltow.de/veranstaltungen/2972023/2026/10/19/spielegruppe
  .html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930015@amtsfeed.de
-DTSTAMP:20261014T085528Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen
-URL:https://www.teltow.de/veranstaltungen/2930015/2026/10/20/offener-lern
- raum-lesen-schreiben-rechnen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2972025@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261020
@@ -1656,6 +1647,15 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Spielegruppe
 URL:https://www.teltow.de/veranstaltungen/2972129/2026/11/02/spielegruppe
  .html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930015@amtsfeed.de
+DTSTAMP:20261021T084931Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen
+URL:https://www.teltow.de/veranstaltungen/2930015/2026/11/03/offener-lern
+ raum-lesen-schreiben-rechnen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972205@amtsfeed.de
@@ -1930,6 +1930,16 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:Spinn-Workshop im Heimatmuseum
 URL:https://www.teltow.de/veranstaltungen/2972980/2026/11/21/spinn-worksh
  op-im-heimatmuseum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2988861@amtsfeed.de
+DTSTAMP:20261021T084931Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Teltow und seine NS-Vergangenheit: Gespräch zum Buch "Bereitwill
+ ig mitgemacht?"
+URL:https://www.teltow.de/veranstaltungen/2988861/2026/11/21/teltow-und-s
+ eine-ns-vergangenheit-gespräch-zum-buch-bereitwillig-mitgemacht.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972983@amtsfeed.de
@@ -2388,6 +2398,15 @@ DTEND;VALUE=DATE:20270209
 SUMMARY:Die Goldenen 20er
 URL:https://www.teltow.de/veranstaltungen/2976320/2027/02/08/die-goldenen
  -20er.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2988990@amtsfeed.de
+DTSTAMP:20261021T084931Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Schmutzige Lieder
+URL:https://www.teltow.de/veranstaltungen/2988990/2027/02/26/schmutzige-l
+ ieder.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2984525@amtsfeed.de

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:57:05.703Z",
+  "updatedAt": "2026-10-21T08:49:00.195Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -1056,6 +1056,30 @@
       "startDate": "2026-11-11T20:00:00.000Z",
       "fetchedAt": "2026-10-17T07:57:05.701Z",
       "updatedAt": "2026-10-17T07:57:05.701Z"
+    },
+    {
+      "id": "kleinmachnow-event-2425",
+      "title": "Digitale Sprechstunde",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Digitale-Sprechstunde.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2425.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-12T10:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:49:00.194Z",
+      "updatedAt": "2026-10-21T08:49:00.194Z"
+    },
+    {
+      "id": "kleinmachnow-event-2244",
+      "title": "Offenes Caf&eacute;",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Offenes-Caf%C3%A9.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2244.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-12T15:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:49:00.194Z",
+      "updatedAt": "2026-10-21T08:49:00.194Z"
+    },
+    {
+      "id": "kleinmachnow-event-2469",
+      "title": "Schulung zur Nachbarschaftshilfe",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Schulung-zur-Nachbarschaftshilfe.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2469.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-13T09:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:49:00.194Z",
+      "updatedAt": "2026-10-21T08:49:00.194Z"
     }
   ]
 }

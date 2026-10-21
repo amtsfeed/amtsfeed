@@ -4389,6 +4389,17 @@ URL:https://www.wandlitz.de/veranstaltungen/2827004/2026/11/29/wiener-kla
  ssiker.html
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2988751-2026-11-29-weihnachtsmarkt-marienwerder.html@
+ amtsfeed.de
+DTSTAMP:20261021T083745Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Weihnachtsmarkt Marienwerder
+URL:https://www.wandlitz.de/veranstaltungen/2988751/2026/11/29/weihnachts
+ markt-marienwerder.html
+LOCATION:Original Wandlitzer Musikanten e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2958534-2026-11-30-öffentliches-vorlesen-für-kinder
  .html@amtsfeed.de
 DTSTAMP:20260911T110628Z
@@ -4398,6 +4409,17 @@ SUMMARY:Öffentliches Vorlesen für Kinder
 URL:https://www.wandlitz.de/veranstaltungen/2958534/2026/11/30/öffentlic
  hes-vorlesen-für-kinder.html
 LOCATION:Bibliothek Wandlitz- Zweigstelle Schönwalde -
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2988752-2026-11-30-weihnachten-hier-und-anderswo.html
+ @amtsfeed.de
+DTSTAMP:20261021T083745Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Weihnachten hier und anderswo
+URL:https://www.wandlitz.de/veranstaltungen/2988752/2026/11/30/weihnachte
+ n-hier-und-anderswo.html
+LOCATION:Original Wandlitzer Musikanten e.V.
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2667597-2026-12-01-atempause-für-sorgende-pflegende-
@@ -4726,6 +4748,17 @@ URL:https://www.wandlitz.de/veranstaltungen/2969763/2026/12/12/taw-krimik
  omödie-arsen-und-spitzenhäubchen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2988754-2026-12-12-lichterzauber-wandlitz.html@amtsfe
+ ed.de
+DTSTAMP:20261021T083745Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Lichterzauber Wandlitz
+URL:https://www.wandlitz.de/veranstaltungen/2988754/2026/12/12/lichterzau
+ ber-wandlitz.html
+LOCATION:Original Wandlitzer Musikanten e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2960020-2026-12-13-escape-game-mission-klimaschutz--d
  ie-zeit-läuft.html@amtsfeed.de
 DTSTAMP:20260911T110628Z
@@ -4746,6 +4779,17 @@ SUMMARY:Öffentliches Vorlesen für Kinder
 URL:https://www.wandlitz.de/veranstaltungen/2958534/2026/12/14/öffentlic
  hes-vorlesen-für-kinder.html
 LOCATION:Bibliothek Wandlitz- Zweigstelle Schönwalde -
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2988755-2026-12-14-lebendiger-adventskalender.html@am
+ tsfeed.de
+DTSTAMP:20261021T083745Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Lebendiger Adventskalender
+URL:https://www.wandlitz.de/veranstaltungen/2988755/2026/12/14/lebendiger
+ -adventskalender.html
+LOCATION:Original Wandlitzer Musikanten e.V.
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2850406-2026-12-15-vorstandssitzung.html@amtsfeed.de
@@ -5779,6 +5823,18 @@ DTEND;VALUE=DATE:20271015
 SUMMARY:Krabbelgruppe 'Unterm Regenbogen' der ev. Kirchengemeinde Niederb
  arnim
 URL:https://www.wandlitz.de/veranstaltungen/2758751/2027/10/14/krabbelgru
+ ppe-unterm-regenbogen-der-ev.-kirchengemeinde-niederbarnim.html
+LOCATION:Dorfkirche Klosterfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2758751-2027-10-21-krabbelgruppe-unterm-regenbogen-de
+ r-ev.-kirchengemeinde-niederbarnim.html@amtsfeed.de
+DTSTAMP:20261021T083745Z
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+SUMMARY:Krabbelgruppe 'Unterm Regenbogen' der ev. Kirchengemeinde Niederb
+ arnim
+URL:https://www.wandlitz.de/veranstaltungen/2758751/2027/10/21/krabbelgru
  ppe-unterm-regenbogen-der-ev.-kirchengemeinde-niederbarnim.html
 LOCATION:Dorfkirche Klosterfelde
 END:VEVENT

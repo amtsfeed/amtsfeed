@@ -951,6 +951,24 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2972017/2026/10/31/ha
  lloween-im-jc-hirschfeld.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2988840@amtsfeed.de
+DTSTAMP:20261021T084038Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Wiedereröffnung Heidebergturm
+URL:https://www.amt-schradenland.de/veranstaltungen/2988840/2026/10/31/wi
+ edereröffnung-heidebergturm.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2829977@amtsfeed.de
+DTSTAMP:20261021T084038Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Laternebasteln Großthiemig
+URL:https://www.amt-schradenland.de/veranstaltungen/2829977/2026/11/02/la
+ ternebasteln-großthiemig.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2897510@amtsfeed.de
 DTSTAMP:20260508T183740Z
 DTSTART;VALUE=DATE:20261103
@@ -960,13 +978,13 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2897510/2026/11/03/ba
  bytreff-kita-hirschfeld.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2829977@amtsfeed.de
-DTSTAMP:20260508T183740Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Laternebasteln Großthiemig
-URL:https://www.amt-schradenland.de/veranstaltungen/2829977/2026/11/04/la
- ternebasteln-großthiemig.html
+UID:2988890@amtsfeed.de
+DTSTAMP:20261021T084038Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Laternebasteln für Martinstag in Hirschfeld
+URL:https://www.amt-schradenland.de/veranstaltungen/2988890/2026/11/05/la
+ ternebasteln-für-martinstag-in-hirschfeld.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829981@amtsfeed.de
@@ -976,6 +994,15 @@ DTEND;VALUE=DATE:20261110
 SUMMARY:Verkehrsteilnehmerschulung Gröden
 URL:https://www.amt-schradenland.de/veranstaltungen/2829981/2026/11/09/ve
  rkehrsteilnehmerschulung-gröden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2988953@amtsfeed.de
+DTSTAMP:20261021T084038Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Martinsumzug in Hirschfeld
+URL:https://www.amt-schradenland.de/veranstaltungen/2988953/2026/11/10/ma
+ rtinsumzug-in-hirschfeld.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829980@amtsfeed.de
@@ -994,6 +1021,15 @@ DTEND;VALUE=DATE:20261112
 SUMMARY:Martinstag
 URL:https://www.amt-schradenland.de/veranstaltungen/2953410/2026/11/11/ma
  rtinstag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2988955@amtsfeed.de
+DTSTAMP:20261021T084038Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Martinsumzug in Gröden
+URL:https://www.amt-schradenland.de/veranstaltungen/2988955/2026/11/13/ma
+ rtinsumzug-in-gröden.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2953412@amtsfeed.de
@@ -1066,6 +1102,15 @@ DTEND;VALUE=DATE:20261125
 SUMMARY:Weihnachtliche und Wintergerichte
 URL:https://www.amt-schradenland.de/veranstaltungen/2835515/2026/11/24/we
  ihnachtliche-und-wintergerichte.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2988946@amtsfeed.de
+DTSTAMP:20261021T084038Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Wasser- und Bodenanalysen
+URL:https://www.amt-schradenland.de/veranstaltungen/2988946/2026/11/25/wa
+ sser-und-bodenanalysen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829702@amtsfeed.de

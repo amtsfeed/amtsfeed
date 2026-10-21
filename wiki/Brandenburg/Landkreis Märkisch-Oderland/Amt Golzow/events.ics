@@ -746,6 +746,20 @@ DESCRIPTION:Am Sonntag\, den 18. Oktober 2026\, spielt die The Old Fashio
 LOCATION:Kirche Manschnow
 END:VEVENT
 BEGIN:VEVENT
+UID:2988841@amtsfeed.de
+DTSTAMP:20261021T084435Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Absage Weihnachtsmarkt
+URL:https://www.amt-golzow.de/veranstaltungen/2988841/2026/10/21/absage-w
+ eihnachtsmarkt.html
+DESCRIPTION:Liebe Freundinnen und Freunde\, liebe Nachbarn und Gäste\, d
+ ie Adventszeit steht vor der Tür\, doch leider müssen wir Ihnen und Euc
+ h heute eine traurige Nachricht überbringen: Der traditionelle Weihnacht
+ smarkt im Fort Gorgast fällt in diesem Jahr ... [mehr]
+LOCATION:Fort Gorgast e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:2977628@amtsfeed.de
 DTSTAMP:20261002T095410Z
 DTSTART:20261022T173000Z

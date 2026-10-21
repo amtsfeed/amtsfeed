@@ -337,15 +337,6 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2812223/2026/10/31
  /röderlandschau.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2812200@amtsfeed.de
-DTSTAMP:20260508T183812Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Lampionumzug
-URL:https://www.gemeinde-roederland.de/veranstaltungen/2812200/2026/11/06
- /lampionumzug.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2971675@amtsfeed.de
 DTSTAMP:20260922T083648Z
 DTSTART:20261107T100000Z
@@ -360,6 +351,15 @@ DTSTART:20261110T153000Z
 SUMMARY:Lesecaf&eacute\;
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2811934/2026/11/10
  /lesecafé.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2812200@amtsfeed.de
+DTSTAMP:20261021T084051Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Lampionumzug
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2812200/2026/11/11
+ /lampionumzug.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2812190@amtsfeed.de
@@ -668,5 +668,13 @@ DTSTART:20271019T153000Z
 SUMMARY:Kreativer Nachmittag
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2968089/2027/10/19
  /kreativer-nachmittag.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2968098@amtsfeed.de
+DTSTAMP:20261021T084051Z
+DTSTART:20271021T153000Z
+SUMMARY:Spielenachmittag
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2968098/2027/10/21
+ /spielenachmittag.html
 END:VEVENT
 END:VCALENDAR

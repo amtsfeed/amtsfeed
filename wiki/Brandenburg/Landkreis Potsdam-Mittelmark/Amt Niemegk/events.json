@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T08:42:36.865Z",
+  "updatedAt": "2026-10-21T08:48:43.505Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -460,13 +460,13 @@
     },
     {
       "id": "amt-niemegk-event-2026-10-21-2026-10-21",
-      "title": "Entdeckungsraum mit Anita",
-      "url": "https://amt-niemegk.de/events/entdeckungsraum-mit-anita-606/?occurrence=2026-10-21&#038;time=1792575000",
-      "startDate": "2026-10-21T09:30:00.000Z",
-      "endDate": "2026-10-21T11:00:00.000Z",
-      "location": "Familienzentrum Niemegk",
+      "title": "„Fair-Teilen“ – Kleiderkammer",
+      "url": "https://amt-niemegk.de/events/fair-teilen-kleiderkammer/?occurrence=2026-10-21",
+      "startDate": "2026-10-21T15:00:00.000Z",
+      "endDate": "2026-10-21T18:00:00.000Z",
+      "location": "Belziger Str. 4, 14823 Niemegk",
       "fetchedAt": "2026-10-15T08:28:56.283Z",
-      "updatedAt": "2026-10-15T08:29:10.404Z"
+      "updatedAt": "2026-10-21T08:48:43.498Z"
     },
     {
       "id": "amt-niemegk-event-2026-10-22-2026-10-22",
@@ -507,6 +507,16 @@
       "location": "Burg Rabenstein in Raben",
       "fetchedAt": "2026-10-19T09:04:58.461Z",
       "updatedAt": "2026-10-19T09:05:11.833Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-10-26-2026-10-26",
+      "title": "Bibliothek mit Heidi, Mandy und Inga",
+      "url": "https://amt-niemegk.de/events/bibliothek-mit-heidi-und-mandy-539-585-258-411-969-294-833-496-666-910-861-827-728/?occurrence=2026-10-26&#038;time=1793025000",
+      "startDate": "2026-10-26T14:30:00.000Z",
+      "endDate": "2026-10-26T17:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-10-21T08:48:29.270Z",
+      "updatedAt": "2026-10-21T08:48:43.498Z"
     }
   ]
 }

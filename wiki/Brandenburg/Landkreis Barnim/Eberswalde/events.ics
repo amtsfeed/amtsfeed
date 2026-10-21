@@ -1320,4 +1320,12 @@ DTSTART:20261024T140000Z
 SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-37
 END:VEVENT
+BEGIN:VEVENT
+UID:konzert-bastian-bandt-joerg-nassler-2@amtsfeed.de
+DTSTAMP:20261021T083738Z
+DTSTART:20261024T193000Z
+SUMMARY:KONZERT BASTIAN BANDT & JÖRG NASSLER
+URL:https://www.eberswalde.de/termine/konzert-bastian-bandt-joerg-nassler
+ -2
+END:VEVENT
 END:VCALENDAR

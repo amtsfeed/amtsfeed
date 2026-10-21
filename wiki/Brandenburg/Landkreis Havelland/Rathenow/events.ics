@@ -1635,6 +1635,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Launepark Rathenow Puschkinstraße 88
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1793-20261101@amtsfeed.de
+DTSTAMP:20261021T084203Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:EUROPA-MATINÈE: Im Himmel\, Unter der Erde
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/europa-matinee-im-himmel-unter-
+ der-erde/
+LOCATION:Haveltorkino Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1791-20261102@amtsfeed.de
 DTSTAMP:20261020T083749Z
 DTSTART;VALUE=DATE:20261102

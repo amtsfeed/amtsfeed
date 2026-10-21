@@ -5797,6 +5797,17 @@ URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2912922/2026/10/21
 LOCATION:Keramikwerkstatt Fürstenwalde
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2988898-2026-10-21-trebuser-geschichten.html@amtsfeed
+ .de
+DTSTAMP:20261021T084800Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Trebuser Geschichten
+URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2988898/2026/10/21
+ /trebuser-geschichten.html
+LOCATION:Dorfkirche Trebus
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2869327-2026-10-22-offener-donnerstag-im-parkclub.htm
  l@amtsfeed.de
 DTSTAMP:20260506T202028Z
@@ -6266,6 +6277,17 @@ SUMMARY:Offene Keramikwerkstatt am Samstag
 URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2912942/2026/10/31
  /offene-keramikwerkstatt-am-samstag.html
 LOCATION:Keramikwerkstatt Fürstenwalde
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2988906-2026-10-31-halloweenfest-trebus.html@amtsfeed
+ .de
+DTSTAMP:20261021T084800Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloweenfest Trebus
+URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2988906/2026/10/31
+ /halloweenfest-trebus.html
+LOCATION:Spielplatz Trebus\, Parkstraße
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2528403-2026-11-02-auf-ein-wort.html@amtsfeed.de
@@ -13651,6 +13673,38 @@ DTEND;VALUE=DATE:20271019
 SUMMARY:Auf ein Wort
 URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2528403/2027/10/18
  /auf-ein-wort.html
+LOCATION:Trebuser Str. 60
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2869327-2027-10-21-offener-donnerstag-im-parkclub.htm
+ l@amtsfeed.de
+DTSTAMP:20261021T084800Z
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+SUMMARY:Offener Donnerstag im Parkclub
+URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2869327/2027/10/21
+ /offener-donnerstag-im-parkclub.html
+LOCATION:Parkclub Fürstenwalde
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2780791-2027-10-21-offene-keramikwerkstatt-für-kinde
+ r-am-donnerstag.html@amtsfeed.de
+DTSTAMP:20261021T084800Z
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+SUMMARY:Offene Keramikwerkstatt für Kinder am Donnerstag
+URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2780791/2027/10/21
+ /offene-keramikwerkstatt-für-kinder-am-donnerstag.html
+LOCATION:Keramikwerkstatt Fürstenwalde\, Julius-Pintsch-Ring 13
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2356083-2027-10-21-kreativ-cafe.html@amtsfeed.de
+DTSTAMP:20261021T084800Z
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+SUMMARY:Kreativ-Cafe
+URL:https://www.fuerstenwalde-spree.de/veranstaltungen/2356083/2027/10/21
+ /kreativ-cafe.html
 LOCATION:Trebuser Str. 60
 END:VEVENT
 END:VCALENDAR

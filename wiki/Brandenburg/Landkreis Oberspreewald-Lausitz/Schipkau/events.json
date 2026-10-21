@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T08:41:25.234Z",
+  "updatedAt": "2026-10-21T08:47:05.842Z",
   "items": [
     {
       "id": "schipkau-event-2905379",
@@ -607,15 +607,6 @@
       "updatedAt": "2026-10-17T07:55:43.811Z"
     },
     {
-      "id": "schipkau-event-2915897",
-      "title": "Lichterfest",
-      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2915897/2026/11/27/lichterfest.html",
-      "startDate": "2026-11-27T00:00:00.000Z",
-      "location": "Seniorenclub Schipkau",
-      "fetchedAt": "2026-09-11T09:58:50.306Z",
-      "updatedAt": "2026-09-11T11:12:36.607Z"
-    },
-    {
       "id": "schipkau-event-2853089",
       "title": "Weihnachtsmarkt",
       "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2853089/2026/11/28/weihnachtsmarkt.html",
@@ -653,6 +644,16 @@
       "description": "Bürgernähe ist mir wichtig – deshalb möchte ich in allen unseren Ortsteilen persönlich vor ...",
       "fetchedAt": "2026-10-12T11:06:50.064Z",
       "updatedAt": "2026-10-12T11:06:50.064Z"
+    },
+    {
+      "id": "schipkau-event-2915897",
+      "title": "Lichterfest",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2915897/2026/12/05/lichterfest.html",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "location": "Seniorenclub Schipkau",
+      "description": "Der Kulturverein Schipkau e.V. lädt Sie und Euch herzlich zu unserem diesjährigen Lichterfest ...",
+      "fetchedAt": "2026-09-11T09:58:50.306Z",
+      "updatedAt": "2026-10-21T08:47:05.830Z"
     },
     {
       "id": "schipkau-event-2822336",

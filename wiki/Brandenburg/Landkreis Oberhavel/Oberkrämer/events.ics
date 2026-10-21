@@ -668,15 +668,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855873/2026/10/19/rommé-
  in-bötzow.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855686@amtsfeed.de
-DTSTAMP:20261014T085230Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Seniorentanzgruppe "Spätlese"
-URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/20/seniore
- ntanzgruppe-spätlese.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855874@amtsfeed.de
 DTSTAMP:20261013T104524Z
 DTSTART;VALUE=DATE:20261020
@@ -749,6 +740,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/10/26/die-mon
  tagshelden-gymnastik-bewegung.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2855686@amtsfeed.de
+DTSTAMP:20261021T084625Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Seniorentanzgruppe "Spätlese"
+URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/27/seniore
+ ntanzgruppe-spätlese.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855781@amtsfeed.de
 DTSTAMP:20260923T084524Z
 DTSTART;VALUE=DATE:20261027
@@ -797,12 +797,12 @@ URL:https://www.oberkraemer.de/veranstaltungen/2957576/2026/10/29/seniore
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2957581@amtsfeed.de
-DTSTAMP:20260911T111217Z
+DTSTAMP:20261021T084625Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Krimi-Dinner
+SUMMARY:Krimi-Dinner ++ AUSVERKAUFT
 URL:https://www.oberkraemer.de/veranstaltungen/2957581/2026/10/30/krimi-d
- inner.html
+ inner--ausverkauft.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855600@amtsfeed.de
@@ -815,12 +815,12 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855600/2026/10/31/hallowe
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2957585@amtsfeed.de
-DTSTAMP:20260911T111217Z
+DTSTAMP:20261021T084625Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:Krimi-Dinner
+SUMMARY:Krimi-Dinner ++ AUSVERKAUFT
 URL:https://www.oberkraemer.de/veranstaltungen/2957585/2026/10/31/krimi-d
- inner.html
+ inner--ausverkauft.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2825871@amtsfeed.de
@@ -1039,6 +1039,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2981066/2026/11/11/sankt-m
  artin-umzug-in-marwitz.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2988859@amtsfeed.de
+DTSTAMP:20261021T084625Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Martinsgansessen
+URL:https://www.oberkraemer.de/veranstaltungen/2988859/2026/11/11/martins
+ gansessen.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2962222@amtsfeed.de
 DTSTAMP:20260912T080536Z
 DTSTART;VALUE=DATE:20261112
@@ -1247,6 +1256,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855886/2026/11/25/kirchen
  -café.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2988863@amtsfeed.de
+DTSTAMP:20261021T084625Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Weihnachtsschmaus
+URL:https://www.oberkraemer.de/veranstaltungen/2988863/2026/11/27/weihnac
+ htsschmaus.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855637@amtsfeed.de
 DTSTAMP:20260922T084022Z
 DTSTART;VALUE=DATE:20261128
@@ -1346,6 +1364,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2909883/2026/12/03/tafelru
  nde.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2988865@amtsfeed.de
+DTSTAMP:20261021T084625Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Weihnachtsschmaus
+URL:https://www.oberkraemer.de/veranstaltungen/2988865/2026/12/03/weihnac
+ htsschmaus.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2961772@amtsfeed.de
 DTSTAMP:20260922T084022Z
 DTSTART;VALUE=DATE:20261204
@@ -1398,6 +1425,15 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Sofia Talvik - Weihnachtskonzert
 URL:https://www.oberkraemer.de/veranstaltungen/2855653/2026/12/05/sofia-t
  alvik-weihnachtskonzert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2988866@amtsfeed.de
+DTSTAMP:20261021T084625Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Adventsbrunch
+URL:https://www.oberkraemer.de/veranstaltungen/2988866/2026/12/06/advents
+ brunch.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855893@amtsfeed.de
@@ -1537,6 +1573,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855669/2026/12/17/advents
  fest.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2988867@amtsfeed.de
+DTSTAMP:20261021T084625Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Adventsbrunch
+URL:https://www.oberkraemer.de/veranstaltungen/2988867/2026/12/20/advents
+ brunch.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2962226@amtsfeed.de
 DTSTAMP:20260922T084022Z
 DTSTART;VALUE=DATE:20261221
@@ -1589,6 +1634,15 @@ DTEND;VALUE=DATE:20270101
 SUMMARY:Gottesdienst
 URL:https://www.oberkraemer.de/veranstaltungen/2825881/2026/12/31/gottesd
  ienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2988870@amtsfeed.de
+DTSTAMP:20261021T084625Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Silvester im Forsthaus
+URL:https://www.oberkraemer.de/veranstaltungen/2988870/2026/12/31/silvest
+ er-im-forsthaus.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962229@amtsfeed.de

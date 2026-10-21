@@ -5930,24 +5930,6 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Schützenhaus
 END:VEVENT
 BEGIN:VEVENT
-UID:werder-havel-event-99167758@amtsfeed.de
-DTSTAMP:20261020T084330Z
-DTSTART:20261020T084330Z
-SUMMARY:Rundfahrt nach Potsdam
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167758
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99167937@amtsfeed.de
-DTSTAMP:20261020T084330Z
-DTSTART:20261020T084330Z
-SUMMARY:Kleine Seenrundfahrt
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167937
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
 UID:werder-havel-event-99116255@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261020T183000Z
@@ -5958,9 +5940,27 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Schützenhaus
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99167758@amtsfeed.de
+DTSTAMP:20261021T084937Z
+DTSTART:20261021T084937Z
+SUMMARY:Rundfahrt nach Potsdam
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167758
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99167937@amtsfeed.de
+DTSTAMP:20261021T084937Z
+DTSTART:20261021T084937Z
+SUMMARY:Kleine Seenrundfahrt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167937
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167759@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261022T103000Z
+DTSTAMP:20261021T084937Z
+DTSTART:20261021T084937Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167759
@@ -5968,8 +5968,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99217243@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261022T130000Z
+DTSTAMP:20261021T084937Z
+DTSTART:20261021T084937Z
 SUMMARY:formalästhetisch - Christoph Mertens | Max Stiller
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99217243
@@ -5977,8 +5977,8 @@ LOCATION:Stadtgalerie KUNST-GESCHOSS
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167938@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261022T140000Z
+DTSTAMP:20261021T084937Z
+DTSTART:20261021T084937Z
 SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167938
@@ -5986,8 +5986,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99193358@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261022T170000Z
+DTSTAMP:20261021T084937Z
+DTSTART:20261021T084937Z
 SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99193358
@@ -5995,8 +5995,8 @@ LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99229390@amtsfeed.de
-DTSTAMP:20261014T085534Z
-DTSTART:20261022T193000Z
+DTSTAMP:20261021T084937Z
+DTSTART:20261021T084937Z
 SUMMARY:Film & Gespräch "Good Enough Parents - Geschwisterstreit"
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99229390
@@ -6432,6 +6432,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Cafe des Edeka Marktes
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99231567@amtsfeed.de
+DTSTAMP:20261021T084937Z
+DTSTART:20261105T180000Z
+SUMMARY:Luz y Música - Violinenmusik mit Silva von Büllov
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99231567
+LOCATION:Havel-Therme
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99227718@amtsfeed.de
 DTSTAMP:20261003T092112Z
 DTSTART:20261105T190000Z
@@ -6577,6 +6586,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Kirche Töplitz
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99231563@amtsfeed.de
+DTSTAMP:20261021T084937Z
+DTSTART:20261113T173000Z
+SUMMARY:"Orientalische Nacht" mit Klangschalen-Zeremonie
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99231563
+LOCATION:Havel-Therme
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99212072@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261114T100000Z
@@ -6630,6 +6648,15 @@ SUMMARY:Schloss des Grauens - ein Gruselspaß
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99228343
 LOCATION:Theater Comedie Soleil
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99231568@amtsfeed.de
+DTSTAMP:20261021T084937Z
+DTSTART:20261119T180000Z
+SUMMARY:"Beats unter Palmen" | DJ-Night mit Karl Knartz
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99231568
+LOCATION:Havel-Therme
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99128755@amtsfeed.de
@@ -6982,6 +7009,15 @@ SUMMARY:Silvesterkonzert Petzow - QUARTETTO TONALE
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99224076
 LOCATION:Die Schinkelkirche Petzow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99231573@amtsfeed.de
+DTSTAMP:20261021T084937Z
+DTSTART:20261231T190000Z
+SUMMARY:Silvester-Wellness
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99231573
+LOCATION:Havel-Therme
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99125705@amtsfeed.de

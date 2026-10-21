@@ -1298,15 +1298,6 @@ URL:https://www.michendorf.de/veranstaltungen/2968666/2026/10/19/kinderfe
  rientage-ein-angebot-der-ev.-kirche.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959538@amtsfeed.de
-DTSTAMP:20261014T085502Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959538/2026/10/20/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2897217@amtsfeed.de
 DTSTAMP:20260506T123001Z
 DTSTART;VALUE=DATE:20261020
@@ -1361,15 +1352,6 @@ URL:https://www.michendorf.de/veranstaltungen/2897216/2026/10/23/weniger-
  stress-beim-umgang-mit-schwierigen-menschen.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2958924@amtsfeed.de
-DTSTAMP:20260911T111336Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Spieletreff
-URL:https://www.michendorf.de/veranstaltungen/2958924/2026/10/23/spieletr
- eff.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2983819@amtsfeed.de
 DTSTAMP:20261013T104716Z
 DTSTART;VALUE=DATE:20261024
@@ -1377,6 +1359,15 @@ DTEND;VALUE=DATE:20261025
 SUMMARY:Feuer und Flamme für unsere Museen
 URL:https://www.michendorf.de/veranstaltungen/2983819/2026/10/24/feuer-un
  d-flamme-für-unsere-museen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2987683@amtsfeed.de
+DTSTAMP:20261021T084907Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Pilz-Exkursion
+URL:https://www.michendorf.de/veranstaltungen/2987683/2026/10/24/pilz-exk
+ ursion.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2646897@amtsfeed.de
@@ -1395,6 +1386,15 @@ DTEND;VALUE=DATE:20261027
 SUMMARY:Monster Bastel-Nachmittag im Familienzentrum
 URL:https://www.michendorf.de/veranstaltungen/2985088/2026/10/26/monster-
  bastel-nachmittag-im-familienzentrum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959538@amtsfeed.de
+DTSTAMP:20261021T084907Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959538/2026/10/27/jugendcl
+ ub-micheck-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2798286@amtsfeed.de
@@ -1416,12 +1416,12 @@ URL:https://www.michendorf.de/veranstaltungen/2978425/2026/10/27/infonach
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2966246@amtsfeed.de
-DTSTAMP:20260914T090929Z
+DTSTAMP:20261021T084907Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Ferien-Aktion: Näh-Workshop
-URL:https://www.michendorf.de/veranstaltungen/2966246/2026/10/28/ferien-a
- ktion-näh-workshop.html
+SUMMARY:Ausgebucht - Ferien-Aktion: Näh-Workshop
+URL:https://www.michendorf.de/veranstaltungen/2966246/2026/10/28/ausgebuc
+ ht-ferien-aktion-näh-workshop.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2958374@amtsfeed.de
@@ -1449,6 +1449,15 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Monster Bastel-Nachmittag im Familienzentrum
 URL:https://www.michendorf.de/veranstaltungen/2985091/2026/10/29/monster-
  bastel-nachmittag-im-familienzentrum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2958924@amtsfeed.de
+DTSTAMP:20261021T084907Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Spieletreff
+URL:https://www.michendorf.de/veranstaltungen/2958924/2026/10/30/spieletr
+ eff.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2937569@amtsfeed.de
@@ -1505,6 +1514,15 @@ URL:https://www.michendorf.de/veranstaltungen/2958377/2026/11/05/im-gespr
  äch-in-wilhelmshorst.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2987618@amtsfeed.de
+DTSTAMP:20261021T084907Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Rückbildungskurs im Familienzentrum
+URL:https://www.michendorf.de/veranstaltungen/2987618/2026/11/05/rückbil
+ dungskurs-im-familienzentrum.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2966244@amtsfeed.de
 DTSTAMP:20260914T090929Z
 DTSTART;VALUE=DATE:20261106
@@ -1521,6 +1539,15 @@ DTEND;VALUE=DATE:20261107
 SUMMARY:Kaffeeklatsch Perspektiventreff mit Omas Kaltem Hund
 URL:https://www.michendorf.de/veranstaltungen/2987215/2026/11/06/kaffeekl
  atsch-perspektiventreff-mit-omas-kaltem-hund.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2987678@amtsfeed.de
+DTSTAMP:20261021T084907Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Groove-Werkstatt INTENSIV - Trommel-Workshop
+URL:https://www.michendorf.de/veranstaltungen/2987678/2026/11/08/groove-w
+ erkstatt-intensiv-trommel-workshop.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2660025@amtsfeed.de
@@ -1596,6 +1623,16 @@ URL:https://www.michendorf.de/veranstaltungen/2978100/2026/11/15/wer-scha
  ffen-will-muss-fröhlich-sein.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2987686@amtsfeed.de
+DTSTAMP:20261021T084907Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:6. Erzählsalon: Retten\, Löschen\, Bergen\, Schützen - Feuerwe
+ hr gestern und heute
+URL:https://www.michendorf.de/veranstaltungen/2987686/2026/11/18/6.-erzä
+ hlsalon-retten-löschen-bergen-schützen-feuerwehr-gestern-und-heute.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2884834@amtsfeed.de
 DTSTAMP:20260506T123001Z
 DTSTART;VALUE=DATE:20261119
@@ -1603,6 +1640,15 @@ DTEND;VALUE=DATE:20261120
 SUMMARY:offener Bürgerdialog
 URL:https://www.michendorf.de/veranstaltungen/2884834/2026/11/19/offener-
  bürgerdialog.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2987684@amtsfeed.de
+DTSTAMP:20261021T084907Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Wohnzimmer-Gespräche: Igelrettung
+URL:https://www.michendorf.de/veranstaltungen/2987684/2026/11/23/wohnzimm
+ er-gespräche-igelrettung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2976342@amtsfeed.de
@@ -1677,6 +1723,15 @@ URL:https://www.michendorf.de/veranstaltungen/2796861/2026/12/01/babybegr
  üßung-durch-die-bürgermeisterin.html
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2987681@amtsfeed.de
+DTSTAMP:20261021T084907Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Trommel-Workshop "Groove Werkstatt"
+URL:https://www.michendorf.de/veranstaltungen/2987681/2026/12/04/trommel-
+ workshop-groove-werkstatt.html
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2785927@amtsfeed.de
 DTSTAMP:20260506T123001Z
 DTSTART;VALUE=DATE:20261206
@@ -1720,6 +1775,15 @@ DTEND;VALUE=DATE:20261218
 SUMMARY:Im Gespräch in Michendorf
 URL:https://www.michendorf.de/veranstaltungen/2959134/2026/12/17/im-gespr
  äch-in-michendorf.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2987689@amtsfeed.de
+DTSTAMP:20261021T084907Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:7. Erzählsalon: Barrierefrei leben - barrierefrei denken
+URL:https://www.michendorf.de/veranstaltungen/2987689/2027/03/10/7.-erzä
+ hlsalon-barrierefrei-leben-barrierefrei-denken.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2979856@amtsfeed.de

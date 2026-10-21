@@ -8159,6 +8159,16 @@ URL:https://www.gruenheide-mark.de/veranstaltungen/2902113/2026/11/06/elt
 LOCATION:Kleine Turnhalle auf dem Löcknitzcampus
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2987279-2026-11-06-martinsfeuer-mit-laternenumzug.htm
+ l@amtsfeed.de
+DTSTAMP:20261021T084802Z
+DTSTART:20261106T170000Z
+SUMMARY:Martinsfeuer mit Laternenumzug
+URL:https://www.gruenheide-mark.de/veranstaltungen/2987279/2026/11/06/mar
+ tinsfeuer-mit-laternenumzug.html
+LOCATION:Kagel
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2825190-2026-11-06-pilates-kurs.html@amtsfeed.de
 DTSTAMP:20260526T090436Z
 DTSTART:20261106T180000Z
@@ -9153,6 +9163,17 @@ SUMMARY:Pilates
 URL:https://www.gruenheide-mark.de/veranstaltungen/2855058/2026/12/01/pil
  ates.html
 LOCATION:Eltern-Kind-Zentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2987286-2026-12-02-seniorenweihnachtsfeier-kagel.html
+ @amtsfeed.de
+DTSTAMP:20261021T084802Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Seniorenweihnachtsfeier Kagel
+URL:https://www.gruenheide-mark.de/veranstaltungen/2987286/2026/12/02/sen
+ iorenweihnachtsfeier-kagel.html
+LOCATION:Bürgerhaus Kagel
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2971677-2026-12-02-plaudercafé.html@amtsfeed.de

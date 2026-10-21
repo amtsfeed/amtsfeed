@@ -529,6 +529,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/2861463/2026/10/31/hallowee
  n-auf-der-zickenwiese.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-2987601@amtsfeed.de
+DTSTAMP:20261021T084824Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween auf der Zickenwiese
+URL:https://www.amt-brueck.de/veranstaltungen/2987601/2026/10/31/hallowee
+ n-auf-der-zickenwiese.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2986658@amtsfeed.de
 DTSTAMP:20261020T084221Z
 DTSTART;VALUE=DATE:20261106
@@ -557,13 +566,12 @@ URL:https://www.amt-brueck.de/veranstaltungen/2984305/2026/11/11/laternen
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2986715@amtsfeed.de
-DTSTAMP:20261020T084221Z
+DTSTAMP:20261021T084824Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:„VON SCHAF ZUR SCHUR – VON DER SCHUR ZUM SCHAL UND CO.“ - W
- orkshop
-URL:https://www.amt-brueck.de/veranstaltungen/2986715/2026/11/20/von-scha
- f-zur-schur--von-der-schur-zum-schal-und-co.-workshop.html
+SUMMARY:VOM SCHAF ZUR SCHUR – VON DER SCHUR ZU SCHAL UND CO - Workshop
+URL:https://www.amt-brueck.de/veranstaltungen/2986715/2026/11/20/vom-scha
+ f-zur-schur--von-der-schur-zu-schal-und-co-workshop.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2819563@amtsfeed.de

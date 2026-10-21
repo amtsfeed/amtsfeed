@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T08:41:03.676Z",
+  "updatedAt": "2026-10-21T08:46:25.667Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -586,14 +586,6 @@
       "updatedAt": "2026-09-11T11:12:17.608Z"
     },
     {
-      "id": "oberkraemer-event-2855686",
-      "title": "Seniorentanzgruppe \"Spätlese\"",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/20/seniorentanzgruppe-spätlese.html",
-      "startDate": "2026-10-20T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-10-14T08:52:30.066Z"
-    },
-    {
       "id": "oberkraemer-event-2855874",
       "title": "Frauenfrühstück in Vehlefanz",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855874/2026/10/20/frauenfrühstück-in-vehlefanz.html",
@@ -658,6 +650,14 @@
       "updatedAt": "2026-10-20T08:41:03.687Z"
     },
     {
+      "id": "oberkraemer-event-2855686",
+      "title": "Seniorentanzgruppe \"Spätlese\"",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/27/seniorentanzgruppe-spätlese.html",
+      "startDate": "2026-10-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-10-21T08:46:25.683Z"
+    },
+    {
       "id": "oberkraemer-event-2855781",
       "title": "Skat in Bötzow",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855781/2026/10/27/skat-in-bötzow.html",
@@ -699,11 +699,11 @@
     },
     {
       "id": "oberkraemer-event-2957581",
-      "title": "Krimi-Dinner",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2957581/2026/10/30/krimi-dinner.html",
+      "title": "Krimi-Dinner ++ AUSVERKAUFT",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2957581/2026/10/30/krimi-dinner--ausverkauft.html",
       "startDate": "2026-10-30T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-11T11:12:17.608Z"
+      "updatedAt": "2026-10-21T08:46:25.683Z"
     },
     {
       "id": "oberkraemer-event-2855600",
@@ -715,11 +715,11 @@
     },
     {
       "id": "oberkraemer-event-2957585",
-      "title": "Krimi-Dinner",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2957585/2026/10/31/krimi-dinner.html",
+      "title": "Krimi-Dinner ++ AUSVERKAUFT",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2957585/2026/10/31/krimi-dinner--ausverkauft.html",
       "startDate": "2026-10-31T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-09-11T11:12:17.608Z"
+      "updatedAt": "2026-10-21T08:46:25.683Z"
     },
     {
       "id": "oberkraemer-event-2825871",
@@ -914,6 +914,14 @@
       "updatedAt": "2026-10-08T10:45:16.346Z"
     },
     {
+      "id": "oberkraemer-event-2988859",
+      "title": "Martinsgansessen",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2988859/2026/11/11/martinsgansessen.html",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:46:25.683Z",
+      "updatedAt": "2026-10-21T08:46:25.683Z"
+    },
+    {
       "id": "oberkraemer-event-2962222",
       "title": "Fototermine",
       "url": "https://www.oberkraemer.de/veranstaltungen/2962222/2026/11/12/fototermine.html",
@@ -1098,6 +1106,14 @@
       "updatedAt": "2026-09-22T08:40:22.966Z"
     },
     {
+      "id": "oberkraemer-event-2988863",
+      "title": "Weihnachtsschmaus",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2988863/2026/11/27/weihnachtsschmaus.html",
+      "startDate": "2026-11-27T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:46:25.683Z",
+      "updatedAt": "2026-10-21T08:46:25.683Z"
+    },
+    {
       "id": "oberkraemer-event-2855637",
       "title": "Wir schmücken den Weihnachtsbaum vor der Schmiede",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855637/2026/11/28/wir-schmücken-den-weihnachtsbaum-vor-der-schmiede.html",
@@ -1186,6 +1202,14 @@
       "updatedAt": "2026-09-22T08:40:22.966Z"
     },
     {
+      "id": "oberkraemer-event-2988865",
+      "title": "Weihnachtsschmaus",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2988865/2026/12/03/weihnachtsschmaus.html",
+      "startDate": "2026-12-03T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:46:25.683Z",
+      "updatedAt": "2026-10-21T08:46:25.683Z"
+    },
+    {
       "id": "oberkraemer-event-2961772",
       "title": "Buchlesung mit Stephan Hähnel",
       "url": "https://www.oberkraemer.de/veranstaltungen/2961772/2026/12/04/buchlesung-mit-stephan-hähnel.html",
@@ -1232,6 +1256,14 @@
       "startDate": "2026-12-05T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:22.966Z",
       "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2988866",
+      "title": "Adventsbrunch",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2988866/2026/12/06/adventsbrunch.html",
+      "startDate": "2026-12-06T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:46:25.683Z",
+      "updatedAt": "2026-10-21T08:46:25.683Z"
     },
     {
       "id": "oberkraemer-event-2855893",
@@ -1354,6 +1386,14 @@
       "updatedAt": "2026-09-22T08:40:22.966Z"
     },
     {
+      "id": "oberkraemer-event-2988867",
+      "title": "Adventsbrunch",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2988867/2026/12/20/adventsbrunch.html",
+      "startDate": "2026-12-20T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:46:25.683Z",
+      "updatedAt": "2026-10-21T08:46:25.683Z"
+    },
+    {
       "id": "oberkraemer-event-2962226",
       "title": "Kinotag in der Grundschule Bötzow",
       "url": "https://www.oberkraemer.de/veranstaltungen/2962226/2026/12/21/kinotag-in-der-grundschule-bötzow.html",
@@ -1400,6 +1440,14 @@
       "startDate": "2026-12-31T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:22.966Z",
       "updatedAt": "2026-09-22T08:40:22.966Z"
+    },
+    {
+      "id": "oberkraemer-event-2988870",
+      "title": "Silvester im Forsthaus",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2988870/2026/12/31/silvester-im-forsthaus.html",
+      "startDate": "2026-12-31T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:46:25.683Z",
+      "updatedAt": "2026-10-21T08:46:25.683Z"
     },
     {
       "id": "oberkraemer-event-2962229",

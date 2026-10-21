@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T08:42:53.670Z",
+  "updatedAt": "2026-10-21T08:49:07.616Z",
   "items": [
     {
       "id": "michendorf-event-2884831",
@@ -1138,14 +1138,6 @@
       "updatedAt": "2026-09-17T08:53:46.230Z"
     },
     {
-      "id": "michendorf-event-2959538",
-      "title": "Jugendclub \"MICHECK\" geöffnet",
-      "url": "https://www.michendorf.de/veranstaltungen/2959538/2026/10/20/jugendclub-micheck-geöffnet.html",
-      "startDate": "2026-10-20T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:11.775Z",
-      "updatedAt": "2026-10-14T08:55:02.345Z"
-    },
-    {
       "id": "michendorf-event-2897217",
       "title": "Weniger Stress beim Umgang mit schwierigen Menschen",
       "url": "https://www.michendorf.de/veranstaltungen/2897217/2026/10/20/weniger-stress-beim-umgang-mit-schwierigen-menschen.html",
@@ -1194,20 +1186,20 @@
       "updatedAt": "2026-05-31T13:17:07.230Z"
     },
     {
-      "id": "michendorf-event-2958924",
-      "title": "Spieletreff",
-      "url": "https://www.michendorf.de/veranstaltungen/2958924/2026/10/23/spieletreff.html",
-      "startDate": "2026-10-23T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:11.775Z",
-      "updatedAt": "2026-09-11T11:13:36.054Z"
-    },
-    {
       "id": "michendorf-event-2983819",
       "title": "Feuer und Flamme für unsere Museen",
       "url": "https://www.michendorf.de/veranstaltungen/2983819/2026/10/24/feuer-und-flamme-für-unsere-museen.html",
       "startDate": "2026-10-24T00:00:00.000Z",
       "fetchedAt": "2026-10-13T10:47:16.645Z",
       "updatedAt": "2026-10-13T10:47:16.645Z"
+    },
+    {
+      "id": "michendorf-event-2987683",
+      "title": "Pilz-Exkursion",
+      "url": "https://www.michendorf.de/veranstaltungen/2987683/2026/10/24/pilz-exkursion.html",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:49:07.606Z",
+      "updatedAt": "2026-10-21T08:49:07.606Z"
     },
     {
       "id": "michendorf-event-2646897",
@@ -1224,6 +1216,14 @@
       "startDate": "2026-10-26T00:00:00.000Z",
       "fetchedAt": "2026-10-16T08:22:20.248Z",
       "updatedAt": "2026-10-16T08:22:20.248Z"
+    },
+    {
+      "id": "michendorf-event-2959538",
+      "title": "Jugendclub \"MICHECK\" geöffnet",
+      "url": "https://www.michendorf.de/veranstaltungen/2959538/2026/10/27/jugendclub-micheck-geöffnet.html",
+      "startDate": "2026-10-27T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-10-21T08:49:07.606Z"
     },
     {
       "id": "michendorf-event-2798286",
@@ -1243,11 +1243,11 @@
     },
     {
       "id": "michendorf-event-2966246",
-      "title": "Ferien-Aktion: Näh-Workshop",
-      "url": "https://www.michendorf.de/veranstaltungen/2966246/2026/10/28/ferien-aktion-näh-workshop.html",
+      "title": "Ausgebucht - Ferien-Aktion: Näh-Workshop",
+      "url": "https://www.michendorf.de/veranstaltungen/2966246/2026/10/28/ausgebucht-ferien-aktion-näh-workshop.html",
       "startDate": "2026-10-28T00:00:00.000Z",
       "fetchedAt": "2026-09-14T09:09:29.775Z",
-      "updatedAt": "2026-09-14T09:09:29.775Z"
+      "updatedAt": "2026-10-21T08:49:07.606Z"
     },
     {
       "id": "michendorf-event-2958374",
@@ -1272,6 +1272,14 @@
       "startDate": "2026-10-29T00:00:00.000Z",
       "fetchedAt": "2026-10-16T08:22:20.248Z",
       "updatedAt": "2026-10-16T08:22:20.248Z"
+    },
+    {
+      "id": "michendorf-event-2958924",
+      "title": "Spieletreff",
+      "url": "https://www.michendorf.de/veranstaltungen/2958924/2026/10/30/spieletreff.html",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-10-21T08:49:07.606Z"
     },
     {
       "id": "michendorf-event-2937569",
@@ -1322,6 +1330,14 @@
       "updatedAt": "2026-09-11T11:13:36.054Z"
     },
     {
+      "id": "michendorf-event-2987618",
+      "title": "Rückbildungskurs im Familienzentrum",
+      "url": "https://www.michendorf.de/veranstaltungen/2987618/2026/11/05/rückbildungskurs-im-familienzentrum.html",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:49:07.606Z",
+      "updatedAt": "2026-10-21T08:49:07.606Z"
+    },
+    {
       "id": "michendorf-event-2966244",
       "title": "Trommel-Workshop \"Groove Werkstatt\"",
       "url": "https://www.michendorf.de/veranstaltungen/2966244/2026/11/06/trommel-workshop-groove-werkstatt.html",
@@ -1336,6 +1352,14 @@
       "startDate": "2026-11-06T00:00:00.000Z",
       "fetchedAt": "2026-10-20T08:42:53.662Z",
       "updatedAt": "2026-10-20T08:42:53.662Z"
+    },
+    {
+      "id": "michendorf-event-2987678",
+      "title": "Groove-Werkstatt INTENSIV - Trommel-Workshop",
+      "url": "https://www.michendorf.de/veranstaltungen/2987678/2026/11/08/groove-werkstatt-intensiv-trommel-workshop.html",
+      "startDate": "2026-11-08T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:49:07.606Z",
+      "updatedAt": "2026-10-21T08:49:07.606Z"
     },
     {
       "id": "michendorf-event-2660025",
@@ -1402,12 +1426,28 @@
       "updatedAt": "2026-10-02T09:57:19.718Z"
     },
     {
+      "id": "michendorf-event-2987686",
+      "title": "6. Erzählsalon: Retten, Löschen, Bergen, Schützen - Feuerwehr gestern und heute",
+      "url": "https://www.michendorf.de/veranstaltungen/2987686/2026/11/18/6.-erzählsalon-retten-löschen-bergen-schützen-feuerwehr-gestern-und-heute.html",
+      "startDate": "2026-11-18T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:49:07.606Z",
+      "updatedAt": "2026-10-21T08:49:07.606Z"
+    },
+    {
       "id": "michendorf-event-2884834",
       "title": "offener Bürgerdialog",
       "url": "https://www.michendorf.de/veranstaltungen/2884834/2026/11/19/offener-bürgerdialog.html",
       "startDate": "2026-11-19T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:01.632Z",
       "updatedAt": "2026-05-06T12:30:01.632Z"
+    },
+    {
+      "id": "michendorf-event-2987684",
+      "title": "Wohnzimmer-Gespräche: Igelrettung",
+      "url": "https://www.michendorf.de/veranstaltungen/2987684/2026/11/23/wohnzimmer-gespräche-igelrettung.html",
+      "startDate": "2026-11-23T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:49:07.606Z",
+      "updatedAt": "2026-10-21T08:49:07.606Z"
     },
     {
       "id": "michendorf-event-2976342",
@@ -1474,6 +1514,14 @@
       "updatedAt": "2026-05-06T12:30:01.632Z"
     },
     {
+      "id": "michendorf-event-2987681",
+      "title": "Trommel-Workshop \"Groove Werkstatt\"",
+      "url": "https://www.michendorf.de/veranstaltungen/2987681/2026/12/04/trommel-workshop-groove-werkstatt.html",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:49:07.606Z",
+      "updatedAt": "2026-10-21T08:49:07.606Z"
+    },
+    {
       "id": "michendorf-event-2785927",
       "title": "Nikolauslauf",
       "url": "https://www.michendorf.de/veranstaltungen/2785927/2026/12/06/nikolauslauf.html",
@@ -1512,6 +1560,14 @@
       "startDate": "2026-12-17T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:11.775Z",
       "updatedAt": "2026-09-11T11:13:36.054Z"
+    },
+    {
+      "id": "michendorf-event-2987689",
+      "title": "7. Erzählsalon: Barrierefrei leben - barrierefrei denken",
+      "url": "https://www.michendorf.de/veranstaltungen/2987689/2027/03/10/7.-erzählsalon-barrierefrei-leben-barrierefrei-denken.html",
+      "startDate": "2027-03-10T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T08:49:07.606Z",
+      "updatedAt": "2026-10-21T08:49:07.606Z"
     },
     {
       "id": "michendorf-event-2979856",

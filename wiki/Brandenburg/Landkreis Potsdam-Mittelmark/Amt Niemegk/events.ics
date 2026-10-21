@@ -544,13 +544,13 @@ LOCATION:Familienzentrum Niemegk
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-21-2026-10-21@amtsfeed.de
-DTSTAMP:20261015T082910Z
-DTSTART:20261021T093000Z
-DTEND:20261021T110000Z
-SUMMARY:Entdeckungsraum mit Anita
-URL:https://amt-niemegk.de/events/entdeckungsraum-mit-anita-606/?occurren
- ce=2026-10-21&#038\;time=1792575000
-LOCATION:Familienzentrum Niemegk
+DTSTAMP:20261021T084843Z
+DTSTART:20261021T150000Z
+DTEND:20261021T180000Z
+SUMMARY:„Fair-Teilen“ – Kleiderkammer
+URL:https://amt-niemegk.de/events/fair-teilen-kleiderkammer/?occurrence=2
+ 026-10-21
+LOCATION:Belziger Str. 4\, 14823 Niemegk
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-22-2026-10-22@amtsfeed.de
@@ -599,5 +599,16 @@ URL:https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-4
  7-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-10-25&#038\;ti
  me=1792929600
 LOCATION:Burg Rabenstein in Raben
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-26-2026-10-26@amtsfeed.de
+DTSTAMP:20261021T084843Z
+DTSTART:20261026T143000Z
+DTEND:20261026T170000Z
+SUMMARY:Bibliothek mit Heidi\, Mandy und Inga
+URL:https://amt-niemegk.de/events/bibliothek-mit-heidi-und-mandy-539-585-
+ 258-411-969-294-833-496-666-910-861-827-728/?occurrence=2026-10-26&#038\;
+ time=1793025000
+LOCATION:Familienzentrum Niemegk
 END:VEVENT
 END:VCALENDAR

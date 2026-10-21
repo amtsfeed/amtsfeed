@@ -8164,6 +8164,16 @@ URL:https://www.osl-online.de/veranstaltungen/2953992/2026/11/13/vorrunde
 LOCATION:Senftenberg - Regenbogen
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2987555-20261113@amtsfeed.de
+DTSTAMP:20261021T084720Z
+DTSTART:20261113T140000Z
+DTEND:20261113T150000Z
+SUMMARY:Kinderlesung mir der kleinen Schnecke "Monika Häuschen"
+URL:https://www.osl-online.de/veranstaltungen/2987555/2026/11/13/kinderle
+ sung-mir-der-kleinen-schnecke-monika-häuschen.html
+LOCATION:Stadtbibliothek Grossräschen
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2962718-20261113@amtsfeed.de
 DTSTAMP:20260911T111241Z
 DTSTART:20261113T163000Z
@@ -8560,6 +8570,17 @@ URL:https://www.osl-online.de/veranstaltungen/2124494/2026/11/19/behinder
 LOCATION:Mehrgenerationenhaus
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2987576-20261119@amtsfeed.de
+DTSTAMP:20261021T084720Z
+DTSTART:20261119T133000Z
+DTEND:20261119T143000Z
+SUMMARY:Bundesweiter Vorlesetag mal anders - Musiktheater "Das magische B
+ uch"
+URL:https://www.osl-online.de/veranstaltungen/2987576/2026/11/19/bundeswe
+ iter-vorlesetag-mal-anders-musiktheater-das-magische-buch.html
+LOCATION:Stadtbibliothek Grossräschen
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2984578-20261119@amtsfeed.de
 DTSTAMP:20261015T082727Z
 DTSTART:20261119T150000Z
@@ -8943,6 +8964,16 @@ SUMMARY:Gruppentreffen Selbsthilfegruppe Multiple Sklerose
 URL:https://www.osl-online.de/veranstaltungen/2918359/2026/11/27/gruppent
  reffen-selbsthilfegruppe-multiple-sklerose.html
 LOCATION:REKOSI
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2987671-20261127@amtsfeed.de
+DTSTAMP:20261021T084720Z
+DTSTART:20261127T150000Z
+DTEND:20261127T180000Z
+SUMMARY:Adventslichterfest
+URL:https://www.osl-online.de/veranstaltungen/2987671/2026/11/27/adventsl
+ ichterfest.html
+LOCATION:Sozialer Zusammenhalt / Soziale Stadt
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2915897-20261127@amtsfeed.de
@@ -11084,6 +11115,16 @@ SUMMARY:Wochenendfeier
 URL:https://www.osl-online.de/veranstaltungen/2947771/2027/02/19/wochenen
  dfeier.html
 LOCATION:Jenaplanhaus Lübbenau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2987594-20270219@amtsfeed.de
+DTSTAMP:20261021T084720Z
+DTSTART:20270219T170000Z
+DTEND:20270219T183000Z
+SUMMARY:Reisevortrag mit Darius Braun - "Vom Gegenwind getragen"
+URL:https://www.osl-online.de/veranstaltungen/2987594/2027/02/19/reisevor
+ trag-mit-darius-braun-vom-gegenwind-getragen.html
+LOCATION:Stadtbibliothek Grossräschen
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2124462-20270222@amtsfeed.de
@@ -14626,6 +14667,44 @@ DTEND:20271020T190000Z
 SUMMARY:Gruppentreffen Selbsthilfegruppe Long - Post - Covid Lauchhammer
 URL:https://www.osl-online.de/veranstaltungen/2558944/2027/10/20/gruppent
  reffen-selbsthilfegruppe-long-post-covid-lauchhammer.html
+LOCATION:REKOSI
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2290342-20271021@amtsfeed.de
+DTSTAMP:20261021T084720Z
+DTSTART:20271021T080000Z
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.osl-online.de/veranstaltungen/2290342/2027/10/21/calauer-
+ wochenmarkt.html
+LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2398220-20271021@amtsfeed.de
+DTSTAMP:20261021T084720Z
+DTSTART:20271021T100000Z
+DTEND:20271021T120000Z
+SUMMARY:Außenberatung Senftenberg
+URL:https://www.osl-online.de/veranstaltungen/2398220/2027/10/21/außenbe
+ ratung-senftenberg.html
+LOCATION:Außenberatung Senftenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2124494-20271021@amtsfeed.de
+DTSTAMP:20261021T084720Z
+DTSTART:20271021T100000Z
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.osl-online.de/veranstaltungen/2124494/2027/10/21/behinder
+ ten-und-seniorenberatung.html
+LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2918316-20271021@amtsfeed.de
+DTSTAMP:20261021T084720Z
+DTSTART:20271021T160000Z
+DTEND:20271021T180000Z
+SUMMARY:Gruppentreffen Selbsthilfegruppe Depressionen in Lauchhammer
+URL:https://www.osl-online.de/veranstaltungen/2918316/2027/10/21/gruppent
+ reffen-selbsthilfegruppe-depressionen-in-lauchhammer.html
 LOCATION:REKOSI
 END:VEVENT
 END:VCALENDAR

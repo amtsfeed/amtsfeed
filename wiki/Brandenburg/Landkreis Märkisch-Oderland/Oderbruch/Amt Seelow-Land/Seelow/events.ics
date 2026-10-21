@@ -1034,8 +1034,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2863697-2026-10-31-halloweenfeuer-und-party-in-werbig
  .html@amtsfeed.de
-DTSTAMP:20261017T075435Z
+DTSTAMP:20261021T084507Z
 DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
 SUMMARY:Halloweenfeuer- und party in Werbig
 URL:https://www.seelow.de/veranstaltungen/2863697/2026/10/31/halloweenfeu
  er-und-party-in-werbig.html
@@ -1051,6 +1052,17 @@ SUMMARY:"Panik in Seelow" - Filmvorführung
 URL:https://www.seelow.de/veranstaltungen/2985850/2026/10/31/panik-in-see
  low-filmvorführung.html
 LOCATION:Grundschule Seelow
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2987272-2026-10-31-filmvorführung-horror-im-oderbruc
+ h-vi-panik-in-seelow-ab-6-jahren.html@amtsfeed.de
+DTSTAMP:20261021T084507Z
+DTSTART:20261031T170000Z
+SUMMARY:Filmvorführung "Horror im Oderbruch VI: PANIK IN SEELOW" (ab 6 J
+ ahren)
+URL:https://www.seelow.de/veranstaltungen/2987272/2026/10/31/filmvorführ
+ ung-horror-im-oderbruch-vi-panik-in-seelow-ab-6-jahren.html
+LOCATION:Kulturhaus Seelow
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865253-2026-11-02-beginn-der-woche-des-jüdischen-le
@@ -1290,9 +1302,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865426-2026-11-29-keramikausstellung-zum-1.-advent.h
  tml@amtsfeed.de
-DTSTAMP:20261018T081034Z
+DTSTAMP:20261021T084507Z
 DTSTART:20261129T150000Z
-DTEND:20261130T090000Z
+DTEND:20261129T190000Z
 SUMMARY:Keramikausstellung zum 1. Advent
 URL:https://www.seelow.de/veranstaltungen/2865426/2026/11/29/keramikausst
  ellung-zum-1.-advent.html
@@ -1400,9 +1412,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2865430-2026-12-14-weihnachtskino-mit-buchbasar.html@
  amtsfeed.de
-DTSTAMP:20261018T081034Z
+DTSTAMP:20261021T084507Z
 DTSTART:20261214T190000Z
-DTEND:20261215T090000Z
+DTEND:20261215T190000Z
 SUMMARY:Weihnachtskino mit Buchbasar
 URL:https://www.seelow.de/veranstaltungen/2865430/2026/12/14/weihnachtski
  no-mit-buchbasar.html

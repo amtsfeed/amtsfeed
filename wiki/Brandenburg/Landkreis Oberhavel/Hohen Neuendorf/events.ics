@@ -710,4 +710,24 @@ SUMMARY:Lüül - Zwischen den Welten
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  lueuel-zwischen-den-welten
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-offene-sonnabende-des-geschichtskreises-11@amts
+ feed.de
+DTSTAMP:20261022T084452Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Offene Sonnabende des Geschichtskreises
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ offene-sonnabende-des-geschichtskreises-11
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-vernetzungstreffen-fur-alleinerziehende@amtsfee
+ d.de
+DTSTAMP:20261022T084452Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Vernetzungstreffen für Alleinerziehende
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ vernetzungstreffen-fur-alleinerziehende
+END:VEVENT
 END:VCALENDAR

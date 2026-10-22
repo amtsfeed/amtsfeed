@@ -1125,27 +1125,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2904739/2026/10/20/jahresgeb
 LOCATION:Kulturhaus Lebus
 END:VEVENT
 BEGIN:VEVENT
-UID:2486339@amtsfeed.de
-DTSTAMP:20261015T082531Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Sport für Senioren in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/21/sport-fü
- r-senioren-in-podelzig.html
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464908@amtsfeed.de
-DTSTAMP:20261015T082531Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Fleischerwagen Fleischerei Höhne
-URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/21/fleischer
- wagen-fleischerei-höhne.html
-DESCRIPTION:am Dorfteich Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464904@amtsfeed.de
 DTSTAMP:20261015T082531Z
 DTSTART;VALUE=DATE:20261021
@@ -1264,6 +1243,27 @@ DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
 LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2486339@amtsfeed.de
+DTSTAMP:20261022T084408Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Sport für Senioren in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/28/sport-fü
+ r-senioren-in-podelzig.html
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464908@amtsfeed.de
+DTSTAMP:20261022T084408Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Fleischerwagen Fleischerei Höhne
+URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/28/fleischer
+ wagen-fleischerei-höhne.html
+DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2957498@amtsfeed.de
 DTSTAMP:20260911T111132Z
 DTSTART;VALUE=DATE:20261030
@@ -1336,6 +1336,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2846367/2026/11/04/bowling-f
 DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
  4 5535 g.e.garschhammer(at)gmail.com
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
+END:VEVENT
+BEGIN:VEVENT
+UID:2989202@amtsfeed.de
+DTSTAMP:20261022T084408Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Kaffeenachmittag in Reitwein
+URL:https://www.amt-lebus.de/veranstaltungen/2989202/2026/11/04/kaffeenac
+ hmittag-in-reitwein.html
+LOCATION:Dorfgemeinschaftshaus in Reitwein
 END:VEVENT
 BEGIN:VEVENT
 UID:2980741@amtsfeed.de
@@ -1415,6 +1425,19 @@ DESCRIPTION:mit vielen Überraschungen
 LOCATION:auf dem Platz Amtsverwaltung Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2989199@amtsfeed.de
+DTSTAMP:20261022T084408Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Martinstag Umzug in Mallnow
+URL:https://www.amt-lebus.de/veranstaltungen/2989199/2026/11/11/martinsta
+ g-umzug-in-mallnow.html
+DESCRIPTION:Martinstagsfeier Beginn in der Kirchenruine um 17 Uhr mit ans
+ chliessendem Umzug durchs Dorf und einem Feuer und Martinshörnchen im Pf
+ arrgarten
+LOCATION:Mallnow
+END:VEVENT
+BEGIN:VEVENT
 UID:2976844@amtsfeed.de
 DTSTAMP:20261001T101756Z
 DTSTART;VALUE=DATE:20261114
@@ -1455,6 +1478,16 @@ SUMMARY:EDE & UNKU - eine Lesungs - und Gesprächsreihe mit Simona Koß
 URL:https://www.amt-lebus.de/veranstaltungen/2984953/2026/11/21/ede-unku-
  eine-lesungs-und-gesprächsreihe-mit-simona-koß.html
 LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2989200@amtsfeed.de
+DTSTAMP:20261022T084408Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Gedenk-Andacht in Mallnow
+URL:https://www.amt-lebus.de/veranstaltungen/2989200/2026/11/21/gedenk-an
+ dacht-in-mallnow.html
+LOCATION:Kirchenruine Mallnow
 END:VEVENT
 BEGIN:VEVENT
 UID:2984489@amtsfeed.de
@@ -1499,6 +1532,17 @@ URL:https://www.amt-lebus.de/veranstaltungen/2846376/2026/12/02/bowling-f
 DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
  4 5535 E-mail  g.e.garschhammer(at)gmail.com
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
+END:VEVENT
+BEGIN:VEVENT
+UID:2989197@amtsfeed.de
+DTSTAMP:20261022T084408Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Advents- Punsch in Mallnow
+URL:https://www.amt-lebus.de/veranstaltungen/2989197/2026/12/05/advents-p
+ unsch-in-mallnow.html
+DESCRIPTION:Veranstaltungsort:    Manufaktur
+LOCATION:Mallnow
 END:VEVENT
 BEGIN:VEVENT
 UID:2904735@amtsfeed.de

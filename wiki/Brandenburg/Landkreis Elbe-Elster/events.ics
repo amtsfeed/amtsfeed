@@ -945,4 +945,26 @@ URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Das-Leben-als-Ast
  ronaut.php?object=tx\,2112.2.1&ModID=11&FID=2112.4931.1&NavID=2112.265&ka
  t=2112.71
 END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4932@amtsfeed.de
+DTSTAMP:20261022T084110Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Captain Schnuppes Weltraumreise
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Captain-Schnuppes
+ -Weltraumreise.php?object=tx\,2112.2.1&ModID=11&FID=2112.4932.1&NavID=211
+ 2.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4935@amtsfeed.de
+DTSTAMP:20261022T084110Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Georgische Stimmen zu Gast in Herzberg: Jubiläumskonzert des Vok
+ al Ensemble Batumi am 31.10.2026 in der Stadtkirche St. Marien
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Georgische-Stimme
+ n-zu-Gast-in-Herzberg-Jubil%C3%A4umskonzert-des-Vokal-Ensemble-Batumi-am-
+ 31-10-2026-in-der-Stadtkirche-St-Marien-.php?object=tx\,2112.2.1&ModID=11
+ &FID=2112.4935.1&NavID=2112.265&kat=2112.71
+END:VEVENT
 END:VCALENDAR

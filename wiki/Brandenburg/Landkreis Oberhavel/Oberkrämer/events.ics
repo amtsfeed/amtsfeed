@@ -686,24 +686,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2976137/2026/10/20/fotogru
  ppe-blende-7.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855698@amtsfeed.de
-DTSTAMP:20261015T082646Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Kartenfreunde Schwante
-URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/10/21/kartenf
- reunde-schwante.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855693@amtsfeed.de
-DTSTAMP:20261015T082646Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Singen mit den Vehlefanzer Amseln
-URL:https://www.oberkraemer.de/veranstaltungen/2855693/2026/10/21/singen-
- mit-den-vehlefanzer-amseln.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855733@amtsfeed.de
 DTSTAMP:20261016T081951Z
 DTSTART;VALUE=DATE:20261022
@@ -756,6 +738,24 @@ DTEND;VALUE=DATE:20261028
 SUMMARY:Skat in Bötzow
 URL:https://www.oberkraemer.de/veranstaltungen/2855781/2026/10/27/skat-in
  -bötzow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855698@amtsfeed.de
+DTSTAMP:20261022T084505Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Kartenfreunde Schwante
+URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/10/28/kartenf
+ reunde-schwante.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855693@amtsfeed.de
+DTSTAMP:20261022T084505Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Singen mit den Vehlefanzer Amseln
+URL:https://www.oberkraemer.de/veranstaltungen/2855693/2026/10/28/singen-
+ mit-den-vehlefanzer-amseln.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855875@amtsfeed.de

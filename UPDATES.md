@@ -1,5 +1,71 @@
 # Updates
 
+## 2026-10-22 08:47
+
+Insgesamt **132 neu**, **120 aktualisiert**, **1 entfernt** in 59 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Amt Beetzsee | — | +1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Brück | — | +1 | — | — |
+| Amt Golzow | — | +1 | — | — |
+| Amt Lebus | — | +4 / ~2 | — | — |
+| Amt Märkische Schweiz | +1 | — | — | — |
+| Amt Neuzelle | — | +2 | — | — |
+| Amt Niemegk | — | +1 / ~1 | — | — |
+| Amt Plessa | — | +2 | — | — |
+| Amt Ruhland | +1 | — | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +1 / ~7 | — | — |
+| Amt Ziesar | +1 | — | — | ~24 |
+| Beeskow | — | +4 | — | — |
+| Calau | +1 | ~3 | — | — |
+| Dallgow-Döberitz | — | +1 | — | — |
+| Eberswalde | — | +1 | — | — |
+| Eichwalde | — | +2 | — | — |
+| Eisenhüttenstadt | — | ~1 | — | — |
+| Erkner | — | — | +1 | +1 |
+| Falkensee | +4 | +3 | — | — |
+| Fredersdorf-Vogelsdorf | +1 | — | — | — |
+| Glienicke-Nordbahn | +1 | — | — | — |
+| Gransee | — | +1 | — | — |
+| Groß Kreutz | — | ~24 | — | — |
+| Großräschen | +2 | — | — | — |
+| Grünheide (Mark) | — | +7 / ~1 | — | — |
+| Heideblick | +1 | — | — | — |
+| Hohen Neuendorf | — | +2 | — | — |
+| Ketzin Havel | ~1 | +1 | — | — |
+| Kleinmachnow | — | +1 | — | — |
+| Kloster Lehnin | — | +5 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +2 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +1 | — | — |
+| Lauchhammer | +1 | +10 / ~1 | — | — |
+| Leegebruch | +1 | — | — | — |
+| Lübben (Spreewald) | +1 | — | — | — |
+| Michendorf | — | +1 | — | — |
+| Mühlenbecker Land | — | +6 | — | — |
+| Müncheberg | +1 | — | — | — |
+| Neuenhagen bei Berlin | +1 / -1 | — | — | — |
+| Nuthetal | — | +1 | — | — |
+| Oberkrämer | — | ~2 | — | ~1 |
+| Oderbruch / Amt Seelow-Land | +3 | — | +1 | — |
+| Premnitz | — | +11 | — | — |
+| Rathenow | +1 | +1 | — | +1 |
+| Rietz-Neuendorf | +1 | +1 | +1 / ~1 | — |
+| Schönefeld | ~3 | ~30 | — | — |
+| Schulzendorf | — | — | +1 | — |
+| Senftenberg | — | +12 | — | — |
+| Storkow (Mark) | +2 | — | — | — |
+| Tauche | — | +1 | — | — |
+| Teltow | — | ~1 | — | — |
+| Treuenbrietzen | +1 | — | — | — |
+| Velten | — | +3 | — | — |
+| Werder (Havel) | +1 | ~8 | — | +3 |
+| Wiesenburg-Mark | — | +2 / ~3 | — | — |
+| Wriezen | — | — | +1 | — |
+| Wustermark | — | +1 | — | — |
+| Zeuthen | +1 | — | — | — |
+
 ## 2026-10-21 08:49
 
 Insgesamt **296 neu**, **179 aktualisiert**, **0 entfernt** in 73 Quellen.

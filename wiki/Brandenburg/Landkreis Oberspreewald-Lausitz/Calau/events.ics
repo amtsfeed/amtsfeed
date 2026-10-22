@@ -1070,15 +1070,6 @@ URL:https://www.calau.de/veranstaltungen/2981514/2026/10/18/wanderung-dur
  ch-die-calauer-schweiz.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20261019T090330Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:21.10.2026   Calauer Museen öffnen
-URL:https://www.calau.de/veranstaltungen/2315266/2026/10/21/calauer-musee
- n-öffnen.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2838476@amtsfeed.de
 DTSTAMP:20261019T090330Z
 DTSTART;VALUE=DATE:20261021
@@ -1117,18 +1108,18 @@ URL:https://www.calau.de/veranstaltungen/2980728/2026/10/22/beratung-sozi
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2980730@amtsfeed.de
-DTSTAMP:20261008T104538Z
+DTSTAMP:20261022T084519Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:QiGong
+SUMMARY:22.10.2026   QiGong
 URL:https://www.calau.de/veranstaltungen/2980730/2026/10/22/qigong.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2980732@amtsfeed.de
-DTSTAMP:20261008T104538Z
+DTSTAMP:20261022T084519Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Handarbeitsgruppe "Wollwunder"
+SUMMARY:23.10.2026   Handarbeitsgruppe "Wollwunder"
 URL:https://www.calau.de/veranstaltungen/2980732/2026/10/23/handarbeitsgr
  uppe-wollwunder.html
 END:VEVENT
@@ -1158,6 +1149,15 @@ DTEND;VALUE=DATE:20261028
 SUMMARY:Halloween-Basteln
 URL:https://www.calau.de/veranstaltungen/2951698/2026/10/27/halloween-bas
  teln.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2315266@amtsfeed.de
+DTSTAMP:20261022T084519Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Calauer Museen öffnen
+URL:https://www.calau.de/veranstaltungen/2315266/2026/10/28/calauer-musee
+ n-öffnen.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2980734@amtsfeed.de

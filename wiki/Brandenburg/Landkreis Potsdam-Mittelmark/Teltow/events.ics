@@ -1466,15 +1466,6 @@ URL:https://www.teltow.de/veranstaltungen/2972025/2026/10/20/preisskat.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930017@amtsfeed.de
-DTSTAMP:20261015T082948Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
-URL:https://www.teltow.de/veranstaltungen/2930017/2026/10/21/offener-lern
- raum-lesen-schreiben-rechnen-basis-englisch.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2972028@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261021
@@ -1674,6 +1665,15 @@ DTEND;VALUE=DATE:20261104
 SUMMARY:"Der kleine Drach Kokosnuss - Die Mutprobe"
 URL:https://www.teltow.de/veranstaltungen/2973544/2026/11/03/der-kleine-d
  rach-kokosnuss-die-mutprobe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930017@amtsfeed.de
+DTSTAMP:20261022T084657Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
+URL:https://www.teltow.de/veranstaltungen/2930017/2026/11/04/offener-lern
+ raum-lesen-schreiben-rechnen-basis-englisch.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972206@amtsfeed.de

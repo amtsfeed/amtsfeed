@@ -1226,4 +1226,37 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ausste
  llung-Baukeramik-von-Hedwig-Bollhagen.php?object=tx\,3631.4.1&amp\;ModID=
  11&amp\;FID=3631.1154.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-882@amtsfeed.de
+DTSTAMP:20261022T084510Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:15. Sitzung des Ausschusses für Sicherheit und Ordnung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/15-Sit
+ zung-des-Ausschusses-f%C3%BCr-Sicherheit-und-Ordnung.php?object=tx\,3631.
+ 4.1&amp\;ModID=11&amp\;FID=3631.882.1&amp\;NavID=3631.15&amp\;sfreg=1&amp
+ \;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1031@amtsfeed.de
+DTSTAMP:20261022T084510Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1031.1&amp\;Nav
+ ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-911@amtsfeed.de
+DTSTAMP:20261022T084510Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:15. Sitzung des Ausschusses für Haushalt\, Wirtschaft und Finanz
+ en
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/15-Sit
+ zung-des-Ausschusses-f%C3%BCr-Haushalt-Wirtschaft-und-Finanzen.php?object
+ =tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.911.1&amp\;NavID=3631.15&amp\;s
+ freg=1&amp\;sfort=1
+END:VEVENT
 END:VCALENDAR

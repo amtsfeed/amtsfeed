@@ -1786,6 +1786,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Havelwerk Schleusenstraße 1 Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-833-20261123@amtsfeed.de
+DTSTAMP:20261022T084149Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261214
+SUMMARY:Rathenower Weihnachtsmarkt
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/rathenower-weihnachtsmarkt/
+LOCATION:Rathenow\, Märkischer Platz
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1739-20261126@amtsfeed.de
 DTSTAMP:20260916T084040Z
 DTSTART;VALUE=DATE:20261126

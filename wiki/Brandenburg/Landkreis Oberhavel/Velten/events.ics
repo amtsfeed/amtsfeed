@@ -1259,4 +1259,36 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/15-Sit
  =tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.911.1&amp\;NavID=3631.15&amp\;s
  freg=1&amp\;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-910@amtsfeed.de
+DTSTAMP:20261023T084253Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:15. Sitzung des Hauptausschusses
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/15-Sit
+ zung-des-Hauptausschusses.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=
+ 3631.910.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1054@amtsfeed.de
+DTSTAMP:20261023T084253Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Umsetzung Bürgerhaushalt - Disco für Kinder und Jugendliche
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Umsetz
+ ung-B%C3%BCrgerhaushalt-Disco-f%C3%BCr-Kinder-und-Jugendliche.php?object=
+ tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1054.1&amp\;NavID=3631.15&amp\;s
+ freg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1171@amtsfeed.de
+DTSTAMP:20261023T084253Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Bürgerhaushalt 2025: Musikalische Früherziehung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/B%C3%B
+ Crgerhaushalt-2025-Musikalische-Fr%C3%BCherziehung.php?object=tx\,3631.4.
+ 1&amp\;ModID=11&amp\;FID=3631.1171.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\
+ ;sfort=1
+END:VEVENT
 END:VCALENDAR

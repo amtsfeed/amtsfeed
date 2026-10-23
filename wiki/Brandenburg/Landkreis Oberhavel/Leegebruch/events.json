@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:42:48.237Z",
+  "updatedAt": "2026-10-23T08:42:38.192Z",
   "items": [
     {
       "id": "leegebruch-event-2892673",
@@ -95,11 +95,11 @@
     },
     {
       "id": "leegebruch-event-2931311",
-      "title": "Lesecaf&eacute;",
+      "title": "Schließzeiten der in der Trägerschaft der Gemeinde Leegebruch befindlichen Kindertagesstätte",
       "url": "https://www.leegebruch.de/veranstaltungen/2931311/2026/10/30/lesecafé.html",
       "startDate": "2026-10-30T00:00:00.000Z",
       "fetchedAt": "2026-09-25T08:58:12.479Z",
-      "updatedAt": "2026-09-25T08:58:12.479Z"
+      "updatedAt": "2026-10-23T08:42:38.191Z"
     },
     {
       "id": "leegebruch-event-2969885",
@@ -109,6 +109,15 @@
       "location": "Sitzungssaal des Rathauses",
       "fetchedAt": "2026-10-09T10:42:48.236Z",
       "updatedAt": "2026-10-09T10:42:48.236Z"
+    },
+    {
+      "id": "leegebruch-event-2969886",
+      "title": "Sozialausschuss tagt am",
+      "url": "https://www.leegebruch.de/veranstaltungen/2969886/2026/11/05/sozialausschuss-tagt-am.html",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "location": "Sitzungssaal des Rathauses",
+      "fetchedAt": "2026-10-23T08:42:38.191Z",
+      "updatedAt": "2026-10-23T08:42:38.191Z"
     }
   ]
 }

@@ -299,15 +299,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2971015/2026/10/18/es-war-
  einmal-.-im-echten-leben.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124494@amtsfeed.de
-DTSTAMP:20261016T082014Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Behinderten- und Seniorenberatung
-URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/10/22/behinde
- rten-und-seniorenberatung.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2971014@amtsfeed.de
 DTSTAMP:20260922T084038Z
 DTSTART;VALUE=DATE:20261024
@@ -351,6 +342,15 @@ DTEND;VALUE=DATE:20261028
 SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
 URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/10/27/chorpro
  be-mit-dem-stadtchor-lauchhammer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124494@amtsfeed.de
+DTSTAMP:20261023T084308Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/10/29/behinde
+ rten-und-seniorenberatung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2918359@amtsfeed.de

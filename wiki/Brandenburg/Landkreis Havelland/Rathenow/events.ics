@@ -1679,6 +1679,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1794-20261103@amtsfeed.de
+DTSTAMP:20261023T083904Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Stunde der Musik
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/stunde-der-musik/
+LOCATION:Konzertsaal Schwedendamm 1
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1334-20261106@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261106
@@ -1804,6 +1814,16 @@ SUMMARY:Weihnachtsausstellung 2026/27
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/weihnachtsausstellung-2026-27/
 LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1795-20261126@amtsfeed.de
+DTSTAMP:20261023T083904Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Stunde der Musik: JAZZ
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/stunde-der-musik-jazz/
+LOCATION:Konzertsaal Schwedendamm 1
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-833-20261127@amtsfeed.de
@@ -1983,6 +2003,26 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:HavelSalon Rathenow\, Milower Landstraße 7\, 14712 Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1796-20270116@amtsfeed.de
+DTSTAMP:20261023T083904Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Seniorensitzung des RCC
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/seniorensitzung-des-rcc-1/
+LOCATION:Kulturzentrum o. Havellandhalle
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1797-20270117@amtsfeed.de
+DTSTAMP:20261023T083904Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Herrensitzung des RCC
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/herrensitzung-des-rcc-1/
+LOCATION:Kulturzentrum o. Havellandhalle
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1780-20270122@amtsfeed.de
 DTSTAMP:20261015T082301Z
 DTSTART;VALUE=DATE:20270122
@@ -2012,6 +2052,36 @@ DTEND;VALUE=DATE:20270207
 SUMMARY:Moving Shadows
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/moving-shadows/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1800-20270209@amtsfeed.de
+DTSTAMP:20261023T083904Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270211
+SUMMARY:Kinderfasching des RCC
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/kinderfasching-des-rcc/
+LOCATION:Aula Weinbergschule
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1798-20270211@amtsfeed.de
+DTSTAMP:20261023T083904Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Weiberfastnacht des RCC
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/weiberfastnacht-des-rcc/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1799-20270213@amtsfeed.de
+DTSTAMP:20261023T083904Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Prunksitzung des RCC
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/prunksitzung-des-rcc/
 LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT

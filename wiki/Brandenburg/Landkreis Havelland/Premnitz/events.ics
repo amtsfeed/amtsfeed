@@ -13838,6 +13838,15 @@ URL:https://www.premnitz.de/veranstaltungen/2985358/2026/10/24/havelberg-
  m.html
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2990045-20261024@amtsfeed.de
+DTSTAMP:20261023T083859Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Der Zeichensalon &ndash\; Kunst\, Wahrnehmung und Bewusstsein
+URL:https://www.premnitz.de/veranstaltungen/2990045/2026/10/24/der-zeiche
+ nsalon--kunst-wahrnehmung-und-bewusstsein.html
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2870786-20261025@amtsfeed.de
 DTSTAMP:20260925T085404Z
 DTSTART;VALUE=DATE:20261025
@@ -16322,6 +16331,15 @@ URL:https://www.premnitz.de/veranstaltungen/2977223/2026/11/21/bitte-text
  -eingeben.html
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2990046-20261121@amtsfeed.de
+DTSTAMP:20261023T083859Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Der Zeichensalon &ndash\; Kunst\, Wahrnehmung und Bewusstsein
+URL:https://www.premnitz.de/veranstaltungen/2990046/2026/11/21/der-zeiche
+ nsalon--kunst-wahrnehmung-und-bewusstsein.html
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2985383-20261122@amtsfeed.de
 DTSTAMP:20261022T084145Z
 DTSTART;VALUE=DATE:20261122
@@ -16422,5 +16440,14 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:Hänsel und Gretel
 URL:https://www.premnitz.de/veranstaltungen/2977226/2026/11/22/hänsel-un
  d-gretel.html
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2961105-20261123@amtsfeed.de
+DTSTAMP:20261023T083859Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Mosaik-Workshop
+URL:https://www.premnitz.de/veranstaltungen/2961105/2026/11/23/mosaik-wor
+ kshop.html
 END:VEVENT
 END:VCALENDAR

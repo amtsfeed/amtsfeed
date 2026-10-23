@@ -816,15 +816,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2972013/2026/10/18/se
  niorennachmittag-gemeinsam-statt-einsam-in-merzdorf.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2897451@amtsfeed.de
-DTSTAMP:20261016T081502Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Krabbelgruppe Kita Gröden
-URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/10/22/kr
- abbelgruppe-kita-gröden.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2953466@amtsfeed.de
 DTSTAMP:20260911T110713Z
 DTSTART;VALUE=DATE:20261025
@@ -850,6 +841,15 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Seniorennachmittag - GEMEINSAM STATT EINSAM" in Gröden
 URL:https://www.amt-schradenland.de/veranstaltungen/2971999/2026/10/28/se
  niorennachmittag-gemeinsam-statt-einsam-in-gröden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2897451@amtsfeed.de
+DTSTAMP:20261023T083759Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Krabbelgruppe Kita Gröden
+URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/10/29/kr
+ abbelgruppe-kita-gröden.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829858@amtsfeed.de

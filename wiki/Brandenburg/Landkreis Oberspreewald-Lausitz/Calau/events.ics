@@ -1079,15 +1079,6 @@ URL:https://www.calau.de/veranstaltungen/2838476/2026/10/21/klöppeltreff
  .html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261021T084653Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:22.10.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/10/22/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2909035@amtsfeed.de
 DTSTAMP:20261019T090330Z
 DTSTART;VALUE=DATE:20261022
@@ -1125,21 +1116,30 @@ URL:https://www.calau.de/veranstaltungen/2980732/2026/10/23/handarbeitsgr
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20261019T090330Z
+DTSTAMP:20261023T084305Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+SUMMARY:24.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
 URL:https://www.calau.de/veranstaltungen/2864723/2026/10/24/flugshow-auf-
  dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2921824@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261023T084305Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:Flohmarkt für Baby- und Kindersachen
+SUMMARY:24.10.2026   Flohmarkt für Baby- und Kindersachen
 URL:https://www.calau.de/veranstaltungen/2921824/2026/10/24/flohmarkt-fü
  r-baby-und-kindersachen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261023T084305Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:27.10.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/10/27/calauer-woche
+ nmarkt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2951698@amtsfeed.de

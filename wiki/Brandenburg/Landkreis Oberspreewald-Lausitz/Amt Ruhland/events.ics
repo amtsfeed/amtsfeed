@@ -809,6 +809,15 @@ URL:https://www.amt-ruhland.de/veranstaltungen/
 LOCATION:Marktplatz und Festplatz am Schützenhaus
 END:VEVENT
 BEGIN:VEVENT
+UID:ruhland-event-7369@amtsfeed.de
+DTSTAMP:20261023T084303Z
+DTSTART:20261102T093000Z
+DTEND:20261102T143000Z
+SUMMARY:Nachfolge im Tourismus Südbrandenburg
+URL:https://www.amt-ruhland.de/veranstaltungen/
+LOCATION:GLEIS 3 - Kulturzentrum Lübbenau
+END:VEVENT
+BEGIN:VEVENT
 UID:ruhland-event-4993@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART:20261104T150000Z
@@ -980,5 +989,15 @@ SUMMARY:Sommerfest in Hermsdorf
 URL:https://www.amt-ruhland.de/veranstaltungen/
 DESCRIPTION:Schlagworte: Hermsdorf
 LOCATION:Sportplatz in Hermsdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-7330@amtsfeed.de
+DTSTAMP:20261023T084303Z
+DTSTART:20271023T160000Z
+DTEND:20271023T170000Z
+SUMMARY:Halloween/Kürbisschnitzen in Hermsdorf
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Hermsdorf
+LOCATION:Parkplatz FFw Hermsdorf
 END:VEVENT
 END:VCALENDAR

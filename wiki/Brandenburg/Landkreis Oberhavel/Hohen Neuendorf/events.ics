@@ -730,4 +730,14 @@ SUMMARY:Vernetzungstreffen für Alleinerziehende
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  vernetzungstreffen-fur-alleinerziehende
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-konzertante-lesung-im-salon-du-grosser-stern@am
+ tsfeed.de
+DTSTAMP:20261023T084234Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Konzertante Lesung im Salon: „Du großer Stern“
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ konzertante-lesung-im-salon-du-grosser-stern
+END:VEVENT
 END:VCALENDAR

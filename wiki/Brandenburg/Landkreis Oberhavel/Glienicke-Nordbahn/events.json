@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:54:54.377Z",
+  "updatedAt": "2026-10-23T08:42:21.596Z",
   "items": [
     {
       "id": "glienicke-event-904005818",
@@ -761,6 +761,15 @@
       "updatedAt": "2026-05-06T18:08:08.338Z"
     },
     {
+      "id": "glienicke-event-904005963",
+      "title": "Quizabend in der Bibliothek",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005963-22451.html",
+      "startDate": "2026-11-02T18:00:00Z",
+      "location": "Rathaus - Bibliothek, Hauptstraße 19, 16548 Glienicke/Nordbahn",
+      "fetchedAt": "2026-10-23T08:42:21.602Z",
+      "updatedAt": "2026-10-23T08:42:21.602Z"
+    },
+    {
       "id": "glienicke-event-904005959",
       "title": "Sitzung der AG Wahl",
       "url": "https://www.glienicke.eu/veranstaltungen/904005959-22451.html",
@@ -786,6 +795,15 @@
       "location": "Märkische Allee 72, 16548 Glienicke/Nordbahn, Seniorenclub",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
       "updatedAt": "2026-05-06T18:08:08.338Z"
+    },
+    {
+      "id": "glienicke-event-904005962",
+      "title": "Gedenken an die Novemberprogrome",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005962-22451.html",
+      "startDate": "2026-11-09T16:00:00Z",
+      "location": "Neues Gymnasium Glienicke, Schönfließer Straße 16-24, 16548 Glienicke/Nordbahn",
+      "fetchedAt": "2026-10-23T08:42:21.602Z",
+      "updatedAt": "2026-10-23T08:42:21.602Z"
     },
     {
       "id": "glienicke-event-904005728",
@@ -814,6 +832,15 @@
       "location": "Konferenzraum Neues Rathaus",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
       "updatedAt": "2026-05-06T18:08:08.338Z"
+    },
+    {
+      "id": "glienicke-event-904005964",
+      "title": "Vortrag zum Thema Nahrungsergänzungsmittel",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005964-22451.html",
+      "startDate": "2026-11-18T17:00:00Z",
+      "location": "Rathaus - Bibliothek, Hauptstraße 19, 16548 Glienicke/Nordbahn",
+      "fetchedAt": "2026-10-23T08:42:21.602Z",
+      "updatedAt": "2026-10-23T08:42:21.602Z"
     },
     {
       "id": "glienicke-event-904005871",
@@ -852,6 +879,15 @@
       "location": "Mensa",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
       "updatedAt": "2026-09-11T11:11:54.680Z"
+    },
+    {
+      "id": "glienicke-event-904005961",
+      "title": "Musik mit dem Malinka Quartett",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005961-22451.html",
+      "startDate": "2026-11-28T18:00:00Z",
+      "location": "Bürgerhaus, Moskauer Straße 20, 16548 Glienicke-Nordbahn",
+      "fetchedAt": "2026-10-23T08:42:21.602Z",
+      "updatedAt": "2026-10-23T08:42:21.602Z"
     },
     {
       "id": "glienicke-event-904005960",
@@ -919,6 +955,16 @@
       "location": "Nachbarschaftstreff Glienicke, Eichenallee 10, 16548 Glienicke-Nordbahn",
       "fetchedAt": "2026-09-25T08:57:55.390Z",
       "updatedAt": "2026-09-25T08:57:55.390Z"
+    },
+    {
+      "id": "glienicke-event-904005965",
+      "title": "Silvester-Teamlauf",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005965-22451.html",
+      "startDate": "2026-12-31T09:30:00Z",
+      "endDate": "2026-12-31T12:00:00Z",
+      "location": "Sportplatz Bieselheide",
+      "fetchedAt": "2026-10-23T08:42:21.602Z",
+      "updatedAt": "2026-10-23T08:42:21.602Z"
     }
   ]
 }

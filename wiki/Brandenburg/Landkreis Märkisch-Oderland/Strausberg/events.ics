@@ -9616,6 +9616,16 @@ LOCATION:The Lakeside – Burghotel zu Strausberg Gielsdorfer Chaussee 6
  15344 Strausberg
 END:VEVENT
 BEGIN:VEVENT
+UID:strausberg-30632-20261031@amtsfeed.de
+DTSTAMP:20261023T084211Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Reformationsfest
+URL:https://www.stadt-strausberg.de/veranstaltungen/2026-10-01/oktober-20
+ 26/#veranstaltungen-30632-2026-10-31
+LOCATION:Marienkirche Strausberg Predigerstraße 2 15344 Strausberg
+END:VEVENT
+BEGIN:VEVENT
 UID:strausberg-29577-20261101@amtsfeed.de
 DTSTAMP:20260911T111148Z
 DTSTART;VALUE=DATE:20261101
@@ -9924,6 +9934,16 @@ URL:https://www.stadt-strausberg.de/veranstaltungen/2026-11-01/november-2
  026/#veranstaltungen-30537-2026-11-07
 LOCATION:Zentrum für Erwachsenenbildung und Medien Volkshochschule Märk
  isch-Oderland Wriezener Str. 30 15344 Strausberg
+END:VEVENT
+BEGIN:VEVENT
+UID:strausberg-30633-20261107@amtsfeed.de
+DTSTAMP:20261023T084211Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Kirchenputz
+URL:https://www.stadt-strausberg.de/veranstaltungen/2026-11-01/november-2
+ 026/#veranstaltungen-30633-2026-11-07
+LOCATION:Marienkirche Strausberg Predigerstraße 2 15344 Strausberg
 END:VEVENT
 BEGIN:VEVENT
 UID:strausberg-29577-20261108@amtsfeed.de

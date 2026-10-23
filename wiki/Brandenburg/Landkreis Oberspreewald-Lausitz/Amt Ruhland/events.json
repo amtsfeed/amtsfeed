@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T08:46:51.561Z",
+  "updatedAt": "2026-10-23T08:43:03.549Z",
   "items": [
     {
       "id": "ruhland-event-5053",
@@ -880,6 +880,16 @@
       "updatedAt": "2026-05-31T18:42:01.007Z"
     },
     {
+      "id": "ruhland-event-7369",
+      "title": "Nachfolge im Tourismus Südbrandenburg",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-11-02T09:30:00.000Z",
+      "endDate": "2026-11-02T14:30:00.000Z",
+      "location": "GLEIS 3 - Kulturzentrum Lübbenau",
+      "fetchedAt": "2026-10-23T08:43:03.543Z",
+      "updatedAt": "2026-10-23T08:43:03.543Z"
+    },
+    {
       "id": "ruhland-event-4993",
       "title": "Treff der Seniorengruppe des HKC",
       "url": "https://www.amt-ruhland.de/veranstaltungen/",
@@ -1068,6 +1078,17 @@
       "description": "Schlagworte: Hermsdorf",
       "fetchedAt": "2026-10-20T08:41:16.055Z",
       "updatedAt": "2026-10-20T08:41:16.055Z"
+    },
+    {
+      "id": "ruhland-event-7330",
+      "title": "Halloween/Kürbisschnitzen in Hermsdorf",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2027-10-23T16:00:00.000Z",
+      "endDate": "2027-10-23T17:00:00.000Z",
+      "location": "Parkplatz FFw Hermsdorf",
+      "description": "Schlagworte: Hermsdorf",
+      "fetchedAt": "2026-10-23T08:43:03.543Z",
+      "updatedAt": "2026-10-23T08:43:03.543Z"
     }
   ]
 }

@@ -729,6 +729,15 @@ URL:https://www.glienicke.eu/veranstaltungen/904005725-22451.html
 LOCATION:Vereinszimmer Dreifeldhalle
 END:VEVENT
 BEGIN:VEVENT
+UID:glienicke-event-904005963@amtsfeed.de
+DTSTAMP:20261023T084221Z
+DTSTART:20261102T180000Z
+SUMMARY:Quizabend in der Bibliothek
+URL:https://www.glienicke.eu/veranstaltungen/904005963-22451.html
+LOCATION:Rathaus - Bibliothek\, Hauptstraße 19\, 16548 Glienicke/Nordbah
+ n
+END:VEVENT
+BEGIN:VEVENT
 UID:glienicke-event-904005959@amtsfeed.de
 DTSTAMP:20261014T085201Z
 DTSTART:20261103T173000Z
@@ -752,6 +761,15 @@ DTSTART:20261109T150000Z
 SUMMARY:Sitzung des Seniorenbeirates
 URL:https://www.glienicke.eu/veranstaltungen/904005742-22451.html
 LOCATION:Märkische Allee 72\, 16548 Glienicke/Nordbahn\, Seniorenclub
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005962@amtsfeed.de
+DTSTAMP:20261023T084221Z
+DTSTART:20261109T160000Z
+SUMMARY:Gedenken an die Novemberprogrome
+URL:https://www.glienicke.eu/veranstaltungen/904005962-22451.html
+LOCATION:Neues Gymnasium Glienicke\, Schönfließer Straße 16-24\, 16548
+  Glienicke/Nordbahn
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005728@amtsfeed.de
@@ -778,6 +796,15 @@ DTEND:20261112T180000Z
 SUMMARY:Sitzung des Klimabeirates
 URL:https://www.glienicke.eu/veranstaltungen/904005670-22451.html
 LOCATION:Konferenzraum Neues Rathaus
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005964@amtsfeed.de
+DTSTAMP:20261023T084221Z
+DTSTART:20261118T170000Z
+SUMMARY:Vortrag zum Thema Nahrungsergänzungsmittel
+URL:https://www.glienicke.eu/veranstaltungen/904005964-22451.html
+LOCATION:Rathaus - Bibliothek\, Hauptstraße 19\, 16548 Glienicke/Nordbah
+ n
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005871@amtsfeed.de
@@ -815,6 +842,14 @@ DTSTART:20261124T173000Z
 SUMMARY:24. Sitzung der Gemeindevertretung Glienicke/Nordbahn (HH)
 URL:https://www.glienicke.eu/veranstaltungen/904005729-22451.html
 LOCATION:Mensa
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005961@amtsfeed.de
+DTSTAMP:20261023T084221Z
+DTSTART:20261128T180000Z
+SUMMARY:Musik mit dem Malinka Quartett
+URL:https://www.glienicke.eu/veranstaltungen/904005961-22451.html
+LOCATION:Bürgerhaus\, Moskauer Straße 20\, 16548 Glienicke-Nordbahn
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005960@amtsfeed.de
@@ -879,5 +914,14 @@ SUMMARY:Glienicker Repair Café
 URL:https://www.glienicke.eu/veranstaltungen/904005954-22451.html
 LOCATION:Nachbarschaftstreff Glienicke\, Eichenallee 10\, 16548 Glienicke
  -Nordbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005965@amtsfeed.de
+DTSTAMP:20261023T084221Z
+DTSTART:20261231T093000Z
+DTEND:20261231T120000Z
+SUMMARY:Silvester-Teamlauf
+URL:https://www.glienicke.eu/veranstaltungen/904005965-22451.html
+LOCATION:Sportplatz Bieselheide
 END:VEVENT
 END:VCALENDAR

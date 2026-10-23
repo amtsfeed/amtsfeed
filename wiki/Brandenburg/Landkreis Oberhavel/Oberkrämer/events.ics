@@ -686,15 +686,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2976137/2026/10/20/fotogru
  ppe-blende-7.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855733@amtsfeed.de
-DTSTAMP:20261016T081951Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Nordic-Walking in Vehlefanz
-URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/10/22/nordic-
- walking-in-vehlefanz.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855745@amtsfeed.de
 DTSTAMP:20261017T075520Z
 DTSTART;VALUE=DATE:20261023
@@ -784,6 +775,15 @@ SUMMARY:Vortrag - „Heilpflanzen ganz nah - Entdecken\, anwenden und ver
  arbeiten"
 URL:https://www.oberkraemer.de/veranstaltungen/2935421/2026/10/28/vortrag
  -heilpflanzen-ganz-nah-entdecken-anwenden-und-verarbeiten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855733@amtsfeed.de
+DTSTAMP:20261023T084248Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Nordic-Walking in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/10/29/nordic-
+ walking-in-vehlefanz.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2957576@amtsfeed.de

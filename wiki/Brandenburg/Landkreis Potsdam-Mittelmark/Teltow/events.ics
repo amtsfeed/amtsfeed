@@ -1484,15 +1484,6 @@ URL:https://www.teltow.de/veranstaltungen/2987095/2026/10/21/nachbarschaf
  tshilfe.html
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2699683@amtsfeed.de
-DTSTAMP:20261016T082241Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Repair Caf&eacute\; Teltow
-URL:https://www.teltow.de/veranstaltungen/2699683/2026/10/22/repair-café
- -teltow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2972030@amtsfeed.de
 DTSTAMP:20260923T084802Z
 DTSTART;VALUE=DATE:20261022
@@ -1575,6 +1566,15 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Jeder Tropfen zählt!
 URL:https://www.teltow.de/veranstaltungen/2976238/2026/10/28/jeder-tropfe
  n-zählt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2699683@amtsfeed.de
+DTSTAMP:20261023T084509Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Repair Caf&eacute\; Teltow
+URL:https://www.teltow.de/veranstaltungen/2699683/2026/10/29/repair-café
+ -teltow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972117@amtsfeed.de

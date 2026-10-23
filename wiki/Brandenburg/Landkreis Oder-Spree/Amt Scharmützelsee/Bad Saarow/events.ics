@@ -405,16 +405,6 @@ URL:https://www.scharmuetzelsee.de/event/ein-abend-mit-henry-huebchen-im-
  theater-am-see
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
- feed.de
-DTSTAMP:20260926T084513Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Stadtführung durch Storkow mit dem grünen Lutz
-URL:https://www.scharmuetzelsee.de/event/stadtfuehrung-durch-storkow-mit-
- dem-gruenen-lutz
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-golf-schnupperkurs@amtsfeed.de
 DTSTAMP:20260926T084513Z
 DTSTART;VALUE=DATE:20260926
@@ -649,17 +639,6 @@ URL:https://www.scharmuetzelsee.de/event/fuehrung-mit-den-gefaehrten-der-
  nacht-in-storkow
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
- durch-die-ortsgeschichte@amtsfeed.de
-DTSTAMP:20261009T104340Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang dur
- ch die Ortsgeschichte
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-
- fps-ssp-ein-rundgang-durch-die-ortsgeschichte
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-oktoberfest-im-freilich-am-see@amtsfeed.de
 DTSTAMP:20260914T090758Z
 DTSTART;VALUE=DATE:20261009
@@ -688,17 +667,6 @@ SUMMARY:11. Storkower Herbstpoesie: Theater Volksbühne Kaulenberg „Jul
  ius Cäsar überall“ mit Jonas Schütte
 URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-theate
  r-volksbuehne-kaulenberg-julius-caesar-ueberall-mit-jonas-schuette
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650ja
- ehrigen-ein-rundgang-durch-die-ortsgeschichte@amtsfeed.de
-DTSTAMP:20261009T104340Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen 
- – Ein Rundgang durch die Ortsgeschichte
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-
- dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-soundtracks-im-scharwenka-kulturforum@amtsfeed.de
@@ -791,25 +759,6 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:Aktiv Wochenplan - Kneipp-Güsse am Morgen
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-kneipp-guesse-a
  m-morgen
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-laternenumzug-lichterfest-ferienprogramm@amtsfeed.de
-DTSTAMP:20261016T082039Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Laternenumzug & Lichterfest - Ferienprogramm
-URL:https://www.scharmuetzelsee.de/event/laternenumzug-lichterfest-ferien
- programm
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-wir-basteln-unsere-coolste-laterne-ferienprogramm@amt
- sfeed.de
-DTSTAMP:20261016T082039Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Wir basteln unsere coolste Laterne - Ferienprogramm
-URL:https://www.scharmuetzelsee.de/event/wir-basteln-unsere-coolste-later
- ne-ferienprogramm
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-11-storkower-herbstpoesie-lesung-die-geheimnisse-mein
@@ -975,26 +924,6 @@ SUMMARY:Offener Meditationsabend
 URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
- d.de
-DTSTAMP:20261022T084542Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
-URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
- harmuetzelsee
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261022T084542Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz@amtsf
  eed.de
 DTSTAMP:20260914T090758Z
@@ -1024,12 +953,93 @@ URL:https://www.scharmuetzelsee.de/event/schatzsuche-im-herbst-ferienprog
  ramm
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
+ durch-die-ortsgeschichte@amtsfeed.de
+DTSTAMP:20261023T084332Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Ortsführung Wendisch Rietz - JEZ? FPS? SSP? – Ein Rundgang dur
+ ch die Ortsgeschichte
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-
+ fps-ssp-ein-rundgang-durch-die-ortsgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-laternenumzug-lichterfest-ferienprogramm@amtsfeed.de
+DTSTAMP:20261023T084332Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Laternenumzug & Lichterfest - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/laternenumzug-lichterfest-ferien
+ programm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-wir-basteln-unsere-coolste-laterne-ferienprogramm@amt
+ sfeed.de
+DTSTAMP:20261023T084332Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Wir basteln unsere coolste Laterne - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/wir-basteln-unsere-coolste-later
+ ne-ferienprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
+ d.de
+DTSTAMP:20261023T084332Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
+ harmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261023T084332Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-satamas-giess-meinen-guss@amtsfeed.de
 DTSTAMP:20261001T102046Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:SATAMAs "Gieß meinen Guss"
 URL:https://www.scharmuetzelsee.de/event/satamas-giess-meinen-guss
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-workshop-im-naturpark-filzen-fuer-fortgeschrittene@am
+ tsfeed.de
+DTSTAMP:20261023T084332Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Workshop im Naturpark: "Filzen für Fortgeschrittene"
+URL:https://www.scharmuetzelsee.de/event/workshop-im-naturpark-filzen-fue
+ r-fortgeschrittene
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
+ feed.de
+DTSTAMP:20261023T084332Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Stadtführung durch Storkow mit dem grünen Lutz
+URL:https://www.scharmuetzelsee.de/event/stadtfuehrung-durch-storkow-mit-
+ dem-gruenen-lutz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650ja
+ ehrigen-ein-rundgang-durch-die-ortsgeschichte@amtsfeed.de
+DTSTAMP:20261023T084332Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen 
+ – Ein Rundgang durch die Ortsgeschichte
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-
+ dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de

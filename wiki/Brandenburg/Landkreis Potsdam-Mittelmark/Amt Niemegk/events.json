@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T08:46:23.002Z",
+  "updatedAt": "2026-10-23T08:44:30.259Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -527,6 +527,16 @@
       "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-10-22T08:46:17.847Z",
       "updatedAt": "2026-10-22T08:46:22.998Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-10-29-2026-10-29",
+      "title": "Bewegter Morgen",
+      "url": "https://amt-niemegk.de/events/bewegter-morgen/?occurrence=2026-10-29&#038;time=1793264400",
+      "startDate": "2026-10-29T09:00:00.000Z",
+      "endDate": "2026-10-29T10:30:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-10-23T08:44:25.297Z",
+      "updatedAt": "2026-10-23T08:44:30.255Z"
     }
   ]
 }

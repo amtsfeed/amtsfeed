@@ -1145,17 +1145,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2820928/2026/10/21/yoga-anf
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
-UID:2538590@amtsfeed.de
-DTSTAMP:20261016T081831Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/10/22/tischtenn
- is.html
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464906@amtsfeed.de
 DTSTAMP:20261017T075416Z
 DTSTART;VALUE=DATE:20261023
@@ -1186,6 +1175,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/24/bäckerwa
 DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
   Dorfteich
 LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2989702@amtsfeed.de
+DTSTAMP:20261023T084137Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Drachenfest auf dem Sportplatz
+URL:https://www.amt-lebus.de/veranstaltungen/2989702/2026/10/25/drachenfe
+ st-auf-dem-sportplatz.html
+LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
 UID:2402834@amtsfeed.de
@@ -1261,6 +1260,17 @@ SUMMARY:Fleischerwagen Fleischerei Höhne
 URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/28/fleischer
  wagen-fleischerei-höhne.html
 DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2538590@amtsfeed.de
+DTSTAMP:20261023T084137Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/10/29/tischtenn
+ is.html
+DESCRIPTION:Mehrzweckhalle Podelzig
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT

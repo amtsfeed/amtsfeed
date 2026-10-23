@@ -1325,15 +1325,6 @@ URL:https://www.michendorf.de/veranstaltungen/2966245/2026/10/21/ferien-a
  ktion-beat-it.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959533@amtsfeed.de
-DTSTAMP:20261016T082220Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959533/2026/10/22/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2959541@amtsfeed.de
 DTSTAMP:20261017T075713Z
 DTSTART;VALUE=DATE:20261023
@@ -1422,6 +1413,15 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Ausgebucht - Ferien-Aktion: Näh-Workshop
 URL:https://www.michendorf.de/veranstaltungen/2966246/2026/10/28/ausgebuc
  ht-ferien-aktion-näh-workshop.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959533@amtsfeed.de
+DTSTAMP:20261023T084449Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959533/2026/10/29/jugendcl
+ ub-micheck-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2958374@amtsfeed.de

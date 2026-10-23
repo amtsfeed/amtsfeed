@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T08:41:49.511Z",
+  "updatedAt": "2026-10-23T08:39:04.166Z",
   "items": [
     {
       "id": "rathenow-event-1476-20260101",
@@ -1431,6 +1431,15 @@
       "updatedAt": "2026-10-12T11:02:17.873Z"
     },
     {
+      "id": "rathenow-event-1794-20261103",
+      "title": "Stunde der Musik",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/stunde-der-musik/",
+      "startDate": "2026-11-03T00:00:00.000Z",
+      "location": "Konzertsaal Schwedendamm 1",
+      "fetchedAt": "2026-10-23T08:39:04.172Z",
+      "updatedAt": "2026-10-23T08:39:04.172Z"
+    },
+    {
       "id": "rathenow-event-1334-20261106",
       "title": "Benefiz mit Beats",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/benefiz-mit-beats/",
@@ -1539,6 +1548,15 @@
       "location": "Kulturzentrum Rathenow",
       "fetchedAt": "2026-09-16T08:40:40.262Z",
       "updatedAt": "2026-09-16T08:40:40.262Z"
+    },
+    {
+      "id": "rathenow-event-1795-20261126",
+      "title": "Stunde der Musik: JAZZ",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/stunde-der-musik-jazz/",
+      "startDate": "2026-11-26T00:00:00.000Z",
+      "location": "Konzertsaal Schwedendamm 1",
+      "fetchedAt": "2026-10-23T08:39:04.172Z",
+      "updatedAt": "2026-10-23T08:39:04.172Z"
     },
     {
       "id": "rathenow-event-833-20261127",
@@ -1697,6 +1715,24 @@
       "updatedAt": "2026-10-20T08:37:49.403Z"
     },
     {
+      "id": "rathenow-event-1796-20270116",
+      "title": "Seniorensitzung des RCC",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/seniorensitzung-des-rcc-1/",
+      "startDate": "2027-01-16T00:00:00.000Z",
+      "location": "Kulturzentrum o. Havellandhalle",
+      "fetchedAt": "2026-10-23T08:39:04.172Z",
+      "updatedAt": "2026-10-23T08:39:04.172Z"
+    },
+    {
+      "id": "rathenow-event-1797-20270117",
+      "title": "Herrensitzung des RCC",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/herrensitzung-des-rcc-1/",
+      "startDate": "2027-01-17T00:00:00.000Z",
+      "location": "Kulturzentrum o. Havellandhalle",
+      "fetchedAt": "2026-10-23T08:39:04.172Z",
+      "updatedAt": "2026-10-23T08:39:04.172Z"
+    },
+    {
       "id": "rathenow-event-1780-20270122",
       "title": "2027 Regionalwettbewerb Brandenburg West \"Jugend musiziert\"",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/2027-regionalwettbewerb-brandenburg-west-jugend-musiziert/",
@@ -1723,6 +1759,34 @@
       "location": "Kulturzentrum Rathenow",
       "fetchedAt": "2026-09-11T09:54:39.415Z",
       "updatedAt": "2026-09-11T11:07:48.648Z"
+    },
+    {
+      "id": "rathenow-event-1800-20270209",
+      "title": "Kinderfasching des RCC",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/kinderfasching-des-rcc/",
+      "startDate": "2027-02-09T00:00:00.000Z",
+      "endDate": "2027-02-10T00:00:00.000Z",
+      "location": "Aula Weinbergschule",
+      "fetchedAt": "2026-10-23T08:39:04.172Z",
+      "updatedAt": "2026-10-23T08:39:04.172Z"
+    },
+    {
+      "id": "rathenow-event-1798-20270211",
+      "title": "Weiberfastnacht des RCC",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/weiberfastnacht-des-rcc/",
+      "startDate": "2027-02-11T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-10-23T08:39:04.172Z",
+      "updatedAt": "2026-10-23T08:39:04.172Z"
+    },
+    {
+      "id": "rathenow-event-1799-20270213",
+      "title": "Prunksitzung des RCC",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/prunksitzung-des-rcc/",
+      "startDate": "2027-02-13T00:00:00.000Z",
+      "location": "Kulturzentrum Rathenow",
+      "fetchedAt": "2026-10-23T08:39:04.172Z",
+      "updatedAt": "2026-10-23T08:39:04.172Z"
     },
     {
       "id": "rathenow-event-1779-20270227",

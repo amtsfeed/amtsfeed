@@ -1291,4 +1291,14 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/B%C3%B
  1&amp\;ModID=11&amp\;FID=3631.1171.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\
  ;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1032@amtsfeed.de
+DTSTAMP:20261024T081634Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1032.1&amp\;Nav
+ ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
 END:VCALENDAR

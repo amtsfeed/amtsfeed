@@ -46,14 +46,6 @@ URL:https://www.scharmuetzelsee.de/event/geburtstagsfeier-650-jahre-wendi
  sch-rietz
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-aktiv-wochenplan-mini-kneippkur@amtsfeed.de
-DTSTAMP:20260531T131612Z
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Aktiv Wochenplan - Mini Kneippkur
-URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-kneippsegeln-ab-wendisch-rietz@amtsfeed.de
 DTSTAMP:20260531T131612Z
 DTSTART;VALUE=DATE:20260531
@@ -993,16 +985,6 @@ URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
  harmuetzelsee
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261023T084332Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-satamas-giess-meinen-guss@amtsfeed.de
 DTSTAMP:20261001T102046Z
 DTSTART;VALUE=DATE:20261023
@@ -1019,6 +1001,16 @@ DTEND;VALUE=DATE:20261024
 SUMMARY:Workshop im Naturpark: "Filzen für Fortgeschrittene"
 URL:https://www.scharmuetzelsee.de/event/workshop-im-naturpark-filzen-fue
  r-fortgeschrittene
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261024T081702Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
@@ -1040,6 +1032,33 @@ SUMMARY:Ortsführung Wendisch Rietz - Aus dem Leben einer 650jährigen
  – Ein Rundgang durch die Ortsgeschichte
 URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-aus-
  dem-leben-einer-650jaehrigen-ein-rundgang-durch-die-ortsgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-taste-the-tea-tee-verkostung@amtsfeed.de
+DTSTAMP:20261024T081702Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Taste the Tea: Tee-Verkostung
+URL:https://www.scharmuetzelsee.de/event/taste-the-tea-tee-verkostung
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ein-gutes-tier-ist-das-klavier-c-klonz-im-scharwenka-
+ kulturforum@amtsfeed.de
+DTSTAMP:20261024T081702Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:"Ein gutes Tier ist das Klavier" - C. Klonz im Scharwenka Kulturf
+ orum
+URL:https://www.scharmuetzelsee.de/event/ein-gutes-tier-ist-das-klavier-c
+ -klonz-im-scharwenka-kulturforum
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-aktiv-wochenplan-mini-kneippkur@amtsfeed.de
+DTSTAMP:20261024T081702Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Aktiv Wochenplan - Mini Kneippkur
+URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de

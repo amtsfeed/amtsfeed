@@ -1656,6 +1656,16 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  &amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:oranienburg-event-8075@amtsfeed.de
+DTSTAMP:20261024T081632Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Trickwettbewerb auf der Dirt-Jump-Anlage
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Trickwettbewerb-auf-der-Dirt-Jump-Anlage.php?object=tx\,2967.4&amp\;M
+ odID=11&amp\;FID=2967.8075.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:oranienburg-event-8041@amtsfeed.de
 DTSTAMP:20261013T104526Z
 DTSTART;VALUE=DATE:20261029
@@ -1779,5 +1789,15 @@ SUMMARY:Karsten-Troyke-Trio: &raquo\;Singarella\, Singarella&laquo\;
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/Karsten-Troyke-Trio-Singarella-Singarella-.php?object=tx\,2967.4&amp\
  ;ModID=11&amp\;FID=2967.7997.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8047@amtsfeed.de
+DTSTAMP:20261024T081632Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:&raquo\;Chaos Comedy Club&laquo\; im Oranienwerk
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/-Chaos-Comedy-Club-im-Oranienwerk.php?object=tx\,2967.4&amp\;ModID=11
+ &amp\;FID=2967.8047.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

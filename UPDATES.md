@@ -1,5 +1,59 @@
 # Updates
 
+## 2026-10-24 08:18
+
+Insgesamt **392 neu**, **152 aktualisiert**, **0 entfernt** in 47 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Altlandsberg | — | ~1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Neuzelle | — | +2 | — | — |
+| Amt Niemegk | — | +1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +2 / ~2 | — | — |
+| Amt Schlaubetal | +1 | — | — | — |
+| Amt Wusterwitz | — | — | — | ~1 |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Belzig | +1 | — | — | — |
+| Bernau bei Berlin | +1 | +4 / ~13 | — | — |
+| Brieselang | — | +2 | — | — |
+| Calau | +2 | ~1 | — | — |
+| Doberlug-Kirchhain | — | +1 | — | — |
+| Eberswalde | +3 | +2 / ~1 | — | — |
+| Eichwalde | +2 | — | — | — |
+| Eisenhüttenstadt | — | ~1 | — | — |
+| Elsterwerda | — | +2 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Groß Kreutz | — | ~24 | +1 | — |
+| Grünheide (Mark) | — | +7 | — | — |
+| Hennigsdorf | — | +1 | — | — |
+| Hohen Neuendorf | — | +3 | — | — |
+| Kleinmachnow | — | +4 | — | — |
+| Kloster Lehnin | — | — | — | +12 |
+| Kremmen | — | +1 / ~1 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +1 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | +1 | — | — | — |
+| Löwenberger Land | +1 | — | — | — |
+| Lübbenau Spreewald | — | +276 / ~7 | — | +1 |
+| Michendorf | — | ~1 | — | — |
+| Mühlenbecker Land | — | +5 | — | — |
+| Oberkrämer | — | ~1 | — | ~1 |
+| Oranienburg | +1 | +2 | — | +3 |
+| Premnitz | — | +3 | — | — |
+| Schönefeld | +1 / ~2 | ~30 | — | — |
+| Schorfheide | — | +5 / ~2 | — | +11 |
+| Schulzendorf | — | — | — | +1 |
+| Schwielowsee | +1 | — | — | — |
+| Senftenberg | +1 | +5 | — | +6 |
+| Teltow | +1 | — | — | — |
+| Velten | — | +1 | — | — |
+| Wandlitz | — | +2 | — | — |
+| Werder (Havel) | +2 | ~26 | — | — |
+| Werneuchen | +1 | +2 | — | — |
+| Wiesenburg-Mark | — | ~3 | — | — |
+| Wustermark | — | +2 | +1 | — |
+
 ## 2026-10-23 08:45
 
 Insgesamt **166 neu**, **335 aktualisiert**, **4 entfernt** in 70 Quellen.

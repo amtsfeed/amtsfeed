@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:35:16.818Z",
+  "updatedAt": "2026-10-24T08:10:36.015Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -679,14 +679,6 @@
       "updatedAt": "2026-09-25T08:51:58.483Z"
     },
     {
-      "id": "seniorenbeirat",
-      "title": "Seniorenbeirat",
-      "url": "https://www.eberswalde.de/termine/seniorenbeirat",
-      "startDate": "2026-09-28T12:00:00.000Z",
-      "fetchedAt": "2026-09-26T08:38:43.265Z",
-      "updatedAt": "2026-09-26T08:38:43.265Z"
-    },
-    {
       "id": "faszination-holz-11",
       "title": "Faszination Holz",
       "url": "https://www.eberswalde.de/termine/faszination-holz-11",
@@ -1328,6 +1320,30 @@
       "startDate": "2026-10-25T14:00:00.000Z",
       "fetchedAt": "2026-10-23T08:35:16.810Z",
       "updatedAt": "2026-10-23T08:35:16.810Z"
+    },
+    {
+      "id": "galerie-fenster-44-und-45-ausstellung-fotografien-von-mario-schneider-und-leni-sinclair-3",
+      "title": "Galerie Fenster - 44. und 45. Ausstellung: Fotografien von Mario Schneider und Leni Sinclair",
+      "url": "https://www.eberswalde.de/termine/galerie-fenster-44-und-45-ausstellung-fotografien-von-mario-schneider-und-leni-sinclair-3",
+      "startDate": "2026-10-25T14:00:00.000Z",
+      "fetchedAt": "2026-10-24T08:10:36.006Z",
+      "updatedAt": "2026-10-24T08:10:36.006Z"
+    },
+    {
+      "id": "seniorenbeirat",
+      "title": "Seniorenbeirat",
+      "url": "https://www.eberswalde.de/termine/seniorenbeirat",
+      "startDate": "2026-10-26T11:00:00.000Z",
+      "fetchedAt": "2026-09-26T08:38:43.265Z",
+      "updatedAt": "2026-10-24T08:10:36.006Z"
+    },
+    {
+      "id": "faszination-holz-39",
+      "title": "Faszination Holz",
+      "url": "https://www.eberswalde.de/termine/faszination-holz-39",
+      "startDate": "2026-10-26T14:00:00.000Z",
+      "fetchedAt": "2026-10-24T08:10:36.006Z",
+      "updatedAt": "2026-10-24T08:10:36.006Z"
     }
   ]
 }

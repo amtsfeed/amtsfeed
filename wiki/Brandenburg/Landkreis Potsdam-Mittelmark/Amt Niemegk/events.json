@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:44:30.259Z",
+  "updatedAt": "2026-10-24T08:17:54.954Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -537,6 +537,16 @@
       "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-10-23T08:44:25.297Z",
       "updatedAt": "2026-10-23T08:44:30.255Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-10-31-2026-10-31",
+      "title": "Happy Halloween",
+      "url": "https://amt-niemegk.de/events/happy-halloween-578/?occurrence=2026-10-31",
+      "startDate": "2026-10-31T16:00:00.000Z",
+      "endDate": "2026-10-31T18:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-10-24T08:17:41.427Z",
+      "updatedAt": "2026-10-24T08:17:54.948Z"
     }
   ]
 }

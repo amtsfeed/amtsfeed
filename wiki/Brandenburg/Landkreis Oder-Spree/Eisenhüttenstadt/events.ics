@@ -1183,19 +1183,6 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  r-Bert-Brouwers-NL-feat-Chris-Harp.php?ModID=11&amp\;FID=2852.1994.1
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261023T084349Z
-DTSTART:20261023T084349Z
-SUMMARY:Veranstaltungen
-URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1
-END:VEVENT
-BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1741-1@amtsfeed.de
 DTSTAMP:20260924T083802Z
 DTSTART;VALUE=DATE:20261024
@@ -1256,6 +1243,19 @@ LOCATION:der Stadtbibliothek Eisenhüttenstadt wird dieser Tag zu einem e
  ben wir uns ein paar ganz besondere Highlights ausgedacht.  Was dich exak
  t erwartet? Das verraten wir noch nicht komplett  aber hier sind ein paar
   kleine Appetithäppchen
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
+DTSTAMP:20261024T081713Z
+DTSTART:20261024T081713Z
+SUMMARY:Veranstaltungen
+URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1982-1@amtsfeed.de

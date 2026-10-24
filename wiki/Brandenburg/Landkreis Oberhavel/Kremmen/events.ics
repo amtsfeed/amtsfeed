@@ -1290,6 +1290,16 @@ URL:https://www.kremmen.de/veranstaltungen/2916046/2026/11/14/repair-caf
 LOCATION:Museumsscheune
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2990246@amtsfeed.de
+DTSTAMP:20261024T081618Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Maik Martschinkowsky - The Best of
+URL:https://www.kremmen.de/veranstaltungen/2990246/2026/11/14/maik-martsc
+ hinkowsky-the-best-of.html
+LOCATION:Kultur & Beeren UG
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2983638@amtsfeed.de
 DTSTAMP:20261013T104512Z
 DTSTART;VALUE=DATE:20261115
@@ -1390,13 +1400,13 @@ LOCATION:Stadtparkhalle kremmen
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2989896@amtsfeed.de
-DTSTAMP:20261023T084236Z
+DTSTAMP:20261024T081618Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:LORIOT - unvergessene Sketche
 URL:https://www.kremmen.de/veranstaltungen/2989896/2026/12/06/loriot-unve
  rgessene-sketche.html
-LOCATION:Stadtparkhalle Kremmen
+LOCATION:Stadtparkhalle Kremmen\, Ruppiner Chaussee 2 A
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2976787@amtsfeed.de

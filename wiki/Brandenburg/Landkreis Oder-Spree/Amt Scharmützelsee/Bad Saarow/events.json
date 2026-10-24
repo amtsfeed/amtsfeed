@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:43:32.141Z",
+  "updatedAt": "2026-10-24T08:17:02.502Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -31,14 +31,6 @@
       "url": "https://www.scharmuetzelsee.de/event/geburtstagsfeier-650-jahre-wendisch-rietz",
       "startDate": "2026-05-31T00:00:00.000Z",
       "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-05-31T13:16:12.297Z"
-    },
-    {
-      "id": "scharmuetzelsee-aktiv-wochenplan-mini-kneippkur",
-      "title": "Aktiv Wochenplan - Mini Kneippkur",
-      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur",
-      "startDate": "2026-05-31T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T13:16:12.297Z",
       "updatedAt": "2026-05-31T13:16:12.297Z"
     },
     {
@@ -845,14 +837,6 @@
       "updatedAt": "2026-10-23T08:43:32.139Z"
     },
     {
-      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
-      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
-      "startDate": "2026-10-23T00:00:00.000Z",
-      "fetchedAt": "2026-09-28T09:58:55.325Z",
-      "updatedAt": "2026-10-23T08:43:32.139Z"
-    },
-    {
       "id": "scharmuetzelsee-satamas-giess-meinen-guss",
       "title": "SATAMAs \"Gieß meinen Guss\"",
       "url": "https://www.scharmuetzelsee.de/event/satamas-giess-meinen-guss",
@@ -869,6 +853,14 @@
       "updatedAt": "2026-10-23T08:43:32.139Z"
     },
     {
+      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
+      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "fetchedAt": "2026-09-28T09:58:55.325Z",
+      "updatedAt": "2026-10-24T08:17:02.499Z"
+    },
+    {
       "id": "scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz",
       "title": "Stadtführung durch Storkow mit dem grünen Lutz",
       "url": "https://www.scharmuetzelsee.de/event/stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz",
@@ -883,6 +875,30 @@
       "startDate": "2026-10-24T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:59:03.401Z",
       "updatedAt": "2026-10-23T08:43:32.139Z"
+    },
+    {
+      "id": "scharmuetzelsee-taste-the-tea-tee-verkostung",
+      "title": "Taste the Tea: Tee-Verkostung",
+      "url": "https://www.scharmuetzelsee.de/event/taste-the-tea-tee-verkostung",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "fetchedAt": "2026-10-24T08:17:02.499Z",
+      "updatedAt": "2026-10-24T08:17:02.499Z"
+    },
+    {
+      "id": "scharmuetzelsee-ein-gutes-tier-ist-das-klavier-c-klonz-im-scharwenka-kulturforum",
+      "title": "\"Ein gutes Tier ist das Klavier\" - C. Klonz im Scharwenka Kulturforum",
+      "url": "https://www.scharmuetzelsee.de/event/ein-gutes-tier-ist-das-klavier-c-klonz-im-scharwenka-kulturforum",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "fetchedAt": "2026-10-24T08:17:02.499Z",
+      "updatedAt": "2026-10-24T08:17:02.499Z"
+    },
+    {
+      "id": "scharmuetzelsee-aktiv-wochenplan-mini-kneippkur",
+      "title": "Aktiv Wochenplan - Mini Kneippkur",
+      "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur",
+      "startDate": "2026-10-25T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:12.297Z",
+      "updatedAt": "2026-10-24T08:17:02.499Z"
     },
     {
       "id": "scharmuetzelsee-sternstunden-in-der-saarowtherme",

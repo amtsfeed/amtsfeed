@@ -1325,15 +1325,6 @@ URL:https://www.michendorf.de/veranstaltungen/2966245/2026/10/21/ferien-a
  ktion-beat-it.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959541@amtsfeed.de
-DTSTAMP:20261017T075713Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959541/2026/10/23/jugendcl
- ub-micheck-geöffnet.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2897216@amtsfeed.de
 DTSTAMP:20260531T131707Z
 DTSTART;VALUE=DATE:20261023
@@ -1449,6 +1440,15 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Monster Bastel-Nachmittag im Familienzentrum
 URL:https://www.michendorf.de/veranstaltungen/2985091/2026/10/29/monster-
  bastel-nachmittag-im-familienzentrum.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959541@amtsfeed.de
+DTSTAMP:20261024T081813Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959541/2026/10/30/jugendcl
+ ub-micheck-geöffnet.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2958924@amtsfeed.de

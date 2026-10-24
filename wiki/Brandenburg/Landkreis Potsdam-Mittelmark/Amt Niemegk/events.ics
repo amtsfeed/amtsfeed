@@ -631,4 +631,14 @@ URL:https://amt-niemegk.de/events/bewegter-morgen/?occurrence=2026-10-29&
  #038\;time=1793264400
 LOCATION:Familienzentrum Niemegk
 END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-10-31-2026-10-31@amtsfeed.de
+DTSTAMP:20261024T081754Z
+DTSTART:20261031T160000Z
+DTEND:20261031T180000Z
+SUMMARY:Happy Halloween
+URL:https://amt-niemegk.de/events/happy-halloween-578/?occurrence=2026-10
+ -31
+LOCATION:Familienzentrum Niemegk
+END:VEVENT
 END:VCALENDAR

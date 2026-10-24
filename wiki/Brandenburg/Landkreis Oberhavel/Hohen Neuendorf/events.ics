@@ -740,4 +740,34 @@ SUMMARY:Konzertante Lesung im Salon: „Du großer Stern“
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  konzertante-lesung-im-salon-du-grosser-stern
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-klaenge-der-heimat-gesangsstudentinnen-der-hdk-
+ stettin@amtsfeed.de
+DTSTAMP:20261024T081615Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Klänge der Heimat - GesangsstudentInnen der HdK Stettin
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ klaenge-der-heimat-gesangsstudentinnen-der-hdk-stettin
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-finissage-der-ausstellung-wir-zeigen-dein-bild@
+ amtsfeed.de
+DTSTAMP:20261024T081615Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Finissage der Ausstellung "Wir zeigen dein Bild"
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ finissage-der-ausstellung-wir-zeigen-dein-bild
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-seniorensprechstunde-hilfe-fur-handy-und-pc@amt
+ sfeed.de
+DTSTAMP:20261024T081615Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Seniorensprechstunde "Hilfe für Handy und PC"
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ seniorensprechstunde-hilfe-fur-handy-und-pc
+END:VEVENT
 END:VCALENDAR

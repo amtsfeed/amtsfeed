@@ -719,13 +719,6 @@ SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-10
 END:VEVENT
 BEGIN:VEVENT
-UID:seniorenbeirat@amtsfeed.de
-DTSTAMP:20260926T083843Z
-DTSTART:20260928T120000Z
-SUMMARY:Seniorenbeirat
-URL:https://www.eberswalde.de/termine/seniorenbeirat
-END:VEVENT
-BEGIN:VEVENT
 UID:faszination-holz-11@amtsfeed.de
 DTSTAMP:20260926T083843Z
 DTSTART:20260928T150000Z
@@ -1349,5 +1342,29 @@ DTSTAMP:20261023T083516Z
 DTSTART:20261025T140000Z
 SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-38
+END:VEVENT
+BEGIN:VEVENT
+UID:galerie-fenster-44-und-45-ausstellung-fotografien-von-mario-schneider
+ -und-leni-sinclair-3@amtsfeed.de
+DTSTAMP:20261024T081036Z
+DTSTART:20261025T140000Z
+SUMMARY:Galerie Fenster - 44. und 45. Ausstellung: Fotografien von Mario 
+ Schneider und Leni Sinclair
+URL:https://www.eberswalde.de/termine/galerie-fenster-44-und-45-ausstellu
+ ng-fotografien-von-mario-schneider-und-leni-sinclair-3
+END:VEVENT
+BEGIN:VEVENT
+UID:seniorenbeirat@amtsfeed.de
+DTSTAMP:20261024T081036Z
+DTSTART:20261026T110000Z
+SUMMARY:Seniorenbeirat
+URL:https://www.eberswalde.de/termine/seniorenbeirat
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-39@amtsfeed.de
+DTSTAMP:20261024T081036Z
+DTSTART:20261026T140000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-39
 END:VEVENT
 END:VCALENDAR

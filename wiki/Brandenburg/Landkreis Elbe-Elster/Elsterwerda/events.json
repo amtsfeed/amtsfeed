@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T08:47:37.253Z",
+  "updatedAt": "2026-10-24T08:12:03.959Z",
   "items": [
     {
       "id": "22492",
@@ -1176,6 +1176,22 @@
       "startDate": "2027-09-16T15:00:00.000Z",
       "fetchedAt": "2026-10-12T10:56:04.140Z",
       "updatedAt": "2026-10-12T10:56:04.140Z"
+    },
+    {
+      "id": "10001061",
+      "title": "Trauercafé Elsterwerda",
+      "url": "https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2027-10-21/",
+      "startDate": "2027-10-21T15:00:00.000Z",
+      "fetchedAt": "2026-10-24T08:12:03.959Z",
+      "updatedAt": "2026-10-24T08:12:03.959Z"
+    },
+    {
+      "id": "10001062",
+      "title": "Trauercafé Elsterwerda",
+      "url": "https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2027-11-18/",
+      "startDate": "2027-11-18T15:00:00.000Z",
+      "fetchedAt": "2026-10-24T08:12:03.959Z",
+      "updatedAt": "2026-10-24T08:12:03.959Z"
     }
   ]
 }

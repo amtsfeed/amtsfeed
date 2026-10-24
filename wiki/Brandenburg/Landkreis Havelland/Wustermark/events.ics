@@ -591,6 +591,16 @@ URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
  =3847.15&sfvort=1&sfort=1&bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:wustermark-event-261@amtsfeed.de
+DTSTAMP:20261024T081329Z
+DTSTART:20261106T150000Z
+DTEND:20261106T183000Z
+SUMMARY:Lichterfest
+URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
+ gen/Lichterfest.php?object=tx\,3847.4.1&ModID=11&FID=3847.261.1&NavID=384
+ 7.15&sfvort=1&sfort=1&bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:wustermark-event-147@amtsfeed.de
 DTSTAMP:20260911T110757Z
 DTSTART:20261107T100000Z
@@ -630,6 +640,16 @@ SUMMARY:Martinsumzug in Priort
 URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
  gen/Martinsumzug-in-Priort.php?object=tx\,3847.4.1&ModID=11&FID=3847.227.
  1&NavID=3847.15&sfvort=1&sfort=1&bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:wustermark-event-260@amtsfeed.de
+DTSTAMP:20261024T081329Z
+DTSTART:20261111T170000Z
+DTEND:20261111T180000Z
+SUMMARY:St\, Martins Umzug
+URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
+ gen/St-Martins-Umzug.php?object=tx\,3847.4.1&ModID=11&FID=3847.260.1&NavI
+ D=3847.15&sfvort=1&sfort=1&bn=1
 END:VEVENT
 BEGIN:VEVENT
 UID:wustermark-event-250@amtsfeed.de

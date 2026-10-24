@@ -813,6 +813,18 @@ DESCRIPTION:Zum Besuch des 22. "Pulsnitzer Pfefferkuchenmarktes" am Samst
  tzer Markt der traditionelle Pfefferkuchenmarkt statt.
 END:VEVENT
 BEGIN:VEVENT
+UID:brieselang-event-Spaziergang-zu-den-Brieselanger-Stolpersteinen-20261
+ 108@amtsfeed.de
+DTSTAMP:20261024T081240Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Spaziergang zu den Brieselanger Stolpersteinen
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Spaziergang-zu-den-Brieselanger-Stolpersteinen.html?
+DESCRIPTION:Der Ortsverband Brieselang von Bündnis 90/ Die Grünen lädt
+  zum „Aufpolieren der Erinnerungen“ am Sonntag\, 08.11.2026\, ein.
+END:VEVENT
+BEGIN:VEVENT
 UID:brieselang-event-Verleihung-der-Ehrenamtspreise-20261113@amtsfeed.de
 DTSTAMP:20260911T110730Z
 DTSTART;VALUE=DATE:20261113
@@ -930,6 +942,18 @@ DESCRIPTION:Der Weihnachtsmarkt in Bredow an der Dorfkirche findet am 27.
   November ab 15 Uhr statt. Das hat der Förderverein zum Erhalt der Bredo
  wer Dorfkirche e.V. mitgeteilt.
 LOCATION:Evangelische Kirche Bredow\,
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Tanznachmittag-fuer-Senioren-20261127@amtsfeed.de
+DTSTAMP:20261024T081240Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Brieselanger Tanzcafé
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Tanznachmittag-fuer-Senioren.html?
+DESCRIPTION:Der Seniorenbeirat Brieselang lädt zum nächsten Tanzcafe' g
+ anz herzlich ein. Einlass ist um 14.00 Uhr\, Beginn dann um 14.30 Uhr.
+LOCATION:Sportlerklause\,
 END:VEVENT
 BEGIN:VEVENT
 UID:brieselang-event-Adventsmarkt-in-Zeestow-am-1-Advent-20261129@amtsfee

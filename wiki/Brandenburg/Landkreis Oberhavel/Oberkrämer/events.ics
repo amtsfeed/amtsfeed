@@ -686,15 +686,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2976137/2026/10/20/fotogru
  ppe-blende-7.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855745@amtsfeed.de
-DTSTAMP:20261017T075520Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Schach
-URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/23/schach.
- html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2891496@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261023
@@ -794,6 +785,15 @@ SUMMARY:Seniorenveranstaltung - Busfahrt - Musikhotel „Goldener Spatz
  “
 URL:https://www.oberkraemer.de/veranstaltungen/2957576/2026/10/29/seniore
  nveranstaltung-busfahrt-musikhotel-goldener-spatz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855745@amtsfeed.de
+DTSTAMP:20261024T081629Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Schach
+URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/10/30/schach.
+ html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2957581@amtsfeed.de

@@ -4210,6 +4210,17 @@ URL:https://www.wandlitz.de/veranstaltungen/2945687/2026/11/19/kreativtre
 LOCATION:Bibliothek Wandlitz- Zweigstelle Klosterfelde -
 END:VEVENT
 BEGIN:VEVENT
+UID:veranstaltungen-2990221-2026-11-19-kreativwerkstatt-in-der-wandlitzer
+ -bibliothek-adventsbasteln.html@amtsfeed.de
+DTSTAMP:20261024T081042Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Kreativwerkstatt in der Wandlitzer Bibliothek - "Adventsbasteln"
+URL:https://www.wandlitz.de/veranstaltungen/2990221/2026/11/19/kreativwer
+ kstatt-in-der-wandlitzer-bibliothek-adventsbasteln.html
+LOCATION:Bibliothek Wandlitz- Zweigstelle Wandlitz -
+END:VEVENT
+BEGIN:VEVENT
 UID:veranstaltungen-2836535-2026-11-20-schülerdisco.html@amtsfeed.de
 DTSTAMP:20260526T084948Z
 DTSTART;VALUE=DATE:20261120
@@ -4936,6 +4947,18 @@ DTEND;VALUE=DATE:20261218
 SUMMARY:TaW-Krimikomödie: Arsen und Spitzenhäubchen
 URL:https://www.wandlitz.de/veranstaltungen/2969764/2026/12/17/taw-krimik
  omödie-arsen-und-spitzenhäubchen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:veranstaltungen-2990222-2026-12-17-kreativwerkstatt-in-der-wandlitzer
+ -bibliothek-weihnachsbasteln.html@amtsfeed.de
+DTSTAMP:20261024T081042Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Kreativwerkstatt in der Wandlitzer Bibliothek - "Weihnachsbasteln
+ "
+URL:https://www.wandlitz.de/veranstaltungen/2990222/2026/12/17/kreativwer
+ kstatt-in-der-wandlitzer-bibliothek-weihnachsbasteln.html
+LOCATION:Bibliothek Wandlitz- Zweigstelle Wandlitz -
 END:VEVENT
 BEGIN:VEVENT
 UID:veranstaltungen-2969765-2026-12-18-taw-krimikomödie-arsen-und-spitze

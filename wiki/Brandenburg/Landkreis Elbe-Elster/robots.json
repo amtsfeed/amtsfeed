@@ -2,7 +2,7 @@
   {
     "domain": "www.lkee.de",
     "baseUrl": "https://www.lkee.de",
-    "updatedAt": "2026-10-22T08:41:09.327Z",
+    "updatedAt": "2026-10-24T08:12:20.562Z",
     "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /redirect.phtml\nDisallow: /p2mail.phtml\nDisallow: /loadDocument.phtml\n\nSitemap: https://www.lkee.de/sitemap.xml"
   }
 ]

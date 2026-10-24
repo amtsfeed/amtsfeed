@@ -2,7 +2,7 @@
   {
     "domain": "www.amt-schlieben.de",
     "baseUrl": "https://www.amt-schlieben.de",
-    "updatedAt": "2026-10-22T08:40:53.670Z",
+    "updatedAt": "2026-10-24T08:11:56.396Z",
     "content": "User-agent: *\r\nDisallow: /fonts/\r\nDisallow: /_mm/\r\nDisallow: /_notes/\r\nDisallow: /_baks/\r\nDisallow: /Temolates/\r\nDisallow: /SpryAssets/\r\nDisallow: /cgi-bin/\r\nDisallow: /css/\r\nDisallow: /scripts/\r\n\r\nUser-agent: googlebot\r\nDisallow: *.pdf\r\n"
   }
 ]

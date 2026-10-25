@@ -2110,6 +2110,15 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2981547/2026/11/
  28/adventsnachmittag-mit-nikolausfeier.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2990575-20261129@amtsfeed.de
+DTSTAMP:20261025T082820Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Weihnachtsfest der Vereine
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2990575/2026/11/
+ 29/weihnachtsfest-der-vereine.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2964382-20261130@amtsfeed.de
 DTSTAMP:20260911T110633Z
 DTSTART;VALUE=DATE:20261130
@@ -2325,6 +2334,15 @@ DTEND;VALUE=DATE:20261225
 SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/12/
  24/literaturcafé-im-mgh-franz-fühmann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2990576-20261227@amtsfeed.de
+DTSTAMP:20261025T082820Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Konzert zum Jahrsausklang
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2990576/2026/12/
+ 27/konzert-zum-jahrsausklang.html
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2549386-20261230@amtsfeed.de
@@ -3867,5 +3885,14 @@ DTEND;VALUE=DATE:20271022
 SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2027/10/
  21/literaturcafé-im-mgh-franz-fühmann.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2668097-20271025@amtsfeed.de
+DTSTAMP:20261025T082820Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:MGH "Franz Fühmann": Frühstückstreff
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2668097/2027/10/
+ 25/mgh-franz-fühmann-frühstückstreff.html
 END:VEVENT
 END:VCALENDAR

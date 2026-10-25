@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:17:13.075Z",
+  "updatedAt": "2026-10-25T08:36:08.877Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -946,9 +946,9 @@
       "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
       "title": "Veranstaltungen",
       "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-10-24T08:17:13.067Z",
+      "startDate": "2026-10-25T08:36:08.870Z",
       "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-10-24T08:17:13.067Z"
+      "updatedAt": "2026-10-25T08:36:08.870Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1982-1",
@@ -1097,6 +1097,42 @@
       "location": "Club am Anger,  Platz der Jugend 1",
       "fetchedAt": "2026-10-18T08:13:01.587Z",
       "updatedAt": "2026-10-18T08:13:01.587Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1967-1",
+      "title": "PfiFf - Pflege in Familie fördern",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/PfiFf-Pflege-in-Familie-f%C3%B6rdern.php?ModID=11&amp;FID=2852.1967.1",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "Städtisches Krankenhaus Eisenhüttenstadt GmbH",
+      "fetchedAt": "2026-10-25T08:36:08.870Z",
+      "updatedAt": "2026-10-25T08:36:08.870Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1743-1",
+      "title": "Öffentliche Stadtführung \"Planstadt Eisenhüttenstadt\"",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/%C3%96ffentliche-Stadtf%C3%BChrung-Planstadt-Eisenh%C3%BCttenstadt-.php?ModID=11&amp;FID=2852.1743.1",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "Tourismusinformation",
+      "fetchedAt": "2026-10-25T08:36:08.870Z",
+      "updatedAt": "2026-10-25T08:36:08.870Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1765-1",
+      "title": "Lost Places Führung durch das DDR-Hotel LUNIK",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Lost-Places-F%C3%BChrung-durch-das-DDR-Hotel-LUNIK.php?ModID=11&amp;FID=2852.1765.1",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "Tourismusinformation",
+      "fetchedAt": "2026-10-25T08:36:08.870Z",
+      "updatedAt": "2026-10-25T08:36:08.870Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1883-1",
+      "title": "JORIS HERING BAND",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/JORIS-HERING-BAND.php?ModID=11&amp;FID=2852.1883.1",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "kleine bühne",
+      "fetchedAt": "2026-10-25T08:36:08.870Z",
+      "updatedAt": "2026-10-25T08:36:08.870Z"
     }
   ]
 }

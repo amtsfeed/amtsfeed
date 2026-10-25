@@ -1301,4 +1301,35 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
  markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1032.1&amp\;Nav
  ID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1193@amtsfeed.de
+DTSTAMP:20261025T083447Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Netzwerk Velten: Beratung zur Pflege vor Ort
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Netzwe
+ rk-Velten-Beratung-zur-Pflege-vor-Ort.php?object=tx\,3631.4.1&amp\;ModID=
+ 11&amp\;FID=3631.1193.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-974@amtsfeed.de
+DTSTAMP:20261025T083447Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Velten leuchtet & Weihnachtsmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Velten
+ -leuchtet-Weihnachtsmarkt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=
+ 3631.974.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1172@amtsfeed.de
+DTSTAMP:20261025T083447Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Bürgerhaushalt 2025: Musikalische Früherziehung
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/B%C3%B
+ Crgerhaushalt-2025-Musikalische-Fr%C3%BCherziehung.php?object=tx\,3631.4.
+ 1&amp\;ModID=11&amp\;FID=3631.1172.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\
+ ;sfort=1
+END:VEVENT
 END:VCALENDAR

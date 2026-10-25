@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:15:07.429Z",
+  "updatedAt": "2026-10-25T08:33:02.051Z",
   "items": [
     {
       "id": "19",
@@ -262,26 +262,6 @@
       "updatedAt": "2026-10-10T09:57:10.605Z"
     },
     {
-      "id": "2",
-      "title": "Workshop: \"Sashiko & Boro\" Japanische Sticktechnik mit Birgit...",
-      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/workshop-sashiko-boro-japanische-sticktechnik-mit-birgit-paschke-2/",
-      "startDate": "2026-10-24T00:00:00.000Z",
-      "location": "Schlossgut Altlandsberg",
-      "description": "Einführung in die traditionellen japanischen Sticktechniken Sashiko und Boro. Übersetzt bedeutet das Wort Sashiko „kleine Stiche“. Die Techniken Sashiko und Boro beruhen auf einfachen Vorstichen, die von Hand ausgeführt werden. Die Sashiko-Stickerei erfolgt in traditionellen geometrischen Mustern, meist auf...",
-      "fetchedAt": "2026-05-05T15:11:35.434Z",
-      "updatedAt": "2026-10-11T10:07:31.586Z"
-    },
-    {
-      "id": "5",
-      "title": "Handpan Schnupper-Workshop",
-      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/handpan-schnupper-workshop-5/",
-      "startDate": "2026-10-24T00:00:00.000Z",
-      "location": "Katja Baumheier",
-      "description": "Handpan entdecken – Klang erleben – selbst ausprobieren!Du hast die faszinierenden Klänge der Handpan gehört und möchtest das Instrument selbst einmal ausprobieren? Dann ist dieser Schnupperworkshop genau das Richtige für dich!In entspannter Atmosphäre bekommst du die Möglichkeit, die Handpan ganz unverbindlich...",
-      "fetchedAt": "2026-05-05T15:11:37.677Z",
-      "updatedAt": "2026-10-07T10:23:32.368Z"
-    },
-    {
       "id": "28",
       "title": "Altlandsberger Frischemarkt",
       "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/altlandsberger-frischemarkt-28/",
@@ -452,6 +432,16 @@
       "updatedAt": "2026-09-19T08:11:26.668Z"
     },
     {
+      "id": "2",
+      "title": "Weihnachtsmarkt in Bruchmühle",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/weihnachtsmarkt-in-bruchmuehle-2/",
+      "startDate": "2026-11-27T00:00:00.000Z",
+      "location": "Bürger- und Kreativhaus Bruchmühle",
+      "description": "Gemütlicher Weihnachtsmarkt für Groß und Klein mit verschiedenen Ständen, Kindereisenbahn, Kettenkarussell, Adventscafé und vieles mehr.",
+      "fetchedAt": "2026-05-05T15:11:35.434Z",
+      "updatedAt": "2026-10-25T08:32:27.181Z"
+    },
+    {
       "id": "29",
       "title": "Altlandsberger Frischemarkt",
       "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/altlandsberger-frischemarkt-29/",
@@ -480,6 +470,16 @@
       "description": "Handpan entdecken – Klang erleben – selbst ausprobieren!Du hast die faszinierenden Klänge der Handpan gehört und möchtest das Instrument selbst einmal ausprobieren? Dann ist dieser Schnupperworkshop genau das Richtige für dich!In entspannter Atmosphäre bekommst du die Möglichkeit, die Handpan ganz unverbindlich...",
       "fetchedAt": "2026-05-05T15:11:38.444Z",
       "updatedAt": "2026-10-09T10:41:31.353Z"
+    },
+    {
+      "id": "5",
+      "title": "Workshop: \"Kalligrafie\" - Wörter und Schriftzüge entdecken mit...",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/workshop-kalligrafie-woerter-und-schriftzuege-entdecken-mit-hilde-gold-5/",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "location": "Schlossgut Altlandsberg",
+      "description": "Im Kalligrafie-Workshop wird die kunstvolle Gestaltung von Schrift in den Mittelpunkt gestellt. Unter der Anleitung von Hilde Gold entdecken die Teilnehmenden den besonderen Reiz von Feder, Tinte und harmonischen Linien. Schritt für Schritt werden grundlegende Techniken der Schönschrift vermittelt, verschiedene...",
+      "fetchedAt": "2026-05-05T15:11:37.677Z",
+      "updatedAt": "2026-10-25T08:32:44.567Z"
     },
     {
       "id": "30",

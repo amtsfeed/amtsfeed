@@ -641,4 +641,27 @@ URL:https://amt-niemegk.de/events/happy-halloween-578/?occurrence=2026-10
  -31
 LOCATION:Familienzentrum Niemegk
 END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-11-01-2026-11-01@amtsfeed.de
+DTSTAMP:20261025T083651Z
+DTSTART:20261101T130000Z
+DTEND:20261102T000000Z
+SUMMARY:Musikalische Burgführung
+URL:https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-4
+ 52-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-75
+ 7-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-11-01&#038\;ti
+ me=1793538000
+LOCATION:Burg Rabenstein in Raben
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-11-02-2026-11-02@amtsfeed.de
+DTSTAMP:20261025T083651Z
+DTSTART:20261102T143000Z
+DTEND:20261102T170000Z
+SUMMARY:Bibliothek mit Heidi\, Mandy und Inga
+URL:https://amt-niemegk.de/events/bibliothek-mit-heidi-und-mandy-539-585-
+ 258-411-969-294-833-496-666-910-861-827-728/?occurrence=2026-11-02&#038\;
+ time=1793629800
+LOCATION:Familienzentrum Niemegk
+END:VEVENT
 END:VCALENDAR

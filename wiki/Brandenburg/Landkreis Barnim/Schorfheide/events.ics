@@ -2963,6 +2963,15 @@ URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
 LOCATION:Joachimsthal - seezeit-resort am Werbellinsee
 END:VEVENT
 BEGIN:VEVENT
+UID:99232413@amtsfeed.de
+DTSTAMP:20261025T082810Z
+DTSTART:20261113T190000Z
+SUMMARY:Konzert mit dem Finsterbusch-Trio
+URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
+ =99232413
+LOCATION:Lichterfelde - Kirche Lichterfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:99232289@amtsfeed.de
 DTSTAMP:20261024T081040Z
 DTSTART:20261113T193000Z
@@ -3288,9 +3297,9 @@ LOCATION:Joachimsthal - seezeit-resort am Werbellinsee
 END:VEVENT
 BEGIN:VEVENT
 UID:99232235@amtsfeed.de
-DTSTAMP:20261024T081040Z
+DTSTAMP:20261025T082810Z
 DTSTART:20270220T150000Z
-SUMMARY:Neujahrskonzert im Jagdschloss Schorfheide
+SUMMARY:Beschwingt ins neue Jahr - Konzert im Jagdschloss Schorfheide
 URL:https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se
  =99232235
 LOCATION:Groß Schönebeck - Jagdschloss Schorfheide

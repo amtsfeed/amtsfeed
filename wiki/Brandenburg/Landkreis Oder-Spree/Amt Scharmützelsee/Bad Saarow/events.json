@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:17:02.502Z",
+  "updatedAt": "2026-10-25T08:35:51.433Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -693,14 +693,6 @@
       "updatedAt": "2026-10-21T08:47:29.467Z"
     },
     {
-      "id": "scharmuetzelsee-herbstferien-familienspezial-im-wettermuseum",
-      "title": "Herbstferien Familienspezial im Wettermuseum",
-      "url": "https://www.scharmuetzelsee.de/event/herbstferien-familienspezial-im-wettermuseum",
-      "startDate": "2026-10-21T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T11:07:15.473Z",
-      "updatedAt": "2026-10-21T08:47:29.467Z"
-    },
-    {
       "id": "scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs",
       "title": "Aktiv Wochenplan - Wakepark Schnupperkurs",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-wakepark-schnupperkurs",
@@ -853,14 +845,6 @@
       "updatedAt": "2026-10-23T08:43:32.139Z"
     },
     {
-      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
-      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
-      "startDate": "2026-10-24T00:00:00.000Z",
-      "fetchedAt": "2026-09-28T09:58:55.325Z",
-      "updatedAt": "2026-10-24T08:17:02.499Z"
-    },
-    {
       "id": "scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz",
       "title": "Stadtführung durch Storkow mit dem grünen Lutz",
       "url": "https://www.scharmuetzelsee.de/event/stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz",
@@ -893,12 +877,36 @@
       "updatedAt": "2026-10-24T08:17:02.499Z"
     },
     {
+      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
+      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
+      "startDate": "2026-10-25T00:00:00.000Z",
+      "fetchedAt": "2026-09-28T09:58:55.325Z",
+      "updatedAt": "2026-10-25T08:35:51.431Z"
+    },
+    {
       "id": "scharmuetzelsee-aktiv-wochenplan-mini-kneippkur",
       "title": "Aktiv Wochenplan - Mini Kneippkur",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur",
       "startDate": "2026-10-25T00:00:00.000Z",
       "fetchedAt": "2026-05-31T13:16:12.297Z",
       "updatedAt": "2026-10-24T08:17:02.499Z"
+    },
+    {
+      "id": "scharmuetzelsee-herbstferien-familienspezial-im-wettermuseum",
+      "title": "Herbstferien Familienspezial im Wettermuseum",
+      "url": "https://www.scharmuetzelsee.de/event/herbstferien-familienspezial-im-wettermuseum",
+      "startDate": "2026-10-26T00:00:00.000Z",
+      "fetchedAt": "2026-10-12T11:07:15.473Z",
+      "updatedAt": "2026-10-25T08:35:51.431Z"
+    },
+    {
+      "id": "scharmuetzelsee-besuch-bei-muemmel-quieki-ferienprogramm",
+      "title": "Besuch bei Mümmel & Quieki - Ferienprogramm",
+      "url": "https://www.scharmuetzelsee.de/event/besuch-bei-muemmel-quieki-ferienprogramm",
+      "startDate": "2026-10-26T00:00:00.000Z",
+      "fetchedAt": "2026-10-25T08:35:51.431Z",
+      "updatedAt": "2026-10-25T08:35:51.431Z"
     },
     {
       "id": "scharmuetzelsee-sternstunden-in-der-saarowtherme",

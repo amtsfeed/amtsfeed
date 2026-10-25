@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:16:14.992Z",
+  "updatedAt": "2026-10-25T08:34:23.747Z",
   "items": [
     {
       "id": "hohen-neuendorf-event-digitale-sprechstunde-umgang-mit-dem-smartphone-0",
@@ -640,6 +640,30 @@
       "startDate": "2026-10-26T00:00:00.000Z",
       "fetchedAt": "2026-10-24T08:16:15.000Z",
       "updatedAt": "2026-10-24T08:16:15.000Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-sprachcafe-2",
+      "title": "Sprachcafé",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/sprachcafe-2",
+      "startDate": "2026-10-28T00:00:00.000Z",
+      "fetchedAt": "2026-10-25T08:34:23.755Z",
+      "updatedAt": "2026-10-25T08:34:23.755Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-emaillier-workshop",
+      "title": "Emaillier WorkShop",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/emaillier-workshop",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "fetchedAt": "2026-10-25T08:34:23.755Z",
+      "updatedAt": "2026-10-25T08:34:23.755Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-miteinander-reden-0",
+      "title": "Miteinander reden",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/miteinander-reden-0",
+      "startDate": "2026-11-03T00:00:00.000Z",
+      "fetchedAt": "2026-10-25T08:34:23.755Z",
+      "updatedAt": "2026-10-25T08:34:23.755Z"
     }
   ]
 }

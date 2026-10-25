@@ -388,36 +388,6 @@ DESCRIPTION:Am 18. Oktober ist die Jugend Kammermusik Berlin-Brandenburg
 LOCATION:Schlosskirche Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
-UID:2@amtsfeed.de
-DTSTAMP:20261011T100731Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Workshop: "Sashiko & Boro" Japanische Sticktechnik mit Birgit...
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/workshop-sashiko-boro-japanische-sticktechnik-mit-birgit-paschke-2/
-DESCRIPTION:Einführung in die traditionellen japanischen Sticktechniken 
- Sashiko und Boro. Übersetzt bedeutet das Wort Sashiko „kleine Stiche
- “. Die Techniken Sashiko und Boro beruhen auf einfachen Vorstichen\, di
- e von Hand ausgeführt werden. Die Sashiko-Stickerei erfolgt in tradition
- ellen geometrischen Mustern\, meist auf...
-LOCATION:Schlossgut Altlandsberg
-END:VEVENT
-BEGIN:VEVENT
-UID:5@amtsfeed.de
-DTSTAMP:20261007T102332Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Handpan Schnupper-Workshop
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/handpan-schnupper-workshop-5/
-DESCRIPTION:Handpan entdecken – Klang erleben – selbst ausprobieren!D
- u hast die faszinierenden Klänge der Handpan gehört und möchtest das I
- nstrument selbst einmal ausprobieren? Dann ist dieser Schnupperworkshop g
- enau das Richtige für dich!In entspannter Atmosphäre bekommst du die M
- öglichkeit\, die Handpan ganz unverbindlich...
-LOCATION:Katja Baumheier
-END:VEVENT
-BEGIN:VEVENT
 UID:28@amtsfeed.de
 DTSTAMP:20260911T111010Z
 DTSTART;VALUE=DATE:20261024
@@ -673,6 +643,19 @@ DESCRIPTION:In WIND\, SAND UND STERNE schildert Antoine de Saint-Exupéry
 LOCATION:Stadtkirche Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
+UID:2@amtsfeed.de
+DTSTAMP:20261025T083227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Weihnachtsmarkt in Bruchmühle
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/weihnachtsmarkt-in-bruchmuehle-2/
+DESCRIPTION:Gemütlicher Weihnachtsmarkt für Groß und Klein mit verschi
+ edenen Ständen\, Kindereisenbahn\, Kettenkarussell\, Adventscafé und vi
+ eles mehr.
+LOCATION:Bürger- und Kreativhaus Bruchmühle
+END:VEVENT
+BEGIN:VEVENT
 UID:29@amtsfeed.de
 DTSTAMP:20260911T111103Z
 DTSTART;VALUE=DATE:20261128
@@ -716,6 +699,23 @@ DESCRIPTION:Handpan entdecken – Klang erleben – selbst ausprobieren!D
  enau das Richtige für dich!In entspannter Atmosphäre bekommst du die M
  öglichkeit\, die Handpan ganz unverbindlich...
 LOCATION:Katja Baumheier
+END:VEVENT
+BEGIN:VEVENT
+UID:5@amtsfeed.de
+DTSTAMP:20261025T083244Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Workshop: "Kalligrafie" - Wörter und Schriftzüge entdecken mit.
+ ..
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/workshop-kalligrafie-woerter-und-schriftzuege-entdecken-mit-hilde-gol
+ d-5/
+DESCRIPTION:Im Kalligrafie-Workshop wird die kunstvolle Gestaltung von Sc
+ hrift in den Mittelpunkt gestellt. Unter der Anleitung von Hilde Gold ent
+ decken die Teilnehmenden den besonderen Reiz von Feder\, Tinte und harmon
+ ischen Linien. Schritt für Schritt werden grundlegende Techniken der Sch
+ önschrift vermittelt\, verschiedene...
+LOCATION:Schlossgut Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
 UID:30@amtsfeed.de

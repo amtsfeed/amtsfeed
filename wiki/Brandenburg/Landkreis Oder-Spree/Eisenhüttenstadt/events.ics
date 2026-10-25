@@ -1249,8 +1249,8 @@ UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
  a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
  ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261024T081713Z
-DTSTART:20261024T081713Z
+DTSTAMP:20261025T083608Z
+DTSTART:20261025T083608Z
 SUMMARY:Veranstaltungen
 URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
@@ -1464,5 +1464,50 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Musikpreis-Axel-Halbfi
  nale.php?ModID=11&amp\;FID=2852.1979.1
 LOCATION:Club am Anger\,  Platz der Jugend 1
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1967-1@amtsfeed.de
+DTSTAMP:20261025T083608Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:PfiFf - Pflege in Familie fördern
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/PfiFf-Pflege-in-Famili
+ e-f%C3%B6rdern.php?ModID=11&amp\;FID=2852.1967.1
+LOCATION:Städtisches Krankenhaus Eisenhüttenstadt GmbH
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1743-1@amtsfeed.de
+DTSTAMP:20261025T083608Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Öffentliche Stadtführung "Planstadt Eisenhüttenstadt"
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/%C3%96ffentliche-Stadt
+ f%C3%BChrung-Planstadt-Eisenh%C3%BCttenstadt-.php?ModID=11&amp\;FID=2852.
+ 1743.1
+LOCATION:Tourismusinformation
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1765-1@amtsfeed.de
+DTSTAMP:20261025T083608Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Lost Places Führung durch das DDR-Hotel LUNIK
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Lost-Places-F%C3%BChru
+ ng-durch-das-DDR-Hotel-LUNIK.php?ModID=11&amp\;FID=2852.1765.1
+LOCATION:Tourismusinformation
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1883-1@amtsfeed.de
+DTSTAMP:20261025T083608Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:JORIS HERING BAND
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/JORIS-HERING-BAND.php?
+ ModID=11&amp\;FID=2852.1883.1
+LOCATION:kleine bühne
 END:VEVENT
 END:VCALENDAR

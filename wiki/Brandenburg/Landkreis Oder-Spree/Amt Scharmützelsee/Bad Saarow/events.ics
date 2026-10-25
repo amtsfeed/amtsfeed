@@ -817,16 +817,6 @@ URL:https://www.scharmuetzelsee.de/event/kuschelstunde-mit-unseren-zwergs
  chafen-ferienprogramm
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-herbstferien-familienspezial-im-wettermuseum@amtsfeed
- .de
-DTSTAMP:20261021T084729Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Herbstferien Familienspezial im Wettermuseum
-URL:https://www.scharmuetzelsee.de/event/herbstferien-familienspezial-im-
- wettermuseum
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs@amtsfeed.de
 DTSTAMP:20261021T084729Z
 DTSTART;VALUE=DATE:20261021
@@ -1003,16 +993,6 @@ URL:https://www.scharmuetzelsee.de/event/workshop-im-naturpark-filzen-fue
  r-fortgeschrittene
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261024T081702Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
  feed.de
 DTSTAMP:20261023T084332Z
@@ -1053,12 +1033,41 @@ URL:https://www.scharmuetzelsee.de/event/ein-gutes-tier-ist-das-klavier-c
  -klonz-im-scharwenka-kulturforum
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261025T083551Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-mini-kneippkur@amtsfeed.de
 DTSTAMP:20261024T081702Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Aktiv Wochenplan - Mini Kneippkur
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-herbstferien-familienspezial-im-wettermuseum@amtsfeed
+ .de
+DTSTAMP:20261025T083551Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Herbstferien Familienspezial im Wettermuseum
+URL:https://www.scharmuetzelsee.de/event/herbstferien-familienspezial-im-
+ wettermuseum
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-besuch-bei-muemmel-quieki-ferienprogramm@amtsfeed.de
+DTSTAMP:20261025T083551Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Besuch bei Mümmel & Quieki - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/besuch-bei-muemmel-quieki-ferien
+ programm
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de

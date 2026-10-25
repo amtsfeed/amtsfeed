@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:43:25.342Z",
+  "updatedAt": "2026-10-25T08:35:26.024Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -14371,6 +14371,24 @@
       "location": "REKOSI",
       "fetchedAt": "2026-10-21T08:47:20.138Z",
       "updatedAt": "2026-10-21T08:47:20.138Z"
+    },
+    {
+      "id": "lk-osl-event-2124462-20271025",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.osl-online.de/veranstaltungen/2124462/2027/10/25/treffpunkt-bürgertheater.html",
+      "startDate": "2027-10-25T15:30:00.000Z",
+      "location": "Mehrgenerationenhaus",
+      "fetchedAt": "2026-10-25T08:35:26.058Z",
+      "updatedAt": "2026-10-25T08:35:26.058Z"
+    },
+    {
+      "id": "lk-osl-event-2124466-20271025",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.osl-online.de/veranstaltungen/2124466/2027/10/25/treffpunkt-bürgertheater.html",
+      "startDate": "2027-10-25T17:00:00.000Z",
+      "location": "Mehrgenerationenhaus",
+      "fetchedAt": "2026-10-25T08:35:26.058Z",
+      "updatedAt": "2026-10-25T08:35:26.058Z"
     }
   ]
 }

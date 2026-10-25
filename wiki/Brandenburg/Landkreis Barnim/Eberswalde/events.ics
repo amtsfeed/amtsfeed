@@ -1367,4 +1367,34 @@ DTSTART:20261026T140000Z
 SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-39
 END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-40@amtsfeed.de
+DTSTAMP:20261025T082806Z
+DTSTART:20261027T150000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-40
+END:VEVENT
+BEGIN:VEVENT
+UID:faszination-holz-41@amtsfeed.de
+DTSTAMP:20261025T082806Z
+DTSTART:20261028T150000Z
+SUMMARY:Faszination Holz
+URL:https://www.eberswalde.de/termine/faszination-holz-41
+END:VEVENT
+BEGIN:VEVENT
+UID:kopfkino-mit-ach-diese-luecke-diese-entsetzliche-luecke@amtsfeed.de
+DTSTAMP:20261025T082806Z
+DTSTART:20261028T150000Z
+SUMMARY:KOPFKINO  mit "ACH\, DIESE LÜCKE\, DIESE ENTSETZLICHE LÜCKE"
+URL:https://www.eberswalde.de/termine/kopfkino-mit-ach-diese-luecke-diese
+ -entsetzliche-luecke
+END:VEVENT
+BEGIN:VEVENT
+UID:kopfkino-mit-ach-diese-luecke-diese-entsetzliche-luecke-2@amtsfeed.de
+DTSTAMP:20261025T082806Z
+DTSTART:20261028T180000Z
+SUMMARY:KOPFKINO  mit "ACH\, DIESE LÜCKE\, DIESE ENTSETZLICHE LÜCKE"
+URL:https://www.eberswalde.de/termine/kopfkino-mit-ach-diese-luecke-diese
+ -entsetzliche-luecke-2
+END:VEVENT
 END:VCALENDAR

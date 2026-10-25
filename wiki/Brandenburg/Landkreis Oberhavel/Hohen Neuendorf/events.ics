@@ -770,4 +770,31 @@ SUMMARY:Seniorensprechstunde "Hilfe für Handy und PC"
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  seniorensprechstunde-hilfe-fur-handy-und-pc
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-sprachcafe-2@amtsfeed.de
+DTSTAMP:20261025T083423Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Sprachcafé
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ sprachcafe-2
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-emaillier-workshop@amtsfeed.de
+DTSTAMP:20261025T083423Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Emaillier WorkShop
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ emaillier-workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-miteinander-reden-0@amtsfeed.de
+DTSTAMP:20261025T083423Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Miteinander reden
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ miteinander-reden-0
+END:VEVENT
 END:VCALENDAR

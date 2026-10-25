@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:15:18.135Z",
+  "updatedAt": "2026-10-25T08:33:13.816Z",
   "items": [
     {
       "id": "2846347",
@@ -966,16 +966,6 @@
       "updatedAt": "2026-10-15T08:25:31.421Z"
     },
     {
-      "id": "2464910",
-      "title": "Bäckerwagen in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/24/bäckerwagen-in-podelzig.html",
-      "startDate": "2026-10-24T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Bäckerwagen, im Unterdorf, am Neubau, Wuhdener Weg nur am Dorfteich",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-18T08:10:06.114Z"
-    },
-    {
       "id": "2989702",
       "title": "Drachenfest auf dem Sportplatz",
       "url": "https://www.amt-lebus.de/veranstaltungen/2989702/2026/10/25/drachenfest-auf-dem-sportplatz.html",
@@ -1107,6 +1097,16 @@
       "location": "Kulturhaus Lebus",
       "fetchedAt": "2026-10-16T08:18:31.068Z",
       "updatedAt": "2026-10-16T08:18:31.068Z"
+    },
+    {
+      "id": "2464910",
+      "title": "Bäckerwagen in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/31/bäckerwagen-in-podelzig.html",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Bäckerwagen, im Unterdorf, am Neubau, Wuhdener Weg nur am Dorfteich",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-25T08:33:13.804Z"
     },
     {
       "id": "2928789",

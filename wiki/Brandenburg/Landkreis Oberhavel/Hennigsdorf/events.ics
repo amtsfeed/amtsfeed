@@ -515,4 +515,16 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Schwarzlicht-Ki
  590.873.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713
  .5&amp\;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-895@amtsfeed.de
+DTSTAMP:20261026T090526Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Wendezeit | Gedenkveranstaltung
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Wendezeit-Geden
+ kveranstaltung-.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.895.1
+ &amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;m
+ ax=9&amp\;k_sub=1
+LOCATION:Grenzturm | Nieder Neuendorf
+END:VEVENT
 END:VCALENDAR

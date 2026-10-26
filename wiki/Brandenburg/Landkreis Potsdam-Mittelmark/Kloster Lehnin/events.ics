@@ -2244,6 +2244,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2974609/2026/11/20/bilde
  rabend-19.00-uhr-im-klubraum.html
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2990888@amtsfeed.de
+DTSTAMP:20261026T090756Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Weihnachtsausstellung 2026: Eröffnung
+URL:https://www.klosterlehnin.de/veranstaltungen/2990888/2026/11/20/weihn
+ achtsausstellung-2026-eröffnung.html
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2856215@amtsfeed.de
 DTSTAMP:20260506T201826Z
 DTSTART;VALUE=DATE:20261121
@@ -2269,6 +2278,24 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:DiscoFox -  Tanzabend
 URL:https://www.klosterlehnin.de/veranstaltungen/2979741/2026/11/21/disco
  fox-tanzabend.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2990889@amtsfeed.de
+DTSTAMP:20261026T090756Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Weihnachtsausstellung
+URL:https://www.klosterlehnin.de/veranstaltungen/2990889/2026/11/21/weihn
+ achtsausstellung.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2990887@amtsfeed.de
+DTSTAMP:20261026T090756Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Weihnachtsausstellung
+URL:https://www.klosterlehnin.de/veranstaltungen/2990887/2026/11/22/weihn
+ achtsausstellung.html
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2884260@amtsfeed.de

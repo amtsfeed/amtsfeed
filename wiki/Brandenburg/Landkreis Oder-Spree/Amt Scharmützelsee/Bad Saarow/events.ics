@@ -699,15 +699,6 @@ URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-musika
  lische-lesung-eine-mutter-kaempft-gegen-hitler-mit-patricia-litten
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-alpaka-spaziergang-ferienprogramm@amtsfeed.de
-DTSTAMP:20261012T110715Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Alpaka Spaziergang - Ferienprogramm
-URL:https://www.scharmuetzelsee.de/event/alpaka-spaziergang-ferienprogram
- m
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas@amtsf
  eed.de
 DTSTAMP:20261012T110715Z
@@ -725,23 +716,6 @@ DTEND;VALUE=DATE:20261014
 SUMMARY:Aktiv Wochenplan - HulaHoop im Kurpark
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-hulahoop-im-kur
  park
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-tier-talk-ferienprogramm@amtsfeed.de
-DTSTAMP:20261012T110715Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Tier Talk - Ferienprogramm
-URL:https://www.scharmuetzelsee.de/event/tier-talk-ferienprogramm
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-entdeckertour-in-der-natur-ferienprogramm@amtsfeed.de
-DTSTAMP:20261013T104602Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Entdeckertour in der Natur - Ferienprogramm
-URL:https://www.scharmuetzelsee.de/event/entdeckertour-in-der-natur-ferie
- nprogramm
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen@amtsfeed.de
@@ -1033,22 +1007,31 @@ URL:https://www.scharmuetzelsee.de/event/ein-gutes-tier-ist-das-klavier-c
  -klonz-im-scharwenka-kulturforum
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261025T083551Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-mini-kneippkur@amtsfeed.de
 DTSTAMP:20261024T081702Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Aktiv Wochenplan - Mini Kneippkur
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-alpaka-spaziergang-ferienprogramm@amtsfeed.de
+DTSTAMP:20261026T090642Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Alpaka Spaziergang - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/alpaka-spaziergang-ferienprogram
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261026T090642Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-herbstferien-familienspezial-im-wettermuseum@amtsfeed
@@ -1068,6 +1051,23 @@ DTEND;VALUE=DATE:20261027
 SUMMARY:Besuch bei Mümmel & Quieki - Ferienprogramm
 URL:https://www.scharmuetzelsee.de/event/besuch-bei-muemmel-quieki-ferien
  programm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-tier-talk-ferienprogramm@amtsfeed.de
+DTSTAMP:20261026T090642Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Tier Talk - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/tier-talk-ferienprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-entdeckertour-in-der-natur-ferienprogramm@amtsfeed.de
+DTSTAMP:20261026T090642Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Entdeckertour in der Natur - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/entdeckertour-in-der-natur-ferie
+ nprogramm
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de

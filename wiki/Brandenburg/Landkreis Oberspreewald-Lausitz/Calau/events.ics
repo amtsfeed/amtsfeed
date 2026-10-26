@@ -1124,15 +1124,6 @@ URL:https://www.calau.de/veranstaltungen/2921824/2026/10/24/flohmarkt-fü
  r-baby-und-kindersachen.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20261025T083500Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:25.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
-URL:https://www.calau.de/veranstaltungen/2864723/2026/10/25/flugshow-auf-
- dem-adler-und-jagdfalkenhof-werchow.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2290342@amtsfeed.de
 DTSTAMP:20261023T084305Z
 DTSTART;VALUE=DATE:20261027
@@ -1161,10 +1152,10 @@ URL:https://www.calau.de/veranstaltungen/2315266/2026/10/28/calauer-musee
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2980734@amtsfeed.de
-DTSTAMP:20261008T104538Z
+DTSTAMP:20261026T090611Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:Fit im Alter
+SUMMARY:29.10.2026   Fit im Alter
 URL:https://www.calau.de/veranstaltungen/2980734/2026/10/29/fit-im-alter.
  html
 END:VEVENT
@@ -1203,6 +1194,15 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:"Gemeinsam statt einsam" Mittagessen kochen für Senioren
 URL:https://www.calau.de/veranstaltungen/2980735/2026/10/30/gemeinsam-sta
  tt-einsam-mittagessen-kochen-für-senioren.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2864723@amtsfeed.de
+DTSTAMP:20261026T090611Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+URL:https://www.calau.de/veranstaltungen/2864723/2026/10/31/flugshow-auf-
+ dem-adler-und-jagdfalkenhof-werchow.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877063@amtsfeed.de
@@ -1642,6 +1642,15 @@ DTEND;VALUE=DATE:20270110
 SUMMARY:Puppen-Mitmach-Show
 URL:https://www.calau.de/veranstaltungen/2975867/2027/01/09/puppen-mitmac
  h-show.html
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2991004@amtsfeed.de
+DTSTAMP:20261026T090611Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Rockballaden bei Kerzenschein
+URL:https://www.calau.de/veranstaltungen/2991004/2027/01/10/rockballaden-
+ bei-kerzenschein.html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2922158@amtsfeed.de

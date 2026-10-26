@@ -814,6 +814,15 @@ URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2986999/2027/01/2
 LOCATION:Oase Woltersdorf
 END:VEVENT
 BEGIN:VEVENT
+UID:woltersdorf-event-2990890@amtsfeed.de
+DTSTAMP:20261026T090726Z
+DTSTART:20270124T150000Z
+SUMMARY:Woltersdorfer Wanderung
+URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2990890/2027/01/2
+ 4/woltersdorfer-wanderung.html
+LOCATION:Kulturhaus Alte Schule
+END:VEVENT
+BEGIN:VEVENT
 UID:woltersdorf-event-2940038@amtsfeed.de
 DTSTAMP:20260911T111314Z
 DTSTART:20270124T180000Z
@@ -822,5 +831,41 @@ SUMMARY:IRRLICHTER - RIO REISER - SEINE LIEDER\, SEIN DENKEN\, SEIN FÜHL
 URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2940038/2027/01/2
  4/irrlichter-rio-reiser-seine-lieder-sein-denken-sein-fühlen.html
 LOCATION:St.-Michael-Kirche\, Woltersdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:woltersdorf-event-2990885@amtsfeed.de
+DTSTAMP:20261026T090726Z
+DTSTART:20270212T190000Z
+SUMMARY:Dorflese
+URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2990885/2027/02/1
+ 2/dorflese.html
+LOCATION:Kulturhaus Alte Schule
+END:VEVENT
+BEGIN:VEVENT
+UID:woltersdorf-event-2990892@amtsfeed.de
+DTSTAMP:20261026T090726Z
+DTSTART:20270404T150000Z
+SUMMARY:Woltersdorfer Wanderung
+URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2990892/2027/04/0
+ 4/woltersdorfer-wanderung.html
+LOCATION:Kulturhaus Alte Schule
+END:VEVENT
+BEGIN:VEVENT
+UID:woltersdorf-event-2990893@amtsfeed.de
+DTSTAMP:20261026T090726Z
+DTSTART:20270711T150000Z
+SUMMARY:Woltersdorfer Wanderung
+URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2990893/2027/07/1
+ 1/woltersdorfer-wanderung.html
+LOCATION:Kulturhaus Alte Schule
+END:VEVENT
+BEGIN:VEVENT
+UID:woltersdorf-event-2990894@amtsfeed.de
+DTSTAMP:20261026T090726Z
+DTSTART:20271017T150000Z
+SUMMARY:Woltersdorfer Wanderung
+URL:https://www.woltersdorf-schleuse.de/veranstaltungen/2990894/2027/10/1
+ 7/woltersdorfer-wanderung.html
+LOCATION:Kulturhaus Alte Schule
 END:VEVENT
 END:VCALENDAR

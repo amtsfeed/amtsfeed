@@ -664,4 +664,14 @@ URL:https://amt-niemegk.de/events/bibliothek-mit-heidi-und-mandy-539-585-
  time=1793629800
 LOCATION:Familienzentrum Niemegk
 END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-11-03-2026-11-03@amtsfeed.de
+DTSTAMP:20261026T090739Z
+DTSTART:20261103T150000Z
+DTEND:20261103T170000Z
+SUMMARY:Cafe für pflegende Zu- und Angehörige
+URL:https://amt-niemegk.de/events/cafe-fuer-pflegende-zu-und-angehoerige/
+ ?occurrence=2026-11-03&#038\;time=1793718000
+LOCATION:Familienzentrum Niemegk
+END:VEVENT
 END:VCALENDAR

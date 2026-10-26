@@ -1729,6 +1729,16 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  ModID=11&amp\;FID=2967.8010.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:oranienburg-event-8076@amtsfeed.de
+DTSTAMP:20261026T090552Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Helloween im Grünen Klassenzimmer
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Helloween-im-Gr%C3%BCnen-Klassenzimmer.php?object=tx\,2967.4&amp\;Mod
+ ID=11&amp\;FID=2967.8076.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:oranienburg-event-8073@amtsfeed.de
 DTSTAMP:20261020T084106Z
 DTSTART;VALUE=DATE:20261101
@@ -1831,5 +1841,17 @@ SUMMARY:Mit Robert Kreis in die &raquo\;goldenen Zwanziger&laquo\;
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/Mit-Robert-Kreis-in-die-goldenen-Zwanziger-.php?object=tx\,2967.4&amp
  \;ModID=11&amp\;FID=2967.7821.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8062@amtsfeed.de
+DTSTAMP:20261026T090552Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:&raquo\;Rasensprenger&laquo\; - Traumschüff-Theater in Sachsenha
+ usen
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/-Rasensprenger-Traumsch%C3%BCff-Theater-in-Sachsenhausen.php?object=t
+ x\,2967.4&amp\;ModID=11&amp\;FID=2967.8062.1&amp\;NavID=2967.39&amp\;sfre
+ g=1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

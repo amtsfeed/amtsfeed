@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T08:35:51.433Z",
+  "updatedAt": "2026-10-26T09:06:42.095Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -597,14 +597,6 @@
       "updatedAt": "2026-10-11T10:11:15.475Z"
     },
     {
-      "id": "scharmuetzelsee-alpaka-spaziergang-ferienprogramm",
-      "title": "Alpaka Spaziergang - Ferienprogramm",
-      "url": "https://www.scharmuetzelsee.de/event/alpaka-spaziergang-ferienprogramm",
-      "startDate": "2026-10-12T00:00:00.000Z",
-      "fetchedAt": "2026-10-05T10:38:19.503Z",
-      "updatedAt": "2026-10-12T11:07:15.473Z"
-    },
-    {
       "id": "scharmuetzelsee-aktiv-wochenplan-morgen-paddeltour-mit-der-yaas",
       "title": "Aktiv Wochenplan - Morgen-Paddeltour mit der YAAS",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-morgen-paddeltour-mit-der-yaas",
@@ -619,22 +611,6 @@
       "startDate": "2026-10-13T00:00:00.000Z",
       "fetchedAt": "2026-05-05T15:50:40.941Z",
       "updatedAt": "2026-10-12T11:07:15.473Z"
-    },
-    {
-      "id": "scharmuetzelsee-tier-talk-ferienprogramm",
-      "title": "Tier Talk - Ferienprogramm",
-      "url": "https://www.scharmuetzelsee.de/event/tier-talk-ferienprogramm",
-      "startDate": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-10-12T11:07:15.473Z",
-      "updatedAt": "2026-10-12T11:07:15.473Z"
-    },
-    {
-      "id": "scharmuetzelsee-entdeckertour-in-der-natur-ferienprogramm",
-      "title": "Entdeckertour in der Natur - Ferienprogramm",
-      "url": "https://www.scharmuetzelsee.de/event/entdeckertour-in-der-natur-ferienprogramm",
-      "startDate": "2026-10-13T00:00:00.000Z",
-      "fetchedAt": "2026-10-13T10:46:02.650Z",
-      "updatedAt": "2026-10-13T10:46:02.650Z"
     },
     {
       "id": "scharmuetzelsee-aktiv-wochenplan-kneipp-guesse-am-morgen",
@@ -877,20 +853,28 @@
       "updatedAt": "2026-10-24T08:17:02.499Z"
     },
     {
-      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
-      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
-      "startDate": "2026-10-25T00:00:00.000Z",
-      "fetchedAt": "2026-09-28T09:58:55.325Z",
-      "updatedAt": "2026-10-25T08:35:51.431Z"
-    },
-    {
       "id": "scharmuetzelsee-aktiv-wochenplan-mini-kneippkur",
       "title": "Aktiv Wochenplan - Mini Kneippkur",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mini-kneippkur",
       "startDate": "2026-10-25T00:00:00.000Z",
       "fetchedAt": "2026-05-31T13:16:12.297Z",
       "updatedAt": "2026-10-24T08:17:02.499Z"
+    },
+    {
+      "id": "scharmuetzelsee-alpaka-spaziergang-ferienprogramm",
+      "title": "Alpaka Spaziergang - Ferienprogramm",
+      "url": "https://www.scharmuetzelsee.de/event/alpaka-spaziergang-ferienprogramm",
+      "startDate": "2026-10-26T00:00:00.000Z",
+      "fetchedAt": "2026-10-05T10:38:19.503Z",
+      "updatedAt": "2026-10-26T09:06:42.094Z"
+    },
+    {
+      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
+      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
+      "startDate": "2026-10-26T00:00:00.000Z",
+      "fetchedAt": "2026-09-28T09:58:55.325Z",
+      "updatedAt": "2026-10-26T09:06:42.094Z"
     },
     {
       "id": "scharmuetzelsee-herbstferien-familienspezial-im-wettermuseum",
@@ -907,6 +891,22 @@
       "startDate": "2026-10-26T00:00:00.000Z",
       "fetchedAt": "2026-10-25T08:35:51.431Z",
       "updatedAt": "2026-10-25T08:35:51.431Z"
+    },
+    {
+      "id": "scharmuetzelsee-tier-talk-ferienprogramm",
+      "title": "Tier Talk - Ferienprogramm",
+      "url": "https://www.scharmuetzelsee.de/event/tier-talk-ferienprogramm",
+      "startDate": "2026-10-27T00:00:00.000Z",
+      "fetchedAt": "2026-10-12T11:07:15.473Z",
+      "updatedAt": "2026-10-26T09:06:42.094Z"
+    },
+    {
+      "id": "scharmuetzelsee-entdeckertour-in-der-natur-ferienprogramm",
+      "title": "Entdeckertour in der Natur - Ferienprogramm",
+      "url": "https://www.scharmuetzelsee.de/event/entdeckertour-in-der-natur-ferienprogramm",
+      "startDate": "2026-10-27T00:00:00.000Z",
+      "fetchedAt": "2026-10-13T10:46:02.650Z",
+      "updatedAt": "2026-10-26T09:06:42.094Z"
     },
     {
       "id": "scharmuetzelsee-sternstunden-in-der-saarowtherme",

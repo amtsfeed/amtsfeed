@@ -1219,7 +1219,7 @@ LOCATION:Tourismusinformation
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1991-1@amtsfeed.de
-DTSTAMP:20261020T084151Z
+DTSTAMP:20261026T090655Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Spielt mit! Werke der Spielmittelgestalterin Ursula Wünsch
@@ -1227,7 +1227,7 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Spielt-mit-Werke-der-S
  pielmittelgestalterin-Ursula-W%C3%BCnsch.php?ModID=11&amp\;FID=2852.1991.
  1
-LOCATION:das Museum Utopie und Alltag ein. Denn Spielen macht Spaß
+LOCATION:Museum Utopie und Alltag
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-2006-1@amtsfeed.de
@@ -1245,37 +1245,39 @@ LOCATION:der Stadtbibliothek Eisenhüttenstadt wird dieser Tag zu einem e
   kleine Appetithäppchen
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261025T083608Z
-DTSTART:20261025T083608Z
-SUMMARY:Veranstaltungen
-URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1
-END:VEVENT
-BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1982-1@amtsfeed.de
-DTSTAMP:20261021T084749Z
+DTSTAMP:20261026T090655Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Herbstferien
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herbstferien.php?ModID
  =11&amp\;FID=2852.1982.1
+LOCATION:Club Marchwitza
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1987-1@amtsfeed.de
-DTSTAMP:20261021T084749Z
+DTSTAMP:20261026T090655Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Ausflug in den Herbstferien
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Ausflug-in-den-Herbstf
  erien.php?ModID=11&amp\;FID=2852.1987.1
+LOCATION:Club Marchwitza
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
+DTSTAMP:20261026T090655Z
+DTSTART:20261026T090655Z
+SUMMARY:Veranstaltungen
+URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1953-1@amtsfeed.de
@@ -1368,13 +1370,14 @@ LOCATION:kleine bühne
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1984-1@amtsfeed.de
-DTSTAMP:20261021T084749Z
+DTSTAMP:20261026T090655Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Halloween-Herbstfest im Tiergehege Eisenhüttenstadt
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Halloween-Herbstfest-i
  m-Tiergehege-Eisenh%C3%BCttenstadt-.php?ModID=11&amp\;FID=2852.1984.1
+LOCATION:Tiergehege Eisenhüttenstadt
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1970-1@amtsfeed.de
@@ -1402,13 +1405,14 @@ LOCATION:kleine bühne
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1974-1@amtsfeed.de
-DTSTAMP:20261021T084749Z
+DTSTAMP:20261026T090655Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:"4. Eisenhüttenstädter Schäferstündchen"
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-4-Eisenh%C3%BCttenst%
  C3%A4dter-Sch%C3%A4ferst%C3%BCndchen-.php?ModID=11&amp\;FID=2852.1974.1
+LOCATION:Städtisches Museum
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1718-1@amtsfeed.de

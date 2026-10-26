@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:44:16.714Z",
+  "updatedAt": "2026-10-26T09:07:26.699Z",
   "items": [
     {
       "id": "woltersdorf-event-2891242",
@@ -794,6 +794,15 @@
       "updatedAt": "2026-10-20T08:42:15.617Z"
     },
     {
+      "id": "woltersdorf-event-2990890",
+      "title": "Woltersdorfer Wanderung",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2990890/2027/01/24/woltersdorfer-wanderung.html",
+      "startDate": "2027-01-24T15:00:00.000Z",
+      "location": "Kulturhaus Alte Schule",
+      "fetchedAt": "2026-10-26T09:07:26.691Z",
+      "updatedAt": "2026-10-26T09:07:26.691Z"
+    },
+    {
       "id": "woltersdorf-event-2940038",
       "title": "IRRLICHTER - RIO REISER - SEINE LIEDER, SEIN DENKEN, SEIN FÜHLEN",
       "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2940038/2027/01/24/irrlichter-rio-reiser-seine-lieder-sein-denken-sein-fühlen.html",
@@ -801,6 +810,42 @@
       "location": "St.-Michael-Kirche, Woltersdorf",
       "fetchedAt": "2026-09-11T09:59:44.815Z",
       "updatedAt": "2026-09-11T11:13:14.986Z"
+    },
+    {
+      "id": "woltersdorf-event-2990885",
+      "title": "Dorflese",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2990885/2027/02/12/dorflese.html",
+      "startDate": "2027-02-12T19:00:00.000Z",
+      "location": "Kulturhaus Alte Schule",
+      "fetchedAt": "2026-10-26T09:07:26.691Z",
+      "updatedAt": "2026-10-26T09:07:26.691Z"
+    },
+    {
+      "id": "woltersdorf-event-2990892",
+      "title": "Woltersdorfer Wanderung",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2990892/2027/04/04/woltersdorfer-wanderung.html",
+      "startDate": "2027-04-04T15:00:00.000Z",
+      "location": "Kulturhaus Alte Schule",
+      "fetchedAt": "2026-10-26T09:07:26.691Z",
+      "updatedAt": "2026-10-26T09:07:26.691Z"
+    },
+    {
+      "id": "woltersdorf-event-2990893",
+      "title": "Woltersdorfer Wanderung",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2990893/2027/07/11/woltersdorfer-wanderung.html",
+      "startDate": "2027-07-11T15:00:00.000Z",
+      "location": "Kulturhaus Alte Schule",
+      "fetchedAt": "2026-10-26T09:07:26.691Z",
+      "updatedAt": "2026-10-26T09:07:26.691Z"
+    },
+    {
+      "id": "woltersdorf-event-2990894",
+      "title": "Woltersdorfer Wanderung",
+      "url": "https://www.woltersdorf-schleuse.de/veranstaltungen/2990894/2027/10/17/woltersdorfer-wanderung.html",
+      "startDate": "2027-10-17T15:00:00.000Z",
+      "location": "Kulturhaus Alte Schule",
+      "fetchedAt": "2026-10-26T09:07:26.691Z",
+      "updatedAt": "2026-10-26T09:07:26.691Z"
     }
   ]
 }

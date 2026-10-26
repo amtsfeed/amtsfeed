@@ -1352,15 +1352,6 @@ URL:https://www.michendorf.de/veranstaltungen/2987683/2026/10/24/pilz-exk
  ursion.html
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2646897@amtsfeed.de
-DTSTAMP:20260928T100012Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:Sonntags-Frühstück
-URL:https://www.michendorf.de/veranstaltungen/2646897/2026/10/25/sonntags
- -frühstück.html
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2985088@amtsfeed.de
 DTSTAMP:20261016T082220Z
 DTSTART;VALUE=DATE:20261026
@@ -1721,6 +1712,15 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Wildenbrucher Adventsbasar
 URL:https://www.michendorf.de/veranstaltungen/2984318/2026/11/28/wildenbr
  ucher-adventsbasar.html
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2646897@amtsfeed.de
+DTSTAMP:20261026T090759Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Sonntags-Frühstück
+URL:https://www.michendorf.de/veranstaltungen/2646897/2026/11/29/sonntags
+ -frühstück.html
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2796861@amtsfeed.de

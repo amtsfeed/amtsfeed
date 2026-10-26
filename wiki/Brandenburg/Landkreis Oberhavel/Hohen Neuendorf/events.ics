@@ -797,4 +797,23 @@ SUMMARY:Miteinander reden
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  miteinander-reden-0
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-sprachcafe-3@amtsfeed.de
+DTSTAMP:20261026T090531Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Sprachcafé
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ sprachcafe-3
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-carsten-gansel-ausradiert-wie-die-literatur-der
+ -ddr-verschwand@amtsfeed.de
+DTSTAMP:20261026T090531Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Carsten Gansel: Ausradiert? Wie die Literatur der DDR verschwand
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ carsten-gansel-ausradiert-wie-die-literatur-der-ddr-verschwand
+END:VEVENT
 END:VCALENDAR

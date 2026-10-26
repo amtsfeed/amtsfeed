@@ -10425,6 +10425,15 @@ URL:https://www.osl-online.de/veranstaltungen/2965261/2027/01/09/kneipenq
 LOCATION:Gasthof Meuro
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2991004-20270110@amtsfeed.de
+DTSTAMP:20261026T090634Z
+DTSTART:20270110T190000Z
+SUMMARY:Rockballaden bei Kerzenschein
+URL:https://www.osl-online.de/veranstaltungen/2991004/2027/01/10/rockball
+ aden-bei-kerzenschein.html
+LOCATION:Stadthalle Calau
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2124462-20270111@amtsfeed.de
 DTSTAMP:20260531T184206Z
 DTSTART:20270111T153000Z
@@ -14736,5 +14745,14 @@ SUMMARY:Treffpunkt Bürgertheater
 URL:https://www.osl-online.de/veranstaltungen/2124466/2027/10/25/treffpun
  kt-bürgertheater.html
 LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2290342-20271026@amtsfeed.de
+DTSTAMP:20261026T090634Z
+DTSTART:20271026T080000Z
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.osl-online.de/veranstaltungen/2290342/2027/10/26/calauer-
+ wochenmarkt.html
+LOCATION:Marktplatz Calau
 END:VEVENT
 END:VCALENDAR

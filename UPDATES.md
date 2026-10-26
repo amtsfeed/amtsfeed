@@ -1,5 +1,51 @@
 # Updates
 
+## 2026-10-26 09:08
+
+Insgesamt **563 neu**, **241 aktualisiert**, **1 entfernt** in 39 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Amt Beetzsee | +1 | — | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Brück | +1 | — | — | — |
+| Amt Neuzelle | +1 | — | — | — |
+| Amt Niemegk | — | +1 | — | — |
+| Amt Scharmützelsee | — | -1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | ~4 | — | — |
+| Amt Schlieben | — | +1 | — | — |
+| Amt Spreenhagen | — | +1 | — | — |
+| Amt Ziesar | +1 | — | — | ~24 |
+| Bernau bei Berlin | +1 | ~10 | +1 | — |
+| Calau | +1 | +1 / ~2 | — | — |
+| Dallgow-Döberitz | +1 | — | — | — |
+| Eberswalde | — | +4 | — | — |
+| Eisenhüttenstadt | — | ~6 | — | — |
+| Falkensee | — | +2 | — | — |
+| Fredersdorf-Vogelsdorf | +1 | — | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Groß Kreutz | — | ~22 | — | — |
+| Hennigsdorf | — | +1 | — | — |
+| Hohen Neuendorf | — | +2 | — | — |
+| Ketzin Havel | — | +3 | — | — |
+| Kloster Lehnin | — | +3 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +1 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +2 | — | — |
+| Lübbenau Spreewald | — | +505 / ~131 | — | — |
+| Luckau | — | — | +1 | — |
+| Michendorf | — | ~1 | — | — |
+| Oderbruch / Amt Seelow-Land | +1 | — | — | — |
+| Oderbruch / Amt Seelow-Land / Seelow | — | — | +1 | — |
+| Oranienburg | — | +2 | — | — |
+| Premnitz | — | +7 | — | — |
+| Rathenow | — | +1 | — | — |
+| Schönefeld | ~3 | ~30 | — | — |
+| Schöneiche bei Berlin | — | +1 | — | — |
+| Senftenberg | — | +5 | — | — |
+| Treuenbrietzen | — | — | +1 | — |
+| Woltersdorf | +1 | +5 | — | — |
+| Wustermark | — | +1 | — | — |
+
 ## 2026-10-25 08:42
 
 Insgesamt **549 neu**, **211 aktualisiert**, **1 entfernt** in 34 Quellen.

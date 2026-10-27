@@ -1910,6 +1910,15 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2981542/2026/11/
  07/anglerball.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2991098-20261107@amtsfeed.de
+DTSTAMP:20261027T090302Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:BEGEGNUNGEN MIT FÜHMANN (Veranstaltungsreihe)
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2991098/2026/11/
+ 07/begegnungen-mit-fühmann-veranstaltungsreihe.html
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2668097-20261109@amtsfeed.de
 DTSTAMP:20260508T193631Z
 DTSTART;VALUE=DATE:20261109
@@ -3894,5 +3903,14 @@ DTEND;VALUE=DATE:20271026
 SUMMARY:MGH "Franz Fühmann": Frühstückstreff
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2668097/2027/10/
  25/mgh-franz-fühmann-frühstückstreff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549386-20271027@amtsfeed.de
+DTSTAMP:20261027T090302Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2027/10/
+ 27/krabbelgruppe-im-mgh-franz-fühmann-nach-anmeldung.html
 END:VEVENT
 END:VCALENDAR

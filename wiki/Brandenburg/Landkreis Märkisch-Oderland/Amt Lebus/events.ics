@@ -1155,39 +1155,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2989702/2026/10/25/drachenfe
 LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
-UID:2402834@amtsfeed.de
-DTSTAMP:20261020T083949Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Kreativgruppe in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/10/26/kreativgr
- uppe-in-podelzig.html
-DESCRIPTION:in Gemeindezentrum
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464902@amtsfeed.de
-DTSTAMP:20261020T083949Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/10/26/tischtenn
- is.html
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464900@amtsfeed.de
-DTSTAMP:20261020T083949Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Dart für Jedermann
-URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/10/26/dart-für
- -jedermann.html
-DESCRIPTION:Sportlerheim Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464901@amtsfeed.de
 DTSTAMP:20261021T084437Z
 DTSTART;VALUE=DATE:20261027
@@ -1292,6 +1259,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2985486/2026/10/30/halloween
 LOCATION:Kulturhaus Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2991309@amtsfeed.de
+DTSTAMP:20261027T090738Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Konzert in der Kirche Lebus
+URL:https://www.amt-lebus.de/veranstaltungen/2991309/2026/10/30/konzert-i
+ n-der-kirche-lebus.html
+LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
 UID:2464910@amtsfeed.de
 DTSTAMP:20261025T083313Z
 DTSTART;VALUE=DATE:20261031
@@ -1334,6 +1311,39 @@ SUMMARY:Zeschdorf lädt ein: Gruselspaß und Party!
 URL:https://www.amt-lebus.de/veranstaltungen/2984490/2026/10/31/zeschdorf
  -lädt-ein-gruselspaß-und-party.html
 LOCATION:Kulturhaus Alt Zeschdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:2402834@amtsfeed.de
+DTSTAMP:20261027T090738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Kreativgruppe in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/02/kreativgr
+ uppe-in-podelzig.html
+DESCRIPTION:in Gemeindezentrum
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464902@amtsfeed.de
+DTSTAMP:20261027T090738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/02/tischtenn
+ is.html
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464900@amtsfeed.de
+DTSTAMP:20261027T090738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Dart für Jedermann
+URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/02/dart-für
+ -jedermann.html
+DESCRIPTION:Sportlerheim Podelzig
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2846367@amtsfeed.de
@@ -1470,6 +1480,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2984515/2026/11/14/4.-pokemo
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
+UID:2991293@amtsfeed.de
+DTSTAMP:20261027T090738Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:18. Zeschdorfer Kinonacht
+URL:https://www.amt-lebus.de/veranstaltungen/2991293/2026/11/14/18.-zesch
+ dorfer-kinonacht.html
+LOCATION:Kulturhaus Alt Zeschdorf
+END:VEVENT
+BEGIN:VEVENT
 UID:2873363@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20261121
@@ -1498,6 +1518,16 @@ SUMMARY:Gedenk-Andacht in Mallnow
 URL:https://www.amt-lebus.de/veranstaltungen/2989200/2026/11/21/gedenk-an
  dacht-in-mallnow.html
 LOCATION:Kirchenruine Mallnow
+END:VEVENT
+BEGIN:VEVENT
+UID:2991298@amtsfeed.de
+DTSTAMP:20261027T090738Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Einladung zum Advetnskränze basteln in drr Kapelle Hohenjesar
+URL:https://www.amt-lebus.de/veranstaltungen/2991298/2026/11/21/einladung
+ -zum-advetnskränze-basteln-in-drr-kapelle-hohenjesar.html
+LOCATION:Kirche Hohenjesar
 END:VEVENT
 BEGIN:VEVENT
 UID:2984489@amtsfeed.de

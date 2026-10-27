@@ -7522,6 +7522,17 @@ URL:https://www.osl-online.de/veranstaltungen/2963089/2026/10/31/günter-
 LOCATION:Evangelische Kirche Altdöbern
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2991652-20261101@amtsfeed.de
+DTSTAMP:20261027T090928Z
+DTSTART:20261101T140000Z
+SUMMARY:Bildervortrag: Es werde Licht am IBA-Kreisel!  Wie Angela Willeke
+ s Kunstobjekt nach Großräschen kam
+URL:https://www.osl-online.de/veranstaltungen/2991652/2026/11/01/bildervo
+ rtrag-es-werde-licht-am-iba-kreisel-wie-angela-willekes-kunstobjekt-nach-
+ großräschen-kam.html
+LOCATION:Kulturlandschaft Lausitz im IBA-Studierhaus e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2791019-20261102@amtsfeed.de
 DTSTAMP:20260531T184206Z
 DTSTART:20261102T090000Z
@@ -7904,6 +7915,16 @@ SUMMARY:Gottesdienst in Allmosen
 URL:https://www.osl-online.de/veranstaltungen/2957424/2026/11/08/gottesdi
  enst-in-allmosen.html
 LOCATION:Allmosen
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2991536-20261109@amtsfeed.de
+DTSTAMP:20261027T090928Z
+DTSTART:20261109T093000Z
+DTEND:20261109T113000Z
+SUMMARY:gesund &amp\; vital
+URL:https://www.osl-online.de/veranstaltungen/2991536/2026/11/09/gesund-a
+ mp-vital.html
+LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2898941-20261109@amtsfeed.de
@@ -14754,5 +14775,15 @@ SUMMARY:Calauer Wochenmarkt
 URL:https://www.osl-online.de/veranstaltungen/2290342/2027/10/26/calauer-
  wochenmarkt.html
 LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2315266-20271027@amtsfeed.de
+DTSTAMP:20261027T090928Z
+DTSTART:20271027T100000Z
+DTEND:20271027T120000Z
+SUMMARY:Calauer Museen öffnen
+URL:https://www.osl-online.de/veranstaltungen/2315266/2027/10/27/calauer-
+ museen-öffnen.html
+LOCATION:Haus der Heimatgeschichte
 END:VEVENT
 END:VCALENDAR

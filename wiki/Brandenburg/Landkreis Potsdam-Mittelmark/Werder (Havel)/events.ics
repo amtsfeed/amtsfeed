@@ -6279,8 +6279,8 @@ LOCATION:Theater Comedie Soleil
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167763@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261028T103000Z
+DTSTAMP:20261027T091122Z
+DTSTART:20261027T091122Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167763
@@ -6288,8 +6288,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167942@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261028T140000Z
+DTSTAMP:20261027T091122Z
+DTSTART:20261027T091122Z
 SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167942
@@ -6430,6 +6430,16 @@ SUMMARY:Erzählfrühstück für Seniorinnen und Senioren
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99127093
 LOCATION:Cafe des Edeka Marktes
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233793@amtsfeed.de
+DTSTAMP:20261027T091122Z
+DTSTART:20261104T183000Z
+SUMMARY:Filmpremiere „Mit 66 Jahren\, da fängt das Leben an – 66 Jah
+ re KCW“
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233793
+LOCATION:Scala-Kulturpalast
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99231567@amtsfeed.de
@@ -6605,6 +6615,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Kreisvolkshochschule Potsdam-Mittelmark
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233791@amtsfeed.de
+DTSTAMP:20261027T091122Z
+DTSTART:20261114T110000Z
+SUMMARY:Ausstellung: Das Echo der Bäume
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233791
+LOCATION:Atelier Vulkanfiberfabrik
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99128753@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261114T120000Z
@@ -6632,6 +6651,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Theater Comedie Soleil
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233792@amtsfeed.de
+DTSTAMP:20261027T091122Z
+DTSTART:20261115T110000Z
+SUMMARY:Ausstellung: Das Echo der Bäume
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233792
+LOCATION:Atelier Vulkanfiberfabrik
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99128754@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261115T120000Z
@@ -6648,6 +6676,15 @@ SUMMARY:Schloss des Grauens - ein Gruselspaß
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99228343
 LOCATION:Theater Comedie Soleil
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233799@amtsfeed.de
+DTSTAMP:20261027T091122Z
+DTSTART:20261116T190000Z
+SUMMARY:Karnevalistische Jubiläums-Prunksitzung des KCW
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233799
+LOCATION:Festsaal Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99231568@amtsfeed.de
@@ -6684,6 +6721,15 @@ SUMMARY:Farm-to-table Aperitivo - Ein Tisch. Vier Jahreszeiten
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99135568
 LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233801@amtsfeed.de
+DTSTAMP:20261027T091122Z
+DTSTART:20261121T190000Z
+SUMMARY:Karnevalistische Jubiläums-Freundesitzung des KCW
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233801
+LOCATION:Festsaal Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99128756@amtsfeed.de

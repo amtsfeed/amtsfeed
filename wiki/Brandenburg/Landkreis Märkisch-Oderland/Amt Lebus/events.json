@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T08:33:13.816Z",
+  "updatedAt": "2026-10-27T09:07:38.182Z",
   "items": [
     {
       "id": "2846347",
@@ -975,36 +975,6 @@
       "updatedAt": "2026-10-23T08:41:37.730Z"
     },
     {
-      "id": "2402834",
-      "title": "Kreativgruppe in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2402834/2026/10/26/kreativgruppe-in-podelzig.html",
-      "startDate": "2026-10-26T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "in Gemeindezentrum",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-20T08:39:49.305Z"
-    },
-    {
-      "id": "2464902",
-      "title": "Tischtennis",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464902/2026/10/26/tischtennis.html",
-      "startDate": "2026-10-26T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-20T08:39:49.305Z"
-    },
-    {
-      "id": "2464900",
-      "title": "Dart für Jedermann",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464900/2026/10/26/dart-für-jedermann.html",
-      "startDate": "2026-10-26T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Sportlerheim Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-20T08:39:49.305Z"
-    },
-    {
       "id": "2464901",
       "title": "Selbstverteidigung für Frauen",
       "url": "https://www.amt-lebus.de/veranstaltungen/2464901/2026/10/27/selbstverteidigung-für-frauen.html",
@@ -1099,6 +1069,15 @@
       "updatedAt": "2026-10-16T08:18:31.068Z"
     },
     {
+      "id": "2991309",
+      "title": "Konzert in der Kirche Lebus",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2991309/2026/10/30/konzert-in-der-kirche-lebus.html",
+      "startDate": "2026-10-30T00:00:00.000Z",
+      "location": "Pfarrkirche Lebus",
+      "fetchedAt": "2026-10-27T09:07:38.166Z",
+      "updatedAt": "2026-10-27T09:07:38.166Z"
+    },
+    {
       "id": "2464910",
       "title": "Bäckerwagen in Podelzig",
       "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/10/31/bäckerwagen-in-podelzig.html",
@@ -1136,6 +1115,36 @@
       "location": "Kulturhaus Alt Zeschdorf",
       "fetchedAt": "2026-10-15T08:25:31.421Z",
       "updatedAt": "2026-10-15T08:25:31.421Z"
+    },
+    {
+      "id": "2402834",
+      "title": "Kreativgruppe in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/02/kreativgruppe-in-podelzig.html",
+      "startDate": "2026-11-02T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "in Gemeindezentrum",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-27T09:07:38.166Z"
+    },
+    {
+      "id": "2464902",
+      "title": "Tischtennis",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/02/tischtennis.html",
+      "startDate": "2026-11-02T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-27T09:07:38.166Z"
+    },
+    {
+      "id": "2464900",
+      "title": "Dart für Jedermann",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/02/dart-für-jedermann.html",
+      "startDate": "2026-11-02T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Sportlerheim Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-27T09:07:38.166Z"
     },
     {
       "id": "2846367",
@@ -1252,6 +1261,15 @@
       "updatedAt": "2026-10-15T08:25:31.421Z"
     },
     {
+      "id": "2991293",
+      "title": "18. Zeschdorfer Kinonacht",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2991293/2026/11/14/18.-zeschdorfer-kinonacht.html",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "Kulturhaus Alt Zeschdorf",
+      "fetchedAt": "2026-10-27T09:07:38.166Z",
+      "updatedAt": "2026-10-27T09:07:38.166Z"
+    },
+    {
       "id": "2873363",
       "title": "Gedenk Andacht in Mallnow",
       "url": "https://www.amt-lebus.de/veranstaltungen/2873363/2026/11/21/gedenk-andacht-in-mallnow.html",
@@ -1277,6 +1295,15 @@
       "location": "Kirchenruine Mallnow",
       "fetchedAt": "2026-10-22T08:44:08.791Z",
       "updatedAt": "2026-10-22T08:44:08.791Z"
+    },
+    {
+      "id": "2991298",
+      "title": "Einladung zum Advetnskränze basteln in drr Kapelle Hohenjesar",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2991298/2026/11/21/einladung-zum-advetnskränze-basteln-in-drr-kapelle-hohenjesar.html",
+      "startDate": "2026-11-21T00:00:00.000Z",
+      "location": "Kirche Hohenjesar",
+      "fetchedAt": "2026-10-27T09:07:38.166Z",
+      "updatedAt": "2026-10-27T09:07:38.166Z"
     },
     {
       "id": "2984489",

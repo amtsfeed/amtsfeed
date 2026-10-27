@@ -695,24 +695,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2891496/2026/10/23/konzert
  -sixty-beats.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855689@amtsfeed.de
-DTSTAMP:20261020T084103Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Die Montagshelden - Gymnastik & Bewegung
-URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/10/26/die-mon
- tagshelden-gymnastik-bewegung.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855686@amtsfeed.de
-DTSTAMP:20261021T084625Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Seniorentanzgruppe "Spätlese"
-URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/10/27/seniore
- ntanzgruppe-spätlese.html
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855781@amtsfeed.de
 DTSTAMP:20260923T084524Z
 DTSTART;VALUE=DATE:20261027
@@ -720,6 +702,15 @@ DTEND;VALUE=DATE:20261028
 SUMMARY:Skat in Bötzow
 URL:https://www.oberkraemer.de/veranstaltungen/2855781/2026/10/27/skat-in
  -bötzow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2991173@amtsfeed.de
+DTSTAMP:20261027T090854Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Seniorentanzgruppe "Spätlese"
+URL:https://www.oberkraemer.de/veranstaltungen/2991173/2026/10/27/seniore
+ ntanzgruppe-spätlese.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855698@amtsfeed.de
@@ -823,6 +814,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2957585/2026/10/31/krimi-d
  inner--ausverkauft.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2991259@amtsfeed.de
+DTSTAMP:20261027T090854Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:HALLOWEEN- RAVE
+URL:https://www.oberkraemer.de/veranstaltungen/2991259/2026/10/31/hallowe
+ en-rave.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2825871@amtsfeed.de
 DTSTAMP:20260911T111217Z
 DTSTART;VALUE=DATE:20261101
@@ -832,6 +832,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2825871/2026/11/01/gottesd
  ienst.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2855689@amtsfeed.de
+DTSTAMP:20261027T090854Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Die Montagshelden - Gymnastik & Bewegung
+URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/11/02/die-mon
+ tagshelden-gymnastik-bewegung.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2979523@amtsfeed.de
 DTSTAMP:20261006T102754Z
 DTSTART;VALUE=DATE:20261102
@@ -839,6 +848,15 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Zaubershow zur Wiedereröffnung der Bibliothek Vehlefanz
 URL:https://www.oberkraemer.de/veranstaltungen/2979523/2026/11/02/zaubers
  how-zur-wiedereröffnung-der-bibliothek-vehlefanz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855686@amtsfeed.de
+DTSTAMP:20261027T090854Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Seniorentanzgruppe "Spätlese"
+URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/11/03/seniore
+ ntanzgruppe-spätlese.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2979521@amtsfeed.de
@@ -911,6 +929,15 @@ DTEND;VALUE=DATE:20261107
 SUMMARY:Erste Notenübersicht (Klasse 3-6)
 URL:https://www.oberkraemer.de/veranstaltungen/2962220/2026/11/06/erste-n
  otenübersicht-klasse-3-6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2991606@amtsfeed.de
+DTSTAMP:20261027T090854Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:WIR.PUNKT
+URL:https://www.oberkraemer.de/veranstaltungen/2991606/2026/11/06/wir.pun
+ kt.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855754@amtsfeed.de
@@ -1048,6 +1075,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2988859/2026/11/11/martins
  gansessen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2991612@amtsfeed.de
+DTSTAMP:20261027T090854Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:GENO - Medizinischer Notfall – Was tun?
+URL:https://www.oberkraemer.de/veranstaltungen/2991612/2026/11/11/geno-me
+ dizinischer-notfall--was-tun.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2962222@amtsfeed.de
 DTSTAMP:20260912T080536Z
 DTSTART;VALUE=DATE:20261112
@@ -1082,6 +1118,15 @@ DTEND;VALUE=DATE:20261114
 SUMMARY:Weihnachtspostamt Oberkrämer
 URL:https://www.oberkraemer.de/veranstaltungen/2615527/2026/11/13/weihnac
  htspostamt-oberkrämer.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2991617@amtsfeed.de
+DTSTAMP:20261027T090854Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:GENO - Nachbarschaftshilfe
+URL:https://www.oberkraemer.de/veranstaltungen/2991617/2026/11/13/geno-na
+ chbarschaftshilfe.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2961758@amtsfeed.de
@@ -1319,6 +1364,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2825875/2026/11/29/advents
  cafe.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2991637@amtsfeed.de
+DTSTAMP:20261027T090854Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Gesundheit braucht Bewegung!
+URL:https://www.oberkraemer.de/veranstaltungen/2991637/2026/11/29/gesundh
+ eit-braucht-bewegung.html
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2962225@amtsfeed.de
 DTSTAMP:20260922T084022Z
 DTSTART;VALUE=DATE:20261130
@@ -1452,6 +1506,15 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Kaffeenachmittag - Senioren Club Eichstädt
 URL:https://www.oberkraemer.de/veranstaltungen/2855795/2026/12/09/kaffeen
  achmittag-senioren-club-eichstädt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2991660@amtsfeed.de
+DTSTAMP:20261027T090854Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:GENO - Fahreignung und Gesundheit
+URL:https://www.oberkraemer.de/veranstaltungen/2991660/2026/12/09/geno-fa
+ hreignung-und-gesundheit.html
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2968516@amtsfeed.de

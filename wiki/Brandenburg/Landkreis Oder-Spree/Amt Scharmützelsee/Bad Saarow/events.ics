@@ -752,17 +752,6 @@ URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-lesung
  asses-mit-daniel-schreiber
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
- enkmal-bunkeranlage-fuchsbau@amtsfeed.de
-DTSTAMP:20261016T082039Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
- nkeranlage Fuchsbau“
-URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
- nker-im-technischen-denkmal-bunkeranlage-fuchsbau
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-syl
  via-musick@amtsfeed.de
 DTSTAMP:20261021T084729Z
@@ -771,14 +760,6 @@ DTEND;VALUE=DATE:20261022
 SUMMARY:Ratschen und tratschen - Handarbeitsnachmittage mit Sylvia Musick
 URL:https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbei
  tsnachmittage-mit-sylvia-musick
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-drachen-basteln-ferienprogramm@amtsfeed.de
-DTSTAMP:20261021T084729Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Drachen basteln - Ferienprogramm
-URL:https://www.scharmuetzelsee.de/event/drachen-basteln-ferienprogramm
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-kuschelstunde-mit-unseren-zwergschafen-ferienprogramm
@@ -815,15 +796,6 @@ DTEND;VALUE=DATE:20261022
 SUMMARY:Aktiv Wochenplan - Töpfern Schnupperkurs
 URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-toepfern-schnup
  perkurs
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261021T084729Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-escape-game-mission-klimaschutz-die-zeit-laeuft@amtsf
@@ -939,16 +911,6 @@ URL:https://www.scharmuetzelsee.de/event/wir-basteln-unsere-coolste-later
  ne-ferienprogramm
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
- d.de
-DTSTAMP:20261023T084332Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
-URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
- harmuetzelsee
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-satamas-giess-meinen-guss@amtsfeed.de
 DTSTAMP:20261001T102046Z
 DTSTART;VALUE=DATE:20261023
@@ -1024,26 +986,6 @@ URL:https://www.scharmuetzelsee.de/event/alpaka-spaziergang-ferienprogram
  m
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261026T090642Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-herbstferien-familienspezial-im-wettermuseum@amtsfeed
- .de
-DTSTAMP:20261025T083551Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Herbstferien Familienspezial im Wettermuseum
-URL:https://www.scharmuetzelsee.de/event/herbstferien-familienspezial-im-
- wettermuseum
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-besuch-bei-muemmel-quieki-ferienprogramm@amtsfeed.de
 DTSTAMP:20261025T083551Z
 DTSTART;VALUE=DATE:20261026
@@ -1051,6 +993,35 @@ DTEND;VALUE=DATE:20261027
 SUMMARY:Besuch bei Mümmel & Quieki - Ferienprogramm
 URL:https://www.scharmuetzelsee.de/event/besuch-bei-muemmel-quieki-ferien
  programm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261027T090935Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
+ d.de
+DTSTAMP:20261027T090935Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
+ harmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261027T090935Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-tier-talk-ferienprogramm@amtsfeed.de
@@ -1068,6 +1039,43 @@ DTEND;VALUE=DATE:20261028
 SUMMARY:Entdeckertour in der Natur - Ferienprogramm
 URL:https://www.scharmuetzelsee.de/event/entdeckertour-in-der-natur-ferie
  nprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-fit-in-den-winter@amtsfeed.de
+DTSTAMP:20261027T090935Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Fit in den Winter
+URL:https://www.scharmuetzelsee.de/event/fit-in-den-winter
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
+ enkmal-bunkeranlage-fuchsbau@amtsfeed.de
+DTSTAMP:20261027T090935Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
+ nkeranlage Fuchsbau“
+URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
+ nker-im-technischen-denkmal-bunkeranlage-fuchsbau
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-drachen-basteln-ferienprogramm@amtsfeed.de
+DTSTAMP:20261027T090935Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Drachen basteln - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/drachen-basteln-ferienprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-herbstferien-familienspezial-im-wettermuseum@amtsfeed
+ .de
+DTSTAMP:20261027T090935Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Herbstferien Familienspezial im Wettermuseum
+URL:https://www.scharmuetzelsee.de/event/herbstferien-familienspezial-im-
+ wettermuseum
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de

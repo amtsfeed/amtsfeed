@@ -825,15 +825,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2953466/2026/10/25/go
  ttesdienst.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2952576@amtsfeed.de
-DTSTAMP:20261020T083639Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Nähen\, Stricken \, Häkeln
-URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/10/26/n
- ähen-stricken--häkeln.html
-END:VEVENT
-BEGIN:VEVENT
 UID:2971999@amtsfeed.de
 DTSTAMP:20260923T083906Z
 DTSTART;VALUE=DATE:20261028
@@ -958,6 +949,15 @@ DTEND;VALUE=DATE:20261101
 SUMMARY:Wiedereröffnung Heidebergturm
 URL:https://www.amt-schradenland.de/veranstaltungen/2988840/2026/10/31/wi
  edereröffnung-heidebergturm.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2952576@amtsfeed.de
+DTSTAMP:20261027T090357Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Nähen\, Stricken \, Häkeln
+URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/11/02/n
+ ähen-stricken--häkeln.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2829977@amtsfeed.de

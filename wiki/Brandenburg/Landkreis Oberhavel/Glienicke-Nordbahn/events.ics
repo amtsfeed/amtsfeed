@@ -853,9 +853,9 @@ LOCATION:Bürgerhaus\, Moskauer Straße 20\, 16548 Glienicke-Nordbahn
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005960@amtsfeed.de
-DTSTAMP:20261017T075454Z
+DTSTAMP:20261027T090827Z
 DTSTART:20261203T173000Z
-SUMMARY:Sitzung des Hauptausschusses
+SUMMARY:20. Sitzung des Hauptausschusses
 URL:https://www.glienicke.eu/veranstaltungen/904005960-22451.html
 LOCATION:Vereinszimmer Dreifeldhalle
 END:VEVENT
@@ -923,5 +923,74 @@ DTEND:20261231T120000Z
 SUMMARY:Silvester-Teamlauf
 URL:https://www.glienicke.eu/veranstaltungen/904005965-22451.html
 LOCATION:Sportplatz Bieselheide
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005966@amtsfeed.de
+DTSTAMP:20261027T090827Z
+DTSTART:20270208T173000Z
+SUMMARY:16. Sitzung des Ausschusses für Soziales\, Bildung\, Kultur und 
+ Sport
+URL:https://www.glienicke.eu/veranstaltungen/904005966-22451.html
+LOCATION:Vereinszimmer Dreifeldhalle
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005967@amtsfeed.de
+DTSTAMP:20261027T090827Z
+DTSTART:20270209T173000Z
+SUMMARY:16. Sitzung des Ausschusses für Technische Infrastruktur und Gew
+ erbe
+URL:https://www.glienicke.eu/veranstaltungen/904005967-22451.html
+LOCATION:Vereinszimmer Dreifeldhalle
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005968@amtsfeed.de
+DTSTAMP:20261027T090827Z
+DTSTART:20270210T173000Z
+SUMMARY:15. Sitzung des Ausschusses für Planen\, Bauen\, Wohnen und Umwe
+ lt (Planungsausschuss)
+URL:https://www.glienicke.eu/veranstaltungen/904005968-22451.html
+LOCATION:Vereinszimmer Dreifeldhalle
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005969@amtsfeed.de
+DTSTAMP:20261027T090827Z
+DTSTART:20270211T173000Z
+SUMMARY:5. Sitzung des zeitweiligen Ausschusses ´Neubau/Erweiterung Schu
+ l- und Hortcampus
+URL:https://www.glienicke.eu/veranstaltungen/904005969-22451.html
+LOCATION:Vereinszimmer Dreifeldhalle
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005970@amtsfeed.de
+DTSTAMP:20261027T090827Z
+DTSTART:20270224T173000Z
+SUMMARY:21. Sitzung des Hauptausschusses
+URL:https://www.glienicke.eu/veranstaltungen/904005970-22451.html
+LOCATION:Vereinszimmer Dreifeldhalle
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005971@amtsfeed.de
+DTSTAMP:20261027T090827Z
+DTSTART:20270225T173000Z
+SUMMARY:eventuelle Fortsetzung der 21. Sitzung des Hauptausschusses
+URL:https://www.glienicke.eu/veranstaltungen/904005971-22451.html
+LOCATION:Vereinszimmer Dreifeldhalle
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005972@amtsfeed.de
+DTSTAMP:20261027T090827Z
+DTSTART:20270309T173000Z
+SUMMARY:26. Sitzung der Gemeindevertretung Glienicke/Nordbahn
+URL:https://www.glienicke.eu/veranstaltungen/904005972-22451.html
+LOCATION:Mensa
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005973@amtsfeed.de
+DTSTAMP:20261027T090827Z
+DTSTART:20270310T173000Z
+SUMMARY:eventuelle Fortsetzung der 26. Sitzung der Gemeindevertretung Gli
+ enicke/Nordbahn
+URL:https://www.glienicke.eu/veranstaltungen/904005973-22451.html
+LOCATION:Mensa
 END:VEVENT
 END:VCALENDAR

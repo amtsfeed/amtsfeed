@@ -1219,7 +1219,7 @@ LOCATION:Tourismusinformation
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1991-1@amtsfeed.de
-DTSTAMP:20261026T090655Z
+DTSTAMP:20261027T090959Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Spielt mit! Werke der Spielmittelgestalterin Ursula Wünsch
@@ -1227,7 +1227,7 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Spielt-mit-Werke-der-S
  pielmittelgestalterin-Ursula-W%C3%BCnsch.php?ModID=11&amp\;FID=2852.1991.
  1
-LOCATION:Museum Utopie und Alltag
+LOCATION:das Museum Utopie und Alltag ein. Denn Spielen macht Spaß
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-2006-1@amtsfeed.de
@@ -1271,8 +1271,8 @@ UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
  a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
  ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261026T090655Z
-DTSTART:20261026T090655Z
+DTSTAMP:20261027T090959Z
+DTSTART:20261027T090959Z
 SUMMARY:Veranstaltungen
 URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
@@ -1370,14 +1370,13 @@ LOCATION:kleine bühne
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1984-1@amtsfeed.de
-DTSTAMP:20261026T090655Z
+DTSTAMP:20261027T090959Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Halloween-Herbstfest im Tiergehege Eisenhüttenstadt
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Halloween-Herbstfest-i
  m-Tiergehege-Eisenh%C3%BCttenstadt-.php?ModID=11&amp\;FID=2852.1984.1
-LOCATION:Tiergehege Eisenhüttenstadt
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1970-1@amtsfeed.de
@@ -1405,14 +1404,13 @@ LOCATION:kleine bühne
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1974-1@amtsfeed.de
-DTSTAMP:20261026T090655Z
+DTSTAMP:20261027T090959Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:"4. Eisenhüttenstädter Schäferstündchen"
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-4-Eisenh%C3%BCttenst%
  C3%A4dter-Sch%C3%A4ferst%C3%BCndchen-.php?ModID=11&amp\;FID=2852.1974.1
-LOCATION:Städtisches Museum
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1718-1@amtsfeed.de
@@ -1513,5 +1511,42 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/JORIS-HERING-BAND.php?
  ModID=11&amp\;FID=2852.1883.1
 LOCATION:kleine bühne
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1882-1@amtsfeed.de
+DTSTAMP:20261027T090959Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Falco - Die Show
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Falco-Die-Show.php?Mod
+ ID=11&amp\;FID=2852.1882.1
+LOCATION:Zusammenarbeit mit  Marcel Weisheit 2025 als »Falco - Die Show
+ « Live auf die Bühne zurück.   In einer authentischen Konzert-Show mit
+  Band\, Sängerinnen und Tänzerinnen präsentiert   Alexander Kerbst in 
+ 100 Minuten nicht nur alle Hits wie »Der Kommissar«\, »Rock me Amadeus
+ «\,  »Jeanny« u.v.m.\,  sondern  erweckt durch Erzählungen und Anekdo
+ ten den »Falken« für eine  Nacht wieder zum Leben.   Das schreibt die 
+ Presse über Alexander Kerbst
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1962-1@amtsfeed.de
+DTSTAMP:20261027T090959Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Andreas Schirneck spielt Neil Young
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Andreas-Schirneck-spie
+ lt-Neil-Young.php?ModID=11&amp\;FID=2852.1962.1
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1996-1@amtsfeed.de
+DTSTAMP:20261027T090959Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Kleine Abendmusik
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Kleine-Abendmusik.php?
+ ModID=11&amp\;FID=2852.1996.1
 END:VEVENT
 END:VCALENDAR

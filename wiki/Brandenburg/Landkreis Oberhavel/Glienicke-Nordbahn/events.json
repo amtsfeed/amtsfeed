@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:42:21.596Z",
+  "updatedAt": "2026-10-27T09:08:27.764Z",
   "items": [
     {
       "id": "glienicke-event-904005818",
@@ -891,12 +891,12 @@
     },
     {
       "id": "glienicke-event-904005960",
-      "title": "Sitzung des Hauptausschusses",
+      "title": "20. Sitzung des Hauptausschusses",
       "url": "https://www.glienicke.eu/veranstaltungen/904005960-22451.html",
       "startDate": "2026-12-03T17:30:00Z",
       "location": "Vereinszimmer Dreifeldhalle",
       "fetchedAt": "2026-10-17T07:54:54.385Z",
-      "updatedAt": "2026-10-17T07:54:54.385Z"
+      "updatedAt": "2026-10-27T09:08:27.773Z"
     },
     {
       "id": "glienicke-event-904005830",
@@ -965,6 +965,78 @@
       "location": "Sportplatz Bieselheide",
       "fetchedAt": "2026-10-23T08:42:21.602Z",
       "updatedAt": "2026-10-23T08:42:21.602Z"
+    },
+    {
+      "id": "glienicke-event-904005966",
+      "title": "16. Sitzung des Ausschusses für Soziales, Bildung, Kultur und Sport",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005966-22451.html",
+      "startDate": "2027-02-08T17:30:00Z",
+      "location": "Vereinszimmer Dreifeldhalle",
+      "fetchedAt": "2026-10-27T09:08:27.773Z",
+      "updatedAt": "2026-10-27T09:08:27.773Z"
+    },
+    {
+      "id": "glienicke-event-904005967",
+      "title": "16. Sitzung des Ausschusses für Technische Infrastruktur und Gewerbe",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005967-22451.html",
+      "startDate": "2027-02-09T17:30:00Z",
+      "location": "Vereinszimmer Dreifeldhalle",
+      "fetchedAt": "2026-10-27T09:08:27.773Z",
+      "updatedAt": "2026-10-27T09:08:27.773Z"
+    },
+    {
+      "id": "glienicke-event-904005968",
+      "title": "15. Sitzung des Ausschusses für Planen, Bauen, Wohnen und Umwelt (Planungsausschuss)",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005968-22451.html",
+      "startDate": "2027-02-10T17:30:00Z",
+      "location": "Vereinszimmer Dreifeldhalle",
+      "fetchedAt": "2026-10-27T09:08:27.773Z",
+      "updatedAt": "2026-10-27T09:08:27.773Z"
+    },
+    {
+      "id": "glienicke-event-904005969",
+      "title": "5. Sitzung des zeitweiligen Ausschusses ´Neubau/Erweiterung Schul- und Hortcampus",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005969-22451.html",
+      "startDate": "2027-02-11T17:30:00Z",
+      "location": "Vereinszimmer Dreifeldhalle",
+      "fetchedAt": "2026-10-27T09:08:27.773Z",
+      "updatedAt": "2026-10-27T09:08:27.773Z"
+    },
+    {
+      "id": "glienicke-event-904005970",
+      "title": "21. Sitzung des Hauptausschusses",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005970-22451.html",
+      "startDate": "2027-02-24T17:30:00Z",
+      "location": "Vereinszimmer Dreifeldhalle",
+      "fetchedAt": "2026-10-27T09:08:27.773Z",
+      "updatedAt": "2026-10-27T09:08:27.773Z"
+    },
+    {
+      "id": "glienicke-event-904005971",
+      "title": "eventuelle Fortsetzung der 21. Sitzung des Hauptausschusses",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005971-22451.html",
+      "startDate": "2027-02-25T17:30:00Z",
+      "location": "Vereinszimmer Dreifeldhalle",
+      "fetchedAt": "2026-10-27T09:08:27.773Z",
+      "updatedAt": "2026-10-27T09:08:27.773Z"
+    },
+    {
+      "id": "glienicke-event-904005972",
+      "title": "26. Sitzung der Gemeindevertretung Glienicke/Nordbahn",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005972-22451.html",
+      "startDate": "2027-03-09T17:30:00Z",
+      "location": "Mensa",
+      "fetchedAt": "2026-10-27T09:08:27.773Z",
+      "updatedAt": "2026-10-27T09:08:27.773Z"
+    },
+    {
+      "id": "glienicke-event-904005973",
+      "title": "eventuelle Fortsetzung der 26. Sitzung der Gemeindevertretung Glienicke/Nordbahn",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005973-22451.html",
+      "startDate": "2027-03-10T17:30:00Z",
+      "location": "Mensa",
+      "fetchedAt": "2026-10-27T09:08:27.773Z",
+      "updatedAt": "2026-10-27T09:08:27.773Z"
     }
   ]
 }

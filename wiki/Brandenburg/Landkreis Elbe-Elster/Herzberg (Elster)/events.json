@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:38:06.658Z",
+  "updatedAt": "2026-10-27T09:04:07.042Z",
   "items": [
     {
       "id": "2849506",
@@ -610,22 +610,6 @@
       "updatedAt": "2026-05-08T18:34:29.680Z"
     },
     {
-      "id": "2477269",
-      "title": "Seniorencaf&egrave;",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2477269/2027/10/20/seniorencafè.html",
-      "startDate": "2027-10-20T10:00:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-10-20T08:36:46.870Z"
-    },
-    {
-      "id": "2439631",
-      "title": "Sprach-Caf&egrave;",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2439631/2027/10/20/sprach-cafè.html",
-      "startDate": "2027-10-20T16:00:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-10-20T08:36:46.870Z"
-    },
-    {
       "id": "2331049",
       "title": "Wochenmarkt",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2331049/2027/10/21/wochenmarkt.html",
@@ -640,6 +624,22 @@
       "startDate": "2027-10-23T06:30:00.000Z",
       "fetchedAt": "2026-05-08T18:34:29.680Z",
       "updatedAt": "2026-10-23T08:38:06.651Z"
+    },
+    {
+      "id": "2477269",
+      "title": "Seniorencaf&egrave;",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2477269/2027/10/27/seniorencafè.html",
+      "startDate": "2027-10-27T10:00:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-10-27T09:04:07.031Z"
+    },
+    {
+      "id": "2439631",
+      "title": "Sprach-Caf&egrave;",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2439631/2027/10/27/sprach-cafè.html",
+      "startDate": "2027-10-27T16:00:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-10-27T09:04:07.031Z"
     }
   ]
 }

@@ -1200,6 +1200,16 @@ URL:https://www.kremmen.de/veranstaltungen/2911534/2026/11/07/dominic-mer
 LOCATION:Theaterbistro "Kombüse 11"
 END:VEVENT
 BEGIN:VEVENT
+UID:kremmen-event-2991650@amtsfeed.de
+DTSTAMP:20261027T090842Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Frühstück in Sommerfeld am Bahnhof
+URL:https://www.kremmen.de/veranstaltungen/2991650/2026/11/07/frühstück
+ -in-sommerfeld-am-bahnhof.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
+END:VEVENT
+BEGIN:VEVENT
 UID:kremmen-event-2971182@amtsfeed.de
 DTSTAMP:20261019T090303Z
 DTSTART;VALUE=DATE:20261110
@@ -1298,6 +1308,16 @@ SUMMARY:Maik Martschinkowsky - The Best of
 URL:https://www.kremmen.de/veranstaltungen/2990246/2026/11/14/maik-martsc
  hinkowsky-the-best-of.html
 LOCATION:Kultur & Beeren UG
+END:VEVENT
+BEGIN:VEVENT
+UID:kremmen-event-2991654@amtsfeed.de
+DTSTAMP:20261027T090842Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Frühstücken bei Kremmen
+URL:https://www.kremmen.de/veranstaltungen/2991654/2026/11/14/frühstück
+ en-bei-kremmen.html
+LOCATION:Café Sommerfeld Breuer Heinzelmann UG (haftungsbeschränkt)
 END:VEVENT
 BEGIN:VEVENT
 UID:kremmen-event-2983638@amtsfeed.de

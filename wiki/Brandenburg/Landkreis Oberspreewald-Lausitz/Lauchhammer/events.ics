@@ -317,24 +317,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2971016/2026/10/25/es-war-
  einmal-.-im-echten-leben.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124462@amtsfeed.de
-DTSTAMP:20261020T084121Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/10/26/treffpu
- nkt-bürgertheater.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2124466@amtsfeed.de
-DTSTAMP:20261020T084121Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/10/26/treffpu
- nkt-bürgertheater.html
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124475@amtsfeed.de
 DTSTAMP:20261021T084658Z
 DTSTART;VALUE=DATE:20261027
@@ -360,6 +342,24 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Gruppentreffen Selbsthilfegruppe Multiple Sklerose
 URL:https://www.lauchhammer.de/veranstaltungen/2918359/2026/10/30/gruppen
  treffen-selbsthilfegruppe-multiple-sklerose.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124462@amtsfeed.de
+DTSTAMP:20261027T090914Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/11/02/treffpu
+ nkt-bürgertheater.html
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124466@amtsfeed.de
+DTSTAMP:20261027T090914Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/02/treffpu
+ nkt-bürgertheater.html
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2705490@amtsfeed.de

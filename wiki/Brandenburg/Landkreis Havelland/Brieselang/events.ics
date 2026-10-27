@@ -709,6 +709,21 @@ DESCRIPTION:Der Seniorenbeirat Brieselang lädt zum nächsten Tanzcafe' a
 LOCATION:Sportlerklause\,
 END:VEVENT
 BEGIN:VEVENT
+UID:brieselang-event-Infoveranstaltung-zu-Vorsorgevollmacht-und-Patienten
+ verfuegun-20261028@amtsfeed.de
+DTSTAMP:20261027T090430Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Infoveranstaltung zu Vorsorgevollmacht und Patientenverfügung
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Infoveranstaltung-zu-Vorsorgevollmacht-und-Patientenverfuegun.
+ html?
+DESCRIPTION:Der Seniorenbeirat und der Betreuungsverein Lebenshilfe Brand
+ enburg e. V. laden am Mittwoch\, 28. Oktober\, um 10 Uhr zu einer Informa
+ tionsveranstaltung in den Bürgersaal des Brieselanger Rathauses ein.
+LOCATION:Gemeinde Brieselang\,
+END:VEVENT
+BEGIN:VEVENT
 UID:brieselang-event-Unterhaltsamer-Abend-mit-dem-Kabarett-Obelisk-Potsda
  m-20261029@amtsfeed.de
 DTSTAMP:20260911T110730Z
@@ -823,6 +838,21 @@ URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
  staltungen/Spaziergang-zu-den-Brieselanger-Stolpersteinen.html?
 DESCRIPTION:Der Ortsverband Brieselang von Bündnis 90/ Die Grünen lädt
   zum „Aufpolieren der Erinnerungen“ am Sonntag\, 08.11.2026\, ein.
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Stilles-Gedenken-an-die-Opfer-der-Novemberpogrome-20
+ 261109@amtsfeed.de
+DTSTAMP:20261027T090430Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Stilles Gedenken an die Opfer der Novemberpogrome
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Stilles-Gedenken-an-die-Opfer-der-Novemberpogrome.html?
+DESCRIPTION:Die Gemeinde Brieselang erinnert am Montag\, 9. November 2026
+ \, an die Opfer der Novemberpogrome von 1938. Treffpunkt ist um 17 Uhr am
+  Stolperstein für Elisabeth Bethge in der Elisabeth-Bethge-Straße 2. An
+ schließend wird das Gedenken am Stolperstein für Helmut Riedel in der F
+ ichtestraße 80 fortgesetzt.
 END:VEVENT
 BEGIN:VEVENT
 UID:brieselang-event-Verleihung-der-Ehrenamtspreise-20261113@amtsfeed.de

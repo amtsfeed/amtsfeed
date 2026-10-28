@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:50:06.788Z",
+  "updatedAt": "2026-10-28T09:42:59.945Z",
   "items": [
     {
       "id": "15493",
@@ -1550,15 +1550,6 @@
       "updatedAt": "2026-10-09T10:37:28.977Z"
     },
     {
-      "id": "14828",
-      "title": "Halloween im Krafthaus",
-      "url": "https://britz-chorin-oderberg.de/events#event-14828",
-      "startDate": "2026-10-30T23:00:00.000Z",
-      "location": "16248 Niederfinow – Infozentrum",
-      "fetchedAt": "2026-05-05T17:20:57.837Z",
-      "updatedAt": "2026-05-26T08:49:43.841Z"
-    },
-    {
       "id": "16571",
       "title": "Choriner Morgengebet",
       "url": "https://britz-chorin-oderberg.de/events#event-16571",
@@ -1575,6 +1566,15 @@
       "location": "16230 Chorin – Chorin – Feuerwehr",
       "fetchedAt": "2026-10-09T10:37:28.977Z",
       "updatedAt": "2026-10-09T10:37:28.977Z"
+    },
+    {
+      "id": "14828",
+      "title": "Halloween im Krafthaus",
+      "url": "https://britz-chorin-oderberg.de/events#event-14828",
+      "startDate": "2026-10-31T17:00:00.000Z",
+      "location": "16248 Niederfinow – Infozentrum",
+      "fetchedAt": "2026-05-05T17:20:57.837Z",
+      "updatedAt": "2026-10-28T09:42:59.934Z"
     },
     {
       "id": "15103",

@@ -1124,15 +1124,6 @@ URL:https://www.calau.de/veranstaltungen/2921824/2026/10/24/flohmarkt-fü
  r-baby-und-kindersachen.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261023T084305Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:27.10.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/10/27/calauer-woche
- nmarkt.html
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2951698@amtsfeed.de
 DTSTAMP:20261024T081640Z
 DTSTART;VALUE=DATE:20261027
@@ -1143,150 +1134,166 @@ URL:https://www.calau.de/veranstaltungen/2951698/2026/10/27/halloween-bas
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20261025T083500Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:28.10.2026   Calauer Museen öffnen
 URL:https://www.calau.de/veranstaltungen/2315266/2026/10/28/calauer-musee
- n-öffnen.html
+ n-oeffnen
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261028T094941Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:29.10.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/10/29/calauer-woche
+ nmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2980734@amtsfeed.de
-DTSTAMP:20261026T090611Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:29.10.2026   Fit im Alter
-URL:https://www.calau.de/veranstaltungen/2980734/2026/10/29/fit-im-alter.
- html
+URL:https://www.calau.de/veranstaltungen/2980734/2026/10/29/fit-im-alter
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2851855@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Halloween-Party
+SUMMARY:30.10.2026   Halloween-Party
 URL:https://www.calau.de/veranstaltungen/2851855/2026/10/30/halloween-par
- ty.html
+ ty
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2841056@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Sven Stricker live: "Sörensen geht aufs Haus"
+SUMMARY:30.10.2026   Sven Stricker live: "Sörensen geht aufs Haus"
 URL:https://www.calau.de/veranstaltungen/2841056/2026/10/30/sven-stricker
- -live-sörensen-geht-aufs-haus.html
+ -live-soerensen-geht-aufs-haus
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2964571@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Kürbisschnitzen für die ganze Familie
-URL:https://www.calau.de/veranstaltungen/2964571/2026/10/30/kürbisschnit
- zen-für-die-ganze-familie.html
+URL:https://www.calau.de/veranstaltungen/2964571/2026/10/30/kuerbisschnit
+ zen-fuer-die-ganze-familie
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2980735@amtsfeed.de
-DTSTAMP:20261008T104538Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:"Gemeinsam statt einsam" Mittagessen kochen für Senioren
 URL:https://www.calau.de/veranstaltungen/2980735/2026/10/30/gemeinsam-sta
- tt-einsam-mittagessen-kochen-für-senioren.html
+ tt-einsam-mittagessen-kochen-fuer-senioren
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20261026T090611Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
 URL:https://www.calau.de/veranstaltungen/2864723/2026/10/31/flugshow-auf-
- dem-adler-und-jagdfalkenhof-werchow.html
+ dem-adler-und-jagdfalkenhof-werchow
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877063@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Halloweenumzug
 URL:https://www.calau.de/veranstaltungen/2877063/2026/10/31/halloweenumzu
- g.html
+ g
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-1906922@amtsfeed.de
-DTSTAMP:20261007T102712Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Großmarkt auf dem Marktplatz "In Calau clever kaufen" bei den Ca
  lauer Innenstadthändlern
-URL:https://www.calau.de/veranstaltungen/1906922/2026/11/03/großmarkt-au
- f-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthändle
- rn.html
+URL:https://www.calau.de/veranstaltungen/1906922/2026/11/03/grossmarkt-au
+ f-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthaendle
+ rn
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960237@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Krabbelgruppe in der Kita Kunterbunt
 URL:https://www.calau.de/veranstaltungen/2960237/2026/11/05/krabbelgruppe
- -in-der-kita-kunterbunt.html
+ -in-der-kita-kunterbunt
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2980738@amtsfeed.de
-DTSTAMP:20261008T104538Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Workshop für Mamas: "Zurück in Deine Kraft - Nervensystem regul
  ieren"
-URL:https://www.calau.de/veranstaltungen/2980738/2026/11/05/workshop-für
- -mamas-zurück-in-deine-kraft-nervensystem-regulieren.html
+URL:https://www.calau.de/veranstaltungen/2980738/2026/11/05/workshop-fuer
+ -mamas-zurueck-in-deine-kraft-nervensystem-regulieren
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2606463@amtsfeed.de
-DTSTAMP:20261003T091852Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau
 URL:https://www.calau.de/veranstaltungen/2606463/2026/11/06/barrierefreie
- -bürgersprechstunde-des-einwohnermeldeamtes-calau.html
+ -buergersprechstunde-des-einwohnermeldeamtes-calau
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877065@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Spieleabend
-URL:https://www.calau.de/veranstaltungen/2877065/2026/11/06/spieleabend.h
- tml
+URL:https://www.calau.de/veranstaltungen/2877065/2026/11/06/spieleabend
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2898941@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:"Malen für die Seele" - offene Malgruppe
-URL:https://www.calau.de/veranstaltungen/2898941/2026/11/09/malen-für-di
- e-seele-offene-malgruppe.html
+URL:https://www.calau.de/veranstaltungen/2898941/2026/11/09/malen-fuer-di
+ e-seele-offene-malgruppe
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2024997@amtsfeed.de
-DTSTAMP:20261014T085249Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:IHK-Sprechtag in Calau
 URL:https://www.calau.de/veranstaltungen/2024997/2026/11/10/ihk-sprechtag
- -in-calau.html
+ -in-calau
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2947235@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Tanz Dich Frei
 URL:https://www.calau.de/veranstaltungen/2947235/2026/11/11/tanz-dich-fre
- i.html
+ i
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2991983@amtsfeed.de
+DTSTAMP:20261028T094941Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Rathaus-Sturm des CCC
+URL:https://www.calau.de/veranstaltungen/2991983/2026/11/11/rathaus-sturm
+ -des-ccc
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2885235@amtsfeed.de
@@ -1299,12 +1306,12 @@ URL:https://www.calau.de/veranstaltungen/2885235/2026/11/12/krabbelgruppe
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2951713@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:VorLeseKuschelZeit: "Der Löwe in Dir"
 URL:https://www.calau.de/veranstaltungen/2951713/2026/11/12/vorlesekusche
- lzeit-der-löwe-in-dir.html
+ lzeit-der-loewe-in-dir
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2858229@amtsfeed.de
@@ -1317,240 +1324,237 @@ URL:https://www.calau.de/veranstaltungen/2858229/2026/11/13/spieleabend.h
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2858228@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:SpieleABEND
-URL:https://www.calau.de/veranstaltungen/2858228/2026/11/13/spieleabend.h
- tml
+URL:https://www.calau.de/veranstaltungen/2858228/2026/11/13/spieleabend
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2914789@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Kreisrassegeflügel- und Kaninchenschau
 URL:https://www.calau.de/veranstaltungen/2914789/2026/11/13/kreisrassegef
- lügel-und-kaninchenschau.html
+ luegel-und-kaninchenschau
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2962718@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:"Zinnitz leuchtet"
 URL:https://www.calau.de/veranstaltungen/2962718/2026/11/13/zinnitz-leuch
- tet.html
+ tet
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877131@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Herbstputz auf dem Friedhof
 URL:https://www.calau.de/veranstaltungen/2877131/2026/11/14/herbstputz-au
- f-dem-friedhof.html
+ f-dem-friedhof
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2975866@amtsfeed.de
-DTSTAMP:20260929T095940Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Puppen-Mitmach-Show
 URL:https://www.calau.de/veranstaltungen/2975866/2026/11/14/puppen-mitmac
- h-show.html
+ h-show
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838480@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Klöppeltreff
-URL:https://www.calau.de/veranstaltungen/2838480/2026/11/18/klöppeltreff
- .html
+URL:https://www.calau.de/veranstaltungen/2838480/2026/11/18/kloeppeltreff
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960238@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Krabbelgruppe in der Kita Kunterbunt
 URL:https://www.calau.de/veranstaltungen/2960238/2026/11/19/krabbelgruppe
- -in-der-kita-kunterbunt.html
+ -in-der-kita-kunterbunt
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877134@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Mitgliederversammlung
 URL:https://www.calau.de/veranstaltungen/2877134/2026/11/20/mitgliederver
- sammlung.html
+ sammlung
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2858858@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Kino in Calau
 URL:https://www.calau.de/veranstaltungen/2858858/2026/11/20/kino-in-calau
- .html
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838463@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Jahresausklang
 URL:https://www.calau.de/veranstaltungen/2838463/2026/11/20/jahresausklan
- g.html
+ g
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2976565@amtsfeed.de
-DTSTAMP:20260930T095210Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Blutspendetermin des DRK
 URL:https://www.calau.de/veranstaltungen/2976565/2026/11/24/blutspendeter
- min-des-drk.html
+ min-des-drk
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877138@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Adventsbasteln
 URL:https://www.calau.de/veranstaltungen/2877138/2026/11/26/adventsbastel
- n.html
+ n
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2822896@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Günther & Hindrich: „SIMPLYunkloar“
-URL:https://www.calau.de/veranstaltungen/2822896/2026/11/27/günther-hind
- rich-simplyunkloar.html
+URL:https://www.calau.de/veranstaltungen/2822896/2026/11/27/guenther-hind
+ rich-simplyunkloar
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2952329@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Adriano Sack liest aus: "In die Sonne fliegen"
 URL:https://www.calau.de/veranstaltungen/2952329/2026/11/27/adriano-sack-
- liest-aus-in-die-sonne-fliegen.html
+ liest-aus-in-die-sonne-fliegen
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877139@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Lichtfest mit Baum aufstellen
 URL:https://www.calau.de/veranstaltungen/2877139/2026/11/28/lichtfest-mit
- -baum-aufstellen.html
+ -baum-aufstellen
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2982866@amtsfeed.de
-DTSTAMP:20261012T110640Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Das Amateurtheater "Die Calauer" präsentiert "Das tapfere Schnei
  derlein"
 URL:https://www.calau.de/veranstaltungen/2982866/2026/11/28/das-amateurth
- eater-die-calauer-präsentiert-das-tapfere-schneiderlein.html
+ eater-die-calauer-praesentiert-das-tapfere-schneiderlein
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2851867@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Advents-Weihnachtsmarkt: Ein Fest für die Sinne
 URL:https://www.calau.de/veranstaltungen/2851867/2026/11/29/advents-weihn
- achtsmarkt-ein-fest-für-die-sinne.html
+ achtsmarkt-ein-fest-fuer-die-sinne
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2852542@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Weihnachten mit Michael Hirte
 URL:https://www.calau.de/veranstaltungen/2852542/2026/11/29/weihnachten-m
- it-michael-hirte.html
+ it-michael-hirte
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2982871@amtsfeed.de
-DTSTAMP:20261012T110640Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Das Amateurtheater "Die Calauer" präsentiert "Das tapfere Schnei
  derlein"
 URL:https://www.calau.de/veranstaltungen/2982871/2026/11/29/das-amateurth
- eater-die-calauer-präsentiert-das-tapfere-schneiderlein.html
+ eater-die-calauer-praesentiert-das-tapfere-schneiderlein
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877141@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Senioren Weihnacht
 URL:https://www.calau.de/veranstaltungen/2877141/2026/12/01/senioren-weih
- nacht.html
+ nacht
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2964848@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Aktionstag "Kalauer statt Knöllchen"
 URL:https://www.calau.de/veranstaltungen/2964848/2026/12/01/aktionstag-ka
- lauer-statt-knöllchen.html
+ lauer-statt-knoellchen
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2976567@amtsfeed.de
-DTSTAMP:20260930T095210Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Blutspendetermin des DRK
 URL:https://www.calau.de/veranstaltungen/2976567/2026/12/01/blutspendeter
- min-des-drk.html
+ min-des-drk
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960239@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Krabbelgruppe in der Kita Kunterbunt
 URL:https://www.calau.de/veranstaltungen/2960239/2026/12/03/krabbelgruppe
- -in-der-kita-kunterbunt.html
+ -in-der-kita-kunterbunt
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2948040@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Weihnachtsmarkt Calau 2026
 URL:https://www.calau.de/veranstaltungen/2948040/2026/12/05/weihnachtsmar
- kt-calau-2026.html
+ kt-calau-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2982872@amtsfeed.de
-DTSTAMP:20261012T110640Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Das Amateurtheater "Die Calauer" präsentiert "Das tapfere Schnei
  derlein"
 URL:https://www.calau.de/veranstaltungen/2982872/2026/12/06/das-amateurth
- eater-die-calauer-präsentiert-das-tapfere-schneiderlein.html
+ eater-die-calauer-praesentiert-das-tapfere-schneiderlein
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2898942@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:"Malen für die Seele" - offene Malgruppe
-URL:https://www.calau.de/veranstaltungen/2898942/2026/12/07/malen-für-di
- e-seele-offene-malgruppe.html
+URL:https://www.calau.de/veranstaltungen/2898942/2026/12/07/malen-fuer-di
+ e-seele-offene-malgruppe
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2885237@amtsfeed.de
@@ -1563,138 +1567,145 @@ URL:https://www.calau.de/veranstaltungen/2885237/2026/12/10/krabbelgruppe
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2951714@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:VorLeseKuschelZeit: "Dr. Brumm feiert Weihnachten"
 URL:https://www.calau.de/veranstaltungen/2951714/2026/12/10/vorlesekusche
- lzeit-dr.-brumm-feiert-weihnachten.html
+ lzeit-dr.-brumm-feiert-weihnachten
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2858230@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:SpieleABEND
-URL:https://www.calau.de/veranstaltungen/2858230/2026/12/11/spieleabend.h
- tml
+URL:https://www.calau.de/veranstaltungen/2858230/2026/12/11/spieleabend
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2837183@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Weihnachtsmarkt
 URL:https://www.calau.de/veranstaltungen/2837183/2026/12/13/weihnachtsmar
- kt.html
+ kt
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838484@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Klöppeltreff
-URL:https://www.calau.de/veranstaltungen/2838484/2026/12/16/klöppeltreff
- .html
+URL:https://www.calau.de/veranstaltungen/2838484/2026/12/16/kloeppeltreff
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960240@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Krabbelgruppe in der Kita Kunterbunt
 URL:https://www.calau.de/veranstaltungen/2960240/2026/12/17/krabbelgruppe
- -in-der-kita-kunterbunt.html
+ -in-der-kita-kunterbunt
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2982873@amtsfeed.de
-DTSTAMP:20261012T110640Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Das Amateurtheater "Die Calauer" präsentiert "Das tapfere Schnei
  derlein"
 URL:https://www.calau.de/veranstaltungen/2982873/2026/12/20/das-amateurth
- eater-die-calauer-präsentiert-das-tapfere-schneiderlein.html
+ eater-die-calauer-praesentiert-das-tapfere-schneiderlein
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2851882@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:52. Silvesterlauf
 URL:https://www.calau.de/veranstaltungen/2851882/2026/12/31/52.-silvester
- lauf.html
+ lauf
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-1608936@amtsfeed.de
-DTSTAMP:20260531T184201Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Quer durch die Calauer Schweiz" - Silvesterlauf
 URL:https://www.calau.de/veranstaltungen/1608936/2026/12/31/quer-durch-di
- e-calauer-schweiz-quot-silvesterlauf.html
+ e-calauer-schweiz-quot-silvesterlauf
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2975867@amtsfeed.de
-DTSTAMP:20260929T095940Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Puppen-Mitmach-Show
 URL:https://www.calau.de/veranstaltungen/2975867/2027/01/09/puppen-mitmac
- h-show.html
+ h-show
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2991004@amtsfeed.de
-DTSTAMP:20261026T090611Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Rockballaden bei Kerzenschein
 URL:https://www.calau.de/veranstaltungen/2991004/2027/01/10/rockballaden-
- bei-kerzenschein.html
+ bei-kerzenschein
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2922158@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Jukebox Heroes live
 URL:https://www.calau.de/veranstaltungen/2922158/2027/01/24/jukebox-heroe
- s-live.html
+ s-live
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2975869@amtsfeed.de
-DTSTAMP:20260929T095940Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Puppen-Mitmach-Show
 URL:https://www.calau.de/veranstaltungen/2975869/2027/02/13/puppen-mitmac
- h-show.html
+ h-show
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2952332@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:Lesung mit Marion Brasch: „Ab jetzt ist Ruhe“
 URL:https://www.calau.de/veranstaltungen/2952332/2027/02/26/lesung-mit-ma
- rion-brasch-ab-jetzt-ist-ruhe.html
+ rion-brasch-ab-jetzt-ist-ruhe
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2991923@amtsfeed.de
+DTSTAMP:20261028T094941Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Rockfestival "BOCK AUF ROCK"
+URL:https://www.calau.de/veranstaltungen/2991923/2027/03/06/rockfestival-
+ bock-auf-rock
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2922165@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
 SUMMARY:"Waterloo - The Abba Show"
 URL:https://www.calau.de/veranstaltungen/2922165/2027/05/21/waterloo-the-
- abba-show.html
+ abba-show
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960740@amtsfeed.de
-DTSTAMP:20260911T111229Z
+DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
 SUMMARY:Dorffest Gollmitz
 URL:https://www.calau.de/veranstaltungen/2960740/2027/07/10/dorffest-goll
- mitz.html
+ mitz
 END:VEVENT
 END:VCALENDAR

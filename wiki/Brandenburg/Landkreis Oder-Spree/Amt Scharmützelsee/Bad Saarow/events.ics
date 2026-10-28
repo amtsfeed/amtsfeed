@@ -762,16 +762,6 @@ URL:https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbei
  tsnachmittage-mit-sylvia-musick
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-kuschelstunde-mit-unseren-zwergschafen-ferienprogramm
- @amtsfeed.de
-DTSTAMP:20261021T084729Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Kuschelstunde mit unseren Zwergschafen - Ferienprogramm
-URL:https://www.scharmuetzelsee.de/event/kuschelstunde-mit-unseren-zwergs
- chafen-ferienprogramm
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs@amtsfeed.de
 DTSTAMP:20261021T084729Z
 DTSTART;VALUE=DATE:20261021
@@ -806,14 +796,6 @@ DTEND;VALUE=DATE:20261022
 SUMMARY:Escape Game - Mission Klimaschutz - Die Zeit läuft!
 URL:https://www.scharmuetzelsee.de/event/escape-game-mission-klimaschutz-
  die-zeit-laeuft
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-koerbe-flechten-ferienprogramm@amtsfeed.de
-DTSTAMP:20261022T084542Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Körbe flechten - Ferienprogramm
-URL:https://www.scharmuetzelsee.de/event/koerbe-flechten-ferienprogramm
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-bingo-ferienprogramm@amtsfeed.de
@@ -870,15 +852,6 @@ DTEND;VALUE=DATE:20261023
 SUMMARY:Lesekreis in der Bibliothek Wendisch Rietz
 URL:https://www.scharmuetzelsee.de/event/lesekreis-in-der-bibliothek-wend
  isch-rietz
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-schatzsuche-im-herbst-ferienprogramm@amtsfeed.de
-DTSTAMP:20261022T084542Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Schatzsuche im Herbst - Ferienprogramm
-URL:https://www.scharmuetzelsee.de/event/schatzsuche-im-herbst-ferienprog
- ramm
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
@@ -995,35 +968,6 @@ URL:https://www.scharmuetzelsee.de/event/besuch-bei-muemmel-quieki-ferien
  programm
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261027T090935Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
- d.de
-DTSTAMP:20261027T090935Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
-URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
- harmuetzelsee
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261027T090935Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-tier-talk-ferienprogramm@amtsfeed.de
 DTSTAMP:20261026T090642Z
 DTSTART;VALUE=DATE:20261027
@@ -1047,6 +991,45 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Fit in den Winter
 URL:https://www.scharmuetzelsee.de/event/fit-in-den-winter
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-kuschelstunde-mit-unseren-zwergschafen-ferienprogramm
+ @amtsfeed.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Kuschelstunde mit unseren Zwergschafen - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/kuschelstunde-mit-unseren-zwergs
+ chafen-ferienprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
+ d.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
+ harmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
@@ -1076,6 +1059,23 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Herbstferien Familienspezial im Wettermuseum
 URL:https://www.scharmuetzelsee.de/event/herbstferien-familienspezial-im-
  wettermuseum
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-koerbe-flechten-ferienprogramm@amtsfeed.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Körbe flechten - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/koerbe-flechten-ferienprogramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-schatzsuche-im-herbst-ferienprogramm@amtsfeed.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Schatzsuche im Herbst - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/schatzsuche-im-herbst-ferienprog
+ ramm
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de
@@ -1125,6 +1125,16 @@ URL:https://www.scharmuetzelsee.de/event/die-nacht-des-grauens-im-fischha
  us-wendisch-rietz
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-halloween-gruselumzug-und-hexenparty-im-zombieland@am
+ tsfeed.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween Gruselumzug und Hexenparty im Zombieland
+URL:https://www.scharmuetzelsee.de/event/halloween-gruselumzug-und-hexenp
+ arty-im-zombieland
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-unruhestand-kabarett-am-nachmittag-dumm-gelaufen-sati
  re-fuer-politisch-inkorrekte-zeiten@amtsfeed.de
 DTSTAMP:20261017T075557Z
@@ -1147,11 +1157,67 @@ URL:https://www.scharmuetzelsee.de/event/novemberbasar-kunstausstellung-m
  it-verkauf-in-der-alten-schulscheune
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-adventssingen-im-aldo-wendisch-rietz@amtsfeed.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Adventssingen im Aldo Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/adventssingen-im-aldo-wendisch-r
+ ietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-salsa-cocktail-party-im-bahnhofshotel-die-neue-buehne
+ @amtsfeed.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Salsa Cocktail Party im Bahnhofshotel "Die Neue Bühne"
+URL:https://www.scharmuetzelsee.de/event/salsa-cocktail-party-im-bahnhofs
+ hotel-die-neue-buehne
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-saarower-klavierkonzert-weihnachtszauber@amtsfeed.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:"Saarower Klavierkonzert" - Weihnachtszauber
+URL:https://www.scharmuetzelsee.de/event/saarower-klavierkonzert-weihnach
+ tszauber
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-melodien-unterm-tannenbaum-in-der-alten-schulscheune@
+ amtsfeed.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Melodien unterm Tannenbaum in der Alten Schulscheune
+URL:https://www.scharmuetzelsee.de/event/melodien-unterm-tannenbaum-in-de
+ r-alten-schulscheune
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-weihnachtszauber-burg-storkow-weihnachtsmarkt@amtsfee
+ d.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:Weihnachtszauber Burg Storkow Weihnachtsmarkt
+URL:https://www.scharmuetzelsee.de/event/weihnachtszauber-burg-storkow-we
+ ihnachtsmarkt
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-movie-night-im-spa@amtsfeed.de
 DTSTAMP:20261017T075557Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Movie-Night im Spa
 URL:https://www.scharmuetzelsee.de/event/movie-night-im-spa
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-wendisch-rietzer-weihnachten@amtsfeed.de
+DTSTAMP:20261028T095007Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Wendisch Rietzer Weihnachten
+URL:https://www.scharmuetzelsee.de/event/wendisch-rietzer-weihnachten
 END:VEVENT
 END:VCALENDAR

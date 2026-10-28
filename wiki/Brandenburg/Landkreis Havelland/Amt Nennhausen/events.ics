@@ -762,12 +762,12 @@ URL:https://www.amt-nennhausen.de/veranstaltungen/2991530/2026/10/27/einw
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2885616-20261030@amtsfeed.de
-DTSTAMP:20260531T141347Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Halloween in Garlitz
 URL:https://www.amt-nennhausen.de/veranstaltungen/2885616/2026/10/30/hall
- oween-in-garlitz.html
+ oween-in-garlitz
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2837125-20261101@amtsfeed.de
@@ -780,66 +780,89 @@ URL:https://www.amt-nennhausen.de/veranstaltungen/2837125/2026/11/01/prem
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2985180-20261101@amtsfeed.de
-DTSTAMP:20261016T081524Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Theater mit Reimund Groß "Wenn der Hahn kei Kopp hat"
 URL:https://www.amt-nennhausen.de/veranstaltungen/2985180/2026/11/01/thea
- ter-mit-reimund-groß-wenn-der-hahn-kei-kopp-hat.html
+ ter-mit-reimund-gross-wenn-der-hahn-kei-kopp-hat
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2822211-20261102@amtsfeed.de
-DTSTAMP:20260531T141347Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Bürgermeistersprechstunde in Nennhausen
-URL:https://www.amt-nennhausen.de/veranstaltungen/2822211/2026/11/02/bür
- germeistersprechstunde-in-nennhausen.html
+URL:https://www.amt-nennhausen.de/veranstaltungen/2822211/2026/11/02/buer
+ germeistersprechstunde-in-nennhausen
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2921848-20261108@amtsfeed.de
-DTSTAMP:20260911T110728Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Hubertusmesse
 URL:https://www.amt-nennhausen.de/veranstaltungen/2921848/2026/11/08/hube
- rtusmesse.html
+ rtusmesse
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-2992351-20261108@amtsfeed.de
+DTSTAMP:20261028T094445Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Kammerspiel mit Elisabeth Haug: "Die Tischreden der Katharina Lut
+ her" am 08.11.2026\, 16:00 Uhr in der Kirche Nennhausen
+URL:https://www.amt-nennhausen.de/veranstaltungen/2992351/2026/11/08/kamm
+ erspiel-mit-elisabeth-haug-die-tischreden-der-katharina-luther-am-08.11.2
+ 026-16-00-uhr-in-der-kirche-nennhausen
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2986656-20261111@amtsfeed.de
-DTSTAMP:20261020T083705Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Laternenumzug
 URL:https://www.amt-nennhausen.de/veranstaltungen/2986656/2026/11/11/late
- rnenumzug.html
+ rnenumzug
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2844472-20261113@amtsfeed.de
-DTSTAMP:20260531T141347Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Fackelumzug in Stechow
 URL:https://www.amt-nennhausen.de/veranstaltungen/2844472/2026/11/13/fack
- elumzug-in-stechow.html
+ elumzug-in-stechow
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2885620-20261115@amtsfeed.de
-DTSTAMP:20260531T141347Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Kulturbar in Garlitz
 URL:https://www.amt-nennhausen.de/veranstaltungen/2885620/2026/11/15/kult
- urbar-in-garlitz.html
+ urbar-in-garlitz
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-2992353-20261115@amtsfeed.de
+DTSTAMP:20261028T094445Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Einladung - Einweihung einer Stele anlässlich des 100. Geburtsta
+ ges des Schriftstellers Günter de Bruyn - 15.11.2026\, 15:30 Uhr in Garl
+ itz
+URL:https://www.amt-nennhausen.de/veranstaltungen/2992353/2026/11/15/einl
+ adung-einweihung-einer-stele-anlaesslich-des-100.-geburtstages-des-schrif
+ tstellers-guenter-de-bruyn-15.11.2026-15-30-uhr-in-garlitz
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2844434-20261128@amtsfeed.de
-DTSTAMP:20260531T141347Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Weihnachtsmarkt in und vor der Feldscheune Stechow
 URL:https://www.amt-nennhausen.de/veranstaltungen/2844434/2026/11/28/weih
- nachtsmarkt-in-und-vor-der-feldscheune-stechow.html
+ nachtsmarkt-in-und-vor-der-feldscheune-stechow
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2837135-20261129@amtsfeed.de
@@ -852,39 +875,39 @@ URL:https://www.amt-nennhausen.de/veranstaltungen/2837135/2026/11/29/adve
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2837141-20261206@amtsfeed.de
-DTSTAMP:20260531T141347Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Adventskonzert mit Thomas Kübler in Premnitz
 URL:https://www.amt-nennhausen.de/veranstaltungen/2837141/2026/12/06/adve
- ntskonzert-mit-thomas-kübler-in-premnitz.html
+ ntskonzert-mit-thomas-kuebler-in-premnitz
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2822212-20261207@amtsfeed.de
-DTSTAMP:20260531T141347Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Bürgermeistersprechstunde in Nennhausen
-URL:https://www.amt-nennhausen.de/veranstaltungen/2822212/2026/12/07/bür
- germeistersprechstunde-in-nennhausen.html
+URL:https://www.amt-nennhausen.de/veranstaltungen/2822212/2026/12/07/buer
+ germeistersprechstunde-in-nennhausen
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2837149-20261213@amtsfeed.de
-DTSTAMP:20260531T141347Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Adventskonzert mit Thomas Kübler in Premnitz
 URL:https://www.amt-nennhausen.de/veranstaltungen/2837149/2026/12/13/adve
- ntskonzert-mit-thomas-kübler-in-premnitz.html
+ ntskonzert-mit-thomas-kuebler-in-premnitz
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2841443-20261220@amtsfeed.de
-DTSTAMP:20260531T141347Z
+DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Weihnachtsmarkt in Nennhausen
 URL:https://www.amt-nennhausen.de/veranstaltungen/2841443/2026/12/20/weih
- nachtsmarkt-in-nennhausen.html
+ nachtsmarkt-in-nennhausen
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2837160-20261220@amtsfeed.de

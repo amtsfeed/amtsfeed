@@ -416,12 +416,12 @@ URL:https://www.amt-friesack.de/veranstaltungen/2851792/2026/09/19/erntef
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2972829-20260922@amtsfeed.de
-DTSTAMP:20260924T083138Z
+DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Die besten Wege sind aus Holz - Gisela und Siegmund Rus
 URL:https://www.amt-friesack.de/veranstaltungen/2972829/2026/09/22/die-be
- sten-wege-sind-aus-holz-gisela-und-siegmund-rus.html
+ sten-wege-sind-aus-holz-gisela-und-siegmund-rus
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2841385-20260926@amtsfeed.de
@@ -591,94 +591,112 @@ URL:https://www.amt-friesack.de/veranstaltungen/2904783/2026/11/01/martin
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2851810-20261107@amtsfeed.de
-DTSTAMP:20260531T141346Z
+DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Kleidertauschparty in Senzke\, Zum Gutshof 5
 URL:https://www.amt-friesack.de/veranstaltungen/2851810/2026/11/07/kleide
- rtauschparty-in-senzke-zum-gutshof-5.html
+ rtauschparty-in-senzke-zum-gutshof-5
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2841407-20261107@amtsfeed.de
-DTSTAMP:20260531T141346Z
+DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Heidi und "die alten Saecke" im Gemeindesaal
 URL:https://www.amt-friesack.de/veranstaltungen/2841407/2026/11/07/heidi-
- und-die-alten-saecke-im-gemeindesaal.html
+ und-die-alten-saecke-im-gemeindesaal
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2851818-20261108@amtsfeed.de
-DTSTAMP:20260531T141346Z
+DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Herbstmarkt in Senzke
 URL:https://www.amt-friesack.de/veranstaltungen/2851818/2026/11/08/herbst
- markt-in-senzke.html
+ markt-in-senzke
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2904783-20261110@amtsfeed.de
-DTSTAMP:20261012T105628Z
+DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Martinsumzug zur evangelischen Kirche
 URL:https://www.amt-friesack.de/veranstaltungen/2904783/2026/11/10/martin
- sumzug-zur-evangelischen-kirche.html
+ sumzug-zur-evangelischen-kirche
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2904789-20261111@amtsfeed.de
-DTSTAMP:20260911T110727Z
+DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:FKC - Eröffnung der 74. Session 11.11 Uhr
 URL:https://www.amt-friesack.de/veranstaltungen/2904789/2026/11/11/fkc-er
- öffnung-der-74.-session-11.11-uhr.html
+ oeffnung-der-74.-session-11.11-uhr
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-friesack-event-2992436-20261113@amtsfeed.de
+DTSTAMP:20261028T094442Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Klänge im November
+URL:https://www.amt-friesack.de/veranstaltungen/2992436/2026/11/13/klaeng
+ e-im-november
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2841409-20261119@amtsfeed.de
-DTSTAMP:20260531T141346Z
+DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Kino im Gemeinderaum
 URL:https://www.amt-friesack.de/veranstaltungen/2841409/2026/11/19/kino-i
- m-gemeinderaum.html
+ m-gemeinderaum
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2841413-20261128@amtsfeed.de
-DTSTAMP:20260531T141346Z
+DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Weihnachtliches Konzert mit InMelody aus Rathenow in der Kirche
 URL:https://www.amt-friesack.de/veranstaltungen/2841413/2026/11/28/weihna
- chtliches-konzert-mit-inmelody-aus-rathenow-in-der-kirche.html
+ chtliches-konzert-mit-inmelody-aus-rathenow-in-der-kirche
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2869081-20261205@amtsfeed.de
-DTSTAMP:20260531T141346Z
+DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Weihnachtskonzert in der Kirche "Violine im Kerzenschein" mit Ein
  tritt und Vorverkauf
 URL:https://www.amt-friesack.de/veranstaltungen/2869081/2026/12/05/weihna
  chtskonzert-in-der-kirche-violine-im-kerzenschein-mit-eintritt-und-vorver
- kauf.html
+ kauf
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2972828-20261205@amtsfeed.de
-DTSTAMP:20260924T083138Z
+DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Weihnachtskonzert
 URL:https://www.amt-friesack.de/veranstaltungen/2972828/2026/12/05/weihna
- chtskonzert.html
+ chtskonzert
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2835120-20261212@amtsfeed.de
-DTSTAMP:20260531T141346Z
+DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Weihnachtsmarkt in Friesack
 URL:https://www.amt-friesack.de/veranstaltungen/2835120/2026/12/12/weihna
- chtsmarkt-in-friesack.html
+ chtsmarkt-in-friesack
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-friesack-event-2992435-20270722@amtsfeed.de
+DTSTAMP:20261028T094442Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:PAX Weltfriedensfestival
+URL:https://www.amt-friesack.de/veranstaltungen/2992435/2027/07/22/pax-we
+ ltfriedensfestival
 END:VEVENT
 END:VCALENDAR

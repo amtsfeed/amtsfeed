@@ -6279,8 +6279,8 @@ LOCATION:Theater Comedie Soleil
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167763@amtsfeed.de
-DTSTAMP:20261027T091122Z
-DTSTART:20261027T091122Z
+DTSTAMP:20261028T095153Z
+DTSTART:20261028T095153Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167763
@@ -6288,8 +6288,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167942@amtsfeed.de
-DTSTAMP:20261027T091122Z
-DTSTART:20261027T091122Z
+DTSTAMP:20261028T095153Z
+DTSTART:20261028T095153Z
 SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167942
@@ -6297,8 +6297,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167764@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261029T103000Z
+DTSTAMP:20261028T095153Z
+DTSTART:20261028T095153Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167764
@@ -6306,8 +6306,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167943@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261029T140000Z
+DTSTAMP:20261028T095153Z
+DTSTART:20261028T095153Z
 SUMMARY:Kleine Seenrundfahrt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167943
@@ -6315,8 +6315,8 @@ LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99226012@amtsfeed.de
-DTSTAMP:20260930T095410Z
-DTSTART:20261029T150000Z
+DTSTAMP:20261028T095153Z
+DTSTART:20261028T095153Z
 SUMMARY:SingBar
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99226012
@@ -6324,12 +6324,39 @@ LOCATION:Scala Künstler-Cafe & Bar
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99193359@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261029T170000Z
+DTSTAMP:20261028T095153Z
+DTSTART:20261028T095153Z
 SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99193359
 LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233859@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261028T095153Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233859
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233860@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261028T095153Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233860
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233861@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261030T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233861
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167765@amtsfeed.de
@@ -6369,6 +6396,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:GaheJuwele
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233862@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261031T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233862
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99167766@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261031T103000Z
@@ -6405,6 +6441,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Heilig-Geist-Kirche in Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233863@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261101T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233863
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99128748@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261101T110000Z
@@ -6423,6 +6468,33 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Kulturkirche Petzow
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233864@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261102T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233864
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233865@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261103T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233865
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233866@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261104T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233866
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99127093@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261104T090000Z
@@ -6430,6 +6502,15 @@ SUMMARY:Erzählfrühstück für Seniorinnen und Senioren
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99127093
 LOCATION:Cafe des Edeka Marktes
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233856@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261104T160000Z
+SUMMARY:Workshop Erinnern verbindet
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233856
+LOCATION:Remise der evangelischen Kirche
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233793@amtsfeed.de
@@ -6440,6 +6521,15 @@ SUMMARY:Filmpremiere „Mit 66 Jahren\, da fängt das Leben an – 66 Jah
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233793
 LOCATION:Scala-Kulturpalast
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233867@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261105T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233867
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99231567@amtsfeed.de
@@ -6460,6 +6550,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Kaffee Kontor Werder
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233868@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261106T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233868
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99141586@amtsfeed.de
 DTSTAMP:20260506T202147Z
 DTSTART:20261106T180000Z
@@ -6478,6 +6577,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Restaurant Filterhaus
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233869@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261107T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233869
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99221844@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261107T090000Z
@@ -6488,9 +6596,9 @@ LOCATION:EKZ Werderpark
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99127796@amtsfeed.de
-DTSTAMP:20260911T111348Z
+DTSTAMP:20261028T095153Z
 DTSTART:20261107T100000Z
-SUMMARY:Tag der offenen Kelterei bei Weinbau Dr. Lindicke
+SUMMARY:Tage der offenen Kelterei bei Weinbau Dr. Lindicke
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99127796
 LOCATION:Kelterei Weinbau Dr. Lindicke
@@ -6532,6 +6640,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Theater Comedie Soleil
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233870@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261108T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233870
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99148961@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261108T100000Z
@@ -6548,6 +6665,15 @@ SUMMARY:Apfeltage auf dem Obsthof Lindicke
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99221091
 LOCATION:Obsthof Lindicke
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233965@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261108T100000Z
+SUMMARY:Tage der offenen Kelterei bei Weinbau Dr. Lindicke
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233965
+LOCATION:Kelterei Weinbau Dr. Lindicke
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99128752@amtsfeed.de
@@ -6568,6 +6694,24 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Theater Comedie Soleil
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233871@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261109T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233871
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233872@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261110T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233872
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99116256@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261110T183000Z
@@ -6576,6 +6720,15 @@ SUMMARY:Werderaner Gespräch - Der Weinbauverein Werder (Havel) stellt si
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99116256
 LOCATION:Schützenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233873@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261111T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233873
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99127113@amtsfeed.de
@@ -6596,6 +6749,24 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Kirche Töplitz
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233874@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261112T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233874
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233875@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261113T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233875
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99231563@amtsfeed.de
 DTSTAMP:20261021T084937Z
 DTSTART:20261113T173000Z
@@ -6603,6 +6774,15 @@ SUMMARY:"Orientalische Nacht" mit Klangschalen-Zeremonie
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99231563
 LOCATION:Havel-Therme
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233876@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261114T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233876
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99212072@amtsfeed.de
@@ -6651,6 +6831,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Theater Comedie Soleil
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233877@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261115T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233877
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99233792@amtsfeed.de
 DTSTAMP:20261027T091122Z
 DTSTART:20261115T110000Z
@@ -6678,13 +6867,49 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Theater Comedie Soleil
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233878@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261116T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233878
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99233799@amtsfeed.de
-DTSTAMP:20261027T091122Z
+DTSTAMP:20261028T095153Z
 DTSTART:20261116T190000Z
 SUMMARY:Karnevalistische Jubiläums-Prunksitzung des KCW
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233799
-LOCATION:Festsaal Bismarckhöhe
+LOCATION:Bismarckhöhe Werder (Havel)
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233879@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261117T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233879
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233880@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261118T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233880
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233881@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261119T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233881
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99231568@amtsfeed.de
@@ -6694,6 +6919,24 @@ SUMMARY:"Beats unter Palmen" | DJ-Night mit Karl Knartz
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99231568
 LOCATION:Havel-Therme
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233882@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261120T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233882
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233883@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261121T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233883
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99128755@amtsfeed.de
@@ -6714,6 +6957,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Kreisvolkshochschule Potsdam-Mittelmark
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233847@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261121T140000Z
+SUMMARY:Lichterfest & Adventsmarkt Waldorfschule Werder
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233847
+LOCATION:Campus Waldorfschule Werder
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99135568@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261121T170000Z
@@ -6724,12 +6976,21 @@ LOCATION:Von Hand - Blumen & Gemüse
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233801@amtsfeed.de
-DTSTAMP:20261027T091122Z
+DTSTAMP:20261028T095153Z
 DTSTART:20261121T190000Z
 SUMMARY:Karnevalistische Jubiläums-Freundesitzung des KCW
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233801
-LOCATION:Festsaal Bismarckhöhe
+LOCATION:Bismarckhöhe Werder (Havel)
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233884@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261122T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233884
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99128756@amtsfeed.de
@@ -6739,6 +7000,51 @@ SUMMARY:"Und immer lockt die Kunst - 30 Jahre Stilus"
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99128756
 LOCATION:Kulturkirche Petzow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233885@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261123T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233885
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233886@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261124T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233886
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233887@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261125T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233887
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233888@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261126T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233888
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233889@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261127T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233889
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99116756@amtsfeed.de
@@ -6757,6 +7063,15 @@ SUMMARY:Kriminal Dinner - Manche mögen's TOT!
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99209767
 LOCATION:Restaurant Filterhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233890@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261128T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233890
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99128757@amtsfeed.de
@@ -6784,6 +7099,15 @@ SUMMARY:Charles Dickens' Weihnachtsgeschichte
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99228349
 LOCATION:Theater Comedie Soleil
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233891@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261129T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233891
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99128758@amtsfeed.de
@@ -6831,6 +7155,33 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Katholische Kirche Maria Meeresstern
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233892@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261130T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233892
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233893@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261201T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233893
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233894@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261202T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233894
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99127094@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261202T090000Z
@@ -6840,6 +7191,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Cafe des Edeka Marktes
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233895@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261203T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233895
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99209770@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261203T183000Z
@@ -6847,6 +7207,15 @@ SUMMARY:Kriminal Dinner - Bluthochzeit im Western-Puff
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99209770
 LOCATION:Restaurant Filterhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99233896@amtsfeed.de
+DTSTAMP:20261028T095153Z
+DTSTART:20261204T080000Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233896
+LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99139362@amtsfeed.de
@@ -7085,12 +7454,12 @@ LOCATION:Restaurant Filterhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99224123@amtsfeed.de
-DTSTAMP:20260925T090033Z
+DTSTAMP:20261028T095153Z
 DTSTART:20270423T173000Z
 SUMMARY:Baumblütenball zum 148. Baumblütenfest in Werder (Havel)
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99224123
-LOCATION:Festsaal Bismarckhöhe
+LOCATION:Bismarckhöhe Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99224149@amtsfeed.de

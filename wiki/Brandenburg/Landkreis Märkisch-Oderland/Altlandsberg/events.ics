@@ -598,6 +598,19 @@ DESCRIPTION:Freitag 3nach8: Vernissage mit Bildern von Heidi Lorenz und V
 LOCATION:Bürger- und Kreativhaus Bruchmühle
 END:VEVENT
 BEGIN:VEVENT
+UID:freitag-3-nach-8-vernissage-mit-heidi-lorenz@amtsfeed.de
+DTSTAMP:20261028T094649Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Freitag 3 nach 8: Vernissage mit Heidi Lorenz
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/freitag-3-nach-8-vernissage-mit-heidi-lorenz/
+DESCRIPTION:Freitag 3nach8: Vernissage mit Bildern von Heidi Lorenz und V
+ erkauf von hochwertiger Adventsfloristik\, musikalische Begleitung Carste
+ n Paschwitz
+LOCATION:Bürger- und Kreativhaus Bruchmühle
+END:VEVENT
+BEGIN:VEVENT
 UID:3@amtsfeed.de
 DTSTAMP:20261018T080915Z
 DTSTART;VALUE=DATE:20261121
@@ -714,6 +727,19 @@ DESCRIPTION:Die Theatergruppe 'Theater im Gutshaus' TIG präsentiert ihr
  berger Weihnachtsmarktes am 05.12.2026 und 06.12.2026 sind Familien mit K
  indern ganz herzlich eingeladen. Der...
 LOCATION:Gutshaus Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:weihnachtsausstellung-im-atelier-ute-hein@amtsfeed.de
+DTSTAMP:20261028T094702Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Weihnachtsausstellung im Atelier Ute Hein
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/weihnachtsausstellung-im-atelier-ute-hein/
+DESCRIPTION:Parallel zum Altlandsberger Weihnachtsmarkt öffnet Ute Hein 
+ ihr Atelier für eine Weihnachtsausstellung. Besucherinnen und Besucher k
+ önnen Werke der Malerei\, Bildhauerei und Keramik besichtigen.
+LOCATION:Atelier Ute Hein
 END:VEVENT
 BEGIN:VEVENT
 UID:5@amtsfeed.de

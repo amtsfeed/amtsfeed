@@ -1,5 +1,108 @@
 # Updates
 
+## 2026-10-28 09:52
+
+Insgesamt **791 neu**, **8566 aktualisiert**, **14 entfernt** in 96 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Altlandsberg | — | +2 | +1 | — |
+| Amt Altdöbern | ~8 | ~8 | — | — |
+| Amt Barnim-Oderbruch | +1 | +1 | — | — |
+| Amt Beetzsee | ~14 | ~48 | — | — |
+| Amt Brieskow-Finkenheerd | — | ~6 | — | ~6 |
+| Amt Britz-Chorin-Oderberg | — | ~1 | — | — |
+| Amt Brück | ~59 | ~19 | — | — |
+| Amt Falkenberg-Höhe | — | ~5 | +1 | — |
+| Amt Friesack | ~11 | +2 / ~11 | +1 | — |
+| Amt Golzow | — | ~21 | — | — |
+| Amt Kleine Elster (Niederlausitz) | — | — | +1 | — |
+| Amt Lebus | ~14 | +1 / ~42 | — | — |
+| Amt Märkische Schweiz | +1 | — | — | — |
+| Amt Nennhausen | ~22 | +2 / ~12 | — | — |
+| Amt Neuzelle | +1 / ~3 | — | — | — |
+| Amt Niemegk | — | ~1 | — | — |
+| Amt Plessa | — | ~25 | — | — |
+| Amt Rhinow | ~12 | +5 / ~12 | — | — |
+| Amt Ruhland | +1 | — | — | — |
+| Amt Scharmützelsee | — | +10 / ~42 / -9 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +7 / ~6 | — | — |
+| Amt Schenkenländchen | — | +2 / ~242 | — | — |
+| Amt Schlaubetal | ~6 | — | — | — |
+| Amt Schradenland | — | ~44 | — | — |
+| Amt Spreenhagen | +1 / ~14 | — | — | — |
+| Amt Wusterwitz | — | ~7 | — | +2 |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Belzig | ~12 | ~3 | — | — |
+| Bad Freienwalde (Oder) | ~6 | ~5 | — | — |
+| Bernau bei Berlin | +2 | ~27 | — | — |
+| Calau | +1 / ~11 | +2 / ~59 | — | — |
+| Dallgow-Döberitz | ~16 | ~33 | — | — |
+| Doberlug-Kirchhain | — | ~59 | — | — |
+| Eberswalde | +1 | +1 | — | — |
+| Eisenhüttenstadt | — | ~1 | — | — |
+| Elsterwerda | +2 | +1 | — | — |
+| Falkensee | — | +3 / ~497 | — | — |
+| Fredersdorf-Vogelsdorf | +1 / ~5 | +1 / ~63 | — | — |
+| Friedland | ~33 | — | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Fürstenwalde-Spree | ~6 | — | — | — |
+| Groß Kreutz | — | ~22 | — | — |
+| Großräschen | +2 / ~12 | ~89 | — | — |
+| Grünheide (Mark) | ~12 | — | — | — |
+| Heideblick | +1 / ~2046 | — | — | +1 |
+| Hennigsdorf | +1 | — | — | — |
+| Herzberg (Elster) | — | ~18 | — | — |
+| Hohen Neuendorf | +5 | ~1 | — | — |
+| Hoppegarten | ~30 | +1 / ~14 | — | — |
+| Ketzin Havel | — | +1 / ~267 | — | — |
+| Kloster Lehnin | — | +1 / ~67 | — | — |
+| Kremmen | ~1 | — | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | — | ~1 | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | ~1955 | +6 / ~652 | — | — |
+| Lauchhammer | ~10 | +2 / ~36 | — | — |
+| Löwenberger Land | — | ~131 | — | +1 |
+| Lübben (Spreewald) | +1 | — | — | — |
+| Lübbenau Spreewald | ~70 | +536 / ~94 | — | — |
+| Michendorf | — | ~52 | — | — |
+| Mittenwalde | +3 / ~1 | — | — | — |
+| Mühlenbecker Land | ~1 | +7 | — | — |
+| Müncheberg | +1 | — | — | — |
+| Nauen | +1 | — | — | — |
+| Neuenhagen bei Berlin | +5 / -5 | — | — | — |
+| Nuthetal | ~14 | ~12 | — | — |
+| Oberkrämer | ~230 | +1 / ~124 | — | — |
+| Oderbruch / Amt Seelow-Land | ~10 | — | — | — |
+| Oranienburg | +1 | +1 | — | +2 |
+| Premnitz | — | +53 / ~271 | — | +1 |
+| Rathenow | — | +1 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Röderland | — | ~41 | — | — |
+| Schipkau | — | ~36 | — | — |
+| Schönefeld | +1 / ~2 | ~30 | — | — |
+| Schönwalde-Glien | — | +3 | — | — |
+| Schulzendorf | +1 / ~10 | — | — | — |
+| Schwarzheide | ~14 | ~13 | — | +1 / ~274 |
+| Schwielowsee | — | — | +1 | — |
+| Senftenberg | +1 | +4 | — | — |
+| Sonnewalde | — | ~2 | — | — |
+| Storkow (Mark) | +2 / ~11 | — | — | — |
+| Strausberg | +3 | +29 | — | — |
+| Tauche | ~7 | — | — | — |
+| Teltow | ~13 | ~94 | — | — |
+| Treuenbrietzen | ~11 | ~4 | — | — |
+| Uebigau-Wahrenbrück | — | ~15 | — | — |
+| Velten | +1 | — | — | — |
+| Verbandsgemeinde Bad Liebenwerda | — | ~48 | — | — |
+| Wandlitz | ~12 | — | — | — |
+| Werder (Havel) | +1 | +41 / ~10 | — | — |
+| Werneuchen | — | +1 | — | — |
+| Wiesenburg-Mark | ~6 | ~57 | +1 | — |
+| Wildau | +2 | — | — | — |
+| Woltersdorf | ~7 | ~21 | — | — |
+| Wustermark | — | +1 | — | — |
+| Zehdenick | +2 / ~1 | — | +1 | — |
+
 ## 2026-10-27 09:11
 
 Insgesamt **711 neu**, **402 aktualisiert**, **0 entfernt** in 67 Quellen.

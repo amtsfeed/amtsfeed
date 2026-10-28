@@ -1390,14 +1390,6 @@ URL:https://britz-chorin-oderberg.de/events#event-16913
 LOCATION:16230 Chorin – Chorin – Kirche
 END:VEVENT
 BEGIN:VEVENT
-UID:14828@amtsfeed.de
-DTSTAMP:20260526T084943Z
-DTSTART:20261030T230000Z
-SUMMARY:Halloween im Krafthaus
-URL:https://britz-chorin-oderberg.de/events#event-14828
-LOCATION:16248 Niederfinow – Infozentrum
-END:VEVENT
-BEGIN:VEVENT
 UID:16571@amtsfeed.de
 DTSTAMP:20260915T084323Z
 DTSTART:20261031T093000Z
@@ -1412,6 +1404,14 @@ DTSTART:20261031T160000Z
 SUMMARY:Halloween in Chorin
 URL:https://britz-chorin-oderberg.de/events#event-16816
 LOCATION:16230 Chorin – Chorin – Feuerwehr
+END:VEVENT
+BEGIN:VEVENT
+UID:14828@amtsfeed.de
+DTSTAMP:20261028T094259Z
+DTSTART:20261031T170000Z
+SUMMARY:Halloween im Krafthaus
+URL:https://britz-chorin-oderberg.de/events#event-14828
+LOCATION:16248 Niederfinow – Infozentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:15103@amtsfeed.de

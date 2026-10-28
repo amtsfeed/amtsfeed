@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T09:09:35.805Z",
+  "updatedAt": "2026-10-28T09:50:07.045Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -645,14 +645,6 @@
       "updatedAt": "2026-10-21T08:47:29.467Z"
     },
     {
-      "id": "scharmuetzelsee-kuschelstunde-mit-unseren-zwergschafen-ferienprogramm",
-      "title": "Kuschelstunde mit unseren Zwergschafen - Ferienprogramm",
-      "url": "https://www.scharmuetzelsee.de/event/kuschelstunde-mit-unseren-zwergschafen-ferienprogramm",
-      "startDate": "2026-10-21T00:00:00.000Z",
-      "fetchedAt": "2026-10-07T10:27:53.551Z",
-      "updatedAt": "2026-10-21T08:47:29.467Z"
-    },
-    {
       "id": "scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs",
       "title": "Aktiv Wochenplan - Wakepark Schnupperkurs",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-wakepark-schnupperkurs",
@@ -683,14 +675,6 @@
       "startDate": "2026-10-21T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:59:03.401Z",
       "updatedAt": "2026-10-21T08:47:29.467Z"
-    },
-    {
-      "id": "scharmuetzelsee-koerbe-flechten-ferienprogramm",
-      "title": "Körbe flechten - Ferienprogramm",
-      "url": "https://www.scharmuetzelsee.de/event/koerbe-flechten-ferienprogramm",
-      "startDate": "2026-10-22T00:00:00.000Z",
-      "fetchedAt": "2026-10-08T10:46:08.536Z",
-      "updatedAt": "2026-10-22T08:45:42.840Z"
     },
     {
       "id": "scharmuetzelsee-bingo-ferienprogramm",
@@ -739,14 +723,6 @@
       "startDate": "2026-10-22T00:00:00.000Z",
       "fetchedAt": "2026-09-14T09:07:58.489Z",
       "updatedAt": "2026-09-14T09:07:58.489Z"
-    },
-    {
-      "id": "scharmuetzelsee-schatzsuche-im-herbst-ferienprogramm",
-      "title": "Schatzsuche im Herbst - Ferienprogramm",
-      "url": "https://www.scharmuetzelsee.de/event/schatzsuche-im-herbst-ferienprogramm",
-      "startDate": "2026-10-22T00:00:00.000Z",
-      "fetchedAt": "2026-10-22T08:45:42.840Z",
-      "updatedAt": "2026-10-22T08:45:42.840Z"
     },
     {
       "id": "scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-durch-die-ortsgeschichte",
@@ -845,30 +821,6 @@
       "updatedAt": "2026-10-25T08:35:51.431Z"
     },
     {
-      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
-      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
-      "startDate": "2026-10-27T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-10-27T09:09:35.803Z"
-    },
-    {
-      "id": "scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
-      "title": "Mitsegeln mit Skipper auf dem Scharmützelsee",
-      "url": "https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
-      "startDate": "2026-10-27T00:00:00.000Z",
-      "fetchedAt": "2026-09-13T08:29:23.977Z",
-      "updatedAt": "2026-10-27T09:09:35.803Z"
-    },
-    {
-      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
-      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
-      "startDate": "2026-10-27T00:00:00.000Z",
-      "fetchedAt": "2026-09-28T09:58:55.325Z",
-      "updatedAt": "2026-10-27T09:09:35.803Z"
-    },
-    {
       "id": "scharmuetzelsee-tier-talk-ferienprogramm",
       "title": "Tier Talk - Ferienprogramm",
       "url": "https://www.scharmuetzelsee.de/event/tier-talk-ferienprogramm",
@@ -893,6 +845,38 @@
       "updatedAt": "2026-10-27T09:09:35.803Z"
     },
     {
+      "id": "scharmuetzelsee-kuschelstunde-mit-unseren-zwergschafen-ferienprogramm",
+      "title": "Kuschelstunde mit unseren Zwergschafen - Ferienprogramm",
+      "url": "https://www.scharmuetzelsee.de/event/kuschelstunde-mit-unseren-zwergschafen-ferienprogramm",
+      "startDate": "2026-10-28T00:00:00.000Z",
+      "fetchedAt": "2026-10-07T10:27:53.551Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
+      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
+      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
+      "startDate": "2026-10-28T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
+      "id": "scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
+      "title": "Mitsegeln mit Skipper auf dem Scharmützelsee",
+      "url": "https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
+      "startDate": "2026-10-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:29:23.977Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
+      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
+      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
+      "startDate": "2026-10-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-28T09:58:55.325Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
       "id": "scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-denkmal-bunkeranlage-fuchsbau",
       "title": "Führungen zur Geschichte der Bunker im technischen Denkmal „Bunkeranlage Fuchsbau“",
       "url": "https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bunker-im-technischen-denkmal-bunkeranlage-fuchsbau",
@@ -915,6 +899,22 @@
       "startDate": "2026-10-28T00:00:00.000Z",
       "fetchedAt": "2026-10-12T11:07:15.473Z",
       "updatedAt": "2026-10-27T09:09:35.803Z"
+    },
+    {
+      "id": "scharmuetzelsee-koerbe-flechten-ferienprogramm",
+      "title": "Körbe flechten - Ferienprogramm",
+      "url": "https://www.scharmuetzelsee.de/event/koerbe-flechten-ferienprogramm",
+      "startDate": "2026-10-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-08T10:46:08.536Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
+      "id": "scharmuetzelsee-schatzsuche-im-herbst-ferienprogramm",
+      "title": "Schatzsuche im Herbst - Ferienprogramm",
+      "url": "https://www.scharmuetzelsee.de/event/schatzsuche-im-herbst-ferienprogramm",
+      "startDate": "2026-10-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-22T08:45:42.840Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
     },
     {
       "id": "scharmuetzelsee-sternstunden-in-der-saarowtherme",
@@ -958,6 +958,14 @@
       "updatedAt": "2026-10-02T09:55:55.576Z"
     },
     {
+      "id": "scharmuetzelsee-halloween-gruselumzug-und-hexenparty-im-zombieland",
+      "title": "Halloween Gruselumzug und Hexenparty im Zombieland",
+      "url": "https://www.scharmuetzelsee.de/event/halloween-gruselumzug-und-hexenparty-im-zombieland",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-10-28T09:50:07.043Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
       "id": "scharmuetzelsee-unruhestand-kabarett-am-nachmittag-dumm-gelaufen-satire-fuer-politisch-inkorrekte-zeiten",
       "title": "UnRuhestand: KABARETT am Nachmittag: „Dumm gelaufen. Satire für politisch inkorrekte Zeiten“",
       "url": "https://www.scharmuetzelsee.de/event/unruhestand-kabarett-am-nachmittag-dumm-gelaufen-satire-fuer-politisch-inkorrekte-zeiten",
@@ -975,12 +983,61 @@
       "updatedAt": "2026-10-01T10:20:46.149Z"
     },
     {
+      "id": "scharmuetzelsee-adventssingen-im-aldo-wendisch-rietz",
+      "title": "Adventssingen im Aldo Wendisch Rietz",
+      "url": "https://www.scharmuetzelsee.de/event/adventssingen-im-aldo-wendisch-rietz",
+      "startDate": "2026-11-21T00:00:00.000Z",
+      "fetchedAt": "2026-10-28T09:50:07.043Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
+      "id": "scharmuetzelsee-salsa-cocktail-party-im-bahnhofshotel-die-neue-buehne",
+      "title": "Salsa Cocktail Party im Bahnhofshotel \"Die Neue Bühne\"",
+      "url": "https://www.scharmuetzelsee.de/event/salsa-cocktail-party-im-bahnhofshotel-die-neue-buehne",
+      "startDate": "2026-11-21T00:00:00.000Z",
+      "fetchedAt": "2026-10-28T09:50:07.043Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
+      "id": "scharmuetzelsee-saarower-klavierkonzert-weihnachtszauber",
+      "title": "\"Saarower Klavierkonzert\" - Weihnachtszauber",
+      "url": "https://www.scharmuetzelsee.de/event/saarower-klavierkonzert-weihnachtszauber",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-10-28T09:50:07.043Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
+      "id": "scharmuetzelsee-melodien-unterm-tannenbaum-in-der-alten-schulscheune",
+      "title": "Melodien unterm Tannenbaum in der Alten Schulscheune",
+      "url": "https://www.scharmuetzelsee.de/event/melodien-unterm-tannenbaum-in-der-alten-schulscheune",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-28T09:50:07.043Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
+      "id": "scharmuetzelsee-weihnachtszauber-burg-storkow-weihnachtsmarkt",
+      "title": "Weihnachtszauber Burg Storkow Weihnachtsmarkt",
+      "url": "https://www.scharmuetzelsee.de/event/weihnachtszauber-burg-storkow-weihnachtsmarkt",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "endDate": "2026-12-06T00:00:00.000Z",
+      "fetchedAt": "2026-10-28T09:50:07.043Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
       "id": "scharmuetzelsee-movie-night-im-spa",
       "title": "Movie-Night im Spa",
       "url": "https://www.scharmuetzelsee.de/event/movie-night-im-spa",
       "startDate": "2026-12-11T00:00:00.000Z",
       "fetchedAt": "2026-10-17T07:55:57.579Z",
       "updatedAt": "2026-10-17T07:55:57.579Z"
+    },
+    {
+      "id": "scharmuetzelsee-wendisch-rietzer-weihnachten",
+      "title": "Wendisch Rietzer Weihnachten",
+      "url": "https://www.scharmuetzelsee.de/event/wendisch-rietzer-weihnachten",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "fetchedAt": "2026-10-28T09:50:07.043Z",
+      "updatedAt": "2026-10-28T09:50:07.043Z"
     }
   ]
 }

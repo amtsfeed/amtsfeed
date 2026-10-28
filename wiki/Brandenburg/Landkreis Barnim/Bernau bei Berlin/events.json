@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T09:02:47.974Z",
+  "updatedAt": "2026-10-28T09:43:02.206Z",
   "items": [
     {
       "id": "artikel-elternseminar_trotzende_kleinkinder_sind_wie_kleine_neandertaler",
@@ -231,15 +231,6 @@
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-atelier-ausstellung_meine_sicht_der_dinge-2026-05-27.html",
       "startDate": "2026-05-27T10:00:00.000Z",
       "location": "Atelier der Galerie Bernau",
-      "fetchedAt": "2026-05-26T08:49:44.727Z",
-      "updatedAt": "2026-05-26T08:49:44.727Z"
-    },
-    {
-      "id": "artikel-spielenachmittag_mit_fr_schneider",
-      "title": "Spielenachmittag mit Fr. Schneider",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-spielenachmittag_mit_fr_schneider-2026-05-27.html",
-      "startDate": "2026-05-27T14:00:00.000Z",
-      "location": "Begegnungszentrum Bernau – Einrichtung des Landesverbandes der Volkssolidarität e.V.",
       "fetchedAt": "2026-05-26T08:49:44.727Z",
       "updatedAt": "2026-05-26T08:49:44.727Z"
     },
@@ -1059,15 +1050,6 @@
       "startDate": "2026-09-30T06:00:00.000Z",
       "location": "Dachterrasse des Neuen Rathauses",
       "fetchedAt": "2026-05-26T08:49:44.727Z",
-      "updatedAt": "2026-09-30T09:45:10.685Z"
-    },
-    {
-      "id": "artikel-seniorentanznachmittag",
-      "title": "Seniorentanznachmittag",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-seniorentanznachmittag-2026-09-30.html",
-      "startDate": "2026-09-30T15:00:00.000Z",
-      "location": "Stadtmauertreff",
-      "fetchedAt": "2026-09-30T09:45:10.685Z",
       "updatedAt": "2026-09-30T09:45:10.685Z"
     },
     {
@@ -2178,113 +2160,6 @@
       "updatedAt": "2026-10-20T08:35:33.478Z"
     },
     {
-      "id": "artikel-schlagzeugunterricht_mit_daniel_im_yellow",
-      "title": "Schlagzeugunterricht mit Daniel im Yellow",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-schlagzeugunterricht_mit_daniel_im_yellow-2026-10-21.html",
-      "startDate": "2026-10-21T00:00:00.000Z",
-      "fetchedAt": "2026-09-23T08:37:46.640Z",
-      "updatedAt": "2026-10-21T08:37:35.281Z"
-    },
-    {
-      "id": "artikel-spielerunde_in_geselligkeit",
-      "title": "Spielerunde in Geselligkeit",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-spielerunde_in_geselligkeit-2026-10-21.html",
-      "startDate": "2026-10-21T09:30:00.000Z",
-      "location": "Aufwind - Begegnung und Beratung",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-10-21T08:37:35.281Z"
-    },
-    {
-      "id": "artikel-tanz_mit_beckenboden_mawiba",
-      "title": "Tanz mit Beckenboden (MAWIBA)",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-tanz_mit_beckenboden_mawiba-2026-10-21.html",
-      "startDate": "2026-10-21T10:00:00.000Z",
-      "location": "Eastside Fun Crew",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-10-21T08:37:35.281Z"
-    },
-    {
-      "id": "artikel-harmonische_babymassage",
-      "title": "Harmonische Babymassage",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-harmonische_babymassage-2026-10-21.html",
-      "startDate": "2026-10-21T12:00:00.000Z",
-      "location": "Praxis Wohlklang",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-10-21T08:37:35.281Z"
-    },
-    {
-      "id": "artikel-ausgabe_der_tafel_bernau",
-      "title": "Ausgabe der Tafel Bernau",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ausgabe_der_tafel_bernau-2026-10-21.html",
-      "startDate": "2026-10-21T15:00:00.000Z",
-      "location": "Altenhilfe- und Begegnungszentrum der Volkssolidarität Barnim e. V.",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-10-20T08:35:33.478Z"
-    },
-    {
-      "id": "artikel-kreativkiste_im_yellow",
-      "title": "„Kreativkiste\" im Yellow",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-kreativkiste_im_yellow-2026-10-21.html",
-      "startDate": "2026-10-21T15:00:00.000Z",
-      "location": "Freizeithaus Yellow des HVD Nordbrandenburg KdöR",
-      "fetchedAt": "2026-09-22T08:35:14.261Z",
-      "updatedAt": "2026-10-20T08:35:33.478Z"
-    },
-    {
-      "id": "artikel-birthlover_-_schwangeren_yoga_mit_geburtsvorbereitung",
-      "title": "Birthlover - Schwangeren Yoga mit Geburtsvorbereitung",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-birthlover_-_schwangeren_yoga_mit_geburtsvorbereitung-2026-10-21.html",
-      "startDate": "2026-10-21T16:30:00.000Z",
-      "location": "Zentrum Wohlklang",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-10-21T08:37:35.281Z"
-    },
-    {
-      "id": "artikel-gemeinsam_aktiv_die_inklusive_sportgruppe",
-      "title": "Gemeinsam aktiv – die inklusive Sportgruppe",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gemeinsam_aktiv_die_inklusive_sportgruppe-2026-10-21.html",
-      "startDate": "2026-10-21T17:00:00.000Z",
-      "location": "Sporthalle am Freibad Waldfrieden",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-10-21T08:37:35.281Z"
-    },
-    {
-      "id": "artikel-mbsr_8_wochen_stressbewaeltigungskurs",
-      "title": "MBSR 8 Wochen Stressbewältigungskurs",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-mbsr_8_wochen_stressbewaeltigungskurs-2026-10-21.html",
-      "startDate": "2026-10-21T17:00:00.000Z",
-      "location": "Praxis Wohlklang",
-      "fetchedAt": "2026-10-07T10:18:59.407Z",
-      "updatedAt": "2026-10-21T08:37:35.281Z"
-    },
-    {
-      "id": "artikel-outdoor_hiit_mittleres_fitnesslevel",
-      "title": "OUTDOOR HIIT (Mittleres Fitnesslevel)",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-outdoor_hiit_mittleres_fitnesslevel-2026-10-21.html",
-      "startDate": "2026-10-21T17:30:00.000Z",
-      "location": "Panke - Park",
-      "fetchedAt": "2026-05-05T20:59:53.093Z",
-      "updatedAt": "2026-10-21T08:37:35.281Z"
-    },
-    {
-      "id": "artikel-vinyasa_yoga_in_lobetal",
-      "title": "Vinyasa Yoga in Lobetal",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-vinyasa_yoga_in_lobetal-2026-10-21.html",
-      "startDate": "2026-10-21T17:30:00.000Z",
-      "location": "Saal Alt-Lobetal",
-      "fetchedAt": "2026-10-07T10:18:59.407Z",
-      "updatedAt": "2026-10-21T08:37:35.281Z"
-    },
-    {
-      "id": "artikel-yoga_fuer_die_starke_mitte",
-      "title": "Yoga für die starke Mitte",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-yoga_fuer_die_starke_mitte-2026-10-21.html",
-      "startDate": "2026-10-21T18:30:00.000Z",
-      "location": "Zentrum Wohlklang",
-      "fetchedAt": "2026-05-05T20:59:53.093Z",
-      "updatedAt": "2026-10-21T08:37:35.281Z"
-    },
-    {
       "id": "artikel-gottesdienst_unser_leben_als_christ",
       "title": "Gottesdienst: Unser Leben als Christ",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gottesdienst_unser_leben_als_christ-2026-10-21.html",
@@ -2438,24 +2313,6 @@
       "updatedAt": "2026-10-24T08:10:32.293Z"
     },
     {
-      "id": "artikel-atelier-ausstellung_tanz_der_farben",
-      "title": "Atelier-Ausstellung „Tanz der Farben\"",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-atelier-ausstellung_tanz_der_farben-2026-10-24.html",
-      "startDate": "2026-10-24T10:00:00.000Z",
-      "location": "Atelier der Galerie Bernau",
-      "fetchedAt": "2026-10-09T10:37:30.764Z",
-      "updatedAt": "2026-10-24T08:10:32.293Z"
-    },
-    {
-      "id": "artikel-ausstellung_grenzverschiebungen",
-      "title": "Ausstellung „Grenzverschiebungen\"",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ausstellung_grenzverschiebungen-2026-10-24.html",
-      "startDate": "2026-10-24T10:00:00.000Z",
-      "location": "Galerie Bernau",
-      "fetchedAt": "2026-10-16T08:13:53.096Z",
-      "updatedAt": "2026-10-24T08:10:32.293Z"
-    },
-    {
       "id": "artikel-musik_im_korb_-_konzert_zum_bernauer_wochenmarkt_mit_uli_kirsch",
       "title": "MUSIK IM KORB - Konzert zum Bernauer Wochenmarkt mit Uli Kirsch",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-musik_im_korb_-_konzert_zum_bernauer_wochenmarkt_mit_uli_kirsch-2026-10-24.html",
@@ -2573,15 +2430,6 @@
       "updatedAt": "2026-10-24T08:10:32.293Z"
     },
     {
-      "id": "artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum",
-      "title": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-10-25.html",
-      "startDate": "2026-10-25T15:00:00.000Z",
-      "location": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-10-25T08:28:03.143Z"
-    },
-    {
       "id": "artikel-fotowalk_boernicke_teil_2_herbstlicht_entdecken",
       "title": "Fotowalk Börnicke – Teil 2: Herbstlicht entdecken",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-fotowalk_boernicke_teil_2_herbstlicht_entdecken-2026-10-25.html",
@@ -2598,15 +2446,6 @@
       "location": "UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau",
       "fetchedAt": "2026-10-24T08:10:32.293Z",
       "updatedAt": "2026-10-24T08:10:32.293Z"
-    },
-    {
-      "id": "artikel-halloween-show_fuer_gross_und_klein",
-      "title": "Halloween-Show für Groß und Klein",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-halloween-show_fuer_gross_und_klein-2026-10-25.html",
-      "startDate": "2026-10-25T16:30:00.000Z",
-      "location": "Am TOOM-Baumarkt",
-      "fetchedAt": "2026-10-16T08:13:53.096Z",
-      "updatedAt": "2026-10-25T08:28:03.143Z"
     },
     {
       "id": "artikel-gitarrenunterricht_mit_uli_kirsch_im_yellow",
@@ -2632,15 +2471,6 @@
       "startDate": "2026-10-26T09:00:00.000Z",
       "location": "Therapiehaus am Bahnhof Bernau",
       "fetchedAt": "2026-09-20T08:38:02.913Z",
-      "updatedAt": "2026-10-25T08:28:03.143Z"
-    },
-    {
-      "id": "artikel-brett-_und_kartenspiele",
-      "title": "Brett- und Kartenspiele",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-brett-_und_kartenspiele-2026-10-26.html",
-      "startDate": "2026-10-26T12:00:00.000Z",
-      "location": "AWO Treff Bernau (Ortsverein)",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
       "updatedAt": "2026-10-25T08:28:03.143Z"
     },
     {
@@ -2770,57 +2600,12 @@
       "updatedAt": "2026-10-27T09:02:47.970Z"
     },
     {
-      "id": "artikel-ferienprogramm_licht_aus_-_spot_an",
-      "title": "Ferienprogramm: „Licht aus - Spot an\"",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ferienprogramm_licht_aus_-_spot_an-2026-10-27.html",
-      "startDate": "2026-10-27T09:00:00.000Z",
-      "location": "Konfetti – Kinder- und Jugendfreizeithaus des HVD Nordbrandenburg KdöR",
-      "fetchedAt": "2026-10-25T08:28:03.143Z",
-      "updatedAt": "2026-10-27T09:02:47.970Z"
-    },
-    {
-      "id": "artikel-gesundheit_und_achtsamkeit_im_beruf_durch_ernaehrung_und_selbstfuersorge_-_bildungszeit",
-      "title": "Gesundheit und Achtsamkeit im Beruf durch Ernährung und Selbstfürsorge - Bildungszeit",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gesundheit_und_achtsamkeit_im_beruf_durch_ernaehrung_und_selbstfuersorge_-_bildungszeit-2026-10-27.html",
-      "startDate": "2026-10-27T09:00:00.000Z",
-      "location": "Schule im Nibelungenviertel",
-      "fetchedAt": "2026-10-25T08:28:03.143Z",
-      "updatedAt": "2026-10-27T09:02:47.970Z"
-    },
-    {
-      "id": "artikel-museum_im_henkerhaus",
-      "title": "Museum im Henkerhaus",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-museum_im_henkerhaus-2026-10-27.html",
-      "startDate": "2026-10-27T09:00:00.000Z",
-      "location": "Museum im Henkerhaus",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-10-26T08:59:15.115Z"
-    },
-    {
       "id": "artikel-offene_sprechstunde_schuldner-_und_insolvenzberatungsstelle",
       "title": "Offene Sprechstunde: Schuldner- und Insolvenzberatungsstelle",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-offene_sprechstunde_schuldner-_und_insolvenzberatungsstelle-2026-10-27.html",
       "startDate": "2026-10-27T10:00:00.000Z",
       "location": "AWO Quartier „Am Weinberg\"",
       "fetchedAt": "2026-05-06T20:21:02.587Z",
-      "updatedAt": "2026-10-27T09:02:47.970Z"
-    },
-    {
-      "id": "artikel-herbstferien-workshop_mappenkurs_jugendliche_und_junge_erwachsene",
-      "title": "Herbstferien-Workshop: Mappenkurs (Jugendliche und junge Erwachsene)",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-herbstferien-workshop_mappenkurs_jugendliche_und_junge_erwachsene-2026-10-27.html",
-      "startDate": "2026-10-27T10:00:00.000Z",
-      "location": "Schule im Nibelungenviertel",
-      "fetchedAt": "2026-10-18T08:04:35.759Z",
-      "updatedAt": "2026-10-27T09:02:47.970Z"
-    },
-    {
-      "id": "artikel-herbstferien-workshop_ohren_auf_hoerspiele_und_podcasts_selber_machen_ab_12_jahren",
-      "title": "Herbstferien-Workshop: Ohren auf! Hörspiele und Podcasts selber machen (ab 12 Jahren)",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-herbstferien-workshop_ohren_auf_hoerspiele_und_podcasts_selber_machen_ab_12_jahren-2026-10-27.html",
-      "startDate": "2026-10-27T10:00:00.000Z",
-      "location": "KVHS Barnim, Bürgerhaus Bernau",
-      "fetchedAt": "2026-10-25T08:28:03.143Z",
       "updatedAt": "2026-10-27T09:02:47.970Z"
     },
     {
@@ -2839,15 +2624,6 @@
       "startDate": "2026-10-27T10:00:00.000Z",
       "location": "Netzwerk Gesunde Kinder Barnim Süd",
       "fetchedAt": "2026-09-22T08:35:14.261Z",
-      "updatedAt": "2026-10-26T08:59:15.115Z"
-    },
-    {
-      "id": "artikel-dauerausstellung_im_besucherzentrum_bernau",
-      "title": "Dauerausstellung im Besucherzentrum Bernau",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-dauerausstellung_im_besucherzentrum_bernau-2026-10-27.html",
-      "startDate": "2026-10-27T10:00:00.000Z",
-      "location": "UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
       "updatedAt": "2026-10-26T08:59:15.115Z"
     },
     {
@@ -2905,15 +2681,6 @@
       "updatedAt": "2026-10-27T09:02:47.970Z"
     },
     {
-      "id": "artikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischluft",
-      "title": "Gitarrenkurse für Kinder und Jugendliche im Jugendzentrum Frischluft",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischluft-2026-10-27.html",
-      "startDate": "2026-10-27T15:00:00.000Z",
-      "location": "Jugend- und Stadtteilzentrum Frischluft",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-10-27T09:02:47.970Z"
-    },
-    {
       "id": "artikel-ausstellungseroeffnung_einzigartiges_altes_und_neues_bernau",
       "title": "Ausstellungseröffnung „Einzigartiges altes und neues Bernau\"",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ausstellungseroeffnung_einzigartiges_altes_und_neues_bernau-2026-10-27.html",
@@ -2929,15 +2696,6 @@
       "startDate": "2026-10-27T17:00:00.000Z",
       "location": "Tanzclub Bernau am Ofenhaus",
       "fetchedAt": "2026-09-22T08:35:14.261Z",
-      "updatedAt": "2026-10-27T09:02:47.970Z"
-    },
-    {
-      "id": "artikel-gitarrenkurse_in_der_grundschule_schoenow",
-      "title": "Gitarrenkurse in der Grundschule Schönow",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gitarrenkurse_in_der_grundschule_schoenow-2026-10-27.html",
-      "startDate": "2026-10-27T17:00:00.000Z",
-      "location": "Grundschule Schönow",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
       "updatedAt": "2026-10-27T09:02:47.970Z"
     },
     {
@@ -3004,6 +2762,176 @@
       "updatedAt": "2026-10-27T09:02:47.970Z"
     },
     {
+      "id": "artikel-schlagzeugunterricht_mit_daniel_im_yellow",
+      "title": "Schlagzeugunterricht mit Daniel im Yellow",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-schlagzeugunterricht_mit_daniel_im_yellow-2026-10-28.html",
+      "startDate": "2026-10-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:37:46.640Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-ferienprogramm_licht_aus_-_spot_an",
+      "title": "Ferienprogramm: „Licht aus - Spot an\"",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ferienprogramm_licht_aus_-_spot_an-2026-10-28.html",
+      "startDate": "2026-10-28T09:00:00.000Z",
+      "location": "Konfetti – Kinder- und Jugendfreizeithaus des HVD Nordbrandenburg KdöR",
+      "fetchedAt": "2026-10-25T08:28:03.143Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-gesundheit_und_achtsamkeit_im_beruf_durch_ernaehrung_und_selbstfuersorge_-_bildungszeit",
+      "title": "Gesundheit und Achtsamkeit im Beruf durch Ernährung und Selbstfürsorge - Bildungszeit",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gesundheit_und_achtsamkeit_im_beruf_durch_ernaehrung_und_selbstfuersorge_-_bildungszeit-2026-10-28.html",
+      "startDate": "2026-10-28T09:00:00.000Z",
+      "location": "Schule im Nibelungenviertel",
+      "fetchedAt": "2026-10-25T08:28:03.143Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-museum_im_henkerhaus",
+      "title": "Museum im Henkerhaus",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-museum_im_henkerhaus-2026-10-28.html",
+      "startDate": "2026-10-28T09:00:00.000Z",
+      "location": "Museum im Henkerhaus",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-spielerunde_in_geselligkeit",
+      "title": "Spielerunde in Geselligkeit",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-spielerunde_in_geselligkeit-2026-10-28.html",
+      "startDate": "2026-10-28T09:30:00.000Z",
+      "location": "Aufwind - Begegnung und Beratung",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-tanz_mit_beckenboden_mawiba",
+      "title": "Tanz mit Beckenboden (MAWIBA)",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-tanz_mit_beckenboden_mawiba-2026-10-28.html",
+      "startDate": "2026-10-28T10:00:00.000Z",
+      "location": "Eastside Fun Crew",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-atelier-ausstellung_tanz_der_farben",
+      "title": "Atelier-Ausstellung „Tanz der Farben\"",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-atelier-ausstellung_tanz_der_farben-2026-10-28.html",
+      "startDate": "2026-10-28T10:00:00.000Z",
+      "location": "Atelier der Galerie Bernau",
+      "fetchedAt": "2026-10-09T10:37:30.764Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-ausstellung_grenzverschiebungen",
+      "title": "Ausstellung „Grenzverschiebungen\"",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ausstellung_grenzverschiebungen-2026-10-28.html",
+      "startDate": "2026-10-28T10:00:00.000Z",
+      "location": "Galerie Bernau",
+      "fetchedAt": "2026-10-16T08:13:53.096Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-herbstferien-workshop_mappenkurs_jugendliche_und_junge_erwachsene",
+      "title": "Herbstferien-Workshop: Mappenkurs (Jugendliche und junge Erwachsene)",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-herbstferien-workshop_mappenkurs_jugendliche_und_junge_erwachsene-2026-10-28.html",
+      "startDate": "2026-10-28T10:00:00.000Z",
+      "location": "Schule im Nibelungenviertel",
+      "fetchedAt": "2026-10-18T08:04:35.759Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-herbstferien-workshop_ohren_auf_hoerspiele_und_podcasts_selber_machen_ab_12_jahren",
+      "title": "Herbstferien-Workshop: Ohren auf! Hörspiele und Podcasts selber machen (ab 12 Jahren)",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-herbstferien-workshop_ohren_auf_hoerspiele_und_podcasts_selber_machen_ab_12_jahren-2026-10-28.html",
+      "startDate": "2026-10-28T10:00:00.000Z",
+      "location": "KVHS Barnim, Bürgerhaus Bernau",
+      "fetchedAt": "2026-10-25T08:28:03.143Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-dauerausstellung_im_besucherzentrum_bernau",
+      "title": "Dauerausstellung im Besucherzentrum Bernau",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-dauerausstellung_im_besucherzentrum_bernau-2026-10-28.html",
+      "startDate": "2026-10-28T10:00:00.000Z",
+      "location": "UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-harmonische_babymassage",
+      "title": "Harmonische Babymassage",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-harmonische_babymassage-2026-10-28.html",
+      "startDate": "2026-10-28T12:00:00.000Z",
+      "location": "Praxis Wohlklang",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-brett-_und_kartenspiele",
+      "title": "Brett- und Kartenspiele",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-brett-_und_kartenspiele-2026-10-28.html",
+      "startDate": "2026-10-28T12:00:00.000Z",
+      "location": "AWO Treff Bernau (Ortsverein)",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-spielenachmittag_mit_fr_schneider",
+      "title": "Spielenachmittag mit Fr. Schneider",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-spielenachmittag_mit_fr_schneider-2026-10-28.html",
+      "startDate": "2026-10-28T14:00:00.000Z",
+      "location": "Begegnungszentrum Bernau – Einrichtung des Landesverbandes der Volkssolidarität e.V.",
+      "fetchedAt": "2026-05-26T08:49:44.727Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-seniorentanznachmittag",
+      "title": "Seniorentanznachmittag",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-seniorentanznachmittag-2026-10-28.html",
+      "startDate": "2026-10-28T15:00:00.000Z",
+      "location": "Stadtmauertreff",
+      "fetchedAt": "2026-09-30T09:45:10.685Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-ausgabe_der_tafel_bernau",
+      "title": "Ausgabe der Tafel Bernau",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ausgabe_der_tafel_bernau-2026-10-28.html",
+      "startDate": "2026-10-28T15:00:00.000Z",
+      "location": "Altenhilfe- und Begegnungszentrum der Volkssolidarität Barnim e. V.",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-kreativkiste_im_yellow",
+      "title": "„Kreativkiste\" im Yellow",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-kreativkiste_im_yellow-2026-10-28.html",
+      "startDate": "2026-10-28T15:00:00.000Z",
+      "location": "Freizeithaus Yellow des HVD Nordbrandenburg KdöR",
+      "fetchedAt": "2026-09-22T08:35:14.261Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum",
+      "title": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-10-28.html",
+      "startDate": "2026-10-28T15:00:00.000Z",
+      "location": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischluft",
+      "title": "Gitarrenkurse für Kinder und Jugendliche im Jugendzentrum Frischluft",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischluft-2026-10-28.html",
+      "startDate": "2026-10-28T15:00:00.000Z",
+      "location": "Jugend- und Stadtteilzentrum Frischluft",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
       "id": "artikel-naehen_im_yellow",
       "title": "Nähen im Yellow",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-naehen_im_yellow-2026-10-28.html",
@@ -3013,6 +2941,69 @@
       "updatedAt": "2026-10-27T09:02:47.970Z"
     },
     {
+      "id": "artikel-birthlover_-_schwangeren_yoga_mit_geburtsvorbereitung",
+      "title": "Birthlover - Schwangeren Yoga mit Geburtsvorbereitung",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-birthlover_-_schwangeren_yoga_mit_geburtsvorbereitung-2026-10-28.html",
+      "startDate": "2026-10-28T16:30:00.000Z",
+      "location": "Zentrum Wohlklang",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-halloween-show_fuer_gross_und_klein",
+      "title": "Halloween-Show für Groß und Klein",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-halloween-show_fuer_gross_und_klein-2026-10-28.html",
+      "startDate": "2026-10-28T16:30:00.000Z",
+      "location": "Am TOOM-Baumarkt",
+      "fetchedAt": "2026-10-16T08:13:53.096Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-gemeinsam_aktiv_die_inklusive_sportgruppe",
+      "title": "Gemeinsam aktiv – die inklusive Sportgruppe",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gemeinsam_aktiv_die_inklusive_sportgruppe-2026-10-28.html",
+      "startDate": "2026-10-28T17:00:00.000Z",
+      "location": "Sporthalle am Freibad Waldfrieden",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-mbsr_8_wochen_stressbewaeltigungskurs",
+      "title": "MBSR 8 Wochen Stressbewältigungskurs",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-mbsr_8_wochen_stressbewaeltigungskurs-2026-10-28.html",
+      "startDate": "2026-10-28T17:00:00.000Z",
+      "location": "Praxis Wohlklang",
+      "fetchedAt": "2026-10-07T10:18:59.407Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-gitarrenkurse_in_der_grundschule_schoenow",
+      "title": "Gitarrenkurse in der Grundschule Schönow",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gitarrenkurse_in_der_grundschule_schoenow-2026-10-28.html",
+      "startDate": "2026-10-28T17:00:00.000Z",
+      "location": "Grundschule Schönow",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-outdoor_hiit_mittleres_fitnesslevel",
+      "title": "OUTDOOR HIIT (Mittleres Fitnesslevel)",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-outdoor_hiit_mittleres_fitnesslevel-2026-10-28.html",
+      "startDate": "2026-10-28T17:30:00.000Z",
+      "location": "Panke - Park",
+      "fetchedAt": "2026-05-05T20:59:53.093Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
+      "id": "artikel-vinyasa_yoga_in_lobetal",
+      "title": "Vinyasa Yoga in Lobetal",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-vinyasa_yoga_in_lobetal-2026-10-28.html",
+      "startDate": "2026-10-28T17:30:00.000Z",
+      "location": "Saal Alt-Lobetal",
+      "fetchedAt": "2026-10-07T10:18:59.407Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
+    },
+    {
       "id": "artikel-kuenstler_innentreff_in_der_galerie_bernau",
       "title": "Künstler:innentreff in der Galerie Bernau",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-kuenstler_innentreff_in_der_galerie_bernau-2026-10-28.html",
@@ -3020,6 +3011,15 @@
       "location": "Galerie Bernau",
       "fetchedAt": "2026-05-26T08:49:44.727Z",
       "updatedAt": "2026-10-27T09:02:47.970Z"
+    },
+    {
+      "id": "artikel-yoga_fuer_die_starke_mitte",
+      "title": "Yoga für die starke Mitte",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-yoga_fuer_die_starke_mitte-2026-10-28.html",
+      "startDate": "2026-10-28T18:30:00.000Z",
+      "location": "Zentrum Wohlklang",
+      "fetchedAt": "2026-05-05T20:59:53.093Z",
+      "updatedAt": "2026-10-28T09:43:02.203Z"
     },
     {
       "id": "artikel-bernau_liest_coverallerlei_und_coverbetrachtungen",

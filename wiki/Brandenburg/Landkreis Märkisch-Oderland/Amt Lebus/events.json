@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:48:01.770Z",
+  "updatedAt": "2026-10-29T10:06:34.638Z",
   "items": [
     {
       "id": "2846347",
@@ -975,25 +975,6 @@
       "updatedAt": "2026-10-23T08:41:37.730Z"
     },
     {
-      "id": "2486339",
-      "title": "Sport für Senioren in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/28/sport-fuer-senioren-in-podelzig",
-      "startDate": "2026-10-28T00:00:00.000Z",
-      "location": "Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-28T09:48:01.755Z"
-    },
-    {
-      "id": "2464908",
-      "title": "Fleischerwagen Fleischerei Höhne",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/28/fleischerwagen-fleischerei-hoehne",
-      "startDate": "2026-10-28T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "am Dorfteich Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-28T09:48:01.755Z"
-    },
-    {
       "id": "2538590",
       "title": "Tischtennis",
       "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/10/29/tischtennis",
@@ -1147,6 +1128,25 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
+      "id": "2486339",
+      "title": "Sport für Senioren in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/04/sport-fuer-senioren-in-podelzig",
+      "startDate": "2026-11-04T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-29T10:06:34.627Z"
+    },
+    {
+      "id": "2464908",
+      "title": "Fleischerwagen Fleischerei Höhne",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/04/fleischerwagen-fleischerei-hoehne",
+      "startDate": "2026-11-04T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "am Dorfteich Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-29T10:06:34.627Z"
+    },
+    {
       "id": "2846367",
       "title": "Bowling für Senioren",
       "url": "https://www.amt-lebus.de/veranstaltungen/2846367/2026/11/04/bowling-fuer-senioren",
@@ -1201,6 +1201,15 @@
       "location": "Haus Lebuser Land",
       "fetchedAt": "2026-10-28T09:48:01.755Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "2992660",
+      "title": "Einladung zur Laub - Aktion auf dem Friedhof   in Petershagen",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2992660/2026/11/07/einladung-zur-laub-aktion-auf-dem-friedhof-in-petershagen",
+      "startDate": "2026-11-07T00:00:00.000Z",
+      "location": "Petershagen",
+      "fetchedAt": "2026-10-29T10:06:34.627Z",
+      "updatedAt": "2026-10-29T10:06:34.627Z"
     },
     {
       "id": "2904734",
@@ -1361,6 +1370,16 @@
       "description": "Veranstaltungsort:    Manufaktur",
       "fetchedAt": "2026-10-22T08:44:08.791Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "2992716",
+      "title": "\"Live in Reitwein\" präsentiert im Kulturhaus Lebus -",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2992716/2026/12/05/live-in-reitwein-praesentiert-im-kulturhaus-lebus",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "location": "Kulturhaus Lebus",
+      "description": "JONES & THE CREW feat. special guests: STEFANO RONCHI MATZE STOLPE (ES-MZ-D-IT)  SEAN WEBSTER BAND (UK-NL)         Vorverkaufsstellen: Lebus Lebuser Blumenmädchen, Frankfurter Str. 7 Seelow Mode Zicke, Berliner Str. 53   Frankfurt (O.) ...",
+      "fetchedAt": "2026-10-29T10:06:34.627Z",
+      "updatedAt": "2026-10-29T10:06:34.627Z"
     },
     {
       "id": "2904735",

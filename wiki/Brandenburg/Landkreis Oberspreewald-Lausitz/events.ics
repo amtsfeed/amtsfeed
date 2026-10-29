@@ -8661,6 +8661,15 @@ URL:https://www.osl-online.de/veranstaltungen/2981029/2026/11/19/das-raeu
 LOCATION:Dörrwalde
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2992994-20261119@amtsfeed.de
+DTSTAMP:20261029T100849Z
+DTSTART:20261119T180000Z
+SUMMARY:Bürgerversammlung "Mehr Stadt - Mehr Meinung"
+URL:https://www.osl-online.de/veranstaltungen/2992994/2026/11/19/buergerv
+ ersammlung-mehr-stadt-mehr-meinung
+LOCATION:Stadthalle Calau
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2972531-20261120@amtsfeed.de
 DTSTAMP:20261028T095001Z
 DTSTART;VALUE=DATE:20261120
@@ -9560,6 +9569,16 @@ DTEND:20261205T223000Z
 SUMMARY:Rockkonzert mit "Quaster &amp\; Friends"
 URL:https://www.osl-online.de/veranstaltungen/2929869/2026/12/05/rockkonz
  ert-mit-quotquaster-amp-friends-quot
+LOCATION:Schützenhaus Ruhland
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2992936-20261205@amtsfeed.de
+DTSTAMP:20261029T100849Z
+DTSTART:20261205T193000Z
+DTEND:20261205T223000Z
+SUMMARY:Rockkonzert
+URL:https://www.osl-online.de/veranstaltungen/2992936/2026/12/05/rockkonz
+ ert
 LOCATION:Schützenhaus Ruhland
 END:VEVENT
 BEGIN:VEVENT
@@ -11424,6 +11443,16 @@ SUMMARY:Rockfestival "BOCK AUF ROCK"
 URL:https://www.osl-online.de/veranstaltungen/2991923/2027/03/06/rockfest
  ival-bock-auf-rock
 LOCATION:Stadthalle Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2992934-20270306@amtsfeed.de
+DTSTAMP:20261029T100849Z
+DTSTART:20270306T200000Z
+DTEND:20270306T230000Z
+SUMMARY:Rockkonzert
+URL:https://www.osl-online.de/veranstaltungen/2992934/2027/03/06/rockkonz
+ ert
+LOCATION:Schützenhaus Ruhland
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2124462-20270308@amtsfeed.de
@@ -14842,5 +14871,15 @@ SUMMARY:Behinderten- und Seniorenberatung
 URL:https://www.osl-online.de/veranstaltungen/2124494/2027/10/28/behinder
  ten-und-seniorenberatung
 LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2918359-20271029@amtsfeed.de
+DTSTAMP:20261029T100849Z
+DTSTART:20271029T100000Z
+DTEND:20271029T120000Z
+SUMMARY:Gruppentreffen Selbsthilfegruppe Multiple Sklerose
+URL:https://www.osl-online.de/veranstaltungen/2918359/2027/10/29/gruppent
+ reffen-selbsthilfegruppe-multiple-sklerose
+LOCATION:REKOSI
 END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:44:47.287Z",
+  "updatedAt": "2026-10-29T10:03:36.885Z",
   "items": [
     {
       "id": "amt-rhinow-event-2897599-20260510",
@@ -338,6 +338,14 @@
       "updatedAt": "2026-05-31T14:13:47.499Z"
     },
     {
+      "id": "amt-rhinow-event-2992584-20261111",
+      "title": "Martinsumzug in Rhinow",
+      "url": "https://www.rhinow.de/veranstaltungen/2992584/2026/11/11/martinsumzug-in-rhinow",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:03:36.892Z",
+      "updatedAt": "2026-10-29T10:03:36.892Z"
+    },
+    {
       "id": "amt-rhinow-event-2862159-20261113",
       "title": "Martinsumzug in Kleßen",
       "url": "https://www.rhinow.de/veranstaltungen/2862159/2026/11/13/martinsumzug-in-klessen",
@@ -394,12 +402,36 @@
       "updatedAt": "2026-10-28T09:44:47.297Z"
     },
     {
+      "id": "amt-rhinow-event-2992580-20261122",
+      "title": "Gottesdienst in Rhinow",
+      "url": "https://www.rhinow.de/veranstaltungen/2992580/2026/11/22/gottesdienst-in-rhinow",
+      "startDate": "2026-11-22T00:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:03:36.892Z",
+      "updatedAt": "2026-10-29T10:03:36.892Z"
+    },
+    {
       "id": "amt-rhinow-event-2813851-20261128",
       "title": "Weihnachtsmarkt in Rhinow",
       "url": "https://www.rhinow.de/veranstaltungen/2813851/2026/11/28/weihnachtsmarkt-in-rhinow.html",
       "startDate": "2026-11-28T00:00:00.000Z",
       "fetchedAt": "2026-05-31T13:41:15.981Z",
       "updatedAt": "2026-05-31T14:13:47.499Z"
+    },
+    {
+      "id": "amt-rhinow-event-2992581-20261129",
+      "title": "Gottesdienst in Hohennauen",
+      "url": "https://www.rhinow.de/veranstaltungen/2992581/2026/11/29/gottesdienst-in-hohennauen",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:03:36.892Z",
+      "updatedAt": "2026-10-29T10:03:36.892Z"
+    },
+    {
+      "id": "amt-rhinow-event-2992583-20261129",
+      "title": "Gottesdienst in Stölln",
+      "url": "https://www.rhinow.de/veranstaltungen/2992583/2026/11/29/gottesdienst-in-stoelln",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:03:36.892Z",
+      "updatedAt": "2026-10-29T10:03:36.892Z"
     },
     {
       "id": "amt-rhinow-event-2813851-20261205",

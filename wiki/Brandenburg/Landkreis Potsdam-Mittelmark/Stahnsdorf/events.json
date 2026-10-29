@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:22:39.983Z",
+  "updatedAt": "2026-10-29T10:10:41.908Z",
   "items": [
     {
       "id": "stahnsdorf-event-69e207aa",
@@ -394,6 +394,14 @@
       "updatedAt": "2026-09-11T11:13:45.247Z"
     },
     {
+      "id": "stahnsdorf-event-6ad75807",
+      "title": "Test",
+      "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:10:41.901Z",
+      "updatedAt": "2026-10-29T10:10:41.901Z"
+    },
+    {
       "id": "stahnsdorf-event-6a50e122",
       "title": "Weiterdenken ─ Jugendgruppe Denksport",
       "url": "http://www.denksport-verein.de/",
@@ -420,10 +428,10 @@
     {
       "id": "stahnsdorf-event-6a2689f9",
       "title": "Geschichten aus der Sofa-Ecke",
-      "url": "https://stahnsdorf.de/../../stahnsdorf-umgebung/kommunale-einrichtungen/bibliothek/veranstaltungen.html",
+      "url": "https://stahnsdorf.de/../stahnsdorf-umgebung/kommunale-einrichtungen/bibliothek/veranstaltungen.html",
       "startDate": "2026-10-22T18:15:00.000Z",
       "fetchedAt": "2026-09-11T10:00:35.563Z",
-      "updatedAt": "2026-10-04T10:00:49.852Z"
+      "updatedAt": "2026-10-29T10:10:41.901Z"
     },
     {
       "id": "stahnsdorf-event-6a900a27",
@@ -444,10 +452,26 @@
     {
       "id": "stahnsdorf-event-69a71248",
       "title": "Halloween im Rathaus",
-      "url": "https://stahnsdorf.de/../../assets/downloads/veranstaltungen/flyer_halloween_2026_web.pdf",
+      "url": "https://stahnsdorf.de/../assets/downloads/veranstaltungen/flyer_halloween_2026_web.pdf",
       "startDate": "2026-10-31T17:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:35.563Z",
-      "updatedAt": "2026-10-04T10:00:49.852Z"
+      "updatedAt": "2026-10-29T10:10:41.901Z"
+    },
+    {
+      "id": "stahnsdorf-event-6ad74632",
+      "title": "Lampionumzug der Stahnsdorfer Kindertagesstätten",
+      "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
+      "startDate": "2026-11-06T17:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:10:41.901Z",
+      "updatedAt": "2026-10-29T10:10:41.901Z"
+    },
+    {
+      "id": "stahnsdorf-event-6ad1fdbb",
+      "title": "Remembrance Sunday - Gedenkfeier am britischen Soldatenfriedhof",
+      "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
+      "startDate": "2026-11-08T10:30:00.000Z",
+      "fetchedAt": "2026-10-29T10:10:41.901Z",
+      "updatedAt": "2026-10-29T10:10:41.901Z"
     },
     {
       "id": "stahnsdorf-event-6a9594d4",
@@ -458,12 +482,52 @@
       "updatedAt": "2026-09-11T11:13:45.247Z"
     },
     {
+      "id": "stahnsdorf-event-6ad1fde1",
+      "title": "Trauerfeier für einsam Verstorbene",
+      "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
+      "startDate": "2026-11-08T12:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:10:41.901Z",
+      "updatedAt": "2026-10-29T10:10:41.901Z"
+    },
+    {
       "id": "stahnsdorf-event-6a90069f",
       "title": "Vortrag: Glasfasertechnologie – wichtig für die Zukunft",
       "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
       "startDate": "2026-11-10T16:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:35.563Z",
       "updatedAt": "2026-09-11T11:13:45.247Z"
+    },
+    {
+      "id": "stahnsdorf-event-6ad756e1",
+      "title": "Sankt-Martins-Umzug der Kita \"Buddelflink\"",
+      "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
+      "startDate": "2026-11-11T17:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:10:41.901Z",
+      "updatedAt": "2026-10-29T10:10:41.901Z"
+    },
+    {
+      "id": "stahnsdorf-event-6ad757cf",
+      "title": "Sankt-Martins-Umzug der Kita \"Buddelflink\"",
+      "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
+      "startDate": "2026-11-11T17:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:10:41.901Z",
+      "updatedAt": "2026-10-29T10:10:41.901Z"
+    },
+    {
+      "id": "stahnsdorf-event-6ad7466f",
+      "title": "Verleihung der Stahnsdorfer Ehrennadel",
+      "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
+      "startDate": "2026-11-13T19:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:10:41.901Z",
+      "updatedAt": "2026-10-29T10:10:41.901Z"
+    },
+    {
+      "id": "stahnsdorf-event-6ad746bf",
+      "title": "Volkstrauertag",
+      "url": "https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltungskalender/",
+      "startDate": "2026-11-15T09:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:10:41.901Z",
+      "updatedAt": "2026-10-29T10:10:41.901Z"
     },
     {
       "id": "stahnsdorf-event-6acf97ea",
@@ -476,26 +540,26 @@
     {
       "id": "stahnsdorf-event-6ab3a16f",
       "title": "Denksport-Nachmittag",
-      "url": "https://stahnsdorf.de/../../images/pictures/veranstaltungen/buergerhaeuser/20260923-denksportnachmittage_q426.png",
+      "url": "https://stahnsdorf.de/../images/pictures/veranstaltungen/buergerhaeuser/20260923-denksportnachmittage_q426.png",
       "startDate": "2026-11-28T14:00:00.000Z",
       "fetchedAt": "2026-09-24T08:39:15.557Z",
-      "updatedAt": "2026-10-04T10:00:49.852Z"
+      "updatedAt": "2026-10-29T10:10:41.901Z"
     },
     {
       "id": "stahnsdorf-event-69a71226",
       "title": "Lebendiger Adventskalender: Lichterfest im Rathaus",
-      "url": "https://stahnsdorf.de/../../images/pictures/veranstaltungen/advent/031218_lichterfest_im_rathaus_040.jpg",
+      "url": "https://stahnsdorf.de/../images/pictures/veranstaltungen/advent/031218_lichterfest_im_rathaus_040.jpg",
       "startDate": "2026-11-30T15:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:35.563Z",
-      "updatedAt": "2026-09-11T11:13:45.247Z"
+      "updatedAt": "2026-10-29T10:10:41.901Z"
     },
     {
       "id": "stahnsdorf-event-69a711ef",
       "title": "Lebendiger Adventskalender: Stahnsdorfer Adventsmarkt",
-      "url": "https://stahnsdorf.de/../../images/pictures/veranstaltungen/advent/041222_adventsmarkt_b.jpg",
+      "url": "https://stahnsdorf.de/../images/pictures/veranstaltungen/advent/041222_adventsmarkt_b.jpg",
       "startDate": "2026-12-06T14:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:35.563Z",
-      "updatedAt": "2026-09-11T11:13:45.247Z"
+      "updatedAt": "2026-10-29T10:10:41.901Z"
     },
     {
       "id": "stahnsdorf-event-6a9009ed",

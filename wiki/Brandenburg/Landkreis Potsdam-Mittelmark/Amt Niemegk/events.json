@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:51:05.287Z",
+  "updatedAt": "2026-10-29T10:10:04.444Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -530,13 +530,13 @@
     },
     {
       "id": "amt-niemegk-event-2026-10-29-2026-10-29",
-      "title": "Bewegter Morgen",
-      "url": "https://amt-niemegk.de/events/bewegter-morgen/?occurrence=2026-10-29&#038;time=1793264400",
-      "startDate": "2026-10-29T09:00:00.000Z",
-      "endDate": "2026-10-29T10:30:00.000Z",
+      "title": "Wollcafé mit Mara Kroll",
+      "url": "https://amt-niemegk.de/events/wollcafe-mit-mara-kroll-877-973-841-746-546-951-206-349-925-567/?occurrence=2026-10-29&#038;time=1793289600",
+      "startDate": "2026-10-29T16:00:00.000Z",
+      "endDate": "2026-10-29T18:00:00.000Z",
       "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-10-23T08:44:25.297Z",
-      "updatedAt": "2026-10-23T08:44:30.255Z"
+      "updatedAt": "2026-10-29T10:10:04.439Z"
     },
     {
       "id": "amt-niemegk-event-2026-10-31-2026-10-31",
@@ -577,6 +577,16 @@
       "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-10-26T09:07:34.405Z",
       "updatedAt": "2026-10-26T09:07:39.318Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-04-2026-11-04",
+      "title": "Entdeckungsraum mit Anita",
+      "url": "https://amt-niemegk.de/events/entdeckungsraum-mit-anita-und-daniela-2-138-336-851-428-980-903-718-896-424-566-392/?occurrence=2026-11-04&#038;time=1793784600",
+      "startDate": "2026-11-04T09:30:00.000Z",
+      "endDate": "2026-11-04T11:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-10-29T10:09:54.246Z",
+      "updatedAt": "2026-10-29T10:10:04.439Z"
     }
   ]
 }

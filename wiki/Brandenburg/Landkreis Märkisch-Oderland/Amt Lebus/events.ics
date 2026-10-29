@@ -1155,27 +1155,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2989702/2026/10/25/drachenfe
 LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
-UID:2486339@amtsfeed.de
-DTSTAMP:20261028T094801Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Sport für Senioren in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/10/28/sport-fue
- r-senioren-in-podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464908@amtsfeed.de
-DTSTAMP:20261028T094801Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Fleischerwagen Fleischerei Höhne
-URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/10/28/fleischer
- wagen-fleischerei-hoehne
-DESCRIPTION:am Dorfteich Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2538590@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261029
@@ -1346,6 +1325,27 @@ DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
 LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2486339@amtsfeed.de
+DTSTAMP:20261029T100634Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Sport für Senioren in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/04/sport-fue
+ r-senioren-in-podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464908@amtsfeed.de
+DTSTAMP:20261029T100634Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Fleischerwagen Fleischerei Höhne
+URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/04/fleischer
+ wagen-fleischerei-hoehne
+DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2846367@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261104
@@ -1411,6 +1411,16 @@ SUMMARY:Lebus-eine Zeitreise!
 URL:https://www.amt-lebus.de/veranstaltungen/2991926/2026/11/07/lebus-ein
  e-zeitreise
 LOCATION:Haus Lebuser Land
+END:VEVENT
+BEGIN:VEVENT
+UID:2992660@amtsfeed.de
+DTSTAMP:20261029T100634Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Einladung zur Laub - Aktion auf dem Friedhof   in Petershagen
+URL:https://www.amt-lebus.de/veranstaltungen/2992660/2026/11/07/einladung
+ -zur-laub-aktion-auf-dem-friedhof-in-petershagen
+LOCATION:Petershagen
 END:VEVENT
 BEGIN:VEVENT
 UID:2904734@amtsfeed.de
@@ -1593,6 +1603,20 @@ URL:https://www.amt-lebus.de/veranstaltungen/2989197/2026/12/05/advents-p
  unsch-in-mallnow
 DESCRIPTION:Veranstaltungsort:    Manufaktur
 LOCATION:Mallnow
+END:VEVENT
+BEGIN:VEVENT
+UID:2992716@amtsfeed.de
+DTSTAMP:20261029T100634Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:"Live in Reitwein" präsentiert im Kulturhaus Lebus -
+URL:https://www.amt-lebus.de/veranstaltungen/2992716/2026/12/05/live-in-r
+ eitwein-praesentiert-im-kulturhaus-lebus
+DESCRIPTION:JONES & THE CREW feat. special guests: STEFANO RONCHI MATZE S
+ TOLPE (ES-MZ-D-IT)  SEAN WEBSTER BAND (UK-NL)         Vorverkaufsste
+ llen: Lebus Lebuser Blumenmädchen\, Frankfurter Str. 7 Seelow Mode Zicke
+ \, Berliner Str. 53   Frankfurt (O.) ...
+LOCATION:Kulturhaus Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2904735@amtsfeed.de

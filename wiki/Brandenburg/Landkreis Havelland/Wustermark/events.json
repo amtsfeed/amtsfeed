@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:46:07.336Z",
+  "updatedAt": "2026-10-29T10:04:20.101Z",
   "items": [
     {
       "id": "wustermark-event-109",
@@ -505,6 +505,15 @@
       "updatedAt": "2026-10-05T10:33:07.666Z"
     },
     {
+      "id": "wustermark-event-264",
+      "title": "Feuerwerksabend Wustermark",
+      "url": "https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltungen/Feuerwerksabend-Wustermark-.php?object=tx,3847.4.1&ModID=11&FID=3847.264.1&NavID=3847.15&sfvort=1&sfort=1&bn=1",
+      "startDate": "2026-10-31T18:00:00.000Z",
+      "endDate": "2026-10-31T22:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:04:20.108Z",
+      "updatedAt": "2026-10-29T10:04:20.108Z"
+    },
+    {
       "id": "wustermark-event-208",
       "title": "Seniorentanz",
       "url": "https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltungen/Seniorentanz.php?object=tx,3847.4.1&ModID=11&FID=3847.208.1&NavID=3847.15&sfvort=1&sfort=1&bn=1",
@@ -701,6 +710,15 @@
       "endDate": "2026-12-16T19:00:00.000Z",
       "fetchedAt": "2026-10-26T09:02:03.239Z",
       "updatedAt": "2026-10-26T09:02:03.239Z"
+    },
+    {
+      "id": "wustermark-event-246",
+      "title": "Sonntagsplausch",
+      "url": "https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltungen/Sonntagsplausch.php?object=tx,3847.4.1&ModID=11&FID=3847.246.1&NavID=3847.15&sfvort=1&sfort=1&bn=1",
+      "startDate": "2026-12-20T15:00:00.000Z",
+      "endDate": "2026-12-20T17:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:04:20.108Z",
+      "updatedAt": "2026-10-29T10:04:20.108Z"
     }
   ]
 }

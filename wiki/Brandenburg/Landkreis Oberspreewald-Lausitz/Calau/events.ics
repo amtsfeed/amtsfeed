@@ -1133,15 +1133,6 @@ URL:https://www.calau.de/veranstaltungen/2951698/2026/10/27/halloween-bas
  teln.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20261028T094941Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:28.10.2026   Calauer Museen öffnen
-URL:https://www.calau.de/veranstaltungen/2315266/2026/10/28/calauer-musee
- n-oeffnen
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2290342@amtsfeed.de
 DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261029
@@ -1178,10 +1169,10 @@ URL:https://www.calau.de/veranstaltungen/2841056/2026/10/30/sven-stricker
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2964571@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261029T100819Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Kürbisschnitzen für die ganze Familie
+SUMMARY:30.10.2026   Kürbisschnitzen für die ganze Familie
 URL:https://www.calau.de/veranstaltungen/2964571/2026/10/30/kuerbisschnit
  zen-fuer-die-ganze-familie
 END:VEVENT
@@ -1222,6 +1213,15 @@ SUMMARY:Großmarkt auf dem Marktplatz "In Calau clever kaufen" bei den Ca
 URL:https://www.calau.de/veranstaltungen/1906922/2026/11/03/grossmarkt-au
  f-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthaendle
  rn
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2315266@amtsfeed.de
+DTSTAMP:20261029T100819Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Calauer Museen öffnen
+URL:https://www.calau.de/veranstaltungen/2315266/2026/11/04/calauer-musee
+ n-oeffnen
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960237@amtsfeed.de
@@ -1382,6 +1382,15 @@ DTEND;VALUE=DATE:20261120
 SUMMARY:Krabbelgruppe in der Kita Kunterbunt
 URL:https://www.calau.de/veranstaltungen/2960238/2026/11/19/krabbelgruppe
  -in-der-kita-kunterbunt
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2992994@amtsfeed.de
+DTSTAMP:20261029T100819Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Bürgerversammlung "Mehr Stadt - Mehr Meinung"
+URL:https://www.calau.de/veranstaltungen/2992994/2026/11/19/buergerversam
+ mlung-mehr-stadt-mehr-meinung
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877134@amtsfeed.de

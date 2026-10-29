@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:49:17.362Z",
+  "updatedAt": "2026-10-29T10:07:54.355Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -4071,6 +4071,42 @@
       "location": "Mühlentreff, Hauptstraße 7, OT Mühlenbeck",
       "fetchedAt": "2026-10-28T09:49:17.362Z",
       "updatedAt": "2026-10-28T09:49:17.362Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798803",
+      "title": "Bürgerverein Bieselheide: Kreativgruppe",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798803",
+      "startDate": "2026-11-18T10:00:00.000Z",
+      "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
+      "fetchedAt": "2026-10-29T10:07:54.355Z",
+      "updatedAt": "2026-10-29T10:07:54.355Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58809530",
+      "title": "Bürgerverein: Boule am Teich",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58809530",
+      "startDate": "2026-11-18T14:00:00.000Z",
+      "location": "Bouleplatz, Feldahornstraße, OT Schönfließ",
+      "fetchedAt": "2026-10-29T10:07:54.355Z",
+      "updatedAt": "2026-10-29T10:07:54.355Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59053183",
+      "title": "Sprechstunde der Digital-Paten",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59053183",
+      "startDate": "2026-11-18T17:00:00.000Z",
+      "location": "Hauptstraße 9, OT Mühlenbeck",
+      "fetchedAt": "2026-10-29T10:07:54.355Z",
+      "updatedAt": "2026-10-29T10:07:54.355Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58813647",
+      "title": "Ausschuss für Soziales, Bildung, Kultur, Sicherheit und Ordnung (SOA)",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58813647",
+      "startDate": "2026-11-18T18:30:00.000Z",
+      "location": "Bürgersaal Schildow, Franz-Schmidt-Straße 3, OT Schildow",
+      "fetchedAt": "2026-10-29T10:07:54.355Z",
+      "updatedAt": "2026-10-29T10:07:54.355Z"
     }
   ]
 }

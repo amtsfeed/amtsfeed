@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:43:05.659Z",
+  "updatedAt": "2026-10-29T10:01:43.749Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -1154,14 +1154,6 @@
       "updatedAt": "2026-10-11T10:03:29.593Z"
     },
     {
-      "id": "info.php",
-      "title": "Stadtverordnetenversammlung",
-      "url": "https://sessionnet.eberswalde.de/sessionnet/bi/info.php",
-      "startDate": "2026-10-15T20:00:00.000Z",
-      "fetchedAt": "2026-09-13T08:21:28.808Z",
-      "updatedAt": "2026-10-14T08:46:12.277Z"
-    },
-    {
       "id": "faszination-holz-29",
       "title": "Faszination Holz",
       "url": "https://www.eberswalde.de/termine/faszination-holz-29",
@@ -1432,6 +1424,46 @@
       "startDate": "2026-10-30T17:00:00.000Z",
       "fetchedAt": "2026-10-28T09:43:05.648Z",
       "updatedAt": "2026-10-28T09:43:05.648Z"
+    },
+    {
+      "id": "galerie-fenster-44-und-45-ausstellung-fotografien-von-mario-schneider-und-leni-sinclair-5",
+      "title": "Galerie Fenster - 44. und 45. Ausstellung: Fotografien von Mario Schneider und Leni Sinclair",
+      "url": "https://www.eberswalde.de/termine/galerie-fenster-44-und-45-ausstellung-fotografien-von-mario-schneider-und-leni-sinclair-5",
+      "startDate": "2026-11-01T14:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:01:43.740Z",
+      "updatedAt": "2026-10-29T10:01:43.740Z"
+    },
+    {
+      "id": "galerie-fenster-44-und-45-ausstellung-fotografien-von-mario-schneider-und-leni-sinclair-6",
+      "title": "Galerie Fenster - 44. und 45. Ausstellung: Fotografien von Mario Schneider und Leni Sinclair",
+      "url": "https://www.eberswalde.de/termine/galerie-fenster-44-und-45-ausstellung-fotografien-von-mario-schneider-und-leni-sinclair-6",
+      "startDate": "2026-11-05T14:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:01:43.740Z",
+      "updatedAt": "2026-10-29T10:01:43.740Z"
+    },
+    {
+      "id": "info.php",
+      "title": "Stadtverordnetenversammlung",
+      "url": "https://sessionnet.eberswalde.de/sessionnet/bi/info.php",
+      "startDate": "2026-11-05T18:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:21:28.808Z",
+      "updatedAt": "2026-10-29T10:01:43.740Z"
+    },
+    {
+      "id": "lesung-mit-ines-villiger-die-direktorinnen-vom-reichshof",
+      "title": "Lesung mit Ines Villiger \"Die Direktorinnen vom Reichshof\"",
+      "url": "https://www.eberswalde.de/termine/lesung-mit-ines-villiger-die-direktorinnen-vom-reichshof",
+      "startDate": "2026-11-06T18:30:00.000Z",
+      "fetchedAt": "2026-10-29T10:01:43.740Z",
+      "updatedAt": "2026-10-29T10:01:43.740Z"
+    },
+    {
+      "id": "die-grosse-orakelshow",
+      "title": "Die grosse Orakelshow",
+      "url": "https://www.eberswalde.de/termine/die-grosse-orakelshow",
+      "startDate": "2026-11-06T20:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:01:43.740Z",
+      "updatedAt": "2026-10-29T10:01:43.740Z"
     }
   ]
 }

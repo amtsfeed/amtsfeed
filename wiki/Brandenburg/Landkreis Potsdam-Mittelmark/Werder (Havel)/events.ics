@@ -6296,42 +6296,6 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
-UID:werder-havel-event-99167764@amtsfeed.de
-DTSTAMP:20261028T095153Z
-DTSTART:20261028T095153Z
-SUMMARY:Rundfahrt nach Potsdam
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167764
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99167943@amtsfeed.de
-DTSTAMP:20261028T095153Z
-DTSTART:20261028T095153Z
-SUMMARY:Kleine Seenrundfahrt
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167943
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99226012@amtsfeed.de
-DTSTAMP:20261028T095153Z
-DTSTART:20261028T095153Z
-SUMMARY:SingBar
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99226012
-LOCATION:Scala Künstler-Cafe & Bar
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99193359@amtsfeed.de
-DTSTAMP:20261028T095153Z
-DTSTART:20261028T095153Z
-SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99193359
-LOCATION:Von Hand - Blumen & Gemüse
-END:VEVENT
-BEGIN:VEVENT
 UID:werder-havel-event-99233859@amtsfeed.de
 DTSTAMP:20261028T095153Z
 DTSTART:20261028T095153Z
@@ -6341,9 +6305,45 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99167764@amtsfeed.de
+DTSTAMP:20261029T101050Z
+DTSTART:20261029T101050Z
+SUMMARY:Rundfahrt nach Potsdam
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167764
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99167943@amtsfeed.de
+DTSTAMP:20261029T101050Z
+DTSTART:20261029T101050Z
+SUMMARY:Kleine Seenrundfahrt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167943
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99226012@amtsfeed.de
+DTSTAMP:20261029T101050Z
+DTSTART:20261029T101050Z
+SUMMARY:SingBar
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99226012
+LOCATION:Scala Künstler-Cafe & Bar
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99193359@amtsfeed.de
+DTSTAMP:20261029T101050Z
+DTSTART:20261029T101050Z
+SUMMARY:Donnerstag ist Hoftag: Gemüse und Blumen
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99193359
+LOCATION:Von Hand - Blumen & Gemüse
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99233860@amtsfeed.de
-DTSTAMP:20261028T095153Z
-DTSTART:20261028T095153Z
+DTSTAMP:20261029T101050Z
+DTSTART:20261029T101050Z
 SUMMARY:Ausstellung Jüdische Schicksale
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233860
@@ -6351,8 +6351,8 @@ LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233861@amtsfeed.de
-DTSTAMP:20261028T095153Z
-DTSTART:20261030T080000Z
+DTSTAMP:20261029T101050Z
+DTSTART:20261029T101050Z
 SUMMARY:Ausstellung Jüdische Schicksale
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233861
@@ -6360,12 +6360,31 @@ LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99167765@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261030T103000Z
+DTSTAMP:20261029T101050Z
+DTSTART:20261029T101050Z
 SUMMARY:Rundfahrt nach Potsdam
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99167765
 LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99167944@amtsfeed.de
+DTSTAMP:20261029T101050Z
+DTSTART:20261029T101050Z
+SUMMARY:Kleine Seenrundfahrt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99167944
+LOCATION:MS Bismarckhöhe
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99229185@amtsfeed.de
+DTSTAMP:20261029T101050Z
+DTSTART:20261029T101050Z
+SUMMARY:Oktober‑Nacht voller Stil – Mitternachtsshopping bei GaheJuw
+ éle
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99229185
+LOCATION:GaheJuwele
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99114585@amtsfeed.de
@@ -6375,25 +6394,6 @@ SUMMARY:Friedhofsführung
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99114585
 LOCATION:Heilig-Geist-Kirche in Werder (Havel)
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99167944@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261030T140000Z
-SUMMARY:Kleine Seenrundfahrt
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99167944
-LOCATION:MS Bismarckhöhe
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99229185@amtsfeed.de
-DTSTAMP:20261014T085534Z
-DTSTART:20261030T190000Z
-SUMMARY:Oktober‑Nacht voller Stil – Mitternachtsshopping bei GaheJuw
- éle
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99229185
-LOCATION:GaheJuwele
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233862@amtsfeed.de

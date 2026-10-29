@@ -623,12 +623,12 @@ LOCATION:Belziger Str. 4\, 14823 Niemegk
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-10-29-2026-10-29@amtsfeed.de
-DTSTAMP:20261023T084430Z
-DTSTART:20261029T090000Z
-DTEND:20261029T103000Z
-SUMMARY:Bewegter Morgen
-URL:https://amt-niemegk.de/events/bewegter-morgen/?occurrence=2026-10-29&
- #038\;time=1793264400
+DTSTAMP:20261029T101004Z
+DTSTART:20261029T160000Z
+DTEND:20261029T180000Z
+SUMMARY:Wollcafé mit Mara Kroll
+URL:https://amt-niemegk.de/events/wollcafe-mit-mara-kroll-877-973-841-746
+ -546-951-206-349-925-567/?occurrence=2026-10-29&#038\;time=1793289600
 LOCATION:Familienzentrum Niemegk
 END:VEVENT
 BEGIN:VEVENT
@@ -674,6 +674,17 @@ DTEND:20261103T170000Z
 SUMMARY:Cafe für pflegende Zu- und Angehörige
 URL:https://amt-niemegk.de/events/cafe-fuer-pflegende-zu-und-angehoerige/
  ?occurrence=2026-11-03&#038\;time=1793718000
+LOCATION:Familienzentrum Niemegk
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-11-04-2026-11-04@amtsfeed.de
+DTSTAMP:20261029T101004Z
+DTSTART:20261104T093000Z
+DTEND:20261104T110000Z
+SUMMARY:Entdeckungsraum mit Anita
+URL:https://amt-niemegk.de/events/entdeckungsraum-mit-anita-und-daniela-2
+ -138-336-851-428-980-903-718-896-424-566-392/?occurrence=2026-11-04&#038\
+ ;time=1793784600
 LOCATION:Familienzentrum Niemegk
 END:VEVENT
 END:VCALENDAR

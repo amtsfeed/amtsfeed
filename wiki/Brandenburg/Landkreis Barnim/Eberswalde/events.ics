@@ -1185,13 +1185,6 @@ SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-28
 END:VEVENT
 BEGIN:VEVENT
-UID:info.php@amtsfeed.de
-DTSTAMP:20261014T084612Z
-DTSTART:20261015T200000Z
-SUMMARY:Stadtverordnetenversammlung
-URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
-END:VEVENT
-BEGIN:VEVENT
 UID:faszination-holz-29@amtsfeed.de
 DTSTAMP:20261013T103935Z
 DTSTART:20261016T140000Z
@@ -1452,5 +1445,47 @@ DTSTART:20261030T170000Z
 SUMMARY:Nachtwächterwanderung in Eberswalde
 URL:https://www.eberswalde.de/termine/nachtwaechterwanderung-in-eberswald
  e-19
+END:VEVENT
+BEGIN:VEVENT
+UID:galerie-fenster-44-und-45-ausstellung-fotografien-von-mario-schneider
+ -und-leni-sinclair-5@amtsfeed.de
+DTSTAMP:20261029T100143Z
+DTSTART:20261101T140000Z
+SUMMARY:Galerie Fenster - 44. und 45. Ausstellung: Fotografien von Mario 
+ Schneider und Leni Sinclair
+URL:https://www.eberswalde.de/termine/galerie-fenster-44-und-45-ausstellu
+ ng-fotografien-von-mario-schneider-und-leni-sinclair-5
+END:VEVENT
+BEGIN:VEVENT
+UID:galerie-fenster-44-und-45-ausstellung-fotografien-von-mario-schneider
+ -und-leni-sinclair-6@amtsfeed.de
+DTSTAMP:20261029T100143Z
+DTSTART:20261105T140000Z
+SUMMARY:Galerie Fenster - 44. und 45. Ausstellung: Fotografien von Mario 
+ Schneider und Leni Sinclair
+URL:https://www.eberswalde.de/termine/galerie-fenster-44-und-45-ausstellu
+ ng-fotografien-von-mario-schneider-und-leni-sinclair-6
+END:VEVENT
+BEGIN:VEVENT
+UID:info.php@amtsfeed.de
+DTSTAMP:20261029T100143Z
+DTSTART:20261105T180000Z
+SUMMARY:Stadtverordnetenversammlung
+URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
+END:VEVENT
+BEGIN:VEVENT
+UID:lesung-mit-ines-villiger-die-direktorinnen-vom-reichshof@amtsfeed.de
+DTSTAMP:20261029T100143Z
+DTSTART:20261106T183000Z
+SUMMARY:Lesung mit Ines Villiger "Die Direktorinnen vom Reichshof"
+URL:https://www.eberswalde.de/termine/lesung-mit-ines-villiger-die-direkt
+ orinnen-vom-reichshof
+END:VEVENT
+BEGIN:VEVENT
+UID:die-grosse-orakelshow@amtsfeed.de
+DTSTAMP:20261029T100143Z
+DTSTART:20261106T200000Z
+SUMMARY:Die grosse Orakelshow
+URL:https://www.eberswalde.de/termine/die-grosse-orakelshow
 END:VEVENT
 END:VCALENDAR

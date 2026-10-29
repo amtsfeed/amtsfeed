@@ -885,6 +885,25 @@ URL:https://www.amt-ruhland.de/veranstaltungen/
 LOCATION:Amtsverwaltung Ruhland
 END:VEVENT
 BEGIN:VEVENT
+UID:ruhland-event-7390@amtsfeed.de
+DTSTAMP:20261029T100818Z
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
+SUMMARY:Vorlesen verbindet – Die Bibliothek ist beim Bundesweiten Vorle
+ setag dabei!
+URL:https://www.amt-ruhland.de/veranstaltungen/
+LOCATION:Bibliothek Ruhland
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-7393@amtsfeed.de
+DTSTAMP:20261029T100818Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Lesestube zum Weihnachtsmarkt
+URL:/site-wurzel/startseite/amtsgemeinden/ruhland/bibliothek/
+LOCATION:Kirche Ruhland
+END:VEVENT
+BEGIN:VEVENT
 UID:ruhland-event-4912@amtsfeed.de
 DTSTAMP:20260924T083729Z
 DTSTART:20261128T150000Z

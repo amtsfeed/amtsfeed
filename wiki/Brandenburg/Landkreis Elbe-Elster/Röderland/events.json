@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:44:24.171Z",
+  "updatedAt": "2026-10-29T10:03:11.142Z",
   "items": [
     {
       "id": "2873839",
@@ -338,14 +338,6 @@
       "updatedAt": "2026-10-28T09:44:24.161Z"
     },
     {
-      "id": "2812190",
-      "title": "Laternenumzug",
-      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2812190/2026/11/11/laternenumzug",
-      "startDate": "2026-11-11T00:00:00.000Z",
-      "fetchedAt": "2026-05-08T18:38:12.855Z",
-      "updatedAt": "2026-10-28T09:44:24.161Z"
-    },
-    {
       "id": "2812183",
       "title": "Lampionumzug",
       "url": "https://www.gemeinde-roederland.de/veranstaltungen/2812183/2026/11/11/lampionumzug",
@@ -354,12 +346,20 @@
       "updatedAt": "2026-10-28T09:44:24.161Z"
     },
     {
+      "id": "2812190",
+      "title": "Laternenumzug",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2812190/2026/11/11/laternenumzug",
+      "startDate": "2026-11-11T17:00:00.000Z",
+      "fetchedAt": "2026-05-08T18:38:12.855Z",
+      "updatedAt": "2026-10-29T10:03:11.134Z"
+    },
+    {
       "id": "2812197",
       "title": "Martinsumzug",
       "url": "https://www.gemeinde-roederland.de/veranstaltungen/2812197/2026/11/13/martinsumzug",
-      "startDate": "2026-11-13T00:00:00.000Z",
+      "startDate": "2026-11-13T17:30:00.000Z",
       "fetchedAt": "2026-05-08T18:38:12.855Z",
-      "updatedAt": "2026-10-28T09:44:24.161Z"
+      "updatedAt": "2026-10-29T10:03:11.134Z"
     },
     {
       "id": "2972875",
@@ -381,9 +381,17 @@
       "id": "2812178",
       "title": "Haidaer Märchenweihnachtsmarkt",
       "url": "https://www.gemeinde-roederland.de/veranstaltungen/2812178/2026/11/29/haidaer-maerchenweihnachtsmarkt",
-      "startDate": "2026-11-29T00:00:00.000Z",
+      "startDate": "2026-11-29T14:00:00.000Z",
       "fetchedAt": "2026-05-08T18:38:12.855Z",
-      "updatedAt": "2026-10-28T09:44:24.161Z"
+      "updatedAt": "2026-10-29T10:03:11.134Z"
+    },
+    {
+      "id": "2992636",
+      "title": "The Gospel Passengers",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2992636/2026/11/29/the-gospel-passengers",
+      "startDate": "2026-11-29T17:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:03:11.134Z",
+      "updatedAt": "2026-10-29T10:03:11.134Z"
     },
     {
       "id": "2811936",
@@ -392,6 +400,14 @@
       "startDate": "2026-12-08T15:30:00.000Z",
       "fetchedAt": "2026-05-08T18:38:12.855Z",
       "updatedAt": "2026-10-28T09:44:24.161Z"
+    },
+    {
+      "id": "2992639",
+      "title": "Die Kaktusblüte - Humoristisch-satirisches Kabarett aus Dresden",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2992639/2026/12/13/die-kaktusbluete-humoristisch-satirisches-kabarett-aus-dresden",
+      "startDate": "2026-12-13T17:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:03:11.134Z",
+      "updatedAt": "2026-10-29T10:03:11.134Z"
     },
     {
       "id": "2811937",
@@ -408,6 +424,14 @@
       "startDate": "2026-12-17T15:30:00.000Z",
       "fetchedAt": "2026-05-08T18:38:12.855Z",
       "updatedAt": "2026-10-28T09:44:24.161Z"
+    },
+    {
+      "id": "2992613",
+      "title": "Weihnachtsmarkt",
+      "url": "https://www.gemeinde-roederland.de/veranstaltungen/2992613/2026/12/19/weihnachtsmarkt",
+      "startDate": "2026-12-19T16:00:00.000Z",
+      "fetchedAt": "2026-10-29T10:03:11.134Z",
+      "updatedAt": "2026-10-29T10:03:11.134Z"
     },
     {
       "id": "2812057",

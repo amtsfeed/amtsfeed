@@ -385,6 +385,15 @@ URL:https://www.rhinow.de/veranstaltungen/2862156/2026/11/11/sankt-martin
  -in-hohennauen.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-rhinow-event-2992584-20261111@amtsfeed.de
+DTSTAMP:20261029T100336Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Martinsumzug in Rhinow
+URL:https://www.rhinow.de/veranstaltungen/2992584/2026/11/11/martinsumzug
+ -in-rhinow
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-rhinow-event-2862159-20261113@amtsfeed.de
 DTSTAMP:20261028T094447Z
 DTSTART;VALUE=DATE:20261113
@@ -448,6 +457,15 @@ URL:https://www.rhinow.de/veranstaltungen/2992526/2026/11/22/gottesdienst
  -in-hohennauen
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-rhinow-event-2992580-20261122@amtsfeed.de
+DTSTAMP:20261029T100336Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Gottesdienst in Rhinow
+URL:https://www.rhinow.de/veranstaltungen/2992580/2026/11/22/gottesdienst
+ -in-rhinow
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-rhinow-event-2813851-20261128@amtsfeed.de
 DTSTAMP:20260531T141347Z
 DTSTART;VALUE=DATE:20261128
@@ -455,6 +473,24 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Weihnachtsmarkt in Rhinow
 URL:https://www.rhinow.de/veranstaltungen/2813851/2026/11/28/weihnachtsma
  rkt-in-rhinow.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-rhinow-event-2992581-20261129@amtsfeed.de
+DTSTAMP:20261029T100336Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Gottesdienst in Hohennauen
+URL:https://www.rhinow.de/veranstaltungen/2992581/2026/11/29/gottesdienst
+ -in-hohennauen
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-rhinow-event-2992583-20261129@amtsfeed.de
+DTSTAMP:20261029T100336Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Gottesdienst in Stölln
+URL:https://www.rhinow.de/veranstaltungen/2992583/2026/11/29/gottesdienst
+ -in-stoelln
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-rhinow-event-2813851-20261205@amtsfeed.de

@@ -362,15 +362,6 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2812200/2026/11/11
  /lampionumzug
 END:VEVENT
 BEGIN:VEVENT
-UID:2812190@amtsfeed.de
-DTSTAMP:20261028T094424Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Laternenumzug
-URL:https://www.gemeinde-roederland.de/veranstaltungen/2812190/2026/11/11
- /laternenumzug
-END:VEVENT
-BEGIN:VEVENT
 UID:2812183@amtsfeed.de
 DTSTAMP:20261028T094424Z
 DTSTART;VALUE=DATE:20261111
@@ -380,10 +371,17 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2812183/2026/11/11
  /lampionumzug
 END:VEVENT
 BEGIN:VEVENT
+UID:2812190@amtsfeed.de
+DTSTAMP:20261029T100311Z
+DTSTART:20261111T170000Z
+SUMMARY:Laternenumzug
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2812190/2026/11/11
+ /laternenumzug
+END:VEVENT
+BEGIN:VEVENT
 UID:2812197@amtsfeed.de
-DTSTAMP:20261028T094424Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
+DTSTAMP:20261029T100311Z
+DTSTART:20261113T173000Z
 SUMMARY:Martinsumzug
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2812197/2026/11/13
  /martinsumzug
@@ -406,12 +404,19 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2972876/2026/11/19
 END:VEVENT
 BEGIN:VEVENT
 UID:2812178@amtsfeed.de
-DTSTAMP:20261028T094424Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
+DTSTAMP:20261029T100311Z
+DTSTART:20261129T140000Z
 SUMMARY:Haidaer Märchenweihnachtsmarkt
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2812178/2026/11/29
  /haidaer-maerchenweihnachtsmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:2992636@amtsfeed.de
+DTSTAMP:20261029T100311Z
+DTSTART:20261129T170000Z
+SUMMARY:The Gospel Passengers
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2992636/2026/11/29
+ /the-gospel-passengers
 END:VEVENT
 BEGIN:VEVENT
 UID:2811936@amtsfeed.de
@@ -420,6 +425,14 @@ DTSTART:20261208T153000Z
 SUMMARY:Adventscaf&eacute\;
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2811936/2026/12/08
  /adventscafé
+END:VEVENT
+BEGIN:VEVENT
+UID:2992639@amtsfeed.de
+DTSTAMP:20261029T100311Z
+DTSTART:20261213T170000Z
+SUMMARY:Die Kaktusblüte - Humoristisch-satirisches Kabarett aus Dresden
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2992639/2026/12/13
+ /die-kaktusbluete-humoristisch-satirisches-kabarett-aus-dresden
 END:VEVENT
 BEGIN:VEVENT
 UID:2811937@amtsfeed.de
@@ -436,6 +449,14 @@ DTSTART:20261217T153000Z
 SUMMARY:Spielenachmittag
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2811939/2026/12/17
  /spielenachmittag
+END:VEVENT
+BEGIN:VEVENT
+UID:2992613@amtsfeed.de
+DTSTAMP:20261029T100311Z
+DTSTART:20261219T160000Z
+SUMMARY:Weihnachtsmarkt
+URL:https://www.gemeinde-roederland.de/veranstaltungen/2992613/2026/12/19
+ /weihnachtsmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:2812057@amtsfeed.de

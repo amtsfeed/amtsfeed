@@ -1751,6 +1751,15 @@ URL:https://www.michendorf.de/veranstaltungen/2987681/2026/12/04/trommel-
  workshop-groove-werkstatt
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2992767@amtsfeed.de
+DTSTAMP:20261029T101029Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Stückener Tanzabend
+URL:https://www.michendorf.de/veranstaltungen/2992767/2026/12/05/stuecken
+ er-tanzabend
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2785927@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261206
@@ -1776,6 +1785,24 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:28. Langerwischer Weihnachtsmarkt
 URL:https://www.michendorf.de/veranstaltungen/2984298/2026/12/12/28.-lang
  erwischer-weihnachtsmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2993025@amtsfeed.de
+DTSTAMP:20261029T101029Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Weihnachtsgarten im Fliederhof
+URL:https://www.michendorf.de/veranstaltungen/2993025/2026/12/12/weihnach
+ tsgarten-im-fliederhof
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2993029@amtsfeed.de
+DTSTAMP:20261029T101029Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Weihnachtsgarten im Fliederhof
+URL:https://www.michendorf.de/veranstaltungen/2993029/2026/12/13/weihnach
+ tsgarten-im-fliederhof
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2976778@amtsfeed.de

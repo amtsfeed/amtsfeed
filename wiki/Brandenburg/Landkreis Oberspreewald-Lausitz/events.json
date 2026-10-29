@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:50:00.971Z",
+  "updatedAt": "2026-10-29T10:08:49.731Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -8429,6 +8429,15 @@
       "updatedAt": "2026-10-28T09:50:01.013Z"
     },
     {
+      "id": "lk-osl-event-2992994-20261119",
+      "title": "Bürgerversammlung \"Mehr Stadt - Mehr Meinung\"",
+      "url": "https://www.osl-online.de/veranstaltungen/2992994/2026/11/19/buergerversammlung-mehr-stadt-mehr-meinung",
+      "startDate": "2026-11-19T18:00:00.000Z",
+      "location": "Stadthalle Calau",
+      "fetchedAt": "2026-10-29T10:08:49.765Z",
+      "updatedAt": "2026-10-29T10:08:49.765Z"
+    },
+    {
       "id": "lk-osl-event-2972531-20261120",
       "title": "Teamtag \"Eigenständig werden\"",
       "url": "https://www.osl-online.de/veranstaltungen/2972531/2026/11/20/teamtag-eigenstaendig-werden",
@@ -9304,6 +9313,16 @@
       "location": "Schützenhaus Ruhland",
       "fetchedAt": "2026-09-11T09:58:58.151Z",
       "updatedAt": "2026-10-28T09:50:01.013Z"
+    },
+    {
+      "id": "lk-osl-event-2992936-20261205",
+      "title": "Rockkonzert",
+      "url": "https://www.osl-online.de/veranstaltungen/2992936/2026/12/05/rockkonzert",
+      "startDate": "2026-12-05T19:30:00.000Z",
+      "endDate": "2026-12-05T22:30:00.000Z",
+      "location": "Schützenhaus Ruhland",
+      "fetchedAt": "2026-10-29T10:08:49.765Z",
+      "updatedAt": "2026-10-29T10:08:49.765Z"
     },
     {
       "id": "lk-osl-event-2838354-20261206",
@@ -11131,6 +11150,16 @@
       "location": "Stadthalle Calau",
       "fetchedAt": "2026-10-28T09:50:01.013Z",
       "updatedAt": "2026-10-28T09:50:01.013Z"
+    },
+    {
+      "id": "lk-osl-event-2992934-20270306",
+      "title": "Rockkonzert",
+      "url": "https://www.osl-online.de/veranstaltungen/2992934/2027/03/06/rockkonzert",
+      "startDate": "2027-03-06T20:00:00.000Z",
+      "endDate": "2027-03-06T23:00:00.000Z",
+      "location": "Schützenhaus Ruhland",
+      "fetchedAt": "2026-10-29T10:08:49.765Z",
+      "updatedAt": "2026-10-29T10:08:49.765Z"
     },
     {
       "id": "lk-osl-event-2124462-20270308",
@@ -14491,6 +14520,16 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-10-28T09:50:01.013Z",
       "updatedAt": "2026-10-28T09:50:01.013Z"
+    },
+    {
+      "id": "lk-osl-event-2918359-20271029",
+      "title": "Gruppentreffen Selbsthilfegruppe Multiple Sklerose",
+      "url": "https://www.osl-online.de/veranstaltungen/2918359/2027/10/29/gruppentreffen-selbsthilfegruppe-multiple-sklerose",
+      "startDate": "2027-10-29T10:00:00.000Z",
+      "endDate": "2027-10-29T12:00:00.000Z",
+      "location": "REKOSI",
+      "fetchedAt": "2026-10-29T10:08:49.765Z",
+      "updatedAt": "2026-10-29T10:08:49.765Z"
     }
   ]
 }

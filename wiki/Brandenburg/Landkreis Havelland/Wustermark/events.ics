@@ -571,6 +571,16 @@ URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
  847.251.1&NavID=3847.15&sfvort=1&sfort=1&bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:wustermark-event-264@amtsfeed.de
+DTSTAMP:20261029T100420Z
+DTSTART:20261031T180000Z
+DTEND:20261031T220000Z
+SUMMARY:Feuerwerksabend Wustermark
+URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
+ gen/Feuerwerksabend-Wustermark-.php?object=tx\,3847.4.1&ModID=11&FID=3847
+ .264.1&NavID=3847.15&sfvort=1&sfort=1&bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:wustermark-event-208@amtsfeed.de
 DTSTAMP:20260911T110757Z
 DTSTART:20261102T140000Z
@@ -791,6 +801,16 @@ DTEND:20261216T190000Z
 SUMMARY:Faszientraining
 URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
  gen/Faszientraining.php?object=tx\,3847.4.1&ModID=11&FID=3847.239.1&NavID
+ =3847.15&sfvort=1&sfort=1&bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:wustermark-event-246@amtsfeed.de
+DTSTAMP:20261029T100420Z
+DTSTART:20261220T150000Z
+DTEND:20261220T170000Z
+SUMMARY:Sonntagsplausch
+URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
+ gen/Sonntagsplausch.php?object=tx\,3847.4.1&ModID=11&FID=3847.246.1&NavID
  =3847.15&sfvort=1&sfort=1&bn=1
 END:VEVENT
 END:VCALENDAR

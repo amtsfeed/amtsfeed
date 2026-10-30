@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:06:34.638Z",
+  "updatedAt": "2026-10-30T10:09:02.931Z",
   "items": [
     {
       "id": "2846347",
@@ -975,16 +975,6 @@
       "updatedAt": "2026-10-23T08:41:37.730Z"
     },
     {
-      "id": "2538590",
-      "title": "Tischtennis",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/10/29/tischtennis",
-      "startDate": "2026-10-29T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-28T09:48:01.755Z"
-    },
-    {
       "id": "2464906",
       "title": "Selbstverteidigung für Kinder von 5-13 Jahren",
       "url": "https://www.amt-lebus.de/veranstaltungen/2464906/2026/10/30/selbstverteidigung-fuer-kinder-von-5-13-jahren",
@@ -1166,6 +1156,16 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
+      "id": "2538590",
+      "title": "Tischtennis",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/05/tischtennis",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-10-30T10:09:02.916Z"
+    },
+    {
       "id": "2980741",
       "title": "Stark werden - gemeinsam wachsen!",
       "url": "https://www.amt-lebus.de/veranstaltungen/2980741/2026/11/05/stark-werden-gemeinsam-wachsen",
@@ -1210,6 +1210,16 @@
       "location": "Petershagen",
       "fetchedAt": "2026-10-29T10:06:34.627Z",
       "updatedAt": "2026-10-29T10:06:34.627Z"
+    },
+    {
+      "id": "2993158",
+      "title": "1. Buchlesung - \"Erinnerungen an meine Mutter\"",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2993158/2026/11/07/1.-buchlesung-erinnerungen-an-meine-mutter",
+      "startDate": "2026-11-07T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Erste Buchlesung einer neuen Lesereihe: Vera Regel liest aus „Erinnerungen an meine Mutter“. Eine emotionale Reise in die Kindheit und Jugend ihrer Mutter, Christa Schneidewind (ehem. Lehmann).   Die Lesung findet in der Lese-Ecke der zweiten Etage ...",
+      "fetchedAt": "2026-10-30T10:09:02.916Z",
+      "updatedAt": "2026-10-30T10:09:02.916Z"
     },
     {
       "id": "2904734",
@@ -1286,6 +1296,15 @@
       "location": "Kulturhaus Alt Zeschdorf",
       "fetchedAt": "2026-10-27T09:07:38.166Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "2993098",
+      "title": "Ich lese was, was Du nicht liest",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2993098/2026/11/20/ich-lese-was-was-du-nicht-liest",
+      "startDate": "2026-11-20T00:00:00.000Z",
+      "location": "Speichercafé im Ökospeicher Wulkow",
+      "fetchedAt": "2026-10-30T10:09:02.916Z",
+      "updatedAt": "2026-10-30T10:09:02.916Z"
     },
     {
       "id": "2873363",
@@ -1382,6 +1401,34 @@
       "updatedAt": "2026-10-29T10:06:34.627Z"
     },
     {
+      "id": "2993106",
+      "title": "Lebuser Weihnachtsmarkt",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2993106/2026/12/05/lebuser-weihnachtsmarkt",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "location": "Pfarrkirche Lebus",
+      "fetchedAt": "2026-10-30T10:09:02.916Z",
+      "updatedAt": "2026-10-30T10:09:02.916Z"
+    },
+    {
+      "id": "2993109",
+      "title": "Schwatz bei Kaffee und Kuchen in Wulkow",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2993109/2026/12/05/schwatz-bei-kaffee-und-kuchen-in-wulkow",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "location": "Speichercafé im Ökospeicher Wulkow",
+      "description": "Vor dem Konzert und der Open Stage lädt das ehrenamtlich geführte Speichercafé zu Kaffee und Kuchen ein.",
+      "fetchedAt": "2026-10-30T10:09:02.916Z",
+      "updatedAt": "2026-10-30T10:09:02.916Z"
+    },
+    {
+      "id": "2993127",
+      "title": "Konzert: Luck & Strauch + Open Stage in Wulkow",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2993127/2026/12/05/konzert-luck-strauch--open-stage-in-wulkow",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "location": "Speichercafé im Ökospeicher Wulkow",
+      "fetchedAt": "2026-10-30T10:09:02.916Z",
+      "updatedAt": "2026-10-30T10:09:02.916Z"
+    },
+    {
       "id": "2904735",
       "title": "Fahrt zur Therme",
       "url": "https://www.amt-lebus.de/veranstaltungen/2904735/2026/12/08/fahrt-zur-therme",
@@ -1398,6 +1445,16 @@
       "location": "Pfarrkirche Lebus",
       "fetchedAt": "2026-09-11T09:57:29.696Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "2993163",
+      "title": "3. Podelziger Weihnachtssingen",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2993163/2026/12/12/3.-podelziger-weihnachtssingen",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Weihnachtssingen für Groß und Klein - Die SV-Bande und Gemeinde lädt zu einem gemeinsamen vorweihnachtlichen Singen ein.",
+      "fetchedAt": "2026-10-30T10:09:02.916Z",
+      "updatedAt": "2026-10-30T10:09:02.916Z"
     },
     {
       "id": "2957514",
@@ -1418,6 +1475,16 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
+      "id": "2993135",
+      "title": "Weihnachtsmarkt in Wulkow",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2993135/2026/12/20/weihnachtsmarkt-in-wulkow",
+      "startDate": "2026-12-20T00:00:00.000Z",
+      "location": "Speichercafé im Ökospeicher Wulkow",
+      "description": "Am vierten Adventssonntag findet in Wulkow wieder der traditionelle Weihnachtsmarkt statt. Im und vor dem weihnachtlich geschmückten Speicher erwartet die Besucher ein vielfältiger Markt – mit Kunsthandwerk, Leckereien und Bastelständen für ...",
+      "fetchedAt": "2026-10-30T10:09:02.916Z",
+      "updatedAt": "2026-10-30T10:09:02.916Z"
+    },
+    {
       "id": "2846438",
       "title": "5. Trepliner Adventssingen",
       "url": "https://www.amt-lebus.de/veranstaltungen/2846438/2026/12/29/5.-trepliner-adventssingen",
@@ -1425,6 +1492,15 @@
       "location": "Treplin",
       "fetchedAt": "2026-05-05T14:58:26.635Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "2993152",
+      "title": "Weihnachtsbaum Verbrennung in Lebus",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2993152/2027/01/09/weihnachtsbaum-verbrennung-in-lebus",
+      "startDate": "2027-01-09T00:00:00.000Z",
+      "location": "Lebus Parkplatz Anglerheim",
+      "fetchedAt": "2026-10-30T10:09:02.916Z",
+      "updatedAt": "2026-10-30T10:09:02.916Z"
     }
   ]
 }

@@ -2128,6 +2128,15 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2981547/2026/11/
  28/adventsnachmittag-mit-nikolausfeier
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2993584-20261128@amtsfeed.de
+DTSTAMP:20261030T100500Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Einstimmung zum Advent
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2993584/2026/11/
+ 28/einstimmung-zum-advent
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2990575-20261129@amtsfeed.de
 DTSTAMP:20261028T094319Z
 DTSTART;VALUE=DATE:20261129
@@ -2388,6 +2397,15 @@ DTEND;VALUE=DATE:20270101
 SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/12/
  31/literaturcafé-im-mgh-franz-fuehmann
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2993941-20270103@amtsfeed.de
+DTSTAMP:20261030T100500Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Teupitzer Neujahrswanderung
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2993941/2027/01/
+ 03/teupitzer-neujahrswanderung
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2668097-20270104@amtsfeed.de

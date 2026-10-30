@@ -326,15 +326,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2991786/2026/10/28/laterne
  nbasteln
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124494@amtsfeed.de
-DTSTAMP:20261028T094944Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Behinderten- und Seniorenberatung
-URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/10/29/behinde
- rten-und-seniorenberatung
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2918359@amtsfeed.de
 DTSTAMP:20261028T094944Z
 DTSTART;VALUE=DATE:20261030
@@ -369,6 +360,15 @@ DTEND;VALUE=DATE:20261104
 SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
 URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/11/03/chorpro
  be-mit-dem-stadtchor-lauchhammer
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124494@amtsfeed.de
+DTSTAMP:20261030T101035Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/11/05/behinde
+ rten-und-seniorenberatung
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2705490@amtsfeed.de

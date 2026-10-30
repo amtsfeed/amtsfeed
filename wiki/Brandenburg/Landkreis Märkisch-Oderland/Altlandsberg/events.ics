@@ -480,21 +480,6 @@ DESCRIPTION:Du möchtest Handpan spielen lernen und suchst einen intensiv
 LOCATION:Katja Baumheier
 END:VEVENT
 BEGIN:VEVENT
-UID:11@amtsfeed.de
-DTSTAMP:20260911T111044Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Handpan Workshop Intensivkurs
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/handpan-workshop-intensivkurs-11/
-DESCRIPTION:Du möchtest Handpan spielen lernen und suchst einen intensiv
- en Einstieg\, der dich in kurzer Zeit wirklich weiterbringt? Dann ist die
- ser 4-tägige Intensivkurs genau das Richtige für dich. In einer kleinen
-  Gruppe tauchen wir gemeinsam in die faszinierende Welt der Handpan ein. 
- Schritt für Schritt lernst du die...
-LOCATION:Katja Baumheier
-END:VEVENT
-BEGIN:VEVENT
 UID:halloween-im-marktquartier@amtsfeed.de
 DTSTAMP:20260911T111056Z
 DTSTART;VALUE=DATE:20261031
@@ -583,6 +568,21 @@ DESCRIPTION:Charlie Chaplin gehört zu den unvergesslichen Ikonen der Fil
  konzert Charlie Chaplin Comedies erleben Sie ausgewählte Filme des groß
  en Komikers in einer besonderen Form: mit...
 LOCATION:Schlosskirche Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:11@amtsfeed.de
+DTSTAMP:20261030T100824Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Nachtwächter-Rundgang
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/nachtwaechter-rundgang-11/
+DESCRIPTION:Hört Ihr Leute lasst euch sagen ... unsere Uhr hat grad gesc
+ hlagen!Mit diesem oder einem ähnlichen Ruf empfängt Sie der Nachtwächt
+ er der Stadt Altlandsberg. Gemeinsam werden Sie auf einem Rundgang die hi
+ storische Stadt erkunden.Sie hören und erleben Geschichten aus dem Leben
+  des Nachtwächters\, von der Stadtmauer\,...
+LOCATION:Schlossgut Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
 UID:freitag-3-nach-8-vernissage@amtsfeed.de

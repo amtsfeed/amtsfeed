@@ -1998,11 +1998,12 @@ LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004773@amtsfeed.de
-DTSTAMP:20260526T085739Z
+DTSTAMP:20261030T100435Z
 DTSTART:20261105T180000Z
 SUMMARY:öffentliche Sitzung des Ausschusses für Finanzen
 URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-ausschusses-fuer-finanzen-900004773-30601.html
+DESCRIPTION:Zur Tagesordnung
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
@@ -2568,5 +2569,24 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-der-gemeindevertretung-ahrensfelde-900004841-30601.html?naviID=0
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005048@amtsfeed.de
+DTSTAMP:20261030T100435Z
+DTSTART:20270201T090000Z
+DTEND:20270201T160000Z
+SUMMARY:Winterferienprogramm 2027
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/winterferienprogr
+ amm-2027-900005048-30601.html?naviID=0
+DESCRIPTION:❄️ Unser Winterferienprogramm ist da! ❄️Du hast noch 
+ keine Pläne für die Winterferien? Kein Problem! Bei uns erwartet dich e
+ in buntes Programm voller Action\, Kreativität und Spaß. Egal ob du Lus
+ t auf sportliche Aktivitäten\, einen coolen Museumsbesuch oder etwas Kre
+ atives hast – hier ist für jeden etwas dabei!\n📅 Wann? 01.02.2027 -
+  05.02.2027\n📩 Anmeldung: in Kürze unter diesem Link\n\n👉 Schau di
+ r den Flyer an und sichere dir schnell deinen Platz. Wir freuen uns auf d
+ ich!
+LOCATION:Jugendclub Ahrensfelde\, Lindenberger Straße 9\, 16356 Ahrensfe
+ lde
 END:VEVENT
 END:VCALENDAR

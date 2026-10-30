@@ -1567,15 +1567,6 @@ URL:https://www.teltow.de/veranstaltungen/2976238/2026/10/28/jeder-tropfe
  n-zaehlt
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2699683@amtsfeed.de
-DTSTAMP:20261028T095147Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Repair Caf&eacute\; Teltow
-URL:https://www.teltow.de/veranstaltungen/2699683/2026/10/29/repair-café
- -teltow
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2972117@amtsfeed.de
 DTSTAMP:20261028T095147Z
 DTSTART;VALUE=DATE:20261029
@@ -1679,6 +1670,15 @@ DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Sportgruppe
 URL:https://www.teltow.de/veranstaltungen/2972206/2026/11/04/sportgruppe
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2699683@amtsfeed.de
+DTSTAMP:20261030T101230Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Repair Caf&eacute\; Teltow
+URL:https://www.teltow.de/veranstaltungen/2699683/2026/11/05/repair-café
+ -teltow
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2983317@amtsfeed.de

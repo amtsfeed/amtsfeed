@@ -834,15 +834,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2971999/2026/10/28/se
  niorennachmittag-gemeinsam-statt-einsam-in-groeden
 END:VEVENT
 BEGIN:VEVENT
-UID:2897451@amtsfeed.de
-DTSTAMP:20261028T094412Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Krabbelgruppe Kita Gröden
-URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/10/29/kr
- abbelgruppe-kita-groeden
-END:VEVENT
-BEGIN:VEVENT
 UID:2829858@amtsfeed.de
 DTSTAMP:20261028T094412Z
 DTSTART;VALUE=DATE:20261029
@@ -976,6 +967,15 @@ DTEND;VALUE=DATE:20261104
 SUMMARY:Babytreff Kita Hirschfeld
 URL:https://www.amt-schradenland.de/veranstaltungen/2897510/2026/11/03/ba
  bytreff-kita-hirschfeld
+END:VEVENT
+BEGIN:VEVENT
+UID:2897451@amtsfeed.de
+DTSTAMP:20261030T100557Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Krabbelgruppe Kita Gröden
+URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/11/05/kr
+ abbelgruppe-kita-groeden
 END:VEVENT
 BEGIN:VEVENT
 UID:2988890@amtsfeed.de

@@ -1074,33 +1074,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928862/2026/10/28/semi
  -menschen-mit-demenz
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2424341@amtsfeed.de
-DTSTAMP:20261028T095155Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/10/29/fami
- liensprechzeiten-elternberatung-im-familienzentrum
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907844@amtsfeed.de
-DTSTAMP:20261028T095155Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Migrationsberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/10/29/migr
- ationsberatung-im-familienzentrum
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2890181@amtsfeed.de
-DTSTAMP:20261028T095155Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Familiencaf&eacute\; mit Spaß\, Kreativität  Bewegung
-URL:https://www.wiesenburgmark.de/veranstaltungen/2890181/2026/10/29/fami
- liencafé-mit-spass-kreativitaet-bewegung
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2384489@amtsfeed.de
 DTSTAMP:20261028T095155Z
 DTSTART;VALUE=DATE:20261030
@@ -1267,6 +1240,24 @@ SUMMARY:Seminar " Hilfe beim Helfen" für Angehörige von Menschen mit De
 URL:https://www.wiesenburgmark.de/veranstaltungen/2928863/2026/11/04/semi
  nar-hilfe-beim-helfen-fuer-angehoerige-von-menschen-mit-demenz-vorsorge-t
  reffen
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2424341@amtsfeed.de
+DTSTAMP:20261030T101246Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/11/05/fami
+ liensprechzeiten-elternberatung-im-familienzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907844@amtsfeed.de
+DTSTAMP:20261030T101246Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Migrationsberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/11/05/migr
+ ationsberatung-im-familienzentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2907847@amtsfeed.de
@@ -1445,6 +1436,15 @@ DTEND;VALUE=DATE:20261124
 SUMMARY:Sound Bath - Tu dir etwas gutes
 URL:https://www.wiesenburgmark.de/veranstaltungen/2929249/2026/11/23/soun
  d-bath-tu-dir-etwas-gutes
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2890181@amtsfeed.de
+DTSTAMP:20261030T101246Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Familiencaf&eacute\; mit Spaß\, Kreativität  Bewegung
+URL:https://www.wiesenburgmark.de/veranstaltungen/2890181/2026/11/26/fami
+ liencafé-mit-spass-kreativitaet-bewegung
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2871609@amtsfeed.de

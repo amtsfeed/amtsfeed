@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:44:22.647Z",
+  "updatedAt": "2026-10-30T10:06:05.850Z",
   "items": [
     {
       "id": "2849506",
@@ -522,6 +522,14 @@
       "updatedAt": "2026-10-28T09:44:22.635Z"
     },
     {
+      "id": "2993237",
+      "title": "Tag der offenen Tür",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2993237/2026/11/07/tag-der-offenen-tuer",
+      "startDate": "2026-11-07T00:00:00.000Z",
+      "fetchedAt": "2026-10-30T10:06:05.839Z",
+      "updatedAt": "2026-10-30T10:06:05.839Z"
+    },
+    {
       "id": "2975386",
       "title": "Reparaturcaf&eacute; - Gemeinsam reparieren",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2975386/2026/11/07/reparaturcafé-gemeinsam-reparieren",
@@ -610,14 +618,6 @@
       "updatedAt": "2026-10-28T09:44:22.635Z"
     },
     {
-      "id": "2331050",
-      "title": "Wochenmarkt",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2331050/2027/10/23/wochenmarkt",
-      "startDate": "2027-10-23T06:30:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-10-28T09:44:22.635Z"
-    },
-    {
       "id": "2477269",
       "title": "Seniorencaf&egrave;",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2477269/2027/10/27/seniorencafè",
@@ -640,6 +640,14 @@
       "startDate": "2027-10-28T06:00:00.000Z",
       "fetchedAt": "2026-05-08T18:34:29.680Z",
       "updatedAt": "2026-10-28T09:44:22.635Z"
+    },
+    {
+      "id": "2331050",
+      "title": "Wochenmarkt",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2331050/2027/10/30/wochenmarkt",
+      "startDate": "2027-10-30T06:30:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-10-30T10:06:05.839Z"
     }
   ]
 }

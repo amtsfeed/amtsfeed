@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:07:56.771Z",
+  "updatedAt": "2026-10-30T10:10:13.292Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -650,14 +650,6 @@
       "updatedAt": "2026-10-28T09:49:20.506Z"
     },
     {
-      "id": "oberkraemer-event-2855733",
-      "title": "Nordic-Walking in Vehlefanz",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855733/2026/10/29/nordic-walking-in-vehlefanz",
-      "startDate": "2026-10-29T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-10-28T09:49:20.506Z"
-    },
-    {
       "id": "oberkraemer-event-2957576",
       "title": "Seniorenveranstaltung - Busfahrt - Musikhotel „Goldener Spatz“",
       "url": "https://www.oberkraemer.de/veranstaltungen/2957576/2026/10/29/seniorenveranstaltung-busfahrt-musikhotel-goldener-spatz",
@@ -760,6 +752,14 @@
       "startDate": "2026-11-04T00:00:00.000Z",
       "fetchedAt": "2026-09-11T11:03:44.376Z",
       "updatedAt": "2026-10-28T09:49:20.506Z"
+    },
+    {
+      "id": "oberkraemer-event-2855733",
+      "title": "Nordic-Walking in Vehlefanz",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855733/2026/11/05/nordic-walking-in-vehlefanz",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-10-30T10:10:13.309Z"
     },
     {
       "id": "oberkraemer-event-2855707",
@@ -1114,6 +1114,14 @@
       "updatedAt": "2026-10-28T09:49:20.506Z"
     },
     {
+      "id": "oberkraemer-event-2993146",
+      "title": "DIY-Adventsgestecke im Jugendclub Schwante",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2993146/2026/11/20/diy-adventsgestecke-im-jugendclub-schwante",
+      "startDate": "2026-11-20T00:00:00.000Z",
+      "fetchedAt": "2026-10-30T10:10:13.309Z",
+      "updatedAt": "2026-10-30T10:10:13.309Z"
+    },
+    {
       "id": "oberkraemer-event-2986779",
       "title": "Offenes-Haus",
       "url": "https://www.oberkraemer.de/veranstaltungen/2986779/2026/11/22/offenes-haus",
@@ -1184,6 +1192,22 @@
       "startDate": "2026-11-28T00:00:00.000Z",
       "fetchedAt": "2026-10-06T10:27:54.974Z",
       "updatedAt": "2026-10-28T09:49:20.506Z"
+    },
+    {
+      "id": "oberkraemer-event-2993153",
+      "title": "Weihnachtsbaum schmücken in Klein-Ziethen",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2993153/2026/11/28/weihnachtsbaum-schmuecken-in-klein-ziethen",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-10-30T10:10:13.309Z",
+      "updatedAt": "2026-10-30T10:10:13.309Z"
+    },
+    {
+      "id": "oberkraemer-event-2993126",
+      "title": "Weihnachtsbaum schmücken in Schwante",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2993126/2026/11/28/weihnachtsbaum-schmuecken-in-schwante",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-10-30T10:10:13.309Z",
+      "updatedAt": "2026-10-30T10:10:13.309Z"
     },
     {
       "id": "oberkraemer-event-2855765",

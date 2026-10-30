@@ -633,15 +633,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2625562/2026/10/28/legob
  autag-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2790788@amtsfeed.de
-DTSTAMP:20261028T094942Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Sprechtag der EMB
-URL:https://www.grossraeschen.de/veranstaltungen/2790788/2026/10/29/sprec
- htag-der-emb
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2981021@amtsfeed.de
 DTSTAMP:20261028T094942Z
 DTSTART;VALUE=DATE:20261029
@@ -795,6 +786,17 @@ DTEND;VALUE=DATE:20261110
 SUMMARY:gesund &amp\; vital
 URL:https://www.grossraeschen.de/veranstaltungen/2991536/2026/11/09/gesun
  d-amp-vital
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2993195@amtsfeed.de
+DTSTAMP:20261030T101033Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Vernetzungskonferenz „Willkommen\, um zu bleiben – Teilhabe g
+ estalten\, Vielfalt stärken“
+URL:https://www.grossraeschen.de/veranstaltungen/2993195/2026/11/09/verne
+ tzungskonferenz-willkommen-um-zu-bleiben--teilhabe-gestalten-vielfalt-sta
+ erken
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2932458@amtsfeed.de
@@ -1004,6 +1006,15 @@ DTEND;VALUE=DATE:20261125
 SUMMARY:Weihnachtskonzert mit Rudy Giovannini
 URL:https://www.grossraeschen.de/veranstaltungen/2953693/2026/11/24/weihn
  achtskonzert-mit-rudy-giovannini
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2790788@amtsfeed.de
+DTSTAMP:20261030T101033Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Sprechtag der EMB
+URL:https://www.grossraeschen.de/veranstaltungen/2790788/2026/11/26/sprec
+ htag-der-emb
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2981032@amtsfeed.de

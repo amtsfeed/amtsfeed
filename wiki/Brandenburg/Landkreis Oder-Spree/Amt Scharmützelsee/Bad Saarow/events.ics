@@ -849,15 +849,6 @@ URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-wendisch-rietz-jez-
  fps-ssp-ein-rundgang-durch-die-ortsgeschichte
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-laternenumzug-lichterfest-ferienprogramm@amtsfeed.de
-DTSTAMP:20261023T084332Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Laternenumzug & Lichterfest - Ferienprogramm
-URL:https://www.scharmuetzelsee.de/event/laternenumzug-lichterfest-ferien
- programm
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-satamas-giess-meinen-guss@amtsfeed.de
 DTSTAMP:20261001T102046Z
 DTSTART;VALUE=DATE:20261023
@@ -977,17 +968,6 @@ URL:https://www.scharmuetzelsee.de/event/kuschelstunde-mit-unseren-zwergs
  chafen-ferienprogramm
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
- enkmal-bunkeranlage-fuchsbau@amtsfeed.de
-DTSTAMP:20261027T090935Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
- nkeranlage Fuchsbau“
-URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
- nker-im-technischen-denkmal-bunkeranlage-fuchsbau
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-drachen-basteln-ferienprogramm@amtsfeed.de
 DTSTAMP:20261027T090935Z
 DTSTART;VALUE=DATE:20261028
@@ -1022,35 +1002,6 @@ SUMMARY:Offener Meditationsabend
 URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261029T100901Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
- d.de
-DTSTAMP:20261029T100901Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
-URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
- harmuetzelsee
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261029T100901Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-koerbe-flechten-ferienprogramm@amtsfeed.de
 DTSTAMP:20261028T095007Z
 DTSTART;VALUE=DATE:20261029
@@ -1066,6 +1017,44 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Schatzsuche im Herbst - Ferienprogramm
 URL:https://www.scharmuetzelsee.de/event/schatzsuche-im-herbst-ferienprog
  ramm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-laternenumzug-lichterfest-ferienprogramm@amtsfeed.de
+DTSTAMP:20261030T101059Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Laternenumzug & Lichterfest - Ferienprogramm
+URL:https://www.scharmuetzelsee.de/event/laternenumzug-lichterfest-ferien
+ programm
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261030T101059Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
+ d.de
+DTSTAMP:20261030T101059Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
+ harmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261030T101059Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-wir-basteln-unsere-coolste-laterne-ferienprogramm@amt
@@ -1084,6 +1073,17 @@ DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20270131
 SUMMARY:Sternstunden in der SaarowTherme
 URL:https://www.scharmuetzelsee.de/event/sternstunden-in-der-saarowtherme
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
+ enkmal-bunkeranlage-fuchsbau@amtsfeed.de
+DTSTAMP:20261030T101059Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
+ nkeranlage Fuchsbau“
+URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
+ nker-im-technischen-denkmal-bunkeranlage-fuchsbau
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-saisonabschluss-und-halloween-im-altstadtcafe-domicho
@@ -1133,6 +1133,16 @@ DTEND;VALUE=DATE:20261101
 SUMMARY:Halloween Gruselumzug und Hexenparty im Zombieland
 URL:https://www.scharmuetzelsee.de/event/halloween-gruselumzug-und-hexenp
  arty-im-zombieland
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-halloween-party-bei-der-sommerrodelbahn-scharmuetzelb
+ ob@amtsfeed.de
+DTSTAMP:20261030T101059Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween-Party bei der Sommerrodelbahn Scharmützelbob
+URL:https://www.scharmuetzelsee.de/event/halloween-party-bei-der-sommerro
+ delbahn-scharmuetzelbob
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-unruhestand-kabarett-am-nachmittag-dumm-gelaufen-sati

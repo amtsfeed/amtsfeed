@@ -645,15 +645,12 @@ LOCATION:Burg Rabenstein in Raben
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-11-01-2026-11-01@amtsfeed.de
-DTSTAMP:20261025T083651Z
-DTSTART:20261101T130000Z
-DTEND:20261102T000000Z
-SUMMARY:Musikalische Burgführung
-URL:https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-4
- 52-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-75
- 7-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-11-01&#038\;ti
- me=1793538000
-LOCATION:Burg Rabenstein in Raben
+DTSTAMP:20261030T101152Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
+SUMMARY:Veranstaltungen im Naturpark Hoher Fläming November 2026
+URL:https://amt-niemegk.de/events/veranstaltungen-im-naturpark-hoher-flae
+ ming-september-2026-394-241/?occurrence=2026-11-01&#038\;time=1793534400
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-11-02-2026-11-02@amtsfeed.de

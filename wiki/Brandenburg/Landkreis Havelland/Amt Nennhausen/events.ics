@@ -826,6 +826,15 @@ URL:https://www.amt-nennhausen.de/veranstaltungen/2992351/2026/11/08/kamm
  026-16-00-uhr-in-der-kirche-nennhausen
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-nennhausen-event-2993987-20261108@amtsfeed.de
+DTSTAMP:20261030T100622Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Filmvorführung "Märkische Forschungen"
+URL:https://www.amt-nennhausen.de/veranstaltungen/2993987/2026/11/08/film
+ vorfuehrung-maerkische-forschungen
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-nennhausen-event-2986656-20261111@amtsfeed.de
 DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261111
@@ -841,6 +850,15 @@ DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Fackelumzug in Stechow
 URL:https://www.amt-nennhausen.de/veranstaltungen/2844472/2026/11/13/fack
+ elumzug-in-stechow
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-2993997-20261113@amtsfeed.de
+DTSTAMP:20261030T100622Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Fackelumzug in Stechow
+URL:https://www.amt-nennhausen.de/veranstaltungen/2993997/2026/11/13/fack
  elumzug-in-stechow
 END:VEVENT
 BEGIN:VEVENT
@@ -872,6 +890,15 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Weihnachtsmarkt in und vor der Feldscheune Stechow
 URL:https://www.amt-nennhausen.de/veranstaltungen/2844434/2026/11/28/weih
  nachtsmarkt-in-und-vor-der-feldscheune-stechow
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-2993853-20261128@amtsfeed.de
+DTSTAMP:20261030T100622Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Bammer Dorfweihnacht
+URL:https://www.amt-nennhausen.de/veranstaltungen/2993853/2026/11/28/bamm
+ er-dorfweihnacht
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2837135-20261129@amtsfeed.de

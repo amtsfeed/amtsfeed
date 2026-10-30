@@ -538,6 +538,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/2987601/2026/10/31/hallowee
  n-auf-der-zickenwiese
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-2993286@amtsfeed.de
+DTSTAMP:20261030T101146Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Hubertusgottesdienst
+URL:https://www.amt-brueck.de/veranstaltungen/2993286/2026/11/03/hubertus
+ gottesdienst
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2986658@amtsfeed.de
 DTSTAMP:20261028T095057Z
 DTSTART;VALUE=DATE:20261106
@@ -563,6 +572,15 @@ DTEND;VALUE=DATE:20261112
 SUMMARY:Laternenumzug Kita Linthe
 URL:https://www.amt-brueck.de/veranstaltungen/2984305/2026/11/11/laternen
  umzug-kita-linthe
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-2993278@amtsfeed.de
+DTSTAMP:20261030T101146Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Laternenumzug Cammer
+URL:https://www.amt-brueck.de/veranstaltungen/2993278/2026/11/11/laternen
+ umzug-cammer
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2989731@amtsfeed.de

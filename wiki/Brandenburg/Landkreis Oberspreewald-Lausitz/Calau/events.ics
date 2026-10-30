@@ -1133,15 +1133,6 @@ URL:https://www.calau.de/veranstaltungen/2951698/2026/10/27/halloween-bas
  teln.html
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261028T094941Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:29.10.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/10/29/calauer-woche
- nmarkt
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2980734@amtsfeed.de
 DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261029
@@ -1178,19 +1169,20 @@ URL:https://www.calau.de/veranstaltungen/2964571/2026/10/30/kuerbisschnit
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2980735@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261030T101032Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:"Gemeinsam statt einsam" Mittagessen kochen für Senioren
+SUMMARY:30.10.2026   "Gemeinsam statt einsam" Mittagessen kochen für Sen
+ ioren
 URL:https://www.calau.de/veranstaltungen/2980735/2026/10/30/gemeinsam-sta
  tt-einsam-mittagessen-kochen-fuer-senioren
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2864723@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261030T101032Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:Flugshow auf dem Adler- und Jagdfalkenhof Werchow
+SUMMARY:31.10.2026   Flugshow auf dem Adler- und Jagdfalkenhof Werchow
 URL:https://www.calau.de/veranstaltungen/2864723/2026/10/31/flugshow-auf-
  dem-adler-und-jagdfalkenhof-werchow
 END:VEVENT
@@ -1202,6 +1194,15 @@ DTEND;VALUE=DATE:20261101
 SUMMARY:Halloweenumzug
 URL:https://www.calau.de/veranstaltungen/2877063/2026/10/31/halloweenumzu
  g
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261030T101032Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/11/03/calauer-woche
+ nmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-1906922@amtsfeed.de

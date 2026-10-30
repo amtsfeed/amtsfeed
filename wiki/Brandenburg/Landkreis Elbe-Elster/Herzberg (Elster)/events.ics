@@ -535,6 +535,15 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2979119/2026/10/28/das
  -leben-als-astronaut
 END:VEVENT
 BEGIN:VEVENT
+UID:2993237@amtsfeed.de
+DTSTAMP:20261030T100605Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Tag der offenen Tür
+URL:https://www.herzberg-elster.de/veranstaltungen/2993237/2026/11/07/tag
+ -der-offenen-tuer
+END:VEVENT
+BEGIN:VEVENT
 UID:2975386@amtsfeed.de
 DTSTAMP:20261028T094422Z
 DTSTART:20261107T140000Z
@@ -624,14 +633,6 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2849524/2027/01/01/neu
  jahrskonzert
 END:VEVENT
 BEGIN:VEVENT
-UID:2331050@amtsfeed.de
-DTSTAMP:20261028T094422Z
-DTSTART:20271023T063000Z
-SUMMARY:Wochenmarkt
-URL:https://www.herzberg-elster.de/veranstaltungen/2331050/2027/10/23/woc
- henmarkt
-END:VEVENT
-BEGIN:VEVENT
 UID:2477269@amtsfeed.de
 DTSTAMP:20261028T094422Z
 DTSTART:20271027T100000Z
@@ -653,6 +654,14 @@ DTSTAMP:20261028T094422Z
 DTSTART:20271028T060000Z
 SUMMARY:Wochenmarkt
 URL:https://www.herzberg-elster.de/veranstaltungen/2331049/2027/10/28/woc
+ henmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:2331050@amtsfeed.de
+DTSTAMP:20261030T100605Z
+DTSTART:20271030T063000Z
+SUMMARY:Wochenmarkt
+URL:https://www.herzberg-elster.de/veranstaltungen/2331050/2027/10/30/woc
  henmarkt
 END:VEVENT
 END:VCALENDAR

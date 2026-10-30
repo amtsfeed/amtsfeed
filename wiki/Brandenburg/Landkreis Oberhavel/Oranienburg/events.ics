@@ -1730,12 +1730,12 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-8076@amtsfeed.de
-DTSTAMP:20261026T090552Z
+DTSTAMP:20261030T101016Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:Helloween im Grünen Klassenzimmer
+SUMMARY:Halloween im Grünen Klassenzimmer
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
- der/Helloween-im-Gr%C3%BCnen-Klassenzimmer.php?object=tx\,2967.4&amp\;Mod
+ der/Halloween-im-Gr%C3%BCnen-Klassenzimmer.php?object=tx\,2967.4&amp\;Mod
  ID=11&amp\;FID=2967.8076.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
@@ -1897,5 +1897,17 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/-Auf-den-Spuren-Runges-F%C3%BChrung-durch-Oranienburg.php?object=tx\,
  2967.4&amp\;ModID=11&amp\;FID=2967.8072.1&amp\;NavID=2967.39&amp\;sfreg=1
  &amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7789@amtsfeed.de
+DTSTAMP:20261030T101016Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Auf fremden Pfaden - Liederabend für Sopran\, Bariton und Klavie
+ r
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Auf-fremden-Pfaden-Liederabend-f%C3%BCr-Sopran-Bariton-und-Klavier.ph
+ p?object=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7789.1&amp\;NavID=2967.39
+ &amp\;sfreg=1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

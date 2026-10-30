@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T09:02:39.005Z",
+  "updatedAt": "2026-10-30T10:04:31.844Z",
   "items": [
     {
       "id": "ahrensfelde-event-900004756",
@@ -1368,8 +1368,9 @@
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-finanzen-900004773-30601.html",
       "startDate": "2026-11-05T18:00:00Z",
       "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
+      "description": "Zur Tagesordnung",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
-      "updatedAt": "2026-05-26T08:57:39.891Z"
+      "updatedAt": "2026-10-30T10:04:35.423Z"
     },
     {
       "id": "ahrensfelde-event-900005037",
@@ -1801,6 +1802,17 @@
       "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
       "fetchedAt": "2026-05-06T13:00:21.959Z",
       "updatedAt": "2026-05-26T08:57:39.891Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005048",
+      "title": "Winterferienprogramm 2027",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/winterferienprogramm-2027-900005048-30601.html?naviID=0",
+      "startDate": "2027-02-01T09:00:00Z",
+      "endDate": "2027-02-01T16:00:00Z",
+      "location": "Jugendclub Ahrensfelde, Lindenberger Straße 9, 16356 Ahrensfelde",
+      "description": "❄️ Unser Winterferienprogramm ist da! ❄️Du hast noch keine Pläne für die Winterferien? Kein Problem! Bei uns erwartet dich ein buntes Programm voller Action, Kreativität und Spaß. Egal ob du Lust auf sportliche Aktivitäten, einen coolen Museumsbesuch oder etwas Kreatives hast – hier ist für jeden etwas dabei!\n📅 Wann? 01.02.2027 - 05.02.2027\n📩 Anmeldung: in Kürze unter diesem Link\n\n👉 Schau dir den Flyer an und sichere dir schnell deinen Platz. Wir freuen uns auf dich!",
+      "fetchedAt": "2026-10-30T10:04:35.423Z",
+      "updatedAt": "2026-10-30T10:04:35.423Z"
     }
   ]
 }

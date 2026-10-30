@@ -1488,4 +1488,28 @@ DTSTART:20261106T200000Z
 SUMMARY:Die grosse Orakelshow
 URL:https://www.eberswalde.de/termine/die-grosse-orakelshow
 END:VEVENT
+BEGIN:VEVENT
+UID:die-grosse-orakelshow-2@amtsfeed.de
+DTSTAMP:20261030T100445Z
+DTSTART:20261107T200000Z
+SUMMARY:Die grosse Orakelshow
+URL:https://www.eberswalde.de/termine/die-grosse-orakelshow-2
+END:VEVENT
+BEGIN:VEVENT
+UID:galerie-fenster-44-und-45-ausstellung-fotografien-von-mario-schneider
+ -und-leni-sinclair-7@amtsfeed.de
+DTSTAMP:20261030T100445Z
+DTSTART:20261108T140000Z
+SUMMARY:Galerie Fenster - 44. und 45. Ausstellung: Fotografien von Mario 
+ Schneider und Leni Sinclair
+URL:https://www.eberswalde.de/termine/galerie-fenster-44-und-45-ausstellu
+ ng-fotografien-von-mario-schneider-und-leni-sinclair-7
+END:VEVENT
+BEGIN:VEVENT
+UID:die-grosse-orakelshow-3@amtsfeed.de
+DTSTAMP:20261030T100445Z
+DTSTART:20261108T170000Z
+SUMMARY:Die grosse Orakelshow
+URL:https://www.eberswalde.de/termine/die-grosse-orakelshow-3
+END:VEVENT
 END:VCALENDAR

@@ -1155,26 +1155,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2989702/2026/10/25/drachenfe
 LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
-UID:2464906@amtsfeed.de
-DTSTAMP:20261028T094801Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/10/30/selbstver
- teidigung-fuer-kinder-von-5-13-jahren
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464907@amtsfeed.de
-DTSTAMP:20261028T094801Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/10/30/selbstver
- teidigung-fuer-jugendliche-ab-13-jahren
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2957498@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261030
@@ -1375,6 +1355,26 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Stark werden - gemeinsam wachsen!
 URL:https://www.amt-lebus.de/veranstaltungen/2980741/2026/11/05/stark-wer
  den-gemeinsam-wachsen
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464906@amtsfeed.de
+DTSTAMP:20261031T094516Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/11/06/selbstver
+ teidigung-fuer-kinder-von-5-13-jahren
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464907@amtsfeed.de
+DTSTAMP:20261031T094516Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/11/06/selbstver
+ teidigung-fuer-jugendliche-ab-13-jahren
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT

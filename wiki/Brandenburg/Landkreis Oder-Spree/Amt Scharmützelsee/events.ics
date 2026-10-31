@@ -7,16 +7,6 @@ X-WR-CALNAME:Amt Scharmützelsee
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Scharmützelsee
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2816078-2026-10-30-after-work-dance-in-der-lounge-im-oktober@amtsfeed
- .de
-DTSTAMP:20261028T095010Z
-DTSTART:20261030T190000Z
-SUMMARY:AFTER WORK DANCE in der Lounge im Oktober
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2816078/2026/10/30
- /after-work-dance-in-der-lounge-im-oktober
-LOCATION:Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:2969707-2026-10-31-klavierrezital-mit-christian-seibert@amtsfeed.de
 DTSTAMP:20261028T095010Z
 DTSTART:20261031T180000Z
@@ -67,15 +57,6 @@ LOCATION:Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saar
  ow
 END:VEVENT
 BEGIN:VEVENT
-UID:2915217-2026-11-07-quaster-friends@amtsfeed.de
-DTSTAMP:20261028T095010Z
-DTSTART:20261107T200000Z
-SUMMARY:QUASTER & FRIENDS
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2915217/2026/11/07
- /quaster-friends
-LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:2981270-2026-11-08-salonkonzert-mit-lucy-van-kuhl@amtsfeed.de
 DTSTAMP:20261028T095010Z
 DTSTART:20261108T180000Z
@@ -83,6 +64,17 @@ SUMMARY:Salonkonzert mit Lucy van Kuhl
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2981270/2026/11/08
  /salonkonzert-mit-lucy-van-kuhl
 LOCATION:Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:2994190-2026-11-09-gedenkveranstaltung-gegen-das-vergessen-in-bad-saa
+ row@amtsfeed.de
+DTSTAMP:20261031T094707Z
+DTSTART:20261109T170000Z
+SUMMARY:Gedenkveranstaltung &bdquo\;Gegen das Vergessen&ldquo\; in Bad Sa
+ arow
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2994190/2026/11/09
+ /gedenkveranstaltung-gegen-das-vergessen-in-bad-saarow
+LOCATION:Bahnhof Bad Saarow · Bahnhofsplatz 4 · 15526 Bad Saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:2977302-2026-11-12-ein-abend-der-erinnerung-zwischen-entzuecken-und-e
@@ -506,6 +498,15 @@ DTSTART:20270504T193000Z
 SUMMARY:SIMONE SOLGA &ndash\; Sie kennen mich
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2929746/2027/05/04
  /simone-solga--sie-kennen-mich
+LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:2816052-2027-10-31-felix-reuter--der-verflixte-beethoven@amtsfeed.de
+DTSTAMP:20261031T094707Z
+DTSTART:20271031T170000Z
+SUMMARY:FELIX REUTER &ndash\; Der verflixte Beethoven
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2816052/2027/10/31
+ /felix-reuter--der-verflixte-beethoven
 LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
 END:VEVENT
 END:VCALENDAR

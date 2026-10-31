@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:10:59.219Z",
+  "updatedAt": "2026-10-31T09:47:05.535Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -877,30 +877,6 @@
       "updatedAt": "2026-10-30T10:10:59.216Z"
     },
     {
-      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
-      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
-      "startDate": "2026-10-30T00:00:00.000Z",
-      "fetchedAt": "2026-05-05T15:50:40.941Z",
-      "updatedAt": "2026-10-30T10:10:59.216Z"
-    },
-    {
-      "id": "scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
-      "title": "Mitsegeln mit Skipper auf dem Scharmützelsee",
-      "url": "https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
-      "startDate": "2026-10-30T00:00:00.000Z",
-      "fetchedAt": "2026-09-13T08:29:23.977Z",
-      "updatedAt": "2026-10-30T10:10:59.216Z"
-    },
-    {
-      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
-      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
-      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
-      "startDate": "2026-10-30T00:00:00.000Z",
-      "fetchedAt": "2026-09-28T09:58:55.325Z",
-      "updatedAt": "2026-10-30T10:10:59.216Z"
-    },
-    {
       "id": "scharmuetzelsee-wir-basteln-unsere-coolste-laterne-ferienprogramm",
       "title": "Wir basteln unsere coolste Laterne - Ferienprogramm",
       "url": "https://www.scharmuetzelsee.de/event/wir-basteln-unsere-coolste-laterne-ferienprogramm",
@@ -909,13 +885,28 @@
       "updatedAt": "2026-10-29T10:09:01.895Z"
     },
     {
-      "id": "scharmuetzelsee-sternstunden-in-der-saarowtherme",
-      "title": "Sternstunden in der SaarowTherme",
-      "url": "https://www.scharmuetzelsee.de/event/sternstunden-in-der-saarowtherme",
-      "startDate": "2026-10-30T00:00:00.000Z",
-      "endDate": "2027-01-30T00:00:00.000Z",
-      "fetchedAt": "2026-10-01T10:20:46.149Z",
-      "updatedAt": "2026-10-01T10:20:46.149Z"
+      "id": "scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow",
+      "title": "Sunset-Sailing mit Skipper ab Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-bad-saarow",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-05-05T15:50:40.941Z",
+      "updatedAt": "2026-10-31T09:47:05.532Z"
+    },
+    {
+      "id": "scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
+      "title": "Mitsegeln mit Skipper auf dem Scharmützelsee",
+      "url": "https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-scharmuetzelsee",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:29:23.977Z",
+      "updatedAt": "2026-10-31T09:47:05.532Z"
+    },
+    {
+      "id": "scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich",
+      "title": "Linienfahrten Vorsaison & Nachsaison (täglich)",
+      "url": "https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsaison-taeglich",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-09-28T09:58:55.325Z",
+      "updatedAt": "2026-10-31T09:47:05.532Z"
     },
     {
       "id": "scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-denkmal-bunkeranlage-fuchsbau",
@@ -974,6 +965,22 @@
       "updatedAt": "2026-10-30T10:10:59.216Z"
     },
     {
+      "id": "scharmuetzelsee-fuehrung-ueber-den-oekohof-marienhoehe",
+      "title": "Führung über den Ökohof Marienhöhe",
+      "url": "https://www.scharmuetzelsee.de/event/fuehrung-ueber-den-oekohof-marienhoehe",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-10-31T09:47:05.532Z",
+      "updatedAt": "2026-10-31T09:47:05.532Z"
+    },
+    {
+      "id": "scharmuetzelsee-klavierrezital-mit-ch-seibert-im-scharwenka-kulturforum",
+      "title": "Klavierrezital mit Ch. Seibert im Scharwenka Kulturforum",
+      "url": "https://www.scharmuetzelsee.de/event/klavierrezital-mit-ch-seibert-im-scharwenka-kulturforum",
+      "startDate": "2026-10-31T00:00:00.000Z",
+      "fetchedAt": "2026-10-31T09:47:05.532Z",
+      "updatedAt": "2026-10-31T09:47:05.532Z"
+    },
+    {
       "id": "scharmuetzelsee-unruhestand-kabarett-am-nachmittag-dumm-gelaufen-satire-fuer-politisch-inkorrekte-zeiten",
       "title": "UnRuhestand: KABARETT am Nachmittag: „Dumm gelaufen. Satire für politisch inkorrekte Zeiten“",
       "url": "https://www.scharmuetzelsee.de/event/unruhestand-kabarett-am-nachmittag-dumm-gelaufen-satire-fuer-politisch-inkorrekte-zeiten",
@@ -1005,6 +1012,15 @@
       "startDate": "2026-11-21T00:00:00.000Z",
       "fetchedAt": "2026-10-28T09:50:07.043Z",
       "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
+      "id": "scharmuetzelsee-sternstunden-in-der-saarowtherme",
+      "title": "Sternstunden in der SaarowTherme",
+      "url": "https://www.scharmuetzelsee.de/event/sternstunden-in-der-saarowtherme",
+      "startDate": "2026-11-27T00:00:00.000Z",
+      "endDate": "2027-01-30T00:00:00.000Z",
+      "fetchedAt": "2026-10-01T10:20:46.149Z",
+      "updatedAt": "2026-10-31T09:47:05.532Z"
     },
     {
       "id": "scharmuetzelsee-saarower-klavierkonzert-weihnachtszauber",

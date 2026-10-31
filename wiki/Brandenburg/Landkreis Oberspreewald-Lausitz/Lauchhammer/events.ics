@@ -326,15 +326,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2991786/2026/10/28/laterne
  nbasteln
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2918359@amtsfeed.de
-DTSTAMP:20261028T094944Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Gruppentreffen Selbsthilfegruppe Multiple Sklerose
-URL:https://www.lauchhammer.de/veranstaltungen/2918359/2026/10/30/gruppen
- treffen-selbsthilfegruppe-multiple-sklerose
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124462@amtsfeed.de
 DTSTAMP:20261028T094944Z
 DTSTART;VALUE=DATE:20261102
@@ -537,6 +528,15 @@ DTEND;VALUE=DATE:20261126
 SUMMARY:Bürgerberatung zu Wasser und Boden
 URL:https://www.lauchhammer.de/veranstaltungen/2973697/2026/11/25/buerger
  beratung-zu-wasser-und-boden
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2918359@amtsfeed.de
+DTSTAMP:20261031T094645Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Gruppentreffen Selbsthilfegruppe Multiple Sklerose
+URL:https://www.lauchhammer.de/veranstaltungen/2918359/2026/11/27/gruppen
+ treffen-selbsthilfegruppe-multiple-sklerose
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2873284@amtsfeed.de

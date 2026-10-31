@@ -1415,15 +1415,6 @@ URL:https://www.michendorf.de/veranstaltungen/2985091/2026/10/29/monster-
  bastel-nachmittag-im-familienzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959541@amtsfeed.de
-DTSTAMP:20261028T095126Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959541/2026/10/30/jugendcl
- ub-micheck-geoeffnet
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2958924@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261030
@@ -1512,6 +1503,15 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Rückbildungskurs im Familienzentrum
 URL:https://www.michendorf.de/veranstaltungen/2987618/2026/11/05/rueckbil
  dungskurs-im-familienzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959541@amtsfeed.de
+DTSTAMP:20261031T094828Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959541/2026/11/06/jugendcl
+ ub-micheck-geoeffnet
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2966244@amtsfeed.de
@@ -1731,6 +1731,15 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Sonntags-Frühstück
 URL:https://www.michendorf.de/veranstaltungen/2646897/2026/11/29/sonntags
  -fruehstueck
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2994211@amtsfeed.de
+DTSTAMP:20261031T094828Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Adventsmarkt in Michendorf
+URL:https://www.michendorf.de/veranstaltungen/2994211/2026/11/29/adventsm
+ arkt-in-michendorf
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2796861@amtsfeed.de

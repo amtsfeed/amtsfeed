@@ -1,5 +1,62 @@
 # Updates
 
+## 2026-10-31 09:49
+
+Insgesamt **638 neu**, **476 aktualisiert**, **2 entfernt** in 50 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Altlandsberg | — | +1 | — | — |
+| Amt Barnim-Oderbruch | +1 | — | — | — |
+| Amt Beetzsee | +1 | — | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Falkenberg-Höhe | — | +1 | — | — |
+| Amt Friesack | ~1 | — | — | — |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Plessa | — | ~1 | — | — |
+| Amt Rhinow | +1 | — | — | — |
+| Amt Scharmützelsee | — | +2 / -2 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +2 / ~4 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bernau bei Berlin | — | +6 / ~12 | — | — |
+| Calau | — | ~4 | — | — |
+| Dallgow-Döberitz | — | +7 | — | — |
+| Eberswalde | — | +2 | — | — |
+| Eichwalde | +1 | — | — | — |
+| Eisenhüttenstadt | — | +3 / ~1 | — | — |
+| Elsterwerda | +1 | +1 | — | — |
+| Finsterwalde | +1 | — | — | — |
+| Fürstenberg-Havel | +2 | — | — | ~2 |
+| Glienicke-Nordbahn | — | ~1 | — | — |
+| Groß Kreutz | — | ~21 | — | — |
+| Heideblick | +1 | — | — | — |
+| Hohen Neuendorf | +2 | +1 | — | — |
+| Kleinmachnow | — | +2 | — | — |
+| Kloster Lehnin | — | +3 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | +1 | +1 | — | — |
+| Lauchhammer | — | ~1 | — | — |
+| Lübben (Spreewald) | +1 | — | — | — |
+| Lübbenau Spreewald | — | +539 / ~68 | — | — |
+| Michendorf | — | +1 / ~1 | — | — |
+| Milower Land | ~1 | — | — | +2 |
+| Mühlenbecker Land | ~1 | +4 | — | — |
+| Neuenhagen bei Berlin | ~2 | — | — | — |
+| Oberkrämer | — | ~1 | — | — |
+| Oranienburg | +1 | +4 | — | +1 |
+| Premnitz | — | +5 | — | — |
+| Rathenow | — | +5 | — | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schönwalde-Glien | — | — | +2 | — |
+| Schorfheide | — | +10 | — | — |
+| Schwarzheide | — | — | — | +3 / ~285 |
+| Senftenberg | — | +5 | — | — |
+| Stahnsdorf | — | +2 | — | — |
+| Wandlitz | +1 | — | — | +6 |
+| Werneuchen | — | +1 | — | — |
+| Wiesenburg-Mark | — | ~4 | — | — |
+| Wustermark | — | +1 | — | — |
+| Zehdenick | ~1 | — | — | — |
+
 ## 2026-10-30 10:13
 
 Insgesamt **328 neu**, **749 aktualisiert**, **6 entfernt** in 70 Quellen.

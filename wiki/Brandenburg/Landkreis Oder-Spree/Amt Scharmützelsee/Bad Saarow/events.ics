@@ -1028,35 +1028,6 @@ URL:https://www.scharmuetzelsee.de/event/laternenumzug-lichterfest-ferien
  programm
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261030T101059Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
- d.de
-DTSTAMP:20261030T101059Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
-URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
- harmuetzelsee
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261030T101059Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-wir-basteln-unsere-coolste-laterne-ferienprogramm@amt
  sfeed.de
 DTSTAMP:20261029T100901Z
@@ -1067,12 +1038,33 @@ URL:https://www.scharmuetzelsee.de/event/wir-basteln-unsere-coolste-later
  ne-ferienprogramm
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de
-DTSTAMP:20261001T102046Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20270131
-SUMMARY:Sternstunden in der SaarowTherme
-URL:https://www.scharmuetzelsee.de/event/sternstunden-in-der-saarowtherme
+UID:scharmuetzelsee-sunset-sailing-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261031T094705Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Sunset-Sailing mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/sunset-sailing-mit-skipper-ab-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-mitsegeln-mit-skipper-auf-dem-scharmuetzelsee@amtsfee
+ d.de
+DTSTAMP:20261031T094705Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Mitsegeln mit Skipper auf dem Scharmützelsee
+URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
+ harmuetzelsee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261031T094705Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
@@ -1145,6 +1137,25 @@ URL:https://www.scharmuetzelsee.de/event/halloween-party-bei-der-sommerro
  delbahn-scharmuetzelbob
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrung-ueber-den-oekohof-marienhoehe@amtsfeed.de
+DTSTAMP:20261031T094705Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Führung über den Ökohof Marienhöhe
+URL:https://www.scharmuetzelsee.de/event/fuehrung-ueber-den-oekohof-marie
+ nhoehe
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-klavierrezital-mit-ch-seibert-im-scharwenka-kulturfor
+ um@amtsfeed.de
+DTSTAMP:20261031T094705Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Klavierrezital mit Ch. Seibert im Scharwenka Kulturforum
+URL:https://www.scharmuetzelsee.de/event/klavierrezital-mit-ch-seibert-im
+ -scharwenka-kulturforum
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-unruhestand-kabarett-am-nachmittag-dumm-gelaufen-sati
  re-fuer-politisch-inkorrekte-zeiten@amtsfeed.de
 DTSTAMP:20261017T075557Z
@@ -1184,6 +1195,14 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:Salsa Cocktail Party im Bahnhofshotel "Die Neue Bühne"
 URL:https://www.scharmuetzelsee.de/event/salsa-cocktail-party-im-bahnhofs
  hotel-die-neue-buehne
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de
+DTSTAMP:20261031T094705Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270131
+SUMMARY:Sternstunden in der SaarowTherme
+URL:https://www.scharmuetzelsee.de/event/sternstunden-in-der-saarowtherme
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-saarower-klavierkonzert-weihnachtszauber@amtsfeed.de

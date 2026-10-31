@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:11:17.266Z",
+  "updatedAt": "2026-10-31T09:47:38.052Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -996,14 +996,6 @@
       "updatedAt": "2026-10-09T10:43:59.832Z"
     },
     {
-      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "title": "Veranstaltungen",
-      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-10-30T10:11:17.257Z",
-      "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-10-30T10:11:17.257Z"
-    },
-    {
       "id": "eisenhuettenstadt-event-2852-1742-1",
       "title": "Öffentliche Stadtführung \"Planstadt Eisenhüttenstadt\"",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/%C3%96ffentliche-Stadtf%C3%BChrung-Planstadt-Eisenh%C3%BCttenstadt-.php?ModID=11&amp;FID=2852.1742.1",
@@ -1020,6 +1012,14 @@
       "location": "Tourismusinformation",
       "fetchedAt": "2026-10-04T09:59:25.325Z",
       "updatedAt": "2026-10-04T09:59:25.325Z"
+    },
+    {
+      "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "title": "Veranstaltungen",
+      "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
+      "startDate": "2026-10-31T09:47:38.042Z",
+      "fetchedAt": "2026-05-06T08:35:22.874Z",
+      "updatedAt": "2026-10-31T09:47:38.042Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1813-1",
@@ -1178,6 +1178,32 @@
       "location": "Tourismusinformation",
       "fetchedAt": "2026-10-30T10:11:17.257Z",
       "updatedAt": "2026-10-30T10:11:17.257Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1766-1",
+      "title": "Lost Places Führung durch das DDR-Hotel LUNIK",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Lost-Places-F%C3%BChrung-durch-das-DDR-Hotel-LUNIK.php?ModID=11&amp;FID=2852.1766.1",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "location": "Tourismusinformation",
+      "fetchedAt": "2026-10-31T09:47:38.042Z",
+      "updatedAt": "2026-10-31T09:47:38.042Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1880-1",
+      "title": "Der Traumzauberbaum - Herr Kellerstaub rettet Weihnachten",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Der-Traumzauberbaum-Herr-Kellerstaub-rettet-Weihnachten.php?ModID=11&amp;FID=2852.1880.1",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-10-31T09:47:38.042Z",
+      "updatedAt": "2026-10-31T09:47:38.042Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-2011-1",
+      "title": "Weihnachtssingen beim FC Eisenhüttenstadt",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Weihnachtssingen-beim-FC-Eisenh%C3%BCttenstadt.php?ModID=11&amp;FID=2852.2011.1",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "location": "Sportanlage Waldstraße",
+      "fetchedAt": "2026-10-31T09:47:38.042Z",
+      "updatedAt": "2026-10-31T09:47:38.042Z"
     }
   ]
 }

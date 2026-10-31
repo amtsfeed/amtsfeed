@@ -1074,33 +1074,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928862/2026/10/28/semi
  -menschen-mit-demenz
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2384489@amtsfeed.de
-DTSTAMP:20261028T095155Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Öffnung des Schenkraums
-URL:https://www.wiesenburgmark.de/veranstaltungen/2384489/2026/10/30/oeff
- nung-des-schenkraums
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2860448@amtsfeed.de
-DTSTAMP:20261028T095155Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Yoga für Schwangere
-URL:https://www.wiesenburgmark.de/veranstaltungen/2860448/2026/10/30/yoga
- -fuer-schwangere
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2384491@amtsfeed.de
-DTSTAMP:20261028T095155Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Zwergenturnen - Bewegung für Kinder zwischen 1 - 3 Jahren
-URL:https://www.wiesenburgmark.de/veranstaltungen/2384491/2026/10/30/zwer
- genturnen-bewegung-fuer-kinder-zwischen-1-3-jahren
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2983698@amtsfeed.de
 DTSTAMP:20261028T095155Z
 DTSTART;VALUE=DATE:20261030
@@ -1287,6 +1260,33 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2989205/2026/11/05/prod
  ucerinnenstammtisch
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2384489@amtsfeed.de
+DTSTAMP:20261031T094855Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Öffnung des Schenkraums
+URL:https://www.wiesenburgmark.de/veranstaltungen/2384489/2026/11/06/oeff
+ nung-des-schenkraums
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2860448@amtsfeed.de
+DTSTAMP:20261031T094855Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Yoga für Schwangere
+URL:https://www.wiesenburgmark.de/veranstaltungen/2860448/2026/11/06/yoga
+ -fuer-schwangere
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2384491@amtsfeed.de
+DTSTAMP:20261031T094855Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Zwergenturnen - Bewegung für Kinder zwischen 1 - 3 Jahren
+URL:https://www.wiesenburgmark.de/veranstaltungen/2384491/2026/11/06/zwer
+ genturnen-bewegung-fuer-kinder-zwischen-1-3-jahren
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928756@amtsfeed.de
 DTSTAMP:20261028T095155Z
 DTSTART;VALUE=DATE:20261106
@@ -1297,12 +1297,12 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928756/2026/11/06/offe
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2930240@amtsfeed.de
-DTSTAMP:20261028T095155Z
+DTSTAMP:20261031T094855Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:Upcycling ... Puppenwerkstatt
+SUMMARY:Upcycling ... Puppenwerkstatt (findet nicht statt!)
 URL:https://www.wiesenburgmark.de/veranstaltungen/2930240/2026/11/07/upcy
- cling-.-puppenwerkstatt
+ cling-.-puppenwerkstatt-findet-nicht-statt
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2986671@amtsfeed.de

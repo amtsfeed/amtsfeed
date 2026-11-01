@@ -1,5 +1,49 @@
 # Updates
 
+## 2026-11-01 10:39
+
+Insgesamt **638 neu**, **227 aktualisiert**, **2 entfernt** in 37 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Brück | ~8 | — | — | — |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Plessa | — | ~1 | — | — |
+| Amt Rhinow | +1 | — | — | — |
+| Amt Scharmützelsee | — | -2 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +3 / ~3 | — | — |
+| Amt Spreenhagen | ~2 | — | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Freienwalde (Oder) | ~2 | — | — | — |
+| Bad Liebenwerda | +1 | — | — | — |
+| Bernau bei Berlin | — | +1 / ~17 | — | — |
+| Brieselang | — | +18 / ~2 | — | — |
+| Calau | — | ~1 | — | — |
+| Eisenhüttenstadt | — | +3 / ~5 | — | — |
+| Elsterwerda | — | +2 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Fürstenwalde-Spree | +1 / ~1 | — | — | — |
+| Glienicke-Nordbahn | +1 | — | — | — |
+| Groß Kreutz | — | ~18 | — | — |
+| Großräschen | +1 | — | — | — |
+| Hennigsdorf | — | +3 | — | — |
+| Kloster Lehnin | — | ~2 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +1 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +2 | — | — |
+| Löwenberger Land | — | +1 | — | — |
+| Lübbenau Spreewald | ~12 | +532 / ~78 | — | — |
+| Milower Land | ~1 | — | — | — |
+| Mühlenbecker Land | — | +5 | — | — |
+| Oberkrämer | — | +1 | — | — |
+| Oranienburg | — | +1 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Schönefeld | +1 / ~1 | ~30 | — | — |
+| Schorfheide | — | +2 | — | — |
+| Senftenberg | — | +5 | — | — |
+| Strausberg | — | +52 / ~7 | — | — |
+| Wiesenburg-Mark | ~1 | — | — | — |
+
 ## 2026-10-31 09:49
 
 Insgesamt **638 neu**, **476 aktualisiert**, **2 entfernt** in 50 Quellen.

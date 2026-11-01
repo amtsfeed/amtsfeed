@@ -565,15 +565,6 @@ SUMMARY:Saisonabschluss im IRRLANDIA
 URL:https://www.scharmuetzelsee.de/event/saisonabschluss-im-irrlandia
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-seniorenkino-im-cinema-bad-saarow@amtsfeed.de
-DTSTAMP:20261005T103819Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Seniorenkino im Cinema Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/seniorenkino-im-cinema-bad-saaro
- w
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-11-storkower-herbstpoesie-schulveranstaltung-lesung-h
  ier-kommt-die-koerperpolizei-mit-dr-sibylle-mottl-link@amtsfeed.de
 DTSTAMP:20261006T102840Z
@@ -1057,27 +1048,6 @@ URL:https://www.scharmuetzelsee.de/event/mitsegeln-mit-skipper-auf-dem-sc
  harmuetzelsee
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
- de
-DTSTAMP:20261031T094705Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
-URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
- on-taeglich
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
- enkmal-bunkeranlage-fuchsbau@amtsfeed.de
-DTSTAMP:20261030T101059Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
- nkeranlage Fuchsbau“
-URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
- nker-im-technischen-denkmal-bunkeranlage-fuchsbau
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-saisonabschluss-und-halloween-im-altstadtcafe-domicho
  wski@amtsfeed.de
 DTSTAMP:20261001T102046Z
@@ -1156,6 +1126,50 @@ URL:https://www.scharmuetzelsee.de/event/klavierrezital-mit-ch-seibert-im
  -scharwenka-kulturforum
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrten-vorsaison-nachsaison-taeglich@amtsfeed.
+ de
+DTSTAMP:20261101T103750Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Linienfahrten Vorsaison & Nachsaison (täglich)
+URL:https://www.scharmuetzelsee.de/event/linienfahrten-vorsaison-nachsais
+ on-taeglich
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-seasons-brunch-im-seebadsaarow@amtsfeed.de
+DTSTAMP:20261101T103750Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Seasons Brunch im SeeBadSaarow
+URL:https://www.scharmuetzelsee.de/event/seasons-brunch-im-seebadsaarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-training-der-burgwache-storkow@amtsfeed.de
+DTSTAMP:20261101T103750Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Training der Burgwache Storkow
+URL:https://www.scharmuetzelsee.de/event/training-der-burgwache-storkow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261101T103750Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-seniorenkino-im-cinema-bad-saarow@amtsfeed.de
+DTSTAMP:20261101T103750Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Seniorenkino im Cinema Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/seniorenkino-im-cinema-bad-saaro
+ w
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-unruhestand-kabarett-am-nachmittag-dumm-gelaufen-sati
  re-fuer-politisch-inkorrekte-zeiten@amtsfeed.de
 DTSTAMP:20261017T075557Z
@@ -1165,6 +1179,17 @@ SUMMARY:UnRuhestand: KABARETT am Nachmittag: „Dumm gelaufen. Satire fü
  r politisch inkorrekte Zeiten“
 URL:https://www.scharmuetzelsee.de/event/unruhestand-kabarett-am-nachmitt
  ag-dumm-gelaufen-satire-fuer-politisch-inkorrekte-zeiten
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
+ enkmal-bunkeranlage-fuchsbau@amtsfeed.de
+DTSTAMP:20261101T103750Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
+ nkeranlage Fuchsbau“
+URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
+ nker-im-technischen-denkmal-bunkeranlage-fuchsbau
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alt

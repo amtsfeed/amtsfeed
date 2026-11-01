@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T09:41:40.436Z",
+  "updatedAt": "2026-11-01T10:30:45.776Z",
   "items": [
     {
       "id": "99172364",
@@ -3429,6 +3429,24 @@
       "location": "Groß Schönebeck - Jagdschloss Schorfheide",
       "fetchedAt": "2026-10-29T10:01:48.899Z",
       "updatedAt": "2026-10-29T10:01:48.899Z"
+    },
+    {
+      "id": "99234463",
+      "title": "Weihnachtskonzert mit dem Brandenburgischen Konzertorchester",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99234463",
+      "startDate": "2027-11-27T15:00:00.000Z",
+      "location": "Groß Schönebeck - Jagdschloss Schorfheide",
+      "fetchedAt": "2026-11-01T10:30:45.768Z",
+      "updatedAt": "2026-11-01T10:30:45.768Z"
+    },
+    {
+      "id": "99234464",
+      "title": "Weihnachtskonzert mit dem Brandenburgischen Konzertorchester",
+      "url": "https://www.schorfheide.de/veranstaltungen/veranstaltungsinfo.html?se=99234464",
+      "startDate": "2027-11-27T17:30:00.000Z",
+      "location": "Groß Schönebeck - Jagdschloss Schorfheide",
+      "fetchedAt": "2026-11-01T10:30:45.768Z",
+      "updatedAt": "2026-11-01T10:30:45.768Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T09:05:26.542Z",
+  "updatedAt": "2026-11-01T10:36:21.019Z",
   "items": [
     {
       "id": "hennigsdorf-event-820",
@@ -387,6 +387,30 @@
       "location": "Grenzturm | Nieder Neuendorf",
       "fetchedAt": "2026-10-26T09:05:26.548Z",
       "updatedAt": "2026-10-26T09:05:26.548Z"
+    },
+    {
+      "id": "hennigsdorf-event-899",
+      "title": "Hennigsdorfer Brillenevent",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Hennigsdorfer-Brillenevent.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.899.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-11-06T00:00:00.000Z",
+      "fetchedAt": "2026-11-01T10:36:21.026Z",
+      "updatedAt": "2026-11-01T10:36:21.026Z"
+    },
+    {
+      "id": "hennigsdorf-event-825",
+      "title": "Theater | Es war die Nachtigall",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Theater-Es-war-die-Nachtigall.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.825.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-11-07T00:00:00.000Z",
+      "fetchedAt": "2026-11-01T10:36:21.026Z",
+      "updatedAt": "2026-11-01T10:36:21.026Z"
+    },
+    {
+      "id": "hennigsdorf-event-876",
+      "title": "Bilderbuchkino für Familien",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Bilderbuchkino-f%C3%BCr-Familien.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.876.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-11-01T10:36:21.026Z",
+      "updatedAt": "2026-11-01T10:36:21.026Z"
     }
   ]
 }

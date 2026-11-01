@@ -527,4 +527,37 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Wendezeit-Geden
  ax=9&amp\;k_sub=1
 LOCATION:Grenzturm | Nieder Neuendorf
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-899@amtsfeed.de
+DTSTAMP:20261101T103621Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Hennigsdorfer Brillenevent
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Hennigsdorfer-B
+ rillenevent.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.899.1&amp
+ \;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9
+ &amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-825@amtsfeed.de
+DTSTAMP:20261101T103621Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Theater | Es war die Nachtigall
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Theater-Es-war-
+ die-Nachtigall.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.825.1&
+ amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;ma
+ x=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-876@amtsfeed.de
+DTSTAMP:20261101T103621Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Bilderbuchkino für Familien
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Bilderbuchkino-
+ f%C3%BCr-Familien.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.876
+ .1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\
+ ;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

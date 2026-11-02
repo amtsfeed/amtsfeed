@@ -689,6 +689,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2791032/2026/11/03/kultu
  rcafé-im-quartierstreff
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2994866@amtsfeed.de
+DTSTAMP:20261102T111930Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Sprachcaf&egrave\;
+URL:https://www.grossraeschen.de/veranstaltungen/2994866/2026/11/03/sprac
+ hcafè
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2830505@amtsfeed.de
 DTSTAMP:20261028T094942Z
 DTSTART;VALUE=DATE:20261104
@@ -780,12 +789,12 @@ URL:https://www.grossraeschen.de/veranstaltungen/2957434/2026/11/09/oekum
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2991536@amtsfeed.de
-DTSTAMP:20261028T094942Z
+DTSTAMP:20261102T111930Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:gesund &amp\; vital
+SUMMARY:gesund und vital
 URL:https://www.grossraeschen.de/veranstaltungen/2991536/2026/11/09/gesun
- d-amp-vital
+ d-und-vital
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2993195@amtsfeed.de
@@ -842,6 +851,15 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Sex\, Suff und andere Schadensfälle
 URL:https://www.grossraeschen.de/veranstaltungen/2981026/2026/11/12/sex-s
  uff-und-andere-schadensfaelle
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2994864@amtsfeed.de
+DTSTAMP:20261102T111930Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Adventsgestaltung
+URL:https://www.grossraeschen.de/veranstaltungen/2994864/2026/11/12/adven
+ tsgestaltung
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2961249@amtsfeed.de

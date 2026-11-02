@@ -1568,6 +1568,15 @@ URL:https://www.michendorf.de/veranstaltungen/2798288/2026/11/10/trauerca
  fé
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2995109@amtsfeed.de
+DTSTAMP:20261102T112126Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Arbeitskreise Schule & Wirtschaft PM
+URL:https://www.michendorf.de/veranstaltungen/2995109/2026/11/10/arbeitsk
+ reise-schule-wirtschaft-pm
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2986753@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261112
@@ -1769,6 +1778,15 @@ URL:https://www.michendorf.de/veranstaltungen/2992767/2026/12/05/stuecken
  er-tanzabend
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2994756@amtsfeed.de
+DTSTAMP:20261102T112126Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Lesungen im Herbst: Ein Schuss Honig (Vanne Van Ares)
+URL:https://www.michendorf.de/veranstaltungen/2994756/2026/12/05/lesungen
+ -im-herbst-ein-schuss-honig-vanne-van-ares
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2785927@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261206
@@ -1814,6 +1832,24 @@ URL:https://www.michendorf.de/veranstaltungen/2993029/2026/12/13/weihnach
  tsgarten-im-fliederhof
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2994757@amtsfeed.de
+DTSTAMP:20261102T112126Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:VeganerInnen-Treffen
+URL:https://www.michendorf.de/veranstaltungen/2994757/2026/12/13/veganeri
+ nnen-treffen
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2994761@amtsfeed.de
+DTSTAMP:20261102T112126Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Advents(mit)singen - ManaMana\, ein Weihnachtskonzert
+URL:https://www.michendorf.de/veranstaltungen/2994761/2026/12/13/adventsm
+ itsingen-manamana-ein-weihnachtskonzert
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2976778@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261214
@@ -1824,11 +1860,11 @@ URL:https://www.michendorf.de/veranstaltungen/2976778/2026/12/14/kinderfi
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2959134@amtsfeed.de
-DTSTAMP:20261028T095126Z
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261218
+DTSTAMP:20261102T112126Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
 SUMMARY:Im Gespräch in Michendorf
-URL:https://www.michendorf.de/veranstaltungen/2959134/2026/12/17/im-gespr
+URL:https://www.michendorf.de/veranstaltungen/2959134/2026/12/15/im-gespr
  aech-in-michendorf
 END:VEVENT
 BEGIN:VEVENT

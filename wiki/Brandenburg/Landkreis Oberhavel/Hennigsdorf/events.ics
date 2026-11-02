@@ -560,4 +560,15 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Bilderbuchkino-
  .1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\
  ;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-869@amtsfeed.de
+DTSTAMP:20261102T111851Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Vortragsreihe Teil 2 | Industriegeschichte der Stadt
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/-Vortragsreihe-
+ Teil-2-Industriegeschichte-der-Stadt.php?object=tx\,3590.4.1&amp\;ModID=1
+ 1&amp\;FID=3590.869.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;s
+ tartkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

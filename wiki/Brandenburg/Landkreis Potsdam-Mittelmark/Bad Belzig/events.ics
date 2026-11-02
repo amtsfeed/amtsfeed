@@ -440,6 +440,25 @@ URL:https://www.bad-belzig.de/veranstaltungen/2974270/2026/10/28/frueckst
  p-quot
 END:VEVENT
 BEGIN:VEVENT
+UID:bad-belzig-event-2995129@amtsfeed.de
+DTSTAMP:20261102T112112Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Frühstückstreff Lebenswer(t)k mit Vortrag Kriminalitätspräven
+ tion
+URL:https://www.bad-belzig.de/veranstaltungen/2995129/2026/11/04/fruehstu
+ eckstreff-lebenswertk-mit-vortrag-kriminalitaetspraevention
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-belzig-event-2995136@amtsfeed.de
+DTSTAMP:20261102T112112Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Das Große Gespräch: Reden über Heimat
+URL:https://www.bad-belzig.de/veranstaltungen/2995136/2026/11/05/das-gros
+ se-gespraech-reden-ueber-heimat
+END:VEVENT
+BEGIN:VEVENT
 UID:bad-belzig-event-2928920@amtsfeed.de
 DTSTAMP:20261028T095113Z
 DTSTART;VALUE=DATE:20261111
@@ -449,6 +468,34 @@ URL:https://www.bad-belzig.de/veranstaltungen/2928920/2026/11/11/kuschelp
  arty-kakao-amp-kuscheln
 END:VEVENT
 BEGIN:VEVENT
+UID:bad-belzig-event-2995130@amtsfeed.de
+DTSTAMP:20261102T112112Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Frühstückstreff Lebenswert(t)k mit einer Erste-Hilfe Auffrischu
+ ng für Senioren
+URL:https://www.bad-belzig.de/veranstaltungen/2995130/2026/11/18/fruehstu
+ eckstreff-lebenswerttk-mit-einer-erste-hilfe-auffrischung-fuer-senioren
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-belzig-event-2995131@amtsfeed.de
+DTSTAMP:20261102T112112Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Frühstückstreff Lebenswer(t)k mit Kreativworkshop
+URL:https://www.bad-belzig.de/veranstaltungen/2995131/2026/11/25/fruehstu
+ eckstreff-lebenswertk-mit-kreativworkshop
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-belzig-event-2995142@amtsfeed.de
+DTSTAMP:20261102T112112Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Frühstückstreff Lebenswer(t)k mit Weihnachtszauber
+URL:https://www.bad-belzig.de/veranstaltungen/2995142/2026/12/02/fruehstu
+ eckstreff-lebenswertk-mit-weihnachtszauber
+END:VEVENT
+BEGIN:VEVENT
 UID:bad-belzig-event-2928921@amtsfeed.de
 DTSTAMP:20261028T095113Z
 DTSTART;VALUE=DATE:20261209
@@ -456,5 +503,14 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Kuschelparty - Kakao &amp\; Kuscheln
 URL:https://www.bad-belzig.de/veranstaltungen/2928921/2026/12/09/kuschelp
  arty-kakao-amp-kuscheln
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-belzig-event-2995147@amtsfeed.de
+DTSTAMP:20261102T112112Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Frühstückstreff Lebenswer(t)k mit Kreativworkshop
+URL:https://www.bad-belzig.de/veranstaltungen/2995147/2026/12/09/fruehstu
+ eckstreff-lebenswertk-mit-kreativworkshop
 END:VEVENT
 END:VCALENDAR

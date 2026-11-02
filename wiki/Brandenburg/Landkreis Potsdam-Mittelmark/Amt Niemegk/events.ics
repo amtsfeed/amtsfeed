@@ -684,4 +684,14 @@ URL:https://amt-niemegk.de/events/entdeckungsraum-mit-anita-und-daniela-2
  ;time=1793784600
 LOCATION:Familienzentrum Niemegk
 END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-11-05-2026-11-05@amtsfeed.de
+DTSTAMP:20261102T112103Z
+DTSTART:20261105T090000Z
+DTEND:20261105T103000Z
+SUMMARY:Bewegter Morgen
+URL:https://amt-niemegk.de/events/bewegter-morgen/?occurrence=2026-11-05&
+ #038\;time=1793869200
+LOCATION:Familienzentrum Niemegk
+END:VEVENT
 END:VCALENDAR

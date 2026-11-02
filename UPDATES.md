@@ -1,5 +1,69 @@
 # Updates
 
+## 2026-11-02 11:22
+
+Insgesamt **632 neu**, **381 aktualisiert**, **1 entfernt** in 57 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Altlandsberg | +2 | — | — | — |
+| Amt Altdöbern | — | — | +1 | — |
+| Amt Barnim-Oderbruch | — | — | — | +4 |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Friesack | ~1 | — | +1 | — |
+| Amt Lebus | ~1 | — | — | — |
+| Amt Niemegk | — | +1 | — | — |
+| Amt Ruhland | +1 | — | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +2 / ~3 | — | — |
+| Amt Schenkenländchen | — | +1 | — | — |
+| Amt Ziesar | +1 | — | — | ~24 |
+| Bad Belzig | — | +6 | — | — |
+| Beeskow | — | +1 | — | — |
+| Bernau bei Berlin | +2 | +1 / ~11 | — | — |
+| Brieselang | +2 | — | — | — |
+| Doberlug-Kirchhain | — | +2 | — | — |
+| Eberswalde | — | +3 | — | +1 |
+| Eisenhüttenstadt | — | +4 / ~5 | — | — |
+| Elsterwerda | — | +1 | — | — |
+| Falkensee | — | +1 | — | — |
+| Fredersdorf-Vogelsdorf | — | +1 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Glienicke-Nordbahn | +1 | — | — | — |
+| Groß Kreutz | — | ~17 | — | — |
+| Großräschen | — | +2 / ~1 | — | — |
+| Grünheide (Mark) | ~1 | — | — | +5 / ~168 |
+| Hennigsdorf | +1 | +1 | — | — |
+| Hohen Neuendorf | +7 | +1 | — | — |
+| Hoppegarten | +1 / -1 | — | — | — |
+| Ketzin Havel | — | +5 | — | — |
+| Kleinmachnow | — | +1 | — | — |
+| Kloster Lehnin | — | +2 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +7 / ~1 | — | — |
+| Lauchhammer | ~1 | +1 | — | — |
+| Löwenberger Land | — | +1 | — | — |
+| Lübbenau Spreewald | — | +508 / ~102 | — | — |
+| Luckau | +1 | — | — | — |
+| Michendorf | — | +4 / ~1 | — | — |
+| Mühlenbecker Land | ~1 | — | — | — |
+| Nuthetal | +2 | +1 | — | — |
+| Oberkrämer | — | +3 | — | — |
+| Oranienburg | +1 / ~1 | +2 | — | — |
+| Premnitz | — | +15 | — | — |
+| Rathenow | — | +1 | — | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schöneiche bei Berlin | — | +1 | — | — |
+| Seddiner See | +2 | — | — | — |
+| Senftenberg | — | +4 | — | — |
+| Sonnewalde | — | +1 | — | — |
+| Storkow (Mark) | +1 | — | — | — |
+| Strausberg | +3 | — | — | — |
+| Teltow | +1 | — | — | — |
+| Velten | +1 | — | — | — |
+| Vetschau Spreewald | — | — | +1 | — |
+| Werder (Havel) | +1 | ~2 | — | — |
+| Wustermark | +1 | +1 | — | — |
+| Zehdenick | +1 | — | — | — |
+
 ## 2026-11-01 10:39
 
 Insgesamt **638 neu**, **227 aktualisiert**, **2 entfernt** in 37 Quellen.

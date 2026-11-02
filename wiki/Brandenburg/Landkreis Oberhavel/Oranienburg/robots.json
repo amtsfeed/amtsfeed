@@ -8,7 +8,7 @@
   {
     "domain": "oranienburg.de",
     "baseUrl": "https://oranienburg.de",
-    "updatedAt": "2026-11-01T10:36:44.981Z",
+    "updatedAt": "2026-11-02T11:19:11.954Z",
     "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /suche.phtml\nDisallow: /suchen.phtml\nDisallow: /redirect.phtml\n\nSitemap: https://www.oranienburg.de/sitemap.xml"
   }
 ]

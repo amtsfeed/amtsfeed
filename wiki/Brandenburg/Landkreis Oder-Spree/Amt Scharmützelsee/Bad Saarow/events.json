@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T10:37:50.803Z",
+  "updatedAt": "2026-11-02T11:20:06.795Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -325,14 +325,6 @@
       "updatedAt": "2026-09-23T08:46:19.768Z"
     },
     {
-      "id": "scharmuetzelsee-zur-kaffeezeit-im-scharwenka-kulturforum",
-      "title": "Zur Kaffeezeit im Scharwenka Kulturforum",
-      "url": "https://www.scharmuetzelsee.de/event/zur-kaffeezeit-im-scharwenka-kulturforum",
-      "startDate": "2026-09-24T00:00:00.000Z",
-      "fetchedAt": "2026-09-23T08:46:19.768Z",
-      "updatedAt": "2026-09-23T08:46:19.768Z"
-    },
-    {
       "id": "scharmuetzelsee-live-multivision-mit-kai-uwe-kuechler-cornwall-und-der-sueden-englands",
       "title": "Live-Multivision mit Kai-Uwe Küchler \"Cornwall und der Süden Englands\"",
       "url": "https://www.scharmuetzelsee.de/event/live-multivision-mit-kai-uwe-kuechler-cornwall-und-der-sueden-englands",
@@ -629,14 +621,6 @@
       "updatedAt": "2026-10-16T08:20:39.785Z"
     },
     {
-      "id": "scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-sylvia-musick",
-      "title": "Ratschen und tratschen - Handarbeitsnachmittage mit Sylvia Musick",
-      "url": "https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbeitsnachmittage-mit-sylvia-musick",
-      "startDate": "2026-10-21T00:00:00.000Z",
-      "fetchedAt": "2026-09-16T08:45:08.170Z",
-      "updatedAt": "2026-10-21T08:47:29.467Z"
-    },
-    {
       "id": "scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs",
       "title": "Aktiv Wochenplan - Wakepark Schnupperkurs",
       "url": "https://www.scharmuetzelsee.de/event/aktiv-wochenplan-wakepark-schnupperkurs",
@@ -837,14 +821,6 @@
       "updatedAt": "2026-10-29T10:09:01.895Z"
     },
     {
-      "id": "scharmuetzelsee-offener-meditationsabend",
-      "title": "Offener Meditationsabend",
-      "url": "https://www.scharmuetzelsee.de/event/offener-meditationsabend",
-      "startDate": "2026-10-29T00:00:00.000Z",
-      "fetchedAt": "2026-09-17T08:52:30.326Z",
-      "updatedAt": "2026-10-29T10:09:01.895Z"
-    },
-    {
       "id": "scharmuetzelsee-koerbe-flechten-ferienprogramm",
       "title": "Körbe flechten - Ferienprogramm",
       "url": "https://www.scharmuetzelsee.de/event/koerbe-flechten-ferienprogramm",
@@ -1005,12 +981,52 @@
       "updatedAt": "2026-10-17T07:55:57.579Z"
     },
     {
+      "id": "scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-sylvia-musick",
+      "title": "Ratschen und tratschen - Handarbeitsnachmittage mit Sylvia Musick",
+      "url": "https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbeitsnachmittage-mit-sylvia-musick",
+      "startDate": "2026-11-04T00:00:00.000Z",
+      "fetchedAt": "2026-09-16T08:45:08.170Z",
+      "updatedAt": "2026-11-02T11:20:06.792Z"
+    },
+    {
       "id": "scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-denkmal-bunkeranlage-fuchsbau",
       "title": "Führungen zur Geschichte der Bunker im technischen Denkmal „Bunkeranlage Fuchsbau“",
       "url": "https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bunker-im-technischen-denkmal-bunkeranlage-fuchsbau",
       "startDate": "2026-11-04T00:00:00.000Z",
       "fetchedAt": "2026-09-19T08:14:15.333Z",
       "updatedAt": "2026-11-01T10:37:50.801Z"
+    },
+    {
+      "id": "scharmuetzelsee-ausverkauft-workshop-im-naturpark-das-1-x-1-des-filzens",
+      "title": "ausverkauft - -Workshop im Naturpark: \"Das 1 x 1 des Filzens\"",
+      "url": "https://www.scharmuetzelsee.de/event/ausverkauft-workshop-im-naturpark-das-1-x-1-des-filzens",
+      "startDate": "2026-11-04T00:00:00.000Z",
+      "fetchedAt": "2026-11-02T11:20:06.792Z",
+      "updatedAt": "2026-11-02T11:20:06.792Z"
+    },
+    {
+      "id": "scharmuetzelsee-zur-kaffeezeit-im-scharwenka-kulturforum",
+      "title": "\"Zur Kaffeezeit\" im Scharwenka Kulturforum",
+      "url": "https://www.scharmuetzelsee.de/event/zur-kaffeezeit-im-scharwenka-kulturforum",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T08:46:19.768Z",
+      "updatedAt": "2026-11-02T11:20:06.792Z"
+    },
+    {
+      "id": "scharmuetzelsee-offener-meditationsabend",
+      "title": "Offener Meditationsabend",
+      "url": "https://www.scharmuetzelsee.de/event/offener-meditationsabend",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-09-17T08:52:30.326Z",
+      "updatedAt": "2026-11-02T11:20:06.792Z"
+    },
+    {
+      "id": "scharmuetzelsee-lesung-aus-dem-buch-guenter-de-bruyns-maerkische-fahrten",
+      "title": "Lesung aus dem Buch \"Günter de Bruyns Märkische Fahrten\"",
+      "url": "https://www.scharmuetzelsee.de/event/lesung-aus-dem-buch-guenter-de-bruyns-maerkische-fahrten",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-11-02T11:20:06.792Z",
+      "updatedAt": "2026-11-02T11:20:06.792Z"
     },
     {
       "id": "scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alten-schulscheune",

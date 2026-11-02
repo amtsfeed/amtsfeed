@@ -1921,6 +1921,17 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  ModID=11&amp\;FID=2967.7972.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:oranienburg-event-8081@amtsfeed.de
+DTSTAMP:20261102T111913Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Gedenken an die Opfer der Novemberpogrome von 1938
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Gedenken-an-die-Opfer-der-Novemberpogrome-von-1938.php?object=tx\,296
+ 7.4&amp\;ModID=11&amp\;FID=2967.8081.1&amp\;NavID=2967.39&amp\;sfreg=1&am
+ p\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:oranienburg-event-7992@amtsfeed.de
 DTSTAMP:20261031T094629Z
 DTSTART;VALUE=DATE:20261110
@@ -1962,5 +1973,15 @@ SUMMARY:Treffen des Jugendbeirats Oranienburg
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/Treffen-des-Jugendbeirats-Oranienburg.php?object=tx\,2967.4&amp\;ModI
  D=11&amp\;FID=2967.7537.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8021@amtsfeed.de
+DTSTAMP:20261102T111913Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Dirk Michaelis - Konzert in der Orangerie
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Dirk-Michaelis-Konzert-in-der-Orangerie.php?object=tx\,2967.4&amp\;Mo
+ dID=11&amp\;FID=2967.8021.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

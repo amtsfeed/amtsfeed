@@ -1841,6 +1841,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Kulturkantine im Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1804-20261120@amtsfeed.de
+DTSTAMP:20261102T111558Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Finissage mit Volker Nikel
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/finissage-mit-volker-nikel/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1649-20261121@amtsfeed.de
 DTSTAMP:20261009T103946Z
 DTSTART;VALUE=DATE:20261121

@@ -367,15 +367,6 @@ SUMMARY:Schleusenfahrt zum Storkower See
 URL:https://www.scharmuetzelsee.de/event/schleusenfahrt-zum-storkower-see
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-zur-kaffeezeit-im-scharwenka-kulturforum@amtsfeed.de
-DTSTAMP:20260923T084619Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Zur Kaffeezeit im Scharwenka Kulturforum
-URL:https://www.scharmuetzelsee.de/event/zur-kaffeezeit-im-scharwenka-kul
- turforum
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-live-multivision-mit-kai-uwe-kuechler-cornwall-und-de
  r-sueden-englands@amtsfeed.de
 DTSTAMP:20260925T085908Z
@@ -743,16 +734,6 @@ URL:https://www.scharmuetzelsee.de/event/11-storkower-herbstpoesie-lesung
  asses-mit-daniel-schreiber
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-syl
- via-musick@amtsfeed.de
-DTSTAMP:20261021T084729Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Ratschen und tratschen - Handarbeitsnachmittage mit Sylvia Musick
-URL:https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbei
- tsnachmittage-mit-sylvia-musick
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-aktiv-wochenplan-wakepark-schnupperkurs@amtsfeed.de
 DTSTAMP:20261021T084729Z
 DTSTART;VALUE=DATE:20261021
@@ -985,14 +966,6 @@ SUMMARY:Bingo - Ferienprogramm
 URL:https://www.scharmuetzelsee.de/event/bingo-ferienprogramm
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
-DTSTAMP:20261029T100901Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Offener Meditationsabend
-URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-koerbe-flechten-ferienprogramm@amtsfeed.de
 DTSTAMP:20261028T095007Z
 DTSTART;VALUE=DATE:20261029
@@ -1181,6 +1154,16 @@ URL:https://www.scharmuetzelsee.de/event/unruhestand-kabarett-am-nachmitt
  ag-dumm-gelaufen-satire-fuer-politisch-inkorrekte-zeiten
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-syl
+ via-musick@amtsfeed.de
+DTSTAMP:20261102T112006Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Ratschen und tratschen - Handarbeitsnachmittage mit Sylvia Musick
+URL:https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbei
+ tsnachmittage-mit-sylvia-musick
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
  enkmal-bunkeranlage-fuchsbau@amtsfeed.de
 DTSTAMP:20261101T103750Z
@@ -1190,6 +1173,43 @@ SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
  nkeranlage Fuchsbau“
 URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
  nker-im-technischen-denkmal-bunkeranlage-fuchsbau
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ausverkauft-workshop-im-naturpark-das-1-x-1-des-filze
+ ns@amtsfeed.de
+DTSTAMP:20261102T112006Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:ausverkauft - -Workshop im Naturpark: "Das 1 x 1 des Filzens"
+URL:https://www.scharmuetzelsee.de/event/ausverkauft-workshop-im-naturpar
+ k-das-1-x-1-des-filzens
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-zur-kaffeezeit-im-scharwenka-kulturforum@amtsfeed.de
+DTSTAMP:20261102T112006Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:"Zur Kaffeezeit" im Scharwenka Kulturforum
+URL:https://www.scharmuetzelsee.de/event/zur-kaffeezeit-im-scharwenka-kul
+ turforum
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
+DTSTAMP:20261102T112006Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Offener Meditationsabend
+URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-lesung-aus-dem-buch-guenter-de-bruyns-maerkische-fahr
+ ten@amtsfeed.de
+DTSTAMP:20261102T112006Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Lesung aus dem Buch "Günter de Bruyns Märkische Fahrten"
+URL:https://www.scharmuetzelsee.de/event/lesung-aus-dem-buch-guenter-de-b
+ ruyns-maerkische-fahrten
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alt

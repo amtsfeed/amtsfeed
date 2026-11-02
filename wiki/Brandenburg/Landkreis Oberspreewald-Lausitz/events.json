@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T10:37:39.088Z",
+  "updatedAt": "2026-11-02T11:19:54.238Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -7378,6 +7378,16 @@
       "updatedAt": "2026-10-28T09:50:01.013Z"
     },
     {
+      "id": "lk-osl-event-2994595-20261102",
+      "title": "Clubabend",
+      "url": "https://www.osl-online.de/veranstaltungen/2994595/2026/11/02/clubabend",
+      "startDate": "2026-11-02T18:00:00.000Z",
+      "endDate": "2026-11-02T20:30:00.000Z",
+      "location": "Clubabend",
+      "fetchedAt": "2026-11-02T11:19:54.291Z",
+      "updatedAt": "2026-11-02T11:19:54.291Z"
+    },
+    {
       "id": "lk-osl-event-1906922-20261103",
       "title": "Großmarkt auf dem Marktplatz \"In Calau clever kaufen\" bei den Calauer Innenstadthändlern",
       "url": "https://www.osl-online.de/veranstaltungen/1906922/2026/11/03/grossmarkt-auf-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthaendlern",
@@ -7404,6 +7414,16 @@
       "location": "Ortrand, Pulsnitzhalle",
       "fetchedAt": "2026-09-15T08:49:48.932Z",
       "updatedAt": "2026-10-28T09:50:01.013Z"
+    },
+    {
+      "id": "lk-osl-event-2994866-20261103",
+      "title": "Sprachcaf&egrave;",
+      "url": "https://www.osl-online.de/veranstaltungen/2994866/2026/11/03/sprachcafè",
+      "startDate": "2026-11-03T14:00:00.000Z",
+      "endDate": "2026-11-03T15:00:00.000Z",
+      "location": "Quartierstreff",
+      "fetchedAt": "2026-11-02T11:19:54.291Z",
+      "updatedAt": "2026-11-02T11:19:54.291Z"
     },
     {
       "id": "lk-osl-event-2791032-20261103",
@@ -7725,13 +7745,13 @@
     },
     {
       "id": "lk-osl-event-2991536-20261109",
-      "title": "gesund &amp; vital",
-      "url": "https://www.osl-online.de/veranstaltungen/2991536/2026/11/09/gesund-amp-vital",
+      "title": "gesund und vital",
+      "url": "https://www.osl-online.de/veranstaltungen/2991536/2026/11/09/gesund-und-vital",
       "startDate": "2026-11-09T09:30:00.000Z",
       "endDate": "2026-11-09T11:30:00.000Z",
       "location": "Quartierstreff",
       "fetchedAt": "2026-10-27T09:09:28.844Z",
-      "updatedAt": "2026-10-28T09:50:01.013Z"
+      "updatedAt": "2026-11-02T11:19:54.291Z"
     },
     {
       "id": "lk-osl-event-2898941-20261109",
@@ -7957,6 +7977,16 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-05-31T17:24:18.676Z",
       "updatedAt": "2026-10-28T09:50:01.013Z"
+    },
+    {
+      "id": "lk-osl-event-2994864-20261112",
+      "title": "Adventsgestaltung",
+      "url": "https://www.osl-online.de/veranstaltungen/2994864/2026/11/12/adventsgestaltung",
+      "startDate": "2026-11-12T10:00:00.000Z",
+      "endDate": "2026-11-12T12:00:00.000Z",
+      "location": "Quartierstreff",
+      "fetchedAt": "2026-11-02T11:19:54.291Z",
+      "updatedAt": "2026-11-02T11:19:54.291Z"
     },
     {
       "id": "lk-osl-event-2951713-20261112",
@@ -10739,6 +10769,16 @@
       "location": "Marktplatz Calau",
       "fetchedAt": "2026-05-31T17:24:18.676Z",
       "updatedAt": "2026-10-28T09:50:01.013Z"
+    },
+    {
+      "id": "lk-osl-event-2994947-20270209",
+      "title": "Schulanmeldung",
+      "url": "https://www.osl-online.de/veranstaltungen/2994947/2027/02/09/schulanmeldung",
+      "startDate": "2027-02-09T13:00:00.000Z",
+      "endDate": "2027-02-09T16:00:00.000Z",
+      "location": "Freifrau-von-Löwendal-Grundschule-Europaschule",
+      "fetchedAt": "2026-11-02T11:19:54.291Z",
+      "updatedAt": "2026-11-02T11:19:54.291Z"
     },
     {
       "id": "lk-osl-event-2024997-20270209",
@@ -14558,6 +14598,33 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-11-01T10:37:39.121Z",
       "updatedAt": "2026-11-01T10:37:39.121Z"
+    },
+    {
+      "id": "lk-osl-event-1906922-20271102",
+      "title": "Großmarkt auf dem Marktplatz \"In Calau clever kaufen\" bei den Calauer Innenstadthändlern",
+      "url": "https://www.osl-online.de/veranstaltungen/1906922/2027/11/02/grossmarkt-auf-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthaendlern",
+      "startDate": "2027-11-02T08:00:00.000Z",
+      "location": "Marktplatz Calau",
+      "fetchedAt": "2026-11-02T11:19:54.291Z",
+      "updatedAt": "2026-11-02T11:19:54.291Z"
+    },
+    {
+      "id": "lk-osl-event-2290342-20271102",
+      "title": "Calauer Wochenmarkt",
+      "url": "https://www.osl-online.de/veranstaltungen/2290342/2027/11/02/calauer-wochenmarkt",
+      "startDate": "2027-11-02T08:00:00.000Z",
+      "location": "Marktplatz Calau",
+      "fetchedAt": "2026-11-02T11:19:54.291Z",
+      "updatedAt": "2026-11-02T11:19:54.291Z"
+    },
+    {
+      "id": "lk-osl-event-1958298-20271102",
+      "title": "&bdquo;Väter unter sich&ldquo; – Ein Treff für werdende Papas sowie Vätern von Babys und Kleinkindern",
+      "url": "https://www.osl-online.de/veranstaltungen/1958298/2027/11/02/vaeter-unter-sich--ein-treff-fuer-werdende-papas-sowie-vaetern-von-babys-und-kleinkindern",
+      "startDate": "2027-11-02T17:00:00.000Z",
+      "location": "Regine-Hildebrandt-Haus",
+      "fetchedAt": "2026-11-02T11:19:54.291Z",
+      "updatedAt": "2026-11-02T11:19:54.291Z"
     }
   ]
 }

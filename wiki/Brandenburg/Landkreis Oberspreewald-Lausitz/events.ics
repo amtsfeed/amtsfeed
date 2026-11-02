@@ -7581,6 +7581,16 @@ URL:https://www.osl-online.de/veranstaltungen/2124466/2026/11/02/treffpun
 LOCATION:Mehrgenerationenhaus
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2994595-20261102@amtsfeed.de
+DTSTAMP:20261102T111954Z
+DTSTART:20261102T180000Z
+DTEND:20261102T203000Z
+SUMMARY:Clubabend
+URL:https://www.osl-online.de/veranstaltungen/2994595/2026/11/02/clubaben
+ d
+LOCATION:Clubabend
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-1906922-20261103@amtsfeed.de
 DTSTAMP:20261028T095001Z
 DTSTART:20261103T080000Z
@@ -7609,6 +7619,16 @@ SUMMARY:"Immer in Bewegung mit Fritzi" in Ortrand
 URL:https://www.osl-online.de/veranstaltungen/2966820/2026/11/03/immer-in
  -bewegung-mit-fritzi-in-ortrand
 LOCATION:Ortrand\, Pulsnitzhalle
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2994866-20261103@amtsfeed.de
+DTSTAMP:20261102T111954Z
+DTSTART:20261103T140000Z
+DTEND:20261103T150000Z
+SUMMARY:Sprachcaf&egrave\;
+URL:https://www.osl-online.de/veranstaltungen/2994866/2026/11/03/sprachca
+ fè
+LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2791032-20261103@amtsfeed.de
@@ -7938,12 +7958,12 @@ LOCATION:Allmosen
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2991536-20261109@amtsfeed.de
-DTSTAMP:20261028T095001Z
+DTSTAMP:20261102T111954Z
 DTSTART:20261109T093000Z
 DTEND:20261109T113000Z
-SUMMARY:gesund &amp\; vital
-URL:https://www.osl-online.de/veranstaltungen/2991536/2026/11/09/gesund-a
- mp-vital
+SUMMARY:gesund und vital
+URL:https://www.osl-online.de/veranstaltungen/2991536/2026/11/09/gesund-u
+ nd-vital
 LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
@@ -8175,6 +8195,16 @@ SUMMARY:Behinderten- und Seniorenberatung
 URL:https://www.osl-online.de/veranstaltungen/2124494/2026/11/12/behinder
  ten-und-seniorenberatung
 LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2994864-20261112@amtsfeed.de
+DTSTAMP:20261102T111954Z
+DTSTART:20261112T100000Z
+DTEND:20261112T120000Z
+SUMMARY:Adventsgestaltung
+URL:https://www.osl-online.de/veranstaltungen/2994864/2026/11/12/adventsg
+ estaltung
+LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2951713-20261112@amtsfeed.de
@@ -11027,6 +11057,16 @@ SUMMARY:Calauer Wochenmarkt
 URL:https://www.osl-online.de/veranstaltungen/2290342/2027/02/09/calauer-
  wochenmarkt
 LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2994947-20270209@amtsfeed.de
+DTSTAMP:20261102T111954Z
+DTSTART:20270209T130000Z
+DTEND:20270209T160000Z
+SUMMARY:Schulanmeldung
+URL:https://www.osl-online.de/veranstaltungen/2994947/2027/02/09/schulanm
+ eldung
+LOCATION:Freifrau-von-Löwendal-Grundschule-Europaschule
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2024997-20270209@amtsfeed.de
@@ -14911,5 +14951,36 @@ SUMMARY:Treffpunkt Bürgertheater
 URL:https://www.osl-online.de/veranstaltungen/2124466/2027/11/01/treffpun
  kt-buergertheater
 LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-1906922-20271102@amtsfeed.de
+DTSTAMP:20261102T111954Z
+DTSTART:20271102T080000Z
+SUMMARY:Großmarkt auf dem Marktplatz "In Calau clever kaufen" bei den Ca
+ lauer Innenstadthändlern
+URL:https://www.osl-online.de/veranstaltungen/1906922/2027/11/02/grossmar
+ kt-auf-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadtha
+ endlern
+LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2290342-20271102@amtsfeed.de
+DTSTAMP:20261102T111954Z
+DTSTART:20271102T080000Z
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.osl-online.de/veranstaltungen/2290342/2027/11/02/calauer-
+ wochenmarkt
+LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-1958298-20271102@amtsfeed.de
+DTSTAMP:20261102T111954Z
+DTSTART:20271102T170000Z
+SUMMARY:&bdquo\;Väter unter sich&ldquo\; – Ein Treff für werdende Pap
+ as sowie Vätern von Babys und Kleinkindern
+URL:https://www.osl-online.de/veranstaltungen/1958298/2027/11/02/vaeter-u
+ nter-sich--ein-treff-fuer-werdende-papas-sowie-vaetern-von-babys-und-klei
+ nkindern
+LOCATION:Regine-Hildebrandt-Haus
 END:VEVENT
 END:VCALENDAR

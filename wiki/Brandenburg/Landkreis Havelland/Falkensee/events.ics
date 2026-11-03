@@ -4234,6 +4234,15 @@ URL:https://www.falkensee.de/veranstaltungen/2948830/2026/11/03/spiel-dic
  h-stark-kinderstarkmach-training-5-7-jaehrige
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-2996296-20261103@amtsfeed.de
+DTSTAMP:20261103T105742Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Lenkungsgruppe Innenstadt trifft sich
+URL:https://www.falkensee.de/veranstaltungen/2996296/2026/11/03/lenkungsg
+ ruppe-innenstadt-trifft-sich
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2321277-20261104@amtsfeed.de
 DTSTAMP:20261028T094512Z
 DTSTART;VALUE=DATE:20261104
@@ -4426,6 +4435,15 @@ SUMMARY:Konzert für Cello solo und Cello und Orgel zu Beginn der Frieden
  sdekade
 URL:https://www.falkensee.de/veranstaltungen/2967369/2026/11/08/konzert-f
  uer-cello-solo-und-cello-und-orgel-zu-beginn-der-friedensdekade
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2996395-20261108@amtsfeed.de
+DTSTAMP:20261103T105742Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Die Freiheit des Erzählens- Das Leben des Gad Beck
+URL:https://www.falkensee.de/veranstaltungen/2996395/2026/11/08/die-freih
+ eit-des-erzaehlens-das-leben-des-gad-beck
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2146623-20261109@amtsfeed.de
@@ -8790,5 +8808,31 @@ DTEND;VALUE=DATE:20271103
 SUMMARY:Seniorenskat - für Freunde des Kartenspiels
 URL:https://www.falkensee.de/veranstaltungen/2188424/2027/11/02/seniorens
  kat-fuer-freunde-des-kartenspiels
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2983978-20271103@amtsfeed.de
+DTSTAMP:20261103T105742Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:Gut beraten in Rentenfragen - kostenfreies Angebot im Bürgeramt
+URL:https://www.falkensee.de/veranstaltungen/2983978/2027/11/03/gut-berat
+ en-in-rentenfragen-kostenfreies-angebot-im-buergeramt
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2321277-20271103@amtsfeed.de
+DTSTAMP:20261103T105742Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:Elternfrühstück im Weltladen
+URL:https://www.falkensee.de/veranstaltungen/2321277/2027/11/03/elternfru
+ ehstueck-im-weltladen
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2405552-20271103@amtsfeed.de
+DTSTAMP:20261103T105742Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:Singkreis
+URL:https://www.falkensee.de/veranstaltungen/2405552/2027/11/03/singkreis
 END:VEVENT
 END:VCALENDAR

@@ -15482,6 +15482,15 @@ URL:https://www.premnitz.de/veranstaltungen/2992220/2026/11/07/ausstellun
  g-juedische-schicksale
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2996063-20261107@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Nikolai Kraneis - Malerei und Anette Weber - Skulptur
+URL:https://www.premnitz.de/veranstaltungen/2996063/2026/11/07/nikolai-kr
+ aneis-malerei-und-anette-weber-skulptur
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2961090-20261108@amtsfeed.de
 DTSTAMP:20261028T094546Z
 DTSTART;VALUE=DATE:20261108
@@ -15627,6 +15636,15 @@ DTEND;VALUE=DATE:20261109
 SUMMARY:Tage der offenen Kelterei bei Weinbau Dr. Lindicke
 URL:https://www.premnitz.de/veranstaltungen/2992222/2026/11/08/tage-der-o
  ffenen-kelterei-bei-weinbau-dr.-lindicke
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2996064-20261108@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Nikolai Kraneis - Malerei und Anette Weber - Skulptur
+URL:https://www.premnitz.de/veranstaltungen/2996064/2026/11/08/nikolai-kr
+ aneis-malerei-und-anette-weber-skulptur
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2961091-20261109@amtsfeed.de
@@ -16102,6 +16120,15 @@ URL:https://www.premnitz.de/veranstaltungen/2991483/2026/11/14/karnevalis
  tische-jubilaeums-prunksitzung-des-kcw
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2996065-20261114@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Nikolai Kraneis - Malerei und Anette Weber - Skulptur
+URL:https://www.premnitz.de/veranstaltungen/2996065/2026/11/14/nikolai-kr
+ aneis-malerei-und-anette-weber-skulptur
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2961097-20261115@amtsfeed.de
 DTSTAMP:20261028T094546Z
 DTSTART;VALUE=DATE:20261115
@@ -16217,6 +16244,15 @@ DTEND;VALUE=DATE:20261116
 SUMMARY:Ausstellung Jüdische Schicksale
 URL:https://www.premnitz.de/veranstaltungen/2992229/2026/11/15/ausstellun
  g-juedische-schicksale
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2996066-20261115@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Nikolai Kraneis - Malerei und Anette Weber - Skulptur
+URL:https://www.premnitz.de/veranstaltungen/2996066/2026/11/15/nikolai-kr
+ aneis-malerei-und-anette-weber-skulptur
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2961098-20261116@amtsfeed.de
@@ -16557,10 +16593,10 @@ URL:https://www.premnitz.de/veranstaltungen/2835703/2026/11/21/adventsflo
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2981214-20261121@amtsfeed.de
-DTSTAMP:20261028T094546Z
+DTSTAMP:20261103T105819Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:lesung mit Britta Orlowski
+SUMMARY:Lesung mit Britta Orlowski
 URL:https://www.premnitz.de/veranstaltungen/2981214/2026/11/21/lesung-mit
  -britta-orlowski
 END:VEVENT
@@ -16701,6 +16737,24 @@ URL:https://www.premnitz.de/veranstaltungen/2994787/2026/11/21/weihnachts
  ausstellung-im-kunstgut-krahne
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2996067-20261121@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Vernissage "Mit dem Skizzenblock im Ruhestand unterwegs"
+URL:https://www.premnitz.de/veranstaltungen/2996067/2026/11/21/vernissage
+ -mit-dem-skizzenblock-im-ruhestand-unterwegs
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2996068-20261121@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Nikolai Kraneis - Malerei und Anette Weber - Skulptur
+URL:https://www.premnitz.de/veranstaltungen/2996068/2026/11/21/nikolai-kr
+ aneis-malerei-und-anette-weber-skulptur
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2985383-20261122@amtsfeed.de
 DTSTAMP:20261028T094546Z
 DTSTART;VALUE=DATE:20261122
@@ -16819,6 +16873,24 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:Weihnachtsausstellung im Kunstgut Krahne
 URL:https://www.premnitz.de/veranstaltungen/2994788/2026/11/22/weihnachts
  ausstellung-im-kunstgut-krahne
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2996069-20261122@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Vernissage "Mit dem Skizzenblock im Ruhestand unterwegs"
+URL:https://www.premnitz.de/veranstaltungen/2996069/2026/11/22/vernissage
+ -mit-dem-skizzenblock-im-ruhestand-unterwegs
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2996070-20261122@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Nikolai Kraneis - Malerei und Anette Weber - Skulptur
+URL:https://www.premnitz.de/veranstaltungen/2996070/2026/11/22/nikolai-kr
+ aneis-malerei-und-anette-weber-skulptur
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2961105-20261123@amtsfeed.de
@@ -17290,6 +17362,15 @@ URL:https://www.premnitz.de/veranstaltungen/2994790/2026/11/28/weihnachts
  ausstellung-im-kunstgut-krahne
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2996071-20261128@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Nikolai Kraneis - Malerei und Anette Weber - Skulptur
+URL:https://www.premnitz.de/veranstaltungen/2996071/2026/11/28/nikolai-kr
+ aneis-malerei-und-anette-weber-skulptur
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2992244-20261129@amtsfeed.de
 DTSTAMP:20261029T100409Z
 DTSTART;VALUE=DATE:20261129
@@ -17452,6 +17533,15 @@ URL:https://www.premnitz.de/veranstaltungen/2994791/2026/11/29/weihnachts
  ausstellung-im-kunstgut-krahne
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-2996072-20261129@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Nikolai Kraneis - Malerei und Anette Weber - Skulptur
+URL:https://www.premnitz.de/veranstaltungen/2996072/2026/11/29/nikolai-kr
+ aneis-malerei-und-anette-weber-skulptur
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2992246-20261130@amtsfeed.de
 DTSTAMP:20261030T100704Z
 DTSTART;VALUE=DATE:20261130
@@ -17578,5 +17668,69 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Drei Haselnüsse für Aschenbrödel &ndash\; Das Live-Hörspiel
 URL:https://www.premnitz.de/veranstaltungen/2839018/2026/12/02/drei-hasel
  nuesse-fuer-aschenbroedel--das-live-hoerspiel
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2992249-20261203@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.premnitz.de/veranstaltungen/2992249/2026/12/03/ausstellun
+ g-juedische-schicksale
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2850156-20261203@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Frischemarkt Nauen
+URL:https://www.premnitz.de/veranstaltungen/2850156/2026/12/03/frischemar
+ kt-nauen
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2985392-20261203@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:"Viel Schießen und Scharmützel..." 30jähriger Krieg an Havel u
+ nd Elbe
+URL:https://www.premnitz.de/veranstaltungen/2985392/2026/12/03/viel-schie
+ ssen-und-scharmuetzel.-30jaehriger-krieg-an-havel-und-elbe
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2854183-20261203@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Stadtverordnetenversammlung
+URL:https://www.premnitz.de/veranstaltungen/2854183/2026/12/03/stadtveror
+ dnetenversammlung
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2930719-20261203@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Kriminal Dinner - Bluthochzeit im Western-Puff
+URL:https://www.premnitz.de/veranstaltungen/2930719/2026/12/03/kriminal-d
+ inner-bluthochzeit-im-western-puff
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2977230-20261203@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Flying home for Christmas
+URL:https://www.premnitz.de/veranstaltungen/2977230/2026/12/03/flying-hom
+ e-for-christmas
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2839019-20261203@amtsfeed.de
+DTSTAMP:20261103T105819Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Ole Lehmann - War das schon immer so laut hier?
+URL:https://www.premnitz.de/veranstaltungen/2839019/2026/12/03/ole-lehman
+ n-war-das-schon-immer-so-laut-hier
 END:VEVENT
 END:VCALENDAR

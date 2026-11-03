@@ -694,4 +694,15 @@ URL:https://amt-niemegk.de/events/bewegter-morgen/?occurrence=2026-11-05&
  #038\;time=1793869200
 LOCATION:Familienzentrum Niemegk
 END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-11-07-2026-11-07@amtsfeed.de
+DTSTAMP:20261103T110235Z
+DTSTART:20261107T140000Z
+DTEND:20261107T170000Z
+SUMMARY:Sport\, Spaß und Gemeinschaft: Tag der offenen Tür in der Turnh
+ alle Niemegk
+URL:https://amt-niemegk.de/events/sport-spass-und-gemeinschaft-tag-der-of
+ fenen-tuer-in-der-turnhalle-niemegk/?occurrence=2026-11-07
+LOCATION:Turnhalle Niemegk
+END:VEVENT
 END:VCALENDAR

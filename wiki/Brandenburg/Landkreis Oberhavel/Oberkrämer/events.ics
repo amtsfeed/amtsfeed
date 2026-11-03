@@ -796,15 +796,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2825871/2026/11/01/gottesd
  ienst.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855689@amtsfeed.de
-DTSTAMP:20261028T094920Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Die Montagshelden - Gymnastik & Bewegung
-URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/11/02/die-mon
- tagshelden-gymnastik-bewegung
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2979523@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261102
@@ -1009,6 +1000,15 @@ DTEND;VALUE=DATE:20261109
 SUMMARY:Führungen im Schloss
 URL:https://www.oberkraemer.de/veranstaltungen/2969197/2026/11/08/fuehrun
  gen-im-schloss
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855689@amtsfeed.de
+DTSTAMP:20261103T110105Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Die Montagshelden - Gymnastik & Bewegung
+URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/11/09/die-mon
+ tagshelden-gymnastik-bewegung
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855780@amtsfeed.de

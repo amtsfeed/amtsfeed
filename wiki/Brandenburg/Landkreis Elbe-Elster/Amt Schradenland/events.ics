@@ -942,15 +942,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2988840/2026/10/31/wi
  edereroeffnung-heidebergturm
 END:VEVENT
 BEGIN:VEVENT
-UID:2952576@amtsfeed.de
-DTSTAMP:20261028T094412Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Nähen\, Stricken \, Häkeln
-URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/11/02/na
- ehen-stricken--haekeln
-END:VEVENT
-BEGIN:VEVENT
 UID:2829977@amtsfeed.de
 DTSTAMP:20261028T094412Z
 DTSTART;VALUE=DATE:20261102
@@ -985,6 +976,15 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Laternebasteln für Martinstag in Hirschfeld
 URL:https://www.amt-schradenland.de/veranstaltungen/2988890/2026/11/05/la
  ternebasteln-fuer-martinstag-in-hirschfeld
+END:VEVENT
+BEGIN:VEVENT
+UID:2952576@amtsfeed.de
+DTSTAMP:20261103T105705Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Nähen\, Stricken \, Häkeln
+URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/11/09/na
+ ehen-stricken--haekeln
 END:VEVENT
 BEGIN:VEVENT
 UID:2829981@amtsfeed.de

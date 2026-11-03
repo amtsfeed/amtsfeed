@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T10:35:19.017Z",
+  "updatedAt": "2026-11-03T10:59:45.499Z",
   "items": [
     {
       "id": "2846347",
@@ -1030,36 +1030,6 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
-      "id": "2402834",
-      "title": "Kreativgruppe in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/02/kreativgruppe-in-podelzig",
-      "startDate": "2026-11-02T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "in Gemeindezentrum",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-28T09:48:01.755Z"
-    },
-    {
-      "id": "2464902",
-      "title": "Tischtennis",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/02/tischtennis",
-      "startDate": "2026-11-02T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-28T09:48:01.755Z"
-    },
-    {
-      "id": "2464900",
-      "title": "Dart für Jedermann",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/02/dart-fuer-jedermann",
-      "startDate": "2026-11-02T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Sportlerheim Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-28T09:48:01.755Z"
-    },
-    {
       "id": "2464901",
       "title": "Selbstverteidigung für Frauen",
       "url": "https://www.amt-lebus.de/veranstaltungen/2464901/2026/11/03/selbstverteidigung-fuer-frauen",
@@ -1078,6 +1048,15 @@
       "description": "Jeden Dienstag um 19.00 Uhr Kirche Lebus",
       "fetchedAt": "2026-05-05T14:58:26.635Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "2996291",
+      "title": "21. Weihnachtsmarkt im Parkin Reitwein",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2996291/2026/11/03/21.-weihnachtsmarkt-im-parkin-reitwein",
+      "startDate": "2026-11-03T00:00:00.000Z",
+      "location": "Gemeinde Reitwein",
+      "fetchedAt": "2026-11-03T10:59:45.483Z",
+      "updatedAt": "2026-11-03T10:59:45.483Z"
     },
     {
       "id": "2486339",
@@ -1212,6 +1191,36 @@
       "updatedAt": "2026-10-30T10:09:02.916Z"
     },
     {
+      "id": "2402834",
+      "title": "Kreativgruppe in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/09/kreativgruppe-in-podelzig",
+      "startDate": "2026-11-09T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "in Gemeindezentrum",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-03T10:59:45.483Z"
+    },
+    {
+      "id": "2464902",
+      "title": "Tischtennis",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/09/tischtennis",
+      "startDate": "2026-11-09T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-03T10:59:45.483Z"
+    },
+    {
+      "id": "2464900",
+      "title": "Dart für Jedermann",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/09/dart-fuer-jedermann",
+      "startDate": "2026-11-09T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Sportlerheim Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-03T10:59:45.483Z"
+    },
+    {
       "id": "2904734",
       "title": "Fahrt zur Therme",
       "url": "https://www.amt-lebus.de/veranstaltungen/2904734/2026/11/10/fahrt-zur-therme",
@@ -1258,6 +1267,15 @@
       "description": "Martinstagsfeier Beginn in der Kirchenruine um 17 Uhr mit anschliessendem Umzug durchs Dorf und einem Feuer und Martinshörnchen im Pfarrgarten",
       "fetchedAt": "2026-10-22T08:44:08.791Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "2996281",
+      "title": "Martinsumzug  in Reitwein",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2996281/2026/11/11/martinsumzug-in-reitwein",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "location": "Gemeinde Reitwein",
+      "fetchedAt": "2026-11-03T10:59:45.483Z",
+      "updatedAt": "2026-11-03T10:59:45.483Z"
     },
     {
       "id": "2928789",
@@ -1381,6 +1399,16 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
+      "id": "2996286",
+      "title": "Senorenweihnachtsfeier in Reitwein",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2996286/2026/12/04/senorenweihnachtsfeier-in-reitwein",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "location": "Dorfgemeinschaftshaus in Reitwein",
+      "description": "Anmeldung bei Frau Bäcker",
+      "fetchedAt": "2026-11-03T10:59:45.483Z",
+      "updatedAt": "2026-11-03T10:59:45.483Z"
+    },
+    {
       "id": "2989197",
       "title": "Advents- Punsch in Mallnow",
       "url": "https://www.amt-lebus.de/veranstaltungen/2989197/2026/12/05/advents-punsch-in-mallnow",
@@ -1438,6 +1466,16 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
+      "id": "2996322",
+      "title": "Senorenweihnachtsfeier in Mallnow",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2996322/2026/12/09/senorenweihnachtsfeier-in-mallnow",
+      "startDate": "2026-12-09T00:00:00.000Z",
+      "location": "Mallnow",
+      "description": "Veranstaltungsort:  in der Manufaktur",
+      "fetchedAt": "2026-11-03T10:59:45.483Z",
+      "updatedAt": "2026-11-03T10:59:45.483Z"
+    },
+    {
       "id": "2957512",
       "title": "Seniorennachmittag - Gedanken zum Advent",
       "url": "https://www.amt-lebus.de/veranstaltungen/2957512/2026/12/10/seniorennachmittag-gedanken-zum-advent",
@@ -1445,6 +1483,15 @@
       "location": "Pfarrkirche Lebus",
       "fetchedAt": "2026-09-11T09:57:29.696Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "2996297",
+      "title": "Seniorenfrühstück - Dorfgemeinschaftshaus Reitwein",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2996297/2026/12/11/seniorenfruehstueck-dorfgemeinschaftshaus-reitwein",
+      "startDate": "2026-12-11T00:00:00.000Z",
+      "location": "Gemeinde Reitwein",
+      "fetchedAt": "2026-11-03T10:59:45.483Z",
+      "updatedAt": "2026-11-03T10:59:45.483Z"
     },
     {
       "id": "2993163",
@@ -1483,6 +1530,15 @@
       "description": "Am vierten Adventssonntag findet in Wulkow wieder der traditionelle Weihnachtsmarkt statt. Im und vor dem weihnachtlich geschmückten Speicher erwartet die Besucher ein vielfältiger Markt – mit Kunsthandwerk, Leckereien und Bastelständen für ...",
       "fetchedAt": "2026-10-30T10:09:02.916Z",
       "updatedAt": "2026-10-30T10:09:02.916Z"
+    },
+    {
+      "id": "2996329",
+      "title": "Krippenspiel in Mallnow",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2996329/2026/12/20/krippenspiel-in-mallnow",
+      "startDate": "2026-12-20T00:00:00.000Z",
+      "location": "Kirchenruine Mallnow",
+      "fetchedAt": "2026-11-03T10:59:45.483Z",
+      "updatedAt": "2026-11-03T10:59:45.483Z"
     },
     {
       "id": "2846438",

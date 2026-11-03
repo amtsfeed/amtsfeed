@@ -6323,15 +6323,6 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:MS Bismarckhöhe
 END:VEVENT
 BEGIN:VEVENT
-UID:werder-havel-event-99226012@amtsfeed.de
-DTSTAMP:20261029T101050Z
-DTSTART:20261029T101050Z
-SUMMARY:SingBar
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99226012
-LOCATION:Scala Künstler-Cafe & Bar
-END:VEVENT
-BEGIN:VEVENT
 UID:werder-havel-event-99193359@amtsfeed.de
 DTSTAMP:20261029T101050Z
 DTSTART:20261029T101050Z
@@ -6478,8 +6469,8 @@ LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233865@amtsfeed.de
-DTSTAMP:20261102T112204Z
-DTSTART:20261102T112204Z
+DTSTAMP:20261103T110332Z
+DTSTART:20261103T110332Z
 SUMMARY:Ausstellung Jüdische Schicksale
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233865
@@ -6487,8 +6478,8 @@ LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233866@amtsfeed.de
-DTSTAMP:20261028T095153Z
-DTSTART:20261104T080000Z
+DTSTAMP:20261103T110332Z
+DTSTART:20261103T110332Z
 SUMMARY:Ausstellung Jüdische Schicksale
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233866
@@ -6496,8 +6487,8 @@ LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99127093@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261104T090000Z
+DTSTAMP:20261103T110332Z
+DTSTART:20261103T110332Z
 SUMMARY:Erzählfrühstück für Seniorinnen und Senioren
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99127093
@@ -6505,8 +6496,8 @@ LOCATION:Cafe des Edeka Marktes
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233856@amtsfeed.de
-DTSTAMP:20261028T095153Z
-DTSTART:20261104T160000Z
+DTSTAMP:20261103T110332Z
+DTSTART:20261103T110332Z
 SUMMARY:Workshop Erinnern verbindet
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233856
@@ -6514,8 +6505,8 @@ LOCATION:Remise der evangelischen Kirche
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233793@amtsfeed.de
-DTSTAMP:20261027T091122Z
-DTSTART:20261104T183000Z
+DTSTAMP:20261103T110332Z
+DTSTART:20261103T110332Z
 SUMMARY:Filmpremiere „Mit 66 Jahren\, da fängt das Leben an – 66 Jah
  re KCW“
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
@@ -7054,6 +7045,15 @@ SUMMARY:Ausstellung Jüdische Schicksale
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233888
 LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99226012@amtsfeed.de
+DTSTAMP:20261103T110332Z
+DTSTART:20261126T150000Z
+SUMMARY:SingBar
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99226012
+LOCATION:Scala Künstler-Cafe & Bar
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233889@amtsfeed.de

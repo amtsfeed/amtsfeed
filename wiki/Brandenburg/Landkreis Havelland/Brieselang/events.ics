@@ -983,7 +983,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:brieselang-event-Verleihung-der-Ehrenamtspreise.html?&kalender_month=
  11-20261113@amtsfeed.de
-DTSTAMP:20261101T103238Z
+DTSTAMP:20261103T105737Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Verleihung der Ehrenamtspreise
@@ -994,8 +994,7 @@ DESCRIPTION:Die Verwaltung der Gemeinde Brieselang hat den Termin für di
  taltung soll am Freitag\, 13. November 2026\, ab 18 Uhr in der Aula der R
  obinson-Grundschule stattfinden. Eingeladen werden alle Nominierten. Wer 
  den Preis tatsächlich erhält\, wird jedoch erst bei der Veranstaltung b
- ekanntgegeben. Aktuell ruft die Gemeinde dazu auf\, Vorschläge einzureic
- hen.
+ ekanntgegeben.
 LOCATION:Robinson-Grundschule\,
 END:VEVENT
 BEGIN:VEVENT
@@ -1183,6 +1182,23 @@ DESCRIPTION:Am ersten Advent wird es auf dem Kirchengelände in Zeestow w
  m Sonntag\, 29. November 2026\, rund um die Autobahnkirche statt. Beginn 
  ist um 13 Uhr.
 LOCATION:Evangelische Autobahnkirche Zeestow\,
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Digitaler-Stammtisch-Praktische-Hilfe-fuer-Handy-PC-
+ und-KI.html?&kalender_month=-20261207@amtsfeed.de
+DTSTAMP:20261103T105737Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Digitaler Stammtisch: Praktische Hilfe für Handy\, PC und KI
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Digitaler-Stammtisch-Praktische-Hilfe-fuer-Handy-PC-und-KI.htm
+ l?&kalender_month=11
+DESCRIPTION:Der Digitale Stammtisch der Gemeinde Brieselang wird in der z
+ weiten Jahreshälfte fortgesetzt. Von August bis Dezember 2026 stehen wie
+ der praktische Themen rund um Smartphone\, Computer\, Datensicherung und 
+ Künstliche Intelligenz auf dem Programm. Die Treffen finden jeweils mont
+ ags von 14 bis 17 Uhr im Sitzungssaal des Rathauses\, Am Markt 3\, statt.
+LOCATION:Gemeinde Brieselang\,
 END:VEVENT
 BEGIN:VEVENT
 UID:brieselang-event-Drei-Engel-zu-Weihnachten-20261208@amtsfeed.de

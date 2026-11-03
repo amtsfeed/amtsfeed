@@ -1744,6 +1744,20 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Berliner Straße 83 in Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1806-20261112@amtsfeed.de
+DTSTAMP:20261103T105822Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Gespräche am Schleusenplatz: Gehen wir vor der KI in die Knie? F
+ ilmkomponist Matthias Hornschuh über Künstliche Intelligenz und den N
+ iedergang der Kultur
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/gespraeche-am-schleusenplatz-ge
+ hen-wir-vor-der-ki-in-die-knie-filmkomponist-matthias-hornschuh-ueber-kue
+ nstliche-intelligenz-und-den-niedergang-der-kultur/
+LOCATION:Stadtbibliothek Rathenow Schleusenplatz 4
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1097-20261113@amtsfeed.de
 DTSTAMP:20260911T110748Z
 DTSTART;VALUE=DATE:20261113
@@ -2213,6 +2227,17 @@ SUMMARY:„This is a man´s world” mit Alexandra Kamp / Achtung: neuer
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/this-is-a-mans-world-mit-alexan
  dra-kamp-achtung-neuer-termin/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1805-20270305@amtsfeed.de
+DTSTAMP:20261103T105822Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Radabenteuer auf dem Weg nach China
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/radabenteuer-auf-dem-weg-nach-c
+ hina/
 LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT

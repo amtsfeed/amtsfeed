@@ -1125,15 +1125,6 @@ SUMMARY:Training der Burgwache Storkow
 URL:https://www.scharmuetzelsee.de/event/training-der-burgwache-storkow
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261101T103750Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
- ad-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-seniorenkino-im-cinema-bad-saarow@amtsfeed.de
 DTSTAMP:20261101T103750Z
 DTSTART;VALUE=DATE:20261102
@@ -1141,6 +1132,15 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Seniorenkino im Cinema Bad Saarow
 URL:https://www.scharmuetzelsee.de/event/seniorenkino-im-cinema-bad-saaro
  w
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261103T110147Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-unruhestand-kabarett-am-nachmittag-dumm-gelaufen-sati
@@ -1210,6 +1210,17 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Lesung aus dem Buch "Günter de Bruyns Märkische Fahrten"
 URL:https://www.scharmuetzelsee.de/event/lesung-aus-dem-buch-guenter-de-b
  ruyns-maerkische-fahrten
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-du-und-dein-garten-im-naturpark-obstbaumschnitt-an-ju
+ ngbaeumen-theorieseminar@amtsfeed.de
+DTSTAMP:20261103T110147Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Du und Dein Garten im Naturpark: "Obstbaumschnitt an Jungbäumen"
+ - Theorieseminar
+URL:https://www.scharmuetzelsee.de/event/du-und-dein-garten-im-naturpark-
+ obstbaumschnitt-an-jungbaeumen-theorieseminar
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alt

@@ -1111,26 +1111,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2978155/2026/11/01/tag-
  der-offenen-hoefe-am-1.-november--zwei-neue-mitglieder-stellen-sich-vor
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2384478@amtsfeed.de
-DTSTAMP:20261028T095155Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:DRK - Stuhlgymnastik (2 Kurse a&acute\; 1 Stunde)
-URL:https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/11/02/drk-
- stuhlgymnastik-2-kurse-a-1-stunde
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2915098@amtsfeed.de
-DTSTAMP:20261028T095155Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit
-  Tanz- und Theaterpädagogin Nina Stemberger
-URL:https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/11/02/krea
- tiver-kindertanz-fuer-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-th
- eaterpaedagogin-nina-stemberger
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973355@amtsfeed.de
 DTSTAMP:20261028T095155Z
 DTSTART;VALUE=DATE:20261102
@@ -1330,6 +1310,26 @@ DTEND;VALUE=DATE:20261109
 SUMMARY:Erzählsalon
 URL:https://www.wiesenburgmark.de/veranstaltungen/2873405/2026/11/08/erza
  ehlsalon
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2384478@amtsfeed.de
+DTSTAMP:20261103T110336Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:DRK - Stuhlgymnastik (2 Kurse a&acute\; 1 Stunde)
+URL:https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/11/09/drk-
+ stuhlgymnastik-2-kurse-a-1-stunde
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2915098@amtsfeed.de
+DTSTAMP:20261103T110336Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit
+  Tanz- und Theaterpädagogin Nina Stemberger
+URL:https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/11/09/krea
+ tiver-kindertanz-fuer-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-th
+ eaterpaedagogin-nina-stemberger
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928864@amtsfeed.de

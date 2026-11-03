@@ -662,15 +662,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2991652/2026/11/01/bilde
  ch-grossraeschen-kam
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2791037@amtsfeed.de
-DTSTAMP:20261028T094942Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Sprachtraining für Erwachsene
-URL:https://www.grossraeschen.de/veranstaltungen/2791037/2026/11/02/sprac
- htraining-fuer-erwachsene
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2967820@amtsfeed.de
 DTSTAMP:20261028T094942Z
 DTSTART;VALUE=DATE:20261102
@@ -1132,6 +1123,15 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Exoticbörse
 URL:https://www.grossraeschen.de/veranstaltungen/2977311/2026/12/05/exoti
  cboerse
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2791037@amtsfeed.de
+DTSTAMP:20261103T110121Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Sprachtraining für Erwachsene
+URL:https://www.grossraeschen.de/veranstaltungen/2791037/2026/12/07/sprac
+ htraining-fuer-erwachsene
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2967822@amtsfeed.de

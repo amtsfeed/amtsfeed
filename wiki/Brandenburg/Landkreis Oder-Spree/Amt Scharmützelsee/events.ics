@@ -209,13 +209,13 @@ URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2835563/2026/11/29
 LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
 END:VEVENT
 BEGIN:VEVENT
-UID:2983424-2026-12-01-weihnachtsbasteln-im-der-gemeindebibliothek-bad-sa
- arow@amtsfeed.de
-DTSTAMP:20261028T095010Z
+UID:2983424-2026-12-01-weihnachtsbasteln-im-der-bibo-bad-saarow@amtsfeed.
+ de
+DTSTAMP:20261103T110150Z
 DTSTART:20261201T130000Z
-SUMMARY:Weihnachtsbasteln im der Gemeindebibliothek Bad Saarow
+SUMMARY:Weihnachtsbasteln im der Bibo Bad Saarow
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2983424/2026/12/01
- /weihnachtsbasteln-im-der-gemeindebibliothek-bad-saarow
+ /weihnachtsbasteln-im-der-bibo-bad-saarow
 LOCATION:Bibliothek Bad Saarow
 END:VEVENT
 BEGIN:VEVENT
@@ -431,6 +431,15 @@ SUMMARY:Bruce Springsteen: Thunder Road Teil 2
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2871472/2027/02/19
  /bruce-springsteen-thunder-road-teil-2
 LOCATION:Theater am See
+END:VEVENT
+BEGIN:VEVENT
+UID:2995103-2027-02-20-quaster-friends@amtsfeed.de
+DTSTAMP:20261103T110150Z
+DTSTART:20270220T200000Z
+SUMMARY:QUASTER & FRIENDS
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2995103/2027/02/20
+ /quaster-friends
+LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:2927497-2027-03-06-ladies-night-2027--dance-party-zum-frauentag@amtsf

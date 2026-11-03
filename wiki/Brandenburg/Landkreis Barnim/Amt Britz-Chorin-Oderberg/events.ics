@@ -1446,6 +1446,15 @@ URL:https://britz-chorin-oderberg.de/events#event-16820
 LOCATION:16230 Chorin – Chorin – Kirche
 END:VEVENT
 BEGIN:VEVENT
+UID:17239@amtsfeed.de
+DTSTAMP:20261103T105542Z
+DTSTART:20261106T180000Z
+SUMMARY:Geschichtsabend – Gewerke in Brodowin bis 1915
+URL:https://britz-chorin-oderberg.de/events#event-17239
+LOCATION:16230 Chorin – Brodowin – "Schwarzer Adler"\, Brodowiner Dor
+ fstraße 80
+END:VEVENT
+BEGIN:VEVENT
 UID:15332@amtsfeed.de
 DTSTAMP:20260526T084943Z
 DTSTART:20261106T230000Z
@@ -1460,6 +1469,14 @@ DTSTART:20261107T080000Z
 SUMMARY:Arbeitseinsatz für Hohenfinow
 URL:https://britz-chorin-oderberg.de/events#event-17191
 LOCATION:16248 Hohenfinow – FFW Hohenfinow\, Niederfinow Straße 15
+END:VEVENT
+BEGIN:VEVENT
+UID:17237@amtsfeed.de
+DTSTAMP:20261103T105542Z
+DTSTART:20261107T130000Z
+SUMMARY:Weihnachtsbasteln in Brodowin
+URL:https://britz-chorin-oderberg.de/events#event-17237
+LOCATION:16230 Chorin – Brodowin – Brodowiner Dorfstraße 22
 END:VEVENT
 BEGIN:VEVENT
 UID:16648@amtsfeed.de
@@ -1543,12 +1560,36 @@ URL:https://britz-chorin-oderberg.de/events#event-16914
 LOCATION:16230 Chorin – Chorin – Kirche
 END:VEVENT
 BEGIN:VEVENT
+UID:17251@amtsfeed.de
+DTSTAMP:20261103T105542Z
+DTSTART:20261120T150000Z
+SUMMARY:Kino in Lunow: „Flow“
+URL:https://britz-chorin-oderberg.de/events#event-17251
+LOCATION:16248 Lunow-Stolzenhagen – Lunow – Fischerstraße 22
+END:VEVENT
+BEGIN:VEVENT
 UID:16912@amtsfeed.de
 DTSTAMP:20261010T095343Z
 DTSTART:20261120T180000Z
 SUMMARY:Kino in Chorin — „Lang lebe Ned Devine“
 URL:https://britz-chorin-oderberg.de/events#event-16912
 LOCATION:16230 Chorin – Chorin – Kirche
+END:VEVENT
+BEGIN:VEVENT
+UID:17254@amtsfeed.de
+DTSTAMP:20261103T105542Z
+DTSTART:20261120T180000Z
+SUMMARY:Kino in Lunow: „Sophie Scholl“
+URL:https://britz-chorin-oderberg.de/events#event-17254
+LOCATION:16248 Lunow-Stolzenhagen – Lunow – Fischerstraße 22
+END:VEVENT
+BEGIN:VEVENT
+UID:17241@amtsfeed.de
+DTSTAMP:20261103T105542Z
+DTSTART:20261121T140000Z
+SUMMARY:Lesenachmittag in Brodowin
+URL:https://britz-chorin-oderberg.de/events#event-17241
+LOCATION:16230 Chorin – Brodowin – Brodowiner Dorfstraße 61
 END:VEVENT
 BEGIN:VEVENT
 UID:17199@amtsfeed.de
@@ -1720,6 +1761,14 @@ URL:https://britz-chorin-oderberg.de/events#event-15388
 LOCATION:16230 Chorin – Golzow – Kirche
 END:VEVENT
 BEGIN:VEVENT
+UID:17255@amtsfeed.de
+DTSTAMP:20261103T105542Z
+DTSTART:20261218T150000Z
+SUMMARY:Kino in Lunow: „Weihnachten in der Schustergasse“
+URL:https://britz-chorin-oderberg.de/events#event-17255
+LOCATION:16248 Lunow-Stolzenhagen – Lunow – Fischerstraße 22
+END:VEVENT
+BEGIN:VEVENT
 UID:15012@amtsfeed.de
 DTSTAMP:20260526T084943Z
 DTSTART:20261218T160000Z
@@ -1734,6 +1783,22 @@ DTSTART:20261218T170000Z
 SUMMARY:Oderberger Adventssingen
 URL:https://britz-chorin-oderberg.de/events#event-15334
 LOCATION:16248 Oderberg – Sporthalle
+END:VEVENT
+BEGIN:VEVENT
+UID:17257@amtsfeed.de
+DTSTAMP:20261103T105542Z
+DTSTART:20261218T170000Z
+SUMMARY:Weihnachtskonzert: „Musikalische Kostenbarkeiten in Oderberg“
+URL:https://britz-chorin-oderberg.de/events#event-17257
+LOCATION:16248 Oderberg – Sporthalle am Friedenshain
+END:VEVENT
+BEGIN:VEVENT
+UID:17256@amtsfeed.de
+DTSTAMP:20261103T105542Z
+DTSTART:20261218T180000Z
+SUMMARY:Kino in Lunow: „Bach – Ein Weihnachtswunder“
+URL:https://britz-chorin-oderberg.de/events#event-17256
+LOCATION:16248 Lunow-Stolzenhagen – Lunow – Fischerstraße 22
 END:VEVENT
 BEGIN:VEVENT
 UID:15335@amtsfeed.de

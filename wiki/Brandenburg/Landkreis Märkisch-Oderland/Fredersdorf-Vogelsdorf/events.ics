@@ -1142,6 +1142,17 @@ LOCATION:hinterer Teil Sitzungssaal\, Verwaltungsgebäude\, Lindenallee 3
  \, 15370 Fredersdorf-Vogelsdorf
 END:VEVENT
 BEGIN:VEVENT
+UID:2995243@amtsfeed.de
+DTSTAMP:20261103T105953Z
+DTSTART:20261209T090000Z
+DTEND:20261209T120000Z
+SUMMARY:Beiratssitzung  des Seniorenbeirates Fredersdorf-Vogelsdorf
+URL:https://www.fredersdorf-vogelsdorf.de/veranstaltungen/2995243/2026/12
+ /09/beiratssitzung-des-seniorenbeirates-fredersdorf-vogelsdorf
+LOCATION:hinterer Teil Sitzungssaal\, Verwaltungsgebäude\, Lindenallee 3
+ \, 15370 Fredersdorf-Vogelsdorf
+END:VEVENT
+BEGIN:VEVENT
 UID:2978515@amtsfeed.de
 DTSTAMP:20261028T094810Z
 DTSTART:20270105T190000Z
@@ -1654,6 +1665,16 @@ SUMMARY:Sitzung des Ausschusses für Bildung\, Soziales und öffentliche
 URL:https://www.fredersdorf-vogelsdorf.de/veranstaltungen/2994795/2027/11
  /02/sitzung-des-ausschusses-fuer-bildung-soziales-und-oeffentliche-ordnun
  g
+LOCATION:Sitzungssaal\, Verwaltungsgebäude\, Lindenallee 3\, 15370 Frede
+ rsdorf-Vogelsdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:2996110@amtsfeed.de
+DTSTAMP:20261103T105953Z
+DTSTART:20271103T190000Z
+SUMMARY:Sitzung des Ortsentwicklungs-\, Bau- und Umweltausschusses
+URL:https://www.fredersdorf-vogelsdorf.de/veranstaltungen/2996110/2027/11
+ /03/sitzung-des-ortsentwicklungs--bau-und-umweltausschusses
 LOCATION:Sitzungssaal\, Verwaltungsgebäude\, Lindenallee 3\, 15370 Frede
  rsdorf-Vogelsdorf
 END:VEVENT

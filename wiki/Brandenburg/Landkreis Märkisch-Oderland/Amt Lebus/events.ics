@@ -1216,39 +1216,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2984490/2026/10/31/zeschdorf
 LOCATION:Kulturhaus Alt Zeschdorf
 END:VEVENT
 BEGIN:VEVENT
-UID:2402834@amtsfeed.de
-DTSTAMP:20261028T094801Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Kreativgruppe in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/02/kreativgr
- uppe-in-podelzig
-DESCRIPTION:in Gemeindezentrum
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464902@amtsfeed.de
-DTSTAMP:20261028T094801Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/02/tischtenn
- is
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464900@amtsfeed.de
-DTSTAMP:20261028T094801Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Dart für Jedermann
-URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/02/dart-fuer
- -jedermann
-DESCRIPTION:Sportlerheim Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464901@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261103
@@ -1269,6 +1236,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/11/03/posaunenc
  hor-probe
 DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
 LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2996291@amtsfeed.de
+DTSTAMP:20261103T105945Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:21. Weihnachtsmarkt im Parkin Reitwein
+URL:https://www.amt-lebus.de/veranstaltungen/2996291/2026/11/03/21.-weihn
+ achtsmarkt-im-parkin-reitwein
+LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
 UID:2486339@amtsfeed.de
@@ -1426,6 +1403,39 @@ DESCRIPTION:Erste Buchlesung einer neuen Lesereihe: Vera Regel liest aus
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
+UID:2402834@amtsfeed.de
+DTSTAMP:20261103T105945Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Kreativgruppe in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/09/kreativgr
+ uppe-in-podelzig
+DESCRIPTION:in Gemeindezentrum
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464902@amtsfeed.de
+DTSTAMP:20261103T105945Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/09/tischtenn
+ is
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464900@amtsfeed.de
+DTSTAMP:20261103T105945Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Dart für Jedermann
+URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/09/dart-fuer
+ -jedermann
+DESCRIPTION:Sportlerheim Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2904734@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261110
@@ -1479,6 +1489,16 @@ DESCRIPTION:Martinstagsfeier Beginn in der Kirchenruine um 17 Uhr mit ans
  chliessendem Umzug durchs Dorf und einem Feuer und Martinshörnchen im Pf
  arrgarten
 LOCATION:Mallnow
+END:VEVENT
+BEGIN:VEVENT
+UID:2996281@amtsfeed.de
+DTSTAMP:20261103T105945Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Martinsumzug  in Reitwein
+URL:https://www.amt-lebus.de/veranstaltungen/2996281/2026/11/11/martinsum
+ zug-in-reitwein
+LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
 UID:2928789@amtsfeed.de
@@ -1618,6 +1638,17 @@ DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
 END:VEVENT
 BEGIN:VEVENT
+UID:2996286@amtsfeed.de
+DTSTAMP:20261103T105945Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Senorenweihnachtsfeier in Reitwein
+URL:https://www.amt-lebus.de/veranstaltungen/2996286/2026/12/04/senorenwe
+ ihnachtsfeier-in-reitwein
+DESCRIPTION:Anmeldung bei Frau Bäcker
+LOCATION:Dorfgemeinschaftshaus in Reitwein
+END:VEVENT
+BEGIN:VEVENT
 UID:2989197@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261205
@@ -1685,6 +1716,17 @@ URL:https://www.amt-lebus.de/veranstaltungen/2904735/2026/12/08/fahrt-zur
 LOCATION:Treffpunkt : Postkasten Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2996322@amtsfeed.de
+DTSTAMP:20261103T105945Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Senorenweihnachtsfeier in Mallnow
+URL:https://www.amt-lebus.de/veranstaltungen/2996322/2026/12/09/senorenwe
+ ihnachtsfeier-in-mallnow
+DESCRIPTION:Veranstaltungsort:  in der Manufaktur
+LOCATION:Mallnow
+END:VEVENT
+BEGIN:VEVENT
 UID:2957512@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261210
@@ -1693,6 +1735,16 @@ SUMMARY:Seniorennachmittag - Gedanken zum Advent
 URL:https://www.amt-lebus.de/veranstaltungen/2957512/2026/12/10/seniorenn
  achmittag-gedanken-zum-advent
 LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2996297@amtsfeed.de
+DTSTAMP:20261103T105945Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Seniorenfrühstück - Dorfgemeinschaftshaus Reitwein
+URL:https://www.amt-lebus.de/veranstaltungen/2996297/2026/12/11/seniorenf
+ ruehstueck-dorfgemeinschaftshaus-reitwein
+LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
 UID:2993163@amtsfeed.de
@@ -1739,6 +1791,16 @@ DESCRIPTION:Am vierten Adventssonntag findet in Wulkow wieder der traditi
  Speicher erwartet die Besucher ein vielfältiger Markt – mit Kunsthandw
  erk\, Leckereien und Bastelständen für ...
 LOCATION:Speichercafé im Ökospeicher Wulkow
+END:VEVENT
+BEGIN:VEVENT
+UID:2996329@amtsfeed.de
+DTSTAMP:20261103T105945Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Krippenspiel in Mallnow
+URL:https://www.amt-lebus.de/veranstaltungen/2996329/2026/12/20/krippensp
+ iel-in-mallnow
+LOCATION:Kirchenruine Mallnow
 END:VEVENT
 BEGIN:VEVENT
 UID:2846438@amtsfeed.de

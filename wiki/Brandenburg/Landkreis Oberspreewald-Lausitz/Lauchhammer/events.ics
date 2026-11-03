@@ -326,24 +326,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2991786/2026/10/28/laterne
  nbasteln
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124462@amtsfeed.de
-DTSTAMP:20261028T094944Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/11/02/treffpu
- nkt-buergertheater
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2124466@amtsfeed.de
-DTSTAMP:20261028T094944Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/02/treffpu
- nkt-buergertheater
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124475@amtsfeed.de
 DTSTAMP:20261028T094944Z
 DTSTART;VALUE=DATE:20261103
@@ -425,6 +407,24 @@ DTEND;VALUE=DATE:20261109
 SUMMARY:Herbstkonzert
 URL:https://www.lauchhammer.de/veranstaltungen/2989534/2026/11/08/herbstk
  onzert
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124462@amtsfeed.de
+DTSTAMP:20261103T110123Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/11/09/treffpu
+ nkt-buergertheater
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124466@amtsfeed.de
+DTSTAMP:20261103T110123Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/09/treffpu
+ nkt-buergertheater
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2944155@amtsfeed.de

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T10:37:08.574Z",
+  "updatedAt": "2026-11-04T11:04:31.778Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -1058,28 +1058,20 @@
       "updatedAt": "2026-10-31T09:46:42.682Z"
     },
     {
-      "id": "calau-event-2290342",
-      "title": "03.11.2026   Calauer Wochenmarkt",
-      "url": "https://www.calau.de/veranstaltungen/2290342/2026/11/03/calauer-wochenmarkt",
-      "startDate": "2026-11-03T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-31T09:46:42.682Z"
-    },
-    {
-      "id": "calau-event-1906922",
-      "title": "03.11.2026   Großmarkt auf dem Marktplatz \"In Calau clever kaufen\" bei den Calauer Innenstadthändlern",
-      "url": "https://www.calau.de/veranstaltungen/1906922/2026/11/03/grossmarkt-auf-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthaendlern",
-      "startDate": "2026-11-03T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-31T09:46:42.682Z"
-    },
-    {
       "id": "calau-event-2315266",
       "title": "04.11.2026   Calauer Museen öffnen",
       "url": "https://www.calau.de/veranstaltungen/2315266/2026/11/04/calauer-museen-oeffnen",
       "startDate": "2026-11-04T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
       "updatedAt": "2026-10-31T09:46:42.682Z"
+    },
+    {
+      "id": "calau-event-2290342",
+      "title": "05.11.2026   Calauer Wochenmarkt",
+      "url": "https://www.calau.de/veranstaltungen/2290342/2026/11/05/calauer-wochenmarkt",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-11-04T11:04:31.771Z"
     },
     {
       "id": "calau-event-2960237",
@@ -1091,19 +1083,19 @@
     },
     {
       "id": "calau-event-2980738",
-      "title": "Workshop für Mamas: \"Zurück in Deine Kraft - Nervensystem regulieren\"",
+      "title": "05.11.2026   Workshop für Mamas: \"Zurück in Deine Kraft - Nervensystem regulieren\"",
       "url": "https://www.calau.de/veranstaltungen/2980738/2026/11/05/workshop-fuer-mamas-zurueck-in-deine-kraft-nervensystem-regulieren",
       "startDate": "2026-11-05T00:00:00.000Z",
       "fetchedAt": "2026-10-08T10:45:38.964Z",
-      "updatedAt": "2026-10-28T09:49:41.065Z"
+      "updatedAt": "2026-11-04T11:04:31.771Z"
     },
     {
       "id": "calau-event-2606463",
-      "title": "Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau",
+      "title": "06.11.2026   Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau",
       "url": "https://www.calau.de/veranstaltungen/2606463/2026/11/06/barrierefreie-buergersprechstunde-des-einwohnermeldeamtes-calau",
       "startDate": "2026-11-06T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-28T09:49:41.065Z"
+      "updatedAt": "2026-11-04T11:04:31.771Z"
     },
     {
       "id": "calau-event-2877065",
@@ -1208,6 +1200,14 @@
       "startDate": "2026-11-14T00:00:00.000Z",
       "fetchedAt": "2026-09-29T09:59:40.834Z",
       "updatedAt": "2026-10-28T09:49:41.065Z"
+    },
+    {
+      "id": "calau-event-2996816",
+      "title": "Gedenkveranstaltung zum Volkstrauertag",
+      "url": "https://www.calau.de/veranstaltungen/2996816/2026/11/15/gedenkveranstaltung-zum-volkstrauertag",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-11-04T11:04:31.771Z",
+      "updatedAt": "2026-11-04T11:04:31.771Z"
     },
     {
       "id": "calau-event-2838480",
@@ -1328,6 +1328,14 @@
       "startDate": "2026-11-29T00:00:00.000Z",
       "fetchedAt": "2026-10-12T11:06:40.351Z",
       "updatedAt": "2026-10-28T09:49:41.065Z"
+    },
+    {
+      "id": "calau-event-1906922",
+      "title": "Großmarkt auf dem Marktplatz \"In Calau clever kaufen\" bei den Calauer Innenstadthändlern",
+      "url": "https://www.calau.de/veranstaltungen/1906922/2026/12/01/grossmarkt-auf-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthaendlern",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-11-04T11:04:31.771Z"
     },
     {
       "id": "calau-event-2877141",

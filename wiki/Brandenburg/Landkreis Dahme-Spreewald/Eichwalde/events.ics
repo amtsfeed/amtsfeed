@@ -351,6 +351,14 @@ URL:https://www.eichwalde.de/kalender/krimilesung-matthias-wittekindt-lie
  st-aus-die-tote-am-hafen/
 END:VEVENT
 BEGIN:VEVENT
+UID:eichwalde-event-19750@amtsfeed.de
+DTSTAMP:20261104T105926Z
+DTSTART:20261111T163000Z
+DTEND:20261111T190000Z
+SUMMARY:St. Martinszug durch Eichwalde
+URL:https://www.eichwalde.de/kalender/st-martinszug-durch-eichwalde/
+END:VEVENT
+BEGIN:VEVENT
 UID:eichwalde-event-19532@amtsfeed.de
 DTSTAMP:20261016T081421Z
 DTSTART:20261113T190000Z
@@ -396,12 +404,38 @@ SUMMARY:Schlagerweihnacht
 URL:https://www.eichwalde.de/kalender/schlagerweihnacht/
 END:VEVENT
 BEGIN:VEVENT
+UID:eichwalde-event-19762@amtsfeed.de
+DTSTAMP:20261104T105926Z
+DTSTART:20261122T170000Z
+DTEND:20261122T180000Z
+SUMMARY:Orgelkonzert in der Katholischen Kirche St. Antonius
+URL:https://www.eichwalde.de/kalender/orgelkonzert-in-der-katholischen-ki
+ rche-st-antonius/
+END:VEVENT
+BEGIN:VEVENT
 UID:eichwalde-event-19446@amtsfeed.de
 DTSTAMP:20261001T101208Z
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
 SUMMARY:DEFA-Kino: Spur der Steine
 URL:https://www.eichwalde.de/kalender/defa-kino-spur-der-steine/
+END:VEVENT
+BEGIN:VEVENT
+UID:eichwalde-event-19759@amtsfeed.de
+DTSTAMP:20261104T105926Z
+DTSTART:20261128T143000Z
+DTEND:20261128T180000Z
+SUMMARY:Adventliche Feierstunde für Seniorinnen und Senioren
+URL:https://www.eichwalde.de/kalender/adventliche-feierstunde-fuer-senior
+ innen-und-senioren/
+END:VEVENT
+BEGIN:VEVENT
+UID:eichwalde-event-19756@amtsfeed.de
+DTSTAMP:20261104T105926Z
+DTSTART:20261128T150000Z
+DTEND:20261128T190000Z
+SUMMARY:Adventsmarkt auf dem Romanusplatz
+URL:https://www.eichwalde.de/kalender/adventsmarkt-auf-dem-romanusplatz/
 END:VEVENT
 BEGIN:VEVENT
 UID:eichwalde-event-19671@amtsfeed.de
@@ -414,6 +448,24 @@ URL:https://www.eichwalde.de/kalender/autorenlesung-friederike-weltzien-l
  ies-aus-die-alte-heimat-bleib-ein-traum/
 END:VEVENT
 BEGIN:VEVENT
+UID:eichwalde-event-19734@amtsfeed.de
+DTSTAMP:20261104T105926Z
+DTSTART:20261206T160000Z
+DTEND:20261206T180000Z
+SUMMARY:Weihnachtssingen in der Sportkirche
+URL:https://www.eichwalde.de/kalender/weihnachtssingen-in-der-sportkirche
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:eichwalde-event-19738@amtsfeed.de
+DTSTAMP:20261104T105926Z
+DTSTART:20261213T130000Z
+DTEND:20261213T180000Z
+SUMMARY:Weihnachtsmarkt in der Sportkirche
+URL:https://www.eichwalde.de/kalender/weihnachtsmarkt-in-der-sportkirche-
+ 2/
+END:VEVENT
+BEGIN:VEVENT
 UID:eichwalde-event-18312@amtsfeed.de
 DTSTAMP:20260915T084353Z
 DTSTART:20261221T160000Z
@@ -421,5 +473,13 @@ DTEND:20261221T180000Z
 SUMMARY:Familienspielenachmittag
 URL:https://www.eichwalde.de/kalender/familienspielenachmittag-dezember20
  26/
+END:VEVENT
+BEGIN:VEVENT
+UID:eichwalde-event-19742@amtsfeed.de
+DTSTAMP:20261104T105926Z
+DTSTART:20261231T093000Z
+DTEND:20261231T170000Z
+SUMMARY:30. Eichwalder Silvesterlauf
+URL:https://www.eichwalde.de/kalender/30-eichwalder-silvesterlauf/
 END:VEVENT
 END:VCALENDAR

@@ -805,15 +805,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2979523/2026/11/02/zaubers
  how-zur-wiedereroeffnung-der-bibliothek-vehlefanz
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855686@amtsfeed.de
-DTSTAMP:20261028T094920Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Seniorentanzgruppe "Spätlese"
-URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/11/03/seniore
- ntanzgruppe-spaetlese
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2979521@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261103
@@ -1009,6 +1000,15 @@ DTEND;VALUE=DATE:20261110
 SUMMARY:Die Montagshelden - Gymnastik & Bewegung
 URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/11/09/die-mon
  tagshelden-gymnastik-bewegung
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855686@amtsfeed.de
+DTSTAMP:20261104T110413Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Seniorentanzgruppe "Spätlese"
+URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/11/10/seniore
+ ntanzgruppe-spaetlese
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855780@amtsfeed.de
@@ -1415,6 +1415,15 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Gesundheit braucht Bewegung!
 URL:https://www.oberkraemer.de/veranstaltungen/2991637/2026/11/29/gesundh
  eit-braucht-bewegung
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2996486@amtsfeed.de
+DTSTAMP:20261104T110413Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Weihnachtsmarkt auf dem Mühlenhof Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2996486/2026/11/29/weihnac
+ htsmarkt-auf-dem-muehlenhof-vehlefanz
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962225@amtsfeed.de

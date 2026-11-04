@@ -1196,26 +1196,6 @@ URL:https://www.calau.de/veranstaltungen/2877063/2026/10/31/halloweenumzu
  g
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261031T094642Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:03.11.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/11/03/calauer-woche
- nmarkt
-END:VEVENT
-BEGIN:VEVENT
-UID:calau-event-1906922@amtsfeed.de
-DTSTAMP:20261031T094642Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:03.11.2026   Großmarkt auf dem Marktplatz "In Calau clever kaufe
- n" bei den Calauer Innenstadthändlern
-URL:https://www.calau.de/veranstaltungen/1906922/2026/11/03/grossmarkt-au
- f-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthaendle
- rn
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
 DTSTAMP:20261031T094642Z
 DTSTART;VALUE=DATE:20261104
@@ -1223,6 +1203,15 @@ DTEND;VALUE=DATE:20261105
 SUMMARY:04.11.2026   Calauer Museen öffnen
 URL:https://www.calau.de/veranstaltungen/2315266/2026/11/04/calauer-musee
  n-oeffnen
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261104T110431Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:05.11.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/11/05/calauer-woche
+ nmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960237@amtsfeed.de
@@ -1235,20 +1224,21 @@ URL:https://www.calau.de/veranstaltungen/2960237/2026/11/05/krabbelgruppe
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2980738@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261104T110431Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Workshop für Mamas: "Zurück in Deine Kraft - Nervensystem regul
- ieren"
+SUMMARY:05.11.2026   Workshop für Mamas: "Zurück in Deine Kraft - Nerve
+ nsystem regulieren"
 URL:https://www.calau.de/veranstaltungen/2980738/2026/11/05/workshop-fuer
  -mamas-zurueck-in-deine-kraft-nervensystem-regulieren
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2606463@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261104T110431Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau
+SUMMARY:06.11.2026   Barrierefreie Bürgersprechstunde des Einwohnermelde
+ amtes Calau
 URL:https://www.calau.de/veranstaltungen/2606463/2026/11/06/barrierefreie
  -buergersprechstunde-des-einwohnermeldeamtes-calau
 END:VEVENT
@@ -1366,6 +1356,15 @@ DTEND;VALUE=DATE:20261115
 SUMMARY:Puppen-Mitmach-Show
 URL:https://www.calau.de/veranstaltungen/2975866/2026/11/14/puppen-mitmac
  h-show
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2996816@amtsfeed.de
+DTSTAMP:20261104T110431Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Gedenkveranstaltung zum Volkstrauertag
+URL:https://www.calau.de/veranstaltungen/2996816/2026/11/15/gedenkveranst
+ altung-zum-volkstrauertag
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838480@amtsfeed.de
@@ -1501,6 +1500,17 @@ SUMMARY:Das Amateurtheater "Die Calauer" präsentiert "Das tapfere Schnei
  derlein"
 URL:https://www.calau.de/veranstaltungen/2982871/2026/11/29/das-amateurth
  eater-die-calauer-praesentiert-das-tapfere-schneiderlein
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-1906922@amtsfeed.de
+DTSTAMP:20261104T110431Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Großmarkt auf dem Marktplatz "In Calau clever kaufen" bei den Ca
+ lauer Innenstadthändlern
+URL:https://www.calau.de/veranstaltungen/1906922/2026/12/01/grossmarkt-au
+ f-dem-marktplatz-in-calau-clever-kaufen-bei-den-calauer-innenstadthaendle
+ rn
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877141@amtsfeed.de

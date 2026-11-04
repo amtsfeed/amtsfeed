@@ -2,7 +2,7 @@
   {
     "domain": "amt-niemegk.de",
     "baseUrl": "https://amt-niemegk.de",
-    "updatedAt": "2026-11-02T11:20:57.052Z",
+    "updatedAt": "2026-11-04T11:05:49.025Z",
     "content": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://amt-niemegk.de/wp-sitemap.xml\n\nUser-agent: *\nDisallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json\n"
   }
 ]

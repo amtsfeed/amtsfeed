@@ -603,15 +603,6 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2747610/2026/11/02/licht-
  b-warteliste
 END:VEVENT
 BEGIN:VEVENT
-UID:amt-beetzsee-event-2202003@amtsfeed.de
-DTSTAMP:20261028T095053Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Dorfstammtisch Butzow
-URL:https://www.amt-beetzsee.de/veranstaltungen/2202003/2026/11/03/dorfst
- ammtisch-butzow
-END:VEVENT
-BEGIN:VEVENT
 UID:amt-beetzsee-event-2959201@amtsfeed.de
 DTSTAMP:20261028T095053Z
 DTSTART;VALUE=DATE:20261103
@@ -739,6 +730,15 @@ SUMMARY:Betzavta-Ausbildung Modul 2 (Methodik des Adam Instituts) (Bildun
  gsurlaub)
 URL:https://www.amt-beetzsee.de/veranstaltungen/2773461/2026/11/30/betzav
  ta-ausbildung-modul-2-methodik-des-adam-instituts-bildungsurlaub
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2202003@amtsfeed.de
+DTSTAMP:20261104T110543Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Dorfstammtisch Butzow
+URL:https://www.amt-beetzsee.de/veranstaltungen/2202003/2026/12/01/dorfst
+ ammtisch-butzow
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2908449@amtsfeed.de

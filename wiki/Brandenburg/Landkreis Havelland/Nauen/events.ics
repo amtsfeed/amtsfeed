@@ -1887,6 +1887,16 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/051
 LOCATION:Leonardo Da Vinci Campus Nauen
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-06112026-stimmungsvolle-dekoration-und-geschenkideen-2026
+ 1106@amtsfeed.de
+DTSTAMP:20261104T110120Z
+DTSTART:20261106T130000Z
+SUMMARY:Stimmungsvolle Dekoration und Geschenkideen
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/061
+ 12026-stimmungsvolle-dekoration-und-geschenkideen/
+LOCATION:DrumHerum Dekoservice
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-07112026-frischemarkt-auf-dem-martin-luther-platz-2026110
  7@amtsfeed.de
 DTSTAMP:20260917T084421Z
@@ -1923,6 +1933,16 @@ SUMMARY:Männerfrühstück im "Richart-Hof"
 URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/111
  12026-maennerfruehstueck/
 LOCATION:Richart-Hof
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-12112026-frischemarkt-auf-dem-nauener-rathausplatz-202611
+ 12@amtsfeed.de
+DTSTAMP:20261104T110120Z
+DTSTART:20261112T070000Z
+SUMMARY:Frischemarkt auf dem Nauener Rathausplatz
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/121
+ 12026-frischemarkt-auf-dem-nauener-rathausplatz/
+LOCATION:Rathausplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-12112026-spielecafé-im-richart-hof-20261112@amtsfeed.de
@@ -1973,6 +1993,16 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/151
 LOCATION:Richart-Hof
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-19112026-frischemarkt-auf-dem-nauener-rathausplatz-202611
+ 19@amtsfeed.de
+DTSTAMP:20261104T110120Z
+DTSTART:20261119T070000Z
+SUMMARY:Frischemarkt auf dem Nauener Rathausplatz
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/191
+ 12026-frischemarkt-auf-dem-nauener-rathausplatz/
+LOCATION:Rathausplatz
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-24112026-spiele-und-basteln-fuer-senioren-jeden-letzten-d
  ienstag-im-monat-20261124@amtsfeed.de
 DTSTAMP:20260911T110742Z
@@ -1981,6 +2011,16 @@ SUMMARY:Spiele und Basteln für Senioren
 URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/241
  12026-spiele-und-basteln-fuer-senioren-jeden-letzten-dienstag-im-monat/
 LOCATION:Ambulantes Pflegeteam Denny Schulz GmbH
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-261126-frischemarkt-auf-dem-nauener-rathausplatz-20261126
+ @amtsfeed.de
+DTSTAMP:20261104T110120Z
+DTSTART:20261126T070000Z
+SUMMARY:Frischemarkt auf dem Nauener Rathausplatz
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/261
+ 126-frischemarkt-auf-dem-nauener-rathausplatz/
+LOCATION:Rathausplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-27112026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzt
@@ -2112,6 +2152,24 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/220
  22027-let-s-talk-about-mobbing-eine-abendreihe-fuer-familien-des-leonardo
  -da-vinci-campus-nauen/
 LOCATION:Leonardo Da Vinci Campus Nauen\, Theatersaal (Haus 13)
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-szenische-fuehrung-in-ribbeck-sa-20270403@amtsfeed.de
+DTSTAMP:20261104T110120Z
+DTSTART:20270403T120000Z
+SUMMARY:Szenische Führung in Ribbeck
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/sze
+ nische-fuehrung-in-ribbeck-sa/
+LOCATION:Kirche Ribbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-szenische-fuehrung-in-ribbeck-so-20270404@amtsfeed.de
+DTSTAMP:20261104T110120Z
+DTSTART:20270404T120000Z
+SUMMARY:Szenische Führung in Ribbeck
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/sze
+ nische-fuehrung-in-ribbeck-so/
+LOCATION:Kirche Ribbeck
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-05042027-let-s-talk-about-drogen-eine-abendreihe-fuer-fam

@@ -845,4 +845,14 @@ SUMMARY:Alles in Farbe - Emaille-Workshop
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  alles-farbe-emaille-workshop
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-offene-sonnabende-des-geschichtskreises-12@amts
+ feed.de
+DTSTAMP:20261104T110400Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Offene Sonnabende des Geschichtskreises
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ offene-sonnabende-des-geschichtskreises-12
+END:VEVENT
 END:VCALENDAR

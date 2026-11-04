@@ -1288,6 +1288,17 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:kleinmachnow-event-2476@amtsfeed.de
+DTSTAMP:20261104T110608Z
+DTSTART:20261108T160000Z
+SUMMARY:Gedenken an die Opfer der nationalsozialistischen Verfolgung und 
+ Gewalt
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Gedenken-an-die-Opfer-der-nationalsozialistischen-Verfolgung-und-Gewalt-.
+ php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.2476.1&amp\;NavID=369
+ 2.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:kleinmachnow-event-2450@amtsfeed.de
 DTSTAMP:20261016T082214Z
 DTSTART:20261109T170000Z
@@ -1447,5 +1458,14 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  Fr%C3%BChst%C3%BCck-f%C3%BCr-Familien-sowie-Senioren-und-Seniorinnen.php?
  object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.2117.1&amp\;NavID=3692.15
  &amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2083@amtsfeed.de
+DTSTAMP:20261104T110608Z
+DTSTART:20261117T140000Z
+SUMMARY:Sprechstunde "Pflege vor Ort"
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Sprechstunde-Pflege-vor-Ort-.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;F
+ ID=3692.2083.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

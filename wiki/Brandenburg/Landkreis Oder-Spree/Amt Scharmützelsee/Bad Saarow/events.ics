@@ -501,16 +501,6 @@ SUMMARY:Wendisch Rietzer Kneipp-Kids
 URL:https://www.scharmuetzelsee.de/event/wendisch-rietzer-kneipp-kids
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-kaffeeverkostung-von-der-plantage-in-die-tasse@amtsfe
- ed.de
-DTSTAMP:20261002T095555Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Kaffeeverkostung von der Plantage in die Tasse
-URL:https://www.scharmuetzelsee.de/event/kaffeeverkostung-von-der-plantag
- e-in-die-tasse
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-abbiken-mit-live-musik-station4-im-aldo-wendisch-riet
  z@amtsfeed.de
 DTSTAMP:20261001T102046Z
@@ -1210,6 +1200,16 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Lesung aus dem Buch "Günter de Bruyns Märkische Fahrten"
 URL:https://www.scharmuetzelsee.de/event/lesung-aus-dem-buch-guenter-de-b
  ruyns-maerkische-fahrten
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-kaffeeverkostung-von-der-plantage-in-die-tasse@amtsfe
+ ed.de
+DTSTAMP:20261104T110501Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Kaffeeverkostung von der Plantage in die Tasse
+URL:https://www.scharmuetzelsee.de/event/kaffeeverkostung-von-der-plantag
+ e-in-die-tasse
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-du-und-dein-garten-im-naturpark-obstbaumschnitt-an-ju

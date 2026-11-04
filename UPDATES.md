@@ -1,5 +1,82 @@
 # Updates
 
+## 2026-11-04 11:06
+
+Insgesamt **650 neu**, **286 aktualisiert**, **1 entfernt** in 70 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~1 | — | — |
+| Altlandsberg | — | ~1 | — | — |
+| Amt Beetzsee | — | ~1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Britz-Chorin-Oderberg | — | +1 | — | — |
+| Amt Brück | +1 | — | — | — |
+| Amt Kleine Elster (Niederlausitz) | +1 | — | — | — |
+| Amt Lebus | +1 | ~2 | +1 | — |
+| Amt Niemegk | +1 | +2 / ~1 | — | — |
+| Amt Rhinow | — | +1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | ~1 | — | — |
+| Amt Schenkenländchen | — | +2 | — | — |
+| Amt Schlaubetal | +1 | — | — | — |
+| Amt Schlieben | — | ~1 | — | +1 |
+| Amt Schradenland | — | +11 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Belzig | +1 | — | — | — |
+| Bad Freienwalde (Oder) | +1 | — | — | — |
+| Bernau bei Berlin | +3 | +3 / ~27 | — | — |
+| Birkenwerder | +4 | — | — | — |
+| Brieselang | +2 | +1 | — | — |
+| Calau | +2 | +1 / ~4 | — | — |
+| Dallgow-Döberitz | — | +5 | — | — |
+| Doberlug-Kirchhain | — | +1 | — | — |
+| Eberswalde | — | ~1 | — | — |
+| Eichwalde | +1 | +7 | — | — |
+| Eisenhüttenstadt | +2 | ~1 | — | — |
+| Elsterwerda | +2 | +3 / ~1 | — | — |
+| Falkensee | +4 | +1 | +1 | — |
+| Fredersdorf-Vogelsdorf | — | +1 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Glienicke-Nordbahn | +1 | ~1 | — | — |
+| Groß Kreutz | — | ~17 | — | — |
+| Großräschen | +1 | ~1 | — | — |
+| Heideblick | — | — | — | +2 |
+| Hennigsdorf | +1 | — | — | — |
+| Hohen Neuendorf | +2 | +1 | — | — |
+| Hoppegarten | +1 / -1 | +1 | — | — |
+| Kleinmachnow | +1 | +2 | — | — |
+| Kloster Lehnin | — | +1 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | +2 / ~1 | — | — | — |
+| Lauchhammer | +1 | — | — | — |
+| Lübbenau Spreewald | — | +461 / ~145 | — | — |
+| Märkische Heide | +1 | — | — | — |
+| Michendorf | — | ~1 | — | — |
+| Mittenwalde | +1 | — | — | — |
+| Mühlenbecker Land | ~1 | +6 | — | — |
+| Müncheberg | ~1 | — | — | — |
+| Nauen | — | +6 | — | — |
+| Nuthetal | +1 | +1 / ~1 | — | — |
+| Oberkrämer | — | +1 / ~1 | — | — |
+| Oderbruch / Amt Seelow-Land | +3 | — | — | — |
+| Oranienburg | +1 | +2 | — | — |
+| Premnitz | — | +28 | — | — |
+| Rathenow | +1 | +1 | — | +1 |
+| Rietz-Neuendorf | +1 | +2 | — | — |
+| Schipkau | — | ~1 | — | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schorfheide | — | +2 | — | — |
+| Schwarzheide | +1 | — | — | — |
+| Senftenberg | — | +6 | — | — |
+| Storkow (Mark) | +3 | — | — | — |
+| Strausberg | +8 | +2 / ~1 | — | — |
+| Tauche | — | — | +1 | — |
+| Teltow | +1 | ~1 | — | — |
+| Uebigau-Wahrenbrück | — | +1 | — | — |
+| Verbandsgemeinde Bad Liebenwerda | — | +4 / ~1 | — | — |
+| Werder (Havel) | — | +10 / ~6 | — | — |
+| Werneuchen | +3 | +2 | — | — |
+| Wiesenburg-Mark | +1 | — | — | — |
+
 ## 2026-11-03 11:03
 
 Insgesamt **669 neu**, **699 aktualisiert**, **1 entfernt** in 67 Quellen.

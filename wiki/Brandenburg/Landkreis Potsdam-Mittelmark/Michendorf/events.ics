@@ -1433,15 +1433,6 @@ URL:https://www.michendorf.de/veranstaltungen/2937569/2026/10/30/lesung-v
  om-kulturbund
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959538@amtsfeed.de
-DTSTAMP:20261028T095126Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959538/2026/11/03/jugendcl
- ub-micheck-geoeffnet
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2978133@amtsfeed.de
 DTSTAMP:20261002T095719Z
 DTSTART;VALUE=DATE:20261103
@@ -1557,6 +1548,15 @@ DTEND;VALUE=DATE:20261110
 SUMMARY:Laternenumzug der Michendorfer Kitas
 URL:https://www.michendorf.de/veranstaltungen/2660025/2026/11/09/laternen
  umzug-der-michendorfer-kitas
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959538@amtsfeed.de
+DTSTAMP:20261104T110614Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959538/2026/11/10/jugendcl
+ ub-micheck-geoeffnet
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2798288@amtsfeed.de

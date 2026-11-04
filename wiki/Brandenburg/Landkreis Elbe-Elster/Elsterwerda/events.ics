@@ -897,6 +897,14 @@ SUMMARY:Familienkirche Martinstag
 URL:https://www.elsterwerda.de/veranstaltung/familienkirche-martinstag/
 END:VEVENT
 BEGIN:VEVENT
+UID:24386@amtsfeed.de
+DTSTAMP:20261104T110013Z
+DTSTART:20261110T160000Z
+SUMMARY:Reparaturcafé Elsterwerda – Gemeinsam reparieren
+URL:https://www.elsterwerda.de/veranstaltung/reparaturcafe-elsterwerda-ge
+ meinsam-reparieren/
+END:VEVENT
+BEGIN:VEVENT
 UID:22523@amtsfeed.de
 DTSTAMP:20260526T090153Z
 DTSTART:20261110T170000Z
@@ -927,6 +935,15 @@ SUMMARY:Auf alten Heidewegen… „Kräuter- und Erlebnistour durch die H
  eidelandschaft um Kraupa“
 URL:https://www.elsterwerda.de/veranstaltung/auf-alten-heidewegen-kraeute
  r-und-erlebnistour-durch-die-heidelandschaft-um-kraupa/2026-11-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:24380@amtsfeed.de
+DTSTAMP:20261104T110013Z
+DTSTART:20261115T110000Z
+SUMMARY:Gedenkveranstaltung anlässlich des Volkstrauertages 2026 in Elst
+ erwerda
+URL:https://www.elsterwerda.de/veranstaltung/gedenkveranstaltung-anlaessl
+ ich-des-volkstrauertages-2026-in-elsterwerda/
 END:VEVENT
 BEGIN:VEVENT
 UID:23806@amtsfeed.de
@@ -970,9 +987,8 @@ URL:https://www.elsterwerda.de/veranstaltung/ausstellung-von-catrin-gross
 END:VEVENT
 BEGIN:VEVENT
 UID:23819@amtsfeed.de
-DTSTAMP:20260911T110714Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
+DTSTAMP:20261104T110013Z
+DTSTART:20261127T090000Z
 SUMMARY:Weihnachtsbaum der Kinder 2026
 URL:https://www.elsterwerda.de/veranstaltung/weihnachtsbaum-der-kinder-20
  26/
@@ -1060,6 +1076,14 @@ DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Weihnachtsmarkt
 URL:https://www.elsterwerda.de/veranstaltung/weihnachtsmarkt/
+END:VEVENT
+BEGIN:VEVENT
+UID:24389@amtsfeed.de
+DTSTAMP:20261104T110013Z
+DTSTART:20261215T160000Z
+SUMMARY:Reparaturcafé Elsterwerda – Gemeinsam reparieren
+URL:https://www.elsterwerda.de/veranstaltung/reparaturcafe-elsterwerda-ge
+ meinsam-reparieren-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:10001051@amtsfeed.de

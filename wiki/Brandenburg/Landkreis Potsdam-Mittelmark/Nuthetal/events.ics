@@ -492,15 +492,6 @@ URL:https://www.nuthetal.de/veranstaltungen/2976779/2026/10/30/das-kaninc
  hen-bin-ich
 END:VEVENT
 BEGIN:VEVENT
-UID:nuthetal-event-2718105@amtsfeed.de
-DTSTAMP:20261028T095129Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
-URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/11/03/unterstuet
- ztes-einkaufen-nahkauf-saarmund
-END:VEVENT
-BEGIN:VEVENT
 UID:nuthetal-event-2945865@amtsfeed.de
 DTSTAMP:20261028T095129Z
 DTSTART;VALUE=DATE:20261103
@@ -517,6 +508,15 @@ DTEND;VALUE=DATE:20261107
 SUMMARY:Seniorentreff: Weihnachtsbasteln
 URL:https://www.nuthetal.de/veranstaltungen/2812874/2026/11/06/seniorentr
  eff-weihnachtsbasteln
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2718105@amtsfeed.de
+DTSTAMP:20261104T110616Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
+URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/11/10/unterstuet
+ ztes-einkaufen-nahkauf-saarmund
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2945867@amtsfeed.de
@@ -563,6 +563,17 @@ SUMMARY:„Warten ist keine Strategie“ – Vorsorge für Krisen und Not
  fälle
 URL:https://www.nuthetal.de/veranstaltungen/2969847/2026/11/24/warten-ist
  -keine-strategie--vorsorge-fuer-krisen-und-notfaelle
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2997153@amtsfeed.de
+DTSTAMP:20261104T110616Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:INFOABEND: Gründung einer Bürgerenergiegenossenschaft – Gemei
+ nsam für die Energiewende
+URL:https://www.nuthetal.de/veranstaltungen/2997153/2026/11/25/infoabend-
+ gruendung-einer-buergerenergiegenossenschaft--gemeinsam-fuer-die-energiew
+ ende
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2989137@amtsfeed.de

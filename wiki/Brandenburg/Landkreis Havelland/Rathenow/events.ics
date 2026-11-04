@@ -1990,6 +1990,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Berliner Straße 83 in Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1807-20261201@amtsfeed.de
+DTSTAMP:20261104T110130Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Tag der offenen Tür in der Oberschule "Johann Heinrich August Du
+ ncker"
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/tag-der-offenen-tuer-in-der-obe
+ rschule-johann-heinrich-august-duncker/
+LOCATION:Oberschule "Johann Heinrich August Duncker"
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1572-20261203@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261203

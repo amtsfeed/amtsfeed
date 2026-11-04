@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T10:58:13.704Z",
+  "updatedAt": "2026-11-04T11:01:20.209Z",
   "items": [
     {
       "id": "nauen-event-14062026-stadtradeln-stadt-nauen-20260528",
@@ -1739,6 +1739,15 @@
       "updatedAt": "2026-09-29T09:55:09.927Z"
     },
     {
+      "id": "nauen-event-06112026-stimmungsvolle-dekoration-und-geschenkideen-20261106",
+      "title": "Stimmungsvolle Dekoration und Geschenkideen",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/06112026-stimmungsvolle-dekoration-und-geschenkideen/",
+      "startDate": "2026-11-06T13:00:00.000Z",
+      "location": "DrumHerum Dekoservice",
+      "fetchedAt": "2026-11-04T11:01:20.215Z",
+      "updatedAt": "2026-11-04T11:01:20.215Z"
+    },
+    {
       "id": "nauen-event-07112026-frischemarkt-auf-dem-martin-luther-platz-20261107",
       "title": "Frischemarkt auf dem Martin-Luther-Platz",
       "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/07112026-frischemarkt-auf-dem-martin-luther-platz/",
@@ -1773,6 +1782,15 @@
       "location": "Richart-Hof",
       "fetchedAt": "2026-09-11T09:54:30.436Z",
       "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-12112026-frischemarkt-auf-dem-nauener-rathausplatz-20261112",
+      "title": "Frischemarkt auf dem Nauener Rathausplatz",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/12112026-frischemarkt-auf-dem-nauener-rathausplatz/",
+      "startDate": "2026-11-12T07:00:00.000Z",
+      "location": "Rathausplatz",
+      "fetchedAt": "2026-11-04T11:01:20.215Z",
+      "updatedAt": "2026-11-04T11:01:20.215Z"
     },
     {
       "id": "nauen-event-12112026-spielecafé-im-richart-hof-20261112",
@@ -1820,6 +1838,15 @@
       "updatedAt": "2026-09-18T08:19:51.387Z"
     },
     {
+      "id": "nauen-event-19112026-frischemarkt-auf-dem-nauener-rathausplatz-20261119",
+      "title": "Frischemarkt auf dem Nauener Rathausplatz",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/19112026-frischemarkt-auf-dem-nauener-rathausplatz/",
+      "startDate": "2026-11-19T07:00:00.000Z",
+      "location": "Rathausplatz",
+      "fetchedAt": "2026-11-04T11:01:20.215Z",
+      "updatedAt": "2026-11-04T11:01:20.215Z"
+    },
+    {
       "id": "nauen-event-24112026-spiele-und-basteln-fuer-senioren-jeden-letzten-dienstag-im-monat-20261124",
       "title": "Spiele und Basteln für Senioren",
       "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/24112026-spiele-und-basteln-fuer-senioren-jeden-letzten-dienstag-im-monat/",
@@ -1827,6 +1854,15 @@
       "location": "Ambulantes Pflegeteam Denny Schulz GmbH",
       "fetchedAt": "2026-09-11T09:54:30.436Z",
       "updatedAt": "2026-09-11T11:07:42.117Z"
+    },
+    {
+      "id": "nauen-event-261126-frischemarkt-auf-dem-nauener-rathausplatz-20261126",
+      "title": "Frischemarkt auf dem Nauener Rathausplatz",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/261126-frischemarkt-auf-dem-nauener-rathausplatz/",
+      "startDate": "2026-11-26T07:00:00.000Z",
+      "location": "Rathausplatz",
+      "fetchedAt": "2026-11-04T11:01:20.215Z",
+      "updatedAt": "2026-11-04T11:01:20.215Z"
     },
     {
       "id": "nauen-event-27112026-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag-20261127",
@@ -1944,6 +1980,24 @@
       "location": "Leonardo Da Vinci Campus Nauen, Theatersaal (Haus 13)",
       "fetchedAt": "2026-09-29T09:55:09.927Z",
       "updatedAt": "2026-09-29T09:55:09.927Z"
+    },
+    {
+      "id": "nauen-event-szenische-fuehrung-in-ribbeck-sa-20270403",
+      "title": "Szenische Führung in Ribbeck",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/szenische-fuehrung-in-ribbeck-sa/",
+      "startDate": "2027-04-03T12:00:00.000Z",
+      "location": "Kirche Ribbeck",
+      "fetchedAt": "2026-11-04T11:01:20.215Z",
+      "updatedAt": "2026-11-04T11:01:20.215Z"
+    },
+    {
+      "id": "nauen-event-szenische-fuehrung-in-ribbeck-so-20270404",
+      "title": "Szenische Führung in Ribbeck",
+      "url": "https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/szenische-fuehrung-in-ribbeck-so/",
+      "startDate": "2027-04-04T12:00:00.000Z",
+      "location": "Kirche Ribbeck",
+      "fetchedAt": "2026-11-04T11:01:20.215Z",
+      "updatedAt": "2026-11-04T11:01:20.215Z"
     },
     {
       "id": "nauen-event-05042027-let-s-talk-about-drogen-eine-abendreihe-fuer-familien-des-leonardo-da-v-20270405",

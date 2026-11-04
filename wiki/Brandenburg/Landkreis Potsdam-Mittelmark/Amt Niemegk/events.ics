@@ -675,14 +675,13 @@ LOCATION:Familienzentrum Niemegk
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-11-04-2026-11-04@amtsfeed.de
-DTSTAMP:20261029T101004Z
-DTSTART:20261104T093000Z
-DTEND:20261104T110000Z
-SUMMARY:Entdeckungsraum mit Anita
-URL:https://amt-niemegk.de/events/entdeckungsraum-mit-anita-und-daniela-2
- -138-336-851-428-980-903-718-896-424-566-392/?occurrence=2026-11-04&#038\
- ;time=1793784600
-LOCATION:Familienzentrum Niemegk
+DTSTAMP:20261104T110555Z
+DTSTART:20261104T150000Z
+DTEND:20261104T180000Z
+SUMMARY:„Fair-Teilen“ – Kleiderkammer
+URL:https://amt-niemegk.de/events/fair-teilen-kleiderkammer/?occurrence=2
+ 026-11-04
+LOCATION:Belziger Str. 4\, 14823 Niemegk
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-11-05-2026-11-05@amtsfeed.de
@@ -704,5 +703,28 @@ SUMMARY:Sport\, Spaß und Gemeinschaft: Tag der offenen Tür in der Turnh
 URL:https://amt-niemegk.de/events/sport-spass-und-gemeinschaft-tag-der-of
  fenen-tuer-in-der-turnhalle-niemegk/?occurrence=2026-11-07
 LOCATION:Turnhalle Niemegk
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-11-08-2026-11-08@amtsfeed.de
+DTSTAMP:20261104T110555Z
+DTSTART:20261108T120000Z
+DTEND:20261109T000000Z
+SUMMARY:Musikalische Burgführung
+URL:https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-4
+ 52-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-75
+ 7-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-11-08&#038\;ti
+ me=1794139200
+LOCATION:Burg Rabenstein in Raben
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-11-09-2026-11-09@amtsfeed.de
+DTSTAMP:20261104T110555Z
+DTSTART:20261109T143000Z
+DTEND:20261109T170000Z
+SUMMARY:Bibliothek mit Heidi\, Mandy und Inga
+URL:https://amt-niemegk.de/events/bibliothek-mit-heidi-und-mandy-539-585-
+ 258-411-969-294-833-496-666-910-861-827-728/?occurrence=2026-11-09&#038\;
+ time=1794234600
+LOCATION:Familienzentrum Niemegk
 END:VEVENT
 END:VCALENDAR

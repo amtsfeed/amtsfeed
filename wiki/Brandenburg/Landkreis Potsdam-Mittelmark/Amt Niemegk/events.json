@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T11:02:35.411Z",
+  "updatedAt": "2026-11-04T11:05:55.609Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -579,13 +579,13 @@
     },
     {
       "id": "amt-niemegk-event-2026-11-04-2026-11-04",
-      "title": "Entdeckungsraum mit Anita",
-      "url": "https://amt-niemegk.de/events/entdeckungsraum-mit-anita-und-daniela-2-138-336-851-428-980-903-718-896-424-566-392/?occurrence=2026-11-04&#038;time=1793784600",
-      "startDate": "2026-11-04T09:30:00.000Z",
-      "endDate": "2026-11-04T11:00:00.000Z",
-      "location": "Familienzentrum Niemegk",
+      "title": "„Fair-Teilen“ – Kleiderkammer",
+      "url": "https://amt-niemegk.de/events/fair-teilen-kleiderkammer/?occurrence=2026-11-04",
+      "startDate": "2026-11-04T15:00:00.000Z",
+      "endDate": "2026-11-04T18:00:00.000Z",
+      "location": "Belziger Str. 4, 14823 Niemegk",
       "fetchedAt": "2026-10-29T10:09:54.246Z",
-      "updatedAt": "2026-10-29T10:10:04.439Z"
+      "updatedAt": "2026-11-04T11:05:55.606Z"
     },
     {
       "id": "amt-niemegk-event-2026-11-05-2026-11-05",
@@ -606,6 +606,26 @@
       "location": "Turnhalle Niemegk",
       "fetchedAt": "2026-11-03T11:02:30.885Z",
       "updatedAt": "2026-11-03T11:02:35.406Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-08-2026-11-08",
+      "title": "Musikalische Burgführung",
+      "url": "https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-452-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-757-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-11-08&#038;time=1794139200",
+      "startDate": "2026-11-08T12:00:00.000Z",
+      "endDate": "2026-11-08T00:00:00.000Z",
+      "location": "Burg Rabenstein in Raben",
+      "fetchedAt": "2026-11-04T11:05:50.046Z",
+      "updatedAt": "2026-11-04T11:05:55.606Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-09-2026-11-09",
+      "title": "Bibliothek mit Heidi, Mandy und Inga",
+      "url": "https://amt-niemegk.de/events/bibliothek-mit-heidi-und-mandy-539-585-258-411-969-294-833-496-666-910-861-827-728/?occurrence=2026-11-09&#038;time=1794234600",
+      "startDate": "2026-11-09T14:30:00.000Z",
+      "endDate": "2026-11-09T17:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-11-04T11:05:50.046Z",
+      "updatedAt": "2026-11-04T11:05:55.606Z"
     }
   ]
 }

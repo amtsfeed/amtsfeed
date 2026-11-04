@@ -671,15 +671,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2967820/2026/11/02/herzl
  iche-einladung-zum-mitbring-fruehstueck
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2791032@amtsfeed.de
-DTSTAMP:20261028T094942Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Kulturcaf&eacute\; im Quartierstreff
-URL:https://www.grossraeschen.de/veranstaltungen/2791032/2026/11/03/kultu
- rcafé-im-quartierstreff
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2994866@amtsfeed.de
 DTSTAMP:20261102T111930Z
 DTSTART;VALUE=DATE:20261103
@@ -1078,6 +1069,15 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Starke Weiber dürfen mehr!
 URL:https://www.grossraeschen.de/veranstaltungen/2981033/2026/11/28/stark
  e-weiber-duerfen-mehr
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2791032@amtsfeed.de
+DTSTAMP:20261104T110433Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Kulturcaf&eacute\; im Quartierstreff
+URL:https://www.grossraeschen.de/veranstaltungen/2791032/2026/12/01/kultu
+ rcafé-im-quartierstreff
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2957496@amtsfeed.de

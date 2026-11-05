@@ -814,15 +814,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2979521/2026/11/03/wiedere
  roeffnung-bibliothek-vehlefanz
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855698@amtsfeed.de
-DTSTAMP:20261029T100756Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Kartenfreunde Schwante
-URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/11/04/kartenf
- reunde-schwante
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2935370@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261104
@@ -1027,6 +1018,15 @@ DTEND;VALUE=DATE:20261111
 SUMMARY:Männerfrühstück in Vehlefanz
 URL:https://www.oberkraemer.de/veranstaltungen/2855878/2026/11/10/maenner
  fruehstueck-in-vehlefanz
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855698@amtsfeed.de
+DTSTAMP:20261105T110544Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Kartenfreunde Schwante
+URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/11/11/kartenf
+ reunde-schwante
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962221@amtsfeed.de
@@ -1741,6 +1741,15 @@ DTEND;VALUE=DATE:20261225
 SUMMARY:Gottesdienst
 URL:https://www.oberkraemer.de/veranstaltungen/2825878/2026/12/24/gottesd
  ienst.html
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2997507@amtsfeed.de
+DTSTAMP:20261105T110544Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Weihnachtskutsche an Heiligabend
+URL:https://www.oberkraemer.de/veranstaltungen/2997507/2026/12/24/weihnac
+ htskutsche-an-heiligabend
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2972673@amtsfeed.de

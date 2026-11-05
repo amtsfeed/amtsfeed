@@ -1,5 +1,77 @@
 # Updates
 
+## 2026-11-05 11:08
+
+Insgesamt **492 neu**, **386 aktualisiert**, **0 entfernt** in 65 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | +1 | — | — | — |
+| Altlandsberg | — | +1 | — | — |
+| Amt Brieskow-Finkenheerd | — | +2 | — | ~6 |
+| Amt Friesack | ~1 | +2 | — | — |
+| Amt Golzow | — | +2 | — | — |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Niemegk | +1 | +2 / ~1 | — | — |
+| Amt Ortrand | — | — | +1 | — |
+| Amt Ruhland | +1 | — | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | ~2 | — | — |
+| Amt Schradenland | — | +1 | — | — |
+| Amt Ziesar | — | — | +1 | ~24 |
+| Beeskow | +1 | +1 | — | — |
+| Bernau bei Berlin | +2 | +4 / ~26 | — | — |
+| Birkenwerder | +1 | — | — | — |
+| Brieselang | +2 | +1 | — | — |
+| Calau | — | ~2 | — | — |
+| Doberlug-Kirchhain | — | +1 / ~2 | — | — |
+| Eberswalde | +1 | +3 | — | — |
+| Eisenhüttenstadt | +1 | ~1 | — | — |
+| Elsterwerda | +1 | — | — | — |
+| Falkensee | ~1 | +1 | — | — |
+| Fürstenberg-Havel | +1 | — | +1 | ~2 |
+| Fürstenwalde-Spree | ~1 | — | — | — |
+| Glienicke-Nordbahn | — | +3 | — | — |
+| Groß Kreutz | — | ~17 | — | — |
+| Großräschen | — | +2 / ~1 | — | — |
+| Heideblick | +1 | — | — | — |
+| Hennigsdorf | +1 | — | +1 / ~1 | — |
+| Herzberg (Elster) | — | ~1 | — | — |
+| Hohen Neuendorf | +1 | +1 | — | — |
+| Hoppegarten | — | +1 | — | — |
+| Ketzin Havel | — | +1 | — | — |
+| Kleinmachnow | +1 | — | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +1 | — | — |
+| Landkreis Havelland (LK-Ebene) | — | — | +1 | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +8 / ~1 | — | — |
+| Lauchhammer | +1 / ~1 | ~1 | — | — |
+| Lübben (Spreewald) | +1 | — | — | — |
+| Lübbenau Spreewald | — | +355 / ~242 | — | +1 |
+| Märkische Heide | +1 | — | — | — |
+| Michendorf | — | +2 | — | — |
+| Mühlenbecker Land | — | +7 | — | — |
+| Neuenhagen bei Berlin | — | — | +1 | — |
+| Oberkrämer | — | +1 / ~1 | — | — |
+| Oranienburg | — | — | — | +2 |
+| Premnitz | +1 | +21 | — | +1 |
+| Rathenow | +1 | +1 | — | — |
+| Rietz-Neuendorf | — | +2 | ~1 | — |
+| Röderland | — | ~1 | — | — |
+| Schönefeld | +1 / ~2 | ~30 | — | — |
+| Schorfheide | — | ~2 | — | — |
+| Schulzendorf | +1 | — | — | +1 |
+| Senftenberg | +1 | +5 | — | — |
+| Strausberg | — | +1 | — | — |
+| Teltow | +1 | +1 / ~1 | — | — |
+| Treuenbrietzen | +1 | — | — | — |
+| Velten | +1 | +2 | — | — |
+| Werder (Havel) | +2 | +8 / ~5 | — | +1 |
+| Werneuchen | +1 | — | — | — |
+| Wiesenburg-Mark | — | +1 / ~6 | — | — |
+| Wildau | ~1 | — | — | — |
+| Woltersdorf | — | +1 | — | — |
+| Wustermark | — | +2 | — | — |
+| Zehdenick | +1 | — | — | — |
+
 ## 2026-11-04 11:06
 
 Insgesamt **650 neu**, **286 aktualisiert**, **1 entfernt** in 70 Quellen.

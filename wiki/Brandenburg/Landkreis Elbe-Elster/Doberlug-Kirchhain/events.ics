@@ -1061,11 +1061,11 @@ URL:https://www.doberlug-kirchhain.de/veranstaltungen/2990494/2026/11/07/
 END:VEVENT
 BEGIN:VEVENT
 UID:2985875@amtsfeed.de
-DTSTAMP:20261028T094415Z
+DTSTAMP:20261105T110056Z
 DTSTART:20261108T100000Z
-SUMMARY:40.Forstlauf
+SUMMARY:40. Forstlauf
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2985875/2026/11/08/
- 40.forstlauf
+ 40.-forstlauf
 END:VEVENT
 BEGIN:VEVENT
 UID:2976111@amtsfeed.de
@@ -1425,6 +1425,15 @@ URL:https://www.doberlug-kirchhain.de/veranstaltungen/2960841/2027/06/09/
  fuehrung-mit-kammerzofe-annette
 END:VEVENT
 BEGIN:VEVENT
+UID:2959923@amtsfeed.de
+DTSTAMP:20261105T110056Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:ALIVE- Benefizkonzert für die Kinder Doberlug-Kirchhains
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2959923/2027/06/12/
+ alive-benefizkonzert-fuer-die-kinder-doberlug-kirchhains
+END:VEVENT
+BEGIN:VEVENT
 UID:2960850@amtsfeed.de
 DTSTAMP:20261028T094415Z
 DTSTART;VALUE=DATE:20270618
@@ -1441,15 +1450,6 @@ DTEND;VALUE=DATE:20270626
 SUMMARY:Sommertheater AG Historische Stadtkerne
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2960863/2027/06/25/
  sommertheater-ag-historische-stadtkerne
-END:VEVENT
-BEGIN:VEVENT
-UID:2959923@amtsfeed.de
-DTSTAMP:20261028T094415Z
-DTSTART;VALUE=DATE:20270626
-DTEND;VALUE=DATE:20270627
-SUMMARY:ALIVE- Benefizkonzert für die Kinder Doberlug-Kirchhains
-URL:https://www.doberlug-kirchhain.de/veranstaltungen/2959923/2027/06/26/
- alive-benefizkonzert-fuer-die-kinder-doberlug-kirchhains
 END:VEVENT
 BEGIN:VEVENT
 UID:2960867@amtsfeed.de
@@ -1515,6 +1515,15 @@ SUMMARY:Schlössernacht in Kooperation mit Schloss Förderverein\, Naturp
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2960874/2027/09/11/
  schloessernacht-in-kooperation-mit-schloss-foerderverein-naturpark-schlos
  s-doberlug
+END:VEVENT
+BEGIN:VEVENT
+UID:2998510@amtsfeed.de
+DTSTAMP:20261105T110056Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:43. Dressur- und Springturnier in Werenzhain
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/2998510/2027/09/11/
+ 43.-dressur-und-springturnier-in-werenzhain
 END:VEVENT
 BEGIN:VEVENT
 UID:2960879@amtsfeed.de

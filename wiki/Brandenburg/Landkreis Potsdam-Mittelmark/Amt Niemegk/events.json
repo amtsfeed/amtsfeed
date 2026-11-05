@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:05:55.609Z",
+  "updatedAt": "2026-11-05T11:07:48.931Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -589,13 +589,13 @@
     },
     {
       "id": "amt-niemegk-event-2026-11-05-2026-11-05",
-      "title": "Bewegter Morgen",
-      "url": "https://amt-niemegk.de/events/bewegter-morgen/?occurrence=2026-11-05&#038;time=1793869200",
-      "startDate": "2026-11-05T09:00:00.000Z",
-      "endDate": "2026-11-05T10:30:00.000Z",
+      "title": "Wollcafé mit Mara Kroll",
+      "url": "https://amt-niemegk.de/events/wollcafe-mit-mara-kroll-877-973-841-746-546-951-206-349-925-567/?occurrence=2026-11-05&#038;time=1793894400",
+      "startDate": "2026-11-05T16:00:00.000Z",
+      "endDate": "2026-11-05T18:00:00.000Z",
       "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-11-02T11:20:58.075Z",
-      "updatedAt": "2026-11-02T11:21:03.319Z"
+      "updatedAt": "2026-11-05T11:07:48.927Z"
     },
     {
       "id": "amt-niemegk-event-2026-11-07-2026-11-07",
@@ -626,6 +626,26 @@
       "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-11-04T11:05:50.046Z",
       "updatedAt": "2026-11-04T11:05:55.606Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-10-2026-11-10",
+      "title": "Eltern- Kind- Turnen mit Daniela",
+      "url": "https://amt-niemegk.de/events/eltern-kind-turnen-mit-daniela-563-202-372-874-338-364-354-319-353-215/?occurrence=2026-11-10&#038;time=1794324600",
+      "startDate": "2026-11-10T15:30:00.000Z",
+      "endDate": "2026-11-10T16:30:00.000Z",
+      "location": "Turnhalle Niemegk",
+      "fetchedAt": "2026-11-05T11:07:43.646Z",
+      "updatedAt": "2026-11-05T11:07:48.927Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-11-2026-11-11",
+      "title": "Entdeckungsraum mit Anita",
+      "url": "https://amt-niemegk.de/events/entdeckungsraum-mit-anita-und-daniela-2-138-336-851-428-980-903-718-896-424-566-392/?occurrence=2026-11-11&#038;time=1794389400",
+      "startDate": "2026-11-11T09:30:00.000Z",
+      "endDate": "2026-11-11T11:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-11-05T11:07:43.646Z",
+      "updatedAt": "2026-11-05T11:07:48.927Z"
     }
   ]
 }

@@ -326,15 +326,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2991786/2026/10/28/laterne
  nbasteln
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124475@amtsfeed.de
-DTSTAMP:20261028T094944Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
-URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/11/03/chorpro
- be-mit-dem-stadtchor-lauchhammer
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124494@amtsfeed.de
 DTSTAMP:20261030T101035Z
 DTSTART;VALUE=DATE:20261105
@@ -425,6 +416,15 @@ DTEND;VALUE=DATE:20261110
 SUMMARY:Treffpunkt Bürgertheater
 URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/09/treffpu
  nkt-buergertheater
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124475@amtsfeed.de
+DTSTAMP:20261105T110612Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
+URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/11/10/chorpro
+ be-mit-dem-stadtchor-lauchhammer
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2944155@amtsfeed.de

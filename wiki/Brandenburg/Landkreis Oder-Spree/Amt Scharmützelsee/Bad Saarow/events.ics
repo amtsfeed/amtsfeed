@@ -1124,15 +1124,6 @@ URL:https://www.scharmuetzelsee.de/event/seniorenkino-im-cinema-bad-saaro
  w
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261103T110147Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
- ad-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-unruhestand-kabarett-am-nachmittag-dumm-gelaufen-sati
  re-fuer-politisch-inkorrekte-zeiten@amtsfeed.de
 DTSTAMP:20261017T075557Z
@@ -1154,17 +1145,6 @@ URL:https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbei
  tsnachmittage-mit-sylvia-musick
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
- enkmal-bunkeranlage-fuchsbau@amtsfeed.de
-DTSTAMP:20261101T103750Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
- nkeranlage Fuchsbau“
-URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
- nker-im-technischen-denkmal-bunkeranlage-fuchsbau
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ausverkauft-workshop-im-naturpark-das-1-x-1-des-filze
  ns@amtsfeed.de
 DTSTAMP:20261102T112006Z
@@ -1173,6 +1153,15 @@ DTEND;VALUE=DATE:20261105
 SUMMARY:ausverkauft - -Workshop im Naturpark: "Das 1 x 1 des Filzens"
 URL:https://www.scharmuetzelsee.de/event/ausverkauft-workshop-im-naturpar
  k-das-1-x-1-des-filzens
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261105T110644Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-zur-kaffeezeit-im-scharwenka-kulturforum@amtsfeed.de
@@ -1221,6 +1210,17 @@ SUMMARY:Du und Dein Garten im Naturpark: "Obstbaumschnitt an Jungbäumen"
  - Theorieseminar
 URL:https://www.scharmuetzelsee.de/event/du-und-dein-garten-im-naturpark-
  obstbaumschnitt-an-jungbaeumen-theorieseminar
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
+ enkmal-bunkeranlage-fuchsbau@amtsfeed.de
+DTSTAMP:20261105T110644Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
+ nkeranlage Fuchsbau“
+URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
+ nker-im-technischen-denkmal-bunkeranlage-fuchsbau
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alt

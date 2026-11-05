@@ -796,6 +796,15 @@ URL:https://www.glienicke.eu/veranstaltungen/904005728-22451.html
 LOCATION:Vereinszimmer Dreifeldhalle
 END:VEVENT
 BEGIN:VEVENT
+UID:glienicke-event-904005977@amtsfeed.de
+DTSTAMP:20261105T110510Z
+DTSTART:20261111T160000Z
+SUMMARY:Martinsumzug mit der Freiwilligen Feuerwehr
+URL:https://www.glienicke.eu/veranstaltungen/904005977-22451.html
+LOCATION:Freiwillige Feuerwehr\, Hattwichstraße 15\, 16548 Glienicke-Nor
+ dbahn
+END:VEVENT
+BEGIN:VEVENT
 UID:glienicke-event-904005727@amtsfeed.de
 DTSTAMP:20260506T180808Z
 DTSTART:20261111T173000Z
@@ -858,6 +867,23 @@ DTSTART:20261124T173000Z
 SUMMARY:25. Sitzung der Gemeindevertretung Glienicke/Nordbahn (HH)
 URL:https://www.glienicke.eu/veranstaltungen/904005729-22451.html
 LOCATION:Mensa
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005978@amtsfeed.de
+DTSTAMP:20261105T110510Z
+DTSTART:20261125T140000Z
+SUMMARY:Lesung zum Start der Orange Days
+URL:https://www.glienicke.eu/veranstaltungen/904005978-22451.html
+LOCATION:Bürgerhaus\, Moskauer Straße 20\, 16548 Glienicke-Nordbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:glienicke-event-904005979@amtsfeed.de
+DTSTAMP:20261105T110510Z
+DTSTART:20261125T170000Z
+SUMMARY:Podiumsdiskussion in Gedenken an Michael Bittner
+URL:https://www.glienicke.eu/veranstaltungen/904005979-22451.html
+LOCATION:Neues Gymnasium Glienicke\, Schönfließer Straße 16-24\, 16548
+  Glienicke/Nordbahn
 END:VEVENT
 BEGIN:VEVENT
 UID:glienicke-event-904005961@amtsfeed.de

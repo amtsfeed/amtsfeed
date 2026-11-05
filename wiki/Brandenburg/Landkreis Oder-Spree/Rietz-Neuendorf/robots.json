@@ -2,7 +2,7 @@
   {
     "domain": "www.rietz-neuendorf.de",
     "baseUrl": "https://www.rietz-neuendorf.de",
-    "updatedAt": "2026-11-04T11:05:28.668Z",
+    "updatedAt": "2026-11-05T11:07:20.022Z",
     "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /suche.phtml\nDisallow: /suchen.phtml\nDisallow: /redirect.phtml\n\nSitemap: https://www.rietz-neuendorf.de/sitemap.xml"
   }
 ]

@@ -1226,27 +1226,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2996291/2026/11/03/21.-weihn
 LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
-UID:2486339@amtsfeed.de
-DTSTAMP:20261029T100634Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Sport für Senioren in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/04/sport-fue
- r-senioren-in-podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464908@amtsfeed.de
-DTSTAMP:20261029T100634Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Fleischerwagen Fleischerei Höhne
-URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/04/fleischer
- wagen-fleischerei-hoehne
-DESCRIPTION:am Dorfteich Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2846367@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261104
@@ -1444,6 +1423,27 @@ SUMMARY:Fahrt zur Therme
 URL:https://www.amt-lebus.de/veranstaltungen/2904734/2026/11/10/fahrt-zur
  -therme
 LOCATION:Treffpunkt : Postkasten Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2486339@amtsfeed.de
+DTSTAMP:20261105T110415Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Sport für Senioren in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/11/sport-fue
+ r-senioren-in-podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464908@amtsfeed.de
+DTSTAMP:20261105T110415Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Fleischerwagen Fleischerei Höhne
+URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/11/fleischer
+ wagen-fleischerei-hoehne
+DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2873357@amtsfeed.de

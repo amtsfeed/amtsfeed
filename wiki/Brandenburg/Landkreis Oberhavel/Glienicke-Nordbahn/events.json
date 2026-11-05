@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:03:46.661Z",
+  "updatedAt": "2026-11-05T11:05:10.865Z",
   "items": [
     {
       "id": "glienicke-event-904005818",
@@ -833,6 +833,15 @@
       "updatedAt": "2026-10-31T09:46:01.284Z"
     },
     {
+      "id": "glienicke-event-904005977",
+      "title": "Martinsumzug mit der Freiwilligen Feuerwehr",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005977-22451.html",
+      "startDate": "2026-11-11T16:00:00Z",
+      "location": "Freiwillige Feuerwehr, Hattwichstraße 15, 16548 Glienicke-Nordbahn",
+      "fetchedAt": "2026-11-05T11:05:10.872Z",
+      "updatedAt": "2026-11-05T11:05:10.872Z"
+    },
+    {
       "id": "glienicke-event-904005727",
       "title": "15. Sitzung des Ausschusses für Technische Infrastruktur und Gewerbe",
       "url": "https://www.glienicke.eu/veranstaltungen/904005727-22451.html",
@@ -897,6 +906,24 @@
       "location": "Mensa",
       "fetchedAt": "2026-05-06T18:08:08.338Z",
       "updatedAt": "2026-10-30T10:09:45.970Z"
+    },
+    {
+      "id": "glienicke-event-904005978",
+      "title": "Lesung zum Start der Orange Days",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005978-22451.html",
+      "startDate": "2026-11-25T14:00:00Z",
+      "location": "Bürgerhaus, Moskauer Straße 20, 16548 Glienicke-Nordbahn",
+      "fetchedAt": "2026-11-05T11:05:10.872Z",
+      "updatedAt": "2026-11-05T11:05:10.872Z"
+    },
+    {
+      "id": "glienicke-event-904005979",
+      "title": "Podiumsdiskussion in Gedenken an Michael Bittner",
+      "url": "https://www.glienicke.eu/veranstaltungen/904005979-22451.html",
+      "startDate": "2026-11-25T17:00:00Z",
+      "location": "Neues Gymnasium Glienicke, Schönfließer Straße 16-24, 16548 Glienicke/Nordbahn",
+      "fetchedAt": "2026-11-05T11:05:10.872Z",
+      "updatedAt": "2026-11-05T11:05:10.872Z"
     },
     {
       "id": "glienicke-event-904005961",

@@ -680,15 +680,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2994866/2026/11/03/sprac
  hcafè
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2830505@amtsfeed.de
-DTSTAMP:20261028T094942Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Orientalischer Kochkurs
-URL:https://www.grossraeschen.de/veranstaltungen/2830505/2026/11/04/orien
- talischer-kochkurs
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2957487@amtsfeed.de
 DTSTAMP:20261028T094942Z
 DTSTART;VALUE=DATE:20261105
@@ -1080,6 +1071,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2791032/2026/12/01/kultu
  rcafé-im-quartierstreff
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2830505@amtsfeed.de
+DTSTAMP:20261105T110609Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Orientalischer Kochkurs
+URL:https://www.grossraeschen.de/veranstaltungen/2830505/2026/12/02/orien
+ talischer-kochkurs
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2957496@amtsfeed.de
 DTSTAMP:20261028T094942Z
 DTSTART;VALUE=DATE:20261203
@@ -1143,6 +1143,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2967822/2026/12/07/herzl
  iche-einladung-zum-mitbring-fruehstueck
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-2998310@amtsfeed.de
+DTSTAMP:20261105T110609Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Großräschener Seniorenweihnacht
+URL:https://www.grossraeschen.de/veranstaltungen/2998310/2026/12/08/gross
+ raeschener-seniorenweihnacht
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2885565@amtsfeed.de
 DTSTAMP:20261028T094942Z
 DTSTART;VALUE=DATE:20261209
@@ -1159,6 +1168,15 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:SoVD-Sozialmobil
 URL:https://www.grossraeschen.de/veranstaltungen/2932459/2026/12/09/sovd-
  sozialmobil
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2998314@amtsfeed.de
+DTSTAMP:20261105T110609Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Großräschener Seniorenweihnacht
+URL:https://www.grossraeschen.de/veranstaltungen/2998314/2026/12/09/gross
+ raeschener-seniorenweihnacht
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2981038@amtsfeed.de

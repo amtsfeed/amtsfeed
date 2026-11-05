@@ -8227,13 +8227,13 @@ LOCATION:Dörrwalde
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2983272-20261112@amtsfeed.de
-DTSTAMP:20261028T095001Z
+DTSTAMP:20261105T110636Z
 DTSTART:20261112T170000Z
 DTEND:20261112T180000Z
 SUMMARY:Bürgergespräche im Ortsteil Klettwitz
 URL:https://www.osl-online.de/veranstaltungen/2983272/2026/11/12/buergerg
  espraeche-im-ortsteil-klettwitz
-LOCATION:Kulturhaus Klettwitz
+LOCATION:Ortsfeuerwehr Klettwitz
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2914789-20261113@amtsfeed.de
@@ -9691,6 +9691,17 @@ URL:https://www.osl-online.de/veranstaltungen/2124466/2026/12/07/treffpun
 LOCATION:Mehrgenerationenhaus
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-2996594-20261207@amtsfeed.de
+DTSTAMP:20261105T110636Z
+DTSTART:20261207T170000Z
+DTEND:20261207T190000Z
+SUMMARY:Mitgliederversammlung KSB OSL e.V. + Jugendtag Kreissportjugend O
+ SL
+URL:https://www.osl-online.de/veranstaltungen/2996594/2026/12/07/mitglied
+ erversammlung-ksb-osl-e.v.--jugendtag-kreissportjugend-osl
+LOCATION:Kreissportbund OSL e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2290342-20261208@amtsfeed.de
 DTSTAMP:20261028T095001Z
 DTSTART:20261208T080000Z
@@ -9707,6 +9718,16 @@ SUMMARY:IHK-Sprechtag in Calau
 URL:https://www.osl-online.de/veranstaltungen/2024997/2026/12/08/ihk-spre
  chtag-in-calau
 LOCATION:Calauer Info - Punkt
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2998310-20261208@amtsfeed.de
+DTSTAMP:20261105T110636Z
+DTSTART:20261208T150000Z
+DTEND:20261208T190000Z
+SUMMARY:Großräschener Seniorenweihnacht
+URL:https://www.osl-online.de/veranstaltungen/2998310/2026/12/08/grossrae
+ schener-seniorenweihnacht
+LOCATION:Kurmärker Bürgerhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2124475-20261208@amtsfeed.de
@@ -9746,6 +9767,16 @@ SUMMARY:Offener Spieletreff
 URL:https://www.osl-online.de/veranstaltungen/2767838/2026/12/09/offener-
  spieletreff
 LOCATION:Museum Schloss und Festung Senftenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2998314-20261209@amtsfeed.de
+DTSTAMP:20261105T110636Z
+DTSTART:20261209T150000Z
+DTEND:20261209T190000Z
+SUMMARY:Großräschener Seniorenweihnacht
+URL:https://www.osl-online.de/veranstaltungen/2998314/2026/12/09/grossrae
+ schener-seniorenweihnacht
+LOCATION:Kurmärker Bürgerhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2885565-20261209@amtsfeed.de
@@ -14992,5 +15023,53 @@ SUMMARY:Calauer Museen öffnen
 URL:https://www.osl-online.de/veranstaltungen/2315266/2027/11/03/calauer-
  museen-oeffnen
 LOCATION:Haus der Heimatgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2290342-20271104@amtsfeed.de
+DTSTAMP:20261105T110636Z
+DTSTART:20271104T080000Z
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.osl-online.de/veranstaltungen/2290342/2027/11/04/calauer-
+ wochenmarkt
+LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2124494-20271104@amtsfeed.de
+DTSTAMP:20261105T110636Z
+DTSTART:20271104T100000Z
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.osl-online.de/veranstaltungen/2124494/2027/11/04/behinder
+ ten-und-seniorenberatung
+LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2918357-20271104@amtsfeed.de
+DTSTAMP:20261105T110636Z
+DTSTART:20271104T150000Z
+DTEND:20271104T170000Z
+SUMMARY:Gruppentreffen Selbsthilfegruppe Diabetes Lauchhammer
+URL:https://www.osl-online.de/veranstaltungen/2918357/2027/11/04/gruppent
+ reffen-selbsthilfegruppe-diabetes-lauchhammer
+LOCATION:REKOSI
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2922872-20271105@amtsfeed.de
+DTSTAMP:20261105T110636Z
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+SUMMARY:11. LausitzModellbau
+URL:https://www.osl-online.de/veranstaltungen/2922872/2027/11/05/11.-laus
+ itzmodellbau
+LOCATION:Lausitzer Modelleisenbahnverein e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2606463-20271105@amtsfeed.de
+DTSTAMP:20261105T110636Z
+DTSTART:20271105T090000Z
+DTEND:20271105T120000Z
+SUMMARY:Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau
+URL:https://www.osl-online.de/veranstaltungen/2606463/2027/11/05/barriere
+ freie-buergersprechstunde-des-einwohnermeldeamtes-calau
+LOCATION:Familienzentrum Kleeblatt
 END:VEVENT
 END:VCALENDAR

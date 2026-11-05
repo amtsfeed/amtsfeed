@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T11:03:36.465Z",
+  "updatedAt": "2026-11-05T11:08:46.641Z",
   "items": [
     {
       "id": "wiesenburg-mark-event-2895955",
@@ -978,54 +978,6 @@
       "updatedAt": "2026-10-28T09:51:55.363Z"
     },
     {
-      "id": "wiesenburg-mark-event-2424330",
-      "title": "Offener Jugendraum \"WiBu\" - begleitet von Franziska Kottwitz",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/11/03/offener-jugendraum-wibu-begleitet-von-franziska-kottwitz",
-      "startDate": "2026-11-03T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-10-29T10:10:55.241Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2384481",
-      "title": "Krabbelgruppe - für Eltern mit Babys ab 3 Monaten",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2384481/2026/11/03/krabbelgruppe-fuer-eltern-mit-babys-ab-3-monaten",
-      "startDate": "2026-11-03T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-10-28T09:51:55.363Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2889794",
-      "title": "Breakdance-Kurs für Kids (7 - 12 J.)",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2889794/2026/11/03/breakdance-kurs-fuer-kids-7-12-j",
-      "startDate": "2026-11-03T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-10-28T09:51:55.363Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2889798",
-      "title": "Breakdance-Kurs für Jugendliche (ab 13 J.)",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2889798/2026/11/03/breakdance-kurs-fuer-jugendliche-ab-13-j",
-      "startDate": "2026-11-03T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-10-28T09:51:55.363Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2842616",
-      "title": "CODER DOJO - Programmierwerkstatt",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/11/04/coder-dojo-programmierwerkstatt",
-      "startDate": "2026-11-04T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-10-29T10:10:55.241Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2907840",
-      "title": "DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/11/04/drk-spielrunde-kaffee-und-kartenspiel-fuer-senior-innen",
-      "startDate": "2026-11-04T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T13:17:27.492Z",
-      "updatedAt": "2026-10-29T10:10:55.241Z"
-    },
-    {
       "id": "wiesenburg-mark-event-2928863",
       "title": "Seminar \" Hilfe beim Helfen\" für Angehörige von Menschen mit Demenz - Vorsorge treffen",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2928863/2026/11/04/seminar-hilfe-beim-helfen-fuer-angehoerige-von-menschen-mit-demenz-vorsorge-treffen",
@@ -1152,6 +1104,54 @@
       "startDate": "2026-11-09T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:41.385Z",
       "updatedAt": "2026-11-03T11:03:36.452Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2424330",
+      "title": "Offener Jugendraum \"WiBu\" - begleitet von Franziska Kottwitz",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/11/10/offener-jugendraum-wibu-begleitet-von-franziska-kottwitz",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-11-05T11:08:46.632Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2384481",
+      "title": "Krabbelgruppe - für Eltern mit Babys ab 3 Monaten",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2384481/2026/11/10/krabbelgruppe-fuer-eltern-mit-babys-ab-3-monaten",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-11-05T11:08:46.632Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2889794",
+      "title": "Breakdance-Kurs für Kids (7 - 12 J.)",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2889794/2026/11/10/breakdance-kurs-fuer-kids-7-12-j",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-11-05T11:08:46.632Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2889798",
+      "title": "Breakdance-Kurs für Jugendliche (ab 13 J.)",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2889798/2026/11/10/breakdance-kurs-fuer-jugendliche-ab-13-j",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-11-05T11:08:46.632Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2842616",
+      "title": "CODER DOJO - Programmierwerkstatt",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/11/11/coder-dojo-programmierwerkstatt",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-11-05T11:08:46.632Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2907840",
+      "title": "DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/11/11/drk-spielrunde-kaffee-und-kartenspiel-fuer-senior-innen",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:27.492Z",
+      "updatedAt": "2026-11-05T11:08:46.632Z"
     },
     {
       "id": "wiesenburg-mark-event-2928864",
@@ -1312,6 +1312,14 @@
       "startDate": "2026-12-04T00:00:00.000Z",
       "fetchedAt": "2026-10-20T08:43:33.156Z",
       "updatedAt": "2026-10-28T09:51:55.363Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2996694",
+      "title": "Görzker Weihnachtsmarkt",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2996694/2026/12/05/goerzker-weihnachtsmarkt",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "fetchedAt": "2026-11-05T11:08:46.632Z",
+      "updatedAt": "2026-11-05T11:08:46.632Z"
     },
     {
       "id": "wiesenburg-mark-event-2928758",

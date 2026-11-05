@@ -855,4 +855,14 @@ SUMMARY:Offene Sonnabende des Geschichtskreises
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  offene-sonnabende-des-geschichtskreises-12
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-nussfest-des-landfrauenverein-stolpe@amtsfeed.d
+ e
+DTSTAMP:20261105T110529Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Nußfest des Landfrauenverein Stolpe
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ nussfest-des-landfrauenverein-stolpe
+END:VEVENT
 END:VCALENDAR

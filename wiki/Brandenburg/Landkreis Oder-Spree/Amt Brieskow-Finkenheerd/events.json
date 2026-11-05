@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:50:03.109Z",
+  "updatedAt": "2026-11-05T11:06:39.440Z",
   "items": [
     {
       "id": "brieskow-finkenheerd-event-2806433",
@@ -173,6 +173,15 @@
       "updatedAt": "2026-10-28T09:50:03.099Z"
     },
     {
+      "id": "brieskow-finkenheerd-event-2998228",
+      "title": "Brauchtumsfeuer an der Feuerwehr Wiesenau",
+      "url": "https://www.amt-b-f.de/veranstaltungen/2998228/2027/01/16/brauchtumsfeuer-an-der-feuerwehr-wiesenau",
+      "startDate": "2027-01-16T00:00:00.000Z",
+      "location": "Brauchtumsfeuer an der Feuerwehr Wiesenau",
+      "fetchedAt": "2026-11-05T11:06:39.431Z",
+      "updatedAt": "2026-11-05T11:06:39.431Z"
+    },
+    {
       "id": "brieskow-finkenheerd-event-2847846",
       "title": "Lindenblütenfest",
       "url": "https://www.amt-b-f.de/veranstaltungen/2847846/2027/06/11/lindenbluetenfest",
@@ -180,6 +189,15 @@
       "location": "Gemeinde Groß Lindow",
       "fetchedAt": "2026-09-11T09:59:01.346Z",
       "updatedAt": "2026-10-28T09:50:03.099Z"
+    },
+    {
+      "id": "brieskow-finkenheerd-event-2998226",
+      "title": "Amtsausscheid FF Amt Brieskow-Finkenheerd zum 100jährigen Jubiläum der FF Wiesenau",
+      "url": "https://www.amt-b-f.de/veranstaltungen/2998226/2027/06/19/amtsausscheid-ff-amt-brieskow-finkenheerd-zum-100jaehrigen-jubilaeum-der-ff-wiesenau",
+      "startDate": "2027-06-19T00:00:00.000Z",
+      "location": "Amtsausscheid FF Amt Brieskow-Finkenheerd zum 100jährigen Jubiläum der FF Wiesenau",
+      "fetchedAt": "2026-11-05T11:06:39.431Z",
+      "updatedAt": "2026-11-05T11:06:39.431Z"
     }
   ]
 }

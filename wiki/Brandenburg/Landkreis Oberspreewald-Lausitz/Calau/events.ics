@@ -1196,15 +1196,6 @@ URL:https://www.calau.de/veranstaltungen/2877063/2026/10/31/halloweenumzu
  g
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20261031T094642Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:04.11.2026   Calauer Museen öffnen
-URL:https://www.calau.de/veranstaltungen/2315266/2026/11/04/calauer-musee
- n-oeffnen
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2290342@amtsfeed.de
 DTSTAMP:20261104T110431Z
 DTSTART;VALUE=DATE:20261105
@@ -1244,10 +1235,10 @@ URL:https://www.calau.de/veranstaltungen/2606463/2026/11/06/barrierefreie
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877065@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261105T110607Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Spieleabend
+SUMMARY:06.11.2026   Spieleabend
 URL:https://www.calau.de/veranstaltungen/2877065/2026/11/06/spieleabend
 END:VEVENT
 BEGIN:VEVENT
@@ -1267,6 +1258,15 @@ DTEND;VALUE=DATE:20261111
 SUMMARY:IHK-Sprechtag in Calau
 URL:https://www.calau.de/veranstaltungen/2024997/2026/11/10/ihk-sprechtag
  -in-calau
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2315266@amtsfeed.de
+DTSTAMP:20261105T110607Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Calauer Museen öffnen
+URL:https://www.calau.de/veranstaltungen/2315266/2026/11/11/calauer-musee
+ n-oeffnen
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2947235@amtsfeed.de

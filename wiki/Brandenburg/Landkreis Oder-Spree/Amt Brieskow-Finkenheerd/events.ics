@@ -197,6 +197,16 @@ URL:https://www.amt-b-f.de/veranstaltungen/2808014/2026/12/12/weihnachtsm
 LOCATION:Gemeinde Brieskow-Finkenheerd
 END:VEVENT
 BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2998228@amtsfeed.de
+DTSTAMP:20261105T110639Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Brauchtumsfeuer an der Feuerwehr Wiesenau
+URL:https://www.amt-b-f.de/veranstaltungen/2998228/2027/01/16/brauchtumsf
+ euer-an-der-feuerwehr-wiesenau
+LOCATION:Brauchtumsfeuer an der Feuerwehr Wiesenau
+END:VEVENT
+BEGIN:VEVENT
 UID:brieskow-finkenheerd-event-2847846@amtsfeed.de
 DTSTAMP:20261028T095003Z
 DTSTART;VALUE=DATE:20270611
@@ -205,5 +215,17 @@ SUMMARY:Lindenblütenfest
 URL:https://www.amt-b-f.de/veranstaltungen/2847846/2027/06/11/lindenbluet
  enfest
 LOCATION:Gemeinde Groß Lindow
+END:VEVENT
+BEGIN:VEVENT
+UID:brieskow-finkenheerd-event-2998226@amtsfeed.de
+DTSTAMP:20261105T110639Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Amtsausscheid FF Amt Brieskow-Finkenheerd zum 100jährigen Jubil
+ äum der FF Wiesenau
+URL:https://www.amt-b-f.de/veranstaltungen/2998226/2027/06/19/amtsaussche
+ id-ff-amt-brieskow-finkenheerd-zum-100jaehrigen-jubilaeum-der-ff-wiesenau
+LOCATION:Amtsausscheid FF Amt Brieskow-Finkenheerd zum 100jährigen Jubil
+ äum der FF Wiesenau
 END:VEVENT
 END:VCALENDAR

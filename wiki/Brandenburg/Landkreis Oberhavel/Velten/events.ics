@@ -1227,6 +1227,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ausste
  11&amp\;FID=3631.1154.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1258@amtsfeed.de
+DTSTAMP:20261105T110551Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:HB zum 119. Geburtstag
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/HB-zum
+ -119-Geburtstag.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1258.
+ 1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-882@amtsfeed.de
 DTSTAMP:20261022T084510Z
 DTSTART;VALUE=DATE:20261117
@@ -1279,6 +1289,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Umsetz
  ung-B%C3%BCrgerhaushalt-Disco-f%C3%BCr-Kinder-und-Jugendliche.php?object=
  tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1054.1&amp\;NavID=3631.15&amp\;s
  freg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1257@amtsfeed.de
+DTSTAMP:20261105T110551Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Leave Reality
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Leave-
+ Reality.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1257.1&amp\;N
+ avID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
 UID:velten-event-1171@amtsfeed.de

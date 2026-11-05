@@ -1637,15 +1637,6 @@ URL:https://www.teltow.de/veranstaltungen/2973544/2026/11/03/der-kleine-d
  rache-kokosnuss-die-mutprobe
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930017@amtsfeed.de
-DTSTAMP:20261028T095147Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
-URL:https://www.teltow.de/veranstaltungen/2930017/2026/11/04/offener-lern
- raum-lesen-schreiben-rechnen-basis-englisch
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2972206@amtsfeed.de
 DTSTAMP:20261028T095147Z
 DTSTART;VALUE=DATE:20261104
@@ -1740,6 +1731,15 @@ DTEND;VALUE=DATE:20261111
 SUMMARY:Glasfasertechnologie
 URL:https://www.teltow.de/veranstaltungen/2972997/2026/11/10/glasfasertec
  hnologie
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930017@amtsfeed.de
+DTSTAMP:20261105T110835Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
+URL:https://www.teltow.de/veranstaltungen/2930017/2026/11/11/offener-lern
+ raum-lesen-schreiben-rechnen-basis-englisch
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972226@amtsfeed.de
@@ -1839,6 +1839,15 @@ DTEND;VALUE=DATE:20261116
 SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
 URL:https://www.teltow.de/veranstaltungen/2972978/2026/11/15/das-heimatmu
  seum-im-aeltesten-haus-teltows-ist-geoeffnet
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2998327@amtsfeed.de
+DTSTAMP:20261105T110835Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:„Drei Bäume für die Deutsche Einheit“
+URL:https://www.teltow.de/veranstaltungen/2998327/2026/11/15/drei-baeume-
+ fuer-die-deutsche-einheit
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972236@amtsfeed.de

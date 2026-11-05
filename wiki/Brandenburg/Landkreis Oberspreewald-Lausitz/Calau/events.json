@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:04:31.778Z",
+  "updatedAt": "2026-11-05T11:06:07.473Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -1058,14 +1058,6 @@
       "updatedAt": "2026-10-31T09:46:42.682Z"
     },
     {
-      "id": "calau-event-2315266",
-      "title": "04.11.2026   Calauer Museen öffnen",
-      "url": "https://www.calau.de/veranstaltungen/2315266/2026/11/04/calauer-museen-oeffnen",
-      "startDate": "2026-11-04T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-31T09:46:42.682Z"
-    },
-    {
       "id": "calau-event-2290342",
       "title": "05.11.2026   Calauer Wochenmarkt",
       "url": "https://www.calau.de/veranstaltungen/2290342/2026/11/05/calauer-wochenmarkt",
@@ -1099,11 +1091,11 @@
     },
     {
       "id": "calau-event-2877065",
-      "title": "Spieleabend",
+      "title": "06.11.2026   Spieleabend",
       "url": "https://www.calau.de/veranstaltungen/2877065/2026/11/06/spieleabend",
       "startDate": "2026-11-06T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-28T09:49:41.065Z"
+      "updatedAt": "2026-11-05T11:06:07.465Z"
     },
     {
       "id": "calau-event-2898941",
@@ -1120,6 +1112,14 @@
       "startDate": "2026-11-10T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
       "updatedAt": "2026-10-28T09:49:41.065Z"
+    },
+    {
+      "id": "calau-event-2315266",
+      "title": "Calauer Museen öffnen",
+      "url": "https://www.calau.de/veranstaltungen/2315266/2026/11/11/calauer-museen-oeffnen",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-11-05T11:06:07.465Z"
     },
     {
       "id": "calau-event-2947235",

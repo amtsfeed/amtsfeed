@@ -6515,8 +6515,8 @@ LOCATION:Scala-Kulturpalast
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233867@amtsfeed.de
-DTSTAMP:20261104T110642Z
-DTSTART:20261104T110642Z
+DTSTAMP:20261105T110844Z
+DTSTART:20261105T110844Z
 SUMMARY:Ausstellung Jüdische Schicksale
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233867
@@ -6524,8 +6524,8 @@ LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99231567@amtsfeed.de
-DTSTAMP:20261104T110642Z
-DTSTART:20261104T110642Z
+DTSTAMP:20261105T110844Z
+DTSTART:20261105T110844Z
 SUMMARY:Luz y Música - Violinenmusik mit Silva von Büllov
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99231567
@@ -6533,8 +6533,8 @@ LOCATION:Havel-Therme
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99227718@amtsfeed.de
-DTSTAMP:20261104T110642Z
-DTSTART:20261104T110642Z
+DTSTAMP:20261105T110844Z
+DTSTART:20261105T110844Z
 SUMMARY:Concert Crossover
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99227718
@@ -6542,12 +6542,21 @@ LOCATION:Kaffee Kontor Werder
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233868@amtsfeed.de
-DTSTAMP:20261028T095153Z
-DTSTART:20261106T080000Z
+DTSTAMP:20261105T110844Z
+DTSTART:20261105T110844Z
 SUMMARY:Ausstellung Jüdische Schicksale
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233868
 LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99209766@amtsfeed.de
+DTSTAMP:20261105T110844Z
+DTSTART:20261105T110844Z
+SUMMARY:Kriminal Dinner - Kreuzfahrt ins Grab
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99209766
+LOCATION:Restaurant Filterhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99141586@amtsfeed.de
@@ -6557,15 +6566,6 @@ SUMMARY:Petzow Village Club
 URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
  alender.html?eventid=99141586
 LOCATION:Schlossgarten Petzow
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99209766@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261106T183000Z
-SUMMARY:Kriminal Dinner - Kreuzfahrt ins Grab
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99209766
-LOCATION:Restaurant Filterhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233869@amtsfeed.de
@@ -7273,6 +7273,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Katholische Kirche Maria Meeresstern
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99234799@amtsfeed.de
+DTSTAMP:20261105T110844Z
+DTSTART:20261129T160000Z
+SUMMARY:Benefizkonzert des Stabsmusikkorps der Bundeswehr
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99234799
+LOCATION:Katholische Kirche Maria Meeresstern
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99233892@amtsfeed.de
 DTSTAMP:20261028T095153Z
 DTSTART:20261130T080000Z
@@ -7418,6 +7427,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Katholische Kirche Maria Meeresstern
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99234800@amtsfeed.de
+DTSTAMP:20261105T110844Z
+DTSTART:20261206T150000Z
+SUMMARY:Adventskonzert des Gemischten Chors Glindow
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99234800
+LOCATION:Katholische Kirche Maria Meeresstern
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99228353@amtsfeed.de
 DTSTAMP:20261007T103009Z
 DTSTART:20261206T160000Z
@@ -7445,6 +7463,16 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Insel Werder H.
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99234804@amtsfeed.de
+DTSTAMP:20261105T110844Z
+DTSTART:20261211T190000Z
+SUMMARY:Ankunft - Hörspielkonzert mit Berlin Vokal und Kreativadventsmar
+ kt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99234804
+LOCATION:Katholische Kirche Maria Meeresstern
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99116401@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261212T130000Z
@@ -7452,6 +7480,15 @@ SUMMARY:Weihnachtsfeier & Markt auf dem Reiterhof Leest
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99116401
 LOCATION:Pferdesportverein Töplitz e.V. - Reiterhof Leest
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99234775@amtsfeed.de
+DTSTAMP:20261105T110844Z
+DTSTART:20261212T180000Z
+SUMMARY:Friendsmas Dinner and Dance
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99234775
+LOCATION:Restaurant Filterhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99228350@amtsfeed.de
@@ -7490,6 +7527,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Theater Comedie Soleil
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99234803@amtsfeed.de
+DTSTAMP:20261105T110844Z
+DTSTART:20261213T160000Z
+SUMMARY:Ein Leuchten durch die Herzen geht - Weihnacht international
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99234803
+LOCATION:Katholische Kirche Maria Meeresstern
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99221846@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261219T090000Z
@@ -7517,6 +7563,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Werderaner Wachtelberg
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99234801@amtsfeed.de
+DTSTAMP:20261105T110844Z
+DTSTART:20261220T150000Z
+SUMMARY:Adventskonzert der Voices of Werder
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99234801
+LOCATION:Katholische Kirche Maria Meeresstern
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99228355@amtsfeed.de
 DTSTAMP:20261007T103009Z
 DTSTART:20261220T160000Z
@@ -7524,6 +7579,15 @@ SUMMARY:Charles Dickens' Weihnachtsgeschichte
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99228355
 LOCATION:Theater Comedie Soleil
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99234776@amtsfeed.de
+DTSTAMP:20261105T110844Z
+DTSTART:20261226T120000Z
+SUMMARY:Weinachtsessen
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99234776
+LOCATION:Restaurant Filterhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99224075@amtsfeed.de
@@ -7686,5 +7750,14 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99224131
 LOCATION:Höfe und Gärten (durchgehend) + Innenstadt Werder H. (2. Woche
  nende)
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99234777@amtsfeed.de
+DTSTAMP:20261105T110844Z
+DTSTART:20270508T080000Z
+SUMMARY:XXXV. Töplitzer Insellauf
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99234777
+LOCATION:Sportplatz der SG Töplitz
 END:VEVENT
 END:VCALENDAR

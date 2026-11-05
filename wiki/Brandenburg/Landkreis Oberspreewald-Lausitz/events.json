@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T11:01:42.464Z",
+  "updatedAt": "2026-11-05T11:06:35.990Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -8013,9 +8013,9 @@
       "url": "https://www.osl-online.de/veranstaltungen/2983272/2026/11/12/buergergespraeche-im-ortsteil-klettwitz",
       "startDate": "2026-11-12T17:00:00.000Z",
       "endDate": "2026-11-12T18:00:00.000Z",
-      "location": "Kulturhaus Klettwitz",
+      "location": "Ortsfeuerwehr Klettwitz",
       "fetchedAt": "2026-10-12T11:07:01.816Z",
-      "updatedAt": "2026-10-28T09:50:01.013Z"
+      "updatedAt": "2026-11-05T11:06:36.023Z"
     },
     {
       "id": "lk-osl-event-2914789-20261113",
@@ -9431,6 +9431,16 @@
       "updatedAt": "2026-10-28T09:50:01.013Z"
     },
     {
+      "id": "lk-osl-event-2996594-20261207",
+      "title": "Mitgliederversammlung KSB OSL e.V. + Jugendtag Kreissportjugend OSL",
+      "url": "https://www.osl-online.de/veranstaltungen/2996594/2026/12/07/mitgliederversammlung-ksb-osl-e.v.--jugendtag-kreissportjugend-osl",
+      "startDate": "2026-12-07T17:00:00.000Z",
+      "endDate": "2026-12-07T19:00:00.000Z",
+      "location": "Kreissportbund OSL e.V.",
+      "fetchedAt": "2026-11-05T11:06:36.023Z",
+      "updatedAt": "2026-11-05T11:06:36.023Z"
+    },
+    {
       "id": "lk-osl-event-2290342-20261208",
       "title": "Calauer Wochenmarkt",
       "url": "https://www.osl-online.de/veranstaltungen/2290342/2026/12/08/calauer-wochenmarkt",
@@ -9447,6 +9457,16 @@
       "location": "Calauer Info - Punkt",
       "fetchedAt": "2026-05-31T17:24:18.676Z",
       "updatedAt": "2026-10-28T09:50:01.013Z"
+    },
+    {
+      "id": "lk-osl-event-2998310-20261208",
+      "title": "Großräschener Seniorenweihnacht",
+      "url": "https://www.osl-online.de/veranstaltungen/2998310/2026/12/08/grossraeschener-seniorenweihnacht",
+      "startDate": "2026-12-08T15:00:00.000Z",
+      "endDate": "2026-12-08T19:00:00.000Z",
+      "location": "Kurmärker Bürgerhaus",
+      "fetchedAt": "2026-11-05T11:06:36.023Z",
+      "updatedAt": "2026-11-05T11:06:36.023Z"
     },
     {
       "id": "lk-osl-event-2124475-20261208",
@@ -9486,6 +9506,16 @@
       "location": "Museum Schloss und Festung Senftenberg",
       "fetchedAt": "2026-05-31T17:24:18.676Z",
       "updatedAt": "2026-10-28T09:50:01.013Z"
+    },
+    {
+      "id": "lk-osl-event-2998314-20261209",
+      "title": "Großräschener Seniorenweihnacht",
+      "url": "https://www.osl-online.de/veranstaltungen/2998314/2026/12/09/grossraeschener-seniorenweihnacht",
+      "startDate": "2026-12-09T15:00:00.000Z",
+      "endDate": "2026-12-09T19:00:00.000Z",
+      "location": "Kurmärker Bürgerhaus",
+      "fetchedAt": "2026-11-05T11:06:36.023Z",
+      "updatedAt": "2026-11-05T11:06:36.023Z"
     },
     {
       "id": "lk-osl-event-2885565-20261209",
@@ -14635,6 +14665,53 @@
       "location": "Haus der Heimatgeschichte",
       "fetchedAt": "2026-11-03T11:01:42.515Z",
       "updatedAt": "2026-11-03T11:01:42.515Z"
+    },
+    {
+      "id": "lk-osl-event-2290342-20271104",
+      "title": "Calauer Wochenmarkt",
+      "url": "https://www.osl-online.de/veranstaltungen/2290342/2027/11/04/calauer-wochenmarkt",
+      "startDate": "2027-11-04T08:00:00.000Z",
+      "location": "Marktplatz Calau",
+      "fetchedAt": "2026-11-05T11:06:36.023Z",
+      "updatedAt": "2026-11-05T11:06:36.023Z"
+    },
+    {
+      "id": "lk-osl-event-2124494-20271104",
+      "title": "Behinderten- und Seniorenberatung",
+      "url": "https://www.osl-online.de/veranstaltungen/2124494/2027/11/04/behinderten-und-seniorenberatung",
+      "startDate": "2027-11-04T10:00:00.000Z",
+      "location": "Mehrgenerationenhaus",
+      "fetchedAt": "2026-11-05T11:06:36.023Z",
+      "updatedAt": "2026-11-05T11:06:36.023Z"
+    },
+    {
+      "id": "lk-osl-event-2918357-20271104",
+      "title": "Gruppentreffen Selbsthilfegruppe Diabetes Lauchhammer",
+      "url": "https://www.osl-online.de/veranstaltungen/2918357/2027/11/04/gruppentreffen-selbsthilfegruppe-diabetes-lauchhammer",
+      "startDate": "2027-11-04T15:00:00.000Z",
+      "endDate": "2027-11-04T17:00:00.000Z",
+      "location": "REKOSI",
+      "fetchedAt": "2026-11-05T11:06:36.023Z",
+      "updatedAt": "2026-11-05T11:06:36.023Z"
+    },
+    {
+      "id": "lk-osl-event-2922872-20271105",
+      "title": "11. LausitzModellbau",
+      "url": "https://www.osl-online.de/veranstaltungen/2922872/2027/11/05/11.-lausitzmodellbau",
+      "startDate": "2027-11-05T00:00:00.000Z",
+      "location": "Lausitzer Modelleisenbahnverein e.V.",
+      "fetchedAt": "2026-11-05T11:06:36.023Z",
+      "updatedAt": "2026-11-05T11:06:36.023Z"
+    },
+    {
+      "id": "lk-osl-event-2606463-20271105",
+      "title": "Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau",
+      "url": "https://www.osl-online.de/veranstaltungen/2606463/2027/11/05/barrierefreie-buergersprechstunde-des-einwohnermeldeamtes-calau",
+      "startDate": "2027-11-05T09:00:00.000Z",
+      "endDate": "2027-11-05T12:00:00.000Z",
+      "location": "Familienzentrum Kleeblatt",
+      "fetchedAt": "2026-11-05T11:06:36.023Z",
+      "updatedAt": "2026-11-05T11:06:36.023Z"
     }
   ]
 }

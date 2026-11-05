@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:03:02.827Z",
+  "updatedAt": "2026-11-05T11:04:15.209Z",
   "items": [
     {
       "id": "2846347",
@@ -1039,25 +1039,6 @@
       "updatedAt": "2026-11-03T10:59:45.483Z"
     },
     {
-      "id": "2486339",
-      "title": "Sport für Senioren in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/04/sport-fuer-senioren-in-podelzig",
-      "startDate": "2026-11-04T00:00:00.000Z",
-      "location": "Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-29T10:06:34.627Z"
-    },
-    {
-      "id": "2464908",
-      "title": "Fleischerwagen Fleischerei Höhne",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/04/fleischerwagen-fleischerei-hoehne",
-      "startDate": "2026-11-04T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "am Dorfteich Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-29T10:06:34.627Z"
-    },
-    {
       "id": "2846367",
       "title": "Bowling für Senioren",
       "url": "https://www.amt-lebus.de/veranstaltungen/2846367/2026/11/04/bowling-fuer-senioren",
@@ -1228,6 +1209,25 @@
       "location": "Treffpunkt : Postkasten Lebus",
       "fetchedAt": "2026-05-26T09:03:19.057Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "2486339",
+      "title": "Sport für Senioren in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/11/sport-fuer-senioren-in-podelzig",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-05T11:04:15.197Z"
+    },
+    {
+      "id": "2464908",
+      "title": "Fleischerwagen Fleischerei Höhne",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/11/fleischerwagen-fleischerei-hoehne",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "am Dorfteich Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-05T11:04:15.197Z"
     },
     {
       "id": "2873357",

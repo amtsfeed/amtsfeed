@@ -1141,33 +1141,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928863/2026/11/04/semi
  reffen
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2424341@amtsfeed.de
-DTSTAMP:20261030T101246Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/11/05/fami
- liensprechzeiten-elternberatung-im-familienzentrum
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907844@amtsfeed.de
-DTSTAMP:20261030T101246Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Migrationsberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/11/05/migr
- ationsberatung-im-familienzentrum
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907847@amtsfeed.de
-DTSTAMP:20261028T095155Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Spielrunde & Mittagessen für Senior:innen
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907847/2026/11/05/spie
- lrunde-mittagessen-fuer-senior-innen
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973366@amtsfeed.de
 DTSTAMP:20261028T095155Z
 DTSTART;VALUE=DATE:20261105
@@ -1343,6 +1316,24 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928864/2026/11/11/semi
  -teilen
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2424341@amtsfeed.de
+DTSTAMP:20261106T110352Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/11/12/fami
+ liensprechzeiten-elternberatung-im-familienzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907844@amtsfeed.de
+DTSTAMP:20261106T110352Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Migrationsberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/11/12/migr
+ ationsberatung-im-familienzentrum
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2810938@amtsfeed.de
 DTSTAMP:20261028T095155Z
 DTSTART;VALUE=DATE:20261114
@@ -1399,6 +1390,15 @@ DTEND;VALUE=DATE:20261119
 SUMMARY:"Goldgräberinnen"- vom Schätze bergen zum Neuausrichten
 URL:https://www.wiesenburgmark.de/veranstaltungen/2984643/2026/11/18/quot
  goldgraeberinnen-quot-vom-schaetze-bergen-zum-neuausrichten
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907847@amtsfeed.de
+DTSTAMP:20261106T110352Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Spielrunde & Mittagessen für Senior:innen
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907847/2026/11/19/spie
+ lrunde-mittagessen-fuer-senior-innen
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973367@amtsfeed.de

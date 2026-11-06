@@ -1979,6 +1979,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Havel Salon\, Milower Landstraße 7 Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1810-20261129@amtsfeed.de
+DTSTAMP:20261106T105915Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Märchenzauber in Steckelsdorf
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/maerchenzauber-in-steckelsdorf/
+LOCATION:Hauptstraße 47\, Steckelsdorf Innenhof der alten Schmiede
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1758-20261130@amtsfeed.de
 DTSTAMP:20261031T094332Z
 DTSTART;VALUE=DATE:20261130
@@ -2181,6 +2191,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Schwimmhalle Rathenow\, Bruno-Baum-Ring 106 \, 14712 Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1809-20270203@amtsfeed.de
+DTSTAMP:20261106T105915Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270206
+SUMMARY:WINTERCAMP-PREMIERE IN RATHENOW – 3 TAGE FUSSBALL PUR!
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/wintercamp-premiere-in-rathenow
+ -3-tage-fussball-pur/
+LOCATION:Havellandhalle Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1688-20270206@amtsfeed.de
 DTSTAMP:20260911T110748Z
 DTSTART;VALUE=DATE:20270206
@@ -2334,5 +2355,15 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/traumschueff-weitere-theatervor
  stellung-bei-hoher-nachfrage/
 LOCATION:Alter Hafen Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1811-20270925@amtsfeed.de
+DTSTAMP:20261106T105915Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270927
+SUMMARY:Schwedentage 2027
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/schwedentage-2027/
+LOCATION:Weinberg Rathenow
 END:VEVENT
 END:VCALENDAR

@@ -1196,15 +1196,6 @@ URL:https://www.calau.de/veranstaltungen/2877063/2026/10/31/halloweenumzu
  g
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261104T110431Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:05.11.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/11/05/calauer-woche
- nmarkt
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2960237@amtsfeed.de
 DTSTAMP:20261101T103708Z
 DTSTART;VALUE=DATE:20261105
@@ -1243,19 +1234,28 @@ URL:https://www.calau.de/veranstaltungen/2877065/2026/11/06/spieleabend
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2898941@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261106T110142Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:"Malen für die Seele" - offene Malgruppe
+SUMMARY:09.11.2026   "Malen für die Seele" - offene Malgruppe
 URL:https://www.calau.de/veranstaltungen/2898941/2026/11/09/malen-fuer-di
  e-seele-offene-malgruppe
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2024997@amtsfeed.de
-DTSTAMP:20261028T094941Z
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261106T110142Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:IHK-Sprechtag in Calau
+SUMMARY:10.11.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/11/10/calauer-woche
+ nmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2024997@amtsfeed.de
+DTSTAMP:20261106T110142Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:10.11.2026   IHK-Sprechtag in Calau
 URL:https://www.calau.de/veranstaltungen/2024997/2026/11/10/ihk-sprechtag
  -in-calau
 END:VEVENT
@@ -1303,6 +1303,16 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:VorLeseKuschelZeit: "Der Löwe in Dir"
 URL:https://www.calau.de/veranstaltungen/2951713/2026/11/12/vorlesekusche
  lzeit-der-loewe-in-dir
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2999545@amtsfeed.de
+DTSTAMP:20261106T110142Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Themenabend: "Stabil und energiereich durch die dunkle Jahreszeit
+ "
+URL:https://www.calau.de/veranstaltungen/2999545/2026/11/12/themenabend-s
+ tabil-und-energiereich-durch-die-dunkle-jahreszeit
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2858229@amtsfeed.de
@@ -1547,6 +1557,16 @@ DTEND;VALUE=DATE:20261204
 SUMMARY:Krabbelgruppe in der Kita Kunterbunt
 URL:https://www.calau.de/veranstaltungen/2960239/2026/12/03/krabbelgruppe
  -in-der-kita-kunterbunt
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2999553@amtsfeed.de
+DTSTAMP:20261106T110142Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Themenabend: "Weihnachten\, ich mag dich\, ich mag dich nicht&hel
+ lip\;"
+URL:https://www.calau.de/veranstaltungen/2999553/2026/12/03/themenabend-w
+ eihnachten-ich-mag-dich-ich-mag-dich-nicht
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2948040@amtsfeed.de

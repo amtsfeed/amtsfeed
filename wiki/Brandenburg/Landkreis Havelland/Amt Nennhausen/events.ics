@@ -862,6 +862,15 @@ URL:https://www.amt-nennhausen.de/veranstaltungen/2993997/2026/11/13/fack
  elumzug-in-stechow
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-nennhausen-event-2999226-20261114@amtsfeed.de
+DTSTAMP:20261106T105820Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Herbstfeuer in Buckow
+URL:https://www.amt-nennhausen.de/veranstaltungen/2999226/2026/11/14/herb
+ stfeuer-in-buckow
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-nennhausen-event-2885620-20261115@amtsfeed.de
 DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261115
@@ -881,6 +890,15 @@ SUMMARY:Einladung - Einweihung einer Stele anlässlich des 100. Geburtsta
 URL:https://www.amt-nennhausen.de/veranstaltungen/2992353/2026/11/15/einl
  adung-einweihung-einer-stele-anlaesslich-des-100.-geburtstages-des-schrif
  tstellers-guenter-de-bruyn-15.11.2026-15-30-uhr-in-garlitz
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-2999312-20261115@amtsfeed.de
+DTSTAMP:20261106T105820Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Volkstrauertag in Stechow
+URL:https://www.amt-nennhausen.de/veranstaltungen/2999312/2026/11/15/volk
+ strauertag-in-stechow
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2844434-20261128@amtsfeed.de

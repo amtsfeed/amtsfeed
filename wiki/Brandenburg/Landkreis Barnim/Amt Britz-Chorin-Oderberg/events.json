@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T10:58:54.117Z",
+  "updatedAt": "2026-11-06T10:56:55.041Z",
   "items": [
     {
       "id": "15493",
@@ -1901,15 +1901,6 @@
       "updatedAt": "2026-05-26T08:49:43.841Z"
     },
     {
-      "id": "15333",
-      "title": "Adventnachmittag unter der Tanne",
-      "url": "https://britz-chorin-oderberg.de/events#event-15333",
-      "startDate": "2026-12-05T13:00:00.000Z",
-      "location": "16248 Oderberg – Sporthalle",
-      "fetchedAt": "2026-05-05T17:20:57.837Z",
-      "updatedAt": "2026-05-26T08:49:43.841Z"
-    },
-    {
       "id": "17197",
       "title": "Gospelkonzert in Chorin",
       "url": "https://britz-chorin-oderberg.de/events#event-17197",
@@ -1917,6 +1908,15 @@
       "location": "16230 Chorin – Chorin – Dorfkirche",
       "fetchedAt": "2026-10-17T07:50:06.777Z",
       "updatedAt": "2026-10-17T07:50:06.777Z"
+    },
+    {
+      "id": "15333",
+      "title": "Adventsnachmittag in Oderberg",
+      "url": "https://britz-chorin-oderberg.de/events#event-15333",
+      "startDate": "2026-12-05T13:30:00.000Z",
+      "location": "16248 Oderberg – Sporthalle",
+      "fetchedAt": "2026-05-05T17:20:57.837Z",
+      "updatedAt": "2026-11-06T10:56:55.033Z"
     },
     {
       "id": "17264",
@@ -2027,6 +2027,15 @@
       "updatedAt": "2026-05-26T08:49:43.841Z"
     },
     {
+      "id": "17271",
+      "title": "Weihnachtsbaumverbrennen in Liepe",
+      "url": "https://britz-chorin-oderberg.de/events#event-17271",
+      "startDate": "2027-01-09T16:00:00.000Z",
+      "location": "16248 Liepe",
+      "fetchedAt": "2026-11-06T10:56:55.033Z",
+      "updatedAt": "2026-11-06T10:56:55.033Z"
+    },
+    {
       "id": "17042",
       "title": "Neujahrskonzert in Britz",
       "url": "https://britz-chorin-oderberg.de/events#event-17042",
@@ -2034,6 +2043,60 @@
       "location": "16230 Britz – Rathaus, Eisenwerkstraße 11",
       "fetchedAt": "2026-10-14T08:46:06.067Z",
       "updatedAt": "2026-10-14T08:46:06.067Z"
+    },
+    {
+      "id": "17272",
+      "title": "Osterfeuer in Liepe",
+      "url": "https://britz-chorin-oderberg.de/events#event-17272",
+      "startDate": "2027-03-27T17:00:00.000Z",
+      "location": "16248 Liepe",
+      "fetchedAt": "2026-11-06T10:56:55.033Z",
+      "updatedAt": "2026-11-06T10:56:55.033Z"
+    },
+    {
+      "id": "17273",
+      "title": "Flohmarkt in Liepe",
+      "url": "https://britz-chorin-oderberg.de/events#event-17273",
+      "startDate": "2027-04-09T22:00:00.000Z",
+      "location": "16248 Liepe",
+      "fetchedAt": "2026-11-06T10:56:55.033Z",
+      "updatedAt": "2026-11-06T10:56:55.033Z"
+    },
+    {
+      "id": "17275",
+      "title": "Tanz in die Sommernacht",
+      "url": "https://britz-chorin-oderberg.de/events#event-17275",
+      "startDate": "2027-06-05T16:00:00.000Z",
+      "location": "16248 Liepe",
+      "fetchedAt": "2026-11-06T10:56:55.033Z",
+      "updatedAt": "2026-11-06T10:56:55.033Z"
+    },
+    {
+      "id": "17274",
+      "title": "Flohmarkt in Liepe",
+      "url": "https://britz-chorin-oderberg.de/events#event-17274",
+      "startDate": "2027-09-04T08:00:00.000Z",
+      "location": "16248 Liepe",
+      "fetchedAt": "2026-11-06T10:56:55.033Z",
+      "updatedAt": "2026-11-06T10:56:55.033Z"
+    },
+    {
+      "id": "17276",
+      "title": "Halloween in Liepe",
+      "url": "https://britz-chorin-oderberg.de/events#event-17276",
+      "startDate": "2027-10-30T16:00:00.000Z",
+      "location": "16248 Liepe – Landhof Liepe",
+      "fetchedAt": "2026-11-06T10:56:55.033Z",
+      "updatedAt": "2026-11-06T10:56:55.033Z"
+    },
+    {
+      "id": "17277",
+      "title": "Seniorenweihnachtsfeier in Liepe",
+      "url": "https://britz-chorin-oderberg.de/events#event-17277",
+      "startDate": "2027-12-03T23:00:00.000Z",
+      "location": "16248 Liepe",
+      "fetchedAt": "2026-11-06T10:56:55.033Z",
+      "updatedAt": "2026-11-06T10:56:55.033Z"
     }
   ]
 }

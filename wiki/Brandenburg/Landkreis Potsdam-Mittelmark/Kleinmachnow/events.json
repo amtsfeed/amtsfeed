@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:06:08.869Z",
+  "updatedAt": "2026-11-06T11:03:19.324Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -1184,6 +1184,22 @@
       "startDate": "2026-11-17T14:00:00.000Z",
       "fetchedAt": "2026-11-04T11:06:08.868Z",
       "updatedAt": "2026-11-04T11:06:08.868Z"
+    },
+    {
+      "id": "kleinmachnow-event-2422",
+      "title": "LEA-Leseklub",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/LEA-Leseklub.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2422.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-17T16:30:00.000Z",
+      "fetchedAt": "2026-11-06T11:03:19.323Z",
+      "updatedAt": "2026-11-06T11:03:19.323Z"
+    },
+    {
+      "id": "kleinmachnow-event-2325",
+      "title": "Tanz im November",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Tanz-im-November.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2325.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-18T15:00:00.000Z",
+      "fetchedAt": "2026-11-06T11:03:19.323Z",
+      "updatedAt": "2026-11-06T11:03:19.323Z"
     }
   ]
 }

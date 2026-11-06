@@ -3960,6 +3960,15 @@ URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
 LOCATION:Bouleplatz\, Feldahornstraße\, OT Schönfließ
 END:VEVENT
 BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059699@amtsfeed.de
+DTSTAMP:20261106T110120Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Bastel-Café: Gemeinsam kreativ
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059699
+END:VEVENT
+BEGIN:VEVENT
 UID:muehlenbecker-land-event-58798971@amtsfeed.de
 DTSTAMP:20261020T084059Z
 DTSTART:20261109T093000Z
@@ -4194,6 +4203,28 @@ SUMMARY:Paartanz: Tanztee
 URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
  .php?id=58932478
 LOCATION:Bürgersaal Schildow\, OT Schildow\, Franz-Schmidt-Straße 3
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059702@amtsfeed.de
+DTSTAMP:20261106T110122Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Spiele-Café: Bingo spielen
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059702
+LOCATION:Historische Mönchmühle\, Mönchmühlenallee 3\, 16567 Mühlenb
+ eck
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059703@amtsfeed.de
+DTSTAMP:20261106T110122Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Spiele-Café: Bingo spielen
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059703
+LOCATION:Historische Mönchmühle\, Mönchmühlenallee 3\, 16567 Mühlenb
+ eck
 END:VEVENT
 BEGIN:VEVENT
 UID:muehlenbecker-land-event-58798972@amtsfeed.de
@@ -4608,5 +4639,24 @@ SUMMARY:Volkssolidarität: Tanzgruppe Mühlentänzer
 URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
  .php?id=59004052
 LOCATION:Mühlentreff\, Hauptstraße 7\, OT Mühlenbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58798149@amtsfeed.de
+DTSTAMP:20261106T110124Z
+DTSTART:20261126T120000Z
+SUMMARY:Volkssolidarität: Gedächtnistraining
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58798149
+LOCATION:Mühlentreff\, Hauptstraße 7\, OT Mühlenbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58798754@amtsfeed.de
+DTSTAMP:20261106T110124Z
+DTSTART:20261126T140000Z
+SUMMARY:Bürgerverein Bieselheide: Singen mit Lilo
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58798754
+LOCATION:Bürgertreff Bieselheide\, Traubeneichenstraße 66\, OT Schönfl
+ ieß
 END:VEVENT
 END:VCALENDAR

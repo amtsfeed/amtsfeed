@@ -700,6 +700,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/2989612/2026/12/15/advent-i
  m-amtspark
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-2999284@amtsfeed.de
+DTSTAMP:20261106T110301Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Wasser- und Bodenanalyse
+URL:https://www.amt-brueck.de/veranstaltungen/2999284/2027/01/19/wasser-u
+ nd-bodenanalyse
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2899490@amtsfeed.de
 DTSTAMP:20261028T095057Z
 DTSTART;VALUE=DATE:20270827

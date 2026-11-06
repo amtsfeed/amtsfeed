@@ -560,6 +560,14 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2849518/2026/11/08/kla
  enge-aus-der-puszta
 END:VEVENT
 BEGIN:VEVENT
+UID:2999188@amtsfeed.de
+DTSTAMP:20261106T105804Z
+DTSTART:20261112T180000Z
+SUMMARY:Neues aus dem Kosmos: Teleskope der nächsten Generation
+URL:https://www.herzberg-elster.de/veranstaltungen/2999188/2026/11/12/neu
+ es-aus-dem-kosmos-teleskope-der-naechsten-generation
+END:VEVENT
+BEGIN:VEVENT
 UID:2987022@amtsfeed.de
 DTSTAMP:20261028T094422Z
 DTSTART;VALUE=DATE:20261113
@@ -569,12 +577,44 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2987022/2026/11/13/wer
  kstattmarkt-elsterwerk
 END:VEVENT
 BEGIN:VEVENT
+UID:2999190@amtsfeed.de
+DTSTAMP:20261106T105804Z
+DTSTART:20261114T163000Z
+SUMMARY:Major Tom: Aufbruch ins Ungewisse
+URL:https://www.herzberg-elster.de/veranstaltungen/2999190/2026/11/14/maj
+ or-tom-aufbruch-ins-ungewisse
+END:VEVENT
+BEGIN:VEVENT
+UID:2999194@amtsfeed.de
+DTSTAMP:20261106T105804Z
+DTSTART:20261118T180000Z
+SUMMARY:Sternenbeobachtungsabend auf dem Wasserturm
+URL:https://www.herzberg-elster.de/veranstaltungen/2999194/2026/11/18/ste
+ rnenbeobachtungsabend-auf-dem-wasserturm
+END:VEVENT
+BEGIN:VEVENT
 UID:2924111@amtsfeed.de
 DTSTAMP:20261028T094422Z
 DTSTART:20261125T120000Z
 SUMMARY:Aufsuchende Sozialberatung des SoVD-Sozialmobils
 URL:https://www.herzberg-elster.de/veranstaltungen/2924111/2026/11/25/auf
  suchende-sozialberatung-des-sovd-sozialmobils
+END:VEVENT
+BEGIN:VEVENT
+UID:2999191@amtsfeed.de
+DTSTAMP:20261106T105804Z
+DTSTART:20261128T163000Z
+SUMMARY:Ein Sternbild für Flappi
+URL:https://www.herzberg-elster.de/veranstaltungen/2999191/2026/11/28/ein
+ -sternbild-fuer-flappi
+END:VEVENT
+BEGIN:VEVENT
+UID:2999195@amtsfeed.de
+DTSTAMP:20261106T105804Z
+DTSTART:20261202T180000Z
+SUMMARY:Sternenbeobachtungsabend auf dem Wasserturm
+URL:https://www.herzberg-elster.de/veranstaltungen/2999195/2026/12/02/ste
+ rnenbeobachtungsabend-auf-dem-wasserturm
 END:VEVENT
 BEGIN:VEVENT
 UID:2849519@amtsfeed.de
@@ -593,12 +633,36 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2849520/2026/12/06/adv
  entssingen
 END:VEVENT
 BEGIN:VEVENT
+UID:2999192@amtsfeed.de
+DTSTAMP:20261106T105804Z
+DTSTART:20261210T180000Z
+SUMMARY:Neues aus dem Kosmos: der kosmische Jahresrückblick
+URL:https://www.herzberg-elster.de/veranstaltungen/2999192/2026/12/10/neu
+ es-aus-dem-kosmos-der-kosmische-jahresrueckblick
+END:VEVENT
+BEGIN:VEVENT
 UID:2975403@amtsfeed.de
 DTSTAMP:20261028T094422Z
 DTSTART:20261212T140000Z
 SUMMARY:Reparaturcaf&eacute\; - Gemeinsam reparieren
 URL:https://www.herzberg-elster.de/veranstaltungen/2975403/2026/12/12/rep
  araturcafé-gemeinsam-reparieren
+END:VEVENT
+BEGIN:VEVENT
+UID:2999197@amtsfeed.de
+DTSTAMP:20261106T105804Z
+DTSTART:20261216T180000Z
+SUMMARY:Sternenbeobachtungsabend auf dem Wasserturm
+URL:https://www.herzberg-elster.de/veranstaltungen/2999197/2026/12/16/ste
+ rnenbeobachtungsabend-auf-dem-wasserturm
+END:VEVENT
+BEGIN:VEVENT
+UID:2999193@amtsfeed.de
+DTSTAMP:20261106T105804Z
+DTSTART:20261218T190000Z
+SUMMARY:Weihnachtssingen mit dem Herzberger Männergesangsverein 1836
+URL:https://www.herzberg-elster.de/veranstaltungen/2999193/2026/12/18/wei
+ hnachtssingen-mit-dem-herzberger-maennergesangsverein-1836
 END:VEVENT
 BEGIN:VEVENT
 UID:2849521@amtsfeed.de
@@ -633,12 +697,12 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2849524/2027/01/01/neu
  jahrskonzert
 END:VEVENT
 BEGIN:VEVENT
-UID:2331050@amtsfeed.de
-DTSTAMP:20261030T100605Z
-DTSTART:20271030T063000Z
-SUMMARY:Wochenmarkt
-URL:https://www.herzberg-elster.de/veranstaltungen/2331050/2027/10/30/woc
- henmarkt
+UID:2999189@amtsfeed.de
+DTSTAMP:20261106T105804Z
+DTSTART:20270103T160000Z
+SUMMARY:Orgelmusik im Kerzenschein
+URL:https://www.herzberg-elster.de/veranstaltungen/2999189/2027/01/03/org
+ elmusik-im-kerzenschein
 END:VEVENT
 BEGIN:VEVENT
 UID:2477269@amtsfeed.de
@@ -662,6 +726,14 @@ DTSTAMP:20261105T110104Z
 DTSTART:20271104T060000Z
 SUMMARY:Wochenmarkt
 URL:https://www.herzberg-elster.de/veranstaltungen/2331049/2027/11/04/woc
+ henmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:2331050@amtsfeed.de
+DTSTAMP:20261106T105804Z
+DTSTART:20271106T063000Z
+SUMMARY:Wochenmarkt
+URL:https://www.herzberg-elster.de/veranstaltungen/2331050/2027/11/06/woc
  henmarkt
 END:VEVENT
 END:VCALENDAR

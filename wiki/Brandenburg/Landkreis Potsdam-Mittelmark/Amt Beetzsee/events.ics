@@ -612,15 +612,6 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2959201/2026/11/03/klima-
  ki-online
 END:VEVENT
 BEGIN:VEVENT
-UID:amt-beetzsee-event-2645431@amtsfeed.de
-DTSTAMP:20261028T095053Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Beetzseebücherei
-URL:https://www.amt-beetzsee.de/veranstaltungen/2645431/2026/11/05/beetzs
- eebuecherei
-END:VEVENT
-BEGIN:VEVENT
 UID:amt-beetzsee-event-2833419@amtsfeed.de
 DTSTAMP:20261028T095053Z
 DTSTART;VALUE=DATE:20261106
@@ -739,6 +730,15 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Dorfstammtisch Butzow
 URL:https://www.amt-beetzsee.de/veranstaltungen/2202003/2026/12/01/dorfst
  ammtisch-butzow
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2645431@amtsfeed.de
+DTSTAMP:20261106T110258Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Beetzseebücherei
+URL:https://www.amt-beetzsee.de/veranstaltungen/2645431/2026/12/03/beetzs
+ eebuecherei
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2908449@amtsfeed.de

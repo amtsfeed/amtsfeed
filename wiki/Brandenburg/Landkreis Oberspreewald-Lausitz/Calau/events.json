@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:06:07.473Z",
+  "updatedAt": "2026-11-06T11:01:42.904Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -1058,14 +1058,6 @@
       "updatedAt": "2026-10-31T09:46:42.682Z"
     },
     {
-      "id": "calau-event-2290342",
-      "title": "05.11.2026   Calauer Wochenmarkt",
-      "url": "https://www.calau.de/veranstaltungen/2290342/2026/11/05/calauer-wochenmarkt",
-      "startDate": "2026-11-05T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-11-04T11:04:31.771Z"
-    },
-    {
       "id": "calau-event-2960237",
       "title": "05.11.2026   Krabbelgruppe in der Kita Kunterbunt",
       "url": "https://www.calau.de/veranstaltungen/2960237/2026/11/05/krabbelgruppe-in-der-kita-kunterbunt",
@@ -1099,19 +1091,27 @@
     },
     {
       "id": "calau-event-2898941",
-      "title": "\"Malen für die Seele\" - offene Malgruppe",
+      "title": "09.11.2026   \"Malen für die Seele\" - offene Malgruppe",
       "url": "https://www.calau.de/veranstaltungen/2898941/2026/11/09/malen-fuer-die-seele-offene-malgruppe",
       "startDate": "2026-11-09T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-28T09:49:41.065Z"
+      "updatedAt": "2026-11-06T11:01:42.896Z"
+    },
+    {
+      "id": "calau-event-2290342",
+      "title": "10.11.2026   Calauer Wochenmarkt",
+      "url": "https://www.calau.de/veranstaltungen/2290342/2026/11/10/calauer-wochenmarkt",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-11-06T11:01:42.896Z"
     },
     {
       "id": "calau-event-2024997",
-      "title": "IHK-Sprechtag in Calau",
+      "title": "10.11.2026   IHK-Sprechtag in Calau",
       "url": "https://www.calau.de/veranstaltungen/2024997/2026/11/10/ihk-sprechtag-in-calau",
       "startDate": "2026-11-10T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-28T09:49:41.065Z"
+      "updatedAt": "2026-11-06T11:01:42.896Z"
     },
     {
       "id": "calau-event-2315266",
@@ -1152,6 +1152,14 @@
       "startDate": "2026-11-12T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-10-28T09:49:41.065Z"
+    },
+    {
+      "id": "calau-event-2999545",
+      "title": "Themenabend: \"Stabil und energiereich durch die dunkle Jahreszeit\"",
+      "url": "https://www.calau.de/veranstaltungen/2999545/2026/11/12/themenabend-stabil-und-energiereich-durch-die-dunkle-jahreszeit",
+      "startDate": "2026-11-12T00:00:00.000Z",
+      "fetchedAt": "2026-11-06T11:01:42.896Z",
+      "updatedAt": "2026-11-06T11:01:42.896Z"
     },
     {
       "id": "calau-event-2858229",
@@ -1368,6 +1376,14 @@
       "startDate": "2026-12-03T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-10-28T09:49:41.065Z"
+    },
+    {
+      "id": "calau-event-2999553",
+      "title": "Themenabend: \"Weihnachten, ich mag dich, ich mag dich nicht&hellip;\"",
+      "url": "https://www.calau.de/veranstaltungen/2999553/2026/12/03/themenabend-weihnachten-ich-mag-dich-ich-mag-dich-nicht",
+      "startDate": "2026-12-03T00:00:00.000Z",
+      "fetchedAt": "2026-11-06T11:01:42.896Z",
+      "updatedAt": "2026-11-06T11:01:42.896Z"
     },
     {
       "id": "calau-event-2948040",

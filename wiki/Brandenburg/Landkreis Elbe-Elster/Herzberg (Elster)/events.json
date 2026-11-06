@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:01:04.291Z",
+  "updatedAt": "2026-11-06T10:58:04.089Z",
   "items": [
     {
       "id": "2849506",
@@ -546,6 +546,14 @@
       "updatedAt": "2026-10-28T09:44:22.635Z"
     },
     {
+      "id": "2999188",
+      "title": "Neues aus dem Kosmos: Teleskope der nächsten Generation",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2999188/2026/11/12/neues-aus-dem-kosmos-teleskope-der-naechsten-generation",
+      "startDate": "2026-11-12T18:00:00.000Z",
+      "fetchedAt": "2026-11-06T10:58:04.080Z",
+      "updatedAt": "2026-11-06T10:58:04.080Z"
+    },
+    {
       "id": "2987022",
       "title": "Werkstattmarkt ELSTERWERK",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2987022/2026/11/13/werkstattmarkt-elsterwerk",
@@ -554,12 +562,44 @@
       "updatedAt": "2026-10-28T09:44:22.635Z"
     },
     {
+      "id": "2999190",
+      "title": "Major Tom: Aufbruch ins Ungewisse",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2999190/2026/11/14/major-tom-aufbruch-ins-ungewisse",
+      "startDate": "2026-11-14T16:30:00.000Z",
+      "fetchedAt": "2026-11-06T10:58:04.080Z",
+      "updatedAt": "2026-11-06T10:58:04.080Z"
+    },
+    {
+      "id": "2999194",
+      "title": "Sternenbeobachtungsabend auf dem Wasserturm",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2999194/2026/11/18/sternenbeobachtungsabend-auf-dem-wasserturm",
+      "startDate": "2026-11-18T18:00:00.000Z",
+      "fetchedAt": "2026-11-06T10:58:04.080Z",
+      "updatedAt": "2026-11-06T10:58:04.080Z"
+    },
+    {
       "id": "2924111",
       "title": "Aufsuchende Sozialberatung des SoVD-Sozialmobils",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2924111/2026/11/25/aufsuchende-sozialberatung-des-sovd-sozialmobils",
       "startDate": "2026-11-25T12:00:00.000Z",
       "fetchedAt": "2026-09-11T09:54:01.203Z",
       "updatedAt": "2026-10-28T09:44:22.635Z"
+    },
+    {
+      "id": "2999191",
+      "title": "Ein Sternbild für Flappi",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2999191/2026/11/28/ein-sternbild-fuer-flappi",
+      "startDate": "2026-11-28T16:30:00.000Z",
+      "fetchedAt": "2026-11-06T10:58:04.080Z",
+      "updatedAt": "2026-11-06T10:58:04.080Z"
+    },
+    {
+      "id": "2999195",
+      "title": "Sternenbeobachtungsabend auf dem Wasserturm",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2999195/2026/12/02/sternenbeobachtungsabend-auf-dem-wasserturm",
+      "startDate": "2026-12-02T18:00:00.000Z",
+      "fetchedAt": "2026-11-06T10:58:04.080Z",
+      "updatedAt": "2026-11-06T10:58:04.080Z"
     },
     {
       "id": "2849519",
@@ -578,12 +618,36 @@
       "updatedAt": "2026-10-28T09:44:22.635Z"
     },
     {
+      "id": "2999192",
+      "title": "Neues aus dem Kosmos: der kosmische Jahresrückblick",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2999192/2026/12/10/neues-aus-dem-kosmos-der-kosmische-jahresrueckblick",
+      "startDate": "2026-12-10T18:00:00.000Z",
+      "fetchedAt": "2026-11-06T10:58:04.080Z",
+      "updatedAt": "2026-11-06T10:58:04.080Z"
+    },
+    {
       "id": "2975403",
       "title": "Reparaturcaf&eacute; - Gemeinsam reparieren",
       "url": "https://www.herzberg-elster.de/veranstaltungen/2975403/2026/12/12/reparaturcafé-gemeinsam-reparieren",
       "startDate": "2026-12-12T14:00:00.000Z",
       "fetchedAt": "2026-09-29T09:54:18.290Z",
       "updatedAt": "2026-10-28T09:44:22.635Z"
+    },
+    {
+      "id": "2999197",
+      "title": "Sternenbeobachtungsabend auf dem Wasserturm",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2999197/2026/12/16/sternenbeobachtungsabend-auf-dem-wasserturm",
+      "startDate": "2026-12-16T18:00:00.000Z",
+      "fetchedAt": "2026-11-06T10:58:04.080Z",
+      "updatedAt": "2026-11-06T10:58:04.080Z"
+    },
+    {
+      "id": "2999193",
+      "title": "Weihnachtssingen mit dem Herzberger Männergesangsverein 1836",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2999193/2026/12/18/weihnachtssingen-mit-dem-herzberger-maennergesangsverein-1836",
+      "startDate": "2026-12-18T19:00:00.000Z",
+      "fetchedAt": "2026-11-06T10:58:04.080Z",
+      "updatedAt": "2026-11-06T10:58:04.080Z"
     },
     {
       "id": "2849521",
@@ -618,12 +682,12 @@
       "updatedAt": "2026-10-28T09:44:22.635Z"
     },
     {
-      "id": "2331050",
-      "title": "Wochenmarkt",
-      "url": "https://www.herzberg-elster.de/veranstaltungen/2331050/2027/10/30/wochenmarkt",
-      "startDate": "2027-10-30T06:30:00.000Z",
-      "fetchedAt": "2026-05-08T18:34:29.680Z",
-      "updatedAt": "2026-10-30T10:06:05.839Z"
+      "id": "2999189",
+      "title": "Orgelmusik im Kerzenschein",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2999189/2027/01/03/orgelmusik-im-kerzenschein",
+      "startDate": "2027-01-03T16:00:00.000Z",
+      "fetchedAt": "2026-11-06T10:58:04.080Z",
+      "updatedAt": "2026-11-06T10:58:04.080Z"
     },
     {
       "id": "2477269",
@@ -648,6 +712,14 @@
       "startDate": "2027-11-04T06:00:00.000Z",
       "fetchedAt": "2026-05-08T18:34:29.680Z",
       "updatedAt": "2026-11-05T11:01:04.282Z"
+    },
+    {
+      "id": "2331050",
+      "title": "Wochenmarkt",
+      "url": "https://www.herzberg-elster.de/veranstaltungen/2331050/2027/11/06/wochenmarkt",
+      "startDate": "2027-11-06T06:30:00.000Z",
+      "fetchedAt": "2026-05-08T18:34:29.680Z",
+      "updatedAt": "2026-11-06T10:58:04.080Z"
     }
   ]
 }

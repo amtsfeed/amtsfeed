@@ -946,8 +946,33 @@ DESCRIPTION:Die Gemeinde Brieselang erinnert am Montag\, 9. November 2026
  ichtestraße 80 fortgesetzt.
 END:VEVENT
 BEGIN:VEVENT
+UID:brieselang-event-Deine-Ideen-fuer-den-Sportplatz-Zeestow-20261109@amt
+ sfeed.de
+DTSTAMP:20261106T105828Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Deine Ideen für den Sportplatz Zeestow
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Deine-Ideen-fuer-den-Sportplatz-Zeestow.html?
+DESCRIPTION:Der Sportplatz Zeestow wird neu gestaltet! Und ihr bestimmt m
+ it\, wie er aussehen soll.
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Aktionsstag-GUT-SICHTBAR-UND-SICHER-IN-DIE-SCHULE-20
+ 261109@amtsfeed.de
+DTSTAMP:20261106T105828Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261111
+SUMMARY:Aktionsstag "GUT SICHTBAR UND SICHER IN DIE SCHULE"
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Aktionsstag-GUT-SICHTBAR-UND-SICHER-IN-DIE-SCHULE.html?
+DESCRIPTION:Gemeinsam mit Saint-Gobain Rigips GmbH und den Fördervereine
+ n der Robinson-Grundschule und der ZeeBr@-Grundschule verschenkt die Geme
+ inde Brieselang Warnwesten an die Erstklässler unserer Gemeinde.
+END:VEVENT
+BEGIN:VEVENT
 UID:brieselang-event-Verleihung-der-Ehrenamtspreise-20261113@amtsfeed.de
-DTSTAMP:20260911T110730Z
+DTSTAMP:20261106T105828Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Verleihung der Ehrenamtspreise
@@ -958,8 +983,7 @@ DESCRIPTION:Die Verwaltung der Gemeinde Brieselang hat den Termin für di
  taltung soll am Freitag\, 13. November 2026\, ab 18 Uhr in der Aula der R
  obinson-Grundschule stattfinden. Eingeladen werden alle Nominierten. Wer 
  den Preis tatsächlich erhält\, wird jedoch erst bei der Veranstaltung b
- ekanntgegeben. Aktuell ruft die Gemeinde dazu auf\, Vorschläge einzureic
- hen.
+ ekanntgegeben.
 LOCATION:Robinson-Grundschule\,
 END:VEVENT
 BEGIN:VEVENT
@@ -1089,6 +1113,24 @@ DESCRIPTION:Bei einer gemeinsamen Lesung entführen sie das Publikum in d
 LOCATION:Bürgerhaus\,
 END:VEVENT
 BEGIN:VEVENT
+UID:brieselang-event-Krimiabend-in-der-Bibliothek-20261124@amtsfeed.de
+DTSTAMP:20261106T105828Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Krimiabend in der Bibliothek
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Krimiabend-in-der-Bibliothek.html?
+DESCRIPTION:Bei einer gemeinsamen Lesung entführen sie das Publikum in d
+ ie Welt rätselhafter Mordfälle und dunkler Geheimnisse. Carla Maria Hei
+ nze liest aus „Potsdamer Intrigen“ – einem Kriminalroman\, in dem e
+ in Mordfall aus den letzten Jahren der DDR bis in die Gegenwart reicht. S
+ usanne Rüster stellt ihren Potsdam-Babelsberg-Krimi „Tödliche Abrechn
+ ung“ vor\, der Missstände im Gesundheitswesen thematisiert. Ein spanne
+ nder Abend für alle Krimifans – und für diejenigen\, die es werden wo
+ llen!
+LOCATION:Bürgerhaus\,
+END:VEVENT
+BEGIN:VEVENT
 UID:brieselang-event-Aktionstag-gegen-Gewalt-an-Frauen.html?&kalender_mon
  th=11-20261125@amtsfeed.de
 DTSTAMP:20261105T110130Z
@@ -1097,6 +1139,21 @@ DTEND;VALUE=DATE:20261126
 SUMMARY:Aktionstag gegen Gewalt an Frauen
 URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
  staltungen/Aktionstag-gegen-Gewalt-an-Frauen.html?&kalender_month=11
+DESCRIPTION:Zum Internationalen Tag zur Beseitigung von Gewalt gegen Frau
+ en plant die Gemeinde Brieselang am Mittwoch\, 25. November 2026\, um 17 
+ Uhr eine Flaggenhissung am Rathaus\, Am Markt 3. Alle Bürgerinnen und B
+ ürger sind herzlich eingeladen\, dabei zu sein.
+LOCATION:Gemeinde Brieselang\,
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Aktionstag-gegen-Gewalt-an-Frauen-20261125@amtsfeed.
+ de
+DTSTAMP:20261106T105828Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Aktionstag gegen Gewalt an Frauen
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Aktionstag-gegen-Gewalt-an-Frauen.html?
 DESCRIPTION:Zum Internationalen Tag zur Beseitigung von Gewalt gegen Frau
  en plant die Gemeinde Brieselang am Mittwoch\, 25. November 2026\, um 17 
  Uhr eine Flaggenhissung am Rathaus\, Am Markt 3. Alle Bürgerinnen und B
@@ -1227,6 +1284,23 @@ SUMMARY:Digitaler Stammtisch: Praktische Hilfe für Handy\, PC und KI
 URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
  staltungen/Digitaler-Stammtisch-Praktische-Hilfe-fuer-Handy-PC-und-KI.htm
  l?&kalender_month=11
+DESCRIPTION:Der Digitale Stammtisch der Gemeinde Brieselang wird in der z
+ weiten Jahreshälfte fortgesetzt. Von August bis Dezember 2026 stehen wie
+ der praktische Themen rund um Smartphone\, Computer\, Datensicherung und 
+ Künstliche Intelligenz auf dem Programm. Die Treffen finden jeweils mont
+ ags von 14 bis 17 Uhr im Sitzungssaal des Rathauses\, Am Markt 3\, statt.
+LOCATION:Gemeinde Brieselang\,
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Digitaler-Stammtisch-Praktische-Hilfe-fuer-Handy-PC-
+ und-KI-20261207@amtsfeed.de
+DTSTAMP:20261106T105828Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Digitaler Stammtisch: Praktische Hilfe für Handy\, PC und KI
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Digitaler-Stammtisch-Praktische-Hilfe-fuer-Handy-PC-und-KI.htm
+ l?
 DESCRIPTION:Der Digitale Stammtisch der Gemeinde Brieselang wird in der z
  weiten Jahreshälfte fortgesetzt. Von August bis Dezember 2026 stehen wie
  der praktische Themen rund um Smartphone\, Computer\, Datensicherung und 

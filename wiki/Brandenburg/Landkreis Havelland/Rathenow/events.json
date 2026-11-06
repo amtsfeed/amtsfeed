@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:02:23.070Z",
+  "updatedAt": "2026-11-06T10:59:15.487Z",
   "items": [
     {
       "id": "rathenow-event-1476-20260101",
@@ -1686,6 +1686,15 @@
       "updatedAt": "2026-10-09T10:39:46.680Z"
     },
     {
+      "id": "rathenow-event-1810-20261129",
+      "title": "Märchenzauber in Steckelsdorf",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/maerchenzauber-in-steckelsdorf/",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "location": "Hauptstraße 47, Steckelsdorf Innenhof der alten Schmiede",
+      "fetchedAt": "2026-11-06T10:59:15.493Z",
+      "updatedAt": "2026-11-06T10:59:15.493Z"
+    },
+    {
       "id": "rathenow-event-1758-20261130",
       "title": "AGIL - Aktiv ins Alter: Männerfrühstück! Jetzt anmelden.",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/agil-aktiv-ins-alter-maennerfruehstueck-jetzt-anmelden/",
@@ -1860,6 +1869,16 @@
       "updatedAt": "2026-10-09T10:39:46.680Z"
     },
     {
+      "id": "rathenow-event-1809-20270203",
+      "title": "WINTERCAMP-PREMIERE IN RATHENOW – 3 TAGE FUSSBALL PUR!",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/wintercamp-premiere-in-rathenow-3-tage-fussball-pur/",
+      "startDate": "2027-02-03T00:00:00.000Z",
+      "endDate": "2027-02-05T00:00:00.000Z",
+      "location": "Havellandhalle Rathenow",
+      "fetchedAt": "2026-11-06T10:59:15.493Z",
+      "updatedAt": "2026-11-06T10:59:15.493Z"
+    },
+    {
       "id": "rathenow-event-1688-20270206",
       "title": "Moving Shadows",
       "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/moving-shadows/",
@@ -1994,6 +2013,16 @@
       "location": "Alter Hafen Rathenow",
       "fetchedAt": "2026-10-15T08:23:01.781Z",
       "updatedAt": "2026-10-15T08:23:01.781Z"
+    },
+    {
+      "id": "rathenow-event-1811-20270925",
+      "title": "Schwedentage 2027",
+      "url": "https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-events-im-ueberblick/veranstaltung/detail/schwedentage-2027/",
+      "startDate": "2027-09-25T00:00:00.000Z",
+      "endDate": "2027-09-26T00:00:00.000Z",
+      "location": "Weinberg Rathenow",
+      "fetchedAt": "2026-11-06T10:59:15.493Z",
+      "updatedAt": "2026-11-06T10:59:15.493Z"
     }
   ]
 }

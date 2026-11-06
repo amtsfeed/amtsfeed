@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:06:35.990Z",
+  "updatedAt": "2026-11-06T11:02:04.300Z",
   "items": [
     {
       "id": "lk-osl-event-2811433-20260529",
@@ -7612,6 +7612,16 @@
       "updatedAt": "2026-10-28T09:50:01.013Z"
     },
     {
+      "id": "lk-osl-event-2998823-20261106",
+      "title": "AWO Veranstaltung",
+      "url": "https://www.osl-online.de/veranstaltungen/2998823/2026/11/06/awo-veranstaltung",
+      "startDate": "2026-11-06T16:00:00.000Z",
+      "endDate": "2026-11-06T18:00:00.000Z",
+      "location": "AWO Wahlversammlung",
+      "fetchedAt": "2026-11-06T11:02:04.339Z",
+      "updatedAt": "2026-11-06T11:02:04.339Z"
+    },
+    {
       "id": "lk-osl-event-2981024-20261106",
       "title": "Die Pension zur schwäbischen Jungfrau",
       "url": "https://www.osl-online.de/veranstaltungen/2981024/2026/11/06/die-pension-zur-schwaebischen-jungfrau",
@@ -8016,6 +8026,25 @@
       "location": "Ortsfeuerwehr Klettwitz",
       "fetchedAt": "2026-10-12T11:07:01.816Z",
       "updatedAt": "2026-11-05T11:06:36.023Z"
+    },
+    {
+      "id": "lk-osl-event-2999545-20261112",
+      "title": "Themenabend: \"Stabil und energiereich durch die dunkle Jahreszeit\"",
+      "url": "https://www.osl-online.de/veranstaltungen/2999545/2026/11/12/themenabend-stabil-und-energiereich-durch-die-dunkle-jahreszeit",
+      "startDate": "2026-11-12T18:00:00.000Z",
+      "location": "DiTiKo Psychological Health & Skills",
+      "fetchedAt": "2026-11-06T11:02:04.339Z",
+      "updatedAt": "2026-11-06T11:02:04.339Z"
+    },
+    {
+      "id": "lk-osl-event-2998903-20261112",
+      "title": "Workshop: Sicher im Netz – Wie schütze ich mein Kind?",
+      "url": "https://www.osl-online.de/veranstaltungen/2998903/2026/11/12/workshop-sicher-im-netz--wie-schuetze-ich-mein-kind",
+      "startDate": "2026-11-12T19:00:00.000Z",
+      "endDate": "2026-11-12T21:00:00.000Z",
+      "location": "KooperationsAnstiftung e.V.",
+      "fetchedAt": "2026-11-06T11:02:04.339Z",
+      "updatedAt": "2026-11-06T11:02:04.339Z"
     },
     {
       "id": "lk-osl-event-2914789-20261113",
@@ -9220,6 +9249,15 @@
       "location": "Dörrwalde",
       "fetchedAt": "2026-10-08T10:46:00.701Z",
       "updatedAt": "2026-10-28T09:50:01.013Z"
+    },
+    {
+      "id": "lk-osl-event-2999553-20261203",
+      "title": "Themenabend: \"Weihnachten, ich mag dich, ich mag dich nicht&hellip;\"",
+      "url": "https://www.osl-online.de/veranstaltungen/2999553/2026/12/03/themenabend-weihnachten-ich-mag-dich-ich-mag-dich-nicht",
+      "startDate": "2026-12-03T18:00:00.000Z",
+      "location": "DiTiKo Psychological Health & Skills",
+      "fetchedAt": "2026-11-06T11:02:04.339Z",
+      "updatedAt": "2026-11-06T11:02:04.339Z"
     },
     {
       "id": "lk-osl-event-2947761-20261204",

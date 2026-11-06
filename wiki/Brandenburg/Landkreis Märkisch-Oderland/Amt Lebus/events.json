@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:04:15.209Z",
+  "updatedAt": "2026-11-06T11:00:10.438Z",
   "items": [
     {
       "id": "2846347",
@@ -1058,16 +1058,6 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
-      "id": "2538590",
-      "title": "Tischtennis",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/05/tischtennis",
-      "startDate": "2026-11-05T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-30T10:09:02.916Z"
-    },
-    {
       "id": "2980741",
       "title": "Stark werden - gemeinsam wachsen!",
       "url": "https://www.amt-lebus.de/veranstaltungen/2980741/2026/11/05/stark-werden-gemeinsam-wachsen",
@@ -1276,6 +1266,16 @@
       "location": "Gemeinde Reitwein",
       "fetchedAt": "2026-11-03T10:59:45.483Z",
       "updatedAt": "2026-11-03T10:59:45.483Z"
+    },
+    {
+      "id": "2538590",
+      "title": "Tischtennis",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/12/tischtennis",
+      "startDate": "2026-11-12T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-06T11:00:10.426Z"
     },
     {
       "id": "2928789",

@@ -326,15 +326,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2991786/2026/10/28/laterne
  nbasteln
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124494@amtsfeed.de
-DTSTAMP:20261030T101035Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Behinderten- und Seniorenberatung
-URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/11/05/behinde
- rten-und-seniorenberatung
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2705490@amtsfeed.de
 DTSTAMP:20261002T095532Z
 DTSTART;VALUE=DATE:20261105
@@ -342,15 +333,6 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Simone's Gesprächsrunde
 URL:https://www.lauchhammer.de/veranstaltungen/2705490/2026/11/05/simone-
  s-gesprächsrunde.html
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2918357@amtsfeed.de
-DTSTAMP:20261028T094944Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Gruppentreffen Selbsthilfegruppe Diabetes Lauchhammer
-URL:https://www.lauchhammer.de/veranstaltungen/2918357/2026/11/05/gruppen
- treffen-selbsthilfegruppe-diabetes-lauchhammer
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2873281@amtsfeed.de
@@ -380,6 +362,15 @@ DTEND;VALUE=DATE:20261107
 SUMMARY:Laternenumzug
 URL:https://www.lauchhammer.de/veranstaltungen/2991925/2026/11/06/laterne
  numzug
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2998810@amtsfeed.de
+DTSTAMP:20261106T110146Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Lichterfest mit Lampionumzug
+URL:https://www.lauchhammer.de/veranstaltungen/2998810/2026/11/06/lichter
+ fest-mit-lampionumzug
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2908922@amtsfeed.de
@@ -425,6 +416,33 @@ DTEND;VALUE=DATE:20261111
 SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
 URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/11/10/chorpro
  be-mit-dem-stadtchor-lauchhammer
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124494@amtsfeed.de
+DTSTAMP:20261106T110146Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/11/12/behinde
+ rten-und-seniorenberatung
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2999279@amtsfeed.de
+DTSTAMP:20261106T110146Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Sicher im Netz
+URL:https://www.lauchhammer.de/veranstaltungen/2999279/2026/11/12/sicher-
+ im-netz
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2998903@amtsfeed.de
+DTSTAMP:20261106T110146Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Workshop: Sicher im Netz – Wie schütze ich mein Kind?
+URL:https://www.lauchhammer.de/veranstaltungen/2998903/2026/11/12/worksho
+ p-sicher-im-netz--wie-schuetze-ich-mein-kind
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2944155@amtsfeed.de
@@ -566,6 +584,15 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Wiener Operetten Weihnacht
 URL:https://www.lauchhammer.de/veranstaltungen/2968413/2026/12/02/wiener-
  operetten-weihnacht
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2918357@amtsfeed.de
+DTSTAMP:20261106T110146Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Gruppentreffen Selbsthilfegruppe Diabetes Lauchhammer
+URL:https://www.lauchhammer.de/veranstaltungen/2918357/2026/12/03/gruppen
+ treffen-selbsthilfegruppe-diabetes-lauchhammer
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2983674@amtsfeed.de

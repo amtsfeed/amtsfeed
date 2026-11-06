@@ -7,37 +7,6 @@ X-WR-CALNAME:Amt Scharmützelsee
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Scharmützelsee
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2981265-2026-11-05-tortenschlachterei-essen-verbindet@amtsfeed.de
-DTSTAMP:20261028T095010Z
-DTSTART:20261105T150000Z
-SUMMARY:"Tortenschlachterei" - Essen verbindet
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2981265/2026/11/05
- /tortenschlachterei-essen-verbindet
-LOCATION:Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:2983415-2026-11-05-schlauberger-treff-in-der-bibo-bad-saarow@amtsfeed
- .de
-DTSTAMP:20261028T095010Z
-DTSTART:20261105T163000Z
-SUMMARY:Schlauberger-Treff in der Bibo Bad Saarow
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2983415/2026/11/05
- /schlauberger-treff-in-der-bibo-bad-saarow
-LOCATION:Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saar
- ow
-END:VEVENT
-BEGIN:VEVENT
-UID:2981267-2026-11-05-guenter-de-bruyn-lesung-mit-carola-wiemers@amtsfee
- d.de
-DTSTAMP:20261028T095010Z
-DTSTART:20261105T190000Z
-SUMMARY:Günter de Bruyn - Lesung mit Carola Wiemers
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2981267/2026/11/05
- /guenter-de-bruyn-lesung-mit-carola-wiemers
-LOCATION:Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saar
- ow
-END:VEVENT
-BEGIN:VEVENT
 UID:2981270-2026-11-08-salonkonzert-mit-lucy-van-kuhl@amtsfeed.de
 DTSTAMP:20261028T095010Z
 DTSTART:20261108T180000Z
@@ -67,6 +36,16 @@ URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2977302/2026/11/12
  /ein-abend-der-erinnerung-zwischen-entzuecken-und-entsetzen
 LOCATION:Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saar
  ow
+END:VEVENT
+BEGIN:VEVENT
+UID:2999518-2026-11-13-f000ff--mit-licht-durch-farbe@amtsfeed.de
+DTSTAMP:20261106T110221Z
+DTSTART:20261113T183000Z
+SUMMARY:#F000FF &ndash\; Mit Licht durch Farbe
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2999518/2026/11/13
+ /f000ff--mit-licht-durch-farbe
+LOCATION:Galerie Kultur am See · Kurpark Kolonnaden · Seestr. 11 · 155
+ 26 Bad Saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:2981273-2026-11-13-was-verraet-uns-ihr-blut-talk-mit-dr.-frank-bertho

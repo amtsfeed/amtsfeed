@@ -823,24 +823,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2935370/2026/11/04/gong-ab
  end
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855733@amtsfeed.de
-DTSTAMP:20261030T101013Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Nordic-Walking in Vehlefanz
-URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/11/05/nordic-
- walking-in-vehlefanz
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855707@amtsfeed.de
-DTSTAMP:20261028T094920Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Die Eichstädter Tafelrunde
-URL:https://www.oberkraemer.de/veranstaltungen/2855707/2026/11/05/die-eic
- hstaedter-tafelrunde
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2976151@amtsfeed.de
 DTSTAMP:20261002T095516Z
 DTSTART;VALUE=DATE:20261105
@@ -875,15 +857,6 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Tafelrunde
 URL:https://www.oberkraemer.de/veranstaltungen/2909882/2026/11/05/tafelru
  nde.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2994826@amtsfeed.de
-DTSTAMP:20261102T111910Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Yoga im Schlossgut Schwante – auch im Winter!
-URL:https://www.oberkraemer.de/veranstaltungen/2994826/2026/11/05/yoga-im
- -schlossgut-schwante--auch-im-winter
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855745@amtsfeed.de
@@ -1092,6 +1065,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2991612/2026/11/11/geno-me
  dizinischer-notfall--was-tun
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2855733@amtsfeed.de
+DTSTAMP:20261106T110127Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Nordic-Walking in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/11/12/nordic-
+ walking-in-vehlefanz
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2962222@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261112
@@ -1154,6 +1136,15 @@ DTEND;VALUE=DATE:20261115
 SUMMARY:GENO - Erste Hilfe Kurs
 URL:https://www.oberkraemer.de/veranstaltungen/2968494/2026/11/14/geno-er
  ste-hilfe-kurs
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2999587@amtsfeed.de
+DTSTAMP:20261106T110127Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Saisonabschluß am Holzbackofen
+URL:https://www.oberkraemer.de/veranstaltungen/2999587/2026/11/14/saisona
+ bschluss-am-holzbackofen
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2825872@amtsfeed.de
@@ -1327,6 +1318,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855886/2026/11/25/kirchen
  -café
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2999605@amtsfeed.de
+DTSTAMP:20261106T110127Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Dialogabend gegen Gewalt an Frauen
+URL:https://www.oberkraemer.de/veranstaltungen/2999605/2026/11/25/dialoga
+ bend-gegen-gewalt-an-frauen
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2988863@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261127
@@ -1426,6 +1426,24 @@ URL:https://www.oberkraemer.de/veranstaltungen/2996486/2026/11/29/weihnac
  htsmarkt-auf-dem-muehlenhof-vehlefanz
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2999223@amtsfeed.de
+DTSTAMP:20261106T110127Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Weihnachtsbasteln in Bötzow
+URL:https://www.oberkraemer.de/veranstaltungen/2999223/2026/11/29/weihnac
+ htsbasteln-in-boetzow
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2999219@amtsfeed.de
+DTSTAMP:20261106T110127Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Einschalten des Bötzower Weihnachtsbaumes
+URL:https://www.oberkraemer.de/veranstaltungen/2999219/2026/11/29/einscha
+ lten-des-boetzower-weihnachtsbaumes
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2962225@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261130
@@ -1451,6 +1469,24 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Gong-Abend
 URL:https://www.oberkraemer.de/veranstaltungen/2935373/2026/12/02/gong-ab
  end
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855707@amtsfeed.de
+DTSTAMP:20261106T110127Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Die Eichstädter Tafelrunde
+URL:https://www.oberkraemer.de/veranstaltungen/2855707/2026/12/03/die-eic
+ hstaedter-tafelrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2994826@amtsfeed.de
+DTSTAMP:20261106T110127Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Yoga im Schlossgut Schwante – auch im Winter!
+URL:https://www.oberkraemer.de/veranstaltungen/2994826/2026/12/03/yoga-im
+ -schlossgut-schwante--auch-im-winter
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855890@amtsfeed.de
@@ -1577,6 +1613,15 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:GENO - Fahreignung und Gesundheit
 URL:https://www.oberkraemer.de/veranstaltungen/2991660/2026/12/09/geno-fa
  hreignung-und-gesundheit
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2999565@amtsfeed.de
+DTSTAMP:20261106T110127Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Weihnachtliche Lesung
+URL:https://www.oberkraemer.de/veranstaltungen/2999565/2026/12/09/weihnac
+ htliche-lesung
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2968516@amtsfeed.de

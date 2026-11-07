@@ -2484,6 +2484,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2884263/2026/12/07/rentn
  erweihnachtsfeier
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2999741@amtsfeed.de
+DTSTAMP:20261107T102347Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Volkssolidarität Lehnin Helferversammlung
+URL:https://www.klosterlehnin.de/veranstaltungen/2999741/2026/12/10/volks
+ solidaritaet-lehnin-helferversammlung
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2884591@amtsfeed.de
 DTSTAMP:20261028T095122Z
 DTSTART;VALUE=DATE:20261211
@@ -2778,11 +2787,11 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2974615/2027/07/31/volle
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2958253@amtsfeed.de
-DTSTAMP:20261028T095122Z
-DTSTART;VALUE=DATE:20270820
-DTEND;VALUE=DATE:20270821
+DTSTAMP:20261107T102347Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
 SUMMARY:Damsdorf feiert Dorffest
-URL:https://www.klosterlehnin.de/veranstaltungen/2958253/2027/08/20/damsd
+URL:https://www.klosterlehnin.de/veranstaltungen/2958253/2027/08/21/damsd
  orf-feiert-dorffest
 END:VEVENT
 BEGIN:VEVENT

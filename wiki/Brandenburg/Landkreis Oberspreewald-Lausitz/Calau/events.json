@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:01:42.904Z",
+  "updatedAt": "2026-11-07T10:21:55.542Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -1074,14 +1074,6 @@
       "updatedAt": "2026-11-04T11:04:31.771Z"
     },
     {
-      "id": "calau-event-2606463",
-      "title": "06.11.2026   Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau",
-      "url": "https://www.calau.de/veranstaltungen/2606463/2026/11/06/barrierefreie-buergersprechstunde-des-einwohnermeldeamtes-calau",
-      "startDate": "2026-11-06T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-11-04T11:04:31.771Z"
-    },
-    {
       "id": "calau-event-2877065",
       "title": "06.11.2026   Spieleabend",
       "url": "https://www.calau.de/veranstaltungen/2877065/2026/11/06/spieleabend",
@@ -1115,19 +1107,19 @@
     },
     {
       "id": "calau-event-2315266",
-      "title": "Calauer Museen öffnen",
+      "title": "11.11.2026   Calauer Museen öffnen",
       "url": "https://www.calau.de/veranstaltungen/2315266/2026/11/11/calauer-museen-oeffnen",
       "startDate": "2026-11-11T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-11-05T11:06:07.465Z"
+      "updatedAt": "2026-11-07T10:21:55.532Z"
     },
     {
       "id": "calau-event-2947235",
-      "title": "Tanz Dich Frei",
+      "title": "11.11.2026   Tanz Dich Frei",
       "url": "https://www.calau.de/veranstaltungen/2947235/2026/11/11/tanz-dich-frei",
       "startDate": "2026-11-11T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
-      "updatedAt": "2026-10-28T09:49:41.065Z"
+      "updatedAt": "2026-11-07T10:21:55.532Z"
     },
     {
       "id": "calau-event-2991983",
@@ -1384,6 +1376,14 @@
       "startDate": "2026-12-03T00:00:00.000Z",
       "fetchedAt": "2026-11-06T11:01:42.896Z",
       "updatedAt": "2026-11-06T11:01:42.896Z"
+    },
+    {
+      "id": "calau-event-2606463",
+      "title": "Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau",
+      "url": "https://www.calau.de/veranstaltungen/2606463/2026/12/04/barrierefreie-buergersprechstunde-des-einwohnermeldeamtes-calau",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-11-07T10:21:55.532Z"
     },
     {
       "id": "calau-event-2948040",

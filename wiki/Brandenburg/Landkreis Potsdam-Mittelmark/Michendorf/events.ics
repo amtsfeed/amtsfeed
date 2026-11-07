@@ -1487,15 +1487,6 @@ URL:https://www.michendorf.de/veranstaltungen/2987618/2026/11/05/rueckbil
  dungskurs-im-familienzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959541@amtsfeed.de
-DTSTAMP:20261031T094828Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959541/2026/11/06/jugendcl
- ub-micheck-geoeffnet
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2966244@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261106
@@ -1584,6 +1575,15 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Einkaufshilfe - gemeinsam Lieferapp einrichten
 URL:https://www.michendorf.de/veranstaltungen/2986753/2026/11/12/einkaufs
  hilfe-gemeinsam-lieferapp-einrichten
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959541@amtsfeed.de
+DTSTAMP:20261107T102350Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959541/2026/11/13/jugendcl
+ ub-micheck-geoeffnet
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2958916@amtsfeed.de

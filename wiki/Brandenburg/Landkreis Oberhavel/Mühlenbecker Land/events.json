@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:01:24.886Z",
+  "updatedAt": "2026-11-07T10:21:27.965Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -3875,6 +3875,24 @@
       "updatedAt": "2026-10-22T08:45:02.469Z"
     },
     {
+      "id": "muehlenbecker-land-event-59059749",
+      "title": "Zühlsdorf: Laternenumzug & Tag der offenen Tür",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59059749",
+      "startDate": "2026-11-11T15:30:00.000Z",
+      "location": "Kita \"Schneckenhaus\", OT Zühlsdorf, Dorfstraße 7",
+      "fetchedAt": "2026-11-07T10:21:24.640Z",
+      "updatedAt": "2026-11-07T10:21:24.640Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59059751",
+      "title": "Schildow: Martinsfest",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59059751",
+      "startDate": "2026-11-11T16:30:00.000Z",
+      "location": "Dorfkirche",
+      "fetchedAt": "2026-11-07T10:21:24.640Z",
+      "updatedAt": "2026-11-07T10:21:24.640Z"
+    },
+    {
       "id": "muehlenbecker-land-event-59004050",
       "title": "Volkssolidarität: Tanzgruppe Mühlentänzer",
       "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59004050",
@@ -4279,6 +4297,15 @@
       "updatedAt": "2026-11-03T11:01:02.904Z"
     },
     {
+      "id": "muehlenbecker-land-event-59059743",
+      "title": "Weihnachtsmarkt",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59059743",
+      "startDate": "2026-11-21T15:00:00.000Z",
+      "location": "Kenterplatz in Summt",
+      "fetchedAt": "2026-11-07T10:21:27.021Z",
+      "updatedAt": "2026-11-07T10:21:27.021Z"
+    },
+    {
       "id": "muehlenbecker-land-event-58798973",
       "title": "Volkssolidarität: Gymnastik",
       "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798973",
@@ -4430,6 +4457,33 @@
       "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
       "fetchedAt": "2026-11-06T11:01:24.886Z",
       "updatedAt": "2026-11-06T11:01:24.886Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798658",
+      "title": "Sitzgymnastik mit anschließender Kaffeerunde",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798658",
+      "startDate": "2026-11-26T15:00:00.000Z",
+      "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
+      "fetchedAt": "2026-11-07T10:21:27.965Z",
+      "updatedAt": "2026-11-07T10:21:27.965Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59059705",
+      "title": "Oh, Tannenbaum: Einstimmung auf den Advent",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59059705",
+      "startDate": "2026-11-27T00:00:00.000Z",
+      "location": "Historische Mönchmühle",
+      "fetchedAt": "2026-11-07T10:21:27.965Z",
+      "updatedAt": "2026-11-07T10:21:27.965Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58799178",
+      "title": "Kurs: Tanzgruppe",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58799178",
+      "startDate": "2026-11-27T09:30:00.000Z",
+      "location": "Bürgersaal, Franz-Schmidt-Str. 3, OT Schildow",
+      "fetchedAt": "2026-11-07T10:21:27.965Z",
+      "updatedAt": "2026-11-07T10:21:27.965Z"
     }
   ]
 }

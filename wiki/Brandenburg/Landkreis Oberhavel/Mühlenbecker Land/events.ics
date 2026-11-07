@@ -4074,6 +4074,24 @@ URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
 LOCATION:Bouleplatz\, Feldahornstraße\, OT Schönfließ
 END:VEVENT
 BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059749@amtsfeed.de
+DTSTAMP:20261107T102124Z
+DTSTART:20261111T153000Z
+SUMMARY:Zühlsdorf: Laternenumzug & Tag der offenen Tür
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059749
+LOCATION:Kita "Schneckenhaus"\, OT Zühlsdorf\, Dorfstraße 7
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059751@amtsfeed.de
+DTSTAMP:20261107T102124Z
+DTSTART:20261111T163000Z
+SUMMARY:Schildow: Martinsfest
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059751
+LOCATION:Dorfkirche
+END:VEVENT
+BEGIN:VEVENT
 UID:muehlenbecker-land-event-59004050@amtsfeed.de
 DTSTAMP:20261022T084502Z
 DTSTART:20261112T100000Z
@@ -4501,6 +4519,15 @@ URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
 LOCATION:Kenterplatz in Summt
 END:VEVENT
 BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059743@amtsfeed.de
+DTSTAMP:20261107T102127Z
+DTSTART:20261121T150000Z
+SUMMARY:Weihnachtsmarkt
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059743
+LOCATION:Kenterplatz in Summt
+END:VEVENT
+BEGIN:VEVENT
 UID:muehlenbecker-land-event-58798973@amtsfeed.de
 DTSTAMP:20261103T110102Z
 DTSTART:20261123T093000Z
@@ -4658,5 +4685,34 @@ URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
  .php?id=58798754
 LOCATION:Bürgertreff Bieselheide\, Traubeneichenstraße 66\, OT Schönfl
  ieß
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58798658@amtsfeed.de
+DTSTAMP:20261107T102127Z
+DTSTART:20261126T150000Z
+SUMMARY:Sitzgymnastik mit anschließender Kaffeerunde
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58798658
+LOCATION:Bürgertreff Bieselheide\, Traubeneichenstraße 66\, OT Schönfl
+ ieß
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059705@amtsfeed.de
+DTSTAMP:20261107T102127Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Oh\, Tannenbaum: Einstimmung auf den Advent
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059705
+LOCATION:Historische Mönchmühle
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58799178@amtsfeed.de
+DTSTAMP:20261107T102127Z
+DTSTART:20261127T093000Z
+SUMMARY:Kurs: Tanzgruppe
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58799178
+LOCATION:Bürgersaal\, Franz-Schmidt-Str. 3\, OT Schildow
 END:VEVENT
 END:VCALENDAR

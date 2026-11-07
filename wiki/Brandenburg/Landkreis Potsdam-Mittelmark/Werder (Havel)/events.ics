@@ -6559,15 +6559,6 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Restaurant Filterhaus
 END:VEVENT
 BEGIN:VEVENT
-UID:werder-havel-event-99233869@amtsfeed.de
-DTSTAMP:20261106T110349Z
-DTSTART:20261106T110349Z
-SUMMARY:Ausstellung Jüdische Schicksale
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99233869
-LOCATION:Kunsthof Glindow
-END:VEVENT
-BEGIN:VEVENT
 UID:werder-havel-event-99221844@amtsfeed.de
 DTSTAMP:20261106T110349Z
 DTSTART:20261106T110349Z
@@ -6575,60 +6566,6 @@ SUMMARY:Kreativ- & Antikmarkt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99221844
 LOCATION:EKZ Werderpark
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99127796@amtsfeed.de
-DTSTAMP:20261106T110349Z
-DTSTART:20261106T110349Z
-SUMMARY:Tage der offenen Kelterei bei Weinbau Dr. Lindicke
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99127796
-LOCATION:Kelterei Weinbau Dr. Lindicke
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99221090@amtsfeed.de
-DTSTAMP:20261106T110349Z
-DTSTART:20261106T110349Z
-SUMMARY:Apfeltage auf dem Obsthof Lindicke
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99221090
-LOCATION:Obsthof Lindicke
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99234766@amtsfeed.de
-DTSTAMP:20261106T110349Z
-DTSTART:20261106T110349Z
-SUMMARY:Jubiläumsausstellung – 66 Jahre Karnevalsclub Werder e.V.
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99234766
-LOCATION:Stadtgalerie KUNST-GESCHOSS
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99227915@amtsfeed.de
-DTSTAMP:20261106T110349Z
-DTSTART:20261106T110349Z
-SUMMARY:50. Jähriges Jubiläum - Gemischter Chor Glindow e.V.
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99227915
-LOCATION:Werderaner Tannenhof
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99230248@amtsfeed.de
-DTSTAMP:20261106T110349Z
-DTSTART:20261106T110349Z
-SUMMARY:Tag der Offenen Tür im TANZWERK Werder
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99230248
-LOCATION:TANZWERK Werder
-END:VEVENT
-BEGIN:VEVENT
-UID:werder-havel-event-99228339@amtsfeed.de
-DTSTAMP:20261106T110349Z
-DTSTART:20261106T110349Z
-SUMMARY:Schloss des Grauens - ein Gruselspaß
-URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
- taltungskalender/veranstaltungsinformationen/?eventid=99228339
-LOCATION:Theater Comedie Soleil
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99235062@amtsfeed.de
@@ -6650,9 +6587,72 @@ URL:https://www.werder-havel.de/tourismus/veranstaltungen/veranstaltungsk
 LOCATION:Schlossgarten Petzow
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99233869@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
+SUMMARY:Ausstellung Jüdische Schicksale
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99233869
+LOCATION:Kunsthof Glindow
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99127796@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
+SUMMARY:Tage der offenen Kelterei bei Weinbau Dr. Lindicke
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99127796
+LOCATION:Kelterei Weinbau Dr. Lindicke
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99221090@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
+SUMMARY:Apfeltage auf dem Obsthof Lindicke
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99221090
+LOCATION:Obsthof Lindicke
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99234766@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
+SUMMARY:Jubiläumsausstellung – 66 Jahre Karnevalsclub Werder e.V.
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99234766
+LOCATION:Stadtgalerie KUNST-GESCHOSS
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99227915@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
+SUMMARY:50. Jähriges Jubiläum - Gemischter Chor Glindow e.V.
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99227915
+LOCATION:Werderaner Tannenhof
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99230248@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
+SUMMARY:Tag der Offenen Tür im TANZWERK Werder
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99230248
+LOCATION:TANZWERK Werder
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99228339@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
+SUMMARY:Schloss des Grauens - ein Gruselspaß
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99228339
+LOCATION:Theater Comedie Soleil
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99233870@amtsfeed.de
-DTSTAMP:20261028T095153Z
-DTSTART:20261108T080000Z
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
 SUMMARY:Ausstellung Jüdische Schicksale
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233870
@@ -6660,8 +6660,8 @@ LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99148961@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261108T100000Z
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
 SUMMARY:Rittmeisters Brunch
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99148961
@@ -6669,8 +6669,8 @@ LOCATION:Hotel "Zum Rittmeister"
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99221091@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261108T100000Z
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
 SUMMARY:Apfeltage auf dem Obsthof Lindicke
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99221091
@@ -6678,8 +6678,8 @@ LOCATION:Obsthof Lindicke
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233965@amtsfeed.de
-DTSTAMP:20261028T095153Z
-DTSTART:20261108T100000Z
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
 SUMMARY:Tage der offenen Kelterei bei Weinbau Dr. Lindicke
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99233965
@@ -6687,8 +6687,8 @@ LOCATION:Kelterei Weinbau Dr. Lindicke
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99128752@amtsfeed.de
-DTSTAMP:20260911T111348Z
-DTSTART:20261108T120000Z
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
 SUMMARY:"Und immer lockt die Kunst - 30 Jahre Stilus"
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99128752
@@ -6696,8 +6696,8 @@ LOCATION:Kulturkirche Petzow
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99234767@amtsfeed.de
-DTSTAMP:20261104T110642Z
-DTSTART:20261108T130000Z
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
 SUMMARY:Jubiläumsausstellung – 66 Jahre Karnevalsclub Werder e.V.
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99234767
@@ -6705,12 +6705,21 @@ LOCATION:Stadtgalerie KUNST-GESCHOSS
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99228344@amtsfeed.de
-DTSTAMP:20261007T103009Z
-DTSTART:20261108T170000Z
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
 SUMMARY:Schloss des Grauens - ein Gruselspaß
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99228344
 LOCATION:Theater Comedie Soleil
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99235573@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261107T102414Z
+SUMMARY:Kreativ- & Antikmarkt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235573
+LOCATION:EKZ Werderpark
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233871@amtsfeed.de
@@ -6729,6 +6738,24 @@ SUMMARY:Jubiläumsausstellung – 66 Jahre Karnevalsclub Werder e.V.
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99234768
 LOCATION:Stadtgalerie KUNST-GESCHOSS
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99235576@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261109T173000Z
+SUMMARY:Die Ermittlung
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235576
+LOCATION:Ernst-Haeckel-Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99235761@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261109T190000Z
+SUMMARY:Film „Warum ich – Wolf D. Kroll“
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235761
+LOCATION:Hotel zur Insel
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99233872@amtsfeed.de
@@ -7030,6 +7057,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Kunsthof Glindow
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99235770@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261120T190000Z
+SUMMARY:LILO WANDERS – WAREN SIE NICHT MAL LILO WANDERS?
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235770
+LOCATION:Scala-Kulturpalast
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99233883@amtsfeed.de
 DTSTAMP:20261028T095153Z
 DTSTART:20261121T080000Z
@@ -7229,6 +7265,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Marktplatz Werder (Havel)
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99235772@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261128T190000Z
+SUMMARY:THOMAS FRITZSCHING – SILLY: DIE GEKLAUTE BAND
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235772
+LOCATION:Scala-Kulturpalast
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99228349@amtsfeed.de
 DTSTAMP:20261007T103009Z
 DTSTART:20261128T193000Z
@@ -7382,12 +7427,30 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:Scala-Kulturpalast
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99235775@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261204T190000Z
+SUMMARY:WERDER TRUE CRIME SLAM
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235775
+LOCATION:Scala-Kulturpalast
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99221845@amtsfeed.de
 DTSTAMP:20260911T111348Z
 DTSTART:20261205T090000Z
 SUMMARY:Kreativ- & Antikmarkt
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99221845
+LOCATION:EKZ Werderpark
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99235574@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261205T090000Z
+SUMMARY:Kreativ- & Antikmarkt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235574
 LOCATION:EKZ Werderpark
 END:VEVENT
 BEGIN:VEVENT
@@ -7564,6 +7627,15 @@ URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
 LOCATION:EKZ Werderpark
 END:VEVENT
 BEGIN:VEVENT
+UID:werder-havel-event-99235575@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20261219T090000Z
+SUMMARY:Kreativ- & Antikmarkt
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235575
+LOCATION:EKZ Werderpark
+END:VEVENT
+BEGIN:VEVENT
 UID:werder-havel-event-99228351@amtsfeed.de
 DTSTAMP:20261007T103009Z
 DTSTART:20261219T193000Z
@@ -7643,6 +7715,33 @@ SUMMARY:Neujahrsfeuer in Derwitz
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99125705
 LOCATION:Am Gemeindehaus in Derwitz
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99235786@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20270109T190000Z
+SUMMARY:LEIPZIGER PFEFFERMÜHLE „HARAKIRI TO GO“
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235786
+LOCATION:Scala-Kulturpalast
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99235788@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20270115T190000Z
+SUMMARY:SCALA BLUES NIGHT: PASSOVER BLUES UND JOSA
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235788
+LOCATION:Scala-Kulturpalast
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99235789@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20270116T190000Z
+SUMMARY:WERDER POETRY SLAM – DIE WORTBÜHNE AN DER HAVEL
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235789
+LOCATION:Scala-Kulturpalast
 END:VEVENT
 BEGIN:VEVENT
 UID:werder-havel-event-99209771@amtsfeed.de
@@ -7778,5 +7877,14 @@ SUMMARY:XXXV. Töplitzer Insellauf
 URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
  taltungskalender/veranstaltungsinformationen/?eventid=99234777
 LOCATION:Sportplatz der SG Töplitz
+END:VEVENT
+BEGIN:VEVENT
+UID:werder-havel-event-99235781@amtsfeed.de
+DTSTAMP:20261107T102414Z
+DTSTART:20271231T170000Z
+SUMMARY:RANZ UND MAY - ICH KÖNNT SCHON WIEDER
+URL:https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/verans
+ taltungskalender/veranstaltungsinformationen/?eventid=99235781
+LOCATION:Scala-Kulturpalast
 END:VEVENT
 END:VCALENDAR

@@ -859,14 +859,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2909882/2026/11/05/tafelru
  nde.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855745@amtsfeed.de
-DTSTAMP:20261031T094627Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Schach
-URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/11/06/schach
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2962220@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261106
@@ -874,15 +866,6 @@ DTEND;VALUE=DATE:20261107
 SUMMARY:Erste Notenübersicht (Klasse 3-6)
 URL:https://www.oberkraemer.de/veranstaltungen/2962220/2026/11/06/erste-n
  otenuebersicht-klasse-3-6
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2991606@amtsfeed.de
-DTSTAMP:20261028T094920Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:WIR.PUNKT
-URL:https://www.oberkraemer.de/veranstaltungen/2991606/2026/11/06/wir.pun
- kt
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855754@amtsfeed.de
@@ -1081,6 +1064,23 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Fototermine
 URL:https://www.oberkraemer.de/veranstaltungen/2962222/2026/11/12/fototer
  mine
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855745@amtsfeed.de
+DTSTAMP:20261107T102130Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Schach
+URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/11/13/schach
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2991606@amtsfeed.de
+DTSTAMP:20261107T102130Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:WIR.PUNKT
+URL:https://www.oberkraemer.de/veranstaltungen/2991606/2026/11/13/wir.pun
+ kt
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855610@amtsfeed.de

@@ -2,7 +2,7 @@
   {
     "domain": "www.zeuthen.de",
     "baseUrl": "https://www.zeuthen.de",
-    "updatedAt": "2026-11-05T11:00:41.609Z",
+    "updatedAt": "2026-11-07T10:17:03.060Z",
     "content": "User-agent: MS Search 4.0 Robot\nDisallow: /\n\nUser-agent: Nutch\nDisallow: /\n\nUser-agent: discobot\nDisallow: /\n\nUser-agent: WebReaper\nDisallow: /\n\nUser-agent: Slurp\nCrawl-delay: 18\n\nUser-agent: Mediapartners-Google*\nDisallow:\nSitemap: https://www.zeuthen.de/sitemap.xml\n"
   }
 ]

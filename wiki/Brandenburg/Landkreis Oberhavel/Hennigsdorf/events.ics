@@ -582,4 +582,38 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Bali-Java-Sumat
  67.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&am
  p\;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-902@amtsfeed.de
+DTSTAMP:20261107T102110Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Playday | Spielenachmittag
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Playday-Spielen
+ achmittag.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.902.1&amp\;
+ NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&a
+ mp\;k_sub=1
+LOCATION:Waldstraße 39\, Hennigsdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-881@amtsfeed.de
+DTSTAMP:20261107T102110Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Martinstag | Evangelische Kirchengemeinde Nieder Neuendorf
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Martinstag-Evan
+ gelische-Kirchengemeinde-Nieder-Neuendorf.php?object=tx\,3590.4.1&amp\;Mo
+ dID=11&amp\;FID=3590.881.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&a
+ mp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-896@amtsfeed.de
+DTSTAMP:20261107T102110Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Chormusik zum Kaffee
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Chormusik-zum-K
+ affee.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.896.1&amp\;NavI
+ D=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;
+ k_sub=1
+END:VEVENT
 END:VCALENDAR

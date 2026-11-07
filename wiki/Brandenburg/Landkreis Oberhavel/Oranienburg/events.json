@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:01:30.314Z",
+  "updatedAt": "2026-11-07T10:21:33.932Z",
   "items": [
     {
       "id": "oranienburg-event-7687",
@@ -1495,11 +1495,11 @@
     },
     {
       "id": "oranienburg-event-8079",
-      "title": "Gospelkonzert",
-      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Gospelkonzert.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8079.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "title": "Gospelkonzert in der Nicolai-Kirche",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Gospelkonzert-in-der-Nicolai-Kirche.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8079.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
       "startDate": "2026-11-14T00:00:00.000Z",
       "fetchedAt": "2026-11-04T11:04:17.847Z",
-      "updatedAt": "2026-11-04T11:04:17.847Z"
+      "updatedAt": "2026-11-07T10:21:33.940Z"
     },
     {
       "id": "oranienburg-event-8063",
@@ -1519,11 +1519,59 @@
     },
     {
       "id": "oranienburg-event-8032",
-      "title": "Seelenmenschen Deluxe",
-      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Seelenmenschen-Deluxe.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8032.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "title": "Liederabend mit den &raquo;Seelenmenschen Deluxe&laquo;",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Liederabend-mit-den-Seelenmenschen-Deluxe-.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8032.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
       "startDate": "2026-11-14T00:00:00.000Z",
       "fetchedAt": "2026-11-06T11:01:30.322Z",
-      "updatedAt": "2026-11-06T11:01:30.322Z"
+      "updatedAt": "2026-11-07T10:21:33.940Z"
+    },
+    {
+      "id": "oranienburg-event-8089",
+      "title": "9. Gesundheitstag Oberhavel in der MBS Arena",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/9-Gesundheitstag-Oberhavel-in-der-MBS-Arena.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8089.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-11-07T10:21:33.940Z",
+      "updatedAt": "2026-11-07T10:21:33.940Z"
+    },
+    {
+      "id": "oranienburg-event-7928",
+      "title": "Puppentheater: Frau Holle und der Winterzauber!",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Puppentheater-Frau-Holle-und-der-Winterzauber-.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7928.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-11-07T10:21:33.940Z",
+      "updatedAt": "2026-11-07T10:21:33.940Z"
+    },
+    {
+      "id": "oranienburg-event-7595",
+      "title": "Liederabend mit den &raquo;Seelenmenschen Deluxe&laquo;",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Liederabend-mit-den-Seelenmenschen-Deluxe-.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7595.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-11-07T10:21:33.940Z",
+      "updatedAt": "2026-11-07T10:21:33.940Z"
+    },
+    {
+      "id": "oranienburg-event-8033",
+      "title": "Liederabend mit den &raquo;Seelenmenschen Deluxe&laquo;",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Liederabend-mit-den-Seelenmenschen-Deluxe-.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8033.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-11-07T10:21:33.940Z",
+      "updatedAt": "2026-11-07T10:21:33.940Z"
+    },
+    {
+      "id": "oranienburg-event-7492",
+      "title": "Orgelmusik zur Mittagszeit",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Orgelmusik-zur-Mittagszeit.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7492.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-11-17T00:00:00.000Z",
+      "fetchedAt": "2026-11-07T10:21:33.940Z",
+      "updatedAt": "2026-11-07T10:21:33.940Z"
+    },
+    {
+      "id": "oranienburg-event-8084",
+      "title": "Lehnitzer Energie-Treff: Selber Heizkosten senken",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Lehnitzer-Energie-Treff-Selber-Heizkosten-senken.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8084.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-11-17T00:00:00.000Z",
+      "fetchedAt": "2026-11-07T10:21:33.940Z",
+      "updatedAt": "2026-11-07T10:21:33.940Z"
     }
   ]
 }

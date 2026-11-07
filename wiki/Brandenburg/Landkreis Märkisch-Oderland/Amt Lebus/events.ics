@@ -1258,26 +1258,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2980741/2026/11/05/stark-wer
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
-UID:2464906@amtsfeed.de
-DTSTAMP:20261031T094516Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/11/06/selbstver
- teidigung-fuer-kinder-von-5-13-jahren
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464907@amtsfeed.de
-DTSTAMP:20261031T094516Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/11/06/selbstver
- teidigung-fuer-jugendliche-ab-13-jahren
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464910@amtsfeed.de
 DTSTAMP:20261101T103519Z
 DTSTART;VALUE=DATE:20261107
@@ -1498,6 +1478,26 @@ SUMMARY:Tischtennis
 URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/12/tischtenn
  is
 DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464906@amtsfeed.de
+DTSTAMP:20261107T102013Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/11/13/selbstver
+ teidigung-fuer-kinder-von-5-13-jahren
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464907@amtsfeed.de
+DTSTAMP:20261107T102013Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/11/13/selbstver
+ teidigung-fuer-jugendliche-ab-13-jahren
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT

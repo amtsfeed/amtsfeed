@@ -1215,16 +1215,6 @@ URL:https://www.calau.de/veranstaltungen/2980738/2026/11/05/workshop-fuer
  -mamas-zurueck-in-deine-kraft-nervensystem-regulieren
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2606463@amtsfeed.de
-DTSTAMP:20261104T110431Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:06.11.2026   Barrierefreie Bürgersprechstunde des Einwohnermelde
- amtes Calau
-URL:https://www.calau.de/veranstaltungen/2606463/2026/11/06/barrierefreie
- -buergersprechstunde-des-einwohnermeldeamtes-calau
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2877065@amtsfeed.de
 DTSTAMP:20261105T110607Z
 DTSTART;VALUE=DATE:20261106
@@ -1261,19 +1251,19 @@ URL:https://www.calau.de/veranstaltungen/2024997/2026/11/10/ihk-sprechtag
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20261105T110607Z
+DTSTAMP:20261107T102155Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:Calauer Museen öffnen
+SUMMARY:11.11.2026   Calauer Museen öffnen
 URL:https://www.calau.de/veranstaltungen/2315266/2026/11/11/calauer-musee
  n-oeffnen
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2947235@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261107T102155Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:Tanz Dich Frei
+SUMMARY:11.11.2026   Tanz Dich Frei
 URL:https://www.calau.de/veranstaltungen/2947235/2026/11/11/tanz-dich-fre
  i
 END:VEVENT
@@ -1567,6 +1557,15 @@ SUMMARY:Themenabend: "Weihnachten\, ich mag dich\, ich mag dich nicht&hel
  lip\;"
 URL:https://www.calau.de/veranstaltungen/2999553/2026/12/03/themenabend-w
  eihnachten-ich-mag-dich-ich-mag-dich-nicht
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2606463@amtsfeed.de
+DTSTAMP:20261107T102155Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Barrierefreie Bürgersprechstunde des Einwohnermeldeamtes Calau
+URL:https://www.calau.de/veranstaltungen/2606463/2026/12/04/barrierefreie
+ -buergersprechstunde-des-einwohnermeldeamtes-calau
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2948040@amtsfeed.de

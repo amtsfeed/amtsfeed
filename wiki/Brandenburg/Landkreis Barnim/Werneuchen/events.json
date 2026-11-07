@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T10:59:07.699Z",
+  "updatedAt": "2026-11-07T10:16:10.569Z",
   "items": [
     {
       "id": "werneuchen-event-900001442",
@@ -329,6 +329,27 @@
       "description": "gemeinsames Kaffeetrinken, plaudern und Spielen für jedermann",
       "fetchedAt": "2026-11-04T10:59:07.705Z",
       "updatedAt": "2026-11-04T10:59:07.705Z"
+    },
+    {
+      "id": "werneuchen-event-900001374",
+      "title": "Training Ritterschaft Krummensee",
+      "url": "https://www.werneuchen-barnim.de/veranstaltungen/veranstaltungen/veranstaltung/900001374-30690.html",
+      "startDate": "2026-11-07T10:00:00Z",
+      "endDate": "2026-11-07T13:00:00Z",
+      "location": "Am Haussee in Krummensee, Am Haussee,",
+      "description": "Alle 14 Tage, am Samstag in den ungeraden Kalenderwochen, trainiert die Ritterschaft Krummensee auf dem Sportplatz am Haussee. Interessenten melden sich bitte vorher, unter Angabe der Waffengattung (Bogenschießen oder Schwertkampf) an, damit eine entsprechende Leihausrüstung zur Verfügung gestellt werden kann. Auch Zuschauer sind uns herzlich willkommen!",
+      "fetchedAt": "2026-11-07T10:16:10.577Z",
+      "updatedAt": "2026-11-07T10:16:10.577Z"
+    },
+    {
+      "id": "werneuchen-event-900001581",
+      "title": "46. Rudolfshöher Preisskat",
+      "url": "https://www.werneuchen-barnim.de/veranstaltungen/veranstaltungen/veranstaltung/900001581-30690.html",
+      "startDate": "2026-11-07T14:00:00Z",
+      "endDate": "2026-11-07T20:00:00Z",
+      "location": "Siedlerverein Rudolfshöhe e.V., Thälmannstr. 26a, 16356 Werneuchen",
+      "fetchedAt": "2026-11-07T10:16:10.577Z",
+      "updatedAt": "2026-11-07T10:16:10.577Z"
     }
   ]
 }

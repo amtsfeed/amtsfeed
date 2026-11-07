@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:01:09.336Z",
+  "updatedAt": "2026-11-07T10:21:10.575Z",
   "items": [
     {
       "id": "hennigsdorf-event-820",
@@ -427,6 +427,31 @@
       "startDate": "2026-11-12T00:00:00.000Z",
       "fetchedAt": "2026-11-06T11:01:09.343Z",
       "updatedAt": "2026-11-06T11:01:09.343Z"
+    },
+    {
+      "id": "hennigsdorf-event-902",
+      "title": "Playday | Spielenachmittag",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Playday-Spielenachmittag.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.902.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "location": "Waldstraße 39, Hennigsdorf",
+      "fetchedAt": "2026-11-07T10:21:10.583Z",
+      "updatedAt": "2026-11-07T10:21:10.583Z"
+    },
+    {
+      "id": "hennigsdorf-event-881",
+      "title": "Martinstag | Evangelische Kirchengemeinde Nieder Neuendorf",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Martinstag-Evangelische-Kirchengemeinde-Nieder-Neuendorf.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.881.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-11-07T10:21:10.583Z",
+      "updatedAt": "2026-11-07T10:21:10.583Z"
+    },
+    {
+      "id": "hennigsdorf-event-896",
+      "title": "Chormusik zum Kaffee",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Chormusik-zum-Kaffee.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.896.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-11-07T10:21:10.583Z",
+      "updatedAt": "2026-11-07T10:21:10.583Z"
     }
   ]
 }

@@ -2,7 +2,7 @@
   {
     "domain": "www.wustermark.de",
     "baseUrl": "https://www.wustermark.de",
-    "updatedAt": "2026-11-05T11:02:31.241Z",
+    "updatedAt": "2026-11-07T10:18:40.646Z",
     "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /suche.phtml\nDisallow: /suchen.phtml\nDisallow: /redirect.phtml\nDisallow: /showobject.phtml\n\nSitemap: https://www.wustermark.de/sitemap.xml"
   }
 ]

@@ -1,5 +1,52 @@
 # Updates
 
+## 2026-11-07 10:24
+
+Insgesamt **433 neu**, **363 aktualisiert**, **0 entfernt** in 40 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~1 | — | — |
+| Amt Beetzsee | — | +1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Beeskow | — | +1 | +1 | — |
+| Bernau bei Berlin | +3 | +6 / ~8 | — | — |
+| Calau | +1 | ~3 | — | — |
+| Dallgow-Döberitz | — | +2 | — | — |
+| Eberswalde | — | +3 | — | — |
+| Eisenhüttenstadt | — | +3 / ~7 | — | — |
+| Fredersdorf-Vogelsdorf | — | +1 | — | — |
+| Fürstenberg-Havel | +2 / ~1 | — | — | ~2 |
+| Glienicke-Nordbahn | — | +1 | — | — |
+| Groß Kreutz | — | ~17 | — | — |
+| Großräschen | — | +1 | — | — |
+| Hennigsdorf | — | +3 | — | — |
+| Hohen Neuendorf | — | +1 | — | — |
+| Kleinmachnow | — | +3 | — | — |
+| Kloster Lehnin | — | +1 / ~1 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +1 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +1 | — | — |
+| Löwenberger Land | +1 | — | — | — |
+| Lübbenau Spreewald | — | +312 / ~234 | — | — |
+| Michendorf | — | ~1 | — | — |
+| Milower Land | +2 | — | — | +1 |
+| Mühlenbecker Land | — | +6 | — | — |
+| Nuthetal | — | — | +1 | — |
+| Oberkrämer | +1 | ~2 | — | — |
+| Oranienburg | — | +6 / ~2 | — | — |
+| Premnitz | +1 | +13 | — | — |
+| Rietz-Neuendorf | — | +8 | ~2 | — |
+| Schönefeld | — | ~30 | — | — |
+| Senftenberg | +2 | +6 | — | — |
+| Stahnsdorf | — | +17 / ~3 | — | — |
+| Storkow (Mark) | +1 | — | — | — |
+| Treuenbrietzen | +1 | — | — | — |
+| Werder (Havel) | +1 | +12 / ~14 | — | +3 |
+| Werneuchen | — | +2 | — | — |
+| Wiesenburg-Mark | — | ~3 | — | — |
+
 ## 2026-11-06 11:04
 
 Insgesamt **322 neu**, **397 aktualisiert**, **6 entfernt** in 74 Quellen.

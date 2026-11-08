@@ -1155,15 +1155,6 @@ URL:https://www.scharmuetzelsee.de/event/ausverkauft-workshop-im-naturpar
  k-das-1-x-1-des-filzens
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261105T110644Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
- ad-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-zur-kaffeezeit-im-scharwenka-kulturforum@amtsfeed.de
 DTSTAMP:20261102T112006Z
 DTSTART;VALUE=DATE:20261105
@@ -1171,14 +1162,6 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:"Zur Kaffeezeit" im Scharwenka Kulturforum
 URL:https://www.scharmuetzelsee.de/event/zur-kaffeezeit-im-scharwenka-kul
  turforum
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
-DTSTAMP:20261102T112006Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Offener Meditationsabend
-URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-lesung-aus-dem-buch-guenter-de-bruyns-maerkische-fahr
@@ -1221,6 +1204,61 @@ SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
  nkeranlage Fuchsbau“
 URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
  nker-im-technischen-denkmal-bunkeranlage-fuchsbau
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261108T103311Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrt-nachsaison-sa-so@amtsfeed.de
+DTSTAMP:20261108T103311Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Linienfahrt Nachsaison (Sa. & So.)
+URL:https://www.scharmuetzelsee.de/event/linienfahrt-nachsaison-sa-so
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-saarower-salonkonzert-auf-den-zweiten-blick@amtsfeed.
+ de
+DTSTAMP:20261108T103311Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:"Saarower Salonkonzert" - Auf den zweiten Blick
+URL:https://www.scharmuetzelsee.de/event/saarower-salonkonzert-auf-den-zw
+ eiten-blick
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-martinsgansessen-im-fischhaus-wendisch-rietz@amtsfeed
+ .de
+DTSTAMP:20261108T103311Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Martinsgansessen im Fischhaus Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/martinsgansessen-im-fischhaus-we
+ ndisch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-du-und-dein-garten-im-naturpark-ernteglueck-im-winter
+ @amtsfeed.de
+DTSTAMP:20261108T103311Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Du und Dein Garten im Naturpark: "Ernteglück im Winter"
+URL:https://www.scharmuetzelsee.de/event/du-und-dein-garten-im-naturpark-
+ ernteglueck-im-winter
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
+DTSTAMP:20261108T103311Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Offener Meditationsabend
+URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alt

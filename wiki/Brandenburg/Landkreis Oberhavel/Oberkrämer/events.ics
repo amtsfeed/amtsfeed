@@ -868,15 +868,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2962220/2026/11/06/erste-n
  otenuebersicht-klasse-3-6
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855754@amtsfeed.de
-DTSTAMP:20261028T094920Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:ReTrO - ReparaturTreff Oberkrämer
-URL:https://www.oberkraemer.de/veranstaltungen/2855754/2026/11/07/retro-r
- eparaturtreff-oberkraemer
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2962465@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261107
@@ -1541,6 +1532,15 @@ DTEND;VALUE=DATE:20261205
 SUMMARY:Buchlesung mit Stephan Hähnel
 URL:https://www.oberkraemer.de/veranstaltungen/2983365/2026/12/04/buchles
  ung-mit-stephan-haehnel
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855754@amtsfeed.de
+DTSTAMP:20261108T103223Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:ReTrO - ReparaturTreff Oberkrämer
+URL:https://www.oberkraemer.de/veranstaltungen/2855754/2026/12/05/retro-r
+ eparaturtreff-oberkraemer
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855648@amtsfeed.de

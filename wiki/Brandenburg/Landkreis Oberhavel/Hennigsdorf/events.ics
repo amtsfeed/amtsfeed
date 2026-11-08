@@ -616,4 +616,14 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Chormusik-zum-K
  D=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;
  k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-894@amtsfeed.de
+DTSTAMP:20261108T103204Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Laternenumzug
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Laternenumzug.p
+ hp?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.894.1&amp\;NavID=2713.
+ 9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

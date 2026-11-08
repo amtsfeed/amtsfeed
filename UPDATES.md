@@ -1,5 +1,40 @@
 # Updates
 
+## 2026-11-08 10:35
+
+Insgesamt **243 neu**, **505 aktualisiert**, **0 entfernt** in 28 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~1 | — | — |
+| Amt Niemegk | — | +1 | — | — |
+| Amt Plessa | — | ~3 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +4 / ~2 | — | — |
+| Amt Schenkenländchen | — | +1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Beeskow | +1 | — | — | — |
+| Bernau bei Berlin | — | +4 / ~21 | — | — |
+| Eberswalde | — | +1 | — | — |
+| Eisenhüttenstadt | — | +1 / ~2 | — | — |
+| Falkensee | — | +2 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Groß Kreutz | — | ~16 | — | — |
+| Hennigsdorf | — | +1 | — | — |
+| Hohen Neuendorf | — | +4 / ~1 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +2 | — | — |
+| Löwenberger Land | — | +1 | — | — |
+| Lübbenau Spreewald | — | +202 / ~383 | — | — |
+| Mühlenbecker Land | — | +4 | — | — |
+| Oberkrämer | — | ~1 | — | — |
+| Oranienburg | — | +2 | — | — |
+| Premnitz | — | +5 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Schönefeld | ~1 | ~30 | — | — |
+| Schorfheide | — | +1 | — | — |
+| Senftenberg | — | +6 | — | — |
+| Werder (Havel) | — | ~11 | — | — |
+
 ## 2026-11-07 10:24
 
 Insgesamt **433 neu**, **363 aktualisiert**, **0 entfernt** in 40 Quellen.

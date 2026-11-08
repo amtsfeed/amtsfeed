@@ -3987,6 +3987,16 @@ URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
 LOCATION:Am oberen Regenrückhaltebecken\, Bieselheide\, OT Schönfließ
 END:VEVENT
 BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059757@amtsfeed.de
+DTSTAMP:20261108T103217Z
+DTSTART:20261109T100000Z
+SUMMARY:Bastel-Café: Gemeinsam kreativ
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059757
+LOCATION:Mühlenbecker Wohnzimmer in der Historischen Mönchmühle / Mön
+ chmühlenallee 3\; 16567 Mühlenbeck
+END:VEVENT
+BEGIN:VEVENT
 UID:muehlenbecker-land-event-59059362@amtsfeed.de
 DTSTAMP:20261031T094623Z
 DTSTART:20261109T190000Z
@@ -4261,6 +4271,16 @@ SUMMARY:Kurs: TaiChi
 URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
  .php?id=58809491
 LOCATION:Am oberen Regenrückhaltebecken\, Bieselheide\, OT Schönfließ
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059758@amtsfeed.de
+DTSTAMP:20261108T103218Z
+DTSTART:20261116T100000Z
+SUMMARY:Spiele-Café: Bingo spielen
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059758
+LOCATION:Historische Mönchmühle\, Mönchmühlenallee 3\, 16567 Mühlenb
+ eck
 END:VEVENT
 BEGIN:VEVENT
 UID:muehlenbecker-land-event-58813667@amtsfeed.de
@@ -4714,5 +4734,24 @@ SUMMARY:Kurs: Tanzgruppe
 URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
  .php?id=58799178
 LOCATION:Bürgersaal\, Franz-Schmidt-Str. 3\, OT Schildow
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58770350@amtsfeed.de
+DTSTAMP:20261108T103221Z
+DTSTART:20261127T100000Z
+SUMMARY:Seniorentreff im Mühlenbecker Wohnzimer
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58770350
+LOCATION:Historische Mönchmühle\, "Mühlenbecker Wohnzimmer"\; Mönchm
+ ühlenallee 3\; 16567 Mühlenbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059742@amtsfeed.de
+DTSTAMP:20261108T103221Z
+DTSTART:20261127T160000Z
+SUMMARY:Adventsmarkt: Mühlenbecker Weihnachtsweg
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059742
+LOCATION:Schulen\, Hort und Dorfkirche Mühlenbeck\, Hauptstraße
 END:VEVENT
 END:VCALENDAR

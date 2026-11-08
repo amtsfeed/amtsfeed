@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T10:21:15.860Z",
+  "updatedAt": "2026-11-08T10:32:09.286Z",
   "items": [
     {
       "id": "hohen-neuendorf-event-digitale-sprechstunde-umgang-mit-dem-smartphone-0",
@@ -650,14 +650,6 @@
       "updatedAt": "2026-10-25T08:34:23.755Z"
     },
     {
-      "id": "hohen-neuendorf-event-kirchenchorprobe",
-      "title": "Kirchenchorprobe",
-      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/kirchenchorprobe",
-      "startDate": "2026-11-03T00:00:00.000Z",
-      "fetchedAt": "2026-05-26T09:04:00.706Z",
-      "updatedAt": "2026-10-28T09:49:06.914Z"
-    },
-    {
       "id": "hohen-neuendorf-event-miteinander-reden-0",
       "title": "Miteinander reden",
       "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/miteinander-reden-0",
@@ -728,6 +720,46 @@
       "startDate": "2026-11-07T00:00:00.000Z",
       "fetchedAt": "2026-11-07T10:21:15.867Z",
       "updatedAt": "2026-11-07T10:21:15.867Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-ortsbegehung-stolpersteine-mit-putzaktion",
+      "title": "Ortsbegehung Stolpersteine mit Putzaktion",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/ortsbegehung-stolpersteine-mit-putzaktion",
+      "startDate": "2026-11-09T00:00:00.000Z",
+      "fetchedAt": "2026-11-08T10:32:09.295Z",
+      "updatedAt": "2026-11-08T10:32:09.295Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-stadtgesprach-mit-dem-burgermeister-im-ratssaal",
+      "title": "Stadtgespräch mit dem Bürgermeister im Ratssaal",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/stadtgesprach-mit-dem-burgermeister-im-ratssaal",
+      "startDate": "2026-11-09T00:00:00.000Z",
+      "fetchedAt": "2026-11-08T10:32:09.295Z",
+      "updatedAt": "2026-11-08T10:32:09.295Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-kirchenchorprobe",
+      "title": "Kirchenchorprobe",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/kirchenchorprobe",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:00.706Z",
+      "updatedAt": "2026-11-08T10:32:09.295Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-aktion-zu-den-tagen-der-sichtbarkeit",
+      "title": "Aktion zu den Tagen der Sichtbarkeit",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/aktion-zu-den-tagen-der-sichtbarkeit",
+      "startDate": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-11-08T10:32:09.295Z",
+      "updatedAt": "2026-11-08T10:32:09.295Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-sprachcafe-4",
+      "title": "Sprachcafé",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/sprachcafe-4",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-11-08T10:32:09.295Z",
+      "updatedAt": "2026-11-08T10:32:09.295Z"
     }
   ]
 }

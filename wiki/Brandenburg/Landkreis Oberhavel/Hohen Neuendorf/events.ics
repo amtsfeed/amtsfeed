@@ -780,15 +780,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  emaillier-workshop
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-kirchenchorprobe@amtsfeed.de
-DTSTAMP:20261028T094906Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Kirchenchorprobe
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- kirchenchorprobe
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-miteinander-reden-0@amtsfeed.de
 DTSTAMP:20261025T083423Z
 DTSTART;VALUE=DATE:20261103
@@ -875,5 +866,53 @@ SUMMARY:Die Gänseblümchen-MitsingParty - Deutsche Hits & feinste Schlag
  er
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  die-ganseblumchen-mitsingparty-deutsche-hits-feinste-schlager
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-ortsbegehung-stolpersteine-mit-putzaktion@amtsf
+ eed.de
+DTSTAMP:20261108T103209Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Ortsbegehung Stolpersteine mit Putzaktion
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ ortsbegehung-stolpersteine-mit-putzaktion
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-stadtgesprach-mit-dem-burgermeister-im-ratssaal
+ @amtsfeed.de
+DTSTAMP:20261108T103209Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Stadtgespräch mit dem Bürgermeister im Ratssaal
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ stadtgesprach-mit-dem-burgermeister-im-ratssaal
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-kirchenchorprobe@amtsfeed.de
+DTSTAMP:20261108T103209Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Kirchenchorprobe
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ kirchenchorprobe
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-aktion-zu-den-tagen-der-sichtbarkeit@amtsfeed.d
+ e
+DTSTAMP:20261108T103209Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Aktion zu den Tagen der Sichtbarkeit
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ aktion-zu-den-tagen-der-sichtbarkeit
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-sprachcafe-4@amtsfeed.de
+DTSTAMP:20261108T103209Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Sprachcafé
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ sprachcafe-4
 END:VEVENT
 END:VCALENDAR

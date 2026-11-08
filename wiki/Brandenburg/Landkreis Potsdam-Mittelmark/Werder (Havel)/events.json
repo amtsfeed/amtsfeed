@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T10:24:14.946Z",
+  "updatedAt": "2026-11-08T10:35:02.337Z",
   "items": [
     {
       "id": "werder-havel-event-99127087",
@@ -6599,69 +6599,6 @@
       "updatedAt": "2026-11-07T10:24:14.961Z"
     },
     {
-      "id": "werder-havel-event-99233870",
-      "title": "Ausstellung Jüdische Schicksale",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99233870",
-      "startDate": "2026-11-07T10:24:14.961Z",
-      "location": "Kunsthof Glindow",
-      "fetchedAt": "2026-10-28T09:51:53.256Z",
-      "updatedAt": "2026-11-07T10:24:14.961Z"
-    },
-    {
-      "id": "werder-havel-event-99148961",
-      "title": "Rittmeisters Brunch",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99148961",
-      "startDate": "2026-11-07T10:24:14.961Z",
-      "location": "Hotel \"Zum Rittmeister\"",
-      "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-11-07T10:24:14.961Z"
-    },
-    {
-      "id": "werder-havel-event-99221091",
-      "title": "Apfeltage auf dem Obsthof Lindicke",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99221091",
-      "startDate": "2026-11-07T10:24:14.961Z",
-      "location": "Obsthof Lindicke",
-      "fetchedAt": "2026-09-11T11:01:13.754Z",
-      "updatedAt": "2026-11-07T10:24:14.961Z"
-    },
-    {
-      "id": "werder-havel-event-99233965",
-      "title": "Tage der offenen Kelterei bei Weinbau Dr. Lindicke",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99233965",
-      "startDate": "2026-11-07T10:24:14.961Z",
-      "location": "Kelterei Weinbau Dr. Lindicke",
-      "fetchedAt": "2026-10-28T09:51:53.256Z",
-      "updatedAt": "2026-11-07T10:24:14.961Z"
-    },
-    {
-      "id": "werder-havel-event-99128752",
-      "title": "\"Und immer lockt die Kunst - 30 Jahre Stilus\"",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99128752",
-      "startDate": "2026-11-07T10:24:14.961Z",
-      "location": "Kulturkirche Petzow",
-      "fetchedAt": "2026-05-06T12:42:21.268Z",
-      "updatedAt": "2026-11-07T10:24:14.961Z"
-    },
-    {
-      "id": "werder-havel-event-99234767",
-      "title": "Jubiläumsausstellung – 66 Jahre Karnevalsclub Werder e.V.",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99234767",
-      "startDate": "2026-11-07T10:24:14.961Z",
-      "location": "Stadtgalerie KUNST-GESCHOSS",
-      "fetchedAt": "2026-11-04T11:06:42.603Z",
-      "updatedAt": "2026-11-07T10:24:14.961Z"
-    },
-    {
-      "id": "werder-havel-event-99228344",
-      "title": "Schloss des Grauens - ein Gruselspaß",
-      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99228344",
-      "startDate": "2026-11-07T10:24:14.961Z",
-      "location": "Theater Comedie Soleil",
-      "fetchedAt": "2026-10-07T10:30:09.481Z",
-      "updatedAt": "2026-11-07T10:24:14.961Z"
-    },
-    {
       "id": "werder-havel-event-99235573",
       "title": "Kreativ- & Antikmarkt",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99235573",
@@ -6671,40 +6608,103 @@
       "updatedAt": "2026-11-07T10:24:14.961Z"
     },
     {
+      "id": "werder-havel-event-99233870",
+      "title": "Ausstellung Jüdische Schicksale",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99233870",
+      "startDate": "2026-11-08T10:35:02.351Z",
+      "location": "Kunsthof Glindow",
+      "fetchedAt": "2026-10-28T09:51:53.256Z",
+      "updatedAt": "2026-11-08T10:35:02.351Z"
+    },
+    {
+      "id": "werder-havel-event-99148961",
+      "title": "Rittmeisters Brunch",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99148961",
+      "startDate": "2026-11-08T10:35:02.351Z",
+      "location": "Hotel \"Zum Rittmeister\"",
+      "fetchedAt": "2026-05-06T12:42:21.268Z",
+      "updatedAt": "2026-11-08T10:35:02.351Z"
+    },
+    {
+      "id": "werder-havel-event-99221091",
+      "title": "Apfeltage auf dem Obsthof Lindicke",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99221091",
+      "startDate": "2026-11-08T10:35:02.351Z",
+      "location": "Obsthof Lindicke",
+      "fetchedAt": "2026-09-11T11:01:13.754Z",
+      "updatedAt": "2026-11-08T10:35:02.351Z"
+    },
+    {
+      "id": "werder-havel-event-99233965",
+      "title": "Tage der offenen Kelterei bei Weinbau Dr. Lindicke",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99233965",
+      "startDate": "2026-11-08T10:35:02.351Z",
+      "location": "Kelterei Weinbau Dr. Lindicke",
+      "fetchedAt": "2026-10-28T09:51:53.256Z",
+      "updatedAt": "2026-11-08T10:35:02.351Z"
+    },
+    {
+      "id": "werder-havel-event-99128752",
+      "title": "\"Und immer lockt die Kunst - 30 Jahre Stilus\"",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99128752",
+      "startDate": "2026-11-08T10:35:02.351Z",
+      "location": "Kulturkirche Petzow",
+      "fetchedAt": "2026-05-06T12:42:21.268Z",
+      "updatedAt": "2026-11-08T10:35:02.351Z"
+    },
+    {
+      "id": "werder-havel-event-99234767",
+      "title": "Jubiläumsausstellung – 66 Jahre Karnevalsclub Werder e.V.",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99234767",
+      "startDate": "2026-11-08T10:35:02.351Z",
+      "location": "Stadtgalerie KUNST-GESCHOSS",
+      "fetchedAt": "2026-11-04T11:06:42.603Z",
+      "updatedAt": "2026-11-08T10:35:02.351Z"
+    },
+    {
+      "id": "werder-havel-event-99228344",
+      "title": "Schloss des Grauens - ein Gruselspaß",
+      "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99228344",
+      "startDate": "2026-11-08T10:35:02.351Z",
+      "location": "Theater Comedie Soleil",
+      "fetchedAt": "2026-10-07T10:30:09.481Z",
+      "updatedAt": "2026-11-08T10:35:02.351Z"
+    },
+    {
       "id": "werder-havel-event-99233871",
       "title": "Ausstellung Jüdische Schicksale",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99233871",
-      "startDate": "2026-11-09T08:00:00.000Z",
+      "startDate": "2026-11-08T10:35:02.351Z",
       "location": "Kunsthof Glindow",
       "fetchedAt": "2026-10-28T09:51:53.256Z",
-      "updatedAt": "2026-10-28T09:51:53.256Z"
+      "updatedAt": "2026-11-08T10:35:02.351Z"
     },
     {
       "id": "werder-havel-event-99234768",
       "title": "Jubiläumsausstellung – 66 Jahre Karnevalsclub Werder e.V.",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99234768",
-      "startDate": "2026-11-09T16:00:00.000Z",
+      "startDate": "2026-11-08T10:35:02.351Z",
       "location": "Stadtgalerie KUNST-GESCHOSS",
       "fetchedAt": "2026-11-04T11:06:42.603Z",
-      "updatedAt": "2026-11-04T11:06:42.603Z"
+      "updatedAt": "2026-11-08T10:35:02.351Z"
     },
     {
       "id": "werder-havel-event-99235576",
       "title": "Die Ermittlung",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99235576",
-      "startDate": "2026-11-09T17:30:00.000Z",
+      "startDate": "2026-11-08T10:35:02.351Z",
       "location": "Ernst-Haeckel-Gymnasium",
       "fetchedAt": "2026-11-07T10:24:14.961Z",
-      "updatedAt": "2026-11-07T10:24:14.961Z"
+      "updatedAt": "2026-11-08T10:35:02.351Z"
     },
     {
       "id": "werder-havel-event-99235761",
       "title": "Film „Warum ich – Wolf D. Kroll“",
       "url": "https://www.werder-havel.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/veranstaltungsinformationen/?eventid=99235761",
-      "startDate": "2026-11-09T19:00:00.000Z",
+      "startDate": "2026-11-08T10:35:02.351Z",
       "location": "Hotel zur Insel",
       "fetchedAt": "2026-11-07T10:24:14.961Z",
-      "updatedAt": "2026-11-07T10:24:14.961Z"
+      "updatedAt": "2026-11-08T10:35:02.351Z"
     },
     {
       "id": "werder-havel-event-99233872",

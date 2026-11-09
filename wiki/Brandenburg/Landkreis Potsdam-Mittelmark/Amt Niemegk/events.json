@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T10:34:14.482Z",
+  "updatedAt": "2026-11-09T11:44:55.674Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -656,6 +656,26 @@
       "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-11-08T10:34:09.316Z",
       "updatedAt": "2026-11-08T10:34:14.477Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-13-2026-11-13",
+      "title": "Martinsfest in der Kita Zwergenhaus in Dahnsdorf",
+      "url": "https://amt-niemegk.de/events/martinsfest-in-der-kita-zwergenhaus-in-dahnsdorf/?occurrence=2026-11-13",
+      "startDate": "2026-11-13T17:30:00.000Z",
+      "endDate": "2026-11-13T00:00:00.000Z",
+      "location": "Kita Zwergenhaus",
+      "fetchedAt": "2026-11-09T11:44:50.438Z",
+      "updatedAt": "2026-11-09T11:44:55.670Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-14-2026-11-14",
+      "title": "Vormittag der offenen Tür in der Kita Mühlenhopser",
+      "url": "https://amt-niemegk.de/events/sport-spass-und-gemeinschaft-tag-der-offenen-tuer-in-der-turnhalle-niemegk-799/?occurrence=2026-11-14",
+      "startDate": "2026-11-14T09:00:00.000Z",
+      "endDate": "2026-11-14T12:00:00.000Z",
+      "location": "Kita Mühlenhopser",
+      "fetchedAt": "2026-11-09T11:44:50.438Z",
+      "updatedAt": "2026-11-09T11:44:55.670Z"
     }
   ]
 }

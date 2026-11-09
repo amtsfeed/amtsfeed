@@ -1047,4 +1047,32 @@ URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Musikschulen-%C3%
  B6ffnen-Kirchen-Mit-Musik-in-den-Advent.php?object=tx\,2112.2.1&ModID=11&
  FID=2112.4738.1&NavID=2112.265&kat=2112.71
 END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4691@amtsfeed.de
+DTSTAMP:20261109T113830Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Adventskonzert
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Adventskonzert.ph
+ p?object=tx\,2112.2.1&ModID=11&FID=2112.4691.1&NavID=2112.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4921@amtsfeed.de
+DTSTAMP:20261109T113830Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Mit Musik in den Advent
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Mit-Musik-in-den-
+ Advent.php?object=tx\,2112.2.1&ModID=11&FID=2112.4921.1&NavID=2112.265&ka
+ t=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4692@amtsfeed.de
+DTSTAMP:20261109T113830Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Adventssingen
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Adventssingen.php
+ ?object=tx\,2112.2.1&ModID=11&FID=2112.4692.1&NavID=2112.265&kat=2112.71
+END:VEVENT
 END:VCALENDAR

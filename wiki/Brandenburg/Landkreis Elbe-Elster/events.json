@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T10:17:34.864Z",
+  "updatedAt": "2026-11-09T11:38:30.378Z",
   "items": [
     {
       "id": "lkee-event-4016",
@@ -830,6 +830,30 @@
       "startDate": "2026-12-04T00:00:00.000Z",
       "fetchedAt": "2026-11-07T10:17:34.871Z",
       "updatedAt": "2026-11-07T10:17:34.871Z"
+    },
+    {
+      "id": "lkee-event-4691",
+      "title": "Adventskonzert",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Adventskonzert.php?object=tx,2112.2.1&ModID=11&FID=2112.4691.1&NavID=2112.265&kat=2112.71",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:38:30.383Z",
+      "updatedAt": "2026-11-09T11:38:30.383Z"
+    },
+    {
+      "id": "lkee-event-4921",
+      "title": "Mit Musik in den Advent",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Mit-Musik-in-den-Advent.php?object=tx,2112.2.1&ModID=11&FID=2112.4921.1&NavID=2112.265&kat=2112.71",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:38:30.383Z",
+      "updatedAt": "2026-11-09T11:38:30.383Z"
+    },
+    {
+      "id": "lkee-event-4692",
+      "title": "Adventssingen",
+      "url": "https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Adventssingen.php?object=tx,2112.2.1&ModID=11&FID=2112.4692.1&NavID=2112.265&kat=2112.71",
+      "startDate": "2026-12-06T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:38:30.383Z",
+      "updatedAt": "2026-11-09T11:38:30.383Z"
     }
   ]
 }

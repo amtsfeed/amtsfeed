@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:04:42.148Z",
+  "updatedAt": "2026-11-09T11:43:44.468Z",
   "items": [
     {
       "id": "schipkau-event-2905379",
@@ -584,8 +584,9 @@
       "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2976168/2026/11/14/heisser-samstag-mit-dem-kca",
       "startDate": "2026-11-14T00:00:00.000Z",
       "location": "Clubhaus Annahütte",
+      "description": "Mit unserem „Heißen Samstag“ steht die erste Abendveranstaltung der 79. Saison auf dem ...",
       "fetchedAt": "2026-09-30T09:52:19.459Z",
-      "updatedAt": "2026-10-28T09:49:50.601Z"
+      "updatedAt": "2026-11-09T11:43:44.460Z"
     },
     {
       "id": "schipkau-event-2959376",
@@ -636,6 +637,16 @@
       "updatedAt": "2026-10-28T09:49:50.601Z"
     },
     {
+      "id": "schipkau-event-3000826",
+      "title": "Adventskonzert",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/3000826/2026/11/29/adventskonzert",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "location": "Henriettenkirche Annahütte",
+      "description": "mit dem Volkschor Schipkau",
+      "fetchedAt": "2026-11-09T11:43:44.460Z",
+      "updatedAt": "2026-11-09T11:43:44.460Z"
+    },
+    {
       "id": "schipkau-event-2983271",
       "title": "Bürgergespräche im Ortsteil Hörlitz",
       "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2983271/2026/12/03/buergergespraeche-im-ortsteil-hoerlitz",
@@ -666,13 +677,13 @@
     },
     {
       "id": "schipkau-event-2873954",
-      "title": "3. Hundeweihnachtsmarkt von Für alle FElle",
+      "title": "3. Hundeweihnachtsmarkt von Für alle Felle",
       "url": "https://www.gemeinde-schipkau.de/veranstaltungen/2873954/2026/12/05/3.-hundeweihnachtsmarkt-von-fuer-alle-felle",
       "startDate": "2026-12-05T00:00:00.000Z",
       "location": "Annahütte",
       "description": "Der Hundeweihnachtsmarkt „Für alle Felle“ in Annahütte. Am Samstag, den 05. Dezember 2026, ...",
       "fetchedAt": "2026-05-31T17:27:31.245Z",
-      "updatedAt": "2026-10-28T09:49:50.601Z"
+      "updatedAt": "2026-11-09T11:43:44.460Z"
     },
     {
       "id": "schipkau-event-2861294",
@@ -868,6 +879,16 @@
       "location": "Clubhaus Annahütte",
       "fetchedAt": "2026-10-14T08:53:00.675Z",
       "updatedAt": "2026-10-28T09:49:50.601Z"
+    },
+    {
+      "id": "schipkau-event-3000828",
+      "title": "Wintergrillen",
+      "url": "https://www.gemeinde-schipkau.de/veranstaltungen/3000828/2027/02/20/wintergrillen",
+      "startDate": "2027-02-20T00:00:00.000Z",
+      "location": "Marktplatz Klettwitz",
+      "description": "Der Klettwitzer 11er lädt ein zum Gemütliches Beisammensein auf dem Markt Klettwitz.",
+      "fetchedAt": "2026-11-09T11:43:44.460Z",
+      "updatedAt": "2026-11-09T11:43:44.460Z"
     },
     {
       "id": "schipkau-event-2983063",

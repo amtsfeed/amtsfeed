@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T10:23:50.561Z",
+  "updatedAt": "2026-11-09T11:45:15.560Z",
   "items": [
     {
       "id": "michendorf-event-2884831",
@@ -1370,6 +1370,14 @@
       "updatedAt": "2026-11-02T11:21:26.289Z"
     },
     {
+      "id": "michendorf-event-3000736",
+      "title": "Filmclub: Das Leuchten der Erinnerung",
+      "url": "https://www.michendorf.de/veranstaltungen/3000736/2026/11/11/filmclub-das-leuchten-der-erinnerung",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:45:15.553Z",
+      "updatedAt": "2026-11-09T11:45:15.553Z"
+    },
+    {
       "id": "michendorf-event-2959533",
       "title": "Jugendclub \"MICHECK\" geöffnet",
       "url": "https://www.michendorf.de/veranstaltungen/2959533/2026/11/12/jugendclub-micheck-geoeffnet",
@@ -1570,6 +1578,14 @@
       "updatedAt": "2026-10-28T09:51:26.239Z"
     },
     {
+      "id": "michendorf-event-3000925",
+      "title": "Unternehmensfrühstück Potsdam-Mittelmark",
+      "url": "https://www.michendorf.de/veranstaltungen/3000925/2026/12/01/unternehmensfruehstueck-potsdam-mittelmark",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:45:15.553Z",
+      "updatedAt": "2026-11-09T11:45:15.553Z"
+    },
+    {
       "id": "michendorf-event-2987681",
       "title": "Trommel-Workshop \"Groove Werkstatt\"",
       "url": "https://www.michendorf.de/veranstaltungen/2987681/2026/12/04/trommel-workshop-groove-werkstatt",
@@ -1592,6 +1608,14 @@
       "startDate": "2026-12-05T00:00:00.000Z",
       "fetchedAt": "2026-11-02T11:21:26.289Z",
       "updatedAt": "2026-11-02T11:21:26.289Z"
+    },
+    {
+      "id": "michendorf-event-3000847",
+      "title": "Langerwischer Filmabend \"Solo Sunny\"",
+      "url": "https://www.michendorf.de/veranstaltungen/3000847/2026/12/05/langerwischer-filmabend-solo-sunny",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:45:15.553Z",
+      "updatedAt": "2026-11-09T11:45:15.553Z"
     },
     {
       "id": "michendorf-event-2785927",
@@ -1682,6 +1706,22 @@
       "updatedAt": "2026-11-03T11:02:55.922Z"
     },
     {
+      "id": "michendorf-event-3000955",
+      "title": "Seniorenfest der Gemeinde",
+      "url": "https://www.michendorf.de/veranstaltungen/3000955/2027/01/14/seniorenfest-der-gemeinde",
+      "startDate": "2027-01-14T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:45:15.553Z",
+      "updatedAt": "2026-11-09T11:45:15.553Z"
+    },
+    {
+      "id": "michendorf-event-2785341",
+      "title": "Michendorfer Gesundheitswochen",
+      "url": "https://www.michendorf.de/veranstaltungen/2785341/2027/03/01/michendorfer-gesundheitswochen",
+      "startDate": "2027-03-01T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:45:15.553Z",
+      "updatedAt": "2026-11-09T11:45:15.553Z"
+    },
+    {
       "id": "michendorf-event-2987689",
       "title": "7. Erzählsalon: Barrierefrei leben - barrierefrei denken",
       "url": "https://www.michendorf.de/veranstaltungen/2987689/2027/03/10/7.-erzaehlsalon-barrierefrei-leben-barrierefrei-denken",
@@ -1690,12 +1730,44 @@
       "updatedAt": "2026-10-28T09:51:26.239Z"
     },
     {
+      "id": "michendorf-event-3000992",
+      "title": "Frühjahrsputz",
+      "url": "https://www.michendorf.de/veranstaltungen/3000992/2027/03/13/fruehjahrsputz",
+      "startDate": "2027-03-13T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:45:15.553Z",
+      "updatedAt": "2026-11-09T11:45:15.553Z"
+    },
+    {
+      "id": "michendorf-event-3001043",
+      "title": "Frühlingsempfang der Bürgermeisterin",
+      "url": "https://www.michendorf.de/veranstaltungen/3001043/2027/04/09/fruehlingsempfang-der-buergermeisterin",
+      "startDate": "2027-04-09T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:45:15.553Z",
+      "updatedAt": "2026-11-09T11:45:15.553Z"
+    },
+    {
       "id": "michendorf-event-2979856",
       "title": "Tag der Offenen Türen aller Vereine und Initiativen",
       "url": "https://www.michendorf.de/veranstaltungen/2979856/2027/04/24/tag-der-offenen-tueren-aller-vereine-und-initiativen",
       "startDate": "2027-04-24T00:00:00.000Z",
       "fetchedAt": "2026-10-06T10:29:48.507Z",
       "updatedAt": "2026-10-28T09:51:26.239Z"
+    },
+    {
+      "id": "michendorf-event-3001073",
+      "title": "STADTRADELN",
+      "url": "https://www.michendorf.de/veranstaltungen/3001073/2027/05/05/stadtradeln",
+      "startDate": "2027-05-05T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:45:15.553Z",
+      "updatedAt": "2026-11-09T11:45:15.553Z"
+    },
+    {
+      "id": "michendorf-event-3001093",
+      "title": "100 Jahre Ortswehr Fresdorf",
+      "url": "https://www.michendorf.de/veranstaltungen/3001093/2027/08/20/100-jahre-ortswehr-fresdorf",
+      "startDate": "2027-08-20T00:00:00.000Z",
+      "fetchedAt": "2026-11-09T11:45:15.553Z",
+      "updatedAt": "2026-11-09T11:45:15.553Z"
     }
   ]
 }

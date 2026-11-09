@@ -1316,6 +1316,14 @@ URL:https://www.doberlug-kirchhain.de/veranstaltungen/2876385/2026/12/27/
  froehlich-soll-mein-herze-springen-duo-la-vigna
 END:VEVENT
 BEGIN:VEVENT
+UID:3000815@amtsfeed.de
+DTSTAMP:20261109T113813Z
+DTSTART:20270108T170000Z
+SUMMARY:Hallenfussballturnier
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/3000815/2027/01/08/
+ hallenfussballturnier
+END:VEVENT
+BEGIN:VEVENT
 UID:2960776@amtsfeed.de
 DTSTAMP:20261028T094415Z
 DTSTART;VALUE=DATE:20270128
@@ -1342,6 +1350,24 @@ SUMMARY:LitraTour: Autorenlesung Jens-Uwe Berndt "Reise durch (k)ein Land
  "
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2959942/2027/03/16/
  litratour-autorenlesung-jens-uwe-berndt-reise-durch-kein-land
+END:VEVENT
+BEGIN:VEVENT
+UID:3000825@amtsfeed.de
+DTSTAMP:20261109T113813Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Osterfeuer Kirchhain
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/3000825/2027/03/25/
+ osterfeuer-kirchhain
+END:VEVENT
+BEGIN:VEVENT
+UID:3000838@amtsfeed.de
+DTSTAMP:20261109T113813Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Osterfeuer Doberlug
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/3000838/2027/03/27/
+ osterfeuer-doberlug
 END:VEVENT
 BEGIN:VEVENT
 UID:2960787@amtsfeed.de
@@ -1423,6 +1449,15 @@ DTEND;VALUE=DATE:20270606
 SUMMARY:Jugendweihe 2027 in Doberlug-Kirchhain
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2975160/2027/06/05/
  jugendweihe-2027-in-doberlug-kirchhain
+END:VEVENT
+BEGIN:VEVENT
+UID:3000845@amtsfeed.de
+DTSTAMP:20261109T113813Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Kinderspartakiade
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/3000845/2027/06/05/
+ kinderspartakiade
 END:VEVENT
 BEGIN:VEVENT
 UID:2960841@amtsfeed.de

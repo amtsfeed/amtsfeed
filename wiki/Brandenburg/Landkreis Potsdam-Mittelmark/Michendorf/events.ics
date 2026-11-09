@@ -1559,6 +1559,15 @@ URL:https://www.michendorf.de/veranstaltungen/2995109/2026/11/10/arbeitsk
  reise-schule-wirtschaft-pm
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-3000736@amtsfeed.de
+DTSTAMP:20261109T114515Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Filmclub: Das Leuchten der Erinnerung
+URL:https://www.michendorf.de/veranstaltungen/3000736/2026/11/11/filmclub
+ -das-leuchten-der-erinnerung
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2959533@amtsfeed.de
 DTSTAMP:20261106T110323Z
 DTSTART;VALUE=DATE:20261112
@@ -1787,6 +1796,15 @@ URL:https://www.michendorf.de/veranstaltungen/2796861/2026/12/01/babybegr
  uessung-durch-die-buergermeisterin
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-3000925@amtsfeed.de
+DTSTAMP:20261109T114515Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Unternehmensfrühstück Potsdam-Mittelmark
+URL:https://www.michendorf.de/veranstaltungen/3000925/2026/12/01/unterneh
+ mensfruehstueck-potsdam-mittelmark
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2987681@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261204
@@ -1812,6 +1830,15 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Lesungen im Herbst: Ein Schuss Honig (Vanne Van Ares)
 URL:https://www.michendorf.de/veranstaltungen/2994756/2026/12/05/lesungen
  -im-herbst-ein-schuss-honig-vanne-van-ares
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3000847@amtsfeed.de
+DTSTAMP:20261109T114515Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Langerwischer Filmabend "Solo Sunny"
+URL:https://www.michendorf.de/veranstaltungen/3000847/2026/12/05/langerwi
+ scher-filmabend-solo-sunny
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2785927@amtsfeed.de
@@ -1913,6 +1940,24 @@ URL:https://www.michendorf.de/veranstaltungen/2996170/2027/01/14/senioren
  fest-der-gemeinde
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-3000955@amtsfeed.de
+DTSTAMP:20261109T114515Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Seniorenfest der Gemeinde
+URL:https://www.michendorf.de/veranstaltungen/3000955/2027/01/14/senioren
+ fest-der-gemeinde
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2785341@amtsfeed.de
+DTSTAMP:20261109T114515Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Michendorfer Gesundheitswochen
+URL:https://www.michendorf.de/veranstaltungen/2785341/2027/03/01/michendo
+ rfer-gesundheitswochen
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2987689@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20270310
@@ -1922,6 +1967,24 @@ URL:https://www.michendorf.de/veranstaltungen/2987689/2027/03/10/7.-erzae
  hlsalon-barrierefrei-leben-barrierefrei-denken
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-3000992@amtsfeed.de
+DTSTAMP:20261109T114515Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Frühjahrsputz
+URL:https://www.michendorf.de/veranstaltungen/3000992/2027/03/13/fruehjah
+ rsputz
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3001043@amtsfeed.de
+DTSTAMP:20261109T114515Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Frühlingsempfang der Bürgermeisterin
+URL:https://www.michendorf.de/veranstaltungen/3001043/2027/04/09/fruehlin
+ gsempfang-der-buergermeisterin
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2979856@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20270424
@@ -1929,5 +1992,23 @@ DTEND;VALUE=DATE:20270425
 SUMMARY:Tag der Offenen Türen aller Vereine und Initiativen
 URL:https://www.michendorf.de/veranstaltungen/2979856/2027/04/24/tag-der-
  offenen-tueren-aller-vereine-und-initiativen
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3001073@amtsfeed.de
+DTSTAMP:20261109T114515Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:STADTRADELN
+URL:https://www.michendorf.de/veranstaltungen/3001073/2027/05/05/stadtrad
+ eln
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3001093@amtsfeed.de
+DTSTAMP:20261109T114515Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:100 Jahre Ortswehr Fresdorf
+URL:https://www.michendorf.de/veranstaltungen/3001093/2027/08/20/100-jahr
+ e-ortswehr-fresdorf
 END:VEVENT
 END:VCALENDAR

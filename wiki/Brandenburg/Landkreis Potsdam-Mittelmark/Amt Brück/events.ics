@@ -619,6 +619,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/2981814/2026/11/29/kleiner-
  und-feiner-adventsmarkt-in-der-tannenallee-in-borkheide
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-3000924@amtsfeed.de
+DTSTAMP:20261109T114448Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Adventskonzert
+URL:https://www.amt-brueck.de/veranstaltungen/3000924/2026/11/29/adventsk
+ onzert
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2852209@amtsfeed.de
 DTSTAMP:20261028T095057Z
 DTSTART;VALUE=DATE:20261205
@@ -698,6 +707,15 @@ DTEND;VALUE=DATE:20261216
 SUMMARY:Advent im Amtspark
 URL:https://www.amt-brueck.de/veranstaltungen/2989612/2026/12/15/advent-i
  m-amtspark
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-3000938@amtsfeed.de
+DTSTAMP:20261109T114448Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Mobile Augenuntersuchung in Brück
+URL:https://www.amt-brueck.de/veranstaltungen/3000938/2026/12/15/mobile-a
+ ugenuntersuchung-in-brueck
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2999284@amtsfeed.de

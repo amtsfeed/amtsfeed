@@ -4591,6 +4591,15 @@ URL:https://www.falkensee.de/veranstaltungen/2421154/2026/11/11/selbsthil
  fegruppe-krebs
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-3000766-20261111@amtsfeed.de
+DTSTAMP:20261109T113902Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Treffen der Arbeitsgruppe Falkensee des NABU RV Osthavelland
+URL:https://www.falkensee.de/veranstaltungen/3000766/2026/11/11/treffen-d
+ er-arbeitsgruppe-falkensee-des-nabu-rv-osthavelland
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2978068-20261112@amtsfeed.de
 DTSTAMP:20261028T094512Z
 DTSTART;VALUE=DATE:20261112
@@ -4607,6 +4616,15 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Lesung der Schreibwerkstatt
 URL:https://www.falkensee.de/veranstaltungen/2999273/2026/11/12/lesung-de
  r-schreibwerkstatt
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-3000729-20261112@amtsfeed.de
+DTSTAMP:20261109T113902Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Stammtisch+PLUS
+URL:https://www.falkensee.de/veranstaltungen/3000729/2026/11/12/stammtisc
+ hplus
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2983980-20261113@amtsfeed.de
@@ -5214,6 +5232,15 @@ SUMMARY:Magische Momente\, Gänsehaut und sportliche Höchstleistungen: D
 URL:https://www.falkensee.de/veranstaltungen/2986902/2026/12/05/magische-
  momente-gaensehaut-und-sportliche-hoechstleistungen-die-tsv-weihnachtsgal
  a-2026-wirft-ihre-schatten-voraus
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-3000769-20261205@amtsfeed.de
+DTSTAMP:20261109T113902Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Falkensession
+URL:https://www.falkensee.de/veranstaltungen/3000769/2026/12/05/falkenses
+ sion
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2900966-20261206@amtsfeed.de
@@ -8897,5 +8924,23 @@ DTEND;VALUE=DATE:20271109
 SUMMARY:Strick- und Häkeltreff
 URL:https://www.falkensee.de/veranstaltungen/2715010/2027/11/08/strick-un
  d-haekeltreff
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2695819-20271109@amtsfeed.de
+DTSTAMP:20261109T113902Z
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+SUMMARY:Teilhabebeirat berät
+URL:https://www.falkensee.de/veranstaltungen/2695819/2027/11/09/teilhabeb
+ eirat-beraet
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2188424-20271109@amtsfeed.de
+DTSTAMP:20261109T113902Z
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+SUMMARY:Seniorenskat - für Freunde des Kartenspiels
+URL:https://www.falkensee.de/veranstaltungen/2188424/2027/11/09/seniorens
+ kat-fuer-freunde-des-kartenspiels
 END:VEVENT
 END:VCALENDAR

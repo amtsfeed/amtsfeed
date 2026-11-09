@@ -1855,6 +1855,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Kulturkantine im Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1812-20261119@amtsfeed.de
+DTSTAMP:20261109T113932Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Digitalisierung fürs Handwerk
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/digitalisierung-fuers-handwerk/
+LOCATION:HAVELWERK Schleusenstraße 1 Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1804-20261120@amtsfeed.de
 DTSTAMP:20261102T111558Z
 DTSTART;VALUE=DATE:20261120
@@ -1896,6 +1906,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/stand-up-comedy-mit-francisco-v
  illanueva-der-zufall-hat-recht/
 LOCATION:Havelwerk Schleusenstraße 1 Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1813-20261122@amtsfeed.de
+DTSTAMP:20261109T113932Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Konzert zum Ewigkeitssonntag
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/konzert-zum-ewigkeitssonntag/
+LOCATION:St. Marien-Andreas Kirche Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-833-20261123@amtsfeed.de

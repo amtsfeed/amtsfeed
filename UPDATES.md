@@ -1,5 +1,68 @@
 # Updates
 
+## 2026-11-09 11:45
+
+Insgesamt **276 neu**, **216 aktualisiert**, **3 entfernt** in 56 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Brück | +1 | +2 | — | — |
+| Amt Friesack | ~3 | — | +1 | — |
+| Amt Neuzelle | — | — | +1 | — |
+| Amt Niemegk | +1 | +2 | — | — |
+| Amt Plessa | — | ~1 | — | — |
+| Amt Rhinow | — | — | — | +1 |
+| Amt Scharmützelsee | — | -1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +3 / ~2 | — | — |
+| Amt Schenkenländchen | — | +2 | — | — |
+| Amt Spreenhagen | +1 | — | — | — |
+| Amt Ziesar | +1 | — | — | ~24 |
+| Bad Freienwalde (Oder) | +4 | — | — | — |
+| Bernau bei Berlin | +1 | +6 / ~23 | — | — |
+| Brieselang | +1 | +2 | — | — |
+| Calau | +1 | — | — | — |
+| Doberlug-Kirchhain | — | +4 | — | — |
+| Eberswalde | — | +3 | — | — |
+| Eisenhüttenstadt | — | ~1 | — | — |
+| Elsterwerda | — | +1 | — | — |
+| Falkensee | +1 / ~1 | +5 | — | — |
+| Finsterwalde | +1 | — | — | — |
+| Fürstenberg-Havel | +1 | — | — | ~2 |
+| Groß Kreutz | — | +4 / ~16 | — | — |
+| Heideblick | +2 | — | — | +1 |
+| Ketzin Havel | — | +3 | — | — |
+| Kleinmachnow | +8 | +3 | — | — |
+| Kloster Lehnin | — | +2 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | — | +3 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +2 | — | — |
+| Lauchhammer | +1 | — | — | — |
+| Löwenberger Land | — | — | — | +1 |
+| Lübbenau Spreewald | — | +150 / ~95 | — | — |
+| Märkische Heide | +2 | — | — | — |
+| Michendorf | — | +9 | — | — |
+| Mühlenbecker Land | ~1 | — | — | — |
+| Müncheberg | +2 | — | — | — |
+| Neuenhagen bei Berlin | +2 / -2 | — | — | — |
+| Nuthetal | +1 | — | — | — |
+| Oberkrämer | — | +1 | — | — |
+| Oderbruch / Amt Seelow-Land | +1 | — | — | — |
+| Oranienburg | — | +2 | — | — |
+| Premnitz | — | +6 | — | — |
+| Rathenow | — | +2 | — | — |
+| Rietz-Neuendorf | +1 | — | ~1 | — |
+| Röderland | — | +1 | — | — |
+| Schipkau | — | +2 / ~2 | — | — |
+| Schönefeld | — | ~30 | — | — |
+| Schöneiche bei Berlin | — | +1 | — | — |
+| Senftenberg | — | +5 | — | — |
+| Stahnsdorf | — | +6 | — | — |
+| Tauche | — | — | — | +1 |
+| Wandlitz | +1 | — | — | — |
+| Werder (Havel) | — | ~8 | — | — |
+| Woltersdorf | — | +1 | — | — |
+| Wustermark | — | +2 | — | — |
+
 ## 2026-11-08 10:35
 
 Insgesamt **243 neu**, **505 aktualisiert**, **0 entfernt** in 28 Quellen.

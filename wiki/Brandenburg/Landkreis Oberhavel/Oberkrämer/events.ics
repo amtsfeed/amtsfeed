@@ -1453,6 +1453,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855887/2026/12/01/maenner
  fruehstueck-in-vehlefanz
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-3001141@amtsfeed.de
+DTSTAMP:20261109T114314Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Bötzower Adventsfenster
+URL:https://www.oberkraemer.de/veranstaltungen/3001141/2026/12/01/boetzow
+ er-adventsfenster
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2935373@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261202

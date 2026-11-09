@@ -493,14 +493,6 @@ URL:https://www.scharmuetzelsee.de/event/feuerfest-mit-hexen-und-erschrec
  kern-im-irrlandia
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-wendisch-rietzer-kneipp-kids@amtsfeed.de
-DTSTAMP:20261002T095555Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Wendisch Rietzer Kneipp-Kids
-URL:https://www.scharmuetzelsee.de/event/wendisch-rietzer-kneipp-kids
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-abbiken-mit-live-musik-station4-im-aldo-wendisch-riet
  z@amtsfeed.de
 DTSTAMP:20261001T102046Z
@@ -1206,15 +1198,6 @@ URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
  nker-im-technischen-denkmal-bunkeranlage-fuchsbau
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261108T103311Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
- ad-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-linienfahrt-nachsaison-sa-so@amtsfeed.de
 DTSTAMP:20261108T103311Z
 DTSTART;VALUE=DATE:20261108
@@ -1231,6 +1214,15 @@ DTEND;VALUE=DATE:20261109
 SUMMARY:"Saarower Salonkonzert" - Auf den zweiten Blick
 URL:https://www.scharmuetzelsee.de/event/saarower-salonkonzert-auf-den-zw
  eiten-blick
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261109T114403Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-martinsgansessen-im-fischhaus-wendisch-rietz@amtsfeed
@@ -1259,6 +1251,44 @@ DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Offener Meditationsabend
 URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-lesung-mit-karin-luedtke-dorothee-koch-und-vera-jaspe
+ rs@amtsfeed.de
+DTSTAMP:20261109T114403Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Lesung mit Karin Lüdtke\, Dorothee Koch und Vera Jaspers
+URL:https://www.scharmuetzelsee.de/event/lesung-mit-karin-luedtke-dorothe
+ e-koch-und-vera-jaspers
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-wendisch-rietzer-kneipp-kids@amtsfeed.de
+DTSTAMP:20261109T114403Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Wendisch Rietzer Kneipp-Kids
+URL:https://www.scharmuetzelsee.de/event/wendisch-rietzer-kneipp-kids
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-vernissage-mit-lichtkunst-zurueck-in-die-heimat@amtsf
+ eed.de
+DTSTAMP:20261109T114403Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Vernissage „Mit Lichtkunst zurück in die Heimat"
+URL:https://www.scharmuetzelsee.de/event/vernissage-mit-lichtkunst-zuruec
+ k-in-die-heimat
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-hoer-mal-zu-im-gespraech-mit-dr-frank-berthold@amtsfe
+ ed.de
+DTSTAMP:20261109T114403Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:„Hör mal zu“ im Gespräch mit Dr. Frank Berthold
+URL:https://www.scharmuetzelsee.de/event/hoer-mal-zu-im-gespraech-mit-dr-
+ frank-berthold
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alt

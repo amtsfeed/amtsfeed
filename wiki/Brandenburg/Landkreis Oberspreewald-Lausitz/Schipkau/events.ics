@@ -681,12 +681,14 @@ LOCATION:Clubhaus Annahütte
 END:VEVENT
 BEGIN:VEVENT
 UID:schipkau-event-2976168@amtsfeed.de
-DTSTAMP:20261028T094950Z
+DTSTAMP:20261109T114344Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:"Heißer Samstag" mit dem KCA
 URL:https://www.gemeinde-schipkau.de/veranstaltungen/2976168/2026/11/14/h
  eisser-samstag-mit-dem-kca
+DESCRIPTION:Mit unserem „Heißen Samstag“ steht die erste Abendverans
+ taltung der 79. Saison auf dem ...
 LOCATION:Clubhaus Annahütte
 END:VEVENT
 BEGIN:VEVENT
@@ -746,6 +748,17 @@ URL:https://www.gemeinde-schipkau.de/veranstaltungen/2822334/2026/11/29/s
 LOCATION:Drochow
 END:VEVENT
 BEGIN:VEVENT
+UID:schipkau-event-3000826@amtsfeed.de
+DTSTAMP:20261109T114344Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Adventskonzert
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/3000826/2026/11/29/a
+ dventskonzert
+DESCRIPTION:mit dem Volkschor Schipkau
+LOCATION:Henriettenkirche Annahütte
+END:VEVENT
+BEGIN:VEVENT
 UID:schipkau-event-2983271@amtsfeed.de
 DTSTAMP:20261028T094950Z
 DTSTART;VALUE=DATE:20261203
@@ -781,10 +794,10 @@ LOCATION:Drochow
 END:VEVENT
 BEGIN:VEVENT
 UID:schipkau-event-2873954@amtsfeed.de
-DTSTAMP:20261028T094950Z
+DTSTAMP:20261109T114344Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:3. Hundeweihnachtsmarkt von Für alle FElle
+SUMMARY:3. Hundeweihnachtsmarkt von Für alle Felle
 URL:https://www.gemeinde-schipkau.de/veranstaltungen/2873954/2026/12/05/3
  .-hundeweihnachtsmarkt-von-fuer-alle-felle
 DESCRIPTION:Der Hundeweihnachtsmarkt „Für alle Felle“ in Annahütte.
@@ -1018,6 +1031,18 @@ SUMMARY:Kinderkarneval des KCA 48 e.V.
 URL:https://www.gemeinde-schipkau.de/veranstaltungen/2984082/2027/02/09/k
  inderkarneval-des-kca-48-e.v
 LOCATION:Clubhaus Annahütte
+END:VEVENT
+BEGIN:VEVENT
+UID:schipkau-event-3000828@amtsfeed.de
+DTSTAMP:20261109T114344Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Wintergrillen
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/3000828/2027/02/20/w
+ intergrillen
+DESCRIPTION:Der Klettwitzer 11er lädt ein zum Gemütliches Beisammensein
+  auf dem Markt Klettwitz.
+LOCATION:Marktplatz Klettwitz
 END:VEVENT
 BEGIN:VEVENT
 UID:schipkau-event-2983063@amtsfeed.de

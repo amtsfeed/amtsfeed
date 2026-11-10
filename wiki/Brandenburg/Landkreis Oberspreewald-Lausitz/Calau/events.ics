@@ -1269,10 +1269,10 @@ URL:https://www.calau.de/veranstaltungen/2947235/2026/11/11/tanz-dich-fre
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2991983@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261110T112239Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:Rathaus-Sturm des CCC
+SUMMARY:11.11.2026   Rathaus-Sturm des CCC
 URL:https://www.calau.de/veranstaltungen/2991983/2026/11/11/rathaus-sturm
  -des-ccc
 END:VEVENT
@@ -1303,6 +1303,14 @@ SUMMARY:Themenabend: "Stabil und energiereich durch die dunkle Jahreszeit
  "
 URL:https://www.calau.de/veranstaltungen/2999545/2026/11/12/themenabend-s
  tabil-und-energiereich-durch-die-dunkle-jahreszeit
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001649@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Fit im Alter
+URL:https://www.calau.de/veranstaltungen/3001649/2026/11/12/fit-im-alter
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2858229@amtsfeed.de
@@ -1375,6 +1383,14 @@ SUMMARY:Klöppeltreff
 URL:https://www.calau.de/veranstaltungen/2838480/2026/11/18/kloeppeltreff
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-3001653@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Kochzauber
+URL:https://www.calau.de/veranstaltungen/3001653/2026/11/18/kochzauber
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2960238@amtsfeed.de
 DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261119
@@ -1391,6 +1407,32 @@ DTEND;VALUE=DATE:20261120
 SUMMARY:Bürgerversammlung "Mehr Stadt - Mehr Meinung"
 URL:https://www.calau.de/veranstaltungen/2992994/2026/11/19/buergerversam
  mlung-mehr-stadt-mehr-meinung
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001660@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Beratung durch das Sozialmobil
+URL:https://www.calau.de/veranstaltungen/3001660/2026/11/19/beratung-durc
+ h-das-sozialmobil
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001666@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Berufsberatung im Erwerbsleben
+URL:https://www.calau.de/veranstaltungen/3001666/2026/11/19/berufsberatun
+ g-im-erwerbsleben
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001662@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:QiGong
+URL:https://www.calau.de/veranstaltungen/3001662/2026/11/19/qigong
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877134@amtsfeed.de
@@ -1419,6 +1461,34 @@ URL:https://www.calau.de/veranstaltungen/2838463/2026/11/20/jahresausklan
  g
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-3001670@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Handarbeitsgruppe Wollwunder
+URL:https://www.calau.de/veranstaltungen/3001670/2026/11/20/handarbeitsgr
+ uppe-wollwunder
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001673@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:" Zurück in Deine Kraft - Angebot für Mütter" ( Anmeldung notw
+ endig)
+URL:https://www.calau.de/veranstaltungen/3001673/2026/11/20/zurueck-in-de
+ ine-kraft-angebot-fuer-muetter--anmeldung-notwendig
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001677@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:"Kochzauber für Kids"
+URL:https://www.calau.de/veranstaltungen/3001677/2026/11/21/kochzauber-fu
+ er-kids
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2976565@amtsfeed.de
 DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261124
@@ -1435,6 +1505,14 @@ DTEND;VALUE=DATE:20261127
 SUMMARY:Adventsbasteln
 URL:https://www.calau.de/veranstaltungen/2877138/2026/11/26/adventsbastel
  n
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001679@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Fit im Alter
+URL:https://www.calau.de/veranstaltungen/3001679/2026/11/26/fit-im-alter
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2822896@amtsfeed.de
@@ -1455,6 +1533,24 @@ URL:https://www.calau.de/veranstaltungen/2952329/2026/11/27/adriano-sack-
  liest-aus-in-die-sonne-fliegen
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-3001681@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:"Gemeinsam statt einsam - Mittagessen kochen für Senioren"
+URL:https://www.calau.de/veranstaltungen/3001681/2026/11/27/gemeinsam-sta
+ tt-einsam-mittagessen-kochen-fuer-senioren
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001683@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Kreatives Töpfern im Advent
+URL:https://www.calau.de/veranstaltungen/3001683/2026/11/27/kreatives-toe
+ pfern-im-advent
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2877139@amtsfeed.de
 DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261128
@@ -1472,6 +1568,15 @@ SUMMARY:Das Amateurtheater "Die Calauer" präsentiert "Das tapfere Schnei
  derlein"
 URL:https://www.calau.de/veranstaltungen/2982866/2026/11/28/das-amateurth
  eater-die-calauer-praesentiert-das-tapfere-schneiderlein
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001687@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Yogabrunch für Frauen
+URL:https://www.calau.de/veranstaltungen/3001687/2026/11/28/yogabrunch-fu
+ er-frauen
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2851867@amtsfeed.de
@@ -1500,6 +1605,15 @@ SUMMARY:Das Amateurtheater "Die Calauer" präsentiert "Das tapfere Schnei
  derlein"
 URL:https://www.calau.de/veranstaltungen/2982871/2026/11/29/das-amateurth
  eater-die-calauer-praesentiert-das-tapfere-schneiderlein
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001692@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Kurs "Vertraue auf dich - du hast alles\, was du brauchst"
+URL:https://www.calau.de/veranstaltungen/3001692/2026/11/30/kurs-vertraue
+ -auf-dich-du-hast-alles-was-du-brauchst
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-1906922@amtsfeed.de
@@ -1538,6 +1652,16 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Blutspendetermin des DRK
 URL:https://www.calau.de/veranstaltungen/2976567/2026/12/01/blutspendeter
  min-des-drk
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001244@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Adventshütte Calau & Adventsbummel der IG "In Calau clever kaufe
+ n"
+URL:https://www.calau.de/veranstaltungen/3001244/2026/12/01/adventshuette
+ -calau-adventsbummel-der-ig-in-calau-clever-kaufen
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2960239@amtsfeed.de
@@ -1594,6 +1718,15 @@ DTEND;VALUE=DATE:20261208
 SUMMARY:"Malen für die Seele" - offene Malgruppe
 URL:https://www.calau.de/veranstaltungen/2898942/2026/12/07/malen-fuer-di
  e-seele-offene-malgruppe
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3001693@amtsfeed.de
+DTSTAMP:20261110T112239Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Kurs "Vertraue auf dich - du hast alles\, was du brauchst"
+URL:https://www.calau.de/veranstaltungen/3001693/2026/12/07/kurs-vertraue
+ -auf-dich-du-hast-alles-was-du-brauchst
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2885237@amtsfeed.de

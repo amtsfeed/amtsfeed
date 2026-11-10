@@ -628,6 +628,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/3000924/2026/11/29/adventsk
  onzert
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-3001194@amtsfeed.de
+DTSTAMP:20261110T112342Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Adventssingen der Feuerwehr Borkwalde
+URL:https://www.amt-brueck.de/veranstaltungen/3001194/2026/11/29/adventss
+ ingen-der-feuerwehr-borkwalde
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2852209@amtsfeed.de
 DTSTAMP:20261028T095057Z
 DTSTART;VALUE=DATE:20261205
@@ -653,6 +662,15 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Seelenlichterfest Neuendorf
 URL:https://www.amt-brueck.de/veranstaltungen/2632393/2026/12/05/seelenli
  chterfest-neuendorf
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-3001201@amtsfeed.de
+DTSTAMP:20261110T112342Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Adventsfeuer
+URL:https://www.amt-brueck.de/veranstaltungen/3001201/2026/12/05/adventsf
+ euer
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2819566@amtsfeed.de

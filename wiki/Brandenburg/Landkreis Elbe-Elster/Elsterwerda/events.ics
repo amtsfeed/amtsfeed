@@ -1040,20 +1040,19 @@ URL:https://www.elsterwerda.de/veranstaltung/weihnachtskonzert-des-brande
  nburgischen-konzertorchesters-eberswalde/
 END:VEVENT
 BEGIN:VEVENT
-UID:23821@amtsfeed.de
-DTSTAMP:20260911T110714Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:Kleinster Weihnachtsmarkt Südbrandenburgs
-URL:https://www.elsterwerda.de/veranstaltung/kleinster-weihnachtsmarkt-su
- edbrandenburgs/
-END:VEVENT
-BEGIN:VEVENT
 UID:23458@amtsfeed.de
 DTSTAMP:20260911T110714Z
 DTSTART:20261206T100000Z
 SUMMARY:Familienkirche
 URL:https://www.elsterwerda.de/veranstaltung/familienkirche/
+END:VEVENT
+BEGIN:VEVENT
+UID:23821@amtsfeed.de
+DTSTAMP:20261110T111747Z
+DTSTART:20261206T160000Z
+SUMMARY:Kleinster Weihnachtsmarkt Südbrandenburgs
+URL:https://www.elsterwerda.de/veranstaltung/kleinster-weihnachtsmarkt-su
+ edbrandenburgs/
 END:VEVENT
 BEGIN:VEVENT
 UID:23281@amtsfeed.de

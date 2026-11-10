@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T10:32:09.286Z",
+  "updatedAt": "2026-11-10T11:22:08.934Z",
   "items": [
     {
       "id": "hohen-neuendorf-event-digitale-sprechstunde-umgang-mit-dem-smartphone-0",
@@ -554,14 +554,6 @@
       "updatedAt": "2026-10-17T07:55:06.353Z"
     },
     {
-      "id": "hohen-neuendorf-event-seniorenlotse-hohen-neuendorf",
-      "title": "Seniorenlotse Hohen Neuendorf",
-      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/seniorenlotse-hohen-neuendorf",
-      "startDate": "2026-10-22T00:00:00.000Z",
-      "fetchedAt": "2026-09-21T09:06:29.411Z",
-      "updatedAt": "2026-10-17T07:55:06.353Z"
-    },
-    {
       "id": "hohen-neuendorf-event-beratungsangebot-der-volkssolidaritaet",
       "title": "Beratungsangebot in der Volkssolidarität",
       "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/beratungsangebot-der-volkssolidaritaet",
@@ -760,6 +752,22 @@
       "startDate": "2026-11-11T00:00:00.000Z",
       "fetchedAt": "2026-11-08T10:32:09.295Z",
       "updatedAt": "2026-11-08T10:32:09.295Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-rendez-vous-au-centre-bagatelle-mit-ulli-zelle-u-andre-herzberg",
+      "title": "RENDEZ-VOUS AU CENTRE BAGATELLE  mit Ulli Zelle u. André Herzberg",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/rendez-vous-au-centre-bagatelle-mit-ulli-zelle-u-andre-herzberg",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-11-10T11:22:08.943Z",
+      "updatedAt": "2026-11-10T11:22:08.943Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-seniorenlotse-hohen-neuendorf",
+      "title": "Seniorenlotse Hohen Neuendorf",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/seniorenlotse-hohen-neuendorf",
+      "startDate": "2026-11-12T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T09:06:29.411Z",
+      "updatedAt": "2026-11-10T11:22:08.943Z"
     }
   ]
 }

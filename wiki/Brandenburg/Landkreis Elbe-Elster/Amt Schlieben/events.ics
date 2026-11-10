@@ -519,4 +519,11 @@ DTEND;VALUE=DATE:20261224
 SUMMARY:Weihnachtsmarkt
 URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
 END:VEVENT
+BEGIN:VEVENT
+UID:schlieben-event-20261224-orgelmusik-mit-kerzenschein@amtsfeed.de
+DTSTAMP:20261110T111743Z
+DTSTART:20261224T210000Z
+SUMMARY:Orgelmusik mit Kerzenschein
+URL:https://www.amt-schlieben.de/tourismus/kultur/termine/
+END:VEVENT
 END:VCALENDAR

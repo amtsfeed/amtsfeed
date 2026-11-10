@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T10:24:18.134Z",
+  "updatedAt": "2026-11-10T11:24:34.106Z",
   "items": [
     {
       "id": "wiesenburg-mark-event-2895955",
@@ -1042,22 +1042,6 @@
       "updatedAt": "2026-10-28T09:51:55.363Z"
     },
     {
-      "id": "wiesenburg-mark-event-2384478",
-      "title": "DRK - Stuhlgymnastik (2 Kurse a&acute; 1 Stunde)",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/11/09/drk-stuhlgymnastik-2-kurse-a-1-stunde",
-      "startDate": "2026-11-09T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-11-03T11:03:36.452Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2915098",
-      "title": "Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit Tanz- und Theaterpädagogin Nina Stemberger",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/11/09/kreativer-kindertanz-fuer-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-theaterpaedagogin-nina-stemberger",
-      "startDate": "2026-11-09T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:41.385Z",
-      "updatedAt": "2026-11-03T11:03:36.452Z"
-    },
-    {
       "id": "wiesenburg-mark-event-2424330",
       "title": "Offener Jugendraum \"WiBu\" - begleitet von Franziska Kottwitz",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/11/10/offener-jugendraum-wibu-begleitet-von-franziska-kottwitz",
@@ -1160,6 +1144,22 @@
       "startDate": "2026-11-14T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:11.191Z",
       "updatedAt": "2026-10-28T09:51:55.363Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2384478",
+      "title": "DRK - Stuhlgymnastik (2 Kurse a&acute; 1 Stunde)",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/11/16/drk-stuhlgymnastik-2-kurse-a-1-stunde",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-11-10T11:24:34.094Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2915098",
+      "title": "Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit Tanz- und Theaterpädagogin Nina Stemberger",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/11/16/kreativer-kindertanz-fuer-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-theaterpaedagogin-nina-stemberger",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:41.385Z",
+      "updatedAt": "2026-11-10T11:24:34.094Z"
     },
     {
       "id": "wiesenburg-mark-event-2973356",
@@ -1266,12 +1266,28 @@
       "updatedAt": "2026-10-28T09:51:55.363Z"
     },
     {
+      "id": "wiesenburg-mark-event-3001718",
+      "title": "Adventsmarkt in Reetz – Gemeinsam in die Weihnachtszeit 🎄",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/3001718/2026/11/29/adventsmarkt-in-reetz--gemeinsam-in-die-weihnachtszeit",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-11-10T11:24:34.094Z",
+      "updatedAt": "2026-11-10T11:24:34.094Z"
+    },
+    {
       "id": "wiesenburg-mark-event-2973359",
       "title": "Kreativer Wochenstart",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2973359/2026/11/30/kreativer-wochenstart",
       "startDate": "2026-11-30T00:00:00.000Z",
       "fetchedAt": "2026-09-24T08:39:25.184Z",
       "updatedAt": "2026-10-28T09:51:55.363Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-3001702",
+      "title": "Herzliche Einladung zur Senioren-Weihnachtsfeier in Reetz 🎄",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/3001702/2026/12/03/herzliche-einladung-zur-senioren-weihnachtsfeier-in-reetz",
+      "startDate": "2026-12-03T00:00:00.000Z",
+      "fetchedAt": "2026-11-10T11:24:34.094Z",
+      "updatedAt": "2026-11-10T11:24:34.094Z"
     },
     {
       "id": "wiesenburg-mark-event-2889581",
@@ -1338,6 +1354,14 @@
       "updatedAt": "2026-10-28T09:51:55.363Z"
     },
     {
+      "id": "wiesenburg-mark-event-3001869",
+      "title": "Herzliche Einladung der Grundschule Wiesenburg/Mark - Fledermäuse feiern Weihnachten in der alten Wiesenburger Brauerei",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/3001869/2026/12/11/herzliche-einladung-der-grundschule-wiesenburg-mark-fledermaeuse-feiern-weihnachten-in-der-alten-wiesenburger-brauerei",
+      "startDate": "2026-12-11T00:00:00.000Z",
+      "fetchedAt": "2026-11-10T11:24:34.094Z",
+      "updatedAt": "2026-11-10T11:24:34.094Z"
+    },
+    {
       "id": "wiesenburg-mark-event-2889585",
       "title": "Weihnachtskonzert des Jugendblasorchesters Wiesenburg",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2889585/2026/12/13/weihnachtskonzert-des-jugendblasorchesters-wiesenburg",
@@ -1360,6 +1384,14 @@
       "startDate": "2026-12-13T00:00:00.000Z",
       "fetchedAt": "2026-09-11T10:00:41.385Z",
       "updatedAt": "2026-10-28T09:51:55.363Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-3001851",
+      "title": "Weihnachtskonzert \"Chor am Burgwall\" Görzke",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/3001851/2026/12/13/weihnachtskonzert-quotchor-am-burgwall-quot-goerzke",
+      "startDate": "2026-12-13T00:00:00.000Z",
+      "fetchedAt": "2026-11-10T11:24:34.094Z",
+      "updatedAt": "2026-11-10T11:24:34.094Z"
     },
     {
       "id": "wiesenburg-mark-event-2973376",

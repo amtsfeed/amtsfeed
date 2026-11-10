@@ -391,24 +391,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2989534/2026/11/08/herbstk
  onzert
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124462@amtsfeed.de
-DTSTAMP:20261103T110123Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/11/09/treffpu
- nkt-buergertheater
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2124466@amtsfeed.de
-DTSTAMP:20261103T110123Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/09/treffpu
- nkt-buergertheater
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2124475@amtsfeed.de
 DTSTAMP:20261105T110612Z
 DTSTART;VALUE=DATE:20261110
@@ -463,6 +445,24 @@ DTEND;VALUE=DATE:20261114
 SUMMARY:Konzert Lichterklang
 URL:https://www.lauchhammer.de/veranstaltungen/2968944/2026/11/13/konzert
  -lichterklang
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124462@amtsfeed.de
+DTSTAMP:20261110T112242Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/11/16/treffpu
+ nkt-buergertheater
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124466@amtsfeed.de
+DTSTAMP:20261110T112242Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/16/treffpu
+ nkt-buergertheater
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2962554@amtsfeed.de
@@ -546,6 +546,17 @@ DTEND;VALUE=DATE:20261126
 SUMMARY:Bürgerberatung zu Wasser und Boden
 URL:https://www.lauchhammer.de/veranstaltungen/2973697/2026/11/25/buerger
  beratung-zu-wasser-und-boden
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-3001763@amtsfeed.de
+DTSTAMP:20261110T112242Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Spüren\, regulieren\, stärken – Ein Special-Workshop zum inte
+ rnationalen Tag gegen Gewalt an Frauen
+URL:https://www.lauchhammer.de/veranstaltungen/3001763/2026/11/25/spueren
+ -regulieren-staerken--ein-special-workshop-zum-internationalen-tag-gegen-
+ gewalt-an-frauen
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2918359@amtsfeed.de

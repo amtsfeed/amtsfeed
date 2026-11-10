@@ -931,15 +931,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2969197/2026/11/08/fuehrun
  gen-im-schloss
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855689@amtsfeed.de
-DTSTAMP:20261103T110105Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Die Montagshelden - Gymnastik & Bewegung
-URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/11/09/die-mon
- tagshelden-gymnastik-bewegung
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855686@amtsfeed.de
 DTSTAMP:20261104T110413Z
 DTSTART;VALUE=DATE:20261110
@@ -1163,6 +1154,15 @@ DTEND;VALUE=DATE:20261116
 SUMMARY:Gruppen-Atemmeditation
 URL:https://www.oberkraemer.de/veranstaltungen/2983638/2026/11/15/gruppen
  -atemmeditation
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855689@amtsfeed.de
+DTSTAMP:20261110T112220Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Die Montagshelden - Gymnastik & Bewegung
+URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/11/16/die-mon
+ tagshelden-gymnastik-bewegung
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962223@amtsfeed.de

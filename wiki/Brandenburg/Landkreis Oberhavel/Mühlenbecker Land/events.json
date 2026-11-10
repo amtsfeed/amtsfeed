@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T10:32:21.332Z",
+  "updatedAt": "2026-11-10T11:22:18.709Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -4324,6 +4324,15 @@
       "updatedAt": "2026-11-07T10:21:27.021Z"
     },
     {
+      "id": "muehlenbecker-land-event-59059818",
+      "title": "Gesprächskreis: Café Tod",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59059818",
+      "startDate": "2026-11-21T15:00:00.000Z",
+      "location": "Privatwohnung, OT Schildow, Akazienstraße 10",
+      "fetchedAt": "2026-11-10T11:22:17.973Z",
+      "updatedAt": "2026-11-10T11:22:17.973Z"
+    },
+    {
       "id": "muehlenbecker-land-event-58798973",
       "title": "Volkssolidarität: Gymnastik",
       "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798973",
@@ -4520,6 +4529,42 @@
       "location": "Schulen, Hort und Dorfkirche Mühlenbeck, Hauptstraße",
       "fetchedAt": "2026-11-08T10:32:21.331Z",
       "updatedAt": "2026-11-08T10:32:21.331Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58991725",
+      "title": "Nähtreff des Vereins Historische Mönchmühle",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58991725",
+      "startDate": "2026-11-27T16:00:00.000Z",
+      "location": "Historische Mönchmühle, Mönchmühlenallee 3, 16567 Mühlenbeck",
+      "fetchedAt": "2026-11-10T11:22:18.709Z",
+      "updatedAt": "2026-11-10T11:22:18.709Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58808516",
+      "title": "Grundschuldisco",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58808516",
+      "startDate": "2026-11-27T16:00:00.000Z",
+      "location": "Bürgersaal Schildow, Franz-Schmidt-Straße 3",
+      "fetchedAt": "2026-11-10T11:22:18.709Z",
+      "updatedAt": "2026-11-10T11:22:18.709Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59056120",
+      "title": "\"Film ab\" in Zühlsdorf",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59056120",
+      "startDate": "2026-11-27T19:00:00.000Z",
+      "location": "Mehrzweckraum Zühlsdorf, Dorfstr. 35a",
+      "fetchedAt": "2026-11-10T11:22:18.709Z",
+      "updatedAt": "2026-11-10T11:22:18.709Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59059017",
+      "title": "Schildower Adventsmarkt",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59059017",
+      "startDate": "2026-11-28T13:00:00.000Z",
+      "location": "Marktplatz",
+      "fetchedAt": "2026-11-10T11:22:18.709Z",
+      "updatedAt": "2026-11-10T11:22:18.709Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:01:59.984Z",
+  "updatedAt": "2026-11-10T11:22:55.072Z",
   "items": [
     {
       "id": "vetschau-spreewald-event-20260528-1",
@@ -2405,6 +2405,16 @@
       "updatedAt": "2026-11-06T11:01:59.992Z"
     },
     {
+      "id": "vetschau-spreewald-event-20261115-4",
+      "title": "Orgel-Wandelkonzert mit Martin Stephan",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-11-15T16:00:00.000Z",
+      "endDate": "2026-11-15T18:00:00.000Z",
+      "location": "Vetschau (Wendisch-Deutsche Doppelkirche)",
+      "fetchedAt": "2026-11-10T11:22:55.082Z",
+      "updatedAt": "2026-11-10T11:22:55.082Z"
+    },
+    {
       "id": "vetschau-spreewald-event-20261119-59",
       "title": "Wochenmarkt Vetschau",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
@@ -2826,13 +2836,13 @@
     },
     {
       "id": "vetschau-spreewald-event-20261128-7",
-      "title": "Weihnachtspuppenbühne für Kinder",
+      "title": "Schlossweihnacht Vetschau am 1. Advent",
       "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
-      "startDate": "2026-11-28T15:00:00.000Z",
-      "endDate": "2026-11-28T16:00:00.000Z",
-      "location": "Vetschau (Wendisch-Deutsche Doppelkirche)",
+      "startDate": "2026-11-28T12:00:00.000Z",
+      "endDate": "2026-11-28T18:00:00.000Z",
+      "location": "Vetschau (Stadtschloss)",
       "fetchedAt": "2026-10-30T10:10:48.804Z",
-      "updatedAt": "2026-11-06T11:01:59.992Z"
+      "updatedAt": "2026-11-10T11:22:55.082Z"
     },
     {
       "id": "vetschau-spreewald-event-20261128-8",
@@ -4203,6 +4213,16 @@
       "location": "Vetschau/Spreewald",
       "fetchedAt": "2026-11-06T11:01:59.992Z",
       "updatedAt": "2026-11-06T11:01:59.992Z"
+    },
+    {
+      "id": "vetschau-spreewald-event-20261227-17",
+      "title": "Konzert – Festliche Nordlichter: Skandinavische Weihnachtslieder neu interpretiert",
+      "url": "https://stadt.vetschau.de/startseite/veranstaltungen/",
+      "startDate": "2026-12-27T16:30:00.000Z",
+      "endDate": "2026-12-27T18:00:00.000Z",
+      "location": "Missen",
+      "fetchedAt": "2026-11-10T11:22:55.082Z",
+      "updatedAt": "2026-11-10T11:22:55.082Z"
     },
     {
       "id": "vetschau-spreewald-event-20261231-70",

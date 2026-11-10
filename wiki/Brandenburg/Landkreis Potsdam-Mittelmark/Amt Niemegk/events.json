@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T11:44:55.674Z",
+  "updatedAt": "2026-11-10T11:23:48.826Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -676,6 +676,26 @@
       "location": "Kita Mühlenhopser",
       "fetchedAt": "2026-11-09T11:44:50.438Z",
       "updatedAt": "2026-11-09T11:44:55.670Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-15-2026-11-15",
+      "title": "Heimspiel FSV Grün-Weiß Niemegk gg. Teltower FV II",
+      "url": "https://amt-niemegk.de/events/heimspiel-fsv-gruen-weiss-niemegk-gg-fsv-brueck-637-504-975-251-815-784/?occurrence=2026-11-15",
+      "startDate": "2026-11-15T14:00:00.000Z",
+      "endDate": "2026-11-15T00:00:00.000Z",
+      "location": "Waldstadion Niemegk",
+      "fetchedAt": "2026-11-10T11:23:44.487Z",
+      "updatedAt": "2026-11-10T11:23:48.821Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-16-2026-11-16",
+      "title": "Bibliothek mit Heidi, Mandy und Inga",
+      "url": "https://amt-niemegk.de/events/bibliothek-mit-heidi-und-mandy-539-585-258-411-969-294-833-496-666-910-861-827-728/?occurrence=2026-11-16&#038;time=1794839400",
+      "startDate": "2026-11-16T14:30:00.000Z",
+      "endDate": "2026-11-16T17:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-11-10T11:23:44.487Z",
+      "updatedAt": "2026-11-10T11:23:48.821Z"
     }
   ]
 }

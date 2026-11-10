@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T10:20:20.964Z",
+  "updatedAt": "2026-11-10T11:21:33.884Z",
   "items": [
     {
       "id": "2896012",
@@ -1023,6 +1023,25 @@
       "updatedAt": "2026-10-28T09:48:10.443Z"
     },
     {
+      "id": "3001624",
+      "title": "Weihnachtsfest in der Katzenstation",
+      "url": "https://www.fredersdorf-vogelsdorf.de/veranstaltungen/3001624/2026/11/28/weihnachtsfest-in-der-katzenstation",
+      "startDate": "2026-11-28T13:00:00.000Z",
+      "location": "Katzenstation Rüdersdorf, Woltersdorfer Str. 50, 15562 Rüdersdorf bei Berlin",
+      "fetchedAt": "2026-11-10T11:21:33.872Z",
+      "updatedAt": "2026-11-10T11:21:33.872Z"
+    },
+    {
+      "id": "3001613",
+      "title": "Weinachtsmarkt 2026",
+      "url": "https://www.fredersdorf-vogelsdorf.de/veranstaltungen/3001613/2026/11/29/weinachtsmarkt-2026",
+      "startDate": "2026-11-29T13:00:00.000Z",
+      "endDate": "2026-11-29T18:00:00.000Z",
+      "location": "Gutshof, Fredersdorf-Süd",
+      "fetchedAt": "2026-11-10T11:21:33.872Z",
+      "updatedAt": "2026-11-10T11:21:33.872Z"
+    },
+    {
       "id": "2999763",
       "title": "Bilderbuchkino \"Pettersson kriegt Weihnachtsbesuch\"",
       "url": "https://www.fredersdorf-vogelsdorf.de/veranstaltungen/2999763/2026/12/02/bilderbuchkino-pettersson-kriegt-weihnachtsbesuch",
@@ -1070,6 +1089,15 @@
       "location": "Siedlergemeinschaft Fredersdorf Nord - Verband Wohneigentum LV Brandenburg e.V.",
       "fetchedAt": "2026-11-06T11:00:17.180Z",
       "updatedAt": "2026-11-06T11:00:17.180Z"
+    },
+    {
+      "id": "3001234",
+      "title": "Weihnachten allein zuhaus - und noch keinen Plan?",
+      "url": "https://www.fredersdorf-vogelsdorf.de/veranstaltungen/3001234/2026/12/25/weihnachten-allein-zuhaus-und-noch-keinen-plan",
+      "startDate": "2026-12-25T14:00:00.000Z",
+      "location": "Evangelische Kirchengemeinde Mühlenfließ",
+      "fetchedAt": "2026-11-10T11:21:33.872Z",
+      "updatedAt": "2026-11-10T11:21:33.872Z"
     },
     {
       "id": "2978515",
@@ -1537,6 +1565,16 @@
       "location": "Sitzungssaal, Verwaltungsgebäude, Lindenallee 3, 15370 Fredersdorf-Vogelsdorf",
       "fetchedAt": "2026-11-04T11:03:08.280Z",
       "updatedAt": "2026-11-04T11:03:08.280Z"
+    },
+    {
+      "id": "3001449",
+      "title": "Bürgersprechstunde Bürgerbeirat Fredersdorf Nord",
+      "url": "https://www.fredersdorf-vogelsdorf.de/veranstaltungen/3001449/2027/11/10/buergersprechstunde-buergerbeirat-fredersdorf-nord",
+      "startDate": "2027-11-10T18:00:00.000Z",
+      "endDate": "2027-11-10T19:00:00.000Z",
+      "location": "hinterer Teil Sitzungssaal, Verwaltungsgebäude, Lindenallee 3, 15370 Fredersdorf-Vogelsdorf",
+      "fetchedAt": "2026-11-10T11:21:33.872Z",
+      "updatedAt": "2026-11-10T11:21:33.872Z"
     }
   ]
 }

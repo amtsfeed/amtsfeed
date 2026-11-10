@@ -1868,6 +1868,15 @@ URL:https://www.michendorf.de/veranstaltungen/2995887/2026/12/08/rathaus-
  unterwegs-in-stuecken
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-3001697@amtsfeed.de
+DTSTAMP:20261110T112405Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:AWO Weihnachtsfeier
+URL:https://www.michendorf.de/veranstaltungen/3001697/2026/12/10/awo-weih
+ nachtsfeier
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2984298@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261212
@@ -1947,6 +1956,15 @@ DTEND;VALUE=DATE:20270115
 SUMMARY:Seniorenfest der Gemeinde
 URL:https://www.michendorf.de/veranstaltungen/3000955/2027/01/14/senioren
  fest-der-gemeinde
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3001669@amtsfeed.de
+DTSTAMP:20261110T112405Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Mit dem Fahrrad durch die Welt
+URL:https://www.michendorf.de/veranstaltungen/3001669/2027/01/28/mit-dem-
+ fahrrad-durch-die-welt
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2785341@amtsfeed.de

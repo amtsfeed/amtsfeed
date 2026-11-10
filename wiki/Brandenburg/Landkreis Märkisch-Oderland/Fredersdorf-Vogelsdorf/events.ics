@@ -1152,6 +1152,26 @@ LOCATION:Sitzungssaal\, Verwaltungsgebäude\, Lindenallee 3\, 15370 Frede
  rsdorf-Vogelsdorf
 END:VEVENT
 BEGIN:VEVENT
+UID:3001624@amtsfeed.de
+DTSTAMP:20261110T112133Z
+DTSTART:20261128T130000Z
+SUMMARY:Weihnachtsfest in der Katzenstation
+URL:https://www.fredersdorf-vogelsdorf.de/veranstaltungen/3001624/2026/11
+ /28/weihnachtsfest-in-der-katzenstation
+LOCATION:Katzenstation Rüdersdorf\, Woltersdorfer Str. 50\, 15562 Rüder
+ sdorf bei Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:3001613@amtsfeed.de
+DTSTAMP:20261110T112133Z
+DTSTART:20261129T130000Z
+DTEND:20261129T180000Z
+SUMMARY:Weinachtsmarkt 2026
+URL:https://www.fredersdorf-vogelsdorf.de/veranstaltungen/3001613/2026/11
+ /29/weinachtsmarkt-2026
+LOCATION:Gutshof\, Fredersdorf-Süd
+END:VEVENT
+BEGIN:VEVENT
 UID:2999763@amtsfeed.de
 DTSTAMP:20261107T102020Z
 DTSTART:20261202T162500Z
@@ -1202,6 +1222,15 @@ URL:https://www.fredersdorf-vogelsdorf.de/veranstaltungen/2998730/2026/12
  /15/frauentreff-im-siedlerheim-nord
 LOCATION:Siedlergemeinschaft Fredersdorf Nord - Verband Wohneigentum LV B
  randenburg e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:3001234@amtsfeed.de
+DTSTAMP:20261110T112133Z
+DTSTART:20261225T140000Z
+SUMMARY:Weihnachten allein zuhaus - und noch keinen Plan?
+URL:https://www.fredersdorf-vogelsdorf.de/veranstaltungen/3001234/2026/12
+ /25/weihnachten-allein-zuhaus-und-noch-keinen-plan
+LOCATION:Evangelische Kirchengemeinde Mühlenfließ
 END:VEVENT
 BEGIN:VEVENT
 UID:2978515@amtsfeed.de
@@ -1738,5 +1767,16 @@ URL:https://www.fredersdorf-vogelsdorf.de/veranstaltungen/2997044/2027/11
  /04/sitzung-des-wirtschafts--finanz-und-kulturausschusses
 LOCATION:Sitzungssaal\, Verwaltungsgebäude\, Lindenallee 3\, 15370 Frede
  rsdorf-Vogelsdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:3001449@amtsfeed.de
+DTSTAMP:20261110T112133Z
+DTSTART:20271110T180000Z
+DTEND:20271110T190000Z
+SUMMARY:Bürgersprechstunde Bürgerbeirat Fredersdorf Nord
+URL:https://www.fredersdorf-vogelsdorf.de/veranstaltungen/3001449/2027/11
+ /10/buergersprechstunde-buergerbeirat-fredersdorf-nord
+LOCATION:hinterer Teil Sitzungssaal\, Verwaltungsgebäude\, Lindenallee 3
+ \, 15370 Fredersdorf-Vogelsdorf
 END:VEVENT
 END:VCALENDAR

@@ -665,15 +665,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  mittwochs-die-villa-0
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-seniorenlotse-hohen-neuendorf@amtsfeed.de
-DTSTAMP:20261017T075506Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Seniorenlotse Hohen Neuendorf
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- seniorenlotse-hohen-neuendorf
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-beratungsangebot-der-volkssolidaritaet@amtsfeed
  .de
 DTSTAMP:20261017T075506Z
@@ -914,5 +905,25 @@ DTEND;VALUE=DATE:20261112
 SUMMARY:Sprachcafé
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  sprachcafe-4
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-rendez-vous-au-centre-bagatelle-mit-ulli-zelle-
+ u-andre-herzberg@amtsfeed.de
+DTSTAMP:20261110T112208Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:RENDEZ-VOUS AU CENTRE BAGATELLE  mit Ulli Zelle u. André Herzber
+ g
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ rendez-vous-au-centre-bagatelle-mit-ulli-zelle-u-andre-herzberg
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-seniorenlotse-hohen-neuendorf@amtsfeed.de
+DTSTAMP:20261110T112208Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Seniorenlotse Hohen Neuendorf
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ seniorenlotse-hohen-neuendorf
 END:VEVENT
 END:VCALENDAR

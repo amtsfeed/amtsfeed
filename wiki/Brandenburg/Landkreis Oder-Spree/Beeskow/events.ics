@@ -5740,6 +5740,15 @@ URL:https://burg-beeskow.reservix.de
 LOCATION:Burg Beeskow\, Konzertsaal
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99235837@amtsfeed.de
+DTSTAMP:20261110T112312Z
+DTSTART:20261205T103000Z
+DTEND:20261205T113000Z
+SUMMARY:Milla Gorilla
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99104587@amtsfeed.de
 DTSTAMP:20261020T084150Z
 DTSTART:20261205T110000Z
@@ -5936,6 +5945,15 @@ DTEND:20261210T170000Z
 SUMMARY:Unsere Zukunft – unsere Stimmen Ausstellungseröffnung
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99235842@amtsfeed.de
+DTSTAMP:20261110T112312Z
+DTSTART:20261210T160000Z
+DTEND:20261210T170000Z
+SUMMARY:MAKER KIDS – Wie funktioniert ein 3D-Drucker?
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Kupferschmiede Beeskow e.V.
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-64678:0@amtsfeed.de

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:01:46.528Z",
+  "updatedAt": "2026-11-10T11:22:42.824Z",
   "items": [
     {
       "id": "lauchhammer-event-2887000",
@@ -338,22 +338,6 @@
       "updatedAt": "2026-10-28T09:49:44.378Z"
     },
     {
-      "id": "lauchhammer-event-2124462",
-      "title": "Treffpunkt Bürgertheater",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2124462/2026/11/09/treffpunkt-buergertheater",
-      "startDate": "2026-11-09T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:33.167Z",
-      "updatedAt": "2026-11-03T11:01:23.775Z"
-    },
-    {
-      "id": "lauchhammer-event-2124466",
-      "title": "Treffpunkt Bürgertheater",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/09/treffpunkt-buergertheater",
-      "startDate": "2026-11-09T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:33.167Z",
-      "updatedAt": "2026-11-03T11:01:23.775Z"
-    },
-    {
       "id": "lauchhammer-event-2124475",
       "title": "Chorprobe mit dem Stadtchor Lauchhammer",
       "url": "https://www.lauchhammer.de/veranstaltungen/2124475/2026/11/10/chorprobe-mit-dem-stadtchor-lauchhammer",
@@ -400,6 +384,22 @@
       "startDate": "2026-11-13T00:00:00.000Z",
       "fetchedAt": "2026-09-17T08:52:05.642Z",
       "updatedAt": "2026-10-28T09:49:44.378Z"
+    },
+    {
+      "id": "lauchhammer-event-2124462",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2124462/2026/11/16/treffpunkt-buergertheater",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:33.167Z",
+      "updatedAt": "2026-11-10T11:22:42.812Z"
+    },
+    {
+      "id": "lauchhammer-event-2124466",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/16/treffpunkt-buergertheater",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:33.167Z",
+      "updatedAt": "2026-11-10T11:22:42.812Z"
     },
     {
       "id": "lauchhammer-event-2962554",
@@ -472,6 +472,14 @@
       "startDate": "2026-11-25T00:00:00.000Z",
       "fetchedAt": "2026-09-25T08:58:47.857Z",
       "updatedAt": "2026-10-28T09:49:44.378Z"
+    },
+    {
+      "id": "lauchhammer-event-3001763",
+      "title": "Spüren, regulieren, stärken – Ein Special-Workshop zum internationalen Tag gegen Gewalt an Frauen",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3001763/2026/11/25/spueren-regulieren-staerken--ein-special-workshop-zum-internationalen-tag-gegen-gewalt-an-frauen",
+      "startDate": "2026-11-25T00:00:00.000Z",
+      "fetchedAt": "2026-11-10T11:22:42.812Z",
+      "updatedAt": "2026-11-10T11:22:42.812Z"
     },
     {
       "id": "lauchhammer-event-2918359",

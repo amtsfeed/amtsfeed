@@ -16102,12 +16102,12 @@ URL:https://www.premnitz.de/veranstaltungen/2998032/2026/11/13/gretchen-8
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2876837-20261114@amtsfeed.de
-DTSTAMP:20261028T094546Z
+DTSTAMP:20261110T111851Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Parkrun um den Caputher See
-URL:https://www.premnitz.de/veranstaltungen/2876837/2026/11/14/parkrun-um
- -den-caputher-see
+SUMMARY:Parkrun & Parkwalk um den Caputher See
+URL:https://www.premnitz.de/veranstaltungen/2876837/2026/11/14/parkrun-pa
+ rkwalk-um-den-caputher-see
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2961096-20261114@amtsfeed.de
@@ -16747,12 +16747,12 @@ URL:https://www.premnitz.de/veranstaltungen/2999914/2026/11/20/lilo-wande
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2876838-20261121@amtsfeed.de
-DTSTAMP:20261028T094546Z
+DTSTAMP:20261110T111851Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Parkrun um den Caputher See
-URL:https://www.premnitz.de/veranstaltungen/2876838/2026/11/21/parkrun-um
- -den-caputher-see
+SUMMARY:Parkrun & Parkwalk um den Caputher See
+URL:https://www.premnitz.de/veranstaltungen/2876838/2026/11/21/parkrun-pa
+ rkwalk-um-den-caputher-see
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2961103-20261121@amtsfeed.de
@@ -17496,12 +17496,12 @@ URL:https://www.premnitz.de/veranstaltungen/2992243/2026/11/28/ausstellun
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2876839-20261128@amtsfeed.de
-DTSTAMP:20261028T094546Z
+DTSTAMP:20261110T111851Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:Parkrun um den Caputher See
-URL:https://www.premnitz.de/veranstaltungen/2876839/2026/11/28/parkrun-um
- -den-caputher-see
+SUMMARY:Parkrun & Parkwalk um den Caputher See
+URL:https://www.premnitz.de/veranstaltungen/2876839/2026/11/28/parkrun-pa
+ rkwalk-um-den-caputher-see
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2835707-20261128@amtsfeed.de
@@ -17902,6 +17902,15 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Weihnachtsmarkt mit Eislauf&shy\;bahn
 URL:https://www.premnitz.de/veranstaltungen/2998989/2026/11/29/weihnachts
  markt-mit-eislaufbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-3001445-20261129@amtsfeed.de
+DTSTAMP:20261110T111851Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Monika Bienert liest: Marlene Dietrich und Erich Maria Remarque
+URL:https://www.premnitz.de/veranstaltungen/3001445/2026/11/29/monika-bie
+ nert-liest-marlene-dietrich-und-erich-maria-remarque
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2992246-20261130@amtsfeed.de
@@ -18333,12 +18342,12 @@ URL:https://www.premnitz.de/veranstaltungen/2965134/2026/12/05/kreativ-an
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2876840-20261205@amtsfeed.de
-DTSTAMP:20261105T110216Z
+DTSTAMP:20261110T111851Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:Parkrun um den Caputher See
-URL:https://www.premnitz.de/veranstaltungen/2876840/2026/12/05/parkrun-um
- -den-caputher-see
+SUMMARY:Parkrun & Parkwalk um den Caputher See
+URL:https://www.premnitz.de/veranstaltungen/2876840/2026/12/05/parkrun-pa
+ rkwalk-um-den-caputher-see
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2985394-20261205@amtsfeed.de
@@ -18732,6 +18741,15 @@ URL:https://www.premnitz.de/veranstaltungen/2999919/2026/12/06/kreativer-
  adventsmarkt
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-3001446-20261206@amtsfeed.de
+DTSTAMP:20261110T111851Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Weihnachtsmarkt in der SchlossGalerie Haape
+URL:https://www.premnitz.de/veranstaltungen/3001446/2026/12/06/weihnachts
+ markt-in-der-schlossgalerie-haape
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2999008-20261207@amtsfeed.de
 DTSTAMP:20261107T101821Z
 DTSTART;VALUE=DATE:20261207
@@ -18847,5 +18865,51 @@ DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Tanzbewegt
 URL:https://www.premnitz.de/veranstaltungen/2807971/2026/12/09/tanzbewegt
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2850158-20261210@amtsfeed.de
+DTSTAMP:20261110T111851Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Frischemarkt Nauen
+URL:https://www.premnitz.de/veranstaltungen/2850158/2026/12/10/frischemar
+ kt-nauen
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2985398-20261210@amtsfeed.de
+DTSTAMP:20261110T111851Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:"Viel Schießen und Scharmützel..." 30jähriger Krieg an Havel u
+ nd Elbe
+URL:https://www.premnitz.de/veranstaltungen/2985398/2026/12/10/viel-schie
+ ssen-und-scharmuetzel.-30jaehriger-krieg-an-havel-und-elbe
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2999014-20261210@amtsfeed.de
+DTSTAMP:20261110T111851Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Krippenausstellung
+URL:https://www.premnitz.de/veranstaltungen/2999014/2026/12/10/krippenaus
+ stellung
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2999013-20261210@amtsfeed.de
+DTSTAMP:20261110T111851Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Weihnachtsmarkt mit Eislauf&shy\;bahn
+URL:https://www.premnitz.de/veranstaltungen/2999013/2026/12/10/weihnachts
+ markt-mit-eislaufbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2839021-20261210@amtsfeed.de
+DTSTAMP:20261110T111851Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Lars Redlich &ndash\; Unaufhaltsam unterhaltsam!
+URL:https://www.premnitz.de/veranstaltungen/2839021/2026/12/10/lars-redli
+ ch--unaufhaltsam-unterhaltsam
 END:VEVENT
 END:VCALENDAR

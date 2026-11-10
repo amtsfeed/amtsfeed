@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T10:31:07.641Z",
+  "updatedAt": "2026-11-10T11:21:26.788Z",
   "items": [
     {
       "id": "2846347",
@@ -1114,36 +1114,6 @@
       "updatedAt": "2026-10-30T10:09:02.916Z"
     },
     {
-      "id": "2402834",
-      "title": "Kreativgruppe in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/09/kreativgruppe-in-podelzig",
-      "startDate": "2026-11-09T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "in Gemeindezentrum",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-03T10:59:45.483Z"
-    },
-    {
-      "id": "2464902",
-      "title": "Tischtennis",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/09/tischtennis",
-      "startDate": "2026-11-09T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-03T10:59:45.483Z"
-    },
-    {
-      "id": "2464900",
-      "title": "Dart für Jedermann",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/09/dart-fuer-jedermann",
-      "startDate": "2026-11-09T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Sportlerheim Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-03T10:59:45.483Z"
-    },
-    {
       "id": "2464901",
       "title": "Selbstverteidigung für Frauen",
       "url": "https://www.amt-lebus.de/veranstaltungen/2464901/2026/11/10/selbstverteidigung-fuer-frauen",
@@ -1316,6 +1286,36 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
+      "id": "2402834",
+      "title": "Kreativgruppe in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/16/kreativgruppe-in-podelzig",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "in Gemeindezentrum",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-10T11:21:26.772Z"
+    },
+    {
+      "id": "2464902",
+      "title": "Tischtennis",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/16/tischtennis",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-10T11:21:26.772Z"
+    },
+    {
+      "id": "2464900",
+      "title": "Dart für Jedermann",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/16/dart-fuer-jedermann",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Sportlerheim Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-10T11:21:26.772Z"
+    },
+    {
       "id": "2993098",
       "title": "Ich lese was, was Du nicht liest",
       "url": "https://www.amt-lebus.de/veranstaltungen/2993098/2026/11/20/ich-lese-was-was-du-nicht-liest",
@@ -1378,6 +1378,15 @@
       "location": "Podelzig",
       "fetchedAt": "2026-10-16T08:18:31.068Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "2846438",
+      "title": "5. Trepliner Adventssingen",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2846438/2026/11/29/5.-trepliner-adventssingen",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "location": "Treplin",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-10T11:21:26.772Z"
     },
     {
       "id": "2904743",
@@ -1539,15 +1548,6 @@
       "location": "Kirchenruine Mallnow",
       "fetchedAt": "2026-11-03T10:59:45.483Z",
       "updatedAt": "2026-11-03T10:59:45.483Z"
-    },
-    {
-      "id": "2846438",
-      "title": "5. Trepliner Adventssingen",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2846438/2026/12/29/5.-trepliner-adventssingen",
-      "startDate": "2026-12-29T00:00:00.000Z",
-      "location": "Treplin",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
       "id": "2993152",

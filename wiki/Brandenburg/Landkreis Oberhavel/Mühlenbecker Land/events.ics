@@ -4548,6 +4548,15 @@ URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
 LOCATION:Kenterplatz in Summt
 END:VEVENT
 BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059818@amtsfeed.de
+DTSTAMP:20261110T112217Z
+DTSTART:20261121T150000Z
+SUMMARY:Gesprächskreis: Café Tod
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059818
+LOCATION:Privatwohnung\, OT Schildow\, Akazienstraße 10
+END:VEVENT
+BEGIN:VEVENT
 UID:muehlenbecker-land-event-58798973@amtsfeed.de
 DTSTAMP:20261103T110102Z
 DTSTART:20261123T093000Z
@@ -4753,5 +4762,42 @@ SUMMARY:Adventsmarkt: Mühlenbecker Weihnachtsweg
 URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
  .php?id=59059742
 LOCATION:Schulen\, Hort und Dorfkirche Mühlenbeck\, Hauptstraße
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58991725@amtsfeed.de
+DTSTAMP:20261110T112218Z
+DTSTART:20261127T160000Z
+SUMMARY:Nähtreff des Vereins Historische Mönchmühle
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58991725
+LOCATION:Historische Mönchmühle\, Mönchmühlenallee 3\, 16567 Mühlenb
+ eck
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58808516@amtsfeed.de
+DTSTAMP:20261110T112218Z
+DTSTART:20261127T160000Z
+SUMMARY:Grundschuldisco
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58808516
+LOCATION:Bürgersaal Schildow\, Franz-Schmidt-Straße 3
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-59056120@amtsfeed.de
+DTSTAMP:20261110T112218Z
+DTSTART:20261127T190000Z
+SUMMARY:"Film ab" in Zühlsdorf
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59056120
+LOCATION:Mehrzweckraum Zühlsdorf\, Dorfstr. 35a
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-59059017@amtsfeed.de
+DTSTAMP:20261110T112218Z
+DTSTART:20261128T130000Z
+SUMMARY:Schildower Adventsmarkt
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59059017
+LOCATION:Marktplatz
 END:VEVENT
 END:VCALENDAR

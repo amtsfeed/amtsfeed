@@ -978,15 +978,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2996823/2026/11/07/ko
  nzert-zur-kirchweih-herbst-performancel-musik-und-tanz
 END:VEVENT
 BEGIN:VEVENT
-UID:2952576@amtsfeed.de
-DTSTAMP:20261103T105705Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Nähen\, Stricken \, Häkeln
-URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/11/09/na
- ehen-stricken--haekeln
-END:VEVENT
-BEGIN:VEVENT
 UID:2829981@amtsfeed.de
 DTSTAMP:20261028T094412Z
 DTSTART;VALUE=DATE:20261109
@@ -1103,6 +1094,15 @@ DTEND;VALUE=DATE:20261116
 SUMMARY:Gedenken zum Volkstrauertag
 URL:https://www.amt-schradenland.de/veranstaltungen/2996753/2026/11/15/ge
  denken-zum-volkstrauertag
+END:VEVENT
+BEGIN:VEVENT
+UID:2952576@amtsfeed.de
+DTSTAMP:20261110T111744Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Nähen\, Stricken \, Häkeln
+URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/11/16/na
+ ehen-stricken--haekeln
 END:VEVENT
 BEGIN:VEVENT
 UID:2996788@amtsfeed.de
@@ -1294,6 +1294,15 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2829993/2026/12/02/we
  ihnachtsfeier-seniorenverein
 END:VEVENT
 BEGIN:VEVENT
+UID:3001910@amtsfeed.de
+DTSTAMP:20261110T111744Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Joy to the World - Classic Brass Konzert
+URL:https://www.amt-schradenland.de/veranstaltungen/3001910/2026/12/03/jo
+ y-to-the-world-classic-brass-konzert
+END:VEVENT
+BEGIN:VEVENT
 UID:2829996@amtsfeed.de
 DTSTAMP:20261028T094412Z
 DTSTART;VALUE=DATE:20261204
@@ -1364,5 +1373,14 @@ DTEND;VALUE=DATE:20261231
 SUMMARY:Skatturnier
 URL:https://www.amt-schradenland.de/veranstaltungen/2830006/2026/12/30/sk
  atturnier
+END:VEVENT
+BEGIN:VEVENT
+UID:3001243@amtsfeed.de
+DTSTAMP:20261110T111744Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Treffen Vorbereitung 650 Jahre Gröden
+URL:https://www.amt-schradenland.de/veranstaltungen/3001243/2027/02/18/tr
+ effen-vorbereitung-650-jahre-groeden
 END:VEVENT
 END:VCALENDAR

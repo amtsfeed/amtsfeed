@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:00:08.417Z",
+  "updatedAt": "2026-11-10T11:17:43.317Z",
   "items": [
     {
       "id": "schlieben-event-20260508-awo-spielenachmittag",
@@ -536,6 +536,14 @@
       "startDate": "2026-12-23T00:00:00.000Z",
       "fetchedAt": "2026-05-08T18:53:57.356Z",
       "updatedAt": "2026-05-08T18:53:57.356Z"
+    },
+    {
+      "id": "schlieben-event-20261224-orgelmusik-mit-kerzenschein",
+      "title": "Orgelmusik mit Kerzenschein",
+      "url": "https://www.amt-schlieben.de/tourismus/kultur/termine/",
+      "startDate": "2026-12-24T21:00:00.000Z",
+      "fetchedAt": "2026-11-10T11:17:43.326Z",
+      "updatedAt": "2026-11-10T11:17:43.326Z"
     }
   ]
 }

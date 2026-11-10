@@ -2171,6 +2171,15 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261115-4@amtsfeed.de
+DTSTAMP:20261110T112255Z
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
+SUMMARY:Orgel-Wandelkonzert mit Martin Stephan
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau (Wendisch-Deutsche Doppelkirche)
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261119-59@amtsfeed.de
 DTSTAMP:20260531T184205Z
 DTSTART:20261119T080000Z
@@ -2550,12 +2559,12 @@ LOCATION:Vetschau (Stadtschloss)
 END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261128-7@amtsfeed.de
-DTSTAMP:20261106T110159Z
-DTSTART:20261128T150000Z
-DTEND:20261128T160000Z
-SUMMARY:Weihnachtspuppenbühne für Kinder
+DTSTAMP:20261110T112255Z
+DTSTART:20261128T120000Z
+DTEND:20261128T180000Z
+SUMMARY:Schlossweihnacht Vetschau am 1. Advent
 URL:https://stadt.vetschau.de/startseite/veranstaltungen/
-LOCATION:Vetschau (Wendisch-Deutsche Doppelkirche)
+LOCATION:Vetschau (Stadtschloss)
 END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261128-8@amtsfeed.de
@@ -3789,6 +3798,16 @@ DTEND:20261224T130000Z
 SUMMARY:Wochenmarkt Vetschau
 URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261227-17@amtsfeed.de
+DTSTAMP:20261110T112255Z
+DTSTART:20261227T163000Z
+DTEND:20261227T180000Z
+SUMMARY:Konzert – Festliche Nordlichter: Skandinavische Weihnachtsliede
+ r neu interpretiert
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Missen
 END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261231-70@amtsfeed.de

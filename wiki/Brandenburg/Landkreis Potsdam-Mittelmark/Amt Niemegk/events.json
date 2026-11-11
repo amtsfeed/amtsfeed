@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:23:48.826Z",
+  "updatedAt": "2026-11-11T11:09:44.380Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -639,13 +639,13 @@
     },
     {
       "id": "amt-niemegk-event-2026-11-11-2026-11-11",
-      "title": "Entdeckungsraum mit Anita",
-      "url": "https://amt-niemegk.de/events/entdeckungsraum-mit-anita-und-daniela-2-138-336-851-428-980-903-718-896-424-566-392/?occurrence=2026-11-11&#038;time=1794389400",
-      "startDate": "2026-11-11T09:30:00.000Z",
-      "endDate": "2026-11-11T11:00:00.000Z",
-      "location": "Familienzentrum Niemegk",
+      "title": "„Fair-Teilen“ – Kleiderkammer",
+      "url": "https://amt-niemegk.de/events/fair-teilen-kleiderkammer/?occurrence=2026-11-11",
+      "startDate": "2026-11-11T15:00:00.000Z",
+      "endDate": "2026-11-11T18:00:00.000Z",
+      "location": "Belziger Str. 4, 14823 Niemegk",
       "fetchedAt": "2026-11-05T11:07:43.646Z",
-      "updatedAt": "2026-11-05T11:07:48.927Z"
+      "updatedAt": "2026-11-11T11:09:44.375Z"
     },
     {
       "id": "amt-niemegk-event-2026-11-12-2026-11-12",
@@ -696,6 +696,16 @@
       "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-11-10T11:23:44.487Z",
       "updatedAt": "2026-11-10T11:23:48.821Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-18-2026-11-18",
+      "title": "Entdeckungsraum mit Anita",
+      "url": "https://amt-niemegk.de/events/entdeckungsraum-mit-anita-und-daniela-2-138-336-851-428-980-903-718-896-424-566-392/?occurrence=2026-11-18&#038;time=1794994200",
+      "startDate": "2026-11-18T09:30:00.000Z",
+      "endDate": "2026-11-18T11:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-11-11T11:09:39.509Z",
+      "updatedAt": "2026-11-11T11:09:44.375Z"
     }
   ]
 }

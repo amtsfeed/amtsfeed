@@ -2074,6 +2074,15 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2981545/2026/11/
  21/herbstputz-teil-2-in-koethen
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3002465-20261122@amtsfeed.de
+DTSTAMP:20261111T110215Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:BilderBuchKino
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3002465/2026/11/
+ 22/bilderbuchkino
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2668097-20261123@amtsfeed.de
 DTSTAMP:20261028T094319Z
 DTSTART;VALUE=DATE:20261123
@@ -4029,5 +4038,23 @@ DTEND;VALUE=DATE:20271111
 SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2027/11/
  10/krabbelgruppe-im-mgh-franz-fuehmann-nach-anmeldung
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2861706-20271111@amtsfeed.de
+DTSTAMP:20261111T110215Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:Kreativ-Workshop im MGH "Franz Fühmann":
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2861706/2027/11/
+ 11/kreativ-workshop-im-mgh-franz-fuehmann
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549405-20271111@amtsfeed.de
+DTSTAMP:20261111T110215Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2027/11/
+ 11/literaturcafé-im-mgh-franz-fuehmann
 END:VEVENT
 END:VCALENDAR

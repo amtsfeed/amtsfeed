@@ -2448,6 +2448,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2979935/2026/12/03/senio
  renweihnachtsfeier-reckahn
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-3002544@amtsfeed.de
+DTSTAMP:20261111T111004Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Weihnachtsmarkt an der Grundschule "Am Fenn"
+URL:https://www.klosterlehnin.de/veranstaltungen/3002544/2026/12/03/weihn
+ achtsmarkt-an-der-grundschule-am-fenn
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2954438@amtsfeed.de
 DTSTAMP:20261028T095122Z
 DTSTART;VALUE=DATE:20261204
@@ -2759,15 +2768,6 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2899453/2027/04/24/sport
  abzeichentag-2027-in-lehnin-avisierter-termin
 END:VEVENT
 BEGIN:VEVENT
-UID:kloster-lehnin-event-2974614@amtsfeed.de
-DTSTAMP:20261028T095122Z
-DTSTART;VALUE=DATE:20270522
-DTEND;VALUE=DATE:20270523
-SUMMARY:Freundschaftsregatta 2027 - SVKL/Segeln am 22./23. Mai 2027
-URL:https://www.klosterlehnin.de/veranstaltungen/2974614/2027/05/22/freun
- dschaftsregatta-2027-svkl-segeln-am-22.-23.-mai-2027
-END:VEVENT
-BEGIN:VEVENT
 UID:kloster-lehnin-event-2927939@amtsfeed.de
 DTSTAMP:20261028T095122Z
 DTSTART;VALUE=DATE:20270523
@@ -2775,6 +2775,15 @@ DTEND;VALUE=DATE:20270524
 SUMMARY:Backofenfest
 URL:https://www.klosterlehnin.de/veranstaltungen/2927939/2027/05/23/backo
  fenfest
+END:VEVENT
+BEGIN:VEVENT
+UID:kloster-lehnin-event-2974614@amtsfeed.de
+DTSTAMP:20261111T111004Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Freundschaftsregatta 2027 - SVKL/Segeln am 29./30. Mai 2027
+URL:https://www.klosterlehnin.de/veranstaltungen/2974614/2027/05/29/freun
+ dschaftsregatta-2027-svkl-segeln-am-29.-30.-mai-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2935809@amtsfeed.de

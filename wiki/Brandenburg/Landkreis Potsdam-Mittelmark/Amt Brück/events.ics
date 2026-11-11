@@ -673,6 +673,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/3001201/2026/12/05/adventsf
  euer
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-3002177@amtsfeed.de
+DTSTAMP:20261111T110937Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Der Weihnachtsmann kommt nach Borkheide
+URL:https://www.amt-brueck.de/veranstaltungen/3002177/2026/12/05/der-weih
+ nachtsmann-kommt-nach-borkheide
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2819566@amtsfeed.de
 DTSTAMP:20261028T095057Z
 DTSTART;VALUE=DATE:20261206
@@ -743,6 +752,15 @@ DTEND;VALUE=DATE:20270120
 SUMMARY:Wasser- und Bodenanalyse
 URL:https://www.amt-brueck.de/veranstaltungen/2999284/2027/01/19/wasser-u
  nd-bodenanalyse
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-3002193@amtsfeed.de
+DTSTAMP:20261111T110937Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Borkwalder Sommerfest
+URL:https://www.amt-brueck.de/veranstaltungen/3002193/2027/06/19/borkwald
+ er-sommerfest
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2899490@amtsfeed.de

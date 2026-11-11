@@ -931,24 +931,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2969197/2026/11/08/fuehrun
  gen-im-schloss
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855686@amtsfeed.de
-DTSTAMP:20261104T110413Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Seniorentanzgruppe "Spätlese"
-URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/11/10/seniore
- ntanzgruppe-spaetlese
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855780@amtsfeed.de
-DTSTAMP:20261028T094920Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Skat in Bötzow
-URL:https://www.oberkraemer.de/veranstaltungen/2855780/2026/11/10/skat-in
- -boetzow
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855878@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261110
@@ -1183,6 +1165,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855879/2026/11/16/rommé-
  in-bötzow.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2855686@amtsfeed.de
+DTSTAMP:20261111T110753Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Seniorentanzgruppe "Spätlese"
+URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/11/17/seniore
+ ntanzgruppe-spaetlese
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855880@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261117
@@ -1370,6 +1361,15 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Weihnachtsbaum schmücken in Schwante
 URL:https://www.oberkraemer.de/veranstaltungen/2993126/2026/11/28/weihnac
  htsbaum-schmuecken-in-schwante
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-3002486@amtsfeed.de
+DTSTAMP:20261111T110753Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Zauber-Weihnachtsmärchen mit Jella
+URL:https://www.oberkraemer.de/veranstaltungen/3002486/2026/11/28/zauber-
+ weihnachtsmaerchen-mit-jella
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855765@amtsfeed.de
@@ -1588,6 +1588,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2994850/2026/12/05/buchueb
  erraschung-fuer-kinder-bibliothek-boetzow
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-3002681@amtsfeed.de
+DTSTAMP:20261111T110753Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Die Havelländer Puppenbühne
+URL:https://www.oberkraemer.de/veranstaltungen/3002681/2026/12/05/die-hav
+ ellaender-puppenbuehne
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2988866@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261206
@@ -1595,6 +1604,15 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Adventsbrunch
 URL:https://www.oberkraemer.de/veranstaltungen/2988866/2026/12/06/advents
  brunch
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855780@amtsfeed.de
+DTSTAMP:20261111T110753Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Skat in Bötzow
+URL:https://www.oberkraemer.de/veranstaltungen/2855780/2026/12/08/skat-in
+ -boetzow
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855893@amtsfeed.de

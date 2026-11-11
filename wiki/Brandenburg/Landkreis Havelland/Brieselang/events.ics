@@ -1089,6 +1089,22 @@ DESCRIPTION:Die Gemeinde Brieselang lädt am Sonntag\, 15. November 2026\
  errschaft gedacht.
 END:VEVENT
 BEGIN:VEVENT
+UID:brieselang-event-Sicher-unterwegs-mit-dem-Rad-oder-zu-Fuss-Austausch-
+ mit-Dirk-Reuber-20261117@amtsfeed.de
+DTSTAMP:20261111T110345Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Sicher unterwegs mit dem Rad oder zu Fuß: Austausch mit Dirk Reu
+ ber
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Sicher-unterwegs-mit-dem-Rad-oder-zu-Fuss-Austausch-mit-Dirk-R
+ euber.html?
+DESCRIPTION:Gesprächs- und Austauschrunde: Der Fahrrad- und Fußgängerb
+ eauftragte der Gemeinde Brieselang\, Dirk Reuber\, lädt für Dienstag\, 
+ 17. November 2026\, um 19 Uhr zu einem Treffen für Fahrradinteressierte 
+ ins Café und Restaurant CappuGino am Markt ein.
+END:VEVENT
+BEGIN:VEVENT
 UID:brieselang-event-Buergermeisterin-laedt-zur-XXL-Gespraechsrunde-ins-R
  athaus-20261121@amtsfeed.de
 DTSTAMP:20261016T081528Z
@@ -1302,6 +1318,22 @@ DESCRIPTION:Am ersten Advent wird es auf dem Kirchengelände in Zeestow w
  m Sonntag\, 29. November 2026\, rund um die Autobahnkirche statt. Beginn 
  ist um 13 Uhr.
 LOCATION:Evangelische Autobahnkirche Zeestow\,
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Brieselanger-Weihnachtsmarkt-an-der-evangelischen-Ki
+ rche-20261205@amtsfeed.de
+DTSTAMP:20261111T110345Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Brieselanger Weihnachtsmarkt an der evangelischen Kirche
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Brieselanger-Weihnachtsmarkt-an-der-evangelischen-Kirche.html?
+DESCRIPTION:Der Brieselanger Weihnachtsmarkt findet am Samstag\, 5. Dezem
+ ber 2026\, von 14 bis 19 Uhr auf dem Gelände der evangelischen Kirche in
+  der Karl-Marx-Straße 139 statt. Veranstalter sind der Verein ZukunftsCh
+ ancen Brieselang und die Evangelische Trinitatis-Gesamtkirchengemeinde Br
+ ieselang.
+LOCATION:Evangelische Kirche Brieselang\,
 END:VEVENT
 BEGIN:VEVENT
 UID:brieselang-event-Digitaler-Stammtisch-Praktische-Hilfe-fuer-Handy-PC-

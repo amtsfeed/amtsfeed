@@ -379,6 +379,15 @@ URL:https://www.stadt-schwarzheide.de/veranstaltungen/2979268/2026/11/10/
  und-der-haifisch.-gastspiel-theater-neue-buehne
 END:VEVENT
 BEGIN:VEVENT
+UID:schwarzheide-event-3002621@amtsfeed.de
+DTSTAMP:20261111T110836Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Sturm aufs Bürgerhaus
+URL:https://www.stadt-schwarzheide.de/veranstaltungen/3002621/2026/11/11/
+ sturm-aufs-buergerhaus
+END:VEVENT
+BEGIN:VEVENT
 UID:schwarzheide-event-2941976@amtsfeed.de
 DTSTAMP:20261028T094953Z
 DTSTART;VALUE=DATE:20261113
@@ -422,12 +431,12 @@ URL:https://www.stadt-schwarzheide.de/veranstaltungen/2829709/2026/12/05/
 END:VEVENT
 BEGIN:VEVENT
 UID:schwarzheide-event-2838354@amtsfeed.de
-DTSTAMP:20261028T094953Z
+DTSTAMP:20261111T110836Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:Weihnachtsmarkt 2026
+SUMMARY:Schwarzheider Weihnachtsmarkt 2026
 URL:https://www.stadt-schwarzheide.de/veranstaltungen/2838354/2026/12/06/
- weihnachtsmarkt-2026
+ schwarzheider-weihnachtsmarkt-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:schwarzheide-event-2497207@amtsfeed.de

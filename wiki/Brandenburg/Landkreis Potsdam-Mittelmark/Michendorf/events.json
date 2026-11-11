@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:24:05.135Z",
+  "updatedAt": "2026-11-11T11:10:06.010Z",
   "items": [
     {
       "id": "michendorf-event-2884831",
@@ -1346,22 +1346,6 @@
       "updatedAt": "2026-10-28T09:51:26.239Z"
     },
     {
-      "id": "michendorf-event-2959538",
-      "title": "Jugendclub \"MICHECK\" geöffnet",
-      "url": "https://www.michendorf.de/veranstaltungen/2959538/2026/11/10/jugendclub-micheck-geoeffnet",
-      "startDate": "2026-11-10T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:11.775Z",
-      "updatedAt": "2026-11-04T11:06:14.345Z"
-    },
-    {
-      "id": "michendorf-event-2798288",
-      "title": "Trauercaf&eacute;",
-      "url": "https://www.michendorf.de/veranstaltungen/2798288/2026/11/10/trauercafé",
-      "startDate": "2026-11-10T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:01.632Z",
-      "updatedAt": "2026-10-28T09:51:26.239Z"
-    },
-    {
       "id": "michendorf-event-2995109",
       "title": "Arbeitskreise Schule & Wirtschaft PM",
       "url": "https://www.michendorf.de/veranstaltungen/2995109/2026/11/10/arbeitskreise-schule-wirtschaft-pm",
@@ -1466,6 +1450,14 @@
       "updatedAt": "2026-10-28T09:51:26.239Z"
     },
     {
+      "id": "michendorf-event-2959538",
+      "title": "Jugendclub \"MICHECK\" geöffnet",
+      "url": "https://www.michendorf.de/veranstaltungen/2959538/2026/11/17/jugendclub-micheck-geoeffnet",
+      "startDate": "2026-11-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
+    },
+    {
       "id": "michendorf-event-2995201",
       "title": "Rathaus unterwegs in Michendorf",
       "url": "https://www.michendorf.de/veranstaltungen/2995201/2026/11/17/rathaus-unterwegs-in-michendorf",
@@ -1496,6 +1488,14 @@
       "startDate": "2026-11-23T00:00:00.000Z",
       "fetchedAt": "2026-10-21T08:49:07.606Z",
       "updatedAt": "2026-10-28T09:51:26.239Z"
+    },
+    {
+      "id": "michendorf-event-2798288",
+      "title": "Trauercaf&eacute;",
+      "url": "https://www.michendorf.de/veranstaltungen/2798288/2026/11/24/trauercafé",
+      "startDate": "2026-11-24T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
     },
     {
       "id": "michendorf-event-2976342",
@@ -1706,6 +1706,14 @@
       "updatedAt": "2026-11-02T11:21:26.289Z"
     },
     {
+      "id": "michendorf-event-3001993",
+      "title": "Silvestertanz",
+      "url": "https://www.michendorf.de/veranstaltungen/3001993/2026/12/31/silvestertanz",
+      "startDate": "2026-12-31T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:06.000Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
+    },
+    {
       "id": "michendorf-event-2996170",
       "title": "Seniorenfest der Gemeinde",
       "url": "https://www.michendorf.de/veranstaltungen/2996170/2027/01/14/seniorenfest-der-gemeinde",
@@ -1728,6 +1736,30 @@
       "startDate": "2027-01-28T00:00:00.000Z",
       "fetchedAt": "2026-11-10T11:24:05.125Z",
       "updatedAt": "2026-11-10T11:24:05.125Z"
+    },
+    {
+      "id": "michendorf-event-3002085",
+      "title": "Fastnachten - Umzug und Zempern",
+      "url": "https://www.michendorf.de/veranstaltungen/3002085/2027/02/06/fastnachten-umzug-und-zempern",
+      "startDate": "2027-02-06T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:06.000Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
+    },
+    {
+      "id": "michendorf-event-3002093",
+      "title": "Fastnachtstanz mit Bärenschlachten",
+      "url": "https://www.michendorf.de/veranstaltungen/3002093/2027/02/06/fastnachtstanz-mit-baerenschlachten",
+      "startDate": "2027-02-06T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:06.000Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
+    },
+    {
+      "id": "michendorf-event-3002105",
+      "title": "Jaheshauptversammlung des Heimatvereins Michendorf e.V",
+      "url": "https://www.michendorf.de/veranstaltungen/3002105/2027/02/14/jaheshauptversammlung-des-heimatvereins-michendorf-e.v",
+      "startDate": "2027-02-14T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:06.000Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
     },
     {
       "id": "michendorf-event-2785341",
@@ -1754,6 +1786,14 @@
       "updatedAt": "2026-11-09T11:45:15.553Z"
     },
     {
+      "id": "michendorf-event-3002096",
+      "title": "Osterfeuer",
+      "url": "https://www.michendorf.de/veranstaltungen/3002096/2027/03/27/osterfeuer",
+      "startDate": "2027-03-27T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:06.000Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
+    },
+    {
       "id": "michendorf-event-3001043",
       "title": "Frühlingsempfang der Bürgermeisterin",
       "url": "https://www.michendorf.de/veranstaltungen/3001043/2027/04/09/fruehlingsempfang-der-buergermeisterin",
@@ -1778,12 +1818,52 @@
       "updatedAt": "2026-11-09T11:45:15.553Z"
     },
     {
+      "id": "michendorf-event-3002110",
+      "title": "USCHI PARTY",
+      "url": "https://www.michendorf.de/veranstaltungen/3002110/2027/05/29/uschi-party",
+      "startDate": "2027-05-29T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:06.000Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
+    },
+    {
+      "id": "michendorf-event-3002188",
+      "title": "2. Simson-Treffen in Stücken",
+      "url": "https://www.michendorf.de/veranstaltungen/3002188/2027/06/19/2.-simson-treffen-in-stuecken",
+      "startDate": "2027-06-19T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:06.000Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
+    },
+    {
+      "id": "michendorf-event-3002121",
+      "title": "Blasmusikfest",
+      "url": "https://www.michendorf.de/veranstaltungen/3002121/2027/07/04/blasmusikfest",
+      "startDate": "2027-07-04T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:06.000Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
+    },
+    {
       "id": "michendorf-event-3001093",
       "title": "100 Jahre Ortswehr Fresdorf",
       "url": "https://www.michendorf.de/veranstaltungen/3001093/2027/08/20/100-jahre-ortswehr-fresdorf",
       "startDate": "2027-08-20T00:00:00.000Z",
       "fetchedAt": "2026-11-09T11:45:15.553Z",
       "updatedAt": "2026-11-09T11:45:15.553Z"
+    },
+    {
+      "id": "michendorf-event-3002115",
+      "title": "Erntefest",
+      "url": "https://www.michendorf.de/veranstaltungen/3002115/2027/10/03/erntefest",
+      "startDate": "2027-10-03T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:06.000Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
+    },
+    {
+      "id": "michendorf-event-3002108",
+      "title": "Feuer und Flamme 2027",
+      "url": "https://www.michendorf.de/veranstaltungen/3002108/2027/10/23/feuer-und-flamme-2027",
+      "startDate": "2027-10-23T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:06.000Z",
+      "updatedAt": "2026-11-11T11:10:06.000Z"
     }
   ]
 }

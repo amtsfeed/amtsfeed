@@ -1187,17 +1187,6 @@ URL:https://www.scharmuetzelsee.de/event/du-und-dein-garten-im-naturpark-
  obstbaumschnitt-an-jungbaeumen-theorieseminar
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
- enkmal-bunkeranlage-fuchsbau@amtsfeed.de
-DTSTAMP:20261105T110644Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
- nkeranlage Fuchsbau“
-URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
- nker-im-technischen-denkmal-bunkeranlage-fuchsbau
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-linienfahrt-nachsaison-sa-so@amtsfeed.de
 DTSTAMP:20261108T103311Z
 DTSTART;VALUE=DATE:20261108
@@ -1217,9 +1206,9 @@ URL:https://www.scharmuetzelsee.de/event/saarower-salonkonzert-auf-den-zw
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261109T114403Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
+DTSTAMP:20261111T110849Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
 SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
 URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
  ad-saarow
@@ -1299,6 +1288,17 @@ SUMMARY:SATAMAs Sibirische Nacht 2026
 URL:https://www.scharmuetzelsee.de/event/satamas-sibirische-nacht-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
+ enkmal-bunkeranlage-fuchsbau@amtsfeed.de
+DTSTAMP:20261111T110849Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
+ nkeranlage Fuchsbau“
+URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
+ nker-im-technischen-denkmal-bunkeranlage-fuchsbau
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alt
  en-schulscheune@amtsfeed.de
 DTSTAMP:20261001T102046Z
@@ -1364,6 +1364,14 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Weihnachtszauber Burg Storkow Weihnachtsmarkt
 URL:https://www.scharmuetzelsee.de/event/weihnachtszauber-burg-storkow-we
  ihnachtsmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-adventszauber-bad-saarow@amtsfeed.de
+DTSTAMP:20261111T110849Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:Adventszauber Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/adventszauber-bad-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-movie-night-im-spa@amtsfeed.de

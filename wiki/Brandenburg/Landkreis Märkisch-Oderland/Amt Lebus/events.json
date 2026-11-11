@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:21:26.788Z",
+  "updatedAt": "2026-11-11T11:06:38.963Z",
   "items": [
     {
       "id": "2846347",
@@ -1114,26 +1114,6 @@
       "updatedAt": "2026-10-30T10:09:02.916Z"
     },
     {
-      "id": "2464901",
-      "title": "Selbstverteidigung für Frauen",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464901/2026/11/10/selbstverteidigung-fuer-frauen",
-      "startDate": "2026-11-10T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "in Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-04T11:03:02.817Z"
-    },
-    {
-      "id": "2419554",
-      "title": "Posaunenchor  Probe",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2419554/2026/11/10/posaunenchor-probe",
-      "startDate": "2026-11-10T00:00:00.000Z",
-      "location": "Pfarrkirche Lebus",
-      "description": "Jeden Dienstag um 19.00 Uhr Kirche Lebus",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-04T11:03:02.817Z"
-    },
-    {
       "id": "2904734",
       "title": "Fahrt zur Therme",
       "url": "https://www.amt-lebus.de/veranstaltungen/2904734/2026/11/10/fahrt-zur-therme",
@@ -1316,6 +1296,26 @@
       "updatedAt": "2026-11-10T11:21:26.772Z"
     },
     {
+      "id": "2464901",
+      "title": "Selbstverteidigung für Frauen",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464901/2026/11/17/selbstverteidigung-fuer-frauen",
+      "startDate": "2026-11-17T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "in Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-11T11:06:38.948Z"
+    },
+    {
+      "id": "2419554",
+      "title": "Posaunenchor  Probe",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2419554/2026/11/17/posaunenchor-probe",
+      "startDate": "2026-11-17T00:00:00.000Z",
+      "location": "Pfarrkirche Lebus",
+      "description": "Jeden Dienstag um 19.00 Uhr Kirche Lebus",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-11T11:06:38.948Z"
+    },
+    {
       "id": "2993098",
       "title": "Ich lese was, was Du nicht liest",
       "url": "https://www.amt-lebus.de/veranstaltungen/2993098/2026/11/20/ich-lese-was-was-du-nicht-liest",
@@ -1361,6 +1361,15 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
+      "id": "3002089",
+      "title": "Tag der offenen Tür - Burgschule Lebus",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3002089/2026/11/21/tag-der-offenen-tuer-burgschule-lebus",
+      "startDate": "2026-11-21T00:00:00.000Z",
+      "location": "Burgschule Verlässliche Halbtagsgrundschule Lebus",
+      "fetchedAt": "2026-11-11T11:06:38.948Z",
+      "updatedAt": "2026-11-11T11:06:38.948Z"
+    },
+    {
       "id": "2984489",
       "title": "Von der Angst zur Intuition ein Weg zu mehr innerer Ruhe und Klarheit",
       "url": "https://www.amt-lebus.de/veranstaltungen/2984489/2026/11/25/von-der-angst-zur-intuition-ein-weg-zu-mehr-innerer-ruhe-und-klarheit",
@@ -1369,6 +1378,15 @@
       "description": "Vortrag mit Dr. med. Ute Krüger",
       "fetchedAt": "2026-10-15T08:25:31.421Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "3002080",
+      "title": "4.Weihnachtsmarkt und Tag der offenen Tür - Schule Alt Zeschdorf",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3002080/2026/11/27/4.weihnachtsmarkt-und-tag-der-offenen-tuer-schule-alt-zeschdorf",
+      "startDate": "2026-11-27T00:00:00.000Z",
+      "location": "Schule im Grünen Verlässliche Halbtagsgrundschule in Alt Zeschdorf",
+      "fetchedAt": "2026-11-11T11:06:38.948Z",
+      "updatedAt": "2026-11-11T11:06:38.948Z"
     },
     {
       "id": "2984934",

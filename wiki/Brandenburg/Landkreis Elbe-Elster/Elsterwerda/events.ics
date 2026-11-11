@@ -1009,6 +1009,15 @@ SUMMARY:Weihnachtsmarkt Kotschka
 URL:https://www.elsterwerda.de/veranstaltung/weihnachtsmarkt-kotschka/
 END:VEVENT
 BEGIN:VEVENT
+UID:24432@amtsfeed.de
+DTSTAMP:20261111T110318Z
+DTSTART:20261128T140000Z
+SUMMARY:Auf alten Heidewegen… „Kräuter- und Erlebnistour durch die H
+ eidelandschaft um Kraupa“
+URL:https://www.elsterwerda.de/veranstaltung/auf-alten-heidewegen-kraeute
+ r-und-erlebnistour-durch-die-heidelandschaft-um-kraupa-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:23814@amtsfeed.de
 DTSTAMP:20260911T110714Z
 DTSTART:20261129T150000Z
@@ -1288,5 +1297,21 @@ DTSTART:20280615T150000Z
 SUMMARY:Trauercafé Elsterwerda
 URL:https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2028-
  06-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:10001070@amtsfeed.de
+DTSTAMP:20261111T110318Z
+DTSTART:20280720T150000Z
+SUMMARY:Trauercafé Elsterwerda
+URL:https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2028-
+ 07-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:10001071@amtsfeed.de
+DTSTAMP:20261111T110318Z
+DTSTART:20280817T150000Z
+SUMMARY:Trauercafé Elsterwerda
+URL:https://www.elsterwerda.de/veranstaltung/trauercafe-elsterwerda/2028-
+ 08-17/
 END:VEVENT
 END:VCALENDAR

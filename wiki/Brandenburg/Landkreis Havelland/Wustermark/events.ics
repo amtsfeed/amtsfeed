@@ -893,4 +893,14 @@ URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
  gen/Sonntagsplausch.php?object=tx\,3847.4.1&ModID=11&FID=3847.246.1&NavID
  =3847.15&sfvort=1&sfort=1&bn=1
 END:VEVENT
+BEGIN:VEVENT
+UID:wustermark-event-238@amtsfeed.de
+DTSTAMP:20261111T110442Z
+DTSTART:20270106T180000Z
+DTEND:20270106T190000Z
+SUMMARY:Faszientraining
+URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
+ gen/Faszientraining.php?object=tx\,3847.4.1&ModID=11&FID=3847.238.1&NavID
+ =3847.15&sfvort=1&sfort=1&bn=1
+END:VEVENT
 END:VCALENDAR

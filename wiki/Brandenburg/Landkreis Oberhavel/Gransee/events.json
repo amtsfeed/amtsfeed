@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:01:07.323Z",
+  "updatedAt": "2026-11-11T11:07:32.541Z",
   "items": [
     {
       "id": "gransee-event-25497",
@@ -5074,6 +5074,15 @@
       "updatedAt": "2026-09-12T08:05:03.027Z"
     },
     {
+      "id": "gransee-event-26753",
+      "title": "Adventtürchen",
+      "url": "https://www.gransee.de/event/adventtuerchen/",
+      "startDate": "2026-12-06T16:00:00.000Z",
+      "location": "auf dem Feuerwehrplatz am Stechlinsee-Center, Neuglobsow",
+      "fetchedAt": "2026-11-11T11:07:29.124Z",
+      "updatedAt": "2026-11-11T11:07:29.124Z"
+    },
+    {
       "id": "gransee-event-25063",
       "title": "Motto: „Uns geht ein Licht auf“ mit 700 Lichtern für 700 Jahre – Spaziergang  mit Kerzen und Laternen zur Schautafel Dorfgeschichte – Beendigung des  Jubiläumsjahres",
       "url": "https://www.gransee.de/event/motto-uns-geht-ein-licht-auf-mit-700-lichtern-fuer-700-jahre-spaziergang-mit-kerzen-und-laternen-zur-schautafel-dorfgeschichte-beendigung-des-jubilaeumsjahres/",
@@ -5307,6 +5316,24 @@
       "updatedAt": "2026-09-12T08:05:03.027Z"
     },
     {
+      "id": "gransee-event-26755",
+      "title": "Weihnachtsbaumverbrennen",
+      "url": "https://www.gransee.de/event/weihnachtsbaumverbrennen/",
+      "startDate": "2027-01-16T00:00:00.000Z",
+      "location": "auf dem Feuerwehrplatz am Stechlinsee-Center, Neuglobsow",
+      "fetchedAt": "2026-11-11T11:07:29.124Z",
+      "updatedAt": "2026-11-11T11:07:29.124Z"
+    },
+    {
+      "id": "gransee-event-26757",
+      "title": "Jahreshauptversammlung Förderverein der FFW Neuglobsow",
+      "url": "https://www.gransee.de/event/jahreshauptversammlung-foerderverein-der-ffw-neuglobsow/",
+      "startDate": "2027-02-13T15:00:00.000Z",
+      "location": "Stechlinsee-Center, Stechlin OT Neuglobsow",
+      "fetchedAt": "2026-11-11T11:07:29.124Z",
+      "updatedAt": "2026-11-11T11:07:29.124Z"
+    },
+    {
       "id": "gransee-event-26544",
       "title": "Reiterball",
       "url": "https://www.gransee.de/event/reiterball-4/",
@@ -5323,6 +5350,15 @@
       "location": "Reitplatz Kraatz, Kraatz",
       "fetchedAt": "2026-09-29T09:58:46.465Z",
       "updatedAt": "2026-09-29T09:58:46.465Z"
+    },
+    {
+      "id": "gransee-event-26759",
+      "title": "Blutspendetag",
+      "url": "https://www.gransee.de/event/blutspendetag/",
+      "startDate": "2027-09-04T00:00:00.000Z",
+      "location": "Stechlinsee-Center, Stechlin OT Neuglobsow",
+      "fetchedAt": "2026-11-11T11:07:29.124Z",
+      "updatedAt": "2026-11-11T11:07:29.124Z"
     }
   ]
 }

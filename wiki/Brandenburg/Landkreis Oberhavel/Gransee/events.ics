@@ -5116,6 +5116,14 @@ URL:https://www.gransee.de/event/weihnachtsmarkt-17/
 LOCATION:Hospitalkapelle\, 16775 Gransee
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26753@amtsfeed.de
+DTSTAMP:20261111T110729Z
+DTSTART:20261206T160000Z
+SUMMARY:Adventtürchen
+URL:https://www.gransee.de/event/adventtuerchen/
+LOCATION:auf dem Feuerwehrplatz am Stechlinsee-Center\, Neuglobsow
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-25063@amtsfeed.de
 DTSTAMP:20260912T080503Z
 DTSTART;VALUE=DATE:20261207
@@ -5340,6 +5348,24 @@ URL:https://www.gransee.de/event/silvesterparty-4/
 LOCATION:Stechlinsee-Center\, Stechlin OT Neuglobsow
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26755@amtsfeed.de
+DTSTAMP:20261111T110729Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Weihnachtsbaumverbrennen
+URL:https://www.gransee.de/event/weihnachtsbaumverbrennen/
+LOCATION:auf dem Feuerwehrplatz am Stechlinsee-Center\, Neuglobsow
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26757@amtsfeed.de
+DTSTAMP:20261111T110729Z
+DTSTART:20270213T150000Z
+SUMMARY:Jahreshauptversammlung Förderverein der FFW Neuglobsow
+URL:https://www.gransee.de/event/jahreshauptversammlung-foerderverein-der
+ -ffw-neuglobsow/
+LOCATION:Stechlinsee-Center\, Stechlin OT Neuglobsow
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-26544@amtsfeed.de
 DTSTAMP:20260929T095846Z
 DTSTART:20270424T190000Z
@@ -5355,5 +5381,14 @@ DTEND;VALUE=DATE:20270426
 SUMMARY:Reitturnier
 URL:https://www.gransee.de/event/reitturnier-7/
 LOCATION:Reitplatz Kraatz\, Kraatz
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26759@amtsfeed.de
+DTSTAMP:20261111T110729Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Blutspendetag
+URL:https://www.gransee.de/event/blutspendetag/
+LOCATION:Stechlinsee-Center\, Stechlin OT Neuglobsow
 END:VEVENT
 END:VCALENDAR

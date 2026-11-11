@@ -1744,6 +1744,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Berliner Straße 83 in Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-588-20261111@amtsfeed.de
+DTSTAMP:20261111T110427Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Sankt Martin mit Laternenumzug
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/sankt-martin-mit-laternenumzug/
+LOCATION:von der Lutherkiche (Jahnstraße) zur katholischen Kirche "St. G
+ eorg" (Friesacker Straße)
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1806-20261112@amtsfeed.de
 DTSTAMP:20261103T105822Z
 DTSTART;VALUE=DATE:20261112
@@ -2040,6 +2051,17 @@ SUMMARY:Inklusiver Lichterpaarlauf
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/inklusiver-lichterpaarlauf/
 LOCATION:Stadion Schwedendamm
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1814-20261203@amtsfeed.de
+DTSTAMP:20261111T110427Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Spatzenkino im Haveltorkino: Tierisches Fest
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/spatenkino-im-haveltorkino-tier
+ isches-fest/
+LOCATION:Haveltorkino Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-124-20261206@amtsfeed.de

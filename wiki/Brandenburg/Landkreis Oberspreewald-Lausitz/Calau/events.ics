@@ -1232,24 +1232,6 @@ URL:https://www.calau.de/veranstaltungen/2898941/2026/11/09/malen-fuer-di
  e-seele-offene-malgruppe
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261106T110142Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:10.11.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/11/10/calauer-woche
- nmarkt
-END:VEVENT
-BEGIN:VEVENT
-UID:calau-event-2024997@amtsfeed.de
-DTSTAMP:20261106T110142Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:10.11.2026   IHK-Sprechtag in Calau
-URL:https://www.calau.de/veranstaltungen/2024997/2026/11/10/ihk-sprechtag
- -in-calau
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2315266@amtsfeed.de
 DTSTAMP:20261107T102155Z
 DTSTART;VALUE=DATE:20261111
@@ -1277,6 +1259,15 @@ URL:https://www.calau.de/veranstaltungen/2991983/2026/11/11/rathaus-sturm
  -des-ccc
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261111T110824Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:12.11.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/11/12/calauer-woche
+ nmarkt
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2885235@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART;VALUE=DATE:20261112
@@ -1287,10 +1278,10 @@ URL:https://www.calau.de/veranstaltungen/2885235/2026/11/12/krabbelgruppe
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2951713@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261111T110824Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:VorLeseKuschelZeit: "Der Löwe in Dir"
+SUMMARY:12.11.2026   VorLeseKuschelZeit: "Der Löwe in Dir"
 URL:https://www.calau.de/veranstaltungen/2951713/2026/11/12/vorlesekusche
  lzeit-der-loewe-in-dir
 END:VEVENT
@@ -1487,6 +1478,15 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:"Kochzauber für Kids"
 URL:https://www.calau.de/veranstaltungen/3001677/2026/11/21/kochzauber-fu
  er-kids
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3002712@amtsfeed.de
+DTSTAMP:20261111T110824Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Backen mit den Hortkindern
+URL:https://www.calau.de/veranstaltungen/3002712/2026/11/23/backen-mit-de
+ n-hortkindern
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2976565@amtsfeed.de
@@ -1727,6 +1727,15 @@ DTEND;VALUE=DATE:20261208
 SUMMARY:Kurs "Vertraue auf dich - du hast alles\, was du brauchst"
 URL:https://www.calau.de/veranstaltungen/3001693/2026/12/07/kurs-vertraue
  -auf-dich-du-hast-alles-was-du-brauchst
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2024997@amtsfeed.de
+DTSTAMP:20261111T110824Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:IHK-Sprechtag in Calau
+URL:https://www.calau.de/veranstaltungen/2024997/2026/12/08/ihk-sprechtag
+ -in-calau
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2885237@amtsfeed.de

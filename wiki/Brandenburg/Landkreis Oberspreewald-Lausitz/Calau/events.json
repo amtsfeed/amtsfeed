@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:22:39.587Z",
+  "updatedAt": "2026-11-11T11:08:24.050Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -1090,22 +1090,6 @@
       "updatedAt": "2026-11-06T11:01:42.896Z"
     },
     {
-      "id": "calau-event-2290342",
-      "title": "10.11.2026   Calauer Wochenmarkt",
-      "url": "https://www.calau.de/veranstaltungen/2290342/2026/11/10/calauer-wochenmarkt",
-      "startDate": "2026-11-10T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-11-06T11:01:42.896Z"
-    },
-    {
-      "id": "calau-event-2024997",
-      "title": "10.11.2026   IHK-Sprechtag in Calau",
-      "url": "https://www.calau.de/veranstaltungen/2024997/2026/11/10/ihk-sprechtag-in-calau",
-      "startDate": "2026-11-10T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-11-06T11:01:42.896Z"
-    },
-    {
       "id": "calau-event-2315266",
       "title": "11.11.2026   Calauer Museen öffnen",
       "url": "https://www.calau.de/veranstaltungen/2315266/2026/11/11/calauer-museen-oeffnen",
@@ -1130,6 +1114,14 @@
       "updatedAt": "2026-11-10T11:22:39.576Z"
     },
     {
+      "id": "calau-event-2290342",
+      "title": "12.11.2026   Calauer Wochenmarkt",
+      "url": "https://www.calau.de/veranstaltungen/2290342/2026/11/12/calauer-wochenmarkt",
+      "startDate": "2026-11-12T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-11-11T11:08:24.039Z"
+    },
+    {
       "id": "calau-event-2885235",
       "title": "Krabbelgruppe in der Kita Kunterbunt",
       "url": "https://www.calau.de/veranstaltungen/2885235/2026/11/12/krabbelgruppe-in-der-kita-kunterbunt.html",
@@ -1139,11 +1131,11 @@
     },
     {
       "id": "calau-event-2951713",
-      "title": "VorLeseKuschelZeit: \"Der Löwe in Dir\"",
+      "title": "12.11.2026   VorLeseKuschelZeit: \"Der Löwe in Dir\"",
       "url": "https://www.calau.de/veranstaltungen/2951713/2026/11/12/vorlesekuschelzeit-der-loewe-in-dir",
       "startDate": "2026-11-12T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
-      "updatedAt": "2026-10-28T09:49:41.065Z"
+      "updatedAt": "2026-11-11T11:08:24.039Z"
     },
     {
       "id": "calau-event-2999545",
@@ -1320,6 +1312,14 @@
       "startDate": "2026-11-21T00:00:00.000Z",
       "fetchedAt": "2026-11-10T11:22:39.576Z",
       "updatedAt": "2026-11-10T11:22:39.576Z"
+    },
+    {
+      "id": "calau-event-3002712",
+      "title": "Backen mit den Hortkindern",
+      "url": "https://www.calau.de/veranstaltungen/3002712/2026/11/23/backen-mit-den-hortkindern",
+      "startDate": "2026-11-23T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:08:24.039Z",
+      "updatedAt": "2026-11-11T11:08:24.039Z"
     },
     {
       "id": "calau-event-2976565",
@@ -1528,6 +1528,14 @@
       "startDate": "2026-12-07T00:00:00.000Z",
       "fetchedAt": "2026-11-10T11:22:39.576Z",
       "updatedAt": "2026-11-10T11:22:39.576Z"
+    },
+    {
+      "id": "calau-event-2024997",
+      "title": "IHK-Sprechtag in Calau",
+      "url": "https://www.calau.de/veranstaltungen/2024997/2026/12/08/ihk-sprechtag-in-calau",
+      "startDate": "2026-12-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-11-11T11:08:24.039Z"
     },
     {
       "id": "calau-event-2885237",

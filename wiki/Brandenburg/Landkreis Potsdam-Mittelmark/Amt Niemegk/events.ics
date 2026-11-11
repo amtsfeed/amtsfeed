@@ -740,14 +740,13 @@ LOCATION:Turnhalle Niemegk
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-11-11-2026-11-11@amtsfeed.de
-DTSTAMP:20261105T110748Z
-DTSTART:20261111T093000Z
-DTEND:20261111T110000Z
-SUMMARY:Entdeckungsraum mit Anita
-URL:https://amt-niemegk.de/events/entdeckungsraum-mit-anita-und-daniela-2
- -138-336-851-428-980-903-718-896-424-566-392/?occurrence=2026-11-11&#038\
- ;time=1794389400
-LOCATION:Familienzentrum Niemegk
+DTSTAMP:20261111T110944Z
+DTSTART:20261111T150000Z
+DTEND:20261111T180000Z
+SUMMARY:„Fair-Teilen“ – Kleiderkammer
+URL:https://amt-niemegk.de/events/fair-teilen-kleiderkammer/?occurrence=2
+ 026-11-11
+LOCATION:Belziger Str. 4\, 14823 Niemegk
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-11-12-2026-11-12@amtsfeed.de
@@ -798,6 +797,17 @@ SUMMARY:Bibliothek mit Heidi\, Mandy und Inga
 URL:https://amt-niemegk.de/events/bibliothek-mit-heidi-und-mandy-539-585-
  258-411-969-294-833-496-666-910-861-827-728/?occurrence=2026-11-16&#038\;
  time=1794839400
+LOCATION:Familienzentrum Niemegk
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-11-18-2026-11-18@amtsfeed.de
+DTSTAMP:20261111T110944Z
+DTSTART:20261118T093000Z
+DTEND:20261118T110000Z
+SUMMARY:Entdeckungsraum mit Anita
+URL:https://amt-niemegk.de/events/entdeckungsraum-mit-anita-und-daniela-2
+ -138-336-851-428-980-903-718-896-424-566-392/?occurrence=2026-11-18&#038\
+ ;time=1794994200
 LOCATION:Familienzentrum Niemegk
 END:VEVENT
 END:VCALENDAR

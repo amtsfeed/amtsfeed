@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:22:42.824Z",
+  "updatedAt": "2026-11-11T11:08:27.907Z",
   "items": [
     {
       "id": "lauchhammer-event-2887000",
@@ -338,14 +338,6 @@
       "updatedAt": "2026-10-28T09:49:44.378Z"
     },
     {
-      "id": "lauchhammer-event-2124475",
-      "title": "Chorprobe mit dem Stadtchor Lauchhammer",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2124475/2026/11/10/chorprobe-mit-dem-stadtchor-lauchhammer",
-      "startDate": "2026-11-10T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:33.167Z",
-      "updatedAt": "2026-11-05T11:06:12.090Z"
-    },
-    {
       "id": "lauchhammer-event-2124494",
       "title": "Behinderten- und Seniorenberatung",
       "url": "https://www.lauchhammer.de/veranstaltungen/2124494/2026/11/12/behinderten-und-seniorenberatung",
@@ -408,6 +400,14 @@
       "startDate": "2026-11-16T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:46.810Z",
       "updatedAt": "2026-10-28T09:49:44.378Z"
+    },
+    {
+      "id": "lauchhammer-event-2124475",
+      "title": "Chorprobe mit dem Stadtchor Lauchhammer",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2124475/2026/11/17/chorprobe-mit-dem-stadtchor-lauchhammer",
+      "startDate": "2026-11-17T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:33.167Z",
+      "updatedAt": "2026-11-11T11:08:27.895Z"
     },
     {
       "id": "lauchhammer-event-2558944",
@@ -538,6 +538,14 @@
       "updatedAt": "2026-10-28T09:49:44.378Z"
     },
     {
+      "id": "lauchhammer-event-3002185",
+      "title": "Adventskonzert",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3002185/2026/12/11/adventskonzert",
+      "startDate": "2026-12-11T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:08:27.895Z",
+      "updatedAt": "2026-11-11T11:08:27.895Z"
+    },
+    {
       "id": "lauchhammer-event-2925548",
       "title": "ABBA - ABALANCE The Show",
       "url": "https://www.lauchhammer.de/veranstaltungen/2925548/2026/12/12/abba-abalance-the-show",
@@ -552,6 +560,14 @@
       "startDate": "2027-01-05T00:00:00.000Z",
       "fetchedAt": "2026-10-22T08:45:22.240Z",
       "updatedAt": "2026-10-28T09:49:44.378Z"
+    },
+    {
+      "id": "lauchhammer-event-3002164",
+      "title": "Senioren Disco",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3002164/2027/01/07/senioren-disco",
+      "startDate": "2027-01-07T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:08:27.895Z",
+      "updatedAt": "2026-11-11T11:08:27.895Z"
     },
     {
       "id": "lauchhammer-event-2989079",
@@ -586,6 +602,14 @@
       "updatedAt": "2026-10-28T09:49:44.378Z"
     },
     {
+      "id": "lauchhammer-event-3002168",
+      "title": "Senioren Disco",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3002168/2027/02/04/senioren-disco",
+      "startDate": "2027-02-04T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:08:27.895Z",
+      "updatedAt": "2026-11-11T11:08:27.895Z"
+    },
+    {
       "id": "lauchhammer-event-2989082",
       "title": "Beratung und Begleitung für von Gewalt betroffene Frauen",
       "url": "https://www.lauchhammer.de/veranstaltungen/2989082/2027/02/08/beratung-und-begleitung-fuer-von-gewalt-betroffene-frauen",
@@ -618,12 +642,68 @@
       "updatedAt": "2026-10-28T09:49:44.378Z"
     },
     {
+      "id": "lauchhammer-event-3002175",
+      "title": "Senioren Disco",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3002175/2027/03/04/senioren-disco",
+      "startDate": "2027-03-04T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:08:27.895Z",
+      "updatedAt": "2026-11-11T11:08:27.895Z"
+    },
+    {
+      "id": "lauchhammer-event-3002178",
+      "title": "Senioren Disco",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3002178/2027/04/01/senioren-disco",
+      "startDate": "2027-04-01T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:08:27.895Z",
+      "updatedAt": "2026-11-11T11:08:27.895Z"
+    },
+    {
+      "id": "lauchhammer-event-3002181",
+      "title": "Senioren Disco",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3002181/2027/05/13/senioren-disco",
+      "startDate": "2027-05-13T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:08:27.895Z",
+      "updatedAt": "2026-11-11T11:08:27.895Z"
+    },
+    {
+      "id": "lauchhammer-event-3002182",
+      "title": "Senioren Disco",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3002182/2027/06/03/senioren-disco",
+      "startDate": "2027-06-03T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:08:27.895Z",
+      "updatedAt": "2026-11-11T11:08:27.895Z"
+    },
+    {
+      "id": "lauchhammer-event-3002183",
+      "title": "Senioren Disco",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3002183/2027/09/02/senioren-disco",
+      "startDate": "2027-09-02T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:08:27.895Z",
+      "updatedAt": "2026-11-11T11:08:27.895Z"
+    },
+    {
       "id": "lauchhammer-event-2979282",
       "title": "25 Jahre Stützpunktfeuerwehr",
       "url": "https://www.lauchhammer.de/veranstaltungen/2979282/2027/09/04/25-jahre-stuetzpunktfeuerwehr",
       "startDate": "2027-09-04T00:00:00.000Z",
       "fetchedAt": "2026-10-05T10:37:54.031Z",
       "updatedAt": "2026-10-28T09:49:44.378Z"
+    },
+    {
+      "id": "lauchhammer-event-3002184",
+      "title": "Senioren Disco",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3002184/2027/10/07/senioren-disco",
+      "startDate": "2027-10-07T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:08:27.895Z",
+      "updatedAt": "2026-11-11T11:08:27.895Z"
+    },
+    {
+      "id": "lauchhammer-event-3002187",
+      "title": "Senioren Disco",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3002187/2027/11/04/senioren-disco",
+      "startDate": "2027-11-04T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:08:27.895Z",
+      "updatedAt": "2026-11-11T11:08:27.895Z"
     }
   ]
 }

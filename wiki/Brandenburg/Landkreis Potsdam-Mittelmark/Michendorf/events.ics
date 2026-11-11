@@ -1532,24 +1532,6 @@ URL:https://www.michendorf.de/veranstaltungen/2660025/2026/11/09/laternen
  umzug-der-michendorfer-kitas
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959538@amtsfeed.de
-DTSTAMP:20261104T110614Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959538/2026/11/10/jugendcl
- ub-micheck-geoeffnet
-END:VEVENT
-BEGIN:VEVENT
-UID:michendorf-event-2798288@amtsfeed.de
-DTSTAMP:20261028T095126Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Trauercaf&eacute\;
-URL:https://www.michendorf.de/veranstaltungen/2798288/2026/11/10/trauerca
- fé
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2995109@amtsfeed.de
 DTSTAMP:20261102T112126Z
 DTSTART;VALUE=DATE:20261110
@@ -1669,6 +1651,15 @@ URL:https://www.michendorf.de/veranstaltungen/2991359/2026/11/16/snack-le
  arn-pause-mal-anders-unternehmensnachfolge-erfolgreich-gestalten
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2959538@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959538/2026/11/17/jugendcl
+ ub-micheck-geoeffnet
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2995201@amtsfeed.de
 DTSTAMP:20261103T110255Z
 DTSTART;VALUE=DATE:20261117
@@ -1704,6 +1695,15 @@ DTEND;VALUE=DATE:20261124
 SUMMARY:Wohnzimmer-Gespräche: Igelrettung
 URL:https://www.michendorf.de/veranstaltungen/2987684/2026/11/23/wohnzimm
  er-gespraeche-igelrettung
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2798288@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Trauercaf&eacute\;
+URL:https://www.michendorf.de/veranstaltungen/2798288/2026/11/24/trauerca
+ fé
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2976342@amtsfeed.de
@@ -1940,6 +1940,15 @@ URL:https://www.michendorf.de/veranstaltungen/2959134/2026/12/15/im-gespr
  aech-in-michendorf
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-3001993@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Silvestertanz
+URL:https://www.michendorf.de/veranstaltungen/3001993/2026/12/31/silveste
+ rtanz
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2996170@amtsfeed.de
 DTSTAMP:20261103T110255Z
 DTSTART;VALUE=DATE:20270114
@@ -1965,6 +1974,33 @@ DTEND;VALUE=DATE:20270129
 SUMMARY:Mit dem Fahrrad durch die Welt
 URL:https://www.michendorf.de/veranstaltungen/3001669/2027/01/28/mit-dem-
  fahrrad-durch-die-welt
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3002085@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Fastnachten - Umzug und Zempern
+URL:https://www.michendorf.de/veranstaltungen/3002085/2027/02/06/fastnach
+ ten-umzug-und-zempern
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3002093@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Fastnachtstanz mit Bärenschlachten
+URL:https://www.michendorf.de/veranstaltungen/3002093/2027/02/06/fastnach
+ tstanz-mit-baerenschlachten
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3002105@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Jaheshauptversammlung des Heimatvereins Michendorf e.V
+URL:https://www.michendorf.de/veranstaltungen/3002105/2027/02/14/jaheshau
+ ptversammlung-des-heimatvereins-michendorf-e.v
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2785341@amtsfeed.de
@@ -1994,6 +2030,15 @@ URL:https://www.michendorf.de/veranstaltungen/3000992/2027/03/13/fruehjah
  rsputz
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-3002096@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Osterfeuer
+URL:https://www.michendorf.de/veranstaltungen/3002096/2027/03/27/osterfeu
+ er
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-3001043@amtsfeed.de
 DTSTAMP:20261109T114515Z
 DTSTART;VALUE=DATE:20270409
@@ -2021,6 +2066,33 @@ URL:https://www.michendorf.de/veranstaltungen/3001073/2027/05/05/stadtrad
  eln
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-3002110@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:USCHI PARTY
+URL:https://www.michendorf.de/veranstaltungen/3002110/2027/05/29/uschi-pa
+ rty
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3002188@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:2. Simson-Treffen in Stücken
+URL:https://www.michendorf.de/veranstaltungen/3002188/2027/06/19/2.-simso
+ n-treffen-in-stuecken
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3002121@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Blasmusikfest
+URL:https://www.michendorf.de/veranstaltungen/3002121/2027/07/04/blasmusi
+ kfest
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-3001093@amtsfeed.de
 DTSTAMP:20261109T114515Z
 DTSTART;VALUE=DATE:20270820
@@ -2028,5 +2100,23 @@ DTEND;VALUE=DATE:20270821
 SUMMARY:100 Jahre Ortswehr Fresdorf
 URL:https://www.michendorf.de/veranstaltungen/3001093/2027/08/20/100-jahr
  e-ortswehr-fresdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3002115@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:Erntefest
+URL:https://www.michendorf.de/veranstaltungen/3002115/2027/10/03/erntefes
+ t
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3002108@amtsfeed.de
+DTSTAMP:20261111T111006Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:Feuer und Flamme 2027
+URL:https://www.michendorf.de/veranstaltungen/3002108/2027/10/23/feuer-un
+ d-flamme-2027
 END:VEVENT
 END:VCALENDAR

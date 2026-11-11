@@ -1317,28 +1317,6 @@ DESCRIPTION:Erste Buchlesung einer neuen Lesereihe: Vera Regel liest aus
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
-UID:2464901@amtsfeed.de
-DTSTAMP:20261104T110302Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Selbstverteidigung für Frauen
-URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/11/10/selbstver
- teidigung-fuer-frauen
-DESCRIPTION:in Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2419554@amtsfeed.de
-DTSTAMP:20261104T110302Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Posaunenchor  Probe
-URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/11/10/posaunenc
- hor-probe
-DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
-LOCATION:Pfarrkirche Lebus
-END:VEVENT
-BEGIN:VEVENT
 UID:2904734@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261110
@@ -1544,6 +1522,28 @@ DESCRIPTION:Sportlerheim Podelzig
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
+UID:2464901@amtsfeed.de
+DTSTAMP:20261111T110638Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Selbstverteidigung für Frauen
+URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/11/17/selbstver
+ teidigung-fuer-frauen
+DESCRIPTION:in Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2419554@amtsfeed.de
+DTSTAMP:20261111T110638Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Posaunenchor  Probe
+URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/11/17/posaunenc
+ hor-probe
+DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
+LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
 UID:2993098@amtsfeed.de
 DTSTAMP:20261030T100902Z
 DTSTART;VALUE=DATE:20261120
@@ -1594,6 +1594,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2991298/2026/11/21/einladung
 LOCATION:Kirche Hohenjesar
 END:VEVENT
 BEGIN:VEVENT
+UID:3002089@amtsfeed.de
+DTSTAMP:20261111T110638Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Tag der offenen Tür - Burgschule Lebus
+URL:https://www.amt-lebus.de/veranstaltungen/3002089/2026/11/21/tag-der-o
+ ffenen-tuer-burgschule-lebus
+LOCATION:Burgschule Verlässliche Halbtagsgrundschule Lebus
+END:VEVENT
+BEGIN:VEVENT
 UID:2984489@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261125
@@ -1604,6 +1614,17 @@ URL:https://www.amt-lebus.de/veranstaltungen/2984489/2026/11/25/von-der-a
  ngst-zur-intuition-ein-weg-zu-mehr-innerer-ruhe-und-klarheit
 DESCRIPTION:Vortrag mit Dr. med. Ute Krüger
 LOCATION:Bibliothek Zeschdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:3002080@amtsfeed.de
+DTSTAMP:20261111T110638Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:4.Weihnachtsmarkt und Tag der offenen Tür - Schule Alt Zeschdorf
+URL:https://www.amt-lebus.de/veranstaltungen/3002080/2026/11/27/4.weihnac
+ htsmarkt-und-tag-der-offenen-tuer-schule-alt-zeschdorf
+LOCATION:Schule im Grünen Verlässliche Halbtagsgrundschule in Alt Zesch
+ dorf
 END:VEVENT
 BEGIN:VEVENT
 UID:2984934@amtsfeed.de

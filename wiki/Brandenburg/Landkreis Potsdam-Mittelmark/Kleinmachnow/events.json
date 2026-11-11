@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:24:00.199Z",
+  "updatedAt": "2026-11-11T11:10:01.835Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -1256,6 +1256,22 @@
       "startDate": "2026-11-23T17:00:00.000Z",
       "fetchedAt": "2026-11-10T11:24:00.197Z",
       "updatedAt": "2026-11-10T11:24:00.197Z"
+    },
+    {
+      "id": "kleinmachnow-event-2431",
+      "title": "Einladung zum Bingo-Nachmittag",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Einladung-zum-Bingo-Nachmittag.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2431.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-24T16:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:01.833Z",
+      "updatedAt": "2026-11-11T11:10:01.833Z"
+    },
+    {
+      "id": "kleinmachnow-event-2246",
+      "title": "Offenes Caf&eacute;",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Offenes-Caf%C3%A9.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2246.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-26T15:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:10:01.833Z",
+      "updatedAt": "2026-11-11T11:10:01.833Z"
     }
   ]
 }

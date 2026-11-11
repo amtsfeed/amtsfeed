@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:16:49.601Z",
+  "updatedAt": "2026-11-11T11:02:15.526Z",
   "items": [
     {
       "id": "amt-schenkenlaendchen-event-2785283-20260508",
@@ -1826,6 +1826,14 @@
       "updatedAt": "2026-10-28T09:43:19.366Z"
     },
     {
+      "id": "amt-schenkenlaendchen-event-3002465-20261122",
+      "title": "BilderBuchKino",
+      "url": "https://www.amt-schenkenlaendchen.de/veranstaltungen/3002465/2026/11/22/bilderbuchkino",
+      "startDate": "2026-11-22T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:02:15.523Z",
+      "updatedAt": "2026-11-11T11:02:15.523Z"
+    },
+    {
       "id": "amt-schenkenlaendchen-event-2668097-20261123",
       "title": "MGH \"Franz Fühmann\": Frühstückstreff",
       "url": "https://www.amt-schenkenlaendchen.de/veranstaltungen/2668097/2026/11/23/mgh-franz-fuehmann-fruehstueckstreff",
@@ -3560,6 +3568,22 @@
       "startDate": "2027-11-10T00:00:00.000Z",
       "fetchedAt": "2026-11-10T11:16:49.597Z",
       "updatedAt": "2026-11-10T11:16:49.597Z"
+    },
+    {
+      "id": "amt-schenkenlaendchen-event-2861706-20271111",
+      "title": "Kreativ-Workshop im MGH \"Franz Fühmann\":",
+      "url": "https://www.amt-schenkenlaendchen.de/veranstaltungen/2861706/2027/11/11/kreativ-workshop-im-mgh-franz-fuehmann",
+      "startDate": "2027-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:02:15.523Z",
+      "updatedAt": "2026-11-11T11:02:15.523Z"
+    },
+    {
+      "id": "amt-schenkenlaendchen-event-2549405-20271111",
+      "title": "Literaturcaf&eacute; im MGH \"Franz Fühmann\"",
+      "url": "https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2027/11/11/literaturcafé-im-mgh-franz-fuehmann",
+      "startDate": "2027-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T11:02:15.523Z",
+      "updatedAt": "2026-11-11T11:02:15.523Z"
     }
   ]
 }

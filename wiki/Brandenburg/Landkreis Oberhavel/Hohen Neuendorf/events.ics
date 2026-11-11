@@ -926,4 +926,23 @@ SUMMARY:Seniorenlotse Hohen Neuendorf
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  seniorenlotse-hohen-neuendorf
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-5-klassik-musikfest-tag-1-liederabend-mit-elisa
+ beth-starzinger@amtsfeed.de
+DTSTAMP:20261111T110740Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:5. Klassik-Musikfest-Tag 1: Liederabend mit Elisabeth Starzinger
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ 5-klassik-musikfest-tag-1-liederabend-mit-elisabeth-starzinger
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-repair-cafe-11@amtsfeed.de
+DTSTAMP:20261111T110740Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Repair-Café
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ repair-cafe-11
+END:VEVENT
 END:VCALENDAR

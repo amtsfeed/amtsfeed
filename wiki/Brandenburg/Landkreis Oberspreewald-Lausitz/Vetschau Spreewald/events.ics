@@ -2171,8 +2171,26 @@ URL:https://stadt.vetschau.de/startseite/veranstaltungen/
 LOCATION:Vetschau/Spreewald
 END:VEVENT
 BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261112-2@amtsfeed.de
+DTSTAMP:20261111T110840Z
+DTSTART:20261112T080000Z
+DTEND:20261112T130000Z
+SUMMARY:Wochenmarkt Vetschau
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau/Spreewald
+END:VEVENT
+BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261115-4@amtsfeed.de
 DTSTAMP:20261110T112255Z
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
+SUMMARY:Orgel-Wandelkonzert mit Martin Stephan
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Vetschau (Wendisch-Deutsche Doppelkirche)
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261115-3@amtsfeed.de
+DTSTAMP:20261111T110840Z
 DTSTART:20261115T160000Z
 DTEND:20261115T180000Z
 SUMMARY:Orgel-Wandelkonzert mit Martin Stephan
@@ -2559,12 +2577,12 @@ LOCATION:Vetschau (Stadtschloss)
 END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261128-7@amtsfeed.de
-DTSTAMP:20261110T112255Z
-DTSTART:20261128T120000Z
-DTEND:20261128T180000Z
-SUMMARY:Schlossweihnacht Vetschau am 1. Advent
+DTSTAMP:20261111T110840Z
+DTSTART:20261128T150000Z
+DTEND:20261128T160000Z
+SUMMARY:Weihnachtspuppenbühne für Kinder
 URL:https://stadt.vetschau.de/startseite/veranstaltungen/
-LOCATION:Vetschau (Stadtschloss)
+LOCATION:Vetschau (Wendisch-Deutsche Doppelkirche)
 END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261128-8@amtsfeed.de
@@ -3802,6 +3820,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vetschau-spreewald-event-20261227-17@amtsfeed.de
 DTSTAMP:20261110T112255Z
+DTSTART:20261227T163000Z
+DTEND:20261227T180000Z
+SUMMARY:Konzert – Festliche Nordlichter: Skandinavische Weihnachtsliede
+ r neu interpretiert
+URL:https://stadt.vetschau.de/startseite/veranstaltungen/
+LOCATION:Missen
+END:VEVENT
+BEGIN:VEVENT
+UID:vetschau-spreewald-event-20261227-16@amtsfeed.de
+DTSTAMP:20261111T110840Z
 DTSTART:20261227T163000Z
 DTEND:20261227T180000Z
 SUMMARY:Konzert – Festliche Nordlichter: Skandinavische Weihnachtsliede

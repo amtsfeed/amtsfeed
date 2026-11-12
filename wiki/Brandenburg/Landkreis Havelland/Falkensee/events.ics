@@ -5148,6 +5148,15 @@ URL:https://www.falkensee.de/veranstaltungen/2851633/2026/11/26/dance-and
  -relax
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-3003109-20261126@amtsfeed.de
+DTSTAMP:20261112T111956Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:MAZ-Stammtisch: Neu in Falkensee oder schon lange hier zu Hause?
+URL:https://www.falkensee.de/veranstaltungen/3003109/2026/11/26/maz-stamm
+ tisch-neu-in-falkensee-oder-schon-lange-hier-zu-hause
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2925537-20261127@amtsfeed.de
 DTSTAMP:20261028T094512Z
 DTSTART;VALUE=DATE:20261127
@@ -5352,6 +5361,15 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Falkensession
 URL:https://www.falkensee.de/veranstaltungen/3000769/2026/12/05/falkenses
  sion
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-3002998-20261205@amtsfeed.de
+DTSTAMP:20261112T111956Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Hofweihnacht im Garten des Kulturhauses
+URL:https://www.falkensee.de/veranstaltungen/3002998/2026/12/05/hofweihna
+ cht-im-garten-des-kulturhauses
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2900966-20261206@amtsfeed.de
@@ -9414,5 +9432,14 @@ DTEND;VALUE=DATE:20271111
 SUMMARY:Selbsthilfegruppe Krebs
 URL:https://www.falkensee.de/veranstaltungen/2421154/2027/11/10/selbsthil
  fegruppe-krebs
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2983980-20271112@amtsfeed.de
+DTSTAMP:20261112T111956Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:Gut beraten in Rentenfragen - kostenfreies Angebot im Bürgeramt
+URL:https://www.falkensee.de/veranstaltungen/2983980/2027/11/12/gut-berat
+ en-in-rentenfragen-kostenfreies-angebot-im-buergeramt
 END:VEVENT
 END:VCALENDAR

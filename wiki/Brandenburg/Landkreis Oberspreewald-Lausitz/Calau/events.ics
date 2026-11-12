@@ -1232,15 +1232,6 @@ URL:https://www.calau.de/veranstaltungen/2898941/2026/11/09/malen-fuer-di
  e-seele-offene-malgruppe
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2315266@amtsfeed.de
-DTSTAMP:20261107T102155Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:11.11.2026   Calauer Museen öffnen
-URL:https://www.calau.de/veranstaltungen/2315266/2026/11/11/calauer-musee
- n-oeffnen
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2947235@amtsfeed.de
 DTSTAMP:20261107T102155Z
 DTSTART;VALUE=DATE:20261111
@@ -1287,20 +1278,20 @@ URL:https://www.calau.de/veranstaltungen/2951713/2026/11/12/vorlesekusche
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2999545@amtsfeed.de
-DTSTAMP:20261106T110142Z
+DTSTAMP:20261112T112350Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Themenabend: "Stabil und energiereich durch die dunkle Jahreszeit
- "
+SUMMARY:12.11.2026   Themenabend: "Stabil und energiereich durch die dunk
+ le Jahreszeit"
 URL:https://www.calau.de/veranstaltungen/2999545/2026/11/12/themenabend-s
  tabil-und-energiereich-durch-die-dunkle-jahreszeit
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-3001649@amtsfeed.de
-DTSTAMP:20261110T112239Z
+DTSTAMP:20261112T112350Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Fit im Alter
+SUMMARY:12.11.2026   Fit im Alter
 URL:https://www.calau.de/veranstaltungen/3001649/2026/11/12/fit-im-alter
 END:VEVENT
 BEGIN:VEVENT
@@ -1314,10 +1305,10 @@ URL:https://www.calau.de/veranstaltungen/2858229/2026/11/13/spieleabend.h
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2858228@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261112T112350Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:SpieleABEND
+SUMMARY:13.11.2026   SpieleABEND
 URL:https://www.calau.de/veranstaltungen/2858228/2026/11/13/spieleabend
 END:VEVENT
 BEGIN:VEVENT
@@ -1355,6 +1346,15 @@ DTEND;VALUE=DATE:20261115
 SUMMARY:Puppen-Mitmach-Show
 URL:https://www.calau.de/veranstaltungen/2975866/2026/11/14/puppen-mitmac
  h-show
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3003000@amtsfeed.de
+DTSTAMP:20261112T112350Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Abendveranstaltung des CCC
+URL:https://www.calau.de/veranstaltungen/3003000/2026/11/14/abendveransta
+ ltung-des-ccc
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2996816@amtsfeed.de
@@ -1818,6 +1818,15 @@ URL:https://www.calau.de/veranstaltungen/1608936/2026/12/31/quer-durch-di
  e-calauer-schweiz-quot-silvesterlauf
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2315266@amtsfeed.de
+DTSTAMP:20261112T112350Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Calauer Museen öffnen
+URL:https://www.calau.de/veranstaltungen/2315266/2027/01/06/calauer-musee
+ n-oeffnen
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2975867@amtsfeed.de
 DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20270109
@@ -1843,6 +1852,60 @@ DTEND;VALUE=DATE:20270125
 SUMMARY:Jukebox Heroes live
 URL:https://www.calau.de/veranstaltungen/2922158/2027/01/24/jukebox-heroe
  s-live
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3003001@amtsfeed.de
+DTSTAMP:20261112T112350Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Karnevalsumzug des CCC durch Calau
+URL:https://www.calau.de/veranstaltungen/3003001/2027/01/30/karnevalsumzu
+ g-des-ccc-durch-calau
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3003002@amtsfeed.de
+DTSTAMP:20261112T112350Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Zampertour des CCC durch Calau
+URL:https://www.calau.de/veranstaltungen/3003002/2027/01/31/zampertour-de
+ s-ccc-durch-calau
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3003005@amtsfeed.de
+DTSTAMP:20261112T112350Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Weiberfastnacht des CCC
+URL:https://www.calau.de/veranstaltungen/3003005/2027/02/04/weiberfastnac
+ ht-des-ccc
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3003006@amtsfeed.de
+DTSTAMP:20261112T112350Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Kinderfasching des CCC
+URL:https://www.calau.de/veranstaltungen/3003006/2027/02/06/kinderfaschin
+ g-des-ccc
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3003007@amtsfeed.de
+DTSTAMP:20261112T112350Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Abendveranstaltung des CCC
+URL:https://www.calau.de/veranstaltungen/3003007/2027/02/06/abendveransta
+ ltung-des-ccc
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3003008@amtsfeed.de
+DTSTAMP:20261112T112350Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Rosenmontagsball des CCC
+URL:https://www.calau.de/veranstaltungen/3003008/2027/02/08/rosenmontagsb
+ all-des-ccc
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2975869@amtsfeed.de

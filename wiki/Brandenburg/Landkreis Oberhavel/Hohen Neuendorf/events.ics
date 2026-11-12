@@ -945,4 +945,34 @@ SUMMARY:Repair-Café
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  repair-cafe-11
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-5-klassik-musikfest-tag-2-kinder-und-jugendmusi
+ kfest@amtsfeed.de
+DTSTAMP:20261112T112317Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:5. Klassik-Musikfest-Tag 2: Kinder- und Jugendmusikfest
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ 5-klassik-musikfest-tag-2-kinder-und-jugendmusikfest
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-fuhrung-durch-die-gedenkstatte-sachsenhausen@am
+ tsfeed.de
+DTSTAMP:20261112T112317Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Führung durch die Gedenkstätte Sachsenhausen
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ fuhrung-durch-die-gedenkstatte-sachsenhausen
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-funf-jahre-madchenchor-hohen-neuendorf-jubilaum
+ skonzert@amtsfeed.de
+DTSTAMP:20261112T112317Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Fünf Jahre Mädchenchor Hohen Neuendorf – Jubiläumskonzert
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ funf-jahre-madchenchor-hohen-neuendorf-jubilaumskonzert
+END:VEVENT
 END:VCALENDAR

@@ -636,4 +636,15 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Rock-im-Ello.ph
  p?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.828.1&amp\;NavID=2713.9
  &amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-900@amtsfeed.de
+DTSTAMP:20261112T112312Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Internationaler Tag "NEIN zu Gewalt an Frauen"
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Internationaler
+ -Tag-NEIN-zu-Gewalt-an-Frauen-.php?object=tx\,3590.4.1&amp\;ModID=11&amp\
+ ;FID=3590.900.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startka
+ t=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

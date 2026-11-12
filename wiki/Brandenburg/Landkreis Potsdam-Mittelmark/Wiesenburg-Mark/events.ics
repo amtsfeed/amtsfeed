@@ -1204,33 +1204,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2873405/2026/11/08/erza
  ehlsalon
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2424330@amtsfeed.de
-DTSTAMP:20261111T111041Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Offener Jugendraum "WiBu" - begleitet von Franziska Kottwitz
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/11/11/offe
- ner-jugendraum-wibu-begleitet-von-franziska-kottwitz
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2842616@amtsfeed.de
-DTSTAMP:20261105T110846Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:CODER DOJO - Programmierwerkstatt
-URL:https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/11/11/code
- r-dojo-programmierwerkstatt
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907840@amtsfeed.de
-DTSTAMP:20261105T110846Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/11/11/drk-
- spielrunde-kaffee-und-kartenspiel-fuer-senior-innen
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928864@amtsfeed.de
 DTSTAMP:20261028T095155Z
 DTSTART;VALUE=DATE:20261111
@@ -1345,6 +1318,15 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2989690/2026/11/16/gesu
  -paul
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2424330@amtsfeed.de
+DTSTAMP:20261112T112637Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Offener Jugendraum "WiBu" - begleitet von Franziska Kottwitz
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/11/17/offe
+ ner-jugendraum-wibu-begleitet-von-franziska-kottwitz
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2384481@amtsfeed.de
 DTSTAMP:20261111T111041Z
 DTSTART;VALUE=DATE:20261117
@@ -1370,6 +1352,24 @@ DTEND;VALUE=DATE:20261118
 SUMMARY:Breakdance-Kurs für Jugendliche (ab 13 J.)
 URL:https://www.wiesenburgmark.de/veranstaltungen/2889798/2026/11/17/brea
  kdance-kurs-fuer-jugendliche-ab-13-j
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2842616@amtsfeed.de
+DTSTAMP:20261112T112637Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:CODER DOJO - Programmierwerkstatt
+URL:https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/11/18/code
+ r-dojo-programmierwerkstatt
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907840@amtsfeed.de
+DTSTAMP:20261112T112637Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/11/18/drk-
+ spielrunde-kaffee-und-kartenspiel-fuer-senior-innen
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928866@amtsfeed.de

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:06:38.963Z",
+  "updatedAt": "2026-11-12T11:22:14.225Z",
   "items": [
     {
       "id": "2846347",
@@ -1123,25 +1123,6 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
-      "id": "2486339",
-      "title": "Sport für Senioren in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/11/sport-fuer-senioren-in-podelzig",
-      "startDate": "2026-11-11T00:00:00.000Z",
-      "location": "Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-05T11:04:15.197Z"
-    },
-    {
-      "id": "2464908",
-      "title": "Fleischerwagen Fleischerei Höhne",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/11/fleischerwagen-fleischerei-hoehne",
-      "startDate": "2026-11-11T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "am Dorfteich Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-05T11:04:15.197Z"
-    },
-    {
       "id": "2873357",
       "title": "Martinstag Umzug in Mallnow",
       "url": "https://www.amt-lebus.de/veranstaltungen/2873357/2026/11/11/martinstag-umzug-in-mallnow.html",
@@ -1316,6 +1297,25 @@
       "updatedAt": "2026-11-11T11:06:38.948Z"
     },
     {
+      "id": "2486339",
+      "title": "Sport für Senioren in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/18/sport-fuer-senioren-in-podelzig",
+      "startDate": "2026-11-18T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-12T11:22:14.213Z"
+    },
+    {
+      "id": "2464908",
+      "title": "Fleischerwagen Fleischerei Höhne",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/18/fleischerwagen-fleischerei-hoehne",
+      "startDate": "2026-11-18T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "am Dorfteich Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-12T11:22:14.213Z"
+    },
+    {
       "id": "2993098",
       "title": "Ich lese was, was Du nicht liest",
       "url": "https://www.amt-lebus.de/veranstaltungen/2993098/2026/11/20/ich-lese-was-was-du-nicht-liest",
@@ -1414,6 +1414,15 @@
       "location": "Kulturhaus Lebus",
       "fetchedAt": "2026-05-26T09:03:19.057Z",
       "updatedAt": "2026-10-28T09:48:01.755Z"
+    },
+    {
+      "id": "3002899",
+      "title": "Seniorenweihnachtsfeier in Lebus",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3002899/2026/12/01/seniorenweihnachtsfeier-in-lebus",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "location": "Kulturhaus Lebus",
+      "fetchedAt": "2026-11-12T11:22:14.213Z",
+      "updatedAt": "2026-11-12T11:22:14.213Z"
     },
     {
       "id": "2846376",
@@ -1575,6 +1584,45 @@
       "location": "Lebus Parkplatz Anglerheim",
       "fetchedAt": "2026-10-30T10:09:02.916Z",
       "updatedAt": "2026-10-30T10:09:02.916Z"
+    },
+    {
+      "id": "3003649",
+      "title": "Der Lebuser Carneval Club lädt ein!!! - öffentlicher Kartenvorverkauf",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3003649/2027/01/14/der-lebuser-carneval-club-laedt-ein-oeffentlicher-kartenvorverkauf",
+      "startDate": "2027-01-14T00:00:00.000Z",
+      "location": "Vereinscafé \"Mehrgenerationstreff Wir für Lebus e.V\"",
+      "description": "Öffentlicher Kartenvorverkauf 14.01.2027 - 29.01.2027",
+      "fetchedAt": "2026-11-12T11:22:14.213Z",
+      "updatedAt": "2026-11-12T11:22:14.213Z"
+    },
+    {
+      "id": "3003667",
+      "title": "Der Lebuser Carneval Club lädt ein!!! - die 58. Saison",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3003667/2027/01/30/der-lebuser-carneval-club-laedt-ein-die-58.-saison",
+      "startDate": "2027-01-30T00:00:00.000Z",
+      "location": "Kulturhaus Lebus",
+      "description": "Abensveranstaltung - \"Der LCC mit Gegensätzen das Böse will sich mit dem Guten fetzen\"",
+      "fetchedAt": "2026-11-12T11:22:14.213Z",
+      "updatedAt": "2026-11-12T11:22:14.213Z"
+    },
+    {
+      "id": "3003733",
+      "title": "Seniorenkarnaval",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3003733/2027/01/31/seniorenkarnaval",
+      "startDate": "2027-01-31T00:00:00.000Z",
+      "location": "Kulturhaus Lebus",
+      "fetchedAt": "2026-11-12T11:22:14.213Z",
+      "updatedAt": "2026-11-12T11:22:14.213Z"
+    },
+    {
+      "id": "3003800",
+      "title": "Der Lebuser Carneval Club lädt ein!!! - die 58. Saison 2026/2027",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3003800/2027/02/05/der-lebuser-carneval-club-laedt-ein-die-58.-saison-2026-2027",
+      "startDate": "2027-02-05T00:00:00.000Z",
+      "location": "Kulturhaus Lebus",
+      "description": "Abensveranstaltung - \"Der LCC mit Gegensätzen das Böse will sich mit dem Guten fetzen\"",
+      "fetchedAt": "2026-11-12T11:22:14.213Z",
+      "updatedAt": "2026-11-12T11:22:14.213Z"
     }
   ]
 }

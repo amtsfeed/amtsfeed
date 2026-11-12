@@ -1038,6 +1038,16 @@ URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Major-Tom-Aufbruc
  12.265&kat=2112.71
 END:VEVENT
 BEGIN:VEVENT
+UID:lkee-event-4946@amtsfeed.de
+DTSTAMP:20261112T111935Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Beobachtungsabend Herzberger Sternwarte
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Beobachtungsabend
+ -Herzberger-Sternwarte.php?object=tx\,2112.2.1&ModID=11&FID=2112.4946.1&N
+ avID=2112.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
 UID:lkee-event-4934@amtsfeed.de
 DTSTAMP:20261106T105813Z
 DTSTART;VALUE=DATE:20261119
@@ -1046,6 +1056,26 @@ SUMMARY:Prädiabetes: Verstehen  Mitreden  Handeln
 URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Pr%C3%A4diabetes-
  Verstehen-Mitreden-Handeln.php?object=tx\,2112.2.1&ModID=11&FID=2112.4934
  .1&NavID=2112.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4947@amtsfeed.de
+DTSTAMP:20261112T111935Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Bundesweiter Vorlesetag-Elbe Elster ein Landkreis liest
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Bundesweiter-Vorl
+ esetag-Elbe-Elster-ein-Landkreis-liest.php?object=tx\,2112.2.1&ModID=11&F
+ ID=2112.4947.1&NavID=2112.265&kat=2112.71
+END:VEVENT
+BEGIN:VEVENT
+UID:lkee-event-4948@amtsfeed.de
+DTSTAMP:20261112T111935Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Andreas M.Sturm:Kriminalgeschichten Landkreis liest
+URL:https://www.lkee.de/Soziales-Kultur/Veranstaltungen/Andreas-M-Sturm-K
+ riminalgeschichten-Landkreis-liest.php?object=tx\,2112.2.1&ModID=11&FID=2
+ 112.4948.1&NavID=2112.265&kat=2112.71
 END:VEVENT
 BEGIN:VEVENT
 UID:lkee-event-4943@amtsfeed.de

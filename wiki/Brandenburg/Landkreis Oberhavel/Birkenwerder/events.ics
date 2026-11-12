@@ -816,6 +816,16 @@ URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
 LOCATION:Summterstr.4\, Clara Zetkin Gedenkstätte
 END:VEVENT
 BEGIN:VEVENT
+UID:birkenwerder-event-mittwochs-in-die-villa@amtsfeed.de
+DTSTAMP:20261112T112258Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Mittwochs in die Villa!
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/mittwochs-in-die-villa
+LOCATION:Villa Weigert\, Birkenwerder
+END:VEVENT
+BEGIN:VEVENT
 UID:birkenwerder-event-spielenachmittag-4@amtsfeed.de
 DTSTAMP:20261106T110052Z
 DTSTART;VALUE=DATE:20261120

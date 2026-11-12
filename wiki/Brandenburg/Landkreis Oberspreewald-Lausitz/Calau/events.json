@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:08:24.050Z",
+  "updatedAt": "2026-11-12T11:23:51.003Z",
   "items": [
     {
       "id": "calau-event-2844573",
@@ -1090,14 +1090,6 @@
       "updatedAt": "2026-11-06T11:01:42.896Z"
     },
     {
-      "id": "calau-event-2315266",
-      "title": "11.11.2026   Calauer Museen öffnen",
-      "url": "https://www.calau.de/veranstaltungen/2315266/2026/11/11/calauer-museen-oeffnen",
-      "startDate": "2026-11-11T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-11-07T10:21:55.532Z"
-    },
-    {
       "id": "calau-event-2947235",
       "title": "11.11.2026   Tanz Dich Frei",
       "url": "https://www.calau.de/veranstaltungen/2947235/2026/11/11/tanz-dich-frei",
@@ -1139,19 +1131,19 @@
     },
     {
       "id": "calau-event-2999545",
-      "title": "Themenabend: \"Stabil und energiereich durch die dunkle Jahreszeit\"",
+      "title": "12.11.2026   Themenabend: \"Stabil und energiereich durch die dunkle Jahreszeit\"",
       "url": "https://www.calau.de/veranstaltungen/2999545/2026/11/12/themenabend-stabil-und-energiereich-durch-die-dunkle-jahreszeit",
       "startDate": "2026-11-12T00:00:00.000Z",
       "fetchedAt": "2026-11-06T11:01:42.896Z",
-      "updatedAt": "2026-11-06T11:01:42.896Z"
+      "updatedAt": "2026-11-12T11:23:50.994Z"
     },
     {
       "id": "calau-event-3001649",
-      "title": "Fit im Alter",
+      "title": "12.11.2026   Fit im Alter",
       "url": "https://www.calau.de/veranstaltungen/3001649/2026/11/12/fit-im-alter",
       "startDate": "2026-11-12T00:00:00.000Z",
       "fetchedAt": "2026-11-10T11:22:39.576Z",
-      "updatedAt": "2026-11-10T11:22:39.576Z"
+      "updatedAt": "2026-11-12T11:23:50.994Z"
     },
     {
       "id": "calau-event-2858229",
@@ -1163,11 +1155,11 @@
     },
     {
       "id": "calau-event-2858228",
-      "title": "SpieleABEND",
+      "title": "13.11.2026   SpieleABEND",
       "url": "https://www.calau.de/veranstaltungen/2858228/2026/11/13/spieleabend",
       "startDate": "2026-11-13T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:24:56.898Z",
-      "updatedAt": "2026-10-28T09:49:41.065Z"
+      "updatedAt": "2026-11-12T11:23:50.994Z"
     },
     {
       "id": "calau-event-2914789",
@@ -1200,6 +1192,14 @@
       "startDate": "2026-11-14T00:00:00.000Z",
       "fetchedAt": "2026-09-29T09:59:40.834Z",
       "updatedAt": "2026-10-28T09:49:41.065Z"
+    },
+    {
+      "id": "calau-event-3003000",
+      "title": "Abendveranstaltung des CCC",
+      "url": "https://www.calau.de/veranstaltungen/3003000/2026/11/14/abendveranstaltung-des-ccc",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-11-12T11:23:50.994Z",
+      "updatedAt": "2026-11-12T11:23:50.994Z"
     },
     {
       "id": "calau-event-2996816",
@@ -1610,6 +1610,14 @@
       "updatedAt": "2026-10-28T09:49:41.065Z"
     },
     {
+      "id": "calau-event-2315266",
+      "title": "Calauer Museen öffnen",
+      "url": "https://www.calau.de/veranstaltungen/2315266/2027/01/06/calauer-museen-oeffnen",
+      "startDate": "2027-01-06T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:24:56.898Z",
+      "updatedAt": "2026-11-12T11:23:50.994Z"
+    },
+    {
       "id": "calau-event-2975867",
       "title": "Puppen-Mitmach-Show",
       "url": "https://www.calau.de/veranstaltungen/2975867/2027/01/09/puppen-mitmach-show",
@@ -1632,6 +1640,54 @@
       "startDate": "2027-01-24T00:00:00.000Z",
       "fetchedAt": "2026-09-11T09:58:44.589Z",
       "updatedAt": "2026-10-28T09:49:41.065Z"
+    },
+    {
+      "id": "calau-event-3003001",
+      "title": "Karnevalsumzug des CCC durch Calau",
+      "url": "https://www.calau.de/veranstaltungen/3003001/2027/01/30/karnevalsumzug-des-ccc-durch-calau",
+      "startDate": "2027-01-30T00:00:00.000Z",
+      "fetchedAt": "2026-11-12T11:23:50.994Z",
+      "updatedAt": "2026-11-12T11:23:50.994Z"
+    },
+    {
+      "id": "calau-event-3003002",
+      "title": "Zampertour des CCC durch Calau",
+      "url": "https://www.calau.de/veranstaltungen/3003002/2027/01/31/zampertour-des-ccc-durch-calau",
+      "startDate": "2027-01-31T00:00:00.000Z",
+      "fetchedAt": "2026-11-12T11:23:50.994Z",
+      "updatedAt": "2026-11-12T11:23:50.994Z"
+    },
+    {
+      "id": "calau-event-3003005",
+      "title": "Weiberfastnacht des CCC",
+      "url": "https://www.calau.de/veranstaltungen/3003005/2027/02/04/weiberfastnacht-des-ccc",
+      "startDate": "2027-02-04T00:00:00.000Z",
+      "fetchedAt": "2026-11-12T11:23:50.994Z",
+      "updatedAt": "2026-11-12T11:23:50.994Z"
+    },
+    {
+      "id": "calau-event-3003006",
+      "title": "Kinderfasching des CCC",
+      "url": "https://www.calau.de/veranstaltungen/3003006/2027/02/06/kinderfasching-des-ccc",
+      "startDate": "2027-02-06T00:00:00.000Z",
+      "fetchedAt": "2026-11-12T11:23:50.994Z",
+      "updatedAt": "2026-11-12T11:23:50.994Z"
+    },
+    {
+      "id": "calau-event-3003007",
+      "title": "Abendveranstaltung des CCC",
+      "url": "https://www.calau.de/veranstaltungen/3003007/2027/02/06/abendveranstaltung-des-ccc",
+      "startDate": "2027-02-06T00:00:00.000Z",
+      "fetchedAt": "2026-11-12T11:23:50.994Z",
+      "updatedAt": "2026-11-12T11:23:50.994Z"
+    },
+    {
+      "id": "calau-event-3003008",
+      "title": "Rosenmontagsball des CCC",
+      "url": "https://www.calau.de/veranstaltungen/3003008/2027/02/08/rosenmontagsball-des-ccc",
+      "startDate": "2027-02-08T00:00:00.000Z",
+      "fetchedAt": "2026-11-12T11:23:50.994Z",
+      "updatedAt": "2026-11-12T11:23:50.994Z"
     },
     {
       "id": "calau-event-2975869",

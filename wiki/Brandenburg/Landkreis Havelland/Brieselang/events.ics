@@ -1275,6 +1275,24 @@ DESCRIPTION:Der Weihnachtsmarkt in Bredow an der Dorfkirche findet am 27.
 LOCATION:Evangelische Kirche Bredow\,
 END:VEVENT
 BEGIN:VEVENT
+UID:brieselang-event-Neuer-Sport-und-Freizeitpark-Gemeinde-laedt-zur-Info
+ veranstaltung-ein-20261127@amtsfeed.de
+DTSTAMP:20261112T111949Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Neuer Sport- und Freizeitpark: Gemeinde lädt zur Infoveranstaltu
+ ng ein
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Neuer-Sport-und-Freizeitpark-Gemeinde-laedt-zur-Infoveranstalt
+ ung-ein.html?
+DESCRIPTION:Wie soll der geplante Sport- und Freizeitpark in Brieselang k
+ ünftig aussehen und welche Angebote soll es dort geben? Darüber möchte
+  die Gemeinde mit Bürgerinnen und Bürgern ins Gespräch kommen. Am Frei
+ tag\, 27. November 2026\, findet deshalb um 18.30 Uhr eine öffentliche I
+ nformationsveranstaltung in der Mensa der ZeeBr@-Grundschule statt.
+LOCATION:Zeebr@Grundschule\,
+END:VEVENT
+BEGIN:VEVENT
 UID:brieselang-event-Adventsmarkt-in-Zeestow-am-1-Advent-20261129@amtsfee
  d.de
 DTSTAMP:20260911T110730Z
@@ -1334,6 +1352,21 @@ DESCRIPTION:Der Brieselanger Weihnachtsmarkt findet am Samstag\, 5. Dezem
  ancen Brieselang und die Evangelische Trinitatis-Gesamtkirchengemeinde Br
  ieselang.
 LOCATION:Evangelische Kirche Brieselang\,
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-Weihnachten-auf-dem-Reiterhof-Vorfuehrung-und-Ponyfu
+ ehren-20261205@amtsfeed.de
+DTSTAMP:20261112T111949Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Weihnachten auf dem Reiterhof: Vorführung und Ponyführen
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/Weihnachten-auf-dem-Reiterhof-Vorfuehrung-und-Ponyfuehren.html
+ ?
+DESCRIPTION:Eine Weihnachtsvorführung erleben und anschließend eine Run
+ de auf dem Pony drehen: Dazu lädt der Reit- und Fahrverein Brieselang am
+  Samstag\, 5. Dezember 2026\, ein.
+LOCATION:Reit- und Fahrverein Briesel. e.V.\,
 END:VEVENT
 BEGIN:VEVENT
 UID:brieselang-event-Digitaler-Stammtisch-Praktische-Hilfe-fuer-Handy-PC-

@@ -1237,6 +1237,16 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/HB-zum
  1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1256@amtsfeed.de
+DTSTAMP:20261112T112339Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Puppentheater: "Elsas Abenteuer"
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Puppen
+ theater-Elsas-Abenteuer-.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3
+ 631.1256.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-882@amtsfeed.de
 DTSTAMP:20261022T084510Z
 DTSTART;VALUE=DATE:20261117
@@ -1330,6 +1340,26 @@ SUMMARY:Netzwerk Velten: Beratung zur Pflege vor Ort
 URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Netzwe
  rk-Velten-Beratung-zur-Pflege-vor-Ort.php?object=tx\,3631.4.1&amp\;ModID=
  11&amp\;FID=3631.1193.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1260@amtsfeed.de
+DTSTAMP:20261112T112339Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Vernissage: Form\, Farbe\, Struktur
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Vernis
+ sage-Form-Farbe-Struktur.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3
+ 631.1260.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1259@amtsfeed.de
+DTSTAMP:20261112T112339Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20270330
+SUMMARY:Ausstellung: Form\, Farbe\, Struktur
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Ausste
+ llung-Form-Farbe-Struktur.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=
+ 3631.1259.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
 UID:velten-event-974@amtsfeed.de

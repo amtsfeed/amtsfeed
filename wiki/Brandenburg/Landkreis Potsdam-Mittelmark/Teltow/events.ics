@@ -1706,15 +1706,6 @@ URL:https://www.teltow.de/veranstaltungen/2972997/2026/11/10/glasfasertec
  hnologie
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930017@amtsfeed.de
-DTSTAMP:20261105T110835Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
-URL:https://www.teltow.de/veranstaltungen/2930017/2026/11/11/offener-lern
- raum-lesen-schreiben-rechnen-basis-englisch
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2972226@amtsfeed.de
 DTSTAMP:20261028T095147Z
 DTSTART;VALUE=DATE:20261111
@@ -1872,6 +1863,15 @@ DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Preisskat
 URL:https://www.teltow.de/veranstaltungen/2972241/2026/11/17/preisskat
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930017@amtsfeed.de
+DTSTAMP:20261112T112626Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
+URL:https://www.teltow.de/veranstaltungen/2930017/2026/11/18/offener-lern
+ raum-lesen-schreiben-rechnen-basis-englisch
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2857824@amtsfeed.de

@@ -220,15 +220,6 @@ URL:https://www.stadt-schwarzheide.de/veranstaltungen/2953649/2026/09/12/
  21.-brandenburgischer-selbsthilfetag.html
 END:VEVENT
 BEGIN:VEVENT
-UID:schwarzheide-event-2958691@amtsfeed.de
-DTSTAMP:20260911T111237Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:2. Kindersachen-Flohmarkt Grundschule Wandelhof
-URL:https://www.stadt-schwarzheide.de/veranstaltungen/2958691/2026/09/13/
- 2.-kindersachen-flohmarkt-grundschule-wandelhof.html
-END:VEVENT
-BEGIN:VEVENT
 UID:schwarzheide-event-2834629@amtsfeed.de
 DTSTAMP:20260531T184203Z
 DTSTART;VALUE=DATE:20260916
@@ -437,6 +428,15 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Schwarzheider Weihnachtsmarkt 2026
 URL:https://www.stadt-schwarzheide.de/veranstaltungen/2838354/2026/12/06/
  schwarzheider-weihnachtsmarkt-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:schwarzheide-event-2958691@amtsfeed.de
+DTSTAMP:20261112T112405Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Kindersachen-Flohmarkt in der Grundschule Wandelhof
+URL:https://www.stadt-schwarzheide.de/veranstaltungen/2958691/2027/03/14/
+ kindersachen-flohmarkt-in-der-grundschule-wandelhof
 END:VEVENT
 BEGIN:VEVENT
 UID:schwarzheide-event-2497207@amtsfeed.de

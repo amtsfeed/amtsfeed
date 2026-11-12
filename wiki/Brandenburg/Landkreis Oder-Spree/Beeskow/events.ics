@@ -5549,6 +5549,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-71470:0@amtsfeed.de
+DTSTAMP:20261112T112447Z
+DTSTART:20261129T150000Z
+DTEND:20261129T235959Z
+SUMMARY:Adventskonzert
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Schützenhaus
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99191091@amtsfeed.de
 DTSTAMP:20261020T084150Z
 DTSTART:20261130T170000Z
@@ -5774,6 +5783,15 @@ DTEND:20261205T170000Z
 SUMMARY:Unsere Zukunft – unsere Stimmen Ausstellungseröffnung
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-71458:0@amtsfeed.de
+DTSTAMP:20261112T112447Z
+DTSTART:20261205T130000Z
+DTEND:20261205T190000Z
+SUMMARY:Winterzauber im Keramikatelier
+URL:https://ronastoepferbude.com/
+LOCATION:Müllrose
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99104588@amtsfeed.de
@@ -6107,6 +6125,15 @@ DTEND:20261213T170000Z
 SUMMARY:Unsere Zukunft – unsere Stimmen Ausstellungseröffnung
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-71479:0@amtsfeed.de
+DTSTAMP:20261112T112447Z
+DTSTART:20261213T150000Z
+DTEND:20261213T235959Z
+SUMMARY:Weihnachtskonzert
+URL:http://www.musikschule-beeskow.de
+LOCATION:Schützenhaus
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99940666@amtsfeed.de

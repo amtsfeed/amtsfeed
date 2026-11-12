@@ -510,10 +510,10 @@ URL:https://www.plessa.de/veranstaltungen/2986157/2026/11/28/seniorenweih
 END:VEVENT
 BEGIN:VEVENT
 UID:plessa-event-3001599-20261128@amtsfeed.de
-DTSTAMP:20261110T111742Z
+DTSTAMP:20261112T111913Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:Hofweihnacht auf dem Heinicke Hof in Kahla
+SUMMARY:28.11.2026   Hofweihnacht auf dem Heinicke Hof in Kahla
 URL:https://www.plessa.de/veranstaltungen/3001599/2026/11/28/hofweihnacht
  -auf-dem-heinicke-hof-in-kahla
 END:VEVENT
@@ -571,6 +571,15 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Busfahrt zum Weihnachtsmarkt nach Breslau
 URL:https://www.plessa.de/veranstaltungen/2986158/2026/12/05/busfahrt-zum
  -weihnachtsmarkt-nach-breslau
+END:VEVENT
+BEGIN:VEVENT
+UID:plessa-event-3003374-20261205@amtsfeed.de
+DTSTAMP:20261112T111913Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Nikolausparty für Teenager | Jugendclub Hohenleipisch/ Dreska
+URL:https://www.plessa.de/veranstaltungen/3003374/2026/12/05/nikolauspart
+ y-fuer-teenager-jugendclub-hohenleipisch-dreska
 END:VEVENT
 BEGIN:VEVENT
 UID:plessa-event-2986160-20261206@amtsfeed.de

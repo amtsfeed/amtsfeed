@@ -1327,27 +1327,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2904734/2026/11/10/fahrt-zur
 LOCATION:Treffpunkt : Postkasten Lebus
 END:VEVENT
 BEGIN:VEVENT
-UID:2486339@amtsfeed.de
-DTSTAMP:20261105T110415Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Sport für Senioren in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/11/sport-fue
- r-senioren-in-podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464908@amtsfeed.de
-DTSTAMP:20261105T110415Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Fleischerwagen Fleischerei Höhne
-URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/11/fleischer
- wagen-fleischerei-hoehne
-DESCRIPTION:am Dorfteich Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2873357@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20261111
@@ -1544,6 +1523,27 @@ DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
 LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:2486339@amtsfeed.de
+DTSTAMP:20261112T112214Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Sport für Senioren in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/18/sport-fue
+ r-senioren-in-podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464908@amtsfeed.de
+DTSTAMP:20261112T112214Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Fleischerwagen Fleischerei Höhne
+URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/18/fleischer
+ wagen-fleischerei-hoehne
+DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2993098@amtsfeed.de
 DTSTAMP:20261030T100902Z
 DTSTART;VALUE=DATE:20261120
@@ -1653,6 +1653,16 @@ DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Seniorenweihnachtsfeier in Lebus
 URL:https://www.amt-lebus.de/veranstaltungen/2904743/2026/12/01/seniorenw
+ eihnachtsfeier-in-lebus
+LOCATION:Kulturhaus Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:3002899@amtsfeed.de
+DTSTAMP:20261112T112214Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Seniorenweihnachtsfeier in Lebus
+URL:https://www.amt-lebus.de/veranstaltungen/3002899/2026/12/01/seniorenw
  eihnachtsfeier-in-lebus
 LOCATION:Kulturhaus Lebus
 END:VEVENT
@@ -1842,5 +1852,51 @@ SUMMARY:Weihnachtsbaum Verbrennung in Lebus
 URL:https://www.amt-lebus.de/veranstaltungen/2993152/2027/01/09/weihnacht
  sbaum-verbrennung-in-lebus
 LOCATION:Lebus Parkplatz Anglerheim
+END:VEVENT
+BEGIN:VEVENT
+UID:3003649@amtsfeed.de
+DTSTAMP:20261112T112214Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Der Lebuser Carneval Club lädt ein!!! - öffentlicher Kartenvorv
+ erkauf
+URL:https://www.amt-lebus.de/veranstaltungen/3003649/2027/01/14/der-lebus
+ er-carneval-club-laedt-ein-oeffentlicher-kartenvorverkauf
+DESCRIPTION:Öffentlicher Kartenvorverkauf 14.01.2027 - 29.01.2027
+LOCATION:Vereinscafé "Mehrgenerationstreff Wir für Lebus e.V"
+END:VEVENT
+BEGIN:VEVENT
+UID:3003667@amtsfeed.de
+DTSTAMP:20261112T112214Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Der Lebuser Carneval Club lädt ein!!! - die 58. Saison
+URL:https://www.amt-lebus.de/veranstaltungen/3003667/2027/01/30/der-lebus
+ er-carneval-club-laedt-ein-die-58.-saison
+DESCRIPTION:Abensveranstaltung - "Der LCC mit Gegensätzen das Böse will
+  sich mit dem Guten fetzen"
+LOCATION:Kulturhaus Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:3003733@amtsfeed.de
+DTSTAMP:20261112T112214Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Seniorenkarnaval
+URL:https://www.amt-lebus.de/veranstaltungen/3003733/2027/01/31/seniorenk
+ arnaval
+LOCATION:Kulturhaus Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:3003800@amtsfeed.de
+DTSTAMP:20261112T112214Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Der Lebuser Carneval Club lädt ein!!! - die 58. Saison 2026/2027
+URL:https://www.amt-lebus.de/veranstaltungen/3003800/2027/02/05/der-lebus
+ er-carneval-club-laedt-ein-die-58.-saison-2026-2027
+DESCRIPTION:Abensveranstaltung - "Der LCC mit Gegensätzen das Böse will
+  sich mit dem Guten fetzen"
+LOCATION:Kulturhaus Lebus
 END:VEVENT
 END:VCALENDAR

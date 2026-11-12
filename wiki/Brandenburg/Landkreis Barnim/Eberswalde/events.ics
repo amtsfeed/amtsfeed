@@ -1584,6 +1584,13 @@ SUMMARY:Laternenlauf für die ganze Familie
 URL:https://www.eberswalde.de/termine/laternenlauf-fuer-die-ganze-familie
 END:VEVENT
 BEGIN:VEVENT
+UID:licht-aus-taschenlampe-an@amtsfeed.de
+DTSTAMP:20261112T111802Z
+DTSTART:20261113T180000Z
+SUMMARY:Licht aus\, Taschenlampe an!
+URL:https://www.eberswalde.de/termine/licht-aus-taschenlampe-an
+END:VEVENT
+BEGIN:VEVENT
 UID:ruprechts-grosser-rutentest-8-0-eine-weitere-lesung-wider-die-wonnigl
  iche-weihnachterei@amtsfeed.de
 DTSTAMP:20261107T101601Z
@@ -1641,5 +1648,12 @@ DTSTART:20261115T133000Z
 SUMMARY:Bäume und Märchen für die ganze Familie mit Betula Nana
 URL:https://www.eberswalde.de/termine/baeume-und-maerchen-fuer-die-ganze-
  familie-mit-betula-nana
+END:VEVENT
+BEGIN:VEVENT
+UID:die-grosse-orakelshow-6@amtsfeed.de
+DTSTAMP:20261112T111802Z
+DTSTART:20261115T170000Z
+SUMMARY:Die grosse Orakelshow
+URL:https://www.eberswalde.de/termine/die-grosse-orakelshow-6
 END:VEVENT
 END:VCALENDAR

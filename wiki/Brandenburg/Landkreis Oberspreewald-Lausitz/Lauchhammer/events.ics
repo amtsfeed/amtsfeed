@@ -391,15 +391,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2989534/2026/11/08/herbstk
  onzert
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124494@amtsfeed.de
-DTSTAMP:20261106T110146Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Behinderten- und Seniorenberatung
-URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/11/12/behinde
- rten-und-seniorenberatung
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2999279@amtsfeed.de
 DTSTAMP:20261106T110146Z
 DTSTART;VALUE=DATE:20261112
@@ -501,6 +492,15 @@ SUMMARY:Lesung mit Svenja Beck "Unglaublich\, aber wahr ... auch wir habe
 URL:https://www.lauchhammer.de/veranstaltungen/2971006/2026/11/18/lesung-
  mit-svenja-beck-quotunglaublich-aber-wahr-.-auch-wir-haben-haeusliche-gew
  alt-erlebt-quot
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124494@amtsfeed.de
+DTSTAMP:20261113T111003Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/11/19/behinde
+ rten-und-seniorenberatung
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2398220@amtsfeed.de

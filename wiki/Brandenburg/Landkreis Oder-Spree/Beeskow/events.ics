@@ -6262,15 +6262,6 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
 END:VEVENT
 BEGIN:VEVENT
-UID:beeskow-event-99227919@amtsfeed.de
-DTSTAMP:20261027T090958Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-SUMMARY:"In Bewegung“ – Kurzfilmprogramm
-URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
-LOCATION:Burg Beeskow\, Konzertsaal
-END:VEVENT
-BEGIN:VEVENT
 UID:beeskow-event-99104599@amtsfeed.de
 DTSTAMP:20261020T084150Z
 DTSTART:20261219T110000Z
@@ -6298,12 +6289,21 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
 END:VEVENT
 BEGIN:VEVENT
-UID:beeskow-event-99227918@amtsfeed.de
-DTSTAMP:20261020T084150Z
+UID:beeskow-event-99227919@amtsfeed.de
+DTSTAMP:20261113T111043Z
 DTSTART:20261219T160000Z
-DTEND:20261219T171500Z
+DTEND:20261219T174500Z
 SUMMARY:"In Bewegung“ – Kurzfilmprogramm
-URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+URL:https://burg-beeskow.reservix.de/
+LOCATION:Burg Beeskow\, Konzertsaal
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99227918@amtsfeed.de
+DTSTAMP:20261113T111043Z
+DTSTART:20261219T190000Z
+DTEND:20261219T201500Z
+SUMMARY:"In Bewegung“ – Kurzfilmprogramm
+URL:https://burg-beeskow.reservix.de/
 LOCATION:Burg Beeskow\, Konzertsaal
 END:VEVENT
 BEGIN:VEVENT
@@ -6768,6 +6768,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99236484@amtsfeed.de
+DTSTAMP:20261113T111043Z
+DTSTART:20270109T200000Z
+DTEND:20270109T220000Z
+SUMMARY:Einführung der Burgschreiberin Lena Schätte
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Burg Beeskow\, Konzertsaal
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99222136@amtsfeed.de
 DTSTAMP:20261020T084150Z
 DTSTART:20270110T110000Z
@@ -6858,6 +6867,16 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99236496@amtsfeed.de
+DTSTAMP:20261113T111043Z
+DTSTART:20270115T190000Z
+DTEND:20270115T203000Z
+SUMMARY:Besser als befürchtet – Der satirische Jahresrückblick 2026 
+ – Kabarett „Die Oderhähne“
+URL:https://burg-beeskow.reservix.de/
+LOCATION:Burg Beeskow\, Konzertsaal
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99222141@amtsfeed.de
 DTSTAMP:20261020T084150Z
 DTSTART:20270116T110000Z
@@ -6892,6 +6911,15 @@ DTEND:20270117T170000Z
 SUMMARY:Am Anfang war … Matchbox Ausstellungseröffnung
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99236485@amtsfeed.de
+DTSTAMP:20261113T111043Z
+DTSTART:20270117T143000Z
+DTEND:20270117T180000Z
+SUMMARY:Tanztee mit Ronny Gander
+URL:https://burg-beeskow.reservix.de/
+LOCATION:Burg Beeskow\, Konzertsaal
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99222143@amtsfeed.de
@@ -6964,6 +6992,15 @@ DTEND:20270122T170000Z
 SUMMARY:Am Anfang war … Matchbox Ausstellungseröffnung
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99236489@amtsfeed.de
+DTSTAMP:20261113T111043Z
+DTSTART:20270123T100000Z
+DTEND:20270123T200000Z
+SUMMARY:Beeskow Bull & Burg - Dartturnier
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Burg Beeskow\, Konzertsaal
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99222147@amtsfeed.de
@@ -7092,6 +7129,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99236490@amtsfeed.de
+DTSTAMP:20261113T111043Z
+DTSTART:20270130T190000Z
+DTEND:20270130T233000Z
+SUMMARY:M.A.t. live – Farbklangregister
+URL:https://burg-beeskow.reservix.de/
+LOCATION:Burg Beeskow\, Konzertsaal
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99222154@amtsfeed.de
 DTSTAMP:20261020T084150Z
 DTSTART:20270131T110000Z
@@ -7218,6 +7264,15 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99236491@amtsfeed.de
+DTSTAMP:20261113T111043Z
+DTSTART:20270206T170000Z
+DTEND:20270206T190000Z
+SUMMARY:Musik für St. Marien
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Burg Beeskow\, Konzertsaal
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99222160@amtsfeed.de
 DTSTAMP:20261020T084150Z
 DTSTART:20270207T110000Z
@@ -7326,6 +7381,16 @@ URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
 END:VEVENT
 BEGIN:VEVENT
+UID:beeskow-event-99236493@amtsfeed.de
+DTSTAMP:20261113T111043Z
+DTSTART:20270213T170000Z
+DTEND:20270213T183000Z
+SUMMARY:museum oder-spree: Ausstellungseröffnung der Jahresausstellung 
+ „hoffen und zweifeln“
+URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
+LOCATION:Burg Beeskow\, Konzertsaal
+END:VEVENT
+BEGIN:VEVENT
 UID:beeskow-event-99222166@amtsfeed.de
 DTSTAMP:20261020T084150Z
 DTSTART:20270214T110000Z
@@ -7387,6 +7452,16 @@ DTEND:20270220T170000Z
 SUMMARY:Am Anfang war … Matchbox Ausstellungseröffnung
 URL:https://www.beeskow.de/beeskow-erleben/veranstaltungen/
 LOCATION:Burg Beeskow\, museum oder spree
+END:VEVENT
+BEGIN:VEVENT
+UID:beeskow-event-99236494@amtsfeed.de
+DTSTAMP:20261113T111043Z
+DTSTART:20270220T190000Z
+DTEND:20270220T203000Z
+SUMMARY:Schwester Cordula liebt Heimatromane - „Unsern Bub\, den kriegs
+ t du net!“
+URL:https://burg-beeskow.reservix.de/
+LOCATION:Burg Beeskow\, Konzertsaal
 END:VEVENT
 BEGIN:VEVENT
 UID:beeskow-event-99223136@amtsfeed.de

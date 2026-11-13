@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T11:22:14.225Z",
+  "updatedAt": "2026-11-13T11:08:41.256Z",
   "items": [
     {
       "id": "2846347",
@@ -1171,16 +1171,6 @@
       "updatedAt": "2026-11-03T10:59:45.483Z"
     },
     {
-      "id": "2538590",
-      "title": "Tischtennis",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/12/tischtennis",
-      "startDate": "2026-11-12T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-06T11:00:10.426Z"
-    },
-    {
       "id": "2464906",
       "title": "Selbstverteidigung für Kinder von 5-13 Jahren",
       "url": "https://www.amt-lebus.de/veranstaltungen/2464906/2026/11/13/selbstverteidigung-fuer-kinder-von-5-13-jahren",
@@ -1314,6 +1304,16 @@
       "description": "am Dorfteich Podelzig",
       "fetchedAt": "2026-05-05T14:58:26.635Z",
       "updatedAt": "2026-11-12T11:22:14.213Z"
+    },
+    {
+      "id": "2538590",
+      "title": "Tischtennis",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/19/tischtennis",
+      "startDate": "2026-11-19T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-13T11:08:41.241Z"
     },
     {
       "id": "2993098",
@@ -1623,6 +1623,24 @@
       "description": "Abensveranstaltung - \"Der LCC mit Gegensätzen das Böse will sich mit dem Guten fetzen\"",
       "fetchedAt": "2026-11-12T11:22:14.213Z",
       "updatedAt": "2026-11-12T11:22:14.213Z"
+    },
+    {
+      "id": "3003838",
+      "title": "Der Lebuser Carneval Club lädt ein!!! - die 58. Saison 2026/2027",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3003838/2027/02/06/der-lebuser-carneval-club-laedt-ein-die-58.-saison-2026-2027",
+      "startDate": "2027-02-06T00:00:00.000Z",
+      "location": "Kulturhaus Lebus",
+      "fetchedAt": "2026-11-13T11:08:41.241Z",
+      "updatedAt": "2026-11-13T11:08:41.241Z"
+    },
+    {
+      "id": "3003861",
+      "title": "Rosenmontag der Weiber im Kulturhaus Lebus - die 58. Saison 2026/2027",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3003861/2027/02/08/rosenmontag-der-weiber-im-kulturhaus-lebus-die-58.-saison-2026-2027",
+      "startDate": "2027-02-08T00:00:00.000Z",
+      "location": "Kulturhaus Lebus",
+      "fetchedAt": "2026-11-13T11:08:41.241Z",
+      "updatedAt": "2026-11-13T11:08:41.241Z"
     }
   ]
 }

@@ -1133,14 +1133,6 @@ SUMMARY:Faszination Holz
 URL:https://www.eberswalde.de/termine/faszination-holz-24
 END:VEVENT
 BEGIN:VEVENT
-UID:beirat-fuer-menschen-mit-behinderungen@amtsfeed.de
-DTSTAMP:20261010T095350Z
-DTSTART:20261012T120000Z
-SUMMARY:Beirat für Menschen mit Behinderungen
-URL:https://www.eberswalde.de/termine/beirat-fuer-menschen-mit-behinderun
- gen
-END:VEVENT
-BEGIN:VEVENT
 UID:faszination-holz-25@amtsfeed.de
 DTSTAMP:20261010T095350Z
 DTSTART:20261012T150000Z
@@ -1655,5 +1647,13 @@ DTSTAMP:20261112T111802Z
 DTSTART:20261115T170000Z
 SUMMARY:Die grosse Orakelshow
 URL:https://www.eberswalde.de/termine/die-grosse-orakelshow-6
+END:VEVENT
+BEGIN:VEVENT
+UID:beirat-fuer-menschen-mit-behinderungen@amtsfeed.de
+DTSTAMP:20261113T110219Z
+DTSTART:20261116T100000Z
+SUMMARY:Beirat für Menschen mit Behinderungen
+URL:https://www.eberswalde.de/termine/beirat-fuer-menschen-mit-behinderun
+ gen
 END:VEVENT
 END:VCALENDAR

@@ -1217,15 +1217,6 @@ URL:https://www.scharmuetzelsee.de/event/du-und-dein-garten-im-naturpark-
  ernteglueck-im-winter
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261112T112425Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
- ad-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
 DTSTAMP:20261108T103311Z
 DTSTART;VALUE=DATE:20261112
@@ -1242,6 +1233,15 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Lesung mit Karin Lüdtke\, Dorothee Koch und Vera Jaspers
 URL:https://www.scharmuetzelsee.de/event/lesung-mit-karin-luedtke-dorothe
  e-koch-und-vera-jaspers
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261113T111020Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-wendisch-rietzer-kneipp-kids@amtsfeed.de
@@ -1308,6 +1308,15 @@ SUMMARY:Novemberbasar - Kunstausstellung mit Verkauf in der Alten Schulsc
  heune
 URL:https://www.scharmuetzelsee.de/event/novemberbasar-kunstausstellung-m
  it-verkauf-in-der-alten-schulscheune
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-saarower-klavierkonzerte-november-ad@amtsfeed.de
+DTSTAMP:20261113T111020Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:"Saarower Klavierkonzerte" "November a.D."
+URL:https://www.scharmuetzelsee.de/event/saarower-klavierkonzerte-novembe
+ r-ad
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-adventssingen-im-aldo-wendisch-rietz@amtsfeed.de

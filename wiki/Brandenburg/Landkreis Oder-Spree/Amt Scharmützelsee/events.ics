@@ -7,17 +7,6 @@ X-WR-CALNAME:Amt Scharmützelsee
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Scharmützelsee
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2977302-2026-11-12-ein-abend-der-erinnerung-zwischen-entzuecken-und-e
- ntsetzen@amtsfeed.de
-DTSTAMP:20261028T095010Z
-DTSTART:20261112T190000Z
-SUMMARY:Ein Abend der Erinnerung - zwischen Entzücken und Entsetzen
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2977302/2026/11/12
- /ein-abend-der-erinnerung-zwischen-entzuecken-und-entsetzen
-LOCATION:Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saar
- ow
-END:VEVENT
-BEGIN:VEVENT
 UID:2999518-2026-11-13-f000ff--mit-licht-durch-farbe@amtsfeed.de
 DTSTAMP:20261106T110221Z
 DTSTART:20261113T183000Z
@@ -225,6 +214,16 @@ SUMMARY:TANZ & BRUNCH IM DEZEMBER
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2871478/2026/12/06
  /tanz-brunch-im-dezember
 LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:3004169-2026-12-10-saarower-lesen-fuer-saarower-gaeste@amtsfeed.de
+DTSTAMP:20261113T111021Z
+DTSTART:20261210T190000Z
+SUMMARY:Saarower lesen für Saarower & Gäste
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/3004169/2026/12/10
+ /saarower-lesen-fuer-saarower-gaeste
+LOCATION:Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saar
+ ow
 END:VEVENT
 BEGIN:VEVENT
 UID:2877166-2026-12-10-anna-mateur-feinde--ich-fang-erst-an-wenns-groovt@

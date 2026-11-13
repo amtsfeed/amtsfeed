@@ -1024,15 +1024,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2996806/2026/11/11/se
  niorennachmittag-gemeinsam-statt-einsam-in-grossthiemig-barrierefrei
 END:VEVENT
 BEGIN:VEVENT
-UID:2897451@amtsfeed.de
-DTSTAMP:20261106T105755Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Krabbelgruppe Kita Gröden
-URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/11/12/kr
- abbelgruppe-kita-groeden
-END:VEVENT
-BEGIN:VEVENT
 UID:2988955@amtsfeed.de
 DTSTAMP:20261028T094412Z
 DTSTART;VALUE=DATE:20261113
@@ -1112,6 +1103,15 @@ DTEND;VALUE=DATE:20261119
 SUMMARY:Vorlese-Nachmittag
 URL:https://www.amt-schradenland.de/veranstaltungen/2996788/2026/11/18/vo
  rlese-nachmittag
+END:VEVENT
+BEGIN:VEVENT
+UID:2897451@amtsfeed.de
+DTSTAMP:20261113T110323Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Krabbelgruppe Kita Gröden
+URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/11/19/kr
+ abbelgruppe-kita-groeden
 END:VEVENT
 BEGIN:VEVENT
 UID:2829985@amtsfeed.de

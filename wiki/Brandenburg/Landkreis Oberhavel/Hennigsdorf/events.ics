@@ -647,4 +647,15 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Internationaler
  ;FID=3590.900.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startka
  t=2713.5&amp\;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-885@amtsfeed.de
+DTSTAMP:20261113T110930Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Podium*Konzert | Musikschule Hennigsdorf
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Podium-Konzert-
+ Musikschule-Hennigsdorf.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=35
+ 90.885.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.
+ 5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

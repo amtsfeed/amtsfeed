@@ -1003,15 +1003,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2991612/2026/11/11/geno-me
  dizinischer-notfall--was-tun
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855733@amtsfeed.de
-DTSTAMP:20261106T110127Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Nordic-Walking in Vehlefanz
-URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/11/12/nordic-
- walking-in-vehlefanz
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2962222@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261112
@@ -1208,6 +1199,15 @@ DTEND;VALUE=DATE:20261119
 SUMMARY:Puppentheater in der Bibliothek Bötzow
 URL:https://www.oberkraemer.de/veranstaltungen/2962391/2026/11/18/puppent
  heater-in-der-bibliothek-boetzow
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855733@amtsfeed.de
+DTSTAMP:20261113T110943Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Nordic-Walking in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/11/19/nordic-
+ walking-in-vehlefanz
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855882@amtsfeed.de

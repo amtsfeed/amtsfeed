@@ -1732,15 +1732,6 @@ URL:https://www.teltow.de/veranstaltungen/2973525/2026/11/11/laternenumzu
  g
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2699683@amtsfeed.de
-DTSTAMP:20261106T110342Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Repair Caf&eacute\; Teltow
-URL:https://www.teltow.de/veranstaltungen/2699683/2026/11/12/repair-café
- -teltow
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2972232@amtsfeed.de
 DTSTAMP:20261028T095147Z
 DTSTART;VALUE=DATE:20261112
@@ -1889,6 +1880,15 @@ DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Sportgruppe
 URL:https://www.teltow.de/veranstaltungen/2972246/2026/11/18/sportgruppe
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2699683@amtsfeed.de
+DTSTAMP:20261113T111156Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Repair Caf&eacute\; Teltow
+URL:https://www.teltow.de/veranstaltungen/2699683/2026/11/19/repair-café
+ -teltow
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972244@amtsfeed.de

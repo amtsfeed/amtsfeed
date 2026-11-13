@@ -1148,20 +1148,6 @@ DESCRIPTION:Führung in der Festung & Altstadt von Küstrin: Die Katte-Tr
 LOCATION:Altstadt & Festung Küstrin
 END:VEVENT
 BEGIN:VEVENT
-UID:2326188@amtsfeed.de
-DTSTAMP:20261028T094759Z
-DTSTART:20271009T100000Z
-DTEND:20271009T143000Z
-SUMMARY:Führung und Exkursion zur Schlacht um die Seelower Höhen 1945
-URL:https://www.amt-golzow.de/veranstaltungen/2326188/2027/10/09/fuehrung
- -und-exkursion-zur-schlacht-um-die-seelower-hoehen-1945
-DESCRIPTION:Schlachtfeldführung im Oderbruch: Exkursion zu authentischen
-  Orten der Schlacht um die Seelower Höhen 1945. Die Durchbruchsschlacht 
- zum Ende des Zweiten Weltkrieges: Von der Festung Küstrin bis Seelow. [m
- ehr]
-LOCATION:Altstadt & Festung Küstrin
-END:VEVENT
-BEGIN:VEVENT
 UID:2637282@amtsfeed.de
 DTSTAMP:20261028T094759Z
 DTSTART:20271023T113000Z
@@ -1185,6 +1171,20 @@ URL:https://www.amt-golzow.de/veranstaltungen/2704723/2027/11/06/fuehrung
 DESCRIPTION:Führung in der Festung & Altstadt von Küstrin: Die Katte-Tr
  agödie ansprechend und unterhaltsam in Szene gesetzt. Entdecken und erle
  ben Sie den historischen Ort\, wie einst Theodor Fontane. [mehr]
+LOCATION:Altstadt & Festung Küstrin
+END:VEVENT
+BEGIN:VEVENT
+UID:2326188@amtsfeed.de
+DTSTAMP:20261113T110839Z
+DTSTART:20271113T100000Z
+DTEND:20271113T143000Z
+SUMMARY:Führung und Exkursion zur Schlacht um die Seelower Höhen 1945
+URL:https://www.amt-golzow.de/veranstaltungen/2326188/2027/11/13/fuehrung
+ -und-exkursion-zur-schlacht-um-die-seelower-hoehen-1945
+DESCRIPTION:Schlachtfeldführung im Oderbruch: Exkursion zu authentischen
+  Orten der Schlacht um die Seelower Höhen 1945. Die Durchbruchsschlacht 
+ zum Ende des Zweiten Weltkrieges: Von der Festung Küstrin bis Seelow. [m
+ ehr]
 LOCATION:Altstadt & Festung Küstrin
 END:VEVENT
 END:VCALENDAR

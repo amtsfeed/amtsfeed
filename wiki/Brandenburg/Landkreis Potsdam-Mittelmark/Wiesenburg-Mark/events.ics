@@ -1215,24 +1215,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2928864/2026/11/11/semi
  -teilen
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2424341@amtsfeed.de
-DTSTAMP:20261106T110352Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/11/12/fami
- liensprechzeiten-elternberatung-im-familienzentrum
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907844@amtsfeed.de
-DTSTAMP:20261106T110352Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Migrationsberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/11/12/migr
- ationsberatung-im-familienzentrum
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2384489@amtsfeed.de
 DTSTAMP:20261107T102418Z
 DTSTART;VALUE=DATE:20261113
@@ -1399,6 +1381,24 @@ DTEND;VALUE=DATE:20261119
 SUMMARY:"Goldgräberinnen"- vom Schätze bergen zum Neuausrichten
 URL:https://www.wiesenburgmark.de/veranstaltungen/2984643/2026/11/18/quot
  goldgraeberinnen-quot-vom-schaetze-bergen-zum-neuausrichten
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2424341@amtsfeed.de
+DTSTAMP:20261113T111205Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/11/19/fami
+ liensprechzeiten-elternberatung-im-familienzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907844@amtsfeed.de
+DTSTAMP:20261113T111205Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Migrationsberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/11/19/migr
+ ationsberatung-im-familienzentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2907847@amtsfeed.de

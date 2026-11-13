@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T11:24:47.404Z",
+  "updatedAt": "2026-11-13T11:10:43.915Z",
   "items": [
     {
       "id": "beeskow-event-28414:0",
@@ -6889,16 +6889,6 @@
       "updatedAt": "2026-10-20T08:41:50.207Z"
     },
     {
-      "id": "beeskow-event-99227919",
-      "title": "\"In Bewegung“ – Kurzfilmprogramm",
-      "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
-      "startDate": "2026-12-19T00:00:00.000Z",
-      "endDate": "2026-12-19T01:45:00.000Z",
-      "location": "Burg Beeskow, Konzertsaal",
-      "fetchedAt": "2026-10-06T10:28:50.162Z",
-      "updatedAt": "2026-10-27T09:09:58.123Z"
-    },
-    {
       "id": "beeskow-event-99104599",
       "title": "museum oder-spree „lauschen und lärmen“",
       "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
@@ -6929,14 +6919,24 @@
       "updatedAt": "2026-10-20T08:41:50.207Z"
     },
     {
-      "id": "beeskow-event-99227918",
+      "id": "beeskow-event-99227919",
       "title": "\"In Bewegung“ – Kurzfilmprogramm",
-      "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
+      "url": "https://burg-beeskow.reservix.de/",
       "startDate": "2026-12-19T16:00:00.000Z",
-      "endDate": "2026-12-19T17:15:00.000Z",
+      "endDate": "2026-12-19T17:45:00.000Z",
       "location": "Burg Beeskow, Konzertsaal",
       "fetchedAt": "2026-10-06T10:28:50.162Z",
-      "updatedAt": "2026-10-20T08:41:50.207Z"
+      "updatedAt": "2026-11-13T11:10:43.901Z"
+    },
+    {
+      "id": "beeskow-event-99227918",
+      "title": "\"In Bewegung“ – Kurzfilmprogramm",
+      "url": "https://burg-beeskow.reservix.de/",
+      "startDate": "2026-12-19T19:00:00.000Z",
+      "endDate": "2026-12-19T20:15:00.000Z",
+      "location": "Burg Beeskow, Konzertsaal",
+      "fetchedAt": "2026-10-06T10:28:50.162Z",
+      "updatedAt": "2026-11-13T11:10:43.901Z"
     },
     {
       "id": "beeskow-event-99104600",
@@ -7449,6 +7449,16 @@
       "updatedAt": "2026-10-20T08:41:50.207Z"
     },
     {
+      "id": "beeskow-event-99236484",
+      "title": "Einführung der Burgschreiberin Lena Schätte",
+      "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
+      "startDate": "2027-01-09T20:00:00.000Z",
+      "endDate": "2027-01-09T22:00:00.000Z",
+      "location": "Burg Beeskow, Konzertsaal",
+      "fetchedAt": "2026-11-13T11:10:43.901Z",
+      "updatedAt": "2026-11-13T11:10:43.901Z"
+    },
+    {
       "id": "beeskow-event-99222136",
       "title": "Sicht[ART]en - Ausstellung",
       "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
@@ -7549,6 +7559,16 @@
       "updatedAt": "2026-10-20T08:41:50.207Z"
     },
     {
+      "id": "beeskow-event-99236496",
+      "title": "Besser als befürchtet – Der satirische Jahresrückblick 2026 – Kabarett „Die Oderhähne“",
+      "url": "https://burg-beeskow.reservix.de/",
+      "startDate": "2027-01-15T19:00:00.000Z",
+      "endDate": "2027-01-15T20:30:00.000Z",
+      "location": "Burg Beeskow, Konzertsaal",
+      "fetchedAt": "2026-11-13T11:10:43.901Z",
+      "updatedAt": "2026-11-13T11:10:43.901Z"
+    },
+    {
       "id": "beeskow-event-99222141",
       "title": "Sicht[ART]en - Ausstellung",
       "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
@@ -7587,6 +7607,16 @@
       "location": "Burg Beeskow, museum oder spree",
       "fetchedAt": "2026-09-18T08:25:41.839Z",
       "updatedAt": "2026-10-20T08:41:50.207Z"
+    },
+    {
+      "id": "beeskow-event-99236485",
+      "title": "Tanztee mit Ronny Gander",
+      "url": "https://burg-beeskow.reservix.de/",
+      "startDate": "2027-01-17T14:30:00.000Z",
+      "endDate": "2027-01-17T18:00:00.000Z",
+      "location": "Burg Beeskow, Konzertsaal",
+      "fetchedAt": "2026-11-13T11:10:43.901Z",
+      "updatedAt": "2026-11-13T11:10:43.901Z"
     },
     {
       "id": "beeskow-event-99222143",
@@ -7667,6 +7697,16 @@
       "location": "Burg Beeskow, museum oder spree",
       "fetchedAt": "2026-09-18T08:25:41.839Z",
       "updatedAt": "2026-10-20T08:41:50.207Z"
+    },
+    {
+      "id": "beeskow-event-99236489",
+      "title": "Beeskow Bull & Burg - Dartturnier",
+      "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
+      "startDate": "2027-01-23T10:00:00.000Z",
+      "endDate": "2027-01-23T20:00:00.000Z",
+      "location": "Burg Beeskow, Konzertsaal",
+      "fetchedAt": "2026-11-13T11:10:43.901Z",
+      "updatedAt": "2026-11-13T11:10:43.901Z"
     },
     {
       "id": "beeskow-event-99222147",
@@ -7809,6 +7849,16 @@
       "updatedAt": "2026-10-20T08:41:50.207Z"
     },
     {
+      "id": "beeskow-event-99236490",
+      "title": "M.A.t. live – Farbklangregister",
+      "url": "https://burg-beeskow.reservix.de/",
+      "startDate": "2027-01-30T19:00:00.000Z",
+      "endDate": "2027-01-30T23:30:00.000Z",
+      "location": "Burg Beeskow, Konzertsaal",
+      "fetchedAt": "2026-11-13T11:10:43.901Z",
+      "updatedAt": "2026-11-13T11:10:43.901Z"
+    },
+    {
       "id": "beeskow-event-99222154",
       "title": "Sicht[ART]en - Ausstellung",
       "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
@@ -7949,6 +7999,16 @@
       "updatedAt": "2026-10-20T08:41:50.207Z"
     },
     {
+      "id": "beeskow-event-99236491",
+      "title": "Musik für St. Marien",
+      "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
+      "startDate": "2027-02-06T17:00:00.000Z",
+      "endDate": "2027-02-06T19:00:00.000Z",
+      "location": "Burg Beeskow, Konzertsaal",
+      "fetchedAt": "2026-11-13T11:10:43.901Z",
+      "updatedAt": "2026-11-13T11:10:43.901Z"
+    },
+    {
       "id": "beeskow-event-99222160",
       "title": "Sicht[ART]en - Ausstellung",
       "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
@@ -8069,6 +8129,16 @@
       "updatedAt": "2026-10-20T08:41:50.207Z"
     },
     {
+      "id": "beeskow-event-99236493",
+      "title": "museum oder-spree: Ausstellungseröffnung der Jahresausstellung „hoffen und zweifeln“",
+      "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
+      "startDate": "2027-02-13T17:00:00.000Z",
+      "endDate": "2027-02-13T18:30:00.000Z",
+      "location": "Burg Beeskow, Konzertsaal",
+      "fetchedAt": "2026-11-13T11:10:43.901Z",
+      "updatedAt": "2026-11-13T11:10:43.901Z"
+    },
+    {
       "id": "beeskow-event-99222166",
       "title": "Sicht[ART]en - Ausstellung",
       "url": "https://www.beeskow.de/beeskow-erleben/veranstaltungen/",
@@ -8137,6 +8207,16 @@
       "location": "Burg Beeskow, museum oder spree",
       "fetchedAt": "2026-09-18T08:25:41.839Z",
       "updatedAt": "2026-10-20T08:41:50.207Z"
+    },
+    {
+      "id": "beeskow-event-99236494",
+      "title": "Schwester Cordula liebt Heimatromane - „Unsern Bub, den kriegst du net!“",
+      "url": "https://burg-beeskow.reservix.de/",
+      "startDate": "2027-02-20T19:00:00.000Z",
+      "endDate": "2027-02-20T20:30:00.000Z",
+      "location": "Burg Beeskow, Konzertsaal",
+      "fetchedAt": "2026-11-13T11:10:43.901Z",
+      "updatedAt": "2026-11-13T11:10:43.901Z"
     },
     {
       "id": "beeskow-event-99223136",

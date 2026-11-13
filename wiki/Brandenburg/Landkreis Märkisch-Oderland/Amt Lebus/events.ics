@@ -1382,17 +1382,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2996281/2026/11/11/martinsum
 LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
-UID:2538590@amtsfeed.de
-DTSTAMP:20261106T110010Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/12/tischtenn
- is
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464906@amtsfeed.de
 DTSTAMP:20261107T102013Z
 DTSTART;VALUE=DATE:20261113
@@ -1541,6 +1530,17 @@ SUMMARY:Fleischerwagen Fleischerei Höhne
 URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/18/fleischer
  wagen-fleischerei-hoehne
 DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2538590@amtsfeed.de
+DTSTAMP:20261113T110841Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/19/tischtenn
+ is
+DESCRIPTION:Mehrzweckhalle Podelzig
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
@@ -1897,6 +1897,27 @@ URL:https://www.amt-lebus.de/veranstaltungen/3003800/2027/02/05/der-lebus
  er-carneval-club-laedt-ein-die-58.-saison-2026-2027
 DESCRIPTION:Abensveranstaltung - "Der LCC mit Gegensätzen das Böse will
   sich mit dem Guten fetzen"
+LOCATION:Kulturhaus Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:3003838@amtsfeed.de
+DTSTAMP:20261113T110841Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Der Lebuser Carneval Club lädt ein!!! - die 58. Saison 2026/2027
+URL:https://www.amt-lebus.de/veranstaltungen/3003838/2027/02/06/der-lebus
+ er-carneval-club-laedt-ein-die-58.-saison-2026-2027
+LOCATION:Kulturhaus Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:3003861@amtsfeed.de
+DTSTAMP:20261113T110841Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Rosenmontag der Weiber im Kulturhaus Lebus - die 58. Saison 2026/
+ 2027
+URL:https://www.amt-lebus.de/veranstaltungen/3003861/2027/02/08/rosenmont
+ ag-der-weiber-im-kulturhaus-lebus-die-58.-saison-2026-2027
 LOCATION:Kulturhaus Lebus
 END:VEVENT
 END:VCALENDAR

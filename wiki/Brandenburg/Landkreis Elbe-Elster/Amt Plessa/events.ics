@@ -501,19 +501,19 @@ URL:https://www.plessa.de/veranstaltungen/2986690/2026/11/25/rené-teutsc
 END:VEVENT
 BEGIN:VEVENT
 UID:plessa-event-2986157-20261128@amtsfeed.de
-DTSTAMP:20261028T094409Z
+DTSTAMP:20261113T110320Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:Seniorenweihnachtsfeier
+SUMMARY:28.11.2026   Seniorenweihnachtsfeier
 URL:https://www.plessa.de/veranstaltungen/2986157/2026/11/28/seniorenweih
  nachtsfeier
 END:VEVENT
 BEGIN:VEVENT
 UID:plessa-event-3001599-20261128@amtsfeed.de
-DTSTAMP:20261112T111913Z
+DTSTAMP:20261113T110320Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:28.11.2026   Hofweihnacht auf dem Heinicke Hof in Kahla
+SUMMARY:Hofweihnacht auf dem Heinicke Hof in Kahla
 URL:https://www.plessa.de/veranstaltungen/3001599/2026/11/28/hofweihnacht
  -auf-dem-heinicke-hof-in-kahla
 END:VEVENT
@@ -661,6 +661,17 @@ DTEND;VALUE=DATE:20261225
 SUMMARY:Betriebsruhe 2026
 URL:https://www.plessa.de/veranstaltungen/2815065/2026/12/24/betriebsruhe
  -2026.html
+END:VEVENT
+BEGIN:VEVENT
+UID:plessa-event-3004469-20261224@amtsfeed.de
+DTSTAMP:20261113T110320Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Stimmungsvolles Weihnachtssingen an Heiligabend in Plessa | Orche
+ ster der Bergarbeiter Plessa e.V.
+URL:https://www.plessa.de/veranstaltungen/3004469/2026/12/24/stimmungsvol
+ les-weihnachtssingen-an-heiligabend-in-plessa-orchester-der-bergarbeiter-
+ plessa-e.v
 END:VEVENT
 BEGIN:VEVENT
 UID:plessa-event-2986164-20261231@amtsfeed.de

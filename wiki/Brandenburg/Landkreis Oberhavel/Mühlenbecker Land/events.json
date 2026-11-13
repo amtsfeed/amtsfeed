@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T11:23:28.330Z",
+  "updatedAt": "2026-11-13T11:09:41.503Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -4646,6 +4646,60 @@
       "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
       "fetchedAt": "2026-11-12T11:23:28.329Z",
       "updatedAt": "2026-11-12T11:23:28.329Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58900665",
+      "title": "Wohncafé",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58900665",
+      "startDate": "2026-12-01T15:00:00.000Z",
+      "location": "Mühlenbecker Wohnzimmer / Mönchmühlenallee 3 / 16567 Mühlenbeck",
+      "fetchedAt": "2026-11-13T11:09:41.503Z",
+      "updatedAt": "2026-11-13T11:09:41.503Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58808577",
+      "title": "Zumba Kids",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58808577",
+      "startDate": "2026-12-01T16:00:00.000Z",
+      "location": "Bürgersaal Schildow, Franz-Schmidt-Str. 3",
+      "fetchedAt": "2026-11-13T11:09:41.503Z",
+      "updatedAt": "2026-11-13T11:09:41.503Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58800999",
+      "title": "\"Tafel\"-Lebensmittelverkauf",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58800999",
+      "startDate": "2026-12-02T09:00:00.000Z",
+      "location": "Mühlentreff, Hauptstraße 7, OT Mühlenbeck",
+      "fetchedAt": "2026-11-13T11:09:41.503Z",
+      "updatedAt": "2026-11-13T11:09:41.503Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59053189",
+      "title": "Sprechstunde der Digital-Paten",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59053189",
+      "startDate": "2026-12-02T10:00:00.000Z",
+      "location": "Glashaus, Dorfstr. 34b, Zühlsdorf",
+      "fetchedAt": "2026-11-13T11:09:41.503Z",
+      "updatedAt": "2026-11-13T11:09:41.503Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58798805",
+      "title": "Bürgerverein Bieselheide: Kreativgruppe",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58798805",
+      "startDate": "2026-12-02T10:00:00.000Z",
+      "location": "Bürgertreff Bieselheide, Traubeneichenstraße 66, OT Schönfließ",
+      "fetchedAt": "2026-11-13T11:09:41.503Z",
+      "updatedAt": "2026-11-13T11:09:41.503Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58809533",
+      "title": "Bürgerverein: Boule am Teich",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58809533",
+      "startDate": "2026-12-02T14:00:00.000Z",
+      "location": "Bouleplatz, Feldahornstraße, OT Schönfließ",
+      "fetchedAt": "2026-11-13T11:09:41.503Z",
+      "updatedAt": "2026-11-13T11:09:41.503Z"
     }
   ]
 }

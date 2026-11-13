@@ -1939,6 +1939,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Rathenow\, Märkischer Platz
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1815-20261123@amtsfeed.de
+DTSTAMP:20261113T110641Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Du zählst - Rathenow hört dir zu
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/du-zaehlst-rathenow-hoert-dir-z
+ u/
+LOCATION:St. Marien-Andreas Kirche
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1739-20261126@amtsfeed.de
 DTSTAMP:20260916T084040Z
 DTSTART;VALUE=DATE:20261126

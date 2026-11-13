@@ -1250,15 +1250,6 @@ URL:https://www.calau.de/veranstaltungen/2991983/2026/11/11/rathaus-sturm
  -des-ccc
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261111T110824Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:12.11.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/11/12/calauer-woche
- nmarkt
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2885235@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART;VALUE=DATE:20261112
@@ -1313,37 +1304,38 @@ URL:https://www.calau.de/veranstaltungen/2858228/2026/11/13/spieleabend
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2914789@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261113T111000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:Kreisrassegeflügel- und Kaninchenschau
+SUMMARY:13.11.2026    bis 15.11.2026   Kreisrassegeflügel- und Kaninchen
+ schau
 URL:https://www.calau.de/veranstaltungen/2914789/2026/11/13/kreisrassegef
  luegel-und-kaninchenschau
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2962718@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261113T111000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:"Zinnitz leuchtet"
+SUMMARY:13.11.2026   "Zinnitz leuchtet"
 URL:https://www.calau.de/veranstaltungen/2962718/2026/11/13/zinnitz-leuch
  tet
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877131@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261113T111000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Herbstputz auf dem Friedhof
+SUMMARY:14.11.2026   Herbstputz auf dem Friedhof
 URL:https://www.calau.de/veranstaltungen/2877131/2026/11/14/herbstputz-au
  f-dem-friedhof
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2975866@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261113T111000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Puppen-Mitmach-Show
+SUMMARY:14.11.2026   Puppen-Mitmach-Show
 URL:https://www.calau.de/veranstaltungen/2975866/2026/11/14/puppen-mitmac
  h-show
 END:VEVENT
@@ -1364,6 +1356,15 @@ DTEND;VALUE=DATE:20261116
 SUMMARY:Gedenkveranstaltung zum Volkstrauertag
 URL:https://www.calau.de/veranstaltungen/2996816/2026/11/15/gedenkveranst
  altung-zum-volkstrauertag
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261113T111000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/11/17/calauer-woche
+ nmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838480@amtsfeed.de
@@ -1664,6 +1665,15 @@ URL:https://www.calau.de/veranstaltungen/3001244/2026/12/01/adventshuette
  -calau-adventsbummel-der-ig-in-calau-clever-kaufen
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-3004467@amtsfeed.de
+DTSTAMP:20261113T111000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Märchenlesungen im Info-Punkt
+URL:https://www.calau.de/veranstaltungen/3004467/2026/12/01/maerchenlesun
+ gen-im-info-punkt
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2960239@amtsfeed.de
 DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20261203
@@ -1699,6 +1709,15 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Weihnachtsmarkt Calau 2026
 URL:https://www.calau.de/veranstaltungen/2948040/2026/12/05/weihnachtsmar
  kt-calau-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3004468@amtsfeed.de
+DTSTAMP:20261113T111000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Midissage im Info-Punkt mit dem Künstlertrio
+URL:https://www.calau.de/veranstaltungen/3004468/2026/12/05/midissage-im-
+ info-punkt-mit-dem-kuenstlertrio
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2982872@amtsfeed.de
@@ -1845,6 +1864,15 @@ URL:https://www.calau.de/veranstaltungen/2991004/2027/01/10/rockballaden-
  bei-kerzenschein
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-3004022@amtsfeed.de
+DTSTAMP:20261113T111000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:"Malen für die Seele" - kleine Malgruppe
+URL:https://www.calau.de/veranstaltungen/3004022/2027/01/11/malen-fuer-di
+ e-seele-kleine-malgruppe
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2922158@amtsfeed.de
 DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20270124
@@ -1917,6 +1945,15 @@ URL:https://www.calau.de/veranstaltungen/2975869/2027/02/13/puppen-mitmac
  h-show
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-3004024@amtsfeed.de
+DTSTAMP:20261113T111000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:"Malen für die Seele" - kleine Malgruppe
+URL:https://www.calau.de/veranstaltungen/3004024/2027/02/15/malen-fuer-di
+ e-seele-kleine-malgruppe
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2952332@amtsfeed.de
 DTSTAMP:20261028T094941Z
 DTSTART;VALUE=DATE:20270226
@@ -1933,6 +1970,24 @@ DTEND;VALUE=DATE:20270307
 SUMMARY:Rockfestival "BOCK AUF ROCK"
 URL:https://www.calau.de/veranstaltungen/2991923/2027/03/06/rockfestival-
  bock-auf-rock
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3004025@amtsfeed.de
+DTSTAMP:20261113T111000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:"Malen für die Seele" - kleine Malgruppe
+URL:https://www.calau.de/veranstaltungen/3004025/2027/03/08/malen-fuer-di
+ e-seele-kleine-malgruppe
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3004026@amtsfeed.de
+DTSTAMP:20261113T111000Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:"Malen für die Seele" - kleine Malgruppe
+URL:https://www.calau.de/veranstaltungen/3004026/2027/04/12/malen-fuer-di
+ e-seele-kleine-malgruppe
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2922165@amtsfeed.de

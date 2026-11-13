@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T11:18:02.206Z",
+  "updatedAt": "2026-11-13T11:02:19.266Z",
   "items": [
     {
       "id": "ausstellung-momente-der-stille-und-kraft",
@@ -1098,14 +1098,6 @@
       "updatedAt": "2026-10-10T09:53:50.139Z"
     },
     {
-      "id": "beirat-fuer-menschen-mit-behinderungen",
-      "title": "Beirat für Menschen mit Behinderungen",
-      "url": "https://www.eberswalde.de/termine/beirat-fuer-menschen-mit-behinderungen",
-      "startDate": "2026-10-12T12:00:00.000Z",
-      "fetchedAt": "2026-09-20T08:38:06.438Z",
-      "updatedAt": "2026-10-10T09:53:50.139Z"
-    },
-    {
       "id": "faszination-holz-25",
       "title": "Faszination Holz",
       "url": "https://www.eberswalde.de/termine/faszination-holz-25",
@@ -1632,6 +1624,14 @@
       "startDate": "2026-11-15T17:00:00.000Z",
       "fetchedAt": "2026-11-12T11:18:02.198Z",
       "updatedAt": "2026-11-12T11:18:02.198Z"
+    },
+    {
+      "id": "beirat-fuer-menschen-mit-behinderungen",
+      "title": "Beirat für Menschen mit Behinderungen",
+      "url": "https://www.eberswalde.de/termine/beirat-fuer-menschen-mit-behinderungen",
+      "startDate": "2026-11-16T10:00:00.000Z",
+      "fetchedAt": "2026-09-20T08:38:06.438Z",
+      "updatedAt": "2026-11-13T11:02:19.255Z"
     }
   ]
 }

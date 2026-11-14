@@ -2133,14 +2133,14 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-8091@amtsfeed.de
-DTSTAMP:20261109T114317Z
+DTSTAMP:20261114T103440Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:-Zwei große Entertainer- Heinz Quermann und Helga Hahnemann
+SUMMARY:Zwei große Entertainer: Heinz Quermann und Helga Hahnemann
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
- der/-Zwei-gro%C3%9Fe-Entertainer-Heinz-Quermann-und-Helga-Hahnemann.php?o
- bject=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.8091.1&amp\;NavID=2967.39&am
- p\;sfreg=1&amp\;bn=1
+ der/Zwei-gro%C3%9Fe-Entertainer-Heinz-Quermann-und-Helga-Hahnemann.php?ob
+ ject=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.8091.1&amp\;NavID=2967.39&amp
+ \;sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-8085@amtsfeed.de
@@ -2209,5 +2209,36 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/Hauptausschuss-der-SVV-tagt-am-23-November-in-der-Orangerie.php?objec
  t=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.7633.1&amp\;NavID=2967.39&amp\;s
  freg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7493@amtsfeed.de
+DTSTAMP:20261114T103440Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Orgelmusik zur Mittagszeit
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Orgelmusik-zur-Mittagszeit.php?object=tx\,2967.4&amp\;ModID=11&amp\;F
+ ID=2967.7493.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8083@amtsfeed.de
+DTSTAMP:20261114T103440Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Adventsbasteln in der Stadtbibliothek
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Adventsbasteln-in-der-Stadtbibliothek.php?object=tx\,2967.4&amp\;ModI
+ D=11&amp\;FID=2967.8083.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7822@amtsfeed.de
+DTSTAMP:20261114T103440Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Poetry-Slam - Kiezpoeten - Poetry in der Orangerie
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Poetry-Slam-Kiezpoeten-Poetry-in-der-Orangerie.php?object=tx\,2967.4&
+ amp\;ModID=11&amp\;FID=2967.7822.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;b
+ n=1
 END:VEVENT
 END:VCALENDAR

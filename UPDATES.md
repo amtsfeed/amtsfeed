@@ -1,5 +1,47 @@
 # Updates
 
+## 2026-11-14 10:37
+
+Insgesamt **624 neu**, **191 aktualisiert**, **3 entfernt** in 35 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | ~1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Niemegk | — | +2 | — | — |
+| Amt Plessa | — | ~1 | — | — |
+| Amt Scharmützelsee | — | -2 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +1 / ~3 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Beeskow | — | +60 | +1 | — |
+| Bernau bei Berlin | +1 | +7 / ~7 | — | — |
+| Brieselang | +4 | — | — | — |
+| Calau | — | ~2 | — | — |
+| Eberswalde | — | +4 | — | — |
+| Eisenhüttenstadt | — | ~1 | — | — |
+| Elsterwerda | — | +1 | — | — |
+| Falkensee | — | +1 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Glienicke-Nordbahn | +1 | — | — | — |
+| Groß Kreutz | — | ~18 | — | — |
+| Hohen Neuendorf | +1 | +1 | — | — |
+| Hoppegarten | — | +1 | — | — |
+| Kleinmachnow | — | +5 | — | — |
+| Lübbenau Spreewald | — | +497 / ~72 | — | — |
+| Michendorf | — | ~1 | — | — |
+| Mühlenbecker Land | — | +4 | — | — |
+| Neuenhagen bei Berlin | +1 / -1 | — | — | — |
+| Oberkrämer | — | ~2 | — | — |
+| Oranienburg | — | +3 / ~1 | — | — |
+| Premnitz | — | +12 | — | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schorfheide | — | +1 | — | — |
+| Senftenberg | — | +7 | — | +1 |
+| Wandlitz | — | — | +1 | +2 |
+| Werder (Havel) | — | +1 / ~13 | — | — |
+| Wiesenburg-Mark | +1 | +2 / ~3 | — | — |
+
 ## 2026-11-13 11:12
 
 Insgesamt **217 neu**, **533 aktualisiert**, **4 entfernt** in 73 Quellen.

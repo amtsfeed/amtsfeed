@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:10:20.672Z",
+  "updatedAt": "2026-11-14T10:35:27.266Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -541,14 +541,6 @@
       "updatedAt": "2026-10-01T10:20:46.149Z"
     },
     {
-      "id": "scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow",
-      "title": "Ortsführung durch den Kurort Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-bad-saarow",
-      "startDate": "2026-10-11T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T13:16:12.297Z",
-      "updatedAt": "2026-10-11T10:11:15.475Z"
-    },
-    {
       "id": "scharmuetzelsee-genusswerkstatt-im-hotel-esplanade",
       "title": "Genusswerkstatt im Hotel Esplanade",
       "url": "https://www.scharmuetzelsee.de/event/genusswerkstatt-im-hotel-esplanade",
@@ -933,14 +925,6 @@
       "updatedAt": "2026-11-01T10:37:50.801Z"
     },
     {
-      "id": "scharmuetzelsee-training-der-burgwache-storkow",
-      "title": "Training der Burgwache Storkow",
-      "url": "https://www.scharmuetzelsee.de/event/training-der-burgwache-storkow",
-      "startDate": "2026-11-01T00:00:00.000Z",
-      "fetchedAt": "2026-11-01T10:37:50.801Z",
-      "updatedAt": "2026-11-01T10:37:50.801Z"
-    },
-    {
       "id": "scharmuetzelsee-seniorenkino-im-cinema-bad-saarow",
       "title": "Seniorenkino im Cinema Bad Saarow",
       "url": "https://www.scharmuetzelsee.de/event/seniorenkino-im-cinema-bad-saarow",
@@ -1045,14 +1029,6 @@
       "updatedAt": "2026-11-09T11:44:03.044Z"
     },
     {
-      "id": "scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow",
-      "title": "Glühweinsegeln mit Skipper ab Bad Saarow",
-      "url": "https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-bad-saarow",
-      "startDate": "2026-11-13T00:00:00.000Z",
-      "fetchedAt": "2026-11-01T10:37:50.801Z",
-      "updatedAt": "2026-11-13T11:10:20.669Z"
-    },
-    {
       "id": "scharmuetzelsee-wendisch-rietzer-kneipp-kids",
       "title": "Wendisch Rietzer Kneipp-Kids",
       "url": "https://www.scharmuetzelsee.de/event/wendisch-rietzer-kneipp-kids",
@@ -1083,6 +1059,14 @@
       "startDate": "2026-11-13T00:00:00.000Z",
       "fetchedAt": "2026-11-10T11:23:01.835Z",
       "updatedAt": "2026-11-10T11:23:01.835Z"
+    },
+    {
+      "id": "scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow",
+      "title": "Glühweinsegeln mit Skipper ab Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-bad-saarow",
+      "startDate": "2026-11-14T00:00:00.000Z",
+      "fetchedAt": "2026-11-01T10:37:50.801Z",
+      "updatedAt": "2026-11-14T10:35:27.264Z"
     },
     {
       "id": "scharmuetzelsee-linienfahrt-nachsaison-sa-so",
@@ -1116,6 +1100,30 @@
       "startDate": "2026-11-14T00:00:00.000Z",
       "fetchedAt": "2026-11-13T11:10:20.669Z",
       "updatedAt": "2026-11-13T11:10:20.669Z"
+    },
+    {
+      "id": "scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow",
+      "title": "Ortsführung durch den Kurort Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-bad-saarow",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:16:12.297Z",
+      "updatedAt": "2026-11-14T10:35:27.264Z"
+    },
+    {
+      "id": "scharmuetzelsee-training-der-burgwache-storkow",
+      "title": "Training der Burgwache Storkow",
+      "url": "https://www.scharmuetzelsee.de/event/training-der-burgwache-storkow",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-11-01T10:37:50.801Z",
+      "updatedAt": "2026-11-14T10:35:27.264Z"
+    },
+    {
+      "id": "scharmuetzelsee-martinsgansessen-im-hotel-resort-maerkisches-meer",
+      "title": "Martinsgansessen im HOTEL_RESORT Märkisches Meer",
+      "url": "https://www.scharmuetzelsee.de/event/martinsgansessen-im-hotel-resort-maerkisches-meer",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-11-14T10:35:27.264Z",
+      "updatedAt": "2026-11-14T10:35:27.264Z"
     },
     {
       "id": "scharmuetzelsee-adventssingen-im-aldo-wendisch-rietz",

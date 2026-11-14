@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T11:25:34.231Z",
+  "updatedAt": "2026-11-14T10:36:09.618Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -716,6 +716,26 @@
       "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-11-12T11:25:28.484Z",
       "updatedAt": "2026-11-12T11:25:34.226Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-21-2026-11-21",
+      "title": "Musikalische Burgführung",
+      "url": "https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-452-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-757-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-11-21&#038;time=1795262400",
+      "startDate": "2026-11-21T12:00:00.000Z",
+      "endDate": "2026-11-21T00:00:00.000Z",
+      "location": "Burg Rabenstein in Raben",
+      "fetchedAt": "2026-11-14T10:36:04.408Z",
+      "updatedAt": "2026-11-14T10:36:09.615Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-22-2026-11-22",
+      "title": "Musikalische Burgführung",
+      "url": "https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-452-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-757-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-11-22&#038;time=1795348800",
+      "startDate": "2026-11-22T12:00:00.000Z",
+      "endDate": "2026-11-22T00:00:00.000Z",
+      "location": "Burg Rabenstein in Raben",
+      "fetchedAt": "2026-11-14T10:36:04.408Z",
+      "updatedAt": "2026-11-14T10:36:09.615Z"
     }
   ]
 }

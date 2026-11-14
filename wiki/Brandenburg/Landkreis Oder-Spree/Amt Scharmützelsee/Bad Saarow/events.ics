@@ -634,15 +634,6 @@ URL:https://www.scharmuetzelsee.de/event/soundtracks-im-scharwenka-kultur
  forum
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
-DTSTAMP:20261011T101115Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:Ortsführung durch den Kurort Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-genusswerkstatt-im-hotel-esplanade@amtsfeed.de
 DTSTAMP:20261011T101115Z
 DTSTART;VALUE=DATE:20261011
@@ -1099,14 +1090,6 @@ SUMMARY:Seasons Brunch im SeeBadSaarow
 URL:https://www.scharmuetzelsee.de/event/seasons-brunch-im-seebadsaarow
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-training-der-burgwache-storkow@amtsfeed.de
-DTSTAMP:20261101T103750Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:Training der Burgwache Storkow
-URL:https://www.scharmuetzelsee.de/event/training-der-burgwache-storkow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-seniorenkino-im-cinema-bad-saarow@amtsfeed.de
 DTSTAMP:20261101T103750Z
 DTSTART;VALUE=DATE:20261102
@@ -1235,15 +1218,6 @@ URL:https://www.scharmuetzelsee.de/event/lesung-mit-karin-luedtke-dorothe
  e-koch-und-vera-jaspers
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261113T111020Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
- ad-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-wendisch-rietzer-kneipp-kids@amtsfeed.de
 DTSTAMP:20261109T114403Z
 DTSTART;VALUE=DATE:20261113
@@ -1278,6 +1252,15 @@ DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:SATAMAs Sibirische Nacht 2026
 URL:https://www.scharmuetzelsee.de/event/satamas-sibirische-nacht-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261114T103527Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-linienfahrt-nachsaison-sa-so@amtsfeed.de
@@ -1317,6 +1300,33 @@ DTEND;VALUE=DATE:20261115
 SUMMARY:"Saarower Klavierkonzerte" "November a.D."
 URL:https://www.scharmuetzelsee.de/event/saarower-klavierkonzerte-novembe
  r-ad
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
+DTSTAMP:20261114T103527Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Ortsführung durch den Kurort Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
+ d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-training-der-burgwache-storkow@amtsfeed.de
+DTSTAMP:20261114T103527Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Training der Burgwache Storkow
+URL:https://www.scharmuetzelsee.de/event/training-der-burgwache-storkow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-martinsgansessen-im-hotel-resort-maerkisches-meer@amt
+ sfeed.de
+DTSTAMP:20261114T103527Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Martinsgansessen im HOTEL_RESORT Märkisches Meer
+URL:https://www.scharmuetzelsee.de/event/martinsgansessen-im-hotel-resort
+ -maerkisches-meer
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-adventssingen-im-aldo-wendisch-rietz@amtsfeed.de

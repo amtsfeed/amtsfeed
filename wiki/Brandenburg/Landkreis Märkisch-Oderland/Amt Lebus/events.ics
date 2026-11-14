@@ -1382,26 +1382,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2996281/2026/11/11/martinsum
 LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
-UID:2464906@amtsfeed.de
-DTSTAMP:20261107T102013Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/11/13/selbstver
- teidigung-fuer-kinder-von-5-13-jahren
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464907@amtsfeed.de
-DTSTAMP:20261107T102013Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/11/13/selbstver
- teidigung-fuer-jugendliche-ab-13-jahren
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464910@amtsfeed.de
 DTSTAMP:20261108T103107Z
 DTSTART;VALUE=DATE:20261114
@@ -1541,6 +1521,26 @@ SUMMARY:Tischtennis
 URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/19/tischtenn
  is
 DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464906@amtsfeed.de
+DTSTAMP:20261114T103332Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/11/20/selbstver
+ teidigung-fuer-kinder-von-5-13-jahren
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464907@amtsfeed.de
+DTSTAMP:20261114T103332Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/11/20/selbstver
+ teidigung-fuer-jugendliche-ab-13-jahren
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT

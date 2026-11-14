@@ -1550,15 +1550,6 @@ URL:https://www.michendorf.de/veranstaltungen/3000736/2026/11/11/filmclub
  -das-leuchten-der-erinnerung
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959541@amtsfeed.de
-DTSTAMP:20261107T102350Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959541/2026/11/13/jugendcl
- ub-micheck-geoeffnet
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2958916@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261113
@@ -1695,6 +1686,15 @@ DTEND;VALUE=DATE:20261120
 SUMMARY:offener Bürgerdialog
 URL:https://www.michendorf.de/veranstaltungen/2884834/2026/11/19/offener-
  buergerdialog
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959541@amtsfeed.de
+DTSTAMP:20261114T103625Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959541/2026/11/20/jugendcl
+ ub-micheck-geoeffnet
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2987684@amtsfeed.de

@@ -8,6 +8,16 @@ X-WR-CALDESC:Amtliche Veranstaltungen für Landkreis Oberspreewald-Lausit
  z
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:lk-osl-event-3005612-20260101@amtsfeed.de
+DTSTAMP:20261115T110339Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Termine 2026
+URL:https://www.osl-online.de/veranstaltungen/3005612/2026/01/01/termine-
+ 2026
+LOCATION:Turn- und Gymnastikverein Lauchhammer 92 e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2811433-20260529@amtsfeed.de
 DTSTAMP:20260531T184206Z
 DTSTART;VALUE=DATE:20260529
@@ -15810,6 +15820,34 @@ DTSTART:20271111T100000Z
 SUMMARY:Behinderten- und Seniorenberatung
 URL:https://www.osl-online.de/veranstaltungen/2124494/2027/11/11/behinder
  ten-und-seniorenberatung
+LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2124462-20271115@amtsfeed.de
+DTSTAMP:20261115T110339Z
+DTSTART:20271115T153000Z
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.osl-online.de/veranstaltungen/2124462/2027/11/15/treffpun
+ kt-buergertheater
+LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2811973-20271115@amtsfeed.de
+DTSTAMP:20261115T110339Z
+DTSTART:20271115T170000Z
+DTEND:20271115T183000Z
+SUMMARY:Demokratiecaf&eacute\;
+URL:https://www.osl-online.de/veranstaltungen/2811973/2027/11/15/demokrat
+ iecafé
+LOCATION:Quartierstreff
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2124466-20271115@amtsfeed.de
+DTSTAMP:20261115T110339Z
+DTSTART:20271115T170000Z
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.osl-online.de/veranstaltungen/2124466/2027/11/15/treffpun
+ kt-buergertheater
 LOCATION:Mehrgenerationenhaus
 END:VEVENT
 END:VCALENDAR

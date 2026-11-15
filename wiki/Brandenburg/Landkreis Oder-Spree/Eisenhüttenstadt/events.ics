@@ -1516,8 +1516,8 @@ UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
  a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
  ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261114T103539Z
-DTSTART:20261114T103539Z
+DTSTAMP:20261115T110407Z
+DTSTART:20261115T110407Z
 SUMMARY:Veranstaltungen
 URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
@@ -1737,5 +1737,49 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Snowy-und-die-Pinguin-
  Bande.php?ModID=11&amp\;FID=2852.2021.1
 LOCATION:Friedrich-Wolf-Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-2022-1@amtsfeed.de
+DTSTAMP:20261115T110407Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Snowy und die Pinguin-Bande
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Snowy-und-die-Pinguin-
+ Bande.php?ModID=11&amp\;FID=2852.2022.1
+LOCATION:Friedrich-Wolf-Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-2002-1@amtsfeed.de
+DTSTAMP:20261115T110407Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:»Andacht zum Advent«
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-Andacht-zum-Advent-.p
+ hp?ModID=11&amp\;FID=2852.2002.1
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1985-1@amtsfeed.de
+DTSTAMP:20261115T110407Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Weihnachtsmarkt
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Weihnachtsmarkt.php?Mo
+ dID=11&amp\;FID=2852.1985.1
+LOCATION:Weihnachtsmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-1745-1@amtsfeed.de
+DTSTAMP:20261115T110407Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Öffentliche Stadtführung "Planstadt Eisenhüttenstadt"
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/%C3%96ffentliche-Stadt
+ f%C3%BChrung-Planstadt-Eisenh%C3%BCttenstadt-.php?ModID=11&amp\;FID=2852.
+ 1745.1
+LOCATION:Tourismusinformation
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-13T11:10:15.536Z",
+  "updatedAt": "2026-11-15T11:03:39.048Z",
   "items": [
+    {
+      "id": "lk-osl-event-3005612-20260101",
+      "title": "Termine 2026",
+      "url": "https://www.osl-online.de/veranstaltungen/3005612/2026/01/01/termine-2026",
+      "startDate": "2026-01-01T00:00:00.000Z",
+      "location": "Turn- und Gymnastikverein Lauchhammer 92 e.V.",
+      "fetchedAt": "2026-11-15T11:03:39.086Z",
+      "updatedAt": "2026-11-15T11:03:39.086Z"
+    },
     {
       "id": "lk-osl-event-2811433-20260529",
       "title": "\"Zeit für mich\"-Wochenendworkshop",
@@ -15448,6 +15457,34 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-11-11T11:08:42.915Z",
       "updatedAt": "2026-11-11T11:08:42.915Z"
+    },
+    {
+      "id": "lk-osl-event-2124462-20271115",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.osl-online.de/veranstaltungen/2124462/2027/11/15/treffpunkt-buergertheater",
+      "startDate": "2027-11-15T15:30:00.000Z",
+      "location": "Mehrgenerationenhaus",
+      "fetchedAt": "2026-11-15T11:03:39.086Z",
+      "updatedAt": "2026-11-15T11:03:39.086Z"
+    },
+    {
+      "id": "lk-osl-event-2811973-20271115",
+      "title": "Demokratiecaf&eacute;",
+      "url": "https://www.osl-online.de/veranstaltungen/2811973/2027/11/15/demokratiecafé",
+      "startDate": "2027-11-15T17:00:00.000Z",
+      "endDate": "2027-11-15T18:30:00.000Z",
+      "location": "Quartierstreff",
+      "fetchedAt": "2026-11-15T11:03:39.086Z",
+      "updatedAt": "2026-11-15T11:03:39.086Z"
+    },
+    {
+      "id": "lk-osl-event-2124466-20271115",
+      "title": "Treffpunkt Bürgertheater",
+      "url": "https://www.osl-online.de/veranstaltungen/2124466/2027/11/15/treffpunkt-buergertheater",
+      "startDate": "2027-11-15T17:00:00.000Z",
+      "location": "Mehrgenerationenhaus",
+      "fetchedAt": "2026-11-15T11:03:39.086Z",
+      "updatedAt": "2026-11-15T11:03:39.086Z"
     }
   ]
 }

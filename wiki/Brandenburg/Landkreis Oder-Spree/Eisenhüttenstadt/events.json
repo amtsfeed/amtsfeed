@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T10:35:39.454Z",
+  "updatedAt": "2026-11-15T11:04:07.793Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -1142,9 +1142,9 @@
       "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
       "title": "Veranstaltungen",
       "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-11-14T10:35:39.448Z",
+      "startDate": "2026-11-15T11:04:07.786Z",
       "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-11-14T10:35:39.448Z"
+      "updatedAt": "2026-11-15T11:04:07.786Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1882-1",
@@ -1314,6 +1314,41 @@
       "location": "Friedrich-Wolf-Theater",
       "fetchedAt": "2026-11-08T10:33:35.840Z",
       "updatedAt": "2026-11-08T10:33:35.840Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-2022-1",
+      "title": "Snowy und die Pinguin-Bande",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Snowy-und-die-Pinguin-Bande.php?ModID=11&amp;FID=2852.2022.1",
+      "startDate": "2026-12-09T00:00:00.000Z",
+      "location": "Friedrich-Wolf-Theater",
+      "fetchedAt": "2026-11-15T11:04:07.786Z",
+      "updatedAt": "2026-11-15T11:04:07.786Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-2002-1",
+      "title": "»Andacht zum Advent«",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-Andacht-zum-Advent-.php?ModID=11&amp;FID=2852.2002.1",
+      "startDate": "2026-12-09T00:00:00.000Z",
+      "fetchedAt": "2026-11-15T11:04:07.786Z",
+      "updatedAt": "2026-11-15T11:04:07.786Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1985-1",
+      "title": "Weihnachtsmarkt",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Weihnachtsmarkt.php?ModID=11&amp;FID=2852.1985.1",
+      "startDate": "2026-12-11T00:00:00.000Z",
+      "location": "Weihnachtsmarkt",
+      "fetchedAt": "2026-11-15T11:04:07.786Z",
+      "updatedAt": "2026-11-15T11:04:07.786Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-1745-1",
+      "title": "Öffentliche Stadtführung \"Planstadt Eisenhüttenstadt\"",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/%C3%96ffentliche-Stadtf%C3%BChrung-Planstadt-Eisenh%C3%BCttenstadt-.php?ModID=11&amp;FID=2852.1745.1",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "location": "Tourismusinformation",
+      "fetchedAt": "2026-11-15T11:04:07.786Z",
+      "updatedAt": "2026-11-15T11:04:07.786Z"
     }
   ]
 }

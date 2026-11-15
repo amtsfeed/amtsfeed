@@ -1687,4 +1687,27 @@ DTSTART:20261118T173000Z
 SUMMARY:Märchenabend für Erwachsene
 URL:https://www.eberswalde.de/termine/maerchenabend-fuer-erwachsene
 END:VEVENT
+BEGIN:VEVENT
+UID:kopfkino-mit-verflucht-normal-2@amtsfeed.de
+DTSTAMP:20261115T105812Z
+DTSTART:20261118T180000Z
+SUMMARY:KOPFKINO  mit "VERFLUCHT NORMAL"
+URL:https://www.eberswalde.de/termine/kopfkino-mit-verflucht-normal-2
+END:VEVENT
+BEGIN:VEVENT
+UID:diplomatischer-salon-die-welt-zu-gast-in-eberswalde@amtsfeed.de
+DTSTAMP:20261115T105812Z
+DTSTART:20261118T190000Z
+SUMMARY:Diplomatischer Salon - Die Welt zu Gast in Eberswalde
+URL:https://www.eberswalde.de/termine/diplomatischer-salon-die-welt-zu-ga
+ st-in-eberswalde
+END:VEVENT
+BEGIN:VEVENT
+UID:sing-mit-offenes-chorsingen-unter-leitung-von-sascha-lej@amtsfeed.de
+DTSTAMP:20261115T105812Z
+DTSTART:20261120T180000Z
+SUMMARY:Sing Mit! - offenes Chorsingen unter Leitung von Sascha Lej
+URL:https://www.eberswalde.de/termine/sing-mit-offenes-chorsingen-unter-l
+ eitung-von-sascha-lej
+END:VEVENT
 END:VCALENDAR

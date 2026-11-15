@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:09:28.010Z",
+  "updatedAt": "2026-11-15T11:04:23.741Z",
   "items": [
     {
       "id": "schoeneiche-event-schoeneicher-chorgemeinschaft-e-v-2",
@@ -280,6 +280,22 @@
       "startDate": "2026-11-25T17:00:00.000Z",
       "fetchedAt": "2026-11-11T11:09:27.999Z",
       "updatedAt": "2026-11-11T11:09:27.999Z"
+    },
+    {
+      "id": "schoeneiche-event-winterkonzert-die-schoeneichen",
+      "title": "Winterkonzert - \"Die Schöneichen\"",
+      "url": "https://www.schoeneiche.de/freizeit/kultur/veranstaltung/winterkonzert-die-schoeneichen",
+      "startDate": "2026-12-04T19:30:00.000Z",
+      "fetchedAt": "2026-11-15T11:04:23.732Z",
+      "updatedAt": "2026-11-15T11:04:23.732Z"
+    },
+    {
+      "id": "schoeneiche-event-weihnachtskonzert-mit-pandurina-2",
+      "title": "Weihnachtskonzert mit Pandurina",
+      "url": "https://www.schoeneiche.de/freizeit/kultur/veranstaltung/weihnachtskonzert-mit-pandurina-2",
+      "startDate": "2026-12-05T16:00:00.000Z",
+      "fetchedAt": "2026-11-15T11:04:23.732Z",
+      "updatedAt": "2026-11-15T11:04:23.732Z"
     }
   ]
 }

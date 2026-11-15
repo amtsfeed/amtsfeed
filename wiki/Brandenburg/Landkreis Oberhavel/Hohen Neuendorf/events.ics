@@ -569,16 +569,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  kreativer-familiensonntag-theater-origami-werkstatt
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-gesprachskreis-fur-pflegende-angehorige@amtsfee
- d.de
-DTSTAMP:20261009T104244Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Gesprächskreis für pflegende Angehörige
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- gesprachskreis-fur-pflegende-angehorige
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-sprachcafe-0@amtsfeed.de
 DTSTAMP:20261010T095958Z
 DTSTART;VALUE=DATE:20261014
@@ -995,5 +985,42 @@ DTEND;VALUE=DATE:20261116
 SUMMARY:Chöre der Region singen Gabriel Fauré: Requiem
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  chore-der-region-singen-gabriel-faure-requiem
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-gesprachskreis-fur-pflegende-angehorige@amtsfee
+ d.de
+DTSTAMP:20261115T110249Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Gesprächskreis für pflegende Angehörige
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ gesprachskreis-fur-pflegende-angehorige
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-finissage-kinderkunstpreis@amtsfeed.de
+DTSTAMP:20261115T110249Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Finissage Kinderkunstpreis
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ finissage-kinderkunstpreis
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-sprachcafe-5@amtsfeed.de
+DTSTAMP:20261115T110249Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Sprachcafé
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ sprachcafe-5
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-mittwochs-die-villa-1@amtsfeed.de
+DTSTAMP:20261115T110249Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Mittwochs in die Villa!
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ mittwochs-die-villa-1
 END:VEVENT
 END:VCALENDAR

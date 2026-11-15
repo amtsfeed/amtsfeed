@@ -1,5 +1,48 @@
 # Updates
 
+## 2026-11-15 11:05
+
+Insgesamt **563 neu**, **187 aktualisiert**, **1 entfernt** in 36 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Altlandsberg | — | ~1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Plessa | — | ~2 | — | — |
+| Amt Scharmützelsee | — | -1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +1 / ~5 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bernau bei Berlin | — | +6 / ~19 | — | — |
+| Brieselang | — | +1 | — | — |
+| Calau | — | ~3 | — | — |
+| Eberswalde | — | +3 | — | — |
+| Eisenhüttenstadt | — | +4 / ~1 | — | — |
+| Falkensee | — | +1 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Groß Kreutz | — | ~17 | — | — |
+| Hennigsdorf | — | +2 | — | — |
+| Herzberg (Elster) | — | +1 | — | — |
+| Hohen Neuendorf | — | +3 / ~1 | — | — |
+| Kloster Lehnin | — | ~1 | — | — |
+| Kremmen | +1 | — | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +4 | — | — |
+| Lauchhammer | — | +1 | — | — |
+| Löwenberger Land | — | +1 | — | — |
+| Lübbenau Spreewald | — | +503 / ~62 | — | — |
+| Mühlenbecker Land | — | +2 | — | — |
+| Oranienburg | — | +5 | — | — |
+| Premnitz | — | +4 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schöneiche bei Berlin | — | +2 | — | — |
+| Senftenberg | — | +5 | — | — |
+| Stahnsdorf | — | +7 / ~2 | — | — |
+| Velten | — | +3 | — | — |
+| Werder (Havel) | — | ~6 | — | — |
+| Wiesenburg-Mark | +1 | — | — | — |
+| Wustermark | — | +2 | — | — |
+
 ## 2026-11-14 10:37
 
 Insgesamt **624 neu**, **191 aktualisiert**, **3 entfernt** in 35 Quellen.

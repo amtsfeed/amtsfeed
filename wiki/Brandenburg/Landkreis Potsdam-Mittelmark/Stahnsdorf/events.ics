@@ -571,7 +571,7 @@ URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:stahnsdorf-event-6aec98c0@amtsfeed.de
+UID:stahnsdorf-event-6ae9fd4a@amtsfeed.de
 DTSTAMP:20261107T102404Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
@@ -580,10 +580,9 @@ URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:stahnsdorf-event-6ae9fd4a@amtsfeed.de
-DTSTAMP:20261107T102404Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
+UID:stahnsdorf-event-6aec98c0@amtsfeed.de
+DTSTAMP:20261115T110509Z
+DTSTART:20261111T170000Z
 SUMMARY:Sankt-Martins-Umzug der Kita "Buddelflink"
 URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
@@ -639,8 +638,40 @@ URL:https://www.ejf.de/kinder-und-jugendhilfe/standorte-kinder-und-jugend
  hilfe/clab-stahnsdorf/aktuelles/herzhelden
 END:VEVENT
 BEGIN:VEVENT
+UID:stahnsdorf-event-6af6f94c@amtsfeed.de
+DTSTAMP:20261115T110509Z
+DTSTART:20261113T170000Z
+SUMMARY:Sankt-Martins-Umzug der Kita "Spatzennest"
+URL:https://stahnsdorf.de/../images/pictures/veranstaltungen/kitas/2026_1
+ 1_13_schenkenhorst_spatzennest_story.png
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6af6fa3d@amtsfeed.de
+DTSTAMP:20261115T110509Z
+DTSTART:20261113T170000Z
+SUMMARY:Sankt-Martins-Umzug der Kita "Spatzennest"
+URL:https://stahnsdorf.de/../images/pictures/veranstaltungen/kitas/2026_1
+ 1_13_schenkenhorst_spatzennest_story.png
+END:VEVENT
+BEGIN:VEVENT
 UID:stahnsdorf-event-6ad7466f@amtsfeed.de
 DTSTAMP:20261029T101041Z
+DTSTART:20261113T190000Z
+SUMMARY:Verleihung der Stahnsdorfer Ehrennadel
+URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
+ gskalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6af6fa38@amtsfeed.de
+DTSTAMP:20261115T110509Z
+DTSTART:20261113T190000Z
+SUMMARY:Verleihung der Stahnsdorfer Ehrennadel
+URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
+ gskalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6af6fa3f@amtsfeed.de
+DTSTAMP:20261115T110509Z
 DTSTART:20261113T190000Z
 SUMMARY:Verleihung der Stahnsdorfer Ehrennadel
 URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
@@ -704,9 +735,9 @@ URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
 END:VEVENT
 BEGIN:VEVENT
 UID:stahnsdorf-event-6ae9fd83@amtsfeed.de
-DTSTAMP:20261107T102404Z
+DTSTAMP:20261115T110509Z
 DTSTART:20261115T090000Z
-SUMMARY:Volkstrauertag
+SUMMARY:Volkstrauertag in Stahnsdorf
 URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
 END:VEVENT
@@ -715,6 +746,30 @@ UID:stahnsdorf-event-6af58952@amtsfeed.de
 DTSTAMP:20261112T112625Z
 DTSTART:20261115T103000Z
 SUMMARY:Volkstrauertag in Güterfelde
+URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
+ gskalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6af6f897@amtsfeed.de
+DTSTAMP:20261115T110509Z
+DTSTART:20261115T103000Z
+SUMMARY:Volkstrauertag in Güterfelde
+URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
+ gskalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6af6f8bf@amtsfeed.de
+DTSTAMP:20261115T110509Z
+DTSTART:20261115T120000Z
+SUMMARY:Volkstrauertag in Schenkenhorst
+URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
+ gskalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:stahnsdorf-event-6af6f8a2@amtsfeed.de
+DTSTAMP:20261115T110509Z
+DTSTART:20261115T120000Z
+SUMMARY:Volkstrauertag in Schenkenhorst
 URL:https://stahnsdorf.de/aktuell-informativ/veranstaltungen/veranstaltun
  gskalender/
 END:VEVENT

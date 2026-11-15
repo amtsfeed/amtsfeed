@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:09:30.187Z",
+  "updatedAt": "2026-11-15T11:02:44.521Z",
   "items": [
     {
       "id": "hennigsdorf-event-820",
@@ -485,6 +485,22 @@
       "startDate": "2026-11-25T00:00:00.000Z",
       "fetchedAt": "2026-11-13T11:09:30.197Z",
       "updatedAt": "2026-11-13T11:09:30.197Z"
+    },
+    {
+      "id": "hennigsdorf-event-861",
+      "title": "Kino im Stadtklubhaus | Ganzer halber Bruder",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Kino-im-Stadtklubhaus-Ganzer-halber-Bruder.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.861.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-11-26T00:00:00.000Z",
+      "fetchedAt": "2026-11-15T11:02:44.528Z",
+      "updatedAt": "2026-11-15T11:02:44.528Z"
+    },
+    {
+      "id": "hennigsdorf-event-771",
+      "title": "Familienspieltag | Tierischer Hüpfburgspass 2026",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Familienspieltag-Tierischer-H%C3%BCpfburgspass-2026.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.771.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-11-15T11:02:44.528Z",
+      "updatedAt": "2026-11-15T11:02:44.528Z"
     }
   ]
 }

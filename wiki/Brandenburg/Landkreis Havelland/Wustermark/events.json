@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:06:52.192Z",
+  "updatedAt": "2026-11-15T11:00:30.505Z",
   "items": [
     {
       "id": "wustermark-event-109",
@@ -845,6 +845,24 @@
       "endDate": "2027-01-06T19:00:00.000Z",
       "fetchedAt": "2026-11-11T11:04:42.613Z",
       "updatedAt": "2026-11-11T11:04:42.613Z"
+    },
+    {
+      "id": "wustermark-event-233",
+      "title": "Stärke deinen Rücken",
+      "url": "https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltungen/St%C3%A4rke-deinen-R%C3%BCcken.php?object=tx,3847.4.1&ModID=11&FID=3847.233.1&NavID=3847.15&sfvort=1&sfort=1&bn=1",
+      "startDate": "2027-01-13T18:00:00.000Z",
+      "endDate": "2027-01-13T19:00:00.000Z",
+      "fetchedAt": "2026-11-15T11:00:30.512Z",
+      "updatedAt": "2026-11-15T11:00:30.512Z"
+    },
+    {
+      "id": "wustermark-event-245",
+      "title": "Sonntagsplausch",
+      "url": "https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltungen/Sonntagsplausch.php?object=tx,3847.4.1&ModID=11&FID=3847.245.1&NavID=3847.15&sfvort=1&sfort=1&bn=1",
+      "startDate": "2027-01-17T15:00:00.000Z",
+      "endDate": "2027-01-17T17:00:00.000Z",
+      "fetchedAt": "2026-11-15T11:00:30.512Z",
+      "updatedAt": "2026-11-15T11:00:30.512Z"
     }
   ]
 }

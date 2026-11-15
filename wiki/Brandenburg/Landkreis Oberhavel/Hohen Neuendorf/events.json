@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T10:34:25.241Z",
+  "updatedAt": "2026-11-15T11:02:49.447Z",
   "items": [
     {
       "id": "hohen-neuendorf-event-digitale-sprechstunde-umgang-mit-dem-smartphone-0",
@@ -474,14 +474,6 @@
       "updatedAt": "2026-10-09T10:42:44.155Z"
     },
     {
-      "id": "hohen-neuendorf-event-gesprachskreis-fur-pflegende-angehorige",
-      "title": "Gesprächskreis für pflegende Angehörige",
-      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/gesprachskreis-fur-pflegende-angehorige",
-      "startDate": "2026-10-12T00:00:00.000Z",
-      "fetchedAt": "2026-09-13T08:28:14.737Z",
-      "updatedAt": "2026-10-09T10:42:44.155Z"
-    },
-    {
       "id": "hohen-neuendorf-event-sprachcafe-0",
       "title": "Sprachcafé",
       "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/sprachcafe-0",
@@ -824,6 +816,38 @@
       "startDate": "2026-11-15T00:00:00.000Z",
       "fetchedAt": "2026-11-14T10:34:25.248Z",
       "updatedAt": "2026-11-14T10:34:25.248Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-gesprachskreis-fur-pflegende-angehorige",
+      "title": "Gesprächskreis für pflegende Angehörige",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/gesprachskreis-fur-pflegende-angehorige",
+      "startDate": "2026-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-09-13T08:28:14.737Z",
+      "updatedAt": "2026-11-15T11:02:49.455Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-finissage-kinderkunstpreis",
+      "title": "Finissage Kinderkunstpreis",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/finissage-kinderkunstpreis",
+      "startDate": "2026-11-17T00:00:00.000Z",
+      "fetchedAt": "2026-11-15T11:02:49.455Z",
+      "updatedAt": "2026-11-15T11:02:49.455Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-sprachcafe-5",
+      "title": "Sprachcafé",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/sprachcafe-5",
+      "startDate": "2026-11-18T00:00:00.000Z",
+      "fetchedAt": "2026-11-15T11:02:49.455Z",
+      "updatedAt": "2026-11-15T11:02:49.455Z"
+    },
+    {
+      "id": "hohen-neuendorf-event-mittwochs-die-villa-1",
+      "title": "Mittwochs in die Villa!",
+      "url": "https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/mittwochs-die-villa-1",
+      "startDate": "2026-11-18T00:00:00.000Z",
+      "fetchedAt": "2026-11-15T11:02:49.455Z",
+      "updatedAt": "2026-11-15T11:02:49.455Z"
     }
   ]
 }

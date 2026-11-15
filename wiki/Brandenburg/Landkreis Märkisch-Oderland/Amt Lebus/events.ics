@@ -1382,29 +1382,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2996281/2026/11/11/martinsum
 LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
-UID:2464910@amtsfeed.de
-DTSTAMP:20261108T103107Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Bäckerwagen in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/11/14/baeckerwa
- gen-in-podelzig
-DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
-  Dorfteich
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2928789@amtsfeed.de
-DTSTAMP:20261101T103519Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:YouthBase - Dein Treff.Deine Zeit.
-URL:https://www.amt-lebus.de/veranstaltungen/2928789/2026/11/14/youthbase
- -dein-treff.deine-zeit
-DESCRIPTION:Offener Jugendtreff Für Teens von 12 - 17 Jahren
-LOCATION:Sportplatz Lebus
-END:VEVENT
-BEGIN:VEVENT
 UID:2976844@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261114
@@ -1554,6 +1531,18 @@ URL:https://www.amt-lebus.de/veranstaltungen/2993098/2026/11/20/ich-lese-
 LOCATION:Speichercafé im Ökospeicher Wulkow
 END:VEVENT
 BEGIN:VEVENT
+UID:2464910@amtsfeed.de
+DTSTAMP:20261115T110151Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Bäckerwagen in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/11/21/baeckerwa
+ gen-in-podelzig
+DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
+  Dorfteich
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2873363@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20261121
@@ -1625,6 +1614,17 @@ URL:https://www.amt-lebus.de/veranstaltungen/3002080/2026/11/27/4.weihnac
  htsmarkt-und-tag-der-offenen-tuer-schule-alt-zeschdorf
 LOCATION:Schule im Grünen Verlässliche Halbtagsgrundschule in Alt Zesch
  dorf
+END:VEVENT
+BEGIN:VEVENT
+UID:2928789@amtsfeed.de
+DTSTAMP:20261115T110151Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:YouthBase - Dein Treff.Deine Zeit.
+URL:https://www.amt-lebus.de/veranstaltungen/2928789/2026/11/28/youthbase
+ -dein-treff.deine-zeit
+DESCRIPTION:Offener Jugendtreff Für Teens von 12 - 17 Jahren
+LOCATION:Sportplatz Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2984934@amtsfeed.de

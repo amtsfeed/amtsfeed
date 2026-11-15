@@ -1452,4 +1452,34 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Tradit
  ioneller-Weihnachtsmarkt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3
  631.975.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1261@amtsfeed.de
+DTSTAMP:20261115T110307Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Familienangebot in der Turnhalle
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Famili
+ enangebot-in-der-Turnhalle-.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FI
+ D=3631.1261.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-976@amtsfeed.de
+DTSTAMP:20261115T110307Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Traditioneller Weihnachtsmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Tradit
+ ioneller-Weihnachtsmarkt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3
+ 631.976.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1035@amtsfeed.de
+DTSTAMP:20261115T110307Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Wochenmarkt
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
+ markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1035.1&amp\;Nav
+ ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
 END:VCALENDAR

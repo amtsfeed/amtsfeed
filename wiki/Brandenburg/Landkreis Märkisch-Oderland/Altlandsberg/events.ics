@@ -522,23 +522,6 @@ DESCRIPTION:Handpan entdecken – Klang erleben – selbst ausprobieren!D
 LOCATION:Katja Baumheier
 END:VEVENT
 BEGIN:VEVENT
-UID:1@amtsfeed.de
-DTSTAMP:20260926T084234Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Workshop: "Stich für Stich" - Kreativ Reparieren von Textilien m
- it...
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/workshop-stich-fuer-stich-kreativ-reparieren-von-textilien-mit-birgit
- -paschke-1/
-DESCRIPTION:Im Workshop „Stich für Stich“ steht das kreative Reparie
- ren von Textilien im Mittelpunkt. Ganz im Sinne der japanischen Mottainai
- -Philosophie\, die dazu ermutigt\, nichts zu verschwenden\, wird gezeigt\
- , wie zerschlissene Kleidung – etwa eine abgetragene Jeans oder ein lie
- bgewonnenes T-Shirt – mit Nadel und Faden...
-LOCATION:Schlossgut Altlandsberg
-END:VEVENT
-BEGIN:VEVENT
 UID:vokalkolleg-berlin-in-der-stadtkirche@amtsfeed.de
 DTSTAMP:20261015T082426Z
 DTSTART;VALUE=DATE:20261114
@@ -583,6 +566,21 @@ DESCRIPTION:Charlie Chaplin gehört zu den unvergesslichen Ikonen der Fil
  konzert Charlie Chaplin Comedies erleben Sie ausgewählte Filme des groß
  en Komikers in einer besonderen Form: mit...
 LOCATION:Schlosskirche Altlandsberg
+END:VEVENT
+BEGIN:VEVENT
+UID:1@amtsfeed.de
+DTSTAMP:20261115T110049Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Internationale Katzenausstellung des Berliner Pro Kat e.V.
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/internationale-katzenausstellung-des-berliner-pro-kat-ev-1/
+DESCRIPTION:Am Wochenende 14. und 15.11.2026 treffen sich in der Erlengru
+ ndhalle die Schönheiten der Katzenwelt. Es werden Industriehändler sowi
+ e der Berliner Katzenschutz e. V. anwesend sein. Besucherinnen und Besuch
+ ern werden Informationen zu den Themen Qualzucht sowie generell zur Pfleg
+ e\, Haltung und Ernährung von Katzen...
+LOCATION:Erlengrundhalle
 END:VEVENT
 BEGIN:VEVENT
 UID:martinsfest-mit-lampionumzug-in-gielsdorf@amtsfeed.de

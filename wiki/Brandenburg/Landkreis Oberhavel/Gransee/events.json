@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:07:32.541Z",
+  "updatedAt": "2026-11-16T11:30:11.727Z",
   "items": [
     {
       "id": "gransee-event-25497",
@@ -5131,14 +5131,14 @@
       "updatedAt": "2026-09-15T08:48:43.607Z"
     },
     {
-      "id": "gransee-event-26327",
-      "title": "Kino im Krug &#8222;Wie im Himmel&#8220; S2004",
-      "url": "https://www.gransee.de/event/kino-im-krug-wie-im-himmel-s2004/",
-      "startDate": "2026-12-12T19:30:00.000Z",
-      "endDate": "2026-12-12T21:30:00.000Z",
-      "location": "Dorfkrug Meseberg, Gransee, OT Meseberg",
-      "fetchedAt": "2026-09-11T09:58:09.295Z",
-      "updatedAt": "2026-09-12T08:05:03.027Z"
+      "id": "gransee-event-26764",
+      "title": "Menzer Weihnachtsmarkt",
+      "url": "https://www.gransee.de/event/menzer-weihnachtsmarkt-2/",
+      "startDate": "2026-12-12T11:00:00.000Z",
+      "endDate": "2026-12-12T18:00:00.000Z",
+      "location": "Friedensplatz Menz",
+      "fetchedAt": "2026-11-16T11:30:05.478Z",
+      "updatedAt": "2026-11-16T11:30:05.478Z"
     },
     {
       "id": "gransee-event-26554",
@@ -5148,6 +5148,16 @@
       "location": "Stechlinsee-Center, Stechlin OT Neuglobsow",
       "fetchedAt": "2026-10-05T10:36:58.986Z",
       "updatedAt": "2026-10-05T10:36:58.986Z"
+    },
+    {
+      "id": "gransee-event-26327",
+      "title": "Kino im Krug &#8222;Wie im Himmel&#8220; S2004",
+      "url": "https://www.gransee.de/event/kino-im-krug-wie-im-himmel-s2004/",
+      "startDate": "2026-12-13T16:00:00.000Z",
+      "endDate": "2026-12-13T18:00:00.000Z",
+      "location": "Dorfkrug Meseberg, Gransee, OT Meseberg",
+      "fetchedAt": "2026-09-11T09:58:09.295Z",
+      "updatedAt": "2026-11-16T11:30:05.478Z"
     },
     {
       "id": "gransee-event-24606",
@@ -5316,6 +5326,24 @@
       "updatedAt": "2026-09-12T08:05:03.027Z"
     },
     {
+      "id": "gransee-event-26762",
+      "title": "Vortrag im Gartensaal des Gutshauses Zernikow",
+      "url": "https://www.gransee.de/event/vortrag-im-gartensaal-des-gutshauses-zernikow/",
+      "startDate": "2027-01-09T17:00:00.000Z",
+      "location": "Gartensaal im Gutshaus, Zernikow",
+      "fetchedAt": "2026-11-16T11:30:05.478Z",
+      "updatedAt": "2026-11-16T11:30:05.478Z"
+    },
+    {
+      "id": "gransee-event-26772",
+      "title": "Bürgersprechstunde Menz",
+      "url": "https://www.gransee.de/event/buergersprechstunde-menz/",
+      "startDate": "2027-01-12T18:00:00.000Z",
+      "location": "Feuerwehrwache Menz, Stechlin OT Menz",
+      "fetchedAt": "2026-11-16T11:30:05.478Z",
+      "updatedAt": "2026-11-16T11:30:05.478Z"
+    },
+    {
       "id": "gransee-event-26755",
       "title": "Weihnachtsbaumverbrennen",
       "url": "https://www.gransee.de/event/weihnachtsbaumverbrennen/",
@@ -5323,6 +5351,15 @@
       "location": "auf dem Feuerwehrplatz am Stechlinsee-Center, Neuglobsow",
       "fetchedAt": "2026-11-11T11:07:29.124Z",
       "updatedAt": "2026-11-11T11:07:29.124Z"
+    },
+    {
+      "id": "gransee-event-26775",
+      "title": "Bürgersprechstunde Menz",
+      "url": "https://www.gransee.de/event/buergersprechstunde-menz-2/",
+      "startDate": "2027-02-09T18:00:00.000Z",
+      "location": "Feuerwehrwache Menz, Stechlin OT Menz",
+      "fetchedAt": "2026-11-16T11:30:05.478Z",
+      "updatedAt": "2026-11-16T11:30:05.478Z"
     },
     {
       "id": "gransee-event-26757",
@@ -5350,6 +5387,26 @@
       "location": "Reitplatz Kraatz, Kraatz",
       "fetchedAt": "2026-09-29T09:58:46.465Z",
       "updatedAt": "2026-09-29T09:58:46.465Z"
+    },
+    {
+      "id": "gransee-event-26767",
+      "title": "Reit- und Springturnier am Wentowsee",
+      "url": "https://www.gransee.de/event/reit-und-springturnier-am-wentowsee-2/",
+      "startDate": "2027-05-29T08:00:00.000Z",
+      "endDate": "2027-05-29T17:00:00.000Z",
+      "location": "im Amt Gransee und Gemeinden, Gransee",
+      "fetchedAt": "2026-11-16T11:30:05.478Z",
+      "updatedAt": "2026-11-16T11:30:05.478Z"
+    },
+    {
+      "id": "gransee-event-26769",
+      "title": "Reit- und Springturnier am Wentowsee",
+      "url": "https://www.gransee.de/event/reit-und-springturnier-am-wentowsee-3/",
+      "startDate": "2027-05-30T08:00:00.000Z",
+      "endDate": "2027-05-30T17:00:00.000Z",
+      "location": "im Amt Gransee und Gemeinden, Gransee",
+      "fetchedAt": "2026-11-16T11:30:05.478Z",
+      "updatedAt": "2026-11-16T11:30:05.478Z"
     },
     {
       "id": "gransee-event-26759",

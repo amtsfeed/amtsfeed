@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T11:04:07.793Z",
+  "updatedAt": "2026-11-16T11:31:10.933Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -1142,9 +1142,18 @@
       "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
       "title": "Veranstaltungen",
       "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-11-15T11:04:07.786Z",
+      "startDate": "2026-11-16T11:31:10.924Z",
       "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-11-15T11:04:07.786Z"
+      "updatedAt": "2026-11-16T11:31:10.924Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-2032-1",
+      "title": "Herzwochen 2026  im Städtischen Krankenhaus Eisenhüttenstadt",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herzwochen-2026-im-St%C3%A4dtischen-Krankenhaus-Eisenh%C3%BCttenstadt.php?ModID=11&amp;FID=2852.2032.1",
+      "startDate": "2026-11-18T00:00:00.000Z",
+      "location": "Städtisches Krankenhaus Eisenhüttenstadt GmbH",
+      "fetchedAt": "2026-11-16T11:31:10.924Z",
+      "updatedAt": "2026-11-16T11:31:10.924Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1882-1",
@@ -1156,31 +1165,37 @@
       "updatedAt": "2026-10-27T09:09:59.795Z"
     },
     {
+      "id": "eisenhuettenstadt-event-2852-2035-1",
+      "title": "Bundesweiter Vorlesetag - Weihnachtliche Geschichten",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Bundesweiter-Vorlesetag-Weihnachtliche-Geschichten.php?ModID=11&amp;FID=2852.2035.1",
+      "startDate": "2026-11-20T00:00:00.000Z",
+      "location": "der Stadtbibliothek!   Am 20. November feiern wir den bundesweiten Vorlesetag  und tauchen gemeinsam mit euch in eine gemütliche, weihnachtliche Welt ein!  Kommt vorbei und lasst euch verzaubern",
+      "fetchedAt": "2026-11-16T11:31:10.924Z",
+      "updatedAt": "2026-11-16T11:31:10.924Z"
+    },
+    {
       "id": "eisenhuettenstadt-event-2852-1962-1",
       "title": "Andreas Schirneck spielt Neil Young",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Andreas-Schirneck-spielt-Neil-Young.php?ModID=11&amp;FID=2852.1962.1",
       "startDate": "2026-11-21T00:00:00.000Z",
-      "location": "Club Marchwitza",
       "fetchedAt": "2026-10-27T09:09:59.795Z",
-      "updatedAt": "2026-11-13T11:10:45.260Z"
+      "updatedAt": "2026-11-16T11:31:10.924Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-2016-1",
       "title": "Vielfalt-Messe 2026",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Vielfalt-Messe-2026.php?ModID=11&amp;FID=2852.2016.1",
       "startDate": "2026-11-21T00:00:00.000Z",
-      "location": "Gesellschaftshaus Schleicher",
       "fetchedAt": "2026-11-07T10:22:45.895Z",
-      "updatedAt": "2026-11-13T11:10:45.260Z"
+      "updatedAt": "2026-11-16T11:31:10.924Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1996-1",
       "title": "Kleine Abendmusik",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Kleine-Abendmusik.php?ModID=11&amp;FID=2852.1996.1",
       "startDate": "2026-11-22T00:00:00.000Z",
-      "location": "Nikolaikirche",
       "fetchedAt": "2026-10-27T09:09:59.795Z",
-      "updatedAt": "2026-11-13T11:10:45.260Z"
+      "updatedAt": "2026-11-16T11:31:10.924Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-2018-1",
@@ -1190,6 +1205,14 @@
       "location": "Kleine Bühne Eisenhüttenstadt",
       "fetchedAt": "2026-11-07T10:22:45.895Z",
       "updatedAt": "2026-11-07T10:22:45.895Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-2033-1",
+      "title": "Weihnachtsbasteln in der Stadtbibliothek",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Weihnachtsbasteln-in-der-Stadtbibliothek.php?ModID=11&amp;FID=2852.2033.1",
+      "startDate": "2026-11-24T00:00:00.000Z",
+      "fetchedAt": "2026-11-16T11:31:10.924Z",
+      "updatedAt": "2026-11-16T11:31:10.924Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1881-1",
@@ -1240,18 +1263,24 @@
       "title": "Andrea Titzki",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Andrea-Titzki.php?ModID=11&amp;FID=2852.1963.1",
       "startDate": "2026-11-28T00:00:00.000Z",
-      "location": "Club Marchwitza",
       "fetchedAt": "2026-11-01T10:38:16.211Z",
-      "updatedAt": "2026-11-13T11:10:45.260Z"
+      "updatedAt": "2026-11-16T11:31:10.924Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-2034-1",
+      "title": "Weihnachtsbasteln in der Stadtbibliothek",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Weihnachtsbasteln-in-der-Stadtbibliothek.php?ModID=11&amp;FID=2852.2034.1",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-11-16T11:31:10.924Z",
+      "updatedAt": "2026-11-16T11:31:10.924Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1998-1",
       "title": "»Andacht zum Advent«",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-Andacht-zum-Advent-.php?ModID=11&amp;FID=2852.1998.1",
       "startDate": "2026-12-02T00:00:00.000Z",
-      "location": "Nikolaikirche",
       "fetchedAt": "2026-11-01T10:38:16.211Z",
-      "updatedAt": "2026-11-13T11:10:45.260Z"
+      "updatedAt": "2026-11-16T11:31:10.924Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1879-1",
@@ -1267,18 +1296,25 @@
       "title": "Kleine Abendmusik",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Kleine-Abendmusik.php?ModID=11&amp;FID=2852.1999.1",
       "startDate": "2026-12-04T00:00:00.000Z",
-      "location": "Nikolaikirche",
       "fetchedAt": "2026-11-02T11:20:21.427Z",
-      "updatedAt": "2026-11-13T11:10:45.260Z"
+      "updatedAt": "2026-11-16T11:31:10.924Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-2038-1",
+      "title": "FINALE! Weihnachtskonzert im Städtischen Museum",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/FINALE-Weihnachtskonzert-im-St%C3%A4dtischen-Museum.php?ModID=11&amp;FID=2852.2038.1",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "location": "einen stimmungsvollen Ort für weihnachtlichen Swing und musikalische Überraschungen. Wenn ein Weihnachtslied federleicht und beschwingt klingt, der Kontrabass sanft vor sich hin spaziert und das Klavier an einen stimmungsvollen Abend im Jazzclub erinnert, dann ist Weihnachten nicht mehr weit.  Zu Gast ist Sophie Grobler mit ihrer ausdrucksstarken Jazzstimme. Begleitet wird sie vom Viadrus Trio",
+      "fetchedAt": "2026-11-16T11:31:10.924Z",
+      "updatedAt": "2026-11-16T11:31:10.924Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1964-1",
       "title": "Slide Riders",
       "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Slide-Riders.php?ModID=11&amp;FID=2852.1964.1",
       "startDate": "2026-12-05T00:00:00.000Z",
-      "location": "Club Marchwitza",
       "fetchedAt": "2026-11-02T11:20:21.427Z",
-      "updatedAt": "2026-11-13T11:10:45.260Z"
+      "updatedAt": "2026-11-16T11:31:10.924Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-2001-1",

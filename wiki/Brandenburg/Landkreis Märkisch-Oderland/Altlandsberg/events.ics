@@ -568,21 +568,6 @@ DESCRIPTION:Charlie Chaplin gehört zu den unvergesslichen Ikonen der Fil
 LOCATION:Schlosskirche Altlandsberg
 END:VEVENT
 BEGIN:VEVENT
-UID:1@amtsfeed.de
-DTSTAMP:20261115T110049Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Internationale Katzenausstellung des Berliner Pro Kat e.V.
-URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
- gen/internationale-katzenausstellung-des-berliner-pro-kat-ev-1/
-DESCRIPTION:Am Wochenende 14. und 15.11.2026 treffen sich in der Erlengru
- ndhalle die Schönheiten der Katzenwelt. Es werden Industriehändler sowi
- e der Berliner Katzenschutz e. V. anwesend sein. Besucherinnen und Besuch
- ern werden Informationen zu den Themen Qualzucht sowie generell zur Pfleg
- e\, Haltung und Ernährung von Katzen...
-LOCATION:Erlengrundhalle
-END:VEVENT
-BEGIN:VEVENT
 UID:martinsfest-mit-lampionumzug-in-gielsdorf@amtsfeed.de
 DTSTAMP:20261031T094407Z
 DTSTART;VALUE=DATE:20261116
@@ -694,6 +679,21 @@ DESCRIPTION:Gemütlicher Weihnachtsmarkt für Groß und Klein mit verschi
  edenen Ständen\, Kindereisenbahn\, Kettenkarussell\, Adventscafé und vi
  eles mehr.
 LOCATION:Bürger- und Kreativhaus Bruchmühle
+END:VEVENT
+BEGIN:VEVENT
+UID:1@amtsfeed.de
+DTSTAMP:20261116T112805Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Handpan Schnupper-Workshop für Anfänger
+URL:https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltun
+ gen/handpan-schnupper-workshop-fuer-anfaenger-1/
+DESCRIPTION:Handpan entdecken – Klang erleben – selbst ausprobieren!D
+ u hast die faszinierenden Klänge der Handpan gehört und möchtest das I
+ nstrument selbst einmal ausprobieren? Dann ist dieser Schnupperworkshop g
+ enau das Richtige für dich!In entspannter Atmosphäre bekommst du die M
+ öglichkeit\, die Handpan ganz unverbindlich...
+LOCATION:Katja Baumheier
 END:VEVENT
 BEGIN:VEVENT
 UID:29@amtsfeed.de

@@ -1516,13 +1516,25 @@ UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
  a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
  ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261115T110407Z
-DTSTART:20261115T110407Z
+DTSTAMP:20261116T113110Z
+DTSTART:20261116T113110Z
 SUMMARY:Veranstaltungen
 URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
  x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
  a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
  ;sfort=0&amp\;k_sub=0&amp\;La=1
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-2032-1@amtsfeed.de
+DTSTAMP:20261116T113110Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Herzwochen 2026  im Städtischen Krankenhaus Eisenhüttenstadt
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Herzwochen-2026-im-St%
+ C3%A4dtischen-Krankenhaus-Eisenh%C3%BCttenstadt.php?ModID=11&amp\;FID=285
+ 2.2032.1
+LOCATION:Städtisches Krankenhaus Eisenhüttenstadt GmbH
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1882-1@amtsfeed.de
@@ -1542,37 +1554,47 @@ LOCATION:Zusammenarbeit mit  Marcel Weisheit 2025 als »Falco - Die Show
  Presse über Alexander Kerbst
 END:VEVENT
 BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-2035-1@amtsfeed.de
+DTSTAMP:20261116T113110Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Bundesweiter Vorlesetag - Weihnachtliche Geschichten
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Bundesweiter-Vorleseta
+ g-Weihnachtliche-Geschichten.php?ModID=11&amp\;FID=2852.2035.1
+LOCATION:der Stadtbibliothek!   Am 20. November feiern wir den bundesweit
+ en Vorlesetag  und tauchen gemeinsam mit euch in eine gemütliche\, weihn
+ achtliche Welt ein!  Kommt vorbei und lasst euch verzaubern
+END:VEVENT
+BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1962-1@amtsfeed.de
-DTSTAMP:20261113T111045Z
+DTSTAMP:20261116T113110Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Andreas Schirneck spielt Neil Young
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Andreas-Schirneck-spie
  lt-Neil-Young.php?ModID=11&amp\;FID=2852.1962.1
-LOCATION:Club Marchwitza
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-2016-1@amtsfeed.de
-DTSTAMP:20261113T111045Z
+DTSTAMP:20261116T113110Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Vielfalt-Messe 2026
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Vielfalt-Messe-2026.ph
  p?ModID=11&amp\;FID=2852.2016.1
-LOCATION:Gesellschaftshaus Schleicher
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1996-1@amtsfeed.de
-DTSTAMP:20261113T111045Z
+DTSTAMP:20261116T113110Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Kleine Abendmusik
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Kleine-Abendmusik.php?
  ModID=11&amp\;FID=2852.1996.1
-LOCATION:Nikolaikirche
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-2018-1@amtsfeed.de
@@ -1584,6 +1606,16 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Buchlesung.php?ModID=1
  1&amp\;FID=2852.2018.1
 LOCATION:Kleine Bühne Eisenhüttenstadt
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-2033-1@amtsfeed.de
+DTSTAMP:20261116T113110Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Weihnachtsbasteln in der Stadtbibliothek
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Weihnachtsbasteln-in-d
+ er-Stadtbibliothek.php?ModID=11&amp\;FID=2852.2033.1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1881-1@amtsfeed.de
@@ -1642,25 +1674,33 @@ LOCATION:Sportanlage Waldstraße
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1963-1@amtsfeed.de
-DTSTAMP:20261113T111045Z
+DTSTAMP:20261116T113110Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Andrea Titzki
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Andrea-Titzki.php?ModI
  D=11&amp\;FID=2852.1963.1
-LOCATION:Club Marchwitza
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-2034-1@amtsfeed.de
+DTSTAMP:20261116T113110Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Weihnachtsbasteln in der Stadtbibliothek
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Weihnachtsbasteln-in-d
+ er-Stadtbibliothek.php?ModID=11&amp\;FID=2852.2034.1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1998-1@amtsfeed.de
-DTSTAMP:20261113T111045Z
+DTSTAMP:20261116T113110Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:»Andacht zum Advent«
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/-Andacht-zum-Advent-.p
  hp?ModID=11&amp\;FID=2852.1998.1
-LOCATION:Nikolaikirche
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1879-1@amtsfeed.de
@@ -1675,25 +1715,39 @@ LOCATION:kleine bühne
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1999-1@amtsfeed.de
-DTSTAMP:20261113T111045Z
+DTSTAMP:20261116T113110Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Kleine Abendmusik
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Kleine-Abendmusik.php?
  ModID=11&amp\;FID=2852.1999.1
-LOCATION:Nikolaikirche
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-2038-1@amtsfeed.de
+DTSTAMP:20261116T113110Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:FINALE! Weihnachtskonzert im Städtischen Museum
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/FINALE-Weihnachtskonze
+ rt-im-St%C3%A4dtischen-Museum.php?ModID=11&amp\;FID=2852.2038.1
+LOCATION:einen stimmungsvollen Ort für weihnachtlichen Swing und musikal
+ ische Überraschungen. Wenn ein Weihnachtslied federleicht und beschwingt
+  klingt\, der Kontrabass sanft vor sich hin spaziert und das Klavier an e
+ inen stimmungsvollen Abend im Jazzclub erinnert\, dann ist Weihnachten ni
+ cht mehr weit.  Zu Gast ist Sophie Grobler mit ihrer ausdrucksstarken Jaz
+ zstimme. Begleitet wird sie vom Viadrus Trio
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1964-1@amtsfeed.de
-DTSTAMP:20261113T111045Z
+DTSTAMP:20261116T113110Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Slide Riders
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Slide-Riders.php?ModID
  =11&amp\;FID=2852.1964.1
-LOCATION:Club Marchwitza
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-2001-1@amtsfeed.de

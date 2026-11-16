@@ -1,5 +1,72 @@
 # Updates
 
+## 2026-11-16 11:32
+
+Insgesamt **599 neu**, **250 aktualisiert**, **1 entfernt** in 60 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Altlandsberg | +1 | ~1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Brück | — | +1 | — | — |
+| Amt Lebus | +1 | +1 | — | — |
+| Amt Niemegk | — | +1 | — | — |
+| Amt Scharmützelsee | — | -1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +5 / ~5 | — | — |
+| Amt Spreenhagen | +1 | — | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bad Belzig | — | +1 | — | — |
+| Bad Freienwalde (Oder) | +1 | — | — | — |
+| Beeskow | — | +1 | — | — |
+| Bernau bei Berlin | +1 | +4 / ~25 | — | — |
+| Birkenwerder | — | +2 | — | — |
+| Calau | — | ~1 | — | — |
+| Doberlug-Kirchhain | — | +1 | — | — |
+| Eberswalde | — | +2 | — | — |
+| Eisenhüttenstadt | +1 | +5 / ~8 | — | — |
+| Elsterwerda | — | +1 | — | — |
+| Erkner | +1 | — | — | — |
+| Falkensee | — | +6 | — | — |
+| Fredersdorf-Vogelsdorf | +1 | +1 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Gransee | — | +6 / ~1 | — | — |
+| Groß Kreutz | — | ~17 | — | — |
+| Großräschen | — | +1 | — | — |
+| Heideblick | +1 | — | — | — |
+| Hennigsdorf | — | +1 | — | — |
+| Hohen Neuendorf | +2 | +1 | — | — |
+| Ketzin Havel | — | +5 | — | — |
+| Kleinmachnow | +1 | +2 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +28 | — | — |
+| Lauchhammer | — | +2 | — | — |
+| Löwenberger Land | — | +1 | — | — |
+| Lübbenau Spreewald | — | +438 / ~123 | — | — |
+| Luckau | +1 | — | — | — |
+| Mühlenbecker Land | — | +3 | — | — |
+| Müncheberg | +1 | — | — | — |
+| Nauen | +1 | — | — | — |
+| Oberkrämer | +2 | +2 | — | — |
+| Oderbruch / Amt Seelow-Land | +1 | — | — | — |
+| Oranienburg | — | +3 | — | +1 |
+| Premnitz | +1 | +4 | — | — |
+| Rathenow | — | +10 | — | — |
+| Rietz-Neuendorf | +1 | — | ~1 | +1 |
+| Röderland | — | +1 | — | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schöneiche bei Berlin | — | +1 | — | — |
+| Schorfheide | — | +1 | — | — |
+| Schulzendorf | +1 | — | — | — |
+| Seddiner See | — | — | +1 | — |
+| Senftenberg | — | +5 | — | — |
+| Strausberg | — | — | +1 | — |
+| Tauche | +1 | — | — | +1 |
+| Teltow | +1 | — | — | — |
+| Treuenbrietzen | +1 | +1 | — | — |
+| Vetschau Spreewald | — | +17 / ~1 | — | — |
+| Werder (Havel) | +1 / ~1 | ~2 | — | — |
+| Woltersdorf | — | +1 | — | — |
+| Wustermark | +1 | +2 | — | — |
+
 ## 2026-11-15 11:05
 
 Insgesamt **563 neu**, **187 aktualisiert**, **1 entfernt** in 36 Quellen.

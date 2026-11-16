@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T11:03:05.323Z",
+  "updatedAt": "2026-11-16T11:30:30.855Z",
   "items": [
     {
       "id": "oranienburg-event-7687",
@@ -1708,6 +1708,31 @@
       "startDate": "2026-11-28T00:00:00.000Z",
       "fetchedAt": "2026-11-15T11:03:05.331Z",
       "updatedAt": "2026-11-15T11:03:05.331Z"
+    },
+    {
+      "id": "oranienburg-event-8048",
+      "title": "Schlagertraum & NDW im Oranienwerk",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Schlagertraum-NDW-im-Oranienwerk.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8048.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "endDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-11-16T11:30:30.864Z",
+      "updatedAt": "2026-11-16T11:30:30.864Z"
+    },
+    {
+      "id": "oranienburg-event-8040",
+      "title": "Digitale Sprechstunde - Auftaktveranstaltung",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Digitale-Sprechstunde-Auftaktveranstaltung.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.8040.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-11-30T00:00:00.000Z",
+      "fetchedAt": "2026-11-16T11:30:30.864Z",
+      "updatedAt": "2026-11-16T11:30:30.864Z"
+    },
+    {
+      "id": "oranienburg-event-7494",
+      "title": "Orgelmusik zur Mittagszeit",
+      "url": "https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalender/Orgelmusik-zur-Mittagszeit.php?object=tx,2967.4&amp;ModID=11&amp;FID=2967.7494.1&amp;NavID=2967.39&amp;sfreg=1&amp;bn=1",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-11-16T11:30:30.864Z",
+      "updatedAt": "2026-11-16T11:30:30.864Z"
     }
   ]
 }

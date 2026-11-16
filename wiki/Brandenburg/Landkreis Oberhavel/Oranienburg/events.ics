@@ -2297,4 +2297,34 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  amp\;ModID=11&amp\;FID=2967.8023.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;b
  n=1
 END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8048@amtsfeed.de
+DTSTAMP:20261116T113030Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Schlagertraum & NDW im Oranienwerk
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Schlagertraum-NDW-im-Oranienwerk.php?object=tx\,2967.4&amp\;ModID=11&
+ amp\;FID=2967.8048.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8040@amtsfeed.de
+DTSTAMP:20261116T113030Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Digitale Sprechstunde - Auftaktveranstaltung
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Digitale-Sprechstunde-Auftaktveranstaltung.php?object=tx\,2967.4&amp\
+ ;ModID=11&amp\;FID=2967.8040.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7494@amtsfeed.de
+DTSTAMP:20261116T113030Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Orgelmusik zur Mittagszeit
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Orgelmusik-zur-Mittagszeit.php?object=tx\,2967.4&amp\;ModID=11&amp\;F
+ ID=2967.7494.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
 END:VCALENDAR

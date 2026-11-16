@@ -763,26 +763,6 @@ URL:https://www.scharmuetzelsee.de/event/aktiv-wochenplan-mikro-trekking-
  tour-wendisch-rietz
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz@amtsf
- eed.de
-DTSTAMP:20260914T090758Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Märchenstunde in der Bibliothek Wendisch Rietz
-URL:https://www.scharmuetzelsee.de/event/maerchenstunde-in-der-bibliothek
- -wendisch-rietz
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-lesekreis-in-der-bibliothek-wendisch-rietz@amtsfeed.d
- e
-DTSTAMP:20260914T090758Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Lesekreis in der Bibliothek Wendisch Rietz
-URL:https://www.scharmuetzelsee.de/event/lesekreis-in-der-bibliothek-wend
- isch-rietz
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-jez-fps-ssp-ein-rundgang-
  durch-die-ortsgeschichte@amtsfeed.de
 DTSTAMP:20261023T084332Z
@@ -1101,16 +1081,6 @@ URL:https://www.scharmuetzelsee.de/event/unruhestand-kabarett-am-nachmitt
  ag-dumm-gelaufen-satire-fuer-politisch-inkorrekte-zeiten
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-syl
- via-musick@amtsfeed.de
-DTSTAMP:20261102T112006Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Ratschen und tratschen - Handarbeitsnachmittage mit Sylvia Musick
-URL:https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbei
- tsnachmittage-mit-sylvia-musick
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ausverkauft-workshop-im-naturpark-das-1-x-1-des-filze
  ns@amtsfeed.de
 DTSTAMP:20261102T112006Z
@@ -1191,14 +1161,6 @@ URL:https://www.scharmuetzelsee.de/event/du-und-dein-garten-im-naturpark-
  ernteglueck-im-winter
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
-DTSTAMP:20261108T103311Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Offener Meditationsabend
-URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-lesung-mit-karin-luedtke-dorothee-koch-und-vera-jaspe
  rs@amtsfeed.de
 DTSTAMP:20261109T114403Z
@@ -1252,15 +1214,6 @@ DTEND;VALUE=DATE:20261115
 SUMMARY:"Saarower Klavierkonzerte" "November a.D."
 URL:https://www.scharmuetzelsee.de/event/saarower-klavierkonzerte-novembe
  r-ad
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261115T110353Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
- ad-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-linienfahrt-nachsaison-sa-so@amtsfeed.de
@@ -1327,6 +1280,25 @@ URL:https://www.scharmuetzelsee.de/event/seniorenkino-im-cinema-bad-saaro
  w
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261116T113101Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-syl
+ via-musick@amtsfeed.de
+DTSTAMP:20261116T113101Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Ratschen und tratschen - Handarbeitsnachmittage mit Sylvia Musick
+URL:https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbei
+ tsnachmittage-mit-sylvia-musick
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
  enkmal-bunkeranlage-fuchsbau@amtsfeed.de
 DTSTAMP:20261115T110353Z
@@ -1336,6 +1308,45 @@ SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
  nkeranlage Fuchsbau“
 URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
  nker-im-technischen-denkmal-bunkeranlage-fuchsbau
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ausgebucht-workshop-winterzauber-aus-der-natur-kraenz
+ e-und-duftkissen@amtsfeed.de
+DTSTAMP:20261116T113101Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:++ ausgebucht ++ Workshop: Winterzauber aus der Natur – Kränze
+  und Duftkissen
+URL:https://www.scharmuetzelsee.de/event/ausgebucht-workshop-winterzauber
+ -aus-der-natur-kraenze-und-duftkissen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
+DTSTAMP:20261116T113101Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Offener Meditationsabend
+URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz@amtsf
+ eed.de
+DTSTAMP:20261116T113101Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Märchenstunde in der Bibliothek Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/maerchenstunde-in-der-bibliothek
+ -wendisch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-lesekreis-in-der-bibliothek-wendisch-rietz@amtsfeed.d
+ e
+DTSTAMP:20261116T113101Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Lesekreis in der Bibliothek Wendisch Rietz
+URL:https://www.scharmuetzelsee.de/event/lesekreis-in-der-bibliothek-wend
+ isch-rietz
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-adventssingen-im-aldo-wendisch-rietz@amtsfeed.de
@@ -1384,6 +1395,16 @@ URL:https://www.scharmuetzelsee.de/event/melodien-unterm-tannenbaum-in-de
  r-alten-schulscheune
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-advents-maerchen-lunch-mit-film-im-freilich-am-see@am
+ tsfeed.de
+DTSTAMP:20261116T113101Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Advents-Märchen-Lunch mit Film im Freilich am See
+URL:https://www.scharmuetzelsee.de/event/advents-maerchen-lunch-mit-film-
+ im-freilich-am-see
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-weihnachtszauber-burg-storkow-weihnachtsmarkt@amtsfee
  d.de
 DTSTAMP:20261028T095007Z
@@ -1416,5 +1437,32 @@ DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Wendisch Rietzer Weihnachten
 URL:https://www.scharmuetzelsee.de/event/wendisch-rietzer-weihnachten
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-storkower-weihnachtssingen@amtsfeed.de
+DTSTAMP:20261116T113101Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Storkower Weihnachtssingen
+URL:https://www.scharmuetzelsee.de/event/storkower-weihnachtssingen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-weihnachtsmarkt-auf-der-seeterrasse-am-hotel-resort-m
+ aerkisches-meer@amtsfeed.de
+DTSTAMP:20261116T113101Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261227
+SUMMARY:Weihnachtsmarkt auf der Seeterrasse am HOTEL-RESORT Märkisches M
+ eer
+URL:https://www.scharmuetzelsee.de/event/weihnachtsmarkt-auf-der-seeterra
+ sse-am-hotel-resort-maerkisches-meer
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-weihnachtsfahrt@amtsfeed.de
+DTSTAMP:20261116T113101Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261227
+SUMMARY:Weihnachtsfahrt
+URL:https://www.scharmuetzelsee.de/event/weihnachtsfahrt
 END:VEVENT
 END:VCALENDAR

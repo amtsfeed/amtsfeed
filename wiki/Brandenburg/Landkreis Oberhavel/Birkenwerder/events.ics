@@ -847,6 +847,17 @@ LOCATION:Evangelisches Gemeindehaus\, Hauptstraße 52\, 16547 Birkenwerde
  r
 END:VEVENT
 BEGIN:VEVENT
+UID:birkenwerder-event-fahnenhissung-am-tag-gegen-gewalt-an-frauen-1@amts
+ feed.de
+DTSTAMP:20261116T112958Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Fahnenhissung am Tag gegen Gewalt an Frauen
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/fahnenhissung-am-tag-gegen-gewalt-an-frauen-1
+LOCATION:Rathaus Birkenwerder
+END:VEVENT
+BEGIN:VEVENT
 UID:birkenwerder-event-miteinander-reden-statt-uebereinander@amtsfeed.de
 DTSTAMP:20261106T110052Z
 DTSTART;VALUE=DATE:20261126
@@ -866,6 +877,17 @@ SUMMARY:Weihnachtsmarkt und Weihnachtsbaumschmücken in Birkenwerder
 URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
  /details/weihnachtsmarkt-und-weihnachtsbaumschmuecken-in-birkenwerder-1
 LOCATION:Rathausinnenhof Birkenwerder
+END:VEVENT
+BEGIN:VEVENT
+UID:birkenwerder-event-vernetzungstreffen-fuer-alleinerziehende-und-ihre-
+ kinder-4@amtsfeed.de
+DTSTAMP:20261116T112958Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Vernetzungstreffen für alleinerziehende und ihre Kinder
+URL:https://www.birkenwerder.de/rathaus/aktuelles/termine/veranstaltungen
+ /details/vernetzungstreffen-fuer-alleinerziehende-und-ihre-kinder-4
+LOCATION:Kulturbahnhof in Hohen Neuendorf\, Schönfließer Str. 48 A
 END:VEVENT
 BEGIN:VEVENT
 UID:birkenwerder-event-sprechstunde-schiedsstelle-88@amtsfeed.de

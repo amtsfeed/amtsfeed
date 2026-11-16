@@ -5174,13 +5174,13 @@ URL:https://www.gransee.de/event/froehliche-donnerstage-2026-bei-kielbloc
 LOCATION:Gransee
 END:VEVENT
 BEGIN:VEVENT
-UID:gransee-event-26327@amtsfeed.de
-DTSTAMP:20260912T080503Z
-DTSTART:20261212T193000Z
-DTEND:20261212T213000Z
-SUMMARY:Kino im Krug &#8222\;Wie im Himmel&#8220\; S2004
-URL:https://www.gransee.de/event/kino-im-krug-wie-im-himmel-s2004/
-LOCATION:Dorfkrug Meseberg\, Gransee\, OT Meseberg
+UID:gransee-event-26764@amtsfeed.de
+DTSTAMP:20261116T113005Z
+DTSTART:20261212T110000Z
+DTEND:20261212T180000Z
+SUMMARY:Menzer Weihnachtsmarkt
+URL:https://www.gransee.de/event/menzer-weihnachtsmarkt-2/
+LOCATION:Friedensplatz Menz
 END:VEVENT
 BEGIN:VEVENT
 UID:gransee-event-26554@amtsfeed.de
@@ -5192,6 +5192,15 @@ URL:https://www.gransee.de/event/die-grosse-weihnacht-bunte-bonbon-show-m
  it-dem-comedian-jochen-falck-im-stechlinsee-center-eine-show-voller-ueber
  raschungen/
 LOCATION:Stechlinsee-Center\, Stechlin OT Neuglobsow
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26327@amtsfeed.de
+DTSTAMP:20261116T113005Z
+DTSTART:20261213T160000Z
+DTEND:20261213T180000Z
+SUMMARY:Kino im Krug &#8222\;Wie im Himmel&#8220\; S2004
+URL:https://www.gransee.de/event/kino-im-krug-wie-im-himmel-s2004/
+LOCATION:Dorfkrug Meseberg\, Gransee\, OT Meseberg
 END:VEVENT
 BEGIN:VEVENT
 UID:gransee-event-24606@amtsfeed.de
@@ -5348,6 +5357,23 @@ URL:https://www.gransee.de/event/silvesterparty-4/
 LOCATION:Stechlinsee-Center\, Stechlin OT Neuglobsow
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26762@amtsfeed.de
+DTSTAMP:20261116T113005Z
+DTSTART:20270109T170000Z
+SUMMARY:Vortrag im Gartensaal des Gutshauses Zernikow
+URL:https://www.gransee.de/event/vortrag-im-gartensaal-des-gutshauses-zer
+ nikow/
+LOCATION:Gartensaal im Gutshaus\, Zernikow
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26772@amtsfeed.de
+DTSTAMP:20261116T113005Z
+DTSTART:20270112T180000Z
+SUMMARY:Bürgersprechstunde Menz
+URL:https://www.gransee.de/event/buergersprechstunde-menz/
+LOCATION:Feuerwehrwache Menz\, Stechlin OT Menz
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-26755@amtsfeed.de
 DTSTAMP:20261111T110729Z
 DTSTART;VALUE=DATE:20270116
@@ -5355,6 +5381,14 @@ DTEND;VALUE=DATE:20270117
 SUMMARY:Weihnachtsbaumverbrennen
 URL:https://www.gransee.de/event/weihnachtsbaumverbrennen/
 LOCATION:auf dem Feuerwehrplatz am Stechlinsee-Center\, Neuglobsow
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26775@amtsfeed.de
+DTSTAMP:20261116T113005Z
+DTSTART:20270209T180000Z
+SUMMARY:Bürgersprechstunde Menz
+URL:https://www.gransee.de/event/buergersprechstunde-menz-2/
+LOCATION:Feuerwehrwache Menz\, Stechlin OT Menz
 END:VEVENT
 BEGIN:VEVENT
 UID:gransee-event-26757@amtsfeed.de
@@ -5381,6 +5415,24 @@ DTEND;VALUE=DATE:20270426
 SUMMARY:Reitturnier
 URL:https://www.gransee.de/event/reitturnier-7/
 LOCATION:Reitplatz Kraatz\, Kraatz
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26767@amtsfeed.de
+DTSTAMP:20261116T113005Z
+DTSTART:20270529T080000Z
+DTEND:20270529T170000Z
+SUMMARY:Reit- und Springturnier am Wentowsee
+URL:https://www.gransee.de/event/reit-und-springturnier-am-wentowsee-2/
+LOCATION:im Amt Gransee und Gemeinden\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26769@amtsfeed.de
+DTSTAMP:20261116T113005Z
+DTSTART:20270530T080000Z
+DTEND:20270530T170000Z
+SUMMARY:Reit- und Springturnier am Wentowsee
+URL:https://www.gransee.de/event/reit-und-springturnier-am-wentowsee-3/
+LOCATION:im Amt Gransee und Gemeinden\, Gransee
 END:VEVENT
 BEGIN:VEVENT
 UID:gransee-event-26759@amtsfeed.de

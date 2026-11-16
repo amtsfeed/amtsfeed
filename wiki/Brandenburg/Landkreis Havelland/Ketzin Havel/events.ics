@@ -2196,6 +2196,15 @@ URL:https://www.ketzin.de/veranstaltungen/2812573/2026/11/29/silber-und-g
  old
 END:VEVENT
 BEGIN:VEVENT
+UID:ketzin-havel-event-3006398-20261129@amtsfeed.de
+DTSTAMP:20261116T112700Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Ketziner Havelklänge Weihnachtskonzert
+URL:https://www.ketzin.de/veranstaltungen/3006398/2026/11/29/ketziner-hav
+ elklaenge-weihnachtskonzert
+END:VEVENT
+BEGIN:VEVENT
 UID:ketzin-havel-event-2842560-20261130@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261130
@@ -4589,5 +4598,40 @@ DTEND;VALUE=DATE:20271113
 SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
 URL:https://www.ketzin.de/veranstaltungen/2658477/2027/11/12/jeden-freita
  g-senioren-sportnachmittag
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2455737-20271116@amtsfeed.de
+DTSTAMP:20261116T112700Z
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271117
+SUMMARY:Für Senioren: Zeit für Englisch
+URL:https://www.ketzin.de/veranstaltungen/2455737/2027/11/16/fuer-seniore
+ n-zeit-fuer-englisch
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2534944-20271116@amtsfeed.de
+DTSTAMP:20261116T112700Z
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271117
+SUMMARY:Sprechstunde mit dem Seniorenrat
+URL:https://www.ketzin.de/veranstaltungen/2534944/2027/11/16/sprechstunde
+ -mit-dem-seniorenrat
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2385301-20271116@amtsfeed.de
+DTSTAMP:20261116T112700Z
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271117
+SUMMARY:Super Suppe
+URL:https://www.ketzin.de/veranstaltungen/2385301/2027/11/16/super-suppe
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2457429-20271116@amtsfeed.de
+DTSTAMP:20261116T112700Z
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271117
+SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
+URL:https://www.ketzin.de/veranstaltungen/2457429/2027/11/16/seniorengymn
+ astik-mit-dem-seniorenverein-falkenrehde-e.v
 END:VEVENT
 END:VCALENDAR

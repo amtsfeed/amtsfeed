@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:09:12.444Z",
+  "updatedAt": "2026-11-17T12:00:33.525Z",
   "items": [
     {
       "id": "strausberg-29061-20260316",
@@ -9978,9 +9978,9 @@
       "title": "Lebendiger Adventskalender",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-11-01/november-2026/#veranstaltungen-29925-2026-11-30",
       "startDate": "2026-11-30T00:00:00.000Z",
-      "location": "Noch offen",
+      "location": "An diversen Orten",
       "fetchedAt": "2026-09-11T09:57:56.523Z",
-      "updatedAt": "2026-09-11T11:11:48.155Z"
+      "updatedAt": "2026-11-17T12:00:33.513Z"
     },
     {
       "id": "strausberg-30002-20261130",
@@ -10046,6 +10046,15 @@
       "updatedAt": "2026-11-06T11:00:45.058Z"
     },
     {
+      "id": "strausberg-30790-20261130",
+      "title": "Lebendiger Adventskalender – „Weihnachtsklang am Lagerfeuer“",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-11-01/november-2026/#veranstaltungen-30790-2026-11-30",
+      "startDate": "2026-11-30T00:00:00.000Z",
+      "location": "Aktivspielplatz (hinter Kaufland) Otto-Grotewohl-Ring 68a 15344 Strausberg",
+      "fetchedAt": "2026-11-17T12:00:33.513Z",
+      "updatedAt": "2026-11-17T12:00:33.513Z"
+    },
+    {
       "id": "strausberg-29884-20261201",
       "title": "Alltags-, Familien- und Sozialberatung",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2026/#veranstaltungen-29884-2026-12-01",
@@ -10098,6 +10107,24 @@
       "location": "Zentrum für Erwachsenenbildung und Medien Volkshochschule Märkisch-Oderland Wriezener Str. 30 15344 Strausberg",
       "fetchedAt": "2026-10-14T08:51:49.685Z",
       "updatedAt": "2026-10-14T08:51:49.685Z"
+    },
+    {
+      "id": "strausberg-30791-20261201",
+      "title": "Lebendiger Adventskalender – „Ein Licht geht durch den Hort“",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2026/#veranstaltungen-30791-2026-12-01",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "location": "Hort Kunterbunt Heinrich-Dorrenbach-Straße 1a 15344 Strausberg",
+      "fetchedAt": "2026-11-17T12:00:33.515Z",
+      "updatedAt": "2026-11-17T12:00:33.515Z"
+    },
+    {
+      "id": "strausberg-30792-20261202",
+      "title": "Lebendiger Adventskalender – „Weihnachts-Wichtel Level 5 – Ho Ho Hört mal zu! Die Weihnachtswichtel. Eine Geschichte. Und ihr.“",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2026/#veranstaltungen-30792-2026-12-02",
+      "startDate": "2026-12-02T00:00:00.000Z",
+      "location": "Buchhandlung Micklich Große Straße 22 15344 Strausberg",
+      "fetchedAt": "2026-11-17T12:00:33.515Z",
+      "updatedAt": "2026-11-17T12:00:33.515Z"
     },
     {
       "id": "strausberg-29578-20261203",
@@ -10181,6 +10208,15 @@
       "updatedAt": "2026-10-28T09:48:41.418Z"
     },
     {
+      "id": "strausberg-30793-20261203",
+      "title": "Lebendiger Adventskalender – „Weihnachtszauber zum Genießen und Mitmachen“",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2026/#veranstaltungen-30793-2026-12-03",
+      "startDate": "2026-12-03T00:00:00.000Z",
+      "location": "Strausberger Brauerei Am Biotop 23 15344 Strausberg",
+      "fetchedAt": "2026-11-17T12:00:33.515Z",
+      "updatedAt": "2026-11-17T12:00:33.515Z"
+    },
+    {
       "id": "strausberg-29926-20261204",
       "title": "11. Regionaler Weihnachtsmarkt in Strausberg: Weihnachten aus der Region – für die Region",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2026/#veranstaltungen-29926-2026-12-04",
@@ -10197,6 +10233,15 @@
       "location": "Zentrum für Erwachsenenbildung und Medien Volkshochschule Märkisch-Oderland Wriezener Str. 30 15344 Strausberg",
       "fetchedAt": "2026-10-13T10:44:43.366Z",
       "updatedAt": "2026-10-13T10:44:43.366Z"
+    },
+    {
+      "id": "strausberg-30794-20261204",
+      "title": "Lebendiger Adventskalender – „Regionaler Weihnachtsmarkt“",
+      "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2026/#veranstaltungen-30794-2026-12-04",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "location": "STIC Garzauer Chaussee 1a 15344 Strausberg",
+      "fetchedAt": "2026-11-17T12:00:33.515Z",
+      "updatedAt": "2026-11-17T12:00:33.515Z"
     },
     {
       "id": "strausberg-28935-20261205",
@@ -10659,12 +10704,12 @@
     },
     {
       "id": "strausberg-30755-20261216",
-      "title": "Lebendiger Adventskalender",
+      "title": "Lebendiger Adventskalender – „Singen, Punsch und Plätzchen“",
       "url": "https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2026/#veranstaltungen-30755-2026-12-16",
       "startDate": "2026-12-16T00:00:00.000Z",
-      "location": "Diakonischen Werk Oderland-Spree e.V. Landhausstraße 8 15344 Strausberg",
+      "location": "Vorstadt-Treff Landhausstraße 8 15344 Strausberg",
       "fetchedAt": "2026-11-12T11:22:54.483Z",
-      "updatedAt": "2026-11-12T11:22:54.483Z"
+      "updatedAt": "2026-11-17T12:00:33.515Z"
     },
     {
       "id": "strausberg-29578-20261217",

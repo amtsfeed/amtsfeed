@@ -1087,15 +1087,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2996753/2026/11/15/ge
  denken-zum-volkstrauertag
 END:VEVENT
 BEGIN:VEVENT
-UID:2952576@amtsfeed.de
-DTSTAMP:20261110T111744Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Nähen\, Stricken \, Häkeln
-URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/11/16/na
- ehen-stricken--haekeln
-END:VEVENT
-BEGIN:VEVENT
 UID:2996788@amtsfeed.de
 DTSTAMP:20261104T110009Z
 DTSTART;VALUE=DATE:20261118
@@ -1139,6 +1130,15 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:Gottesdienst zum Ewigkeitssonntag
 URL:https://www.amt-schradenland.de/veranstaltungen/2953425/2026/11/22/go
  ttesdienst-zum-ewigkeitssonntag
+END:VEVENT
+BEGIN:VEVENT
+UID:2952576@amtsfeed.de
+DTSTAMP:20261117T115712Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Nähen\, Stricken \, Häkeln
+URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/11/23/na
+ ehen-stricken--haekeln
 END:VEVENT
 BEGIN:VEVENT
 UID:2835515@amtsfeed.de

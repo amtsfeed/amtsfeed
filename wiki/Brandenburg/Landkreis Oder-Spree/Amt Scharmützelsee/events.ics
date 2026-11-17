@@ -7,16 +7,6 @@ X-WR-CALNAME:Amt Scharmützelsee
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Scharmützelsee
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2847500-2026-11-16-kleinkunst-in-der-theaterlounge-im-november@amtsfe
- ed.de
-DTSTAMP:20261028T095010Z
-DTSTART:20261116T190000Z
-SUMMARY:KLEINKUNST IN DER THEATERLOUNGE im November
-URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2847500/2026/11/16
- /kleinkunst-in-der-theaterlounge-im-november
-LOCATION:Theater am See - Lounge · Seestraße 22 · 15526 Bad Saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:2983421-2026-11-20-bundesweiter-vorlesetag-in-der-bibo-bad-saarow@amt
  sfeed.de
 DTSTAMP:20261028T095010Z
@@ -195,6 +185,16 @@ SUMMARY:ANNA MATEUR & FEINDE &ndash\; Ich fang erst an wenns groovt
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2877166/2026/12/10
  /anna-mateur-feinde--ich-fang-erst-an-wenns-groovt
 LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:3007487-2026-12-12-klaenge-zur-weihnacht@amtsfeed.de
+DTSTAMP:20261117T120144Z
+DTSTART:20261212T190000Z
+SUMMARY:Klänge zur Weihnacht
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/3007487/2026/12/12
+ /klaenge-zur-weihnacht
+LOCATION:Hotel Esplanade Resort & Spa · Berliner Saal · Seestraße 49 
+ · 15526 Bad Saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:2877168-2026-12-13-weihnachtsgeschichte-nach-charles-dickens@amtsfeed

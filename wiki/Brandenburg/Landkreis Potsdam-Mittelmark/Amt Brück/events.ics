@@ -646,6 +646,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/3001194/2026/11/29/adventss
  ingen-der-feuerwehr-borkwalde
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-3007500@amtsfeed.de
+DTSTAMP:20261117T120219Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:1. Advent auf der Zickenwiese
+URL:https://www.amt-brueck.de/veranstaltungen/3007500/2026/11/29/1.-adven
+ t-auf-der-zickenwiese
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2852209@amtsfeed.de
 DTSTAMP:20261028T095057Z
 DTSTART;VALUE=DATE:20261205
@@ -691,6 +700,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/3002177/2026/12/05/der-weih
  nachtsmann-kommt-nach-borkheide
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-3007508@amtsfeed.de
+DTSTAMP:20261117T120219Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Adventsfeuer Golzow
+URL:https://www.amt-brueck.de/veranstaltungen/3007508/2026/12/05/adventsf
+ euer-golzow
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2819566@amtsfeed.de
 DTSTAMP:20261028T095057Z
 DTSTART;VALUE=DATE:20261206
@@ -716,6 +734,15 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:Weihnachtssingen Cammer
 URL:https://www.amt-brueck.de/veranstaltungen/2819568/2026/12/12/weihnach
  tssingen-cammer
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-2948800@amtsfeed.de
+DTSTAMP:20261117T120219Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Weihnachtsmarkt Waldbad Borkheide
+URL:https://www.amt-brueck.de/veranstaltungen/2948800/2026/12/12/weihnach
+ tsmarkt-waldbad-borkheide
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2819570@amtsfeed.de
@@ -752,6 +779,15 @@ DTEND;VALUE=DATE:20261216
 SUMMARY:Mobile Augenuntersuchung in Brück
 URL:https://www.amt-brueck.de/veranstaltungen/3000938/2026/12/15/mobile-a
  ugenuntersuchung-in-brueck
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-3007477@amtsfeed.de
+DTSTAMP:20261117T120219Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Tag der offenen Tür
+URL:https://www.amt-brueck.de/veranstaltungen/3007477/2027/01/16/tag-der-
+ offenen-tuer
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2999284@amtsfeed.de

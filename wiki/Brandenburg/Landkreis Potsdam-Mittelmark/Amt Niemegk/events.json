@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:31:40.893Z",
+  "updatedAt": "2026-11-17T12:02:27.408Z",
   "items": [
     {
       "id": "amt-niemegk-event-2026-05-07-2026-05-07",
@@ -746,6 +746,26 @@
       "location": "Familienzentrum Niemegk",
       "fetchedAt": "2026-11-16T11:31:35.044Z",
       "updatedAt": "2026-11-16T11:31:40.888Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-24-2026-11-24",
+      "title": "Eltern- Kind- Turnen mit Daniela",
+      "url": "https://amt-niemegk.de/events/eltern-kind-turnen-mit-daniela-563-202-372-874-338-364-354-319-353-215/?occurrence=2026-11-24&#038;time=1795534200",
+      "startDate": "2026-11-24T15:30:00.000Z",
+      "endDate": "2026-11-24T16:30:00.000Z",
+      "location": "Turnhalle Niemegk",
+      "fetchedAt": "2026-11-17T12:02:21.959Z",
+      "updatedAt": "2026-11-17T12:02:27.402Z"
+    },
+    {
+      "id": "amt-niemegk-event-2026-11-25-2026-11-25",
+      "title": "Willkommen- Baby- Frühstück",
+      "url": "https://amt-niemegk.de/events/willkommen-baby-fruehstueck-3-911-925-786-401-808-698-320-746-273/?occurrence=2026-11-25&#038;time=1795599000",
+      "startDate": "2026-11-25T09:30:00.000Z",
+      "endDate": "2026-11-25T11:00:00.000Z",
+      "location": "Familienzentrum Niemegk",
+      "fetchedAt": "2026-11-17T12:02:21.959Z",
+      "updatedAt": "2026-11-17T12:02:27.402Z"
     }
   ]
 }

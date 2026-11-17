@@ -1814,15 +1814,6 @@ URL:https://www.teltow.de/veranstaltungen/2998327/2026/11/15/drei-baeume-
  fuer-die-deutsche-einheit
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930009@amtsfeed.de
-DTSTAMP:20261110T112425Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
-URL:https://www.teltow.de/veranstaltungen/2930009/2026/11/16/offener-lern
- raum-digitales-lernen-und-arbeiten-am-computer
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2972236@amtsfeed.de
 DTSTAMP:20261028T095147Z
 DTSTART;VALUE=DATE:20261116
@@ -1944,6 +1935,15 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
 URL:https://www.teltow.de/veranstaltungen/2972983/2026/11/22/das-heimatmu
  seum-im-aeltesten-haus-teltows-ist-geoeffnet
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930009@amtsfeed.de
+DTSTAMP:20261117T120303Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
+URL:https://www.teltow.de/veranstaltungen/2930009/2026/11/23/offener-lern
+ raum-digitales-lernen-und-arbeiten-am-computer
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972248@amtsfeed.de

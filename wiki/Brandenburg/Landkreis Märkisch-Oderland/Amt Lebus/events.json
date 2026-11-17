@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:29:19.052Z",
+  "updatedAt": "2026-11-17T12:00:01.283Z",
   "items": [
     {
       "id": "2846347",
@@ -1199,36 +1199,6 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
-      "id": "2402834",
-      "title": "Kreativgruppe in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/16/kreativgruppe-in-podelzig",
-      "startDate": "2026-11-16T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "in Gemeindezentrum",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-10T11:21:26.772Z"
-    },
-    {
-      "id": "2464902",
-      "title": "Tischtennis",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/16/tischtennis",
-      "startDate": "2026-11-16T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-10T11:21:26.772Z"
-    },
-    {
-      "id": "2464900",
-      "title": "Dart für Jedermann",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/16/dart-fuer-jedermann",
-      "startDate": "2026-11-16T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Sportlerheim Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-10T11:21:26.772Z"
-    },
-    {
       "id": "2464901",
       "title": "Selbstverteidigung für Frauen",
       "url": "https://www.amt-lebus.de/veranstaltungen/2464901/2026/11/17/selbstverteidigung-fuer-frauen",
@@ -1368,6 +1338,36 @@
       "description": "Bezaubernde Windlichter, Lichterbäumchen, Schneemänner und noch viel Schönes mehr... Genießen Sie die Vorweihnachtszeit in unserer gemütlichen Töpferwerkstatt, am 21./22.11. 26 sowie an allen darauffolgenden Adventwochenenden, immer von 11-17.00 ...",
       "fetchedAt": "2026-11-16T11:29:19.036Z",
       "updatedAt": "2026-11-16T11:29:19.036Z"
+    },
+    {
+      "id": "2402834",
+      "title": "Kreativgruppe in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/23/kreativgruppe-in-podelzig",
+      "startDate": "2026-11-23T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "in Gemeindezentrum",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-17T12:00:01.272Z"
+    },
+    {
+      "id": "2464902",
+      "title": "Tischtennis",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/23/tischtennis",
+      "startDate": "2026-11-23T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-17T12:00:01.272Z"
+    },
+    {
+      "id": "2464900",
+      "title": "Dart für Jedermann",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/23/dart-fuer-jedermann",
+      "startDate": "2026-11-23T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Sportlerheim Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-17T12:00:01.272Z"
     },
     {
       "id": "2984489",
@@ -1520,6 +1520,15 @@
       "description": "Veranstaltungsort:  in der Manufaktur",
       "fetchedAt": "2026-11-03T10:59:45.483Z",
       "updatedAt": "2026-11-03T10:59:45.483Z"
+    },
+    {
+      "id": "3006850",
+      "title": "Weihnachzsmarkt der Burg Schle Lebus",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3006850/2026/12/09/weihnachzsmarkt-der-burg-schle-lebus",
+      "startDate": "2026-12-09T00:00:00.000Z",
+      "location": "Burgschule Verlässliche Halbtagsgrundschule Lebus",
+      "fetchedAt": "2026-11-17T12:00:01.272Z",
+      "updatedAt": "2026-11-17T12:00:01.272Z"
     },
     {
       "id": "2957512",

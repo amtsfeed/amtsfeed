@@ -5357,6 +5357,15 @@ URL:https://www.gransee.de/event/silvesterparty-4/
 LOCATION:Stechlinsee-Center\, Stechlin OT Neuglobsow
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26781@amtsfeed.de
+DTSTAMP:20261117T120043Z
+DTSTART:20270104T154500Z
+DTEND:20270104T164500Z
+SUMMARY:Step-Aerobic
+URL:https://www.gransee.de/event/step-aerobic-5/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-26762@amtsfeed.de
 DTSTAMP:20261116T113005Z
 DTSTART:20270109T170000Z
@@ -5400,6 +5409,15 @@ URL:https://www.gransee.de/event/jahreshauptversammlung-foerderverein-der
 LOCATION:Stechlinsee-Center\, Stechlin OT Neuglobsow
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26792@amtsfeed.de
+DTSTAMP:20261117T120043Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Gemeindevertreter Sitzung Stechlin
+URL:https://www.gransee.de/event/gemeindevertreter-sitzung-stechlin/
+LOCATION:Stechlin
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-26544@amtsfeed.de
 DTSTAMP:20260929T095846Z
 DTSTART:20270424T190000Z
@@ -5435,6 +5453,15 @@ URL:https://www.gransee.de/event/reit-und-springturnier-am-wentowsee-3/
 LOCATION:im Amt Gransee und Gemeinden\, Gransee
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26794@amtsfeed.de
+DTSTAMP:20261117T120043Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Gemeindevertreter Sitzung Stechlin
+URL:https://www.gransee.de/event/gemeindevertreter-sitzung-stechlin-2/
+LOCATION:Stechlin
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-26759@amtsfeed.de
 DTSTAMP:20261111T110729Z
 DTSTART;VALUE=DATE:20270904
@@ -5442,5 +5469,23 @@ DTEND;VALUE=DATE:20270905
 SUMMARY:Blutspendetag
 URL:https://www.gransee.de/event/blutspendetag/
 LOCATION:Stechlinsee-Center\, Stechlin OT Neuglobsow
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26796@amtsfeed.de
+DTSTAMP:20261117T120043Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Gemeindevertreter Sitzung Stechlin
+URL:https://www.gransee.de/event/gemeindevertreter-sitzung-stechlin-3/
+LOCATION:Stechlin
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26798@amtsfeed.de
+DTSTAMP:20261117T120043Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:Gemeindevertreter Sitzung Stechlin
+URL:https://www.gransee.de/event/gemeindevertreter-sitzung-stechlin-4/
+LOCATION:Stechlin
 END:VEVENT
 END:VCALENDAR

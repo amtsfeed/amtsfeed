@@ -438,24 +438,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2968944/2026/11/13/konzert
  -lichterklang
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124462@amtsfeed.de
-DTSTAMP:20261110T112242Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/11/16/treffpu
- nkt-buergertheater
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2124466@amtsfeed.de
-DTSTAMP:20261110T112242Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/16/treffpu
- nkt-buergertheater
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2962554@amtsfeed.de
 DTSTAMP:20261028T094944Z
 DTSTART;VALUE=DATE:20261116
@@ -463,6 +445,15 @@ DTEND;VALUE=DATE:20261117
 SUMMARY:Elternsprechtag
 URL:https://www.lauchhammer.de/veranstaltungen/2962554/2026/11/16/elterns
  prechtag
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-3006948@amtsfeed.de
+DTSTAMP:20261117T120125Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Noch letzte Silvesterkarten zum Silvestertanz
+URL:https://www.lauchhammer.de/veranstaltungen/3006948/2026/11/16/noch-le
+ tzte-silvesterkarten-zum-silvestertanz
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2124475@amtsfeed.de
@@ -537,6 +528,24 @@ DTEND;VALUE=DATE:20261120
 SUMMARY:sanftes Abstillen
 URL:https://www.lauchhammer.de/veranstaltungen/2984578/2026/11/19/sanftes
  -abstillen
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124462@amtsfeed.de
+DTSTAMP:20261117T120125Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/11/23/treffpu
+ nkt-buergertheater
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124466@amtsfeed.de
+DTSTAMP:20261117T120125Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/23/treffpu
+ nkt-buergertheater
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2873282@amtsfeed.de
@@ -640,6 +649,15 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:4. Dolsthaidaer Glühweinfest
 URL:https://www.lauchhammer.de/veranstaltungen/2983674/2026/12/05/4.-dols
  thaidaer-gluehweinfest
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-3006946@amtsfeed.de
+DTSTAMP:20261117T120125Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Zauberhafte Weihnacht mit den Spielbergs
+URL:https://www.lauchhammer.de/veranstaltungen/3006946/2026/12/09/zauberh
+ afte-weihnacht-mit-den-spielbergs
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2873286@amtsfeed.de

@@ -538,6 +538,15 @@ URL:https://www.rhinow.de/veranstaltungen/2862163/2026/12/19/chorkonzert-
  in-hohennauen
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-rhinow-event-3006989-20261219@amtsfeed.de
+DTSTAMP:20261117T115733Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:2. Stöllner Weihnachtszauber
+URL:https://www.rhinow.de/veranstaltungen/3006989/2026/12/19/2.-stoellner
+ -weihnachtszauber
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-rhinow-event-2862178-20261224@amtsfeed.de
 DTSTAMP:20261028T094447Z
 DTSTART;VALUE=DATE:20261224

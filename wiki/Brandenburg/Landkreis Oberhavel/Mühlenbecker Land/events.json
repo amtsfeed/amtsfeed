@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:30:26.359Z",
+  "updatedAt": "2026-11-17T12:01:07.285Z",
   "items": [
     {
       "id": "muehlenbecker-land-event-58800972",
@@ -4567,6 +4567,15 @@
       "updatedAt": "2026-11-10T11:22:18.709Z"
     },
     {
+      "id": "muehlenbecker-land-event-59060446",
+      "title": "Schildower Adventsmarkt",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59060446",
+      "startDate": "2026-11-28T13:00:00.000Z",
+      "location": "Marktplatz",
+      "fetchedAt": "2026-11-17T12:01:06.554Z",
+      "updatedAt": "2026-11-17T12:01:06.554Z"
+    },
+    {
       "id": "muehlenbecker-land-event-58809572",
       "title": "Bürgerverein: Boule am Teich",
       "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58809572",
@@ -4781,6 +4790,42 @@
       "location": "Mehrzweckraum, Dorfstraße 35a, OT Zühlsdorf",
       "fetchedAt": "2026-11-16T11:30:26.358Z",
       "updatedAt": "2026-11-16T11:30:26.358Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59059745",
+      "title": "Gemeinsames Adventsbasteln in Zühlsdorf",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59059745",
+      "startDate": "2026-12-04T15:00:00.000Z",
+      "location": "Mehrzweckraum, Dorfstr. 35a, Zühlsdorf",
+      "fetchedAt": "2026-11-17T12:01:07.285Z",
+      "updatedAt": "2026-11-17T12:01:07.285Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59059747",
+      "title": "Gemeinsames Adventsbasteln in Zühlsdorf",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59059747",
+      "startDate": "2026-12-04T15:00:00.000Z",
+      "location": "Mehrzweckraum, Dorfstr. 35a, Zühlsdorf",
+      "fetchedAt": "2026-11-17T12:01:07.285Z",
+      "updatedAt": "2026-11-17T12:01:07.285Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-58991726",
+      "title": "Nähtreff des Vereins Historische Mönchmühle",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=58991726",
+      "startDate": "2026-12-04T16:00:00.000Z",
+      "location": "Historische Mönchmühle, Mönchmühlenallee 3, 16567 Mühlenbeck",
+      "fetchedAt": "2026-11-17T12:01:07.285Z",
+      "updatedAt": "2026-11-17T12:01:07.285Z"
+    },
+    {
+      "id": "muehlenbecker-land-event-59059827",
+      "title": "Ausstellungseröffnung: InfraRot Fotografien von Uta Schott und Wolfgang Hahn",
+      "url": "https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal.php?id=59059827",
+      "startDate": "2026-12-04T16:00:00.000Z",
+      "location": "Glashaus Zühlsdorf, Dorfstraße 34 b, OT Zühlsdorf",
+      "fetchedAt": "2026-11-17T12:01:07.285Z",
+      "updatedAt": "2026-11-17T12:01:07.285Z"
     }
   ]
 }

@@ -2011,6 +2011,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Pension TIVOLI\, Saal Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1826-20261128@amtsfeed.de
+DTSTAMP:20261117T115812Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Rathenow - reden wir miteinander!
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/rathenow-reden-wir-miteinander/
+LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1753-20261129@amtsfeed.de
 DTSTAMP:20260928T095320Z
 DTSTART;VALUE=DATE:20261129
@@ -2063,6 +2073,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/agil-aktiv-ins-alter-maennerfru
  ehstueck-jetzt-anmelden/
 LOCATION:Berliner Straße 83 in Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1828-20261130@amtsfeed.de
+DTSTAMP:20261117T115812Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:PHRONESIS Diskurswerkstatt: Nation of Strangers. Unsere Heimat si
+ nd wir.
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/phronesis-diskurswerkstatt-nati
+ on-of-strangers-unsere-heimat-sind-wir/
+LOCATION:Stadtbibliothek Rathenow Schleusenplatz 4
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1807-20261201@amtsfeed.de
@@ -2149,6 +2171,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/adventsnachmittage-im-theatersa
  al-der-hase-und-der-igel/
 LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1827-20261213@amtsfeed.de
+DTSTAMP:20261117T115812Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Tierweihnacht im Tierheim Rathenow
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/tierweihnacht-im-tierheim-rathe
+ now/
+LOCATION:Tierheim Rathenow Bammer Landstraße
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-199-20261217@amtsfeed.de

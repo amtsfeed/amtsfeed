@@ -1724,4 +1724,11 @@ DTSTART:20261122T093000Z
 SUMMARY:Radkreis Frauentouren
 URL:https://www.eberswalde.de/termine/radkreis-frauentouren-5
 END:VEVENT
+BEGIN:VEVENT
+UID:totensonntag-gemeinsam-erinnern@amtsfeed.de
+DTSTAMP:20261117T115556Z
+DTSTART:20261122T110000Z
+SUMMARY:Totensonntag - Gemeinsam Erinnern
+URL:https://www.eberswalde.de/termine/totensonntag-gemeinsam-erinnern
+END:VEVENT
 END:VCALENDAR

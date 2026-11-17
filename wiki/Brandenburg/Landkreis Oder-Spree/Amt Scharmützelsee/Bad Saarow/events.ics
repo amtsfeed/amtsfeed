@@ -792,16 +792,6 @@ URL:https://www.scharmuetzelsee.de/event/workshop-im-naturpark-filzen-fue
  r-fortgeschrittene
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
- feed.de
-DTSTAMP:20261023T084332Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Stadtführung durch Storkow mit dem grünen Lutz
-URL:https://www.scharmuetzelsee.de/event/stadtfuehrung-durch-storkow-mit-
- dem-gruenen-lutz
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-wendisch-rietz-aus-dem-leben-einer-650ja
  ehrigen-ein-rundgang-durch-die-ortsgeschichte@amtsfeed.de
 DTSTAMP:20261023T084332Z
@@ -1347,6 +1337,24 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Lesekreis in der Bibliothek Wendisch Rietz
 URL:https://www.scharmuetzelsee.de/event/lesekreis-in-der-bibliothek-wend
  isch-rietz
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-timo-wopp-ja-sorry@amtsfeed.de
+DTSTAMP:20261117T120142Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Timo Wopp - JA SORRY!
+URL:https://www.scharmuetzelsee.de/event/timo-wopp-ja-sorry
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
+ feed.de
+DTSTAMP:20261117T120142Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Stadtführung durch Storkow mit dem grünen Lutz
+URL:https://www.scharmuetzelsee.de/event/stadtfuehrung-durch-storkow-mit-
+ dem-gruenen-lutz
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-adventssingen-im-aldo-wendisch-rietz@amtsfeed.de

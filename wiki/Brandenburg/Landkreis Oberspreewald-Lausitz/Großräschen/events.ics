@@ -890,15 +890,6 @@ URL:https://www.grossraeschen.de/veranstaltungen/2957439/2026/11/15/gotte
  sdienst-der-st.-magdalena-kirche
 END:VEVENT
 BEGIN:VEVENT
-UID:grossraeschen-event-2811973@amtsfeed.de
-DTSTAMP:20261028T094942Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Demokratiecaf&eacute\;
-URL:https://www.grossraeschen.de/veranstaltungen/2811973/2026/11/16/demok
- ratiecafé
-END:VEVENT
-BEGIN:VEVENT
 UID:grossraeschen-event-2885564@amtsfeed.de
 DTSTAMP:20261028T094942Z
 DTSTART;VALUE=DATE:20261118
@@ -990,6 +981,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2957440/2026/11/22/gotte
  sdienst-in-allmosen
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-3007440@amtsfeed.de
+DTSTAMP:20261117T120123Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:gesund und vital
+URL:https://www.grossraeschen.de/veranstaltungen/3007440/2026/11/23/gesun
+ d-und-vital
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2953693@amtsfeed.de
 DTSTAMP:20261028T094942Z
 DTSTART;VALUE=DATE:20261124
@@ -1015,6 +1015,15 @@ DTEND;VALUE=DATE:20261127
 SUMMARY:Alleinerziehend mit Ehemann
 URL:https://www.grossraeschen.de/veranstaltungen/2981032/2026/11/26/allei
  nerziehend-mit-ehemann
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-3007439@amtsfeed.de
+DTSTAMP:20261117T120123Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Adventsgestaltung
+URL:https://www.grossraeschen.de/veranstaltungen/3007439/2026/11/26/adven
+ tsgestaltung
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2987671@amtsfeed.de
@@ -1060,6 +1069,15 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Starke Weiber dürfen mehr!
 URL:https://www.grossraeschen.de/veranstaltungen/2981033/2026/11/28/stark
  e-weiber-duerfen-mehr
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-3007441@amtsfeed.de
+DTSTAMP:20261117T120123Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:gesund und vital
+URL:https://www.grossraeschen.de/veranstaltungen/3007441/2026/11/30/gesun
+ d-und-vital
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2791032@amtsfeed.de
@@ -1276,6 +1294,15 @@ DTEND;VALUE=DATE:20261221
 SUMMARY:Irish Christmas
 URL:https://www.grossraeschen.de/veranstaltungen/2981045/2026/12/20/irish
  -christmas
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2811973@amtsfeed.de
+DTSTAMP:20261117T120123Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Demokratiecaf&eacute\;
+URL:https://www.grossraeschen.de/veranstaltungen/2811973/2026/12/21/demok
+ ratiecafé
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2799783@amtsfeed.de

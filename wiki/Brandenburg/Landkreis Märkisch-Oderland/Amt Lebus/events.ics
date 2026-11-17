@@ -1414,39 +1414,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2991293/2026/11/14/18.-zesch
 LOCATION:Kulturhaus Alt Zeschdorf
 END:VEVENT
 BEGIN:VEVENT
-UID:2402834@amtsfeed.de
-DTSTAMP:20261110T112126Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Kreativgruppe in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/16/kreativgr
- uppe-in-podelzig
-DESCRIPTION:in Gemeindezentrum
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464902@amtsfeed.de
-DTSTAMP:20261110T112126Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/16/tischtenn
- is
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464900@amtsfeed.de
-DTSTAMP:20261110T112126Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Dart für Jedermann
-URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/16/dart-fuer
- -jedermann
-DESCRIPTION:Sportlerheim Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464901@amtsfeed.de
 DTSTAMP:20261111T110638Z
 DTSTART;VALUE=DATE:20261117
@@ -1605,6 +1572,39 @@ DESCRIPTION:Bezaubernde Windlichter\, Lichterbäumchen\, Schneemänner un
  er gemütlichen Töpferwerkstatt\, am 21./22.11. 26 sowie an allen darauf
  folgenden Adventwochenenden\, immer von 11-17.00 ...
 LOCATION:Wiesenkeramik - Reitwein
+END:VEVENT
+BEGIN:VEVENT
+UID:2402834@amtsfeed.de
+DTSTAMP:20261117T120001Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Kreativgruppe in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/23/kreativgr
+ uppe-in-podelzig
+DESCRIPTION:in Gemeindezentrum
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464902@amtsfeed.de
+DTSTAMP:20261117T120001Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/23/tischtenn
+ is
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464900@amtsfeed.de
+DTSTAMP:20261117T120001Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Dart für Jedermann
+URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/23/dart-fuer
+ -jedermann
+DESCRIPTION:Sportlerheim Podelzig
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2984489@amtsfeed.de
@@ -1780,6 +1780,16 @@ URL:https://www.amt-lebus.de/veranstaltungen/2996322/2026/12/09/senorenwe
  ihnachtsfeier-in-mallnow
 DESCRIPTION:Veranstaltungsort:  in der Manufaktur
 LOCATION:Mallnow
+END:VEVENT
+BEGIN:VEVENT
+UID:3006850@amtsfeed.de
+DTSTAMP:20261117T120001Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Weihnachzsmarkt der Burg Schle Lebus
+URL:https://www.amt-lebus.de/veranstaltungen/3006850/2026/12/09/weihnachz
+ smarkt-der-burg-schle-lebus
+LOCATION:Burgschule Verlässliche Halbtagsgrundschule Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2957512@amtsfeed.de

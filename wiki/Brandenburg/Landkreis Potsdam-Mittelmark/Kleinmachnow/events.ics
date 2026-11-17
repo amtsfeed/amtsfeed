@@ -1635,17 +1635,6 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  fort=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
-UID:kleinmachnow-event-1949@amtsfeed.de
-DTSTAMP:20261114T103621Z
-DTSTART:20261127T200000Z
-SUMMARY:Dixie Brothers | Swinging Christmas | verlegt auf den Adventsmark
- t am 29.11.26
-URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
- Dixie-Brothers-Swinging-Christmas-verlegt-auf-den-Adventsmarkt-am-29-11-2
- 6-.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.1949.1&amp\;NavID=
- 3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
-END:VEVENT
-BEGIN:VEVENT
 UID:kleinmachnow-event-2456@amtsfeed.de
 DTSTAMP:20261114T103621Z
 DTSTART:20261127T200000Z
@@ -1675,6 +1664,18 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:kleinmachnow-event-1949@amtsfeed.de
+DTSTAMP:20261117T120241Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Dixie Brothers | Swinging Christmas | verlegt auf den Adventsmark
+ t am 29.11.26
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Dixie-Brothers-Swinging-Christmas-verlegt-auf-den-Adventsmarkt-am-29-11-2
+ 6-.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.1949.1&amp\;NavID=
+ 3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:kleinmachnow-event-2485@amtsfeed.de
 DTSTAMP:20261116T113154Z
 DTSTART:20261129T130000Z
@@ -1683,5 +1684,14 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  Zauberpl%C3%A4tzchen-Rathausmarkt-2026.php?object=tx\,3692.4.1&amp\;ModID
  =11&amp\;FID=3692.2485.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&
  amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2072@amtsfeed.de
+DTSTAMP:20261117T120241Z
+DTSTART:20261201T100000Z
+SUMMARY:Sprechstunde "Pflege vor Ort"
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Sprechstunde-Pflege-vor-Ort-.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;F
+ ID=3692.2072.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

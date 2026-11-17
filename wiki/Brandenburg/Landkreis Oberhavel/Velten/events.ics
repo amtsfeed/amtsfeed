@@ -1482,4 +1482,14 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
  markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1035.1&amp\;Nav
  ID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1220@amtsfeed.de
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:"Spekulatius der Weihnachtsdrache"
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/-Speku
+ latius-der-Weihnachtsdrache-.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;F
+ ID=3631.1220.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
 END:VCALENDAR

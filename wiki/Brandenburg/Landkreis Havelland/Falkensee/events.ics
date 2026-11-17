@@ -4850,6 +4850,17 @@ URL:https://www.falkensee.de/veranstaltungen/3001340/2026/11/17/offene-sp
  rechstunde
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-3007016-20261117@amtsfeed.de
+DTSTAMP:20261117T115738Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:SPD Falkensee: Bürgerbudget Falkensee &ndash\; Ideen entwickeln\
+ , Impulse setzen\, Vorhaben umsetzen!
+URL:https://www.falkensee.de/veranstaltungen/3007016/2026/11/17/spd-falke
+ nsee-buergerbudget-falkensee--ideen-entwickeln-impulse-setzen-vorhaben-um
+ setzen
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2217406-20261118@amtsfeed.de
 DTSTAMP:20261028T094512Z
 DTSTART;VALUE=DATE:20261118
@@ -5239,6 +5250,15 @@ URL:https://www.falkensee.de/veranstaltungen/3003903/2026/11/27/reich-mir
  -deinen-schuh-nikolausaktion-2026-im-falkenseer-zentrum
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-3007332-20261127@amtsfeed.de
+DTSTAMP:20261117T115738Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Weihnachten mit Herz - IGF lädt zur Wunschkugelernte
+URL:https://www.falkensee.de/veranstaltungen/3007332/2026/11/27/weihnacht
+ en-mit-herz-igf-laedt-zur-wunschkugelernte
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2900963-20261128@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261128
@@ -5376,6 +5396,15 @@ DTEND;VALUE=DATE:20261204
 SUMMARY:Psychosoziale Beratung bei häuslicher Gewalt
 URL:https://www.falkensee.de/veranstaltungen/1959131/2026/12/03/psychosoz
  iale-beratung-bei-haeuslicher-gewalt
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-3007301-20261203@amtsfeed.de
+DTSTAMP:20261117T115738Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Svens Duft & Klangmassage
+URL:https://www.falkensee.de/veranstaltungen/3007301/2026/12/03/svens-duf
+ t-klangmassage
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2900963-20261205@amtsfeed.de
@@ -9586,5 +9615,51 @@ DTEND;VALUE=DATE:20271117
 SUMMARY:Plenum/Offenes Treffen der Willkommensinitiative in der B89
 URL:https://www.falkensee.de/veranstaltungen/2440163/2027/11/16/plenum-of
  fenes-treffen-der-willkommensinitiative-in-der-b89
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2217406-20271117@amtsfeed.de
+DTSTAMP:20261117T115738Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:Beratertag Lotsendienst
+URL:https://www.falkensee.de/veranstaltungen/2217406/2027/11/17/beraterta
+ g-lotsendienst
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2221593-20271117@amtsfeed.de
+DTSTAMP:20261117T115738Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:Beratungstag der Industrie- und Handelskammer (IHK) Potsdam und d
+ er Investitionsbank des Landes Brandenburg (ILB)
+URL:https://www.falkensee.de/veranstaltungen/2221593/2027/11/17/beratungs
+ tag-der-industrie-und-handelskammer-ihk-potsdam-und-der-investitionsbank-
+ des-landes-brandenburg-ilb
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2321277-20271117@amtsfeed.de
+DTSTAMP:20261117T115738Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:Elternfrühstück im Weltladen
+URL:https://www.falkensee.de/veranstaltungen/2321277/2027/11/17/elternfru
+ ehstueck-im-weltladen
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2520726-20271117@amtsfeed.de
+DTSTAMP:20261117T115738Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:RepairCaf&eacute\; - Nachhaltig und sozial
+URL:https://www.falkensee.de/veranstaltungen/2520726/2027/11/17/repaircaf
+ é-nachhaltig-und-sozial
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2405552-20271117@amtsfeed.de
+DTSTAMP:20261117T115738Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:Singkreis
+URL:https://www.falkensee.de/veranstaltungen/2405552/2027/11/17/singkreis
 END:VEVENT
 END:VCALENDAR

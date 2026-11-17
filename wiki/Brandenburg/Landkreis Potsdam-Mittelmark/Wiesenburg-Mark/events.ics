@@ -1233,26 +1233,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/3002485/2026/11/15/gesu
  ndheit-im-fokus--vortraege-und-informationen-in-der-region
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2384478@amtsfeed.de
-DTSTAMP:20261110T112434Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:DRK - Stuhlgymnastik (2 Kurse a&acute\; 1 Stunde)
-URL:https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/11/16/drk-
- stuhlgymnastik-2-kurse-a-1-stunde
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2915098@amtsfeed.de
-DTSTAMP:20261110T112434Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit
-  Tanz- und Theaterpädagogin Nina Stemberger
-URL:https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/11/16/krea
- tiver-kindertanz-fuer-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-th
- eaterpaedagogin-nina-stemberger
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973356@amtsfeed.de
 DTSTAMP:20261028T095155Z
 DTSTART;VALUE=DATE:20261116
@@ -1445,6 +1425,26 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:ProducerInnenstammtisch
 URL:https://www.wiesenburgmark.de/veranstaltungen/3005049/2026/11/21/prod
  ucerinnenstammtisch
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2384478@amtsfeed.de
+DTSTAMP:20261117T120311Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:DRK - Stuhlgymnastik (2 Kurse a&acute\; 1 Stunde)
+URL:https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/11/23/drk-
+ stuhlgymnastik-2-kurse-a-1-stunde
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2915098@amtsfeed.de
+DTSTAMP:20261117T120311Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit
+  Tanz- und Theaterpädagogin Nina Stemberger
+URL:https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/11/23/krea
+ tiver-kindertanz-fuer-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-th
+ eaterpaedagogin-nina-stemberger
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2929249@amtsfeed.de
@@ -1656,6 +1656,15 @@ DTEND;VALUE=DATE:20261219
 SUMMARY:Reifejahre (20 plus) bis Reife Jahre (50 plus)
 URL:https://www.wiesenburgmark.de/veranstaltungen/2973376/2026/12/18/reif
  ejahre-20-plus-bis-reife-jahre-50-plus
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-3007298@amtsfeed.de
+DTSTAMP:20261117T120311Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:2. Adventsmarkt
+URL:https://www.wiesenburgmark.de/veranstaltungen/3007298/2026/12/19/2.-a
+ dventsmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2948598@amtsfeed.de

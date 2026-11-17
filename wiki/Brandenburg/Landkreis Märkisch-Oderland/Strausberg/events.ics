@@ -11834,13 +11834,13 @@ LOCATION:Humanistischer Regionalverband MOL August-Bebel-Str. 2 15344 Str
 END:VEVENT
 BEGIN:VEVENT
 UID:strausberg-29925-20261130@amtsfeed.de
-DTSTAMP:20260911T111148Z
+DTSTAMP:20261117T120033Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Lebendiger Adventskalender
 URL:https://www.stadt-strausberg.de/veranstaltungen/2026-11-01/november-2
  026/#veranstaltungen-29925-2026-11-30
-LOCATION:Noch offen
+LOCATION:An diversen Orten
 END:VEVENT
 BEGIN:VEVENT
 UID:strausberg-30002-20261130@amtsfeed.de
@@ -11918,6 +11918,18 @@ URL:https://www.stadt-strausberg.de/veranstaltungen/2026-11-01/november-2
 LOCATION:REKIS SHK Am Annatal 57 15344 Strausberg
 END:VEVENT
 BEGIN:VEVENT
+UID:strausberg-30790-20261130@amtsfeed.de
+DTSTAMP:20261117T120033Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Lebendiger Adventskalender – „Weihnachtsklang am Lagerfeuer
+ “
+URL:https://www.stadt-strausberg.de/veranstaltungen/2026-11-01/november-2
+ 026/#veranstaltungen-30790-2026-11-30
+LOCATION:Aktivspielplatz (hinter Kaufland) Otto-Grotewohl-Ring 68a 15344 
+ Strausberg
+END:VEVENT
+BEGIN:VEVENT
 UID:strausberg-29884-20261201@amtsfeed.de
 DTSTAMP:20261001T101840Z
 DTSTART;VALUE=DATE:20261201
@@ -11980,6 +11992,28 @@ URL:https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2
  026/#veranstaltungen-30551-2026-12-01
 LOCATION:Zentrum für Erwachsenenbildung und Medien Volkshochschule Märk
  isch-Oderland Wriezener Str. 30 15344 Strausberg
+END:VEVENT
+BEGIN:VEVENT
+UID:strausberg-30791-20261201@amtsfeed.de
+DTSTAMP:20261117T120033Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Lebendiger Adventskalender – „Ein Licht geht durch den Hort
+ “
+URL:https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2
+ 026/#veranstaltungen-30791-2026-12-01
+LOCATION:Hort Kunterbunt Heinrich-Dorrenbach-Straße 1a 15344 Strausberg
+END:VEVENT
+BEGIN:VEVENT
+UID:strausberg-30792-20261202@amtsfeed.de
+DTSTAMP:20261117T120033Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Lebendiger Adventskalender – „Weihnachts-Wichtel Level 5 – 
+ Ho Ho Hört mal zu! Die Weihnachtswichtel. Eine Geschichte. Und ihr.“
+URL:https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2
+ 026/#veranstaltungen-30792-2026-12-02
+LOCATION:Buchhandlung Micklich Große Straße 22 15344 Strausberg
 END:VEVENT
 BEGIN:VEVENT
 UID:strausberg-29578-20261203@amtsfeed.de
@@ -12079,6 +12113,17 @@ LOCATION:Im Hort der Grundschule „Am Annatal“. Am Annatal 64 15344 St
  rausberg
 END:VEVENT
 BEGIN:VEVENT
+UID:strausberg-30793-20261203@amtsfeed.de
+DTSTAMP:20261117T120033Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Lebendiger Adventskalender – „Weihnachtszauber zum Genießen 
+ und Mitmachen“
+URL:https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2
+ 026/#veranstaltungen-30793-2026-12-03
+LOCATION:Strausberger Brauerei Am Biotop 23 15344 Strausberg
+END:VEVENT
+BEGIN:VEVENT
 UID:strausberg-29926-20261204@amtsfeed.de
 DTSTAMP:20261001T101840Z
 DTSTART;VALUE=DATE:20261204
@@ -12100,6 +12145,16 @@ URL:https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2
  026/#veranstaltungen-30542-2026-12-04
 LOCATION:Zentrum für Erwachsenenbildung und Medien Volkshochschule Märk
  isch-Oderland Wriezener Str. 30 15344 Strausberg
+END:VEVENT
+BEGIN:VEVENT
+UID:strausberg-30794-20261204@amtsfeed.de
+DTSTAMP:20261117T120033Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Lebendiger Adventskalender – „Regionaler Weihnachtsmarkt“
+URL:https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2
+ 026/#veranstaltungen-30794-2026-12-04
+LOCATION:STIC Garzauer Chaussee 1a 15344 Strausberg
 END:VEVENT
 BEGIN:VEVENT
 UID:strausberg-28935-20261205@amtsfeed.de
@@ -12644,14 +12699,14 @@ LOCATION:Campus Strausberg Bundeswehr Prötzeler Chaussee 20 15344 Straus
 END:VEVENT
 BEGIN:VEVENT
 UID:strausberg-30755-20261216@amtsfeed.de
-DTSTAMP:20261112T112254Z
+DTSTAMP:20261117T120033Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Lebendiger Adventskalender
+SUMMARY:Lebendiger Adventskalender – „Singen\, Punsch und Plätzchen
+ “
 URL:https://www.stadt-strausberg.de/veranstaltungen/2026-12-01/dezember-2
  026/#veranstaltungen-30755-2026-12-16
-LOCATION:Diakonischen Werk Oderland-Spree e.V. Landhausstraße 8 15344 St
- rausberg
+LOCATION:Vorstadt-Treff Landhausstraße 8 15344 Strausberg
 END:VEVENT
 BEGIN:VEVENT
 UID:strausberg-29578-20261217@amtsfeed.de

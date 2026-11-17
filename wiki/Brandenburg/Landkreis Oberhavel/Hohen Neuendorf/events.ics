@@ -1033,4 +1033,14 @@ SUMMARY:Chöre der Region singen Gabriel Fauré: Requiem
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  chore-der-region-singen-gabriel-faure-requiem-0
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-salonkonzert-romantische-kammermusik-fur-streic
+ hsextett@amtsfeed.de
+DTSTAMP:20261117T120058Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Salonkonzert: Romantische Kammermusik für Streichsextett
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ salonkonzert-romantische-kammermusik-fur-streichsextett
+END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:31:54.607Z",
+  "updatedAt": "2026-11-17T12:02:41.226Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -1322,14 +1322,6 @@
       "updatedAt": "2026-11-14T10:36:21.902Z"
     },
     {
-      "id": "kleinmachnow-event-1949",
-      "title": "Dixie Brothers | Swinging Christmas | verlegt auf den Adventsmarkt am 29.11.26",
-      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Dixie-Brothers-Swinging-Christmas-verlegt-auf-den-Adventsmarkt-am-29-11-26-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.1949.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
-      "startDate": "2026-11-27T20:00:00.000Z",
-      "fetchedAt": "2026-11-14T10:36:21.902Z",
-      "updatedAt": "2026-11-14T10:36:21.902Z"
-    },
-    {
       "id": "kleinmachnow-event-2456",
       "title": "Pat Appleton & Band",
       "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Pat-Appleton-Band.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2456.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
@@ -1354,12 +1346,28 @@
       "updatedAt": "2026-11-16T11:31:54.605Z"
     },
     {
+      "id": "kleinmachnow-event-1949",
+      "title": "Dixie Brothers | Swinging Christmas | verlegt auf den Adventsmarkt am 29.11.26",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Dixie-Brothers-Swinging-Christmas-verlegt-auf-den-Adventsmarkt-am-29-11-26-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.1949.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-11-14T10:36:21.902Z",
+      "updatedAt": "2026-11-17T12:02:41.225Z"
+    },
+    {
       "id": "kleinmachnow-event-2485",
       "title": "Zauberplätzchen | Rathausmarkt 2026",
       "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Zauberpl%C3%A4tzchen-Rathausmarkt-2026.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2485.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
       "startDate": "2026-11-29T13:00:00.000Z",
       "fetchedAt": "2026-11-16T11:31:54.605Z",
       "updatedAt": "2026-11-16T11:31:54.605Z"
+    },
+    {
+      "id": "kleinmachnow-event-2072",
+      "title": "Sprechstunde \"Pflege vor Ort\"",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Sprechstunde-Pflege-vor-Ort-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2072.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-12-01T10:00:00.000Z",
+      "fetchedAt": "2026-11-17T12:02:41.225Z",
+      "updatedAt": "2026-11-17T12:02:41.225Z"
     }
   ]
 }

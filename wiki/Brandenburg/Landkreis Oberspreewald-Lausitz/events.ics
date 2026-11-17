@@ -9071,6 +9071,16 @@ URL:https://www.osl-online.de/veranstaltungen/2873282/2026/11/23/elternba
 LOCATION:Kita "Bambi" Grünewalde
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-3007440-20261123@amtsfeed.de
+DTSTAMP:20261117T120137Z
+DTSTART:20261123T093000Z
+DTEND:20261123T103000Z
+SUMMARY:gesund und vital
+URL:https://www.osl-online.de/veranstaltungen/3007440/2026/11/23/gesund-u
+ nd-vital
+LOCATION:Quartierstreff
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-3002712-20261123@amtsfeed.de
 DTSTAMP:20261111T110842Z
 DTSTART:20261123T140000Z
@@ -9252,6 +9262,16 @@ SUMMARY:Erdgastrasse "Дружба"  - Bilder von Hans-Jürgen Horn
 URL:https://www.osl-online.de/veranstaltungen/3006503/2026/11/26/erdgastr
  asse-дружба-bilder-von-hans-juergen-horn
 LOCATION:eastFOTOgallery
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-3007439-20261126@amtsfeed.de
+DTSTAMP:20261117T120137Z
+DTSTART:20261126T100000Z
+DTEND:20261126T113000Z
+SUMMARY:Adventsgestaltung
+URL:https://www.osl-online.de/veranstaltungen/3007439/2026/11/26/adventsg
+ estaltung
+LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2877138-20261126@amtsfeed.de
@@ -9542,6 +9562,16 @@ URL:https://www.osl-online.de/veranstaltungen/2853940/2026/11/29/sind-die
  -lichter-angezuendet--weihnachtskonzert-mit-gerd-christian-daniella-bensc
  h
 LOCATION:Stadt Schwarzheide
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-3007441-20261130@amtsfeed.de
+DTSTAMP:20261117T120137Z
+DTSTART:20261130T093000Z
+DTEND:20261130T103000Z
+SUMMARY:gesund und vital
+URL:https://www.osl-online.de/veranstaltungen/3007441/2026/11/30/gesund-u
+ nd-vital
+LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2124462-20261130@amtsfeed.de
@@ -16126,5 +16156,25 @@ SUMMARY:Calauer Wochenmarkt
 URL:https://www.osl-online.de/veranstaltungen/2290342/2027/11/16/calauer-
  wochenmarkt
 LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2315266-20271117@amtsfeed.de
+DTSTAMP:20261117T120137Z
+DTSTART:20271117T100000Z
+DTEND:20271117T120000Z
+SUMMARY:Calauer Museen öffnen
+URL:https://www.osl-online.de/veranstaltungen/2315266/2027/11/17/calauer-
+ museen-oeffnen
+LOCATION:Haus der Heimatgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2558944-20271117@amtsfeed.de
+DTSTAMP:20261117T120137Z
+DTSTART:20271117T170000Z
+DTEND:20271117T190000Z
+SUMMARY:Gruppentreffen Selbsthilfegruppe Long - Post - Covid Lauchhammer
+URL:https://www.osl-online.de/veranstaltungen/2558944/2027/11/17/gruppent
+ reffen-selbsthilfegruppe-long-post-covid-lauchhammer
+LOCATION:REKOSI
 END:VEVENT
 END:VCALENDAR

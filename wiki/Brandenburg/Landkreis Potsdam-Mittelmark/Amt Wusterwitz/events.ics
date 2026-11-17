@@ -106,6 +106,15 @@ URL:https://www.amt-wusterwitz.de/veranstaltungen/2982115/2027/01/22/ener
  gy-dance-bs-3-music-body
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-wusterwitz-event-3007005@amtsfeed.de
+DTSTAMP:20261117T120228Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Spiel der Wandlung
+URL:https://www.amt-wusterwitz.de/veranstaltungen/3007005/2027/02/26/spie
+ l-der-wandlung
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-wusterwitz-event-2982079@amtsfeed.de
 DTSTAMP:20261028T095107Z
 DTSTART;VALUE=DATE:20270312
@@ -115,6 +124,42 @@ URL:https://www.amt-wusterwitz.de/veranstaltungen/2982079/2027/03/12/frue
  hlingserwachen
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-wusterwitz-event-3007007@amtsfeed.de
+DTSTAMP:20261117T120228Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Spiel der Wandlung
+URL:https://www.amt-wusterwitz.de/veranstaltungen/3007007/2027/03/19/spie
+ l-der-wandlung
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-wusterwitz-event-3007008@amtsfeed.de
+DTSTAMP:20261117T120228Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Spiel der Wandlung
+URL:https://www.amt-wusterwitz.de/veranstaltungen/3007008/2027/04/16/spie
+ l-der-wandlung
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-wusterwitz-event-3007009@amtsfeed.de
+DTSTAMP:20261117T120228Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Spiel der Wandlung
+URL:https://www.amt-wusterwitz.de/veranstaltungen/3007009/2027/05/21/spie
+ l-der-wandlung
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-wusterwitz-event-3007011@amtsfeed.de
+DTSTAMP:20261117T120228Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Spiel der Wandlung
+URL:https://www.amt-wusterwitz.de/veranstaltungen/3007011/2027/06/18/spie
+ l-der-wandlung
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-wusterwitz-event-2982096@amtsfeed.de
 DTSTAMP:20261028T095107Z
 DTSTART;VALUE=DATE:20270627
@@ -122,5 +167,14 @@ DTEND;VALUE=DATE:20270628
 SUMMARY:Aloha Sommerwoche
 URL:https://www.amt-wusterwitz.de/veranstaltungen/2982096/2027/06/27/aloh
  a-sommerwoche
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-wusterwitz-event-3007012@amtsfeed.de
+DTSTAMP:20261117T120228Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Spiel der Wandlung
+URL:https://www.amt-wusterwitz.de/veranstaltungen/3007012/2027/07/09/spie
+ l-der-wandlung
 END:VEVENT
 END:VCALENDAR

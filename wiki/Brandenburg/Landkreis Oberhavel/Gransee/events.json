@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:30:11.727Z",
+  "updatedAt": "2026-11-17T12:00:52.458Z",
   "items": [
     {
       "id": "gransee-event-25497",
@@ -5326,6 +5326,16 @@
       "updatedAt": "2026-09-12T08:05:03.027Z"
     },
     {
+      "id": "gransee-event-26781",
+      "title": "Step-Aerobic",
+      "url": "https://www.gransee.de/event/step-aerobic-5/",
+      "startDate": "2027-01-04T15:45:00.000Z",
+      "endDate": "2027-01-04T16:45:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-17T12:00:43.052Z",
+      "updatedAt": "2026-11-17T12:00:43.052Z"
+    },
+    {
       "id": "gransee-event-26762",
       "title": "Vortrag im Gartensaal des Gutshauses Zernikow",
       "url": "https://www.gransee.de/event/vortrag-im-gartensaal-des-gutshauses-zernikow/",
@@ -5371,6 +5381,15 @@
       "updatedAt": "2026-11-11T11:07:29.124Z"
     },
     {
+      "id": "gransee-event-26792",
+      "title": "Gemeindevertreter Sitzung Stechlin",
+      "url": "https://www.gransee.de/event/gemeindevertreter-sitzung-stechlin/",
+      "startDate": "2027-03-17T00:00:00.000Z",
+      "location": "Stechlin",
+      "fetchedAt": "2026-11-17T12:00:43.052Z",
+      "updatedAt": "2026-11-17T12:00:43.052Z"
+    },
+    {
       "id": "gransee-event-26544",
       "title": "Reiterball",
       "url": "https://www.gransee.de/event/reiterball-4/",
@@ -5409,6 +5428,15 @@
       "updatedAt": "2026-11-16T11:30:05.478Z"
     },
     {
+      "id": "gransee-event-26794",
+      "title": "Gemeindevertreter Sitzung Stechlin",
+      "url": "https://www.gransee.de/event/gemeindevertreter-sitzung-stechlin-2/",
+      "startDate": "2027-06-16T00:00:00.000Z",
+      "location": "Stechlin",
+      "fetchedAt": "2026-11-17T12:00:43.052Z",
+      "updatedAt": "2026-11-17T12:00:43.052Z"
+    },
+    {
       "id": "gransee-event-26759",
       "title": "Blutspendetag",
       "url": "https://www.gransee.de/event/blutspendetag/",
@@ -5416,6 +5444,24 @@
       "location": "Stechlinsee-Center, Stechlin OT Neuglobsow",
       "fetchedAt": "2026-11-11T11:07:29.124Z",
       "updatedAt": "2026-11-11T11:07:29.124Z"
+    },
+    {
+      "id": "gransee-event-26796",
+      "title": "Gemeindevertreter Sitzung Stechlin",
+      "url": "https://www.gransee.de/event/gemeindevertreter-sitzung-stechlin-3/",
+      "startDate": "2027-09-15T00:00:00.000Z",
+      "location": "Stechlin",
+      "fetchedAt": "2026-11-17T12:00:43.052Z",
+      "updatedAt": "2026-11-17T12:00:43.052Z"
+    },
+    {
+      "id": "gransee-event-26798",
+      "title": "Gemeindevertreter Sitzung Stechlin",
+      "url": "https://www.gransee.de/event/gemeindevertreter-sitzung-stechlin-4/",
+      "startDate": "2027-12-15T00:00:00.000Z",
+      "location": "Stechlin",
+      "fetchedAt": "2026-11-17T12:00:43.052Z",
+      "updatedAt": "2026-11-17T12:00:43.052Z"
     }
   ]
 }

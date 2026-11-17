@@ -727,6 +727,15 @@ URL:https://www.amt-friesack.de/veranstaltungen/2835120/2026/12/12/weihna
  chtsmarkt-in-friesack
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-friesack-event-3007438-20261212@amtsfeed.de
+DTSTAMP:20261117T115730Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Friesacker Weihnachtsmarkt
+URL:https://www.amt-friesack.de/veranstaltungen/3007438/2026/12/12/friesa
+ cker-weihnachtsmarkt
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-friesack-event-2992435-20270722@amtsfeed.de
 DTSTAMP:20261028T094442Z
 DTSTART;VALUE=DATE:20270722

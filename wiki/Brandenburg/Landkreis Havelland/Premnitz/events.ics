@@ -16674,12 +16674,13 @@ URL:https://www.premnitz.de/veranstaltungen/3004289/2026/11/19/weihnachts
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2981213-20261120@amtsfeed.de
-DTSTAMP:20261028T094546Z
+DTSTAMP:20261117T115808Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Bundesweiter Vorlesetag
+SUMMARY:Bundesweiter Vorlesetag: &bdquo\;Ich lese vor &ndash\; du auch?&l
+ dquo\;
 URL:https://www.premnitz.de/veranstaltungen/2981213/2026/11/20/bundesweit
- er-vorlesetag
+ er-vorlesetag-ich-lese-vor--du-auch
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2961102-20261120@amtsfeed.de
@@ -17927,6 +17928,33 @@ URL:https://www.premnitz.de/veranstaltungen/3004299/2026/11/28/adventssko
  nzert-der-vocaladies-zwischen-advent-und-winterzauber
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-3007401-20261128@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Premnitzer Hüttenweihnacht
+URL:https://www.premnitz.de/veranstaltungen/3007401/2026/11/28/premnitzer
+ -huettenweihnacht
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-3007091-20261128@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:16. Weihnachtsmarkt in Elstal
+URL:https://www.premnitz.de/veranstaltungen/3007091/2026/11/28/16.-weihna
+ chtsmarkt-in-elstal
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-3007092-20261128@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Ribbecker Adventssingen
+URL:https://www.premnitz.de/veranstaltungen/3007092/2026/11/28/ribbecker-
+ adventssingen
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2992244-20261129@amtsfeed.de
 DTSTAMP:20261029T100409Z
 DTSTART;VALUE=DATE:20261129
@@ -19138,6 +19166,15 @@ URL:https://www.premnitz.de/veranstaltungen/3005191/2026/12/06/spendenkon
  zerte-fuer-die-neue-wegscheider-orgel
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-3007093-20261206@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Adventskonzert am 2. Advent
+URL:https://www.premnitz.de/veranstaltungen/3007093/2026/12/06/adventskon
+ zert-am-2.-advent
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2999008-20261207@amtsfeed.de
 DTSTAMP:20261107T101821Z
 DTSTART;VALUE=DATE:20261207
@@ -19280,6 +19317,15 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Weihnachtsmarkt im Designer Outlet Berlin
 URL:https://www.premnitz.de/veranstaltungen/3004311/2026/12/09/weihnachts
  markt-im-designer-outlet-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-3007379-20261209@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Tanz im Advent &ndash\; Weihnachtsfeier in Premnitz
+URL:https://www.premnitz.de/veranstaltungen/3007379/2026/12/09/tanz-im-ad
+ vent--weihnachtsfeier-in-premnitz
 END:VEVENT
 BEGIN:VEVENT
 UID:premnitz-event-2850158-20261210@amtsfeed.de
@@ -19847,5 +19893,78 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Flying home for Christmas
 URL:https://www.premnitz.de/veranstaltungen/2977242/2026/12/16/flying-hom
  e-for-christmas
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2850159-20261217@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Frischemarkt Nauen
+URL:https://www.premnitz.de/veranstaltungen/2850159/2026/12/17/frischemar
+ kt-nauen
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2985538-20261217@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:"Viel Schießen und Scharmützel..." 30jähriger Krieg an Havel u
+ nd Elbe
+URL:https://www.premnitz.de/veranstaltungen/2985538/2026/12/17/viel-schie
+ ssen-und-scharmuetzel.-30jaehriger-krieg-an-havel-und-elbe
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2999026-20261217@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Weihnachtsmarkt mit Eislauf&shy\;bahn
+URL:https://www.premnitz.de/veranstaltungen/2999026/2026/12/17/weihnachts
+ markt-mit-eislaufbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-3004318-20261217@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Weihnachtsmarkt im Designer Outlet Berlin
+URL:https://www.premnitz.de/veranstaltungen/3004318/2026/12/17/weihnachts
+ markt-im-designer-outlet-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2999923-20261217@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Weihnachtskonzert mit Maja Catrin Fritsche
+URL:https://www.premnitz.de/veranstaltungen/2999923/2026/12/17/weihnachts
+ konzert-mit-maja-catrin-fritsche
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2965135-20261217@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Purple Lounge - Sakrale Räume
+URL:https://www.premnitz.de/veranstaltungen/2965135/2026/12/17/purple-lou
+ nge-sakrale-raeume
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2977243-20261217@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Purple Lounge &ndash\; Schneemänner\, Schneegestöber
+URL:https://www.premnitz.de/veranstaltungen/2977243/2026/12/17/purple-lou
+ nge--schneemaenner-schneegestoeber
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2839023-20261217@amtsfeed.de
+DTSTAMP:20261117T115808Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Thorsten Bär &ndash\; Der Bär ist los!
+URL:https://www.premnitz.de/veranstaltungen/2839023/2026/12/17/thorsten-b
+ aer--der-baer-ist-los
 END:VEVENT
 END:VCALENDAR

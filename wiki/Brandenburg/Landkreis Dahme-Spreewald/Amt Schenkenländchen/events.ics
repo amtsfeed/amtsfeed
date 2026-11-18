@@ -2056,6 +2056,15 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2967753/2026/11/
  ntdecken
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008556-20261119@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Vortrag der Polizei zu Trickbetrügern
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008556/2026/11/
+ 19/vortrag-der-polizei-zu-trickbetruegern
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2627767-20261121@amtsfeed.de
 DTSTAMP:20261028T094319Z
 DTSTART;VALUE=DATE:20261121
@@ -2137,6 +2146,33 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2981546/2026/11/
  26/weihnachtsbasteln-und-kaffeeklatsch-in-der-jugendherberge-koethen
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008510-20261126@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Adventsbasteln im MGH "Franz Fühmann":
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008510/2026/11/
+ 26/adventsbasteln-im-mgh-franz-fuehmann
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008515-20261126@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Finissage Ausstellung M. Konzack
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008515/2026/11/
+ 26/finissage-ausstellung-m.-konzack
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2981546-20261127@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Weihnachtsbasteln und Kaffeeklatsch in der Jugendherberge Köthen
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2981546/2026/11/
+ 27/weihnachtsbasteln-und-kaffeeklatsch-in-der-jugendherberge-koethen
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2981547-20261128@amtsfeed.de
 DTSTAMP:20261028T094319Z
 DTSTART;VALUE=DATE:20261128
@@ -2171,6 +2207,24 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Weihnachtsfest der Vereine
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2990575/2026/11/
  29/weihnachtsfest-der-vereine
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008517-20261129@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Einführung Pfarrer Domke
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008517/2026/11/
+ 29/einfuehrung-pfarrer-domke
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008519-20261129@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Adventsmarkt und Saisonabschluss
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008519/2026/11/
+ 29/adventsmarkt-und-saisonabschluss
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2964382-20261130@amtsfeed.de
@@ -2243,6 +2297,24 @@ DTEND;VALUE=DATE:20261204
 SUMMARY:Friedrichstadt Palast
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2965386/2026/12/
  03/friedrichstadt-palast
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008522-20261203@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Ausstellungseröffnung Radsport
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008522/2026/12/
+ 03/ausstellungseroeffnung-radsport
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008526-20261206@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Märkisch Buchholz Pokal Kunstrad
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008526/2026/12/
+ 06/maerkisch-buchholz-pokal-kunstrad
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2668097-20261207@amtsfeed.de
@@ -2319,12 +2391,39 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2967759/2026/12/
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2981549-20261212@amtsfeed.de
-DTSTAMP:20261028T094319Z
+DTSTAMP:20261118T114717Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:Begegnungen mit Fühmann
+SUMMARY:Lesung mit Musik
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2981549/2026/12/
- 12/begegnungen-mit-fuehmann
+ 12/lesung-mit-musik
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008533-20261212@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Weihnachtsmarkt
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008533/2026/12/
+ 12/weihnachtsmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008527-20261212@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Weihnachtsfeier der Volkssolidarität
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008527/2026/12/
+ 12/weihnachtsfeier-der-volkssolidaritaet
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008536-20261213@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Weihnachtskonzert der Schenkenland Big Band
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008536/2026/12/
+ 13/weihnachtskonzert-der-schenkenland-big-band
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2549386-20261216@amtsfeed.de
@@ -2334,6 +2433,15 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2026/12/
  16/krabbelgruppe-im-mgh-franz-fuehmann-nach-anmeldung
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008539-20261216@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Stadtverordnetenversammlung
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008539/2026/12/
+ 16/stadtverordnetenversammlung
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2549396-20261217@amtsfeed.de
@@ -2363,6 +2471,15 @@ URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2979954/2026/12/
  18/weihnachtscafé
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008543-20261219@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Adventsnachmittag des Angelvereins
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008543/2026/12/
+ 19/adventsnachmittag-des-angelvereins
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2668097-20261221@amtsfeed.de
 DTSTAMP:20261028T094319Z
 DTSTART;VALUE=DATE:20261221
@@ -2370,6 +2487,15 @@ DTEND;VALUE=DATE:20261222
 SUMMARY:MGH "Franz Fühmann": Frühstückstreff
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2668097/2026/12/
  21/mgh-franz-fuehmann-fruehstueckstreff
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008546-20261222@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Bürgermeistersprechstunde
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008546/2026/12/
+ 22/buergermeistersprechstunde
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2549386-20261223@amtsfeed.de
@@ -2397,6 +2523,24 @@ DTEND;VALUE=DATE:20261225
 SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/12/
  24/literaturcafé-im-mgh-franz-fuehmann
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008549-20261224@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Christvesper
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008549/2026/12/
+ 24/christvesper
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008551-20261225@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Weihnachtsgottesdienst
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008551/2026/12/
+ 25/weihnachtsgottesdienst
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2990576-20261227@amtsfeed.de
@@ -2433,6 +2577,15 @@ DTEND;VALUE=DATE:20270101
 SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2026/12/
  31/literaturcafé-im-mgh-franz-fuehmann
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-3008553-20261231@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Gottesdienst mit Abendmahl
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/3008553/2026/12/
+ 31/gottesdienst-mit-abendmahl
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-schenkenlaendchen-event-2993941-20270103@amtsfeed.de
@@ -4083,5 +4236,23 @@ DTEND;VALUE=DATE:20271118
 SUMMARY:Krabbelgruppe im MGH "Franz Fühmann" (nach Anmeldung)
 URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549386/2027/11/
  17/krabbelgruppe-im-mgh-franz-fuehmann-nach-anmeldung
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549396-20271118@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+SUMMARY:Kreativ-Workshop im MGH "Franz Fühmann":
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549396/2027/11/
+ 18/kreativ-workshop-im-mgh-franz-fuehmann
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-schenkenlaendchen-event-2549405-20271118@amtsfeed.de
+DTSTAMP:20261118T114717Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+SUMMARY:Literaturcaf&eacute\; im MGH "Franz Fühmann"
+URL:https://www.amt-schenkenlaendchen.de/veranstaltungen/2549405/2027/11/
+ 18/literaturcafé-im-mgh-franz-fuehmann
 END:VEVENT
 END:VCALENDAR

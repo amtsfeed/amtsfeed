@@ -1414,28 +1414,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2991293/2026/11/14/18.-zesch
 LOCATION:Kulturhaus Alt Zeschdorf
 END:VEVENT
 BEGIN:VEVENT
-UID:2464901@amtsfeed.de
-DTSTAMP:20261111T110638Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Selbstverteidigung für Frauen
-URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/11/17/selbstver
- teidigung-fuer-frauen
-DESCRIPTION:in Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2419554@amtsfeed.de
-DTSTAMP:20261111T110638Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Posaunenchor  Probe
-URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/11/17/posaunenc
- hor-probe
-DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
-LOCATION:Pfarrkirche Lebus
-END:VEVENT
-BEGIN:VEVENT
 UID:2486339@amtsfeed.de
 DTSTAMP:20261112T112214Z
 DTSTART;VALUE=DATE:20261118
@@ -1607,6 +1585,28 @@ DESCRIPTION:Sportlerheim Podelzig
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
+UID:2464901@amtsfeed.de
+DTSTAMP:20261118T115047Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Selbstverteidigung für Frauen
+URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/11/24/selbstver
+ teidigung-fuer-frauen
+DESCRIPTION:in Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2419554@amtsfeed.de
+DTSTAMP:20261118T115047Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Posaunenchor  Probe
+URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/11/24/posaunenc
+ hor-probe
+DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
+LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
 UID:2984489@amtsfeed.de
 DTSTAMP:20261028T094801Z
 DTSTART;VALUE=DATE:20261125
@@ -1649,6 +1649,16 @@ SUMMARY:Podelziger Weihnachtsmarkt im Sternenglanz
 URL:https://www.amt-lebus.de/veranstaltungen/2984934/2026/11/28/podelzige
  r-weihnachtsmarkt-im-sternenglanz
 LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:3008455@amtsfeed.de
+DTSTAMP:20261118T115047Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Kuchenbasar bei EDEKA
+URL:https://www.amt-lebus.de/veranstaltungen/3008455/2026/11/28/kuchenbas
+ ar-bei-edeka
+LOCATION:Auf dem Parkplatz bei EDEDKA
 END:VEVENT
 BEGIN:VEVENT
 UID:2846438@amtsfeed.de
@@ -1730,12 +1740,16 @@ LOCATION:Kulturhaus Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2993106@amtsfeed.de
-DTSTAMP:20261030T100902Z
+DTSTAMP:20261118T115047Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Lebuser Weihnachtsmarkt
 URL:https://www.amt-lebus.de/veranstaltungen/2993106/2026/12/05/lebuser-w
  eihnachtsmarkt
+DESCRIPTION:Am 05.12.2026 findet zwischen Kirche und Heimatmuseum unser L
+ ebuser Adventsmarkt statt. Eröffnet wird um 14 Uhr mit einer Andacht im 
+ der Lebuser Kirche. Zwischen 14-17 Uhr gibt es zahlreiche Stände\, die z
+ um Stöbern einladen. Neben selbstgemachten ...
 LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT

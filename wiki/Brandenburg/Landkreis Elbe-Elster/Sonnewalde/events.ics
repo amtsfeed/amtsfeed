@@ -267,12 +267,30 @@ URL:https://www.stadt-sonnewalde.de/veranstaltungen/3003419/2026/12/10/vo
  rstellung-der-neuen-ausgabe-der-sonnewalder-heimatblaetter-ausgabe-26
 END:VEVENT
 BEGIN:VEVENT
+UID:3008463@amtsfeed.de
+DTSTAMP:20261118T114811Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Karnevalsumzug in Sonnewalde
+URL:https://www.stadt-sonnewalde.de/veranstaltungen/3008463/2027/01/24/ka
+ rnevalsumzug-in-sonnewalde
+END:VEVENT
+BEGIN:VEVENT
 UID:2998773@amtsfeed.de
 DTSTAMP:20261106T105806Z
 DTSTART:20270124T110000Z
 SUMMARY:Karnevalsumzug
 URL:https://www.stadt-sonnewalde.de/veranstaltungen/2998773/2027/01/24/ka
  rnevalsumzug
+END:VEVENT
+BEGIN:VEVENT
+UID:3008468@amtsfeed.de
+DTSTAMP:20261118T114811Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Reiterkarneval des RCC in Sonnewalde
+URL:https://www.stadt-sonnewalde.de/veranstaltungen/3008468/2027/01/30/re
+ iterkarneval-des-rcc-in-sonnewalde
 END:VEVENT
 BEGIN:VEVENT
 UID:2998774@amtsfeed.de
@@ -283,6 +301,15 @@ URL:https://www.stadt-sonnewalde.de/veranstaltungen/2998774/2027/01/30/1.
  -hauptsamstag
 END:VEVENT
 BEGIN:VEVENT
+UID:3008471@amtsfeed.de
+DTSTAMP:20261118T114811Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Rentnerkarneval des RCC in Sonnewalde
+URL:https://www.stadt-sonnewalde.de/veranstaltungen/3008471/2027/01/31/re
+ ntnerkarneval-des-rcc-in-sonnewalde
+END:VEVENT
+BEGIN:VEVENT
 UID:2998780@amtsfeed.de
 DTSTAMP:20261106T105806Z
 DTSTART:20270131T140000Z
@@ -291,12 +318,30 @@ URL:https://www.stadt-sonnewalde.de/veranstaltungen/2998780/2027/01/31/re
  ntnerkarneval
 END:VEVENT
 BEGIN:VEVENT
+UID:3008474@amtsfeed.de
+DTSTAMP:20261118T114811Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Reiterkarneval des RCC in Sonnewalde
+URL:https://www.stadt-sonnewalde.de/veranstaltungen/3008474/2027/02/06/re
+ iterkarneval-des-rcc-in-sonnewalde
+END:VEVENT
+BEGIN:VEVENT
 UID:2998782@amtsfeed.de
 DTSTAMP:20261106T105806Z
 DTSTART:20270206T193000Z
 SUMMARY:2. Hauptsamstag
 URL:https://www.stadt-sonnewalde.de/veranstaltungen/2998782/2027/02/06/2.
  -hauptsamstag
+END:VEVENT
+BEGIN:VEVENT
+UID:3008476@amtsfeed.de
+DTSTAMP:20261118T114811Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Rosenmontagsball des RCC in Sonnewalde
+URL:https://www.stadt-sonnewalde.de/veranstaltungen/3008476/2027/02/08/ro
+ senmontagsball-des-rcc-in-sonnewalde
 END:VEVENT
 BEGIN:VEVENT
 UID:2998784@amtsfeed.de

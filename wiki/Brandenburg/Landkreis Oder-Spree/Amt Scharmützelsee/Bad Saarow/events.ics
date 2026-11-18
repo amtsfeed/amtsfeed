@@ -1206,14 +1206,6 @@ URL:https://www.scharmuetzelsee.de/event/saarower-klavierkonzerte-novembe
  r-ad
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrt-nachsaison-sa-so@amtsfeed.de
-DTSTAMP:20261115T110353Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Linienfahrt Nachsaison (Sa. & So.)
-URL:https://www.scharmuetzelsee.de/event/linienfahrt-nachsaison-sa-so
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-novemberbasar-kunstausstellung-mit-verkauf-in-der-alt
  en-schulscheune@amtsfeed.de
 DTSTAMP:20261115T110353Z
@@ -1271,9 +1263,9 @@ URL:https://www.scharmuetzelsee.de/event/seniorenkino-im-cinema-bad-saaro
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261116T113101Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
+DTSTAMP:20261118T115223Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
 SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
 URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
  ad-saarow
@@ -1347,6 +1339,14 @@ SUMMARY:Timo Wopp - JA SORRY!
 URL:https://www.scharmuetzelsee.de/event/timo-wopp-ja-sorry
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrt-nachsaison-sa-so@amtsfeed.de
+DTSTAMP:20261118T115223Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Linienfahrt Nachsaison (Sa. & So.)
+URL:https://www.scharmuetzelsee.de/event/linienfahrt-nachsaison-sa-so
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
  feed.de
 DTSTAMP:20261117T120142Z
@@ -1411,6 +1411,16 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Advents-Märchen-Lunch mit Film im Freilich am See
 URL:https://www.scharmuetzelsee.de/event/advents-maerchen-lunch-mit-film-
  im-freilich-am-see
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-advents-maerchen-lunch-mit-film-im-freilich-am-see-1@
+ amtsfeed.de
+DTSTAMP:20261118T115223Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Advents-Märchen-Lunch mit Film im Freilich am See
+URL:https://www.scharmuetzelsee.de/event/advents-maerchen-lunch-mit-film-
+ im-freilich-am-see-1
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-weihnachtszauber-burg-storkow-weihnachtsmarkt@amtsfee

@@ -1358,15 +1358,6 @@ URL:https://www.calau.de/veranstaltungen/2996816/2026/11/15/gedenkveranst
  altung-zum-volkstrauertag
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261115T110321Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:17.11.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/11/17/calauer-woche
- nmarkt
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2838480@amtsfeed.de
 DTSTAMP:20261115T110321Z
 DTSTART;VALUE=DATE:20261118
@@ -1383,6 +1374,15 @@ SUMMARY:18.11.2026   Kochzauber
 URL:https://www.calau.de/veranstaltungen/3001653/2026/11/18/kochzauber
 END:VEVENT
 BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261118T115204Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:19.11.2026   Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/11/19/calauer-woche
+ nmarkt
+END:VEVENT
+BEGIN:VEVENT
 UID:calau-event-2960238@amtsfeed.de
 DTSTAMP:20261116T113041Z
 DTSTART;VALUE=DATE:20261119
@@ -1393,10 +1393,10 @@ URL:https://www.calau.de/veranstaltungen/2960238/2026/11/19/krabbelgruppe
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2992994@amtsfeed.de
-DTSTAMP:20261029T100819Z
+DTSTAMP:20261118T115204Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Bürgerversammlung "Mehr Stadt - Mehr Meinung"
+SUMMARY:19.11.2026   Bürgerversammlung "Mehr Stadt - Mehr Meinung"
 URL:https://www.calau.de/veranstaltungen/2992994/2026/11/19/buergerversam
  mlung-mehr-stadt-mehr-meinung
 END:VEVENT

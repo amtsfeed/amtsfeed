@@ -7,6 +7,17 @@ X-WR-CALNAME:Amt Scharmützelsee
 X-WR-CALDESC:Amtliche Veranstaltungen für Amt Scharmützelsee
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:3007976-2026-11-19-133.-gespraechsabend-in-der-bibliothek-bad-saarow@
+ amtsfeed.de
+DTSTAMP:20261118T115225Z
+DTSTART:20261119T190000Z
+SUMMARY:133. Gesprächsabend in der Bibliothek Bad Saarow
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/3007976/2026/11/19
+ /133.-gespraechsabend-in-der-bibliothek-bad-saarow
+LOCATION:Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saar
+ ow
+END:VEVENT
+BEGIN:VEVENT
 UID:2983421-2026-11-20-bundesweiter-vorlesetag-in-der-bibo-bad-saarow@amt
  sfeed.de
 DTSTAMP:20261028T095010Z
@@ -56,6 +67,16 @@ SUMMARY:LORIOTS UNVERGESSENE SKETCHE von Vicco von Bülow
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2855354/2026/11/22
  /loriots-unvergessene-sketche-von-vicco-von-buelow
 LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:3007894-2026-11-24-bilderbuch-theater-in-der-bibo@amtsfeed.de
+DTSTAMP:20261118T115225Z
+DTSTART:20261124T160000Z
+SUMMARY:Bilderbuch-Theater in der Bibo
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/3007894/2026/11/24
+ /bilderbuch-theater-in-der-bibo
+LOCATION:Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saar
+ ow
 END:VEVENT
 BEGIN:VEVENT
 UID:2983426-2026-11-26-133.-gespraechsabend-in-der-bibo-bad-saarow@amtsfe
@@ -120,12 +141,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2983424-2026-12-01-weihnachtsbasteln-im-der-bibo-bad-saarow@amtsfeed.
  de
-DTSTAMP:20261103T110150Z
+DTSTAMP:20261118T115225Z
 DTSTART:20261201T130000Z
 SUMMARY:Weihnachtsbasteln im der Bibo Bad Saarow
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2983424/2026/12/01
  /weihnachtsbasteln-im-der-bibo-bad-saarow
-LOCATION:Bibliothek Bad Saarow
+LOCATION:Bibliothek · SaarowCentrum · Ulmenstraße 15 · 15526 Bad Saar
+ ow
 END:VEVENT
 BEGIN:VEVENT
 UID:2835565-2026-12-02-herkuleskeule-nur-die-harten-komm-in-garten@amtsfe
@@ -158,6 +180,15 @@ LOCATION:Bad Saarow Schifffahrts GmbH · Seestraße 40 · 15526 Bad Saaro
  w
 END:VEVENT
 BEGIN:VEVENT
+UID:3007965-2026-12-05-klavierkonzert-mit-studenten@amtsfeed.de
+DTSTAMP:20261118T115225Z
+DTSTART:20261205T180000Z
+SUMMARY:Klavierkonzert mit Studenten
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/3007965/2026/12/05
+ /klavierkonzert-mit-studenten
+LOCATION:Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
 UID:2871478-2026-12-06-tanz-brunch-im-dezember@amtsfeed.de
 DTSTAMP:20261028T095010Z
 DTSTART:20261206T110000Z
@@ -185,6 +216,15 @@ SUMMARY:ANNA MATEUR & FEINDE &ndash\; Ich fang erst an wenns groovt
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2877166/2026/12/10
  /anna-mateur-feinde--ich-fang-erst-an-wenns-groovt
 LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:3007970-2026-12-12-weihnachtlieder-singen@amtsfeed.de
+DTSTAMP:20261118T115225Z
+DTSTART:20261212T150000Z
+SUMMARY:Weihnachtlieder singen
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/3007970/2026/12/12
+ /weihnachtlieder-singen
+LOCATION:Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:3007487-2026-12-12-klaenge-zur-weihnacht@amtsfeed.de
@@ -215,6 +255,15 @@ SUMMARY:Weihnachtskonzert Ronny Heinrich & Orchester
 URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/2835260/2026/12/20
  /weihnachtskonzert-ronny-heinrich-orchester
 LOCATION:Theater am See · Seestraße 22 · 15526 Bad Saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:3007974-2026-12-20-adventskonzert-im-scharwenkagarten@amtsfeed.de
+DTSTAMP:20261118T115225Z
+DTSTART:20261220T150000Z
+SUMMARY:Adventskonzert im Scharwenkagarten
+URL:https://www.amt-scharmuetzelsee.de/veranstaltungen/3007974/2026/12/20
+ /adventskonzert-im-scharwenkagarten
+LOCATION:Scharwenka Kulturforum e.V. · Moorstraße 3 · 15526 Bad Saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:2977914-2026-12-20-adventskonzert-in-wendisch-rietz@amtsfeed.de

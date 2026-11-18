@@ -1333,13 +1333,14 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
 END:VEVENT
 BEGIN:VEVENT
 UID:velten-event-1193@amtsfeed.de
-DTSTAMP:20261025T083447Z
+DTSTAMP:20261118T115157Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:Netzwerk Velten: Beratung zur Pflege vor Ort
-URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Netzwe
- rk-Velten-Beratung-zur-Pflege-vor-Ort.php?object=tx\,3631.4.1&amp\;ModID=
- 11&amp\;FID=3631.1193.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+SUMMARY:+++ Abgesagt +++ Netzwerk Velten: Beratung zur Pflege vor Ort
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/-Abges
+ agt-Netzwerk-Velten-Beratung-zur-Pflege-vor-Ort.php?object=tx\,3631.4.1&a
+ mp\;ModID=11&amp\;FID=3631.1193.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sf
+ ort=1
 END:VEVENT
 BEGIN:VEVENT
 UID:velten-event-1260@amtsfeed.de
@@ -1491,5 +1492,15 @@ SUMMARY:"Spekulatius der Weihnachtsdrache"
 URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/-Speku
  latius-der-Weihnachtsdrache-.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;F
  ID=3631.1220.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1262@amtsfeed.de
+DTSTAMP:20261118T115157Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Familienangebot in der Turnhalle
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Famili
+ enangebot-in-der-Turnhalle.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID
+ =3631.1262.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 END:VCALENDAR

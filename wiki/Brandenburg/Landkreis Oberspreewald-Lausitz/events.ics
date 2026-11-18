@@ -9195,14 +9195,14 @@ LOCATION:Ingenieurbau\, Liebenwerdaer Str. 69 a\, Lauchhammer
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-3001763-20261125@amtsfeed.de
-DTSTAMP:20261110T112257Z
+DTSTAMP:20261118T115219Z
 DTSTART:20261125T160000Z
 DTEND:20261125T180000Z
-SUMMARY:Spüren\, regulieren\, stärken – Ein Special-Workshop zum inte
- rnationalen Tag gegen Gewalt an Frauen
-URL:https://www.osl-online.de/veranstaltungen/3001763/2026/11/25/spueren-
- regulieren-staerken--ein-special-workshop-zum-internationalen-tag-gegen-g
- ewalt-an-frauen
+SUMMARY:-Ausgebucht- Spüren\, regulieren\, stärken – Ein Special-Work
+ shop zum internationalen Tag gegen Gewalt an Frauen
+URL:https://www.osl-online.de/veranstaltungen/3001763/2026/11/25/ausgebuc
+ ht-spueren-regulieren-staerken--ein-special-workshop-zum-internationalen-
+ tag-gegen-gewalt-an-frauen
 LOCATION:KooperationsAnstiftung e.V.
 END:VEVENT
 BEGIN:VEVENT
@@ -9592,6 +9592,16 @@ URL:https://www.osl-online.de/veranstaltungen/2124466/2026/11/30/treffpun
 LOCATION:Mehrgenerationenhaus
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-3007978-20261130@amtsfeed.de
+DTSTAMP:20261118T115219Z
+DTSTART:20261130T180000Z
+DTEND:20261130T193000Z
+SUMMARY:Clubabend Q4/26
+URL:https://www.osl-online.de/veranstaltungen/3007978/2026/11/30/clubaben
+ d-q4-26
+LOCATION:Q4/26 Bilder zum Thema "Farbiger Herbst"
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2989108-20261201@amtsfeed.de
 DTSTAMP:20261028T095001Z
 DTSTART;VALUE=DATE:20261201
@@ -9883,6 +9893,16 @@ URL:https://www.osl-online.de/veranstaltungen/2918357/2026/12/03/gruppent
 LOCATION:REKOSI
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-3008459-20261203@amtsfeed.de
+DTSTAMP:20261118T115219Z
+DTSTART:20261203T150000Z
+DTEND:20261203T180000Z
+SUMMARY:Inklusiver Bastelnachmittag
+URL:https://www.osl-online.de/veranstaltungen/3008459/2026/12/03/inklusiv
+ er-bastelnachmittag
+LOCATION:KooperationsAnstiftung e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2957496-20261203@amtsfeed.de
 DTSTAMP:20261028T095001Z
 DTSTART:20261203T160000Z
@@ -9969,6 +9989,16 @@ SUMMARY:Des Kaisers neue Kleider
 URL:https://www.osl-online.de/veranstaltungen/3002214/2026/12/04/des-kais
  ers-neue-kleider
 LOCATION:Theater Neue Bühne Senftenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-3008492-20261204@amtsfeed.de
+DTSTAMP:20261118T115219Z
+DTSTART:20261204T150000Z
+DTEND:20261204T170000Z
+SUMMARY:Schuhe putzen für den Nikolaus in Lauchhammer
+URL:https://www.osl-online.de/veranstaltungen/3008492/2026/12/04/schuhe-p
+ utzen-fuer-den-nikolaus-in-lauchhammer
+LOCATION:KooperationsAnstiftung e.V.
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2981036-20261204@amtsfeed.de
@@ -16175,6 +16205,44 @@ DTEND:20271117T190000Z
 SUMMARY:Gruppentreffen Selbsthilfegruppe Long - Post - Covid Lauchhammer
 URL:https://www.osl-online.de/veranstaltungen/2558944/2027/11/17/gruppent
  reffen-selbsthilfegruppe-long-post-covid-lauchhammer
+LOCATION:REKOSI
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2290342-20271118@amtsfeed.de
+DTSTAMP:20261118T115219Z
+DTSTART:20271118T080000Z
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.osl-online.de/veranstaltungen/2290342/2027/11/18/calauer-
+ wochenmarkt
+LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2398220-20271118@amtsfeed.de
+DTSTAMP:20261118T115219Z
+DTSTART:20271118T100000Z
+DTEND:20271118T120000Z
+SUMMARY:Außenberatung Senftenberg
+URL:https://www.osl-online.de/veranstaltungen/2398220/2027/11/18/aussenbe
+ ratung-senftenberg
+LOCATION:Außenberatung Senftenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2124494-20271118@amtsfeed.de
+DTSTAMP:20261118T115219Z
+DTSTART:20271118T100000Z
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.osl-online.de/veranstaltungen/2124494/2027/11/18/behinder
+ ten-und-seniorenberatung
+LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2918316-20271118@amtsfeed.de
+DTSTAMP:20261118T115219Z
+DTSTART:20271118T160000Z
+DTEND:20271118T180000Z
+SUMMARY:Gruppentreffen Selbsthilfegruppe Depressionen in Lauchhammer
+URL:https://www.osl-online.de/veranstaltungen/2918316/2027/11/18/gruppent
+ reffen-selbsthilfegruppe-depressionen-in-lauchhammer
 LOCATION:REKOSI
 END:VEVENT
 END:VCALENDAR

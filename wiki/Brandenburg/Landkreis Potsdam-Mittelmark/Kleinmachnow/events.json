@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T12:02:41.226Z",
+  "updatedAt": "2026-11-18T11:53:12.211Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -86,14 +86,6 @@
       "title": "Klimawissen und Klimapolitik",
       "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Klimawissen-und-Klimapolitik.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2329.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
       "startDate": "2026-05-12T16:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:42:13.359Z",
-      "updatedAt": "2026-05-06T12:42:13.359Z"
-    },
-    {
-      "id": "kleinmachnow-event-857",
-      "title": "Maker-Mittwoch | Bee-Bots",
-      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Maker-Mittwoch-Bee-Bots.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.857.1&amp;NavID=3692.15&amp;La=1&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
-      "startDate": "2026-05-13T16:00:00.000Z",
       "fetchedAt": "2026-05-06T12:42:13.359Z",
       "updatedAt": "2026-05-06T12:42:13.359Z"
     },
@@ -1282,6 +1274,14 @@
       "updatedAt": "2026-11-11T11:10:01.833Z"
     },
     {
+      "id": "kleinmachnow-event-2489",
+      "title": "Wie geht es mir mit den Veränderungen in unserer Gesellschaft?",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Wie-geht-es-mir-mit-den-Ver%C3%A4nderungen-in-unserer-Gesellschaft-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2489.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-11-24T18:30:00.000Z",
+      "fetchedAt": "2026-11-18T11:53:12.209Z",
+      "updatedAt": "2026-11-18T11:53:12.209Z"
+    },
+    {
       "id": "kleinmachnow-event-2246",
       "title": "Offenes Caf&eacute;",
       "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Offenes-Caf%C3%A9.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2246.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
@@ -1368,6 +1368,14 @@
       "startDate": "2026-12-01T10:00:00.000Z",
       "fetchedAt": "2026-11-17T12:02:41.225Z",
       "updatedAt": "2026-11-17T12:02:41.225Z"
+    },
+    {
+      "id": "kleinmachnow-event-857",
+      "title": "Maker-Mittwoch | App MIXIMAL",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Maker-Mittwoch-App-MIXIMAL.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.857.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-12-02T16:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:42:13.359Z",
+      "updatedAt": "2026-11-18T11:53:12.209Z"
     }
   ]
 }

@@ -655,6 +655,15 @@ URL:https://www.amt-brueck.de/veranstaltungen/3007500/2026/11/29/1.-adven
  t-auf-der-zickenwiese
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-brueck-event-3007710@amtsfeed.de
+DTSTAMP:20261118T115253Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Wintermarkt bei SchönesWagen
+URL:https://www.amt-brueck.de/veranstaltungen/3007710/2026/11/29/winterma
+ rkt-bei-schoeneswagen
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-brueck-event-2852209@amtsfeed.de
 DTSTAMP:20261028T095057Z
 DTSTART;VALUE=DATE:20261205

@@ -904,6 +904,15 @@ URL:/site-wurzel/startseite/amtsgemeinden/ruhland/bibliothek/
 LOCATION:Kirche Ruhland
 END:VEVENT
 BEGIN:VEVENT
+UID:ruhland-event-7474@amtsfeed.de
+DTSTAMP:20261118T115203Z
+DTSTART:20261128T140000Z
+DTEND:20261128T190000Z
+SUMMARY:Ruhland im Lichterglanz
+URL:https://www.amt-ruhland.de/veranstaltungen/
+LOCATION:An der Stadtkirche
+END:VEVENT
+BEGIN:VEVENT
 UID:ruhland-event-4912@amtsfeed.de
 DTSTAMP:20260924T083729Z
 DTSTART:20261128T150000Z

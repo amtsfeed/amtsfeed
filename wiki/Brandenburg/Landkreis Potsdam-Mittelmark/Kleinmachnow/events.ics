@@ -118,16 +118,6 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
-UID:kleinmachnow-event-857@amtsfeed.de
-DTSTAMP:20260506T124213Z
-DTSTART:20260513T160000Z
-SUMMARY:Maker-Mittwoch | Bee-Bots
-URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
- Maker-Mittwoch-Bee-Bots.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=36
- 92.857.1&amp\;NavID=3692.15&amp\;La=1&amp\;sfodddrt=1&amp\;sfort=1&amp\;b
- n=1
-END:VEVENT
-BEGIN:VEVENT
 UID:kleinmachnow-event-2128@amtsfeed.de
 DTSTAMP:20260506T124213Z
 DTSTART:20260515T093000Z
@@ -1586,6 +1576,16 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:kleinmachnow-event-2489@amtsfeed.de
+DTSTAMP:20261118T115312Z
+DTSTART:20261124T183000Z
+SUMMARY:Wie geht es mir mit den Veränderungen in unserer Gesellschaft?
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Wie-geht-es-mir-mit-den-Ver%C3%A4nderungen-in-unserer-Gesellschaft-.php?o
+ bject=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.2489.1&amp\;NavID=3692.15&
+ amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:kleinmachnow-event-2246@amtsfeed.de
 DTSTAMP:20261111T111001Z
 DTSTART:20261126T150000Z
@@ -1693,5 +1693,14 @@ SUMMARY:Sprechstunde "Pflege vor Ort"
 URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  Sprechstunde-Pflege-vor-Ort-.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;F
  ID=3692.2072.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-857@amtsfeed.de
+DTSTAMP:20261118T115312Z
+DTSTART:20261202T160000Z
+SUMMARY:Maker-Mittwoch | App MIXIMAL
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Maker-Mittwoch-App-MIXIMAL.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID
+ =3692.857.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

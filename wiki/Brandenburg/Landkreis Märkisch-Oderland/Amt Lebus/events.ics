@@ -1414,27 +1414,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2991293/2026/11/14/18.-zesch
 LOCATION:Kulturhaus Alt Zeschdorf
 END:VEVENT
 BEGIN:VEVENT
-UID:2486339@amtsfeed.de
-DTSTAMP:20261112T112214Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Sport für Senioren in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/18/sport-fue
- r-senioren-in-podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464908@amtsfeed.de
-DTSTAMP:20261112T112214Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Fleischerwagen Fleischerei Höhne
-URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/18/fleischer
- wagen-fleischerei-hoehne
-DESCRIPTION:am Dorfteich Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2538590@amtsfeed.de
 DTSTAMP:20261113T110841Z
 DTSTART;VALUE=DATE:20261119
@@ -1605,6 +1584,27 @@ URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/11/24/posaunenc
  hor-probe
 DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
 LOCATION:Pfarrkirche Lebus
+END:VEVENT
+BEGIN:VEVENT
+UID:2486339@amtsfeed.de
+DTSTAMP:20261119T114757Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Sport für Senioren in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/25/sport-fue
+ r-senioren-in-podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464908@amtsfeed.de
+DTSTAMP:20261119T114757Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Fleischerwagen Fleischerei Höhne
+URL:https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/25/fleischer
+ wagen-fleischerei-hoehne
+DESCRIPTION:am Dorfteich Podelzig
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2984489@amtsfeed.de

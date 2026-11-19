@@ -271,6 +271,14 @@ URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2972704/2026/11/2
  8/weihnachtsmarkt-uebigau
 END:VEVENT
 BEGIN:VEVENT
+UID:3009115@amtsfeed.de
+DTSTAMP:20261119T114552Z
+DTSTART:20261204T140000Z
+SUMMARY:Seniorenweihnachtsfeier in Uebigau
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/3009115/2026/12/0
+ 4/seniorenweihnachtsfeier-in-uebigau
+END:VEVENT
+BEGIN:VEVENT
 UID:3007293@amtsfeed.de
 DTSTAMP:20261117T115724Z
 DTSTART:20261205T170000Z
@@ -285,6 +293,32 @@ DTSTART:20261205T180000Z
 SUMMARY:Glühweinfest
 URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/3007294/2026/12/0
  5/gluehweinfest
+END:VEVENT
+BEGIN:VEVENT
+UID:3009114@amtsfeed.de
+DTSTAMP:20261119T114552Z
+DTSTART:20261206T100000Z
+SUMMARY:Festgottesdienst zum 775-jährigen Jubiläum der ST. Nikolai-Kirc
+ he Uebigau
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/3009114/2026/12/0
+ 6/festgottesdienst-zum-775-jaehrigen-jubilaeum-der-st.-nikolai-kirche-ueb
+ igau
+END:VEVENT
+BEGIN:VEVENT
+UID:3009119@amtsfeed.de
+DTSTAMP:20261119T114552Z
+DTSTART:20261206T170000Z
+SUMMARY:Wintertheater
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/3009119/2026/12/0
+ 6/wintertheater
+END:VEVENT
+BEGIN:VEVENT
+UID:3009147@amtsfeed.de
+DTSTAMP:20261119T114552Z
+DTSTART:20261218T170000Z
+SUMMARY:Weihnachtsmarkt in Beiersdorf
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/3009147/2026/12/1
+ 8/weihnachtsmarkt-in-beiersdorf
 END:VEVENT
 BEGIN:VEVENT
 UID:2897710@amtsfeed.de
@@ -317,6 +351,15 @@ DTSTART:20270220T191100Z
 SUMMARY:Abendveranstaltung
 URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/2897714/2027/02/2
  0/abendveranstaltung
+END:VEVENT
+BEGIN:VEVENT
+UID:3009149@amtsfeed.de
+DTSTAMP:20261119T114552Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Altstadtnacht
+URL:https://www.uebigau-wahrenbrueck.de/veranstaltungen/3009149/2027/08/2
+ 1/altstadtnacht
 END:VEVENT
 BEGIN:VEVENT
 UID:2973464@amtsfeed.de

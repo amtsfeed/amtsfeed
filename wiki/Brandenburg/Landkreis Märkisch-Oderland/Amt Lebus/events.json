@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:50:47.259Z",
+  "updatedAt": "2026-11-19T11:47:57.661Z",
   "items": [
     {
       "id": "2846347",
@@ -1199,25 +1199,6 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
-      "id": "2486339",
-      "title": "Sport für Senioren in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/18/sport-fuer-senioren-in-podelzig",
-      "startDate": "2026-11-18T00:00:00.000Z",
-      "location": "Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-12T11:22:14.213Z"
-    },
-    {
-      "id": "2464908",
-      "title": "Fleischerwagen Fleischerei Höhne",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/18/fleischerwagen-fleischerei-hoehne",
-      "startDate": "2026-11-18T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "am Dorfteich Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-12T11:22:14.213Z"
-    },
-    {
       "id": "2538590",
       "title": "Tischtennis",
       "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/19/tischtennis",
@@ -1368,6 +1349,25 @@
       "description": "Jeden Dienstag um 19.00 Uhr Kirche Lebus",
       "fetchedAt": "2026-05-05T14:58:26.635Z",
       "updatedAt": "2026-11-18T11:50:47.248Z"
+    },
+    {
+      "id": "2486339",
+      "title": "Sport für Senioren in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2486339/2026/11/25/sport-fuer-senioren-in-podelzig",
+      "startDate": "2026-11-25T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-19T11:47:57.649Z"
+    },
+    {
+      "id": "2464908",
+      "title": "Fleischerwagen Fleischerei Höhne",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464908/2026/11/25/fleischerwagen-fleischerei-hoehne",
+      "startDate": "2026-11-25T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "am Dorfteich Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-19T11:47:57.649Z"
     },
     {
       "id": "2984489",

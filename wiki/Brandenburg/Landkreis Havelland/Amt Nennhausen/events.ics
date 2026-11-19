@@ -901,6 +901,15 @@ URL:https://www.amt-nennhausen.de/veranstaltungen/2999312/2026/11/15/volk
  strauertag-in-stechow
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-nennhausen-event-3009275-20261121@amtsfeed.de
+DTSTAMP:20261119T114558Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Dorfkino Ferchesar
+URL:https://www.amt-nennhausen.de/veranstaltungen/3009275/2026/11/21/dorf
+ kino-ferchesar
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-nennhausen-event-2844434-20261128@amtsfeed.de
 DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261128
@@ -919,6 +928,15 @@ URL:https://www.amt-nennhausen.de/veranstaltungen/2993853/2026/11/28/bamm
  er-dorfweihnacht
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-nennhausen-event-3009211-20261128@amtsfeed.de
+DTSTAMP:20261119T114558Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Weihnachtsmarkt Stechow
+URL:https://www.amt-nennhausen.de/veranstaltungen/3009211/2026/11/28/weih
+ nachtsmarkt-stechow
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-nennhausen-event-2837135-20261129@amtsfeed.de
 DTSTAMP:20260531T141347Z
 DTSTART;VALUE=DATE:20261129
@@ -928,6 +946,24 @@ URL:https://www.amt-nennhausen.de/veranstaltungen/2837135/2026/11/29/adve
  ntskonzert-mit-thomas-kübler-in-premnitz.html
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-nennhausen-event-3009310-20261205@amtsfeed.de
+DTSTAMP:20261119T114558Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Weihnachtsmarkt "Alter Hofladen"
+URL:https://www.amt-nennhausen.de/veranstaltungen/3009310/2026/12/05/weih
+ nachtsmarkt-alter-hofladen
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-3009299-20261205@amtsfeed.de
+DTSTAMP:20261119T114558Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Weihnachtskonzert in Landin
+URL:https://www.amt-nennhausen.de/veranstaltungen/3009299/2026/12/05/weih
+ nachtskonzert-in-landin
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-nennhausen-event-2837141-20261206@amtsfeed.de
 DTSTAMP:20261028T094445Z
 DTSTART;VALUE=DATE:20261206
@@ -935,6 +971,15 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Adventskonzert mit Thomas Kübler in Premnitz
 URL:https://www.amt-nennhausen.de/veranstaltungen/2837141/2026/12/06/adve
  ntskonzert-mit-thomas-kuebler-in-premnitz
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-3009291-20261206@amtsfeed.de
+DTSTAMP:20261119T114558Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Weihnachtskonzert mit dem Chor Bella Cantabile
+URL:https://www.amt-nennhausen.de/veranstaltungen/3009291/2026/12/06/weih
+ nachtskonzert-mit-dem-chor-bella-cantabile
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2822212-20261207@amtsfeed.de

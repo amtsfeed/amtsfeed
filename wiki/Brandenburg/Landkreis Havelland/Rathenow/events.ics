@@ -1919,6 +1919,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Havelwerk Schleusenstraße 1 Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1846-20261121@amtsfeed.de
+DTSTAMP:20261119T114629Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:Landesverbandsschau der Rassekaninchenzüchter Berlin Mark Brande
+ nburg e.V.
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/landesverbandsschau-der-rasseka
+ ninchenzuechter-berlin-mark-brandenburg-ev/
+LOCATION:Erlebnispark Paaren in 14621 Paaren im Glien
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1813-20261122@amtsfeed.de
 DTSTAMP:20261109T113932Z
 DTSTART;VALUE=DATE:20261122
@@ -2021,6 +2033,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Kulturzentrum Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1847-20261128@amtsfeed.de
+DTSTAMP:20261119T114629Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Adventsausstellung des Rathenower Modelleisenbahnverein e.V.
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/adventsausstellung-des-rathenow
+ er-modelleisenbahnverein-ev/
+LOCATION:Rathenower Modelleisenbahnverein e.V. Jahnstraße 27 14712 Rathe
+ now
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1753-20261129@amtsfeed.de
 DTSTAMP:20260928T095320Z
 DTSTART;VALUE=DATE:20261129
@@ -2076,11 +2100,11 @@ LOCATION:Berliner Straße 83 in Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1828-20261130@amtsfeed.de
-DTSTAMP:20261117T115812Z
+DTSTAMP:20261119T114629Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:PHRONESIS Diskurswerkstatt: Nation of Strangers. Unsere Heimat si
- nd wir.
+SUMMARY:Gespräche am Schleusenplatz: Nation of Strangers. Unsere Heimat 
+ sind wir.
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/phronesis-diskurswerkstatt-nati
  on-of-strangers-unsere-heimat-sind-wir/
@@ -2118,6 +2142,28 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/spatenkino-im-haveltorkino-tier
  isches-fest/
 LOCATION:Haveltorkino Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1848-20261205@amtsfeed.de
+DTSTAMP:20261119T114629Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Adventsausstellung des Rathenower Modelleisenbahnverein e.V.
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/adventsausstellung-des-rathenow
+ er-modelleisenbahnverein-ev-1/
+LOCATION:Rathenower Modelleisenbahnverein e.V. Jahnstraße 27 14712 Rathe
+ now
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1841-20261205@amtsfeed.de
+DTSTAMP:20261119T114629Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Weihnachtliche Hausmusik
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/weihnachtliche-hausmusik/
+LOCATION:Musik- und Kunstschule Havelland Alte Mühle - Konzertsaal
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-124-20261206@amtsfeed.de
@@ -2162,6 +2208,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Kirche Ferchesar
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1843-20261209@amtsfeed.de
+DTSTAMP:20261119T114629Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Offene Bühne der Musik- und Kunstschule Havelland
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/offene-buehne-der-musik-und-kun
+ stschule-havelland/
+LOCATION:Musik- und Kunstschule Havelland Alte Mühle - Konzertsaal
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1775-20261212@amtsfeed.de
 DTSTAMP:20261014T084845Z
 DTSTART;VALUE=DATE:20261212
@@ -2193,6 +2250,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/tierweihnacht-im-tierheim-rathe
  now/
 LOCATION:Tierheim Rathenow Bammer Landstraße
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1844-20261213@amtsfeed.de
+DTSTAMP:20261119T114629Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Adventskonzert der Kantoreien Rathenow und Premnitz
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/adventskonzert-der-kantoreien-r
+ athenow-und-premnitz/
+LOCATION:St. Marien-Andreas Kirche Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-199-20261217@amtsfeed.de
@@ -2235,6 +2303,16 @@ SUMMARY:Parkweihnacht 2026
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/parkweihnacht-2026/
 LOCATION:Rathenow\, Optikpark
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1842-20261219@amtsfeed.de
+DTSTAMP:20261119T114629Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Festliches Weihnachtskonzert
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/festliches-weihnachtskonzert/
+LOCATION:Kulturzentrum Rathenow Theatersaal
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1770-20261226@amtsfeed.de
@@ -2432,6 +2510,16 @@ SUMMARY:Ein Wirtshaus voller Räuber
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/ein-wirtshaus-voller-raeuber-1/
 LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1845-20270220@amtsfeed.de
+DTSTAMP:20261119T114629Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Pädagogik-Turnier / Volleyball
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/paedagogik-turnier-volleyball/
+LOCATION:Havellandhall Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1779-20270227@amtsfeed.de

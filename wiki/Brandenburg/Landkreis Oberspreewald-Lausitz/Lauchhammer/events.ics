@@ -456,15 +456,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/3006948/2026/11/16/noch-le
  tzte-silvesterkarten-zum-silvestertanz
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2558944@amtsfeed.de
-DTSTAMP:20261028T094944Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Gruppentreffen Selbsthilfegruppe Long - Post - Covid Lauchhammer
-URL:https://www.lauchhammer.de/veranstaltungen/2558944/2026/11/18/gruppen
- treffen-selbsthilfegruppe-long-post-covid-lauchhammer
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2962558@amtsfeed.de
 DTSTAMP:20261028T094944Z
 DTSTART;VALUE=DATE:20261118
@@ -712,6 +703,15 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:ABBA - ABALANCE The Show
 URL:https://www.lauchhammer.de/veranstaltungen/2925548/2026/12/12/abba-ab
  alance-the-show
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2558944@amtsfeed.de
+DTSTAMP:20261119T114929Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Gruppentreffen Selbsthilfegruppe Long - Post - Covid Lauchhammer
+URL:https://www.lauchhammer.de/veranstaltungen/2558944/2026/12/16/gruppen
+ treffen-selbsthilfegruppe-long-post-covid-lauchhammer
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2989087@amtsfeed.de

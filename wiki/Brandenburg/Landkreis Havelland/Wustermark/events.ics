@@ -772,6 +772,15 @@ URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
  7.280.1&NavID=3847.15&sfvort=1&sfort=1&bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:wustermark-event-282@amtsfeed.de
+DTSTAMP:20261119T114637Z
+DTSTART:20261120T090000Z
+SUMMARY:BLACK WEEK vom 20.-29.11.2026
+URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
+ gen/BLACK-WEEK-vom-20-29-11-2026.php?object=tx\,3847.4.1&ModID=11&FID=384
+ 7.282.1&NavID=3847.15&sfvort=1&sfort=1&bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:wustermark-event-277@amtsfeed.de
 DTSTAMP:20261113T110652Z
 DTSTART:20261120T100000Z
@@ -863,6 +872,16 @@ SUMMARY:Weihnachtsmarkt in Priort
 URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
  gen/Weihnachtsmarkt-in-Priort.php?object=tx\,3847.4.1&ModID=11&FID=3847.2
  78.1&NavID=3847.15&sfvort=1&sfort=1&bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:wustermark-event-281@amtsfeed.de
+DTSTAMP:20261119T114637Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Sonntag Shoppen am 29.11.2026
+URL:https://www.wustermark.de/Verwaltung-Politik/Allgemeines/Veranstaltun
+ gen/Sonntag-Shoppen-am-29-11-2026.php?object=tx\,3847.4.1&ModID=11&FID=38
+ 47.281.1&NavID=3847.15&sfvort=1&sfort=1&bn=1
 END:VEVENT
 BEGIN:VEVENT
 UID:wustermark-event-240@amtsfeed.de

@@ -1044,6 +1044,15 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  salonkonzert-romantische-kammermusik-fur-streichsextett
 END:VEVENT
 BEGIN:VEVENT
+UID:hohen-neuendorf-event-treffpunkt-kulturbahnhof-0@amtsfeed.de
+DTSTAMP:20261119T114901Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Treffpunkt Kulturbahnhof
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ treffpunkt-kulturbahnhof-0
+END:VEVENT
+BEGIN:VEVENT
 UID:hohen-neuendorf-event-trio-orelon-beethovens-toechter@amtsfeed.de
 DTSTAMP:20261118T115144Z
 DTSTART;VALUE=DATE:20261122
@@ -1051,5 +1060,15 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:TRIO ORELON Beethovens Töchter
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  trio-orelon-beethovens-toechter
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-seniorensprechstunde-hilfe-fur-handy-und-pc-0@a
+ mtsfeed.de
+DTSTAMP:20261119T114901Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Seniorensprechstunde "Hilfe für Handy und PC"
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ seniorensprechstunde-hilfe-fur-handy-und-pc-0
 END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,73 @@
 # Updates
 
+## 2026-11-19 11:51
+
+Insgesamt **535 neu**, **529 aktualisiert**, **3 entfernt** in 61 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Altlandsberg | — | — | — | +2 |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Friesack | ~2 | — | — | — |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Nennhausen | — | +5 | — | — |
+| Amt Niemegk | — | ~1 | — | +2 |
+| Amt Rhinow | — | — | — | +1 |
+| Amt Ruhland | — | ~1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Beeskow | +3 | — | — | — |
+| Bernau bei Berlin | +4 | +6 / ~22 | — | — |
+| Brieselang | +4 / ~1 | +1 / ~1 | — | — |
+| Calau | +3 | ~2 | — | — |
+| Doberlug-Kirchhain | — | +1 | — | — |
+| Eberswalde | +1 | +3 | — | — |
+| Eisenhüttenstadt | — | ~13 | +1 | — |
+| Erkner | +1 | — | — | — |
+| Falkensee | — | +1 | — | — |
+| Fredersdorf-Vogelsdorf | — | +1 | +1 | — |
+| Fürstenberg-Havel | +1 | — | — | ~2 |
+| Fürstenwalde-Spree | +4 / ~1 | — | — | — |
+| Glienicke-Nordbahn | +1 | — | — | — |
+| Gransee | — | +8 | — | — |
+| Grünheide (Mark) | — | — | — | +2 / ~175 |
+| Heideblick | +1 | — | — | — |
+| Hennigsdorf | +2 | — | — | — |
+| Hohen Neuendorf | +5 | +2 | — | — |
+| Ketzin Havel | — | +1 | — | — |
+| Kleinmachnow | — | +2 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | +1 | +1 | — | — |
+| Landkreis Havelland (LK-Ebene) | — | — | +1 | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | +3 | — | — | — |
+| Lauchhammer | +2 | ~1 | — | — |
+| Löwenberger Land | +3 | +1 / ~2 | — | — |
+| Lübbenau Spreewald | — | +346 / ~204 | — | — |
+| Michendorf | — | +12 | — | — |
+| Mühlenbecker Land | ~1 | +5 | — | — |
+| Müncheberg | +1 | — | — | — |
+| Nauen | +2 | +1 | — | — |
+| Neuenhagen bei Berlin | +3 / -3 | +6 / ~25 | — | — |
+| Oberkrämer | +1 | ~2 | — | — |
+| Oderbruch / Amt Seelow-Land | +4 | — | — | — |
+| Premnitz | +1 | +14 | — | — |
+| Rathenow | +1 | +8 / ~1 | — | — |
+| Rietz-Neuendorf | +1 | +1 | ~1 | — |
+| Schönefeld | +1 / ~1 | ~30 | — | — |
+| Schönwalde-Glien | +1 | +14 | — | — |
+| Schwarzheide | +1 | — | — | — |
+| Senftenberg | — | +5 | — | — |
+| Storkow (Mark) | +1 | — | — | — |
+| Strausberg | +1 | — | — | — |
+| Tauche | +2 | — | — | +1 |
+| Teltow | +1 | ~1 | — | — |
+| Treuenbrietzen | +1 | — | — | — |
+| Uebigau-Wahrenbrück | — | +5 | — | — |
+| Velten | — | +2 | — | — |
+| Verbandsgemeinde Bad Liebenwerda | — | +5 | — | — |
+| Werder (Havel) | +1 | ~4 | — | +1 |
+| Wiesenburg-Mark | — | ~3 | — | — |
+| Wriezen | — | — | +1 | — |
+| Wustermark | — | +2 | — | — |
+
 ## 2026-11-18 11:53
 
 Insgesamt **1005 neu**, **302 aktualisiert**, **10 entfernt** in 68 Quellen.

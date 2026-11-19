@@ -8,230 +8,295 @@ X-WR-CALDESC:Amtliche Veranstaltungen für Neuenhagen bei Berlin
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-001@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260101
-DTEND;VALUE=DATE:20260102
-SUMMARY:Neujahrstreff im Theatron
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:2027                   Neujahrszauber (Zusammen
+ legung Neujahrstreff und Neujahrsfeuer)
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-002@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260103
-DTEND;VALUE=DATE:20260104
-SUMMARY:Neujahrsfeuer der Freiwilligen Feuerwehr
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:2027                   Frühjahrsputz in der Ge
+ meinde
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-003@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260329
-SUMMARY:Frühjahrsputz
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:2027                    Neubürgerbegrüßung 
+ im Rathaus
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-004@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Neubürgerbegrüßung im Max-Thormann-Saal im historischen Rathau
- s
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:2027                    Sattelfest
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-005@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260427
-SUMMARY:Sattelfest
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:-                              Stadtr
+ adeln
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
-END:VEVENT
-BEGIN:VEVENT
-UID:neuenhagen-event-2026-006@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Fussballfest der Horte
-URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-007@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:8. Grüne Messe – 10 Jahre Neuenhagen summt
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:2027                     Fußballfest der Hor
+ te
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-008@amtsfeed.de
-DTSTAMP:20260505T215419Z
+DTSTAMP:20261119T114812Z
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-SUMMARY:IDAHOBIT+
+SUMMARY:2027                     IDAHOBIT+
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:neuenhagen-event-2026-006@amtsfeed.de
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:2027
+URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-009@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260607
-SUMMARY:Brandenburger Seniorenwoche
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:2027                     9. Grüne Messe
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-010@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260621
-SUMMARY:Tag der Familie
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:2027                     50 Jahre Naturschutz
+  in Neuenhagen
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-011@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
-SUMMARY:Fête de la Musique
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:2027                     32. Märkisches Chor
+ fest
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-012@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260628
-SUMMARY:Aktionswoche „15 Jahre Bürgerhaus“
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:2027                       Tag der Familie
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-013@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:125-jähriges Jubiläum der Freiwilligen Feuerwehr
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:–                           Brandenbur
+ ger Seniorenwoche
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-014@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-SUMMARY:Inklusives Sport-Fun-Fest
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:2027
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-015@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:Sommerfest im Haus der Senioren
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:2027                     Sommerfest der Tanzs
+ chule Ta.u.Be.
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-016@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260914
-SUMMARY:34. Oktoberfest auf dem Platz der Republik
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:2027                     Fête de la Musique
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-017@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:Fest zum internationalen Kindertag des Kinder- und Jugendbeirates
-  Neuenhagen
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:2027                     Sommerempfang der Ge
+ meinde
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-018@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260927
-SUMMARY:100 Jahre Rathaus Neuenhagen bei Berlin
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:2027                      Sommerfest im Haus
+  der Senioren
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-019@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Infoabend zum Einbruchsschutz und zur Kriminalstatistik 2025
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:–                Oktoberfest
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-020@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Neubürgerbegrüßung im Max-Thormann-Saal im historischen Rathau
- s
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:2027
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-021@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Tag des Ehrenamtes im Bürgerhaus
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:2027          Tag des offenen Denkmals
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-022@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Einwohnerversammlung
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:2027          Familien-Sport-Fest des SG Rot-Weiß
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-023@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261130
-SUMMARY:Neuenhagener Weihnachtsmarkt in der Arche
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:2027                Tag der Sicherheit10 – 14 Uh
+ r
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-024@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Seniorenweihnachtsfeier im Bürgerhaus
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:2027              Neubürgerbegrüßung im Rathaus
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:neuenhagen-event-2026-025@amtsfeed.de
-DTSTAMP:20260505T215419Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Weihnachtssingen im Theatron
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:2027             Einwohnerversammlung im Bürgerhaus
 URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
- -aktuell/veranstaltungstermine-2026-1/
+ -aktuell/veranstaltungstermine-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:neuenhagen-event-2026-026@amtsfeed.de
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:2027           Tag des Ehrenamtes
+URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
+ -aktuell/veranstaltungstermine-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:neuenhagen-event-2026-027@amtsfeed.de
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:–                 Neuenhagener Weihnachtsmarkt i
+ n der Arche
+URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
+ -aktuell/veranstaltungstermine-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:neuenhagen-event-2026-028@amtsfeed.de
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:2027
+URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
+ -aktuell/veranstaltungstermine-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:neuenhagen-event-2026-029@amtsfeed.de
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:2027             Seniorenweihnachtsfeier
+URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
+ -aktuell/veranstaltungstermine-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:neuenhagen-event-2026-030@amtsfeed.de
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:2027           Weihnachtssingen im Theatron des Rathaus
+ es
+URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
+ -aktuell/veranstaltungstermine-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:neuenhagen-event-2026-031@amtsfeed.de
+DTSTAMP:20261119T114812Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:2027           Kurzfilmtag im Bürgerhaus
+URL:https://www.neuenhagen-bei-berlin.de/startseite-de/verkehr-verwaltung
+ -aktuell/veranstaltungstermine-2026-2027/
 END:VEVENT
 END:VCALENDAR

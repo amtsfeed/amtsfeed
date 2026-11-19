@@ -1139,15 +1139,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2855880/2026/11/17/frauenf
  ruehstueck-in-vehlefanz
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855698@amtsfeed.de
-DTSTAMP:20261112T112332Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Kartenfreunde Schwante
-URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/11/18/kartenf
- reunde-schwante
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855881@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261118
@@ -1280,6 +1271,15 @@ DTEND;VALUE=DATE:20261125
 SUMMARY:Skat in Bötzow
 URL:https://www.oberkraemer.de/veranstaltungen/2855781/2026/11/24/skat-in
  -boetzow
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855698@amtsfeed.de
+DTSTAMP:20261119T114911Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Kartenfreunde Schwante
+URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/11/25/kartenf
+ reunde-schwante
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962224@amtsfeed.de
@@ -1708,12 +1708,12 @@ URL:https://www.oberkraemer.de/veranstaltungen/2977679/2026/12/10/traditi
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2891499@amtsfeed.de
-DTSTAMP:20261028T094920Z
+DTSTAMP:20261119T114911Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:Weihnachtssingen mit dem Pop-Chor Oberhavel und Ditha Buß
+SUMMARY:Weihnachtssingen Ditha Buß sowie Chorsängerinnen und -sängern
 URL:https://www.oberkraemer.de/veranstaltungen/2891499/2026/12/11/weihnac
- htssingen-mit-dem-pop-chor-oberhavel-und-ditha-buss
+ htssingen-ditha-buss-sowie-chorsaengerinnen-und-saengern
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855661@amtsfeed.de

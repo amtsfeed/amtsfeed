@@ -1126,7 +1126,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:brieselang-event-Buergermeisterin-laedt-zur-XXL-Gespraechsrunde-ins-R
  athaus-20261121@amtsfeed.de
-DTSTAMP:20261016T081528Z
+DTSTAMP:20261119T114602Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Bürgermeisterin lädt zur XXL-Gesprächsrunde ins Rathaus
@@ -1137,7 +1137,7 @@ DESCRIPTION:Bürgermeisterin Kathrin Neumann-Riedel lädt am Samstag\, 21
  . November 2026\, von 10 bis 13 Uhr zu einer erweiterten Gesprächsrunde 
  ins Brieselanger Rathaus ein. Bei der nächsten Ausgabe von „Auf einen 
  Kaffee mit der Bürgermeisterin“ nehmen diesmal auch die Fachbereichsle
- iterinnen und Fachbereichsleiter der Gemeindeverwaltung teil.
+ iter der Gemeindeverwaltung teil.
 LOCATION:Gemeinde Brieselang\,
 END:VEVENT
 BEGIN:VEVENT
@@ -1156,6 +1156,22 @@ DESCRIPTION:Bürgermeisterin Kathrin Neumann-Riedel lädt am Samstag\, 21
  Kaffee mit der Bürgermeisterin“ nehmen diesmal auch die Fachbereichsle
  iterinnen und Fachbereichsleiter der Gemeindeverwaltung teil.
 LOCATION:Gemeinde Brieselang\,
+END:VEVENT
+BEGIN:VEVENT
+UID:brieselang-event-100-Jahre-katholische-Gottesdienste-Feier-in-St-Mari
+ en-20261122@amtsfeed.de
+DTSTAMP:20261119T114602Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:100 Jahre katholische Gottesdienste: Feier in St. Marien
+URL:https://www.gemeindebrieselang.de/Aktuelles/Veranstaltungen.htm/Veran
+ staltungen/100-Jahre-katholische-Gottesdienste-Feier-in-St-Marien.html?
+DESCRIPTION:Seit 100 Jahren werden in Brieselang katholische Gottesdienst
+ e gefeiert. Aus diesem Anlass lädt die katholische Kirchengemeinde am So
+ nntag\, 22. November 2026\, um 10 Uhr zu einem Familiengottesdienst in di
+ e St.-Marien-Kirche in der Birkenallee 19 ein.
+LOCATION:Katholische Kirchengemeinde Sankt Marien\, Pfarrei St. Peter und
+  Paul\,
 END:VEVENT
 BEGIN:VEVENT
 UID:brieselang-event-Krimiabend-in-der-Bibliothek.html?&kalender_month=11

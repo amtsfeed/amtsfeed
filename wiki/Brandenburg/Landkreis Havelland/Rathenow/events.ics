@@ -2045,6 +2045,16 @@ LOCATION:Rathenower Modelleisenbahnverein e.V. Jahnstraße 27 14712 Rathe
  now
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1850-20261128@amtsfeed.de
+DTSTAMP:20261120T114614Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Hofadvent
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/hofadvent/
+LOCATION:Evangelisch-Freikirchliche Gemeinde Rathenow Berliner Straße 29
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1753-20261129@amtsfeed.de
 DTSTAMP:20260928T095320Z
 DTSTART;VALUE=DATE:20261129
@@ -2086,6 +2096,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/aschenbroedel-weihnacht-thomas-
  kuebler-spielt-im-advent-im-havelland/
 LOCATION:Premnitz\, Bühne am Rathaus
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1849-20261129@amtsfeed.de
+DTSTAMP:20261120T114614Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Adventskonzert des Chores InMelody
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/adventskonzert-des-chores-inmel
+ ody/
+LOCATION:Dorfkirche Göttlin
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1758-20261130@amtsfeed.de
@@ -2219,6 +2240,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Musik- und Kunstschule Havelland Alte Mühle - Konzertsaal
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1851-20261210@amtsfeed.de
+DTSTAMP:20261120T114614Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Einladung: Gemeinsames Adventssingen
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/einladung-gemeinsames-adventssi
+ ngen/
+LOCATION:Musik- und Kunstschule Rathenow Konzertsaal Alte Mühle Schweden
+ damm 1
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1775-20261212@amtsfeed.de
 DTSTAMP:20261014T084845Z
 DTSTART;VALUE=DATE:20261212
@@ -2227,6 +2260,17 @@ SUMMARY:JA sie findet statt: Die Waldweihnacht Rathenow 2026
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/ja-es-findet-statt-die-waldweih
  nacht-rathenow-2026/
+LOCATION:Forsthaus Ferchesarer Weg 14712 Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1852-20261212@amtsfeed.de
+DTSTAMP:20261120T114614Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:1. Rathenower Weihnachtszauberpfad zur Waldweihnacht
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/1-rathenower-weihnachtszauberpf
+ ad-zur-waldweihnacht/
 LOCATION:Forsthaus Ferchesarer Weg 14712 Rathenow
 END:VEVENT
 BEGIN:VEVENT

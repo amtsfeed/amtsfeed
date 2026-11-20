@@ -1652,24 +1652,6 @@ URL:https://www.michendorf.de/veranstaltungen/2987686/2026/11/18/6.-erzae
  hlsalon-retten-loeschen-bergen-schuetzen-feuerwehr-gestern-und-heute
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959533@amtsfeed.de
-DTSTAMP:20261113T111136Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959533/2026/11/19/jugendcl
- ub-micheck-geoeffnet
-END:VEVENT
-BEGIN:VEVENT
-UID:michendorf-event-2986753@amtsfeed.de
-DTSTAMP:20261113T111136Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Einkaufshilfe - gemeinsam Lieferapp einrichten
-URL:https://www.michendorf.de/veranstaltungen/2986753/2026/11/19/einkaufs
- hilfe-gemeinsam-lieferapp-einrichten
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2884834@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261119
@@ -1740,6 +1722,24 @@ DTEND;VALUE=DATE:20261126
 SUMMARY:Internationaler Tag zur Beseitigung der Gewalt gegen Frauen
 URL:https://www.michendorf.de/veranstaltungen/2976342/2026/11/25/internat
  ionaler-tag-zur-beseitigung-der-gewalt-gegen-frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2959533@amtsfeed.de
+DTSTAMP:20261120T114850Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959533/2026/11/26/jugendcl
+ ub-micheck-geoeffnet
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2986753@amtsfeed.de
+DTSTAMP:20261120T114850Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Einkaufshilfe - gemeinsam Lieferapp einrichten
+URL:https://www.michendorf.de/veranstaltungen/2986753/2026/11/26/einkaufs
+ hilfe-gemeinsam-lieferapp-einrichten
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2785539@amtsfeed.de

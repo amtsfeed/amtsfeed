@@ -1282,33 +1282,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2984643/2026/11/18/quot
  goldgraeberinnen-quot-vom-schaetze-bergen-zum-neuausrichten
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2424341@amtsfeed.de
-DTSTAMP:20261113T111205Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/11/19/fami
- liensprechzeiten-elternberatung-im-familienzentrum
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907844@amtsfeed.de
-DTSTAMP:20261113T111205Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Migrationsberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/11/19/migr
- ationsberatung-im-familienzentrum
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907847@amtsfeed.de
-DTSTAMP:20261106T110352Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Spielrunde & Mittagessen für Senior:innen
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907847/2026/11/19/spie
- lrunde-mittagessen-fuer-senior-innen
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973367@amtsfeed.de
 DTSTAMP:20261028T095155Z
 DTSTART;VALUE=DATE:20261119
@@ -1456,6 +1429,24 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/11/25/drk-
  spielrunde-kaffee-und-kartenspiel-fuer-senior-innen
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2424341@amtsfeed.de
+DTSTAMP:20261120T114913Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/11/26/fami
+ liensprechzeiten-elternberatung-im-familienzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907844@amtsfeed.de
+DTSTAMP:20261120T114913Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Migrationsberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/11/26/migr
+ ationsberatung-im-familienzentrum
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2890181@amtsfeed.de
 DTSTAMP:20261030T101246Z
 DTSTART;VALUE=DATE:20261126
@@ -1509,6 +1500,15 @@ SUMMARY:"Pflege vor Ort" - Sicher unterwegs im Straßenverkehr - Mobilit
  ät im Alter
 URL:https://www.wiesenburgmark.de/veranstaltungen/3002659/2026/11/30/pfle
  ge-vor-ort-sicher-unterwegs-im-strassenverkehr-mobilitaet-im-alter
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907847@amtsfeed.de
+DTSTAMP:20261120T114913Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Spielrunde & Mittagessen für Senior:innen
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907847/2026/12/03/spie
+ lrunde-mittagessen-fuer-senior-innen
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-3001702@amtsfeed.de

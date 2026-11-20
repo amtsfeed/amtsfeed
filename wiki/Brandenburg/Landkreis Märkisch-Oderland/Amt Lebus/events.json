@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:47:57.661Z",
+  "updatedAt": "2026-11-20T11:46:54.292Z",
   "items": [
     {
       "id": "2846347",
@@ -1199,16 +1199,6 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
-      "id": "2538590",
-      "title": "Tischtennis",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/19/tischtennis",
-      "startDate": "2026-11-19T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-13T11:08:41.241Z"
-    },
-    {
       "id": "2464906",
       "title": "Selbstverteidigung für Kinder von 5-13 Jahren",
       "url": "https://www.amt-lebus.de/veranstaltungen/2464906/2026/11/20/selbstverteidigung-fuer-kinder-von-5-13-jahren",
@@ -1380,6 +1370,16 @@
       "updatedAt": "2026-10-28T09:48:01.755Z"
     },
     {
+      "id": "2538590",
+      "title": "Tischtennis",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/26/tischtennis",
+      "startDate": "2026-11-26T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-20T11:46:54.281Z"
+    },
+    {
       "id": "3002080",
       "title": "4.Weihnachtsmarkt und Tag der offenen Tür - Schule Alt Zeschdorf",
       "url": "https://www.amt-lebus.de/veranstaltungen/3002080/2026/11/27/4.weihnachtsmarkt-und-tag-der-offenen-tuer-schule-alt-zeschdorf",
@@ -1404,8 +1404,9 @@
       "url": "https://www.amt-lebus.de/veranstaltungen/2984934/2026/11/28/podelziger-weihnachtsmarkt-im-sternenglanz",
       "startDate": "2026-11-28T00:00:00.000Z",
       "location": "Podelzig",
+      "description": "\"Podelziger Weihnachtsmarkt im Sternenglanz\" Termin: 28.11.2026 Zeit: 14- 21 Uhr Ort: an der Kirche kein Eintritt Rund um die stimmungsvoll erhellte Kirche in Podelzig findet der erste Weihnachtsmarkt der Region statt. Ein Weihnachtsmarkt für die ganze ...",
       "fetchedAt": "2026-10-16T08:18:31.068Z",
-      "updatedAt": "2026-10-28T09:48:01.755Z"
+      "updatedAt": "2026-11-20T11:46:54.281Z"
     },
     {
       "id": "3008455",
@@ -1424,6 +1425,15 @@
       "location": "Treplin",
       "fetchedAt": "2026-05-05T14:58:26.635Z",
       "updatedAt": "2026-11-10T11:21:26.772Z"
+    },
+    {
+      "id": "3010484",
+      "title": "1. Advent - Podelzig wird ins Lichterkleid gesezt!",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3010484/2026/11/29/1.-advent-podelzig-wird-ins-lichterkleid-gesezt",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "location": "Podelzig",
+      "fetchedAt": "2026-11-20T11:46:54.281Z",
+      "updatedAt": "2026-11-20T11:46:54.281Z"
     },
     {
       "id": "2904743",

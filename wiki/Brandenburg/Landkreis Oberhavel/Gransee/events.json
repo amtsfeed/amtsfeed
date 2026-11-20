@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:48:56.335Z",
+  "updatedAt": "2026-11-20T11:47:37.320Z",
   "items": [
     {
       "id": "gransee-event-25497",
@@ -5121,6 +5121,16 @@
       "updatedAt": "2026-09-12T08:05:03.027Z"
     },
     {
+      "id": "gransee-event-26997",
+      "title": "ADVENT IM NATURPARKHAUS STECHLIN",
+      "url": "https://www.gransee.de/event/advent-im-naturparkhaus-stechlin/",
+      "startDate": "2026-12-10T15:00:00.000Z",
+      "endDate": "2026-12-10T17:00:00.000Z",
+      "location": "NaturParkHaus Stechlin, Menz",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
       "id": "gransee-event-26511",
       "title": "Fröhliche Donnerstage 2026 &#8211; bei KIELBLOCK Versicherungsmakler",
       "url": "https://www.gransee.de/event/froehliche-donnerstage-2026-bei-kielblock-versicherungsmakler/",
@@ -5129,6 +5139,16 @@
       "location": "Gransee",
       "fetchedAt": "2026-09-15T08:48:43.607Z",
       "updatedAt": "2026-09-15T08:48:43.607Z"
+    },
+    {
+      "id": "gransee-event-26999",
+      "title": "ADVENT IM NATURPARKHAUS STECHLIN",
+      "url": "https://www.gransee.de/event/advent-im-naturparkhaus-stechlin-2/",
+      "startDate": "2026-12-12T10:00:00.000Z",
+      "endDate": "2026-12-12T12:00:00.000Z",
+      "location": "NaturParkHaus Stechlin, Menz",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
     },
     {
       "id": "gransee-event-26764",
@@ -5189,6 +5209,16 @@
       "updatedAt": "2026-10-16T08:19:22.954Z"
     },
     {
+      "id": "gransee-event-27001",
+      "title": "ADVENT IM NATURPARKHAUS STECHLIN",
+      "url": "https://www.gransee.de/event/advent-im-naturparkhaus-stechlin-3/",
+      "startDate": "2026-12-16T15:00:00.000Z",
+      "endDate": "2026-12-16T17:00:00.000Z",
+      "location": "NaturParkHaus Stechlin, Menz",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
       "id": "gransee-event-26513",
       "title": "Fröhliche Donnerstage 2026 &#8211; bei der LVM",
       "url": "https://www.gransee.de/event/froehliche-donnerstage-2026-bei-der-lvm/",
@@ -5218,14 +5248,24 @@
       "updatedAt": "2026-09-12T08:05:03.027Z"
     },
     {
+      "id": "gransee-event-26973",
+      "title": "Sternenmarkt Seilershof",
+      "url": "https://www.gransee.de/event/sternenmarkt-seilershof-2/",
+      "startDate": "2026-12-19T15:00:00.000Z",
+      "endDate": "2026-12-19T18:00:00.000Z",
+      "location": "Seilershof, Seilershof",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
       "id": "gransee-event-24653",
-      "title": "Teilnahme am internationalen Kurzfilmtag am kürzesten Tag des Jahres",
+      "title": "Weihnachtsfilmfestival im Bahnhof Dannenwalde",
       "url": "https://www.gransee.de/event/teilnahme-am-internationalen-kurzfilmtag-am-kuerzesten-tag-des-jahres-2/",
       "startDate": "2026-12-20T14:00:00.000Z",
       "endDate": "2026-12-20T18:00:00.000Z",
       "location": "Umweltbahnhof Dannenwalde e. V. (UBD e. V.), Gransee, OT Dannenwalde",
       "fetchedAt": "2026-05-06T15:28:12.520Z",
-      "updatedAt": "2026-09-12T08:05:03.027Z"
+      "updatedAt": "2026-11-20T11:47:23.732Z"
     },
     {
       "id": "gransee-event-24607",
@@ -5336,6 +5376,16 @@
       "updatedAt": "2026-11-17T12:00:43.052Z"
     },
     {
+      "id": "gransee-event-26949",
+      "title": "Volleyball",
+      "url": "https://www.gransee.de/event/volleyball-10/",
+      "startDate": "2027-01-04T16:00:00.000Z",
+      "endDate": "2027-01-04T18:00:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
       "id": "gransee-event-26762",
       "title": "Vortrag im Gartensaal des Gutshauses Zernikow",
       "url": "https://www.gransee.de/event/vortrag-im-gartensaal-des-gutshauses-zernikow/",
@@ -5424,13 +5474,13 @@
     },
     {
       "id": "gransee-event-26942",
-      "title": "Volleyball",
+      "title": "Stepp Aerobic",
       "url": "https://www.gransee.de/event/volleyball-9/",
       "startDate": "2027-01-25T15:45:00.000Z",
       "endDate": "2027-01-25T16:45:00.000Z",
       "location": "Dreifelder-Sporthalle Gransee, Gransee",
       "fetchedAt": "2026-11-19T11:48:47.479Z",
-      "updatedAt": "2026-11-19T11:48:47.479Z"
+      "updatedAt": "2026-11-20T11:47:23.732Z"
     },
     {
       "id": "gransee-event-26936",
@@ -5443,6 +5493,16 @@
       "updatedAt": "2026-11-19T11:48:47.479Z"
     },
     {
+      "id": "gransee-event-26953",
+      "title": "Stepp Aerobic",
+      "url": "https://www.gransee.de/event/stepp-aerobic-3/",
+      "startDate": "2027-02-01T15:45:00.000Z",
+      "endDate": "2027-02-01T16:45:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
       "id": "gransee-event-26938",
       "title": "Volleyball",
       "url": "https://www.gransee.de/event/volleyball-8/",
@@ -5451,6 +5511,26 @@
       "location": "Dreifelder-Sporthalle Gransee, Gransee",
       "fetchedAt": "2026-11-19T11:48:47.479Z",
       "updatedAt": "2026-11-19T11:48:47.479Z"
+    },
+    {
+      "id": "gransee-event-26955",
+      "title": "Stepp Aerobic",
+      "url": "https://www.gransee.de/event/stepp-aerobic-4/",
+      "startDate": "2027-02-08T15:45:00.000Z",
+      "endDate": "2027-02-08T16:45:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
+      "id": "gransee-event-26961",
+      "title": "Volleyball",
+      "url": "https://www.gransee.de/event/volleyball-11/",
+      "startDate": "2027-02-08T16:00:00.000Z",
+      "endDate": "2027-02-08T18:00:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
     },
     {
       "id": "gransee-event-26775",
@@ -5480,6 +5560,26 @@
       "updatedAt": "2026-11-18T11:51:23.806Z"
     },
     {
+      "id": "gransee-event-26957",
+      "title": "Stepp Aerobic",
+      "url": "https://www.gransee.de/event/stepp-aerobic-5/",
+      "startDate": "2027-02-15T15:45:00.000Z",
+      "endDate": "2027-02-15T16:45:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
+      "id": "gransee-event-26963",
+      "title": "Volleyball",
+      "url": "https://www.gransee.de/event/volleyball-12/",
+      "startDate": "2027-02-15T16:00:00.000Z",
+      "endDate": "2027-02-15T18:00:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
       "id": "gransee-event-26802",
       "title": "Spiel- und Kennenlernstunde in der Kita Wiesenknirpse",
       "url": "https://www.gransee.de/event/spiel-und-kennlernstunde-in-der-kita-wiesenknirpse-2/",
@@ -5488,6 +5588,46 @@
       "location": "Kita &#8222;Wiesenknirpse&#8220;, Schönermark",
       "fetchedAt": "2026-11-18T11:51:23.806Z",
       "updatedAt": "2026-11-18T11:51:23.806Z"
+    },
+    {
+      "id": "gransee-event-26959",
+      "title": "Stepp Aerobic",
+      "url": "https://www.gransee.de/event/stepp-aerobic-6/",
+      "startDate": "2027-02-22T15:45:00.000Z",
+      "endDate": "2027-02-22T16:45:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
+      "id": "gransee-event-26965",
+      "title": "Volleyball",
+      "url": "https://www.gransee.de/event/volleyball-13/",
+      "startDate": "2027-02-22T16:00:00.000Z",
+      "endDate": "2027-02-22T18:00:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
+      "id": "gransee-event-26968",
+      "title": "Stepp Aerobic",
+      "url": "https://www.gransee.de/event/stepp-aerobic-7/",
+      "startDate": "2027-03-01T15:45:00.000Z",
+      "endDate": "2027-03-01T16:45:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
+      "id": "gransee-event-26987",
+      "title": "Volleyball",
+      "url": "https://www.gransee.de/event/volleyball-14/",
+      "startDate": "2027-03-01T16:00:00.000Z",
+      "endDate": "2027-03-01T18:00:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
     },
     {
       "id": "gransee-event-26853",
@@ -5518,6 +5658,26 @@
       "location": "Saal der Amtsverwaltung, Gransee",
       "fetchedAt": "2026-11-18T11:51:23.806Z",
       "updatedAt": "2026-11-18T11:51:23.806Z"
+    },
+    {
+      "id": "gransee-event-26974",
+      "title": "Stepp Aerobic",
+      "url": "https://www.gransee.de/event/stepp-aerobic-8/",
+      "startDate": "2027-03-08T15:45:00.000Z",
+      "endDate": "2027-03-08T16:45:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
+      "id": "gransee-event-26989",
+      "title": "Volleyball",
+      "url": "https://www.gransee.de/event/volleyball-15/",
+      "startDate": "2027-03-08T16:00:00.000Z",
+      "endDate": "2027-03-08T18:00:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
     },
     {
       "id": "gransee-event-26877",
@@ -5559,6 +5719,26 @@
       "updatedAt": "2026-11-18T11:51:23.806Z"
     },
     {
+      "id": "gransee-event-26977",
+      "title": "Stepp Aerobic",
+      "url": "https://www.gransee.de/event/stepp-aerobic-9/",
+      "startDate": "2027-03-15T15:45:00.000Z",
+      "endDate": "2027-03-15T16:45:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
+      "id": "gransee-event-26991",
+      "title": "Volleyball",
+      "url": "https://www.gransee.de/event/volleyball-16/",
+      "startDate": "2027-03-15T16:00:00.000Z",
+      "endDate": "2027-03-15T18:00:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
       "id": "gransee-event-26909",
       "title": "Gemeindevertretersitzung Sonnenberg",
       "url": "https://www.gransee.de/event/gemeindevertretersitzung-sonnenberg/",
@@ -5595,6 +5775,46 @@
       "location": "Saal der Amtsverwaltung, Gransee",
       "fetchedAt": "2026-11-18T11:51:23.806Z",
       "updatedAt": "2026-11-18T11:51:23.806Z"
+    },
+    {
+      "id": "gransee-event-26979",
+      "title": "Stepp Aerobic",
+      "url": "https://www.gransee.de/event/stepp-aerobic-10/",
+      "startDate": "2027-03-22T15:45:00.000Z",
+      "endDate": "2027-03-22T16:45:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
+      "id": "gransee-event-26993",
+      "title": "Volleyball",
+      "url": "https://www.gransee.de/event/volleyball-17/",
+      "startDate": "2027-03-22T16:00:00.000Z",
+      "endDate": "2027-03-22T18:00:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
+      "id": "gransee-event-26981",
+      "title": "Stepp Aerobic",
+      "url": "https://www.gransee.de/event/stepp-aerobic-11/",
+      "startDate": "2027-03-29T16:00:00.000Z",
+      "endDate": "2027-03-29T18:00:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
+    },
+    {
+      "id": "gransee-event-26995",
+      "title": "Volleyball",
+      "url": "https://www.gransee.de/event/volleyball-18/",
+      "startDate": "2027-03-29T16:00:00.000Z",
+      "endDate": "2027-03-29T18:00:00.000Z",
+      "location": "Dreifelder-Sporthalle Gransee, Gransee",
+      "fetchedAt": "2026-11-20T11:47:23.732Z",
+      "updatedAt": "2026-11-20T11:47:23.732Z"
     },
     {
       "id": "gransee-event-26821",

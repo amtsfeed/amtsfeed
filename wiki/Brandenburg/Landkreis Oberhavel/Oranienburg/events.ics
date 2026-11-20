@@ -2288,14 +2288,15 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-8023@amtsfeed.de
-DTSTAMP:20261115T110305Z
+DTSTAMP:20261120T114750Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:Annette Kruhl - Vom Karma-Coach ins Kuschel-Camp
+SUMMARY:Achtung!!!!!!! Abgesagt!!!! !Annette Kruhl - Vom Karma-Coach ins 
+ Kuschel-Camp
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
- der/Annette-Kruhl-Vom-Karma-Coach-ins-Kuschel-Camp.php?object=tx\,2967.4&
- amp\;ModID=11&amp\;FID=2967.8023.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;b
- n=1
+ der/Achtung-Abgesagt-Annette-Kruhl-Vom-Karma-Coach-ins-Kuschel-Camp.php?o
+ bject=tx\,2967.4&amp\;ModID=11&amp\;FID=2967.8023.1&amp\;NavID=2967.39&am
+ p\;sfreg=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
 UID:oranienburg-event-8048@amtsfeed.de
@@ -2347,5 +2348,16 @@ SUMMARY:Weihnachtssingen in Malz im und am Dorfclub
 URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  der/Weihnachtssingen-in-Malz-im-und-am-Dorfclub.php?object=tx\,2967.4&amp
  \;ModID=11&amp\;FID=2967.8071.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-8053@amtsfeed.de
+DTSTAMP:20261120T114750Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Der Nussknacker - Musikalisches Tanztheater (live)
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Der-Nussknacker-Musikalisches-Tanztheater-live-.php?object=tx\,2967.4
+ &amp\;ModID=11&amp\;FID=2967.8053.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;
+ bn=1
 END:VEVENT
 END:VCALENDAR

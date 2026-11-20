@@ -476,33 +476,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2971006/2026/11/18/lesung-
  alt-erlebt-quot
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124494@amtsfeed.de
-DTSTAMP:20261113T111003Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Behinderten- und Seniorenberatung
-URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/11/19/behinde
- rten-und-seniorenberatung
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2398220@amtsfeed.de
-DTSTAMP:20261028T094944Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Außenberatung Senftenberg
-URL:https://www.lauchhammer.de/veranstaltungen/2398220/2026/11/19/aussenb
- eratung-senftenberg
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2918316@amtsfeed.de
-DTSTAMP:20261028T094944Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Gruppentreffen Selbsthilfegruppe Depressionen in Lauchhammer
-URL:https://www.lauchhammer.de/veranstaltungen/2918316/2026/11/19/gruppen
- treffen-selbsthilfegruppe-depressionen-in-lauchhammer
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2984578@amtsfeed.de
 DTSTAMP:20261028T094944Z
 DTSTART;VALUE=DATE:20261119
@@ -575,6 +548,15 @@ SUMMARY:-Ausgebucht- Spüren\, regulieren\, stärken – Ein Special-Work
 URL:https://www.lauchhammer.de/veranstaltungen/3001763/2026/11/25/ausgebu
  cht-spueren-regulieren-staerken--ein-special-workshop-zum-internationalen
  -tag-gegen-gewalt-an-frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124494@amtsfeed.de
+DTSTAMP:20261120T114759Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/11/26/behinde
+ rten-und-seniorenberatung
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2918359@amtsfeed.de
@@ -714,6 +696,24 @@ URL:https://www.lauchhammer.de/veranstaltungen/2558944/2026/12/16/gruppen
  treffen-selbsthilfegruppe-long-post-covid-lauchhammer
 END:VEVENT
 BEGIN:VEVENT
+UID:lauchhammer-event-2398220@amtsfeed.de
+DTSTAMP:20261120T114759Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Außenberatung Senftenberg
+URL:https://www.lauchhammer.de/veranstaltungen/2398220/2026/12/17/aussenb
+ eratung-senftenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2918316@amtsfeed.de
+DTSTAMP:20261120T114759Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Gruppentreffen Selbsthilfegruppe Depressionen in Lauchhammer
+URL:https://www.lauchhammer.de/veranstaltungen/2918316/2026/12/17/gruppen
+ treffen-selbsthilfegruppe-depressionen-in-lauchhammer
+END:VEVENT
+BEGIN:VEVENT
 UID:lauchhammer-event-2989087@amtsfeed.de
 DTSTAMP:20261028T094944Z
 DTSTART;VALUE=DATE:20270105
@@ -820,6 +820,15 @@ DTEND;VALUE=DATE:20270305
 SUMMARY:Senioren Disco
 URL:https://www.lauchhammer.de/veranstaltungen/3002175/2027/03/04/seniore
  n-disco
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-3010079@amtsfeed.de
+DTSTAMP:20261120T114759Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:2. Elternkonferenz
+URL:https://www.lauchhammer.de/veranstaltungen/3010079/2027/03/11/2.-elte
+ rnkonferenz
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-3002178@amtsfeed.de

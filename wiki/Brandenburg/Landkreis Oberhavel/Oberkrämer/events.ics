@@ -1157,15 +1157,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2962391/2026/11/18/puppent
  heater-in-der-bibliothek-boetzow
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855733@amtsfeed.de
-DTSTAMP:20261113T110943Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Nordic-Walking in Vehlefanz
-URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/11/19/nordic-
- walking-in-vehlefanz
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855882@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261119
@@ -1316,6 +1307,15 @@ DTEND;VALUE=DATE:20261126
 SUMMARY:Dialogabend gegen Gewalt an Frauen
 URL:https://www.oberkraemer.de/veranstaltungen/2999605/2026/11/25/dialoga
  bend-gegen-gewalt-an-frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855733@amtsfeed.de
+DTSTAMP:20261120T114748Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Nordic-Walking in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/11/26/nordic-
+ walking-in-vehlefanz
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2988863@amtsfeed.de

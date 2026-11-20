@@ -9362,6 +9362,15 @@ URL:https://www.osl-online.de/veranstaltungen/2987671/2026/11/27/adventsl
 LOCATION:Sozialer Zusammenhalt / Soziale Stadt
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-3010464-20261127@amtsfeed.de
+DTSTAMP:20261120T114808Z
+DTSTART:20261127T150000Z
+SUMMARY:Weihnachtsmarkt der Kita "Apfelblüte"
+URL:https://www.osl-online.de/veranstaltungen/3010464/2026/11/27/weihnach
+ tsmarkt-der-kita-apfelbluete
+LOCATION:Kita "Apfelblüte" in Saßleben
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2915897-20261127@amtsfeed.de
 DTSTAMP:20260911T111241Z
 DTSTART:20261127T160000Z
@@ -9913,6 +9922,16 @@ URL:https://www.osl-online.de/veranstaltungen/2957496/2026/12/03/tanzcaf
 LOCATION:DRK - Seniorenpflegeheim mit Wohnanlage
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-3009722-20261203@amtsfeed.de
+DTSTAMP:20261120T114808Z
+DTSTART:20261203T160000Z
+DTEND:20261203T200000Z
+SUMMARY:Adventshütte Calau: Stadt Calau
+URL:https://www.osl-online.de/veranstaltungen/3009722/2026/12/03/adventsh
+ uette-calau-stadt-calau
+LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2981035-20261203@amtsfeed.de
 DTSTAMP:20261028T095001Z
 DTSTART:20261203T170000Z
@@ -10091,12 +10110,12 @@ LOCATION:Calauer Info - Punkt
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2829709-20261205@amtsfeed.de
-DTSTAMP:20261028T095001Z
+DTSTAMP:20261120T114808Z
 DTSTART:20261205T160000Z
 SUMMARY:Berlin-Brandenburg Cup - Fightclub 193 e. V.
 URL:https://www.osl-online.de/veranstaltungen/2829709/2026/12/05/berlin-b
  randenburg-cup-fightclub-193-e.-v
-LOCATION:SeeCampus Niederlausitz
+LOCATION:Turnhalle Grundschule Wandelhof
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2970738-20261205@amtsfeed.de
@@ -12483,6 +12502,16 @@ SUMMARY:Behinderten- und Seniorenberatung
 URL:https://www.osl-online.de/veranstaltungen/2124494/2027/03/11/behinder
  ten-und-seniorenberatung
 LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-3010079-20270311@amtsfeed.de
+DTSTAMP:20261120T114808Z
+DTSTART:20270311T180000Z
+DTEND:20270311T190000Z
+SUMMARY:2. Elternkonferenz
+URL:https://www.osl-online.de/veranstaltungen/3010079/2027/03/11/2.-elter
+ nkonferenz
+LOCATION:Freifrau-von-Löwendal-Grundschule-Europaschule
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2953701-20270312@amtsfeed.de

@@ -2337,13 +2337,42 @@ LOCATION:Jugendclub Eiche\, Ahrensfelder Chaussee 35\, 16356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004837@amtsfeed.de
-DTSTAMP:20260911T110619Z
+DTSTAMP:20261120T114431Z
 DTSTART:20261126T180000Z
 SUMMARY:öffentliche Sitzung des Ortsbeirates Lindenberg
 URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-ortsbeirates-lindenberg-900004837-30601.html
+DESCRIPTION:Zur Tagesordnung
 LOCATION:16356 Ahrensfelde\, Ortszentrum\, Karl-Marx-Straße 20 E\, OT
   Lindenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005101@amtsfeed.de
+DTSTAMP:20261120T114431Z
+DTSTART:20261128T130000Z
+DTEND:20261128T150000Z
+SUMMARY:Weihnachtsbaumschmücken in Eiche
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/weihnachtsbaumsch
+ muecken-in-eiche-900005101-30601.html
+DESCRIPTION:Der Weihnachtsbaum auf dem Dorfanger Eiche soll gemeinsam ges
+ chmückt werden. Baumschmuck ist vorhanden\, aber es kann gern auch eigen
+ er mitgebracht werden. Für eine Stärkung und warme Getränke ist gesorg
+ t.
+LOCATION:Dorfanger Eiche\, Eichener Dorfstraße\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005102@amtsfeed.de
+DTSTAMP:20261120T114431Z
+DTSTART:20261129T110000Z
+DTEND:20261129T170000Z
+SUMMARY:25. Blumberger Weihnachtsmarkt
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/25-blumberger-wei
+ hnachtsmarkt-900005102-30601.html?naviID=0
+DESCRIPTION:Bereits zum 25. Mal lädt der BSV Blumberg zum traditionellen
+  Weihnachtsmarkt ein. Besucherinnen und Besucher können sich auf festlic
+ hes Markttreiben und eine gemütliche vorweihnachtliche Atmosphäre freue
+ n.
+LOCATION:Berliner Platz Blumberg
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900005042@amtsfeed.de
@@ -2424,6 +2453,53 @@ LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005103@amtsfeed.de
+DTSTAMP:20261120T114431Z
+DTSTART:20261205T120000Z
+DTEND:20261205T190000Z
+SUMMARY:18. Ahrensfelder Weihnachtsmarkt
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/18-ahrensfelder-w
+ eihnachtsmarkt-900005103-30601.html
+DESCRIPTION:Der Rathausplatz verwandelt sich an zwei Tagen in eine festli
+ che Weihnachtswelt. Zahlreiche Stände\, ein abwechslungsreiches Bühnenp
+ rogramm\, Auftritte der Kindertagesstätten und musikalische Darbietungen
+  laden zum Besuch ein.\n\nBesondere Programmpunkte:\n\nSamstagabend: Feue
+ rshow und Höhenfeuerwerk\n\nSonntag: Kostenfreies Puppentheater im Ratha
+ ussaal\n\nAn beiden Tagen: Geöffnete Kirche
+LOCATION:Rathausplatz\, Lindenberger Straße 1 \n16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005104@amtsfeed.de
+DTSTAMP:20261120T114431Z
+DTSTART:20261206T110000Z
+DTEND:20261206T170000Z
+SUMMARY:18. Ahrensfelder Weihnachtsmarkt
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/18-ahrensfelder-w
+ eihnachtsmarkt-900005104-30601.html
+DESCRIPTION:Der Rathausplatz verwandelt sich an zwei Tagen in eine festli
+ che Weihnachtswelt. Zahlreiche Stände\, ein abwechslungsreiches Bühnenp
+ rogramm\, Auftritte der Kindertagesstätten und musikalische Darbietungen
+  laden zum Besuch ein.\n\nBesondere Programmpunkte:\n\nSamstagabend: Feue
+ rshow und Höhenfeuerwerk\n\nSonntag: Kostenfreies Puppentheater im Ratha
+ ussaal\n\nAn beiden Tagen: Geöffnete Kirche
+LOCATION:Rathausplatz\, Lindenberger Straße 1 \n16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005105@amtsfeed.de
+DTSTAMP:20261120T114431Z
+DTSTART:20261206T130000Z
+DTEND:20261206T170000Z
+SUMMARY:Mehrower Plätzchenmarkt 2026
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/mehrower-plaetzch
+ enmarkt-2026-900005105-30601.html
+DESCRIPTION:Beim traditionellen Plätzchenmarkt stehen besonders die Kind
+ er im Mittelpunkt. Gemeinsam Plätzchen backen\, basteln\, den Weihnachts
+ mann treffen oder eine Runde mit der Feuerwehr drehen – für einen abwe
+ chslungsreichen Nachmittag ist gesorgt. Ein Fackelumzug rundet die Verans
+ taltung ab.
+LOCATION:Feuerwehrgebäude Mehrow
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900004986@amtsfeed.de
 DTSTAMP:20260911T110619Z
 DTSTART:20261207T090000Z
@@ -2447,6 +2523,21 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-des-hauptausschusses-900004776-30601.html
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005106@amtsfeed.de
+DTSTAMP:20261120T114431Z
+DTSTART:20261208T130000Z
+DTEND:20261208T170000Z
+SUMMARY:Rathauswichteln mit Weihnachtskonzert
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/rathauswichteln-m
+ it-weihnachtskonzert-900005106-30601.html
+DESCRIPTION:Das beliebte Rathauswichteln lädt Familien zu einem gemütli
+ chen Nachmittag ein. Der Weihnachtsmann hat für jedes Kind eine kleine 
+ Überraschung dabei. Kaffee\, Gebäck und verschiedene Angebote sorgen f
+ ür vorweihnachtliche Stimmung.\n\nBesonderer Programmpunkt: Ab 16:00 Uhr
+  Weihnachtskonzert der Musikschule Fröhlich.
+LOCATION:Rathausplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004893@amtsfeed.de
@@ -2494,6 +2585,21 @@ LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005107@amtsfeed.de
+DTSTAMP:20261120T114431Z
+DTSTART:20261212T130000Z
+DTEND:20261212T190000Z
+SUMMARY:Adventsmarkt Eiche
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/adventsmarkt-eich
+ e-900005107-30601.html
+DESCRIPTION:Auf dem Dorfanger erwartet die Besucher ein buntes Markttreib
+ en mit zahlreichen Leckereien\, einer Kindereisenbahn und einem abwechslu
+ ngsreichen Unterhaltungsprogramm.\n\nBesondere Programmpunkte:\n\nGemeins
+ ames Weihnachtssingen mit dem Chor in der Dorfkirche\n\nMusik und Show mi
+ t „Diese Typen“\n\nDorfdisco mit DJ Mario am Abend
+LOCATION:Dorfanger Eiche
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900005043@amtsfeed.de
 DTSTAMP:20261027T090242Z
 DTSTART:20261212T143000Z
@@ -2505,6 +2611,22 @@ DESCRIPTION:Der Märchentruck kommt nach Eiche! Im gemütlichen\, beheizt
  en Märchentruck können Groß und Klein lustige und spannende Puppenspie
  l-Abenteuer erleben.
 LOCATION:Ortsteilzentrum Eiche\, Mehrower Weg\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005100@amtsfeed.de
+DTSTAMP:20261120T114431Z
+DTSTART:20261213T133000Z
+DTEND:20261213T150000Z
+SUMMARY:Einladung zum Adventskonzert
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/einladung-zum-adv
+ entskonzert-900005100-30601.html
+DESCRIPTION:Wir\, die Chorgemeinschaft Blumberg e.V.\, der Posaunenchor d
+ er evangelischen Kirche\, der Kammerchor Blumberg und der Kinder - und Ju
+ gendchor Blumberg\, laden Sie recht herzlich zu unserem Adventskonzert am
+  13. Dezember 2026 um 14:30 Uhr in die Dorfkirche Blumberg ein. Der Eintr
+ itt ist frei und Spenden sind erwünscht. Wir freuen uns\, mit Ihnen 90 M
+ inuten in vorweihnachtlicher Stimmung zu verbringen.
+LOCATION:Kirche Blumberg\, Kirchstraße 2\, 16356 Ahrensfelde
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900005001@amtsfeed.de
@@ -2540,6 +2662,21 @@ SUMMARY:Weihnachtsmarkt Grundschule und Hort Lindenberg
 URL:https://www.ahrensfelde.de/regional/veranstaltungen/weihnachtsmarkt-g
  rundschule-und-hort-lindenberg-900005025-30601.html
 LOCATION:Grunschule/Hort Lindenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005108@amtsfeed.de
+DTSTAMP:20261120T114431Z
+DTSTART:20261217T140000Z
+DTEND:20261217T170000Z
+SUMMARY:Weihnachtsmarkt der Grundschule und Hort Lindenberg
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/weihnachtsmarkt-d
+ er-grundschule-und-hort-lindenberg-900005108-30601.html
+DESCRIPTION:Die Grundschule und der Hort Lindenberg laden zum Weihnachtsm
+ arkt mit Bastelangeboten\, kleinen Leckereien und zahlreichen weiteren Ak
+ tionen ein. Die Einnahmen aus den Spendenaktionen kommen unter anderem ei
+ nem gemeinsamen Schulprojekt zugute.\n\nBesonderer Programmpunkt: Gemeins
+ ames Weihnachtssingen um 17:45 Uhr in der Mensa.
+LOCATION:Grundschule und Hort Lindenberg
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900004840@amtsfeed.de
@@ -2706,6 +2843,16 @@ LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005099@amtsfeed.de
+DTSTAMP:20261120T114431Z
+DTSTART:20270207T160000Z
+DTEND:20270207T180000Z
+SUMMARY:"Brot und Tulpen" - Kino in der offenen Kirche Mehrow
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/brot-und-tulpen-k
+ ino-in-der-offenen-kirche-mehrow-900005099-30601.html
+LOCATION:Kirche Mehrow\, Mehrower Dorfstrasse 9\, 16356 Ahrensfelde
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900005059@amtsfeed.de
 DTSTAMP:20261111T110151Z
 DTSTART:20270208T180000Z
@@ -2778,111 +2925,5 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-der-gemeindevertretung-ahrensfelde-900005090-30601.html
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005062@amtsfeed.de
-DTSTAMP:20261111T110151Z
-DTSTART:20270401T170000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Finanzen
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-finanzen-900005062-30601.html
-LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
- enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005074@amtsfeed.de
-DTSTAMP:20261117T115545Z
-DTSTART:20270408T170000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Wirtschaft\, Bauwesen\,
-  Umwelt und Natur
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-wirtschaft-bauwesen-umwelt-und-natur-900005074-3
- 0601.html
-LOCATION:16356 Ahrensfelde\, Rathaus (Hintereingang)\, Versammlungsraum
-  Raum Nr.106\, Lindenberger Straße 1\, OT Ahrensfelde
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005063@amtsfeed.de
-DTSTAMP:20261111T110151Z
-DTSTART:20270412T170000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Soziales und Kultur
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-soziales-und-kultur-900005063-30601.html
-LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
- enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005091@amtsfeed.de
-DTSTAMP:20261118T114703Z
-DTSTART:20270419T170000Z
-SUMMARY:öffentliche Sitzung der Gemeindevertretung Ahrensfelde
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-der-gemeindevertretung-ahrensfelde-900005091-30601.html
-LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
- enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005064@amtsfeed.de
-DTSTAMP:20261111T110151Z
-DTSTART:20270505T170000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Finanzen
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-finanzen-900005064-30601.html
-LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
- enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005065@amtsfeed.de
-DTSTAMP:20261111T110151Z
-DTSTART:20270510T170000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Soziales und Kultur
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-soziales-und-kultur-900005065-30601.html
-LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
- enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005075@amtsfeed.de
-DTSTAMP:20261117T115545Z
-DTSTART:20270513T170000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Wirtschaft\, Bauwesen\,
-  Umwelt und Natur
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-wirtschaft-bauwesen-umwelt-und-natur-900005075-3
- 0601.html
-LOCATION:16356 Ahrensfelde\, Rathaus (Hintereingang)\, Versammlungsraum
-  Raum Nr.106\, Lindenberger Straße 1\, OT Ahrensfelde
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005092@amtsfeed.de
-DTSTAMP:20261118T114703Z
-DTSTART:20270518T170000Z
-SUMMARY:öffentliche Sitzung der Gemeindevertretung Ahrensfelde
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-der-gemeindevertretung-ahrensfelde-900005092-30601.html
-LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
- enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005049@amtsfeed.de
-DTSTAMP:20261111T110151Z
-DTSTART:20270603T170000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Finanzen
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-finanzen-900005049-30601.html
-LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
- enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005076@amtsfeed.de
-DTSTAMP:20261117T115545Z
-DTSTART:20270610T170000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Wirtschaft\, Bauwesen\,
-  Umwelt und Natur
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-wirtschaft-bauwesen-umwelt-und-natur-900005076-3
- 0601.html
-LOCATION:16356 Ahrensfelde\, Rathaus (Hintereingang)\, Versammlungsraum
-  Raum Nr.106\, Lindenberger Straße 1\, OT Ahrensfelde
 END:VEVENT
 END:VCALENDAR

@@ -1376,6 +1376,24 @@ URL:https://www.scharmuetzelsee.de/event/salsa-cocktail-party-im-bahnhofs
  hotel-die-neue-buehne
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-saarower-salonkonzerte-vom-zauber-petersburger-naecht
+ e@amtsfeed.de
+DTSTAMP:20261120T114810Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Saarower Salonkonzerte - " Vom Zauber Petersburger Nächte "
+URL:https://www.scharmuetzelsee.de/event/saarower-salonkonzerte-vom-zaube
+ r-petersburger-naechte
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-chefs-table@amtsfeed.de
+DTSTAMP:20261120T114810Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Chef's Table
+URL:https://www.scharmuetzelsee.de/event/chefs-table
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de
 DTSTAMP:20261031T094705Z
 DTSTART;VALUE=DATE:20261127

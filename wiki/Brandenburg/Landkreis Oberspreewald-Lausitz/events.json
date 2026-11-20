@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:52:19.242Z",
+  "updatedAt": "2026-11-20T11:48:07.985Z",
   "items": [
     {
       "id": "lk-osl-event-3005612-20260101",
@@ -9117,6 +9117,15 @@
       "updatedAt": "2026-10-28T09:50:01.013Z"
     },
     {
+      "id": "lk-osl-event-3010464-20261127",
+      "title": "Weihnachtsmarkt der Kita \"Apfelblüte\"",
+      "url": "https://www.osl-online.de/veranstaltungen/3010464/2026/11/27/weihnachtsmarkt-der-kita-apfelbluete",
+      "startDate": "2026-11-27T15:00:00.000Z",
+      "location": "Kita \"Apfelblüte\" in Saßleben",
+      "fetchedAt": "2026-11-20T11:48:08.016Z",
+      "updatedAt": "2026-11-20T11:48:08.016Z"
+    },
+    {
       "id": "lk-osl-event-2915897-20261127",
       "title": "Lichterfest",
       "url": "https://www.osl-online.de/veranstaltungen/2915897/2026/11/27/lichterfest.html",
@@ -9654,6 +9663,16 @@
       "updatedAt": "2026-10-28T09:50:01.013Z"
     },
     {
+      "id": "lk-osl-event-3009722-20261203",
+      "title": "Adventshütte Calau: Stadt Calau",
+      "url": "https://www.osl-online.de/veranstaltungen/3009722/2026/12/03/adventshuette-calau-stadt-calau",
+      "startDate": "2026-12-03T16:00:00.000Z",
+      "endDate": "2026-12-03T20:00:00.000Z",
+      "location": "Marktplatz Calau",
+      "fetchedAt": "2026-11-20T11:48:08.016Z",
+      "updatedAt": "2026-11-20T11:48:08.016Z"
+    },
+    {
       "id": "lk-osl-event-2981035-20261203",
       "title": "Alleinerziehend mit Ehemann",
       "url": "https://www.osl-online.de/veranstaltungen/2981035/2026/12/03/alleinerziehend-mit-ehemann",
@@ -9830,9 +9849,9 @@
       "title": "Berlin-Brandenburg Cup - Fightclub 193 e. V.",
       "url": "https://www.osl-online.de/veranstaltungen/2829709/2026/12/05/berlin-brandenburg-cup-fightclub-193-e.-v",
       "startDate": "2026-12-05T16:00:00.000Z",
-      "location": "SeeCampus Niederlausitz",
+      "location": "Turnhalle Grundschule Wandelhof",
       "fetchedAt": "2026-05-31T17:24:18.676Z",
-      "updatedAt": "2026-10-28T09:50:01.013Z"
+      "updatedAt": "2026-11-20T11:48:08.016Z"
     },
     {
       "id": "lk-osl-event-2970738-20261205",
@@ -12182,6 +12201,16 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-05-31T17:24:18.676Z",
       "updatedAt": "2026-10-28T09:50:01.013Z"
+    },
+    {
+      "id": "lk-osl-event-3010079-20270311",
+      "title": "2. Elternkonferenz",
+      "url": "https://www.osl-online.de/veranstaltungen/3010079/2027/03/11/2.-elternkonferenz",
+      "startDate": "2027-03-11T18:00:00.000Z",
+      "endDate": "2027-03-11T19:00:00.000Z",
+      "location": "Freifrau-von-Löwendal-Grundschule-Europaschule",
+      "fetchedAt": "2026-11-20T11:48:08.016Z",
+      "updatedAt": "2026-11-20T11:48:08.016Z"
     },
     {
       "id": "lk-osl-event-2953701-20270312",

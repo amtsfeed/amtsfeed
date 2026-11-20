@@ -1185,6 +1185,14 @@ URL:https://www.doberlug-kirchhain.de/veranstaltungen/2985439/2026/11/22/
  ewigkeitssonntag
 END:VEVENT
 BEGIN:VEVENT
+UID:3010508@amtsfeed.de
+DTSTAMP:20261120T114526Z
+DTSTART:20261126T150000Z
+SUMMARY:Wichtelmarkt in der Kita Olga Günther-Mechel
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/3010508/2026/11/26/
+ wichtelmarkt-in-der-kita-olga-guenther-mechel
+END:VEVENT
+BEGIN:VEVENT
 UID:2857223@amtsfeed.de
 DTSTAMP:20261028T094415Z
 DTSTART:20261126T190000Z
@@ -1326,9 +1334,8 @@ URL:https://www.doberlug-kirchhain.de/veranstaltungen/2995029/2026/12/13/
 END:VEVENT
 BEGIN:VEVENT
 UID:2804662@amtsfeed.de
-DTSTAMP:20261028T094415Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
+DTSTAMP:20261120T114526Z
+DTSTART:20261220T150000Z
 SUMMARY:Abglühen mit gemeinsamen Weihnachtslieder Singen und Turmblasen
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/2804662/2026/12/20/
  abgluehen-mit-gemeinsamen-weihnachtslieder-singen-und-turmblasen
@@ -1348,6 +1355,17 @@ DTSTART:20270108T170000Z
 SUMMARY:Hallenfussballturnier
 URL:https://www.doberlug-kirchhain.de/veranstaltungen/3000815/2027/01/08/
  hallenfussballturnier
+END:VEVENT
+BEGIN:VEVENT
+UID:3010432@amtsfeed.de
+DTSTAMP:20261120T114526Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Sonderausstellung: Stadtwahrzeichen- Zwischen touristischer Attra
+ ktion und Werbeobjekt
+URL:https://www.doberlug-kirchhain.de/veranstaltungen/3010432/2027/01/19/
+ sonderausstellung-stadtwahrzeichen-zwischen-touristischer-attraktion-und-
+ werbeobjekt
 END:VEVENT
 BEGIN:VEVENT
 UID:2960776@amtsfeed.de

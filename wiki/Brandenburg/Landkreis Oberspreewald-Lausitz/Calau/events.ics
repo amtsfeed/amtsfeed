@@ -1374,15 +1374,6 @@ SUMMARY:18.11.2026   Kochzauber
 URL:https://www.calau.de/veranstaltungen/3001653/2026/11/18/kochzauber
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261118T115204Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:19.11.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/11/19/calauer-woche
- nmarkt
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2960238@amtsfeed.de
 DTSTAMP:20261116T113041Z
 DTSTART;VALUE=DATE:20261119
@@ -1428,46 +1419,46 @@ URL:https://www.calau.de/veranstaltungen/3001662/2026/11/19/qigong
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877134@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261120T114757Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Mitgliederversammlung
+SUMMARY:20.11.2026   Mitgliederversammlung
 URL:https://www.calau.de/veranstaltungen/2877134/2026/11/20/mitgliederver
  sammlung
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2858858@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261120T114757Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Kino in Calau
+SUMMARY:20.11.2026   Kino in Calau
 URL:https://www.calau.de/veranstaltungen/2858858/2026/11/20/kino-in-calau
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2838463@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261120T114757Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Jahresausklang
+SUMMARY:20.11.2026   Jahresausklang
 URL:https://www.calau.de/veranstaltungen/2838463/2026/11/20/jahresausklan
  g
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-3001670@amtsfeed.de
-DTSTAMP:20261110T112239Z
+DTSTAMP:20261120T114757Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Handarbeitsgruppe Wollwunder
+SUMMARY:20.11.2026   Handarbeitsgruppe Wollwunder
 URL:https://www.calau.de/veranstaltungen/3001670/2026/11/20/handarbeitsgr
  uppe-wollwunder
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-3001673@amtsfeed.de
-DTSTAMP:20261110T112239Z
+DTSTAMP:20261120T114757Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:" Zurück in Deine Kraft - Angebot für Mütter" ( Anmeldung notw
- endig)
+SUMMARY:20.11.2026   " Zurück in Deine Kraft - Angebot für Mütter" ( A
+ nmeldung notwendig)
 URL:https://www.calau.de/veranstaltungen/3001673/2026/11/20/zurueck-in-de
  ine-kraft-angebot-fuer-muetter--anmeldung-notwendig
 END:VEVENT
@@ -1488,6 +1479,15 @@ DTEND;VALUE=DATE:20261124
 SUMMARY:Backen mit den Hortkindern
 URL:https://www.calau.de/veranstaltungen/3002712/2026/11/23/backen-mit-de
  n-hortkindern
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261120T114757Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/11/24/calauer-woche
+ nmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2976565@amtsfeed.de
@@ -1550,6 +1550,15 @@ DTEND;VALUE=DATE:20261128
 SUMMARY:Kreatives Töpfern im Advent
 URL:https://www.calau.de/veranstaltungen/3001683/2026/11/27/kreatives-toe
  pfern-im-advent
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3010464@amtsfeed.de
+DTSTAMP:20261120T114757Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Weihnachtsmarkt der Kita "Apfelblüte"
+URL:https://www.calau.de/veranstaltungen/3010464/2026/11/27/weihnachtsmar
+ kt-der-kita-apfelbluete
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2877139@amtsfeed.de
@@ -1691,6 +1700,15 @@ SUMMARY:Themenabend: "Weihnachten\, ich mag dich\, ich mag dich nicht&hel
  lip\;"
 URL:https://www.calau.de/veranstaltungen/2999553/2026/12/03/themenabend-w
  eihnachten-ich-mag-dich-ich-mag-dich-nicht
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3009722@amtsfeed.de
+DTSTAMP:20261120T114757Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Adventshütte Calau: Stadt Calau
+URL:https://www.calau.de/veranstaltungen/3009722/2026/12/03/adventshuette
+ -calau-stadt-calau
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2606463@amtsfeed.de

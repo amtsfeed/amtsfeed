@@ -1414,17 +1414,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2991293/2026/11/14/18.-zesch
 LOCATION:Kulturhaus Alt Zeschdorf
 END:VEVENT
 BEGIN:VEVENT
-UID:2538590@amtsfeed.de
-DTSTAMP:20261113T110841Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/19/tischtenn
- is
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464906@amtsfeed.de
 DTSTAMP:20261114T103332Z
 DTSTART;VALUE=DATE:20261120
@@ -1619,6 +1608,17 @@ DESCRIPTION:Vortrag mit Dr. med. Ute Krüger
 LOCATION:Bibliothek Zeschdorf
 END:VEVENT
 BEGIN:VEVENT
+UID:2538590@amtsfeed.de
+DTSTAMP:20261120T114654Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/26/tischtenn
+ is
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:3002080@amtsfeed.de
 DTSTAMP:20261111T110638Z
 DTSTART;VALUE=DATE:20261127
@@ -1642,12 +1642,16 @@ LOCATION:Sportplatz Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2984934@amtsfeed.de
-DTSTAMP:20261028T094801Z
+DTSTAMP:20261120T114654Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Podelziger Weihnachtsmarkt im Sternenglanz
 URL:https://www.amt-lebus.de/veranstaltungen/2984934/2026/11/28/podelzige
  r-weihnachtsmarkt-im-sternenglanz
+DESCRIPTION:"Podelziger Weihnachtsmarkt im Sternenglanz" Termin: 28.11.20
+ 26 Zeit: 14- 21 Uhr Ort: an der Kirche kein Eintritt Rund um die stimmung
+ svoll erhellte Kirche in Podelzig findet der erste Weihnachtsmarkt der Re
+ gion statt. Ein Weihnachtsmarkt für die ganze ...
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
@@ -1669,6 +1673,16 @@ SUMMARY:5. Trepliner Adventssingen
 URL:https://www.amt-lebus.de/veranstaltungen/2846438/2026/11/29/5.-trepli
  ner-adventssingen
 LOCATION:Treplin
+END:VEVENT
+BEGIN:VEVENT
+UID:3010484@amtsfeed.de
+DTSTAMP:20261120T114654Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:1. Advent - Podelzig wird ins Lichterkleid gesezt!
+URL:https://www.amt-lebus.de/veranstaltungen/3010484/2026/11/29/1.-advent
+ -podelzig-wird-ins-lichterkleid-gesezt
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2904743@amtsfeed.de

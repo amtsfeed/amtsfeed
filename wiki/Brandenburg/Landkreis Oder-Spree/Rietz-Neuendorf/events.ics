@@ -624,6 +624,16 @@ URL:https://www.rietz-neuendorf.de/Leben-Freizeit/Veranstaltungen/Seniore
  ID=3728.15&sfreg=1
 END:VEVENT
 BEGIN:VEVENT
+UID:rietz-neuendorf-event-3728-908-1@amtsfeed.de
+DTSTAMP:20261120T114826Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Sitzung des Kreistages
+URL:https://www.rietz-neuendorf.de/Leben-Freizeit/Veranstaltungen/Sitzung
+ -des-Kreistages.php?object=tx\,3728.4.1&ModID=11&FID=3728.908.1&NavID=372
+ 8.15&sfreg=1
+END:VEVENT
+BEGIN:VEVENT
 UID:rietz-neuendorf-event-3728-887-1@amtsfeed.de
 DTSTAMP:20261104T110529Z
 DTSTART;VALUE=DATE:20261203
@@ -652,6 +662,16 @@ SUMMARY:1. deutsch-polnischer Weihnachtsmarkt in Pfaffendorf
 URL:https://www.rietz-neuendorf.de/Leben-Freizeit/Veranstaltungen/1-deuts
  ch-polnischer-Weihnachtsmarkt-in-Pfaffendorf.php?object=tx\,3728.4.1&ModI
  D=11&FID=3728.906.1&NavID=3728.15&sfreg=1
+END:VEVENT
+BEGIN:VEVENT
+UID:rietz-neuendorf-event-3728-909-1@amtsfeed.de
+DTSTAMP:20261120T114826Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Weihnachtsbaumverkauf in Pfaffendorf
+URL:https://www.rietz-neuendorf.de/Leben-Freizeit/Veranstaltungen/Weihnac
+ htsbaumverkauf-in-Pfaffendorf.php?object=tx\,3728.4.1&ModID=11&FID=3728.9
+ 09.1&NavID=3728.15&sfreg=1
 END:VEVENT
 BEGIN:VEVENT
 UID:rietz-neuendorf-event-3728-741-1@amtsfeed.de

@@ -5163,6 +5163,15 @@ URL:https://www.gransee.de/event/spielstunde-22/
 LOCATION:Kita Bärenwald\, Gransee
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26997@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20261210T150000Z
+DTEND:20261210T170000Z
+SUMMARY:ADVENT IM NATURPARKHAUS STECHLIN
+URL:https://www.gransee.de/event/advent-im-naturparkhaus-stechlin/
+LOCATION:NaturParkHaus Stechlin\, Menz
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-26511@amtsfeed.de
 DTSTAMP:20260915T084843Z
 DTSTART:20261210T160000Z
@@ -5172,6 +5181,15 @@ SUMMARY:Fröhliche Donnerstage 2026 &#8211\; bei KIELBLOCK Versicherungsm
 URL:https://www.gransee.de/event/froehliche-donnerstage-2026-bei-kielbloc
  k-versicherungsmakler/
 LOCATION:Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26999@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20261212T100000Z
+DTEND:20261212T120000Z
+SUMMARY:ADVENT IM NATURPARKHAUS STECHLIN
+URL:https://www.gransee.de/event/advent-im-naturparkhaus-stechlin-2/
+LOCATION:NaturParkHaus Stechlin\, Menz
 END:VEVENT
 BEGIN:VEVENT
 UID:gransee-event-26764@amtsfeed.de
@@ -5229,6 +5247,15 @@ URL:https://www.gransee.de/event/das-granseer-klatschcafe-laedt-ein-2/
 LOCATION:Gemeindehaus\, Gransee
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-27001@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20261216T150000Z
+DTEND:20261216T170000Z
+SUMMARY:ADVENT IM NATURPARKHAUS STECHLIN
+URL:https://www.gransee.de/event/advent-im-naturparkhaus-stechlin-3/
+LOCATION:NaturParkHaus Stechlin\, Menz
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-26513@amtsfeed.de
 DTSTAMP:20260915T084843Z
 DTSTART:20261217T160000Z
@@ -5255,12 +5282,20 @@ URL:https://www.gransee.de/event/weihnachtsmarkt-18/
 LOCATION:Wiese hinter dem Stechlinsee-Center
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26973@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20261219T150000Z
+DTEND:20261219T180000Z
+SUMMARY:Sternenmarkt Seilershof
+URL:https://www.gransee.de/event/sternenmarkt-seilershof-2/
+LOCATION:Seilershof\, Seilershof
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-24653@amtsfeed.de
-DTSTAMP:20260912T080503Z
+DTSTAMP:20261120T114723Z
 DTSTART:20261220T140000Z
 DTEND:20261220T180000Z
-SUMMARY:Teilnahme am internationalen Kurzfilmtag am kürzesten Tag des Ja
- hres
+SUMMARY:Weihnachtsfilmfestival im Bahnhof Dannenwalde
 URL:https://www.gransee.de/event/teilnahme-am-internationalen-kurzfilmtag
  -am-kuerzesten-tag-des-jahres-2/
 LOCATION:Umweltbahnhof Dannenwalde e. V. (UBD e. V.)\, Gransee\, OT Danne
@@ -5366,6 +5401,15 @@ URL:https://www.gransee.de/event/step-aerobic-5/
 LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26949@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270104T160000Z
+DTEND:20270104T180000Z
+SUMMARY:Volleyball
+URL:https://www.gransee.de/event/volleyball-10/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-26762@amtsfeed.de
 DTSTAMP:20261116T113005Z
 DTSTART:20270109T170000Z
@@ -5448,10 +5492,10 @@ LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
 END:VEVENT
 BEGIN:VEVENT
 UID:gransee-event-26942@amtsfeed.de
-DTSTAMP:20261119T114847Z
+DTSTAMP:20261120T114723Z
 DTSTART:20270125T154500Z
 DTEND:20270125T164500Z
-SUMMARY:Volleyball
+SUMMARY:Stepp Aerobic
 URL:https://www.gransee.de/event/volleyball-9/
 LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
 END:VEVENT
@@ -5465,12 +5509,39 @@ URL:https://www.gransee.de/event/volleyball-7/
 LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26953@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270201T154500Z
+DTEND:20270201T164500Z
+SUMMARY:Stepp Aerobic
+URL:https://www.gransee.de/event/stepp-aerobic-3/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-26938@amtsfeed.de
 DTSTAMP:20261119T114847Z
 DTSTART:20270201T160000Z
 DTEND:20270201T180000Z
 SUMMARY:Volleyball
 URL:https://www.gransee.de/event/volleyball-8/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26955@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270208T154500Z
+DTEND:20270208T164500Z
+SUMMARY:Stepp Aerobic
+URL:https://www.gransee.de/event/stepp-aerobic-4/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26961@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270208T160000Z
+DTEND:20270208T180000Z
+SUMMARY:Volleyball
+URL:https://www.gransee.de/event/volleyball-11/
 LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
 END:VEVENT
 BEGIN:VEVENT
@@ -5501,6 +5572,24 @@ LOCATION:Umweltbahnhof Dannenwalde e. V. (UBD e. V.)\, Gransee\, OT Danne
  nwalde
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26957@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270215T154500Z
+DTEND:20270215T164500Z
+SUMMARY:Stepp Aerobic
+URL:https://www.gransee.de/event/stepp-aerobic-5/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26963@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270215T160000Z
+DTEND:20270215T180000Z
+SUMMARY:Volleyball
+URL:https://www.gransee.de/event/volleyball-12/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-26802@amtsfeed.de
 DTSTAMP:20261118T115123Z
 DTSTART:20270217T160000Z
@@ -5509,6 +5598,42 @@ SUMMARY:Spiel- und Kennenlernstunde in der Kita Wiesenknirpse
 URL:https://www.gransee.de/event/spiel-und-kennlernstunde-in-der-kita-wie
  senknirpse-2/
 LOCATION:Kita &#8222\;Wiesenknirpse&#8220\;\, Schönermark
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26959@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270222T154500Z
+DTEND:20270222T164500Z
+SUMMARY:Stepp Aerobic
+URL:https://www.gransee.de/event/stepp-aerobic-6/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26965@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270222T160000Z
+DTEND:20270222T180000Z
+SUMMARY:Volleyball
+URL:https://www.gransee.de/event/volleyball-13/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26968@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270301T154500Z
+DTEND:20270301T164500Z
+SUMMARY:Stepp Aerobic
+URL:https://www.gransee.de/event/stepp-aerobic-7/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26987@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270301T160000Z
+DTEND:20270301T180000Z
+SUMMARY:Volleyball
+URL:https://www.gransee.de/event/volleyball-14/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
 END:VEVENT
 BEGIN:VEVENT
 UID:gransee-event-26853@amtsfeed.de
@@ -5540,6 +5665,24 @@ SUMMARY:Ausschuss für Stadtentwicklung\, Ordnung und Verkehr der Stadt G
 URL:https://www.gransee.de/event/ausschuss-fuer-stadtentwicklung-ordnung-
  und-verkehr-der-stadt-gransee/
 LOCATION:Saal der Amtsverwaltung\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26974@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270308T154500Z
+DTEND:20270308T164500Z
+SUMMARY:Stepp Aerobic
+URL:https://www.gransee.de/event/stepp-aerobic-8/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26989@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270308T160000Z
+DTEND:20270308T180000Z
+SUMMARY:Volleyball
+URL:https://www.gransee.de/event/volleyball-15/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
 END:VEVENT
 BEGIN:VEVENT
 UID:gransee-event-26877@amtsfeed.de
@@ -5580,6 +5723,24 @@ URL:https://www.gransee.de/event/gemeindevertretersitzung-grosswoltersdor
 LOCATION:Großwoltersdorf\, Großwoltersdorf
 END:VEVENT
 BEGIN:VEVENT
+UID:gransee-event-26977@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270315T154500Z
+DTEND:20270315T164500Z
+SUMMARY:Stepp Aerobic
+URL:https://www.gransee.de/event/stepp-aerobic-9/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26991@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270315T160000Z
+DTEND:20270315T180000Z
+SUMMARY:Volleyball
+URL:https://www.gransee.de/event/volleyball-16/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
 UID:gransee-event-26909@amtsfeed.de
 DTSTAMP:20261118T115123Z
 DTSTART;VALUE=DATE:20270316
@@ -5616,6 +5777,42 @@ SUMMARY:Stadtverordnetenversammlung der Stadt Gransee
 URL:https://www.gransee.de/event/stadtverordnetenversammlung-der-stadt-gr
  ansee/
 LOCATION:Saal der Amtsverwaltung\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26979@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270322T154500Z
+DTEND:20270322T164500Z
+SUMMARY:Stepp Aerobic
+URL:https://www.gransee.de/event/stepp-aerobic-10/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26993@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270322T160000Z
+DTEND:20270322T180000Z
+SUMMARY:Volleyball
+URL:https://www.gransee.de/event/volleyball-17/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26981@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270329T160000Z
+DTEND:20270329T180000Z
+SUMMARY:Stepp Aerobic
+URL:https://www.gransee.de/event/stepp-aerobic-11/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
+END:VEVENT
+BEGIN:VEVENT
+UID:gransee-event-26995@amtsfeed.de
+DTSTAMP:20261120T114723Z
+DTSTART:20270329T160000Z
+DTEND:20270329T180000Z
+SUMMARY:Volleyball
+URL:https://www.gransee.de/event/volleyball-18/
+LOCATION:Dreifelder-Sporthalle Gransee\, Gransee
 END:VEVENT
 BEGIN:VEVENT
 UID:gransee-event-26821@amtsfeed.de

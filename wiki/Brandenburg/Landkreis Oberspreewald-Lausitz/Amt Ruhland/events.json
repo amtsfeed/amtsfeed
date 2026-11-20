@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:49:25.536Z",
+  "updatedAt": "2026-11-20T11:47:55.898Z",
   "items": [
     {
       "id": "ruhland-event-5053",
@@ -1055,6 +1055,28 @@
       "description": "Schlagworte: Ruhland",
       "fetchedAt": "2026-05-31T17:27:51.299Z",
       "updatedAt": "2026-05-31T18:42:01.007Z"
+    },
+    {
+      "id": "ruhland-event-7525",
+      "title": "Weihnachtsmarkt in Arnsdorf",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-12-06T11:00:00.000Z",
+      "endDate": "2026-12-06T12:00:00.000Z",
+      "location": "Parkbühne Arnsdorf",
+      "description": "Schlagworte: Ruhland",
+      "fetchedAt": "2026-11-20T11:47:55.891Z",
+      "updatedAt": "2026-11-20T11:47:55.891Z"
+    },
+    {
+      "id": "ruhland-event-7516",
+      "title": "Turmblasen in Sella am Glockenturm",
+      "url": "https://www.amt-ruhland.de/veranstaltungen/",
+      "startDate": "2026-12-06T15:30:00.000Z",
+      "endDate": "2026-12-06T20:00:00.000Z",
+      "location": "Glockenturm in Sella/Grünewald",
+      "description": "Schlagworte: Grünewald",
+      "fetchedAt": "2026-11-20T11:47:55.891Z",
+      "updatedAt": "2026-11-20T11:47:55.891Z"
     },
     {
       "id": "ruhland-event-6199",

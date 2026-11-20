@@ -696,15 +696,6 @@ URL:https://www.amt-beetzsee.de/veranstaltungen/2902625/2026/11/16/politi
  sche-kompetenzen-in-der-bne-modul-2-bildungsurlaub
 END:VEVENT
 BEGIN:VEVENT
-UID:amt-beetzsee-event-2496637@amtsfeed.de
-DTSTAMP:20261028T095053Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Beetzseebücherei
-URL:https://www.amt-beetzsee.de/veranstaltungen/2496637/2026/11/19/beetzs
- eebuecherei
-END:VEVENT
-BEGIN:VEVENT
 UID:amt-beetzsee-event-2833418@amtsfeed.de
 DTSTAMP:20260506T201614Z
 DTSTART;VALUE=DATE:20261121
@@ -797,6 +788,15 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:Weihnachtsmarkt
 URL:https://www.amt-beetzsee.de/veranstaltungen/2833420/2026/12/12/weihna
  chtsmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-beetzsee-event-2496637@amtsfeed.de
+DTSTAMP:20261120T114831Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Beetzseebücherei
+URL:https://www.amt-beetzsee.de/veranstaltungen/2496637/2026/12/17/beetzs
+ eebuecherei
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-beetzsee-event-2747617@amtsfeed.de

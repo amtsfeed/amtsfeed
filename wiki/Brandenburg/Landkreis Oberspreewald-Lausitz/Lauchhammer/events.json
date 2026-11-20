@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:49:29.409Z",
+  "updatedAt": "2026-11-20T11:47:59.206Z",
   "items": [
     {
       "id": "lauchhammer-event-3005612",
@@ -410,30 +410,6 @@
       "updatedAt": "2026-10-28T09:49:44.378Z"
     },
     {
-      "id": "lauchhammer-event-2124494",
-      "title": "Behinderten- und Seniorenberatung",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2124494/2026/11/19/behinderten-und-seniorenberatung",
-      "startDate": "2026-11-19T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:33.167Z",
-      "updatedAt": "2026-11-13T11:10:03.402Z"
-    },
-    {
-      "id": "lauchhammer-event-2398220",
-      "title": "Außenberatung Senftenberg",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2398220/2026/11/19/aussenberatung-senftenberg",
-      "startDate": "2026-11-19T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T17:26:33.167Z",
-      "updatedAt": "2026-10-28T09:49:44.378Z"
-    },
-    {
-      "id": "lauchhammer-event-2918316",
-      "title": "Gruppentreffen Selbsthilfegruppe Depressionen in Lauchhammer",
-      "url": "https://www.lauchhammer.de/veranstaltungen/2918316/2026/11/19/gruppentreffen-selbsthilfegruppe-depressionen-in-lauchhammer",
-      "startDate": "2026-11-19T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T09:58:46.810Z",
-      "updatedAt": "2026-10-28T09:49:44.378Z"
-    },
-    {
       "id": "lauchhammer-event-2984578",
       "title": "sanftes Abstillen",
       "url": "https://www.lauchhammer.de/veranstaltungen/2984578/2026/11/19/sanftes-abstillen",
@@ -496,6 +472,14 @@
       "startDate": "2026-11-25T00:00:00.000Z",
       "fetchedAt": "2026-11-10T11:22:42.812Z",
       "updatedAt": "2026-11-18T11:52:07.372Z"
+    },
+    {
+      "id": "lauchhammer-event-2124494",
+      "title": "Behinderten- und Seniorenberatung",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2124494/2026/11/26/behinderten-und-seniorenberatung",
+      "startDate": "2026-11-26T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:33.167Z",
+      "updatedAt": "2026-11-20T11:47:59.197Z"
     },
     {
       "id": "lauchhammer-event-2918359",
@@ -618,6 +602,22 @@
       "updatedAt": "2026-11-19T11:49:29.400Z"
     },
     {
+      "id": "lauchhammer-event-2398220",
+      "title": "Außenberatung Senftenberg",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2398220/2026/12/17/aussenberatung-senftenberg",
+      "startDate": "2026-12-17T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T17:26:33.167Z",
+      "updatedAt": "2026-11-20T11:47:59.197Z"
+    },
+    {
+      "id": "lauchhammer-event-2918316",
+      "title": "Gruppentreffen Selbsthilfegruppe Depressionen in Lauchhammer",
+      "url": "https://www.lauchhammer.de/veranstaltungen/2918316/2026/12/17/gruppentreffen-selbsthilfegruppe-depressionen-in-lauchhammer",
+      "startDate": "2026-12-17T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T09:58:46.810Z",
+      "updatedAt": "2026-11-20T11:47:59.197Z"
+    },
+    {
       "id": "lauchhammer-event-2989087",
       "title": "Beratung und Begleitung für von Gewalt betroffene Frauen",
       "url": "https://www.lauchhammer.de/veranstaltungen/2989087/2027/01/05/beratung-und-begleitung-fuer-von-gewalt-betroffene-frauen",
@@ -712,6 +712,14 @@
       "startDate": "2027-03-04T00:00:00.000Z",
       "fetchedAt": "2026-11-11T11:08:27.895Z",
       "updatedAt": "2026-11-11T11:08:27.895Z"
+    },
+    {
+      "id": "lauchhammer-event-3010079",
+      "title": "2. Elternkonferenz",
+      "url": "https://www.lauchhammer.de/veranstaltungen/3010079/2027/03/11/2.-elternkonferenz",
+      "startDate": "2027-03-11T00:00:00.000Z",
+      "fetchedAt": "2026-11-20T11:47:59.197Z",
+      "updatedAt": "2026-11-20T11:47:59.197Z"
     },
     {
       "id": "lauchhammer-event-3002178",

@@ -1300,33 +1300,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2979640/2026/11/19/kurs
  -im-sehen-einfach-sehen-ohne-brille
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2384489@amtsfeed.de
-DTSTAMP:20261114T103655Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Öffnung des Schenkraums
-URL:https://www.wiesenburgmark.de/veranstaltungen/2384489/2026/11/20/oeff
- nung-des-schenkraums
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2860448@amtsfeed.de
-DTSTAMP:20261114T103655Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Yoga für Schwangere
-URL:https://www.wiesenburgmark.de/veranstaltungen/2860448/2026/11/20/yoga
- -fuer-schwangere
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2384491@amtsfeed.de
-DTSTAMP:20261114T103655Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Zwergenturnen - Bewegung für Kinder zwischen 1 - 3 Jahren
-URL:https://www.wiesenburgmark.de/veranstaltungen/2384491/2026/11/20/zwer
- genturnen-bewegung-fuer-kinder-zwischen-1-3-jahren
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2986761@amtsfeed.de
 DTSTAMP:20261028T095155Z
 DTSTART;VALUE=DATE:20261121
@@ -1454,6 +1427,33 @@ DTEND;VALUE=DATE:20261127
 SUMMARY:Familiencaf&eacute\; mit Spaß\, Kreativität  Bewegung
 URL:https://www.wiesenburgmark.de/veranstaltungen/2890181/2026/11/26/fami
  liencafé-mit-spass-kreativitaet-bewegung
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2384489@amtsfeed.de
+DTSTAMP:20261121T111356Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Öffnung des Schenkraums
+URL:https://www.wiesenburgmark.de/veranstaltungen/2384489/2026/11/27/oeff
+ nung-des-schenkraums
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2860448@amtsfeed.de
+DTSTAMP:20261121T111356Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Yoga für Schwangere
+URL:https://www.wiesenburgmark.de/veranstaltungen/2860448/2026/11/27/yoga
+ -fuer-schwangere
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2384491@amtsfeed.de
+DTSTAMP:20261121T111356Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Zwergenturnen - Bewegung für Kinder zwischen 1 - 3 Jahren
+URL:https://www.wiesenburgmark.de/veranstaltungen/2384491/2026/11/27/zwer
+ genturnen-bewegung-fuer-kinder-zwischen-1-3-jahren
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2871609@amtsfeed.de

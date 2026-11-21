@@ -2876,15 +2876,6 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
 LOCATION:Stadtbibliothek Bernau
 END:VEVENT
 BEGIN:VEVENT
-UID:artikel-upcycling_von_stoffen@amtsfeed.de
-DTSTAMP:20261114T102950Z
-DTSTART:20261114T120000Z
-SUMMARY:Upcycling von Stoffen
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-upcycling_von_stoffen-2026-11-14.html
-LOCATION:KVHS Barnim\, Bürgerhaus Bernau
-END:VEVENT
-BEGIN:VEVENT
 UID:artikel-stadtfuehrung_juedische_spuren@amtsfeed.de
 DTSTAMP:20261114T102950Z
 DTSTART:20261114T140000Z
@@ -4052,16 +4043,6 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
 LOCATION:Netzwerk Gesunde Kinder Barnim Süd
 END:VEVENT
 BEGIN:VEVENT
-UID:artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum@amtsfeed.d
- e
-DTSTAMP:20261120T114436Z
-DTSTART:20261120T150000Z
-SUMMARY:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
-URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
- tikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-11-20.html
-LOCATION:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
-END:VEVENT
-BEGIN:VEVENT
 UID:artikel-kinderyoga_in_bernau@amtsfeed.de
 DTSTAMP:20261119T114422Z
 DTSTART:20261120T160000Z
@@ -4278,6 +4259,18 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
 LOCATION:Frakima Werkstatt
 END:VEVENT
 BEGIN:VEVENT
+UID:artikel-familienstellen_systemische_aufstellungen_verwandle_blockaden
+ _in_ressourcen@amtsfeed.de
+DTSTAMP:20261121T110735Z
+DTSTART:20261121T110000Z
+SUMMARY:Familienstellen – Systemische Aufstellungen – Verwandle Block
+ aden in Ressourcen
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-familienstellen_systemische_aufstellungen_verwandle_blockaden_in_re
+ ssourcen-2026-11-21.html
+LOCATION:Wohlklang Zentrum
+END:VEVENT
+BEGIN:VEVENT
 UID:artikel-klassische_stadtfuehrung@amtsfeed.de
 DTSTAMP:20261120T114436Z
 DTSTART:20261121T113000Z
@@ -4298,6 +4291,15 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
 LOCATION:UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau
 END:VEVENT
 BEGIN:VEVENT
+UID:artikel-upcycling_von_stoffen@amtsfeed.de
+DTSTAMP:20261121T110735Z
+DTSTART:20261121T120000Z
+SUMMARY:Upcycling von Stoffen
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-upcycling_von_stoffen-2026-11-21.html
+LOCATION:KVHS Barnim\, Bürgerhaus Bernau
+END:VEVENT
+BEGIN:VEVENT
 UID:artikel-advent_advent_familiennachmittag@amtsfeed.de
 DTSTAMP:20261120T114436Z
 DTSTART:20261121T140000Z
@@ -4315,6 +4317,40 @@ SUMMARY:„YAKARI – Freunde fürs Leben"
 URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
  tikel-yakari_freunde_fuers_leben-2026-11-21.html
 LOCATION:S-Arena Bernau
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-ernaehrung_und_schmerzen_kostenloser_gesundheitsvortrag_in_be
+ rnau@amtsfeed.de
+DTSTAMP:20261121T110735Z
+DTSTART:20261121T140000Z
+SUMMARY:Ernährung und Schmerzen – kostenloser Gesundheitsvortrag in Be
+ rnau
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-ernaehrung_und_schmerzen_kostenloser_gesundheitsvortrag_in_bernau-2
+ 026-11-21.html
+LOCATION:Schmerzfrei Bernau
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-frakimas_vorweihnachtlicher_filzworkshop_ii_fuer_gross_und_kl
+ ein_ab_8_jahre@amtsfeed.de
+DTSTAMP:20261121T110735Z
+DTSTART:20261121T140000Z
+SUMMARY:FRAKIMAs vorweihnachtlicher Filzworkshop II für Groß und Klein 
+ ab 8 Jahre
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-frakimas_vorweihnachtlicher_filzworkshop_ii_fuer_gross_und_klein_ab
+ _8_jahre-2026-11-21.html
+LOCATION:Frakima Werkstatt
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum@amtsfeed.d
+ e
+DTSTAMP:20261121T110735Z
+DTSTART:20261121T150000Z
+SUMMARY:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-11-21.html
+LOCATION:Wolf Kahlen Museum Bernau - Intermedia Arts Museum
 END:VEVENT
 BEGIN:VEVENT
 UID:artikel-weihnachtsbasteln_und_plaetzchenbacken_in_birkenhoehe@amtsfee
@@ -4346,6 +4382,15 @@ URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
 LOCATION:Treff 23\, Saal 1
 END:VEVENT
 BEGIN:VEVENT
+UID:artikel-koebel_herz_undercover@amtsfeed.de
+DTSTAMP:20261121T110735Z
+DTSTART:20261121T190000Z
+SUMMARY:Köbel&Herz underCOVER
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-koebel_herz_undercover-2026-11-21.html
+LOCATION:Elysium / Klub am Steintor
+END:VEVENT
+BEGIN:VEVENT
 UID:artikel-fsv_bernau_vs_schoenower_sv_landesliga_brandenburg_nord@amtsf
  eed.de
 DTSTAMP:20261120T114436Z
@@ -4375,5 +4420,14 @@ SUMMARY:TECHNOARENA Bernau mit Westbam
 URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
  tikel-technoarena_bernau_mit_westbam-2026-11-21.html
 LOCATION:S-Arena Bernau
+END:VEVENT
+BEGIN:VEVENT
+UID:artikel-winter-filmprogramm_im_besucherzentrum_inception@amtsfeed.de
+DTSTAMP:20261121T110735Z
+DTSTART:20261122T153000Z
+SUMMARY:Winter-Filmprogramm im Besucherzentrum: „Inception"
+URL:https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/ar
+ tikel-winter-filmprogramm_im_besucherzentrum_inception-2026-11-22.html
+LOCATION:UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau
 END:VEVENT
 END:VCALENDAR

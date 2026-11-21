@@ -1,5 +1,49 @@
 # Updates
 
+## 2026-11-21 11:14
+
+Insgesamt **560 neu**, **146 aktualisiert**, **3 entfernt** in 37 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Amt Brieskow-Finkenheerd | — | — | +1 | ~6 |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Niemegk | +1 | +1 | — | — |
+| Amt Scharmützelsee | — | -3 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +1 / ~2 | — | — |
+| Amt Schenkenländchen | — | +1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Beeskow | — | — | +1 | — |
+| Bernau bei Berlin | +2 | +5 / ~2 | — | — |
+| Calau | — | ~4 | — | — |
+| Doberlug-Kirchhain | — | +1 | — | — |
+| Eberswalde | — | +1 | — | — |
+| Eisenhüttenstadt | — | ~1 | — | — |
+| Falkensee | +1 | +1 | — | — |
+| Fürstenberg-Havel | +1 | — | — | ~2 |
+| Glienicke-Nordbahn | +1 | — | — | — |
+| Groß Kreutz | — | ~22 | — | — |
+| Hennigsdorf | +1 | +1 | — | — |
+| Hohen Neuendorf | — | +1 | — | — |
+| Kleinmachnow | — | +3 | — | — |
+| Kloster Lehnin | — | +1 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +1 | — | — |
+| Lauchhammer | — | +1 | — | — |
+| Lübbenau Spreewald | — | +504 / ~33 | — | — |
+| Michendorf | — | ~1 | — | — |
+| Mühlenbecker Land | — | +6 | — | — |
+| Oberkrämer | — | ~2 | — | — |
+| Oranienburg | +2 | +5 | — | +1 |
+| Premnitz | — | +6 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Schönefeld | ~2 | ~30 | — | — |
+| Schöneiche bei Berlin | — | +1 | — | — |
+| Schönwalde-Glien | +1 | — | — | — |
+| Senftenberg | — | +2 | — | — |
+| Werder (Havel) | — | +3 / ~9 | — | — |
+| Werneuchen | — | +1 | — | — |
+| Wiesenburg-Mark | — | ~3 | — | — |
+
 ## 2026-11-20 11:49
 
 Insgesamt **418 neu**, **556 aktualisiert**, **13 entfernt** in 70 Quellen.

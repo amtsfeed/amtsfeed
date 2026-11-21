@@ -1071,4 +1071,14 @@ SUMMARY:Seniorensprechstunde "Hilfe für Handy und PC"
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  seniorensprechstunde-hilfe-fur-handy-und-pc-0
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-podiumsveranstaltung-kinderarmut-oberhavel@amts
+ feed.de
+DTSTAMP:20261121T111142Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Podiumsveranstaltung: KINDERARMUT IN OBERHAVEL
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ podiumsveranstaltung-kinderarmut-oberhavel
+END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T11:44:36.252Z",
+  "updatedAt": "2026-11-21T11:07:35.931Z",
   "items": [
     {
       "id": "artikel-elternseminar_trotzende_kleinkinder_sind_wie_kleine_neandertaler",
@@ -2636,15 +2636,6 @@
       "updatedAt": "2026-11-13T11:02:16.181Z"
     },
     {
-      "id": "artikel-upcycling_von_stoffen",
-      "title": "Upcycling von Stoffen",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-upcycling_von_stoffen-2026-11-14.html",
-      "startDate": "2026-11-14T12:00:00.000Z",
-      "location": "KVHS Barnim, Bürgerhaus Bernau",
-      "fetchedAt": "2026-11-07T10:15:57.153Z",
-      "updatedAt": "2026-11-14T10:29:50.471Z"
-    },
-    {
       "id": "artikel-stadtfuehrung_juedische_spuren",
       "title": "Stadtführung: „Jüdische Spuren“",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-stadtfuehrung_juedische_spuren-2026-11-14.html",
@@ -3723,15 +3714,6 @@
       "updatedAt": "2026-11-19T11:44:22.957Z"
     },
     {
-      "id": "artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum",
-      "title": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-11-20.html",
-      "startDate": "2026-11-20T15:00:00.000Z",
-      "location": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-11-20T11:44:36.249Z"
-    },
-    {
       "id": "artikel-kinderyoga_in_bernau",
       "title": "KinderYoga in Bernau",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-kinderyoga_in_bernau-2026-11-20.html",
@@ -3930,6 +3912,15 @@
       "updatedAt": "2026-11-20T11:44:36.249Z"
     },
     {
+      "id": "artikel-familienstellen_systemische_aufstellungen_verwandle_blockaden_in_ressourcen",
+      "title": "Familienstellen – Systemische Aufstellungen – Verwandle Blockaden in Ressourcen",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-familienstellen_systemische_aufstellungen_verwandle_blockaden_in_ressourcen-2026-11-21.html",
+      "startDate": "2026-11-21T11:00:00.000Z",
+      "location": "Wohlklang Zentrum",
+      "fetchedAt": "2026-11-21T11:07:35.927Z",
+      "updatedAt": "2026-11-21T11:07:35.927Z"
+    },
+    {
       "id": "artikel-klassische_stadtfuehrung",
       "title": "Klassische Stadtführung",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-klassische_stadtfuehrung-2026-11-21.html",
@@ -3948,6 +3939,15 @@
       "updatedAt": "2026-11-20T11:44:36.249Z"
     },
     {
+      "id": "artikel-upcycling_von_stoffen",
+      "title": "Upcycling von Stoffen",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-upcycling_von_stoffen-2026-11-21.html",
+      "startDate": "2026-11-21T12:00:00.000Z",
+      "location": "KVHS Barnim, Bürgerhaus Bernau",
+      "fetchedAt": "2026-11-07T10:15:57.153Z",
+      "updatedAt": "2026-11-21T11:07:35.927Z"
+    },
+    {
       "id": "artikel-advent_advent_familiennachmittag",
       "title": "Advent, Advent – Familiennachmittag",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-advent_advent_familiennachmittag-2026-11-21.html",
@@ -3964,6 +3964,33 @@
       "location": "S-Arena Bernau",
       "fetchedAt": "2026-11-20T11:44:36.249Z",
       "updatedAt": "2026-11-20T11:44:36.249Z"
+    },
+    {
+      "id": "artikel-ernaehrung_und_schmerzen_kostenloser_gesundheitsvortrag_in_bernau",
+      "title": "Ernährung und Schmerzen – kostenloser Gesundheitsvortrag in Bernau",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ernaehrung_und_schmerzen_kostenloser_gesundheitsvortrag_in_bernau-2026-11-21.html",
+      "startDate": "2026-11-21T14:00:00.000Z",
+      "location": "Schmerzfrei Bernau",
+      "fetchedAt": "2026-11-21T11:07:35.927Z",
+      "updatedAt": "2026-11-21T11:07:35.927Z"
+    },
+    {
+      "id": "artikel-frakimas_vorweihnachtlicher_filzworkshop_ii_fuer_gross_und_klein_ab_8_jahre",
+      "title": "FRAKIMAs vorweihnachtlicher Filzworkshop II für Groß und Klein ab 8 Jahre",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_vorweihnachtlicher_filzworkshop_ii_fuer_gross_und_klein_ab_8_jahre-2026-11-21.html",
+      "startDate": "2026-11-21T14:00:00.000Z",
+      "location": "Frakima Werkstatt",
+      "fetchedAt": "2026-11-21T11:07:35.927Z",
+      "updatedAt": "2026-11-21T11:07:35.927Z"
+    },
+    {
+      "id": "artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum",
+      "title": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-11-21.html",
+      "startDate": "2026-11-21T15:00:00.000Z",
+      "location": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-11-21T11:07:35.927Z"
     },
     {
       "id": "artikel-weihnachtsbasteln_und_plaetzchenbacken_in_birkenhoehe",
@@ -3993,6 +4020,15 @@
       "updatedAt": "2026-11-20T11:44:36.249Z"
     },
     {
+      "id": "artikel-koebel_herz_undercover",
+      "title": "Köbel&Herz underCOVER",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-koebel_herz_undercover-2026-11-21.html",
+      "startDate": "2026-11-21T19:00:00.000Z",
+      "location": "Elysium / Klub am Steintor",
+      "fetchedAt": "2026-11-21T11:07:35.927Z",
+      "updatedAt": "2026-11-21T11:07:35.927Z"
+    },
+    {
       "id": "artikel-fsv_bernau_vs_schoenower_sv_landesliga_brandenburg_nord",
       "title": "FSV Bernau vs. Schönower SV | Landesliga Brandenburg Nord",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-fsv_bernau_vs_schoenower_sv_landesliga_brandenburg_nord-2026-11-21.html",
@@ -4018,6 +4054,15 @@
       "location": "S-Arena Bernau",
       "fetchedAt": "2026-11-20T11:44:36.249Z",
       "updatedAt": "2026-11-20T11:44:36.249Z"
+    },
+    {
+      "id": "artikel-winter-filmprogramm_im_besucherzentrum_inception",
+      "title": "Winter-Filmprogramm im Besucherzentrum: „Inception\"",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-winter-filmprogramm_im_besucherzentrum_inception-2026-11-22.html",
+      "startDate": "2026-11-22T15:30:00.000Z",
+      "location": "UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau",
+      "fetchedAt": "2026-11-21T11:07:35.927Z",
+      "updatedAt": "2026-11-21T11:07:35.927Z"
     }
   ]
 }

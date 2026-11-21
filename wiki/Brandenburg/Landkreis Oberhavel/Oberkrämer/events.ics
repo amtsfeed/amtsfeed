@@ -1184,23 +1184,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2977676/2026/11/19/klön-k
  affee-nachmittag-für-jedermann-frau.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855745@amtsfeed.de
-DTSTAMP:20261114T103436Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Schach
-URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/11/20/schach
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2991606@amtsfeed.de
-DTSTAMP:20261114T103436Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:WIR.PUNKT
-URL:https://www.oberkraemer.de/veranstaltungen/2991606/2026/11/20/wir.pun
- kt
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2909885@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261120
@@ -1316,6 +1299,23 @@ DTEND;VALUE=DATE:20261127
 SUMMARY:Nordic-Walking in Vehlefanz
 URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/11/26/nordic-
  walking-in-vehlefanz
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855745@amtsfeed.de
+DTSTAMP:20261121T111152Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Schach
+URL:https://www.oberkraemer.de/veranstaltungen/2855745/2026/11/27/schach
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2991606@amtsfeed.de
+DTSTAMP:20261121T111152Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:WIR.PUNKT
+URL:https://www.oberkraemer.de/veranstaltungen/2991606/2026/11/27/wir.pun
+ kt
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2988863@amtsfeed.de

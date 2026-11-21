@@ -1414,26 +1414,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2991293/2026/11/14/18.-zesch
 LOCATION:Kulturhaus Alt Zeschdorf
 END:VEVENT
 BEGIN:VEVENT
-UID:2464906@amtsfeed.de
-DTSTAMP:20261114T103332Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/11/20/selbstver
- teidigung-fuer-kinder-von-5-13-jahren
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464907@amtsfeed.de
-DTSTAMP:20261114T103332Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
-URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/11/20/selbstver
- teidigung-fuer-jugendliche-ab-13-jahren
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2993098@amtsfeed.de
 DTSTAMP:20261030T100902Z
 DTSTART;VALUE=DATE:20261120
@@ -1616,6 +1596,26 @@ SUMMARY:Tischtennis
 URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/26/tischtenn
  is
 DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464906@amtsfeed.de
+DTSTAMP:20261121T111047Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Selbstverteidigung für Kinder von 5-13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464906/2026/11/27/selbstver
+ teidigung-fuer-kinder-von-5-13-jahren
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464907@amtsfeed.de
+DTSTAMP:20261121T111047Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Selbstverteidigung für Jugendliche ab 13 Jahren
+URL:https://www.amt-lebus.de/veranstaltungen/2464907/2026/11/27/selbstver
+ teidigung-fuer-jugendliche-ab-13-jahren
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT

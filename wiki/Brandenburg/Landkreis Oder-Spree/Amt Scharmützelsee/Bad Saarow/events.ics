@@ -1217,15 +1217,6 @@ URL:https://www.scharmuetzelsee.de/event/novemberbasar-kunstausstellung-m
  it-verkauf-in-der-alten-schulscheune
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
-DTSTAMP:20261114T103527Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Ortsführung durch den Kurort Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
- d-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-training-der-burgwache-storkow@amtsfeed.de
 DTSTAMP:20261114T103527Z
 DTSTART;VALUE=DATE:20261115
@@ -1260,15 +1251,6 @@ DTEND;VALUE=DATE:20261117
 SUMMARY:Seniorenkino im Cinema Bad Saarow
 URL:https://www.scharmuetzelsee.de/event/seniorenkino-im-cinema-bad-saaro
  w
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261118T115223Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
- ad-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-ratschen-und-tratschen-handarbeitsnachmittage-mit-syl
@@ -1339,6 +1321,15 @@ SUMMARY:Timo Wopp - JA SORRY!
 URL:https://www.scharmuetzelsee.de/event/timo-wopp-ja-sorry
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261121T111232Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-linienfahrt-nachsaison-sa-so@amtsfeed.de
 DTSTAMP:20261118T115223Z
 DTSTART;VALUE=DATE:20261121
@@ -1392,6 +1383,25 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Chef's Table
 URL:https://www.scharmuetzelsee.de/event/chefs-table
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-hurra-der-kasper-ist-wieder-da-in-der-alten-schulsche
+ une@amtsfeed.de
+DTSTAMP:20261121T111232Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Hurra\, der Kasper ist wieder da! in der Alten Schulscheune
+URL:https://www.scharmuetzelsee.de/event/hurra-der-kasper-ist-wieder-da-i
+ n-der-alten-schulscheune
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
+DTSTAMP:20261121T111232Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Ortsführung durch den Kurort Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
+ d-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de

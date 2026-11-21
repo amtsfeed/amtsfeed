@@ -691,4 +691,15 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Stadtf%C3%BChru
  ;ModID=11&amp\;FID=3590.858.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.
  5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-884@amtsfeed.de
+DTSTAMP:20261121T111138Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:+++AUSVERKAUFT+++ Weihnachtskonzert | Musikschule Hennigsdorf
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/-AUSVERKAUFT-We
+ ihnachtskonzert-Musikschule-Hennigsdorf.php?object=tx\,3590.4.1&amp\;ModI
+ D=11&amp\;FID=3590.884.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp
+ \;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

@@ -1424,18 +1424,6 @@ URL:https://www.amt-lebus.de/veranstaltungen/2993098/2026/11/20/ich-lese-
 LOCATION:Speichercafé im Ökospeicher Wulkow
 END:VEVENT
 BEGIN:VEVENT
-UID:2464910@amtsfeed.de
-DTSTAMP:20261115T110151Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Bäckerwagen in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/11/21/baeckerwa
- gen-in-podelzig
-DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
-  Dorfteich
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2873363@amtsfeed.de
 DTSTAMP:20260506T202027Z
 DTSTART;VALUE=DATE:20261121
@@ -1487,11 +1475,11 @@ LOCATION:Burgschule Verlässliche Halbtagsgrundschule Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:3006512@amtsfeed.de
-DTSTAMP:20261116T112919Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTAMP:20261122T113244Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
 SUMMARY:"15. Hofadvent bei der Reitweiner Wiesenkeramik
-URL:https://www.amt-lebus.de/veranstaltungen/3006512/2026/11/21/15.-hofad
+URL:https://www.amt-lebus.de/veranstaltungen/3006512/2026/11/22/15.-hofad
  vent-bei-der-reitweiner-wiesenkeramik
 DESCRIPTION:Bezaubernde Windlichter\, Lichterbäumchen\, Schneemänner un
  d noch viel Schönes mehr... Genießen Sie die Vorweihnachtszeit in unser
@@ -1628,6 +1616,18 @@ URL:https://www.amt-lebus.de/veranstaltungen/3002080/2026/11/27/4.weihnac
  htsmarkt-und-tag-der-offenen-tuer-schule-alt-zeschdorf
 LOCATION:Schule im Grünen Verlässliche Halbtagsgrundschule in Alt Zesch
  dorf
+END:VEVENT
+BEGIN:VEVENT
+UID:2464910@amtsfeed.de
+DTSTAMP:20261122T113244Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Bäckerwagen in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2464910/2026/11/28/baeckerwa
+ gen-in-podelzig
+DESCRIPTION:Bäckerwagen\, im Unterdorf\, am Neubau\, Wuhdener Weg nur am
+  Dorfteich
+LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT
 UID:2928789@amtsfeed.de

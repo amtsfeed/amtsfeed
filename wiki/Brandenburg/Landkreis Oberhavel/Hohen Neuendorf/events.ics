@@ -1081,4 +1081,33 @@ SUMMARY:Podiumsveranstaltung: KINDERARMUT IN OBERHAVEL
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  podiumsveranstaltung-kinderarmut-oberhavel
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-internationaler-tag-gegen-gewalt-frauen-und-mad
+ chen@amtsfeed.de
+DTSTAMP:20261122T113343Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Internationaler Tag gegen Gewalt an Frauen und Mädchen
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ internationaler-tag-gegen-gewalt-frauen-und-madchen
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-sprachcafe-6@amtsfeed.de
+DTSTAMP:20261122T113343Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Sprachcafé
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ sprachcafe-6
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-gartenlust-adventsbasteln-im-garten-0@amtsfeed.
+ de
+DTSTAMP:20261122T113343Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Gartenlust Adventsbasteln im Garten
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ gartenlust-adventsbasteln-im-garten-0
+END:VEVENT
 END:VCALENDAR

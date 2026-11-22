@@ -2,7 +2,7 @@
   {
     "domain": "www.wildau.de",
     "baseUrl": "https://www.wildau.de",
-    "updatedAt": "2026-11-21T11:08:22.526Z",
+    "updatedAt": "2026-11-22T11:30:07.097Z",
     "content": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://www.wildau.de/wp-sitemap.xml\n"
   }
 ]

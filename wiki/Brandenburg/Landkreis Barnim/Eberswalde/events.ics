@@ -1779,4 +1779,11 @@ DTSTART:20261128T110000Z
 SUMMARY:Aschenputtel
 URL:https://www.eberswalde.de/termine/aschenputtel
 END:VEVENT
+BEGIN:VEVENT
+UID:eberswalder-weihnachtsmarkt-2026-2@amtsfeed.de
+DTSTAMP:20261122T112917Z
+DTSTART:20261128T120000Z
+SUMMARY:Eberswalder Weihnachtsmarkt 2026
+URL:https://www.eberswalde.de/termine/eberswalder-weihnachtsmarkt-2026-2
+END:VEVENT
 END:VCALENDAR

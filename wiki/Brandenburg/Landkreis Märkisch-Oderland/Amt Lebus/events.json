@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:10:47.686Z",
+  "updatedAt": "2026-11-22T11:32:44.894Z",
   "items": [
     {
       "id": "2846347",
@@ -1208,16 +1208,6 @@
       "updatedAt": "2026-10-30T10:09:02.916Z"
     },
     {
-      "id": "2464910",
-      "title": "Bäckerwagen in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/11/21/baeckerwagen-in-podelzig",
-      "startDate": "2026-11-21T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Bäckerwagen, im Unterdorf, am Neubau, Wuhdener Weg nur am Dorfteich",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-15T11:01:51.954Z"
-    },
-    {
       "id": "2873363",
       "title": "Gedenk Andacht in Mallnow",
       "url": "https://www.amt-lebus.de/veranstaltungen/2873363/2026/11/21/gedenk-andacht-in-mallnow.html",
@@ -1265,12 +1255,12 @@
     {
       "id": "3006512",
       "title": "\"15. Hofadvent bei der Reitweiner Wiesenkeramik",
-      "url": "https://www.amt-lebus.de/veranstaltungen/3006512/2026/11/21/15.-hofadvent-bei-der-reitweiner-wiesenkeramik",
-      "startDate": "2026-11-21T00:00:00.000Z",
+      "url": "https://www.amt-lebus.de/veranstaltungen/3006512/2026/11/22/15.-hofadvent-bei-der-reitweiner-wiesenkeramik",
+      "startDate": "2026-11-22T00:00:00.000Z",
       "location": "Wiesenkeramik - Reitwein",
       "description": "Bezaubernde Windlichter, Lichterbäumchen, Schneemänner und noch viel Schönes mehr... Genießen Sie die Vorweihnachtszeit in unserer gemütlichen Töpferwerkstatt, am 21./22.11. 26 sowie an allen darauffolgenden Adventwochenenden, immer von 11-17.00 ...",
       "fetchedAt": "2026-11-16T11:29:19.036Z",
-      "updatedAt": "2026-11-16T11:29:19.036Z"
+      "updatedAt": "2026-11-22T11:32:44.881Z"
     },
     {
       "id": "2402834",
@@ -1387,6 +1377,16 @@
       "location": "Schule im Grünen Verlässliche Halbtagsgrundschule in Alt Zeschdorf",
       "fetchedAt": "2026-11-11T11:06:38.948Z",
       "updatedAt": "2026-11-11T11:06:38.948Z"
+    },
+    {
+      "id": "2464910",
+      "title": "Bäckerwagen in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464910/2026/11/28/baeckerwagen-in-podelzig",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Bäckerwagen, im Unterdorf, am Neubau, Wuhdener Weg nur am Dorfteich",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-22T11:32:44.881Z"
     },
     {
       "id": "2928789",

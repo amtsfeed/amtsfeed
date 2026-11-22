@@ -1,5 +1,43 @@
 # Updates
 
+## 2026-11-22 11:36
+
+Insgesamt **500 neu**, **195 aktualisiert**, **1 entfernt** in 31 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Altlandsberg | — | ~2 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Lebus | — | ~2 | — | — |
+| Amt Plessa | — | ~2 | — | — |
+| Amt Scharmützelsee | — | -1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +1 / ~4 | — | — |
+| Amt Schenkenländchen | — | +1 | — | — |
+| Amt Ziesar | — | — | — | ~24 |
+| Bernau bei Berlin | — | +4 / ~25 | — | — |
+| Calau | — | ~1 | — | — |
+| Eberswalde | — | +1 | — | — |
+| Eisenhüttenstadt | — | +1 / ~1 | — | — |
+| Falkensee | — | +1 | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Groß Kreutz | — | ~21 | — | — |
+| Hohen Neuendorf | — | +3 | — | — |
+| Kleinmachnow | — | ~1 | — | — |
+| Kloster Lehnin | — | ~1 | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +2 | — | — |
+| Löwenberger Land | — | +1 | — | — |
+| Lübbenau Spreewald | — | +467 / ~66 | — | — |
+| Mühlenbecker Land | — | +5 | — | — |
+| Oranienburg | — | +2 | — | — |
+| Panketal | — | +1 | — | — |
+| Premnitz | — | +3 | — | — |
+| Rietz-Neuendorf | — | — | ~1 | — |
+| Schönefeld | ~1 | ~30 | — | — |
+| Senftenberg | — | +4 | — | — |
+| Velten | — | +2 | — | — |
+| Werder (Havel) | — | ~5 | — | — |
+| Woltersdorf | — | +1 | — | — |
+
 ## 2026-11-21 11:14
 
 Insgesamt **560 neu**, **146 aktualisiert**, **3 entfernt** in 37 Quellen.

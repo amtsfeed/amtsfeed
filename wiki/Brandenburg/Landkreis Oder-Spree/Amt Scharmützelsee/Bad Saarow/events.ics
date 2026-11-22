@@ -1274,25 +1274,6 @@ URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
  nker-im-technischen-denkmal-bunkeranlage-fuchsbau
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-ausgebucht-workshop-winterzauber-aus-der-natur-kraenz
- e-und-duftkissen@amtsfeed.de
-DTSTAMP:20261116T113101Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:++ ausgebucht ++ Workshop: Winterzauber aus der Natur – Kränze
-  und Duftkissen
-URL:https://www.scharmuetzelsee.de/event/ausgebucht-workshop-winterzauber
- -aus-der-natur-kraenze-und-duftkissen
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
-DTSTAMP:20261116T113101Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Offener Meditationsabend
-URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz@amtsf
  eed.de
 DTSTAMP:20261116T113101Z
@@ -1319,23 +1300,6 @@ DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Timo Wopp - JA SORRY!
 URL:https://www.scharmuetzelsee.de/event/timo-wopp-ja-sorry
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261121T111232Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
- ad-saarow
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-linienfahrt-nachsaison-sa-so@amtsfeed.de
-DTSTAMP:20261118T115223Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Linienfahrt Nachsaison (Sa. & So.)
-URL:https://www.scharmuetzelsee.de/event/linienfahrt-nachsaison-sa-so
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-stadtfuehrung-durch-storkow-mit-dem-gruenen-lutz@amts
@@ -1395,6 +1359,14 @@ URL:https://www.scharmuetzelsee.de/event/hurra-der-kasper-ist-wieder-da-i
  n-der-alten-schulscheune
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-linienfahrt-nachsaison-sa-so@amtsfeed.de
+DTSTAMP:20261122T113432Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Linienfahrt Nachsaison (Sa. & So.)
+URL:https://www.scharmuetzelsee.de/event/linienfahrt-nachsaison-sa-so
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-ortsfuehrung-durch-den-kurort-bad-saarow@amtsfeed.de
 DTSTAMP:20261121T111232Z
 DTSTART;VALUE=DATE:20261122
@@ -1402,6 +1374,45 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:Ortsführung durch den Kurort Bad Saarow
 URL:https://www.scharmuetzelsee.de/event/ortsfuehrung-durch-den-kurort-ba
  d-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-die-oderhaehne-besser-als-befuerchtet-satirischer-jah
+ resrueckblick@amtsfeed.de
+DTSTAMP:20261122T113432Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Die Oderhähne "Besser als befürchtet - Satirischer Jahresrückb
+ lick"
+URL:https://www.scharmuetzelsee.de/event/die-oderhaehne-besser-als-befuer
+ chtet-satirischer-jahresrueckblick
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261122T113432Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-ausgebucht-workshop-winterzauber-aus-der-natur-kraenz
+ e-und-duftkissen@amtsfeed.de
+DTSTAMP:20261122T113432Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:++ausgebucht++ Workshop: Winterzauber aus der Natur – Kränze u
+ nd Duftkissen
+URL:https://www.scharmuetzelsee.de/event/ausgebucht-workshop-winterzauber
+ -aus-der-natur-kraenze-und-duftkissen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
+DTSTAMP:20261122T113432Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Offener Meditationsabend
+URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de

@@ -2493,6 +2493,15 @@ URL:https://www.klosterlehnin.de/veranstaltungen/2821099/2026/12/05/busfa
  hrt-zum-weihnachtsmarkt
 END:VEVENT
 BEGIN:VEVENT
+UID:kloster-lehnin-event-2884263@amtsfeed.de
+DTSTAMP:20261122T113533Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Rentnerweihnachtsfeier
+URL:https://www.klosterlehnin.de/veranstaltungen/2884263/2026/12/05/rentn
+ erweihnachtsfeier
+END:VEVENT
+BEGIN:VEVENT
 UID:kloster-lehnin-event-2850960@amtsfeed.de
 DTSTAMP:20261028T095122Z
 DTSTART;VALUE=DATE:20261206
@@ -2518,15 +2527,6 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Adventsmarkt Grebs
 URL:https://www.klosterlehnin.de/veranstaltungen/3006990/2026/12/06/adven
  tsmarkt-grebs
-END:VEVENT
-BEGIN:VEVENT
-UID:kloster-lehnin-event-2884263@amtsfeed.de
-DTSTAMP:20261028T095122Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Rentnerweihnachtsfeier
-URL:https://www.klosterlehnin.de/veranstaltungen/2884263/2026/12/07/rentn
- erweihnachtsfeier
 END:VEVENT
 BEGIN:VEVENT
 UID:kloster-lehnin-event-2999741@amtsfeed.de

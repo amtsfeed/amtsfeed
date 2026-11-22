@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:29:10.609Z",
+  "updatedAt": "2026-11-22T11:32:38.047Z",
   "items": [
     {
       "id": "19",
@@ -422,26 +422,6 @@
       "updatedAt": "2026-10-28T09:46:49.279Z"
     },
     {
-      "id": "3",
-      "title": "Brettspielkönig für die ganze Familie",
-      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/brettspielkoenig-fuer-die-ganze-familie-3/",
-      "startDate": "2026-11-21T00:00:00.000Z",
-      "location": "Bürger- und Kreativhaus Bruchmühle",
-      "description": "\"Mensch langweile dich nicht\" Für Interessierte, Könner und Anfänger. Kommt vorbei und spielt mit uns in gemütlicher Atmosphäre.",
-      "fetchedAt": "2026-05-05T15:11:36.250Z",
-      "updatedAt": "2026-10-18T08:09:15.374Z"
-    },
-    {
-      "id": "4",
-      "title": "Workshop: \"Sumi-e\" Japanische Tuschemalerei mit Uta Wilczok",
-      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/workshop-sumi-e-japanische-tuschemalerei-mit-uta-wilczok-4/",
-      "startDate": "2026-11-21T00:00:00.000Z",
-      "location": "Schlossgut Altlandsberg",
-      "description": "Sumi-e bedeutet übersetzt Schwarze-Tusche-Bild oder –Malerei. Es ist eine seit Jahrhunderten in Japan ausgeübte Kunst, in ihrer Einfachheit und ihrem Ausdruck des Wesentlichen in den Zen-Klöstern zur Meisterschaft gebracht. Der Workshop gibt eine Idee vom „Weg der schwarzen Tusche“, der spontan ist, meditativ, auf...",
-      "fetchedAt": "2026-05-05T15:11:36.665Z",
-      "updatedAt": "2026-10-06T10:26:06.218Z"
-    },
-    {
       "id": "wintertheater-theater89-wind-sand-und-sterne-die-wueste-von-antoine-de-saint-exupery",
       "title": "Wintertheater: theater89 \"Wind, Sand und Sterne - Die Wüste\" von...",
       "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/wintertheater-theater89-wind-sand-und-sterne-die-wueste-von-antoine-de-saint-exupery/",
@@ -492,6 +472,16 @@
       "updatedAt": "2026-10-15T08:24:56.492Z"
     },
     {
+      "id": "4",
+      "title": "Altlandsberger Weihnachtsmarkt",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/altlandsberger-weihnachtsmarkt-4/",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "location": "Stadtpfarrkirche St. Marien, Altlandsberg",
+      "description": "Am 5. und 6. Dezember 2026 verwandeln sich der Kirchplatz, die Stadtkirche und das Schlossgut in einen stimmungsvollen Weihnachtsmarkt mit Musik, Theater, Kunsthandwerk und vielen Angeboten für Familien.Am Samstag, 5. Dezember, von 15 bis 21 Uhr und am Sonntag, 6. Dezember, von 12 bis 18 Uhr findet der...",
+      "fetchedAt": "2026-05-05T15:11:36.665Z",
+      "updatedAt": "2026-11-22T11:32:03.829Z"
+    },
+    {
       "id": "7",
       "title": "Handpan Schnupper-Workshop",
       "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/handpan-schnupper-workshop-7/",
@@ -530,6 +520,16 @@
       "description": "Am 5. und 6. Dezember 2026 verwandeln sich der Kirchplatz, die Stadtkirche und das Schlossgut in einen stimmungsvollen Weihnachtsmarkt mit Musik, Theater, Kunsthandwerk und vielen Angeboten für Familien.Am Samstag, 5. Dezember, von 15 bis 21 Uhr und am Sonntag, 6. Dezember, von 12 bis 18 Uhr findet der...",
       "fetchedAt": "2026-05-05T15:11:37.677Z",
       "updatedAt": "2026-11-12T11:21:42.939Z"
+    },
+    {
+      "id": "3",
+      "title": "Puppentheater Rabatz",
+      "url": "https://www.altlandsberg.de/leben-wohnen/kultur-freizeit/veranstaltungen/puppentheater-rabatz-3/",
+      "startDate": "2026-12-08T00:00:00.000Z",
+      "location": "Bürger- und Kreativhaus Bruchmühle",
+      "description": "Die Aufführung mit dem traditionellen Puppentheater entführt die Kinder in eine bunte Phantasiewelt.Am 08. Dezember präsentiert das Puppentheater Rabatz 'Frau Holle' nach den Gebrüdern Grimm im Bürger- und Kreativhaus Bruchmühle.Eintritt: 10 €, Ermäßigung: 9€, Tickets an der Abendkasse ab 30 Minuten vor...",
+      "fetchedAt": "2026-05-05T15:11:36.250Z",
+      "updatedAt": "2026-11-22T11:32:11.525Z"
     },
     {
       "id": "3-konzert-der-winterkonzertreihe-weihnachtsprogramm-des-paul-robeson-chors-berlin",

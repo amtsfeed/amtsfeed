@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:13:26.807Z",
+  "updatedAt": "2026-11-22T11:35:31.129Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -656,14 +656,6 @@
       "startDate": "2026-09-28T17:00:00.000Z",
       "fetchedAt": "2026-09-13T08:30:40.529Z",
       "updatedAt": "2026-09-13T08:30:40.529Z"
-    },
-    {
-      "id": "kleinmachnow-event-2299",
-      "title": "LEA-Leseklub",
-      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/LEA-Leseklub.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2299.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
-      "startDate": "2026-09-29T16:30:00.000Z",
-      "fetchedAt": "2026-05-26T09:04:59.234Z",
-      "updatedAt": "2026-09-14T09:09:25.979Z"
     },
     {
       "id": "kleinmachnow-event-2415",
@@ -1416,6 +1408,14 @@
       "startDate": "2026-12-04T13:00:00.000Z",
       "fetchedAt": "2026-11-21T11:13:26.805Z",
       "updatedAt": "2026-11-21T11:13:26.805Z"
+    },
+    {
+      "id": "kleinmachnow-event-2299",
+      "title": "Spieleabend",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Spieleabend.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2299.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-12-04T19:00:00.000Z",
+      "fetchedAt": "2026-05-26T09:04:59.234Z",
+      "updatedAt": "2026-11-22T11:35:31.127Z"
     },
     {
       "id": "kleinmachnow-event-1799",

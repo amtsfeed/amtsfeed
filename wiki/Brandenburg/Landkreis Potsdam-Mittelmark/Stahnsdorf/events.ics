@@ -887,6 +887,15 @@ URL:https://stahnsdorf.de/../images/pictures/veranstaltungen/advent/03121
  8_lichterfest_im_rathaus_040.jpg
 END:VEVENT
 BEGIN:VEVENT
+UID:stahnsdorf-event-6b03fcbc@amtsfeed.de
+DTSTAMP:20261123T125804Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Lebendiger Adventskalender Stahnsdorf
+URL:https://stahnsdorf.de/veranstaltungskalender/advent/lebendiger-advent
+ skalender-2026-stahnsdorf-weihnachtlich-erleben.html
+END:VEVENT
+BEGIN:VEVENT
 UID:stahnsdorf-event-6af18bee@amtsfeed.de
 DTSTAMP:20261109T114526Z
 DTSTART:20261204T163000Z

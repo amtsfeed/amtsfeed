@@ -1773,6 +1773,16 @@ SUMMARY:Eberswalder Schwoof
 URL:https://www.eberswalde.de/termine/eberswalder-schwoof
 END:VEVENT
 BEGIN:VEVENT
+UID:guten-morgen-eberswalde-theaterjugendclub-im-theater-am-rand-michael-
+ metzler-die-schneekoenigin@amtsfeed.de
+DTSTAMP:20261123T125037Z
+DTSTART:20261128T103000Z
+SUMMARY:Guten-Morgen-Eberswalde - TheaterJugendClub im Theater am Rand & 
+ Michael Metzler „Die Schneekönigin“
+URL:https://www.eberswalde.de/termine/guten-morgen-eberswalde-theaterjuge
+ ndclub-im-theater-am-rand-michael-metzler-die-schneekoenigin
+END:VEVENT
+BEGIN:VEVENT
 UID:aschenputtel@amtsfeed.de
 DTSTAMP:20261119T114426Z
 DTSTART:20261128T110000Z
@@ -1785,5 +1795,13 @@ DTSTAMP:20261122T112917Z
 DTSTART:20261128T120000Z
 SUMMARY:Eberswalder Weihnachtsmarkt 2026
 URL:https://www.eberswalde.de/termine/eberswalder-weihnachtsmarkt-2026-2
+END:VEVENT
+BEGIN:VEVENT
+UID:krippenmarkt-an-der-maria-magdalenen-kirche@amtsfeed.de
+DTSTAMP:20261123T125037Z
+DTSTART:20261128T120000Z
+SUMMARY:Krippenmarkt an der Maria-Magdalenen-Kirche
+URL:https://www.eberswalde.de/termine/krippenmarkt-an-der-maria-magdalene
+ n-kirche
 END:VEVENT
 END:VCALENDAR

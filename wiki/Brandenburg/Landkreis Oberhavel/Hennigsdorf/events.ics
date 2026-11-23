@@ -702,4 +702,15 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/-AUSVERKAUFT-We
  D=11&amp\;FID=3590.884.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp
  \;startkat=2713.5&amp\;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-890@amtsfeed.de
+DTSTAMP:20261123T125552Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:3. Boxing-Fight-Night in Hennigsdorf
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/3-Boxing-Fight-
+ Night-in-Hennigsdorf.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.
+ 890.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&a
+ mp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

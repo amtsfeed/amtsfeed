@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T11:34:32.859Z",
+  "updatedAt": "2026-11-23T12:56:53.779Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -981,14 +981,6 @@
       "updatedAt": "2026-11-09T11:44:03.044Z"
     },
     {
-      "id": "scharmuetzelsee-wendisch-rietzer-kneipp-kids",
-      "title": "Wendisch Rietzer Kneipp-Kids",
-      "url": "https://www.scharmuetzelsee.de/event/wendisch-rietzer-kneipp-kids",
-      "startDate": "2026-11-13T00:00:00.000Z",
-      "fetchedAt": "2026-10-02T09:55:55.576Z",
-      "updatedAt": "2026-11-09T11:44:03.044Z"
-    },
-    {
       "id": "scharmuetzelsee-vernissage-mit-lichtkunst-zurueck-in-die-heimat",
       "title": "Vernissage „Mit Lichtkunst zurück in die Heimat\"",
       "url": "https://www.scharmuetzelsee.de/event/vernissage-mit-lichtkunst-zurueck-in-die-heimat",
@@ -1067,14 +1059,6 @@
       "startDate": "2026-11-18T00:00:00.000Z",
       "fetchedAt": "2026-09-16T08:45:08.170Z",
       "updatedAt": "2026-11-16T11:31:01.430Z"
-    },
-    {
-      "id": "scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-denkmal-bunkeranlage-fuchsbau",
-      "title": "Führungen zur Geschichte der Bunker im technischen Denkmal „Bunkeranlage Fuchsbau“",
-      "url": "https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bunker-im-technischen-denkmal-bunkeranlage-fuchsbau",
-      "startDate": "2026-11-18T00:00:00.000Z",
-      "fetchedAt": "2026-09-19T08:14:15.333Z",
-      "updatedAt": "2026-11-15T11:03:53.416Z"
     },
     {
       "id": "scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz",
@@ -1197,6 +1181,14 @@
       "updatedAt": "2026-11-22T11:34:32.857Z"
     },
     {
+      "id": "scharmuetzelsee-wendisch-rietzer-kneipp-kids",
+      "title": "Wendisch Rietzer Kneipp-Kids",
+      "url": "https://www.scharmuetzelsee.de/event/wendisch-rietzer-kneipp-kids",
+      "startDate": "2026-11-27T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T09:55:55.576Z",
+      "updatedAt": "2026-11-23T12:56:53.777Z"
+    },
+    {
       "id": "scharmuetzelsee-sternstunden-in-der-saarowtherme",
       "title": "Sternstunden in der SaarowTherme",
       "url": "https://www.scharmuetzelsee.de/event/sternstunden-in-der-saarowtherme",
@@ -1206,12 +1198,36 @@
       "updatedAt": "2026-10-31T09:47:05.532Z"
     },
     {
+      "id": "scharmuetzelsee-adventsmarkt-im-forum",
+      "title": "Adventsmarkt im Forum",
+      "url": "https://www.scharmuetzelsee.de/event/adventsmarkt-im-forum",
+      "startDate": "2026-11-27T00:00:00.000Z",
+      "fetchedAt": "2026-11-23T12:56:53.777Z",
+      "updatedAt": "2026-11-23T12:56:53.777Z"
+    },
+    {
+      "id": "scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-denkmal-bunkeranlage-fuchsbau",
+      "title": "Führungen zur Geschichte der Bunker im technischen Denkmal „Bunkeranlage Fuchsbau“",
+      "url": "https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bunker-im-technischen-denkmal-bunkeranlage-fuchsbau",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-09-19T08:14:15.333Z",
+      "updatedAt": "2026-11-23T12:56:53.777Z"
+    },
+    {
       "id": "scharmuetzelsee-saarower-klavierkonzert-weihnachtszauber",
       "title": "\"Saarower Klavierkonzert\" - Weihnachtszauber",
       "url": "https://www.scharmuetzelsee.de/event/saarower-klavierkonzert-weihnachtszauber",
       "startDate": "2026-11-28T00:00:00.000Z",
       "fetchedAt": "2026-10-28T09:50:07.043Z",
       "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
+      "id": "scharmuetzelsee-adventsfahrt",
+      "title": "Adventsfahrt",
+      "url": "https://www.scharmuetzelsee.de/event/adventsfahrt",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-11-23T12:56:53.777Z",
+      "updatedAt": "2026-11-23T12:56:53.777Z"
     },
     {
       "id": "scharmuetzelsee-melodien-unterm-tannenbaum-in-der-alten-schulscheune",

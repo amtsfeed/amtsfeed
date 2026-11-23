@@ -1,5 +1,76 @@
 # Updates
 
+## 2026-11-23 12:58
+
+Insgesamt **644 neu**, **140 aktualisiert**, **3 entfernt** in 64 Quellen.
+
+| Gemeinde | news | events | amtsblatt | notices |
+|---|---|---|---|---|
+| Ahrensfelde | — | +1 / -1 | — | — |
+| Amt Altdöbern | — | +1 | — | — |
+| Amt Brieskow-Finkenheerd | — | — | — | ~6 |
+| Amt Brück | ~1 | — | — | — |
+| Amt Lebus | — | +2 | — | — |
+| Amt Niemegk | — | ~1 | — | — |
+| Amt Ruhland | +1 | +2 | — | — |
+| Amt Scharmützelsee | — | +1 / -1 | — | — |
+| Amt Scharmützelsee / Bad Saarow | — | +2 / ~2 | — | — |
+| Amt Wusterwitz | — | — | — | +1 |
+| Amt Ziesar | — | — | — | ~24 |
+| Beeskow | — | +1 | — | — |
+| Bernau bei Berlin | +1 | +5 / ~12 | +1 | — |
+| Birkenwerder | +1 | — | — | — |
+| Brieselang | +3 | — | — | — |
+| Calau | +1 | +6 | — | — |
+| Dallgow-Döberitz | +1 / ~1 | — | — | — |
+| Eberswalde | +1 | +2 | — | — |
+| Eichwalde | +1 | +1 | — | — |
+| Eisenhüttenstadt | — | ~1 | — | — |
+| Falkensee | +1 | +3 | — | — |
+| Fredersdorf-Vogelsdorf | +1 | — | — | — |
+| Fürstenberg-Havel | — | — | — | ~2 |
+| Glienicke-Nordbahn | +2 | — | — | — |
+| Gransee | — | +34 / ~1 | — | — |
+| Groß Kreutz | — | ~21 | — | — |
+| Großräschen | +1 | +1 | — | — |
+| Grünheide (Mark) | +1 | — | — | — |
+| Hennigsdorf | — | +1 | — | — |
+| Hohen Neuendorf | +4 | +1 | +1 | — |
+| Ketzin Havel | — | +3 | — | — |
+| Landkreis Elbe-Elster (LK-Ebene) | +1 | — | — | — |
+| Landkreis Oberspreewald-Lausitz (LK-Ebene) | — | +8 | — | — |
+| Lauchhammer | +1 | — | — | — |
+| Leegebruch | +1 | — | — | — |
+| Löwenberger Land | +1 | — | — | — |
+| Lübben (Spreewald) | +2 | — | — | — |
+| Lübbenau Spreewald | — | +493 / ~32 | — | — |
+| Luckau | — | — | +1 | — |
+| Milower Land | +2 | — | — | — |
+| Mühlenbecker Land | — | — | +1 | — |
+| Müncheberg | +1 | — | +1 | — |
+| Nauen | — | +4 | — | — |
+| Nuthetal | +2 | — | — | — |
+| Oberkrämer | +1 | +1 | — | — |
+| Oranienburg | — | ~1 | — | — |
+| Premnitz | — | +3 | — | — |
+| Rathenow | — | +4 | — | — |
+| Rietz-Neuendorf | +1 | — | — | — |
+| Schönefeld | — | ~30 | — | — |
+| Schorfheide | — | +1 | — | — |
+| Schwarzheide | — | +1 | — | — |
+| Seddiner See | +3 | — | — | — |
+| Senftenberg | — | +4 / ~1 | — | — |
+| Stahnsdorf | — | +1 | — | — |
+| Strausberg | +2 | — | — | — |
+| Teltow | +1 | — | — | — |
+| Velten | +1 | — | — | — |
+| Verbandsgemeinde Bad Liebenwerda | — | — | — | +2 |
+| Werder (Havel) | +2 | ~4 | — | — |
+| Werneuchen | +1 / -1 | — | — | — |
+| Woltersdorf | — | +3 | — | — |
+| Wustermark | — | +2 | — | — |
+| Zeuthen | +1 | — | — | — |
+
 ## 2026-11-22 11:36
 
 Insgesamt **500 neu**, **195 aktualisiert**, **1 entfernt** in 31 Quellen.

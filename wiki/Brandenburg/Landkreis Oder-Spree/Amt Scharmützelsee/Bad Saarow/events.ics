@@ -1161,14 +1161,6 @@ URL:https://www.scharmuetzelsee.de/event/lesung-mit-karin-luedtke-dorothe
  e-koch-und-vera-jaspers
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-wendisch-rietzer-kneipp-kids@amtsfeed.de
-DTSTAMP:20261109T114403Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Wendisch Rietzer Kneipp-Kids
-URL:https://www.scharmuetzelsee.de/event/wendisch-rietzer-kneipp-kids
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-vernissage-mit-lichtkunst-zurueck-in-die-heimat@amtsf
  eed.de
 DTSTAMP:20261109T114403Z
@@ -1261,17 +1253,6 @@ DTEND;VALUE=DATE:20261119
 SUMMARY:Ratschen und tratschen - Handarbeitsnachmittage mit Sylvia Musick
 URL:https://www.scharmuetzelsee.de/event/ratschen-und-tratschen-handarbei
  tsnachmittage-mit-sylvia-musick
-END:VEVENT
-BEGIN:VEVENT
-UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
- enkmal-bunkeranlage-fuchsbau@amtsfeed.de
-DTSTAMP:20261115T110353Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
- nkeranlage Fuchsbau“
-URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
- nker-im-technischen-denkmal-bunkeranlage-fuchsbau
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-maerchenstunde-in-der-bibliothek-wendisch-rietz@amtsf
@@ -1415,12 +1396,39 @@ SUMMARY:Offener Meditationsabend
 URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-wendisch-rietzer-kneipp-kids@amtsfeed.de
+DTSTAMP:20261123T125653Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Wendisch Rietzer Kneipp-Kids
+URL:https://www.scharmuetzelsee.de/event/wendisch-rietzer-kneipp-kids
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-sternstunden-in-der-saarowtherme@amtsfeed.de
 DTSTAMP:20261031T094705Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20270131
 SUMMARY:Sternstunden in der SaarowTherme
 URL:https://www.scharmuetzelsee.de/event/sternstunden-in-der-saarowtherme
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-adventsmarkt-im-forum@amtsfeed.de
+DTSTAMP:20261123T125653Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Adventsmarkt im Forum
+URL:https://www.scharmuetzelsee.de/event/adventsmarkt-im-forum
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-fuehrungen-zur-geschichte-der-bunker-im-technischen-d
+ enkmal-bunkeranlage-fuchsbau@amtsfeed.de
+DTSTAMP:20261123T125653Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Führungen zur Geschichte der Bunker im technischen Denkmal „Bu
+ nkeranlage Fuchsbau“
+URL:https://www.scharmuetzelsee.de/event/fuehrungen-zur-geschichte-der-bu
+ nker-im-technischen-denkmal-bunkeranlage-fuchsbau
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-saarower-klavierkonzert-weihnachtszauber@amtsfeed.de
@@ -1430,6 +1438,14 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:"Saarower Klavierkonzert" - Weihnachtszauber
 URL:https://www.scharmuetzelsee.de/event/saarower-klavierkonzert-weihnach
  tszauber
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-adventsfahrt@amtsfeed.de
+DTSTAMP:20261123T125653Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Adventsfahrt
+URL:https://www.scharmuetzelsee.de/event/adventsfahrt
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-melodien-unterm-tannenbaum-in-der-alten-schulscheune@

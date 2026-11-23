@@ -923,6 +923,16 @@ DESCRIPTION:Schlagworte: Hohenbocka
 LOCATION:Multikultureller Platz
 END:VEVENT
 BEGIN:VEVENT
+UID:ruhland-event-7531@amtsfeed.de
+DTSTAMP:20261123T125623Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261201
+SUMMARY:Pyramide anschieben an der Feuerwehr Grünewald
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Grünewald
+LOCATION:Feuerwehr Grünewald
+END:VEVENT
+BEGIN:VEVENT
 UID:ruhland-event-5194@amtsfeed.de
 DTSTAMP:20260531T184201Z
 DTSTART:20261129T160000Z
@@ -998,6 +1008,16 @@ DTEND:20261212T203000Z
 SUMMARY:ABBA - ABALANCE The Show Schwarzheide
 URL:https://www.abalance2000.de/
 LOCATION:Kulturhaus der BASF Schwarzheide
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhland-event-7534@amtsfeed.de
+DTSTAMP:20261123T125623Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261215
+SUMMARY:Weihnachtsmarkt in Grünewald
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Grünewald
+LOCATION:Platz der Volkssolidarität
 END:VEVENT
 BEGIN:VEVENT
 UID:ruhland-event-6037@amtsfeed.de

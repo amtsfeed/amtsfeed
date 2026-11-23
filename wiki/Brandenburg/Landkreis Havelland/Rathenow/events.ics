@@ -2144,6 +2144,18 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Oberschule "Johann Heinrich August Duncker"
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1853-20261201@amtsfeed.de
+DTSTAMP:20261123T125248Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Online-Informationsveranstaltung: KORRIDORSANIERUNG LEHRTE - BERL
+ IN
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/online-informationsveranstaltun
+ g-korridorsanierung-lehrte-berlin/
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1572-20261203@amtsfeed.de
 DTSTAMP:20260531T141404Z
 DTSTART;VALUE=DATE:20261203
@@ -2566,6 +2578,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Havellandhall Rathenow
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1854-20270224@amtsfeed.de
+DTSTAMP:20261123T125248Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Regionalentscheid des Vorlesewettbewerb des Deutschen Buchhandels
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/regionalentscheid-des-vorlesewe
+ ttbewerb-des-deutschen-buchhandels/
+LOCATION:Stadtbibliothek Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1779-20270227@amtsfeed.de
 DTSTAMP:20261015T082301Z
 DTSTART;VALUE=DATE:20270227
@@ -2713,6 +2736,16 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:HavelSalon Rathenow Milower Landstraße 7
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-476-20270607@amtsfeed.de
+DTSTAMP:20261123T125248Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270828
+SUMMARY:Brandenburger Lesesommer
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/brandenburger-lesesommer/
+LOCATION:Rathenow\, Stadtbibliothek\, Schleusenplatz
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1839-20270618@amtsfeed.de
 DTSTAMP:20261118T114903Z
 DTSTART;VALUE=DATE:20270618
@@ -2787,6 +2820,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/laufgruppe-werner-buenger-27-we
  rner-buenger-gedenklauf/
 LOCATION:Ferchesarer Weg
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-264-20270922@amtsfeed.de
+DTSTAMP:20261123T125248Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:Abschlussveranstaltung des Brandenburger Lesesommers
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/abschlussveranstaltung-des-bran
+ denburger-lesesommers/
+LOCATION:Rathenow\, Stadtbilbliothek\, Am Schleusenplatz
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1811-20270925@amtsfeed.de

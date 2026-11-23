@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T11:44:28.247Z",
+  "updatedAt": "2026-11-23T12:50:22.146Z",
   "items": [
     {
       "id": "ahrensfelde-event-900004756",
@@ -1695,6 +1695,17 @@
       "updatedAt": "2026-10-27T09:02:42.563Z"
     },
     {
+      "id": "ahrensfelde-event-900005109",
+      "title": "Weihnachtssingen in Blumberg",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/weihnachtssingen-in-blumberg-900005109-30601.html",
+      "startDate": "2026-12-03T17:00:00Z",
+      "endDate": "2026-12-03T19:00:00Z",
+      "location": "Stufensaal Blumberg, Schloßstraße 17i, 16356 Ahrensfelde",
+      "description": "Das Blumberger KreativKollektiv e.V. lädt Euch im Rahmen der Blumberger Weihnachtsfenster herzlich zum gemeinsamen Weihnachtssingen in den Stufensaal ein. Musikalisch unterstützt wird der Abend von der Pianistin/Sopranistin Annette Ruprecht.\nFür's leibliche Wohl ist gesorgt: Es gibt Getränke und Snacks in den Pausen.\n\nEs ist keine Anmeldung erforderlich. Bringt Eure Familie und Nachbarn mit - wir freuen uns auf euch!",
+      "fetchedAt": "2026-11-23T12:50:25.699Z",
+      "updatedAt": "2026-11-23T12:50:25.699Z"
+    },
+    {
       "id": "ahrensfelde-event-900004775",
       "title": "öffentliche Sitzung des Ausschusses für Finanzen",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-finanzen-900004775-30601.html",
@@ -2050,15 +2061,6 @@
       "location": "16356 Ahrensfelde, Rathaus (Hintereingang), Versammlungsraum Raum Nr.106, Lindenberger Straße 1, OT Ahrensfelde",
       "fetchedAt": "2026-11-17T11:55:45.989Z",
       "updatedAt": "2026-11-17T11:55:45.989Z"
-    },
-    {
-      "id": "ahrensfelde-event-900005090",
-      "title": "öffentliche Sitzung der Gemeindevertretung Ahrensfelde",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-der-gemeindevertretung-ahrensfelde-900005090-30601.html",
-      "startDate": "2027-03-15T18:00:00Z",
-      "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
-      "fetchedAt": "2026-11-18T11:47:03.266Z",
-      "updatedAt": "2026-11-18T11:47:03.266Z"
     }
   ]
 }

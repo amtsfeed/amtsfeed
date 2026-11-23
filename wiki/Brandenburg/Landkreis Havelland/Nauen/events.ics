@@ -2389,6 +2389,26 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/161
 LOCATION:Ambulantes Pflegeteam Denny Schulz GmbH
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-17122026-frischemarkt-auf-dem-nauener-rathausplatz-202612
+ 17@amtsfeed.de
+DTSTAMP:20261123T125240Z
+DTSTART:20261217T070000Z
+SUMMARY:Frischemarkt auf dem Nauener Rathausplatz
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/171
+ 22026-frischemarkt-auf-dem-nauener-rathausplatz/
+LOCATION:Rathausplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-17122026-hertefelder-str-stephanus-qi-gong-fuer-anfaenger
+ -20261217@amtsfeed.de
+DTSTAMP:20261123T125240Z
+DTSTART:20261217T120000Z
+SUMMARY:Qi Gong für Anfänger
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/171
+ 22026-hertefelder-str-stephanus-qi-gong-fuer-anfaenger/
+LOCATION:Stephanus-Lichtblick gGmbH
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-17122026-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten
  -donnerstag-im-monat-20261217@amtsfeed.de
 DTSTAMP:20261118T114858Z
@@ -2519,6 +2539,17 @@ URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/140
 LOCATION:Richart-Hof
 END:VEVENT
 BEGIN:VEVENT
+UID:nauen-event-21012027-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten
+ -donnerstag-im-monat-20270121@amtsfeed.de
+DTSTAMP:20261123T125240Z
+DTSTART:20270121T130000Z
+SUMMARY:Kaffeeklatsch mit Gerda
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/210
+ 12027-kaffeeklatsch-mit-gerda-jeden-ersten-und-dritten-donnerstag-im-mona
+ t/
+LOCATION:Ambulantes Pflegeteam Denny Schulz GmbH
+END:VEVENT
+BEGIN:VEVENT
 UID:nauen-event-26012027-spiele-und-basteln-fuer-senioren-jeden-letzten-d
  ienstag-im-monat-20270126@amtsfeed.de
 DTSTAMP:20261118T114858Z
@@ -2537,6 +2568,15 @@ SUMMARY:Kochgruppe für Senioren
 URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/290
  12027-kochgruppe-fuer-senioren-jeden-zweiten-und-letzten-freitag/
 LOCATION:Ambulantes Pflegeteam Denny Schulz GmbH
+END:VEVENT
+BEGIN:VEVENT
+UID:nauen-event-11022027-spielecafé-im-richart-hof-20270211@amtsfeed.de
+DTSTAMP:20261123T125240Z
+DTSTART:20270211T130000Z
+SUMMARY:Spielecafé im Richart-Hof
+URL:https://www.nauen.de/leben-arbeiten/kultur/veranstaltungskalender/110
+ 22027-spielecafé-im-richart-hof/
+LOCATION:Richart-Hof
 END:VEVENT
 BEGIN:VEVENT
 UID:nauen-event-12022027-kochgruppe-fuer-senioren-jeden-zweiten-und-letzt

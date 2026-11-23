@@ -2,7 +2,7 @@
   {
     "domain": "www.amt-biesenthal-barnim.de",
     "baseUrl": "https://www.amt-biesenthal-barnim.de",
-    "updatedAt": "2026-11-22T11:29:07.438Z",
+    "updatedAt": "2026-11-23T12:50:27.347Z",
     "content": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://www.amt-biesenthal-barnim.de/sitemap_index.xml\n"
   }
 ]

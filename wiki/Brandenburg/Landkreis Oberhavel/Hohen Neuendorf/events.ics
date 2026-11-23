@@ -1110,4 +1110,13 @@ SUMMARY:Gartenlust Adventsbasteln im Garten
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  gartenlust-adventsbasteln-im-garten-0
 END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-cavacult-lesung-mit-martin-woitke@amtsfeed.de
+DTSTAMP:20261123T125556Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:CavaCult Lesung mit Martin Woitke
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ cavacult-lesung-mit-martin-woitke
+END:VEVENT
 END:VCALENDAR

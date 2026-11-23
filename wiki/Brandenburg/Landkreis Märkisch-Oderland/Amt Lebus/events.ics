@@ -1872,6 +1872,26 @@ URL:https://www.amt-lebus.de/veranstaltungen/2957525/2026/12/15/adventsmu
 LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
+UID:3011942@amtsfeed.de
+DTSTAMP:20261123T125435Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Weihnachtszauber für unsere Tiere im Haustiergarten
+URL:https://www.amt-lebus.de/veranstaltungen/3011942/2026/12/19/weihnacht
+ szauber-fuer-unsere-tiere-im-haustiergarten
+LOCATION:Haustiergarten Mallnow
+END:VEVENT
+BEGIN:VEVENT
+UID:3011981@amtsfeed.de
+DTSTAMP:20261123T125435Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:19. Zeschdorfer Kinonacht
+URL:https://www.amt-lebus.de/veranstaltungen/3011981/2026/12/19/19.-zesch
+ dorfer-kinonacht
+LOCATION:Kulturhaus Alt Zeschdorf
+END:VEVENT
+BEGIN:VEVENT
 UID:2993135@amtsfeed.de
 DTSTAMP:20261030T100902Z
 DTSTART;VALUE=DATE:20261220

@@ -5910,6 +5910,17 @@ URL:https://www.falkensee.de/veranstaltungen/2986512/2026/12/19/jahrescol
  lage-fuer-2027-zur-wintersonnenwende-gestalten
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-3011990-20261219@amtsfeed.de
+DTSTAMP:20261123T125219Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Lichterfahrt 2026 - Festlich geschmückte Fahrzeuge machen am 19.
+  Dezember 2026 Station in Falkensee
+URL:https://www.falkensee.de/veranstaltungen/3011990/2026/12/19/lichterfa
+ hrt-2026-festlich-geschmueckte-fahrzeuge-machen-am-19.-dezember-2026-stat
+ ion-in-falkensee
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2900966-20261220@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261220
@@ -9720,5 +9731,23 @@ DTEND;VALUE=DATE:20271123
 SUMMARY:Strick- und Häkeltreff
 URL:https://www.falkensee.de/veranstaltungen/2715010/2027/11/22/strick-un
  d-haekeltreff
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2188424-20271123@amtsfeed.de
+DTSTAMP:20261123T125219Z
+DTSTART;VALUE=DATE:20271123
+DTEND;VALUE=DATE:20271124
+SUMMARY:Seniorenskat - für Freunde des Kartenspiels
+URL:https://www.falkensee.de/veranstaltungen/2188424/2027/11/23/seniorens
+ kat-fuer-freunde-des-kartenspiels
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-3001340-20271123@amtsfeed.de
+DTSTAMP:20261123T125219Z
+DTSTART;VALUE=DATE:20271123
+DTEND;VALUE=DATE:20271124
+SUMMARY:Offene Sprechstunde
+URL:https://www.falkensee.de/veranstaltungen/3001340/2027/11/23/offene-sp
+ rechstunde
 END:VEVENT
 END:VCALENDAR

@@ -2779,6 +2779,21 @@ LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
 BEGIN:VEVENT
+UID:ahrensfelde-event-900005110@amtsfeed.de
+DTSTAMP:20261124T134701Z
+DTSTART:20270109T100000Z
+DTEND:20270109T130000Z
+SUMMARY:Angrillen Siedlergemeinschaft Neu-Lindenberg
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/angrillen-siedler
+ gemeinschaft-neu-lindenberg-900005110-30601.html
+DESCRIPTION:Die Siedlergemeinschaft Neu-Lindenberg lädt die Nachbarschaf
+ t zum Angrillen ein. Wir freuen uns auf ein weiteres Jahr mit einer leben
+ digen Nachbarschaft\, vielen netten Gesprächen und einem schönen Mitein
+ ander.
+LOCATION:Siedlerhaus Neu-Lindenberg\, Bebelstraße 20a\, 16356 Ahrensfeld
+ e
+END:VEVENT
+BEGIN:VEVENT
 UID:ahrensfelde-event-900005057@amtsfeed.de
 DTSTAMP:20261111T110151Z
 DTSTART:20270111T180000Z
@@ -2809,6 +2824,16 @@ URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
  ung-der-gemeindevertretung-ahrensfelde-900005088-30601.html
 LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ahrensfelde-event-900005113@amtsfeed.de
+DTSTAMP:20261124T134701Z
+DTSTART:20270121T180000Z
+SUMMARY:öffentliche Sitzung des Ortsbeirates Blumberg
+URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
+ ung-des-ortsbeirates-blumberg-900005113-30601.html
+LOCATION:16356 Ahrensfelde\, ehem. Stufensaal\, Schloßstraße 7\, OT B
+ lumberg
 END:VEVENT
 BEGIN:VEVENT
 UID:ahrensfelde-event-900005084@amtsfeed.de
@@ -2902,35 +2927,13 @@ LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
  enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
 END:VEVENT
 BEGIN:VEVENT
-UID:ahrensfelde-event-900005060@amtsfeed.de
-DTSTAMP:20261111T110151Z
-DTSTART:20270304T180000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Finanzen
+UID:ahrensfelde-event-900005114@amtsfeed.de
+DTSTAMP:20261124T134701Z
+DTSTART:20270218T180000Z
+SUMMARY:öffentliche Sitzung des Ortsbeirates Blumberg
 URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-finanzen-900005060-30601.html
-LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
- enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005061@amtsfeed.de
-DTSTAMP:20261111T110151Z
-DTSTART:20270308T180000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Soziales und Kultur
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-soziales-und-kultur-900005061-30601.html
-LOCATION:16356 Ahrensfelde\, Orts- und Gemeindezentrum Ahrensfelde\, Lind
- enberger Straße 1 B\, OT Ahrensfelde (Zugang über den Rathausplatz)
-END:VEVENT
-BEGIN:VEVENT
-UID:ahrensfelde-event-900005073@amtsfeed.de
-DTSTAMP:20261117T115545Z
-DTSTART:20270311T180000Z
-SUMMARY:öffentliche Sitzung des Ausschusses für Wirtschaft\, Bauwesen\,
-  Umwelt und Natur
-URL:https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitz
- ung-des-ausschusses-fuer-wirtschaft-bauwesen-umwelt-und-natur-900005073-3
- 0601.html
-LOCATION:16356 Ahrensfelde\, Rathaus (Hintereingang)\, Versammlungsraum
-  Raum Nr.106\, Lindenberger Straße 1\, OT Ahrensfelde
+ ung-des-ortsbeirates-blumberg-900005114-30601.html
+LOCATION:16356 Ahrensfelde\, ehem. Stufensaal\, Schloßstraße 7\, OT B
+ lumberg
 END:VEVENT
 END:VCALENDAR

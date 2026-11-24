@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T12:54:35.497Z",
+  "updatedAt": "2026-11-24T13:51:51.048Z",
   "items": [
     {
       "id": "2846347",
@@ -1263,36 +1263,6 @@
       "updatedAt": "2026-11-22T11:32:44.881Z"
     },
     {
-      "id": "2402834",
-      "title": "Kreativgruppe in Podelzig",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/23/kreativgruppe-in-podelzig",
-      "startDate": "2026-11-23T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "in Gemeindezentrum",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-17T12:00:01.272Z"
-    },
-    {
-      "id": "2464902",
-      "title": "Tischtennis",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/23/tischtennis",
-      "startDate": "2026-11-23T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Mehrzweckhalle Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-17T12:00:01.272Z"
-    },
-    {
-      "id": "2464900",
-      "title": "Dart für Jedermann",
-      "url": "https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/23/dart-fuer-jedermann",
-      "startDate": "2026-11-23T00:00:00.000Z",
-      "location": "Podelzig",
-      "description": "Sportlerheim Podelzig",
-      "fetchedAt": "2026-05-05T14:58:26.635Z",
-      "updatedAt": "2026-11-17T12:00:01.272Z"
-    },
-    {
       "id": "2464901",
       "title": "Selbstverteidigung für Frauen",
       "url": "https://www.amt-lebus.de/veranstaltungen/2464901/2026/11/24/selbstverteidigung-fuer-frauen",
@@ -1434,6 +1404,36 @@
       "location": "Podelzig",
       "fetchedAt": "2026-11-20T11:46:54.281Z",
       "updatedAt": "2026-11-20T11:46:54.281Z"
+    },
+    {
+      "id": "2402834",
+      "title": "Kreativgruppe in Podelzig",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/30/kreativgruppe-in-podelzig",
+      "startDate": "2026-11-30T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "in Gemeindezentrum",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-24T13:51:51.033Z"
+    },
+    {
+      "id": "2464902",
+      "title": "Tischtennis",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/30/tischtennis",
+      "startDate": "2026-11-30T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Mehrzweckhalle Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-24T13:51:51.033Z"
+    },
+    {
+      "id": "2464900",
+      "title": "Dart für Jedermann",
+      "url": "https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/30/dart-fuer-jedermann",
+      "startDate": "2026-11-30T00:00:00.000Z",
+      "location": "Podelzig",
+      "description": "Sportlerheim Podelzig",
+      "fetchedAt": "2026-05-05T14:58:26.635Z",
+      "updatedAt": "2026-11-24T13:51:51.033Z"
     },
     {
       "id": "2904743",

@@ -9303,6 +9303,18 @@ URL:https://www.osl-online.de/veranstaltungen/2981032/2026/11/26/alleiner
 LOCATION:Dörrwalde
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-3012905-20261126@amtsfeed.de
+DTSTAMP:20261124T135359Z
+DTSTART:20261126T190000Z
+DTEND:20261126T210000Z
+SUMMARY:Adventsbasteln im Haus der Heimatgeschichte – Gemeinsam kreativ
+  in die Weihnachtszeit
+URL:https://www.osl-online.de/veranstaltungen/3012905/2026/11/26/adventsb
+ asteln-im-haus-der-heimatgeschichte--gemeinsam-kreativ-in-die-weihnachtsz
+ eit
+LOCATION:Heimatverein Calau e.V.
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2873284-20261127@amtsfeed.de
 DTSTAMP:20261028T095001Z
 DTSTART;VALUE=DATE:20261127
@@ -16378,5 +16390,15 @@ SUMMARY:Calauer Wochenmarkt
 URL:https://www.osl-online.de/veranstaltungen/2290342/2027/11/23/calauer-
  wochenmarkt
 LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2315266-20271124@amtsfeed.de
+DTSTAMP:20261124T135359Z
+DTSTART:20271124T100000Z
+DTEND:20271124T120000Z
+SUMMARY:Calauer Museen öffnen
+URL:https://www.osl-online.de/veranstaltungen/2315266/2027/11/24/calauer-
+ museen-oeffnen
+LOCATION:Haus der Heimatgeschichte
 END:VEVENT
 END:VCALENDAR

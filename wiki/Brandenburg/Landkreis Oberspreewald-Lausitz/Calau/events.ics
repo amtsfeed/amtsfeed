@@ -1509,11 +1509,21 @@ URL:https://www.calau.de/veranstaltungen/2877138/2026/11/26/adventsbastel
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-3001679@amtsfeed.de
-DTSTAMP:20261110T112239Z
+DTSTAMP:20261124T135338Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Fit im Alter
+SUMMARY:26.11.2026   Fit im Alter
 URL:https://www.calau.de/veranstaltungen/3001679/2026/11/26/fit-im-alter
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-3012905@amtsfeed.de
+DTSTAMP:20261124T135338Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Adventsbasteln im Haus der Heimatgeschichte – Gemeinsam kreativ
+  in die Weihnachtszeit
+URL:https://www.calau.de/veranstaltungen/3012905/2026/11/26/adventsbastel
+ n-im-haus-der-heimatgeschichte--gemeinsam-kreativ-in-die-weihnachtszeit
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2822896@amtsfeed.de

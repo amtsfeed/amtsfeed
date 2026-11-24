@@ -1488,39 +1488,6 @@ DESCRIPTION:Bezaubernde Windlichter\, Lichterbäumchen\, Schneemänner un
 LOCATION:Wiesenkeramik - Reitwein
 END:VEVENT
 BEGIN:VEVENT
-UID:2402834@amtsfeed.de
-DTSTAMP:20261117T120001Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Kreativgruppe in Podelzig
-URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/23/kreativgr
- uppe-in-podelzig
-DESCRIPTION:in Gemeindezentrum
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464902@amtsfeed.de
-DTSTAMP:20261117T120001Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/23/tischtenn
- is
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2464900@amtsfeed.de
-DTSTAMP:20261117T120001Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Dart für Jedermann
-URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/23/dart-fuer
- -jedermann
-DESCRIPTION:Sportlerheim Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464901@amtsfeed.de
 DTSTAMP:20261118T115047Z
 DTSTART;VALUE=DATE:20261124
@@ -1682,6 +1649,39 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:1. Advent - Podelzig wird ins Lichterkleid gesezt!
 URL:https://www.amt-lebus.de/veranstaltungen/3010484/2026/11/29/1.-advent
  -podelzig-wird-ins-lichterkleid-gesezt
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2402834@amtsfeed.de
+DTSTAMP:20261124T135151Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Kreativgruppe in Podelzig
+URL:https://www.amt-lebus.de/veranstaltungen/2402834/2026/11/30/kreativgr
+ uppe-in-podelzig
+DESCRIPTION:in Gemeindezentrum
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464902@amtsfeed.de
+DTSTAMP:20261124T135151Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2464902/2026/11/30/tischtenn
+ is
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464900@amtsfeed.de
+DTSTAMP:20261124T135151Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Dart für Jedermann
+URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/30/dart-fuer
+ -jedermann
+DESCRIPTION:Sportlerheim Podelzig
 LOCATION:Podelzig
 END:VEVENT
 BEGIN:VEVENT

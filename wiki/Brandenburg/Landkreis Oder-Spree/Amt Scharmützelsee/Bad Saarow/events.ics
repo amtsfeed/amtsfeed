@@ -1496,6 +1496,14 @@ SUMMARY:Adventszauber Bad Saarow
 URL:https://www.scharmuetzelsee.de/event/adventszauber-bad-saarow
 END:VEVENT
 BEGIN:VEVENT
+UID:scharmuetzelsee-satamas-christmas-crime-night@amtsfeed.de
+DTSTAMP:20261124T135406Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:SATAMAs Christmas Crime Night
+URL:https://www.scharmuetzelsee.de/event/satamas-christmas-crime-night
+END:VEVENT
+BEGIN:VEVENT
 UID:scharmuetzelsee-movie-night-im-spa@amtsfeed.de
 DTSTAMP:20261017T075557Z
 DTSTART;VALUE=DATE:20261211
@@ -1510,6 +1518,16 @@ DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Wendisch Rietzer Weihnachten
 URL:https://www.scharmuetzelsee.de/event/wendisch-rietzer-weihnachten
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-eine-weihnachtsgeschichte-im-theater-am-see-bad-saaro
+ w@amtsfeed.de
+DTSTAMP:20261124T135406Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:"Eine Weihnachtsgeschichte" - im Theater am See Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/eine-weihnachtsgeschichte-im-the
+ ater-am-see-bad-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-storkower-weihnachtssingen@amtsfeed.de
@@ -1537,5 +1555,22 @@ DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261227
 SUMMARY:Weihnachtsfahrt
 URL:https://www.scharmuetzelsee.de/event/weihnachtsfahrt
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-winterfahrt@amtsfeed.de
+DTSTAMP:20261124T135406Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261231
+SUMMARY:Winterfahrt
+URL:https://www.scharmuetzelsee.de/event/winterfahrt
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-daniel-hilpert-band-im-theater-am-see@amtsfeed.de
+DTSTAMP:20261124T135406Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Daniel Hilpert & Band im Theater am See
+URL:https://www.scharmuetzelsee.de/event/daniel-hilpert-band-im-theater-a
+ m-see
 END:VEVENT
 END:VCALENDAR

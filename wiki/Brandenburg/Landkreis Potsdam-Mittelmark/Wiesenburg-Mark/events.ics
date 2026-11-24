@@ -1319,26 +1319,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/3005049/2026/11/21/prod
  ucerinnenstammtisch
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2384478@amtsfeed.de
-DTSTAMP:20261117T120311Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:DRK - Stuhlgymnastik (2 Kurse a&acute\; 1 Stunde)
-URL:https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/11/23/drk-
- stuhlgymnastik-2-kurse-a-1-stunde
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2915098@amtsfeed.de
-DTSTAMP:20261117T120311Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit
-  Tanz- und Theaterpädagogin Nina Stemberger
-URL:https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/11/23/krea
- tiver-kindertanz-fuer-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-th
- eaterpaedagogin-nina-stemberger
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2929249@amtsfeed.de
 DTSTAMP:20261028T095155Z
 DTSTART;VALUE=DATE:20261123
@@ -1481,6 +1461,26 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Adventsmarkt in Reetz – Gemeinsam in die Weihnachtszeit 🎄
 URL:https://www.wiesenburgmark.de/veranstaltungen/3001718/2026/11/29/adve
  ntsmarkt-in-reetz--gemeinsam-in-die-weihnachtszeit
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2384478@amtsfeed.de
+DTSTAMP:20261124T135542Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:DRK - Stuhlgymnastik (2 Kurse a&acute\; 1 Stunde)
+URL:https://www.wiesenburgmark.de/veranstaltungen/2384478/2026/11/30/drk-
+ stuhlgymnastik-2-kurse-a-1-stunde
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2915098@amtsfeed.de
+DTSTAMP:20261124T135542Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Kreativer Kindertanz für alle Kinder zwischen 4 und 6 Jahren mit
+  Tanz- und Theaterpädagogin Nina Stemberger
+URL:https://www.wiesenburgmark.de/veranstaltungen/2915098/2026/11/30/krea
+ tiver-kindertanz-fuer-alle-kinder-zwischen-4-und-6-jahren-mit-tanz-und-th
+ eaterpaedagogin-nina-stemberger
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2973359@amtsfeed.de

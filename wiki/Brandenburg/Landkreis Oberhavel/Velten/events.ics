@@ -1434,6 +1434,18 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
  ID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1263@amtsfeed.de
+DTSTAMP:20261124T135326Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:16. Sitzung des Ausschusses für Haushalt\, Wirtschaft und Finanz
+ en
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/16-Sit
+ zung-des-Ausschusses-f%C3%BCr-Haushalt-Wirtschaft-und-Finanzen.php?object
+ =tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1263.1&amp\;NavID=3631.15&amp\;
+ sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-909@amtsfeed.de
 DTSTAMP:20261110T112223Z
 DTSTART;VALUE=DATE:20261210

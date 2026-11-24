@@ -1220,15 +1220,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2986779/2026/11/22/offenes
  -haus
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855689@amtsfeed.de
-DTSTAMP:20261117T120108Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Die Montagshelden - Gymnastik & Bewegung
-URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/11/23/die-mon
- tagshelden-gymnastik-bewegung
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855686@amtsfeed.de
 DTSTAMP:20261118T115153Z
 DTSTART;VALUE=DATE:20261124
@@ -1451,6 +1442,15 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Einschalten des Bötzower Weihnachtsbaumes
 URL:https://www.oberkraemer.de/veranstaltungen/2999219/2026/11/29/einscha
  lten-des-boetzower-weihnachtsbaumes
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855689@amtsfeed.de
+DTSTAMP:20261124T135319Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Die Montagshelden - Gymnastik & Bewegung
+URL:https://www.oberkraemer.de/veranstaltungen/2855689/2026/11/30/die-mon
+ tagshelden-gymnastik-bewegung
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962225@amtsfeed.de

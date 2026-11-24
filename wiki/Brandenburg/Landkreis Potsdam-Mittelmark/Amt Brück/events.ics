@@ -692,12 +692,12 @@ URL:https://www.amt-brueck.de/veranstaltungen/2632393/2026/12/05/seelenli
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-3001201@amtsfeed.de
-DTSTAMP:20261110T112342Z
+DTSTAMP:20261124T135446Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:Adventsfeuer
+SUMMARY:Adventsfeuer Golzow
 URL:https://www.amt-brueck.de/veranstaltungen/3001201/2026/12/05/adventsf
- euer
+ euer-golzow
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-3002177@amtsfeed.de
@@ -770,6 +770,15 @@ DTEND;VALUE=DATE:20261214
 SUMMARY:27. Brücker Weihnachtsmarkt
 URL:https://www.amt-brueck.de/veranstaltungen/2980569/2026/12/13/27.-brue
  cker-weihnachtsmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-brueck-event-3013333@amtsfeed.de
+DTSTAMP:20261124T135446Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Weihnachtskonzert gemischter Chor Golzow e.V.
+URL:https://www.amt-brueck.de/veranstaltungen/3013333/2026/12/13/weihnach
+ tskonzert-gemischter-chor-golzow-e.v
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-brueck-event-2989612@amtsfeed.de

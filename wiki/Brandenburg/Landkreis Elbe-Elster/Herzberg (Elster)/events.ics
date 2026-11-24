@@ -732,22 +732,6 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2999189/2027/01/03/org
  elmusik-im-kerzenschein
 END:VEVENT
 BEGIN:VEVENT
-UID:2477269@amtsfeed.de
-DTSTAMP:20261117T115721Z
-DTSTART:20271117T100000Z
-SUMMARY:Seniorencaf&egrave\;
-URL:https://www.herzberg-elster.de/veranstaltungen/2477269/2027/11/17/sen
- iorencafè
-END:VEVENT
-BEGIN:VEVENT
-UID:2439631@amtsfeed.de
-DTSTAMP:20261117T115721Z
-DTSTART:20271117T160000Z
-SUMMARY:Sprach-Caf&egrave\;
-URL:https://www.herzberg-elster.de/veranstaltungen/2439631/2027/11/17/spr
- ach-cafè
-END:VEVENT
-BEGIN:VEVENT
 UID:2331049@amtsfeed.de
 DTSTAMP:20261118T114809Z
 DTSTART:20271118T060000Z
@@ -762,5 +746,21 @@ DTSTART:20271120T063000Z
 SUMMARY:Wochenmarkt
 URL:https://www.herzberg-elster.de/veranstaltungen/2331050/2027/11/20/woc
  henmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:2477269@amtsfeed.de
+DTSTAMP:20261124T134844Z
+DTSTART:20271124T100000Z
+SUMMARY:Seniorencaf&egrave\;
+URL:https://www.herzberg-elster.de/veranstaltungen/2477269/2027/11/24/sen
+ iorencafè
+END:VEVENT
+BEGIN:VEVENT
+UID:2439631@amtsfeed.de
+DTSTAMP:20261124T134844Z
+DTSTART:20271124T160000Z
+SUMMARY:Sprach-Caf&egrave\;
+URL:https://www.herzberg-elster.de/veranstaltungen/2439631/2027/11/24/spr
+ ach-cafè
 END:VEVENT
 END:VCALENDAR

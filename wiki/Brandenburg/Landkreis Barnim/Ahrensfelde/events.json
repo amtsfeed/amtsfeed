@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T12:50:22.146Z",
+  "updatedAt": "2026-11-24T13:46:56.602Z",
   "items": [
     {
       "id": "ahrensfelde-event-900004756",
@@ -1941,6 +1941,17 @@
       "updatedAt": "2026-11-11T11:01:51.864Z"
     },
     {
+      "id": "ahrensfelde-event-900005110",
+      "title": "Angrillen Siedlergemeinschaft Neu-Lindenberg",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/angrillen-siedlergemeinschaft-neu-lindenberg-900005110-30601.html",
+      "startDate": "2027-01-09T10:00:00Z",
+      "endDate": "2027-01-09T13:00:00Z",
+      "location": "Siedlerhaus Neu-Lindenberg, Bebelstraße 20a, 16356 Ahrensfelde",
+      "description": "Die Siedlergemeinschaft Neu-Lindenberg lädt die Nachbarschaft zum Angrillen ein. Wir freuen uns auf ein weiteres Jahr mit einer lebendigen Nachbarschaft, vielen netten Gesprächen und einem schönen Miteinander.",
+      "fetchedAt": "2026-11-24T13:47:01.263Z",
+      "updatedAt": "2026-11-24T13:47:01.263Z"
+    },
+    {
       "id": "ahrensfelde-event-900005057",
       "title": "öffentliche Sitzung des Ausschusses für Soziales und Kultur",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-soziales-und-kultur-900005057-30601.html",
@@ -1966,6 +1977,15 @@
       "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
       "fetchedAt": "2026-11-18T11:47:03.266Z",
       "updatedAt": "2026-11-18T11:47:03.266Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005113",
+      "title": "öffentliche Sitzung des Ortsbeirates Blumberg",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-blumberg-900005113-30601.html",
+      "startDate": "2027-01-21T18:00:00Z",
+      "location": "16356 Ahrensfelde, ehem. Stufensaal, Schloßstraße 7, OT Blumberg",
+      "fetchedAt": "2026-11-24T13:47:01.263Z",
+      "updatedAt": "2026-11-24T13:47:01.263Z"
     },
     {
       "id": "ahrensfelde-event-900005084",
@@ -2036,31 +2056,13 @@
       "updatedAt": "2026-11-18T11:47:03.266Z"
     },
     {
-      "id": "ahrensfelde-event-900005060",
-      "title": "öffentliche Sitzung des Ausschusses für Finanzen",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-finanzen-900005060-30601.html",
-      "startDate": "2027-03-04T18:00:00Z",
-      "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
-      "fetchedAt": "2026-11-11T11:01:51.864Z",
-      "updatedAt": "2026-11-11T11:01:51.864Z"
-    },
-    {
-      "id": "ahrensfelde-event-900005061",
-      "title": "öffentliche Sitzung des Ausschusses für Soziales und Kultur",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-soziales-und-kultur-900005061-30601.html",
-      "startDate": "2027-03-08T18:00:00Z",
-      "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
-      "fetchedAt": "2026-11-11T11:01:51.864Z",
-      "updatedAt": "2026-11-11T11:01:51.864Z"
-    },
-    {
-      "id": "ahrensfelde-event-900005073",
-      "title": "öffentliche Sitzung des Ausschusses für Wirtschaft, Bauwesen, Umwelt und Natur",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-wirtschaft-bauwesen-umwelt-und-natur-900005073-30601.html",
-      "startDate": "2027-03-11T18:00:00Z",
-      "location": "16356 Ahrensfelde, Rathaus (Hintereingang), Versammlungsraum Raum Nr.106, Lindenberger Straße 1, OT Ahrensfelde",
-      "fetchedAt": "2026-11-17T11:55:45.989Z",
-      "updatedAt": "2026-11-17T11:55:45.989Z"
+      "id": "ahrensfelde-event-900005114",
+      "title": "öffentliche Sitzung des Ortsbeirates Blumberg",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-blumberg-900005114-30601.html",
+      "startDate": "2027-02-18T18:00:00Z",
+      "location": "16356 Ahrensfelde, ehem. Stufensaal, Schloßstraße 7, OT Blumberg",
+      "fetchedAt": "2026-11-24T13:47:01.263Z",
+      "updatedAt": "2026-11-24T13:47:01.263Z"
     }
   ]
 }

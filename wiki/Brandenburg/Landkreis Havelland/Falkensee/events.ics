@@ -5419,6 +5419,16 @@ URL:https://www.falkensee.de/veranstaltungen/3007301/2026/12/03/svens-duf
  t-klangmassage
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-3012635-20261203@amtsfeed.de
+DTSTAMP:20261124T134905Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Fahnenhissung zum &bdquo\;Internationalen Tag der Menschen mit Be
+ hinderung"
+URL:https://www.falkensee.de/veranstaltungen/3012635/2026/12/03/fahnenhis
+ sung-zum-internationalen-tag-der-menschen-mit-behinderung-quot
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2900963-20261205@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261205
@@ -9749,5 +9759,23 @@ DTEND;VALUE=DATE:20271124
 SUMMARY:Offene Sprechstunde
 URL:https://www.falkensee.de/veranstaltungen/3001340/2027/11/23/offene-sp
  rechstunde
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2321277-20271124@amtsfeed.de
+DTSTAMP:20261124T134905Z
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+SUMMARY:Elternfrühstück im Weltladen
+URL:https://www.falkensee.de/veranstaltungen/2321277/2027/11/24/elternfru
+ ehstueck-im-weltladen
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-1965704-20271124@amtsfeed.de
+DTSTAMP:20261124T134905Z
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+SUMMARY:Monatliches Treffen der ADFC-Falkensee Gruppe
+URL:https://www.falkensee.de/veranstaltungen/1965704/2027/11/24/monatlich
+ es-treffen-der-adfc-falkensee-gruppe
 END:VEVENT
 END:VCALENDAR

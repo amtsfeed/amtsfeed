@@ -2,7 +2,7 @@
   {
     "domain": "www.hennigsdorf.de",
     "baseUrl": "https://www.hennigsdorf.de",
-    "updatedAt": "2026-11-23T12:55:50.848Z",
+    "updatedAt": "2026-11-24T13:52:58.753Z",
     "content": "User-agent: *\nDisallow: /cache/\nDisallow: /output/\nDisallow: /suche.phtml\nDisallow: /suchen.phtml\nDisallow: /redirect.phtml\n\nSitemap: https://www.hennigsdorf.de/sitemap.xml"
   }
 ]

@@ -2109,6 +2109,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Dorfkirche Göttlin
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1856-20261129@amtsfeed.de
+DTSTAMP:20261124T134946Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Traditionelle Krippenausstellung in der St. Marien-Andreas Kirche
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/traditionelle-krippenausstellun
+ g-in-der-st-marien-andreas-kirche/
+LOCATION:St. Marien-Andreas Kirche zu Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1758-20261130@amtsfeed.de
 DTSTAMP:20261031T094332Z
 DTSTART;VALUE=DATE:20261130
@@ -2536,6 +2547,18 @@ SUMMARY:Prunksitzung des RCC
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/prunksitzung-des-rcc/
 LOCATION:Kulturzentrum Rathenow
+END:VEVENT
+BEGIN:VEVENT
+UID:rathenow-event-1855-20270217@amtsfeed.de
+DTSTAMP:20261124T134946Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Selbstregulierung des Herzens - Peggy Mädler liest aus ihrem neu
+ en Roman
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/selbstregulierung-des-herzens-p
+ eggy-maedler-liest-aus-ihrem-neuen-roman/
+LOCATION:Stadtbibliothek Rathenow
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1801-20270219@amtsfeed.de

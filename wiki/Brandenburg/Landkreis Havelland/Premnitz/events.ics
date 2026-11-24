@@ -19446,6 +19446,15 @@ URL:https://www.premnitz.de/veranstaltungen/3008141/2026/12/07/weihnachts
  markt-im-designer-outlet-berlin
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-3012614-20261207@amtsfeed.de
+DTSTAMP:20261124T134941Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Elternsprechtag
+URL:https://www.premnitz.de/veranstaltungen/3012614/2026/12/07/elternspre
+ chtag
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2985396-20261208@amtsfeed.de
 DTSTAMP:20261108T102911Z
 DTSTART;VALUE=DATE:20261208
@@ -20675,6 +20684,15 @@ URL:https://www.premnitz.de/veranstaltungen/3008154/2026/12/22/weihnachts
  markt-im-designer-outlet-berlin
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-3012621-20261222@amtsfeed.de
+DTSTAMP:20261124T134941Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Weihnachtssingen
+URL:https://www.premnitz.de/veranstaltungen/3012621/2026/12/22/weihnachts
+ singen
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2985543-20261223@amtsfeed.de
 DTSTAMP:20261123T125242Z
 DTSTART;VALUE=DATE:20261223
@@ -20701,5 +20719,23 @@ DTEND;VALUE=DATE:20261224
 SUMMARY:Weihnachtsmarkt im Designer Outlet Berlin
 URL:https://www.premnitz.de/veranstaltungen/3008155/2026/12/23/weihnachts
  markt-im-designer-outlet-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-3008156-20261224@amtsfeed.de
+DTSTAMP:20261124T134941Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Weihnachtsmarkt im Designer Outlet Berlin
+URL:https://www.premnitz.de/veranstaltungen/3008156/2026/12/24/weihnachts
+ markt-im-designer-outlet-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-3005193-20261224@amtsfeed.de
+DTSTAMP:20261124T134941Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Lehniner Wintermusiken - Orgelkonzert am Heiligen Abend
+URL:https://www.premnitz.de/veranstaltungen/3005193/2026/12/24/lehniner-w
+ intermusiken-orgelkonzert-am-heiligen-abend
 END:VEVENT
 END:VCALENDAR

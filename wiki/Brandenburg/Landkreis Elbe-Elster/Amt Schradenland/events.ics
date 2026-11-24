@@ -1123,15 +1123,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2953425/2026/11/22/go
  ttesdienst-zum-ewigkeitssonntag
 END:VEVENT
 BEGIN:VEVENT
-UID:2952576@amtsfeed.de
-DTSTAMP:20261117T115712Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Nähen\, Stricken \, Häkeln
-URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/11/23/na
- ehen-stricken--haekeln
-END:VEVENT
-BEGIN:VEVENT
 UID:2835515@amtsfeed.de
 DTSTAMP:20261028T094412Z
 DTSTART;VALUE=DATE:20261124
@@ -1274,6 +1265,15 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Weihnachten am Schloss
 URL:https://www.amt-schradenland.de/veranstaltungen/2997529/2026/11/29/we
  ihnachten-am-schloss
+END:VEVENT
+BEGIN:VEVENT
+UID:2952576@amtsfeed.de
+DTSTAMP:20261124T134833Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Nähen\, Stricken \, Häkeln
+URL:https://www.amt-schradenland.de/veranstaltungen/2952576/2026/11/30/na
+ ehen-stricken--haekeln
 END:VEVENT
 BEGIN:VEVENT
 UID:2897511@amtsfeed.de

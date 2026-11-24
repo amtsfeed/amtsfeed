@@ -1910,15 +1910,6 @@ URL:https://www.teltow.de/veranstaltungen/2972983/2026/11/22/das-heimatmu
  seum-im-aeltesten-haus-teltows-ist-geoeffnet
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930009@amtsfeed.de
-DTSTAMP:20261117T120303Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
-URL:https://www.teltow.de/veranstaltungen/2930009/2026/11/23/offener-lern
- raum-digitales-lernen-und-arbeiten-am-computer
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2972248@amtsfeed.de
 DTSTAMP:20261028T095147Z
 DTSTART;VALUE=DATE:20261123
@@ -2076,6 +2067,15 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Das Heimatmuseum im ältesten Haus Teltows ist geöffnet!
 URL:https://www.teltow.de/veranstaltungen/2972985/2026/11/29/das-heimatmu
  seum-im-aeltesten-haus-teltows-ist-geoeffnet
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-2930009@amtsfeed.de
+DTSTAMP:20261124T135531Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Offener Lernraum - Digitales Lernen und Arbeiten am Computer
+URL:https://www.teltow.de/veranstaltungen/2930009/2026/11/30/offener-lern
+ raum-digitales-lernen-und-arbeiten-am-computer
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972287@amtsfeed.de

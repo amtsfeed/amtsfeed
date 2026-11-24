@@ -494,24 +494,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/3007712/2026/11/19/offene-
  krabbelgruppe-in-der-kita-haus-sonnenschein
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124462@amtsfeed.de
-DTSTAMP:20261117T120125Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/11/23/treffpu
- nkt-buergertheater
-END:VEVENT
-BEGIN:VEVENT
-UID:lauchhammer-event-2124466@amtsfeed.de
-DTSTAMP:20261117T120125Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Treffpunkt Bürgertheater
-URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/23/treffpu
- nkt-buergertheater
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2873282@amtsfeed.de
 DTSTAMP:20261028T094944Z
 DTSTART;VALUE=DATE:20261123
@@ -586,6 +568,24 @@ URL:https://www.lauchhammer.de/veranstaltungen/2873284/2026/11/27/wichtel
  fest
 END:VEVENT
 BEGIN:VEVENT
+UID:lauchhammer-event-2124462@amtsfeed.de
+DTSTAMP:20261124T135341Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124462/2026/11/30/treffpu
+ nkt-buergertheater
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124466@amtsfeed.de
+DTSTAMP:20261124T135341Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Treffpunkt Bürgertheater
+URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/30/treffpu
+ nkt-buergertheater
+END:VEVENT
+BEGIN:VEVENT
 UID:lauchhammer-event-2989108@amtsfeed.de
 DTSTAMP:20261028T094944Z
 DTSTART;VALUE=DATE:20261201
@@ -651,6 +651,15 @@ URL:https://www.lauchhammer.de/veranstaltungen/3008492/2026/12/04/schuhe-
  putzen-fuer-den-nikolaus-in-lauchhammer
 END:VEVENT
 BEGIN:VEVENT
+UID:lauchhammer-event-3013563@amtsfeed.de
+DTSTAMP:20261124T135341Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Nikolausnachmittag in der SeeCampus-Bibliothek
+URL:https://www.lauchhammer.de/veranstaltungen/3013563/2026/12/04/nikolau
+ snachmittag-in-der-seecampus-bibliothek
+END:VEVENT
+BEGIN:VEVENT
 UID:lauchhammer-event-2983674@amtsfeed.de
 DTSTAMP:20261028T094944Z
 DTSTART;VALUE=DATE:20261205
@@ -658,6 +667,15 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:4. Dolsthaidaer Glühweinfest
 URL:https://www.lauchhammer.de/veranstaltungen/2983674/2026/12/05/4.-dols
  thaidaer-gluehweinfest
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-3013583@amtsfeed.de
+DTSTAMP:20261124T135341Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Begehbarer Adventskalender
+URL:https://www.lauchhammer.de/veranstaltungen/3013583/2026/12/05/begehba
+ rer-adventskalender
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-3006946@amtsfeed.de

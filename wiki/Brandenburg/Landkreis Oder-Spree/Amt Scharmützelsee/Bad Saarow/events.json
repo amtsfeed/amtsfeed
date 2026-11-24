@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T12:56:53.779Z",
+  "updatedAt": "2026-11-24T13:54:06.154Z",
   "items": [
     {
       "id": "scharmuetzelsee-unruhestand-kultur-am-nachmittag-bebbo-kuester-mein-leben-ein-kessel-buntes",
@@ -1272,6 +1272,14 @@
       "updatedAt": "2026-11-11T11:08:49.352Z"
     },
     {
+      "id": "scharmuetzelsee-satamas-christmas-crime-night",
+      "title": "SATAMAs Christmas Crime Night",
+      "url": "https://www.scharmuetzelsee.de/event/satamas-christmas-crime-night",
+      "startDate": "2026-12-04T00:00:00.000Z",
+      "fetchedAt": "2026-11-24T13:54:06.151Z",
+      "updatedAt": "2026-11-24T13:54:06.151Z"
+    },
+    {
       "id": "scharmuetzelsee-movie-night-im-spa",
       "title": "Movie-Night im Spa",
       "url": "https://www.scharmuetzelsee.de/event/movie-night-im-spa",
@@ -1286,6 +1294,14 @@
       "startDate": "2026-12-12T00:00:00.000Z",
       "fetchedAt": "2026-10-28T09:50:07.043Z",
       "updatedAt": "2026-10-28T09:50:07.043Z"
+    },
+    {
+      "id": "scharmuetzelsee-eine-weihnachtsgeschichte-im-theater-am-see-bad-saarow",
+      "title": "\"Eine Weihnachtsgeschichte\" - im Theater am See Bad Saarow",
+      "url": "https://www.scharmuetzelsee.de/event/eine-weihnachtsgeschichte-im-theater-am-see-bad-saarow",
+      "startDate": "2026-12-13T00:00:00.000Z",
+      "fetchedAt": "2026-11-24T13:54:06.151Z",
+      "updatedAt": "2026-11-24T13:54:06.151Z"
     },
     {
       "id": "scharmuetzelsee-storkower-weihnachtssingen",
@@ -1312,6 +1328,23 @@
       "endDate": "2026-12-26T00:00:00.000Z",
       "fetchedAt": "2026-11-16T11:31:01.430Z",
       "updatedAt": "2026-11-16T11:31:01.430Z"
+    },
+    {
+      "id": "scharmuetzelsee-winterfahrt",
+      "title": "Winterfahrt",
+      "url": "https://www.scharmuetzelsee.de/event/winterfahrt",
+      "startDate": "2026-12-27T00:00:00.000Z",
+      "endDate": "2026-12-30T00:00:00.000Z",
+      "fetchedAt": "2026-11-24T13:54:06.151Z",
+      "updatedAt": "2026-11-24T13:54:06.151Z"
+    },
+    {
+      "id": "scharmuetzelsee-daniel-hilpert-band-im-theater-am-see",
+      "title": "Daniel Hilpert & Band im Theater am See",
+      "url": "https://www.scharmuetzelsee.de/event/daniel-hilpert-band-im-theater-am-see",
+      "startDate": "2026-12-28T00:00:00.000Z",
+      "fetchedAt": "2026-11-24T13:54:06.151Z",
+      "updatedAt": "2026-11-24T13:54:06.151Z"
     }
   ]
 }

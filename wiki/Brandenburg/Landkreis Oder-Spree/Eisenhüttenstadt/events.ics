@@ -1584,19 +1584,6 @@ URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  ModID=11&amp\;FID=2852.1996.1
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
-DTSTAMP:20261123T125708Z
-DTSTART:20261123T125708Z
-SUMMARY:Veranstaltungen
-URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
- x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
- a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
- ;sfort=0&amp\;k_sub=0&amp\;La=1
-END:VEVENT
-BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-2018-1@amtsfeed.de
 DTSTAMP:20261107T102245Z
 DTSTART;VALUE=DATE:20261124
@@ -1616,6 +1603,19 @@ SUMMARY:Weihnachtsbasteln in der Stadtbibliothek
 URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
  Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Weihnachtsbasteln-in-d
  er-Stadtbibliothek.php?ModID=11&amp\;FID=2852.2033.1
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1@amtsfeed.de
+DTSTAMP:20261124T135421Z
+DTSTART:20261124T135421Z
+SUMMARY:Veranstaltungen
+URL:https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp\;object=t
+ x%2C2852.4&amp\;ModID=11&amp\;kat=&amp\;kuo=1&amp\;ort=0&amp\;vo=0&amp\;v
+ a=0&amp\;call=0&amp\;bn=0&amp\;sfodddrt=0&amp\;sfvort=0&amp\;sfreg=0&amp\
+ ;sfort=0&amp\;k_sub=0&amp\;La=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1881-1@amtsfeed.de
@@ -1738,6 +1738,17 @@ LOCATION:einen stimmungsvollen Ort für weihnachtlichen Swing und musikal
  inen stimmungsvollen Abend im Jazzclub erinnert\, dann ist Weihnachten ni
  cht mehr weit.  Zu Gast ist Sophie Grobler mit ihrer ausdrucksstarken Jaz
  zstimme. Begleitet wird sie vom Viadrus Trio
+END:VEVENT
+BEGIN:VEVENT
+UID:eisenhuettenstadt-event-2852-2039-1@amtsfeed.de
+DTSTAMP:20261124T135421Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Lichterfest 2026
+URL:https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/
+ Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Lichterfest-2026.php?M
+ odID=11&amp\;FID=2852.2039.1
+LOCATION:Lindenallee Eisenhüttenstadt
 END:VEVENT
 BEGIN:VEVENT
 UID:eisenhuettenstadt-event-2852-1964-1@amtsfeed.de

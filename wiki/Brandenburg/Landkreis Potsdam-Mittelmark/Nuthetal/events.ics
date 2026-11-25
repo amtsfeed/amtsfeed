@@ -555,15 +555,6 @@ URL:https://www.nuthetal.de/veranstaltungen/2999585/2026/11/21/1.-kleiner
  -naturparktag-im-naturpark-nuthe-nieplitz
 END:VEVENT
 BEGIN:VEVENT
-UID:nuthetal-event-2718105@amtsfeed.de
-DTSTAMP:20261118T115316Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
-URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/11/24/unterstuet
- ztes-einkaufen-nahkauf-saarmund
-END:VEVENT
-BEGIN:VEVENT
 UID:nuthetal-event-2969847@amtsfeed.de
 DTSTAMP:20261028T095129Z
 DTSTART;VALUE=DATE:20261124
@@ -583,6 +574,15 @@ SUMMARY:INFOABEND: Gründung einer Bürgerenergiegenossenschaft – Gemei
 URL:https://www.nuthetal.de/veranstaltungen/2997153/2026/11/25/infoabend-
  gruendung-einer-buergerenergiegenossenschaft--gemeinsam-fuer-die-energiew
  ende
+END:VEVENT
+BEGIN:VEVENT
+UID:nuthetal-event-2718105@amtsfeed.de
+DTSTAMP:20261125T130623Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Unterstütztes Einkaufen - Nahkauf Saarmund
+URL:https://www.nuthetal.de/veranstaltungen/2718105/2026/12/01/unterstuet
+ ztes-einkaufen-nahkauf-saarmund
 END:VEVENT
 BEGIN:VEVENT
 UID:nuthetal-event-2989137@amtsfeed.de

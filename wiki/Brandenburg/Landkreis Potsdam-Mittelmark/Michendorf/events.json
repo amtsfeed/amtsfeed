@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:13:30.046Z",
+  "updatedAt": "2026-11-25T13:06:21.933Z",
   "items": [
     {
       "id": "michendorf-event-2884831",
@@ -1482,22 +1482,6 @@
       "updatedAt": "2026-11-17T12:02:45.257Z"
     },
     {
-      "id": "michendorf-event-2959538",
-      "title": "Jugendclub \"MICHECK\" geöffnet",
-      "url": "https://www.michendorf.de/veranstaltungen/2959538/2026/11/24/jugendclub-micheck-geoeffnet",
-      "startDate": "2026-11-24T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T10:00:11.775Z",
-      "updatedAt": "2026-11-18T11:53:14.917Z"
-    },
-    {
-      "id": "michendorf-event-2798288",
-      "title": "Trauercaf&eacute;",
-      "url": "https://www.michendorf.de/veranstaltungen/2798288/2026/11/24/trauercafé",
-      "startDate": "2026-11-24T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:01.632Z",
-      "updatedAt": "2026-11-11T11:10:06.000Z"
-    },
-    {
       "id": "michendorf-event-2976342",
       "title": "Internationaler Tag zur Beseitigung der Gewalt gegen Frauen",
       "url": "https://www.michendorf.de/veranstaltungen/2976342/2026/11/25/internationaler-tag-zur-beseitigung-der-gewalt-gegen-frauen",
@@ -1552,6 +1536,14 @@
       "startDate": "2026-11-26T00:00:00.000Z",
       "fetchedAt": "2026-11-17T12:02:45.257Z",
       "updatedAt": "2026-11-17T12:02:45.257Z"
+    },
+    {
+      "id": "michendorf-event-3013751",
+      "title": "Weihnachtsbaumanblasen in Wilhelmshorst",
+      "url": "https://www.michendorf.de/veranstaltungen/3013751/2026/11/26/weihnachtsbaumanblasen-in-wilhelmshorst",
+      "startDate": "2026-11-26T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:06:21.925Z",
+      "updatedAt": "2026-11-25T13:06:21.925Z"
     },
     {
       "id": "michendorf-event-2959541",
@@ -1658,6 +1650,14 @@
       "updatedAt": "2026-11-19T11:50:38.125Z"
     },
     {
+      "id": "michendorf-event-2959538",
+      "title": "Jugendclub \"MICHECK\" geöffnet",
+      "url": "https://www.michendorf.de/veranstaltungen/2959538/2026/12/01/jugendclub-micheck-geoeffnet",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T10:00:11.775Z",
+      "updatedAt": "2026-11-25T13:06:21.925Z"
+    },
+    {
       "id": "michendorf-event-2796861",
       "title": "Babybegrüßung durch die Bürgermeisterin",
       "url": "https://www.michendorf.de/veranstaltungen/2796861/2026/12/01/babybegruessung-durch-die-buergermeisterin",
@@ -1760,6 +1760,14 @@
       "startDate": "2026-12-06T00:00:00.000Z",
       "fetchedAt": "2026-11-19T11:50:38.125Z",
       "updatedAt": "2026-11-19T11:50:38.125Z"
+    },
+    {
+      "id": "michendorf-event-2798288",
+      "title": "Trauercaf&eacute;",
+      "url": "https://www.michendorf.de/veranstaltungen/2798288/2026/12/08/trauercafé",
+      "startDate": "2026-12-08T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:01.632Z",
+      "updatedAt": "2026-11-25T13:06:21.925Z"
     },
     {
       "id": "michendorf-event-2995887",
@@ -2064,6 +2072,14 @@
       "startDate": "2027-10-23T00:00:00.000Z",
       "fetchedAt": "2026-11-11T11:10:06.000Z",
       "updatedAt": "2026-11-11T11:10:06.000Z"
+    },
+    {
+      "id": "michendorf-event-3001079",
+      "title": "Weihnachtsleuchten in Michendorf auf dem Rathausplatz",
+      "url": "https://www.michendorf.de/veranstaltungen/3001079/2027/11/25/weihnachtsleuchten-in-michendorf-auf-dem-rathausplatz",
+      "startDate": "2027-11-25T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:06:21.925Z",
+      "updatedAt": "2026-11-25T13:06:21.925Z"
     }
   ]
 }

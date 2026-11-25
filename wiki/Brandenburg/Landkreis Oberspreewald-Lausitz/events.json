@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:53:59.182Z",
+  "updatedAt": "2026-11-25T13:05:22.642Z",
   "items": [
     {
       "id": "lk-osl-event-3005612-20260101",
@@ -10932,6 +10932,15 @@
       "updatedAt": "2026-10-28T09:50:01.013Z"
     },
     {
+      "id": "lk-osl-event-3014101-20261231",
+      "title": "53. Silvesterlauf und 20. Winterwanderung in Werchow",
+      "url": "https://www.osl-online.de/veranstaltungen/3014101/2026/12/31/53.-silvesterlauf-und-20.-winterwanderung-in-werchow",
+      "startDate": "2026-12-31T09:30:00.000Z",
+      "location": "Treff: Goldborn, Calau / OT Werchow",
+      "fetchedAt": "2026-11-25T13:05:22.677Z",
+      "updatedAt": "2026-11-25T13:05:22.677Z"
+    },
+    {
       "id": "lk-osl-event-2124494-20261231",
       "title": "Behinderten- und Seniorenberatung",
       "url": "https://www.osl-online.de/veranstaltungen/2124494/2026/12/31/behinderten-und-seniorenberatung",
@@ -16034,6 +16043,24 @@
       "location": "Haus der Heimatgeschichte",
       "fetchedAt": "2026-11-24T13:53:59.226Z",
       "updatedAt": "2026-11-24T13:53:59.226Z"
+    },
+    {
+      "id": "lk-osl-event-2290342-20271125",
+      "title": "Calauer Wochenmarkt",
+      "url": "https://www.osl-online.de/veranstaltungen/2290342/2027/11/25/calauer-wochenmarkt",
+      "startDate": "2027-11-25T08:00:00.000Z",
+      "location": "Marktplatz Calau",
+      "fetchedAt": "2026-11-25T13:05:22.677Z",
+      "updatedAt": "2026-11-25T13:05:22.677Z"
+    },
+    {
+      "id": "lk-osl-event-2124494-20271125",
+      "title": "Behinderten- und Seniorenberatung",
+      "url": "https://www.osl-online.de/veranstaltungen/2124494/2027/11/25/behinderten-und-seniorenberatung",
+      "startDate": "2027-11-25T10:00:00.000Z",
+      "location": "Mehrgenerationenhaus",
+      "fetchedAt": "2026-11-25T13:05:22.677Z",
+      "updatedAt": "2026-11-25T13:05:22.677Z"
     }
   ]
 }

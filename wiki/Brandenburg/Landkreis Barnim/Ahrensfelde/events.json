@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:46:56.602Z",
+  "updatedAt": "2026-11-25T12:59:36.579Z",
   "items": [
     {
       "id": "ahrensfelde-event-900004756",
@@ -1912,6 +1912,17 @@
       "updatedAt": "2026-11-18T11:47:03.266Z"
     },
     {
+      "id": "ahrensfelde-event-900005125",
+      "title": "Plätzchenaktion in Eiche",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/plaetzchenaktion-in-eiche-900005125-30601.html",
+      "startDate": "2026-12-19T10:00:00Z",
+      "endDate": "2026-12-19T14:00:00Z",
+      "location": "Ortsteilzentrum Eiche, Mehrower Weg, 16356 Ahrensfelde",
+      "description": "Bereits zum dritten Mal wird in Eiche eine Plätzchenaktion zugunsten von Bedürftigen durchgeführt. Dabei können sowohl Plätzchen abgegeben als auch vor Ort gebacken werden. Diese werden zusammen mit gesammelten Hilfsgütern an Heiligabend verteilt.",
+      "fetchedAt": "2026-11-25T12:59:41.500Z",
+      "updatedAt": "2026-11-25T12:59:41.500Z"
+    },
+    {
       "id": "ahrensfelde-event-900004991",
       "title": "\"LebensNetz\" Hilfe bei digitalen Problemen",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/lebensnetz-hilfe-bei-digitalen-problemen-900004991-30601.html",
@@ -1970,6 +1981,17 @@
       "updatedAt": "2026-11-18T11:47:03.266Z"
     },
     {
+      "id": "ahrensfelde-event-900005111",
+      "title": "Weihnachtsbaumverbrennen",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/weihnachtsbaumverbrennen-900005111-30601.html",
+      "startDate": "2027-01-16T15:00:00Z",
+      "endDate": "2027-01-16T19:00:00Z",
+      "location": "Freiwillige Feuerwehr Ahrensfelde, Dorfstr. 51, 16356 Ahrensfelde",
+      "description": "Die freiwillige Feuerwehr Ahrensfelde lädt zum alljährlichen Weihnachtsbaumverbrennen an der Feuerwache Ahrensfelde ein. \nAuf ein gemütliches Beisammensein an der großen Feuerschale mit Bratwurst, Glühwein und Apfelpunsch.\nFür jeden abgegebenen Baum gibt es 1 Glühwein.",
+      "fetchedAt": "2026-11-25T12:59:41.500Z",
+      "updatedAt": "2026-11-25T12:59:41.500Z"
+    },
+    {
       "id": "ahrensfelde-event-900005088",
       "title": "öffentliche Sitzung der Gemeindevertretung Ahrensfelde",
       "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-der-gemeindevertretung-ahrensfelde-900005088-30601.html",
@@ -1986,6 +2008,36 @@
       "location": "16356 Ahrensfelde, ehem. Stufensaal, Schloßstraße 7, OT Blumberg",
       "fetchedAt": "2026-11-24T13:47:01.263Z",
       "updatedAt": "2026-11-24T13:47:01.263Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005126",
+      "title": "öffentliche Sitzung des Ortsbeirates Ahrensfelde",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-ahrensfelde-900005126-30601.html",
+      "startDate": "2027-01-25T18:00:00Z",
+      "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
+      "fetchedAt": "2026-11-25T12:59:41.500Z",
+      "updatedAt": "2026-11-25T12:59:41.500Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005139",
+      "title": "Jahreswinterparty 2027",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/jahreswinterparty-2027-900005139-30601.html",
+      "startDate": "2027-01-29T16:00:00Z",
+      "endDate": "2027-01-29T20:00:00Z",
+      "location": "Jugendclub Ahrensfelde, Lindenberger Straße 9, 16356 Ahrensfelde",
+      "description": "Euch erwarten:\nSpaß und gute Laune, coole Musik, kalte Drinks, ein unvergesslicher Partyabend\n*inklusive 1 Freigetränk und Snacks",
+      "fetchedAt": "2026-11-25T12:59:41.500Z",
+      "updatedAt": "2026-11-25T12:59:41.500Z"
+    },
+    {
+      "id": "ahrensfelde-event-900005112",
+      "title": "Preisskat-Turnier des Kulturvereins Eiche",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/preisskat-turnier-des-kulturvereins-eiche-900005112-30601.html",
+      "startDate": "2027-01-29T17:00:00Z",
+      "location": "Ortsteilzentrum Eiche, Mehrower Weg, 16356 Ahrensfelde",
+      "description": "Beim Preisskat-Turnier können sich Freunde dieses Kartenspiels in fröhlicher Runde messen.",
+      "fetchedAt": "2026-11-25T12:59:41.500Z",
+      "updatedAt": "2026-11-25T12:59:41.500Z"
     },
     {
       "id": "ahrensfelde-event-900005084",
@@ -2010,59 +2062,15 @@
       "updatedAt": "2026-11-11T11:01:51.864Z"
     },
     {
-      "id": "ahrensfelde-event-900005058",
-      "title": "öffentliche Sitzung des Ausschusses für Finanzen",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-finanzen-900005058-30601.html",
-      "startDate": "2027-02-04T18:00:00Z",
-      "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
-      "fetchedAt": "2026-11-11T11:01:51.864Z",
-      "updatedAt": "2026-11-11T11:01:51.864Z"
-    },
-    {
-      "id": "ahrensfelde-event-900005099",
-      "title": "\"Brot und Tulpen\" - Kino in der offenen Kirche Mehrow",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/brot-und-tulpen-kino-in-der-offenen-kirche-mehrow-900005099-30601.html",
-      "startDate": "2027-02-07T16:00:00Z",
-      "endDate": "2027-02-07T18:00:00Z",
-      "location": "Kirche Mehrow, Mehrower Dorfstrasse 9, 16356 Ahrensfelde",
-      "fetchedAt": "2026-11-20T11:44:31.472Z",
-      "updatedAt": "2026-11-20T11:44:31.472Z"
-    },
-    {
-      "id": "ahrensfelde-event-900005059",
-      "title": "öffentliche Sitzung des Ausschusses für Soziales und Kultur",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-soziales-und-kultur-900005059-30601.html",
-      "startDate": "2027-02-08T18:00:00Z",
-      "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
-      "fetchedAt": "2026-11-11T11:01:51.864Z",
-      "updatedAt": "2026-11-11T11:01:51.864Z"
-    },
-    {
-      "id": "ahrensfelde-event-900005072",
-      "title": "öffentliche Sitzung des Ausschusses für Wirtschaft, Bauwesen, Umwelt und Natur",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ausschusses-fuer-wirtschaft-bauwesen-umwelt-und-natur-900005072-30601.html",
-      "startDate": "2027-02-11T18:00:00Z",
-      "location": "16356 Ahrensfelde, Rathaus (Hintereingang), Versammlungsraum Raum Nr.106, Lindenberger Straße 1, OT Ahrensfelde",
-      "fetchedAt": "2026-11-17T11:55:45.989Z",
-      "updatedAt": "2026-11-17T11:55:45.989Z"
-    },
-    {
-      "id": "ahrensfelde-event-900005089",
-      "title": "öffentliche Sitzung der Gemeindevertretung Ahrensfelde",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-der-gemeindevertretung-ahrensfelde-900005089-30601.html",
-      "startDate": "2027-02-15T18:00:00Z",
-      "location": "16356 Ahrensfelde, Orts- und Gemeindezentrum Ahrensfelde, Lindenberger Straße 1 B, OT Ahrensfelde (Zugang über den Rathausplatz)",
-      "fetchedAt": "2026-11-18T11:47:03.266Z",
-      "updatedAt": "2026-11-18T11:47:03.266Z"
-    },
-    {
-      "id": "ahrensfelde-event-900005114",
-      "title": "öffentliche Sitzung des Ortsbeirates Blumberg",
-      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/oeffentliche-sitzung-des-ortsbeirates-blumberg-900005114-30601.html",
-      "startDate": "2027-02-18T18:00:00Z",
-      "location": "16356 Ahrensfelde, ehem. Stufensaal, Schloßstraße 7, OT Blumberg",
-      "fetchedAt": "2026-11-24T13:47:01.263Z",
-      "updatedAt": "2026-11-24T13:47:01.263Z"
+      "id": "ahrensfelde-event-900005137",
+      "title": "Fun Jump Bernau – Mit Anmeldung",
+      "url": "https://www.ahrensfelde.de/regional/veranstaltungen/fun-jump-bernau-mit-anmeldung-900005137-30601.html",
+      "startDate": "2027-02-02T08:00:00Z",
+      "endDate": "2027-02-02T13:00:00Z",
+      "location": "Jugendclub Ahrensfelde, Lindenberger Straße 9, 16356 Ahrensfelde",
+      "description": "Am Dienstag geht es hoch hinaus! Im Fun Jump Bernau können wir uns auf den verschiedenen Trampolinen richtig austoben. Springen, balancieren und kleine Herausforderungen sorgen für jede Menge Bewegung, Spaß und gute Laune.\nNehmt bitte Fun Jump Socken oder 3 € für neue Socken mit.\n\nBitte füllt die Anmeldung nur zusammen mit euren Eltern aus. Da das Angebot eine begrenzte Kapazität hat (30 Personen), bitten wir um möglichst zeitnahe Anmeldung (spätestens am 17.01.2027). Eine Mindestteilnehmerzahl von 12 Personen ist für dieses Angebot erforderlich. \n\nIm Teilnehmerbeitrag sind enthalten: Hin- und Rückfahrt mit den öffentlichen Verkehrsmitteln und Eintritt für 90 Minuten im Fun Jump Bernau.\n\nAlle wichtigen Informationen findet ihr in der Beschreibung.\n\nWir freuen uns auf Euch!\n\nEuer Team von der Jugendarbeit Ahrensfelde",
+      "fetchedAt": "2026-11-25T12:59:41.500Z",
+      "updatedAt": "2026-11-25T12:59:41.500Z"
     }
   ]
 }

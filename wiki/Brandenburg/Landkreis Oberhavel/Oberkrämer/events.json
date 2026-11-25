@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:53:19.377Z",
+  "updatedAt": "2026-11-25T13:04:50.292Z",
   "items": [
     {
       "id": "oberkraemer-event-2962211",
@@ -1074,22 +1074,6 @@
       "updatedAt": "2026-10-28T09:49:20.506Z"
     },
     {
-      "id": "oberkraemer-event-2855686",
-      "title": "Seniorentanzgruppe \"Spätlese\"",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855686/2026/11/24/seniorentanzgruppe-spaetlese",
-      "startDate": "2026-11-24T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-11-18T11:51:53.502Z"
-    },
-    {
-      "id": "oberkraemer-event-2855781",
-      "title": "Skat in Bötzow",
-      "url": "https://www.oberkraemer.de/veranstaltungen/2855781/2026/11/24/skat-in-boetzow",
-      "startDate": "2026-11-24T00:00:00.000Z",
-      "fetchedAt": "2026-09-11T11:03:44.376Z",
-      "updatedAt": "2026-10-28T09:49:20.506Z"
-    },
-    {
       "id": "oberkraemer-event-2855698",
       "title": "Kartenfreunde Schwante",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855698/2026/11/25/kartenfreunde-schwante",
@@ -1218,6 +1202,14 @@
       "updatedAt": "2026-11-16T11:30:27.954Z"
     },
     {
+      "id": "oberkraemer-event-3014492",
+      "title": "Adventsfeuer in Marwitz",
+      "url": "https://www.oberkraemer.de/veranstaltungen/3014492/2026/11/28/adventsfeuer-in-marwitz",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:04:50.305Z",
+      "updatedAt": "2026-11-25T13:04:50.305Z"
+    },
+    {
       "id": "oberkraemer-event-2855765",
       "title": "Führungen im Schloss",
       "url": "https://www.oberkraemer.de/veranstaltungen/2855765/2026/11/29/fuehrungen-im-schloss",
@@ -1288,6 +1280,14 @@
       "startDate": "2026-11-30T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:22.966Z",
       "updatedAt": "2026-10-28T09:49:20.506Z"
+    },
+    {
+      "id": "oberkraemer-event-2855686",
+      "title": "Seniorentanzgruppe \"Spätlese\"",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855686/2026/12/01/seniorentanzgruppe-spaetlese",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-11-25T13:04:50.305Z"
     },
     {
       "id": "oberkraemer-event-2855887",
@@ -1554,6 +1554,22 @@
       "updatedAt": "2026-10-02T09:55:16.291Z"
     },
     {
+      "id": "oberkraemer-event-3014502",
+      "title": "WEIHNACHTSBÄUME SELBER SCHLAGEN",
+      "url": "https://www.oberkraemer.de/veranstaltungen/3014502/2026/12/12/weihnachtsbaeume-selber-schlagen",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:04:50.305Z",
+      "updatedAt": "2026-11-25T13:04:50.305Z"
+    },
+    {
+      "id": "oberkraemer-event-3014484",
+      "title": "Weihnachtssingen in Vehlefanz",
+      "url": "https://www.oberkraemer.de/veranstaltungen/3014484/2026/12/13/weihnachtssingen-in-vehlefanz",
+      "startDate": "2026-12-13T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:04:50.305Z",
+      "updatedAt": "2026-11-25T13:04:50.305Z"
+    },
+    {
       "id": "oberkraemer-event-2986448",
       "title": "Adventssingen in Schwante1",
       "url": "https://www.oberkraemer.de/veranstaltungen/2986448/2026/12/15/adventssingen-in-schwante1.html",
@@ -1600,6 +1616,14 @@
       "startDate": "2026-12-21T00:00:00.000Z",
       "fetchedAt": "2026-09-22T08:40:22.966Z",
       "updatedAt": "2026-10-28T09:49:20.506Z"
+    },
+    {
+      "id": "oberkraemer-event-2855781",
+      "title": "Skat in Bötzow",
+      "url": "https://www.oberkraemer.de/veranstaltungen/2855781/2026/12/22/skat-in-boetzow",
+      "startDate": "2026-12-22T00:00:00.000Z",
+      "fetchedAt": "2026-09-11T11:03:44.376Z",
+      "updatedAt": "2026-11-25T13:04:50.305Z"
     },
     {
       "id": "oberkraemer-event-2962227",

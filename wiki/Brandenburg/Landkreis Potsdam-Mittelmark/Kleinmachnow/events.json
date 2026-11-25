@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:55:08.430Z",
+  "updatedAt": "2026-11-25T13:06:19.446Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -1432,6 +1432,22 @@
       "startDate": "2026-12-04T20:00:00.000Z",
       "fetchedAt": "2026-11-24T13:55:08.429Z",
       "updatedAt": "2026-11-24T13:55:08.429Z"
+    },
+    {
+      "id": "kleinmachnow-event-1800",
+      "title": "Frank Lüdecke | Träumt weiter!",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Frank-L%C3%BCdecke-Tr%C3%A4umt-weiter-.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.1800.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-12-05T20:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:06:19.445Z",
+      "updatedAt": "2026-11-25T13:06:19.445Z"
+    },
+    {
+      "id": "kleinmachnow-event-2482",
+      "title": "Kunstweihnachtsmarkt",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Kunstweihnachtsmarkt.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2482.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-12-06T14:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:06:19.445Z",
+      "updatedAt": "2026-11-25T13:06:19.445Z"
     }
   ]
 }

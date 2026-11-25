@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:45:58.861Z",
+  "updatedAt": "2026-11-25T13:01:07.247Z",
   "items": [
     {
       "id": "amt-nennhausen-event-2909673-20260529",
@@ -802,12 +802,36 @@
       "updatedAt": "2026-11-19T11:45:58.868Z"
     },
     {
+      "id": "amt-nennhausen-event-3014472-20261128",
+      "title": "Weihnachtsmarkt in Buschow",
+      "url": "https://www.amt-nennhausen.de/veranstaltungen/3014472/2026/11/28/weihnachtsmarkt-in-buschow",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:01:07.254Z",
+      "updatedAt": "2026-11-25T13:01:07.254Z"
+    },
+    {
       "id": "amt-nennhausen-event-2837135-20261129",
       "title": "Adventskonzert mit Thomas Kübler in Premnitz",
       "url": "https://www.amt-nennhausen.de/veranstaltungen/2837135/2026/11/29/adventskonzert-mit-thomas-kübler-in-premnitz.html",
       "startDate": "2026-11-29T00:00:00.000Z",
       "fetchedAt": "2026-05-31T13:41:15.394Z",
       "updatedAt": "2026-05-31T14:13:47.037Z"
+    },
+    {
+      "id": "amt-nennhausen-event-3014461-20261129",
+      "title": "Weihnachtsbaumstellen",
+      "url": "https://www.amt-nennhausen.de/veranstaltungen/3014461/2026/11/29/weihnachtsbaumstellen",
+      "startDate": "2026-11-29T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:01:07.254Z",
+      "updatedAt": "2026-11-25T13:01:07.254Z"
+    },
+    {
+      "id": "amt-nennhausen-event-3013633-20261201",
+      "title": "Korridorsanierung Lehrte-Berlin Online- Informationsveranstaltung",
+      "url": "https://www.amt-nennhausen.de/veranstaltungen/3013633/2026/12/01/korridorsanierung-lehrte-berlin-online-informationsveranstaltung",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:01:07.254Z",
+      "updatedAt": "2026-11-25T13:01:07.254Z"
     },
     {
       "id": "amt-nennhausen-event-3009310-20261205",
@@ -824,6 +848,14 @@
       "startDate": "2026-12-05T00:00:00.000Z",
       "fetchedAt": "2026-11-19T11:45:58.868Z",
       "updatedAt": "2026-11-19T11:45:58.868Z"
+    },
+    {
+      "id": "amt-nennhausen-event-3014465-20261205",
+      "title": "Weihnachtsmarkt Möthlow",
+      "url": "https://www.amt-nennhausen.de/veranstaltungen/3014465/2026/12/05/weihnachtsmarkt-moethlow",
+      "startDate": "2026-12-05T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:01:07.254Z",
+      "updatedAt": "2026-11-25T13:01:07.254Z"
     },
     {
       "id": "amt-nennhausen-event-2837141-20261206",
@@ -872,6 +904,14 @@
       "startDate": "2026-12-20T00:00:00.000Z",
       "fetchedAt": "2026-05-31T13:41:15.394Z",
       "updatedAt": "2026-05-31T14:13:47.037Z"
+    },
+    {
+      "id": "amt-nennhausen-event-3014467-20261220",
+      "title": "Weihnachtsmarkt in Nennhausen",
+      "url": "https://www.amt-nennhausen.de/veranstaltungen/3014467/2026/12/20/weihnachtsmarkt-in-nennhausen",
+      "startDate": "2026-12-20T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:01:07.254Z",
+      "updatedAt": "2026-11-25T13:01:07.254Z"
     }
   ]
 }

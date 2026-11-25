@@ -1369,9 +1369,9 @@ URL:https://www.scharmuetzelsee.de/event/die-oderhaehne-besser-als-befuer
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261122T113432Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
+DTSTAMP:20261125T130526Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
 SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
 URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
  ad-saarow
@@ -1446,6 +1446,16 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Adventsfahrt
 URL:https://www.scharmuetzelsee.de/event/adventsfahrt
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-schweriner-hofweihnacht-auf-dem-hof-dobrasee@amtsfeed
+ .de
+DTSTAMP:20261125T130526Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Schweriner Hofweihnacht auf dem Hof Dobrasee
+URL:https://www.scharmuetzelsee.de/event/schweriner-hofweihnacht-auf-dem-
+ hof-dobrasee
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-melodien-unterm-tannenbaum-in-der-alten-schulscheune@

@@ -2448,4 +2448,14 @@ URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
  p\;ModID=11&amp\;FID=2967.7825.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:oranienburg-event-7973@amtsfeed.de
+DTSTAMP:20261125T130452Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Singen - Volkslieder aus allen Jahreszeiten
+URL:https://oranienburg.de/Stadtleben/Kultur-Freizeit/Veranstaltungskalen
+ der/Singen-Volkslieder-aus-allen-Jahreszeiten.php?object=tx\,2967.4&amp\;
+ ModID=11&amp\;FID=2967.7973.1&amp\;NavID=2967.39&amp\;sfreg=1&amp\;bn=1
+END:VEVENT
 END:VCALENDAR

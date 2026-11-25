@@ -1688,24 +1688,6 @@ URL:https://www.michendorf.de/veranstaltungen/3006917/2026/11/23/psz-bran
  denburg-laedt-zum-tag-der-offenen-tuer
 END:VEVENT
 BEGIN:VEVENT
-UID:michendorf-event-2959538@amtsfeed.de
-DTSTAMP:20261118T115314Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Jugendclub "MICHECK" geöffnet
-URL:https://www.michendorf.de/veranstaltungen/2959538/2026/11/24/jugendcl
- ub-micheck-geoeffnet
-END:VEVENT
-BEGIN:VEVENT
-UID:michendorf-event-2798288@amtsfeed.de
-DTSTAMP:20261111T111006Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Trauercaf&eacute\;
-URL:https://www.michendorf.de/veranstaltungen/2798288/2026/11/24/trauerca
- fé
-END:VEVENT
-BEGIN:VEVENT
 UID:michendorf-event-2976342@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261125
@@ -1767,6 +1749,15 @@ DTEND;VALUE=DATE:20261127
 SUMMARY:Weihnachtsmann nimmt Wunschzettel entgegen
 URL:https://www.michendorf.de/veranstaltungen/3006914/2026/11/26/weihnach
  tsmann-nimmt-wunschzettel-entgegen
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3013751@amtsfeed.de
+DTSTAMP:20261125T130621Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Weihnachtsbaumanblasen in Wilhelmshorst
+URL:https://www.michendorf.de/veranstaltungen/3013751/2026/11/26/weihnach
+ tsbaumanblasen-in-wilhelmshorst
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2959541@amtsfeed.de
@@ -1886,6 +1877,15 @@ URL:https://www.michendorf.de/veranstaltungen/3009186/2026/11/29/und-es-g
  ibt-ihn-doch
 END:VEVENT
 BEGIN:VEVENT
+UID:michendorf-event-2959538@amtsfeed.de
+DTSTAMP:20261125T130621Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Jugendclub "MICHECK" geöffnet
+URL:https://www.michendorf.de/veranstaltungen/2959538/2026/12/01/jugendcl
+ ub-micheck-geoeffnet
+END:VEVENT
+BEGIN:VEVENT
 UID:michendorf-event-2796861@amtsfeed.de
 DTSTAMP:20261028T095126Z
 DTSTART;VALUE=DATE:20261201
@@ -2001,6 +2001,15 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Und es gibt ihn doch
 URL:https://www.michendorf.de/veranstaltungen/3009200/2026/12/06/und-es-g
  ibt-ihn-doch
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-2798288@amtsfeed.de
+DTSTAMP:20261125T130621Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Trauercaf&eacute\;
+URL:https://www.michendorf.de/veranstaltungen/2798288/2026/12/08/trauerca
+ fé
 END:VEVENT
 BEGIN:VEVENT
 UID:michendorf-event-2995887@amtsfeed.de
@@ -2343,5 +2352,14 @@ DTEND;VALUE=DATE:20271024
 SUMMARY:Feuer und Flamme 2027
 URL:https://www.michendorf.de/veranstaltungen/3002108/2027/10/23/feuer-un
  d-flamme-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:michendorf-event-3001079@amtsfeed.de
+DTSTAMP:20261125T130621Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:Weihnachtsleuchten in Michendorf auf dem Rathausplatz
+URL:https://www.michendorf.de/veranstaltungen/3001079/2027/11/25/weihnach
+ tsleuchten-in-michendorf-auf-dem-rathausplatz
 END:VEVENT
 END:VCALENDAR

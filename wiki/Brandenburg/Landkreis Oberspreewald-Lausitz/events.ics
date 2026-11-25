@@ -11215,6 +11215,15 @@ URL:https://www.osl-online.de/veranstaltungen/1608936/2026/12/31/quer-dur
 LOCATION:Goldborn Werchow – Tor zur Calauer Schweiz
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-3014101-20261231@amtsfeed.de
+DTSTAMP:20261125T130522Z
+DTSTART:20261231T093000Z
+SUMMARY:53. Silvesterlauf und 20. Winterwanderung in Werchow
+URL:https://www.osl-online.de/veranstaltungen/3014101/2026/12/31/53.-silv
+ esterlauf-und-20.-winterwanderung-in-werchow
+LOCATION:Treff: Goldborn\, Calau / OT Werchow
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2124494-20261231@amtsfeed.de
 DTSTAMP:20261028T095001Z
 DTSTART:20261231T100000Z
@@ -16400,5 +16409,23 @@ SUMMARY:Calauer Museen öffnen
 URL:https://www.osl-online.de/veranstaltungen/2315266/2027/11/24/calauer-
  museen-oeffnen
 LOCATION:Haus der Heimatgeschichte
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2290342-20271125@amtsfeed.de
+DTSTAMP:20261125T130522Z
+DTSTART:20271125T080000Z
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.osl-online.de/veranstaltungen/2290342/2027/11/25/calauer-
+ wochenmarkt
+LOCATION:Marktplatz Calau
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2124494-20271125@amtsfeed.de
+DTSTAMP:20261125T130522Z
+DTSTART:20271125T100000Z
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.osl-online.de/veranstaltungen/2124494/2027/11/25/behinder
+ ten-und-seniorenberatung
+LOCATION:Mehrgenerationenhaus
 END:VEVENT
 END:VCALENDAR

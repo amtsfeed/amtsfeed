@@ -867,13 +867,13 @@ LOCATION:Turnhalle Niemegk
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-11-25-2026-11-25@amtsfeed.de
-DTSTAMP:20261117T120227Z
-DTSTART:20261125T093000Z
-DTEND:20261125T110000Z
-SUMMARY:Willkommen- Baby- Frühstück
-URL:https://amt-niemegk.de/events/willkommen-baby-fruehstueck-3-911-925-7
- 86-401-808-698-320-746-273/?occurrence=2026-11-25&#038\;time=1795599000
-LOCATION:Familienzentrum Niemegk
+DTSTAMP:20261125T130608Z
+DTSTART:20261125T150000Z
+DTEND:20261125T180000Z
+SUMMARY:„Fair-Teilen“ – Kleiderkammer
+URL:https://amt-niemegk.de/events/fair-teilen-kleiderkammer/?occurrence=2
+ 026-11-25
+LOCATION:Belziger Str. 4\, 14823 Niemegk
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-niemegk-event-2026-11-26-2026-11-26@amtsfeed.de
@@ -895,6 +895,18 @@ URL:https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-4
  52-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-75
  7-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-11-28&#038\;ti
  me=1795867200
+LOCATION:Burg Rabenstein in Raben
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-niemegk-event-2026-11-29-2026-11-29@amtsfeed.de
+DTSTAMP:20261125T130608Z
+DTSTART:20261129T120000Z
+DTEND:20261130T000000Z
+SUMMARY:weihnachtliche Burgführung
+URL:https://amt-niemegk.de/events/musikalische-neujahrsburgfuehrung-542-4
+ 52-525-339-425-634-614-442-111-199-870-946-894-621-120-404-140-962-467-75
+ 7-365-151-130-780-200-950-660-840-948-216/?occurrence=2026-11-29&#038\;ti
+ me=1795953600
 LOCATION:Burg Rabenstein in Raben
 END:VEVENT
 END:VCALENDAR

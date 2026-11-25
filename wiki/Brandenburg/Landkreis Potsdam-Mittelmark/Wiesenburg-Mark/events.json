@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:55:42.186Z",
+  "updatedAt": "2026-11-25T13:06:46.560Z",
   "items": [
     {
       "id": "wiesenburg-mark-event-2895955",
@@ -1148,34 +1148,10 @@
     {
       "id": "wiesenburg-mark-event-2424330",
       "title": "Offener Jugendraum \"WiBu\" - begleitet von Franziska Kottwitz",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/11/24/offener-jugendraum-wibu-begleitet-von-franziska-kottwitz",
-      "startDate": "2026-11-24T00:00:00.000Z",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/11/25/offener-jugendraum-wibu-begleitet-von-franziska-kottwitz",
+      "startDate": "2026-11-25T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-11-19T11:50:55.375Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2384481",
-      "title": "Krabbelgruppe - für Eltern mit Babys ab 3 Monaten",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2384481/2026/11/24/krabbelgruppe-fuer-eltern-mit-babys-ab-3-monaten",
-      "startDate": "2026-11-24T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-11-18T11:53:40.125Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2889794",
-      "title": "Breakdance-Kurs für Kids (7 - 12 J.)",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2889794/2026/11/24/breakdance-kurs-fuer-kids-7-12-j",
-      "startDate": "2026-11-24T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-11-18T11:53:40.125Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2889798",
-      "title": "Breakdance-Kurs für Jugendliche (ab 13 J.)",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2889798/2026/11/24/breakdance-kurs-fuer-jugendliche-ab-13-j",
-      "startDate": "2026-11-24T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-11-18T11:53:40.125Z"
+      "updatedAt": "2026-11-25T13:06:46.550Z"
     },
     {
       "id": "wiesenburg-mark-event-2842616",
@@ -1296,6 +1272,30 @@
       "startDate": "2026-11-30T00:00:00.000Z",
       "fetchedAt": "2026-11-11T11:10:41.275Z",
       "updatedAt": "2026-11-11T11:10:41.275Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2384481",
+      "title": "Krabbelgruppe - für Eltern mit Babys ab 3 Monaten",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2384481/2026/12/01/krabbelgruppe-fuer-eltern-mit-babys-ab-3-monaten",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-11-25T13:06:46.550Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2889794",
+      "title": "Breakdance-Kurs für Kids (7 - 12 J.)",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2889794/2026/12/01/breakdance-kurs-fuer-kids-7-12-j",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-11-25T13:06:46.550Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2889798",
+      "title": "Breakdance-Kurs für Jugendliche (ab 13 J.)",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2889798/2026/12/01/breakdance-kurs-fuer-jugendliche-ab-13-j",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-11-25T13:06:46.550Z"
     },
     {
       "id": "wiesenburg-mark-event-2907847",

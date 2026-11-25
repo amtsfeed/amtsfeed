@@ -503,15 +503,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/2873282/2026/11/23/elternb
  asteln
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124475@amtsfeed.de
-DTSTAMP:20261118T115207Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
-URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/11/24/chorpro
- be-mit-dem-stadtchor-lauchhammer
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-3010566@amtsfeed.de
 DTSTAMP:20261121T111215Z
 DTSTART;VALUE=DATE:20261124
@@ -584,6 +575,15 @@ DTEND;VALUE=DATE:20261201
 SUMMARY:Treffpunkt Bürgertheater
 URL:https://www.lauchhammer.de/veranstaltungen/2124466/2026/11/30/treffpu
  nkt-buergertheater
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124475@amtsfeed.de
+DTSTAMP:20261125T130509Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Chorprobe mit dem Stadtchor Lauchhammer
+URL:https://www.lauchhammer.de/veranstaltungen/2124475/2026/12/01/chorpro
+ be-mit-dem-stadtchor-lauchhammer
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2989108@amtsfeed.de

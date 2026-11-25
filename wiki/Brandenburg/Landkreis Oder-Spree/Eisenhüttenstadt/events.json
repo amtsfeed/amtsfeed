@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:54:21.814Z",
+  "updatedAt": "2026-11-25T13:05:44.497Z",
   "items": [
     {
       "id": "eisenhuettenstadt-event-2852-1820-1",
@@ -1210,9 +1210,9 @@
       "id": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
       "title": "Veranstaltungen",
       "url": "https://www.eisenhuettenstadt.de/index.php?NavID=2852.1&amp;object=tx%2C2852.4&amp;ModID=11&amp;kat=&amp;kuo=1&amp;ort=0&amp;vo=0&amp;va=0&amp;call=0&amp;bn=0&amp;sfodddrt=0&amp;sfvort=0&amp;sfreg=0&amp;sfort=0&amp;k_sub=0&amp;La=1",
-      "startDate": "2026-11-24T13:54:21.805Z",
+      "startDate": "2026-11-25T13:05:44.490Z",
       "fetchedAt": "2026-05-06T08:35:22.874Z",
-      "updatedAt": "2026-11-24T13:54:21.805Z"
+      "updatedAt": "2026-11-25T13:05:44.490Z"
     },
     {
       "id": "eisenhuettenstadt-event-2852-1881-1",
@@ -1403,6 +1403,14 @@
       "location": "Tourismusinformation",
       "fetchedAt": "2026-11-15T11:04:07.786Z",
       "updatedAt": "2026-11-15T11:04:07.786Z"
+    },
+    {
+      "id": "eisenhuettenstadt-event-2852-2013-1",
+      "title": "Weihnachtsmarkt",
+      "url": "https://www.eisenhuettenstadt.de/Stadt-Verwaltung/B%C3%BCrgerservice/Advantic-bitte-nicht-l%C3%B6schen-/Veranstaltungen/Weihnachtsmarkt-.php?ModID=11&amp;FID=2852.2013.1",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T13:05:44.490Z",
+      "updatedAt": "2026-11-25T13:05:44.490Z"
     }
   ]
 }

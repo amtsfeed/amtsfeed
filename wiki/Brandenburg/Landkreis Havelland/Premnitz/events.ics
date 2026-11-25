@@ -19936,6 +19936,15 @@ URL:https://www.premnitz.de/veranstaltungen/3008146/2026/12/12/weihnachts
  markt-im-designer-outlet-berlin
 END:VEVENT
 BEGIN:VEVENT
+UID:premnitz-event-3013904-20261212@amtsfeed.de
+DTSTAMP:20261125T130144Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Plauderei zur Weihnachts- und Winterzeit im alten Werder
+URL:https://www.premnitz.de/veranstaltungen/3013904/2026/12/12/plauderei-
+ zur-weihnachts-und-winterzeit-im-alten-werder
+END:VEVENT
+BEGIN:VEVENT
 UID:premnitz-event-2985401-20261213@amtsfeed.de
 DTSTAMP:20261113T110635Z
 DTSTART;VALUE=DATE:20261213
@@ -20737,5 +20746,50 @@ DTEND;VALUE=DATE:20261225
 SUMMARY:Lehniner Wintermusiken - Orgelkonzert am Heiligen Abend
 URL:https://www.premnitz.de/veranstaltungen/3005193/2026/12/24/lehniner-w
  intermusiken-orgelkonzert-am-heiligen-abend
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-3008157-20261225@amtsfeed.de
+DTSTAMP:20261125T130144Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Weihnachtsmarkt im Designer Outlet Berlin
+URL:https://www.premnitz.de/veranstaltungen/3008157/2026/12/25/weihnachts
+ markt-im-designer-outlet-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2977247-20261225@amtsfeed.de
+DTSTAMP:20261125T130144Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Wer Wie Was Weihnachten
+URL:https://www.premnitz.de/veranstaltungen/2977247/2026/12/25/wer-wie-wa
+ s-weihnachten
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-3005194-20261225@amtsfeed.de
+DTSTAMP:20261125T130144Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Lehniner Wintermusiken - Orgelkonzert
+URL:https://www.premnitz.de/veranstaltungen/3005194/2026/12/25/lehniner-w
+ intermusiken-orgelkonzert
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2977248-20261225@amtsfeed.de
+DTSTAMP:20261125T130144Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Wer Wie Was Weihnachten
+URL:https://www.premnitz.de/veranstaltungen/2977248/2026/12/25/wer-wie-wa
+ s-weihnachten
+END:VEVENT
+BEGIN:VEVENT
+UID:premnitz-event-2272404-20261225@amtsfeed.de
+DTSTAMP:20261125T130144Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Einladung - Suchtselbsthilfegruppe
+URL:https://www.premnitz.de/veranstaltungen/2272404/2026/12/25/einladung-
+ suchtselbsthilfegruppe
 END:VEVENT
 END:VCALENDAR

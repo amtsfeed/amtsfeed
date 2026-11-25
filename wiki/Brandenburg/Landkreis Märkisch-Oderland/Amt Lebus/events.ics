@@ -1488,28 +1488,6 @@ DESCRIPTION:Bezaubernde Windlichter\, Lichterbäumchen\, Schneemänner un
 LOCATION:Wiesenkeramik - Reitwein
 END:VEVENT
 BEGIN:VEVENT
-UID:2464901@amtsfeed.de
-DTSTAMP:20261118T115047Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Selbstverteidigung für Frauen
-URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/11/24/selbstver
- teidigung-fuer-frauen
-DESCRIPTION:in Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
-UID:2419554@amtsfeed.de
-DTSTAMP:20261118T115047Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Posaunenchor  Probe
-URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/11/24/posaunenc
- hor-probe
-DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
-LOCATION:Pfarrkirche Lebus
-END:VEVENT
-BEGIN:VEVENT
 UID:2486339@amtsfeed.de
 DTSTAMP:20261119T114757Z
 DTSTART;VALUE=DATE:20261125
@@ -1683,6 +1661,28 @@ URL:https://www.amt-lebus.de/veranstaltungen/2464900/2026/11/30/dart-fuer
  -jedermann
 DESCRIPTION:Sportlerheim Podelzig
 LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2464901@amtsfeed.de
+DTSTAMP:20261125T130336Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Selbstverteidigung für Frauen
+URL:https://www.amt-lebus.de/veranstaltungen/2464901/2026/12/01/selbstver
+ teidigung-fuer-frauen
+DESCRIPTION:in Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
+UID:2419554@amtsfeed.de
+DTSTAMP:20261125T130336Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Posaunenchor  Probe
+URL:https://www.amt-lebus.de/veranstaltungen/2419554/2026/12/01/posaunenc
+ hor-probe
+DESCRIPTION:Jeden Dienstag um 19.00 Uhr Kirche Lebus
+LOCATION:Pfarrkirche Lebus
 END:VEVENT
 BEGIN:VEVENT
 UID:2904743@amtsfeed.de

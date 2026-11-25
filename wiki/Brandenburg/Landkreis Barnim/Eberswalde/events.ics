@@ -1735,20 +1735,20 @@ SUMMARY:Totensonntag - Gemeinsam Erinnern
 URL:https://www.eberswalde.de/termine/totensonntag-gemeinsam-erinnern
 END:VEVENT
 BEGIN:VEVENT
-UID:info.php@amtsfeed.de
-DTSTAMP:20261118T114710Z
-DTSTART:20261124T181500Z
-SUMMARY:Ausschuss für Wirtschaft\, Finanzen und Bürgerdienste (Fachauss
- chuss 1 - F1)
-URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
-END:VEVENT
-BEGIN:VEVENT
 UID:bilderbuchkino-in-der-stadtbibliothek-20@amtsfeed.de
 DTSTAMP:20261118T114710Z
 DTSTART:20261126T163000Z
 SUMMARY:Bilderbuchkino in der Stadtbibliothek
 URL:https://www.eberswalde.de/termine/bilderbuchkino-in-der-stadtbiblioth
  ek-20
+END:VEVENT
+BEGIN:VEVENT
+UID:info.php@amtsfeed.de
+DTSTAMP:20261125T125950Z
+DTSTART:20261126T181500Z
+SUMMARY:Ausschuss für Soziales\, Bildung\, Ordnung und Kultur (Fachaussc
+ huss 2 - F2)
+URL:https://sessionnet.eberswalde.de/sessionnet/bi/info.php
 END:VEVENT
 BEGIN:VEVENT
 UID:eberswalder-weihnachtsmarkt-2026@amtsfeed.de
@@ -1803,5 +1803,15 @@ DTSTART:20261128T120000Z
 SUMMARY:Krippenmarkt an der Maria-Magdalenen-Kirche
 URL:https://www.eberswalde.de/termine/krippenmarkt-an-der-maria-magdalene
  n-kirche
+END:VEVENT
+BEGIN:VEVENT
+UID:nicht-die-groesste-fussballgeschichte-buchvorstellung-mit-autor-hans-
+ joerg-rafalski@amtsfeed.de
+DTSTAMP:20261125T125950Z
+DTSTART:20261128T140000Z
+SUMMARY:"Nicht die größte Fußballgeschichte". Buchvorstellung mit Auto
+ r Hans Jörg Rafalski
+URL:https://www.eberswalde.de/termine/nicht-die-groesste-fussballgeschich
+ te-buchvorstellung-mit-autor-hans-joerg-rafalski
 END:VEVENT
 END:VCALENDAR

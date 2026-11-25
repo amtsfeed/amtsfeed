@@ -1220,24 +1220,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2986779/2026/11/22/offenes
  -haus
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855686@amtsfeed.de
-DTSTAMP:20261118T115153Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Seniorentanzgruppe "Spätlese"
-URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/11/24/seniore
- ntanzgruppe-spaetlese
-END:VEVENT
-BEGIN:VEVENT
-UID:oberkraemer-event-2855781@amtsfeed.de
-DTSTAMP:20261028T094920Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Skat in Bötzow
-URL:https://www.oberkraemer.de/veranstaltungen/2855781/2026/11/24/skat-in
- -boetzow
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855698@amtsfeed.de
 DTSTAMP:20261119T114911Z
 DTSTART;VALUE=DATE:20261125
@@ -1381,6 +1363,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/3006562/2026/11/28/nice-pr
  ice-rooooockt
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-3014492@amtsfeed.de
+DTSTAMP:20261125T130450Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Adventsfeuer in Marwitz
+URL:https://www.oberkraemer.de/veranstaltungen/3014492/2026/11/28/advents
+ feuer-in-marwitz
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855765@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261129
@@ -1460,6 +1451,15 @@ DTEND;VALUE=DATE:20261201
 SUMMARY:Bibliothek Märchen für Klasse 2
 URL:https://www.oberkraemer.de/veranstaltungen/2962225/2026/11/30/bibliot
  hek-maerchen-fuer-klasse-2
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855686@amtsfeed.de
+DTSTAMP:20261125T130450Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Seniorentanzgruppe "Spätlese"
+URL:https://www.oberkraemer.de/veranstaltungen/2855686/2026/12/01/seniore
+ ntanzgruppe-spaetlese
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855887@amtsfeed.de
@@ -1761,6 +1761,24 @@ URL:https://www.oberkraemer.de/veranstaltungen/2977681/2026/12/12/oberkr
  ämer-weihnachtsmarkt.html
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-3014502@amtsfeed.de
+DTSTAMP:20261125T130450Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:WEIHNACHTSBÄUME SELBER SCHLAGEN
+URL:https://www.oberkraemer.de/veranstaltungen/3014502/2026/12/12/weihnac
+ htsbaeume-selber-schlagen
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-3014484@amtsfeed.de
+DTSTAMP:20261125T130450Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Weihnachtssingen in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/3014484/2026/12/13/weihnac
+ htssingen-in-vehlefanz
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2986448@amtsfeed.de
 DTSTAMP:20261019T090315Z
 DTSTART;VALUE=DATE:20261215
@@ -1813,6 +1831,15 @@ DTEND;VALUE=DATE:20261222
 SUMMARY:Kinotag in der Grundschule Bötzow
 URL:https://www.oberkraemer.de/veranstaltungen/2962226/2026/12/21/kinotag
  -in-der-grundschule-boetzow
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855781@amtsfeed.de
+DTSTAMP:20261125T130450Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Skat in Bötzow
+URL:https://www.oberkraemer.de/veranstaltungen/2855781/2026/12/22/skat-in
+ -boetzow
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2962227@amtsfeed.de

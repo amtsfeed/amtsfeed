@@ -937,6 +937,15 @@ URL:https://www.amt-nennhausen.de/veranstaltungen/3009211/2026/11/28/weih
  nachtsmarkt-stechow
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-nennhausen-event-3014472-20261128@amtsfeed.de
+DTSTAMP:20261125T130107Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Weihnachtsmarkt in Buschow
+URL:https://www.amt-nennhausen.de/veranstaltungen/3014472/2026/11/28/weih
+ nachtsmarkt-in-buschow
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-nennhausen-event-2837135-20261129@amtsfeed.de
 DTSTAMP:20260531T141347Z
 DTSTART;VALUE=DATE:20261129
@@ -944,6 +953,24 @@ DTEND;VALUE=DATE:20261130
 SUMMARY:Adventskonzert mit Thomas Kübler in Premnitz
 URL:https://www.amt-nennhausen.de/veranstaltungen/2837135/2026/11/29/adve
  ntskonzert-mit-thomas-kübler-in-premnitz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-3014461-20261129@amtsfeed.de
+DTSTAMP:20261125T130107Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Weihnachtsbaumstellen
+URL:https://www.amt-nennhausen.de/veranstaltungen/3014461/2026/11/29/weih
+ nachtsbaumstellen
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-3013633-20261201@amtsfeed.de
+DTSTAMP:20261125T130107Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Korridorsanierung Lehrte-Berlin Online- Informationsveranstaltung
+URL:https://www.amt-nennhausen.de/veranstaltungen/3013633/2026/12/01/korr
+ idorsanierung-lehrte-berlin-online-informationsveranstaltung
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-3009310-20261205@amtsfeed.de
@@ -962,6 +989,15 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Weihnachtskonzert in Landin
 URL:https://www.amt-nennhausen.de/veranstaltungen/3009299/2026/12/05/weih
  nachtskonzert-in-landin
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-3014465-20261205@amtsfeed.de
+DTSTAMP:20261125T130107Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Weihnachtsmarkt Möthlow
+URL:https://www.amt-nennhausen.de/veranstaltungen/3014465/2026/12/05/weih
+ nachtsmarkt-moethlow
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-nennhausen-event-2837141-20261206@amtsfeed.de
@@ -1016,5 +1052,14 @@ DTEND;VALUE=DATE:20261221
 SUMMARY:Adventskonzert mit Thomas Kübler in Premnitz
 URL:https://www.amt-nennhausen.de/veranstaltungen/2837160/2026/12/20/adve
  ntskonzert-mit-thomas-kübler-in-premnitz.html
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-3014467-20261220@amtsfeed.de
+DTSTAMP:20261125T130107Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Weihnachtsmarkt in Nennhausen
+URL:https://www.amt-nennhausen.de/veranstaltungen/3014467/2026/12/20/weih
+ nachtsmarkt-in-nennhausen
 END:VEVENT
 END:VCALENDAR

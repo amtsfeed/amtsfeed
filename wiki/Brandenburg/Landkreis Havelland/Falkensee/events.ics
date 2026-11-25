@@ -5504,6 +5504,15 @@ URL:https://www.falkensee.de/veranstaltungen/3010695/2026/12/05/hofweihna
  cht-im-garten-des-kulturhauses
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-3014116-20261205@amtsfeed.de
+DTSTAMP:20261125T130112Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Mckinley Black - American Christmas
+URL:https://www.falkensee.de/veranstaltungen/3014116/2026/12/05/mckinley-
+ black-american-christmas
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2900966-20261206@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261206
@@ -5657,6 +5666,15 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:Weihnachtsbacken mit dem KiKuK
 URL:https://www.falkensee.de/veranstaltungen/2993447/2026/12/12/weihnacht
  sbacken-mit-dem-kikuk
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-3014118-20261212@amtsfeed.de
+DTSTAMP:20261125T130112Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Weihnachtsmarkt beim SV Falkensee-Finkenkrug
+URL:https://www.falkensee.de/veranstaltungen/3014118/2026/12/12/weihnacht
+ smarkt-beim-sv-falkensee-finkenkrug
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2900966-20261213@amtsfeed.de
@@ -5931,6 +5949,15 @@ URL:https://www.falkensee.de/veranstaltungen/3011990/2026/12/19/lichterfa
  ion-in-falkensee
 END:VEVENT
 BEGIN:VEVENT
+UID:falkensee-event-3014285-20261219@amtsfeed.de
+DTSTAMP:20261125T130112Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Musikalische Andacht zum Advent
+URL:https://www.falkensee.de/veranstaltungen/3014285/2026/12/19/musikalis
+ che-andacht-zum-advent
+END:VEVENT
+BEGIN:VEVENT
 UID:falkensee-event-2900966-20261220@amtsfeed.de
 DTSTAMP:20260531T141353Z
 DTSTART;VALUE=DATE:20261220
@@ -6200,6 +6227,15 @@ DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Singkreis
 URL:https://www.falkensee.de/veranstaltungen/2405552/2027/01/13/singkreis
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-3014117-20270114@amtsfeed.de
+DTSTAMP:20261125T130112Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Lesung und Gespräch mit Korbinian Frenzel
+URL:https://www.falkensee.de/veranstaltungen/3014117/2027/01/14/lesung-un
+ d-gespraech-mit-korbinian-frenzel
 END:VEVENT
 BEGIN:VEVENT
 UID:falkensee-event-2483646-20270118@amtsfeed.de
@@ -9777,5 +9813,15 @@ DTEND;VALUE=DATE:20271125
 SUMMARY:Monatliches Treffen der ADFC-Falkensee Gruppe
 URL:https://www.falkensee.de/veranstaltungen/1965704/2027/11/24/monatlich
  es-treffen-der-adfc-falkensee-gruppe
+END:VEVENT
+BEGIN:VEVENT
+UID:falkensee-event-2068951-20271125@amtsfeed.de
+DTSTAMP:20261125T130112Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:Kontaktstelle Hilfe zur Selbsthilfe Demenz &ndash\; Treffen der A
+ ngehörigengruppe
+URL:https://www.falkensee.de/veranstaltungen/2068951/2027/11/25/kontaktst
+ elle-hilfe-zur-selbsthilfe-demenz--treffen-der-angehoerigengruppe
 END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:53:26.218Z",
+  "updatedAt": "2026-11-26T12:45:11.361Z",
   "items": [
     {
       "id": "velten-event-932",
@@ -1183,6 +1183,22 @@
       "updatedAt": "2026-11-18T11:51:57.253Z"
     },
     {
+      "id": "velten-event-1264",
+      "title": "Weihnachtskonzert Voce libera",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Weihnachtskonzert-Voce-libera.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1264.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-12-20T00:00:00.000Z",
+      "fetchedAt": "2026-11-26T12:45:11.369Z",
+      "updatedAt": "2026-11-26T12:45:11.369Z"
+    },
+    {
+      "id": "velten-event-1265",
+      "title": "Weihnachtskonzert Voce libera",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Weihnachtskonzert-Voce-libera.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1265.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2026-12-20T00:00:00.000Z",
+      "fetchedAt": "2026-11-26T12:45:11.369Z",
+      "updatedAt": "2026-11-26T12:45:11.369Z"
+    },
+    {
       "id": "velten-event-1036",
       "title": "Wochenmarkt",
       "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochenmarkt.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1036.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
@@ -1221,6 +1237,14 @@
       "startDate": "2027-01-13T00:00:00.000Z",
       "fetchedAt": "2026-11-22T11:34:00.152Z",
       "updatedAt": "2026-11-22T11:34:00.152Z"
+    },
+    {
+      "id": "velten-event-1200",
+      "title": "16. Sitzung des Ausschusses für Soziales und Bürgerservice",
+      "url": "https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/16-Sitzung-des-Ausschusses-f%C3%BCr-Soziales-und-B%C3%BCrgerservice.php?object=tx,3631.4.1&amp;ModID=11&amp;FID=3631.1200.1&amp;NavID=3631.15&amp;sfreg=1&amp;sfort=1",
+      "startDate": "2027-01-14T00:00:00.000Z",
+      "fetchedAt": "2026-11-26T12:45:11.369Z",
+      "updatedAt": "2026-11-26T12:45:11.369Z"
     }
   ]
 }

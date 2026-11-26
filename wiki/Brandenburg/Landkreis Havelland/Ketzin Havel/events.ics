@@ -3971,6 +3971,15 @@ URL:https://www.ketzin.de/veranstaltungen/2457429/2027/07/27/seniorengymn
  astik-mit-dem-seniorenverein-falkenrehde-e.v
 END:VEVENT
 BEGIN:VEVENT
+UID:ketzin-havel-event-3015042-20270727@amtsfeed.de
+DTSTAMP:20261126T124121Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Gedenken an die Opfer des Nationalsozialismus
+URL:https://www.ketzin.de/veranstaltungen/3015042/2027/07/27/gedenken-an-
+ die-opfer-des-nationalsozialismus
+END:VEVENT
+BEGIN:VEVENT
 UID:ketzin-havel-event-2658477-20270730@amtsfeed.de
 DTSTAMP:20261028T094514Z
 DTSTART;VALUE=DATE:20270730
@@ -4668,5 +4677,14 @@ DTEND;VALUE=DATE:20271124
 SUMMARY:Seniorengymnastik mit dem Seniorenverein Falkenrehde e.V.
 URL:https://www.ketzin.de/veranstaltungen/2457429/2027/11/23/seniorengymn
  astik-mit-dem-seniorenverein-falkenrehde-e.v
+END:VEVENT
+BEGIN:VEVENT
+UID:ketzin-havel-event-2658477-20271126@amtsfeed.de
+DTSTAMP:20261126T124121Z
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+SUMMARY:Jeden Freitag - Senioren-Sportnachmittag
+URL:https://www.ketzin.de/veranstaltungen/2658477/2027/11/26/jeden-freita
+ g-senioren-sportnachmittag
 END:VEVENT
 END:VCALENDAR

@@ -5120,6 +5120,15 @@ URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
 LOCATION:Bürgersaal Schildow\, OT Schildow\, Franz-Schmidt-Straße 3
 END:VEVENT
 BEGIN:VEVENT
+UID:muehlenbecker-land-event-59061567@amtsfeed.de
+DTSTAMP:20261126T124503Z
+DTSTART:20261206T160000Z
+SUMMARY:Weihnachtskonzert: Chor Quergesang
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=59061567
+LOCATION:Dorfkirche Schildow\, Hauptstraße 11
+END:VEVENT
+BEGIN:VEVENT
 UID:muehlenbecker-land-event-58798979@amtsfeed.de
 DTSTAMP:20261118T115152Z
 DTSTART:20261207T093000Z
@@ -5410,5 +5419,43 @@ URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
  .php?id=59059756
 LOCATION:Historische Mönchmühle e.V.\, Mönchmühlenallee 3\, 16567 Mü
  hlenbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58809495@amtsfeed.de
+DTSTAMP:20261126T124504Z
+DTSTART:20261214T100000Z
+SUMMARY:Kurs: TaiChi
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58809495
+LOCATION:Am oberen Regenrückhaltebecken\, Bieselheide\, OT Schönfließ
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58809581@amtsfeed.de
+DTSTAMP:20261126T124504Z
+DTSTART:20261214T150000Z
+SUMMARY:Literaturtreff
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58809581
+LOCATION:Bürgertreff Bieselheide\, Traubeneichenstraße 66\, OT Schönfl
+ ieß
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58797991@amtsfeed.de
+DTSTAMP:20261126T124504Z
+DTSTART:20261215T090000Z
+SUMMARY:Volkssolidarität: Gymnastik für Senioren
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58797991
+LOCATION:Mühlentreff\, Hauptstraße 7\, OT Mühlenbeck
+END:VEVENT
+BEGIN:VEVENT
+UID:muehlenbecker-land-event-58798281@amtsfeed.de
+DTSTAMP:20261126T124504Z
+DTSTART:20261215T100000Z
+SUMMARY:Kurs: Nordic Walking
+URL:https://exchange.cmcitymedia.de/muehlenbeckerland/veranstaltungenIcal
+ .php?id=58798281
+LOCATION:Treffpunkt am Bürgertreff Bieselheide\, Traubeneichenstraße 66
+ \, OT Schönfließ
 END:VEVENT
 END:VCALENDAR

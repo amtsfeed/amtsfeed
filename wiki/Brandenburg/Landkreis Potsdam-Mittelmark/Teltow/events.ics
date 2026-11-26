@@ -1979,15 +1979,6 @@ URL:https://www.teltow.de/veranstaltungen/2978092/2026/11/24/wie-heizen-w
  ir-in-zukunft
 END:VEVENT
 BEGIN:VEVENT
-UID:teltow-event-2930017@amtsfeed.de
-DTSTAMP:20261119T115046Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
-URL:https://www.teltow.de/veranstaltungen/2930017/2026/11/25/offener-lern
- raum-lesen-schreiben-rechnen-basis-englisch
-END:VEVENT
-BEGIN:VEVENT
 UID:teltow-event-2972255@amtsfeed.de
 DTSTAMP:20261028T095147Z
 DTSTART;VALUE=DATE:20261125
@@ -2138,6 +2129,15 @@ URL:https://www.teltow.de/veranstaltungen/2983330/2026/12/01/weihnachtsfe
  ier
 END:VEVENT
 BEGIN:VEVENT
+UID:teltow-event-2930017@amtsfeed.de
+DTSTAMP:20261126T124649Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Offener Lernraum - Lesen\, Schreiben\, Rechnen\, Basis-Englisch
+URL:https://www.teltow.de/veranstaltungen/2930017/2026/12/02/offener-lern
+ raum-lesen-schreiben-rechnen-basis-englisch
+END:VEVENT
+BEGIN:VEVENT
 UID:teltow-event-2972339@amtsfeed.de
 DTSTAMP:20261028T095147Z
 DTSTART;VALUE=DATE:20261202
@@ -2157,12 +2157,21 @@ URL:https://www.teltow.de/veranstaltungen/2972210/2026/12/03/der-pc-senio
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2973488@amtsfeed.de
-DTSTAMP:20261111T111029Z
+DTSTAMP:20261126T124649Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:Sneakers Night Jugend-Disco
+SUMMARY:Sneakers Night Jugenddisco
 URL:https://www.teltow.de/veranstaltungen/2973488/2026/12/04/sneakers-nig
- ht-jugend-disco
+ ht-jugenddisco
+END:VEVENT
+BEGIN:VEVENT
+UID:teltow-event-3015240@amtsfeed.de
+DTSTAMP:20261126T124649Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Nikolausmarkt
+URL:https://www.teltow.de/veranstaltungen/3015240/2026/12/04/nikolausmark
+ t
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2983322@amtsfeed.de
@@ -2246,12 +2255,12 @@ URL:https://www.teltow.de/veranstaltungen/2972988/2026/12/13/das-heimatmu
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2973476@amtsfeed.de
-DTSTAMP:20261028T095147Z
+DTSTAMP:20261126T124649Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-SUMMARY:Weihnachtsmarkt & Puppentheater
-URL:https://www.teltow.de/veranstaltungen/2973476/2026/12/13/weihnachtsma
- rkt-puppentheater
+SUMMARY:Teltower Weihnachtsmarkt
+URL:https://www.teltow.de/veranstaltungen/2973476/2026/12/13/teltower-wei
+ hnachtsmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:teltow-event-2972346@amtsfeed.de

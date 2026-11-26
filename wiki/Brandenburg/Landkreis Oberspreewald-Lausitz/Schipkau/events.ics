@@ -738,6 +738,18 @@ DESCRIPTION:Lassen Sie sich verzaubern vom weihnachtlichen Ambiente auf d
 LOCATION:Wohnresidenz Schipkau
 END:VEVENT
 BEGIN:VEVENT
+UID:schipkau-event-3015053@amtsfeed.de
+DTSTAMP:20261126T124530Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Weihnachtsspaziergang in Hörlitz
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/3015053/2026/11/28/w
+ eihnachtsspaziergang-in-hoerlitz
+DESCRIPTION:Weihnachtsspaziergang durch Hörlitz mit vielen schönen Stä
+ nden im Ort verteilt. Überall ...
+LOCATION:Im ganzen Ort Hörlitz
+END:VEVENT
+BEGIN:VEVENT
 UID:schipkau-event-2822334@amtsfeed.de
 DTSTAMP:20261028T094950Z
 DTSTART;VALUE=DATE:20261129
@@ -818,12 +830,12 @@ LOCATION:Meuro
 END:VEVENT
 BEGIN:VEVENT
 UID:schipkau-event-2970738@amtsfeed.de
-DTSTAMP:20261028T094950Z
+DTSTAMP:20261126T124530Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:Lichterfahrt
-URL:https://www.gemeinde-schipkau.de/veranstaltungen/2970738/2026/12/05/l
- ichterfahrt
+SUMMARY:!!! ACHTUNG ABGESAGT!!! Lichterfahrt
+URL:https://www.gemeinde-schipkau.de/veranstaltungen/2970738/2026/12/05/a
+ chtung-abgesagt-lichterfahrt
 DESCRIPTION:Lichterfahrt der Technikfreunde Klettwitz ab Marktplatz\, mit
   Weihnachtsmann und mit Glühwein
 LOCATION:Klettwitz

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:05:22.642Z",
+  "updatedAt": "2026-11-26T12:45:37.195Z",
   "items": [
     {
       "id": "lk-osl-event-3005612-20260101",
@@ -8923,6 +8923,15 @@
       "updatedAt": "2026-05-31T18:42:06.173Z"
     },
     {
+      "id": "lk-osl-event-3014606-20261125",
+      "title": "Aufruf zur Teilnahme = 6. Kunst Raum (K) Calau",
+      "url": "https://www.osl-online.de/veranstaltungen/3014606/2026/11/25/aufruf-zur-teilnahme--6.-kunst-raum-k-calau",
+      "startDate": "2026-11-25T00:00:00.000Z",
+      "location": "Calauer Info - Punkt",
+      "fetchedAt": "2026-11-26T12:45:37.230Z",
+      "updatedAt": "2026-11-26T12:45:37.230Z"
+    },
+    {
       "id": "lk-osl-event-2954022-20261125",
       "title": "Vorrunde Zweifelderball Jugend trainiert in Großräschen",
       "url": "https://www.osl-online.de/veranstaltungen/2954022/2026/11/25/vorrunde-zweifelderball-jugend-trainiert-in-grossraeschen",
@@ -16061,6 +16070,16 @@
       "location": "Mehrgenerationenhaus",
       "fetchedAt": "2026-11-25T13:05:22.677Z",
       "updatedAt": "2026-11-25T13:05:22.677Z"
+    },
+    {
+      "id": "lk-osl-event-2918359-20271126",
+      "title": "Gruppentreffen Selbsthilfegruppe Multiple Sklerose",
+      "url": "https://www.osl-online.de/veranstaltungen/2918359/2027/11/26/gruppentreffen-selbsthilfegruppe-multiple-sklerose",
+      "startDate": "2027-11-26T10:00:00.000Z",
+      "endDate": "2027-11-26T12:00:00.000Z",
+      "location": "REKOSI",
+      "fetchedAt": "2026-11-26T12:45:37.230Z",
+      "updatedAt": "2026-11-26T12:45:37.230Z"
     }
   ]
 }

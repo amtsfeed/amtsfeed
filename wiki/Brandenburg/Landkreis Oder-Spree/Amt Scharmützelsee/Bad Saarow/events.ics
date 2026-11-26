@@ -1368,15 +1368,6 @@ URL:https://www.scharmuetzelsee.de/event/die-oderhaehne-besser-als-befuer
  chtet-satirischer-jahresrueckblick
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261125T130526Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
- ad-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-ausgebucht-workshop-winterzauber-aus-der-natur-kraenz
  e-und-duftkissen@amtsfeed.de
 DTSTAMP:20261122T113432Z
@@ -1386,6 +1377,15 @@ SUMMARY:++ausgebucht++ Workshop: Winterzauber aus der Natur – Kränze u
  nd Duftkissen
 URL:https://www.scharmuetzelsee.de/event/ausgebucht-workshop-winterzauber
  -aus-der-natur-kraenze-und-duftkissen
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261126T124542Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
@@ -1456,6 +1456,34 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Schweriner Hofweihnacht auf dem Hof Dobrasee
 URL:https://www.scharmuetzelsee.de/event/schweriner-hofweihnacht-auf-dem-
  hof-dobrasee
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-weihnachtsbaeckerei-im-scharmuntzelland@amtsfeed.de
+DTSTAMP:20261126T124542Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Weihnachtsbäckerei im Scharmuntzelland
+URL:https://www.scharmuetzelsee.de/event/weihnachtsbaeckerei-im-scharmunt
+ zelland
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-besuch-bei-muemmel-quieki-zur-adventszeit@amtsfeed.de
+DTSTAMP:20261126T124542Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Besuch bei Mümmel & Quieki zur Adventszeit
+URL:https://www.scharmuetzelsee.de/event/besuch-bei-muemmel-quieki-zur-ad
+ ventszeit
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-kuschelstunde-mit-zwergschafen-zur-adventszeit@amtsfe
+ ed.de
+DTSTAMP:20261126T124542Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Kuschelstunde mit Zwergschafen zur Adventszeit
+URL:https://www.scharmuetzelsee.de/event/kuschelstunde-mit-zwergschafen-z
+ ur-adventszeit
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-melodien-unterm-tannenbaum-in-der-alten-schulscheune@

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:06:46.560Z",
+  "updatedAt": "2026-11-26T12:46:58.077Z",
   "items": [
     {
       "id": "wiesenburg-mark-event-2895955",
@@ -1146,30 +1146,6 @@
       "updatedAt": "2026-10-28T09:51:55.363Z"
     },
     {
-      "id": "wiesenburg-mark-event-2424330",
-      "title": "Offener Jugendraum \"WiBu\" - begleitet von Franziska Kottwitz",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/11/25/offener-jugendraum-wibu-begleitet-von-franziska-kottwitz",
-      "startDate": "2026-11-25T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-11-25T13:06:46.550Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2842616",
-      "title": "CODER DOJO - Programmierwerkstatt",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/11/25/coder-dojo-programmierwerkstatt",
-      "startDate": "2026-11-25T00:00:00.000Z",
-      "fetchedAt": "2026-05-06T12:30:11.191Z",
-      "updatedAt": "2026-11-19T11:50:55.375Z"
-    },
-    {
-      "id": "wiesenburg-mark-event-2907840",
-      "title": "DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen",
-      "url": "https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/11/25/drk-spielrunde-kaffee-und-kartenspiel-fuer-senior-innen",
-      "startDate": "2026-11-25T00:00:00.000Z",
-      "fetchedAt": "2026-05-31T13:17:27.492Z",
-      "updatedAt": "2026-11-19T11:50:55.375Z"
-    },
-    {
       "id": "wiesenburg-mark-event-2424341",
       "title": "Familiensprechzeiten / Elternberatung im Familienzentrum",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/11/26/familiensprechzeiten-elternberatung-im-familienzentrum",
@@ -1274,6 +1250,14 @@
       "updatedAt": "2026-11-11T11:10:41.275Z"
     },
     {
+      "id": "wiesenburg-mark-event-2424330",
+      "title": "Offener Jugendraum \"WiBu\" - begleitet von Franziska Kottwitz",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2424330/2026/12/01/offener-jugendraum-wibu-begleitet-von-franziska-kottwitz",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-11-26T12:46:58.067Z"
+    },
+    {
       "id": "wiesenburg-mark-event-2384481",
       "title": "Krabbelgruppe - für Eltern mit Babys ab 3 Monaten",
       "url": "https://www.wiesenburgmark.de/veranstaltungen/2384481/2026/12/01/krabbelgruppe-fuer-eltern-mit-babys-ab-3-monaten",
@@ -1296,6 +1280,22 @@
       "startDate": "2026-12-01T00:00:00.000Z",
       "fetchedAt": "2026-05-06T12:30:11.191Z",
       "updatedAt": "2026-11-25T13:06:46.550Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2842616",
+      "title": "CODER DOJO - Programmierwerkstatt",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2842616/2026/12/02/coder-dojo-programmierwerkstatt",
+      "startDate": "2026-12-02T00:00:00.000Z",
+      "fetchedAt": "2026-05-06T12:30:11.191Z",
+      "updatedAt": "2026-11-26T12:46:58.067Z"
+    },
+    {
+      "id": "wiesenburg-mark-event-2907840",
+      "title": "DRK-Spielrunde - Kaffee und Kartenspiel für Senior:innen",
+      "url": "https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/12/02/drk-spielrunde-kaffee-und-kartenspiel-fuer-senior-innen",
+      "startDate": "2026-12-02T00:00:00.000Z",
+      "fetchedAt": "2026-05-31T13:17:27.492Z",
+      "updatedAt": "2026-11-26T12:46:58.067Z"
     },
     {
       "id": "wiesenburg-mark-event-2907847",

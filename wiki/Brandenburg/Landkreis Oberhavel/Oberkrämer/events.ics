@@ -1220,15 +1220,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2986779/2026/11/22/offenes
  -haus
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855698@amtsfeed.de
-DTSTAMP:20261119T114911Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Kartenfreunde Schwante
-URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/11/25/kartenf
- reunde-schwante
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2962224@amtsfeed.de
 DTSTAMP:20261028T094920Z
 DTSTART;VALUE=DATE:20261125
@@ -1487,6 +1478,24 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Eichstädter Adventsfenster
 URL:https://www.oberkraemer.de/veranstaltungen/3011784/2026/12/01/eichsta
  edter-adventsfenster
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-3014566@amtsfeed.de
+DTSTAMP:20261126T124506Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Bärenklauer Adventsfenster
+URL:https://www.oberkraemer.de/veranstaltungen/3014566/2026/12/01/baerenk
+ lauer-adventsfenster
+END:VEVENT
+BEGIN:VEVENT
+UID:oberkraemer-event-2855698@amtsfeed.de
+DTSTAMP:20261126T124506Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Kartenfreunde Schwante
+URL:https://www.oberkraemer.de/veranstaltungen/2855698/2026/12/02/kartenf
+ reunde-schwante
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2935373@amtsfeed.de

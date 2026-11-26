@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T12:59:47.862Z",
+  "updatedAt": "2026-11-26T12:39:47.405Z",
   "items": [
     {
       "id": "artikel-elternseminar_trotzende_kleinkinder_sind_wie_kleine_neandertaler",
@@ -1737,15 +1737,6 @@
       "updatedAt": "2026-10-27T09:02:47.970Z"
     },
     {
-      "id": "artikel-offene_kaffeerunde",
-      "title": "Offene Kaffeerunde",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-offene_kaffeerunde-2026-10-29.html",
-      "startDate": "2026-10-29T14:30:00.000Z",
-      "location": "AWO-Treff",
-      "fetchedAt": "2026-09-24T08:30:13.088Z",
-      "updatedAt": "2026-10-29T10:01:39.965Z"
-    },
-    {
       "id": "artikel-the_joni_project_bernauer_kulturherbst",
       "title": "The Joni Project | Bernauer Kulturherbst",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-the_joni_project_bernauer_kulturherbst-2026-10-29.html",
@@ -1780,15 +1771,6 @@
       "location": "Schule im Nibelungenviertel",
       "fetchedAt": "2026-10-18T08:04:35.759Z",
       "updatedAt": "2026-10-30T10:04:41.643Z"
-    },
-    {
-      "id": "artikel-literaturcaf_mit_sylvia_pyrlik",
-      "title": "LiteraturCafé mit Sylvia Pyrlik",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-literaturcaf_mit_sylvia_pyrlik-2026-10-30.html",
-      "startDate": "2026-10-30T15:00:00.000Z",
-      "location": "Urania Barnim e. V.",
-      "fetchedAt": "2026-10-29T10:01:39.965Z",
-      "updatedAt": "2026-10-29T10:01:39.965Z"
     },
     {
       "id": "artikel-offene_gruppe_fuer_an-_und_zugehoerige_von_menschen_mit_demenz",
@@ -2869,47 +2851,11 @@
       "updatedAt": "2026-11-18T11:47:08.210Z"
     },
     {
-      "id": "artikel-seniorensport_im_kneipp-zentrum",
-      "title": "Seniorensport im Kneipp-Zentrum",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-seniorensport_im_kneipp-zentrum-2026-11-19.html",
-      "startDate": "2026-11-19T14:30:00.000Z",
-      "location": "Kneipp-Zentrum Bernau",
-      "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
       "id": "artikel-demenz_caf_fuer_menschen_mit_demenz_und_ihre_an-_und_zugehoerigen",
       "title": "Demenz Café für Menschen mit Demenz und ihre An- und Zugehörigen",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-demenz_caf_fuer_menschen_mit_demenz_und_ihre_an-_und_zugehoerigen-2026-11-19.html",
       "startDate": "2026-11-19T15:00:00.000Z",
       "location": "Gemeindezentrum Evangelische Kirchengemeinde Bernau",
-      "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-frakimas_filzwerkstatt_i_fuer_erwachsene",
-      "title": "FRAKIMAs Filzwerkstatt I für Erwachsene",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_filzwerkstatt_i_fuer_erwachsene-2026-11-19.html",
-      "startDate": "2026-11-19T15:30:00.000Z",
-      "location": "FRAKIMA-Werkstatt",
-      "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-frakimas_plastik-und_keramikwerkstatt_am_donnerstagnachmittag",
-      "title": "FRAKIMAs Plastik-und Keramikwerkstatt | am Donnerstagnachmittag",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_plastik-und_keramikwerkstatt_am_donnerstagnachmittag-2026-11-19.html",
-      "startDate": "2026-11-19T15:30:00.000Z",
-      "location": "Frakima Werkstatt",
-      "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-arthrosegymnastik_im_kneipp-zentrum",
-      "title": "Arthrosegymnastik im Kneipp-Zentrum",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-arthrosegymnastik_im_kneipp-zentrum-2026-11-19.html",
-      "startDate": "2026-11-19T15:30:00.000Z",
-      "location": "Kneipp-Zentrum Bernau",
       "fetchedAt": "2026-09-17T08:41:56.111Z",
       "updatedAt": "2026-11-19T11:44:22.957Z"
     },
@@ -2921,96 +2867,6 @@
       "location": "Bürgersaal, Neues Rathaus",
       "fetchedAt": "2026-10-13T10:39:33.163Z",
       "updatedAt": "2026-11-18T11:47:08.210Z"
-    },
-    {
-      "id": "artikel-frakimas_filzwerkstatt_ii_fuer_erwachsene",
-      "title": "FRAKIMAs Filzwerkstatt II  für Erwachsene",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_filzwerkstatt_ii_fuer_erwachsene-2026-11-19.html",
-      "startDate": "2026-11-19T17:30:00.000Z",
-      "location": "Frakima Werkstatt",
-      "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-frakimas_plastik-und_keramikwerkstatt_am_donnerstagabend",
-      "title": "FRAKIMAs Plastik-und Keramikwerkstatt | am Donnerstagabend",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_plastik-und_keramikwerkstatt_am_donnerstagabend-2026-11-19.html",
-      "startDate": "2026-11-19T18:00:00.000Z",
-      "location": "Frakima Werkstatt",
-      "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-tai_chi_24er_yangstil_pekingform_anfaengerinnen_und_anfaenger",
-      "title": "Tai Chi 24er Yangstil (Pekingform) Anfängerinnen und Anfänger",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-tai_chi_24er_yangstil_pekingform_anfaengerinnen_und_anfaenger-2026-11-19.html",
-      "startDate": "2026-11-19T18:00:00.000Z",
-      "location": "Schule im Nibelungenviertel",
-      "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-tai_chi_24er_yangstil_pekingform_fuer_anfaenger-_innen_mit_vorwissen_stufe_1-2",
-      "title": "Tai Chi 24er Yangstil (Pekingform) für Anfänger-/innen mit Vorwissen (Stufe 1-2)",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-tai_chi_24er_yangstil_pekingform_fuer_anfaenger-_innen_mit_vorwissen_stufe_1-2-2026-11-19.html",
-      "startDate": "2026-11-19T18:00:00.000Z",
-      "location": "Schule im Nibelungenviertel",
-      "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-einfuehrung_in_die_abstrakte_malerei",
-      "title": "Einführung in die abstrakte Malerei",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-einfuehrung_in_die_abstrakte_malerei-2026-11-19.html",
-      "startDate": "2026-11-19T18:00:00.000Z",
-      "location": "Schule im Nibelungenviertel",
-      "fetchedAt": "2026-10-08T10:38:31.344Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-vinyasa_yin_yoga",
-      "title": "Vinyasa & Yin Yoga",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-vinyasa_yin_yoga-2026-11-19.html",
-      "startDate": "2026-11-19T18:00:00.000Z",
-      "location": "Wohlklang Zentrum",
-      "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-meditation",
-      "title": "Meditation",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-meditation-2026-11-19.html",
-      "startDate": "2026-11-19T19:30:00.000Z",
-      "location": "Yogaraum",
-      "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-tai_chi_24er_yangstil_fortgeschrittene_stufe_3_4_tai_chi_42er_form_stufe_1_2_grundtechniken",
-      "title": "Tai Chi 24er Yangstil (Fortgeschrittene, Stufe 3–4) / Tai Chi 42er Form (Stufe 1–2) / Grundtechniken",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-tai_chi_24er_yangstil_fortgeschrittene_stufe_3_4_tai_chi_42er_form_stufe_1_2_grundtechniken-2026-11-19.html",
-      "startDate": "2026-11-19T19:30:00.000Z",
-      "location": "Schule im Nibelungenviertel",
-      "fetchedAt": "2026-09-17T08:41:56.111Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-qi-gong_im_kneipp-zentrum",
-      "title": "Qi-Gong im Kneipp-Zentrum",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-qi-gong_im_kneipp-zentrum-2026-11-20.html",
-      "startDate": "2026-11-20T09:00:00.000Z",
-      "location": "Kneipp-Zentrum Bernau",
-      "fetchedAt": "2026-09-18T08:17:33.091Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
-    },
-    {
-      "id": "artikel-bewegung_im_einklang_aktiv_entspannt_im_pflegealltag",
-      "title": "Bewegung im Einklang – Aktiv & Entspannt im Pflegealltag",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-bewegung_im_einklang_aktiv_entspannt_im_pflegealltag-2026-11-20.html",
-      "startDate": "2026-11-20T10:00:00.000Z",
-      "location": "Aufwind - Begegnung und Beratung",
-      "fetchedAt": "2026-09-18T08:17:33.091Z",
-      "updatedAt": "2026-11-19T11:44:22.957Z"
     },
     {
       "id": "artikel-rueckenpraevention_theorie_und_praxis_fuer_alltag_beruf_-_bildungszeit",
@@ -3121,15 +2977,6 @@
       "updatedAt": "2026-11-20T11:44:36.249Z"
     },
     {
-      "id": "artikel-bernauer_weihnachtslos_2026_-_das_weihnachtslos_fuer_den_guten_zweck",
-      "title": "Bernauer Weihnachtslos 2026 - Das Weihnachtslos für den guten Zweck",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-bernauer_weihnachtslos_2026_-_das_weihnachtslos_fuer_den_guten_zweck-2026-11-21.html",
-      "startDate": "2026-11-21T00:00:00.000Z",
-      "location": "Bernau bei Berlin",
-      "fetchedAt": "2026-10-31T09:41:34.235Z",
-      "updatedAt": "2026-11-20T11:44:36.249Z"
-    },
-    {
       "id": "artikel-pflegeeinsatz_in_der_schoenower_heide",
       "title": "Pflegeeinsatz in der Schönower Heide",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-pflegeeinsatz_in_der_schoenower_heide-2026-11-21.html",
@@ -3145,15 +2992,6 @@
       "startDate": "2026-11-21T10:00:00.000Z",
       "location": "Dorfkirche Börnicke",
       "fetchedAt": "2026-09-19T08:05:49.339Z",
-      "updatedAt": "2026-11-20T11:44:36.249Z"
-    },
-    {
-      "id": "artikel-ausstellung_grenzverschiebungen",
-      "title": "Ausstellung „Grenzverschiebungen\"",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ausstellung_grenzverschiebungen-2026-11-21.html",
-      "startDate": "2026-11-21T10:00:00.000Z",
-      "location": "Galerie Bernau",
-      "fetchedAt": "2026-10-16T08:13:53.096Z",
       "updatedAt": "2026-11-20T11:44:36.249Z"
     },
     {
@@ -3605,30 +3443,12 @@
       "updatedAt": "2026-11-23T12:50:33.270Z"
     },
     {
-      "id": "artikel-museum_im_henkerhaus",
-      "title": "Museum im Henkerhaus",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-museum_im_henkerhaus-2026-11-24.html",
-      "startDate": "2026-11-24T09:00:00.000Z",
-      "location": "Museum im Henkerhaus",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-11-23T12:50:33.270Z"
-    },
-    {
       "id": "artikel-elternzeitcaf_krabbelgruppe_mit_einer_hebamme_des_immanuel_klinikum_bernau",
       "title": "ElternZeitCafé / Krabbelgruppe mit einer Hebamme des Immanuel Klinikum Bernau",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-elternzeitcaf_krabbelgruppe_mit_einer_hebamme_des_immanuel_klinikum_bernau-2026-11-24.html",
       "startDate": "2026-11-24T10:00:00.000Z",
       "location": "Netzwerk Gesunde Kinder Barnim Süd",
       "fetchedAt": "2026-09-22T08:35:14.261Z",
-      "updatedAt": "2026-11-23T12:50:33.270Z"
-    },
-    {
-      "id": "artikel-bernau_liest_ein_buch_ausstellung_schlaf_gut",
-      "title": "„Bernau liest ein Buch\" | Ausstellung „Schlaf gut“",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-bernau_liest_ein_buch_ausstellung_schlaf_gut-2026-11-24.html",
-      "startDate": "2026-11-24T10:00:00.000Z",
-      "location": "Treff 23, Saal 1",
-      "fetchedAt": "2026-11-20T11:44:36.249Z",
       "updatedAt": "2026-11-23T12:50:33.270Z"
     },
     {
@@ -3920,15 +3740,6 @@
       "updatedAt": "2026-11-25T12:59:47.859Z"
     },
     {
-      "id": "artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum",
-      "title": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-11-25.html",
-      "startDate": "2026-11-25T15:00:00.000Z",
-      "location": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-11-25T12:59:47.859Z"
-    },
-    {
       "id": "artikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischluft",
       "title": "Gitarrenkurse für Kinder und Jugendliche im Jugendzentrum Frischluft",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-gitarrenkurse_fuer_kinder_und_jugendliche_im_jugendzentrum_frischluft-2026-11-25.html",
@@ -4145,15 +3956,6 @@
       "updatedAt": "2026-11-25T12:59:47.859Z"
     },
     {
-      "id": "artikel-dauerausstellung_im_besucherzentrum_bernau",
-      "title": "Dauerausstellung im Besucherzentrum Bernau",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-dauerausstellung_im_besucherzentrum_bernau-2026-11-26.html",
-      "startDate": "2026-11-26T11:00:00.000Z",
-      "location": "UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau",
-      "fetchedAt": "2026-05-05T17:21:19.746Z",
-      "updatedAt": "2026-11-25T12:59:47.859Z"
-    },
-    {
       "id": "artikel-holzwerken_im_yellow",
       "title": "Holzwerken im Yellow",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-holzwerken_im_yellow-2026-11-26.html",
@@ -4181,13 +3983,58 @@
       "updatedAt": "2026-11-25T12:59:47.859Z"
     },
     {
-      "id": "artikel-eisbahn_zum_bernauer_weihnachtsmarkt",
-      "title": "Eisbahn zum Bernauer Weihnachtsmarkt",
-      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-eisbahn_zum_bernauer_weihnachtsmarkt-2026-11-26.html",
-      "startDate": "2026-11-26T14:00:00.000Z",
-      "location": "Marktplatz Bernau",
-      "fetchedAt": "2026-11-23T12:50:33.270Z",
-      "updatedAt": "2026-11-25T12:59:47.859Z"
+      "id": "artikel-offene_kaffeerunde",
+      "title": "Offene Kaffeerunde",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-offene_kaffeerunde-2026-11-26.html",
+      "startDate": "2026-11-26T14:30:00.000Z",
+      "location": "AWO-Treff",
+      "fetchedAt": "2026-09-24T08:30:13.088Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-seniorensport_im_kneipp-zentrum",
+      "title": "Seniorensport im Kneipp-Zentrum",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-seniorensport_im_kneipp-zentrum-2026-11-26.html",
+      "startDate": "2026-11-26T14:30:00.000Z",
+      "location": "Kneipp-Zentrum Bernau",
+      "fetchedAt": "2026-09-17T08:41:56.111Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum",
+      "title": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-wolf_kahlen_museum_bernau_-_intermedia_arts_museum-2026-11-26.html",
+      "startDate": "2026-11-26T15:00:00.000Z",
+      "location": "Wolf Kahlen Museum Bernau - Intermedia Arts Museum",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-frakimas_filzwerkstatt_i_fuer_erwachsene",
+      "title": "FRAKIMAs Filzwerkstatt I für Erwachsene",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_filzwerkstatt_i_fuer_erwachsene-2026-11-26.html",
+      "startDate": "2026-11-26T15:30:00.000Z",
+      "location": "FRAKIMA-Werkstatt",
+      "fetchedAt": "2026-09-17T08:41:56.111Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-frakimas_plastik-und_keramikwerkstatt_am_donnerstagnachmittag",
+      "title": "FRAKIMAs Plastik-und Keramikwerkstatt | am Donnerstagnachmittag",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_plastik-und_keramikwerkstatt_am_donnerstagnachmittag-2026-11-26.html",
+      "startDate": "2026-11-26T15:30:00.000Z",
+      "location": "Frakima Werkstatt",
+      "fetchedAt": "2026-09-17T08:41:56.111Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-arthrosegymnastik_im_kneipp-zentrum",
+      "title": "Arthrosegymnastik im Kneipp-Zentrum",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-arthrosegymnastik_im_kneipp-zentrum-2026-11-26.html",
+      "startDate": "2026-11-26T15:30:00.000Z",
+      "location": "Kneipp-Zentrum Bernau",
+      "fetchedAt": "2026-09-17T08:41:56.111Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
     },
     {
       "id": "artikel-die_wichtel_sind_los_einen_wichtel_naehen",
@@ -4199,6 +4046,15 @@
       "updatedAt": "2026-11-25T12:59:47.859Z"
     },
     {
+      "id": "artikel-frakimas_filzwerkstatt_ii_fuer_erwachsene",
+      "title": "FRAKIMAs Filzwerkstatt II  für Erwachsene",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_filzwerkstatt_ii_fuer_erwachsene-2026-11-26.html",
+      "startDate": "2026-11-26T17:30:00.000Z",
+      "location": "Frakima Werkstatt",
+      "fetchedAt": "2026-09-17T08:41:56.111Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
       "id": "artikel-adventskonzert_der_musikschule_barnim",
       "title": "Adventskonzert der Musikschule Barnim",
       "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-adventskonzert_der_musikschule_barnim-2026-11-26.html",
@@ -4206,6 +4062,195 @@
       "location": "Aula des Paulus-Praetorius-Gymnasium",
       "fetchedAt": "2026-11-25T12:59:47.859Z",
       "updatedAt": "2026-11-25T12:59:47.859Z"
+    },
+    {
+      "id": "artikel-frakimas_plastik-und_keramikwerkstatt_am_donnerstagabend",
+      "title": "FRAKIMAs Plastik-und Keramikwerkstatt | am Donnerstagabend",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-frakimas_plastik-und_keramikwerkstatt_am_donnerstagabend-2026-11-26.html",
+      "startDate": "2026-11-26T18:00:00.000Z",
+      "location": "Frakima Werkstatt",
+      "fetchedAt": "2026-09-17T08:41:56.111Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-tai_chi_24er_yangstil_pekingform_anfaengerinnen_und_anfaenger",
+      "title": "Tai Chi 24er Yangstil (Pekingform) Anfängerinnen und Anfänger",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-tai_chi_24er_yangstil_pekingform_anfaengerinnen_und_anfaenger-2026-11-26.html",
+      "startDate": "2026-11-26T18:00:00.000Z",
+      "location": "Schule im Nibelungenviertel",
+      "fetchedAt": "2026-09-17T08:41:56.111Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-tai_chi_24er_yangstil_pekingform_fuer_anfaenger-_innen_mit_vorwissen_stufe_1-2",
+      "title": "Tai Chi 24er Yangstil (Pekingform) für Anfänger-/innen mit Vorwissen (Stufe 1-2)",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-tai_chi_24er_yangstil_pekingform_fuer_anfaenger-_innen_mit_vorwissen_stufe_1-2-2026-11-26.html",
+      "startDate": "2026-11-26T18:00:00.000Z",
+      "location": "Schule im Nibelungenviertel",
+      "fetchedAt": "2026-09-17T08:41:56.111Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-einfuehrung_in_die_abstrakte_malerei",
+      "title": "Einführung in die abstrakte Malerei",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-einfuehrung_in_die_abstrakte_malerei-2026-11-26.html",
+      "startDate": "2026-11-26T18:00:00.000Z",
+      "location": "Schule im Nibelungenviertel",
+      "fetchedAt": "2026-10-08T10:38:31.344Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-vinyasa_yin_yoga",
+      "title": "Vinyasa & Yin Yoga",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-vinyasa_yin_yoga-2026-11-26.html",
+      "startDate": "2026-11-26T18:00:00.000Z",
+      "location": "Wohlklang Zentrum",
+      "fetchedAt": "2026-09-17T08:41:56.111Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-meditation",
+      "title": "Meditation",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-meditation-2026-11-26.html",
+      "startDate": "2026-11-26T19:30:00.000Z",
+      "location": "Yogaraum",
+      "fetchedAt": "2026-09-17T08:41:56.111Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-tai_chi_24er_yangstil_fortgeschrittene_stufe_3_4_tai_chi_42er_form_stufe_1_2_grundtechniken",
+      "title": "Tai Chi 24er Yangstil (Fortgeschrittene, Stufe 3–4) / Tai Chi 42er Form (Stufe 1–2) / Grundtechniken",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-tai_chi_24er_yangstil_fortgeschrittene_stufe_3_4_tai_chi_42er_form_stufe_1_2_grundtechniken-2026-11-26.html",
+      "startDate": "2026-11-26T19:30:00.000Z",
+      "location": "Schule im Nibelungenviertel",
+      "fetchedAt": "2026-09-17T08:41:56.111Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-bernauer_weihnachtslos_2026_-_das_weihnachtslos_fuer_den_guten_zweck",
+      "title": "Bernauer Weihnachtslos 2026 - Das Weihnachtslos für den guten Zweck",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-bernauer_weihnachtslos_2026_-_das_weihnachtslos_fuer_den_guten_zweck-2026-11-27.html",
+      "startDate": "2026-11-27T00:00:00.000Z",
+      "location": "Bernau bei Berlin",
+      "fetchedAt": "2026-10-31T09:41:34.235Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-qi-gong_im_kneipp-zentrum",
+      "title": "Qi-Gong im Kneipp-Zentrum",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-qi-gong_im_kneipp-zentrum-2026-11-27.html",
+      "startDate": "2026-11-27T09:00:00.000Z",
+      "location": "Kneipp-Zentrum Bernau",
+      "fetchedAt": "2026-09-18T08:17:33.091Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-museum_im_henkerhaus",
+      "title": "Museum im Henkerhaus",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-museum_im_henkerhaus-2026-11-27.html",
+      "startDate": "2026-11-27T09:00:00.000Z",
+      "location": "Museum im Henkerhaus",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-kurzwanderung_zum_adventsmarkt_lobetal_ca_8_km",
+      "title": "Kurzwanderung zum Adventsmarkt Lobetal | ca. 8 km",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-kurzwanderung_zum_adventsmarkt_lobetal_ca_8_km-2026-11-27.html",
+      "startDate": "2026-11-27T09:05:00.000Z",
+      "location": "Treffpunkt: Bahnhof Bernau",
+      "fetchedAt": "2026-11-26T12:39:47.402Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-bewegung_im_einklang_aktiv_entspannt_im_pflegealltag",
+      "title": "Bewegung im Einklang – Aktiv & Entspannt im Pflegealltag",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-bewegung_im_einklang_aktiv_entspannt_im_pflegealltag-2026-11-27.html",
+      "startDate": "2026-11-27T10:00:00.000Z",
+      "location": "Aufwind - Begegnung und Beratung",
+      "fetchedAt": "2026-09-18T08:17:33.091Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-ausstellung_grenzverschiebungen",
+      "title": "Ausstellung „Grenzverschiebungen\"",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-ausstellung_grenzverschiebungen-2026-11-27.html",
+      "startDate": "2026-11-27T10:00:00.000Z",
+      "location": "Galerie Bernau",
+      "fetchedAt": "2026-10-16T08:13:53.096Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-bernau_liest_ein_buch_ausstellung_schlaf_gut",
+      "title": "„Bernau liest ein Buch\" | Ausstellung „Schlaf gut“",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-bernau_liest_ein_buch_ausstellung_schlaf_gut-2026-11-27.html",
+      "startDate": "2026-11-27T10:00:00.000Z",
+      "location": "Treff 23, Saal 1",
+      "fetchedAt": "2026-11-20T11:44:36.249Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-advents-_und_weihnachtsmarkt_lobetal",
+      "title": "Advents- und Weihnachtsmarkt Lobetal",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-advents-_und_weihnachtsmarkt_lobetal-2026-11-27.html",
+      "startDate": "2026-11-27T10:00:00.000Z",
+      "location": "Verein Alte Schmiede Lobetal e. V.",
+      "fetchedAt": "2026-11-26T12:39:47.402Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-dauerausstellung_im_besucherzentrum_bernau",
+      "title": "Dauerausstellung im Besucherzentrum Bernau",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-dauerausstellung_im_besucherzentrum_bernau-2026-11-27.html",
+      "startDate": "2026-11-27T11:00:00.000Z",
+      "location": "UNESCO-Welterbe Bauhaus. Besucherzentrum Bernau",
+      "fetchedAt": "2026-05-05T17:21:19.746Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-eisbahn_zum_bernauer_weihnachtsmarkt",
+      "title": "Eisbahn zum Bernauer Weihnachtsmarkt",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-eisbahn_zum_bernauer_weihnachtsmarkt-2026-11-27.html",
+      "startDate": "2026-11-27T14:00:00.000Z",
+      "location": "Marktplatz Bernau",
+      "fetchedAt": "2026-11-23T12:50:33.270Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-traditioneller_weihnachtsmarkt_auf_dem_gut_leben",
+      "title": "Traditioneller Weihnachtsmarkt auf dem Gut Leben",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-traditioneller_weihnachtsmarkt_auf_dem_gut_leben-2026-11-27.html",
+      "startDate": "2026-11-27T14:00:00.000Z",
+      "location": "Gut Leben Landresort",
+      "fetchedAt": "2026-11-26T12:39:47.402Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-literaturcaf_mit_sylvia_pyrlik",
+      "title": "LiteraturCafé mit Sylvia Pyrlik",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-literaturcaf_mit_sylvia_pyrlik-2026-11-27.html",
+      "startDate": "2026-11-27T15:00:00.000Z",
+      "location": "Urania Barnim e. V.",
+      "fetchedAt": "2026-10-29T10:01:39.965Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-lichterfest_und_wohnzimmerkonzert_im_yellow",
+      "title": "Lichterfest und Wohnzimmerkonzert im Yellow",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-lichterfest_und_wohnzimmerkonzert_im_yellow-2026-11-27.html",
+      "startDate": "2026-11-27T15:00:00.000Z",
+      "location": "Freizeithaus Yellow des HVD Nordbrandenburg KdöR",
+      "fetchedAt": "2026-11-26T12:39:47.402Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
+    },
+    {
+      "id": "artikel-lesebuehne_mit_tim_kempert_co",
+      "title": "Lesebühne mit Tim Kempert & Co",
+      "url": "https://www.bernau.de/de/rathaus-service/aktuelles/veranstaltungen/artikel-lesebuehne_mit_tim_kempert_co-2026-11-27.html",
+      "startDate": "2026-11-27T18:30:00.000Z",
+      "location": "Galerie Bernau",
+      "fetchedAt": "2026-11-26T12:39:47.402Z",
+      "updatedAt": "2026-11-26T12:39:47.402Z"
     }
   ]
 }

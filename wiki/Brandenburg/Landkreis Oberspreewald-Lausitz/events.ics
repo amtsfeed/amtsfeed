@@ -9164,6 +9164,16 @@ URL:https://www.osl-online.de/veranstaltungen/2124475/2026/11/24/chorprob
 LOCATION:Aula in der Oberschule "Am Wehlenteich"
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-3014606-20261125@amtsfeed.de
+DTSTAMP:20261126T124537Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Aufruf zur Teilnahme = 6. Kunst Raum (K) Calau
+URL:https://www.osl-online.de/veranstaltungen/3014606/2026/11/25/aufruf-z
+ ur-teilnahme--6.-kunst-raum-k-calau
+LOCATION:Calauer Info - Punkt
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-2954022-20261125@amtsfeed.de
 DTSTAMP:20261028T095001Z
 DTSTART:20261125T090000Z
@@ -16427,5 +16437,15 @@ SUMMARY:Behinderten- und Seniorenberatung
 URL:https://www.osl-online.de/veranstaltungen/2124494/2027/11/25/behinder
  ten-und-seniorenberatung
 LOCATION:Mehrgenerationenhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2918359-20271126@amtsfeed.de
+DTSTAMP:20261126T124537Z
+DTSTART:20271126T100000Z
+DTEND:20271126T120000Z
+SUMMARY:Gruppentreffen Selbsthilfegruppe Multiple Sklerose
+URL:https://www.osl-online.de/veranstaltungen/2918359/2027/11/26/gruppent
+ reffen-selbsthilfegruppe-multiple-sklerose
+LOCATION:REKOSI
 END:VEVENT
 END:VCALENDAR

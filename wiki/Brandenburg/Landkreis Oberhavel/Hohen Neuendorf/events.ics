@@ -908,15 +908,6 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  rendez-vous-au-centre-bagatelle-mit-ulli-zelle-u-andre-herzberg
 END:VEVENT
 BEGIN:VEVENT
-UID:hohen-neuendorf-event-seniorenlotse-hohen-neuendorf@amtsfeed.de
-DTSTAMP:20261110T112208Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Seniorenlotse Hohen Neuendorf
-URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
- seniorenlotse-hohen-neuendorf
-END:VEVENT
-BEGIN:VEVENT
 UID:hohen-neuendorf-event-5-klassik-musikfest-tag-1-liederabend-mit-elisa
  beth-starzinger@amtsfeed.de
 DTSTAMP:20261111T110740Z
@@ -1120,6 +1111,15 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  cavacult-lesung-mit-martin-woitke
 END:VEVENT
 BEGIN:VEVENT
+UID:hohen-neuendorf-event-seniorenlotse-hohen-neuendorf@amtsfeed.de
+DTSTAMP:20261126T124456Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Seniorenlotse Hohen Neuendorf
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ seniorenlotse-hohen-neuendorf
+END:VEVENT
+BEGIN:VEVENT
 UID:hohen-neuendorf-event-infoabend-zum-thema-fruhkindliche-reflexe@amtsf
  eed.de
 DTSTAMP:20261124T135306Z
@@ -1137,5 +1137,25 @@ DTEND;VALUE=DATE:20261128
 SUMMARY:Weihnachtlicher Filmnachmittag
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  weihnachtlicher-filmnachmittag
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-schulte-popov-heimliche-aufforderung@amtsfeed.d
+ e
+DTSTAMP:20261126T124456Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:SCHULTE & POPOV - Heimliche Aufforderung
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ schulte-popov-heimliche-aufforderung
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-vernetzungstreffen-fur-alleinerziehende-und-ihr
+ e-kinder-4@amtsfeed.de
+DTSTAMP:20261126T124456Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Vernetzungstreffen für Alleinerziehende und ihre Kinder
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ vernetzungstreffen-fur-alleinerziehende-und-ihre-kinder-4
 END:VEVENT
 END:VCALENDAR

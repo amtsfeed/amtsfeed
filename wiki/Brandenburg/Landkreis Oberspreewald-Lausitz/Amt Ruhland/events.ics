@@ -1001,6 +1001,16 @@ DESCRIPTION:Schlagworte: Grünewald
 LOCATION:Glockenturm in Sella/Grünewald
 END:VEVENT
 BEGIN:VEVENT
+UID:ruhland-event-7561@amtsfeed.de
+DTSTAMP:20261126T124520Z
+DTSTART:20261211T143000Z
+DTEND:20261211T183000Z
+SUMMARY:Blutspende-Aktion
+URL:https://www.amt-ruhland.de/veranstaltungen/
+DESCRIPTION:Schlagworte: Ruhland
+LOCATION:Geschwister-Scholle-Oberschule Ruhland
+END:VEVENT
+BEGIN:VEVENT
 UID:ruhland-event-6199@amtsfeed.de
 DTSTAMP:20260911T111227Z
 DTSTART:20261212T180000Z
@@ -1011,9 +1021,9 @@ LOCATION:Kulturhaus der BASF Schwarzheide
 END:VEVENT
 BEGIN:VEVENT
 UID:ruhland-event-7534@amtsfeed.de
-DTSTAMP:20261123T125623Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261215
+DTSTAMP:20261126T124520Z
+DTSTART:20261213T140000Z
+DTEND:20261214T135900Z
 SUMMARY:Weihnachtsmarkt in Grünewald
 URL:https://www.amt-ruhland.de/veranstaltungen/
 DESCRIPTION:Schlagworte: Grünewald

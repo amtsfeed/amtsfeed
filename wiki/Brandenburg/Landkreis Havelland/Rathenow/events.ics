@@ -2252,6 +2252,17 @@ URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
 LOCATION:Kirche Ferchesar
 END:VEVENT
 BEGIN:VEVENT
+UID:rathenow-event-1859-20261206@amtsfeed.de
+DTSTAMP:20261126T124146Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Europa-Matinée: À la carte! – Freiheit geht durch den Magen
+URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
+ events-im-ueberblick/veranstaltung/detail/europa-matinee-a-la-carte-freih
+ eit-geht-durch-den-magen/
+LOCATION:Haveltorkino Rathenow
+END:VEVENT
+BEGIN:VEVENT
 UID:rathenow-event-1843-20261209@amtsfeed.de
 DTSTAMP:20261119T114629Z
 DTSTART;VALUE=DATE:20261209
@@ -2458,13 +2469,13 @@ LOCATION:HavelSalon Rathenow Milower Landstraße 7
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1796-20270116@amtsfeed.de
-DTSTAMP:20261023T083904Z
+DTSTAMP:20261126T124146Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Seniorensitzung des RCC
 URL:https://www.rathenow.de/kultur-tourismus/veranstaltungskalender/alle-
  events-im-ueberblick/veranstaltung/detail/seniorensitzung-des-rcc-1/
-LOCATION:Kulturzentrum o. Havellandhalle
+LOCATION:Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:rathenow-event-1797-20270117@amtsfeed.de

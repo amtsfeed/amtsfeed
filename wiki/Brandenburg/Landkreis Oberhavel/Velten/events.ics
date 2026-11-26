@@ -1516,6 +1516,26 @@ URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Famili
  =3631.1262.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
 END:VEVENT
 BEGIN:VEVENT
+UID:velten-event-1264@amtsfeed.de
+DTSTAMP:20261126T124511Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Weihnachtskonzert Voce libera
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Weihna
+ chtskonzert-Voce-libera.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=36
+ 31.1264.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1265@amtsfeed.de
+DTSTAMP:20261126T124511Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Weihnachtskonzert Voce libera
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Weihna
+ chtskonzert-Voce-libera.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=36
+ 31.1265.1&amp\;NavID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
 UID:velten-event-1036@amtsfeed.de
 DTSTAMP:20261119T114916Z
 DTSTART;VALUE=DATE:20261223
@@ -1565,5 +1585,16 @@ SUMMARY:Wochenmarkt
 URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/Wochen
  markt.php?object=tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1039.1&amp\;Nav
  ID=3631.15&amp\;sfreg=1&amp\;sfort=1
+END:VEVENT
+BEGIN:VEVENT
+UID:velten-event-1200@amtsfeed.de
+DTSTAMP:20261126T124511Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:16. Sitzung des Ausschusses für Soziales und Bürgerservice
+URL:https://velten.de/Verwaltung-Politik/Aktuelles/Veranstaltungen/16-Sit
+ zung-des-Ausschusses-f%C3%BCr-Soziales-und-B%C3%BCrgerservice.php?object=
+ tx\,3631.4.1&amp\;ModID=11&amp\;FID=3631.1200.1&amp\;NavID=3631.15&amp\;s
+ freg=1&amp\;sfort=1
 END:VEVENT
 END:VCALENDAR

@@ -1339,6 +1339,24 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2830000/2026/12/13/we
  ihnachtsevent-hirschfeld
 END:VEVENT
 BEGIN:VEVENT
+UID:3015127@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015127/2026/12/13/go
+ ttesdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:3015131@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015131/2026/12/17/go
+ ttesdienst
+END:VEVENT
+BEGIN:VEVENT
 UID:2830005@amtsfeed.de
 DTSTAMP:20261028T094412Z
 DTSTART;VALUE=DATE:20261220
@@ -1357,6 +1375,42 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2830002/2026/12/20/3-
  gluehwein-fuer-aschenbroedel
 END:VEVENT
 BEGIN:VEVENT
+UID:3015133@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015133/2026/12/20/go
+ ttesdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:3015135@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015135/2026/12/24/go
+ ttesdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:3015137@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015137/2026/12/24/go
+ ttesdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:3015141@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015141/2026/12/25/go
+ ttesdienst
+END:VEVENT
+BEGIN:VEVENT
 UID:2830007@amtsfeed.de
 DTSTAMP:20261028T094412Z
 DTSTART;VALUE=DATE:20261227
@@ -1364,6 +1418,15 @@ DTEND;VALUE=DATE:20261228
 SUMMARY:Karpfenkegeln
 URL:https://www.amt-schradenland.de/veranstaltungen/2830007/2026/12/27/ka
  rpfenkegeln
+END:VEVENT
+BEGIN:VEVENT
+UID:3015145@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Konzert Orgel & Saxophon
+URL:https://www.amt-schradenland.de/veranstaltungen/3015145/2026/12/28/ko
+ nzert-orgel-saxophon
 END:VEVENT
 BEGIN:VEVENT
 UID:2830006@amtsfeed.de
@@ -1375,6 +1438,60 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2830006/2026/12/30/sk
  atturnier
 END:VEVENT
 BEGIN:VEVENT
+UID:3015147@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015147/2026/12/31/go
+ ttesdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:3015165@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Taize Andacht
+URL:https://www.amt-schradenland.de/veranstaltungen/3015165/2027/01/08/ta
+ ize-andacht
+END:VEVENT
+BEGIN:VEVENT
+UID:3015150@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015150/2027/01/10/go
+ ttesdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:3015153@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015153/2027/01/24/go
+ ttesdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:3015156@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015156/2027/02/07/go
+ ttesdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:3015167@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Bibelwoche
+URL:https://www.amt-schradenland.de/veranstaltungen/3015167/2027/02/17/bi
+ belwoche
+END:VEVENT
+BEGIN:VEVENT
 UID:3001243@amtsfeed.de
 DTSTAMP:20261110T111744Z
 DTSTART;VALUE=DATE:20270218
@@ -1382,5 +1499,32 @@ DTEND;VALUE=DATE:20270219
 SUMMARY:Treffen Vorbereitung 650 Jahre Gröden
 URL:https://www.amt-schradenland.de/veranstaltungen/3001243/2027/02/18/tr
  effen-vorbereitung-650-jahre-groeden
+END:VEVENT
+BEGIN:VEVENT
+UID:3015168@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Bibelwoche
+URL:https://www.amt-schradenland.de/veranstaltungen/3015168/2027/02/18/bi
+ belwoche
+END:VEVENT
+BEGIN:VEVENT
+UID:3015162@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015162/2027/02/21/go
+ ttesdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:3015163@amtsfeed.de
+DTSTAMP:20261126T124055Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Gottesdienst
+URL:https://www.amt-schradenland.de/veranstaltungen/3015163/2027/03/08/go
+ ttesdienst
 END:VEVENT
 END:VCALENDAR

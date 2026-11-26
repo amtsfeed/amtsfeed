@@ -713,4 +713,25 @@ URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/3-Boxing-Fight-
  890.1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&a
  mp\;max=9&amp\;k_sub=1
 END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-877@amtsfeed.de
+DTSTAMP:20261126T124452Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Bilderbuchkino für Familien
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Bilderbuchkino-
+ f%C3%BCr-Familien.php?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.877
+ .1&amp\;NavID=2713.9&amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\
+ ;max=9&amp\;k_sub=1
+END:VEVENT
+BEGIN:VEVENT
+UID:hennigsdorf-event-744@amtsfeed.de
+DTSTAMP:20261126T124452Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Tanztee 2026
+URL:https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tanztee-2026.ph
+ p?object=tx\,3590.4.1&amp\;ModID=11&amp\;FID=3590.744.1&amp\;NavID=2713.9
+ &amp\;kat%5B0%5D=1%2C2713.5&amp\;startkat=2713.5&amp\;max=9&amp\;k_sub=1
+END:VEVENT
 END:VCALENDAR

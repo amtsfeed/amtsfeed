@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T12:55:52.081Z",
+  "updatedAt": "2026-11-26T12:44:52.029Z",
   "items": [
     {
       "id": "hennigsdorf-event-820",
@@ -525,6 +525,22 @@
       "startDate": "2026-12-05T00:00:00.000Z",
       "fetchedAt": "2026-11-23T12:55:52.089Z",
       "updatedAt": "2026-11-23T12:55:52.089Z"
+    },
+    {
+      "id": "hennigsdorf-event-877",
+      "title": "Bilderbuchkino für Familien",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Bilderbuchkino-f%C3%BCr-Familien.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.877.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-12-08T00:00:00.000Z",
+      "fetchedAt": "2026-11-26T12:44:52.036Z",
+      "updatedAt": "2026-11-26T12:44:52.036Z"
+    },
+    {
+      "id": "hennigsdorf-event-744",
+      "title": "Tanztee 2026",
+      "url": "https://www.hennigsdorf.de/Stadtleben/Veranstaltungen/Tanztee-2026.php?object=tx,3590.4.1&amp;ModID=11&amp;FID=3590.744.1&amp;NavID=2713.9&amp;kat%5B0%5D=1%2C2713.5&amp;startkat=2713.5&amp;max=9&amp;k_sub=1",
+      "startDate": "2026-12-10T00:00:00.000Z",
+      "fetchedAt": "2026-11-26T12:44:52.036Z",
+      "updatedAt": "2026-11-26T12:44:52.036Z"
     }
   ]
 }

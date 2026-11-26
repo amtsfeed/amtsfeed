@@ -671,6 +671,15 @@ URL:https://www.amt-friesack.de/veranstaltungen/2841409/2026/11/19/kino-i
  m-gemeinderaum
 END:VEVENT
 BEGIN:VEVENT
+UID:amt-friesack-event-3015074-20261121@amtsfeed.de
+DTSTAMP:20261126T124113Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:18. Paulinenauer Weihnachtsmarkt
+URL:https://www.amt-friesack.de/veranstaltungen/3015074/2026/11/21/18.-pa
+ ulinenauer-weihnachtsmarkt
+END:VEVENT
+BEGIN:VEVENT
 UID:amt-friesack-event-2996027-20261123@amtsfeed.de
 DTSTAMP:20261103T105728Z
 DTSTART;VALUE=DATE:20261123
@@ -696,6 +705,15 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Weihnachtliches Konzert mit InMelody aus Rathenow in der Kirche
 URL:https://www.amt-friesack.de/veranstaltungen/2841413/2026/11/28/weihna
  chtliches-konzert-mit-inmelody-aus-rathenow-in-der-kirche
+END:VEVENT
+BEGIN:VEVENT
+UID:amt-friesack-event-3015075-20261128@amtsfeed.de
+DTSTAMP:20261126T124113Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:2.Wintermarkt am Dorfgemeinschaftshaus Senzke
+URL:https://www.amt-friesack.de/veranstaltungen/3015075/2026/11/28/2.wint
+ ermarkt-am-dorfgemeinschaftshaus-senzke
 END:VEVENT
 BEGIN:VEVENT
 UID:amt-friesack-event-2869081-20261205@amtsfeed.de

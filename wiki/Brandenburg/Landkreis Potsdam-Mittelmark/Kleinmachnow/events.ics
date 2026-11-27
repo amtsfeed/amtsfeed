@@ -1706,6 +1706,15 @@ URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  =3692.857.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
 END:VEVENT
 BEGIN:VEVENT
+UID:kleinmachnow-event-2501@amtsfeed.de
+DTSTAMP:20261127T123212Z
+DTSTART:20261203T103000Z
+SUMMARY:Gesprächskreis MS Teltow
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Gespr%C3%A4chskreis-MS-Teltow.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;
+ FID=3692.2501.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
 UID:kleinmachnow-event-2247@amtsfeed.de
 DTSTAMP:20261119T115035Z
 DTSTART:20261203T150000Z
@@ -1790,5 +1799,14 @@ SUMMARY:Kunstweihnachtsmarkt
 URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
  Kunstweihnachtsmarkt.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID=3692.
  2482.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
+END:VEVENT
+BEGIN:VEVENT
+UID:kleinmachnow-event-2420@amtsfeed.de
+DTSTAMP:20261127T123212Z
+DTSTART:20261208T160000Z
+SUMMARY:Bilderbuchkino im Dezember
+URL:https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/
+ Bilderbuchkino-im-Dezember.php?object=tx\,3692.4.1&amp\;ModID=11&amp\;FID
+ =3692.2420.1&amp\;NavID=3692.15&amp\;sfodddrt=1&amp\;sfort=1&amp\;bn=1
 END:VEVENT
 END:VCALENDAR

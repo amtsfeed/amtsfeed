@@ -492,12 +492,20 @@ URL:https://www.gemeinde-roederland.de/veranstaltungen/2979449/2026/12/31
  /silvesterfeier
 END:VEVENT
 BEGIN:VEVENT
+UID:3015293@amtsfeed.de
+DTSTAMP:20261127T122751Z
+DTSTART:20270110T170000Z
+SUMMARY:Neujahrskonzert - Capella Musica
+URL:https://www.gemeinde-roederland.de/veranstaltungen/3015293/2027/01/10
+ /neujahrskonzert-capella-musica
+END:VEVENT
+BEGIN:VEVENT
 UID:2968071@amtsfeed.de
-DTSTAMP:20261028T094424Z
+DTSTAMP:20261127T122751Z
 DTSTART:20270112T153000Z
-SUMMARY:Lesecaf&eacute\;
+SUMMARY:Neujahrscaf&eacute\;
 URL:https://www.gemeinde-roederland.de/veranstaltungen/2968071/2027/01/12
- /lesecafé
+ /neujahrscafé
 END:VEVENT
 BEGIN:VEVENT
 UID:2968085@amtsfeed.de

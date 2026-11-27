@@ -1490,15 +1490,6 @@ URL:https://www.calau.de/veranstaltungen/2976565/2026/11/24/blutspendeter
  min-des-drk
 END:VEVENT
 BEGIN:VEVENT
-UID:calau-event-2290342@amtsfeed.de
-DTSTAMP:20261125T130506Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:26.11.2026   Calauer Wochenmarkt
-URL:https://www.calau.de/veranstaltungen/2290342/2026/11/26/calauer-woche
- nmarkt
-END:VEVENT
-BEGIN:VEVENT
 UID:calau-event-2877138@amtsfeed.de
 DTSTAMP:20261122T113409Z
 DTSTART;VALUE=DATE:20261126
@@ -1536,37 +1527,38 @@ URL:https://www.calau.de/veranstaltungen/2822896/2026/11/27/guenther-hind
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-2952329@amtsfeed.de
-DTSTAMP:20261028T094941Z
+DTSTAMP:20261127T123116Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:Adriano Sack liest aus: "In die Sonne fliegen"
+SUMMARY:27.11.2026   Adriano Sack liest aus: "In die Sonne fliegen"
 URL:https://www.calau.de/veranstaltungen/2952329/2026/11/27/adriano-sack-
  liest-aus-in-die-sonne-fliegen
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-3001681@amtsfeed.de
-DTSTAMP:20261110T112239Z
+DTSTAMP:20261127T123116Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:"Gemeinsam statt einsam - Mittagessen kochen für Senioren"
+SUMMARY:27.11.2026   "Gemeinsam statt einsam - Mittagessen kochen für Se
+ nioren"
 URL:https://www.calau.de/veranstaltungen/3001681/2026/11/27/gemeinsam-sta
  tt-einsam-mittagessen-kochen-fuer-senioren
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-3001683@amtsfeed.de
-DTSTAMP:20261110T112239Z
+DTSTAMP:20261127T123116Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:Kreatives Töpfern im Advent
+SUMMARY:27.11.2026   Kreatives Töpfern im Advent
 URL:https://www.calau.de/veranstaltungen/3001683/2026/11/27/kreatives-toe
  pfern-im-advent
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-3010464@amtsfeed.de
-DTSTAMP:20261120T114757Z
+DTSTAMP:20261127T123116Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:Weihnachtsmarkt der Kita "Apfelblüte"
+SUMMARY:27.11.2026   Weihnachtsmarkt der Kita "Apfelblüte"
 URL:https://www.calau.de/veranstaltungen/3010464/2026/11/27/weihnachtsmar
  kt-der-kita-apfelbluete
 END:VEVENT
@@ -1634,6 +1626,15 @@ DTEND;VALUE=DATE:20261201
 SUMMARY:Kurs "Vertraue auf dich - du hast alles\, was du brauchst"
 URL:https://www.calau.de/veranstaltungen/3001692/2026/11/30/kurs-vertraue
  -auf-dich-du-hast-alles-was-du-brauchst
+END:VEVENT
+BEGIN:VEVENT
+UID:calau-event-2290342@amtsfeed.de
+DTSTAMP:20261127T123116Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Calauer Wochenmarkt
+URL:https://www.calau.de/veranstaltungen/2290342/2026/12/01/calauer-woche
+ nmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:calau-event-1906922@amtsfeed.de

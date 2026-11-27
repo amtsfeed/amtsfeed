@@ -1242,6 +1242,15 @@ URL:https://www.grossraeschen.de/veranstaltungen/2957483/2026/12/13/stern
  enfest
 END:VEVENT
 BEGIN:VEVENT
+UID:grossraeschen-event-3015768@amtsfeed.de
+DTSTAMP:20261127T123117Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:gesund und vital
+URL:https://www.grossraeschen.de/veranstaltungen/3015768/2026/12/14/gesun
+ d-und-vital
+END:VEVENT
+BEGIN:VEVENT
 UID:grossraeschen-event-2980027@amtsfeed.de
 DTSTAMP:20261028T094942Z
 DTSTART;VALUE=DATE:20261216
@@ -1321,6 +1330,15 @@ DTEND;VALUE=DATE:20261222
 SUMMARY:WinterSonnenWendFeier in Dörrwalde
 URL:https://www.grossraeschen.de/veranstaltungen/2799783/2026/12/21/winte
  rsonnenwendfeier-in-doerrwalde
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-3015769@amtsfeed.de
+DTSTAMP:20261127T123117Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:gesund und vital
+URL:https://www.grossraeschen.de/veranstaltungen/3015769/2026/12/21/gesun
+ d-und-vital
 END:VEVENT
 BEGIN:VEVENT
 UID:grossraeschen-event-2790925@amtsfeed.de
@@ -1564,5 +1582,23 @@ DTEND;VALUE=DATE:20271108
 SUMMARY:12. Ritter-Wormlitz-Lauf
 URL:https://www.grossraeschen.de/veranstaltungen/2614080/2027/11/07/12.-r
  itter-wormlitz-lauf
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975911@amtsfeed.de
+DTSTAMP:20261127T123117Z
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+SUMMARY:Freienhufener Adventssingen
+URL:https://www.grossraeschen.de/veranstaltungen/2975911/2027/11/27/freie
+ nhufener-adventssingen
+END:VEVENT
+BEGIN:VEVENT
+UID:grossraeschen-event-2975838@amtsfeed.de
+DTSTAMP:20261127T123117Z
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+SUMMARY:Weihnachtstreiben
+URL:https://www.grossraeschen.de/veranstaltungen/2975838/2027/11/27/weihn
+ achtstreiben
 END:VEVENT
 END:VCALENDAR

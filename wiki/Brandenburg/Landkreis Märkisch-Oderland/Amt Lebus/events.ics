@@ -1500,17 +1500,6 @@ DESCRIPTION:Vortrag mit Dr. med. Ute Krüger
 LOCATION:Bibliothek Zeschdorf
 END:VEVENT
 BEGIN:VEVENT
-UID:2538590@amtsfeed.de
-DTSTAMP:20261120T114654Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Tischtennis
-URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/11/26/tischtenn
- is
-DESCRIPTION:Mehrzweckhalle Podelzig
-LOCATION:Podelzig
-END:VEVENT
-BEGIN:VEVENT
 UID:2464906@amtsfeed.de
 DTSTAMP:20261121T111047Z
 DTSTART;VALUE=DATE:20261127
@@ -1731,6 +1720,17 @@ DESCRIPTION:Ansprechpartner    Frau Gudrun Garschhammer    Tel. 03360
 LOCATION:Frankfurter Hütte    Bergstraße 166\, 15230 Frankfurt (Oder)
 END:VEVENT
 BEGIN:VEVENT
+UID:2538590@amtsfeed.de
+DTSTAMP:20261127T122959Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Tischtennis
+URL:https://www.amt-lebus.de/veranstaltungen/2538590/2026/12/03/tischtenn
+ is
+DESCRIPTION:Mehrzweckhalle Podelzig
+LOCATION:Podelzig
+END:VEVENT
+BEGIN:VEVENT
 UID:2996286@amtsfeed.de
 DTSTAMP:20261103T105945Z
 DTSTART;VALUE=DATE:20261204
@@ -1839,12 +1839,12 @@ LOCATION:Mallnow
 END:VEVENT
 BEGIN:VEVENT
 UID:3006850@amtsfeed.de
-DTSTAMP:20261117T120001Z
+DTSTAMP:20261127T122959Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Weihnachzsmarkt der Burg Schle Lebus
-URL:https://www.amt-lebus.de/veranstaltungen/3006850/2026/12/09/weihnachz
- smarkt-der-burg-schle-lebus
+SUMMARY:Weihnachtsmarkt der Burgschule Lebus
+URL:https://www.amt-lebus.de/veranstaltungen/3006850/2026/12/09/weihnacht
+ smarkt-der-burgschule-lebus
 LOCATION:Burgschule Verlässliche Halbtagsgrundschule Lebus
 END:VEVENT
 BEGIN:VEVENT
@@ -1869,11 +1869,11 @@ LOCATION:Gemeinde Reitwein
 END:VEVENT
 BEGIN:VEVENT
 UID:2993163@amtsfeed.de
-DTSTAMP:20261030T100902Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
+DTSTAMP:20261127T122959Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
 SUMMARY:3. Podelziger Weihnachtssingen
-URL:https://www.amt-lebus.de/veranstaltungen/2993163/2026/12/12/3.-podelz
+URL:https://www.amt-lebus.de/veranstaltungen/2993163/2026/12/11/3.-podelz
  iger-weihnachtssingen
 DESCRIPTION:Weihnachtssingen für Groß und Klein - Die SV-Bande und Geme
  inde lädt zu einem gemeinsamen vorweihnachtlichen Singen ein.

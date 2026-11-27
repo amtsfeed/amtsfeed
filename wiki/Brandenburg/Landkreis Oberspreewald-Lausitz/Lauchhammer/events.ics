@@ -532,15 +532,6 @@ URL:https://www.lauchhammer.de/veranstaltungen/3001763/2026/11/25/ausgebu
  -tag-gegen-gewalt-an-frauen
 END:VEVENT
 BEGIN:VEVENT
-UID:lauchhammer-event-2124494@amtsfeed.de
-DTSTAMP:20261120T114759Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Behinderten- und Seniorenberatung
-URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/11/26/behinde
- rten-und-seniorenberatung
-END:VEVENT
-BEGIN:VEVENT
 UID:lauchhammer-event-2918359@amtsfeed.de
 DTSTAMP:20261031T094645Z
 DTSTART;VALUE=DATE:20261127
@@ -604,6 +595,15 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Wiener Operetten Weihnacht
 URL:https://www.lauchhammer.de/veranstaltungen/2968413/2026/12/02/wiener-
  operetten-weihnacht
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-2124494@amtsfeed.de
+DTSTAMP:20261127T123118Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Behinderten- und Seniorenberatung
+URL:https://www.lauchhammer.de/veranstaltungen/2124494/2026/12/03/behinde
+ rten-und-seniorenberatung
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2918357@amtsfeed.de
@@ -685,6 +685,15 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Zauberhafte Weihnacht mit den Spielbergs
 URL:https://www.lauchhammer.de/veranstaltungen/3006946/2026/12/09/zauberh
  afte-weihnacht-mit-den-spielbergs
+END:VEVENT
+BEGIN:VEVENT
+UID:lauchhammer-event-3015357@amtsfeed.de
+DTSTAMP:20261127T123118Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Blutspende-Aktion im Dezember
+URL:https://www.lauchhammer.de/veranstaltungen/3015357/2026/12/09/blutspe
+ nde-aktion-im-dezember
 END:VEVENT
 BEGIN:VEVENT
 UID:lauchhammer-event-2873286@amtsfeed.de

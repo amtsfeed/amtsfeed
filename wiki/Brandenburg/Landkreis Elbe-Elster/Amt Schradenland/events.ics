@@ -1150,15 +1150,6 @@ URL:https://www.amt-schradenland.de/veranstaltungen/2996802/2026/11/25/se
  niorennachmittag-gemeinsam-statt-einsam-in-groeden
 END:VEVENT
 BEGIN:VEVENT
-UID:2897451@amtsfeed.de
-DTSTAMP:20261120T114524Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Krabbelgruppe Kita Gröden
-URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/11/26/kr
- abbelgruppe-kita-groeden
-END:VEVENT
-BEGIN:VEVENT
 UID:2829702@amtsfeed.de
 DTSTAMP:20261028T094412Z
 DTSTART;VALUE=DATE:20261126
@@ -1292,6 +1283,15 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Weihnachtsfeier Seniorenverein
 URL:https://www.amt-schradenland.de/veranstaltungen/2829993/2026/12/02/we
  ihnachtsfeier-seniorenverein
+END:VEVENT
+BEGIN:VEVENT
+UID:2897451@amtsfeed.de
+DTSTAMP:20261127T122744Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Krabbelgruppe Kita Gröden
+URL:https://www.amt-schradenland.de/veranstaltungen/2897451/2026/12/03/kr
+ abbelgruppe-kita-groeden
 END:VEVENT
 BEGIN:VEVENT
 UID:3001910@amtsfeed.de

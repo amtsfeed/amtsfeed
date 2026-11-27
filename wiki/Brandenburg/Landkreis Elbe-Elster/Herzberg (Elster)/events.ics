@@ -788,14 +788,6 @@ URL:https://www.herzberg-elster.de/veranstaltungen/2999189/2027/01/03/org
  elmusik-im-kerzenschein
 END:VEVENT
 BEGIN:VEVENT
-UID:2331050@amtsfeed.de
-DTSTAMP:20261120T114530Z
-DTSTART:20271120T063000Z
-SUMMARY:Wochenmarkt
-URL:https://www.herzberg-elster.de/veranstaltungen/2331050/2027/11/20/woc
- henmarkt
-END:VEVENT
-BEGIN:VEVENT
 UID:2477269@amtsfeed.de
 DTSTAMP:20261124T134844Z
 DTSTART:20271124T100000Z
@@ -817,6 +809,14 @@ DTSTAMP:20261125T130058Z
 DTSTART:20271125T060000Z
 SUMMARY:Wochenmarkt
 URL:https://www.herzberg-elster.de/veranstaltungen/2331049/2027/11/25/woc
+ henmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:2331050@amtsfeed.de
+DTSTAMP:20261127T122750Z
+DTSTART:20271127T063000Z
+SUMMARY:Wochenmarkt
+URL:https://www.herzberg-elster.de/veranstaltungen/2331050/2027/11/27/woc
  henmarkt
 END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:06:19.446Z",
+  "updatedAt": "2026-11-27T12:32:12.857Z",
   "items": [
     {
       "id": "kleinmachnow-event-2016",
@@ -1378,6 +1378,14 @@
       "updatedAt": "2026-11-18T11:53:12.209Z"
     },
     {
+      "id": "kleinmachnow-event-2501",
+      "title": "Gesprächskreis MS Teltow",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Gespr%C3%A4chskreis-MS-Teltow.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2501.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-12-03T10:30:00.000Z",
+      "fetchedAt": "2026-11-27T12:32:12.856Z",
+      "updatedAt": "2026-11-27T12:32:12.856Z"
+    },
+    {
       "id": "kleinmachnow-event-2247",
       "title": "Offenes Caf&eacute;",
       "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Offenes-Caf%C3%A9.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2247.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
@@ -1448,6 +1456,14 @@
       "startDate": "2026-12-06T14:00:00.000Z",
       "fetchedAt": "2026-11-25T13:06:19.445Z",
       "updatedAt": "2026-11-25T13:06:19.445Z"
+    },
+    {
+      "id": "kleinmachnow-event-2420",
+      "title": "Bilderbuchkino im Dezember",
+      "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Veranstaltungen/Bilderbuchkino-im-Dezember.php?object=tx,3692.4.1&amp;ModID=11&amp;FID=3692.2420.1&amp;NavID=3692.15&amp;sfodddrt=1&amp;sfort=1&amp;bn=1",
+      "startDate": "2026-12-08T16:00:00.000Z",
+      "fetchedAt": "2026-11-27T12:32:12.856Z",
+      "updatedAt": "2026-11-27T12:32:12.856Z"
     }
   ]
 }

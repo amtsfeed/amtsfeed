@@ -1256,15 +1256,6 @@ URL:https://www.oberkraemer.de/veranstaltungen/2999605/2026/11/25/dialoga
  bend-gegen-gewalt-an-frauen
 END:VEVENT
 BEGIN:VEVENT
-UID:oberkraemer-event-2855733@amtsfeed.de
-DTSTAMP:20261120T114748Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Nordic-Walking in Vehlefanz
-URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/11/26/nordic-
- walking-in-vehlefanz
-END:VEVENT
-BEGIN:VEVENT
 UID:oberkraemer-event-2855745@amtsfeed.de
 DTSTAMP:20261121T111152Z
 DTSTART;VALUE=DATE:20261127
@@ -1507,6 +1498,15 @@ URL:https://www.oberkraemer.de/veranstaltungen/2935373/2026/12/02/gong-ab
  end
 END:VEVENT
 BEGIN:VEVENT
+UID:oberkraemer-event-2855733@amtsfeed.de
+DTSTAMP:20261127T123102Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Nordic-Walking in Vehlefanz
+URL:https://www.oberkraemer.de/veranstaltungen/2855733/2026/12/03/nordic-
+ walking-in-vehlefanz
+END:VEVENT
+BEGIN:VEVENT
 UID:oberkraemer-event-2855707@amtsfeed.de
 DTSTAMP:20261106T110127Z
 DTSTART;VALUE=DATE:20261203
@@ -1726,12 +1726,12 @@ URL:https://www.oberkraemer.de/veranstaltungen/2977679/2026/12/10/traditi
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2891499@amtsfeed.de
-DTSTAMP:20261119T114911Z
+DTSTAMP:20261127T123102Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:Weihnachtssingen Ditha Buß sowie Chorsängerinnen und -sängern
+SUMMARY:Weihnachtssingen mit Ditha Buß
 URL:https://www.oberkraemer.de/veranstaltungen/2891499/2026/12/11/weihnac
- htssingen-ditha-buss-sowie-chorsaengerinnen-und-saengern
+ htssingen-mit-ditha-buss
 END:VEVENT
 BEGIN:VEVENT
 UID:oberkraemer-event-2855661@amtsfeed.de

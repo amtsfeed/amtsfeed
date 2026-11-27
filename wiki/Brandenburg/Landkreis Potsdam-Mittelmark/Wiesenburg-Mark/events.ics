@@ -1328,33 +1328,6 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2929249/2026/11/23/soun
  d-bath-tu-dir-etwas-gutes
 END:VEVENT
 BEGIN:VEVENT
-UID:wiesenburg-mark-event-2424341@amtsfeed.de
-DTSTAMP:20261120T114913Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/11/26/fami
- liensprechzeiten-elternberatung-im-familienzentrum
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2907844@amtsfeed.de
-DTSTAMP:20261120T114913Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Migrationsberatung im Familienzentrum
-URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/11/26/migr
- ationsberatung-im-familienzentrum
-END:VEVENT
-BEGIN:VEVENT
-UID:wiesenburg-mark-event-2890181@amtsfeed.de
-DTSTAMP:20261030T101246Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Familiencaf&eacute\; mit Spaß\, Kreativität  Bewegung
-URL:https://www.wiesenburgmark.de/veranstaltungen/2890181/2026/11/26/fami
- liencafé-mit-spass-kreativitaet-bewegung
-END:VEVENT
-BEGIN:VEVENT
 UID:wiesenburg-mark-event-2384489@amtsfeed.de
 DTSTAMP:20261121T111356Z
 DTSTART;VALUE=DATE:20261127
@@ -1502,6 +1475,24 @@ URL:https://www.wiesenburgmark.de/veranstaltungen/2907840/2026/12/02/drk-
  spielrunde-kaffee-und-kartenspiel-fuer-senior-innen
 END:VEVENT
 BEGIN:VEVENT
+UID:wiesenburg-mark-event-2424341@amtsfeed.de
+DTSTAMP:20261127T123228Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Familiensprechzeiten / Elternberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2424341/2026/12/03/fami
+ liensprechzeiten-elternberatung-im-familienzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2907844@amtsfeed.de
+DTSTAMP:20261127T123228Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Migrationsberatung im Familienzentrum
+URL:https://www.wiesenburgmark.de/veranstaltungen/2907844/2026/12/03/migr
+ ationsberatung-im-familienzentrum
+END:VEVENT
+BEGIN:VEVENT
 UID:wiesenburg-mark-event-2907847@amtsfeed.de
 DTSTAMP:20261120T114913Z
 DTSTART;VALUE=DATE:20261203
@@ -1582,6 +1573,16 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Görzker Weihnachtsmarkt
 URL:https://www.wiesenburgmark.de/veranstaltungen/2996694/2026/12/05/goer
  zker-weihnachtsmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-3015395@amtsfeed.de
+DTSTAMP:20261127T123228Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Mit der Schmalspurbahn zum Nikolaus 2026 im Bahnhof Magdeburgerfo
+ rth
+URL:https://www.wiesenburgmark.de/veranstaltungen/3015395/2026/12/05/mit-
+ der-schmalspurbahn-zum-nikolaus-2026-im-bahnhof-magdeburgerforth
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2928758@amtsfeed.de
@@ -1665,6 +1666,15 @@ DTEND;VALUE=DATE:20261220
 SUMMARY:2. Adventsmarkt
 URL:https://www.wiesenburgmark.de/veranstaltungen/3007298/2026/12/19/2.-a
  dventsmarkt
+END:VEVENT
+BEGIN:VEVENT
+UID:wiesenburg-mark-event-2890181@amtsfeed.de
+DTSTAMP:20261127T123228Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Familiencaf&eacute\; mit Spaß\, Kreativität  Bewegung
+URL:https://www.wiesenburgmark.de/veranstaltungen/2890181/2027/01/28/fami
+ liencafé-mit-spass-kreativitaet-bewegung
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesenburg-mark-event-2948598@amtsfeed.de

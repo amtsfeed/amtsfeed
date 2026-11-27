@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T12:56:27.056Z",
+  "updatedAt": "2026-11-27T12:31:17.476Z",
   "items": [
     {
       "id": "grossraeschen-event-2791019",
@@ -1090,6 +1090,14 @@
       "updatedAt": "2026-10-28T09:49:42.589Z"
     },
     {
+      "id": "grossraeschen-event-3015768",
+      "title": "gesund und vital",
+      "url": "https://www.grossraeschen.de/veranstaltungen/3015768/2026/12/14/gesund-und-vital",
+      "startDate": "2026-12-14T00:00:00.000Z",
+      "fetchedAt": "2026-11-27T12:31:17.468Z",
+      "updatedAt": "2026-11-27T12:31:17.468Z"
+    },
+    {
       "id": "grossraeschen-event-2980027",
       "title": "Weihnachtskonzert",
       "url": "https://www.grossraeschen.de/veranstaltungen/2980027/2026/12/16/weihnachtskonzert",
@@ -1160,6 +1168,14 @@
       "startDate": "2026-12-21T00:00:00.000Z",
       "fetchedAt": "2026-05-31T17:26:32.585Z",
       "updatedAt": "2026-10-28T09:49:42.589Z"
+    },
+    {
+      "id": "grossraeschen-event-3015769",
+      "title": "gesund und vital",
+      "url": "https://www.grossraeschen.de/veranstaltungen/3015769/2026/12/21/gesund-und-vital",
+      "startDate": "2026-12-21T00:00:00.000Z",
+      "fetchedAt": "2026-11-27T12:31:17.468Z",
+      "updatedAt": "2026-11-27T12:31:17.468Z"
     },
     {
       "id": "grossraeschen-event-2790925",
@@ -1376,6 +1392,22 @@
       "startDate": "2027-11-07T00:00:00.000Z",
       "fetchedAt": "2026-11-07T10:21:57.333Z",
       "updatedAt": "2026-11-07T10:21:57.333Z"
+    },
+    {
+      "id": "grossraeschen-event-2975911",
+      "title": "Freienhufener Adventssingen",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2975911/2027/11/27/freienhufener-adventssingen",
+      "startDate": "2027-11-27T00:00:00.000Z",
+      "fetchedAt": "2026-11-27T12:31:17.468Z",
+      "updatedAt": "2026-11-27T12:31:17.468Z"
+    },
+    {
+      "id": "grossraeschen-event-2975838",
+      "title": "Weihnachtstreiben",
+      "url": "https://www.grossraeschen.de/veranstaltungen/2975838/2027/11/27/weihnachtstreiben",
+      "startDate": "2027-11-27T00:00:00.000Z",
+      "fetchedAt": "2026-11-27T12:31:17.468Z",
+      "updatedAt": "2026-11-27T12:31:17.468Z"
     }
   ]
 }

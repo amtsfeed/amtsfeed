@@ -10534,6 +10534,16 @@ URL:https://www.osl-online.de/veranstaltungen/2853242/2026/12/11/adventca
 LOCATION:Gemeinde Schipkau
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-osl-event-3015503-20261211@amtsfeed.de
+DTSTAMP:20261127T123127Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Weihnachtliche Fenster für die Bibliothek
+URL:https://www.osl-online.de/veranstaltungen/3015503/2026/12/11/weihnach
+ tliche-fenster-fuer-die-bibliothek
+LOCATION:Gemeinde Schipkau
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-osl-event-3006503-20261211@amtsfeed.de
 DTSTAMP:20261116T113056Z
 DTSTART:20261211T100000Z
@@ -10669,6 +10679,16 @@ SUMMARY:Medusa. Nachdenken mit Christa Wolf
 URL:https://www.osl-online.de/veranstaltungen/3002662/2026/12/13/medusa.-
  nachdenken-mit-christa-wolf
 LOCATION:Theater Neue Bühne Senftenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-3015768-20261214@amtsfeed.de
+DTSTAMP:20261127T123127Z
+DTSTART:20261214T093000Z
+DTEND:20261214T103000Z
+SUMMARY:gesund und vital
+URL:https://www.osl-online.de/veranstaltungen/3015768/2026/12/14/gesund-u
+ nd-vital
+LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2124462-20261214@amtsfeed.de
@@ -11025,6 +11045,16 @@ SUMMARY:Teamtag "Eigenständig werden"
 URL:https://www.osl-online.de/veranstaltungen/2972532/2026/12/21/teamtag-
  eigenstaendig-werden
 LOCATION:Grundschule Guteborn
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-3015769-20261221@amtsfeed.de
+DTSTAMP:20261127T123127Z
+DTSTART:20261221T093000Z
+DTEND:20261221T103000Z
+SUMMARY:gesund und vital
+URL:https://www.osl-online.de/veranstaltungen/3015769/2026/12/21/gesund-u
+ nd-vital
+LOCATION:Quartierstreff
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-osl-event-2124462-20261221@amtsfeed.de
@@ -16447,5 +16477,25 @@ SUMMARY:Gruppentreffen Selbsthilfegruppe Multiple Sklerose
 URL:https://www.osl-online.de/veranstaltungen/2918359/2027/11/26/gruppent
  reffen-selbsthilfegruppe-multiple-sklerose
 LOCATION:REKOSI
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2975911-20271127@amtsfeed.de
+DTSTAMP:20261127T123127Z
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+SUMMARY:Freienhufener Adventssingen
+URL:https://www.osl-online.de/veranstaltungen/2975911/2027/11/27/freienhu
+ fener-adventssingen
+LOCATION:Freienhufen
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-osl-event-2975838-20271127@amtsfeed.de
+DTSTAMP:20261127T123127Z
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+SUMMARY:Weihnachtstreiben
+URL:https://www.osl-online.de/veranstaltungen/2975838/2027/11/27/weihnach
+ tstreiben
+LOCATION:Saalhausen
 END:VEVENT
 END:VCALENDAR

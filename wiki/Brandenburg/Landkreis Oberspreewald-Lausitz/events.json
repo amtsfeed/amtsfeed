@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T12:45:37.195Z",
+  "updatedAt": "2026-11-27T12:31:27.853Z",
   "items": [
     {
       "id": "lk-osl-event-3005612-20260101",
@@ -10262,6 +10262,15 @@
       "updatedAt": "2026-10-28T09:50:01.013Z"
     },
     {
+      "id": "lk-osl-event-3015503-20261211",
+      "title": "Weihnachtliche Fenster für die Bibliothek",
+      "url": "https://www.osl-online.de/veranstaltungen/3015503/2026/12/11/weihnachtliche-fenster-fuer-die-bibliothek",
+      "startDate": "2026-12-11T00:00:00.000Z",
+      "location": "Gemeinde Schipkau",
+      "fetchedAt": "2026-11-27T12:31:27.884Z",
+      "updatedAt": "2026-11-27T12:31:27.884Z"
+    },
+    {
       "id": "lk-osl-event-3006503-20261211",
       "title": "Erdgastrasse \"Дружба\"  - Bilder von Hans-Jürgen Horn",
       "url": "https://www.osl-online.de/veranstaltungen/3006503/2026/12/11/erdgastrasse-дружба-bilder-von-hans-juergen-horn",
@@ -10395,6 +10404,16 @@
       "location": "Theater Neue Bühne Senftenberg",
       "fetchedAt": "2026-11-11T11:08:42.915Z",
       "updatedAt": "2026-11-11T11:08:42.915Z"
+    },
+    {
+      "id": "lk-osl-event-3015768-20261214",
+      "title": "gesund und vital",
+      "url": "https://www.osl-online.de/veranstaltungen/3015768/2026/12/14/gesund-und-vital",
+      "startDate": "2026-12-14T09:30:00.000Z",
+      "endDate": "2026-12-14T10:30:00.000Z",
+      "location": "Quartierstreff",
+      "fetchedAt": "2026-11-27T12:31:27.884Z",
+      "updatedAt": "2026-11-27T12:31:27.884Z"
     },
     {
       "id": "lk-osl-event-2124462-20261214",
@@ -10745,6 +10764,16 @@
       "location": "Grundschule Guteborn",
       "fetchedAt": "2026-09-23T08:46:09.190Z",
       "updatedAt": "2026-10-28T09:50:01.013Z"
+    },
+    {
+      "id": "lk-osl-event-3015769-20261221",
+      "title": "gesund und vital",
+      "url": "https://www.osl-online.de/veranstaltungen/3015769/2026/12/21/gesund-und-vital",
+      "startDate": "2026-12-21T09:30:00.000Z",
+      "endDate": "2026-12-21T10:30:00.000Z",
+      "location": "Quartierstreff",
+      "fetchedAt": "2026-11-27T12:31:27.884Z",
+      "updatedAt": "2026-11-27T12:31:27.884Z"
     },
     {
       "id": "lk-osl-event-2124462-20261221",
@@ -16080,6 +16109,24 @@
       "location": "REKOSI",
       "fetchedAt": "2026-11-26T12:45:37.230Z",
       "updatedAt": "2026-11-26T12:45:37.230Z"
+    },
+    {
+      "id": "lk-osl-event-2975911-20271127",
+      "title": "Freienhufener Adventssingen",
+      "url": "https://www.osl-online.de/veranstaltungen/2975911/2027/11/27/freienhufener-adventssingen",
+      "startDate": "2027-11-27T00:00:00.000Z",
+      "location": "Freienhufen",
+      "fetchedAt": "2026-11-27T12:31:27.884Z",
+      "updatedAt": "2026-11-27T12:31:27.884Z"
+    },
+    {
+      "id": "lk-osl-event-2975838-20271127",
+      "title": "Weihnachtstreiben",
+      "url": "https://www.osl-online.de/veranstaltungen/2975838/2027/11/27/weihnachtstreiben",
+      "startDate": "2027-11-27T00:00:00.000Z",
+      "location": "Saalhausen",
+      "fetchedAt": "2026-11-27T12:31:27.884Z",
+      "updatedAt": "2026-11-27T12:31:27.884Z"
     }
   ]
 }

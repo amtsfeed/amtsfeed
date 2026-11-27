@@ -694,6 +694,16 @@ URL:https://www.rietz-neuendorf.de/Leben-Freizeit/Veranstaltungen/Verband
  D=3728.15&sfreg=1
 END:VEVENT
 BEGIN:VEVENT
+UID:rietz-neuendorf-event-3728-910-1@amtsfeed.de
+DTSTAMP:20261127T123150Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Mitgliederversammlung der Jagdgenoissenschaft Groß Rietz
+URL:https://www.rietz-neuendorf.de/Leben-Freizeit/Veranstaltungen/Mitglie
+ derversammlung-der-Jagdgenoissenschaft-Gro%C3%9F-Rietz.php?object=tx\,372
+ 8.4.1&ModID=11&FID=3728.910.1&NavID=3728.15&sfreg=1
+END:VEVENT
+BEGIN:VEVENT
 UID:rietz-neuendorf-event-3728-890-1@amtsfeed.de
 DTSTAMP:20261107T102302Z
 DTSTART;VALUE=DATE:20270201

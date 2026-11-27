@@ -1233,4 +1233,13 @@ SUMMARY:Fackelumzug in Stechow
 URL:https://www.amt-nennhausen.de/veranstaltungen/3014599/2027/11/12/fack
  elumzug-in-stechow
 END:VEVENT
+BEGIN:VEVENT
+UID:amt-nennhausen-event-3014600-20271127@amtsfeed.de
+DTSTAMP:20261127T122758Z
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+SUMMARY:Weihnachtsmarkt Feldscheune
+URL:https://www.amt-nennhausen.de/veranstaltungen/3014600/2027/11/27/weih
+ nachtsmarkt-feldscheune
+END:VEVENT
 END:VCALENDAR

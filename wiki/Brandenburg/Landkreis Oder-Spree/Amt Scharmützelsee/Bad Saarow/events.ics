@@ -1379,21 +1379,21 @@ URL:https://www.scharmuetzelsee.de/event/ausgebucht-workshop-winterzauber
  -aus-der-natur-kraenze-und-duftkissen
 END:VEVENT
 BEGIN:VEVENT
-UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
-DTSTAMP:20261126T124542Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
-URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
- ad-saarow
-END:VEVENT
-BEGIN:VEVENT
 UID:scharmuetzelsee-offener-meditationsabend@amtsfeed.de
 DTSTAMP:20261122T113432Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Offener Meditationsabend
 URL:https://www.scharmuetzelsee.de/event/offener-meditationsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:scharmuetzelsee-gluehweinsegeln-mit-skipper-ab-bad-saarow@amtsfeed.de
+DTSTAMP:20261127T123130Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Glühweinsegeln mit Skipper ab Bad Saarow
+URL:https://www.scharmuetzelsee.de/event/gluehweinsegeln-mit-skipper-ab-b
+ ad-saarow
 END:VEVENT
 BEGIN:VEVENT
 UID:scharmuetzelsee-wendisch-rietzer-kneipp-kids@amtsfeed.de

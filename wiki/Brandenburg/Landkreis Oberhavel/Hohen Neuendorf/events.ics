@@ -1149,6 +1149,16 @@ URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  schulte-popov-heimliche-aufforderung
 END:VEVENT
 BEGIN:VEVENT
+UID:hohen-neuendorf-event-abgesagt-schulte-popov-heimliche-aufforderung@a
+ mtsfeed.de
+DTSTAMP:20261127T123054Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:ABGESAGT: SCHULTE & POPOV - Heimliche Aufforderung
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ abgesagt-schulte-popov-heimliche-aufforderung
+END:VEVENT
+BEGIN:VEVENT
 UID:hohen-neuendorf-event-vernetzungstreffen-fur-alleinerziehende-und-ihr
  e-kinder-4@amtsfeed.de
 DTSTAMP:20261126T124456Z
@@ -1157,5 +1167,24 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Vernetzungstreffen für Alleinerziehende und ihre Kinder
 URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
  vernetzungstreffen-fur-alleinerziehende-und-ihre-kinder-4
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-weihnachtsmarkt-borgsdorf-1@amtsfeed.de
+DTSTAMP:20261127T123054Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Weihnachtsmarkt in Borgsdorf
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ weihnachtsmarkt-borgsdorf-1
+END:VEVENT
+BEGIN:VEVENT
+UID:hohen-neuendorf-event-hohen-neuendorfer-adventsmarkt-tag-1@amtsfeed.d
+ e
+DTSTAMP:20261127T123054Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Hohen Neuendorfer Adventsmarkt - Tag 1
+URL:https://www.hohen-neuendorf.de/de/stadt-leben/veranstaltungskalender/
+ hohen-neuendorfer-adventsmarkt-tag-1
 END:VEVENT
 END:VCALENDAR
